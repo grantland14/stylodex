@@ -13,6 +13,9 @@ site-wide; see `tasks/todo.md` for the plan and why.
   is a one-off copy. Supabase is server-side only (`SUPABASE_URL`, no `NEXT_PUBLIC_`), and images
   are served from `/img/` (the `stylodex-images` bucket), never from a raw storage URL. The gate
   enforces the image rule.
+- **Exposed API schemas are set on the database role, not the dashboard**
+  (`supabase/migrations/00002_expose_stylodex_schema.sql`). Any change must keep `public` and
+  `graphql_public` in the list, or Apart Style's API breaks.
 - **Similar brands must be real.** A pick renders only if `lib/gate.ts` passes it: both brands
   verified, same category, price label matches stored prices, outside evidence stored, one specific
   reason, checked within 90 days. Change the gate only with tests in `lib/gate.test.ts`.
