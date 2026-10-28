@@ -1,11 +1,12 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { notFound } from "next/navigation";
+import { notFound, permanentRedirect } from "next/navigation";
 import { cache } from "react";
 import { ArrowUpRight } from "@/components/ArrowUpRight";
 import { FIXTURE_MODE, getBrandsLikePage } from "@/lib/data";
 import { longDate, priceRange, shipsTo, sizes } from "@/lib/format";
 import { brandsLikeTitle, judgeBrandsLikePage, priceFor } from "@/lib/gate";
+import { alternativesPath } from "@/lib/paths";
 import type { BrandsLikePage, SimilarPick } from "@/lib/types";
 
 export const revalidate = 86400;
@@ -27,17 +28,17 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   return {
     title,
     description: `${verdict.picks.length} verified alternatives to ${page.anchor.name}, with ${page.category.name.toLowerCase()} prices, sizes and US shipping for each.`,
-    alternates: { canonical: `/brands-like-${page.anchor.slug}` },
+    alternates: { canonical: alternativesPath(page.urlPrefix, page.anchor.slug) },
     robots: verdict.indexable && !FIXTURE_MODE ? { index: true, follow: true } : { index: false, follow: true },
   };
 }
 
-function shopHref(pick: SimilarPick, anchorSlug: string): string {
-  return `/go/${pick.brand.slug}?from=${encodeURIComponent(`/brands-like-${anchorSlug}`)}`;
+function shopHref(pick: SimilarPick, page: BrandsLikePage): string {
+  return `/go/${pick.brand.slug}?from=${encodeURIComponent(alternativesPath(page.urlPrefix, page.anchor.slug))}`;
 }
 
 function jsonLd(page: BrandsLikePage, picks: SimilarPick[], title: string) {
-  const url = `${SITE}/brands-like-${page.anchor.slug}`;
+  const url = `${SITE}${alternativesPath(page.urlPrefix, page.anchor.slug)}`;
   const graph: object[] = [
     {
       "@type": "ItemList",
@@ -54,8 +55,7 @@ function jsonLd(page: BrandsLikePage, picks: SimilarPick[], title: string) {
       "@type": "BreadcrumbList",
       itemListElement: [
         { "@type": "ListItem", position: 1, name: "Stylodex", item: SITE },
-        { "@type": "ListItem", position: 2, name: page.anchor.name, item: `${SITE}/brands/${page.anchor.slug}` },
-        { "@type": "ListItem", position: 3, name: title, item: url },
+        { "@type": "ListItem", position: 2, name: title, item: url },
       ],
     },
   ];
@@ -68,10 +68,18 @@ function jsonLd(page: BrandsLikePage, picks: SimilarPick[], title: string) {
   return { "@context": "https://schema.org", "@graph": graph };
 }
 
-export default async function BrandsLikeArticle({ params }: { params: { slug: string } }) {
+export default async function AlternativesArticle({
+  params,
+  searchParams,
+}: {
+  params: { slug: string };
+  searchParams: { via?: string };
+}) {
   const loaded = await load(params.slug);
   if (!loaded || loaded.verdict.picks.length === 0) notFound();
   const { page, verdict } = loaded;
+  // One URL per subject: /brands-like-x and /stores-like-x can't both serve the same page.
+  if (searchParams.via !== page.urlPrefix) permanentRedirect(alternativesPath(page.urlPrefix, page.anchor.slug));
   const { picks } = verdict;
   const title = brandsLikeTitle(page, picks.length);
   const category = page.category.slug;
@@ -86,9 +94,13 @@ export default async function BrandsLikeArticle({ params }: { params: { slug: st
           Stylodex
         </Link>{" "}
         /{" "}
-        <Link href={`/brands/${page.anchor.slug}`} className="no-underline hover:underline">
-          {page.anchor.name}
-        </Link>{" "}
+        {page.anchor.status === "defunct" ? (
+          page.anchor.name
+        ) : (
+          <Link href={`/brands/${page.anchor.slug}`} className="no-underline hover:underline">
+            {page.anchor.name}
+          </Link>
+        )}{" "}
         / {page.category.name}
       </nav>
 
@@ -170,7 +182,7 @@ export default async function BrandsLikeArticle({ params }: { params: { slug: st
               </ul>
               <p className="mt-5 leading-relaxed">{pick.pair.body}</p>
               <div className="mt-6 flex flex-wrap gap-3">
-                <a href={shopHref(pick, page.anchor.slug)} rel="sponsored nofollow" className="btn-solid">
+                <a href={shopHref(pick, page)} rel="sponsored nofollow" className="btn-solid">
                   Shop {pick.brand.name} <ArrowUpRight />
                 </a>
                 <Link href={`/brands/${pick.brand.slug}`} className="btn-line">

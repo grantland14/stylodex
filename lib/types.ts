@@ -2,6 +2,9 @@ export type BrandStatus = "candidate" | "verified" | "off_category" | "defunct";
 export type PairStatus = "candidate" | "verified" | "rejected";
 export type PriceRelation = "cheaper" | "similar" | "pricier";
 export type EvidenceKind = "serp_comention" | "reddit" | "co_stocked" | "editorial";
+export type EntityKind = "brand" | "retailer" | "marketplace";
+/** Which phrasing a subject's page uses: /brands-like-x, /stores-like-x or /sites-like-x. One per subject. */
+export type UrlPrefix = "brands" | "stores" | "sites";
 
 export interface CategoryPrice {
   category: string;
@@ -15,6 +18,7 @@ export interface Brand {
   id: string;
   slug: string;
   name: string;
+  kind: EntityKind;
   websiteUrl: string | null;
   status: BrandStatus;
   knownFor: string | null;
@@ -63,6 +67,8 @@ export interface Faq {
 }
 
 export interface BrandsLikePage {
+  urlPrefix: UrlPrefix;
+  /** May be a closed store ("stores like Wet Seal"); every pick must still be live. */
   anchor: Brand;
   category: { slug: string; name: string };
   intro: string;

@@ -100,15 +100,17 @@ each subject's volume before it goes in a wave. Their shapes: `stores-like-X` (1
 | Not shopping (YouTube, Photobucket) | 3 | 11 | — |
 
 What this adds to the build:
-- [ ] **`/stores-like-[slug]`** alongside `/brands-like-[slug]`: same article template, one URL per
+- [x] **Scope (Ash, 2026-10-28): fashion, department stores and beauty only.** Enforced by
+      `categories.vertical IN ('fashion','beauty')`. Home, discount, hardware, electronics, grocery
+      and non-shopping subjects are out.
+- [x] **`/stores-like-[slug]`** alongside `/brands-like-[slug]`: same article template, one URL per
       subject, prefix chosen by which phrasing has more volume. Add an entity kind (brand / retailer /
       marketplace) to `stylodex.brands`.
-- [ ] **Closed anchors are allowed.** "Stores like Wet Seal / Payless / Charming Charlie / Pier 1" are
+- [x] **Closed anchors are allowed.** "Stores like Wet Seal / Payless / Charming Charlie / Pier 1" are
       replacement searches. The anchor can be `defunct` (the intro says so); every *pick* must still
       be live. Gate change plus tests.
 - [ ] Add the 25 fashion/department subjects missing from the seed (Francesca's, Macy's, Marshalls,
       Dillard's, Buckle, Foot Locker…) after checking their slugs.
-- [ ] Scope decision on the non-fashion buckets (see open questions).
 
 ## Design direction
 
@@ -190,8 +192,6 @@ in this repo.
 ## Open questions
 
 1. Full pipeline for which pages: the first ~20, wave 1, or every page?
-2. Similist's non-fashion subjects (home, beauty, discount, hardware, electronics, grocery): in
-   scope for Stylodex, or fashion and department stores only?
 
 ## Review
 

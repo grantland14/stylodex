@@ -9,6 +9,7 @@ const CHECKED = "2026-10-01T00:00:00Z";
 export function fixtureBrand(overrides: Partial<Brand> & Pick<Brand, "slug" | "name">): Brand {
   return {
     id: `fixture-${overrides.slug}`,
+    kind: "brand",
     websiteUrl: `https://${overrides.slug}.example.com`,
     status: "verified",
     knownFor: "Durable, Everyday Denim",
@@ -51,6 +52,7 @@ export function fixturePick(slug: string, name: string, rank: number, overrides:
 export function fixturePage(): BrandsLikePage {
   const names = ["Example Selvedge", "Example Workwear", "Example Loom", "Example Rivet", "Example Indigo", "Example Raw", "Example Twill"];
   return {
+    urlPrefix: "brands",
     anchor: fixtureBrand({ slug: "example-denim-co", name: "Example Denim Co" }),
     category: { slug: "denim", name: "Denim" },
     intro: "Placeholder intro. On the live site this says what people go to the anchor brand for, and what the list matches on.",
@@ -59,5 +61,28 @@ export function fixturePage(): BrandsLikePage {
     humanEdited: false,
     checkedAt: CHECKED,
     picks: names.map((name, i) => fixturePick(name.toLowerCase().replace(/\s+/g, "-"), name, i + 1)),
+  };
+}
+
+/** A closed store as the subject: no live facts of its own, picks carry no price label. */
+export function fixtureClosedStorePage(): BrandsLikePage {
+  const page = fixturePage();
+  return {
+    ...page,
+    urlPrefix: "stores",
+    anchor: fixtureBrand({
+      slug: "example-closed-store",
+      name: "Example Closed Store",
+      kind: "retailer",
+      status: "defunct",
+      knownFor: "Affordable Going-Out Denim",
+      websiteUrl: null,
+      sizeRange: null,
+      shipsTo: [],
+      returnsDays: null,
+      prices: [],
+    }),
+    intro: "Placeholder intro. On the live site this says when the store closed and what its shoppers went there for.",
+    picks: page.picks.map((pick) => ({ ...pick, pair: { ...pick.pair, priceRelation: null } })),
   };
 }

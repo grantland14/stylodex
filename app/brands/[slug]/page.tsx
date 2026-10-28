@@ -2,9 +2,10 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { cache } from "react";
 import { ArrowUpRight } from "@/components/ArrowUpRight";
-import { FIXTURE_MODE, getBrand } from "@/lib/data";
+import { FIXTURE_MODE, getAlternativesPrefix, getBrand } from "@/lib/data";
 import { priceRange, shipsTo, sizes, usd } from "@/lib/format";
 import { missingBrandFacts } from "@/lib/gate";
+import { alternativesPath } from "@/lib/paths";
 import type { Brand } from "@/lib/types";
 
 export const revalidate = 86400;
@@ -45,6 +46,9 @@ export default async function BrandProfile({ params }: { params: { slug: string 
     ["Sales", brand.salePattern],
   ];
 
+  // Link to the alternatives page only if one exists, never to a 404.
+  const prefix = await getAlternativesPrefix(brand.slug);
+  const alternatives = prefix ? alternativesPath(prefix, brand.slug) : null;
   const host = brand.websiteUrl ? new URL(brand.websiteUrl).hostname.replace(/^www\./, "") : null;
 
   return (
@@ -68,9 +72,11 @@ export default async function BrandProfile({ params }: { params: { slug: string 
             </a>
           )}
           <div className="mt-6 grid grid-cols-2 gap-3 sm:flex">
-            <a href={`/brands-like-${brand.slug}`} className="btn-line">
-              Brands like {brand.name}
-            </a>
+            {alternatives && (
+              <a href={alternatives} className="btn-line">
+                Alternatives to {brand.name}
+              </a>
+            )}
             <a href={`/go/${brand.slug}?from=${encodeURIComponent(`/brands/${brand.slug}`)}`} rel="sponsored nofollow" className="btn-solid">
               Shop <ArrowUpRight />
             </a>
@@ -80,9 +86,11 @@ export default async function BrandProfile({ params }: { params: { slug: string 
 
       <nav className="mt-12 flex gap-8 border-b border-rule text-sm" aria-label="Sections">
         <span className="-mb-px border-b-2 border-ink pb-3 font-medium text-ink">Overview</span>
-        <a href={`/brands-like-${brand.slug}`} className="pb-3 text-muted no-underline hover:text-ink">
-          Alternatives
-        </a>
+        {alternatives && (
+          <a href={alternatives} className="pb-3 text-muted no-underline hover:text-ink">
+            Alternatives
+          </a>
+        )}
       </nav>
 
       <dl className="mt-2 text-sm">

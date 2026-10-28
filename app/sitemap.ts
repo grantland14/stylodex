@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getBrandsLikePage, listBrandsLikeSlugs } from "@/lib/data";
 import { judgeBrandsLikePage } from "@/lib/gate";
+import { alternativesPath } from "@/lib/paths";
 
 export const revalidate = 86400;
 
@@ -14,7 +15,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   for (const slug of await listBrandsLikeSlugs()) {
     const page = await getBrandsLikePage(slug);
     if (page && judgeBrandsLikePage(page).indexable) {
-      entries.push({ url: `${SITE}/brands-like-${slug}`, lastModified: page.checkedAt });
+      entries.push({ url: `${SITE}${alternativesPath(page.urlPrefix, slug)}`, lastModified: page.checkedAt });
     }
   }
   return entries;

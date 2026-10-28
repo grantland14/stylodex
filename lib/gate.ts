@@ -31,6 +31,19 @@ export function missingBrandFacts(brand: Brand, category: string): string[] {
   return missing;
 }
 
+/**
+ * Facts the page's subject needs. A closed store can anchor a page ("stores like
+ * Payless" is a replacement search), so a defunct anchor needs only what the
+ * intro and title use; it has no live prices, sizes or shipping to show.
+ */
+export function missingAnchorFacts(anchor: Brand, category: string): string[] {
+  if (anchor.status !== "defunct") return missingBrandFacts(anchor, category);
+  const missing: string[] = [];
+  if (!anchor.knownFor) missing.push("knownFor");
+  if (anchor.imageUrl && !anchor.imageUrl.startsWith("/img/")) missing.push("imageUrl");
+  return missing;
+}
+
 /** How the pick's price range sits against the anchor's, for one category. */
 export function computePriceRelation(anchor: CategoryPrice, pick: CategoryPrice): PriceRelation {
   if (pick.maxUsd < anchor.minUsd) return "cheaper";
@@ -61,6 +74,8 @@ export function pickProblems(anchor: Brand, pick: SimilarPick, category: string,
     problems.push(`doesn't sell ${category}`);
   } else if (anchorPrice && pair.priceRelation !== computePriceRelation(anchorPrice, pickPrice)) {
     problems.push("price label doesn't match stored prices");
+  } else if (!anchorPrice && pair.priceRelation) {
+    problems.push("price label without an anchor price");
   }
 
   return problems;
@@ -77,7 +92,7 @@ export function judgeBrandsLikePage(page: BrandsLikePage, now = new Date()): Pag
   const category = page.category.slug;
   const reasons: string[] = [];
 
-  const anchorMissing = missingBrandFacts(page.anchor, category);
+  const anchorMissing = missingAnchorFacts(page.anchor, category);
   if (anchorMissing.length > 0) reasons.push(`anchor missing: ${anchorMissing.join(", ")}`);
   if (isStale(page.checkedAt, now)) reasons.push(`page not checked in ${RECHECK_DAYS} days`);
 
@@ -91,8 +106,10 @@ export function judgeBrandsLikePage(page: BrandsLikePage, now = new Date()): Pag
   return { indexable: reasons.length === 0, picks, reasons };
 }
 
+const TITLE_NOUN = { brands: "Brands", stores: "Stores", sites: "Sites" } as const;
+
 /** "7 Brands Like Levi's for Durable, High-Quality Denim". The count is the real count. */
 export function brandsLikeTitle(page: BrandsLikePage, pickCount: number): string {
-  const base = `${pickCount} Brands Like ${page.anchor.name}`;
+  const base = `${pickCount} ${TITLE_NOUN[page.urlPrefix]} Like ${page.anchor.name}`;
   return page.anchor.knownFor ? `${base} for ${page.anchor.knownFor}` : base;
 }

@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { test } from "node:test";
-import { fixtureBrand, fixturePage, fixturePick } from "./fixtures";
+import { fixtureBrand, fixtureClosedStorePage, fixturePage, fixturePick } from "./fixtures";
 import { brandsLikeTitle, computePriceRelation, judgeBrandsLikePage, MAX_PICKS, pickProblems } from "./gate";
 
 const NOW = new Date("2026-10-28T00:00:00Z");
@@ -82,4 +82,23 @@ test("images hosted anywhere but /img/ block indexing", () => {
   const verdict = judgeBrandsLikePage(page, NOW);
   assert.equal(verdict.indexable, false);
   assert.match(verdict.reasons[0], /anchor missing: imageUrl/);
+});
+
+test("a closed store can anchor a stores-like page when every pick is live", () => {
+  const page = fixtureClosedStorePage();
+  const verdict = judgeBrandsLikePage(page, NOW);
+  assert.equal(verdict.indexable, true, verdict.reasons.join("; "));
+  assert.equal(brandsLikeTitle(page, verdict.picks.length), "7 Stores Like Example Closed Store for Affordable Going-Out Denim");
+});
+
+test("a closed store's picks can't claim cheaper or pricier", () => {
+  const page = fixtureClosedStorePage();
+  page.picks[0].pair.priceRelation = "cheaper";
+  assert.deepEqual(pickProblems(page.anchor, page.picks[0], "denim", NOW), ["price label without an anchor price"]);
+});
+
+test("a closed brand can never be a pick", () => {
+  const page = fixturePage();
+  page.picks[0].brand.status = "defunct";
+  assert.deepEqual(pickProblems(page.anchor, page.picks[0], "denim", NOW), ["brand not verified"]);
 });

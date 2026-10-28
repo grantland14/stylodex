@@ -1,12 +1,14 @@
 import { createClient, type SupabaseClient } from "@supabase/supabase-js";
-import { fixturePage } from "./fixtures";
-import type { Brand, BrandsLikePage, CategoryPrice, Evidence, Faq, SimilarPick } from "./types";
+import { fixtureClosedStorePage, fixturePage } from "./fixtures";
+import type { Brand, BrandsLikePage, CategoryPrice, Evidence, Faq, SimilarPick, UrlPrefix } from "./types";
 
 /** Placeholder data, local only. Forces noindex everywhere and an empty sitemap. */
 export const FIXTURE_MODE = process.env.STYLODEX_FIXTURES === "1";
 
 /** Stylodex's own schema in the shared Supabase project. Never query Apart Style's `public` tables. */
 const SCHEMA = "stylodex";
+
+const fixturePages = () => [fixturePage(), fixtureClosedStorePage()];
 
 let client: SupabaseClient<any, typeof SCHEMA> | null = null; // eslint-disable-line @typescript-eslint/no-explicit-any
 
@@ -22,7 +24,7 @@ function db() {
 }
 
 const BRAND_COLUMNS =
-  "id, slug, name, website_url, status, known_for, hq_country, founded_year, size_range, has_plus, has_petite, has_tall, ships_to, free_shipping_min_usd, returns_days, materials, certifications, production_model, sale_pattern, image_url, verified_at, brand_category_prices(category_slug, price_min_usd, price_max_usd, source_url, checked_at)";
+  "id, slug, name, kind, website_url, status, known_for, hq_country, founded_year, size_range, has_plus, has_petite, has_tall, ships_to, free_shipping_min_usd, returns_days, materials, certifications, production_model, sale_pattern, image_url, verified_at, brand_category_prices(category_slug, price_min_usd, price_max_usd, source_url, checked_at)";
 
 /* eslint-disable @typescript-eslint/no-explicit-any -- untyped Supabase rows, mapped once here */
 function toBrand(row: any): Brand {
@@ -30,6 +32,7 @@ function toBrand(row: any): Brand {
     id: row.id,
     slug: row.slug,
     name: row.name,
+    kind: row.kind,
     websiteUrl: row.website_url,
     status: row.status,
     knownFor: row.known_for,
@@ -62,8 +65,8 @@ function toBrand(row: any): Brand {
 
 export async function getBrand(slug: string): Promise<Brand | null> {
   if (FIXTURE_MODE) {
-    const page = fixturePage();
-    return [page.anchor, ...page.picks.map((p) => p.brand)].find((b) => b.slug === slug) ?? null;
+    const brands = fixturePages().flatMap((page) => [page.anchor, ...page.picks.map((p) => p.brand)]);
+    return brands.find((b) => b.slug === slug) ?? null;
   }
   const { data, error } = await db().from("brands").select(BRAND_COLUMNS).eq("slug", slug).maybeSingle();
   if (error) throw error;
@@ -73,8 +76,7 @@ export async function getBrand(slug: string): Promise<Brand | null> {
 /** Everything a "brands like X" page needs. Returns all verified picks; the gate decides what renders. */
 export async function getBrandsLikePage(slug: string): Promise<BrandsLikePage | null> {
   if (FIXTURE_MODE) {
-    const page = fixturePage();
-    return page.anchor.slug === slug ? page : null;
+    return fixturePages().find((page) => page.anchor.slug === slug) ?? null;
   }
 
   const anchor = await getBrand(slug);
@@ -82,7 +84,7 @@ export async function getBrandsLikePage(slug: string): Promise<BrandsLikePage | 
 
   const { data: pageRow, error: pageError } = await db()
     .from("brands_like_pages")
-    .select("intro, faqs, author, human_edited, checked_at, categories(slug, name)")
+    .select("url_prefix, intro, faqs, author, human_edited, checked_at, categories(slug, name)")
     .eq("brand_id", anchor.id)
     .maybeSingle();
   if (pageError) throw pageError;
@@ -113,6 +115,7 @@ export async function getBrandsLikePage(slug: string): Promise<BrandsLikePage | 
 
   const category = (pageRow as any).categories;
   return {
+    urlPrefix: pageRow.url_prefix,
     anchor,
     category: { slug: category.slug, name: category.name },
     intro: pageRow.intro,
@@ -124,6 +127,18 @@ export async function getBrandsLikePage(slug: string): Promise<BrandsLikePage | 
   };
 }
 /* eslint-enable @typescript-eslint/no-explicit-any */
+
+/** The URL prefix of a brand's alternatives page, or null if it has none. Used to link only to pages that exist. */
+export async function getAlternativesPrefix(slug: string): Promise<UrlPrefix | null> {
+  if (FIXTURE_MODE) return fixturePages().find((page) => page.anchor.slug === slug)?.urlPrefix ?? null;
+  const { data, error } = await db()
+    .from("brands_like_pages")
+    .select("url_prefix, brands!inner(slug)")
+    .eq("brands.slug", slug)
+    .maybeSingle();
+  if (error) throw error;
+  return (data?.url_prefix as UrlPrefix | undefined) ?? null;
+}
 
 /** Slugs of every drafted "brands like X" page. The sitemap gates each one before listing it. */
 export async function listBrandsLikeSlugs(): Promise<string[]> {

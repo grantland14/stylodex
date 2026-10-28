@@ -10,7 +10,7 @@ const serif = Newsreader({ subsets: ["latin"], variable: "--font-serif", display
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.stylodex.com"),
   title: { default: "Stylodex", template: "%s | Stylodex" },
-  description: "Verified fashion brand alternatives, with real prices, sizes and shipping for each.",
+  description: "Verified alternatives to fashion and beauty brands and stores, with real prices, sizes and shipping for each.",
   // Fixture data must never be indexed.
   ...(FIXTURE_MODE && { robots: { index: false, follow: false } }),
 };
