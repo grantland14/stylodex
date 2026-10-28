@@ -1,0 +1,144 @@
+import { createClient, type SupabaseClient } from "@supabase/supabase-js";
+import { fixturePage } from "./fixtures";
+import type { Brand, BrandsLikePage, CategoryPrice, Evidence, Faq, SimilarPick } from "./types";
+
+/** Placeholder data, local only. Forces noindex everywhere and an empty sitemap. */
+export const FIXTURE_MODE = process.env.STYLODEX_FIXTURES === "1";
+
+let client: SupabaseClient | null = null;
+
+function db(): SupabaseClient {
+  if (client) return client;
+  const url = process.env.NEXT_PUBLIC_SUPABASE_URL;
+  const key = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
+  if (!url || !key) {
+    throw new Error("Supabase env vars missing. Set them, or STYLODEX_FIXTURES=1 for local placeholder data.");
+  }
+  client = createClient(url, key);
+  return client;
+}
+
+const BRAND_COLUMNS =
+  "id, slug, name, website_url, status, known_for, hq_country, founded_year, size_range, has_plus, has_petite, has_tall, ships_to, free_shipping_min_usd, returns_days, materials, certifications, production_model, sale_pattern, image_url, verified_at, brand_category_prices(category_slug, price_min_usd, price_max_usd, source_url, checked_at)";
+
+/* eslint-disable @typescript-eslint/no-explicit-any -- untyped Supabase rows, mapped once here */
+function toBrand(row: any): Brand {
+  return {
+    id: row.id,
+    slug: row.slug,
+    name: row.name,
+    websiteUrl: row.website_url,
+    status: row.status,
+    knownFor: row.known_for,
+    hqCountry: row.hq_country,
+    foundedYear: row.founded_year,
+    sizeRange: row.size_range,
+    hasPlus: row.has_plus,
+    hasPetite: row.has_petite,
+    hasTall: row.has_tall,
+    shipsTo: row.ships_to ?? [],
+    freeShippingMinUsd: row.free_shipping_min_usd == null ? null : Number(row.free_shipping_min_usd),
+    returnsDays: row.returns_days,
+    materials: row.materials ?? [],
+    certifications: row.certifications ?? [],
+    productionModel: row.production_model,
+    salePattern: row.sale_pattern,
+    imageUrl: row.image_url,
+    verifiedAt: row.verified_at,
+    prices: (row.brand_category_prices ?? []).map(
+      (p: any): CategoryPrice => ({
+        category: p.category_slug,
+        minUsd: Number(p.price_min_usd),
+        maxUsd: Number(p.price_max_usd),
+        sourceUrl: p.source_url,
+        checkedAt: p.checked_at,
+      }),
+    ),
+  };
+}
+
+export async function getBrand(slug: string): Promise<Brand | null> {
+  if (FIXTURE_MODE) {
+    const page = fixturePage();
+    return [page.anchor, ...page.picks.map((p) => p.brand)].find((b) => b.slug === slug) ?? null;
+  }
+  const { data, error } = await db().from("brands").select(BRAND_COLUMNS).eq("slug", slug).maybeSingle();
+  if (error) throw error;
+  return data ? toBrand(data) : null;
+}
+
+/** Everything a "brands like X" page needs. Returns all verified picks; the gate decides what renders. */
+export async function getBrandsLikePage(slug: string): Promise<BrandsLikePage | null> {
+  if (FIXTURE_MODE) {
+    const page = fixturePage();
+    return page.anchor.slug === slug ? page : null;
+  }
+
+  const anchor = await getBrand(slug);
+  if (!anchor) return null;
+
+  const { data: pageRow, error: pageError } = await db()
+    .from("brands_like_pages")
+    .select("intro, faqs, author, human_edited, checked_at, categories(slug, name)")
+    .eq("brand_id", anchor.id)
+    .maybeSingle();
+  if (pageError) throw pageError;
+  if (!pageRow) return null;
+
+  const { data: pairRows, error: pairError } = await db()
+    .from("similar_pairs")
+    .select(`status, rank, price_relation, reason, body, checked_at, pair_evidence(kind, url, note), brand:brands!similar_pairs_similar_brand_id_fkey(${BRAND_COLUMNS})`)
+    .eq("brand_id", anchor.id)
+    .eq("status", "verified")
+    .order("rank");
+  if (pairError) throw pairError;
+
+  const picks: SimilarPick[] = (pairRows ?? [])
+    .filter((row: any) => row.brand)
+    .map((row: any) => ({
+      brand: toBrand(row.brand),
+      pair: {
+        status: row.status,
+        rank: row.rank,
+        priceRelation: row.price_relation,
+        reason: row.reason,
+        body: row.body,
+        checkedAt: row.checked_at,
+        evidence: (row.pair_evidence ?? []).map((e: any): Evidence => ({ kind: e.kind, url: e.url, note: e.note })),
+      },
+    }));
+
+  const category = (pageRow as any).categories;
+  return {
+    anchor,
+    category: { slug: category.slug, name: category.name },
+    intro: pageRow.intro,
+    faqs: (pageRow.faqs ?? []) as Faq[],
+    author: pageRow.author,
+    humanEdited: pageRow.human_edited,
+    checkedAt: pageRow.checked_at,
+    picks,
+  };
+}
+/* eslint-enable @typescript-eslint/no-explicit-any */
+
+/** Slugs of every drafted "brands like X" page. The sitemap gates each one before listing it. */
+export async function listBrandsLikeSlugs(): Promise<string[]> {
+  if (FIXTURE_MODE) return [];
+  const { data, error } = await db().from("brands_like_pages").select("brands(slug)");
+  if (error) throw error;
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  return (data ?? []).map((row: any) => row.brands?.slug).filter(Boolean);
+}
+
+/** Server-side click log for /go/. Never throws: a logging failure must not block the redirect. */
+export async function logClick(brandId: string, pagePath: string | null): Promise<void> {
+  const url = process.env.NEXT_PUBLIC_SUPABASE_URL;
+  const serviceKey = process.env.SUPABASE_SERVICE_ROLE_KEY;
+  if (FIXTURE_MODE || !url || !serviceKey) return;
+  try {
+    await createClient(url, serviceKey).from("clicks").insert({ brand_id: brandId, page_path: pagePath });
+  } catch (err) {
+    console.error("click log failed", err);
+  }
+}
