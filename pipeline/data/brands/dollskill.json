@@ -1,0 +1,46 @@
+{
+  "slug": "dollskill",
+  "name": "Dolls Kill",
+  "website_url": "https://www.dollskill.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Boutique For Misfits & Miss Legits",
+  "hq_country": "US",
+  "founded_year": 2011,
+  "parent_company": null,
+  "size_range": "Women XXS–3X; Men XXS–XL",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 50,
+  "returns_days": 30,
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.dollskill.com/",
+    "https://www.dollskill.com/collections/mia-sexy-streetwear",
+    "https://www.dollskill.com/collections/cargo-pants",
+    "https://www.dollskill.com/pages/about",
+    "https://help.dollskill.com/shipping-delivery/shipping-information",
+    "https://help.dollskill.com/returns/returns",
+    "https://help.dollskill.com/hc/en-us/articles/9236181811991-Size-Guide",
+    "https://en.wikipedia.org/wiki/Dolls_Kill"
+  ],
+  "notes": [
+    "Retailer: sells third-party labels (Demonia, Ed Hardy, Von Dutch, Koi Footwear...) alongside ®-marked house labels (Club Exx, Current Mood, Widow...).",
+    "Has its own category 'Women's Streetwear Clothing' (/collections/mia-sexy-streetwear) and a 'Plus Size Women's Streetwear' collection (WebSearch listing).",
+    "Founded 2011 by Shoddy Lynn and Bobby Farahi, HQ San Francisco (Wikipedia infobox, citing GeekWire). Wikipedia names no current parent.",
+    "Returns are issued as gift cards only ('All returns are issued gift cards').",
+    "Prices are null: collection pages render no products or prices to WebFetch (JS)."
+  ],
+  "checked_at": "2026-10-28"
+}

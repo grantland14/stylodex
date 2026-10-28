@@ -1,0 +1,44 @@
+{
+  "slug": "maniere-de-voir",
+  "name": "Manière De Voir",
+  "website_url": "https://www.manieredevoir.com",
+  "status": "off_category",
+  "kind": "brand",
+  "known_for": "Bridging High Fashion And High Street",
+  "hq_country": "US",
+  "founded_year": 2013,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 250,
+  "returns_days": null,
+  "prices": [
+    {
+      "category": "womenswear",
+      "min_usd": 90,
+      "max_usd": 540,
+      "source_url": "https://us.manieredevoir.com/collections/womens-new-in",
+      "checked_at": "2026-10-28",
+      "note": "48 of 172 New In items, all regular price"
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": "Each piece designed by an in-house design team from sketch to sample (About)",
+  "sale_pattern": null,
+  "sources": [
+    "https://www.manieredevoir.com/",
+    "https://us.manieredevoir.com/collections/womens-new-in",
+    "https://www.manieredevoir.com/pages/about-us"
+  ],
+  "notes": [
+    "About: 'bridge the gap between high fashion and the high street'; founder and CEO Reece Wabara; founded 2013; head office SoHo, New York. It doesn't call itself streetwear, so off_category.",
+    "The US store (us.manieredevoir.com) prices in USD; the main site is GBP. Returns page not fetched."
+  ],
+  "checked_at": "2026-10-28"
+}

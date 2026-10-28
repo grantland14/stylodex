@@ -1,0 +1,41 @@
+{
+  "slug": "represent",
+  "name": "Represent",
+  "website_url": "https://representclo.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Luxury British Streetwear",
+  "hq_country": "GB",
+  "founded_year": 2011,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": null,
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://representclo.com/",
+    "https://representclo.com/pages/about",
+    "https://representclo.com/collections/discover-all-products",
+    "https://representclo.com/collections/streetwear-hoodies",
+    "https://representclo.com/collections/t-shirts",
+    "https://representclo.com/pages/shipping",
+    "https://representclohelp.zendesk.com/hc/en-gb/articles/9842658959901-Returns-Policy"
+  ],
+  "notes": [
+    "Homepage title 'Luxury British Streetwear | Official US Store® | REPRESENT'. The About page says 'a British luxury streetwear brand', founded 2011 in Manchester by brothers George and Mike Heaton, with flagships in London, Manchester and Los Angeles. HQ is not stated; hq_country GB is from 'British'.",
+    "Prices are null. Every collection page (all products, hoodies, t-shirts) rendered only a 'Popular items' carousel of accessories ($35–$260) to WebFetch, so no clothing prices were seen. Human check needed.",
+    "/pages/shipping returned 404 (the link from the homepage). The Zendesk returns policy returned 403. Shipping and returns are therefore null.",
+    "Per-product size charts exist (XS–XXL on several, per WebSearch only); not fetched, so size_range is null."
+  ],
+  "checked_at": "2026-10-28"
+}

@@ -25,7 +25,7 @@ function db() {
 }
 
 const BRAND_COLUMNS =
-  "id, slug, name, kind, website_url, status, known_for, hq_country, founded_year, size_range, has_plus, has_petite, has_tall, ships_to, free_shipping_min_usd, returns_days, materials, certifications, production_model, sale_pattern, image_url, verified_at, brand_category_prices(category_slug, price_min_usd, price_max_usd, source_url, checked_at)";
+  "id, slug, name, kind, website_url, status, known_for, hq_country, founded_year, size_range, has_plus, has_petite, has_tall, ships_to, free_shipping_min_usd, returns_days, materials, certifications, production_model, sale_pattern, image_url, verified_at, brand_category_prices(category_slug, currency, price_min, price_max, price_min_usd, price_max_usd, source_url, checked_at)";
 
 /* eslint-disable @typescript-eslint/no-explicit-any -- untyped Supabase rows, mapped once here */
 function toBrand(row: any): Brand {
@@ -55,6 +55,9 @@ function toBrand(row: any): Brand {
     prices: (row.brand_category_prices ?? []).map(
       (p: any): CategoryPrice => ({
         category: p.category_slug,
+        currency: p.currency,
+        min: Number(p.price_min),
+        max: Number(p.price_max),
         minUsd: Number(p.price_min_usd),
         maxUsd: Number(p.price_max_usd),
         sourceUrl: p.source_url,

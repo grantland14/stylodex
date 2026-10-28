@@ -1,0 +1,41 @@
+{
+  "slug": "the-ragged-priest",
+  "name": "The Ragged Priest",
+  "website_url": "https://theraggedpriest.com",
+  "status": "off_category",
+  "kind": "brand",
+  "known_for": "Grunge Clothing & Fashion",
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "UK 6–22 (US 2–18); denim W24–W38; men XS–XL",
+  "has_plus": false,
+  "has_petite": false,
+  "has_tall": false,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 90,
+  "returns_days": 28,
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.theraggedpriest.com/",
+    "https://theraggedpriest.com/collections/shop-all",
+    "https://theraggedpriest.com/pages/size-charts",
+    "https://theraggedpriest.com/pages/delivery-information",
+    "https://theraggedpriest.com/policies/refund-policy"
+  ],
+  "notes": [
+    "Live and selling. It positions itself as 'Official Online Store | Grunge Clothing & Fashion', not as streetwear, so it is off_category under this run's rule (C = streetwear only when the brand's own site says so). Borderline: it sells baggy jeans, graphic tees and hoodies. A human may widen the rule.",
+    "Prices are null: the store shows GBP only (36 regular-price items £35–£160). /en-us/ returned 404. Nothing converted.",
+    "Founding year and HQ were not found on fetched pages."
+  ],
+  "checked_at": "2026-10-28"
+}

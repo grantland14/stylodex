@@ -1,0 +1,58 @@
+{
+  "slug": "mnml",
+  "name": "mnml",
+  "website_url": "https://mnml.la",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Modern Streetwear Wardrobe Essentials",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–XXXL; denim 28–42",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 50,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "streetwear",
+      "min_usd": 48,
+      "max_usd": 56,
+      "source_url": "https://mnml.la/collections/tops",
+      "checked_at": "2026-10-28",
+      "note": "7 priced tees/long-sleeves seen of 48 (page truncated); no compare-at prices"
+    },
+    {
+      "category": "denim",
+      "min_usd": 82,
+      "max_usd": 82,
+      "source_url": "https://mnml.la/collections/denim",
+      "checked_at": "2026-10-28",
+      "note": "only 2 priced items visible of 48"
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": "Styles engineered in-house; limited quantities with chosen production partners; sold direct to consumers (About page)",
+  "sale_pattern": null,
+  "sources": [
+    "https://mnml.la/",
+    "https://mnml.la/collections/shop",
+    "https://mnml.la/collections/tops",
+    "https://mnml.la/collections/denim",
+    "https://mnml.la/pages/shipping",
+    "https://mnml.la/pages/returns-and-exchanges",
+    "https://mnml.la/pages/about-us"
+  ],
+  "notes": [
+    "Homepage title: 'Modern Streetwear - mnml Wardrobe Essentials'.",
+    "HQ is not stated outright: the About page says the design team works in a 'downtown Los Angeles studio'. The jobs link names mnml Brands LLC, but the site doesn't say whether that is a parent company.",
+    "Shipping: 'All international orders are shipped via DHL'. CA/GB/AU appear in the country selector, but the policy doesn't list destinations, so only US is stored.",
+    "Collection pages render few products to WebFetch. The shop page showed a $88 cargo pant (not in the stored range). No size-guide page was found; the size range comes from the collection size filters."
+  ],
+  "checked_at": "2026-10-28"
+}

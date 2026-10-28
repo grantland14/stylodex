@@ -37,14 +37,14 @@ test("a mood-only reason is rejected", () => {
 test("the price label must match stored prices", () => {
   const page = fixturePage();
   const pick = fixturePick("example-cheap", "Example Cheap", 1, { priceRelation: "similar" });
-  pick.brand.prices = [{ ...pick.brand.prices[0], minUsd: 20, maxUsd: 50 }];
+  pick.brand.prices = [{ ...pick.brand.prices[0], min: 20, max: 50, minUsd: 20, maxUsd: 50 }];
   assert.deepEqual(pickProblems(page.anchor, pick, "denim", NOW), ["price label doesn't match stored prices"]);
   pick.pair.priceRelation = "cheaper";
   assert.deepEqual(pickProblems(page.anchor, pick, "denim", NOW), []);
 });
 
 test("computePriceRelation treats any overlap as similar", () => {
-  const anchor = { category: "denim", minUsd: 80, maxUsd: 140, sourceUrl: "", checkedAt: "" };
+  const anchor = { category: "denim", currency: "USD", min: 80, max: 140, minUsd: 80, maxUsd: 140, sourceUrl: "", checkedAt: "" };
   assert.equal(computePriceRelation(anchor, { ...anchor, minUsd: 130, maxUsd: 300 }), "similar");
   assert.equal(computePriceRelation(anchor, { ...anchor, minUsd: 150, maxUsd: 300 }), "pricier");
   assert.equal(computePriceRelation(anchor, { ...anchor, minUsd: 20, maxUsd: 79 }), "cheaper");
@@ -100,5 +100,18 @@ test("a closed store's picks can't claim cheaper or pricier", () => {
 test("a closed brand can never be a pick", () => {
   const page = fixturePage();
   page.picks[0].brand.status = "defunct";
+  assert.deepEqual(pickProblems(page.anchor, page.picks[0], "denim", NOW), ["brand not verified"]);
+});
+
+test("a GBP store is compared on its USD equivalent", () => {
+  const page = fixturePage();
+  const pick = fixturePick("example-uk", "Example UK", 1, { priceRelation: "pricier" });
+  pick.brand.prices = [{ ...pick.brand.prices[0], currency: "GBP", min: 120, max: 200, minUsd: 152, maxUsd: 254 }];
+  assert.deepEqual(pickProblems(page.anchor, pick, "denim", NOW), []);
+});
+
+test("an unverified brand (site refuses automated reads) is never a pick", () => {
+  const page = fixturePage();
+  page.picks[0].brand.status = "unverified";
   assert.deepEqual(pickProblems(page.anchor, page.picks[0], "denim", NOW), ["brand not verified"]);
 });

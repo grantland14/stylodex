@@ -1,4 +1,4 @@
-export type BrandStatus = "candidate" | "verified" | "off_category" | "defunct";
+export type BrandStatus = "candidate" | "verified" | "off_category" | "defunct" | "unverified";
 export type PairStatus = "candidate" | "verified" | "rejected";
 export type PriceRelation = "cheaper" | "similar" | "pricier";
 export type EvidenceKind = "serp_comention" | "reddit" | "co_stocked" | "editorial";
@@ -8,6 +8,11 @@ export type UrlPrefix = "brands" | "stores" | "sites";
 
 export interface CategoryPrice {
   category: string;
+  /** The store's own prices, shown to readers. */
+  currency: string;
+  min: number;
+  max: number;
+  /** USD equivalents at a dated rate; what cheaper/similar/pricier compares. Equal to min/max for USD. */
   minUsd: number;
   maxUsd: number;
   sourceUrl: string;

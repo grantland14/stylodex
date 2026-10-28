@@ -1,0 +1,37 @@
+{
+  "slug": "jaded-london",
+  "name": "Jaded London",
+  "website_url": "https://jadedldn.com",
+  "status": "unverified",
+  "kind": "brand",
+  "known_for": null,
+  "hq_country": "GB",
+  "founded_year": 2013,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [],
+  "free_shipping_min_usd": null,
+  "returns_days": null,
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.jadedldn.com/",
+    "https://www.jadedldn.com/collections/all",
+    "https://en.wikipedia.org/wiki/Jaded_London",
+    "https://www.urbanoutfitters.com/en-gb/brands/jaded-london"
+  ],
+  "notes": [
+    "jadedldn.com returned HTTP 403 to WebFetch on / and /collections/all (2026-10-28). No workaround tried. A human must open the site to confirm the store, known_for, sizes, shipping, returns and USD prices.",
+    "founded_year 2013 and founders Jade and Grant Goulden (siblings) come from Wikipedia, which cites The Times, Vogue Business and Dazed. Wikipedia calls it a UK 'streetwear brand' but gives no HQ city; hq_country GB is from 'based in the United Kingdom'.",
+    "The Urban Outfitters UK stockist page (fetched) describes it as a UK-based streetwear label founded in East London around 2013, 'Y2K realness with a rebellious edge'. Its 72 listed products were mostly tops (~20) and joggers/trousers/cargos (~18), plus jeans (~8) and dresses (~8). This is stockist copy, not the brand's own words.",
+    "Search-index titles of the brand's own pages (WebSearch only, not fetched) include 'Women's Streetwear & Clothing' (/collections/womens-all), 'Curated Premium Streetwear for Women' (/collections/womens) and 'Women's Baggy Jeans'. A search summary quoted US Colossus jeans at $165-$195. That figure is unverified and not stored.",
+    "Gate impact: the anchor is not verified and has no streetwear price, so the page fails missingAnchorFacts until a human verifies it."
+  ],
+  "checked_at": "2026-10-28"
+}

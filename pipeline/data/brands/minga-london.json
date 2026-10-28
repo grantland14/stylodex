@@ -1,0 +1,50 @@
+{
+  "slug": "minga-london",
+  "name": "Minga London",
+  "website_url": "https://www.mingalondon.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "For Those Who Embrace Their Weirdness",
+  "hq_country": "GB",
+  "founded_year": 2014,
+  "parent_company": null,
+  "size_range": "XS–XXXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "GB"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "streetwear",
+      "min_usd": 130,
+      "max_usd": 140,
+      "source_url": "https://us.mingalondon.com/collections/men",
+      "checked_at": "2026-10-28",
+      "note": "4 priced items visible (sweaters, sweatpants, zip hoodie); page titled 'Men's Clothing & Streetwear'"
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.mingalondon.com/",
+    "https://us.mingalondon.com/collections/men",
+    "https://us.mingalondon.com/collections/shop-all",
+    "https://www.mingalondon.com/pages/about-us",
+    "https://help.mingalondon.com/en-GB/articles/shipping-and-delivery-343908",
+    "https://help.mingalondon.com/en-GB/articles/returns-343909"
+  ],
+  "notes": [
+    "The US store (us.mingalondon.com) prices in USD; the main site prices in GBP. The women's shop-all showed $79–$160, but that includes accessories, so it isn't stored.",
+    "About: 'We create for those who embrace their weirdness!'; an independent brand born in East London in 2014; HQ not stated.",
+    "Shipping: the help article names UK, USA and EU orders (customs section) but doesn't list destinations. The US free-shipping threshold is blank in the page text, so it is null.",
+    "The size range comes from product sizes on the men's page (S–XXXL, XS–XL). WebSearch suggests the size guide runs XS–XXXL (UK 24–26), but it wasn't fetched, so has_plus is null."
+  ],
+  "checked_at": "2026-10-28"
+}

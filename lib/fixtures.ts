@@ -28,7 +28,7 @@ export function fixtureBrand(overrides: Partial<Brand> & Pick<Brand, "slug" | "n
     salePattern: "Twice-yearly end-of-season sale",
     imageUrl: "/img/placeholder.svg",
     verifiedAt: CHECKED,
-    prices: [{ category: "denim", minUsd: 80, maxUsd: 140, sourceUrl: "https://example.com", checkedAt: CHECKED }],
+    prices: [{ category: "denim", currency: "USD", min: 80, max: 140, minUsd: 80, maxUsd: 140, sourceUrl: "https://example.com", checkedAt: CHECKED }],
     ...overrides,
   };
 }

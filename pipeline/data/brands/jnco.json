@@ -1,0 +1,43 @@
+{
+  "slug": "jnco",
+  "name": "JNCO",
+  "website_url": "https://jnco.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "The Original Wide-Leg Jeans Since 1985",
+  "hq_country": "US",
+  "founded_year": 1985,
+  "parent_company": null,
+  "size_range": "S–XXXL; waist 24–44",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 21,
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://jnco.com/",
+    "https://jnco.com/pages/our-story",
+    "https://jnco.com/pages/shipping-returns-exchanges",
+    "https://jnco.com/collections/mens-v2",
+    "https://jnco.com/collections/womens-v2",
+    "https://jnco.com/collections/pants"
+  ],
+  "notes": [
+    "Our Story: 'one of the most influential brands in streetwear history'; founder Milo Revah; timeline starts 1985 ('Los Angeles since 1985' on the homepage); 'the original JNCO family took the company back' in 2019. No parent company is named.",
+    "Free shipping: none offered. US orders are a $10 flat rate ($25 AK/HI), so free_shipping_min_usd is null, not missing. International shipping is DHL worldwide.",
+    "Waist 24–44 (women) / 26–44 (men); leg openings 20\"–50\" (collection filters).",
+    "Prices are null: collection pages list product names but no prices to WebFetch."
+  ],
+  "checked_at": "2026-10-28"
+}

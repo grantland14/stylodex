@@ -1,0 +1,43 @@
+{
+  "slug": "edikted",
+  "name": "Edikted",
+  "website_url": "https://edikted.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Gen-Z Online Fashion Brand",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–XXL",
+  "has_plus": false,
+  "has_petite": true,
+  "has_tall": true,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 80,
+  "returns_days": 30,
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": "'Try and repeat model': produces controlled amounts of styles at demand, limiting inventory (Our Story)",
+  "sale_pattern": null,
+  "sources": [
+    "https://www.edikted.com/",
+    "https://edikted.com/collections/all-clothing",
+    "https://edikted.com/pages/shipping",
+    "https://edikted.com/pages/returns",
+    "https://edikted.com/pages/our-story",
+    "https://edikted.com/pages/size-guide"
+  ],
+  "notes": [
+    "Our Story: 'Gen-Z-orientated online fashion brand' 'inspired by top streetwear looks, modern-day muses, and runway trends'; 'Headquartered in Los Angeles, California'. No founding year or founders named.",
+    "Prices are null. On 2026-10-28 the site ran '50% OFF SITEWIDE', and all 46 products seen on All Clothing were discounted (sale $18–$69, comparison values $36–$138). No regular-price items were seen. Re-check after the sale.",
+    "has_plus is false because the size guide tops out at XXL with no plus range. Petite and Tall collections are linked from the size guide.",
+    "Returns carry a $4.90 processing fee; Final Sale is excluded."
+  ],
+  "checked_at": "2026-10-28"
+}

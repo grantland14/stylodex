@@ -6,8 +6,11 @@ export function usd(amount: number): string {
   return `$${Math.round(amount).toLocaleString("en-US")}`;
 }
 
+/** The store's own prices, e.g. "$48–$56" or "£40–£95". */
 export function priceRange(price: CategoryPrice | undefined): string | null {
-  return price ? `${usd(price.minUsd)}–${usd(price.maxUsd)}` : null;
+  if (!price) return null;
+  const fmt = new Intl.NumberFormat("en-US", { style: "currency", currency: price.currency, maximumFractionDigits: 0 });
+  return `${fmt.format(price.min)}–${fmt.format(price.max)}`;
 }
 
 export function shipsTo(brand: Brand): string | null {

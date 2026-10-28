@@ -1,0 +1,48 @@
+{
+  "slug": "o-mighty",
+  "name": "OMIGHTY",
+  "website_url": "https://o-mighty.com",
+  "status": "off_category",
+  "kind": "brand",
+  "known_for": null,
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": null,
+  "prices": [
+    {
+      "category": "womenswear",
+      "min_usd": 46,
+      "max_usd": 82,
+      "source_url": "https://o-mighty.com/products/1",
+      "checked_at": "2026-10-28",
+      "note": "60 items on page 1 of 'Everything'; no sale flags"
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.omighty.com/",
+    "https://o-mighty.com/",
+    "https://o-mighty.com/products/1"
+  ],
+  "notes": [
+    "The stored URL omighty.com 301-redirects to o-mighty.com ('OFFICIAL WEBSITE OF OMIGHTY - Worldwide delivery').",
+    "Womenswear (graphic tees, camis, yoga pants). No self-description beyond 'official website', and no streetwear positioning, so off_category.",
+    "ships_to comes from the header claim 'Worldwide delivery'; the terms page was not read. Some product names are sexually explicit."
+  ],
+  "checked_at": "2026-10-28"
+}

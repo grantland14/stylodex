@@ -69,7 +69,14 @@ Progress 2026-10-28:
 - [x] Pipeline written: `pipeline/README.md`, `pipeline/enrich.md`; output to `pipeline/data/`
 - [ ] Wave-1 selection: Ahrefs volumes for 222 subjects × {brands, stores} like + Apart Style GSC
       clicks (Dec 2025–Aug 2026) → `pipeline/data/wave-1.tsv`
-- [ ] Pilot page: Jaded London, end to end, then adjust `enrich.md` before scaling
+- [x] Wave-1 selection done: `pipeline/data/wave-1.tsv` (204 subjects; notes beside it)
+- [x] Pilot page: Jaded London (`pipeline/data/pages/jaded-london.json`, 16 brand files). 7 picks,
+      but it would fail the gate: the anchor's site refused reads (unverified), only 3 of 42 SERP
+      pages were usable evidence, prices were truncated or GBP-only. ~240k tokens, 22 minutes.
+- [x] Fixes from the pilot: `unverified` status and store-currency prices folded into the still
+      unapplied migration 00003 (re-tested); `enrich.md` now uses product-type categories, four
+      evidence keywords, retailer co-stocking, Shopify `products.json` for full price ranges
+- [ ] Re-run the pilot with the fixed method, write the page (step 5), preview it for Ash
 
 - [ ] Import the brand seed list (name, URL, price tier) into the new schema
 - [ ] Re-verify every domain (WebFetch + search; a DNS failure means a bad record, not a dead brand)

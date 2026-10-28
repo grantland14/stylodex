@@ -1,0 +1,35 @@
+{
+  "slug": "other-uk",
+  "name": "Other UK",
+  "website_url": "https://otheruk.com",
+  "status": "off_category",
+  "kind": "brand",
+  "known_for": "Officially Licensed Rock Clothing",
+  "hq_country": "GB",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [],
+  "free_shipping_min_usd": null,
+  "returns_days": null,
+  "prices": [],
+  "materials": [
+    "leather",
+    "denim"
+  ],
+  "certifications": [],
+  "production_model": "Hand screen-printed; cut, distressed and patched in-house in its UK studio (About)",
+  "sale_pattern": null,
+  "sources": [
+    "https://www.otheruk.com/",
+    "https://otheruk.com/pages/about-us"
+  ],
+  "notes": [
+    "Live, GBP store. It positions itself as rock clothing ('Officially Licensed Rock Clothing'), not streetwear, so off_category.",
+    "Delivery and returns pages not fetched. The size guide link on the homepage is a placeholder (#). hq_country GB is inferred from 'our UK studio'; no HQ is stated."
+  ],
+  "checked_at": "2026-10-28"
+}
