@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { cache } from "react";
+import { ArrowUpRight } from "@/components/ArrowUpRight";
 import { FIXTURE_MODE, getBrandsLikePage } from "@/lib/data";
 import { longDate, priceRange, shipsTo, sizes } from "@/lib/format";
 import { brandsLikeTitle, judgeBrandsLikePage, priceFor } from "@/lib/gate";
@@ -77,104 +78,132 @@ export default async function BrandsLikeArticle({ params }: { params: { slug: st
   const anchorPrice = priceRange(priceFor(page.anchor, category));
 
   return (
-    <article className="mx-auto max-w-2xl px-4 py-10">
+    <article className="mx-auto max-w-3xl px-4 py-10 md:py-14">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd(page, picks, title)) }} />
 
-      <nav className="text-sm text-muted">
-        <Link href="/">Stylodex</Link> / <Link href={`/brands/${page.anchor.slug}`}>{page.anchor.name}</Link>
+      <nav className="eyebrow">
+        <Link href="/" className="no-underline hover:underline">
+          Stylodex
+        </Link>{" "}
+        /{" "}
+        <Link href={`/brands/${page.anchor.slug}`} className="no-underline hover:underline">
+          {page.anchor.name}
+        </Link>{" "}
+        / {page.category.name}
       </nav>
 
-      <h1 className="mt-4 font-serif text-4xl leading-tight">{title}</h1>
-      <p className="mt-3 text-sm text-muted">
+      <h1 className="mt-4 text-4xl font-normal leading-[1.1] tracking-tight md:text-5xl">{title}</h1>
+      <p className="mt-5 text-sm text-muted">
         By {page.author} · Last checked {longDate(page.checkedAt)} ·{" "}
         <Link href="/disclosure" className="underline">
-          We may earn a commission from links
+          We may earn a commission
         </Link>
       </p>
 
-      <p className="mt-6 text-lg leading-relaxed">{page.intro}</p>
+      <p className="mt-8 text-lg leading-relaxed">{page.intro}</p>
       {anchorPrice && (
         <p className="mt-3 text-sm text-muted">
           For reference, {page.anchor.name} {page.category.name.toLowerCase()} runs {anchorPrice}.
         </p>
       )}
 
-      <section aria-labelledby="at-a-glance" className="mt-8 overflow-x-auto">
-        <h2 id="at-a-glance" className="sr-only">
+      <section aria-labelledby="at-a-glance" className="mt-10">
+        <h2 id="at-a-glance" className="eyebrow">
           At a glance
         </h2>
-        <table className="w-full min-w-[32rem] border-collapse text-left text-sm">
-          <thead>
-            <tr className="border-b border-rule">
-              <th className="py-2 pr-3 font-medium">Brand</th>
-              <th className="py-2 pr-3 font-medium">{page.category.name}</th>
-              <th className="py-2 pr-3 font-medium">Sizes</th>
-              <th className="py-2 font-medium">Ships to</th>
-            </tr>
-          </thead>
-          <tbody>
-            {picks.map((pick) => (
-              <tr key={pick.brand.slug} className="border-b border-rule align-top">
-                <td className="py-2 pr-3">
-                  <a href={`#${pick.brand.slug}`}>{pick.brand.name}</a>
-                </td>
-                <td className="py-2 pr-3">{priceRange(priceFor(pick.brand, category))}</td>
-                <td className="py-2 pr-3">{sizes(pick.brand)}</td>
-                <td className="py-2">{shipsTo(pick.brand)}</td>
+        <div className="mt-3 overflow-x-auto border-t border-ink">
+          <table className="w-full min-w-[34rem] border-collapse text-left text-sm">
+            <thead>
+              <tr className="border-b border-rule text-muted">
+                <th className="py-3 pr-4 font-normal">Brand</th>
+                <th className="py-3 pr-4 font-normal">{page.category.name}</th>
+                <th className="py-3 pr-4 font-normal">Sizes</th>
+                <th className="py-3 font-normal">Ships to</th>
               </tr>
-            ))}
-          </tbody>
-        </table>
+            </thead>
+            <tbody>
+              {picks.map((pick) => (
+                <tr key={pick.brand.slug} className="border-b border-rule align-top">
+                  <td className="py-3 pr-4 font-medium text-ink">
+                    <a href={`#${pick.brand.slug}`} className="no-underline hover:underline">
+                      {pick.brand.name}
+                    </a>
+                  </td>
+                  <td className="py-3 pr-4">{priceRange(priceFor(pick.brand, category))}</td>
+                  <td className="py-3 pr-4">{sizes(pick.brand)}</td>
+                  <td className="py-3">{shipsTo(pick.brand)}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
       </section>
 
-      {picks.map((pick, i) => (
-        <section key={pick.brand.slug} id={pick.brand.slug} className="mt-12 scroll-mt-6">
-          <h2 className="font-serif text-2xl">
-            {i + 1}. {pick.brand.name}
-          </h2>
-          {pick.brand.imageUrl && (
-            // eslint-disable-next-line @next/next/no-img-element -- brand images come from many hosts
-            <img src={pick.brand.imageUrl} alt={pick.brand.name} loading={i < 2 ? "eager" : "lazy"} className="mt-4 aspect-[4/3] w-full rounded object-cover" />
-          )}
-          <p className="mt-4 text-sm text-muted">
-            {[
-              priceRange(priceFor(pick.brand, category)),
-              pick.pair.priceRelation && PRICE_LABEL[pick.pair.priceRelation],
-              sizes(pick.brand),
-              shipsTo(pick.brand) && `Ships to ${shipsTo(pick.brand)}`,
-            ]
-              .filter(Boolean)
-              .join(" · ")}
-          </p>
-          <p className="mt-4 leading-relaxed">{pick.pair.body}</p>
-          <a
-            href={shopHref(pick, page.anchor.slug)}
-            rel="sponsored nofollow"
-            className="mt-5 inline-block rounded bg-accent px-5 py-2.5 text-sm font-medium text-paper"
-          >
-            Shop {pick.brand.name}
-          </a>
-        </section>
-      ))}
+      <ol className="mt-14">
+        {picks.map((pick, i) => (
+          <li key={pick.brand.slug} id={pick.brand.slug} className="scroll-mt-6 border-t border-rule py-10 md:grid md:grid-cols-[13rem_1fr] md:gap-8">
+            {pick.brand.imageUrl && (
+              // eslint-disable-next-line @next/next/no-img-element -- served from /img/, proxied storage
+              <img
+                src={pick.brand.imageUrl}
+                alt={pick.brand.name}
+                loading={i < 2 ? "eager" : "lazy"}
+                className="aspect-square w-full bg-soft object-cover md:w-52"
+              />
+            )}
+            <div className="mt-5 md:mt-0">
+              <p className="eyebrow">No. {i + 1}</p>
+              <h2 className="mt-1 text-2xl font-medium tracking-tight">{pick.brand.name}</h2>
+              <ul className="mt-4 flex flex-wrap gap-2" aria-label={`${pick.brand.name} at a glance`}>
+                {[
+                  priceRange(priceFor(pick.brand, category)),
+                  pick.pair.priceRelation && PRICE_LABEL[pick.pair.priceRelation],
+                  sizes(pick.brand),
+                  shipsTo(pick.brand) && `Ships to ${shipsTo(pick.brand)}`,
+                ]
+                  .filter(Boolean)
+                  .map((fact) => (
+                    <li key={fact as string} className="chip">
+                      {fact}
+                    </li>
+                  ))}
+              </ul>
+              <p className="mt-5 leading-relaxed">{pick.pair.body}</p>
+              <div className="mt-6 flex flex-wrap gap-3">
+                <a href={shopHref(pick, page.anchor.slug)} rel="sponsored nofollow" className="btn-solid">
+                  Shop {pick.brand.name} <ArrowUpRight />
+                </a>
+                <Link href={`/brands/${pick.brand.slug}`} className="btn-line">
+                  About {pick.brand.name}
+                </Link>
+              </div>
+            </div>
+          </li>
+        ))}
+      </ol>
 
       {page.faqs.length > 0 && (
-        <section className="mt-14">
-          <h2 className="font-serif text-2xl">FAQ</h2>
+        <section className="border-t border-rule pt-12">
+          <h2 className="font-serif text-3xl">Questions</h2>
           {page.faqs.map((f) => (
-            <div key={f.q} className="mt-5">
+            <div key={f.q} className="mt-6">
               <h3 className="font-medium">{f.q}</h3>
-              <p className="mt-1 leading-relaxed">{f.a}</p>
+              <p className="mt-2 leading-relaxed">{f.a}</p>
             </div>
           ))}
         </section>
       )}
 
-      <aside className="mt-14 border-t border-rule pt-6 text-sm text-muted">
-        <h2 className="font-medium text-ink">How we pick</h2>
-        <p className="mt-2">
-          Every brand here is live, sells {page.category.name.toLowerCase()} today, and has been checked against its own site in the
-          last 90 days. Each one is also recommended alongside {page.anchor.name} by sources outside Stylodex. Prices are in US
-          dollars from each brand&apos;s own store.
+      <aside className="mt-14 bg-soft p-6 text-sm leading-relaxed">
+        <h2 className="eyebrow">How we pick</h2>
+        <p className="mt-3">
+          Every brand here is live, sells {page.category.name.toLowerCase()} today, and has been checked against its own store in
+          the last 90 days. Each one is also recommended alongside {page.anchor.name} by sources outside Stylodex. Prices are in
+          US dollars from each brand&apos;s own store.{" "}
+          <Link href="/how-we-pick" className="underline">
+            More on our method
+          </Link>
+          .
         </p>
       </aside>
     </article>

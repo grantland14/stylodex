@@ -121,7 +121,7 @@ CREATE INDEX idx_pair_evidence_pair ON stylodex.pair_evidence(pair_id);
 CREATE INDEX idx_clicks_created ON stylodex.clicks(created_at);
 
 -- API access: anon reads published rows (RLS below); service_role writes.
--- The schema must also be added to "Exposed schemas" in the project's Data API settings.
+-- Exposed through the Data API by 00002_expose_stylodex_schema.sql.
 GRANT USAGE ON SCHEMA stylodex TO anon, authenticated, service_role;
 GRANT SELECT ON ALL TABLES IN SCHEMA stylodex TO anon, authenticated;
 GRANT ALL ON ALL TABLES IN SCHEMA stylodex TO service_role;

@@ -80,6 +80,46 @@ Apart Style's 150k links are a **candidate pool only**. No pair gets published u
 - [ ] **One specific, checkable reason** per pick, citing a stored fact (e.g. "Montreal label using raw Japanese-mill denim"). Mood-only reasons ("minimalist aesthetic") don't count.
 - [ ] Re-checked every 90 days; a brand that dies or goes off-category drops out and the title count updates
 
+## Page inventory to match: similist.com (Ahrefs top pages, 2026-10-28)
+
+Source: `research/similist-top-pages-2026-10-28.tsv`. 170 URLs, 134 unique subjects, ~660 visits/mo
+in total (Ahrefs estimate), so this is a **list of keywords to cover, not proof of demand**. Validate
+each subject's volume before it goes in a wave. Their shapes: `stores-like-X` (132 pages) and
+`sites-like-X` (36).
+
+| Bucket | Subjects | Similist traffic | In Apart Style seed |
+|---|---|---|---|
+| Fashion brands and retailers | 75 | 399 | |
+| Department stores and off-price (Kohl's, Marshalls, Nordstrom…) | 8 | 60 | 58 of these 83 |
+| Discount, general, marketplaces (Temu, Dollar Tree, Daiso…) | 13 | 72 | — |
+| Home and furniture (Williams Sonoma, World Market, IKEA…) | 14 | 43 | — |
+| Beauty (Bath & Body Works, Lush, Sephora, Ulta) | 4 | 25 | — |
+| Outdoor, hardware, auto, sport (Cabela's, Lowe's, AutoZone…) | 9 | 29 | — |
+| Electronics and gadgets (Micro Center, Brookstone…) | 6 | 19 | — |
+| Grocery (Sprouts, Whole Foods) | 2 | 4 | — |
+| Not shopping (YouTube, Photobucket) | 3 | 11 | — |
+
+What this adds to the build:
+- [ ] **`/stores-like-[slug]`** alongside `/brands-like-[slug]`: same article template, one URL per
+      subject, prefix chosen by which phrasing has more volume. Add an entity kind (brand / retailer /
+      marketplace) to `stylodex.brands`.
+- [ ] **Closed anchors are allowed.** "Stores like Wet Seal / Payless / Charming Charlie / Pier 1" are
+      replacement searches. The anchor can be `defunct` (the intro says so); every *pick* must still
+      be live. Gate change plus tests.
+- [ ] Add the 25 fashion/department subjects missing from the seed (Francesca's, Macy's, Marshalls,
+      Dillard's, Buckle, Foot Locker…) after checking their slugs.
+- [ ] Scope decision on the non-fashion buckets (see open questions).
+
+## Design direction
+
+Modelled on thingtesting.com (Ash, 2026-10-28): white page, near-black type, hairline rules,
+Schibsted Grotesk for headings and UI, Newsreader serif only for section titles, small-caps
+eyebrows, solid black and outlined square buttons, chips for facts. Applied to the article,
+brand profile, home, method and disclosure pages.
+- [ ] Logo/wordmark beyond the text "•STYLODEX"
+- [ ] Brand index and category hubs (Thingtesting's "All brands" / categories)
+- [ ] Search, once there is data to search
+
 ## Phase 2 — Page types
 
 | Route | Intent | Built for |
@@ -150,6 +190,8 @@ in this repo.
 ## Open questions
 
 1. Full pipeline for which pages: the first ~20, wave 1, or every page?
+2. Similist's non-fashion subjects (home, beauty, discount, hardware, electronics, grocery): in
+   scope for Stylodex, or fashion and department stores only?
 
 ## Review
 

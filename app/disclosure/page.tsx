@@ -4,8 +4,9 @@ export const metadata: Metadata = { title: "Affiliate disclosure", alternates: {
 
 export default function Disclosure() {
   return (
-    <article className="mx-auto max-w-2xl px-4 py-10 leading-relaxed">
-      <h1 className="font-serif text-3xl">Affiliate disclosure</h1>
+    <article className="mx-auto max-w-2xl px-4 py-14 leading-relaxed">
+      <p className="eyebrow">Disclosure</p>
+      <h1 className="mt-3 text-4xl font-normal tracking-tight">Affiliate disclosure</h1>
       <p className="mt-6">
         Stylodex earns money through affiliate links. When you click a &ldquo;Shop&rdquo; button and buy something, the store may
         pay us a commission, through Skimlinks or directly. It costs you nothing extra.

@@ -3,9 +3,33 @@
 @tailwind utilities;
 
 body {
-  @apply bg-paper text-ink antialiased;
+  @apply bg-paper font-sans text-body antialiased;
+}
+
+h1,
+h2,
+h3 {
+  @apply text-ink;
 }
 
 a {
-  @apply underline-offset-2;
+  @apply underline-offset-4;
+}
+
+@layer components {
+  .eyebrow {
+    @apply text-xs font-medium uppercase tracking-[0.12em] text-muted;
+  }
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 border px-5 py-3 text-sm font-medium no-underline transition-colors;
+  }
+  .btn-solid {
+    @apply btn border-ink bg-ink text-paper hover:bg-body;
+  }
+  .btn-line {
+    @apply btn border-rule bg-paper text-ink hover:border-ink;
+  }
+  .chip {
+    @apply inline-block rounded-full border border-rule px-3 py-1 text-xs text-body;
+  }
 }

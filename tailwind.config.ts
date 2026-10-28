@@ -1,15 +1,22 @@
 import type { Config } from "tailwindcss";
 
+// Direction: thingtesting.com. White page, near-black type, hairline rules,
+// grotesk sans for headings and UI, a serif only for section titles.
 const config: Config = {
   content: ["./app/**/*.{ts,tsx}", "./components/**/*.{ts,tsx}"],
   theme: {
     extend: {
       colors: {
-        ink: "#16130f",
-        paper: "#faf8f4",
-        rule: "#e6e1d8",
-        muted: "#6b645a",
-        accent: "#1f4d3a",
+        paper: "#ffffff",
+        soft: "#f6f6f4",
+        ink: "#18191a",
+        body: "#313335",
+        muted: "#6e7175",
+        rule: "#e3e3e3",
+      },
+      fontFamily: {
+        sans: ["var(--font-sans)", "Helvetica", "Arial", "sans-serif"],
+        serif: ["var(--font-serif)", "Georgia", "serif"],
       },
     },
   },

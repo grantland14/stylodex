@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { cache } from "react";
+import { ArrowUpRight } from "@/components/ArrowUpRight";
 import { FIXTURE_MODE, getBrand } from "@/lib/data";
 import { priceRange, shipsTo, sizes, usd } from "@/lib/format";
 import { missingBrandFacts } from "@/lib/gate";
@@ -44,28 +45,56 @@ export default async function BrandProfile({ params }: { params: { slug: string 
     ["Sales", brand.salePattern],
   ];
 
+  const host = brand.websiteUrl ? new URL(brand.websiteUrl).hostname.replace(/^www\./, "") : null;
+
   return (
-    <article className="mx-auto max-w-2xl px-4 py-10">
-      <h1 className="font-serif text-4xl">{brand.name}</h1>
-      {brand.knownFor && <p className="mt-3 text-lg text-muted">Known for {brand.knownFor.toLowerCase()}.</p>}
-      <dl className="mt-8 divide-y divide-rule border-y border-rule text-sm">
+    <article className="mx-auto max-w-3xl px-4 py-10 md:py-14">
+      <div className="md:grid md:grid-cols-[16rem_1fr] md:gap-10">
+        {brand.imageUrl && (
+          // eslint-disable-next-line @next/next/no-img-element -- served from /img/, proxied storage
+          <img src={brand.imageUrl} alt={brand.name} className="aspect-square w-full bg-soft object-cover" />
+        )}
+        <div className="mt-6 md:mt-0">
+          <p className="eyebrow">Brand</p>
+          <h1 className="mt-2 text-4xl font-normal tracking-tight">{brand.name}</h1>
+          {brand.knownFor && <p className="mt-3 text-lg leading-relaxed">Known for {brand.knownFor.toLowerCase()}.</p>}
+          {host && (
+            <a
+              href={`/go/${brand.slug}?from=${encodeURIComponent(`/brands/${brand.slug}`)}`}
+              rel="sponsored nofollow"
+              className="mt-3 inline-flex items-center gap-1 text-sm text-ink underline"
+            >
+              {host} <ArrowUpRight />
+            </a>
+          )}
+          <div className="mt-6 grid grid-cols-2 gap-3 sm:flex">
+            <a href={`/brands-like-${brand.slug}`} className="btn-line">
+              Brands like {brand.name}
+            </a>
+            <a href={`/go/${brand.slug}?from=${encodeURIComponent(`/brands/${brand.slug}`)}`} rel="sponsored nofollow" className="btn-solid">
+              Shop <ArrowUpRight />
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <nav className="mt-12 flex gap-8 border-b border-rule text-sm" aria-label="Sections">
+        <span className="-mb-px border-b-2 border-ink pb-3 font-medium text-ink">Overview</span>
+        <a href={`/brands-like-${brand.slug}`} className="pb-3 text-muted no-underline hover:text-ink">
+          Alternatives
+        </a>
+      </nav>
+
+      <dl className="mt-2 text-sm">
         {facts
           .filter(([, value]) => value)
           .map(([label, value]) => (
-            <div key={label} className="grid grid-cols-3 gap-4 py-2.5">
+            <div key={label} className="grid grid-cols-3 gap-4 border-b border-rule py-3">
               <dt className="text-muted">{label}</dt>
-              <dd className="col-span-2">{value}</dd>
+              <dd className="col-span-2 text-ink">{value}</dd>
             </div>
           ))}
       </dl>
-      <div className="mt-6 flex flex-wrap gap-3">
-        <a href={`/go/${brand.slug}?from=${encodeURIComponent(`/brands/${brand.slug}`)}`} rel="sponsored nofollow" className="rounded bg-accent px-5 py-2.5 text-sm font-medium text-paper">
-          Shop {brand.name}
-        </a>
-        <a href={`/brands-like-${brand.slug}`} className="rounded border border-rule px-5 py-2.5 text-sm">
-          Brands like {brand.name}
-        </a>
-      </div>
     </article>
   );
 }
