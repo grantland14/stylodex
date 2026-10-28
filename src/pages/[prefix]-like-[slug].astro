@@ -1,0 +1,202 @@
+---
+// "N Brands/Stores/Sites Like X" articles, at /brands-like-x, /stores-like-x or
+// /sites-like-x. Each subject is built at its one stored prefix only, so the
+// other prefixes 404. Never change a page's url_prefix once it is indexed.
+import type { GetStaticPaths } from "astro";
+import ArrowUpRight from "../components/ArrowUpRight.astro";
+import Base from "../layouts/Base.astro";
+import { listAlternativesPages } from "@/lib/data";
+import { longDate, priceRange, shipsTo, sizes } from "@/lib/format";
+import { brandsLikeTitle, judgeBrandsLikePage, priceFor, type PageVerdict } from "@/lib/gate";
+import { alternativesPath } from "@/lib/paths";
+import type { BrandsLikePage, SimilarPick } from "@/lib/types";
+
+export const getStaticPaths = (async () => {
+  const pages = await listAlternativesPages();
+  return pages
+    .map((page) => ({ page, verdict: judgeBrandsLikePage(page) }))
+    .filter(({ verdict }) => verdict.picks.length > 0)
+    .map(({ page, verdict }) => ({ params: { prefix: page.urlPrefix, slug: page.anchor.slug }, props: { page, verdict } }));
+}) satisfies GetStaticPaths;
+
+interface Props {
+  page: BrandsLikePage;
+  verdict: PageVerdict;
+}
+
+const { page, verdict } = Astro.props;
+const { picks } = verdict;
+const title = brandsLikeTitle(page, picks.length);
+const category = page.category.slug;
+const path = alternativesPath(page.urlPrefix, page.anchor.slug);
+const url = new URL(path, Astro.site).href;
+const anchorPrice = priceRange(priceFor(page.anchor, category));
+const PRICE_LABEL = { cheaper: "Cheaper", similar: "Similar price", pricier: "Pricier" } as const;
+
+const shopHref = (pick: SimilarPick) => `/go/${pick.brand.slug}?from=${encodeURIComponent(path)}`;
+const facts = (pick: SimilarPick) =>
+  [
+    priceRange(priceFor(pick.brand, category)),
+    pick.pair.priceRelation && PRICE_LABEL[pick.pair.priceRelation],
+    sizes(pick.brand),
+    shipsTo(pick.brand) && `Ships to ${shipsTo(pick.brand)}`,
+  ].filter((fact): fact is string => Boolean(fact));
+
+const graph: object[] = [
+  {
+    "@type": "ItemList",
+    name: title,
+    url,
+    numberOfItems: picks.length,
+    itemListElement: picks.map((pick, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      item: { "@type": "Brand", name: pick.brand.name, url: pick.brand.websiteUrl ?? undefined },
+    })),
+  },
+  {
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Stylodex", item: new URL("/", Astro.site).href },
+      { "@type": "ListItem", position: 2, name: title, item: url },
+    ],
+  },
+];
+if (page.faqs.length > 0) {
+  graph.push({
+    "@type": "FAQPage",
+    mainEntity: page.faqs.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })),
+  });
+}
+---
+
+<Base
+  title={title}
+  description={`${picks.length} verified alternatives to ${page.anchor.name}, with ${page.category.name.toLowerCase()} prices, sizes and US shipping for each.`}
+  canonical={path}
+  index={verdict.indexable}
+  jsonLd={{ "@context": "https://schema.org", "@graph": graph }}
+>
+  <article class="mx-auto max-w-3xl px-4 py-10 md:py-14">
+    <nav class="eyebrow">
+      <a href="/" class="no-underline hover:underline">Stylodex</a> /{" "}
+      {
+        page.anchor.status === "defunct" ? (
+          page.anchor.name
+        ) : (
+          <a href={`/brands/${page.anchor.slug}`} class="no-underline hover:underline">
+            {page.anchor.name}
+          </a>
+        )
+      }{" "}
+      / {page.category.name}
+    </nav>
+
+    <h1 class="mt-4 text-4xl font-normal leading-[1.1] tracking-tight md:text-5xl">{title}</h1>
+    <p class="mt-5 text-sm text-muted">
+      By {page.author} · Last checked {longDate(page.checkedAt)} ·{" "}
+      <a href="/disclosure" class="underline">We may earn a commission</a>
+    </p>
+
+    <p class="mt-8 text-lg leading-relaxed">{page.intro}</p>
+    {
+      anchorPrice && (
+        <p class="mt-3 text-sm text-muted">
+          For reference, {page.anchor.name} {page.category.name.toLowerCase()} runs {anchorPrice}.
+        </p>
+      )
+    }
+
+    <section aria-labelledby="at-a-glance" class="mt-10">
+      <h2 id="at-a-glance" class="eyebrow">At a glance</h2>
+      <div class="mt-3 overflow-x-auto border-t border-ink">
+        <table class="w-full min-w-[34rem] border-collapse text-left text-sm">
+          <thead>
+            <tr class="border-b border-rule text-muted">
+              <th class="py-3 pr-4 font-normal">Brand</th>
+              <th class="py-3 pr-4 font-normal">{page.category.name}</th>
+              <th class="py-3 pr-4 font-normal">Sizes</th>
+              <th class="py-3 font-normal">Ships to</th>
+            </tr>
+          </thead>
+          <tbody>
+            {
+              picks.map((pick) => (
+                <tr class="border-b border-rule align-top">
+                  <td class="py-3 pr-4 font-medium text-ink">
+                    <a href={`#${pick.brand.slug}`} class="no-underline hover:underline">
+                      {pick.brand.name}
+                    </a>
+                  </td>
+                  <td class="py-3 pr-4">{priceRange(priceFor(pick.brand, category))}</td>
+                  <td class="py-3 pr-4">{sizes(pick.brand)}</td>
+                  <td class="py-3">{shipsTo(pick.brand)}</td>
+                </tr>
+              ))
+            }
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <ol class="mt-14">
+      {
+        picks.map((pick, i) => (
+          <li id={pick.brand.slug} class="scroll-mt-6 border-t border-rule py-10 md:grid md:grid-cols-[13rem_1fr] md:gap-8">
+            {pick.brand.imageUrl && (
+              <img
+                src={pick.brand.imageUrl}
+                alt={pick.brand.name}
+                loading={i < 2 ? "eager" : "lazy"}
+                width="416"
+                height="416"
+                class="aspect-square w-full bg-soft object-cover md:w-52"
+              />
+            )}
+            <div class="mt-5 md:mt-0">
+              <p class="eyebrow">No. {i + 1}</p>
+              <h2 class="mt-1 text-2xl font-medium tracking-tight">{pick.brand.name}</h2>
+              <ul class="mt-4 flex flex-wrap gap-2" aria-label={`${pick.brand.name} at a glance`}>
+                {facts(pick).map((fact) => (
+                  <li class="chip">{fact}</li>
+                ))}
+              </ul>
+              <p class="mt-5 leading-relaxed">{pick.pair.body}</p>
+              <div class="mt-6 flex flex-wrap gap-3">
+                <a href={shopHref(pick)} rel="sponsored nofollow" class="btn-solid">
+                  Shop {pick.brand.name} <ArrowUpRight />
+                </a>
+                <a href={`/brands/${pick.brand.slug}`} class="btn-line">
+                  About {pick.brand.name}
+                </a>
+              </div>
+            </div>
+          </li>
+        ))
+      }
+    </ol>
+
+    {
+      page.faqs.length > 0 && (
+        <section class="border-t border-rule pt-12">
+          <h2 class="font-serif text-3xl">Questions</h2>
+          {page.faqs.map((f) => (
+            <div class="mt-6">
+              <h3 class="font-medium">{f.q}</h3>
+              <p class="mt-2 leading-relaxed">{f.a}</p>
+            </div>
+          ))}
+        </section>
+      )
+    }
+
+    <aside class="mt-14 bg-soft p-6 text-sm leading-relaxed">
+      <h2 class="eyebrow">How we pick</h2>
+      <p class="mt-3">
+        Every brand here is live, sells {page.category.name.toLowerCase()} today, and has been checked against its own store in the
+        last 90 days. Each one is also recommended alongside {page.anchor.name} by sources outside Stylodex. Prices are in US dollars
+        from each brand's own store. <a href="/how-we-pick" class="underline">More on our method</a>.
+      </p>
+    </aside>
+  </article>
+</Base>

@@ -42,13 +42,20 @@ On its own this is thin data. Enrichment (Phase 1) is what makes the site worth 
 - [x] Pick name: Stylodex
 - [ ] Buy stylodex.com (+ USPTO/UKIPO check in clothing/retail classes)
 - [x] Create GitHub repo (`grantland14/stylodex`)
-- [x] Scaffold: Next.js app, schema, indexing gate, `/go/` Skimlinks redirect, article + profile templates, tests
+- [x] Scaffold: schema, indexing gate, `/go/` Skimlinks redirect, article + profile templates, tests
+- [x] **Moved from Next.js to Astro 7** (Ash, 2026-10-28): static pages with no JavaScript, `/go/` and
+      `/img/` as the only server routes, `[prefix]-like-[slug]` as a real route (no rewrites)
+- [x] **No CMS** (Ash, 2026-10-28): content lives in Supabase and comes from the pipeline. If people
+      start editing often, add a small protected `/admin` over the same tables (not Sanity, which
+      Apart Style uses)
+- [ ] On the first Vercel deploy, confirm `/brands-like-x` serves 200 with no trailing slash and
+      `/brands-like-x/` 308s to it (the adapter builds `x/index.html` folders)
 - [x] Migration tested on a throwaway Postgres 16 (coexists with `public.brands`; anon reads verified rows only; only service_role writes clicks)
 - [x] Applied `supabase/migrations/00001_schema.sql` to the Apart Style project as `stylodex_00001_schema` (2026-10-28; Apart Style tables unchanged: 6,011 brands, 150,594 relationships)
 - [x] Exposed `stylodex` via the Data API (`00002_expose_stylodex_schema.sql`; overrides the dashboard setting, see the file)
 - [x] Created public storage bucket `stylodex-images` (5 MB, jpeg/webp/png)
 - [ ] Re-host brand images into it (Apart Style's `brand-images` URLs are never used)
-- [ ] New Vercel project (env vars from `.env.example`)
+- [ ] New Vercel project, framework Astro (env vars from `.env.example`)
 - [ ] Search Console + analytics on the new domain only
 - [ ] Skimlinks: apply once wave 1 is live (needs real content to be approved), then set `SKIMLINKS_SITE_ID`
       and confirm the `go.skimresources.com` link format against the Skimlinks Hub docs
@@ -106,6 +113,7 @@ What this adds to the build:
 - [x] **`/stores-like-[slug]`** alongside `/brands-like-[slug]`: same article template, one URL per
       subject, prefix chosen by which phrasing has more volume. Add an entity kind (brand / retailer /
       marketplace) to `stylodex.brands`.
+- [ ] Apply migration 00003 (Supabase's approval prompt timed out on 2026-10-28; nothing was applied)
 - [x] **Closed anchors are allowed.** "Stores like Wet Seal / Payless / Charming Charlie / Pier 1" are
       replacement searches. The anchor can be `defunct` (the intro says so); every *pick* must still
       be live. Gate change plus tests.

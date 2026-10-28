@@ -24,12 +24,17 @@ site-wide; see `tasks/todo.md` for the plan and why.
 - **Every sentence traces to a stored fact.** Article copy is drafted from the brands' stored facts
   only; a claim with no stored fact is cut.
 - **Affiliate links go through `/go/[slug]`** with `rel="sponsored nofollow"` and the disclosure.
+- **Never change a page's `url_prefix` once it is indexed.** Each subject is built at one prefix
+  only; the other prefixes 404, so a changed prefix loses the ranking URL.
+- **Astro, static first.** Pages are prerendered from Supabase at build time and ship no
+  JavaScript. Only `/go/` and `/img/` run on the server (`prerender = false`). Framework-free logic
+  lives in `lib/` and is unit-tested; `src/` is templates only. No CMS: content lives in Supabase.
 - Local dev without a database: `STYLODEX_FIXTURES=1 npm run dev` (placeholder brands, noindex,
   `robots.txt` disallows all).
 
 ## Checks before any push
 
-`npm test && npm run typecheck && npm run lint && STYLODEX_FIXTURES=1 npm run build`
+`npm test && npm run check && STYLODEX_FIXTURES=1 npm run build`
 
 ## Workflow Orchestration
 

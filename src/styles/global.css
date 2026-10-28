@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+/* Direction: thingtesting.com. White page, near-black type, hairline rules,
+   grotesk sans for headings and UI, a serif only for section titles. */
+@theme {
+  --color-paper: #ffffff;
+  --color-soft: #f6f6f4;
+  --color-ink: #18191a;
+  --color-body: #313335;
+  --color-muted: #6e7175;
+  --color-rule: #e3e3e3;
+  --font-sans: "Schibsted Grotesk", Helvetica, Arial, sans-serif;
+  --font-serif: "Newsreader", Georgia, serif;
+}
+
+@layer base {
+  body {
+    @apply bg-paper font-sans text-body antialiased;
+  }
+  h1,
+  h2,
+  h3 {
+    @apply text-ink;
+  }
+  a {
+    @apply underline-offset-4;
+  }
+}
+
+@utility eyebrow {
+  @apply text-xs font-medium uppercase tracking-[0.12em] text-muted;
+}
+
+@utility btn-solid {
+  @apply inline-flex items-center justify-center gap-2 border border-ink bg-ink px-5 py-3 text-sm font-medium text-paper no-underline transition-colors hover:bg-body;
+}
+
+@utility btn-line {
+  @apply inline-flex items-center justify-center gap-2 border border-rule bg-paper px-5 py-3 text-sm font-medium text-ink no-underline transition-colors hover:border-ink;
+}
+
+@utility chip {
+  @apply inline-block rounded-full border border-rule px-3 py-1 text-xs text-body;
+}

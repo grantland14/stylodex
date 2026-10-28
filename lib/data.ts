@@ -1,9 +1,10 @@
 import { createClient, type SupabaseClient } from "@supabase/supabase-js";
+import { env } from "./env";
 import { fixtureClosedStorePage, fixturePage } from "./fixtures";
 import type { Brand, BrandsLikePage, CategoryPrice, Evidence, Faq, SimilarPick, UrlPrefix } from "./types";
 
 /** Placeholder data, local only. Forces noindex everywhere and an empty sitemap. */
-export const FIXTURE_MODE = process.env.STYLODEX_FIXTURES === "1";
+export const FIXTURE_MODE = env("STYLODEX_FIXTURES") === "1";
 
 /** Stylodex's own schema in the shared Supabase project. Never query Apart Style's `public` tables. */
 const SCHEMA = "stylodex";
@@ -14,8 +15,8 @@ let client: SupabaseClient<any, typeof SCHEMA> | null = null; // eslint-disable-
 
 function db() {
   if (client) return client;
-  const url = process.env.SUPABASE_URL;
-  const key = process.env.SUPABASE_ANON_KEY;
+  const url = env("SUPABASE_URL");
+  const key = env("SUPABASE_ANON_KEY");
   if (!url || !key) {
     throw new Error("Supabase env vars missing. Set them, or STYLODEX_FIXTURES=1 for local placeholder data.");
   }
@@ -149,10 +150,35 @@ export async function listBrandsLikeSlugs(): Promise<string[]> {
   return (data ?? []).map((row: any) => row.brands?.slug).filter(Boolean);
 }
 
+/**
+ * Every drafted alternatives page, for the static build. Loads pages one by one,
+ * which is fine at wave sizes (hundreds); batch it before the site reaches thousands.
+ */
+export async function listAlternativesPages(): Promise<BrandsLikePage[]> {
+  if (FIXTURE_MODE) return fixturePages();
+  const pages: BrandsLikePage[] = [];
+  for (const slug of await listBrandsLikeSlugs()) {
+    const page = await getBrandsLikePage(slug);
+    if (page) pages.push(page);
+  }
+  return pages;
+}
+
+/** Verified brands, which get a profile page. Closed stores and candidates don't. */
+export async function listProfileBrands(): Promise<Brand[]> {
+  if (FIXTURE_MODE) {
+    const all = fixturePages().flatMap((page) => [page.anchor, ...page.picks.map((p) => p.brand)]);
+    return [...new Map(all.filter((b) => b.status === "verified").map((b) => [b.slug, b])).values()];
+  }
+  const { data, error } = await db().from("brands").select(BRAND_COLUMNS).eq("status", "verified");
+  if (error) throw error;
+  return (data ?? []).map(toBrand);
+}
+
 /** Server-side click log for /go/. Never throws: a logging failure must not block the redirect. */
 export async function logClick(brandId: string, pagePath: string | null): Promise<void> {
-  const url = process.env.SUPABASE_URL;
-  const serviceKey = process.env.SUPABASE_SERVICE_ROLE_KEY;
+  const url = env("SUPABASE_URL");
+  const serviceKey = env("SUPABASE_SERVICE_ROLE_KEY");
   if (FIXTURE_MODE || !url || !serviceKey) return;
   try {
     await createClient(url, serviceKey, { db: { schema: SCHEMA } }).from("clicks").insert({ brand_id: brandId, page_path: pagePath });
