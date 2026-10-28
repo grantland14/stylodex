@@ -25,7 +25,7 @@ export function fixtureBrand(overrides: Partial<Brand> & Pick<Brand, "slug" | "n
     certifications: [],
     productionModel: "Seasonal collections, made to order in small runs",
     salePattern: "Twice-yearly end-of-season sale",
-    imageUrl: "https://placehold.co/800x600?text=Example",
+    imageUrl: "/img/placeholder.svg",
     verifiedAt: CHECKED,
     prices: [{ category: "denim", minUsd: 80, maxUsd: 140, sourceUrl: "https://example.com", checkedAt: CHECKED }],
     ...overrides,

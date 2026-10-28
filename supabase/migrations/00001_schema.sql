@@ -1,5 +1,11 @@
 -- Stylodex schema. Facts live in columns, not prose, so every page sentence can
 -- be traced to a stored, dated fact.
+--
+-- Lives in its own `stylodex` schema inside the Apart Style Supabase project, so
+-- it never collides with or reads Apart Style's `public` tables at runtime.
+
+CREATE SCHEMA stylodex;
+SET search_path TO stylodex, public;
 
 CREATE TYPE brand_status AS ENUM ('candidate', 'verified', 'off_category', 'defunct');
 CREATE TYPE pair_status AS ENUM ('candidate', 'verified', 'rejected');
@@ -114,6 +120,13 @@ CREATE INDEX idx_brands_status ON brands(status);
 CREATE INDEX idx_similar_pairs_brand ON similar_pairs(brand_id, status, rank);
 CREATE INDEX idx_pair_evidence_pair ON pair_evidence(pair_id);
 CREATE INDEX idx_clicks_created ON clicks(created_at);
+
+-- API access: anon reads published rows (RLS below); service_role writes.
+-- The schema must also be added to "Exposed schemas" in the project's Data API settings.
+GRANT USAGE ON SCHEMA stylodex TO anon, authenticated, service_role;
+GRANT SELECT ON ALL TABLES IN SCHEMA stylodex TO anon, authenticated;
+GRANT ALL ON ALL TABLES IN SCHEMA stylodex TO service_role;
+GRANT USAGE, SELECT ON ALL SEQUENCES IN SCHEMA stylodex TO service_role;
 
 -- Public read for published data only; clicks are written server-side with the service key.
 ALTER TABLE brands ENABLE ROW LEVEL SECURITY;

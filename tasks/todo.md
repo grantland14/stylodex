@@ -13,8 +13,10 @@ structured facts, earning affiliate revenue. Not a reskin of Apart Style.
 
 ## Ground rules
 
-- [ ] **No shared footprint with Apart Style.** New repo, new Vercel project, new Supabase project,
-      new GSC property, new analytics, no cross-links, no redirects, no copied prose.
+- [ ] **No visible footprint shared with Apart Style.** New repo, new Vercel project, new GSC property,
+      new analytics, no cross-links, no redirects, no copied prose. Database: the Apart Style Supabase
+      project, in a separate `stylodex` schema, server-side only; images re-hosted in Stylodex's own
+      bucket and served from `/img/` (decided 2026-10-28).
 - [ ] **Facts can be reused, text cannot.** Seed brand facts from Apart Style's `brands` table;
       every description and "why similar" line is regenerated from structured data.
 - [ ] **Index only pages that pass the data gate** (Phase 3). Everything else ships `noindex`.
@@ -41,7 +43,10 @@ On its own this is thin data. Enrichment (Phase 1) is what makes the site worth 
 - [ ] Buy stylodex.com (+ USPTO/UKIPO check in clothing/retail classes)
 - [x] Create GitHub repo (`grantland14/stylodex`)
 - [x] Scaffold: Next.js app, schema, indexing gate, `/go/` Skimlinks redirect, article + profile templates, tests
-- [ ] New Supabase project; apply `supabase/migrations/00001_schema.sql`
+- [x] Migration tested on a throwaway Postgres 16 (coexists with `public.brands`; anon reads verified rows only; only service_role writes clicks)
+- [ ] Apply `supabase/migrations/00001_schema.sql` to the Apart Style project (awaiting go-ahead)
+- [ ] Add `stylodex` to the project's Data API "Exposed schemas"
+- [ ] Create public storage bucket `stylodex-images`; re-host brand images into it (Apart Style's `brand-images` URLs are never used)
 - [ ] New Vercel project (env vars from `.env.example`)
 - [ ] Search Console + analytics on the new domain only
 - [ ] Skimlinks: apply once wave 1 is live (needs real content to be approved), then set `SKIMLINKS_SITE_ID`
@@ -137,10 +142,13 @@ Gaps to resolve (decisions in the open questions):
   out of scope in v1.
 - `/publish` targets WordPress/Ghost/Webflow; Stylodex needs a Supabase destination.
 
+Decided 2026-10-28: **the wildcard-seo repo is not modified.** It is read as a reference; any
+Stylodex-specific adaptations (no client at #1, Supabase as the publish target, batch runs) live
+in this repo.
+
 ## Open questions
 
-1. Onboard Stylodex as a client inside wildcard-seo (`clients/stylodex/`), or keep its pipeline here?
-2. Full `/blog` pipeline for which pages: wave 1 only, or every page?
+1. Full pipeline for which pages: the first ~20, wave 1, or every page?
 
 ## Review
 

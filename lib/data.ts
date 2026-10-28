@@ -5,16 +5,19 @@ import type { Brand, BrandsLikePage, CategoryPrice, Evidence, Faq, SimilarPick }
 /** Placeholder data, local only. Forces noindex everywhere and an empty sitemap. */
 export const FIXTURE_MODE = process.env.STYLODEX_FIXTURES === "1";
 
-let client: SupabaseClient | null = null;
+/** Stylodex's own schema in the shared Supabase project. Never query Apart Style's `public` tables. */
+const SCHEMA = "stylodex";
 
-function db(): SupabaseClient {
+let client: SupabaseClient<any, typeof SCHEMA> | null = null; // eslint-disable-line @typescript-eslint/no-explicit-any
+
+function db() {
   if (client) return client;
-  const url = process.env.NEXT_PUBLIC_SUPABASE_URL;
-  const key = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
+  const url = process.env.SUPABASE_URL;
+  const key = process.env.SUPABASE_ANON_KEY;
   if (!url || !key) {
     throw new Error("Supabase env vars missing. Set them, or STYLODEX_FIXTURES=1 for local placeholder data.");
   }
-  client = createClient(url, key);
+  client = createClient(url, key, { db: { schema: SCHEMA } });
   return client;
 }
 
@@ -133,11 +136,11 @@ export async function listBrandsLikeSlugs(): Promise<string[]> {
 
 /** Server-side click log for /go/. Never throws: a logging failure must not block the redirect. */
 export async function logClick(brandId: string, pagePath: string | null): Promise<void> {
-  const url = process.env.NEXT_PUBLIC_SUPABASE_URL;
+  const url = process.env.SUPABASE_URL;
   const serviceKey = process.env.SUPABASE_SERVICE_ROLE_KEY;
   if (FIXTURE_MODE || !url || !serviceKey) return;
   try {
-    await createClient(url, serviceKey).from("clicks").insert({ brand_id: brandId, page_path: pagePath });
+    await createClient(url, serviceKey, { db: { schema: SCHEMA } }).from("clicks").insert({ brand_id: brandId, page_path: pagePath });
   } catch (err) {
     console.error("click log failed", err);
   }

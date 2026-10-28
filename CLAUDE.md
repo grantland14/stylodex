@@ -6,8 +6,13 @@ site-wide; see `tasks/todo.md` for the plan and why.
 
 ## Project rules
 
-- **No shared footprint with Apart Style.** Never copy its prose, link to it, redirect from it, or
-  point this app at its Supabase project. Brand *facts* may be seeded from it; text never.
+- **No visible footprint shared with Apart Style.** Never copy its prose, link to it or redirect
+  from it. Brand *facts* may be seeded from it; text never.
+- **Shared Supabase project, separate schema.** Stylodex lives in the `stylodex` schema of the
+  Apart Style project. The app never queries `public.*` (Apart Style's tables) at runtime; seeding
+  is a one-off copy. Supabase is server-side only (`SUPABASE_URL`, no `NEXT_PUBLIC_`), and images
+  are served from `/img/` (the `stylodex-images` bucket), never from a raw storage URL. The gate
+  enforces the image rule.
 - **Similar brands must be real.** A pick renders only if `lib/gate.ts` passes it: both brands
   verified, same category, price label matches stored prices, outside evidence stored, one specific
   reason, checked within 90 days. Change the gate only with tests in `lib/gate.test.ts`.

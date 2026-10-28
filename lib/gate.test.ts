@@ -71,3 +71,15 @@ test("the title uses the real pick count", () => {
   const page = fixturePage();
   assert.equal(brandsLikeTitle(page, 7), "7 Brands Like Example Denim Co for Durable, Everyday Denim");
 });
+
+test("images hosted anywhere but /img/ block indexing", () => {
+  const page = fixturePage();
+  page.anchor = fixtureBrand({
+    slug: page.anchor.slug,
+    name: page.anchor.name,
+    imageUrl: "https://gsseybdqmpfcyeijhgfs.supabase.co/storage/v1/object/public/brand-images/x.jpg",
+  });
+  const verdict = judgeBrandsLikePage(page, NOW);
+  assert.equal(verdict.indexable, false);
+  assert.match(verdict.reasons[0], /anchor missing: imageUrl/);
+});
