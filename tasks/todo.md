@@ -62,6 +62,15 @@ On its own this is thin data. Enrichment (Phase 1) is what makes the site worth 
 
 ## Phase 1 — Data (the moat)
 
+Progress 2026-10-28:
+- [x] Seeded all 6,011 Apart Style brands into `stylodex.brands` as `candidate` (name, slug, website
+      URL, `seed_source_id`; no text). Hidden from the site by RLS until verified.
+- [ ] Categories (fashion + beauty): waiting on migration 00003, which adds `vertical NOT NULL`
+- [x] Pipeline written: `pipeline/README.md`, `pipeline/enrich.md`; output to `pipeline/data/`
+- [ ] Wave-1 selection: Ahrefs volumes for 222 subjects × {brands, stores} like + Apart Style GSC
+      clicks (Dec 2025–Aug 2026) → `pipeline/data/wave-1.tsv`
+- [ ] Pilot page: Jaded London, end to end, then adjust `enrich.md` before scaling
+
 - [ ] Import the brand seed list (name, URL, price tier) into the new schema
 - [ ] Re-verify every domain (WebFetch + search; a DNS failure means a bad record, not a dead brand)
 - [ ] Drop non-apparel brands, or move them to a separate category
@@ -113,7 +122,7 @@ What this adds to the build:
 - [x] **`/stores-like-[slug]`** alongside `/brands-like-[slug]`: same article template, one URL per
       subject, prefix chosen by which phrasing has more volume. Add an entity kind (brand / retailer /
       marketplace) to `stylodex.brands`.
-- [ ] Apply migration 00003 (Supabase's approval prompt timed out on 2026-10-28; nothing was applied)
+- [ ] Apply migration 00003 (Supabase's approval prompt timed out twice on 2026-10-28; nothing was applied)
 - [x] **Closed anchors are allowed.** "Stores like Wet Seal / Payless / Charming Charlie / Pier 1" are
       replacement searches. The anchor can be `defunct` (the intro says so); every *pick* must still
       be live. Gate change plus tests.
