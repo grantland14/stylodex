@@ -44,9 +44,10 @@ On its own this is thin data. Enrichment (Phase 1) is what makes the site worth 
 - [x] Create GitHub repo (`grantland14/stylodex`)
 - [x] Scaffold: Next.js app, schema, indexing gate, `/go/` Skimlinks redirect, article + profile templates, tests
 - [x] Migration tested on a throwaway Postgres 16 (coexists with `public.brands`; anon reads verified rows only; only service_role writes clicks)
-- [ ] Apply `supabase/migrations/00001_schema.sql` to the Apart Style project (awaiting go-ahead)
-- [ ] Add `stylodex` to the project's Data API "Exposed schemas"
-- [ ] Create public storage bucket `stylodex-images`; re-host brand images into it (Apart Style's `brand-images` URLs are never used)
+- [x] Applied `supabase/migrations/00001_schema.sql` to the Apart Style project as `stylodex_00001_schema` (2026-10-28; Apart Style tables unchanged: 6,011 brands, 150,594 relationships)
+- [ ] Add `stylodex` to the project's Data API "Exposed schemas" (Ash, in the dashboard)
+- [x] Created public storage bucket `stylodex-images` (5 MB, jpeg/webp/png)
+- [ ] Re-host brand images into it (Apart Style's `brand-images` URLs are never used)
 - [ ] New Vercel project (env vars from `.env.example`)
 - [ ] Search Console + analytics on the new domain only
 - [ ] Skimlinks: apply once wave 1 is live (needs real content to be approved), then set `SKIMLINKS_SITE_ID`
