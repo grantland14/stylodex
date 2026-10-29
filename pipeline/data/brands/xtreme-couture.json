@@ -1,0 +1,32 @@
+{
+  "slug": "xtreme-couture",
+  "name": "Xtreme Couture",
+  "website_url": "https://xtremecouture.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Randy Couture MMA Apparel",
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [],
+  "free_shipping_min_usd": null,
+  "returns_days": null,
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://xtremecouture.com/",
+    "https://www.xtremecouture.com/collections.json?limit=250",
+    "https://www.xtremecouture.com/collections/mens/products.json?limit=250"
+  ],
+  "notes": [
+    "Title 'OFFICIAL XTREME COUTURE APPAREL'; meta 'OFFICIAL XTREME COUTURE RANDY COUTURE MMA APPAREL SITE FOR MEN AND WOMEN'. Mens collection serves 20 products (short-sleeve tees $18.75 with compare-at $25.00; long-sleeve $33.00 with compare-at $44.00): every tee is marked down, so no regular-price range; prices left empty. Shipping, returns and sizes not checked (not pickable)."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "konflic-usa",
+  "name": "Konflic USA",
+  "website_url": "https://www.konflicusa.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Bold MMA and Skull Graphic Tees",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Tees Small–XX-Large (3XL on a few)",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "graphic-tees",
+      "currency": "USD",
+      "min": 24.99,
+      "max": 24.99,
+      "min_usd": 24.99,
+      "max_usd": 24.99,
+      "fx_date": null,
+      "item_count": 1,
+      "source_url": "https://www.konflicusa.com/collections/mma-tees/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "MMA Tees: 94 of 95 products carry a compare-at price above the selling price; only 1 tee is at regular price. Store-wide (collections/all) the same: 1 regular-price tee of 115 products."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": "'Made in USA' (homepage meta description)",
+  "sale_pattern": null,
+  "sources": [
+    "https://www.konflicusa.com/",
+    "https://www.konflicusa.com/collections.json?limit=250",
+    "https://www.konflicusa.com/collections/mma-tees/products.json?limit=250",
+    "https://www.konflicusa.com/collections/graphic-tees/products.json?limit=250",
+    "https://www.konflicusa.com/collections/konflic-affliction-shirt-vault/products.json?limit=250",
+    "https://www.konflicusa.com/policies/shipping-policy",
+    "https://www.konflicusa.com/policies/refund-policy"
+  ],
+  "notes": [
+    "Obphoria links konflicusa.com (its text spells it 'Konflict'). Title 'Buy Bold MMA T-Shirts, Skull Graphic Tees | Konflic USA'; meta '100% cotton, rhinestone MMA t-shirts, gothic graphic tees ... Made in USA'. Has a collection handled 'konflic-affliction-shirt-vault' (titled 'Vault', 28 products, all marked down).",
+    "Shipping: 'We offer shipping to all locations within USA'. Returns: 14 days; return address 1442 W 223rd St, Torrance CA 90501 (hq_country US)."
+  ],
+  "checked_at": "2026-10-29"
+}

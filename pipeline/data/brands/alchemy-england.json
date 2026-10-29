@@ -1,0 +1,59 @@
+{
+  "slug": "alchemy-england",
+  "name": "Alchemy England",
+  "website_url": "https://alchemyofengland.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Jewellery and Giftware",
+  "hq_country": "GB",
+  "founded_year": 1977,
+  "parent_company": null,
+  "size_range": "Tees S–XXXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": null,
+  "prices": [
+    {
+      "category": "graphic-tees",
+      "currency": "USD",
+      "min": 40,
+      "max": 40,
+      "min_usd": 40,
+      "max_usd": 40,
+      "fx_date": null,
+      "item_count": 9,
+      "source_url": "https://alchemyofengland.com/collections/alchemy-apparel-t-shirts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Alchemy Apparel - T-Shirts: 9 regular-price short-sleeve tees served (collection lists 22), all $40, horror-themed graphics (e.g. 'The Mummy', 'Curse of Frankenstein'); none on sale. Regular price = no variant with compare_at_price above price and no sale/markdown/clearance tag; long-sleeve, tank, polo, hoodie, bundle and mystery items excluded so the range is short-sleeve tees."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.alchemygothic.com/",
+    "https://alchemyengland.com/",
+    "https://alchemyofengland.com/products.json?limit=250",
+    "https://alchemyofengland.com/collections.json?limit=250",
+    "https://alchemyofengland.com/collections/alchemy-apparel-t-shirts/products.json?limit=250",
+    "https://alchemyofengland.com/cart.js",
+    "https://alchemyofengland.com/pages/about-us",
+    "https://alchemyofengland.com/pages/shipping",
+    "https://alchemyofengland.com/pages/returns",
+    "https://alchemyofengland.com/pages.json?limit=250"
+  ],
+  "notes": [
+    "alchemygothic.com ('Alchemy Gothic Official Site', The Alchemy Carta Limited) is a museum/catalogue site that sends shoppers to the Alchemy England store; alchemyengland.com (UK) says US customers should order at alchemyofengland.com, the US store used here (USD, Fort Worth TX warehouse).",
+    "About: established 1977 by Geoff Kayson and Trevor Phillipson; 'Our factory and HQ is located in Leicestershire, England'. UK site: 'UK-based makers of high quality Jewellery and Giftware'. Jewellery is the main line (pendants, earrings, rings); tees are a small apparel range.",
+    "Shipping: 'All USA and Canadian customers are serviced from our US warehouse'; Free Standard Shipping on orders of $100 or more; other countries served from the UK site. Returns page gives no window for undamaged items (credit to account) and 15 days to report damage, so returns_days is null.",
+    "Page texts (About, policies) were read from the store's public /pages.json as well as by WebFetch."
+  ],
+  "checked_at": "2026-10-29"
+}

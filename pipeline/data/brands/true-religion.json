@@ -1,0 +1,32 @@
+{
+  "slug": "true-religion",
+  "name": "True Religion",
+  "website_url": "https://www.truereligion.com",
+  "status": "unverified",
+  "kind": "brand",
+  "known_for": null,
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [],
+  "free_shipping_min_usd": null,
+  "returns_days": null,
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.truereligion.com/",
+    "https://www.truereligion.com/mens-graphic-tees",
+    "https://www.zumiez.com/brands/true-religion"
+  ],
+  "notes": [
+    "2026-10-29: truereligion.com and /mens-graphic-tees answered HTTP 307 to themselves for WebFetch (and curl); not read, no workaround. Zumiez's True Religion page lists 302 items, 11 of 32 visible are T-shirts ($41.95)."
+  ],
+  "checked_at": "2026-10-29"
+}

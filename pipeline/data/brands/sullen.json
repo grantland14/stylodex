@@ -1,0 +1,60 @@
+{
+  "slug": "sullen",
+  "name": "Sullen Clothing",
+  "website_url": "https://sullenclothing.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Tattoo Lifestyle Apparel",
+  "hq_country": "US",
+  "founded_year": 2001,
+  "parent_company": null,
+  "size_range": "Tees S–3X (4X and 5X on 130 of 135)",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 99,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "graphic-tees",
+      "currency": "USD",
+      "min": 25,
+      "max": 48.95,
+      "min_usd": 25,
+      "max_usd": 48.95,
+      "fx_date": null,
+      "item_count": 102,
+      "source_url": "https://sullenclothing.com/collections/tees/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "TEES collection: 102 regular-price short-sleeve tees (product types 'Tees' and 'Mens Unassigned', whose titles are Standard/Premium/1-Ton tee bodies) of 135; 24 sale excluded ('Prime Day Sale' tag or compare-at); jersey, polo, tanks, subscriptions, mystery packs and the $125 'Nightmare Box' bundle excluded. Larger sizes cost more within a product. Regular price = no variant with compare_at_price above price and no sale/markdown/clearance tag; long-sleeve, tank, polo, hoodie, bundle and mystery items excluded so the range is short-sleeve tees."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://sullenclothing.com/",
+    "https://sullenclothing.com/collections.json?limit=250",
+    "https://sullenclothing.com/collections/tees/products.json?limit=250",
+    "https://sullenclothing.com/cart.js",
+    "https://sullenclothing.com/pages/about-us",
+    "https://sullenclothing.com/pages/sullen-brand-faq",
+    "https://sullenclothing.com/pages/shipping-rates",
+    "https://sullenclothing.com/policies/shipping-policy",
+    "https://sullenclothing.com/policies/refund-policy",
+    "https://sullenclothing.com/pages.json?limit=250"
+  ],
+  "notes": [
+    "Title 'Sullen Art Collective - Tattoo lifestyle apparel brand'; meta 'Sullen Clothing based in Southern California since 2001, is an art driven tattoo lifestyle brand'. FAQ: 'founded in 2001 in Southern California'; 'Every graphic is original work from a real tattoo artist, printed on heavyweight Premium and Standard tees'; Artist Series with '460+ tattoo artists'. About: 'independently owned'.",
+    "Returns: 'within 30 days of the original purchase date'; returns go to Seal Beach, CA. Banner: 'FREE U.S. Dom shipping + $99'. Shipping Rates page lists rates to the U.K., Australia, Canada and other countries.",
+    "Page texts (About, policies) were read from the store's public /pages.json as well as by WebFetch."
+  ],
+  "checked_at": "2026-10-29"
+}

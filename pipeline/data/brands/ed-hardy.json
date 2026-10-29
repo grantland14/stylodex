@@ -1,0 +1,64 @@
+{
+  "slug": "ed-hardy",
+  "name": "Ed Hardy",
+  "website_url": "https://edhardyoriginals.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Don Ed Hardy Tattoo Art",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Men's tees S–XXL (XXL on 86 of 95; XS on 1)",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "graphic-tees",
+      "currency": "USD",
+      "min": 45,
+      "max": 115,
+      "min_usd": 45,
+      "max_usd": 115,
+      "fx_date": null,
+      "item_count": 41,
+      "source_url": "https://edhardyoriginals.com/collections/new-tees/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "MEN'S TEES collection: 41 regular-price short-sleeve tees of 95 (43 excluded as sale: 'Summer Sale 26'/'sale' tags or compare-at; 11 long-sleeve/other excluded). Top of range is rhinestone boxy tees ($115). Women's tees (/collections/womens-all-tees): $29.25–$60 over 31 regular-price items. Regular price = no variant with compare_at_price above price and no sale/markdown/clearance tag; long-sleeve, tank, polo, hoodie, bundle and mystery items excluded so the range is short-sleeve tees."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://edhardyoriginals.com/",
+    "https://edhardyoriginals.com/collections.json?limit=250",
+    "https://edhardyoriginals.com/collections/new-tees/products.json?limit=250",
+    "https://edhardyoriginals.com/collections/womens-all-tees/products.json?limit=250",
+    "https://edhardyoriginals.com/cart.js",
+    "https://edhardyoriginals.com/pages/about-us",
+    "https://edhardyoriginals.com/pages/shipping-policy",
+    "https://edhardyoriginals.com/policies/shipping-policy",
+    "https://edhardyoriginals.com/policies/refund-policy",
+    "https://edhardyoriginals.com/pages/privacy-policy",
+    "https://en.wikipedia.org/wiki/Ed_Hardy_(brand)",
+    "https://www.zumiez.com/brands/ed-hardy",
+    "https://edhardyoriginals.com/pages.json?limit=250"
+  ],
+  "notes": [
+    "Homepage title 'Ed Hardy | The official website of the Ed Hardy brand.' About: Don Ed Hardy, 'The God Father of Modern Tattoos,' is an American born, internationally recognized artist.",
+    "hq_country US: the official site's privacy policy gives its office as 1450 Broadway, 3rd Floor, New York, NY 10018. The brand's founding year isn't stated on the site or in Wikipedia, so founded_year is null.",
+    "Wikipedia (cited to Reuters): Iconix Brand Group bought 50% of Hardy Way LLC in 2009 and 85% in 2011; Hardy Way LLC owns the trademarks. parent_company left null because the current owner isn't confirmed by a dated source fetched this run.",
+    "Shipping: 'FREE SHIPPING on all orders over $100 USD for the USA and for orders over $195 (USD) for Canada'; Mexico flat $50. UK and Australia not mentioned. Returns: 'within 30 days of receiving your purchase'; sale items final.",
+    "Zumiez stocks Ed Hardy (282 items on its brand page, incl. tees at $42.95–$44.95).",
+    "Page texts (About, policies) were read from the store's public /pages.json as well as by WebFetch."
+  ],
+  "checked_at": "2026-10-29"
+}

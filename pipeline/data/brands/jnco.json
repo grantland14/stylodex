@@ -33,6 +33,19 @@
       "source_url": "https://jnco.com/collections/womens-pants/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "collection titled \"Women's Jeans\"; 62 of 86 product_type Jeans at regular price (24 on sale excluded). Men's Jeans (/collections/mens-pants) also $130–$350 over 69 items"
+    },
+    {
+      "category": "graphic-tees",
+      "currency": "USD",
+      "min": 50,
+      "max": 80,
+      "min_usd": 50,
+      "max_usd": 80,
+      "fx_date": null,
+      "item_count": 22,
+      "source_url": "https://jnco.com/collections/tees/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "22 of 33 products in the 'tees' collection: short-sleeve tees at regular price (0 on sale; 11 long-sleeve/hoodie items excluded). Men's tee sizes S–XXL (XXXL on 32 of 33). Regular price = no variant with compare_at_price above price and no sale/markdown/clearance tag; long-sleeve, tank, polo, hoodie, bundle and mystery items excluded so the range is short-sleeve tees."
     }
   ],
   "materials": [],
@@ -47,14 +60,16 @@
     "https://jnco.com/collections/womens-v2",
     "https://jnco.com/collections/pants",
     "https://jnco.com/collections/womens-pants/products.json?limit=250",
-    "https://jnco.com/collections/mens-pants/products.json?limit=250"
+    "https://jnco.com/collections/mens-pants/products.json?limit=250",
+    "https://jnco.com/collections/tees/products.json?limit=250"
   ],
   "notes": [
     "Our Story: 'one of the most influential brands in streetwear history'; founder Milo Revah; timeline starts 1985 ('Los Angeles since 1985' on the homepage); 'the original JNCO family took the company back' in 2019. No parent company is named.",
     "Free shipping: none offered. US orders are a $10 flat rate ($25 AK/HI), so free_shipping_min_usd is null, not missing. International shipping is DHL worldwide.",
     "Waist 24–44 (women) / 26–44 (men); leg openings 20\"–50\" (collection filters).",
     "Prices are null: collection pages list product names but no prices to WebFetch.",
-    "2026-10-29: jeans price added from products.json. Regular price = no variant with compare_at_price above price and no sale/markdown tag; sale items excluded."
+    "2026-10-29: jeans price added from products.json. Regular price = no variant with compare_at_price above price and no sale/markdown tag; sale items excluded.",
+    "2026-10-29 (affliction run): graphic-tees price added from /collections/tees/products.json; size options S, M, L, XL, XXL (all 33), XXXL (32). Other fields unchanged from the jeans run of the same day."
   ],
   "checked_at": "2026-10-29"
 }

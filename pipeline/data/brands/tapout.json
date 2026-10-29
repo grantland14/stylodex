@@ -1,0 +1,32 @@
+{
+  "slug": "tapout",
+  "name": "Tapout",
+  "website_url": "https://www.tapout.com",
+  "status": "off_category",
+  "kind": "brand",
+  "known_for": null,
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [],
+  "free_shipping_min_usd": null,
+  "returns_days": null,
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.tapout.com/",
+    "https://www.tapout.com/products.json?limit=1",
+    "https://www.zumiez.com/brands/tapout"
+  ],
+  "notes": [
+    "Live (footer TapouT, LLC) but sells nothing directly: 'Shop Now' links go to Dick's Sporting Goods, Walmart, Amazon and Academy; products shown are boxing gloves and kits; no tees. Self-description: 'Tapout was started in 1997 by three MMA super fans selling tees out of the back of their Ford Mustang.' Zumiez's Tapout page lists 1 item (socks)."
+  ],
+  "checked_at": "2026-10-29"
+}
