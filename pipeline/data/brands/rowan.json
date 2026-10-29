@@ -1,0 +1,45 @@
+{
+  "slug": "rowan",
+  "name": "Rowan",
+  "website_url": "https://heyrowan.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Ear Piercing by Licensed Nurses",
+  "us_stores": true,
+  "free_shipping_min_usd": 150,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "earrings",
+      "currency": "USD",
+      "min": 6.0,
+      "max": 385.0,
+      "min_usd": 6.0,
+      "max_usd": 385.0,
+      "fx_date": null,
+      "item_count": 330,
+      "source_url": "https://heyrowan.com/products.json",
+      "checked_at": "2026-10-29",
+      "note": "All-products feed, earring types (Studs, Hoops, Huggie, Threaders, Cuff, Earrings; piercing-service, aftercare, gift and back-pack items excluded): 330 items, all regular price (no compare_at). Lowest Rowan Sports Studs 15 Pack $6, then Love Is Love Stud $12, Lightning Bolt Stud $14; median $38 (CZ Ghost Studs $36, Bow CZ Huggies $36); highest 14k Diamond Hoop 17mm $385, 14k Diamond Trinity $379."
+    }
+  ],
+  "sells_categories": [
+    "earrings"
+  ],
+  "sources": [
+    "https://heyrowan.com/",
+    "https://heyrowan.com/products.json",
+    "https://heyrowan.com/policies/refund-policy",
+    "https://heyrowan.com/policies/shipping-policy",
+    "https://heyrowan.com/pages/about",
+    "https://heyrowan.com/pages/piercing-services",
+    "https://heyrowan.com/pages/huntington-station-piercing-studio",
+    "https://heyrowan.com/pages/faq"
+  ],
+  "notes": [
+    "2026-10-29 (claires page run): title 'Rowan | Piercing by Licensed Nurses. Hypoallergenic Earrings for All'. About: founder and CEO Louisa Schneider; earrings in 14K gold, 24K gold, sterling silver, titanium and platinum; 'No nickel, no brass, no zinc.'",
+    "Banner: 'Free shipping on all orders over $150'. Shipping policy page is empty and no shipping countries are named, so ships_to left empty. Refund policy page: 30-day return policy, unworn in original packaging; no returns on sale items or gift cards (the page still carries an '[INSERT RETURN ADDRESS]' placeholder).",
+    "Piercing services: performed by licensed nurses; device piercing (ages 2 months+ with DTaP) $35 single, $50 double; needle (ages 5+) $35 per ear, $45 nose; jewelry extra (device jewelry from $60, needle from $68); post change $25, free with a Rowan earring purchase. Studio pages on heyrowan.com (e.g. Walt Whitman Shops, Huntington Station, NY) -> us_stores true. Retail Dive (Nov 2025): 95 stores, aiming for 100."
+  ],
+  "checked_at": "2026-10-29"
+}

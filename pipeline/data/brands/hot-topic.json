@@ -20,7 +20,8 @@
   "returns_days": 30,
   "sells_categories": [
     "mens-clothing",
-    "graphic-tees"
+    "graphic-tees",
+    "earrings"
   ],
   "prices": [
     {
@@ -61,6 +62,19 @@
       "source_url": "https://www.hottopic.com/girls/tops/",
       "checked_at": "2026-10-29",
       "note": "Girls > Tops listing read with curl (StylodexBot UA) sorted both ways (srule=sortingPriceLowToHigh&sz=200 and sortingPriceHighToLow&sz=200), so both ends are covered; tiles showing a struck list price excluded, as are belts, kimonos, dusters and jackets. Low: Navy & White Lace Trim Girls Twofer Top $18.90, Reaperess Razor Back Top $18.90; high: Unique Vintage Black Lace Smocked Blouse $78.90. Multi-brand (Spiral, Unique Vintage, Social Collision and house lines)."
+    },
+    {
+      "category": "earrings",
+      "currency": "USD",
+      "min": 7.9,
+      "max": 115.9,
+      "min_usd": 7.9,
+      "max_usd": 115.9,
+      "fx_date": null,
+      "item_count": 328,
+      "source_url": "https://www.hottopic.com/accessories/jewelry/earrings/",
+      "checked_at": "2026-10-29",
+      "note": "Accessories > Jewelry > Earrings listing read with curl (StylodexBot UA) sorted both ways (srule=sortingPriceLowToHigh&sz=200 and sortingPriceHighToLow&sz=200), so both ends are covered: 397 unique tiles, 328 with no struck-through price, 69 marked down excluded. Low: Gothmas Tree Drop Earrings, Marvel Captain America Shield Stud Earrings, Shark Biting Earrings $7.90; earring sets e.g. Cinnamoroll Heart Bling Earring Set $14.90; high: RockLove collabs, e.g. Avatar The Last Airbender X RockLove Kyoshi Warrior Fan Earrings $115.90, Mean Girls X RockLove Stud Earrings Set $85.90."
     }
   ],
   "materials": [],
@@ -80,7 +94,9 @@
     "https://www.hottopic.com/tees/?srule=sortingPriceLowToHigh&start=0&sz=200",
     "https://www.hottopic.com/tees/?srule=sortingPriceHighToLow&start=0&sz=200",
     "https://www.hottopic.com/girls/tops/?srule=sortingPriceLowToHigh&sz=200",
-    "https://www.hottopic.com/girls/tops/?srule=sortingPriceHighToLow&sz=200"
+    "https://www.hottopic.com/girls/tops/?srule=sortingPriceHighToLow&sz=200",
+    "https://www.hottopic.com/accessories/jewelry/earrings/?srule=sortingPriceLowToHigh&start=0&sz=200",
+    "https://www.hottopic.com/accessories/jewelry/earrings/?srule=sortingPriceHighToLow&start=0&sz=200"
   ],
   "notes": [
     "2026-10-29 (zumiez page run): homepage title 'Hot Topic | The Pop-Culture Merch & Clothing Store'; nav Pop Culture, Halloween, Holiday, New, Girls, Plus, Guys, Tees, Backpacks & Bags, Accessories; banner 'Free Shipping With $75 Purchase*'. known_for from the title.",
@@ -90,7 +106,8 @@
     "Wikipedia (Hot Topic): founded October 1989 in Montclair, California by Orv Madden; HQ City of Industry, California; Sycamore Partners bought it in 2013; on August 7, 2026 Spencer Spirit Holdings announced it would acquire Hot Topic from Sycamore (pending), so parent_company is left empty; 675 locations (April 2020). Store locator (hottopic.com/stores) loads by script, so us_stores is not set.",
     "Wikipedia (Hot Topic) also: stores target 'counterculture-related clothing and accessories' and licensed music; the current selection is mostly licensed video game merchandise, internet memes, anime, manga and Japanese film merchandise. Shipping page: 'There is an additional $1.99 surcharge per item on pre-order merch shipped to home addresses. This surcharge is waived entirely if the Ship To Store option is selected.'",
     "2026-10-29 (spencers page run, C graphic-tees): graphic-tees price from the all-tees listing (see price note). Its tees are licensed pop-culture, music and anime tees, so the whole listing counts as graphic tees except blank basics.",
-    "2026-10-29 (brands-like-unif run): women's tops live under /girls/tops/ (/womens/tops/ is 404). 42 of the 200 cheapest tiles showed a markdown."
+    "2026-10-29 (brands-like-unif run): women's tops live under /girls/tops/ (/womens/tops/ is 404). 42 of the 200 cheapest tiles showed a markdown.",
+    "2026-10-29 (claires page run): earrings are mostly licensed pop-culture designs (Marvel, Sanrio, Lord of the Rings, anime) plus RockLove collaborations at the top of the range. Returns page: body jewelry is final sale."
   ],
   "checked_at": "2026-10-29"
 }

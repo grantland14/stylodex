@@ -1,0 +1,49 @@
+{
+  "slug": "lovisa",
+  "name": "Lovisa",
+  "website_url": "https://www.lovisa.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Jewelry and Free Ear Piercing",
+  "hq_country": "AU",
+  "founded_year": 2010,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 45,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "earrings",
+      "currency": "USD",
+      "min": 2.99,
+      "max": 49.99,
+      "min_usd": 2.99,
+      "max_usd": 49.99,
+      "fx_date": null,
+      "item_count": 2481,
+      "source_url": "https://www.lovisa.com/collections/earrings/products.json",
+      "checked_at": "2026-10-29",
+      "note": "US store (Shopify lovisa-usa, USD). Earrings collection feed: 2564 earrings (backs and tool-only items excluded), 2481 regular price, 83 marked down. Lowest $2.99 (4mm Pearl Stud Earrings, Black Butterfly Enamel Stud Earrings); median $17.99; mid-range e.g. Gold 3D Flower Hoop Earrings $12.99; highest Sterling Silver Flat Edge Hoop $49.99 and Surgical Steel Flat Back Tool & Celestial Earrings Pack $46.99. Homepage promo 'Buy 3+, Save 20%' and bundles (Earrings Bundle 5 for $12) are promotions, not markdowns."
+    }
+  ],
+  "sells_categories": [
+    "earrings"
+  ],
+  "sources": [
+    "https://www.lovisa.com/",
+    "https://www.lovisa.com/collections/earrings/products.json",
+    "https://www.lovisa.com/policies/shipping-policy",
+    "https://www.lovisa.com/policies/refund-policy",
+    "https://www.lovisa.com/pages/piercing-studio",
+    "https://en.wikipedia.org/wiki/Lovisa_(company)"
+  ],
+  "notes": [
+    "2026-10-29 (claires page run): www.lovisa.com is the US store (Shopify.shop lovisa-usa, currency USD, country US); lovisa.com.au is the AUD store.",
+    "Shipping policy: US standard (3-6 business days) free over $45, else $5.99; express $14.99; next day $24.99. Canada express CAD $16. Refund policy: refunds within 30 days of delivery; online orders can be returned to a Lovisa store; 'Earrings, body piercing products, hair accessories, face masks, and gift cards cannot be returned or exchanged for change of mind reasons.'",
+    "Piercing page: 'Our piercing service is free! All you have to do is purchase a piercing stud.' Studs from $34.99 surgical steel, $54.99 nose, $59.99 14KT gold, $129.99 diamonds. Hand-pressurized device with pre-sterilized single-use stud; lobe, upper lobe, stacked lobe, midi, helix, nostril; nose and helix not at every store.",
+    "Wikipedia (Lovisa): founded in Sydney in April 2010 (Shane Fallscheer with Brett Blundy's BBRC); HQ Sydney; 1,024 stores in more than 50 countries (July 2025), United States among them. Store locator is script-loaded, so us_stores left empty."
+  ],
+  "checked_at": "2026-10-29"
+}

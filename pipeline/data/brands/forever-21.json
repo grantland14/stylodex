@@ -82,6 +82,19 @@
       "source_url": "https://forever21.com/collections/womens-tops/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "Shopify feed of Women's Tops (collections.json lists 1,155 products; the feed returned 626). Excluded titles naming sweaters, cardigans, hoodies, sweatshirts, sets, ponchos and other non-tops (266). Of 360 tops, 323 have a variant with compare_at_price above price (marked down) and 37 are regular price and in stock. Low Ribbed Lace-Trim Top and Seamless Tank Bodysuit $9.98, Cropped Sweetheart Tube Top $9.99; high Striped Knit Cropped Halter Top $36.99, Ruched Button Front Halter Top $34.99. Median $19.99."
+    },
+    {
+      "category": "earrings",
+      "currency": "USD",
+      "min": 5.99,
+      "max": 6.99,
+      "min_usd": 5.99,
+      "max_usd": 6.99,
+      "fx_date": null,
+      "item_count": 4,
+      "source_url": "https://forever21.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "All-products feed (1,729 products): 55 Jewelry-type earrings; only 4 at regular price, 51 marked down. Regular: Hammered Geo Drop Earrings $5.99, Etched Hoop Earrings, Faux Pearl Geo Drop Earrings and Smooth Hoop Earrings $6.99. Thin range."
     }
   ],
   "materials": [],
@@ -104,7 +117,8 @@
     "https://forever21.com/collections/mens-tops/products.json?limit=250",
     "https://www.forever21.com/collections/mens-tops/products.json?limit=250",
     "https://forever21.com/collections/womens-tops/products.json?limit=250",
-    "https://forever21.com/collections.json?limit=250"
+    "https://forever21.com/collections.json?limit=250",
+    "https://forever21.com/products.json?limit=250"
   ],
   "notes": [
     "Homepage mission: 'LA-born and style-obsessed, we empower self-expression through standout fashion at unbeatable value.' Slogan 'FASHION IS FOR EVERYONE.' Nav includes Dresses and Plus.",
@@ -114,13 +128,15 @@
     "sale_pattern detail: 92 of 103 dresses were marked down on 2026-10-29; clearance and Final Sale items can't be returned.",
     "2026-10-29 (urban-outfitters run, C womens-clothing = women's jeans): no regular-price women's jeans to price. women-bottoms feed: 154 products, 14 jeans/denim, all with a compare-at price above the selling price; womens-denim: 21 products, mostly shorts, tops and jackets, the 4 denim trousers all marked down; womens-plus-size-denim-jeans: 11 products, 3 at full price, all shorts or bikini bottoms. sells_categories womens-clothing rests on the store's own women's bottoms and denim collections; no price row is stored.",
     "2026-10-29 (hollister run): jeans price from 2 regular-price denim trousers in the women-bottoms feed; most denim there is skirts and shorts.",
-    "2026-10-29 (tillys page run): collections.json lists mens-tops (120), mens-graphic-tees (15) and mens-sweatshirts-hoodies (12), so mens-clothing added to sells_categories. Basic crew and V-neck tees run XS–XXXL; graphic tees S–XL or S–XXL."
+    "2026-10-29 (tillys page run): collections.json lists mens-tops (120), mens-graphic-tees (15) and mens-sweatshirts-hoodies (12), so mens-clothing added to sells_categories. Basic crew and V-neck tees run XS–XXXL; graphic tees S–XL or S–XXL.",
+    "2026-10-29 (claires page run): earrings price from the all-products feed, product_type Jewelry with earring/stud/hoop/huggie titles; 51 of 55 carry a markdown."
   ],
   "checked_at": "2026-10-29",
   "sells_categories": [
     "womens-clothing",
     "jeans",
     "mens-clothing",
-    "tops"
+    "tops",
+    "earrings"
   ]
 }

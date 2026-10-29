@@ -1,0 +1,46 @@
+{
+  "slug": "gorjana",
+  "name": "gorjana",
+  "website_url": "https://www.gorjana.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Jewelry Designed to Layer",
+  "hq_country": "US",
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": true,
+  "free_shipping_min_usd": 150,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "earrings",
+      "currency": "USD",
+      "min": 30.0,
+      "max": 2816.0,
+      "min_usd": 30.0,
+      "max_usd": 2816.0,
+      "fx_date": null,
+      "item_count": 283,
+      "source_url": "https://www.gorjana.com/collections/earrings/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Earrings collection feed: 283 products, all regular price (no compare_at). Lowest $30 single studs (Amour, Bali, Bar, Bee Single Stud); median $168; 14K Gold Crew Single Huggie 8mm $150; highest 14K Diamond Solitaire Studs $1,210-$2,816 and 14K Gold Carter Hoops $1,516."
+    }
+  ],
+  "sells_categories": [
+    "earrings"
+  ],
+  "sources": [
+    "https://www.gorjana.com/",
+    "https://www.gorjana.com/collections/earrings/products.json",
+    "https://www.gorjana.com/policies/shipping-policy",
+    "https://www.gorjana.com/policies/refund-policy",
+    "https://www.gorjana.com/pages/about-us",
+    "https://www.gmtoday.com/business/new-rivals-move-in-on-claire-s-turf-contributing-to-the-mall-jewelry-chain-s/article_862f62a7-7863-43f1-9eba-035d2ecc3e0c.html"
+  ],
+  "notes": [
+    "2026-10-29 (claires page run): meta 'Complete your look with jewelry designed to layer.' About: co-founders Jason and Gorjana Reidel, Laguna Beach community, 'opening retail stores nationwide'; materials 14K gold, diamonds and gemstones plus gold- and silver-plated lines. Star Tribune (Aug 2025): 'California-based Gorjana' -> hq_country US.",
+    "Shipping: US and Puerto Rico; standard 1-7 business days free on $150+, $8 below; buy online, pick up in store free. Returns: unworn items within 30 days. Sells many earrings as singles."
+  ],
+  "checked_at": "2026-10-29"
+}

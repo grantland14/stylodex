@@ -1,0 +1,45 @@
+{
+  "slug": "little-words-project",
+  "name": "Little Words Project",
+  "website_url": "https://www.littlewordsproject.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Beaded Word Bracelets",
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": true,
+  "free_shipping_min_usd": 60,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "earrings",
+      "currency": "USD",
+      "min": 38.0,
+      "max": 48.0,
+      "min_usd": 38.0,
+      "max_usd": 48.0,
+      "fx_date": null,
+      "item_count": 3,
+      "source_url": "https://www.littlewordsproject.com/collections/all/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Shop-all feed: 889 products, mostly bracelets and charms; only 3 earrings, all regular price: Breathe Puffy Huggies $38, Blessed Scalloped Bezel Studs $48, Breathe Scalloped Bezel Studs $48 (Capsule type). Thin range."
+    }
+  ],
+  "sells_categories": [
+    "earrings"
+  ],
+  "sources": [
+    "https://www.littlewordsproject.com/",
+    "https://www.littlewordsproject.com/collections/all/products.json",
+    "https://www.littlewordsproject.com/policies/shipping-policy",
+    "https://www.littlewordsproject.com/policies/refund-policy",
+    "https://www.littlewordsproject.com/pages/our-stores",
+    "https://www.littlewordsproject.com/pages/our-story"
+  ],
+  "notes": [
+    "2026-10-29 (claires page run): title 'Little Words Project | Original Beaded Word Bracelet To Wear & Share'; trackable bead bracelets ('choose your word, live it, then pass it on'). Founder's note: started from her parents' basement.",
+    "Banner: free US shipping on orders $60+; standard $5 (4 business days), priority $15; international 20-30 business days, priced at checkout. Returns: 30 days; sale, custom, mystery bags, gift cards and subscriptions final sale. Our Stores page lists US stores (Glendale CA pop-up, Disney Springs FL, Tampa, Chicago, Boston, Short Hills NJ, Long Branch NJ, NYC Bleecker St, Roosevelt Field NY, King of Prussia PA, Nashville) -> us_stores true."
+  ],
+  "checked_at": "2026-10-29"
+}

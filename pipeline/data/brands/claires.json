@@ -1,0 +1,58 @@
+{
+  "slug": "claires",
+  "name": "Claire's",
+  "website_url": "https://www.claires.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Ear Piercing and Jewelry",
+  "hq_country": "US",
+  "founded_year": 1961,
+  "parent_company": "Ames Watson Capital",
+  "size_range": "Earrings one size",
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": true,
+  "free_shipping_min_usd": 40,
+  "returns_days": 0,
+  "sale_pattern": "Online orders are final sale",
+  "prices": [
+    {
+      "category": "earrings",
+      "currency": "USD",
+      "min": 29.99,
+      "max": 29.99,
+      "min_usd": 29.99,
+      "max_usd": 29.99,
+      "fx_date": null,
+      "item_count": 4,
+      "source_url": "https://www.claires.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "The whole online store is 16 products (one collection, disney-villains; /collections.json lists only disney-villains and frontpage). 4 are earrings, all regular price (no compare_at): Ursula's, Maleficent's, Evil Queen's and Cruella De Vil Earring Stack, $29.99 each, single 'Default Title' variant, final sale. The rest are faux gel nails $19.99, lip balms $12.99 and perfumes $29.99. In store, piercing starter kits start at $29.99 (FAQ)."
+    }
+  ],
+  "sells_categories": [
+    "earrings"
+  ],
+  "sources": [
+    "https://www.claires.com/",
+    "https://www.claires.com/products.json?limit=250",
+    "https://www.claires.com/collections.json?limit=250",
+    "https://www.claires.com/policies/shipping-policy",
+    "https://www.claires.com/policies/refund-policy",
+    "https://www.claires.com/pages/faq",
+    "https://www.claires.com/pages/our-glow-up",
+    "https://stores.claires.com/us/",
+    "https://en.wikipedia.org/wiki/Claire%27s",
+    "https://www.retaildive.com/news/claires-post-bankruptcy-comeback-ames-watson/804056/",
+    "https://www.icing.com/"
+  ],
+  "notes": [
+    "2026-10-29 (claires page run): homepage title 'Claire's: Ear Piercing, Jewelry & Accessories for Girls & Teens'; meta: 'Every girl's first piercing starts at Claire's... Over 130M ears pierced.' known_for from the title. Shopify store, USD.",
+    "Online store holds 16 products only (Disney Villains collection: 4 earring stacks $29.99, nails, lip balm, perfume). Retail Dive (Nov 3, 2025): the site didn't allow shopping at the time and e-commerce wasn't expected back until 2026. size_range 'Earrings one size' = each earring stack is one 'Default Title' variant.",
+    "Shipping policy: ships to the contiguous US only (not Hawaii, Alaska, Puerto Rico or Canada); standard $7.95, free on $40+; UPS Ground 2-5 business days. Banner: 'Free Shipping on All Orders. Limited Time Only.' Refund policy: 'All online orders are final sale' (returns_days 0); damaged orders reported within 7 days of delivery.",
+    "FAQ: ear piercing is free with a piercing starter kit; kits from $29.99 ($39 CAD): medical-grade stainless steel from $29.99, single studs and nose studs from $59.99, 14kt gold from $79.99, diamonds from $129.99. Hand-pressured FDA-registered Class 1 device, sterile single-use components. Lobe piercing at every store; cartilage (helix, auricle) and nose at select stores. Walk-ins welcome, online booking via the store locator. Under 18 needs a parent or guardian. Up to three piercings per ear per visit. Our Glow-Up page lists 14k gold singles from $79.99, 14k gold from $89.99, diamonds from $149.99, nose from $59.99 (newer kit prices).",
+    "Store locator stores.claires.com/us/ links 51 US state and territory store directories (incl. Puerto Rico) -> us_stores true.",
+    "Wikipedia (Claire's): founded 1961 as Fashion Tress Industries by Rowland Schaefer; based in Hoffman Estates, Illinois; filed Chapter 11 on Aug 5, 2025 (second time in seven years); on Aug 6, 2025 announced closing 700 US locations and discontinuing the Icing brand; Ames Watson Capital completed the purchase of the North American business and IP on Sep 19, 2025 ($140M). icing.com now redirects to claires.com."
+  ]
+}

@@ -42,7 +42,8 @@
     "https://www.aeropostale.com/men/graphic-tees/",
     "https://eddiebauer.gladly.com/api/v1/orgs/bgrS2X4lShS7ua5F3sbN_g/answers/K7F1Z7VUSGaiUCi4gErIVQ?lng=en-us",
     "https://eddiebauer.gladly.com/api/v1/orgs/bgrS2X4lShS7ua5F3sbN_g/answers/XLD2ONhAQseIy5J6Bq4M0w?lng=en-us",
-    "https://stores.aeropostale.com/"
+    "https://stores.aeropostale.com/",
+    "https://www.aeropostale.com/search/?q=earrings"
   ],
   "notes": [
     "Homepage title: 'Men's and Women's Jeans, Clothes, Hoodies, and Graphic Tees | Aeropostale.'",
@@ -55,7 +56,8 @@
     "2026-10-29 (aeropostale page run): the return-policy article on aeropostale.com loads from the Gladly help-center API the page itself calls (gladlyHCConfig in the page source; read with curl, StylodexBot UA). 'Aéropostale® Return, Refund and Exchange Policy': return or exchange unworn items with tags and proof of purchase 'within 60 days of the purchase'; purchases Oct 1 to Dec 31, 2026 returnable until the later of Jan 31, 2027 or 60 days; exchanges in store only, not by mail; '$8 return label fee will be deducted from your refund' for mail returns; items must be bought online or in a US store. returns_days 60.",
     "2026-10-29 (aeropostale page run): shipping article (same API): 'Aeropostale.com currently ships orders within the United States, U.S. Territories, and APO/FPO addresses.' ships_to US confirmed.",
     "2026-10-29 (aeropostale page run): store locator (stores.aeropostale.com, title 'Clothing Store for Teens, Women, and Men Near Me | Aeropostale') lists locations in 44 states plus Puerto Rico. us_stores true.",
-    "2026-10-29 (aeropostale page run): women's jeans page re-read with curl: Low-Rise Baggy Wide Leg Jean $64.95, Super Low-Rise Bootcut Jean $64.95, Super Low-Rise Ultra Wide Leg Jean $64.95, Super Low-Rise Baggy Wide Leg Rhinestone Heart Jean $69.95, matching the stored $64.95-$69.95 range."
+    "2026-10-29 (aeropostale page run): women's jeans page re-read with curl: Low-Rise Baggy Wide Leg Jean $64.95, Super Low-Rise Bootcut Jean $64.95, Super Low-Rise Ultra Wide Leg Jean $64.95, Super Low-Rise Baggy Wide Leg Rhinestone Heart Jean $69.95, matching the stored $64.95-$69.95 range.",
+    "2026-10-29 (claires page run): site search for 'earrings' (https://www.aeropostale.com/search/?q=earrings) returns 'no results', so earrings are not in its prices or sells_categories."
   ],
   "checked_at": "2026-10-29",
   "sells_categories": [

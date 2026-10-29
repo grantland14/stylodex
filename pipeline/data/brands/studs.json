@@ -1,0 +1,46 @@
+{
+  "slug": "studs",
+  "name": "Studs",
+  "website_url": "https://studs.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Ear Piercing and Earrings",
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": true,
+  "free_shipping_min_usd": 75,
+  "returns_days": 21,
+  "prices": [
+    {
+      "category": "earrings",
+      "currency": "USD",
+      "min": 10.0,
+      "max": 350.0,
+      "min_usd": 10.0,
+      "max_usd": 350.0,
+      "fx_date": null,
+      "item_count": 225,
+      "source_url": "https://studs.com/collections/all/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Shop-all feed: 318 earrings (product types Fashion Earring and Piercing Earring; charms, connector chains, backings and Accessory-tagged items excluded), 225 regular, 93 marked down. Lowest $10 single flatback tops (Gold Mini CZ Flatback Post, Marquise Flatback Post); Micro CZ Stud $20, Mini CZ Stud $22, Micro Slim Huggie $24; median $48 (Titanium Bezel $48); highest 14K Industrial Bar 38mm $350, 14K Long Round Diamond $280."
+    }
+  ],
+  "sells_categories": [
+    "earrings"
+  ],
+  "sources": [
+    "https://studs.com/",
+    "https://studs.com/collections/all/products.json",
+    "https://studs.com/policies/shipping-policy",
+    "https://studs.com/policies/refund-policy",
+    "https://studs.com/pages/locations",
+    "https://studs.com/pages/piercing-services"
+  ],
+  "notes": [
+    "2026-10-29 (claires page run): title 'Studs - A fresh take on ear piercing & earrings'; meta: needle ear piercing and earrings to create your 'Earscape'. Shopify, USD.",
+    "Shipping: free standard ground on $75+ in the US and its territories, $6 below; 2-5 business days. Returns: refunds or exchanges for fashion jewelry within 21 days; piercing jewelry and final-sale items excluded; optional returns-coverage fee for a free return.",
+    "Piercing services page: single-use sterilized needle, no guns; ages 10 and up; service $40 for one piercing, $55 two, $65 three, $70 four, jewelry extra; jewelry change $15. Locations page lists US studios by state (e.g. 8 in California, 2 in DC) -> us_stores true."
+  ],
+  "checked_at": "2026-10-29"
+}

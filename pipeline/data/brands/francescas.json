@@ -6,9 +6,11 @@
   "kind": "brand",
   "checked_at": "2026-10-29",
   "sources": [
-    "https://www.francescas.com/"
+    "https://www.francescas.com/",
+    "https://www.fox9.com/news/francescas-files-bankruptcy-closing-sales-locations"
   ],
   "notes": [
-    "2026-10-29 (white-house-black-market page run): https://www.francescas.com/ answered HTTP 423 to a plain request (StylodexBot UA) and HTTP 423 'Locked' to WebFetch. One try each, not worked around. kind brand is provisional. Status, dress prices, sizes, shipping and returns unread: human check. One 'stores like White House Black Market' list (temufinds) names it."
+    "2026-10-29 (white-house-black-market page run): https://www.francescas.com/ answered HTTP 423 to a plain request (StylodexBot UA) and HTTP 423 'Locked' to WebFetch. One try each, not worked around. kind brand is provisional. Status, dress prices, sizes, shipping and returns unread: human check. One 'stores like White House Black Market' list (temufinds) names it.",
+    "2026-10-29 (claires page run): francescas.com answered HTTP 423 again (one request, not worked around). Fox 9 (Feb 13, 2026): Francesca's filed for bankruptcy protection in New Jersey and launched court-approved store closing sales across its entire fleet. Status left as is for a human check."
   ]
 }

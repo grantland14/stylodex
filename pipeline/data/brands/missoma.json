@@ -32,10 +32,24 @@
       "source_url": "https://us.missoma.com/collections/necklaces/products.json",
       "checked_at": "2026-10-29",
       "note": "products.json (USD), necklace titles, available, regular price only (37 marked down and 0 sold out excluded; extenders/clasps excluded): Medium Rope Chain Necklace | 18k Gold Plated $85 to Solid Gold Diamond Tennis Necklace | 14k Solid White Gold Diamond $9989; 2 of 315 start under $100, median $213. Lucy Williams Malachite Choker $140."
+    },
+    {
+      "category": "earrings",
+      "currency": "USD",
+      "min": 65.0,
+      "max": 9282.0,
+      "min_usd": 65.0,
+      "max_usd": 9282.0,
+      "fx_date": null,
+      "item_count": 257,
+      "source_url": "https://us.missoma.com/collections/earrings/products.json",
+      "checked_at": "2026-10-29",
+      "note": "US store feed (USD): 272 earrings, 257 regular, 15 marked down. Lowest $65 (Bar Stud Earrings Sterling Silver, Pave Initial Single Stud Earring 18k Gold Vermeil); median $140; Chubby Oval Medium Hoop Earrings 18k Gold Plated $122; highest Harris Reed Solid Gold Uncaged Drop Earrings $9,282."
     }
   ],
   "sells_categories": [
-    "necklaces"
+    "necklaces",
+    "earrings"
   ],
   "sources": [
     "https://us.missoma.com/collections/necklaces/products.json",
@@ -43,12 +57,14 @@
     "https://us.missoma.com/pages/our-factories",
     "https://us.missoma.com/pages/shipping",
     "https://us.missoma.com/pages/help-and-faqs",
-    "https://us.missoma.com/pages/returns"
+    "https://us.missoma.com/pages/returns",
+    "https://us.missoma.com/collections/earrings/products.json"
   ],
   "notes": [
     "About: 'pioneers of demi-fine jewelry since 2007'; founder and creative director Marisa Hordern; designed in its London studio; made by hand from 100% certified recycled 18k gold vermeil on silver, 18k gold plating on brass, sterling silver or 14k solid gold. Factories in Bangkok and Jaipur, RJC certified.",
     "US store (USD, us.missoma.com): free shipping over $150, express $15; import duties and taxes included on all US orders. UK, Europe, Canada and International via the country switch (CA, GB stored). Returns: within 90 days of purchase, $7.95 US return cost, engraved pieces excluded.",
-    "Necklaces: Medium Rope Chain Necklace 18k Gold Plated $85, Lucy Williams Malachite Choker (18k gold vermeil, malachite) $140, December Birthstone Pendant Necklace $179, Solid Gold Diamond Tennis Necklace up to $9,989."
+    "Necklaces: Medium Rope Chain Necklace 18k Gold Plated $85, Lucy Williams Malachite Choker (18k gold vermeil, malachite) $140, December Birthstone Pendant Necklace $179, Solid Gold Diamond Tennis Necklace up to $9,989.",
+    "2026-10-29 (claires page run): earrings price added from the US earrings collection feed (see price note)."
   ],
   "checked_at": "2026-10-29",
   "slug": "missoma"

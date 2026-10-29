@@ -1,0 +1,47 @@
+{
+  "slug": "charming-charlie",
+  "name": "Charming Charlie",
+  "website_url": "https://charmingcharlie.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Handbags and Accessories",
+  "hq_country": "US",
+  "founded_year": 2004,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 50,
+  "returns_days": 7,
+  "prices": [
+    {
+      "category": "earrings",
+      "currency": "USD",
+      "min": 16.0,
+      "max": 56.0,
+      "min_usd": 16.0,
+      "max_usd": 56.0,
+      "fx_date": null,
+      "item_count": 76,
+      "source_url": "https://charmingcharlie.com/collections/earrings/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Earrings collection feed: 1279 earrings, only 76 at regular price, 1203 marked down (compare_at above price). Regular: Daisy (Cream/Green/Pink/Purple) $16, Ashley Medium and Bianca $24 (median $24), Flora $50, highest Camilia $56."
+    }
+  ],
+  "sells_categories": [
+    "earrings"
+  ],
+  "sources": [
+    "https://charmingcharlie.com/",
+    "https://charmingcharlie.com/collections/earrings/products.json",
+    "https://charmingcharlie.com/policies/shipping-policy",
+    "https://charmingcharlie.com/policies/refund-policy",
+    "https://charmingcharlie.com/pages/our-story",
+    "https://en.wikipedia.org/wiki/Charming_Charlie"
+  ],
+  "notes": [
+    "2026-10-29 (claires page run): title 'Charming Charlie - Women's Handbags & Accessories'; Our Story: 'celebrating women and the colorful lives they lead since 2004'. Wikipedia: founded 2004 by Charlie Chanaratsopon, Houston, Texas; Chapter 11 in 2017 and 2019 (all stores closed by Aug 31, 2019), relaunched under the founder, announced store closures again in 2022; now e-commerce. us_stores left empty.",
+    "Shipping policy: ships within 5-7 days, free over $50, else $5 flat (meta description says free over $60; the policy and banner say $50). Returns: within 7 days for a refund, within 30 days for site credit, tags attached."
+  ],
+  "checked_at": "2026-10-29",
+  "sale_pattern": "Most earrings carry a markdown"
+}
