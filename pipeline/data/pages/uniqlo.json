@@ -1,0 +1,2953 @@
+{
+ "subject": "Uniqlo",
+ "slug": "uniqlo",
+ "url_prefix": "brands",
+ "category": {
+  "slug": "tees",
+  "name": "T-Shirts",
+  "why": "C is the product type Uniqlo's basics are built on. Its own LifeWear page calls it simple, high-quality, everyday clothing, and the outside lists frame it the same way (RUSSH: 'brilliant everyday basics'; Stylight: 'affordable and stylish basics'; LBB: 'Uniqlo's basics'; Mumsnet's Muji recommendation is about T-shirts). Uniqlo's men's T-shirts span its fabric lines (SUPIMA, AIRism, DRY, HEATTECH), so the tee is the like-for-like item every pick sells. Prices compare men's T-shirts (unisex where the store doesn't split), regular price only; multipacks and tanks excluded."
+ },
+ "serp": [
+  {
+   "keyword": "brands like uniqlo",
+   "position": 1,
+   "url": null,
+   "kept": false,
+   "why_dropped": "AI overview, no URL"
+  },
+  {
+   "keyword": "brands like uniqlo",
+   "position": 2,
+   "url": "https://www.reddit.com/r/uniqlo/comments/y6ww1v/what_other_brands_do_you_usually_buy_from_that/",
+   "kept": false,
+   "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+  },
+  {
+   "keyword": "brands like uniqlo",
+   "position": 2,
+   "url": "https://www.reddit.com/r/malefashionadvice/comments/1iqq5nc/uniqlo_alternatives/",
+   "kept": false,
+   "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+  },
+  {
+   "keyword": "brands like uniqlo",
+   "position": 2,
+   "url": "https://www.reddit.com/r/malefashionadvice/comments/1ktvhkv/what_are_other_value_brands_adjacent_to_uniqlo_or/",
+   "kept": false,
+   "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+  },
+  {
+   "keyword": "brands like uniqlo",
+   "position": 3,
+   "url": "https://www.uniqlo.com/us/en/",
+   "kept": false,
+   "why_dropped": "anchor's own site"
+  },
+  {
+   "keyword": "brands like uniqlo",
+   "position": 4,
+   "url": "https://www.russh.com/brands-like-uniqlo/",
+   "kept": true,
+   "why": "editorial list, 22 brands"
+  },
+  {
+   "keyword": "brands like uniqlo",
+   "position": 6,
+   "url": "https://www.youtube.com/watch?v=LIXYVyr4zeU",
+   "kept": false,
+   "why_dropped": "video, no readable text"
+  },
+  {
+   "keyword": "brands like uniqlo",
+   "position": 7,
+   "url": "https://www.stylight.com/Magazine/Fashion/Brands-Similar-To-Uniqlo/",
+   "kept": true,
+   "why": "editorial list, 5 brands"
+  },
+  {
+   "keyword": "brands like uniqlo",
+   "position": 8,
+   "url": "https://www.globalbrandsmagazine.com/the-best-brands-like-uniqlo/",
+   "kept": true,
+   "why": "editorial list, 10 brands (low-signal: includes marketplaces Zaful, Rosegal, Dresslily)"
+  },
+  {
+   "keyword": "brands like uniqlo",
+   "position": 9,
+   "url": "https://www.thredup.com/bg/p/brands-like-uniqlo",
+   "kept": false,
+   "why_dropped": "HTTP 403 to WebFetch; resale marketplace"
+  },
+  {
+   "keyword": "brands like uniqlo",
+   "position": 10,
+   "url": "https://www.instagram.com/reel/DUNhNJ8DeCm/?hl=en",
+   "kept": false,
+   "why_dropped": "social video, not readable"
+  },
+  {
+   "keyword": "brands like uniqlo",
+   "position": 1,
+   "url": "https://www.tiktok.com/discover/clothing-brands-similar-to-uniqlo",
+   "kept": false,
+   "why_dropped": "AI overview sitelink; social, not readable"
+  },
+  {
+   "keyword": "brands like uniqlo",
+   "position": 1,
+   "url": "https://www.instagram.com/reel/DYkrjcFO0EA/",
+   "kept": false,
+   "why_dropped": "AI overview sitelink; social video. Title says GU is Uniqlo's sister brand; not read, not counted"
+  },
+  {
+   "keyword": "brands like uniqlo",
+   "position": 1,
+   "url": "https://www.zhihu.com/en/answer/138700728",
+   "kept": true,
+   "why": "AI overview sitelink; Q&A answer listing brands similar to Uniqlo"
+  },
+  {
+   "keyword": "brands like uniqlo",
+   "position": 1,
+   "url": "https://www.zhihu.com/en/answer/109802753",
+   "kept": true,
+   "why": "AI overview sitelink; Q&A answer listing brands similar to Uniqlo (counted with the other zhihu answer as one source)"
+  },
+  {
+   "keyword": "stores like uniqlo",
+   "position": 2,
+   "url": "https://www.reddit.com/r/malefashionadvice/comments/1iqq5nc/uniqlo_alternatives/",
+   "kept": false,
+   "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+  },
+  {
+   "keyword": "stores like uniqlo",
+   "position": 1,
+   "url": "https://www.reddit.com/r/uniqlo/comments/17xzmw0/alternatives_to_uniqlo/",
+   "kept": false,
+   "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+  },
+  {
+   "keyword": "stores like uniqlo",
+   "position": 1,
+   "url": "https://www.reddit.com/r/asianamerican/comments/1r8oja5/i_just_moved_to_us_what_is_the_uniqlo_equivalent/",
+   "kept": false,
+   "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+  },
+  {
+   "keyword": "stores like uniqlo",
+   "position": 4,
+   "url": "https://www.uniqlo.com/us/en/men",
+   "kept": false,
+   "why_dropped": "anchor's own site"
+  },
+  {
+   "keyword": "stores like uniqlo",
+   "position": 5,
+   "url": "https://www.russh.com/brands-like-uniqlo/",
+   "kept": true,
+   "why": "same as brands like uniqlo #4"
+  },
+  {
+   "keyword": "stores like uniqlo",
+   "position": 6,
+   "url": "https://www.thredup.com/bg/p/brands-like-uniqlo",
+   "kept": false,
+   "why_dropped": "HTTP 403 to WebFetch"
+  },
+  {
+   "keyword": "stores like uniqlo",
+   "position": 7,
+   "url": "https://www.youtube.com/watch?v=QgGaf6wGnEk",
+   "kept": false,
+   "why_dropped": "video, no readable text"
+  },
+  {
+   "keyword": "stores like uniqlo",
+   "position": 8,
+   "url": "https://www.globalbrandsmagazine.com/the-best-brands-like-uniqlo/",
+   "kept": true,
+   "why": "same as above"
+  },
+  {
+   "keyword": "stores like uniqlo",
+   "position": 9,
+   "url": "https://goodonyou.eco/alternatives-to-uniqlo/",
+   "kept": true,
+   "why": "editorial list, 15 sustainable alternatives"
+  },
+  {
+   "keyword": "stores like uniqlo",
+   "position": 10,
+   "url": "https://www.facebook.com/groups/348293689060800/posts/1471117573445067/",
+   "kept": false,
+   "why_dropped": "Facebook group post (Singapore), not readable without login"
+  },
+  {
+   "keyword": "uniqlo alternatives",
+   "position": 4,
+   "url": "https://www.thredup.com/bg/p/brands-like-uniqlo",
+   "kept": false,
+   "why_dropped": "HTTP 403 to WebFetch"
+  },
+  {
+   "keyword": "uniqlo alternatives",
+   "position": 5,
+   "url": "https://goodonyou.eco/alternatives-to-uniqlo/",
+   "kept": true,
+   "why": "same as above"
+  },
+  {
+   "keyword": "uniqlo alternatives",
+   "position": 6,
+   "url": "https://www.russh.com/brands-like-uniqlo/",
+   "kept": true,
+   "why": "same as above"
+  },
+  {
+   "keyword": "uniqlo alternatives",
+   "position": 8,
+   "url": "https://www.thecommons.earth/blog/5-sustainable-uniqlo-alternatives",
+   "kept": true,
+   "why": "editorial list, 5 sustainable alternatives"
+  },
+  {
+   "keyword": "uniqlo alternatives",
+   "position": 9,
+   "url": "https://lbb.in/bangalore/online-clothing-brands-similar-to-uniqlo/",
+   "kept": true,
+   "why": "editorial list, 17 brands (India-focused; many brands don't sell in the US)"
+  },
+  {
+   "keyword": "uniqlo alternatives",
+   "position": 10,
+   "url": "https://www.instagram.com/reel/DUfXb1njagc/",
+   "kept": false,
+   "why_dropped": "social video, not readable"
+  },
+  {
+   "keyword": "similar to uniqlo",
+   "position": 2,
+   "url": "https://www.lemon8-app.com/experience/uniqlo-alternative?region=sg",
+   "kept": true,
+   "why": "product-level dupes (bags, puffer, undies); only Zara counted, and it is unverified"
+  },
+  {
+   "keyword": "similar to uniqlo",
+   "position": 4,
+   "url": "https://www.alibaba.com/blog/top-uniqlo-like-brands-revolutionizing-affordable-fashion-in-2025.html",
+   "kept": false,
+   "why_dropped": "marketplace blog"
+  },
+  {
+   "keyword": "similar to uniqlo",
+   "position": 5,
+   "url": "https://www.mumsnet.com/talk/style_and_beauty/3684941-Shops-like-Uniqlo",
+   "kept": true,
+   "why": "forum thread, Shops like Uniqlo"
+  },
+  {
+   "keyword": "similar to uniqlo",
+   "position": 6,
+   "url": "https://www.reddit.com/r/uniqlo/comments/1vt52e3/what_other_affordable_brands_are_yall_rocking/",
+   "kept": false,
+   "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+  },
+  {
+   "keyword": "similar to uniqlo",
+   "position": 6,
+   "url": "https://www.tripadvisor.com/ShowTopic-g294232-i525-k10068794-UNIQLO_alternative-Japan.html",
+   "kept": false,
+   "why_dropped": "travel forum about shopping in Japan; not read"
+  },
+  {
+   "keyword": "similar to uniqlo",
+   "position": 7,
+   "url": "https://www.reddit.com/r/malefashionadvice/comments/4ggsif/anything_like_uniqlos_stretch_slim_tapered_jeans/",
+   "kept": false,
+   "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+  },
+  {
+   "keyword": "similar to uniqlo",
+   "position": 8,
+   "url": "https://www.answeroverflow.com/m/1395593727166124133",
+   "kept": false,
+   "why_dropped": "HTTP 429 to WebFetch; not retried"
+  },
+  {
+   "keyword": "similar to uniqlo",
+   "position": 9,
+   "url": "https://www.lemon8-app.com/experience/sister-brand-of-uniqlo?region=sg",
+   "kept": false,
+   "why_dropped": "about shopping GU in Japan; not read"
+  },
+  {
+   "keyword": "similar to uniqlo",
+   "position": 10,
+   "url": "https://www.facebook.com/APNews/posts/clothing-brands-like-uniqlo-levis-and-primark-are-offering-repairs-or-teaching-c/1427876685866903/",
+   "kept": false,
+   "why_dropped": "news post about repairs, not an alternatives list"
+  }
+ ],
+ "co_stocking": [
+  {
+   "retailer": null,
+   "url": null,
+   "used": false,
+   "why": "Uniqlo sells only through its own stores and site; no multi-brand retailer category page to compare."
+  }
+ ],
+ "candidates": [
+  {
+   "name": "Muji",
+   "slug": "muji",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.russh.com/brands-like-uniqlo/",
+     "note": "#1: \"Japanese-leaning basics, boxy silhouettes\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://lbb.in/bangalore/online-clothing-brands-similar-to-uniqlo/",
+     "note": "#13: \"The closest match to Uniqlo, hands down\""
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.mumsnet.com/talk/style_and_beauty/3684941-Shops-like-Uniqlo",
+     "note": "ZaraW: \"Their tshirts are excellent and not expensive better quality than Uniqlo\""
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "Japanese: \"MUJI official flagship store\""
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/109802753",
+     "note": "\"Muji, Japan. Relaxing and very comfortable.\""
+    }
+   ]
+  },
+  {
+   "name": "Zara",
+   "slug": "zara",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.globalbrandsmagazine.com/the-best-brands-like-uniqlo/",
+     "note": "#8"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://lbb.in/bangalore/online-clothing-brands-similar-to-uniqlo/",
+     "note": "#6: \"their leisure apparel is definitely on point with Uniqlo's straightforward aesthetic\""
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "\"Zara Official Store\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://www.lemon8-app.com/experience/uniqlo-alternative?region=sg",
+     "note": "Zara puffer jacket ($139) as an alternative to a Uniqlo puffer"
+    }
+   ]
+  },
+  {
+   "name": "H&M",
+   "slug": "h-m",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.globalbrandsmagazine.com/the-best-brands-like-uniqlo/",
+     "note": "#6: \"one of the biggest players in this game\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://lbb.in/bangalore/online-clothing-brands-similar-to-uniqlo/",
+     "note": "#2: \"Their alternatives to Uniqlo's basics for both men and women are spot on\""
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "\"H&M (Swedish brand\""
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/109802753",
+     "note": "\"HM has a lot of affordable basic styles.\""
+    }
+   ]
+  },
+  {
+   "name": "Mango",
+   "slug": "mango",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.stylight.com/Magazine/Fashion/Brands-Similar-To-Uniqlo/",
+     "note": "#2: \"modern and functional fashion\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://lbb.in/bangalore/online-clothing-brands-similar-to-uniqlo/",
+     "note": "#15: \"a go-to for anyone looking for clean basics\""
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "\"the small leg pants of Mango\""
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/109802753",
+     "note": "\"The small leg pants of Mango have a great fit and are not expensive.\""
+    }
+   ]
+  },
+  {
+   "name": "Everlane",
+   "slug": "everlane",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.stylight.com/Magazine/Fashion/Brands-Similar-To-Uniqlo/",
+     "note": "#4: \"high-quality basics\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://lbb.in/bangalore/online-clothing-brands-similar-to-uniqlo/",
+     "note": "#14: \"Uniqlo's cooler cousin\""
+    }
+   ]
+  },
+  {
+   "name": "COS",
+   "slug": "cos",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.stylight.com/Magazine/Fashion/Brands-Similar-To-Uniqlo/",
+     "note": "#3: \"minimalist collections\""
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.mumsnet.com/talk/style_and_beauty/3684941-Shops-like-Uniqlo",
+     "note": "fiorentina: \"As do Cos but not the same range of colours and simple designs.\""
+    }
+   ]
+  },
+  {
+   "name": "Arket",
+   "slug": "arket",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.stylight.com/Magazine/Fashion/Brands-Similar-To-Uniqlo/",
+     "note": "#1: \"classic, timeless pieces\""
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.mumsnet.com/talk/style_and_beauty/3684941-Shops-like-Uniqlo",
+     "note": "fiorentina: \"Arket have some good quality basics.\""
+    }
+   ]
+  },
+  {
+   "name": "Monki",
+   "slug": "monki",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.mumsnet.com/talk/style_and_beauty/3684941-Shops-like-Uniqlo",
+     "note": "Divebar: Monki and Weekday \"more trend led\""
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "\"MONKI Official Store\""
+    }
+   ]
+  },
+  {
+   "name": "GU",
+   "slug": "gu",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "Japanese: GU, \"a brand under Uniqlo\""
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/109802753",
+     "note": "GU described as a Uniqlo sub-brand, \"more youthful and trendy\""
+    }
+   ]
+  },
+  {
+   "name": "Gap",
+   "slug": "gap",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "\"GAP Official Store\""
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/109802753",
+     "note": "\"GAP: When buying clothes from them, I always choose during the discount season\""
+    }
+   ]
+  },
+  {
+   "name": "Forever 21",
+   "slug": "forever-21",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "\"Forever21 official flagship store\""
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/109802753",
+     "note": "\"Asos, forever21, buy from the official website, fast fashion from Europe and America\""
+    }
+   ]
+  },
+  {
+   "name": "New Look",
+   "slug": "new-look",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "\"NEWLOOK Official Store\""
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/109802753",
+     "note": "\"newlook in the UK. In my opinion, the quality is better than that of HM and Zara.\""
+    }
+   ]
+  },
+  {
+   "name": "Lativ",
+   "slug": "lativ",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "listed as similar to Uniqlo"
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/109802753",
+     "note": "listed as similar to Uniqlo"
+    }
+   ]
+  },
+  {
+   "name": "GRL",
+   "slug": "grl",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "listed as similar to Uniqlo"
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/109802753",
+     "note": "listed as similar to Uniqlo"
+    }
+   ]
+  },
+  {
+   "name": "Tutuanna",
+   "slug": "tutuanna",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "listed as similar to Uniqlo"
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/109802753",
+     "note": "listed as similar to Uniqlo"
+    }
+   ]
+  },
+  {
+   "name": "SPAO",
+   "slug": "spao",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "listed as similar to Uniqlo"
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/109802753",
+     "note": "listed as similar to Uniqlo"
+    }
+   ]
+  },
+  {
+   "name": "maxwin",
+   "slug": "maxwin",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "listed as similar to Uniqlo"
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/109802753",
+     "note": "listed as similar to Uniqlo"
+    }
+   ]
+  },
+  {
+   "name": "Beast Gate",
+   "slug": "beast-gate",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "listed as similar to Uniqlo"
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/109802753",
+     "note": "listed as similar to Uniqlo"
+    }
+   ]
+  },
+  {
+   "name": "ASOS",
+   "slug": "asos",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "\"Asos\""
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/109802753",
+     "note": "\"Asos, forever21\""
+    }
+   ]
+  },
+  {
+   "name": "Old Navy",
+   "slug": "old-navy",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "\"OldNavy Official Store\""
+    }
+   ]
+  },
+  {
+   "name": "Stradivarius",
+   "slug": "stradivarius",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "listed under similar brands"
+    }
+   ]
+  },
+  {
+   "name": "Bershka",
+   "slug": "bershka",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "listed under similar brands"
+    }
+   ]
+  },
+  {
+   "name": "Pull&Bear",
+   "slug": "pull-bear",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "listed under similar brands"
+    }
+   ]
+  },
+  {
+   "name": "Massimo Dutti",
+   "slug": "massimo-dutti",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "listed under similar brands"
+    }
+   ]
+  },
+  {
+   "name": "Oysho",
+   "slug": "oysho",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "listed under similar brands"
+    }
+   ]
+  },
+  {
+   "name": "C&A",
+   "slug": "c-a",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "listed under similar brands"
+    }
+   ]
+  },
+  {
+   "name": "Topshop",
+   "slug": "topshop",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "listed under similar brands"
+    }
+   ]
+  },
+  {
+   "name": "Topman",
+   "slug": "topman",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "listed under similar brands"
+    }
+   ]
+  },
+  {
+   "name": "Sly",
+   "slug": "sly",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "listed under similar brands"
+    }
+   ]
+  },
+  {
+   "name": "moussy",
+   "slug": "moussy",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "listed under similar brands"
+    }
+   ]
+  },
+  {
+   "name": "UR",
+   "slug": "ur",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "listed under similar brands"
+    }
+   ]
+  },
+  {
+   "name": "Me&City",
+   "slug": "me-city",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "listed under similar brands"
+    }
+   ]
+  },
+  {
+   "name": "NetEase YiXuan",
+   "slug": "netease-yixuan",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "listed under similar brands"
+    }
+   ]
+  },
+  {
+   "name": "Fanke",
+   "slug": "fanke",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/109802753",
+     "note": "listed as similar to Uniqlo"
+    }
+   ]
+  },
+  {
+   "name": "Chengyi",
+   "slug": "chengyi",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/109802753",
+     "note": "listed as similar to Uniqlo"
+    }
+   ]
+  },
+  {
+   "name": "Ma Wei",
+   "slug": "ma-wei",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/109802753",
+     "note": "listed as similar to Uniqlo"
+    }
+   ]
+  },
+  {
+   "name": "Hailan Home",
+   "slug": "hailan-home",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/109802753",
+     "note": "listed as similar to Uniqlo"
+    }
+   ]
+  },
+  {
+   "name": "American Eagle",
+   "slug": "american-eagle",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://lbb.in/bangalore/online-clothing-brands-similar-to-uniqlo/",
+     "note": "#16: \"a youthful, trendier alternative to Uniqlo\""
+    }
+   ]
+  },
+  {
+   "name": "Marks & Spencer",
+   "slug": "marks-spencer",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://lbb.in/bangalore/online-clothing-brands-similar-to-uniqlo/",
+     "note": "#17: \"Uniqlo's British twin\""
+    }
+   ]
+  },
+  {
+   "name": "Rareism",
+   "slug": "rareism",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://lbb.in/bangalore/online-clothing-brands-similar-to-uniqlo/",
+     "note": "listed as a Uniqlo alternative (India-focused list)"
+    }
+   ]
+  },
+  {
+   "name": "The Label Life",
+   "slug": "the-label-life",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://lbb.in/bangalore/online-clothing-brands-similar-to-uniqlo/",
+     "note": "listed as a Uniqlo alternative (India-focused list)"
+    }
+   ]
+  },
+  {
+   "name": "Decathlon",
+   "slug": "decathlon",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://lbb.in/bangalore/online-clothing-brands-similar-to-uniqlo/",
+     "note": "listed as a Uniqlo alternative (India-focused list)"
+    }
+   ]
+  },
+  {
+   "name": "Exhale",
+   "slug": "exhale",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://lbb.in/bangalore/online-clothing-brands-similar-to-uniqlo/",
+     "note": "listed as a Uniqlo alternative (India-focused list)"
+    }
+   ]
+  },
+  {
+   "name": "June Studios",
+   "slug": "june-studios",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://lbb.in/bangalore/online-clothing-brands-similar-to-uniqlo/",
+     "note": "listed as a Uniqlo alternative (India-focused list)"
+    }
+   ]
+  },
+  {
+   "name": "Rigo",
+   "slug": "rigo",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://lbb.in/bangalore/online-clothing-brands-similar-to-uniqlo/",
+     "note": "listed as a Uniqlo alternative (India-focused list)"
+    }
+   ]
+  },
+  {
+   "name": "No Nasties",
+   "slug": "no-nasties",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://lbb.in/bangalore/online-clothing-brands-similar-to-uniqlo/",
+     "note": "listed as a Uniqlo alternative (India-focused list)"
+    }
+   ]
+  },
+  {
+   "name": "March Tee",
+   "slug": "march-tee",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://lbb.in/bangalore/online-clothing-brands-similar-to-uniqlo/",
+     "note": "listed as a Uniqlo alternative (India-focused list)"
+    }
+   ]
+  },
+  {
+   "name": "Turn Black",
+   "slug": "turn-black",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://lbb.in/bangalore/online-clothing-brands-similar-to-uniqlo/",
+     "note": "listed as a Uniqlo alternative (India-focused list)"
+    }
+   ]
+  },
+  {
+   "name": "Lila",
+   "slug": "lila",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://lbb.in/bangalore/online-clothing-brands-similar-to-uniqlo/",
+     "note": "listed as a Uniqlo alternative (India-focused list)"
+    }
+   ]
+  },
+  {
+   "name": "& Other Stories",
+   "slug": "other-stories",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.globalbrandsmagazine.com/the-best-brands-like-uniqlo/",
+     "note": "#9: \"minimalist, high-quality clothing\""
+    }
+   ]
+  },
+  {
+   "name": "Zaful",
+   "slug": "zaful",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.globalbrandsmagazine.com/the-best-brands-like-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "ChicMe",
+   "slug": "chicme",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.globalbrandsmagazine.com/the-best-brands-like-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "Rosegal",
+   "slug": "rosegal",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.globalbrandsmagazine.com/the-best-brands-like-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "Dresslily",
+   "slug": "dresslily",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.globalbrandsmagazine.com/the-best-brands-like-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "Anthropologie",
+   "slug": "anthropologie",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.globalbrandsmagazine.com/the-best-brands-like-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "Little Mistress",
+   "slug": "little-mistress",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.globalbrandsmagazine.com/the-best-brands-like-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "LAD MUSICIAN",
+   "slug": "lad-musician",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.globalbrandsmagazine.com/the-best-brands-like-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "Norse Projects",
+   "slug": "norse-projects",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.stylight.com/Magazine/Fashion/Brands-Similar-To-Uniqlo/",
+     "note": "#5: \"understated elegance\""
+    }
+   ]
+  },
+  {
+   "name": "Reserved",
+   "slug": "reserved",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.mumsnet.com/talk/style_and_beauty/3684941-Shops-like-Uniqlo",
+     "note": "TooDamnSarky: \"I had some good, similar buys in Reserved last week\""
+    }
+   ]
+  },
+  {
+   "name": "Weekday",
+   "slug": "weekday",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://www.mumsnet.com/talk/style_and_beauty/3684941-Shops-like-Uniqlo",
+     "note": "Divebar: Monki and Weekday \"more trend led\""
+    }
+   ]
+  },
+  {
+   "name": "Australian Stitch",
+   "slug": "australian-stitch",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.russh.com/brands-like-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "Flore Flore",
+   "slug": "flore-flore",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.russh.com/brands-like-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "Kowtow",
+   "slug": "kowtow",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.russh.com/brands-like-uniqlo/",
+     "note": "#4: \"Minimalist design through an uber-sustainable lens\""
+    }
+   ]
+  },
+  {
+   "name": "Studio Nicholson",
+   "slug": "studio-nicholson",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.russh.com/brands-like-uniqlo/",
+     "note": "#5: \"A tailored perspective on the classics\""
+    }
+   ]
+  },
+  {
+   "name": "Leset",
+   "slug": "leset",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.russh.com/brands-like-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "Baserange",
+   "slug": "baserange",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.russh.com/brands-like-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "&Daughter",
+   "slug": "and-daughter",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.russh.com/brands-like-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "Pansy",
+   "slug": "pansy",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.russh.com/brands-like-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "Bassike",
+   "slug": "bassike",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.russh.com/brands-like-uniqlo/",
+     "note": "#10: \"Reliable, homegrown and beautiful basics\""
+    }
+   ]
+  },
+  {
+   "name": "Goodwear",
+   "slug": "goodwear",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.russh.com/brands-like-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "Anderson-Anderson",
+   "slug": "anderson-anderson",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.russh.com/brands-like-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "Patagonia",
+   "slug": "patagonia",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.russh.com/brands-like-uniqlo/",
+     "note": "#13: \"Fleeces, puffers and all your outdoorsy needs\""
+    }
+   ]
+  },
+  {
+   "name": "all is a gentle spring",
+   "slug": "all-is-a-gentle-spring",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.russh.com/brands-like-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "Eldon Cashmere",
+   "slug": "eldon-cashmere",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.russh.com/brands-like-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "Lindner",
+   "slug": "lindner",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.russh.com/brands-like-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "Gil Rodriguez",
+   "slug": "gil-rodriguez",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.russh.com/brands-like-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "Colorful Standard",
+   "slug": "colorful-standard",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.russh.com/brands-like-uniqlo/",
+     "note": "#18 (as Colourful Standard): \"Sweats in every hue of the rainbow\""
+    }
+   ]
+  },
+  {
+   "name": "Pretties",
+   "slug": "pretties",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.russh.com/brands-like-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "Tank Air",
+   "slug": "tank-air",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.russh.com/brands-like-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "Cou Cou Intimates",
+   "slug": "cou-cou-intimates",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.russh.com/brands-like-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "BEAMS",
+   "slug": "beams",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.russh.com/brands-like-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "LANIUS",
+   "slug": "lanius",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://goodonyou.eco/alternatives-to-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "Asket",
+   "slug": "asket",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://goodonyou.eco/alternatives-to-uniqlo/",
+     "note": "#2: \"creating timeless wardrobe essentials since 2015\""
+    }
+   ]
+  },
+  {
+   "name": "Honest Basics",
+   "slug": "honest-basics",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://goodonyou.eco/alternatives-to-uniqlo/",
+     "note": "#3: \"a GOTS-certified basics brand based in Germany\""
+    }
+   ]
+  },
+  {
+   "name": "BAGGU",
+   "slug": "baggu",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://goodonyou.eco/alternatives-to-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "Mila.Vert",
+   "slug": "mila-vert",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://goodonyou.eco/alternatives-to-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "Subset (Knickey)",
+   "slug": "knickey",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://goodonyou.eco/alternatives-to-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "ISTO.",
+   "slug": "isto",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://goodonyou.eco/alternatives-to-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "Sense Organics",
+   "slug": "sense-organics",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://goodonyou.eco/alternatives-to-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "CHNGE",
+   "slug": "chnge",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://goodonyou.eco/alternatives-to-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "Artknit Studios",
+   "slug": "artknit-studios",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://goodonyou.eco/alternatives-to-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "Outerknown",
+   "slug": "outerknown",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://goodonyou.eco/alternatives-to-uniqlo/",
+     "note": "#11: \"surf and outdoor-inspired clothing\""
+    }
+   ]
+  },
+  {
+   "name": "Kuyichi",
+   "slug": "kuyichi",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://goodonyou.eco/alternatives-to-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "MUD Jeans",
+   "slug": "mud-jeans",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://goodonyou.eco/alternatives-to-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "Dorsu",
+   "slug": "dorsu",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://goodonyou.eco/alternatives-to-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "ReCreate",
+   "slug": "recreate",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://goodonyou.eco/alternatives-to-uniqlo/",
+     "note": "listed"
+    }
+   ]
+  },
+  {
+   "name": "Tentree",
+   "slug": "tentree",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.thecommons.earth/blog/5-sustainable-uniqlo-alternatives",
+     "note": "#1: \"crafts sweaters from sustainable materials\""
+    }
+   ]
+  },
+  {
+   "name": "MATE the Label",
+   "slug": "mate-the-label",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.thecommons.earth/blog/5-sustainable-uniqlo-alternatives",
+     "note": "#3: \"crafted with 100% organic cotton and non-toxic dyes\""
+    }
+   ]
+  },
+  {
+   "name": "Boyish",
+   "slug": "boyish",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.thecommons.earth/blog/5-sustainable-uniqlo-alternatives",
+     "note": "jeans"
+    }
+   ]
+  },
+  {
+   "name": "Levi's SecondHand",
+   "slug": "levis-secondhand",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.thecommons.earth/blog/5-sustainable-uniqlo-alternatives",
+     "note": "resale"
+    }
+   ]
+  },
+  {
+   "name": "Cotton On",
+   "slug": "cotton-on",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.lemon8-app.com/experience/uniqlo-alternative?region=sg",
+     "note": "Cotton On Nellie crossbody bag ($29.90) as a bag alternative"
+    }
+   ]
+  },
+  {
+   "name": "Sloggi",
+   "slug": "sloggi",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Tinu Drops",
+   "slug": "tinu-drops",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Frank & Oak",
+   "slug": "frank-and-oak",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Sunday Supply Co.",
+   "slug": "sunday-supply-co",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Caitlyn Minimalist",
+   "slug": "caitlyn-minimalist",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "ESSENTIALS",
+   "slug": "essentials",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Ping Collection",
+   "slug": "ping-collection",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Doing Things",
+   "slug": "doing-things",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Coen",
+   "slug": "coen",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Warp + Weft",
+   "slug": "warp-weft",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Basic Rights",
+   "slug": "basic-rights",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Basic Thread",
+   "slug": "basic-thread",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Universal Thread",
+   "slug": "universal-thread",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Mack Weldon",
+   "slug": "mack-weldon",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Lou & Grey",
+   "slug": "lou-and-grey",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Leisure Shirts",
+   "slug": "leisure-shirts",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Kirkland Signature",
+   "slug": "kirkland-signature",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Kato Classic",
+   "slug": "kato-classic",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Bobeau",
+   "slug": "bobeau",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "United State Apparel",
+   "slug": "united-state-apparel",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "AS Colour",
+   "slug": "as-colour",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Adanola",
+   "slug": "adanola",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Anello",
+   "slug": "anello",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Banana Republic Factory",
+   "slug": "banana-republic-factory",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Basic.Space",
+   "slug": "basic-space",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Bombas",
+   "slug": "bombas",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Bonds",
+   "slug": "bonds",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "BTW (By The Way)",
+   "slug": "btw-by-the-way",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Buck Mason",
+   "slug": "buck-mason",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "C.E (Clothing Enclave)",
+   "slug": "c-e-clothing-enclave",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Citizen",
+   "slug": "citizen",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Common Good",
+   "slug": "common-good",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Cotton Bureau",
+   "slug": "cotton-bureau",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Crate and Barrel",
+   "slug": "crate-and-barrel",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Crucial Clothing",
+   "slug": "crucial-clothing",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Current Mood",
+   "slug": "current-mood",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "CUUP",
+   "slug": "cuup",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Cuts Clothing",
+   "slug": "cuts-clothing",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Daily Monday",
+   "slug": "daily-monday",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Danton",
+   "slug": "danton",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "George at Asda",
+   "slug": "george-at-asda",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Hotouch",
+   "slug": "hotouch",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Hush",
+   "slug": "hush",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Joe Fresh",
+   "slug": "joe-fresh",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Kin",
+   "slug": "kin",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "LIFUL",
+   "slug": "liful",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Los Angeles Apparel",
+   "slug": "los-angeles-apparel",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Loungewear Co.",
+   "slug": "loungewear-co",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Modern Citizen",
+   "slug": "modern-citizen",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Mumuso",
+   "slug": "mumuso",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "NBD",
+   "slug": "nbd",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Oak + Fort",
+   "slug": "oak-fort",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Pants & Co.",
+   "slug": "pants-and-co",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Practical Functional Wear",
+   "slug": "practical-functional-wear",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Quince",
+   "slug": "quince",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Rawganique",
+   "slug": "rawganique",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Richer Poorer",
+   "slug": "richer-poorer",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "SHEEP",
+   "slug": "sheep",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Sum19",
+   "slug": "sum19",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Thread & Supply",
+   "slug": "thread-and-supply",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Triple F.A.T. Goose",
+   "slug": "triple-f-a-t-goose",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Grana",
+   "slug": "grana",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Wild Fable",
+   "slug": "wild-fable",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Yaya",
+   "slug": "yaya",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Club Monaco",
+   "slug": "club-monaco",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Petite Studio",
+   "slug": "petite-studio",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Mossimo Supply Co.",
+   "slug": "mossimo-supply-co",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Knowledge Cotton Apparel",
+   "slug": "knowledge-cotton-apparel",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Pua Clothing",
+   "slug": "pua-clothing",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Mothercare",
+   "slug": "mothercare",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Bloomingdale's",
+   "slug": "bloomingdales",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Kotn",
+   "slug": "kotn",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Bunaai",
+   "slug": "bunaai",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Target",
+   "slug": "target",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Lily & Drew",
+   "slug": "lily-and-drew",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Ringside",
+   "slug": "ringside",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Organic Basics",
+   "slug": "organic-basics",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Goodfellow & Co.",
+   "slug": "goodfellow-and-co",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Grayson Threads",
+   "slug": "grayson-threads",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Heavenly Threads",
+   "slug": "heavenly-threads",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "ThirdLove",
+   "slug": "thirdlove",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Apostrophe",
+   "slug": "apostrophe",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Le Tote",
+   "slug": "le-tote",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Journal Standard",
+   "slug": "journal-standard",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Member's Mark",
+   "slug": "members-mark",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Lolly's Laundry",
+   "slug": "lollys-laundry",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Armedangels",
+   "slug": "armedangels",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Unruched",
+   "slug": "unruched",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Sezane",
+   "slug": "sezane",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "STACK",
+   "slug": "stack",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Blush by Alexia",
+   "slug": "blush-by-alexia",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Decade",
+   "slug": "decade",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "DSTLD",
+   "slug": "dstld",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Duer",
+   "slug": "duer",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "earth music&ecology",
+   "slug": "earth-musicandecology",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Ava & Elly",
+   "slug": "ava-and-elly",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Charnos",
+   "slug": "charnos",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Taktisk",
+   "slug": "taktisk",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Feel Good Apparel",
+   "slug": "feel-good-apparel",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Floyd",
+   "slug": "floyd",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Foamtreads",
+   "slug": "foamtreads",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Fruit of the Loom",
+   "slug": "fruit-of-the-loom",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "The Children's Place",
+   "slug": "the-childrens-place",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Boux Avenue",
+   "slug": "boux-avenue",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Humble",
+   "slug": "humble",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Austere",
+   "slug": "austere",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Jungmaven",
+   "slug": "jungmaven",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Kaibosh",
+   "slug": "kaibosh",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Blvck Brooklyn",
+   "slug": "blvck-brooklyn",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Universal Standard",
+   "slug": "universal-standard",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Lark & Ward",
+   "slug": "lark-and-ward",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "True & Co.",
+   "slug": "true-and-co",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Local Heroes",
+   "slug": "local-heroes",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Tula Clothing",
+   "slug": "tula-clothing",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Birch",
+   "slug": "birch",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Loungewear by Revolve",
+   "slug": "loungewear-by-revolve",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Loungewear Society",
+   "slug": "loungewear-society",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Beyond Clothing",
+   "slug": "beyond-clothing",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Macy's (Charter Club & Alfani)",
+   "slug": "macys-charter-club-and-alfani",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Made by Folk",
+   "slug": "made-by-folk",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "ADAY",
+   "slug": "aday",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Whistles",
+   "slug": "whistles",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Zulily",
+   "slug": "zulily",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Nayo",
+   "slug": "nayo",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "NVGTN",
+   "slug": "nvgtn",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Oliver's Apparel",
+   "slug": "olivers-apparel",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Olvi's",
+   "slug": "olvis",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Outdoor Voices",
+   "slug": "outdoor-voices",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Pea in a Pod",
+   "slug": "pea-in-a-pod",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "B&C Collection",
+   "slug": "bandc-collection",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Public Rec",
+   "slug": "public-rec",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Wool & Prince",
+   "slug": "wool-and-prince",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "A New Day",
+   "slug": "a-new-day",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Cotton Citizen",
+   "slug": "cotton-citizen",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "American Giant",
+   "slug": "american-giant",
+   "in_apart_pool": true,
+   "sources": []
+  }
+ ],
+ "picks": [
+  {
+   "slug": "muji",
+   "rank": 1,
+   "independent_sources": 4,
+   "single_source": false,
+   "price": {
+    "currency": "USD",
+    "min": 14.9,
+    "max": 60.0,
+    "min_usd": 14.9,
+    "max_usd": 60.0,
+    "fx_date": null,
+    "item_count": 36
+   },
+   "price_relation": "similar",
+   "reason": "Muji's own store sells men's tees from $14.90 to $60, including pre-washed organic cotton jersey crew necks at $19.90, with free US shipping from $80 and US stores in New York, Massachusetts and Oregon.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.russh.com/brands-like-uniqlo/",
+     "note": "#1: \"Japanese-leaning basics, boxy silhouettes\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://lbb.in/bangalore/online-clothing-brands-similar-to-uniqlo/",
+     "note": "#13: \"The closest match to Uniqlo, hands down\""
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.mumsnet.com/talk/style_and_beauty/3684941-Shops-like-Uniqlo",
+     "note": "ZaraW: \"Their tshirts are excellent and not expensive better quality than Uniqlo\""
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "Japanese: \"MUJI official flagship store\""
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/109802753",
+     "note": "\"Muji, Japan. Relaxing and very comfortable.\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "everlane",
+   "rank": 2,
+   "independent_sources": 2,
+   "single_source": false,
+   "price": {
+    "currency": "USD",
+    "min": 34.0,
+    "max": 88.0,
+    "min_usd": 34.0,
+    "max_usd": 88.0,
+    "fx_date": null,
+    "item_count": 33
+   },
+   "price_relation": "similar",
+   "reason": "Everlane's regular-price men's tees run $34 to $88, led by The Essential Organic Crew at $34 in OCS-certified organic cotton, in XS to XXL, with 30-day returns.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.stylight.com/Magazine/Fashion/Brands-Similar-To-Uniqlo/",
+     "note": "#4: \"high-quality basics\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://lbb.in/bangalore/online-clothing-brands-similar-to-uniqlo/",
+     "note": "#14: \"Uniqlo's cooler cousin\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "forever-21",
+   "rank": 3,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 7.99,
+    "max": 34.99,
+    "min_usd": 7.99,
+    "max_usd": 34.99,
+    "fx_date": null,
+    "item_count": 10
+   },
+   "price_relation": "similar",
+   "reason": "Forever 21 sells men's tees from $7.99 (100% Cotton Crew Tee) to $34.99, ships only within the US, free from $50, with 30-day returns.",
+   "evidence": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "\"Forever21 official flagship store\""
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/109802753",
+     "note": "\"Asos, forever21, buy from the official website, fast fashion from Europe and America\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "honest-basics",
+   "rank": 4,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "EUR",
+    "min": 14.9,
+    "max": 27.9,
+    "min_usd": 16.59,
+    "max_usd": 31.06,
+    "fx_date": "2026-10-28",
+    "item_count": 5
+   },
+   "price_relation": "similar",
+   "reason": "Honest Basics, a Berlin brand, sells men's organic and recycled cotton tees from €14.90 to €27.90 (about $17 to $31) in S to 3XL, shipped to the US for €15 and up.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://goodonyou.eco/alternatives-to-uniqlo/",
+     "note": "#3: \"a GOTS-certified basics brand based in Germany\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "gu",
+   "rank": 5,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 6.9,
+    "max": 29.9,
+    "min_usd": 6.9,
+    "max_usd": 29.9,
+    "fx_date": null,
+    "item_count": 15
+   },
+   "price_relation": "similar",
+   "reason": "GU is Uniqlo's Fast Retailing sister brand, with regular-price men's tees from $6.90 to $29.90 in XS to XL, free US shipping from $79 and a SoHo flagship store.",
+   "evidence": [
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/138700728",
+     "note": "Japanese: GU, \"a brand under Uniqlo\""
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/109802753",
+     "note": "GU described as a Uniqlo sub-brand, \"more youthful and trendy\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "marks-spencer",
+   "rank": 6,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 35.99,
+    "max": 68.99,
+    "min_usd": 35.99,
+    "max_usd": 68.99,
+    "fx_date": null,
+    "item_count": 4
+   },
+   "price_relation": "pricier",
+   "reason": "Marks & Spencer's US store sells pure cotton men's tees from $35.99 and a 7-pack of crew necks for $88.99, with duties included, free delivery from $125 and men's tops up to 4XL.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://lbb.in/bangalore/online-clothing-brands-similar-to-uniqlo/",
+     "note": "#17: \"Uniqlo's British twin\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "colorful-standard",
+   "rank": 7,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "EUR",
+    "min": 35.0,
+    "max": 50.0,
+    "min_usd": 38.97,
+    "max_usd": 55.66,
+    "fx_date": "2026-10-28",
+    "item_count": 106
+   },
+   "price_relation": "pricier",
+   "reason": "Colorful Standard sells 100% organic cotton tees made in Portugal from €35 to €50 (about $39 to $56) in XS to 2XL, with free US shipping over $100 and 90-day returns.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.russh.com/brands-like-uniqlo/",
+     "note": "#18 (as Colourful Standard): \"Sweats in every hue of the rainbow\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "tentree",
+   "rank": 8,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 45.0,
+    "max": 45.0,
+    "min_usd": 45.0,
+    "max_usd": 45.0,
+    "fx_date": null,
+    "item_count": 98
+   },
+   "price_relation": "pricier",
+   "reason": "Tentree's regular-price men's tees are all $45, mostly graphic designs, in S to XXL, with free US shipping over $100; every item plants 10 trees.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.thecommons.earth/blog/5-sustainable-uniqlo-alternatives",
+     "note": "#1: \"crafts sweaters from sustainable materials\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "asket",
+   "rank": 9,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 65.0,
+    "max": 95.0,
+    "min_usd": 65.0,
+    "max_usd": 95.0,
+    "fx_date": null,
+    "item_count": 3
+   },
+   "price_relation": "pricier",
+   "reason": "Asket's men's tees cost $65 to $95, made in Portugal, sold in XS to XXL in three lengths, with duties included and free US shipping from $150.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://goodonyou.eco/alternatives-to-uniqlo/",
+     "note": "#2: \"creating timeless wardrobe essentials since 2015\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "mate-the-label",
+   "rank": 10,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 78.0,
+    "max": 78.0,
+    "min_usd": 78.0,
+    "max_usd": 78.0,
+    "fx_date": null,
+    "item_count": 4
+   },
+   "price_relation": "pricier",
+   "reason": "MATE the Label's men's heavyweight relaxed tee is $78 in GOTS-certified organic cotton made in India, and its women's Pima tees are $68 to $78, sizes up to XL for women and XXL for men.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.thecommons.earth/blog/5-sustainable-uniqlo-alternatives",
+     "note": "#3: \"crafted with 100% organic cotton and non-toxic dyes\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "studio-nicholson",
+   "rank": 11,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "GBP",
+    "min": 95.0,
+    "max": 110.0,
+    "min_usd": 126.23,
+    "max_usd": 146.16,
+    "fx_date": "2026-10-28",
+    "item_count": 8
+   },
+   "price_relation": "pricier",
+   "reason": "Studio Nicholson's men's T-shirts cost £95 to £110 (about $126 to $146), in XS to XXL, with US duties included and free US shipping over $100, but only 14 days for returns.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.russh.com/brands-like-uniqlo/",
+     "note": "#5: \"A tailored perspective on the classics\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  }
+ ],
+ "rejected": [
+  {
+   "slug": "zara",
+   "why": "unverified: zara.com/us returned HTTP 403 to WebFetch (men's T-shirts page, 2026-10-29; another run got 403 on dresses). One try, no workaround. 4 sources; first in the human-check queue."
+  },
+  {
+   "slug": "h-m",
+   "why": "unverified: www2.hm.com/en_us men's T-shirts page returned HTTP 403 to WebFetch (2026-10-29; the brand file records the same for other pages). 3 sources; human check."
+  },
+  {
+   "slug": "mango",
+   "why": "unverified: shop.mango.com returned 403 to WebFetch for another page's run on 2026-10-29 (brand file); not retried. 3 sources; human check."
+  },
+  {
+   "slug": "cos",
+   "why": "unverified: cos.com returned 403 to WebFetch (brand file, 2026-10-29); not retried. 2 sources."
+  },
+  {
+   "slug": "arket",
+   "why": "unverified: arket.com/en-us/men/t-shirts/ returned HTTP 403 to WebFetch (2026-10-29). 2 sources."
+  },
+  {
+   "slug": "monki",
+   "why": "not checked: H&M Group brand (with Weekday, which returned 403 on weekday.com for another run). 2 sources."
+  },
+  {
+   "slug": "gap",
+   "why": "no readable prices: gap.com men's T-shirts page (cid=1079) renders no product grid to WebFetch (0 items); a dresses run saw the same. 1 source (zhihu)."
+  },
+  {
+   "slug": "old-navy",
+   "why": "no readable prices: Old Navy's product grids load by script (brand file note, 2026-10-29). 1 source."
+  },
+  {
+   "slug": "new-look",
+   "why": "unverified: newlook.com/us returned HTTP 403 to WebFetch. 1 source (zhihu)."
+  },
+  {
+   "slug": "american-eagle",
+   "why": "no regular-price tee range: men's T-shirts page shows 30 of 334 items and every T-shirt but one (AE Standard Fit Cozy Thermal Shirt $39.95) is marked down 31–44%. 1 source (LBB)."
+  },
+  {
+   "slug": "massimo-dutti",
+   "why": "unverified: massimodutti.com/us returned HTTP 403 to WebFetch. 1 source."
+  },
+  {
+   "slug": "stradivarius",
+   "why": "unverified: stradivarius.com/us returned HTTP 403 to WebFetch; mostly womenswear. 1 source."
+  },
+  {
+   "slug": "bershka",
+   "why": "unverified: bershka.com returned 403 for another run (brand file); not retried. 1 source."
+  },
+  {
+   "slug": "patagonia",
+   "why": "unverified: patagonia.com men's T-shirts page served a maintenance notice to WebFetch (2026-10-29). 1 source (RUSSH, for fleeces and puffers rather than tees)."
+  },
+  {
+   "slug": "norse-projects",
+   "why": "not a pick: store prices in DKK and its FAQ doesn't say whether it ships to the US (14-day returns, buyer pays non-EU duties). 1 source. Men's tees DKK 500–1,200 (norseprojects.com/collections/t-shirts/products.json)."
+  },
+  {
+   "slug": "outerknown",
+   "why": "not checked further: the first page of its store-wide feed showed 21 of 24 tees sale-only, and /collections/mens-tees is empty. 1 source."
+  },
+  {
+   "slug": "kowtow",
+   "why": "not checked: kowtowclothing.com redirects to the NZ store; skipped for the 25-candidate cap. 1 source."
+  },
+  {
+   "slug": "bassike",
+   "why": "not checked: Australian store; feed seen (AUD, tees from 65); skipped for the 25-candidate cap. 1 source."
+  },
+  {
+   "slug": "lativ",
+   "why": "not checked: Taiwanese/Asian brands named only by the two zhihu answers (Lativ, GRL, Tutuanna, SPAO, maxwin, Beast Gate, Fanke, Chengyi, Ma Wei, Hailan Home, UR, Me&City, NetEase YiXuan, Sly, moussy); no sign of US shipping, below the cap."
+  },
+  {
+   "slug": "zaful",
+   "why": "not checked: Zaful, ChicMe, Rosegal and Dresslily are marketplace-style stores named only by Global Brands Magazine; Anthropologie is a multi-brand retailer."
+  },
+  {
+   "slug": "asos",
+   "why": "marketplace / multi-brand retailer."
+  },
+  {
+   "slug": "lbb-india",
+   "why": "not checked: Rareism, The Label Life, Exhale, June Studios, Rigo, No Nasties, March Tee, Turn Black and Lila are Indian labels named only by LBB Bangalore; Decathlon is a sports retailer."
+  },
+  {
+   "slug": "russh-rest",
+   "why": "not checked: the other RUSSH picks are socks, underwear, knitwear, cashmere accessories or Australian labels (Australian Stitch, Flore Flore, Leset, Baserange, &Daughter, Pansy, Goodwear, Anderson-Anderson, all is a gentle spring, Eldon Cashmere, Lindner, Gil Rodriguez, Pretties, Tank Air, Cou Cou Intimates, BEAMS); below the cap."
+  },
+  {
+   "slug": "goodonyou-rest",
+   "why": "not checked: other Good On You picks (LANIUS, BAGGU, Mila.Vert, Knickey, ISTO., Sense Organics, CHNGE, Artknit Studios, Kuyichi, MUD Jeans, Dorsu, ReCreate) are bags, underwear, denim, knitwear or small EU labels; below the cap. chnge.com/products.json returned 404."
+  },
+  {
+   "slug": "pool-only",
+   "why": "Apart Style pool brands with no outside source (e.g. Quince, Kotn, Buck Mason, Los Angeles Apparel, American Giant) can't be picks without outside evidence."
+  }
+ ],
+ "human_check": [
+  {
+   "fact": "anchor price range",
+   "url": "https://www.uniqlo.com/us/en/men/tops/all-tops",
+   "check": "The listing text WebFetch reads is truncated (217 tops). Confirm the regular-price men's T-shirt range is $9.90 (DRY Color T-Shirt) to $34.90 (HEATTECH Ultra Warm T-Shirt), and that $24.90 SUPIMA Cotton T-Shirt is regular price."
+  },
+  {
+   "fact": "pick check: Zara",
+   "url": "https://www.zara.com/us/en/man-tshirts-l855.html",
+   "check": "403 to WebFetch. 4 sources, the most of any unverified candidate. Confirm regular-price men's tee range, sizes, US shipping and returns; would become a pick."
+  },
+  {
+   "fact": "pick check: H&M",
+   "url": "https://www2.hm.com/en_us/men/shop-by-product/t-shirts-tank-tops.html",
+   "check": "403 to WebFetch. 3 sources. Same checks."
+  },
+  {
+   "fact": "pick check: Mango",
+   "url": "https://shop.mango.com/us",
+   "check": "403 to WebFetch. 3 sources. Same checks."
+  },
+  {
+   "fact": "pick check: COS / Arket",
+   "url": "https://www.arket.com/en-us/men/t-shirts/",
+   "check": "403 to WebFetch. 2 sources each. Same checks."
+  },
+  {
+   "fact": "pick price: Marks & Spencer",
+   "url": "https://www.marksandspencer.com/us/l/men/tops-t-shirts-and-polos/",
+   "check": "Price row is a 5-tee sample of 200 T-shirts (truncated page). Confirm the regular-price range ($35.99–$68.99 single tees)."
+  },
+  {
+   "fact": "evidence quality: zhihu",
+   "url": "https://www.zhihu.com/en/answer/138700728",
+   "check": "GU and Forever 21 rest only on two zhihu answers (Chinese-market lists, counted as one source). Decide whether this counts as outside evidence."
+  }
+ ],
+ "checked_at": "2026-10-29",
+ "fx": {
+  "source": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+  "date": "2026-10-28",
+  "per_eur": {
+   "USD": 1.1133,
+   "GBP": 0.83785,
+   "DKK": 7.4741
+  },
+  "note": "Read 2026-10-29. Honest Basics and Colorful Standard price in EUR, Studio Nicholson in GBP; min_usd/max_usd use these rates."
+ },
+ "notes": [
+  "Anchor verified: Uniqlo US store live, men's tees $9.90–$34.90 (regular price, truncated listing), XXS–3XL, ships US, free over $99, 30-day returns, 86 US stores (Fast Retailing). Only image_url is missing (no /img/ asset yet).",
+  "11 picks pass enrich.md §3. Muji (4 independent sources) and Everlane (2) are multi-sourced; the other 9 have one each. zhihu's two answers are counted as one source.",
+  "Zara, H&M and Mango have 3–4 sources each but refuse WebFetch (403); they're in human_check and would likely enter the top five once verified."
+ ]
+}
