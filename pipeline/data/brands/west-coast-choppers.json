@@ -1,0 +1,63 @@
+{
+  "slug": "west-coast-choppers",
+  "name": "West Coast Choppers",
+  "website_url": "https://www.westcoastchoppers.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Biker Heritage Tees",
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Tees S–3XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "graphic-tees",
+      "currency": "USD",
+      "min": 37.99,
+      "max": 39.99,
+      "min_usd": 37.99,
+      "max_usd": 39.99,
+      "fx_date": null,
+      "item_count": 16,
+      "source_url": "https://www.westcoastchoppers.com/collections/t-shirts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "T-SHIRTS collection: 19 products, 16 short-sleeve tees, all regular price (no compare-at, no sale tags): ten at $37.99, six at $39.99."
+    }
+  ],
+  "materials": [
+    "100% cotton"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.westcoastchoppers.com/",
+    "https://www.westcoastchoppers.com/collections.json?limit=250",
+    "https://www.westcoastchoppers.com/collections/t-shirts/products.json?limit=250",
+    "https://www.westcoastchoppers.com/pages.json?limit=250",
+    "https://www.westcoastchoppers.com/policies/shipping-policy",
+    "https://www.westcoastchoppers.com/policies/refund-policy",
+    "https://www.zumiez.com/brands/west-coast-choppers"
+  ],
+  "notes": [
+    "Homepage title 'West Coast Choppers | Official Apparel'; meta: 'premium T-shirts, hoodies, jackets, hats and accessories. Inspired by the legendary custom motorcycle brand founded by Jesse James'.",
+    "OG Classic Tee - Black ($37.99): '100% cotton', 'the original white Iron Cross logo and “Long Beach, CA” print — a timeless piece of biker heritage'. Page /pages/paul-walker-t-shirt-west-coast-choppers: the Classic Tee was 'Worn by Paul Walker in The Fast and the Furious', 'Reissued from our original archives'.",
+    "Shipping: 'SHIPPING IS FREE FOR ORDERS OVER $150 FOR US ORDERS AND OVER $200 FOR INTERNATIONAL ORDERS'; ships worldwide by UPS/USPS; EU orders 'ship out of Europe'. Homepage country selector lists 202 countries incl. US, CA, GB, AU (all USD).",
+    "Returns: 'within 30 days of delivery'; full refund with tags on; 80% if labels are removed but unworn; worn or washed items not refundable.",
+    "Zumiez brand page lists 21 West Coast Choppers items, mostly T-shirts at $34.95.",
+    "hq_country: not stated on the official site (the tee print says Long Beach, CA, but the operator isn't named), so null.",
+    "size_range detail: all 16 tees S–3XL; 4XL on 8."
+  ],
+  "checked_at": "2026-10-29"
+}

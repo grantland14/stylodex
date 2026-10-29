@@ -1,0 +1,63 @@
+{
+  "slug": "blackcraft-cult",
+  "name": "BlackCraft Cult",
+  "website_url": "https://www.blackcraftcult.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Bold Apparel Rooted in Positivity",
+  "hq_country": "US",
+  "founded_year": 2012,
+  "parent_company": null,
+  "size_range": "Tees S–3XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 125,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "graphic-tees",
+      "currency": "USD",
+      "min": 31.99,
+      "max": 40,
+      "min_usd": 31.99,
+      "max_usd": 40,
+      "fx_date": null,
+      "item_count": 26,
+      "source_url": "https://www.blackcraftcult.com/collections/tee/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Union of the TEES nav collection (/collections/tee) and /collections/blackcraft-2-0: 27 short-sleeve tees, 26 at regular price (Summoned From Salem T-Shirt excluded: 'Clearance' tag; no compare-at prices). Almost all $35; three at $31.99 ($33.99 in the largest sizes); Welcome To Hell Tee $40. Tags 'salem'/'Salem Apparel' are a collection name, not a sale."
+    }
+  ],
+  "materials": [
+    "100% ring-spun cotton"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.blackcraftcult.com/",
+    "https://www.blackcraftcult.com/collections.json?limit=250",
+    "https://www.blackcraftcult.com/collections/tee/products.json?limit=250",
+    "https://www.blackcraftcult.com/collections/blackcraft-2-0/products.json?limit=250",
+    "https://www.blackcraftcult.com/pages/about-us",
+    "https://www.blackcraftcult.com/policies/refund-policy",
+    "https://www.blackcraftcult.com/policies/shipping-policy",
+    "https://www.blackcraftcult.com/policies/privacy-policy",
+    "https://www.blackcraftcult.com/cart.js"
+  ],
+  "notes": [
+    "Homepage meta: 'Rooted in kindness, gratitude, and positivity, Blackcraft offers bold apparel, shoes, bags, hats, and accessories for women and men.' known_for built from it.",
+    "About: 'Spawned out of a Southern California attic' in the summer of 2012; founders Jim Somers and Bobby Schubenski; 'you don't need God or any organized belief system in order to be a good person'.",
+    "hq_country US: privacy policy contact address 'Blackcraft Cult, 572 Cross Creek Rd, Avella PA 15312, United States'.",
+    "Tee descriptions: 'classic fit short sleeve tee made with 100% ring-spun cotton', unisex fit; artwork such as Witch City Salem, Lovers Tarot Card, Power Of The Goat. Named regular-price tees: Welcome To Hell Tee ($40), Salem 400 Tee ($35), Lovers Tarot Card T-Shirt ($35).",
+    "Shipping: the shipping-policy body is empty; the site banner reads 'Enjoy FREE domestic shipping when you spend $125+ on your order!'. USD store (cart.js) with a US business address, so ships_to US; other countries not stated.",
+    "Returns: '30-day return policy' from receipt; request by email first; sale items and gift cards can't be returned; refunds to the original payment method. EU orders 14 days.",
+    "size_range detail: tees S–3XL (4XL on 3 of 27, 5XL on 2).",
+    "/pages/faq redirects to the homepage; a WebFetch of it returned HTTP 429 (not retried)."
+  ],
+  "checked_at": "2026-10-29"
+}

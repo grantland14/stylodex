@@ -1,0 +1,61 @@
+{
+  "slug": "killstar",
+  "name": "Killstar",
+  "website_url": "https://us.killstar.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Total Trash Occult Couture",
+  "hq_country": null,
+  "founded_year": 2010,
+  "parent_company": "Draco Distribution",
+  "size_range": "Tees XS–4XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 175,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "graphic-tees",
+      "currency": "USD",
+      "min": 50,
+      "max": 60,
+      "min_usd": 50,
+      "max_usd": 60,
+      "fx_date": null,
+      "item_count": 9,
+      "source_url": "https://us.killstar.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Full US catalog (products.json, 5 pages, 1,128 products). 9 men's short-sleeve T-shirts at regular price: Blind Mind $50; Cause Of Death, Dead Come Alive, Rot In Hell, The Worst In Me $55; four Boxy T-Shirts $60. Regular = no compare-at above price and no 'SALE' or 'CLEARANCE-*' tag; 'SALE-ID-*' tags are on FULLPRICE-tagged items with no compare-at, so they are campaign history, not markdowns. 33 tees on sale excluded; long sleeves, vests, jerseys, shirts excluded. No women's T-shirts at regular price."
+    }
+  ],
+  "materials": [
+    "100% cotton jersey"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://us.killstar.com/",
+    "https://us.killstar.com/products.json?limit=250",
+    "https://us.killstar.com/collections/mens-t-shirts-vests/products.json?limit=250",
+    "https://us.killstar.com/pages/about-us",
+    "https://us.killstar.com/pages/delivery",
+    "https://us.killstar.com/policies/refund-policy",
+    "https://us.killstar.com/policies/privacy-policy",
+    "https://us.killstar.com/policies/terms-of-service",
+    "https://us.killstar.com/cart.js"
+  ],
+  "notes": [
+    "About: 'KILLSTAR is a dark n' edgy lifestyle cult'; 'over-sized prints, studded leather and digital designs'; \"'Total Trash Occult Couture' – est MMX\" (2010). Homepage meta: 'Clothing & Lifestyle company with a twist of darkness'.",
+    "Operator: privacy policy names Draco Distribution, Inc. ('operator of Killstar ... headquartered in the United States'), Draco Distribution LTD and GmbH; terms say 'Draco Distribution Ltd (t/a KILLSTAR)'. The brand's own country isn't stated plainly, so hq_country is null.",
+    "Delivery page: 'Free Shipping On Orders Over $175' (physical goods only); 'KILLSTAR fulfil orders from a global hub in the EU'; US economy 'delivered in 7-14 business days'. Canada and the UK are not on the US store's list (other Killstar stores serve them), so only US stored.",
+    "Returns: '14 days from delivery to register your return, then another 14 days to send your items back'.",
+    "Tee descriptions: Boxy T-Shirts are '100% cotton jersey', 'Boxy fit', with artwork on the front and sleeves (e.g. Shadows With Eyes Boxy T-Shirt $60).",
+    "size_range detail: 8 of 9 men's tees XS–4XL; Blind Mind T-Shirt S–XXL."
+  ],
+  "checked_at": "2026-10-29"
+}

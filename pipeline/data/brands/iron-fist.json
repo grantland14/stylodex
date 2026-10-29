@@ -1,0 +1,63 @@
+{
+  "slug": "iron-fist",
+  "name": "Iron Fist",
+  "website_url": "https://ironfistclothing.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Cult 00s Alternative Graphics",
+  "hq_country": "HK",
+  "founded_year": null,
+  "parent_company": "Faith In Chaos",
+  "size_range": "Tees XS–2XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "graphic-tees",
+      "currency": "USD",
+      "min": 39,
+      "max": 45,
+      "min_usd": 39,
+      "max_usd": 45,
+      "fx_date": null,
+      "item_count": 7,
+      "source_url": "https://ironfistclothing.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Whole store served by products.json: 17 products, 7 short-sleeve tees (product type T-Shirts), all regular price (no compare-at, no sale tags): six at $45, the Optimism S/S Tee at $39. Swimwear, jackets, hoodies, a cape and a button-up excluded."
+    }
+  ],
+  "materials": [
+    "100% cotton"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://ironfistclothing.com/",
+    "https://ironfistclothing.com/products.json?limit=250",
+    "https://ironfistclothing.com/collections.json?limit=250",
+    "https://ironfistclothing.com/pages.json?limit=250",
+    "https://ironfistclothing.com/policies/refund-policy",
+    "https://ironfistclothing.com/policies/shipping-policy",
+    "https://ironfistclothing.com/policies/contact-information",
+    "https://ironfistclothing.com/policies/terms-of-service",
+    "https://ironfistclothing.com/cart.js"
+  ],
+  "notes": [
+    "Homepage title 'Iron Fist Official Archive | Faith In Chaos'; meta 'Shop the official Iron Fist archive and Faith In Chaos. Cult 00s alternative fashion, iconic graphics, limited reissues, new collections, and collaborations.'",
+    "About (/pages/about via pages.json): Iron Fist 'came out of the underground in the early 2000s'; 'Loud graphics. Zombies. Monsters. Tattoo art. Horror. Punk. Metal.'; 'Iron Fist disappeared for a while'; the store now mixes 'original Iron Fist archive pieces alongside new Faith In Chaos collections'. 'Faith In Chaos is the house. Iron Fist is part of its history', so parent_company is Faith In Chaos. No founding year stated.",
+    "hq_country HK: terms and contact information name the operator 'Blank Generation Limited', 1701-1702, 17/F, Bonham Strand Trade Center, 135 Bonham Strand, Sheung Wan, Hong Kong.",
+    "Tee descriptions: 'Oversized fit', '100% mid-weight cotton', 'Size down for a standard fit', 'Limited run' (e.g. Carl S/S Tee $45, Here I Lie S/S Tee $45); Bloody Mess T-Shirt ($45) is 'a Godmachine artwork classic from the 2000s'.",
+    "Shipping: 'US shipments ... will take 2-9 business days'; 'We ship to most countries worldwide except to select countries'; costs at checkout, no free-shipping threshold stated. CA/GB/AU not named, so only US stored. cart.js currency USD.",
+    "Returns: header 'Returns accepted for 30 days', but 'Returns are only considered when there is a fault with the product' or the items are 'still unopened'; 'Ordering the incorrect size does not qualify for a return.'",
+    "size_range detail: all 7 tees XS–2XL.",
+    "Small catalog: collections.json lists 'collection-all' 1,158 but products.json serves 17 live products (store relaunched as an archive)."
+  ],
+  "checked_at": "2026-10-29"
+}

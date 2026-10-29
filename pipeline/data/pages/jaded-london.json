@@ -1975,8 +1975,7 @@
       ],
       "gate_gaps": [
         "hq_country",
-        "image_url",
-        "body"
+        "image_url"
       ]
     },
     {
@@ -2001,8 +2000,7 @@
       ],
       "gate_gaps": [
         "price:jeans",
-        "image_url",
-        "body"
+        "image_url"
       ]
     },
     {
@@ -2029,8 +2027,7 @@
         }
       ],
       "gate_gaps": [
-        "image_url",
-        "body"
+        "image_url"
       ]
     },
     {
@@ -2057,8 +2054,7 @@
         }
       ],
       "gate_gaps": [
-        "image_url",
-        "body"
+        "image_url"
       ]
     },
     {
@@ -2085,8 +2081,7 @@
         }
       ],
       "gate_gaps": [
-        "image_url",
-        "body"
+        "image_url"
       ]
     },
     {
@@ -2113,8 +2108,7 @@
         }
       ],
       "gate_gaps": [
-        "image_url",
-        "body"
+        "image_url"
       ]
     },
     {
@@ -2142,8 +2136,7 @@
       ],
       "gate_gaps": [
         "hq_country",
-        "image_url",
-        "body"
+        "image_url"
       ]
     },
     {
@@ -2171,48 +2164,231 @@
       ],
       "gate_gaps": [
         "known_for",
-        "image_url",
-        "body"
+        "image_url"
       ]
     },
     {
-      "slug": "lioness",
+      "slug": "urban-revivo",
       "rank": 9,
       "independent_sources": 1,
       "single_source": true,
       "price": {
-        "currency": "AUD",
-        "min": 79,
-        "max": 109,
-        "min_usd": 55.56,
-        "max_usd": 76.66,
-        "fx_date": "2026-10-28",
-        "item_count": 41
+        "currency": "USD",
+        "min": 34.9,
+        "max": 129,
+        "min_usd": 34.9,
+        "max_usd": 129,
+        "fx_date": null,
+        "item_count": 282
       },
       "price_relation": null,
-      "reason": "LIONESS, a Sydney label, lists 41 regular-price jeans at A$79–A$109 in sizes XXS–XXL, with 30-day returns; it does not list the US as a delivery destination.",
+      "reason": "Urban Revivo's own store sells women's wide-leg, cargo and flared jeans at $34.90–$129 in waists 25–32, ships to the US and takes returns within 14 days.",
       "evidence": [
         {
           "kind": "serp_comention",
           "url": "https://worthybornedit.com/10-edgy-streetwear-brands-like-jaded-london/",
-          "note": "#6: \"Like Jaded London, its apparel brings bold urban styles designed for confident fashion lovers.\""
-        },
-        {
-          "kind": "co_stocked",
-          "url": "https://www.dollskill.com/collections/jeans",
-          "counted": false,
-          "note": "Dolls Kill vendor name \"Lioness\" (product page https://www.dollskill.com/products/denim-stripe-eivissa-baggy-jeans names only \"Lioness\"); not confirmed to be LIONESS of lionessfashion.com, so not counted"
+          "note": "#4: \"A fashion brand that merges high-fashion aesthetics with trendy streetwear, like Jaded London\" (re-read 2026-10-29)"
         }
       ],
       "gate_gaps": [
-        "known_for",
-        "ships_to:US",
-        "image_url",
-        "body"
+        "image_url"
+      ]
+    },
+    {
+      "slug": "other-uk",
+      "rank": 10,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "GBP",
+        "min": 110,
+        "max": 120,
+        "min_usd": 146.16,
+        "max_usd": 159.45,
+        "fx_date": "2026-10-28",
+        "item_count": 6
+      },
+      "price_relation": null,
+      "reason": "OTHER, a UK rock-and-roll label founded in 2012, sells O32 men's flared jeans at £110–£120 in waists 26–36, with duties included and free US shipping over $170.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-jaded-london",
+          "note": "\"Rock-oriented oversized pieces that echo this label's loose, attitude-heavy streetwear shapes.\" (re-read 2026-10-29)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "miaou",
+      "rank": 11,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 218,
+        "max": 325,
+        "min_usd": 218,
+        "max_usd": 325,
+        "fx_date": null,
+        "item_count": 5
+      },
+      "price_relation": null,
+      "reason": "Miaou's own store sells low-rise flare and Element jeans at $218–$325 in sizes XXS–XL, with free US shipping over $250.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/10-edgy-streetwear-brands-like-jaded-london/",
+          "note": "#7 in the list of 10 brands like Jaded London; its entry describes Miaou on its own without a direct comparison line (re-read 2026-10-29)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "rollas",
+      "rank": 12,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 129,
+        "max": 199,
+        "min_usd": 129,
+        "max_usd": 199,
+        "fx_date": null,
+        "item_count": 61
+      },
+      "price_relation": null,
+      "reason": "Rolla's, an Australian denim label, sells wide-leg, barrel, flare and loose jeans at $129–$199 on its US store, many in a 34-inch Long version, in waists 23–36.",
+      "evidence": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "21 Rollas products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "daze",
+      "rank": 13,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 88,
+        "max": 128,
+        "min_usd": 88,
+        "max_usd": 128,
+        "fx_date": null,
+        "item_count": 35
+      },
+      "price_relation": null,
+      "reason": "Daze sells women's wide, flare, barrel, palazzo and cargo harem jeans at $88–$128 in sizes 23–33 (US 0–16), shipping only within the US, free over $140.",
+      "evidence": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "14 Daze products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "tripp-nyc",
+      "rank": 14,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 79,
+        "max": 174,
+        "min_usd": 79,
+        "max_usd": 174,
+        "fx_date": null,
+        "item_count": 28
+      },
+      "price_relation": null,
+      "reason": "Tripp NYC, an East Village label founded in the early 1980s, sells strap, zip and bondage denim pants and jeans at $79–$174, with plus sizes 14–18 in denim.",
+      "evidence": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "12 Tripp NYC products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "by-dyln",
+      "rank": 15,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "AUD",
+        "min": 149,
+        "max": 290,
+        "min_usd": 104.79,
+        "max_usd": 203.95,
+        "fx_date": "2026-10-28",
+        "item_count": 7
+      },
+      "price_relation": null,
+      "reason": "BY.DYLN, a Melbourne label built around statement denim, sells jeans at A$149–A$290 in sizes XS–XL and ships to the US, free over A$150.",
+      "evidence": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "12 BY DYLN products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "pistola",
+      "rank": 16,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 188,
+        "max": 248,
+        "min_usd": 188,
+        "max_usd": 248,
+        "fx_date": null,
+        "item_count": 49
+      },
+      "price_relation": null,
+      "reason": "Pistola, a Los Angeles brand founded in 2013, sells straight, flare, wide-leg, barrel and palazzo jeans at $188–$248, in regular and petite waists 23–33.",
+      "evidence": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "9 Pistola products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
       ]
     }
   ],
   "rejected": [
+    {
+      "slug": "lioness",
+      "why": "moved out of picks 2026-10-29: verified and sells jeans (A$79–A$109), but its shipping policy doesn't list the US and it has no US stores, so it fails enrich.md §3 (ships to the US or has US stores). Becomes a pick only if it starts shipping to the US."
+    },
     {
       "slug": "weekday",
       "why": "unverified: weekday.com returned HTTP 403 again (2026-10-29, /en-us/women/jeans/). 2 sources; first in the human-check queue."
@@ -2242,24 +2418,12 @@
       "why": "not verified this run: 15-brand cap (1 source; serp_comention)"
     },
     {
-      "slug": "other-uk",
-      "why": "off_category on 2026-10-28 (\"Officially Licensed Rock Clothing\"); no jeans collection checked this run (15-brand cap)."
-    },
-    {
       "slug": "bershka",
       "why": "unverified: bershka.com/us/ returned HTTP 403 on 2026-10-28; not re-tried this run."
     },
     {
-      "slug": "urban-revivo",
-      "why": "not verified this run: 15-brand cap (1 source; serp_comention)"
-    },
-    {
       "slug": "dollskill",
       "why": "retailer that stocks Jaded London (18 Jaded jeans in its jeans collection), so it is a place to buy Jaded, not an alternative brand. Its jeans category is used as co_stocked evidence instead."
-    },
-    {
-      "slug": "miaou",
-      "why": "not verified this run: 15-brand cap (1 source; serp_comention)"
     },
     {
       "slug": "the-kript",
@@ -2410,10 +2574,6 @@
       "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
-      "slug": "tripp-nyc",
-      "why": "not verified this run: 15-brand cap (1 source; Apart Style pool + co_stocked)"
-    },
-    {
       "slug": "stray-rats",
       "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
@@ -2442,19 +2602,7 @@
       "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
     },
     {
-      "slug": "rollas",
-      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
-    },
-    {
-      "slug": "daze",
-      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
-    },
-    {
       "slug": "levis",
-      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
-    },
-    {
-      "slug": "by-dyln",
       "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
     },
     {
@@ -2463,10 +2611,6 @@
     },
     {
       "slug": "abrand-jeans",
-      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
-    },
-    {
-      "slug": "pistola",
       "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
     },
     {
@@ -2747,7 +2891,7 @@
     {
       "fact": "evidence check: Dolls Kill vendors \"Lioness\" and \"Minga\"",
       "url": "https://www.dollskill.com/collections/lioness",
-      "check": "Confirm \"Lioness\" is LIONESS (lionessfashion.com) and https://www.dollskill.com/collections/minga is Minga London. If yes, LIONESS gets 2 sources and Minga London 1 (and becomes a pick)."
+      "check": "Confirm https://www.dollskill.com/collections/minga is Minga London; if yes, Minga London gets 1 counted source and can become a pick (verified, jeans $130–$210). \"Lioness\" no longer matters for this page: LIONESS doesn't ship to the US."
     }
   ],
   "checked_at": "2026-10-29",
@@ -2767,34 +2911,66 @@
     "The page still FAILS lib/gate.ts: the anchor is unverified with no jeans price (missingAnchorFacts), so every price_relation is null; Edikted has no regular-price jeans (sitewide sale); no pick has a body or a /img/ image; some picks lack known_for or hq_country (see gate_gaps).",
     "Ranking: independent sources, then (anchor price missing, so price closeness can't be used) fewer gate gaps, then more priced items.",
     "Evidence this run: 2 serp_comention pages (discobrands, worthybornedit) and 1 co_stocked page (Dolls Kill jeans). The two new keywords added no new readable editorial page: their results are Reddit, TikTok, Pinterest, Instagram, a Revolve widget (503) and a Who What Wear page whose body didn't load.",
-    "Prices: Shopify /collections/{handle}/products.json, regular price = no compare_at above price and no sale/markdown tag (mnml zeroes compare_at on markdowns and tags them instead). Non-USD converted at ECB 2026-10-28. Where a store splits jeans by gender, the women's collection is used (Jaded's own store leads with Women's Jeans); the men's range is in the brand file note."
+    "Prices: Shopify /collections/{handle}/products.json, regular price = no compare_at above price and no sale/markdown tag (mnml zeroes compare_at on markdowns and tags them instead). Non-USD converted at ECB 2026-10-28. Where a store splits jeans by gender, the women's collection is used (Jaded's own store leads with Women's Jeans); the men's range is in the brand file note.",
+    "2026-10-29 top-up run: 8 picks added from already-recorded candidates (Urban Revivo, OTHER, Miaou from editorial lists; Rolla's, Daze, Tripp NYC, BY.DYLN, Pistola co-stocked in the Dolls Kill jeans collection with 18 Jaded London jeans). Each brand's jeans feed was re-read the same day (products.json, or Rolla's US collection page) and matched the stored ranges; Urban Revivo, Tripp NYC and Daze shipping/returns/About pages re-read. OTHER was off_category on the first run against the old streetwear category; it sells regular-price jeans, so it now qualifies. LIONESS moved to rejected (no US shipping). Edikted stays a pick with no body and no price (every jeans item on sale on 2026-10-29); it can't render until a regular price exists, and would then need a body and best_for.",
+    "Ranking for the added picks (1 source each, anchor price unknown so price closeness can't be used): editorial-list sources before co-stocking, then more Jaded-adjacent Dolls Kill jeans listings (Rolla's 21, Daze 14, Tripp NYC 12, BY.DYLN 12, Pistola 9). The existing picks keep their order.",
+    "Anchor still unverified: https://jadedldn.com/ returned HTTP 403 to WebFetch again on 2026-10-29 (one try, no workaround). enrich.md allows a parent company's official site only for chains, and prices only from the store itself, so marketplace or stockist listings (Revolve, Dolls Kill) can't verify it. It stays in human_check for Ash."
   ],
   "author": "Ash",
   "copy": {
-    "intro": "Jaded London is a UK streetwear label best known for baggy, statement jeans. If that's what you go to it for, these seven brands make jeans in the same spirit and ship to the US, from $72 a pair at mnml to $350 at JNCO.",
+    "intro": "You've found the Jaded London jeans you want, with the huge leg and the washed-out finish, and now you'd like a few more places to look. Every brand here sells jeans in that same baggy, flared or going-out spirit, and every one ships to the US. The closest matches come first.",
     "bodies": {
-      "the-ragged-priest": "The Ragged Priest does grunge, and its jeans are a tight edit: eight styles at £70–£80 (about $93–$106), split between super-baggy fits and low-rise flares. Dolls Kill stocks it right alongside Jaded's denim. US orders over $90 ship free, and you get 28 days to send things back.",
-      "mnml": "mnml is the cheapest way into this look: 85 pairs of jeans at $72–$98, mostly baggy, with flares and rave cuts in the mix. Waists go up to 42, and US shipping is free over $50, the lowest bar on this list. Everything is designed in a downtown Los Angeles studio and made in small runs. Returns are open for 30 days.",
-      "jnco": "JNCO has made wide-leg jeans in Los Angeles since 1985, and the width is still the point: leg openings run from 20 to 50 inches. There are 62 women's styles at $130–$350 in waists 24–44, the widest size range here, and the men's jeans cost the same. Shipping is a flat $10 to most of the US, and returns close after 21 days.",
-      "maniere-de-voir": "Manière De Voir is the dressier choice, aiming to bridge high fashion and the high street. Its 31 women's jeans run $155–$200 in wide, straight and flared cuts, in US sizes 0–12. Reece Wabara founded it in 2013, and it's now run from SoHo, New York. Shipping is free over $250. Returns close after 14 days, and sale items come back as store credit only.",
-      "represent": "Represent is British luxury streetwear, started in Manchester in 2011 by brothers George and Mike Heaton. Its jeans are the priciest here at $245–$260: five styles, including the R3 Baggy Jean, in waists 28–38. US orders ship from inside the US and go free over $175. Returns cost $9 and close after 14 days.",
-      "motel-rocks": "Motel Rocks has the most jeans to choose from: 97 styles at $89–$114, mostly in its own Roomy and Parallel fits, plus plenty of flares. Everything is designed in London. Legs come in 30, 32 or 34 inches only, with no petite or tall range, so check the inseam first. US shipping is free over $95, and the 30-day return window starts from dispatch.",
-      "affliction": "Affliction, out of Seal Beach, California, keeps a small jeans range for women and men: five women's styles at $99.95–$125 in waists 24–34, and six men's at $120–$138.95 in waists 27–44. Shipping is a flat $8.95, and returns within 30 days carry a $7 restocking fee."
+      "the-ragged-priest": "The Ragged Priest is the nearest thing to Jaded London's statement denim, with a grungier edge. Start with the Loopy Eyelet Super Baggy Jeans (£80, about $106).\n\nIts jeans edit is small and split two ways: super-baggy fits and low-rise flares like the Keeper Dirty Wash Low Rise Flare Jeans (£75, about $100). Prices are in pounds, so do the conversion before you compare. Waists run 24 to 38, a touch wider than Motel Rocks, and US orders ship free over $90. You get 28 days to send things back.\n\nThe catch is choice. If you want lots of washes to pick from, Motel Rocks and mnml have much deeper denim ranges.",
+      "mnml": "mnml is the easiest way into baggy, Jaded-style denim for under $100, since every full-price pair sits between $72 and $98. The Studded Super Flare Denim ($82) is the one to start with.\n\nIt designs in-house in a downtown Los Angeles studio and makes in small runs, and the range leans hard into baggy, flare and rave cuts. Waists go up to 42, so it's the next stop if The Ragged Priest's 38 stops short. US shipping is free over $50, the lowest bar on this list, and returns are open for 30 days.\n\nFor an even bigger leg, JNCO goes much wider, though you'll pay well over $100 for it.",
+      "jnco": "JNCO is where to go when the leg can't be too wide. It has made wide-leg jeans in Los Angeles since 1985, and its leg openings run from 20 all the way to 50 inches. The W101 Twin Cannon ($140) is a good first pair.\n\nPrices climb fast from there, up to $350, with styles like the Hypnotix ($280) in the middle. Women's waists run 24 to 44, as wide a spread as this list gets. The men's jeans sell in the same price band, so it's an easy place for two people to shop the same look.\n\nThere's no free shipping, just a flat $10 to most of the US, and returns close after 21 days. If $140 is more than you want to spend, mnml gets you a big leg for under $100.",
+      "maniere-de-voir": "Manière De Voir is the dressier take, for when your jeans are going out at night. The Enora Hourglass Jean With Chain ($170) shows the idea, with denim cut for shape and hardware on top.\n\nThe brand says it bridges high fashion and the high street, and every piece is designed in-house from sketch to sample. Jeans run $155 to $200 in wide, straight and flared cuts, like the Ambre Denim Lace Up Flared Jeans ($200). Sizes stop at US 12, though. If you're above that, Daze goes to 16.\n\nFree shipping only starts at $250, and returns close after 14 days. Sale pieces come back as an e-gift card, not a refund.",
+      "represent": "Represent is the luxury end of the baggy look, a British streetwear label that brothers George and Mike Heaton started in Manchester in 2011. Its jeans run $245 to $260, and the R6 Flare Denim ($260) is the one for Jaded's flares.\n\nThe denim range is tight, a handful of fits including the R3 Baggy Jean and the R5 Curve Jean ($260), in waists 28 to 38. Faded washes and roomy cuts are where it overlaps with Jaded. US orders ship from inside the US and go free over $175, so there's no waiting on an overseas parcel.\n\nReturns cost $9 and close after 14 days. If you like the British angle but not the price, OTHER does flares for a lot less.",
+      "motel-rocks": "Motel Rocks has the deepest denim range here, built around its own Roomy, Parallel and Flared fits. Start with the Low Rise Roomy Jeans ($89), at the bottom of an $89 to $114 price range.\n\nShopping by fit name is the quick way in, since most pairs are one of those three. Everything is designed in London and made in Bali. Leg lengths come in 30, 32 or 34 inches only, with no petite or tall line, so check your inseam before you order. US shipping is free over $95.\n\nThe 30-day return window starts from dispatch, not delivery. And if your inseam is under 30, Pistola's petite cuts are the safer bet.",
+      "affliction": "Affliction is the Y2K-graphics option, a Seal Beach, California label best known for full-coverage, tattoo-style designs. Its jeans are a small side line, with women's styles from $99.95 to $125, like the Jade Fleur Gwen Jeans ($125).\n\nMost of what it sells is still made in the USA. Women's waists run 24 to 34, and the men's jeans ($120 to $138.95) go up to a 44, so it works for both. Shipping is a flat $8.95.\n\nThe catch is returns. You get 30 days, but refunds carry a $7 restocking fee, so be sure of the size first. For a bigger women's denim range at a similar price, Motel Rocks has more to pick from.",
+      "urban-revivo": "Urban Revivo is the budget pick, with wide-leg jeans from $34.90 and almost nothing over $100. The Washed Denim Wide-leg High-waisted Jeans With Black Tassel Belt Detail ($89.90) is a good place to start.\n\nIt's a runway-inspired label founded in 2006, with design centers in London, Shanghai and Guangzhou. The range is huge and almost all wide-leg, with cargo cuts too, like the Cargo Wide-leg Drawstring Waist Cotton Jeans ($69.90). Waists only run 25 to 32, though.\n\nShipping is the trade-off. Standard delivery to the US takes 10 to 20 business days, or 3 to 10 with Express. You also pay to send returns back, within a 14-day window.",
+      "other-uk": "OTHER is for the rock-and-roll side of Jaded London, and its jeans are cut for men. The O32 flares are the line to know, like the O32 Ripped Knee Flared jeans (£120, about $159).\n\nMusician Nick Davey founded it in 2012, and its jeans are cut, distressed and patched in-house in its UK studio. The rest of the store is leather, knitwear and band tees. Prices are in pounds but include duties, so there's no customs bill waiting when the parcel lands. US shipping is a flat $16, free over $170.\n\nWaists run 26 to 36. Returns close after 14 days, and you pay the postage back to the UK. Represent costs more but ships from inside the US.",
+      "miaou": "Miaou is the designer pick, for flared denim with more polish than Jaded's. The Low Rise Flare ($218) is the way in, and the Element Jean ($325) tops the range.\n\nThe brand says it was born in France and inspired by the Southern California coastline. Designer Alexia Elkaim started it in 2016 with a one-off pair of denim pants. Corsets and matching sets lead the store now, so think of the jeans as the base for a full Miaou outfit. Sizes run XXS to XL, and US shipping is free over $250.\n\nRead the returns before you buy. You get 14 days from the order date, for store credit or an exchange only, with a $9.95 fee. If that's too tight, Rolla's gives you 30 days.",
+      "rollas": "Rolla's is the easy choice if you're tall. Many of its styles come in a Long version with a 34-inch inseam, so look for Long in the name. The Sailor Wide Leg Jeans ($129) are the place to start.\n\nIt's an Australian denim label, and its US store prices jeans from $129 to $199. Barrel, flare and loose fits fill out the range, like the Frankie Loose Jeans Long ($159). Waists run 23 to 36.\n\nUS orders ship free over $120, and returns are open for 30 days, which is generous next to Miaou or Represent. Sending a pair back costs $6 to $10, and sale pieces can't come back at all.",
+      "daze": "Daze is the pick for wide and barrel jeans at a mid-range price, with everything between $88 and $128. The Far Out High Rise Wide Leg ($108) is its big-leg style, and the Mirage Mid Rise Cargo Harem ($118) is the closest to Jaded's cargo side.\n\nIt's a California women's denim label, and the fit names tell you the shape before the photos do: wide, flare, barrel, palazzo. Sizes run 23 to 33, which is US 0 to 16, so it goes well past Manière De Voir's US 12.\n\nIt only ships to the US, free over $140. Returns close after 15 days, and refunds cost $10 for the label, which is waived if you take store credit.",
+      "tripp-nyc": "Tripp NYC is the punk option, an East Village label that designer Daang Goodman founded in the early 1980s. Its denim is mostly strap, zip and bondage pants, like the Denim Bondage Pant ($132), rather than plain five-pocket jeans. The Dark Street pants are its original design to know, like the Scare Dark Street Pant ($149).\n\nSo shop it for the statement pair. Prices run $79 to $174. Women's waists go 24 to 31 and unisex styles run XXS to XXXL. Some of the denim also comes in plus sizes 14 to 18. US orders over $150 ship free.\n\nReturns are tight. You have 7 days, sale styles are final, and refunds lose the return shipping, though returns for store credit are free.",
+      "by-dyln": "BY.DYLN is the Australian option for statement denim with a softer edge. The Cyrus Jeans (A$149, about $105) are the entry price, and the Archer Jeans (A$290, about $204) top the range.\n\nThe brand describes its look as feminine dressing with a touch of masculine energy, and its basics are made to go with the jeans. Sizes run XS to XL rather than waist numbers, so check the size guide against a pair you already own.\n\nOrders ship from Melbourne. International shipping is a flat A$20, and it's free over A$150 (about $105), so anything above the cheapest pairs ships free. Returns close after 14 days, and you pay the postage back to Australia.",
+      "pistola": "Pistola is the one for petite sizes. Its jeans come in regular and petite versions, waists 23 to 33 either way, and the Kinsley Mid Rise Ultra Flare ($188) is the closest to Jaded's big flares.\n\nIt's a Los Angeles womenswear brand that Grace Na founded in 2013, with what it calls a street-smart, utilitarian streak. Prices sit at $188 to $248, with super-wide flares, palazzos and barrels like the Carina High Rise Super Wide Flare ($208).\n\nIt ships only to the US, Canada and the UK, free over $200 in the US. Returns close after 15 days, and refunds cost $10 for return shipping. For a similar wide leg at about half the price, Daze is the swap."
+    },
+    "best_for": {
+      "the-ragged-priest": "super-baggy jeans and low-rise flares with a grunge edge",
+      "mnml": "baggy and flare jeans under $100 with free US shipping",
+      "jnco": "leg openings up to 50 inches, in waists up to 44",
+      "maniere-de-voir": "jeans meant for going out rather than everyday",
+      "represent": "luxury baggy denim that ships from inside the US",
+      "motel-rocks": "picking a fit by name from a deep denim range",
+      "affliction": "Y2K tattoo-style graphics, with jeans for men and women",
+      "urban-revivo": "wide-leg jeans on a tight budget, if you can wait",
+      "other-uk": "men's flared jeans with a rock-and-roll edge",
+      "miaou": "a designer flare to build a whole outfit around",
+      "rollas": "wide-leg jeans in a long 34-inch inseam",
+      "daze": "wide, barrel and cargo jeans in sizes up to 16",
+      "tripp-nyc": "punk strap and bondage pants from a 1980s NYC label",
+      "by-dyln": "statement denim with a feminine edge, shipped from Australia",
+      "pistola": "big flares and palazzos in petite sizes"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with budget. Urban Revivo and mnml keep almost everything under $100, and mnml ships free over $50. Motel Rocks and Daze hold the middle, at roughly $90 to $130 a pair. Past $200, Represent and Miaou are the designer end, where you're paying for the label and the cut.\n\nThen sort by fit. JNCO goes widest in the leg and reaches a 44 waist. Pistola does petite, while Rolla's Long styles and Motel Rocks' 34-inch legs suit taller readers.\n\nAnd if it's the attitude you're after more than the jeans, Tripp NYC and OTHER bring the punk and rock side. Affliction covers the Y2K graphics."
     },
     "faqs": [
       {
         "q": "Where can I buy Jaded London outfits?",
-        "a": "From its own store, jadedldn.com, or from stockists including Revolve, which has a dedicated Jaded London denim page, Dolls Kill and Urban Outfitters.",
+        "a": "On its own store, jadedldn.com, or at stockists. Revolve has a dedicated Jaded London denim page, and Dolls Kill and Urban Outfitters carry it too.",
         "source_query": "where can i buy jaded london outfits?"
       },
       {
         "q": "Where is Jaded London based?",
-        "a": "In the UK. Jaded London started in East London around 2013.",
+        "a": "In the United Kingdom. Siblings Jade and Grant Goulden founded the streetwear label in 2013.",
         "source_query": "where is jaded london based"
       },
       {
         "q": "What is Jaded London?",
-        "a": "A UK streetwear label founded in 2013 by siblings Jade and Grant Goulden. It's best known for its jeans, especially baggy and statement styles, and it's stocked by Revolve, Dolls Kill and Urban Outfitters.",
+        "a": "A UK streetwear brand founded in 2013 by siblings Jade and Grant Goulden. It's best known for baggy, statement jeans, sold on its own store and at stockists like Revolve and Dolls Kill.",
         "source_query": "what is jaded london"
       }
     ]
