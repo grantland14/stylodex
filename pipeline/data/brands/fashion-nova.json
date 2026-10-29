@@ -1,0 +1,45 @@
+{
+  "slug": "fashion-nova",
+  "name": "Fashion Nova",
+  "website_url": "https://www.fashionnova.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Bold Style in Plus and Curve",
+  "hq_country": "US",
+  "founded_year": 2006,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": null,
+  "us_stores": null,
+  "prices": [],
+  "sells_categories": [
+    "dresses"
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.fashionnova.com/collections/dresses",
+    "https://www.fashionnova.com/pages/shipping-options",
+    "https://www.fashionnova.com/pages/about-us",
+    "https://www.fashionnova.com/api/mcp"
+  ],
+  "notes": [
+    "Dresses page: '6,855 products'; every rendered dress showed a sale price against a 'Comp. Value' (e.g. Night Well Spent Ruched Mesh Maxi Dress $34.99, Comp. Value $49.99; Kiera Feather Bandage Blazer Mini Dress $62.99, Comp. Value $89.99). Visible sale prices $10–$62.99; Comp. Values $19.99–$89.99. No regular-price item rendered, so no price row; sells_categories dresses from this page.",
+    "Shipping options: standard '$6.99' under $75, 3–7 business days; 'Spend $75 or more to unlock FREE SHIPPING!' Ships-to (store policy search): US, CA, GB, AU and most countries.",
+    "About: 'What started in 2006 as one LA store'; Beverly Hills headquarters; 'a home for bold voices and fearless style'; navigation has a 'PLUS+CURVE' section.",
+    "Returns: /pages/returns redirects to returns.fashionnova.com, which rendered only 'Easy Returns'; window not stored. Size range not read."
+  ],
+  "checked_at": "2026-10-29"
+}

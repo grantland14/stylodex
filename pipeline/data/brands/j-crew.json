@@ -30,6 +30,19 @@
       "source_url": "https://www.jcrew.com/plp/womens/categories/clothing/denim",
       "checked_at": "2026-10-29",
       "note": "9 jeans visible of 45 items the page reports; all single-price, none marked down: $158 (exaggerated barrel, Zoe barrel, slim-wide, full-length slim-wide), $158–$168 (high-waisted denim trouser jean, two flap-pocket washes), $148–$198 (western straight with metallic studs), $188 (embellished lowrider). 7 of 9 offered in Classic, Petite and Tall."
+    },
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 148,
+      "max": 298,
+      "min_usd": 148,
+      "max_usd": 298,
+      "fx_date": null,
+      "item_count": 38,
+      "source_url": "https://www.jcrew.com/plp/womens/categories/clothing/dresses-and-jumpsuits",
+      "checked_at": "2026-10-29",
+      "note": "Page data (resultCount 42) read with one plain request (StylodexBot UA): 42 tiles; excluded 3 marked down (searchPrice below listPrice) and one third-party label (SLEEPER, $539). 38 regular-price J.Crew tiles (33 styles) at $148–$298. Lowest Gwyneth slip dress in cupro blend $148, highest Column slip dress in sequin tulle $298; Natasha slip dress $178, Parc dress in four-season stretch $198."
     }
   ],
   "sources": [
@@ -37,7 +50,8 @@
     "https://www.jcrew.com/plp/womens/categories/clothing/denim",
     "https://www.jcrew.com/help/shipping-handling",
     "https://www.jcrew.com/help/returns-exchanges",
-    "https://en.wikipedia.org/wiki/J.Crew"
+    "https://en.wikipedia.org/wiki/J.Crew",
+    "https://www.jcrew.com/plp/womens/categories/clothing/dresses-and-jumpsuits"
   ],
   "notes": [
     "Homepage title: 'J.Crew: Clothes, Shoes & Accessories For Women, Men & Kids'.",

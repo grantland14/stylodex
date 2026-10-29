@@ -28,7 +28,8 @@
     "https://www.revolve.com/returnsexchanges?d=Womens",
     "https://www.revolve.com/aboutus?d=Womens",
     "https://www.revolve.com/sizeguide?d=Womens",
-    "https://www.revolve.com/denim/br/2664ce/"
+    "https://www.revolve.com/denim/br/2664ce/",
+    "https://www.revolve.com/dresses/br/a8e981/"
   ],
   "notes": [
     "Homepage title: 'Shop Top Designer Clothing Brands Online at REVOLVE'; header 'FREE Shipping & Returns'. About page: founded 2003 by its co-CEOs; 'the next-generation fashion retailer for Millennial and Generation Z consumers'. Footer: '© Eminent, Inc. (a Revolve Group company)'. HQ not stated on site (search snippets say Cerritos, California; not stored).",
@@ -36,10 +37,12 @@
     "Size guide: XXS–4X, US 00 to 24–26; denim waist 24–25 in. to 47–48 in. No petite/tall/plus labels.",
     "Ships to: page lists no explicit destination countries (only exclusions), so only US is stored.",
     "No jeans price stored: the Denim page (5,735 items, women's) renders 16 products to WebFetch and ignores sortBy; those 16 were AGOLDE, FRAME, Citizens of Humanity and Free People jeans at $98–$278, none on sale (too few to stand for the range). A scripted request was refused (HTTP/2 stream reset), so no workaround. Human check queued.",
-    "2026-10-29 (urban-outfitters run): sells_categories womens-clothing from the store's own women's Denim page (5,735 items; AGOLDE, FRAME, Citizens of Humanity and Free People jeans among the 16 rendered). No price row: too few items render to stand for the range."
+    "2026-10-29 (urban-outfitters run): sells_categories womens-clothing from the store's own women's Denim page (5,735 items; AGOLDE, FRAME, Citizens of Humanity and Free People jeans among the 16 rendered). No price row: too few items render to stand for the range.",
+    "2026-10-29 (windsor run): Dresses page reports 21,498 items; 16 rendered to WebFetch, none on sale, $69–$368 (LIONESS Original Sin Dress $69, LIONESS Stars Align Mini Dress $79, superdown Vesper Mini Blazer Dress $80, Norma Kamali Halter Turtle Fishtail Gown $275, MAJORELLE Tracy Gown $328, Bronx Banco Sicilia Ruffle Dress $368). No price row: too few to stand for the range. sells_categories dresses from this page."
   ],
   "checked_at": "2026-10-29",
   "sells_categories": [
-    "womens-clothing"
+    "womens-clothing",
+    "dresses"
   ]
 }

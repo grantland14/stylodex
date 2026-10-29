@@ -1,0 +1,45 @@
+{
+  "slug": "showpo",
+  "name": "Showpo",
+  "website_url": "https://www.showpo.com/us",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Trend-Led Dresses",
+  "hq_country": "AU",
+  "founded_year": 2010,
+  "parent_company": null,
+  "size_range": "US 0–16",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [],
+  "sells_categories": [
+    "dresses"
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.showpo.com/us",
+    "https://www.showpo.com/us/collections/dresses",
+    "https://www.showpo.com/us/pages/shipping-information",
+    "https://www.showpo.com/us/pages/returns-policy",
+    "https://www.showpo.com/us/pages/our-story",
+    "https://www.showpo.com/us/pages/size-guide"
+  ],
+  "notes": [
+    "Dresses page (showpo.com/us/collections/dresses): 'The page reports 3,161 products'; 30 rendered to WebFetch, all at regular price, $99.95–$199.95 USD (e.g. Pietra Maxi Dress $99.95, Valerie Mini Dress $99.95, Nicolette Maxi Dress $139.95, Alexandria Maxi Dress $199.95). No price row: 30 of 3,161 is too few to stand for the range. Headless store, no products.json.",
+    "Banner: 'Fast and Free Shipping from our US Warehouse!' Shipping page: standard $9.95 under $100, 'Free for orders over $100'; express (US only) $19.95; some items ship from Australia.",
+    "Returns: request 'within 30 days of delivery'; days 1–7 refund, exchange or 110% store credit; days 8–30 exchange or 110% store credit only; sale items store credit only. returns_days 30 (refund window 7).",
+    "Our Story: 'Founded in Sydney in 2010', CEO Jane Lu. Size guide: US 0–16 (XXS–XXXXL); a Curve section exists (sizes not stated).",
+    "known_for from its meta: 'The latest trends & timeless looks'; title leads with Women's Dresses."
+  ],
+  "checked_at": "2026-10-29"
+}

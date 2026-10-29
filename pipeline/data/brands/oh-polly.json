@@ -1,0 +1,60 @@
+{
+  "slug": "oh-polly",
+  "name": "Oh Polly",
+  "website_url": "https://us.ohpolly.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Premium Occasionwear",
+  "hq_country": "GB",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XXS–XXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 28,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 50,
+      "max": 315,
+      "min_usd": 50,
+      "max_usd": 315,
+      "fx_date": null,
+      "item_count": 729,
+      "source_url": "https://us.ohpolly.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "729 regular-price in-stock dresses in the full US feed (1,340 products; 1,149 in stock, 420 marked down). Low: Bandeau Ruffle Detail Mini Dress in Raspberry $50; high: Embellished Plunge-Neck Open-Back Gown in Sand $315. Median $120; 228 (31%) under $100. 248 long (maxi/gown/formal) from $55. Examples: Ruched Corset Mini Dress in Black $68, Backless Halterneck Fishtail Gown in Pearl $85, Jersey Corset Bridesmaid Dress in Powder Blue $155."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://us.ohpolly.com/",
+    "https://us.ohpolly.com/meta.json",
+    "https://www.ohpolly.com/meta.json",
+    "https://us.ohpolly.com/collections/dresses/products.json?limit=250",
+    "https://us.ohpolly.com/pages/returns",
+    "https://us.ohpolly.com/pages/about-us",
+    "https://us.ohpolly.com/api/mcp"
+  ],
+  "notes": [
+    "US store meta.json: 'Oh Polly US', Los Angeles, USD; description 'designed in London with a focus on premium fabrics and impeccable details. Shop versatile staples and exclusive occasionwear.' UK store meta: Wirral, England, GBP.",
+    "About page: founders Claire Henderson and Mike Branney began selling on eBay; 'one of the few UK brands which designs and produces its own garments'; offices in Glasgow, Liverpool, Los Angeles, Dhaka, Guangzhou. hq_country GB.",
+    "Returns (us.ohpolly.com/pages/returns): 'Online orders must be returned for a refund within 7 days of delivery, exchanges within 14 days of delivery, extended to 28 days for store credit.' returns_days stores the longest window (28, credit); refund window is 7.",
+    "Store policy search: ships to US only (this US store). Free-shipping threshold not found.",
+    "Sizes in stock dresses: XXS to XXL (XL 281, XXL 272 of 1,149)."
+  ],
+  "checked_at": "2026-10-29"
+}

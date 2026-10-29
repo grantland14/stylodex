@@ -1,0 +1,66 @@
+{
+  "slug": "windsor",
+  "name": "Windsor",
+  "website_url": "https://www.windsorstore.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Special Occasion Dresses",
+  "hq_country": "US",
+  "founded_year": 1937,
+  "parent_company": null,
+  "size_range": "XXS–XL (US 00–15)",
+  "has_plus": false,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": 30,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 14,
+      "max": 199.9,
+      "min_usd": 14,
+      "max_usd": 199.9,
+      "fx_date": null,
+      "item_count": 1367,
+      "source_url": "https://www.windsorstore.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "1,367 regular-price in-stock dresses in the full feed (15,105 products, 1,846 in stock dresses, 479 of them marked down). Regular = in stock, no variant with compare_at_price above price; title must name a dress or gown. Low: Velvet Rope Sequin Lace Up Bodycon Mini Dress $14; high: Alyson Tulle Pearl Beaded Formal Dress $199.90. Median $64.90; 1,253 (92%) under $100. 441 long (maxi/gown/formal) at $38.90–$199.90."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.windsorstore.com/",
+    "https://www.windsorstore.com/collections/dresses/products.json?limit=250",
+    "https://www.windsorstore.com/pages/our-story",
+    "https://www.windsorstore.com/pages/locations",
+    "https://www.windsorstore.com/pages/size-guide",
+    "https://www.windsorstore.com/api/mcp",
+    "https://www.windsorstore.com/products/alyson-tulle-pearl-beaded-formal-dress-05002000819148",
+    "https://retailboss.co/windsor-goes-global-inside-its-next-phase-of-international-expansion/",
+    "https://fashionunited.com/news/business/windsor-names-new-president-and-opens-new-creative-space/2026031071061"
+  ],
+  "notes": [
+    "Our Story (windsorstore.com/pages/our-story): opened 1937; 'owned and operated by generations of the Zekaria family'; timeline: 1937 founded by 2 brothers as a hosiery and lingerie store, 1957 'Began focusing on special occasion dresses', 1998 online store, 2015 100 stores, 2019 200 stores; 'over 350+ stores and through our online shop'. Mission moments named: 'your first kiss at the dance, graduation, New Year's Eve and the wedding party'.",
+    "Locations page: 'Find a Windsor Store near you from over 350 locations'; 'homecoming to prom'; 'each location has an incredible selection of dresses for both casual and formal events'. FashionUnited (2026-03-10 per URL): 'more than 350 locations across the US and Canada'. RetailBoss (Oct 22 2025, Jeanel Alvarado): 'a leading American women's fashion retailer recognized for its affordable yet elegant designs'; 'the go-to destination for eveningwear, prom dresses, and event-ready apparel'. hq_country US from these.",
+    "Shipping: homepage promo 'Unlock Free Shipping on Orders $75+ or $40+ with a Top or Bottom' and ticker 'Free shipping $75+ sitewide' (US). Ships-to list from the store's own Shopify policy search (/api/mcp, search_shop_policies_and_faqs): includes US, CA, GB, AU and ~100 others. Product JSON-LD ShippingDetails: handling 1–2 days, transit 2–11 days.",
+    "Returns: product-page JSON-LD MerchantReturnPolicy: merchantReturnDays 30, ReturnByMail, FreeReturn. Dress products also carry the tag 'HR-refund:14days', and the official returns article (customerserviceportal.windsorstore.com) returns 403 to WebFetch, so whether dresses get a cash refund only within 14 days is unconfirmed (human_check). /pages/support is a Cloudflare challenge; not worked around.",
+    "Size guide: XXS (US 00) to XL (US 15), bust 28–40 in., waist 22–34 in. In-stock dresses: S 1,580, XS 1,527, M 1,503, L 1,457, XL 492, XXS 272. Old sold-out items show 1X–3X; none in stock, so has_plus false for current stock.",
+    "Every dress in the feed has vendor 'Windsor' (own label), so kind brand."
+  ],
+  "checked_at": "2026-10-29"
+}

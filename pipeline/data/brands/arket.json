@@ -1,0 +1,32 @@
+{
+  "slug": "arket",
+  "name": "ARKET",
+  "website_url": "https://www.arket.com/en-us/",
+  "status": "unverified",
+  "kind": "brand",
+  "known_for": null,
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [],
+  "free_shipping_min_usd": null,
+  "returns_days": null,
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.arket.com/en-us/women/dresses/",
+    "https://hmgroup.com/about-us/markets-and-expansion/"
+  ],
+  "notes": [
+    "https://www.arket.com/en-us/women/dresses/ returned HTTP 403 to WebFetch on 2026-10-29. One try, no workaround. Status unverified.",
+    "H&M Group's markets page lists ARKET with 59 stores, 23 store markets and 31 online markets (31 Aug 2026), with no country breakdown, so US availability isn't confirmed."
+  ],
+  "checked_at": "2026-10-29"
+}

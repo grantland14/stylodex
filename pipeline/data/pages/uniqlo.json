@@ -2949,5 +2949,61 @@
   "Anchor verified: Uniqlo US store live, men's tees $9.90–$34.90 (regular price, truncated listing), XXS–3XL, ships US, free over $99, 30-day returns, 86 US stores (Fast Retailing). Only image_url is missing (no /img/ asset yet).",
   "11 picks pass enrich.md §3. Muji (4 independent sources) and Everlane (2) are multi-sourced; the other 9 have one each. zhihu's two answers are counted as one source.",
   "Zara, H&M and Mango have 3–4 sources each but refuse WebFetch (403); they're in human_check and would likely enter the top five once verified."
- ]
+ ],
+ "author": "Ash",
+ "copy": {
+  "intro": "You've bought the same Uniqlo crew neck in three colors, and now you want somewhere else to buy basics. Maybe you'd pay more for organic cotton, or you want a bigger size range. These eleven brands all sell everyday tees, some cheaper than Uniqlo and some much pricier. The ones outside lists name most come first, and every pick's tee prices sit next to Uniqlo's $9.90 to $34.90.",
+  "bodies": {
+   "muji": "Muji is the closest thing to Uniqlo, from the same country and at almost the same price. Its men's tees start with the Jersey Crewneck T-Shirt ($14.90), and the Cotton Jersey Crewneck T-Shirt ($19.90) is pre-washed organic cotton for five dollars more.\n\nMuji started out selling simple, unbranded goods, and the tees keep to that. If you want a heavier one, the Heavyweight Cotton T-Shirt ($29.90) sits near the top of Uniqlo's price range, and Muji's own range tops out at a $60 loopwheel long sleeve. US orders ship free from $80, or from $50 in states like California, Texas and Florida. Returns get a free label for 30 days after delivery.\n\nThe catch is size. Nearly everything stops at XL, where Uniqlo goes to 3XL. If that's you, Honest Basics or Marks & Spencer go bigger.",
+   "everlane": "Everlane is the pick if you want Uniqlo's plain crew neck in organic cotton and don't mind paying a little more. The Essential Organic Crew ($34) costs about the same as Uniqlo's HEATTECH Ultra Warm T-Shirt ($34.90) and comes in XS to XXL.\n\nStart with that one, then the Archive Standard-Fit Cotton Crew ($38) if you want a different cut. Higher up, the waffle thermals run to $88 for the Thermal Henley in Cozy Waffle. So it overlaps Uniqlo only at the very top. A lot of colors sell below full price, so check the sale before you pay $34. Returns are open for 30 days, free in its stores or $7 for a mail-in label.\n\nOne thing to know if you buy Everlane for its ethics: Shein agreed to acquire it in May 2026.",
+   "forever-21": "Forever 21 matches Uniqlo at the cheap end. The 100% Cotton Crew Tee ($7.99) is nearly two dollars under Uniqlo's cheapest tee, and the 100% Cotton V-Neck Tee is the same price.\n\nThe men's range is small, though, and the top of it is a graphic tee, the Saint Velour Studded Graphic T-Shirt ($34.99). So treat it as a place for cheap plain tees, not a full Uniqlo swap. It ships only within the US, free from $50, about half Uniqlo's threshold. Returns are 30 days from delivery with a $9.99 fee, and final-sale pieces can't go back.\n\nIf you want cheap basics with more range, GU is the better bet.",
+   "honest-basics": "Honest Basics is a Berlin label that prices organic tees close to Uniqlo. The Basic T-shirt costs €14.90 (about $17) and is 70% organic and 30% recycled cotton, preshrunk at 180 gsm.\n\nThe rest of the men's range runs up to the Long Henley at €27.90 (about $31). Sizes go from S to 3XL, as big as Uniqlo's men's tees. So this is the better fit than Muji if you need a larger size and want organic cotton.\n\nBut the shipping changes the math. US orders cost €15 for up to a kilo and take three to six weeks, with no free threshold, and duties may apply on arrival. Returns are 30 days and you pay the postage. Order several tees at once or it stops being cheap.",
+   "gu": "GU is Uniqlo's sister brand, owned by the same parent company, Fast Retailing. It's the cheapest way to get the same kind of basics, with the Cotton Color Crew Neck T-Shirt at $6.90.\n\nRegular-price men's tees run to $29.90, where the boxy long sleeves like the Cotton Boxy T-Shirt sit. The Dry Ponte T-Shirt ($14.90) sits in the middle. Shipping is free from $79, twenty dollars lower than Uniqlo's bar, or free with in-store pickup. Returns are 30 days counted from the shipping date, and you pay the return postage. You can also walk into its flagship in SoHo, Manhattan.\n\nThe trade-off is fit range. Sizes stop at XL, and XS is online only.",
+   "marks-spencer": "Marks & Spencer is the British option, and its US store prices in dollars with duties already included. The Pure Cotton Graphic Short Sleeve T-Shirt ($35.99) is where single tees start.\n\nThe smarter buy is the 7 Pack Pure Cotton Crew Neck T-Shirts ($88.99), which works out to under $13 a tee. That's Uniqlo money for plain basics. Men's tops go up to 4XL, the widest size range on this list. At the top end, the Autograph line's Textured Knitted T-Shirt costs $68.99.\n\nShipping is the weak spot. Standard delivery is $12.99 and takes four to eleven working days, free only from $125. Returns are 28 days, with a $10 fee taken off your refund for posted returns.",
+   "colorful-standard": "Colorful Standard is for when you want a plain organic tee in a lot of colors. The Classic Organic Tee costs €35 (about $39), in 100% organic cotton made in Portugal.\n\nEach tee comes in a long run of shades, from Deep Black to Bubblegum Pink. The Oversized Organic T-Shirt costs the same €35 if you like a looser cut. Above the classic tee, the Heavy Organic Boxy Tee is €50 (about $56). Sizes go from XS to 2XL. US standard shipping is $15 by FedEx, free over $100.\n\nThe returns window is the longest here at 90 days. You'll pay €4.25 for the label, so returns aren't free.",
+   "tentree": "Tentree is the pick if you want tees that carry a cause, since every item plants 10 trees. All of its regular-price men's tees cost $45, like the Juniper T-Shirt.\n\nThat's ten dollars over Uniqlo's dearest tee. The Juniper is a blend of recycled polyester, TENCEL Lyocell and organic cotton, so it isn't the all-cotton tee you might expect. Plenty of the range carries a graphic or embroidery, too. For a plain cotton tee nearer that price, Colorful Standard fits better. Sizes run S to XXL.\n\nUS shipping is free over $100 and $7.50 below. Returns cost $10 for the label, exchanges are free, and anything 30% off or more is final sale.",
+   "asket": "Asket is the upgrade pick, and The T-Shirt ($65) is the reason to go. It's made in Portugal from fabric the brand develops itself, and it belongs to one permanent collection the brand keeps refining.\n\nThe useful detail is fit. Tops come in XS to XXL and in three lengths, short, regular and long, so you can fix a tee that's always too long or too short without sizing up. The Long Sleeve T-Shirt and The Lightweight T-Shirt cost $95. Duties are included, and US shipping is free from $150. Returns are 30 days with a $10 fee, but exchanges are free.\n\nIf $65 is too much for one tee, Colorful Standard sells organic cotton for a lot less.",
+   "mate-the-label": "MATE the Label is where to go for organic cotton with certifications behind it. The Men's Organic Heavyweight Cotton Relaxed Tee ($78) is GOTS-certified organic cotton with a chest pocket, made in India.\n\nIt's mostly a women's brand. The Organic Pima Classic Tee ($68) is Regenerative Organic Certified Pima cotton, and MATE is a Certified B Corp. Women's sizes stop at XL and men's at XXL, so it's narrower than Uniqlo.\n\nIt's also more than twice Uniqlo's top tee price. US shipping is free only from $200, otherwise $10. Returns are 30 days, with $9 off a cash refund unless you add free returns at checkout. For organic cotton at under a quarter of the price, try Honest Basics.",
+   "studio-nicholson": "Studio Nicholson is the most expensive pick, and the one for fabric over price. The Bric T-Shirt costs £95 (about $126), and the Piu T-Shirt is £110 (about $146).\n\nNick Wakeman founded the brand in 2010 and describes its approach as fabric-first, which is the point here. US prices include duties, and shipping is free over $100. Sizes run XS to XXL. Its own stores are in London, Tokyo, Kyoto and Seoul, so in the US you'll be buying online.\n\nThe catch is the return window. It's only 14 days, and international returns cost £10. If you like the idea of a better-made basic but not this price, Asket's T-Shirt ($65) is about half."
+  },
+  "best_for": {
+   "muji": "unbranded basics at Uniqlo prices, in sizes up to XL",
+   "everlane": "an organic cotton crew neck for a few dollars more",
+   "forever-21": "plain cotton tees under $8, shipped free from $50",
+   "honest-basics": "organic tees up to 3XL, bought several at a time",
+   "gu": "Uniqlo-style basics for less, from the same parent",
+   "marks-spencer": "a seven-pack of crew necks in sizes up to 4XL",
+   "colorful-standard": "plain organic tees in a long run of colors",
+   "tentree": "tees where every item you buy plants trees",
+   "asket": "one good tee in the right length",
+   "mate-the-label": "certified organic cotton tees, mostly for women",
+   "studio-nicholson": "a fabric-first tee when price isn't the point"
+  },
+  "closing": {
+   "heading": "How to choose",
+   "body": "Start with price. If you want to spend less than Uniqlo, GU and Forever 21 both start under $8, and GU has the wider range. For the same money, Muji is the closest match, as long as XL fits you. If it doesn't, Honest Basics goes to 3XL and Marks & Spencer to 4XL.\n\nIf you'll pay more for organic cotton, Everlane is the smallest step up and Colorful Standard comes in a long run of shades. Asket is the one to pick for fit, since it sells tees by length. MATE the Label and Studio Nicholson cost the most, so buy those for the fabric, not to replace a drawer of Uniqlo tees."
+  },
+  "faqs": [
+   {
+    "q": "Is Uniqlo Japanese?",
+    "a": "Yes. Uniqlo is a Japanese brand headquartered in Yamaguchi City, Japan, and it's owned by the Japanese company Fast Retailing.",
+    "source_query": "is uniqlo japanese"
+   },
+   {
+    "q": "Who owns Uniqlo?",
+    "a": "Fast Retailing owns Uniqlo outright. It also owns GU, the cheaper sister brand on this list.",
+    "source_query": "who owns uniqlo"
+   },
+   {
+    "q": "How much is Uniqlo shipping?",
+    "a": "Standard US shipping costs $7.99, and it's free on orders over $99 or when you pick up in a store.",
+    "source_query": "how much is uniqlo shipping"
+   },
+   {
+    "q": "Can you return Uniqlo online orders in store?",
+    "a": "Usually not. Online orders go back by mail within 30 days of the shipping date, and you pay the return postage. Only orders paid for at a store register can be returned to that store.",
+    "source_query": "can you return uniqlo online orders in store"
+   }
+  ]
+ }
 }

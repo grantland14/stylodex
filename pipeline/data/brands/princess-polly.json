@@ -27,6 +27,19 @@
       "source_url": "https://us.princesspolly.com/collections/tops/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "913 regular-price in-stock tops among the first 4,000 products of the feed (3,684 tops after exclusions; 914 on sale, 1,857 sold out). A newest-first read (sort_by=created-descending, 1,000 products) gave 278 regular tops at $29–$79. Low: Daily Define Tube Top $29 (87% reclaimed polyamide, 13% elastane); high: Overtime Blouse $110. Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (jackets, bottoms, dresses, sets, knitwear, hoodies, men's) excluded by title/product type."
+    },
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 49,
+      "max": 119,
+      "min_usd": 49,
+      "max_usd": 119,
+      "fx_date": null,
+      "item_count": 840,
+      "source_url": "https://us.princesspolly.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "840 regular-price in-stock dresses in the full dresses feed (3,820 products; 1,709 in-stock dresses, 869 marked down); title must name a dress (belts and other accessories excluded). Low: Chukaya Plunge Mini Dress Black $49; high: Sura Strapless Lace Detail Maxi Dress $119. Median $75; 824 (98%) under $100. 223 long (maxi) at $65–$119, 588 minis. Vendors include Princess Polly Curve, Petite and Tall, and Lioness. Example: Kaylanie Strapless Sequin Mini Dress Black $69."
     }
   ],
   "materials": [],
@@ -40,13 +53,22 @@
     "https://us.princesspolly.com/policies/refund-policy",
     "https://us.princesspolly.com/pages/store-locator",
     "https://us.princesspolly.com/products/britni-tube-top-white.js",
-    "https://us.princesspolly.com/products/daily-define-thin-strap-halter-tank-top-black-curve.js"
+    "https://us.princesspolly.com/products/daily-define-thin-strap-halter-tank-top-black-curve.js",
+    "https://us.princesspolly.com/collections/dresses/products.json?limit=250",
+    "https://us.princesspolly.com/pages/about-us",
+    "https://us.princesspolly.com/pages/size-guide",
+    "https://us.princesspolly.com/api/mcp"
   ],
   "checked_at": "2026-10-29",
   "notes": [
     "Meta: 'the go-to fashion destination for trendsetters worldwide'. known_for paraphrases its own positioning (trend-led women's clothing).",
     "US shipping: free standard over $50 to the 48 contiguous states, 3–6 business days. Returns: 30 days from delivery for exchange, gift card or refund; final sale excluded.",
     "Store locator shows US stores in Scottsdale AZ, Santa Clara CA, Boston MA and Columbus OH (state filter also lists FL, NY, PA, TX) plus two in Australia.",
-    "Curve range: e.g. Daily Define Thin Strap Halter Tank Top Black Curve in US 14–20; core range US 0–12. Daily Define fabric: 'lower-impact fabric', 87% reclaimed polyamide."
+    "Curve range: e.g. Daily Define Thin Strap Halter Tank Top Black Curve in US 14–20; core range US 0–12. Daily Define fabric: 'lower-impact fabric', 87% reclaimed polyamide.",
+    "About page: 'first burst onto the online retail scene from a beachside apartment on Australia's Gold Coast' in 2010; 'headquarters in West Hollywood (California, USA) and Burleigh Heads (Queensland, Australia)'; certified B Corp. hq_country left empty (two HQs).",
+    "Store policy search (us.princesspolly.com/api/mcp): returns within 30 days of delivery for exchange, gift card or refund, final sale excluded; free shipping over $50 USD; this store ships to US, CA, AU and others (no GB)."
+  ],
+  "sells_categories": [
+    "dresses"
   ]
 }
