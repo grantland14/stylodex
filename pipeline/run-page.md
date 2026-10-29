@@ -20,10 +20,12 @@ source you fetched, with its URL. Nothing estimated, nothing from memory.
    `lib/pipeline.ts` and `judgeBrandsLikePage`, and record the result in the review file.
 
 ## Shared files: other agents run at the same time
-- Brand files in `pipeline/data/brands/` are shared. Change one only with a Python
-  read-modify-write in a single step: load the current file, add or replace **only** your
-  category's price entry and fill fields that are null, write it back. Never rewrite a brand
-  file from memory, never delete fields or other categories' prices.
+- Brand files in `pipeline/data/brands/` are shared. **Write them only through
+  `python3 -I pipeline/merge_brand.py <slug> <patch.json> [--overwrite field,field]`**, which
+  locks the file: put your facts in a patch file (in the scratchpad, not the repo) and merge it.
+  Prices replace only your category's entry; other fields fill only if empty unless named in
+  `--overwrite` (use it for corrections, like a wrong `website_url`). Never write a brand file
+  directly, never delete fields or other categories' prices.
 - Write only your own `pipeline/data/pages/{slug}.json` and `{slug}.review.md`.
 - Don't touch git, the database, Vercel, `public/`, or `pipeline/data/*.json` manifests; the
   coordinator commits, fetches images and deploys.
