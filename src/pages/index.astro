@@ -25,8 +25,8 @@ const CHECKS = [
       <h2 class="font-serif text-3xl">How every list is checked</h2>
       <div class="mt-8 grid gap-8 md:grid-cols-3">
         {
-          CHECKS.map((c) => (
-            <div class="border-t border-ink pt-4">
+          CHECKS.map((c, i) => (
+            <div class:list={["p-6", ["bg-butter", "bg-mint", "bg-sky"][i % 3]]}>
               <h3 class="font-medium">{c.title}</h3>
               <p class="mt-2 text-sm leading-relaxed text-muted">{c.body}</p>
             </div>

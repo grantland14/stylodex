@@ -172,3 +172,10 @@ Brand files are `data/brands/{slug}.json`; page file is `data/pages/jaded-london
 1. Human check on jadedldn.com (page `human_check` rows 1–7): store live, jeans price, sizes, US shipping, returns, known_for, jeans as hero line. That clears G6/G9/G10 and lets every pick get a price label (the bodies will then need a line on cheaper/similar/pricier). It also lets the anchor pass `missingAnchorFacts`.
 2. `/img/` images for the anchor (gate) and ideally every pick (G13).
 3. Re-assess G13 after 1 and 2. Also fix the "US dollars" template line.
+
+
+## Revision 2026-10-29 (coordinator, after Ash's feedback)
+Intro, all bodies and FAQ answers rewritten to remove process narration ("we checked", dates,
+"X describes it as", Wikipedia/About-page attributions, what we couldn't verify). No new facts:
+every number and claim still traces to the same brand-file fields as in the fact trace above.
+FAQ answers are now 15–35 words, answer only.

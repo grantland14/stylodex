@@ -9,6 +9,12 @@
   --color-body: #313335;
   --color-muted: #6e7175;
   --color-rule: #e3e3e3;
+  /* Colour, used sparingly: one accent for links and markers, soft tints for facts. */
+  --color-accent: #2b44d4;
+  --color-butter: #faf1cf;
+  --color-mint: #dcf0e3;
+  --color-sky: #dfe9fb;
+  --color-rose: #f9e0d9;
   --font-sans: "Schibsted Grotesk", Helvetica, Arial, sans-serif;
   --font-serif: "Newsreader", Georgia, serif;
 }
@@ -40,5 +46,10 @@
 }
 
 @utility chip {
-  @apply inline-block rounded-full border border-rule px-3 py-1 text-xs text-body;
+  @apply inline-block rounded-full px-3 py-1 text-xs text-ink;
+}
+
+/* Text links inside copy: the accent colour, underlined. */
+@utility text-link {
+  @apply text-accent underline decoration-accent/40 underline-offset-4 hover:decoration-accent;
 }

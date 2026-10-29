@@ -41,13 +41,22 @@ const shotsFor = (pick: SimilarPick) => pick.brand.productShots.filter((s) => s.
 // A brand image only stands in when there are no product photos for this category.
 const sideImage = (pick: SimilarPick) => (shotsFor(pick).length === 0 ? pick.brand.imageUrl : null);
 const shopHref = (pick: SimilarPick) => `/go/${pick.brand.slug}?from=${encodeURIComponent(path)}`;
+// Fact tags, each with its tint: price (butter), cheaper/similar/pricier, sizes (mint), shipping (sky).
+const RELATION_TINT = { cheaper: "bg-mint", similar: "bg-butter", pricier: "bg-rose" } as const;
 const facts = (pick: SimilarPick) =>
   [
-    priceWithUsd(priceFor(pick.brand, category)),
-    pick.pair.priceRelation && PRICE_LABEL[pick.pair.priceRelation],
-    sizes(pick.brand),
-    shipsTo(pick.brand) && `Ships to ${shipsTo(pick.brand)}`,
-  ].filter((fact): fact is string => Boolean(fact));
+    { text: priceWithUsd(priceFor(pick.brand, category)), tint: "bg-butter" },
+    { text: pick.pair.priceRelation && PRICE_LABEL[pick.pair.priceRelation], tint: pick.pair.priceRelation ? RELATION_TINT[pick.pair.priceRelation] : "" },
+    { text: sizes(pick.brand), tint: "bg-mint" },
+    { text: shipsTo(pick.brand) && `Ships to ${shipsTo(pick.brand)}`, tint: "bg-sky" },
+  ].filter((f): f is { text: string; tint: string } => Boolean(f.text));
+const siteHost = (pick: SimilarPick) => (pick.brand.websiteUrl ? new URL(pick.brand.websiteUrl).hostname.replace(/^www\./, "") : null);
+// The first mention of the brand in its body links to its store (through /go/).
+const splitBody = (pick: SimilarPick) => {
+  const body = pick.pair.body ?? "";
+  const i = body.indexOf(pick.brand.name);
+  return i < 0 ? null : { before: body.slice(0, i), after: body.slice(i + pick.brand.name.length) };
+};
 
 const graph: object[] = [
   {
@@ -172,11 +181,16 @@ if (page.faqs.length > 0) {
               />
             )}
             <div class:list={[sideImage(pick) && "mt-5 md:mt-0"]}>
-              <p class="eyebrow">No. {i + 1}</p>
+              <p class="eyebrow text-accent">No. {i + 1}</p>
               <h2 class="mt-1 text-2xl font-medium tracking-tight">{pick.brand.name}</h2>
+              {siteHost(pick) && (
+                <a href={shopHref(pick)} target="_blank" rel="sponsored nofollow noopener" class="text-link mt-1 inline-flex items-center gap-1 text-sm">
+                  {siteHost(pick)} <ArrowUpRight />
+                </a>
+              )}
               <ul class="mt-4 flex flex-wrap gap-2" aria-label={`${pick.brand.name} at a glance`}>
-                {facts(pick).map((fact) => (
-                  <li class="chip">{fact}</li>
+                {facts(pick).map((f) => (
+                  <li class:list={["chip", f.tint]}>{f.text}</li>
                 ))}
               </ul>
               {shotsFor(pick).length > 0 && (
@@ -184,7 +198,19 @@ if (page.faqs.length > 0) {
                   <ProductStrip brandSlug={pick.brand.slug} brandName={pick.brand.name} shots={shotsFor(pick)} from={path} />
                 </div>
               )}
-              <p class="mt-5 leading-relaxed">{pick.pair.body}</p>
+              <p class="mt-5 leading-relaxed">
+                {splitBody(pick) ? (
+                  <>
+                    {splitBody(pick)!.before}
+                    <a href={shopHref(pick)} target="_blank" rel="sponsored nofollow noopener" class="text-link">
+                      {pick.brand.name}
+                    </a>
+                    {splitBody(pick)!.after}
+                  </>
+                ) : (
+                  pick.pair.body
+                )}
+              </p>
               <div class="mt-6 flex flex-wrap gap-3">
                 <a href={shopHref(pick)} target="_blank" rel="sponsored nofollow noopener" class="btn-solid">
                   Shop {pick.brand.name} <ArrowUpRight />
@@ -213,12 +239,12 @@ if (page.faqs.length > 0) {
       )
     }
 
-    <aside class="mt-14 bg-soft p-6 text-sm leading-relaxed">
+    <aside class="mt-14 bg-butter p-6 text-sm leading-relaxed">
       <h2 class="eyebrow">How we pick</h2>
       <p class="mt-3">
         Every brand here is live, sells {page.category.name.toLowerCase()} today, and has been checked against its own store in the
         last 90 days. Each one is also recommended alongside {page.anchor.name} by sources outside Stylodex. Prices come from each brand's own
-        store, in its own currency, with a dollar equivalent where it charges in another. <a href="/how-we-pick" class="underline">More on our method</a>.
+        store, in its own currency, with a dollar equivalent where it charges in another. <a href="/how-we-pick" class="text-link">More on our method</a>.
       </p>
     </aside>
   </article>

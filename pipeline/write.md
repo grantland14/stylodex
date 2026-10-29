@@ -36,7 +36,7 @@ the sentence goes; it is never filled from memory or from what other sites say.
   out, not explained.
 - If the anchor is closed (`defunct`), say so plainly, then what its shoppers went there for.
 
-## Each pick (80–150 words)
+## Each pick (50–90 words)
 1. Why it's on the list: the stored `reason`, said naturally, with the fact that makes it true.
 2. How it differs from the anchor: price relation (cheaper/similar/pricier, with the store's own
    range), fit or size range, where it's based or ships. Differences are what make the list
@@ -49,7 +49,7 @@ the sentence goes; it is never filled from memory or from what other sites say.
 ## FAQ (2–4 questions)
 - Questions come from real searches only: Ahrefs matching-terms for the anchor name filtered to
   questions, or the SERP's People Also Ask. Record each question's source query.
-- Answer only from stored facts, 40–80 words, answer first. Skip any question we can't answer
+- Answer only from stored facts, 15–50 words, answer first, no attributions or caveats. Skip any question we can't answer
   from facts (e.g. "is X fast fashion" without stored production facts).
 
 ## Self-review before saving
