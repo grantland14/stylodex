@@ -1,0 +1,55 @@
+{
+  "slug": "adrianna-papell",
+  "name": "Adrianna Papell",
+  "website_url": "https://www.adriannapapell.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Special Occasion and Evening Dresses",
+  "hq_country": "US",
+  "size_range": "US 0–30; XS–XL",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 250,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 129.0,
+      "max": 399.0,
+      "min_usd": 129.0,
+      "max_usd": 399.0,
+      "fx_date": null,
+      "item_count": 410,
+      "source_url": "https://www.adriannapapell.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "410 regular-price in-stock dresses (933 products read; 424 with a markdown or sale/final-sale tag excluded, 0 sold out). Low: Long Sleeve Amelia Short Dress In Steel Blue $129; high: Flutter Sleeve Floral Sequin Beaded Lace Gown In Black Blush Multi $399. Median $229; 410 under $500. Product type DRESSES, vendors Adrianna Papell / Adrianna by Adrianna Papell; Aidan Mattox listed separately; prices ending in .97 (final sale per its refund policy) excluded. e.g. Sleeveless Taffeta Ball Gown With Beaded Bodice In Gem Green $169, Flutter Sleeve Floral Sequin Beaded Lace Gown $399."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.adriannapapell.com/",
+    "https://www.adriannapapell.com/meta.json",
+    "https://www.adriannapapell.com/collections/dresses/products.json?limit=250",
+    "https://www.adriannapapell.com/policies/shipping-policy",
+    "https://www.adriannapapell.com/policies/refund-policy"
+  ],
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "dresses"
+  ],
+  "notes": [
+    "Store description (meta.json): 'Shop Adrianna Papell for the best dresses, clothes and jumpsuits - including stunning special occasion styles like bridesmaid dresses and evening gowns'. Shop address New York, New York, US. Shopify ships-to list: US only.",
+    "Shipping: in-stock items ship in 1–3 business days; cart message 'Only $250.00 away from free shipping' (free shipping at $250).",
+    "Refunds: US website orders returnable within 30 days of delivery for a full refund (tags on); 30–60 days store credit; restocking fee $9.95 first item, $5 each additional; items ending in $.97 are final sale.",
+    "Sizes: dresses in US 0–30 (plus-size styles named 'Plus Size') and XS–XL in the feed. Site lists its brands as Adrianna Papell, Adrianna by Adrianna Papell and Aidan Mattox."
+  ]
+}

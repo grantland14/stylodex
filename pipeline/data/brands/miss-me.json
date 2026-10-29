@@ -1,0 +1,45 @@
+{
+  "slug": "miss-me",
+  "name": "Miss Me",
+  "website_url": "https://www.missme.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Statement Denim",
+  "hq_country": "US",
+  "founded_year": 2001,
+  "size_range": "Waists 22–34; inseams 30–34",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 30,
+  "sells_categories": [
+    "jeans"
+  ],
+  "checked_at": "2026-10-29",
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 88,
+      "max": 149,
+      "min_usd": 88,
+      "max_usd": 149,
+      "fx_date": null,
+      "item_count": 279,
+      "source_url": "https://www.missme.com/collections/jeans/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Jeans collection products.json (2 pages, 280 products, all typed JEANS, StylodexBot UA); 1 excluded by title; 279 regular price, none marked down: $88 (Chase Camo Baggy Wide Cargos) to $149 (Bandit, Kravitz and Palais Baggy Wide Jeans, Corina Low Rise Baggy); $94 for Blake Boyfriend, Lilia Bootcut, Tropez Baggy Wide Leg. Store currency USD."
+    }
+  ],
+  "notes": [
+    "2026-10-29 (lucky-brand page run): About (https://www.missme.com/pages/about): 'Born in Los Angeles in 2001'; statement denim, rhinestone-studded throwbacks and sleek modern silhouettes. Homepage meta: 'Elevate your curves in Miss Me Jeans'. Shipping (https://www.missme.com/pages/shipping): free Ground on Continental US orders over $150 (Alaska and Hawaii $25); ships internationally via FedEx with duties at checkout, countries not listed (ships_to US only stored); most international sales final. Returns (https://www.missme.com/policies/refund-policy): requested within 30 days of the date the order shipped; free label only with Checkout+; clearance final. Sizes (products.json): waists 23–34 (a few styles from 22), inseams mostly 30, 32, 34 (23–33 on a few). Buckle stocks Miss Me (buckle note: Miss Me Universal Boot Stretch Jean $129)."
+  ],
+  "sources": [
+    "https://www.missme.com/",
+    "https://www.missme.com/collections/jeans/products.json?limit=250",
+    "https://www.missme.com/pages/about",
+    "https://www.missme.com/pages/shipping",
+    "https://www.missme.com/policies/refund-policy"
+  ]
+}

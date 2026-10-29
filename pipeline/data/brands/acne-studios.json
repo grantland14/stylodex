@@ -1,0 +1,52 @@
+{
+  "name": "Acne Studios",
+  "website_url": "https://www.acnestudios.com/us/en/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Stockholm Tailoring and Denim",
+  "hq_country": "SE",
+  "size_range": "XXXS–XXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "AU"
+  ],
+  "us_stores": true,
+  "free_shipping_min_usd": 0,
+  "returns_days": 14,
+  "materials": [
+    "Organic cotton fleece"
+  ],
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 730.0,
+      "max": 860.0,
+      "min_usd": 730.0,
+      "max_usd": 860.0,
+      "fx_date": null,
+      "item_count": 11,
+      "source_url": "https://www.acnestudios.com/us/en/man/sweatshirts/",
+      "checked_at": "2026-10-29",
+      "note": "US men's sweatshirts page (31 items, 28 rendered): 11 hoodies at regular price, none marked down: Fleece logo hoodie $730 in seven colours, Sprayed zip hoodie $860 in four. Read with the bot UA and WebFetch; the 3 unrendered items not seen. Fleece logo hoodie: 'organic cotton fleece and piece-dyed for a vintage, slightly worn effect', relaxed unisex fit, 89% cotton 11% polyester, sizes XXXS–XXL."
+    }
+  ],
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://www.acnestudios.com/us/en/man/sweatshirts/",
+    "https://www.acnestudios.com/us/en/fleece-logo-hoodie-black/CI0136-900.html?g=man",
+    "https://www.acnestudios.com/us/en/help/faq.html",
+    "https://www.acnestudios.com/us/en/about/about.html",
+    "https://www.acnestudios.com/us/en/companyfolder/company__terms-of-use.html",
+    "https://www.discobrands.co/blogs/12-brands-like-fear-of-god"
+  ],
+  "notes": [
+    "About: 'Acne Studios is a Stockholm-based fashion house'; collections 'with an emphasis on tailoring and an eclectic use of materials', covering ready-to-wear, footwear, accessories and denim (https://www.acnestudios.com/us/en/about/about.html).",
+    "FAQ: ships Delivery Duty Paid to the EU, Switzerland, Norway, United States, Canada, South Korea, Japan, China, Singapore, Australia, Taiwan, Thailand and Hong Kong; 'Complimentary express shipping on all orders'; US orders normally ship domestically with tariffs, duties and taxes included. Returns or exchanges within 14 days of receipt. Perfume can be collected in its stores in countries including the United States (us_stores true) (https://www.acnestudios.com/us/en/help/faq.html).",
+    "Terms of use: 'Acne Studios offers a free return service' and pays return shipping for products sent from Sweden and the United States (https://www.acnestudios.com/us/en/companyfolder/company__terms-of-use.html). Site banner: 'Free shipping + Returns. Tariffs & duties included.'"
+  ],
+  "checked_at": "2026-10-29"
+}

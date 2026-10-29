@@ -1,0 +1,61 @@
+{
+  "slug": "retrofete",
+  "name": "Retrofête",
+  "website_url": "https://retrofete.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Sequin Party Dresses",
+  "hq_country": "US",
+  "founded_year": 2018,
+  "size_range": "XXS–XXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 250,
+  "returns_days": 14,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 298.0,
+      "max": 3198.0,
+      "min_usd": 298.0,
+      "max_usd": 3198.0,
+      "fx_date": null,
+      "item_count": 523,
+      "source_url": "https://retrofete.com/collections/all/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "523 regular-price in-stock dresses (7004 products read; 283 with a markdown or sale/final-sale tag excluded, 1222 sold out). Low: Loulou Metallic Rib Knit Dress $298; high: Celio Embroidered Dress $3198. Median $698; 89 under $500. Vendor 'retrofête' only (the store also sells SEROYA, Hemant & Nandita and others). e.g. Gardenia Sequin Dress $698, Victorie Embellished Dress $2,998."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://retrofete.com/",
+    "https://retrofete.com/meta.json",
+    "https://retrofete.com/collections/all/products.json?limit=250",
+    "https://retrofete.com/pages/about",
+    "https://retrofete.com/policies/shipping-policy",
+    "https://retrofete.com/pages/faq-shipping",
+    "https://retrofete.com/policies/refund-policy"
+  ],
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "dresses"
+  ],
+  "notes": [
+    "About page: New York-based label whose name melds synonyms for 'vintage' and 'party'; 'life-of-the-party aesthetic'; 'the iridescence of the sequins'; founded 2018 by Ohad Seroya and Aviad Klin; lists a SoHo store (us_stores true). meta.json: 'a New York-based high contemporary brand for modern day revelers'.",
+    "Shipping FAQ: FedEx Ground $15 under $250, free above $250; international via DHL, duties set by destination. Ships-to list includes US, CA, GB, AU.",
+    "Returns: 14 days from delivery for refund or site credit; $15 processing fee on domestic refunds (waived for credit/exchange); final sale and earrings excluded.",
+    "Sizes: XXS–XXL in the feed (XXL on 321 of 523 dresses)."
+  ]
+}

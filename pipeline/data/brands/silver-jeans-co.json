@@ -1,0 +1,44 @@
+{
+  "slug": "silver-jeans-co",
+  "name": "Silver Jeans Co.",
+  "website_url": "https://www.silverjeans.com",
+  "status": "verified",
+  "kind": "brand",
+  "size_range": "Sizes 22–36 (00–16); petite and plus",
+  "has_petite": true,
+  "has_plus": true,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 45,
+  "sells_categories": [
+    "jeans"
+  ],
+  "checked_at": "2026-10-29",
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 88,
+      "max": 108,
+      "min_usd": 88,
+      "max_usd": 108,
+      "fx_date": null,
+      "item_count": 14,
+      "source_url": "https://www.silverjeans.com/shop/women/category/jeans/",
+      "checked_at": "2026-10-29",
+      "note": "Women's jeans first page only (robots.txt disallows ?sz and ?start paging, so not paged): page says 285 products, 23 tiles rendered; 9 marked down (struck-through list price, e.g. Loose & Low Straight Leg $75 from $94), 14 regular: $88 (Jackie Wide Leg, Suki Mid Rise Trouser Leg Frontier Strong) to $108 (Loose & Low Straight Leg); Avery Straight Leg and Loose & Low $94, Tuesday Baggy Wide Leg $104. Prices USD (priceCurrency)."
+    }
+  ],
+  "notes": [
+    "2026-10-29 (lucky-brand page run): shipping policy (https://www.silverjeans.com/shipping-policy.html): 'free standard shipping and free returns, every day', no minimum; covers continental US, Alaska, Hawaii, APO/FPO; links a separate Canadian site. Returns (https://www.silverjeans.com/return-policy.html): free 'within 45 days of the original delivery date', prepaid label. Size chart (https://www.silverjeans.com/size-charts.html): women's 22–36 (no 35), dress sizes 00–16; menu has Petite and Plus sections (plus range not shown). An earlier fetch of a robots-disallowed paging URL was discarded unread for facts."
+  ],
+  "sources": [
+    "https://www.silverjeans.com/",
+    "https://www.silverjeans.com/shop/women/category/jeans/",
+    "https://www.silverjeans.com/shipping-policy.html",
+    "https://www.silverjeans.com/return-policy.html",
+    "https://www.silverjeans.com/size-charts.html"
+  ]
+}

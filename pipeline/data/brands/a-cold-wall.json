@@ -1,0 +1,47 @@
+{
+  "name": "A-COLD-WALL*",
+  "website_url": "https://www.a-cold-wall.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Material-Led Ready-to-Wear",
+  "hq_country": "GB",
+  "size_range": "XS–3XL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 28,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 170.0,
+      "max": 286.0,
+      "min_usd": 170.0,
+      "max_usd": 286.0,
+      "fx_date": null,
+      "item_count": 12,
+      "source_url": "https://a-cold-wall.com/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "112 products read; US market prices in USD (product page with country=US: Shopify.currency active USD, og:price:currency USD, feed price matches; base GBP). 12 regular-price in-stock hoodies, 2 marked down excluded; Albany Hooded Overshirt excluded (shirting). Balmore Logo Hoodie and Carradale Logo Hoodie $170 (regular-fit cotton); Bescott Hoodie $238 ('Heavyweight loopback cotton hoodie with garment soft wash treatment'); Millbank Hoodie $265 (relaxed fit, piped seams); Millbank Zip Hoodie $265–$286. Sizes S–XXL on all, XS on 11, 3XL on 6. Regular = in stock with no variant compare_at_price above price; men's/unisex pullover and zip hoodies by title ('hoodie'), women's, kids, knits, overshirts and jackets excluded."
+    }
+  ],
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://a-cold-wall.com/products.json?limit=250&country=US",
+    "https://www.a-cold-wall.com/products/acwua2500027?country=US",
+    "https://a-cold-wall.com/meta.json",
+    "https://a-cold-wall.com/policies/refund-policy",
+    "https://www.discobrands.co/blogs/12-brands-like-fear-of-god"
+  ],
+  "notes": [
+    "meta.json: shop address London, England, GB; currency GBP; ships_to_countries 234 incl. US, CA, GB, AU; description 'ready-to-wear, footwear and accessories from A-COLD-WALL* established through a process of fabric and material study. Worldwide express shipping available.' (https://a-cold-wall.com/meta.json).",
+    "Refund policy: 'a 28-day return policy... 28 days after receiving your item to request a return', requested through help@a-cold-wall.com first (https://a-cold-wall.com/policies/refund-policy). US shipping cost and any free threshold not stated on the policy pages.",
+    "Founding year and founder not stated on its own pages (no /pages/about)."
+  ],
+  "checked_at": "2026-10-29"
+}

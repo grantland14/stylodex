@@ -1,0 +1,835 @@
+{
+  "subject": "Mirror Palais",
+  "slug": "mirror-palais",
+  "url_prefix": "brands",
+  "category": {
+    "slug": "dresses",
+    "name": "Dresses",
+    "why": "C is a product type. Mirror Palais' Dresses collection holds 412 of the 762 items in Shop All (collections.json), its homepage title leads with 'Silk Dresses', and every outside source (Lane Creatore's 17 dress dupes, the disco directory's slip-dress comparisons, Closs Fashion's Fairy Dress dupes) compares dresses."
+  },
+  "serp": [
+    {
+      "keyword": "brands like mirror palais",
+      "position": 1,
+      "url": "https://www.reddit.com/r/findfashion/comments/1hcrwha/looking_for_brands_similar_to_mirror_palais/",
+      "kept": false,
+      "why_dropped": "Reddit (AI Overview sitelink, organic #2, also top for 'stores like'): not fetched, WebFetch refuses reddit.com, no workaround"
+    },
+    {
+      "keyword": "brands like mirror palais",
+      "position": 1,
+      "url": "https://www.whowhatwear.com/gen-z-fashion-brands",
+      "kept": false,
+      "why_dropped": "read (plain request; WebFetch truncated it): Mirror Palais is one of 7 Gen Z brands with House of CB and others; no brand is framed as an alternative to it (also organic #8, #9 for 'stores like')"
+    },
+    {
+      "keyword": "brands like mirror palais",
+      "position": 1,
+      "url": "https://www.revolve.com/content/favorites/s/l/27293816/lanes-list-mirror-palais-inspired-dresses",
+      "kept": false,
+      "why_dropped": "REVOLVE list 'Mirror Palais inspired dresses' (AI Overview sitelink, organic #6, #10 for 'stores like'): HTTP/2 reset to a plain request and HTTP 503 to WebFetch; not read, no workaround"
+    },
+    {
+      "keyword": "brands like mirror palais",
+      "position": 2,
+      "url": "https://www.reddit.com/r/BigBudgetBrides/comments/1gxnhol/brands_with_a_similar_vibe_to_mirror_palais/",
+      "kept": false,
+      "why_dropped": "Reddit sitelink: not fetched, no workaround"
+    },
+    {
+      "keyword": "brands like mirror palais",
+      "position": 2,
+      "url": "https://www.reddit.com/r/findfashion/comments/1sxpkkq/mirror_palais_dress_alternatives/",
+      "kept": false,
+      "why_dropped": "Reddit sitelink: not fetched, no workaround"
+    },
+    {
+      "keyword": "brands like mirror palais",
+      "position": 3,
+      "url": "https://www.mirrorpalais.com/",
+      "kept": false,
+      "why_dropped": "the anchor's own site (also #9 /collections/dresses)"
+    },
+    {
+      "keyword": "brands like mirror palais",
+      "position": 4,
+      "url": null,
+      "kept": false,
+      "why_dropped": "People Also Ask: 'Why is Mirror Palais so expensive?', 'What is Gen Z's favorite clothing brand?', 'What aesthetic is mirror palais?', 'Is Mirror Palais legit?'; no answer URLs"
+    },
+    {
+      "keyword": "brands like mirror palais",
+      "position": 5,
+      "url": "https://www.tiktok.com/discover/brands-similar-to-mirror-palais",
+      "kept": false,
+      "why_dropped": "TikTok discover page, aggregator (also #10 /discover/brands-like-mirror-palais)"
+    },
+    {
+      "keyword": "brands like mirror palais",
+      "position": 7,
+      "url": "https://thingtesting.com/brands/mirror-palais/similar",
+      "kept": false,
+      "why_dropped": "fetched: automated directory page with an empty alternatives list, no editorial content (also #8 for 'stores like')"
+    },
+    {
+      "keyword": "stores like mirror palais",
+      "position": 2,
+      "url": "https://www.reddit.com/r/BigBudgetBrides/comments/1casfnw/looking_for_more_brands_like_mirror_palais_clio/",
+      "kept": false,
+      "why_dropped": "Reddit sitelink: not fetched, no workaround"
+    },
+    {
+      "keyword": "stores like mirror palais",
+      "position": 3,
+      "url": null,
+      "kept": false,
+      "why_dropped": "People Also Ask: 'Where can you buy Mirror Palais dresses?', 'What is Gen Z's favorite clothing brand?', 'Where do Gen Z girls shop for clothes?', 'Does Mirror Palais have physical stores?'"
+    },
+    {
+      "keyword": "stores like mirror palais",
+      "position": 7,
+      "url": "https://www.russh.com/brands-like-with-jean/",
+      "kept": false,
+      "why_dropped": "a 'brands like With Jéan' list; not about alternatives to Mirror Palais"
+    },
+    {
+      "keyword": "mirror palais alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview returned no positions (no US SERP data)"
+    },
+    {
+      "keyword": "similar to mirror palais",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview returned no positions (no US SERP data)"
+    },
+    {
+      "keyword": "brands like mirror palais (web search)",
+      "position": null,
+      "url": "https://www.lanecreatore.com/mirror-palais-inspired-dresses/",
+      "kept": true,
+      "why_dropped": null,
+      "note": "Not in the Ahrefs top 10; found by WebSearch. '17+ Best Mirror Palais Dress Dupes to Shop in 2024', Lane Creatore (NYC creator, affiliate links disclosed). One dupe per Mirror Palais dress plus a closing 'Brands Like Mirror Palais' list: For Love & Lemons, Mirae, The Bar, Bec + Bridge, Fleur du Mal, V. Chapman, Nookie, Nana Jacqueline."
+    },
+    {
+      "keyword": "brands like mirror palais (web search)",
+      "position": null,
+      "url": "https://www.discobrands.co/brands/mirror-palais",
+      "kept": true,
+      "why_dropped": null,
+      "note": "Unsigned brand directory (evidence only, never cited). 'If you like Mirror Palais': Orseund Iris (84%), With Jéan (80%), Reformation (74%), House of CB (72%), each with a one-line reason and 'What changes'. Facts checked August 2026."
+    },
+    {
+      "keyword": "mirror palais dupes (web search)",
+      "position": null,
+      "url": "https://www.clossfashion.com/2022/08/20/the-best-mirror-palais-fairy-dress-dupes-to-shop-asap/",
+      "kept": true,
+      "why_dropped": null,
+      "note": "Closs Fashion, 2022-08-20: Fairy Dress dupes from Amazon sellers (Piacakece), Zaful (via Amazon), ASOS and Superdown at REVOLVE. Only the named brands counted; Amazon sellers dropped as marketplace listings."
+    },
+    {
+      "keyword": "mirror palais dupes (web search)",
+      "position": null,
+      "url": "https://iconiccelebrityoutfits.com/mirror-palais-alternatives/",
+      "kept": false,
+      "why_dropped": "fetched: every alternative is an Amazon marketplace seller (Rooscier, Leyajedol, Suolongsama, Creaion, Argeousgor, Juakoso, SOLILOQUY), no brand with its own store"
+    },
+    {
+      "keyword": "brands like mirror palais (web search)",
+      "position": null,
+      "url": "https://werche.com/brands-like-mirror-palais/",
+      "kept": false,
+      "why_dropped": "domain parked for sale; no article"
+    },
+    {
+      "keyword": "brands like mirror palais (web search)",
+      "position": null,
+      "url": "https://trendreflected.com/24-brands-like-mirror-palais/",
+      "kept": false,
+      "why_dropped": "server error page to a plain request and WebFetch; not read"
+    },
+    {
+      "keyword": "brands like mirror palais (web search)",
+      "position": null,
+      "url": "https://www.apartstyle.com/post/brands-like-mirror-palais",
+      "kept": false,
+      "why_dropped": "apartstyle.com never counts as a source"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": "REVOLVE",
+      "url": "https://www.revolve.com/mirror-palais/br/9a4d9e/",
+      "used": false,
+      "why": "listed on Mirror Palais' stockists page; revolve.com returned an empty reply to a plain request and 503 to WebFetch; not read, no workaround"
+    },
+    {
+      "retailer": "FWRD",
+      "url": "https://www.fwrd.com/brand-mirror-palais/",
+      "used": false,
+      "why": "stockist; empty reply to a plain request; not read"
+    },
+    {
+      "retailer": "Moda Operandi",
+      "url": "https://www.modaoperandi.com/designers/mirror-palais",
+      "used": false,
+      "why": "stockist; brand URL returned 404; not pursued"
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Orseund Iris",
+      "slug": "orseund-iris",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/mirror-palais"
+        }
+      ]
+    },
+    {
+      "name": "Nana Jacqueline",
+      "slug": "nana-jacqueline",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lanecreatore.com/mirror-palais-inspired-dresses/"
+        }
+      ]
+    },
+    {
+      "name": "Fleur du Mal",
+      "slug": "fleur-du-mal",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lanecreatore.com/mirror-palais-inspired-dresses/"
+        }
+      ]
+    },
+    {
+      "name": "Nookie",
+      "slug": "nookie",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lanecreatore.com/mirror-palais-inspired-dresses/"
+        }
+      ]
+    },
+    {
+      "name": "BEC + BRIDGE",
+      "slug": "bec-bridge",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lanecreatore.com/mirror-palais-inspired-dresses/"
+        }
+      ]
+    },
+    {
+      "name": "House of CB",
+      "slug": "house-of-cb",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/mirror-palais"
+        }
+      ]
+    },
+    {
+      "name": "Norma Kamali",
+      "slug": "norma-kamali",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lanecreatore.com/mirror-palais-inspired-dresses/"
+        }
+      ]
+    },
+    {
+      "name": "With Jéan",
+      "slug": "with-jean",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/mirror-palais"
+        }
+      ]
+    },
+    {
+      "name": "For Love & Lemons",
+      "slug": "for-love-lemons",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lanecreatore.com/mirror-palais-inspired-dresses/"
+        }
+      ]
+    },
+    {
+      "name": "Reformation",
+      "slug": "reformation",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/mirror-palais"
+        }
+      ]
+    },
+    {
+      "name": "Free People",
+      "slug": "free-people",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lanecreatore.com/mirror-palais-inspired-dresses/"
+        }
+      ]
+    },
+    {
+      "name": "The Bar",
+      "slug": "the-bar",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lanecreatore.com/mirror-palais-inspired-dresses/"
+        }
+      ]
+    },
+    {
+      "name": "Mirae",
+      "slug": "mirae",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lanecreatore.com/mirror-palais-inspired-dresses/"
+        }
+      ]
+    },
+    {
+      "name": "V. Chapman",
+      "slug": "v-chapman",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lanecreatore.com/mirror-palais-inspired-dresses/"
+        }
+      ]
+    },
+    {
+      "name": "Michael Costello",
+      "slug": "michael-costello",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lanecreatore.com/mirror-palais-inspired-dresses/"
+        }
+      ]
+    },
+    {
+      "name": "Stone Cold Fox",
+      "slug": "stone-cold-fox",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lanecreatore.com/mirror-palais-inspired-dresses/"
+        }
+      ]
+    },
+    {
+      "name": "Superdown",
+      "slug": "superdown",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lanecreatore.com/mirror-palais-inspired-dresses/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.clossfashion.com/2022/08/20/the-best-mirror-palais-fairy-dress-dupes-to-shop-asap/"
+        }
+      ]
+    },
+    {
+      "name": "NBD",
+      "slug": "nbd",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lanecreatore.com/mirror-palais-inspired-dresses/"
+        }
+      ]
+    },
+    {
+      "name": "Zaful",
+      "slug": "zaful",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.clossfashion.com/2022/08/20/the-best-mirror-palais-fairy-dress-dupes-to-shop-asap/"
+        }
+      ]
+    },
+    {
+      "name": "ASOS",
+      "slug": "asos",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.clossfashion.com/2022/08/20/the-best-mirror-palais-fairy-dress-dupes-to-shop-asap/"
+        }
+      ]
+    },
+    {
+      "name": "REVOLVE",
+      "slug": "revolve",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lanecreatore.com/mirror-palais-inspired-dresses/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.clossfashion.com/2022/08/20/the-best-mirror-palais-fairy-dress-dupes-to-shop-asap/"
+        }
+      ]
+    },
+    {
+      "name": "Amazon sellers (Piacakece, Rooscier, Leyajedol and others)",
+      "slug": "amazon-sellers",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.clossfashion.com/2022/08/20/the-best-mirror-palais-fairy-dress-dupes-to-shop-asap/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://iconiccelebrityoutfits.com/mirror-palais-alternatives/"
+        }
+      ]
+    }
+  ],
+  "picks": [
+    {
+      "slug": "orseund-iris",
+      "rank": 1,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 395.0,
+        "max": 3400.0,
+        "min_usd": 395.0,
+        "max_usd": 3400.0,
+        "fx_date": null,
+        "item_count": 6
+      },
+      "price_relation": "similar",
+      "reason": "Orseund Iris is a Brooklyn label that makes many designs in New York, with dresses from $395 to $3,400 including a silk jersey slip at $525 and a wool-bodice bustier dress at $995.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/mirror-palais",
+          "note": "84% match: 'Satin corsetry and lingerie-coded body-con, NY indie'; what changes: 'Minimal seasonless line, less overt vintage romance'."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "nana-jacqueline",
+      "rank": 2,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 225.0,
+        "max": 2300.0,
+        "min_usd": 225.0,
+        "max_usd": 2300.0,
+        "fx_date": null,
+        "item_count": 247
+      },
+      "price_relation": "similar",
+      "reason": "Nana Jacqueline sells corset, lace and bow dresses from $225 to $2,300 out of West Hollywood, many in mulberry silk, with free US return shipping within 14 days.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lanecreatore.com/mirror-palais-inspired-dresses/",
+          "note": "Named in the closing 'Brands Like Mirror Palais' list ('capture the romantic, elegant aesthetic of Mirror Palais for less')."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "fleur-du-mal",
+      "rank": 3,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 98.0,
+        "max": 998.0,
+        "min_usd": 98.0,
+        "max_usd": 998.0,
+        "fx_date": null,
+        "item_count": 114
+      },
+      "price_relation": "similar",
+      "reason": "Fleur du Mal is a New York lingerie label whose slip dresses run $98 to $998, including a 100% silk georgette slip at $328, with free US shipping from $195 and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lanecreatore.com/mirror-palais-inspired-dresses/",
+          "note": "Violet Embroidery Slip Dress ($395 at the time) as the Ballet Dress dupe; also in the closing brands list."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "nookie",
+      "rank": 4,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 220.0,
+        "max": 780.0,
+        "min_usd": 220.0,
+        "max_usd": 780.0,
+        "fx_date": null,
+        "item_count": 451
+      },
+      "price_relation": "similar",
+      "reason": "Nookie's US prices put its gowns and dresses at $220 to $780, including a cowl-neck gown at $420, in sizes XXS to XXL, the same span as Mirror Palais.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lanecreatore.com/mirror-palais-inspired-dresses/",
+          "note": "Nookie Allure Midi Dress ($219 at the time) as the Supermodel Dress dupe; also in the closing brands list."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "bec-bridge",
+      "rank": 5,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 260.0,
+        "max": 680.0,
+        "min_usd": 260.0,
+        "max_usd": 680.0,
+        "fx_date": null,
+        "item_count": 289
+      },
+      "price_relation": "similar",
+      "reason": "BEC + BRIDGE's US store sells party dresses at $260 to $680, cowl-neck maxis at $380, in US sizes 0 to 16, produced locally in Sydney and shipped free over $250.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lanecreatore.com/mirror-palais-inspired-dresses/",
+          "note": "Named in the closing 'Brands Like Mirror Palais' list."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "house-of-cb",
+      "rank": 6,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 195.0,
+        "max": 269.0,
+        "min_usd": 195.0,
+        "max_usd": 269.0,
+        "fx_date": null,
+        "item_count": 31
+      },
+      "price_relation": "cheaper",
+      "reason": "House of CB, the London bodycon label, sells dresses at about $195 to $269 with free US delivery, 28-day returns and its own store in West Hollywood.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/mirror-palais",
+          "note": "72% match: 'Built entirely around hourglass corsetry and boning'; what changes: 'Clubbier occasionwear, less vintage-romantic styling'."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "norma-kamali",
+      "rank": 7,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 135.0,
+        "max": 575.0,
+        "min_usd": 135.0,
+        "max_usd": 575.0,
+        "fx_date": null,
+        "item_count": 225
+      },
+      "price_relation": "similar",
+      "reason": "Norma Kamali's New York jersey dresses and gowns run $135 to $575, all washable and easy-care, with free FedEx Ground shipping and 30-day refunds.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lanecreatore.com/mirror-palais-inspired-dresses/",
+          "note": "Deep Drape Neck Gown ($325 at the time) as the dupe for the red silk cowl-neck gown."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "with-jean",
+      "rank": 8,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 157.0,
+        "max": 256.0,
+        "min_usd": 157.0,
+        "max_usd": 256.0,
+        "fx_date": null,
+        "item_count": 23
+      },
+      "price_relation": "cheaper",
+      "reason": "With Jéan's regular-price dresses all sit between $157 and $256, below Mirror Palais' $395 floor, with free US shipping over $150 and a New York flagship store.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/mirror-palais",
+          "note": "80% match: 'Vintage corset tops and slip dresses at lower prices'; what changes: 'Australian mass-contemporary pricing, less made-to-order'."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "for-love-lemons",
+      "rank": 9,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": null,
+      "price_relation": null,
+      "reason": "For Love & Lemons is known for flattering cuts and detail work, with dresses such as the $239 Abby Mini Dress in XXS to XL, free US shipping over $250 and 21-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lanecreatore.com/mirror-palais-inspired-dresses/",
+          "note": "Samira Mini Dress (Daisy Dress dupe), Becca Mini Dress (Maria Dress), Shai Mini Dress (Fairy Dress), Zahra Dress (Mini Marilyn); first in the closing brands list."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "reformation",
+      "why": "unverified: thereformation.com returns a Cloudflare 403 to the bot UA (and 403 to WebFetch on an earlier run); no workaround. 1 source (disco, 74%). Human check."
+    },
+    {
+      "slug": "free-people",
+      "why": "unverified: freepeople.com 403 to WebFetch (earlier run, brand file). 1 source (Lane: FP x Intimately Let's Talk Tutu Slip Dress). Human check."
+    },
+    {
+      "slug": "the-bar",
+      "why": "unverified: no official store found. thebar.com is an unrelated spirits shop, thebarstore.com.au failed (proxy 502); WebSearch finds only REVOLVE listings (Cleo Gown, Max Dress), and revolve.com refuses reads. 1 source. Human check for the real domain."
+    },
+    {
+      "slug": "mirae",
+      "why": "unverified: mirae.com.au reset the connection; WebSearch finds only resale listings. 1 source (Lane: Valentino Dress). Human check for the real domain."
+    },
+    {
+      "slug": "v-chapman",
+      "why": "unverified: vchapman.com.au failed (proxy 502); WebSearch finds only REVOLVE/shoplooks listings. 1 source (closing brands list). Human check."
+    },
+    {
+      "slug": "michael-costello",
+      "why": "unverified: michaelcostello.com serves a parked '/lander' page; WebSearch finds only REVOLVE listings. Not concluded defunct. 1 source. Human check for the real domain."
+    },
+    {
+      "slug": "stone-cold-fox",
+      "why": "unverified: stonecoldfox.com serves a parked '/lander' page; WebSearch finds only REVOLVE listings. Not concluded defunct. 1 source. Human check."
+    },
+    {
+      "slug": "superdown",
+      "why": "unverified: REVOLVE house label sold only on revolve.com, which refuses reads (empty reply, 503). 2 sources (Lane: Nada Sheer Dress; Closs: Breanna Strappy Shift Dress). Human check: could be the strongest-sourced pick if REVOLVE prices can be read."
+    },
+    {
+      "slug": "nbd",
+      "why": "unverified: REVOLVE house label; revolve.com refuses reads. 1 source (Ella Strapless Ruffle Dress). Human check."
+    },
+    {
+      "slug": "zaful",
+      "why": "unverified: zaful.com/dresses-e_5/ returned 403 to WebFetch; one try, no workaround. 1 source (a Zaful dress sold via Amazon). Human check."
+    },
+    {
+      "slug": "asos",
+      "why": "unverified retailer (brand file: asos.com/us refuses scripted requests and WebFetch 503). 1 source (one ASOS dress as a Fairy Dress dupe). Human check."
+    },
+    {
+      "slug": "revolve",
+      "why": "not a pick: a multi-brand retailer that stocks Mirror Palais itself; the sources point to dresses sold there by other labels (Superdown, NBD, The Bar), not to REVOLVE as an alternative. Its dresses prices are not stored."
+    },
+    {
+      "slug": "amazon-sellers",
+      "why": "dropped: marketplace listings with no brand store to verify"
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "category C = dresses",
+      "url": "https://www.mirrorpalais.com/collections.json?limit=250",
+      "check": "412 of 762 Shop All items are dresses and every source compares dresses. Confirm."
+    },
+    {
+      "fact": "known_for wording",
+      "url": "https://www.mirrorpalais.com/pages/about",
+      "check": "'Dreamy, Nostalgic Dresses' is built from the About page's 'dreamy, nostalgic pieces'; it becomes the title's 'for …'."
+    },
+    {
+      "fact": "Mirror Palais price range",
+      "url": "https://www.mirrorpalais.com/collections/dresses/products.json?limit=250",
+      "check": "products.json serves 131 of the 412 items collections.json counts. 33 'Sample' items (Archive Sale, final sale, $50–$700) were excluded as sale stock with no compare_at markdown. Confirm that call and the $395–$5,995 range."
+    },
+    {
+      "fact": "Nookie US prices",
+      "url": "https://nookie.com.au/products/bailey-mini-black.js?country=US",
+      "check": "products.json is AUD only; US min/max ($220/$780) come from the edge products' country=US prices. Confirm a US checkout shows USD at these prices."
+    },
+    {
+      "fact": "House of CB price range and sizes",
+      "url": "https://app.houseofcb.com/dresses",
+      "check": "Grid and size guide load by script: $195–$269 is the 31 dresses WebFetch saw; size_range left empty. A full read would firm both up."
+    },
+    {
+      "fact": "For Love & Lemons price",
+      "url": "https://forloveandlemons.com/collections/dresses",
+      "check": "No readable price range (products.json disabled), so it renders without a price label."
+    },
+    {
+      "fact": "pick check: Superdown, The Bar, V. Chapman, Mirae, Michael Costello, Stone Cold Fox, NBD",
+      "url": "https://www.revolve.com/",
+      "check": "All Lane Creatore picks sold mainly on REVOLVE, which refuses reads, or with no official site found. Superdown has 2 sources. Any could be added after a human read, taking the page past 10."
+    },
+    {
+      "fact": "pick check: Reformation",
+      "url": "https://www.thereformation.com/dresses",
+      "check": "Cloudflare 403. 1 source (disco, 74%). Could be a 10th pick."
+    },
+    {
+      "fact": "anchor image",
+      "url": "https://www.mirrorpalais.com/",
+      "check": "No /img/brands/mirror-palais.webp yet: run pipeline/images.mjs."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": null,
+  "notes": [
+    "9 picks pass enrich.md §3, under the 10–15 target: no padding. Each rests on one independent source (Lane Creatore or the disco directory). Evidence for Mirror Palais is thin: the SERP is Reddit, TikTok, the brand's own pages and a REVOLVE list that refuses reads, and most dupe posts name Amazon sellers.",
+    "Ranking: all picks have one source, so they're ordered by distance between each pick's median regular price and Mirror Palais' $995 median (Orseund Iris $555, Nana Jacqueline $455, Fleur du Mal $448, Nookie about $410 (AU$369 median, US prices run higher), BEC + BRIDGE $380, House of CB $239 sample, Norma Kamali $225, With Jéan $197), For Love & Lemons last (no price).",
+    "Price labels: Mirror Palais $395–$5,995. With Jéan ($256 max) and House of CB ($269 max) are 'cheaper'; every other priced pick overlaps, so 'similar'.",
+    "Prices: Shopify /collections/dresses/products.json, regular = no compare_at above price, samples and gift cards excluded. Nookie from its country=US market. House of CB from a WebFetch of its dresses page (31-dress sample). All USD, so no FX.",
+    "No Apart Style pool: public.brand_relationships has no Mirror Palais row (read-only SQL).",
+    "All requests used the StylodexBot User-Agent only; no personal details sent.",
+    "Every pick has gate_gap image_url only (coordinator fetches images)."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "You've found the Mirror Palais dress, then read the small print: made to order, a few months' wait, and store credit instead of a refund if it doesn't fit. So here are nine labels selling the same slinky, romantic dresses, every one with styles under $500 and all of them shipping to US shoppers. They're sorted from the closest match on price down, with the catch for each.",
+    "bodies": {
+      "orseund-iris": "Orseund Iris is the closest match here on price and on where things get made. It's a Brooklyn label that makes many of its designs in New York, and its dresses start at the same $395 as Mirror Palais. The Little Darling Slip ($525) is cut from silk jersey.\n\nFor a bigger night, the Le Cinéma Bustier Dress ($995) pairs a wool bodice with a sheer silk chiffon halter. It's the one to look at if Mirror Palais' bustiers are what drew you in. You can try pieces on at its Williamsburg studio, which takes walk-ins Thursday to Sunday.\n\nThe catch is choice. The dress edit is small, and domestic returns lose a $15 restocking fee. If you want far more styles to scroll through, Nana Jacqueline is the better place to look.",
+      "nana-jacqueline": "Nana Jacqueline is where to go for corset bodices and lace with a kinder return policy behind them. Start with the Emeline Corset White Dress ($480) or the Naomi Lace Satin Mini Dress ($400).\n\nIt's a West Hollywood label with a flagship store on N Robertson Blvd, and many of its styles use real mulberry silk. US returns ship back free within 14 days, a big change from Mirror Palais, where a return only gets you store credit or an exchange. Dresses run from $225 up to $2,300 for the Mirelle Lace Maxi Dress.\n\nRead the size chart twice, though. The brand says its sizing runs one to two sizes smaller than standard US sizes, and it stops at XL. Need more room? BEC + BRIDGE goes up to a US 16.",
+      "fleur-du-mal": "Fleur du Mal is the pick for slip dresses. It's a New York lingerie label that calls itself the go-to for slips, and the Juliet Button Slip ($328) is silk georgette with lace appliqué. That makes it the closest thing here to a Mirror Palais silk dress for under $400.\n\nIf you're only testing the look, the Le Stretch Lace Slip Dress costs $98. US shipping is free from $195, and the 30-day return window is as long as any on this list. It also has boutiques in Nolita, the Upper East Side, Williamsburg and Los Angeles, so you can check a fit in person.\n\nRefunds cost $10, though store credit and exchanges are free. Returns are judged strictly, too: anything that shows signs of wear gets refused. For a floor-length gown, go to Nookie, where gowns are the biggest part of the range.",
+      "nookie": "Nookie is the one for full-length gowns, the part of Mirror Palais' range that climbs fastest. Mirror Palais' Moonrise Gown is $3,995, while Nookie's dresses top out at $780. The Valerie Cowl Gown ($420) gives you a draped neckline for a fraction of that.\n\nIt's a Sydney label, and its US prices run from $220 to $780. Sizes go XXS to XXL, the same span as Mirror Palais, which few picks here match. For something shorter, the Lene Lace LS Mini ($330) is long-sleeved lace.\n\nBut factor in the distance. Orders ship from Australia, import duties are yours to pay, and a refund costs $40 (a Nookie voucher is free). For a gown that ships within the US, Norma Kamali's start at $140.",
+      "bec-bridge": "BEC + BRIDGE is the best bet if you want Mirror Palais' cowl necks in a wider size range. It goes from a US 0 to a 16. Its cowl-neck maxis, like the Dakota Cowl Neck Maxi Dress ($380), cost about a quarter of Mirror Palais' $1,495 Plunging Back Cowl Dress.\n\nIt's a Sydney label that produces locally, and party dresses are its signature. For corsetry, look at the Juliet Corset Mini Dress ($420). The US store charges in dollars and ships free over $250, and even its cheapest dress clears that.\n\nReturns are the tight part. You get 14 days for a refund (21 for a size swap), and the postage back is yours. If you'd rather have more time, Fleur du Mal gives you 30 days.",
+      "house-of-cb": "House of CB is where to go for a fitted, going-out dress under $270 with free US delivery. Its dresses run about $195 to $269, well under Mirror Palais' $395 starting point. The Akaia champagne waterfall maxi dress ($255) is a draped, full-length place to start.\n\nIt's a London label that made its name on bodycon dresses. US delivery takes two to three working days, and you get 28 days to return. There's a store on Melrose Avenue in West Hollywood too, plus House of CB sections in several Nordstrom stores.\n\nReturn postage is on you, though, and sale pieces only refund to a gift card. For something cheaper still, With Jéan starts at $157.",
+      "norma-kamali": "Norma Kamali is the pick for Mirror Palais' stretch, body-con shapes at a fraction of the price. The Classic Supermodel Dress is a $595 stretch body-con, and Norma Kamali's jersey gowns start at $140 with the Halter Turtle Side Slit Gown.\n\nIt's a New York label that's been designing for over 50 years, and its collections are washable and easy-care. That means no dry-cleaning bill on top of the dress. FedEx Ground shipping is free, and full-price pieces can go back within 30 days for a refund, with $8.95 off if you use its label.\n\nThe fabric is the trade-off. Pieces like the Diana Mini Dress ($195) are polyester and spandex. You're buying the shape here, so for actual silk at a mid price, Fleur du Mal's Juliet Button Slip is the one.",
+      "with-jean": "With Jéan is the budget pick, with every regular-price dress between $157 and $256. Two Lana Dresses ($158 each) cost less than Mirror Palais' cheapest dress, the $395 Lady Di A-Line.\n\nIt was founded in 2017 by two best friends, and its pieces are made in China. US shipping is free over $150, so any single dress qualifies, and orders come with no extra duties or tariff charges. If you're in New York, the flagship store is on Wooster Street.\n\nThe range is small at full price, and anything on sale is final. Returns for a refund also cost $14. If you want more detail work for a little more money, For Love & Lemons is the step up.",
+      "for-love-lemons": "For Love & Lemons is the one for detail-heavy party dresses. The Abby Mini Dress ($239) is a fair guide to where a typical dress sits. That's less than any dress at Mirror Palais, where the cheapest is $395. Longer styles go higher, like the Bailey Maxi Dress ($689).\n\nIt was founded in 2010 by two lifelong best friends, and it's known for flattering cuts and close attention to detail. US shipping is free over $250 ($10 under that), and you can return pieces up to 21 days after your order ships.\n\nSizes stop at XL, though. A refund also costs $10, and worn items lose 25%. If you need an XXL, Nookie goes that far."
+    },
+    "best_for": {
+      "orseund-iris": "silk slips and bustier dresses you can try on in Brooklyn",
+      "nana-jacqueline": "corset and lace dresses with free US returns",
+      "fleur-du-mal": "a silk slip dress for less than a Mirror Palais mini",
+      "nookie": "floor-length gowns under $800 in sizes up to XXL",
+      "bec-bridge": "cowl-neck maxis in US sizes up to 16",
+      "house-of-cb": "a fitted going-out dress with free US delivery",
+      "norma-kamali": "stretch jersey gowns you can wash at home",
+      "with-jean": "pretty dresses under $260 that ship free in the US",
+      "for-love-lemons": "detail-heavy dresses with three weeks to change your mind"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with what's putting you off Mirror Palais. If it's the returns, Nana Jacqueline ships US returns back free, and Orseund Iris is the closest on price. If it's the cost, set a budget first. With Jéan and House of CB keep every dress under $270, and Norma Kamali and Fleur du Mal both start under $150. BEC + BRIDGE and Nookie cover the $220 to $780 middle, with cowl necks and gowns. For size, BEC + BRIDGE goes to a US 16 and Nookie to XXL. And if you'd like to try before you buy, Orseund Iris, Fleur du Mal, Nana Jacqueline, With Jéan and House of CB all have somewhere in the US to walk in."
+    },
+    "faqs": [
+      {
+        "q": "Why is Mirror Palais so expensive?",
+        "a": "Mirror Palais makes many pieces from vintage fabrics in limited launches, and a lot of the range is made to order. Some dresses are made in New York City, and the brand says it puts fair wages and less waste first.",
+        "source_query": "why is mirror palais so expensive"
+      },
+      {
+        "q": "When was Mirror Palais founded?",
+        "a": "Marcelo Gaia, a stylist born in Queens, founded Mirror Palais in New York in 2019, after almost a decade of styling. Every garment is still designed in New York.",
+        "source_query": "when was mirror palais founded"
+      },
+      {
+        "q": "Does Mirror Palais have physical stores?",
+        "a": "It doesn't have a store of its own. You can book an in-person try-on for in-stock pieces at its New York office, and REVOLVE, FWRD and Moda Operandi sell it online.",
+        "source_query": "stores like mirror palais",
+        "source": "people_also_ask"
+      }
+    ]
+  }
+}

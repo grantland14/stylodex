@@ -2,14 +2,22 @@
   "slug": "guess",
   "name": "Guess",
   "website_url": "https://www.guess.com/us/en/home",
-  "status": "unverified",
+  "status": "verified",
   "kind": "brand",
   "sources": [
     "https://www.guess.com/us/en/home",
-    "https://en.wikipedia.org/wiki/Guess_(clothing)"
+    "https://en.wikipedia.org/wiki/Guess_(clothing)",
+    "https://stores.guess.com/us/en/"
   ],
   "notes": [
-    "guess.com/us/en/home 403 to a plain request (StylodexBot UA) and /us/en/women/apparel/jeans/ 403 to WebFetch, 2026-10-29. No workaround. Wikipedia (Guess_(clothing)): Guess?, Inc., founded 1981 by the Marciano brothers, HQ Los Angeles; Authentic Brands Group owns 51%."
+    "guess.com/us/en/home 403 to a plain request (StylodexBot UA) and /us/en/women/apparel/jeans/ 403 to WebFetch, 2026-10-29. No workaround. Wikipedia (Guess_(clothing)): Guess?, Inc., founded 1981 by the Marciano brothers, HQ Los Angeles; Authentic Brands Group owns 51%.",
+    "2026-10-29 (lucky-brand page run): guess.com still 403. Its own store locator (https://stores.guess.com/us/en/) loads with the full store nav (Women > Jeans & Denim: Straight, Mom Jean, Wide, Skinny, Bootcut & Flare) and 'Stores in the United States' by state: Arizona, California, Florida, Illinois, New Jersey, Nevada, New York, Texas. Status verified and us_stores true from that official locator; jeans in sells_categories from its Jeans & Denim nav. hq_country and founded_year from the earlier Wikipedia note (Guess?, Inc., founded 1981 by the Marciano brothers, HQ Los Angeles). No prices readable."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "us_stores": true,
+  "sells_categories": [
+    "jeans"
+  ],
+  "hq_country": "US",
+  "founded_year": 1981
 }

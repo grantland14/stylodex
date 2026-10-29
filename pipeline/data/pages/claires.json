@@ -1,0 +1,882 @@
+{
+  "subject": "Claire's",
+  "slug": "claires",
+  "url_prefix": "stores",
+  "category": {
+    "slug": "earrings",
+    "name": "Earrings",
+    "why": "C is a product type. Claire's sells its own label (kind brand) and leads on ear piercing: its homepage title is 'Ear Piercing, Jewelry & Accessories for Girls & Teens', piercing is free with a starter-earring kit, and the Ahrefs question list for Claire's is almost all piercing and earring searches. Every outside source compares the alternatives as places for earrings and piercing. So C is earrings. Prices compare each store's regular-price earrings. Claire's own online store holds only 16 products, 4 of them earring stacks at $29.99, so the anchor range is that one price (in-store starter kits also start at $29.99)."
+  },
+  "serp": [
+    {
+      "keyword": "stores like claire's",
+      "position": 1,
+      "url": "https://similist.com/alternatives/stores-like-claires/",
+      "kept": false,
+      "why_dropped": "similist-style scraped list (excluded by enrich.md §1.2)"
+    },
+    {
+      "keyword": "stores like claire's",
+      "position": 2,
+      "url": null,
+      "kept": false,
+      "why_dropped": "People also ask box: 'What is Claire's sister store?', 'Where do Gen Z girls buy clothes?', 'Is Claire's getting discontinued?', 'Who is Claire's competition?'"
+    },
+    {
+      "keyword": "stores like claire's",
+      "position": 3,
+      "url": "https://www.reddit.com/r/90s/comments/1haqbxz/claires_but_not_claires/",
+      "kept": false,
+      "why_dropped": "reddit refuses WebFetch; not read, no workaround (sitelinks r/askportland 'Claire's equivalent store for cheap earrings' and r/deadmalls also skipped)"
+    },
+    {
+      "keyword": "stores like claire's",
+      "position": 4,
+      "url": "https://charmingcharlie.com/",
+      "kept": false,
+      "why_dropped": "a candidate's own site, not an editorial page (Charming Charlie is a candidate via Bob Cut Mag)"
+    },
+    {
+      "keyword": "stores like claire's",
+      "position": 5,
+      "url": "https://www.walmart.com/brand/claires/10011354",
+      "kept": false,
+      "why_dropped": "marketplace brand page for Claire's own products; Claire's closed its Walmart store-in-stores in Aug 2025 (Wikipedia), not used as co-stocking"
+    },
+    {
+      "keyword": "stores like claire's",
+      "position": 6,
+      "url": "https://www.storeslike.com/claires",
+      "kept": false,
+      "why_dropped": "read: tagline directory (Icing, Charming Charlie, Amazon, eBay, Miss A, Accessorize, Etsy), one-line blurbs, no editorial content, no date"
+    },
+    {
+      "keyword": "stores like claire's",
+      "position": 7,
+      "url": "https://en.wikipedia.org/wiki/Claire%27s",
+      "kept": false,
+      "why_dropped": "reference page; used for anchor facts only"
+    },
+    {
+      "keyword": "stores like claire's",
+      "position": 8,
+      "url": "https://www.fastcompany.com/91545507/claires-closed-stores-list-retail-locations-growing",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch; not read"
+    },
+    {
+      "keyword": "stores like claire's",
+      "position": 9,
+      "url": "https://www.cbinsights.com/company/claires/alternatives-competitors",
+      "kept": false,
+      "why_dropped": "read: automated business-competitor list (Nordstrom, LVMH, Blue Nile, Bulgari...), not shopping alternatives"
+    },
+    {
+      "keyword": "brands like claire's",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs returned no US SERP rows"
+    },
+    {
+      "keyword": "claire's alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs returned no US SERP rows"
+    },
+    {
+      "keyword": "similar to claire's",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs returned no US SERP rows"
+    }
+  ],
+  "web_search": [
+    {
+      "source": "websearch",
+      "url": "https://bobcutmag.com/2022/06/08/stores-like-claires/",
+      "kept": true,
+      "note": "Bob Cut Mag, 'Stores like Claire's' (Jun 8, 2022): Charming Charlie, Francesca's, Hot Topic, Forever21, Aeropostale, Ardene"
+    },
+    {
+      "source": "websearch",
+      "url": "https://www.gmtoday.com/business/new-rivals-move-in-on-claire-s-turf-contributing-to-the-mall-jewelry-chain-s/article_862f62a7-7863-43f1-9eba-035d2ecc3e0c.html",
+      "kept": true,
+      "note": "Star Tribune via TNS (Aug 25, 2025), 'New rivals move in on Claire's turf' (startribune.com 429; read on gmtoday.com): Lovisa, Rowan, Gorjana, Little Words Project; Shein and Temu (marketplaces, dropped)"
+    },
+    {
+      "source": "websearch",
+      "url": "https://www.retaildive.com/news/claires-post-bankruptcy-comeback-ames-watson/804056/",
+      "kept": true,
+      "note": "Retail Dive (Nov 3, 2025): Studs, Rowan"
+    },
+    {
+      "source": "websearch",
+      "url": "https://www.modernretail.co/operations/piercing-studio-rowan-eyes-vacant-claires-locations-as-it-approaches-100m-in-sales/",
+      "kept": true,
+      "note": "Modern Retail (Sep 25, 2025): Rowan, Studs"
+    },
+    {
+      "source": "websearch",
+      "url": "https://lamag.com/business-and-real-estate/ears-pierced-los-angeles/",
+      "kept": true,
+      "note": "LAmag (Jul 23, 2021): Rowan, Studs, Leo West (single LA studio, not checked)"
+    },
+    {
+      "source": "websearch",
+      "url": "https://thingtesting.com/stories/ear-piercing",
+      "kept": true,
+      "note": "Thingtesting (Oct 20, 2021): Studs, Rowan"
+    },
+    {
+      "source": "websearch",
+      "url": "https://insidertrends.substack.com/p/online-didnt-kill-claires-accessories",
+      "kept": true,
+      "note": "Insider Trends (Aug 14, 2025): Missoma, Astrid & Miyu, Studs, Mejuri (Arket, Oliver Bonas, Sostrene Grene named as other examples, not Claire's rivals)"
+    },
+    {
+      "source": "websearch",
+      "url": "https://www.fool.com.au/2025/10/29/as-a-key-competitor-hits-the-skids-whats-the-outlook-for-lovisa-shares/",
+      "kept": true,
+      "note": "Motley Fool AU (Oct 29, 2025): Lovisa"
+    },
+    {
+      "source": "websearch",
+      "url": "https://www.lemon8-app.com/discover/boutiques%20like%20claires?region=us",
+      "kept": false,
+      "why_dropped": "read: names no stores in its text"
+    },
+    {
+      "source": "websearch",
+      "url": "https://99storeslike.com/alternative-stores-and-shops-like/claires",
+      "kept": false,
+      "why_dropped": "HTTP 503"
+    },
+    {
+      "source": "websearch",
+      "url": "https://www.startribune.com/new-rivals-move-in-on-claires-turf-contributing-to-the-mall-jewelry-chains-second-bankruptcy/601450539",
+      "kept": false,
+      "why_dropped": "HTTP 429; same TNS article read on gmtoday.com"
+    },
+    {
+      "source": "websearch",
+      "url": "https://www.forbes.com/sites/pamdanziger/2025/08/08/bankrupt-claires-is-headed-toward-liquidation-if-no-buyer-found/",
+      "kept": false,
+      "why_dropped": "HTTP 403"
+    },
+    {
+      "source": "websearch",
+      "url": "https://www.fastcompany.com/91419516/claires-moves-out-of-malls-rowan-takes-its-place",
+      "kept": false,
+      "why_dropped": "HTTP 403"
+    },
+    {
+      "source": "websearch",
+      "url": "https://www.craft.co/claire-s-stores/competitors",
+      "kept": false,
+      "why_dropped": "business-competitor aggregator (like CB Insights), not read"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": "Walmart",
+      "url": "https://www.walmart.com/brand/claires/10011354",
+      "used": false,
+      "why": "Lists Claire's own goods; Claire's announced closing all its Walmart store-in-stores (Aug 6, 2025, Wikipedia). Walmart's earrings department is a marketplace of unbranded sellers, not a curated co-stocking page."
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "result": "Claire's (claire-s) pool rows: Charming Charlie, ban.do, Accessorize, Charm's, Kitsch, DazzleMe, BARK, Mimi & Lula, Stoney Clover Lane, BaubleBar, Etsy, BoxLunch, Lele Sadoughi, Hello Kitty, Little Unicorn, Kawaii Factory, Sanrio, Urban Outfitters Vintage. Only Charming Charlie has an outside source; Accessorize is named only by the storeslike.com tagline directory (dropped)."
+  },
+  "candidates": [
+    {
+      "name": "Studs",
+      "slug": "studs",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "editorial",
+          "url": "https://www.retaildive.com/news/claires-post-bankruptcy-comeback-ames-watson/804056/",
+          "note": "Retail Dive (Nov 3, 2025): Studs named as a newcomer competing with Claire's for piercings and affordable jewelry"
+        },
+        {
+          "kind": "editorial",
+          "url": "https://lamag.com/business-and-real-estate/ears-pierced-los-angeles/",
+          "note": "LAmag (Jul 23, 2021), 'Forget Claire's...': Studs (Melrose Place) named as an alternative; 'sterilized single-use needles'"
+        },
+        {
+          "kind": "editorial",
+          "url": "https://www.modernretail.co/operations/piercing-studio-rowan-eyes-vacant-claires-locations-as-it-approaches-100m-in-sales/",
+          "note": "Modern Retail (Sep 25, 2025): Studs named as 'another piercing chain' alongside Rowan taking Claire's space"
+        },
+        {
+          "kind": "editorial",
+          "url": "https://thingtesting.com/stories/ear-piercing",
+          "note": "Thingtesting (Oct 20, 2021): Studs one of two 'hip alternatives to Claire's'"
+        },
+        {
+          "kind": "editorial",
+          "url": "https://insidertrends.substack.com/p/online-didnt-kill-claires-accessories",
+          "note": "Insider Trends (Aug 14, 2025), on Claire's decline: Studs named with Missoma as where young shoppers go"
+        }
+      ]
+    },
+    {
+      "name": "Rowan",
+      "slug": "rowan",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "editorial",
+          "url": "https://www.gmtoday.com/business/new-rivals-move-in-on-claire-s-turf-contributing-to-the-mall-jewelry-chain-s/article_862f62a7-7863-43f1-9eba-035d2ecc3e0c.html",
+          "note": "Minnesota Star Tribune via TNS (Aug 25, 2025), 'New rivals move in on Claire's turf': Rowan nurse-led piercing studios"
+        },
+        {
+          "kind": "editorial",
+          "url": "https://www.retaildive.com/news/claires-post-bankruptcy-comeback-ames-watson/804056/",
+          "note": "Retail Dive (Nov 3, 2025): Rowan offers piercings and affordable jewelry, 95 stores"
+        },
+        {
+          "kind": "editorial",
+          "url": "https://lamag.com/business-and-real-estate/ears-pierced-los-angeles/",
+          "note": "LAmag (Jul 23, 2021), 'Forget Claire's...': Rowan, ears pierced by licensed nurses"
+        },
+        {
+          "kind": "editorial",
+          "url": "https://www.modernretail.co/operations/piercing-studio-rowan-eyes-vacant-claires-locations-as-it-approaches-100m-in-sales/",
+          "note": "Modern Retail (Sep 25, 2025): Rowan eyes vacant Claire's locations"
+        },
+        {
+          "kind": "editorial",
+          "url": "https://thingtesting.com/stories/ear-piercing",
+          "note": "Thingtesting (Oct 20, 2021): Rowan one of two 'hip alternatives to Claire's'"
+        }
+      ]
+    },
+    {
+      "name": "Lovisa",
+      "slug": "lovisa",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "editorial",
+          "url": "https://www.gmtoday.com/business/new-rivals-move-in-on-claire-s-turf-contributing-to-the-mall-jewelry-chain-s/article_862f62a7-7863-43f1-9eba-035d2ecc3e0c.html",
+          "note": "Star Tribune via TNS (Aug 25, 2025): Lovisa, 'a much more contemporary take on jewelry, still very inexpensive'"
+        },
+        {
+          "kind": "editorial",
+          "url": "https://www.fool.com.au/2025/10/29/as-a-key-competitor-hits-the-skids-whats-the-outlook-for-lovisa-shares/",
+          "note": "Motley Fool AU (Oct 29, 2025): Claire's is 'Lovisa's largest competitor in the US and UK markets'"
+        }
+      ]
+    },
+    {
+      "name": "Charming Charlie",
+      "slug": "charming-charlie",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "editorial",
+          "url": "https://bobcutmag.com/2022/06/08/stores-like-claires/",
+          "note": "Bob Cut Mag (Jun 8, 2022) #1: 'a more affordable alternative to Claire's'"
+        }
+      ]
+    },
+    {
+      "name": "Ardene",
+      "slug": "ardene",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "editorial",
+          "url": "https://bobcutmag.com/2022/06/08/stores-like-claires/",
+          "note": "Bob Cut Mag (Jun 8, 2022) #6: Canadian fashion store; 'Claire's has a higher price point than Ardene'"
+        }
+      ]
+    },
+    {
+      "name": "Hot Topic",
+      "slug": "hot-topic",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "editorial",
+          "url": "https://bobcutmag.com/2022/06/08/stores-like-claires/",
+          "note": "Bob Cut Mag (Jun 8, 2022) #3: 'you can find almost everything that any Claire's store has to offer'"
+        }
+      ]
+    },
+    {
+      "name": "Forever 21",
+      "slug": "forever-21",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "editorial",
+          "url": "https://bobcutmag.com/2022/06/08/stores-like-claires/",
+          "note": "Bob Cut Mag (Jun 8, 2022) #4: 'prices are lower than other stores like Claire's'"
+        }
+      ]
+    },
+    {
+      "name": "Little Words Project",
+      "slug": "little-words-project",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "editorial",
+          "url": "https://www.gmtoday.com/business/new-rivals-move-in-on-claire-s-turf-contributing-to-the-mall-jewelry-chain-s/article_862f62a7-7863-43f1-9eba-035d2ecc3e0c.html",
+          "note": "Star Tribune via TNS (Aug 25, 2025): Little Words Project, 'a beaded bracelet brand', among the rivals moving in on Claire's"
+        }
+      ]
+    },
+    {
+      "name": "Astrid & Miyu",
+      "slug": "astrid-miyu",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "editorial",
+          "url": "https://insidertrends.substack.com/p/online-didnt-kill-claires-accessories",
+          "note": "Insider Trends (Aug 14, 2025), on Claire's decline: 'visit Missoma and Astrid & Miyu. They will be heaving with young people'"
+        }
+      ]
+    },
+    {
+      "name": "Gorjana",
+      "slug": "gorjana",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "editorial",
+          "url": "https://www.gmtoday.com/business/new-rivals-move-in-on-claire-s-turf-contributing-to-the-mall-jewelry-chain-s/article_862f62a7-7863-43f1-9eba-035d2ecc3e0c.html",
+          "note": "Star Tribune via TNS (Aug 25, 2025): 'California-based Gorjana... is also expanding' among Claire's rivals"
+        }
+      ]
+    },
+    {
+      "name": "Missoma",
+      "slug": "missoma",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "editorial",
+          "url": "https://insidertrends.substack.com/p/online-didnt-kill-claires-accessories",
+          "note": "Insider Trends (Aug 14, 2025), on Claire's decline: Missoma named as where teenagers flock"
+        }
+      ]
+    },
+    {
+      "name": "Francesca's",
+      "slug": "francescas",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "editorial",
+          "url": "https://bobcutmag.com/2022/06/08/stores-like-claires/",
+          "note": "Bob Cut Mag #2: 'a reasonable alternative to Claire's'"
+        }
+      ]
+    },
+    {
+      "name": "Aeropostale",
+      "slug": "aeropostale",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "editorial",
+          "url": "https://bobcutmag.com/2022/06/08/stores-like-claires/",
+          "note": "Bob Cut Mag #5: 'sells a wider variety of clothes than Claire's'"
+        }
+      ]
+    },
+    {
+      "name": "Mejuri",
+      "slug": "mejuri",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "editorial",
+          "url": "https://insidertrends.substack.com/p/online-didnt-kill-claires-accessories",
+          "note": "Insider Trends: 'perhaps most notably Mejuri, a retailer experiencing particularly rapid growth'"
+        }
+      ]
+    },
+    {
+      "name": "Icing",
+      "slug": null,
+      "in_apart_pool": false,
+      "sources": []
+    },
+    {
+      "name": "Leo West",
+      "slug": null,
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "editorial",
+          "url": "https://lamag.com/business-and-real-estate/ears-pierced-los-angeles/",
+          "note": "LAmag: single West LA piercing studio"
+        }
+      ]
+    }
+  ],
+  "picks": [
+    {
+      "slug": "studs",
+      "rank": 1,
+      "independent_sources": 5,
+      "single_source": false,
+      "store_type": "piercing studio",
+      "price": {
+        "currency": "USD",
+        "min": 10.0,
+        "max": 350.0,
+        "min_usd": 10.0,
+        "max_usd": 350.0,
+        "fx_date": null,
+        "item_count": 225
+      },
+      "price_relation": "similar",
+      "reason": "Needle ear-piercing studios (ages 10+, $40 for one hole) selling their own earrings from $10 to $350, such as the Mini CZ Stud at $22.",
+      "evidence": [
+        {
+          "kind": "editorial",
+          "url": "https://www.retaildive.com/news/claires-post-bankruptcy-comeback-ames-watson/804056/",
+          "note": "Retail Dive (Nov 3, 2025): Studs named as a newcomer competing with Claire's for piercings and affordable jewelry"
+        },
+        {
+          "kind": "editorial",
+          "url": "https://lamag.com/business-and-real-estate/ears-pierced-los-angeles/",
+          "note": "LAmag (Jul 23, 2021), 'Forget Claire's...': Studs (Melrose Place) named as an alternative; 'sterilized single-use needles'"
+        },
+        {
+          "kind": "editorial",
+          "url": "https://www.modernretail.co/operations/piercing-studio-rowan-eyes-vacant-claires-locations-as-it-approaches-100m-in-sales/",
+          "note": "Modern Retail (Sep 25, 2025): Studs named as 'another piercing chain' alongside Rowan taking Claire's space"
+        },
+        {
+          "kind": "editorial",
+          "url": "https://thingtesting.com/stories/ear-piercing",
+          "note": "Thingtesting (Oct 20, 2021): Studs one of two 'hip alternatives to Claire's'"
+        },
+        {
+          "kind": "editorial",
+          "url": "https://insidertrends.substack.com/p/online-didnt-kill-claires-accessories",
+          "note": "Insider Trends (Aug 14, 2025), on Claire's decline: Studs named with Missoma as where young shoppers go"
+        }
+      ]
+    },
+    {
+      "slug": "rowan",
+      "rank": 2,
+      "independent_sources": 5,
+      "single_source": false,
+      "store_type": "piercing studio",
+      "price": {
+        "currency": "USD",
+        "min": 6.0,
+        "max": 385.0,
+        "min_usd": 6.0,
+        "max_usd": 385.0,
+        "fx_date": null,
+        "item_count": 330
+      },
+      "price_relation": "similar",
+      "reason": "Ear piercing by licensed nurses from 2 months old ($35 a piercing, jewelry extra), with hypoallergenic earrings from $6 to $385.",
+      "evidence": [
+        {
+          "kind": "editorial",
+          "url": "https://www.gmtoday.com/business/new-rivals-move-in-on-claire-s-turf-contributing-to-the-mall-jewelry-chain-s/article_862f62a7-7863-43f1-9eba-035d2ecc3e0c.html",
+          "note": "Minnesota Star Tribune via TNS (Aug 25, 2025), 'New rivals move in on Claire's turf': Rowan nurse-led piercing studios"
+        },
+        {
+          "kind": "editorial",
+          "url": "https://www.retaildive.com/news/claires-post-bankruptcy-comeback-ames-watson/804056/",
+          "note": "Retail Dive (Nov 3, 2025): Rowan offers piercings and affordable jewelry, 95 stores"
+        },
+        {
+          "kind": "editorial",
+          "url": "https://lamag.com/business-and-real-estate/ears-pierced-los-angeles/",
+          "note": "LAmag (Jul 23, 2021), 'Forget Claire's...': Rowan, ears pierced by licensed nurses"
+        },
+        {
+          "kind": "editorial",
+          "url": "https://www.modernretail.co/operations/piercing-studio-rowan-eyes-vacant-claires-locations-as-it-approaches-100m-in-sales/",
+          "note": "Modern Retail (Sep 25, 2025): Rowan eyes vacant Claire's locations"
+        },
+        {
+          "kind": "editorial",
+          "url": "https://thingtesting.com/stories/ear-piercing",
+          "note": "Thingtesting (Oct 20, 2021): Rowan one of two 'hip alternatives to Claire's'"
+        }
+      ]
+    },
+    {
+      "slug": "lovisa",
+      "rank": 3,
+      "independent_sources": 2,
+      "single_source": false,
+      "store_type": "jewelry chain with piercing",
+      "price": {
+        "currency": "USD",
+        "min": 2.99,
+        "max": 49.99,
+        "min_usd": 2.99,
+        "max_usd": 49.99,
+        "fx_date": null,
+        "item_count": 2481
+      },
+      "price_relation": "similar",
+      "reason": "Jewelry chain that pierces free with a stud from $34.99, like Claire's starter kit; earrings run $2.99 to $49.99, most under $20.",
+      "evidence": [
+        {
+          "kind": "editorial",
+          "url": "https://www.gmtoday.com/business/new-rivals-move-in-on-claire-s-turf-contributing-to-the-mall-jewelry-chain-s/article_862f62a7-7863-43f1-9eba-035d2ecc3e0c.html",
+          "note": "Star Tribune via TNS (Aug 25, 2025): Lovisa, 'a much more contemporary take on jewelry, still very inexpensive'"
+        },
+        {
+          "kind": "editorial",
+          "url": "https://www.fool.com.au/2025/10/29/as-a-key-competitor-hits-the-skids-whats-the-outlook-for-lovisa-shares/",
+          "note": "Motley Fool AU (Oct 29, 2025): Claire's is 'Lovisa's largest competitor in the US and UK markets'"
+        }
+      ]
+    },
+    {
+      "slug": "charming-charlie",
+      "rank": 4,
+      "independent_sources": 1,
+      "single_source": true,
+      "store_type": "accessories store",
+      "price": {
+        "currency": "USD",
+        "min": 16.0,
+        "max": 56.0,
+        "min_usd": 16.0,
+        "max_usd": 56.0,
+        "fx_date": null,
+        "item_count": 76
+      },
+      "price_relation": "similar",
+      "reason": "Colorful fashion earrings at $16 to $56 regular price, sold alongside handbags and accessories, with free shipping over $50.",
+      "evidence": [
+        {
+          "kind": "editorial",
+          "url": "https://bobcutmag.com/2022/06/08/stores-like-claires/",
+          "note": "Bob Cut Mag (Jun 8, 2022) #1: 'a more affordable alternative to Claire's'"
+        }
+      ]
+    },
+    {
+      "slug": "ardene",
+      "rank": 5,
+      "independent_sources": 1,
+      "single_source": true,
+      "store_type": "accessories and clothing chain",
+      "price": {
+        "currency": "USD",
+        "min": 7.9,
+        "max": 17.9,
+        "min_usd": 7.9,
+        "max_usd": 17.9,
+        "fx_date": null,
+        "item_count": 267
+      },
+      "price_relation": "cheaper",
+      "reason": "Canadian accessories and clothing chain with earrings from $7.90 to $17.90 on its US store, including a 12-pack for $7.90.",
+      "evidence": [
+        {
+          "kind": "editorial",
+          "url": "https://bobcutmag.com/2022/06/08/stores-like-claires/",
+          "note": "Bob Cut Mag (Jun 8, 2022) #6: Canadian fashion store; 'Claire's has a higher price point than Ardene'"
+        }
+      ]
+    },
+    {
+      "slug": "hot-topic",
+      "rank": 6,
+      "independent_sources": 1,
+      "single_source": true,
+      "store_type": "pop-culture store",
+      "price": {
+        "currency": "USD",
+        "min": 7.9,
+        "max": 115.9,
+        "min_usd": 7.9,
+        "max_usd": 115.9,
+        "fx_date": null,
+        "item_count": 328
+      },
+      "price_relation": "similar",
+      "reason": "Licensed pop-culture earrings from $7.90 (Marvel, anime) up to $115.90 for RockLove collaborations, with 30-day returns.",
+      "evidence": [
+        {
+          "kind": "editorial",
+          "url": "https://bobcutmag.com/2022/06/08/stores-like-claires/",
+          "note": "Bob Cut Mag (Jun 8, 2022) #3: 'you can find almost everything that any Claire's store has to offer'"
+        }
+      ]
+    },
+    {
+      "slug": "forever-21",
+      "rank": 7,
+      "independent_sources": 1,
+      "single_source": true,
+      "store_type": "fast-fashion store",
+      "price": {
+        "currency": "USD",
+        "min": 5.99,
+        "max": 6.99,
+        "min_usd": 5.99,
+        "max_usd": 6.99,
+        "fx_date": null,
+        "item_count": 4
+      },
+      "price_relation": "cheaper",
+      "reason": "Fast-fashion store whose few regular-price earrings cost $5.99 to $6.99, with free US shipping over $50 and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "editorial",
+          "url": "https://bobcutmag.com/2022/06/08/stores-like-claires/",
+          "note": "Bob Cut Mag (Jun 8, 2022) #4: 'prices are lower than other stores like Claire's'"
+        }
+      ]
+    },
+    {
+      "slug": "little-words-project",
+      "rank": 8,
+      "independent_sources": 1,
+      "single_source": true,
+      "store_type": "jewelry brand",
+      "price": {
+        "currency": "USD",
+        "min": 38.0,
+        "max": 48.0,
+        "min_usd": 38.0,
+        "max_usd": 48.0,
+        "fx_date": null,
+        "item_count": 3
+      },
+      "price_relation": "pricier",
+      "reason": "Beaded word bracelet brand with US mall stores and three earrings at $38 to $48, like the Breathe Puffy Huggies.",
+      "evidence": [
+        {
+          "kind": "editorial",
+          "url": "https://www.gmtoday.com/business/new-rivals-move-in-on-claire-s-turf-contributing-to-the-mall-jewelry-chain-s/article_862f62a7-7863-43f1-9eba-035d2ecc3e0c.html",
+          "note": "Star Tribune via TNS (Aug 25, 2025): Little Words Project, 'a beaded bracelet brand', among the rivals moving in on Claire's"
+        }
+      ]
+    },
+    {
+      "slug": "astrid-miyu",
+      "rank": 9,
+      "independent_sources": 1,
+      "single_source": true,
+      "store_type": "jewelry brand with piercing",
+      "price": {
+        "currency": "USD",
+        "min": 35.0,
+        "max": 1060.0,
+        "min_usd": 35.0,
+        "max_usd": 1060.0,
+        "fx_date": null,
+        "item_count": 539
+      },
+      "price_relation": "pricier",
+      "reason": "London jewelry brand with piercing in its LA and New York stores; earrings $35 to $1,060, free US delivery and 28-day returns.",
+      "evidence": [
+        {
+          "kind": "editorial",
+          "url": "https://insidertrends.substack.com/p/online-didnt-kill-claires-accessories",
+          "note": "Insider Trends (Aug 14, 2025), on Claire's decline: 'visit Missoma and Astrid & Miyu. They will be heaving with young people'"
+        }
+      ]
+    },
+    {
+      "slug": "gorjana",
+      "rank": 10,
+      "independent_sources": 1,
+      "single_source": true,
+      "store_type": "jewelry brand",
+      "price": {
+        "currency": "USD",
+        "min": 30.0,
+        "max": 2816.0,
+        "min_usd": 30.0,
+        "max_usd": 2816.0,
+        "fx_date": null,
+        "item_count": 283
+      },
+      "price_relation": "pricier",
+      "reason": "California jewelry brand selling single studs from $30 up to 14K gold and diamonds ($2,816), with US stores and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "editorial",
+          "url": "https://www.gmtoday.com/business/new-rivals-move-in-on-claire-s-turf-contributing-to-the-mall-jewelry-chain-s/article_862f62a7-7863-43f1-9eba-035d2ecc3e0c.html",
+          "note": "Star Tribune via TNS (Aug 25, 2025): 'California-based Gorjana... is also expanding' among Claire's rivals"
+        }
+      ]
+    },
+    {
+      "slug": "missoma",
+      "rank": 11,
+      "independent_sources": 1,
+      "single_source": true,
+      "store_type": "jewelry brand",
+      "price": {
+        "currency": "USD",
+        "min": 65.0,
+        "max": 9282.0,
+        "min_usd": 65.0,
+        "max_usd": 9282.0,
+        "fx_date": null,
+        "item_count": 257
+      },
+      "price_relation": "pricier",
+      "reason": "London demi-fine jewelry in 18k gold vermeil and sterling silver; earrings from $65 (Bar Stud Earrings), with 90-day returns.",
+      "evidence": [
+        {
+          "kind": "editorial",
+          "url": "https://insidertrends.substack.com/p/online-didnt-kill-claires-accessories",
+          "note": "Insider Trends (Aug 14, 2025), on Claire's decline: Missoma named as where teenagers flock"
+        }
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "francescas",
+      "why": "Bob Cut Mag names it. francescas.com answers HTTP 423 (not worked around); Fox 9 (Feb 13, 2026) reports a bankruptcy filing and closing sales across the whole fleet. Shared status left unverified for a human check."
+    },
+    {
+      "slug": "aeropostale",
+      "why": "Bob Cut Mag recommends it for clothes. Its site search for earrings returns no results, so it doesn't sell C (stays verified, note added)."
+    },
+    {
+      "slug": "mejuri",
+      "why": "Insider Trends names it only as a fast-growing retailer, a weak alternative signal. Its earrings page (267 products) shows only the first 50 to WebFetch ($68-$848) and the raw page serves CAD, so no full US earrings range could be read. Not priced."
+    },
+    {
+      "slug": "icing",
+      "why": "Claire's sister chain, discontinued Aug 6, 2025 (Wikipedia); icing.com redirects to claires.com. No live store. Answered in the FAQ instead."
+    },
+    {
+      "slug": "leo-west",
+      "why": "One LA piercing studio named once (LAmag 2021); not a store most US readers can use. Not checked."
+    },
+    {
+      "slug": "shein",
+      "why": "Star Tribune names Shein and Temu as online pressure on Claire's; marketplaces are not picks."
+    },
+    {
+      "slug": "accessorize",
+      "why": "Apart pool and the storeslike.com tagline directory only, no editorial source."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "anchor price is one product line",
+      "url": "https://www.claires.com/products.json?limit=250",
+      "check": "Claire's online store has 16 products; its 4 earrings are $29.99 Disney Villains stacks. Every price label is measured against $29.99-$29.99. In-store earrings aren't readable online. Re-run once Claire's e-commerce returns (Retail Dive: expected 2026)."
+    },
+    {
+      "fact": "anchor size_range",
+      "url": "https://www.claires.com/products.json?limit=250",
+      "check": "Set to 'Earrings one size' (each earring stack is a single variant) so the anchor has the field the gate requires. Confirm that's acceptable display text."
+    },
+    {
+      "fact": "evidence is thin and dated for 1-source picks",
+      "url": "https://bobcutmag.com/2022/06/08/stores-like-claires/",
+      "check": "Charming Charlie, Ardene, Hot Topic and Forever 21 rest on one 2022 Bob Cut Mag list; Little Words Project and Gorjana on the 2025 Star Tribune article; Astrid & Miyu and Missoma on one Insider Trends essay (UK-led). Reddit threads in the SERP were not read."
+    },
+    {
+      "fact": "rank order",
+      "url": null,
+      "check": "Ranked by source count (Studs 5, Rowan 5, Lovisa 2), then 1-source picks with same-type accessories stores first (Charming Charlie, Ardene, Hot Topic, Forever 21, by price closeness to $29.99), then jewelry brands (Little Words Project, Astrid & Miyu, Gorjana, Missoma). Lovisa may deserve #1 for readers; the rule put the two piercing studios ahead on source count."
+    },
+    {
+      "fact": "Rowan returns",
+      "url": "https://heyrowan.com/policies/refund-policy",
+      "check": "The 30-day refund policy page still carries an '[INSERT RETURN ADDRESS]' placeholder; the Returns & Exchanges help article wasn't readable. Copy doesn't state Rowan's return window."
+    },
+    {
+      "fact": "Little Words Project fit",
+      "url": "https://www.littlewordsproject.com/collections/all/products.json",
+      "check": "Only 3 earrings. It renders because it sells C and the Star Tribune names it; drop it if a 10-pick page reads better."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": null,
+  "notes": [
+    "Anchor is trading (status verified): Chapter 11 in Aug 2025, North American business bought by Ames Watson Capital (Sep 19, 2025), store locator lists US stores in 51 state/territory directories. The closed-store rules don't apply.",
+    "Evidence: the Ahrefs SERP had rows for 'stores like claire's' only; none of its pages was a readable editorial list. WebSearch (10 queries) found 8 kept pages: one editorial list (Bob Cut Mag 2022) and trade/news coverage of the rivals taking Claire's customers (Star Tribune/TNS, Retail Dive, Modern Retail, LAmag, Thingtesting, Insider Trends, Motley Fool AU). No disco directory page for Claire's was found.",
+    "11 picks, all renderable. All prices are regular-price earrings from each store's own US storefront in USD; Shopify feeds (products.json) for 10 of 11, Hot Topic's SFCC listing sorted both ways.",
+    "Ahrefs: 4 serp-overview calls, 1 keywords-explorer-matching-terms call (FAQ questions). FAQ 4 comes from the SERP's People also ask box."
+  ],
+  "people_also_ask": [
+    "What is Claire's sister store?",
+    "Where do Gen Z girls buy clothes?",
+    "Is Claire's getting discontinued?",
+    "Who is Claire's competition?"
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "Maybe your mall's Claire's shut in the 2025 closures, or you went to its website and found a single Disney Villains drop. You still need cheap earrings, and maybe somewhere to get a first piercing. These are the stores to try instead. The piercing studios and Lovisa come first, then the cheap accessories stores, then jewelry brands that cost more but sell gold and sterling silver.",
+    "bodies": {
+      "studs": "Studs is the pick if you'd rather be pierced with a needle than with Claire's hand-pressured device. Its own earrings start low too, and the Mini CZ Stud ($22) is one of its best sellers.\n\nThe pricing works differently, though. Claire's pierces free when you buy a starter kit from $29.99. Studs charges for the service, $40 for one hole or $55 for two, and the jewelry comes on top. So a first lobe piercing costs more here. What you get is a single-use sterilized needle, in studios from Venice, California to Georgetown in Washington, DC.\n\nIt only pierces ages 10 and up, so younger kids belong at Rowan. Shipping is free over $75. Fashion jewelry can come back within 21 days, but piercing jewelry can't.",
+      "rowan": "Rowan is where to take a baby or young child for a first piercing. Every piercing is done by a licensed nurse, and the device option starts at 2 months old with a DTaP vaccination.\n\nThe service is $35 a piercing, and the earrings cost extra. Device jewelry starts at $60, so a first pair costs well over Claire's $29.99 kit. What that buys is the nurse and the metal: 14K gold, sterling silver, titanium or platinum, and nothing with nickel or brass in it.\n\nAfter the piercing, the shop is mostly small studs and huggies, like the Bow CZ Huggies ($36). Free shipping starts at $150, the highest bar here alongside Gorjana and Missoma. For a teen getting two holes by needle, Studs comes out cheaper ($55 against Rowan's $70).",
+      "lovisa": "Lovisa is the nearest thing to the Claire's earring wall. Most of its earrings cost under $20, and the 4mm Pearl Stud Earrings are $2.99.\n\nIt pierces free the same way Claire's does: buy the stud and the piercing costs nothing. Surgical steel studs start at $34.99, $5 more than Claire's starter kit, and 14KT gold starts at $59.99. Every store does lobes. Nose and helix piercings aren't offered everywhere, so check before you go.\n\nHere's the catch. Earrings can't be returned for a change of mind, online or in store. So buy the pair you're sure about, like the Gold 3D Flower Hoop Earrings ($12.99), rather than a mystery pack. US shipping is free over $45.",
+      "charming-charlie": "Charming Charlie is the one for bright statement earrings, and its full prices run from $16 to $56. The Daisy studs ($16) come in cream, green, pink or purple.\n\nColor is how the whole store is organised, with a Shop By Color menu, and the earrings sit next to handbags, scarves and sunglasses. That helps if you're matching earrings to an outfit rather than buying a single pair.\n\nNearly every earring is marked down, so the full price is the exception here, and the sale price is what you'll usually pay. Refunds close after 7 days, the shortest window on this list (30 days gets you site credit). Shipping is free over $50.",
+      "ardene": "Ardene is the cheapest way to fill a jewelry box from this list. The 12-Pack Mixed Earrings cost $7.90, and no earring on its US site costs more than $17.90.\n\nIt's a Canadian chain that sells clothes, shoes and bags alongside the jewelry, with stores in a handful of US states. The US site charges in dollars. Shipping is free for Ardene Rewards members, or over $60 if you'd rather not sign up.\n\nThe trade-off is returns. Earrings can't be returned or exchanged at all, so treat every pack as final. Hot Topic's earrings start at the same $7.90 and can go back within 30 days.",
+      "hot-topic": "Hot Topic is where to go for fandom earrings. Licensed designs fill the section, from the Marvel Captain America Shield Stud Earrings ($7.90) to earring sets like the Cinnamoroll Heart Bling Earring Set ($14.90).\n\nClaire's leans on character tie-ins too. Its only online drop right now is Disney Villains earring stacks. Hot Topic goes much further into anime, games and film, and its RockLove collaborations sit at the top, such as the Avatar The Last Airbender X RockLove Kyoshi Warrior Fan Earrings ($115.90).\n\nStandard shipping is $7.99 and free over $75. Earrings can come back within 30 days, but body jewelry is final sale.",
+      "forever-21": "Forever 21 has the cheapest single pairs online, if simple metal hoops and drops are what you want. The Etched Hoop Earrings are $6.99.\n\nThe earring range is small, and almost all of it carries a markdown, so expect to pay the sale price. That makes it an add-on to a clothing order rather than a place to shop for earrings alone. Shipping is free over $50.\n\nArdene has more earrings at similar prices. Forever 21's edge is returns: 30 days, while Ardene takes no earrings back. Clearance pieces are final here, though.",
+      "little-words-project": "Little Words Project is a bracelet brand first. Its earrings are a short list, led by the Breathe Puffy Huggies ($38).\n\nThe draw is the beaded word bracelets. You pick a word, wear it, then pass it on and track where it goes. The earrings work as a match for those, like the Blessed Scalloped Bezel Studs ($48). It has stores in malls such as King of Prussia and Roosevelt Field, plus a shop at Disney Springs.\n\nThere are only three earrings, all pricier than Claire's $29.99 stacks. If earrings are the main buy, Lovisa has thousands. Returns take 30 days, and US shipping is free over $60.",
+      "astrid-miyu": "Astrid & Miyu is the one for adults who want a piercing and new earrings in the same visit. Its Bold Medium Hoops in Gold cost $110.\n\nIt's a London brand with US stores in Los Angeles and New York, including a counter in Bloomingdale's on 59th Street, and you can book piercing or permanent jewelry there. Online, the cheapest piece is a $35 titanium piercing post. The middle of the earring range sits around $125.\n\nUS delivery is free, and returns are free within 28 days. Pieces bought as a set have to go back as the whole set. For gold earrings at a lower start price, Gorjana's single studs begin at $30.",
+      "gorjana": "Gorjana is the step up to gold without jumping straight to fine-jewelry prices. Its single studs start at $30, the Bee Single Stud among them.\n\nSelling singles is the useful part. Once a second or third hole has healed, you can add one stud at a time instead of buying a pair, all the way up to 14K gold like the Crew Single Huggie 8mm ($150). It's a California brand with stores around the US, and buying online to pick up in store is free.\n\nPrices climb fast past that, and the diamond studs go over $1,000. Standard shipping is $8 unless you spend $150. Unworn pieces can come back within 30 days.",
+      "missoma": "Missoma is for when you'd rather pay more for 18k gold vermeil or sterling silver. The Bar Stud Earrings in sterling silver cost $65.\n\nIt's a London demi-fine brand, and the hoops are a good place to start. The Chubby Oval Medium Hoop Earrings are $122 in 18k gold plating. Returns run 90 days, the longest window on this list, which matters when a pair costs this much.\n\nIt's also the priciest pick, with collaboration pieces reaching $9,282, and shipping is only free over $150. Gorjana starts lower for a similar gold look, and Lovisa costs a fraction of either."
+    },
+    "best_for": {
+      "studs": "a needle piercing at 10 or older, plus stackable studs",
+      "rowan": "a baby's or young child's first piercing by a nurse",
+      "lovisa": "a free piercing and a wall of earrings under $20",
+      "charming-charlie": "bright statement earrings to match a handbag",
+      "ardene": "a dozen everyday earrings for under $8",
+      "hot-topic": "anime and Marvel earrings for fans",
+      "forever-21": "a $7 pair of hoops added to a clothing order",
+      "little-words-project": "huggies to match a beaded word bracelet",
+      "astrid-miyu": "an adult piercing and new hoops in one visit",
+      "gorjana": "adding one gold stud at a time to a healed hole",
+      "missoma": "sterling silver studs with three months to return them"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with who's getting pierced. Rowan's nurses pierce from 2 months old, Studs uses a needle from age 10, and Lovisa pierces free when you buy a stud, the same deal Claire's offers.\n\nFor earrings alone, the budget does the sorting. Ardene and Forever 21 stay under $18, Lovisa never passes $50, and Hot Topic is the place for licensed characters. Charming Charlie covers bold color in between. If you want gold or sterling silver that costs more, Gorjana lets you buy one stud at a time, while Astrid & Miyu and Missoma sell matched pairs from $35 and $65.\n\nCheck returns before a cheap haul. Lovisa and Ardene won't take earrings back."
+    },
+    "faqs": [
+      {
+        "q": "Is Claire's going out of business?",
+        "a": "No. Claire's filed for bankruptcy in August 2025 and closed hundreds of US stores, but Ames Watson Capital bought its North American business that September, and its store locator still lists stores across the US.",
+        "source_query": "is claire's going out of business"
+      },
+      {
+        "q": "How much is it to get your ears pierced at Claire's?",
+        "a": "The piercing itself is free when you buy a starter kit. Kits start at $29.99 in medical-grade stainless steel, and gold and diamond kits cost more. Lovisa works the same way, with studs from $34.99.",
+        "source_query": "how much is it to get your ears pierced at claire's"
+      },
+      {
+        "q": "Does Claire's do nose piercings?",
+        "a": "Yes, but only at select stores. Every Claire's does lobe piercings, while nose and cartilage piercings depend on the location, so check the store locator first. Nose studs start at $59.99.",
+        "source_query": "does claire's do nose piercings"
+      },
+      {
+        "q": "What is Claire's sister store?",
+        "a": "It was Icing, a Claire's chain aimed at older teens and young women. Claire's discontinued it in August 2025, and icing.com now sends you to claires.com. Astrid & Miyu is the nearest grown-up alternative here.",
+        "source_query": "What is Claire's sister store?",
+        "source": "people_also_ask"
+      }
+    ]
+  }
+}

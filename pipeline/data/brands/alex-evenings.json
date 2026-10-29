@@ -1,0 +1,58 @@
+{
+  "slug": "alex-evenings",
+  "name": "Alex Evenings",
+  "website_url": "https://alexevenings.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Evening Dresses and Separates",
+  "hq_country": "US",
+  "size_range": "2–20, petite 2P–16P, plus 14W–24W",
+  "has_plus": true,
+  "has_petite": true,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 250,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 149.0,
+      "max": 329.0,
+      "min_usd": 149.0,
+      "max_usd": 329.0,
+      "fx_date": null,
+      "item_count": 267,
+      "source_url": "https://alexevenings.com/collections/all/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "267 regular-price in-stock dresses (732 products read; 96 with a markdown or sale/final-sale tag excluded, 10 sold out). Low: Lindsay Mesh Cowl-Neck Gown $149; high: *Long Off the Shoulder Embroidered Ballgown $329. Median $229; 267 under $500. Title must name a dress/gown; skirts, jackets, tops and pants excluded. Includes 'Specialty Store Exclusive' styles sold on the site. e.g. Paula Embroidered Tulle Surplice-Neckline A-Line Gown $239, Long Off the Shoulder Embroidered Ballgown $329."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://alexevenings.com/",
+    "https://alexevenings.com/meta.json",
+    "https://alexevenings.com/collections/all/products.json?limit=250",
+    "https://alexevenings.com/policies/shipping-policy",
+    "https://alexevenings.com/policies/refund-policy"
+  ],
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "dresses"
+  ],
+  "notes": [
+    "Store description (meta.json): 'Alex Evenings was founded on the idea that evening wear should reflect you... Discover our gorgeous dresses & separates in fabrics like lace, jacquard, stretch jersey and more'. Shop address New York, New York, US.",
+    "Shipping: domestic orders under $250 pay $15; free ground over $250 (continental US); expedited $50.",
+    "Returns: returns and exchanges within 30 days of delivery; $15 restocking and return shipping fee deducted from refunds; sale-collection items final sale.",
+    "Sizes: 2–20, petite 2P–16P, women's 14W–24W in the feed."
+  ]
+}

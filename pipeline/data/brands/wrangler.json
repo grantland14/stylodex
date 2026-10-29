@@ -1,0 +1,25 @@
+{
+  "slug": "wrangler",
+  "name": "Wrangler",
+  "website_url": "https://www.wrangler.com",
+  "status": "verified",
+  "kind": "brand",
+  "us_stores": true,
+  "sells_categories": [
+    "jeans"
+  ],
+  "hq_country": "US",
+  "parent_company": "Kontoor Brands",
+  "checked_at": "2026-10-29",
+  "notes": [
+    "2026-10-29 (lucky-brand page run): wrangler.com and /shop/womens-jeans answer 403 to curl (StylodexBot UA) and WebFetch; no workaround, no prices. Wrangler's own store locator (https://locations.wrangler.com/) lists 'Wrangler Stores In United States' in Alabama, Arizona, Colorado, Delaware, Florida, Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky, Michigan, Mississippi, Nevada, New York, North Carolina, Ohio, Oklahoma, Pennsylvania, South Carolina, Tennessee, Texas; nav Gifts, New, Denim, Men, Women, Kids, Western Collection. Kontoor Brands: 'For more than 75 years, Wrangler has been the authentic American apparel brand' (https://www.kontoorbrands.com/brands). Status verified, us_stores true, jeans in sells_categories from those official pages.",
+    "Wikipedia (https://en.wikipedia.org/wiki/Wrangler_(jeans)): formerly Hudson Overall Company (1904–1947); HQ downtown Greensboro, North Carolina; parent Kontoor Brands since 2019; 13MWZ men's western jean introduced 1947 and still sold; designed with 'Rodeo Ben' for rodeo use; PRCA endorsement 1974. founded_year left empty (1904 company vs 1947 brand)."
+  ],
+  "sources": [
+    "https://www.wrangler.com/",
+    "https://www.wrangler.com/shop/womens-jeans",
+    "https://locations.wrangler.com/",
+    "https://www.kontoorbrands.com/brands",
+    "https://en.wikipedia.org/wiki/Wrangler_(jeans)"
+  ]
+}

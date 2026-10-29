@@ -1,0 +1,45 @@
+{
+  "slug": "scotch-soda",
+  "name": "Scotch & Soda",
+  "website_url": "https://www.scotchandsoda.com",
+  "status": "verified",
+  "kind": "brand",
+  "hq_country": "NL",
+  "founded_year": 1985,
+  "parent_company": "Bluestar Alliance",
+  "size_range": "Waists 24–34; inseams 30–34",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 200,
+  "returns_days": 30,
+  "sells_categories": [
+    "jeans"
+  ],
+  "checked_at": "2026-10-29",
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 108,
+      "max": 178,
+      "min_usd": 108,
+      "max_usd": 178,
+      "fx_date": null,
+      "item_count": 5,
+      "source_url": "https://www.scotchandsoda.com/collections/women-clothing-jeans/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Women's jeans collection products.json (46 products, all typed Jeans, StylodexBot UA; storefront currency USD): 2 excluded by title, 39 marked down (compare_at above price), 5 regular: Essentials The Sky Straight Jeans Cool White $108, Essentials Bohemienne Mid-Rise Skinny Blue Mind $128, Eve Barrel Leg Denim $158, The Sky Midnight Bloom $158, The Wave Super Wide Leg Denim $178."
+    }
+  ],
+  "notes": [
+    "2026-10-29 (lucky-brand page run): www.scotch-soda.com redirects to www.scotchandsoda.com (US storefront: USD, banner 'FREE DELIVERY ON US ORDERS OVER $200'; shipping policy says free FedEx Ground 'on all orders over $199', https://www.scotchandsoda.com/policies/shipping-policy). Returns: unused with tags 'within 30 days of receipt'; Final sale items excluded (https://www.scotchandsoda.com/policies/refund-policy). Meta description: apparel 'inspired by Amsterdam'. Wikipedia (https://en.wikipedia.org/wiki/Scotch_%26_Soda_(clothing)): founded 1985 by Laurent Hompes, HQ Amsterdam and Hoofddorp, owned by Bluestar Alliance since May 2023 after a Dutch bankruptcy. Sizes from products.json: waist/inseam 24–34 by 30, 32, 34."
+  ],
+  "sources": [
+    "https://www.scotchandsoda.com/",
+    "https://www.scotchandsoda.com/collections/women-clothing-jeans/products.json?limit=250",
+    "https://www.scotchandsoda.com/policies/shipping-policy",
+    "https://www.scotchandsoda.com/policies/refund-policy",
+    "https://en.wikipedia.org/wiki/Scotch_%26_Soda_(clothing)"
+  ]
+}

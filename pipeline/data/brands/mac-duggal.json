@@ -1,0 +1,69 @@
+{
+  "slug": "mac-duggal",
+  "name": "Mac Duggal",
+  "website_url": "https://macduggal.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Beaded Evening and Prom Gowns",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "US 0–30; petite 0P–18P",
+  "has_plus": true,
+  "has_petite": true,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 14,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 238.0,
+      "max": 4998.0,
+      "min_usd": 238.0,
+      "max_usd": 4998.0,
+      "fx_date": null,
+      "item_count": 1265,
+      "source_url": "https://macduggal.com/collections/all/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Full catalogue feed (3,800 products). Dresses = product types EVENING, COCKTAIL, DAY, MAC DUGGAL PROM, FABULOUS(S) and untyped, title naming a dress/gown; KIDS, HANDBAGS, SAMPLES, READY TO WEAR and all 'Z - CLOSEOUT' types excluded. 366 with compare_at above price excluded; a further 1,625 tagged 'Last Chance' (the FAQ says 'Sale and Last Chance items have already been discounted') excluded; 317 sold out. 1,265 regular-price dresses: low Faux Wrap Sleeveless Flowy Midi Dress $238, high Silver Strapless Beaded Scallop Ballgown $4,998; median $598; 555 at $500 or less. By label: Mac Duggal 751 at $238–$4,998, Ieena for Mac Duggal 431 at $298–$798 (median $498), Mac Duggal Collection 83 at $698–$4,998 (median $1,798). Prom-tagged: 79 at $298–$1,498, median $498 (e.g. Powder Blue Sleeveless V-Neck Ball Gown $398, Ieena). Including Last Chance items the range would start at $198."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://macduggal.com/",
+    "https://macduggal.com/collections/all/products.json?limit=250",
+    "https://macduggal.com/meta.json",
+    "https://macduggal.com/pages/shipping",
+    "https://macduggal.com/policies/shipping-policy",
+    "https://macduggal.com/pages/international",
+    "https://macduggal.com/pages/returns-exchanges",
+    "https://macduggal.com/pages/size-chart",
+    "https://macduggal.com/pages/faqs",
+    "https://macduggal.com/pages/the-brand",
+    "https://macduggal.com/pages/store-locator-1",
+    "https://macduggal.com/pages/contact-us"
+  ],
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "dresses"
+  ],
+  "notes": [
+    "Homepage meta: 'Shop Mac Duggal luxury evening gowns, cocktail dresses, prom dresses, mother of the bride, and wedding guest styles in regular, petite, and plus sizes.' The Brand page: 'one of the most sought-after names in women's luxury apparel and evening wear'; mentions 'our hand-beaded dresses'; Creative Director Ieena Duggal runs the line 'Ieena for Mac Duggal'; founder Mac Duggal born 1960 in New Delhi; the brand is 'largely found in boutiques and department stores'. Founding year and production location not stated on the site.",
+    "HQ: homepage Organization JSON-LD and meta.json give 145 Tower Drive, Suite 1, Burr Ridge, Illinois 60527, US.",
+    "Shipping (pages/shipping, policies/shipping-policy): free standard ground on US orders (contiguous US only, 3–7 business days), Express $25; site banner 'Free Express Shipping Over $300 USD'. International: Premium Standard $15 (free over $300) or DHL Express $25; pages/international: 'worldwide shipping to most countries' via Global-e, duties prepayable at checkout. Country selector lists US, CA, GB, AU (FAQ: if your flag isn't listed it probably doesn't ship there).",
+    "Returns (pages/returns-exchanges): return or exchange within 14 days of delivery; refund to original payment or store credit; $20 return label fee deducted unless the $7.98 'free return' option is bought at checkout; 'Final Sale' items not returnable.",
+    "Sizes: size chart 0 (XS) to 30 (bust 60in, waist 54in); petite chart linked. Regular dresses carry US 0–30 and petite US 0P–18P in the feed (US 26–30 on a few styles only).",
+    "Store locator (Stockist widget) did not load for WebFetch; no Mac Duggal-owned US store confirmed, so us_stores left empty."
+  ]
+}

@@ -25,23 +25,40 @@
       "source_url": "https://amiri.com/collections/mens-denim/products.json",
       "checked_at": "2026-10-29",
       "note": "Collections mens-pants and mens-denim (USD), 76 available regular-price pants and jeans: Amiri Track Pant $650 to All Over Crystal MX1 Jean $4,490; Baggy Jean $750, Vintage Cut Leather Pant $2,390. The MX1 jean has its own collection (mens-denim-mx1)."
+    },
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 650.0,
+      "max": 1590.0,
+      "min_usd": 650.0,
+      "max_usd": 1590.0,
+      "fx_date": null,
+      "item_count": 8,
+      "source_url": "https://amiri.com/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "801 products read (Shopify.currency USD). 8 men's regular-price in-stock hoodies, none marked down: MA Core Logo Hoodie $650, AMIRI Oversized Hoodie $770, Relaxed Zip Up Hoodie $850, AMIRI Spirit Zip Hoodie $890, Bones Oversized Hoodie $1,090, Multi Bandana OS Zip Hoodie $1,150 (sun-faded bandana print), MA Quad Crystal Zip Hoodie $1,390, Crystals Oversized Zip Up Hoodie $1,590. Sizes XS–XL on all, XXL and XXXL on all 8. Women's hoodies excluded. Regular = in stock with no variant compare_at_price above price; men's/unisex pullover and zip hoodies by title ('hoodie'), women's, kids, knits, overshirts and jackets excluded."
     }
   ],
   "sells_categories": [
-    "pants"
+    "pants",
+    "hoodies"
   ],
   "sources": [
     "https://amiri.com/collections/mens-pants/products.json",
     "https://amiri.com/collections/mens-denim/products.json",
     "https://amiri.com/policies/shipping-policy",
     "https://amiri.com/policies/refund-policy",
-    "https://amiri.com/pages/about"
+    "https://amiri.com/pages/about",
+    "https://amiri.com/products.json?limit=250&country=US",
+    "https://www.discobrands.co/blogs/12-brands-like-fear-of-god"
   ],
   "notes": [
     "US shipping: complimentary 3-5 day standard, $20 express, $30 rush; international orders by DHL Express (https://amiri.com/policies/shipping-policy).",
     "Returns: within 10 days of delivery, complimentary domestic return shipping, one exchange shipment paid (https://amiri.com/policies/refund-policy).",
     "About: Mike Amiri established AMIRI in 2014 in his hometown of L.A. (https://amiri.com/pages/about).",
-    "Tailoring and some pants also come in EU 44–58 (mens-pants feed)."
+    "Tailoring and some pants also come in EU 44–58 (mens-pants feed).",
+    "2026-10-29 (brands-like-fear-of-god, hoodies): hoodies price added; listed #9 on the disco directory's brands like Fear of God page."
   ],
   "checked_at": "2026-10-29",
   "slug": "amiri"

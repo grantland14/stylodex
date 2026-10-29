@@ -2,11 +2,11 @@
   "slug": "true-religion",
   "name": "True Religion",
   "website_url": "https://www.truereligion.com",
-  "status": "unverified",
+  "status": "verified",
   "kind": "brand",
-  "known_for": null,
-  "hq_country": null,
-  "founded_year": null,
+  "known_for": "Designer Jeans",
+  "hq_country": "US",
+  "founded_year": 2002,
   "parent_company": null,
   "size_range": null,
   "has_plus": null,
@@ -23,10 +23,18 @@
   "sources": [
     "https://www.truereligion.com/",
     "https://www.truereligion.com/mens-graphic-tees",
-    "https://www.zumiez.com/brands/true-religion"
+    "https://www.zumiez.com/brands/true-religion",
+    "https://locations.truereligion.com/",
+    "https://en.wikipedia.org/wiki/True_Religion_Apparel"
   ],
   "notes": [
-    "2026-10-29: truereligion.com and /mens-graphic-tees answered HTTP 307 to themselves for WebFetch (and curl); not read, no workaround. Zumiez's True Religion page lists 302 items, 11 of 32 visible are T-shirts ($41.95)."
+    "2026-10-29: truereligion.com and /mens-graphic-tees answered HTTP 307 to themselves for WebFetch (and curl); not read, no workaround. Zumiez's True Religion page lists 302 items, 11 of 32 visible are T-shirts ($41.95).",
+    "2026-10-29 (lucky-brand page run): truereligion.com still answers 307 to itself (no workaround). Its own store directory (https://locations.truereligion.com/, title 'True Religion Store Directory | Designer Jeans', nav FEATURED, DENIM, MENS, WOMENS, KIDS) lists store locations in Canada (Alberta, Ontario), the US (Arizona, California, Colorado, Florida, Georgia, Illinois, Indiana, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Nevada, New Jersey, New York, North Carolina, Ohio, Tennessee, Texas, Virginia, Washington, Wisconsin) and Mexico. Status verified and us_stores true from that official locator (enrich.md §2); jeans in sells_categories from its 'Designer Jeans' title and DENIM nav. No prices readable.",
+    "2026-10-29 (lucky-brand page run): Wikipedia (https://en.wikipedia.org/wiki/True_Religion_Apparel): founded 2002 by Jeff Lubell and Kym Gold; HQ El Segundo, California; TowerBrook Capital Partners bought it in May 2013; bankruptcy filings in 2017 and 2020; current owner not named."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "us_stores": true,
+  "sells_categories": [
+    "jeans"
+  ]
 }

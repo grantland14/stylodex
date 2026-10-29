@@ -42,7 +42,7 @@
       "item_count": 11,
       "source_url": "https://dangerfield.com.au/en-us/products.json?limit=250",
       "checked_at": "2026-10-29",
-      "note": "US market (dangerfield.com.au/en-us, the en-US hreflang target; en-us cart.js currency USD; US prices sit below the AUD ones, e.g. Well Armed Tee $62 vs AUD 68). Whole-store US feed, 6,294 products: 300 tees, 282 marked down, 18 regular-price in stock. Counted only its own labels Dangerfield and Black Friday (11): Bang Bang Low Fi Tee, Big Cat Tee, Big Cat Retro Ringer Tee, Century Tee, Fantasy Walk Tee, Mythical Goth Baby Tee, Point Taken Tee $53; Well Armed Tee $62; high: Sketchy Raglan Tee $71. Princess Highway (6) and Pulp Kitchen (1) tees sold there excluded. Sizes AU 6–20 or XS–3XL. Regular price = in stock, no variant with compare_at_price above price. Tees = T-shirts and tees by title, short and long sleeve; tanks, vests, polos, multipacks, dresses, sweatshirts and kids excluded.",
+      "note": "US market (dangerfield.com.au/en-us, the en-US hreflang target; en-us cart.js currency USD; US prices sit below the AUD ones, e.g. Well Armed Tee $62 vs AUD 68). Whole-store US feed, 6,294 products: 300 tees, 282 marked down, 18 regular-price in stock. Counted the Dangerfield and Black Friday labels (11): Bang Bang Low Fi Tee, Big Cat Tee, Big Cat Retro Ringer Tee, Century Tee, Fantasy Walk Tee, Mythical Goth Baby Tee, Point Taken Tee $53; Well Armed Tee $62; high: Sketchy Raglan Tee $71. Princess Highway (6) and Pulp Kitchen (1) tees sold there excluded. Sizes AU 6–20 or XS–3XL. Regular price = in stock, no variant with compare_at_price above price. Tees = T-shirts and tees by title, short and long sleeve; tanks, vests, polos, multipacks, dresses, sweatshirts and kids excluded.",
       "min_usd": 53,
       "max_usd": 71,
       "fx_date": null
@@ -68,7 +68,8 @@
     "Shipping policy: DHL international delivery to a listed set of countries incl. Canada and United States, and the UK; international shipping calculated by weight at checkout (no free threshold stated); international orders dispatch in 2–5 business days.",
     "Refund policy: online full-price items returnable for credit, exchange or refund; 'Customers have 14 days to exchange their order'; sale items credit/exchange only; customs and duties not credited.",
     "Size guide: women's letter sizes 3XS–3XL = AU/UK 4–24, US 0–20 (Dangerfield, Black Friday, Revival); Princess Highway AU 4–20.",
-    "2026-10-29 (brands-like-lazy-oaf run): homepage hreflang en-US -> https://dangerfield.com.au/en-us (USD). Most tees in the store are marked down; 11 own-label tees at regular price."
+    "2026-10-29 (brands-like-lazy-oaf run): homepage hreflang en-US -> https://dangerfield.com.au/en-us (USD). Most tees in the store are marked down; 11 own-label tees at regular price.",
+    "2026-10-29 (brands-like-lazy-oaf run) correction: in the note above, \"own-label tees\" means the Dangerfield and Black Friday labels sold in its store, not a claim that Black Friday is Dangerfield-owned."
   ],
   "checked_at": "2026-10-29",
   "sells_categories": [

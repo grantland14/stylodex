@@ -1,0 +1,55 @@
+{
+  "slug": "amarra",
+  "name": "Amarra",
+  "website_url": "https://www.amarra.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Quinceañera, Prom and Occasion Dresses",
+  "hq_country": "US",
+  "size_range": "US 00–24",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 5,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 198.0,
+      "max": 4998.0,
+      "min_usd": 198.0,
+      "max_usd": 4998.0,
+      "fx_date": null,
+      "item_count": 1234,
+      "source_url": "https://www.amarra.com/collections/all/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "1234 regular-price in-stock dresses (1599 products read; 0 with a markdown or sale/final-sale tag excluded, 364 sold out). Low: STYLE 88056 $198; high: STYLE 88452 $4998. Median $549; 547 under $500. Titles are style numbers (e.g. 'STYLE 88056' $198); a 'Standard or Rush Date' option product excluded. Named examples: Long Beaded and Sequin Corset Prom Dress Style 89604 $618, Strapless Long Sequin Prom Dress Style 88291 $598. The top of the range includes quinceañera gowns."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.amarra.com/",
+    "https://www.amarra.com/meta.json",
+    "https://www.amarra.com/collections/all/products.json?limit=250",
+    "https://www.amarra.com/policies/shipping-policy",
+    "https://www.amarra.com/policies/refund-policy"
+  ],
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "dresses"
+  ],
+  "notes": [
+    "Store description (meta.json): 'AMARRA - a fashion design house brings you a range of dresses for special occasions like quinceañera, homecoming, wedding, and more.' Shop address Freehold, New Jersey, US. Shopify ships-to list: US and one other.",
+    "Shipping policy: 'Shipping fees is flat $50 and are non-refundable'; international buyers pay duties.",
+    "Refund policy: full-priced website items 'may be returned within 5 days of delivery' and must be 'received back at Amarra within 14 days of delivery'; prior authorization by email; refunds only, no exchanges; final-sale items and quinceañera dresses not returnable. returns_days stored as 5.",
+    "Sizes: US 00–24 in the feed."
+  ]
+}

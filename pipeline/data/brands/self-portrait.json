@@ -1,0 +1,55 @@
+{
+  "slug": "self-portrait",
+  "name": "Self-Portrait",
+  "website_url": "https://us.self-portrait.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Accessible Designer Dresses",
+  "hq_country": "GB",
+  "founded_year": 2013,
+  "size_range": "US 0–14; XS–XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 14,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 425.0,
+      "max": 1390.0,
+      "min_usd": 425.0,
+      "max_usd": 1390.0,
+      "fx_date": null,
+      "item_count": 752,
+      "source_url": "https://us.self-portrait.com/collections/all/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "752 regular-price in-stock dresses (1983 products read; 0 with a markdown or sale/final-sale tag excluded, 6 sold out). Low: Indigo Denim Bow Mini Dress $425; high: Beige Sequin Embellished Fur Maxi Dress $1390. Median $690; 30 under $500. US storefront (USD, no duties). Product type CLOTHING, title naming a dress; kids and a $0 placeholder excluded. e.g. Black Crepe Beaded Trim Mini Dress $620, Beige Sequin Embellished Fur Maxi Dress $1,390."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://us.self-portrait.com/",
+    "https://us.self-portrait.com/meta.json",
+    "https://us.self-portrait.com/collections/all/products.json?limit=250",
+    "https://us.self-portrait.com/pages/about-us",
+    "https://us.self-portrait.com/policies/shipping-policy"
+  ],
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "dresses"
+  ],
+  "notes": [
+    "About page: 'established in 2013 by Han Chong in London'; aims to make 'beautiful design accessible to all women'; 'Designed in London, made for the world.' US store meta: 'No additional duties or taxes. Free Domestic Shipping.'",
+    "US store: 'Free delivery in the United States', 'No duties or taxes in the United States', 'Shipped within the US'; returns for online orders within 14 days of delivery. US store ships-to list: US only.",
+    "Sizes: US 0–14 and XS–XL in the feed."
+  ]
+}

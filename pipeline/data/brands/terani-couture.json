@@ -1,0 +1,60 @@
+{
+  "slug": "terani-couture",
+  "name": "Terani Couture",
+  "website_url": "https://teranicouture.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Special Occasion and Formal Dresses",
+  "hq_country": "US",
+  "founded_year": 1990,
+  "parent_company": null,
+  "size_range": "US 0–24",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 10,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 112.5,
+      "max": 2612.5,
+      "min_usd": 112.5,
+      "max_usd": 2612.5,
+      "fx_date": null,
+      "item_count": 652,
+      "source_url": "https://teranicouture.com/collections/all/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "652 regular-price in-stock dresses (725 products read; 0 with a markdown or sale/final-sale tag excluded, 57 sold out). Low: Wine Short Glitter Knit Homecoming Dresses 2020-2021coming Dress - 2225H0457 $112.5; high: Beaded Long Sleeve Fringe Dress 2111GL5037 $2612.5. Median $650; 125 under $500. Title must name a dress/gown. 490 older styles carry no product type and prices ending in .50 (e.g. Off-Shoulder Beaded Tulle Mermaid Gown $2,237.50) with no compare_at markdown and no sale collection, so they count as regular. Current typed lines: Prom $388–$963, Evening $438–$1,650, Pageant $1,013–$2,188, Mother of the Bride $488–$1,213, Cocktail $375–$738 (e.g. Strapless Mikado Ball Gown with Crystal-Trim Neckline $650)."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://teranicouture.com/",
+    "https://teranicouture.com/meta.json",
+    "https://teranicouture.com/collections/all/products.json?limit=250",
+    "https://teranicouture.com/policies/shipping-policy",
+    "https://teranicouture.com/policies/refund-policy"
+  ],
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "dresses"
+  ],
+  "notes": [
+    "Store description (meta.json): 'Terani Couture is a world-renowned special occasion and formal dress designer, established in 1990 at the heart of high fashion, New York City.' Shop address Los Angeles, California, US.",
+    "Shipping policy: domestic and international (FedEx or TNT); standard domestic typically 4–5 business days; international buyers pay duties. No US shipping price stated. Shopify ships-to list includes US, CA, GB, AU (237 countries).",
+    "Refund policy: return or exchange within 10 days of the delivery date; store credit option.",
+    "Sizes: dresses offered in US 0–24 in the product feed."
+  ]
+}

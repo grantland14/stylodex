@@ -1,0 +1,56 @@
+{
+  "slug": "blondie-nites",
+  "name": "Blondie Nites",
+  "website_url": "https://blondienites.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "On-Trend Party Dresses",
+  "hq_country": "US",
+  "size_range": "Juniors 0–23; plus 14W–22W",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 119.0,
+      "max": 329.0,
+      "min_usd": 119.0,
+      "max_usd": 329.0,
+      "fx_date": null,
+      "item_count": 103,
+      "source_url": "https://blondienites.com/collections/all/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "103 regular-price in-stock dresses (273 products read; 168 with a markdown or sale/final-sale tag excluded, 0 sold out). Low: \"Paige\" Short Glitter Illusion Slim Dress $119; high: \"Tinsley\" Sequin and Lace Tiered Floor Length Dress $329. Median $209; 103 under $500. Styles at $100 or less are final sale at 'exclusive pricing' per its refund policy, so excluded (with compare_at markdowns). e.g. 'Raquel' Long Strapless Jacquard Gown $179, 'Tinsley' Sequin and Lace Tiered Floor Length Dress $329."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://blondienites.com/",
+    "https://blondienites.com/meta.json",
+    "https://blondienites.com/collections/all/products.json?limit=250",
+    "https://blondienites.com/policies/shipping-policy",
+    "https://blondienites.com/policies/refund-policy"
+  ],
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "dresses"
+  ],
+  "notes": [
+    "Store description (meta.json): 'Whether you're striking a pose or dancing the night away Blondie Nites dresses are gorgeous on-trend & totally fun'. Shop address New York, New York, US. Shopify ships-to list: US and CA.",
+    "Shipping: standard ground $12; international available, buyer pays duties.",
+    "Returns: refund within 14 days of delivery, free exchange within 30; $12.95 first item / $5 each additional deducted; styles at $100 or less final sale.",
+    "Sizes: juniors odd sizes 0, 1, 3 … 15 (17–23 on a few styles) and plus 14W–22W in the feed."
+  ]
+}

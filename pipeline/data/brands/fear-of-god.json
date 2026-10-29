@@ -5,7 +5,10 @@
   "kind": "brand",
   "size_range": "XS–XXXL; EU 44–56",
   "ships_to": [
-    "US"
+    "US",
+    "CA",
+    "GB",
+    "AU"
   ],
   "free_shipping_min_usd": 100,
   "returns_days": 15,
@@ -22,22 +25,55 @@
       "source_url": "https://fearofgod.com/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "Store feed (USD), vendor 'Fear of God' (main line, not ESSENTIALS), type Bottoms, 43 available full-length pants with no markdown: DSYF Wide Leg Sweatpant $350, FG Classic Sweatpant $475, to Double Face Wool Cashmere Flared Pants $1,300; Double Weave Wool Tailored Flared Pants $1,190."
+    },
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 395.0,
+      "max": 695.0,
+      "min_usd": 395.0,
+      "max_usd": 695.0,
+      "fx_date": null,
+      "item_count": 19,
+      "source_url": "https://fearofgod.com/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "Whole-store feed (1,032 products, cart currency USD), vendor 'Fear of God' (main line, not ESSENTIALS): 19 men's/unisex hoodies, all regular price and in stock. $395 = collaboration hoodies (DSYF Hoodie, Liberation Now Hoodie, Amy Sherald Pocket Hoodie, J.I.D Heirophant Hoodie; collaboration product is final sale). Core: Classic Half Raglan Hoodie $550, Sunfaded Classic Half Raglan Hoodie W/ Pocket $575, Fear Of God Classic Hoodie $595, 26 Classic Half Raglan Hoodie $595, F Of G Classic Half Raglan Hoodie W/ Pocket $625, Baseball Club Half Zip Hoodie $695. Excluded: Double Knit Hoodie $1,100 (knit) and two women's hoodies ($550). Core hoodies XS–XXXL; collabs XS–XL or XS–2XL. Regular = in stock with no variant compare_at_price above price; men's/unisex pullover and zip hoodies by title ('hoodie'), women's, kids, knits, overshirts and jackets excluded."
     }
   ],
   "sells_categories": [
-    "pants"
+    "pants",
+    "hoodies"
   ],
   "sources": [
     "https://fearofgod.com/products.json?limit=250",
     "https://fearofgod.com/policies/shipping-policy",
     "https://fearofgod.com/policies/refund-policy",
-    "https://fearofgod.com/"
+    "https://fearofgod.com/",
+    "https://fearofgod.com/products.json?limit=250&country=US",
+    "https://fearofgod.com/meta.json",
+    "https://fearofgod.com/collections.json?limit=250",
+    "https://fearofgod.com/pages/fear-of-god-an-eternal-perspective",
+    "https://fearofgod.com/pages/faq",
+    "https://feature.com/blogs/feature/jerry-lorenzo"
   ],
   "notes": [
     "US shipping: free standard ground over $100 within the contiguous US, 4-7 business days after it leaves the distribution center (https://fearofgod.com/policies/shipping-policy).",
     "Returns within 15 days of receiving (domestic: 15 business days); ESSENTIALS, sale items and underwear are final sale; returns go to the Los Angeles distribution center (https://fearofgod.com/policies/refund-policy).",
-    "fearofgod.com also sells ESSENTIALS (separate brand file fear-of-god-essentials); this file covers the main Fear of God line only."
+    "fearofgod.com also sells ESSENTIALS (separate brand file fear-of-god-essentials); this file covers the main Fear of God line only.",
+    "2026-10-29 (brands-like-fear-of-god, hoodies): C = hoodies. Store collections: Hoodies (1,049) is the largest product-type collection after All Sweatshirts (1,093); Mens Hoodies 532 (https://fearofgod.com/collections.json?limit=250).",
+    "Hoodie product text (Classic Hoodie, Classic Half Raglan, Baseball Club Half Zip): 'crafted in the USA from 100% heavyweight cotton fleece and finished with a garment wash and sunfade treatment for an authentic vintage look', classic fit, side pockets, four-stitch label at the hood (https://fearofgod.com/products.json?limit=250&country=US).",
+    "Positioning: 'a distinct American perspective on luxury' (https://fearofgod.com/pages/fear-of-god-an-eternal-perspective); Suiting collection 164 products, so known_for 'American Luxury Fleece and Tailoring'.",
+    "ships_to corrected from ['US'] to US, CA, GB, AU: meta.json ships_to_countries (239) includes all four, shop address Studio City, US, currency USD (https://fearofgod.com/meta.json).",
+    "Founded 2013 by Jerry Lorenzo: 'he began what we now know as Fear of God in 2013' (Feature, Haven Neiman, 14 Apr 2022, https://feature.com/blogs/feature/jerry-lorenzo).",
+    "Returns: 15 days; a $7 fee is deducted when using the prepaid Returnly label; original shipping non-refundable; collaboration product, ESSENTIALS and sale items final (https://fearofgod.com/policies/refund-policy). FAQ: Alaska, Hawaii and Puerto Rico shipping $10 by air (https://fearofgod.com/pages/faq)."
   ],
   "checked_at": "2026-10-29",
-  "slug": "fear-of-god"
+  "slug": "fear-of-god",
+  "known_for": "American Luxury Fleece and Tailoring",
+  "hq_country": "US",
+  "founded_year": 2013,
+  "production_model": "Core hoodies made in the USA",
+  "materials": [
+    "100% heavyweight cotton fleece"
+  ]
 }

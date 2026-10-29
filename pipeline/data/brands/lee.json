@@ -1,0 +1,25 @@
+{
+  "slug": "lee",
+  "name": "Lee",
+  "website_url": "https://www.lee.com",
+  "status": "verified",
+  "kind": "brand",
+  "us_stores": true,
+  "sells_categories": [
+    "jeans"
+  ],
+  "hq_country": "US",
+  "founded_year": 1889,
+  "checked_at": "2026-10-29",
+  "notes": [
+    "2026-10-29 (lucky-brand page run): lee.com and lee.com/women/jeans answer 403 to curl (StylodexBot UA) and WebFetch; no workaround, no prices. Lee's own store locator (https://locations.lee.com/, footer 'Lee, a Kontoor Brands Company') lists 'Lee Stores In United States' in Alabama, Arizona, Colorado, Delaware, Florida, Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky, Michigan, Mississippi, Nevada, New York, North Carolina, Ohio, Oklahoma, Pennsylvania, South Carolina, Tennessee, Texas; nav GIFTS, NEW, DENIM, WOMEN, MEN. Parent Kontoor Brands lists Lee among its brands ('Since 1889, Lee...', https://www.kontoorbrands.com/brands). Status verified, us_stores true, jeans in sells_categories from those official pages (enrich.md §2).",
+    "Wikipedia (https://en.wikipedia.org/wiki/Lee_(jeans)): founded 1889 in Salina, Kansas, as the H.D. Lee Mercantile Company; HQ Greensboro, North Carolina since 2019; parent Kontoor Brands, which announced in May 2026 it would sell Lee to Authentic Brands Group (so parent_company left empty); zipper fly in the 1920s; Lazy S back pocket official from 1944."
+  ],
+  "sources": [
+    "https://www.lee.com/",
+    "https://www.lee.com/women/jeans",
+    "https://locations.lee.com/",
+    "https://www.kontoorbrands.com/brands",
+    "https://en.wikipedia.org/wiki/Lee_(jeans)"
+  ]
+}

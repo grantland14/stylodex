@@ -1,0 +1,59 @@
+{
+  "slug": "tadashi-shoji",
+  "name": "Tadashi Shoji",
+  "website_url": "https://www.tadashishoji.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Figure-Flattering Evening Gowns",
+  "hq_country": "US",
+  "size_range": "US 00–20 and XXS–XXL; petite 0P–18P",
+  "has_plus": true,
+  "has_petite": true,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 15,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 198.0,
+      "max": 998.0,
+      "min_usd": 198.0,
+      "max_usd": 998.0,
+      "fx_date": null,
+      "item_count": 221,
+      "source_url": "https://www.tadashishoji.com/collections/all/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "221 regular-price in-stock dresses (7340 products read; 1575 with a markdown or sale/final-sale tag excluded, 4446 sold out). Low: Selena Neoprene Sequin-Fringe Mini Dress $198; high: Piers Embroidered Cape Gown $998. Median $518; 92 under $500. Ready-to-ship only: 'special-order' items (priced 40% above compare_at, not returnable) excluded with markdowns. The site shows a members-only extra 30% off; non-member price stored. e.g. Tia Draped Strapless Gown $338, Piers Embroidered Cape Gown $998 (80% polyester, 20% nylon)."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.tadashishoji.com/",
+    "https://www.tadashishoji.com/meta.json",
+    "https://www.tadashishoji.com/collections/all/products.json?limit=250",
+    "https://www.tadashishoji.com/products/piers-embroidered-cape-gown",
+    "https://www.tadashishoji.com/policies/shipping-policy",
+    "https://www.tadashishoji.com/policies/refund-policy"
+  ],
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "dresses"
+  ],
+  "notes": [
+    "Store description (meta.json): 'shop the official online boutique for a selection of figure flattering designer cocktail dresses, evening gowns and more.' Shop and returns address Bell Gardens, California, US.",
+    "Shipping: free standard ground (3–6 business days), Expedited $25, Overnight $50; international duties and taxes paid at checkout. Banner: free international shipping over $500. Ships-to list includes US, CA, GB, AU.",
+    "Returns: 15 days from delivery, refund to original payment; free US returns with the prepaid UPS label; 20% restocking fee on 4+ items; special-order items not returnable.",
+    "Sizes: 00–20, XXS–XXL, petite 0P–18P (20P on one style); plus-size versions named '- PLUS SIZE'."
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "joes-jeans",
+  "name": "Joe's Jeans",
+  "website_url": "https://www.joesjeans.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Fit-First Denim",
+  "hq_country": "US",
+  "founded_year": 2001,
+  "size_range": "Waists 23–34; petite fits",
+  "has_petite": true,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "FR",
+    "MX",
+    "AU"
+  ],
+  "free_shipping_min_usd": 200,
+  "returns_days": 30,
+  "sells_categories": [
+    "jeans"
+  ],
+  "checked_at": "2026-10-29",
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 168,
+      "max": 328,
+      "min_usd": 168,
+      "max_usd": 328,
+      "fx_date": null,
+      "item_count": 106,
+      "source_url": "https://www.joesjeans.com/collections/women-denim/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Women's denim collection products.json (3 pages, 507 products, StylodexBot UA). Kept product types that are jean fits (Wide Leg, Boot, Straight, Skinny, Jeans, Bootcut, Boyfriend, Flare); shorts, skirts, dresses, tops excluded by type and title. 386 jeans: 106 regular price (no variant with compare_at_price above price), 280 marked down. Regular range $168 (The Hi Honey bootcut, The Icon ankle skinny, The Provocateur) to $328 (The Harlowe Studded); The Mia Stoned and The Mia with Broderie wide legs $298. Store currency USD (Shopify.currency active USD)."
+    }
+  ],
+  "notes": [
+    "2026-10-29 (lucky-brand page run): About (https://www.joesjeans.com/pages/about-us): founded 2001 by Joe Dahan (Creative Director), Los Angeles; 'revolutionary fit-first approach to denim'. Shipping & Returns (https://www.joesjeans.com/pages/shipping-returns): 'Our standard return window is 30 days from the date your order was delivered'; $7 deducted if the provided return label is used; 'FREE GROUND SHIPPING ON ORDERS OF $200+'; ships to Canada, United Kingdom, France, Mexico and Australia (DHL list also shows Germany). Shipping policy (https://www.joesjeans.com/policies/shipping-policy): domestic Ground free over $200, 2nd Day $25, Next Day $40.",
+    "Sizes from women-denim products.json size options: waists 23–34 on jeans (S–XXL on non-denim), 29 Petite-titled styles (e.g. The Molly Petite)."
+  ],
+  "sources": [
+    "https://www.joesjeans.com/",
+    "https://www.joesjeans.com/collections/women-denim/products.json?limit=250",
+    "https://www.joesjeans.com/pages/about-us",
+    "https://www.joesjeans.com/pages/shipping-returns",
+    "https://www.joesjeans.com/policies/shipping-policy",
+    "https://www.joesjeans.com/policies/refund-policy"
+  ]
+}

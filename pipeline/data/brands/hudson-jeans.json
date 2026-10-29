@@ -1,0 +1,45 @@
+{
+  "slug": "hudson-jeans",
+  "name": "Hudson Jeans",
+  "website_url": "https://www.hudsonjeans.com",
+  "status": "verified",
+  "kind": "brand",
+  "hq_country": "US",
+  "founded_year": 2002,
+  "size_range": "Waists 23–34; petite fits",
+  "has_petite": true,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 200,
+  "returns_days": 30,
+  "sells_categories": [
+    "jeans"
+  ],
+  "checked_at": "2026-10-29",
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 185,
+      "max": 345,
+      "min_usd": 185,
+      "max_usd": 345,
+      "fx_date": null,
+      "item_count": 73,
+      "source_url": "https://www.hudsonjeans.com/collections/womens-denim-fits/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Women's denim fits collection products.json (208 products, StylodexBot UA): 130 typed 'Sale' excluded; 78 typed 'Denim', of which shorts and jackets excluded by title; 73 regular-price jeans, none with a compare_at markdown: $185 (Beth Flap Pocket Baby Bootcut, Nico Straight Ankle) to $345 (Rosie Embellished Wide Leg)."
+    }
+  ],
+  "notes": [
+    "2026-10-29 (lucky-brand page run): About (https://www.hudsonjeans.com/pages/about-us): 'Since 2002, we have pioneered the premium denim era'; Los Angeles home base. Shipping policy (https://www.hudsonjeans.com/policies/shipping-policy): free ground shipping over $200 in the continental US; 'We currently do not offer international shipping'. Returns: $7 fee per return; refund 'within 30 days of purchase' (https://www.hudsonjeans.com/policies/refund-policy). Sizes from products.json: waists 23–34; Petite-titled styles."
+  ],
+  "sources": [
+    "https://www.hudsonjeans.com/",
+    "https://www.hudsonjeans.com/collections/womens-denim-fits/products.json?limit=250",
+    "https://www.hudsonjeans.com/pages/about-us",
+    "https://www.hudsonjeans.com/policies/shipping-policy",
+    "https://www.hudsonjeans.com/policies/refund-policy"
+  ]
+}

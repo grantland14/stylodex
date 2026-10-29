@@ -1,0 +1,54 @@
+{
+  "slug": "aidan-mattox",
+  "name": "Aidan Mattox",
+  "website_url": "https://www.adriannapapell.com/pages/aidan-mattox",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Hand-Beaded Formalwear",
+  "hq_country": "US",
+  "parent_company": "Adrianna Papell",
+  "size_range": "US 0–20",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 250,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 295.0,
+      "max": 695.0,
+      "min_usd": 295.0,
+      "max_usd": 695.0,
+      "fx_date": null,
+      "item_count": 33,
+      "source_url": "https://www.adriannapapell.com/collections/brand-aidan-mattox-by-adrianna-papell/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "33 regular-price in-stock dresses (56 products read; 23 with a markdown or sale/final-sale tag excluded, 0 sold out). Low: Satin Asymmetrical Knotted Drape Ankle Length Dress In Bright Rose $295; high: Strapless Floral Print Beaded Soutache Hem Gown In Mahogany $695. Median $495; 26 under $500. Collection 'brand-aidan-mattox-by-adrianna-papell'. e.g. Asymmetrical Twist Knot Draped Satin Gown In Scarlet Spice $350, Strapless Stretch Jacquard Beaded Illusion Gown In Black Gold $495."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "http://aidanmattox.com/",
+    "https://www.adriannapapell.com/pages/aidan-mattox",
+    "https://www.adriannapapell.com/collections/brand-aidan-mattox-by-adrianna-papell/products.json?limit=250",
+    "https://www.adriannapapell.com/policies/shipping-policy",
+    "https://www.adriannapapell.com/policies/refund-policy"
+  ],
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "dresses"
+  ],
+  "notes": [
+    "aidanmattox.com 301-redirects to adriannapapell.com/pages/aidan-mattox, which calls it 'our brand of formalwear designed for life's special moments and big celebrations' with 'Exclusive Hand-Beaded Designs'; listed under Adrianna Papell's 'Our brands'. Sold through the Adrianna Papell store, so its shipping (free at $250, US only) and returns (30 days) apply.",
+    "Sizes: US 0–20 in the collection feed."
+  ]
+}

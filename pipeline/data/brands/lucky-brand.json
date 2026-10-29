@@ -12,7 +12,11 @@
     "Shipping page: 'Free Ground Shipping on all US orders over $85+'. International countries not listed (ships_to US only). Returns window not readable on the returns/FAQ pages (links only), so returns_days stays empty.",
     "Store locator (luckybrand.com/stores): 4 US stores near the default search, in Kennewick and Tulalip (Washington) and Tigard and Woodburn (Oregon); full list on stores.luckybrand.com. us_stores true.",
     "2026-10-29 (hollister run): women's jeans re-read: 'Showing 36 of 130', all marked down (The Baggy $69.30, comp $99; Mid Rise Sweet Boot $62.65, comp $89.50). Filters: waist 24–35 plus XS–2XL, inseam 27–34; fit names Lil Maggie, Sweet, Easy Rider, Stevie and more; an 'Extended Sizes' shop covers 33–35 and 2XL. No petite or plus filter.",
-    "2026-10-29 (altard-state page run, C dresses): women's dresses page (WebFetch) says 'Showing 36 of 45'; 32 of the 36 were dresses (4 skirts), every one marked down from a 'Comp. Value' (30–50% off or 'Extra 25% Off Sale'; comp values $99–$199), e.g. Border Print Tiered Maxi Dress $139.30 vs $199, Ruffle Peasant Mini Dress $104.30 vs $149. Sells dresses (sells_categories), but no regular-price dress, so no dresses price row."
+    "2026-10-29 (altard-state page run, C dresses): women's dresses page (WebFetch) says 'Showing 36 of 45'; 32 of the 36 were dresses (4 skirts), every one marked down from a 'Comp. Value' (30–50% off or 'Extra 25% Off Sale'; comp values $99–$199), e.g. Border Print Tiered Maxi Dress $139.30 vs $199, Ruffle Peasant Mini Dress $104.30 vs $149. Sells dresses (sells_categories), but no regular-price dress, so no dresses price row.",
+    "2026-10-29 (lucky-brand page run): women's jeans read whole: 131 tiles, 125 marked down (e.g. Embellished Baggy Wide Leg $104.30 vs comp $149, The Baggy $69.30 vs $99, Mid Rise Sweet Boot $62.65 vs $89.50); regular price only on the Madhappy x Lucky Brand collab: Ultra Low Rise Lil Maggie Flare and Baggy at $129 (https://www.luckybrand.com/women/jeans?start=0&sz=144). Men's jeans: 125 of 125 marked down (https://www.luckybrand.com/men/jeans?start=0&sz=144).",
+    "2026-10-29 (lucky-brand page run): returns: 'you may return it within 60 days of purchase, provided it is unwashed, unworn, or defective, with proof of purchase'; online purchases return by mail or at a US store; Final Sale and Limited Edition Capsule Collection items not returnable; holiday extension for Oct 1–Dec 31, 2026 purchases to the later of Jan 31, 2027 or 60 days. Read from the store's Return Policy FAQ (https://www.luckybrand.com/faq.html?a=Lucky-Brand-In-Store-and-Online-Purchase-Return-Policy---id--d5y1K4H_QgK4pogK38zhVw), whose text loads from its Gladly help center (https://eddiebauer.gladly.com/api/v1/orgs/bgrS2X4lShS7ua5F3sbN_g/answers/d5y1K4H_QgK4pogK38zhVw?lng=en-us&audienceId=I43Jg5yXQvikHX6kYA9-5w, configured in the FAQ page source; brand config names it 'Lucky Brand Help Center').",
+    "2026-10-29 (lucky-brand page run): Wikipedia (https://en.wikipedia.org/wiki/Lucky_Brand_Jeans): 'founded in Vernon, California, in 1990 by Gene Montesano and Barry Perlman'; HQ moved to the Arts District, Downtown Los Angeles, in 2012; 'Authentic owns the Lucky Brand intellectual property'; 'Catalyst is the core licensee and operating partner'; '128 company-owned stores in the U.S. and Puerto Rico' (undated).",
+    "2026-10-29 (lucky-brand page run): Wikipedia (https://en.wikipedia.org/wiki/Lucky_Brand_Jeans) on the operator: Catalyst Brands, formed from the JCPenney and SPARC Group merger, runs Lucky Brand's sourcing, wholesale and North American retail operations as core licensee; Authentic Brands Group owns the IP."
   ],
   "sources": [
     "https://www.luckybrand.com/",
@@ -22,7 +26,12 @@
     "https://www.luckybrand.com/shipping-info.html",
     "https://www.luckybrand.com/stores",
     "https://www.luckybrand.com/our-story.html",
-    "https://www.luckybrand.com/women/clothing/dresses"
+    "https://www.luckybrand.com/women/clothing/dresses",
+    "https://www.luckybrand.com/women/jeans?start=0&sz=144",
+    "https://www.luckybrand.com/men/jeans?start=0&sz=144",
+    "https://www.luckybrand.com/faq.html?a=Lucky-Brand-In-Store-and-Online-Purchase-Return-Policy---id--d5y1K4H_QgK4pogK38zhVw",
+    "https://eddiebauer.gladly.com/api/v1/orgs/bgrS2X4lShS7ua5F3sbN_g/answers/d5y1K4H_QgK4pogK38zhVw?lng=en-us&audienceId=I43Jg5yXQvikHX6kYA9-5w",
+    "https://en.wikipedia.org/wiki/Lucky_Brand_Jeans"
   ],
   "checked_at": "2026-10-29",
   "known_for": "Premium Denim and Americana",
@@ -37,5 +46,23 @@
     "jeans",
     "dresses"
   ],
-  "size_range": "Waists 24–35; inseams 27–34"
+  "size_range": "Waists 24–35; inseams 27–34",
+  "hq_country": "US",
+  "returns_days": 60,
+  "parent_company": "Authentic Brands Group",
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 129,
+      "max": 129,
+      "min_usd": 129,
+      "max_usd": 129,
+      "fx_date": null,
+      "item_count": 2,
+      "source_url": "https://www.luckybrand.com/women/jeans?start=0&sz=144",
+      "checked_at": "2026-10-29",
+      "note": "Women's jeans listing read whole (start=0&sz=144, curl, StylodexBot UA; robots.txt allows sz/start): 131 tiles, 125 marked down from a 'Comp. Value' (the store's footnote says a comp value is a former price or an estimate for comparable items). The 6 tiles with no markdown: Madhappy x Lucky Brand Ultra Low Rise Lil Maggie Flare ($129, 2 colorways), Madhappy x Lucky Brand Baggy ($129, 2 colorways) and Madhappy x Lucky Brand Ultra Low Rise Lil Maggie Short ($89.50, a denim short, excluded). So the only regular-price jeans are 2 collab styles at $129. Men's jeans (https://www.luckybrand.com/men/jeans?start=0&sz=144): 125 tiles, all 125 marked down. Re-read after the sale."
+    }
+  ]
 }

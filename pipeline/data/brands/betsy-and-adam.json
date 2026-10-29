@@ -1,0 +1,56 @@
+{
+  "slug": "betsy-and-adam",
+  "name": "Betsy & Adam",
+  "website_url": "https://www.betsyandadam.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Evening and Wedding Guest Dresses",
+  "hq_country": "US",
+  "size_range": "0–16, petite 2P–16P, plus 14W–22W",
+  "has_plus": true,
+  "has_petite": true,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 139.0,
+      "max": 379.0,
+      "min_usd": 139.0,
+      "max_usd": 379.0,
+      "fx_date": null,
+      "item_count": 388,
+      "source_url": "https://www.betsyandadam.com/collections/all/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "388 regular-price in-stock dresses (484 products read; 29 with a markdown or sale/final-sale tag excluded, 1 sold out). Low: “Petra” Sheer Matte Jersey Knit Key Hole Dress $139; high: Plus \"Vanessa\" Sequin Long Sleeve A-Line Ballgown $379. Median $259; 388 under $500. Title must name a dress/gown; jackets excluded; prices ending in .97 are final sale per its policy (none left). e.g. 'Soley' Satin Off The Shoulder Ruched Gown $249, 'Vanessa' Sequin Long Sleeve A-Line Ballgown $359."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.betsyandadam.com/",
+    "https://www.betsyandadam.com/meta.json",
+    "https://www.betsyandadam.com/collections/all/products.json?limit=250",
+    "https://www.betsyandadam.com/policies/shipping-policy",
+    "https://www.betsyandadam.com/policies/refund-policy"
+  ],
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "dresses"
+  ],
+  "notes": [
+    "Store description (meta.json): 'Shop Betsy & Adam for elegant evening dresses, wedding guest dresses, mother of the bride styles, and formal gowns. Designed in NYC for every special occasion.' Shop address New York, New York, US.",
+    "Shipping: standard ground $12; ships from its New Jersey warehouse within 24 business hours; flat international rates (Canada $25, UK/Australia $35). Shopify ships-to list includes US and CA (4 countries).",
+    "Returns: within 14 days of delivery, free exchanges within 30 days; $12.95 first item / $5 each additional deducted; styles ending in $.97 final sale.",
+    "Sizes: 0–16, petite 2P–16P, plus 14W–22W in the feed."
+  ]
+}
