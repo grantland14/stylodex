@@ -1,0 +1,48 @@
+{
+  "slug": "american-tall",
+  "name": "American Tall",
+  "website_url": "https://americantall.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Tall Clothing",
+  "size_range": "S–2XL, cut for men 6 ft to 7 ft 1 in",
+  "has_tall": true,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 60,
+  "returns_days": 30,
+  "verified_at": "2026-10-29",
+  "sells_categories": [
+    "tees"
+  ],
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 25,
+      "max": 65,
+      "min_usd": 25,
+      "max_usd": 65,
+      "fx_date": null,
+      "item_count": 49,
+      "source_url": "https://americantall.com/collections/mens-t-shirts-crewnecks/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Men's T-Shirts: Crewnecks products.json: 62 listings, 12 marked down and 1 sold out excluded; 49 regular-price short-sleeve crewnecks. Low: Core Cotton Crewneck Tee, Modern Fit Garment Dyed Cotton T-Shirt, Everyday Regular Fit Crewneck ($25); Essential Slim and Modern Fit Crewneck Tees, Slub Tee $27; graphic tees $29; Air Knit Performance T-shirt $39; high: Braided Knit T-Shirt $65. Sizes S–2XL."
+    }
+  ],
+  "notes": [
+    "Title: 'Tall Men's & Tall Women's Clothing up to 7'1\"' (https://americantall.com/); about page: men's tall clothing for 6' to 7'1\", Semi Tall for 6' to 6'3\" (https://americantall.com/pages/about-us).",
+    "Returns: unworn, unwashed items within 30 days of ship date; $9 flat-rate return label for refunds; size exchanges and store-credit returns free (https://americantall.com/policies/refund-policy).",
+    "Shipping: 3–10 day delivery within North America; international options at checkout (https://americantall.com/policies/shipping-policy). Cart (US): 'You are just $60.00 away from FREE SHIPPING' with an empty cart (https://americantall.com/pages/returns-exchanges)."
+  ],
+  "sources": [
+    "https://americantall.com/",
+    "https://americantall.com/collections/mens-t-shirts-crewnecks/products.json?limit=250",
+    "https://americantall.com/pages/about-us",
+    "https://americantall.com/policies/refund-policy",
+    "https://americantall.com/policies/shipping-policy",
+    "https://americantall.com/pages/returns-exchanges"
+  ]
+}

@@ -32,6 +32,19 @@
       "source_url": "https://www.filson.com/collections/outerwear",
       "checked_at": "2026-10-29",
       "note": "Men's Outerwear collection via /collections/outerwear/products.json: 189 products, 13 vests excluded; 103 jackets/coats at regular price (58 marked down via compare_at_price). Low: Canvas Outfitter Jacket $199 and Dry Wax Short Cruiser Jacket $199; Lined Tin Cloth Cruiser Jacket $429; Mackinaw Wool Cruiser Jacket $599; high: Lined Mackinaw Wool Packer Coat $1,199."
+    },
+    {
+      "category": "shirts",
+      "currency": "USD",
+      "min": 99,
+      "max": 249,
+      "min_usd": 99,
+      "max_usd": 249,
+      "fx_date": null,
+      "item_count": 54,
+      "source_url": "https://www.filson.com/collections/long-sleeve-shirts",
+      "checked_at": "2026-10-29",
+      "note": "Men's woven shirts (button-ups, flannels, wool shirts, overshirts) at regular price; tees, knits, polos, sweats, shirt jackets and padded or quilted overshirts excluded. products.json for long-sleeve-shirts (111 products) and short-sleeve-shirts (77): 54 regular woven shirts, 51 marked down excluded, tees excluded, Jac-Shirts (outerwear) not included. 4.5-oz. Twill Shirt $99; Alaskan Guide Shirt $149; Moleskin Seattle Shirt $199; 8-oz. Wool Guide Shirt $249."
     }
   ],
   "materials": [
@@ -42,7 +55,8 @@
   "production_model": "Some outerwear made in the USA",
   "sale_pattern": null,
   "sells_categories": [
-    "coats-jackets"
+    "coats-jackets",
+    "shirts"
   ],
   "sources": [
     "https://www.filson.com/",
@@ -51,7 +65,9 @@
     "https://www.filson.com/pages/customer-care",
     "https://www.filson.com/pages/shipping",
     "https://www.filson.com/pages/about-us",
-    "https://www.filson.com/collections/best-sellers"
+    "https://www.filson.com/collections/best-sellers",
+    "https://www.filson.com/collections/long-sleeve-shirts",
+    "https://www.filson.com/collections/short-sleeve-shirts"
   ],
   "notes": [
     "Homepage: 'The Original Outfitter since 1897', 'Unfailing Goods', banner 'Free Shipping over $99'. Men's outerwear subnav: Waxed Jackets, Wool Jackets, Insulated Jackets, Jac-Shirts, Vests (https://www.filson.com/).",
@@ -59,7 +75,8 @@
     "Shipping page: Canada standard $37 / expedited $51; 'Filson does not accept orders from' a list that includes the United Kingdom; Australia not named, only 'All Other locations' $69, so AU left out of ships_to (https://www.filson.com/pages/shipping).",
     "About: founded 1897 to outfit prospectors for the Alaska Gold Rush; C.C. Filson's original store on Seattle's First Avenue; headquarters and flagship store in the Star Manufacturing building, SODO, Seattle; 'Skilled employees can be seen sewing our Unfailing Goods through the First Avenue windows'. No parent company named, copyright 'C.C. Filson Co'. Flagship store = us_stores true; the Our Stores locator did not render a list (https://www.filson.com/pages/about-us, https://www.filson.com/pages/our-stores).",
     "Outerwear products.json size options: XS–3XL on most styles; M Long–2XL Long on 6 styles. 'Made in USA' appears in 14 of 189 outerwear listings' text (https://www.filson.com/collections/outerwear/products.json).",
-    "Best-sellers collection (23 items, none marked down) spans tees ($55) to the Denim Tacoma Jacket ($299) and Dryden Backpack ($279), so bags are a big line too; outerwear is the largest product type Filson sells (https://www.filson.com/collections/best-sellers)."
+    "Best-sellers collection (23 items, none marked down) spans tees ($55) to the Denim Tacoma Jacket ($299) and Dryden Backpack ($279), so bags are a big line too; outerwear is the largest product type Filson sells (https://www.filson.com/collections/best-sellers).",
+    "Alaskan Guide Shirt $149: flannel brushed on both sides, center-back box pleat, dual flapped chest pockets; sizes XS–3XL with Long in M–2XL (https://www.filson.com/collections/long-sleeve-shirts)."
   ],
   "checked_at": "2026-10-29"
 }

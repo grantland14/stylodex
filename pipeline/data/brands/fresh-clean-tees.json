@@ -1,0 +1,50 @@
+{
+  "slug": "fresh-clean-tees",
+  "name": "Fresh Clean Tees",
+  "website_url": "https://freshcleantees.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Affordable Basics That Fit",
+  "founded_year": 2015,
+  "size_range": "S–4XL, in Short, Regular and Tall",
+  "has_tall": true,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 100,
+  "verified_at": "2026-10-29",
+  "sells_categories": [
+    "tees"
+  ],
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 23,
+      "max": 35,
+      "min_usd": 23,
+      "max_usd": 35,
+      "fx_date": null,
+      "item_count": 33,
+      "source_url": "https://freshcleantees.com/collections/t-shirts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "t-shirts products.json: 137 listings; 73 packs/bundles and long sleeves excluded, 23 marked down (compare_at above price) and 8 sold out excluded; 33 regular-price single short-sleeve tees. Low: Crew Neck $23 (19 colors); Tuff Tee $29; high: Performance Cool Crew and Heritage Cotton Crew $35. Variants come in Short, Regular and Tall lengths."
+    }
+  ],
+  "notes": [
+    "freshcleanthreads.com redirects to freshcleantees.com; the brand now trades as Fresh Clean Tees (sources call it Fresh Clean Threads). Title: 'Fresh Clean Tees | Premium & Affordable Basics That Fit' (https://freshcleantees.com/).",
+    "About: 'Quality Apparel Since 2015', backed by a 100-day guarantee (https://freshcleantees.com/pages/about-us).",
+    "FAQ: ships to the 50 US states, Puerto Rico, Canada and APO/FPO; 100-Day Guarantee with free returns and exchanges; Men's Short S–2XL, Regular S–4XL, Tall M–4XL; Women's XS–3XL (https://freshcleantees.com/pages/faq-usa).",
+    "Shipping policy: $1.49 processing fee on all orders; orders over $100 ship free (https://freshcleantees.com/policies/shipping-policy)."
+  ],
+  "sources": [
+    "https://freshcleantees.com/",
+    "https://freshcleantees.com/collections/t-shirts/products.json?limit=250",
+    "https://freshcleantees.com/pages/about-us",
+    "https://freshcleantees.com/pages/faq-usa",
+    "https://freshcleantees.com/policies/shipping-policy",
+    "https://freshcleantees.com/policies/refund-policy"
+  ]
+}

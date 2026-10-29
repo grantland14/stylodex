@@ -1,0 +1,59 @@
+{
+  "slug": "gitman",
+  "name": "Gitman",
+  "website_url": "https://www.gitman.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Shirts and Ties Made in the USA",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "S–XXL; collars 14½–22",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": true,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 14,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "shirts",
+      "currency": "USD",
+      "min": 250,
+      "max": 325,
+      "min_usd": 250,
+      "max_usd": 325,
+      "fx_date": null,
+      "item_count": 58,
+      "source_url": "https://www.gitman.com/collections/sport-shirts",
+      "checked_at": "2026-10-29",
+      "note": "Men's woven shirts (button-ups, flannels, wool shirts, overshirts) at regular price; tees, knits, polos, sweats, shirt jackets and padded or quilted overshirts excluded. products.json for sport-shirts (47), weekend-shirts (8) and formal-shirts (3): 58 shirts, all regular. Indigo Denim Shirt $250; Blue Oxford Weekend Shirt $255; Tan Flannel (Albini, Italy) $295; Green Checked 120's Poplin $325."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": "Made in Lafayette, Tennessee",
+  "sale_pattern": null,
+  "sells_categories": [
+    "shirts"
+  ],
+  "sources": [
+    "https://www.gitman.com/",
+    "https://www.gitman.com/pages/heritage",
+    "https://www.gitman.com/pages/faq",
+    "https://www.gitman.com/pages/style-and-fit",
+    "https://www.gitman.com/collections/sport-shirts",
+    "https://www.gitman.com/collections/weekend-shirts",
+    "https://www.gitman.com/collections/formal-shirts"
+  ],
+  "notes": [
+    "Homepage: og:title 'Gitman Shirts & Ties | Made In The USA'; meta 'Since 1978, Gitman Bros. has been manufacturing the finest shirts and ties in the USA' (https://www.gitman.com/). Heritage page: Max Gitman founded the Ashland Shirt & Pajama Company in 1932 in Ashland, Pennsylvania; footer 'Proudly Made in Lafayette, TN' (https://www.gitman.com/pages/heritage). founded_year left empty: 1932 and 1978 both appear.",
+    "FAQ: free UPS standard shipping in the US (no minimum shown); international express $30, countries not listed, duties paid by recipient; return authorization within 14 days for full-price items, 7 days for markdowns up to 40% (https://www.gitman.com/pages/faq).",
+    "Style & fit: Tailored, Regular and Classic fits; Big and Tall Fit dress shirts; S–XXL, collars 14½–22 (https://www.gitman.com/pages/style-and-fit).",
+    "Disco and the Apart Style pool name it 'Gitman Vintage', the company's heritage label; the store now sells everything under 'Gitman' (products.json vendor 'Gitman')."
+  ],
+  "checked_at": "2026-10-29"
+}

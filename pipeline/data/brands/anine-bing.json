@@ -1,0 +1,44 @@
+{
+  "slug": "anine-bing",
+  "name": "ANINE BING",
+  "website_url": "https://www.aninebing.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Timeless Everyday Wardrobe Essentials",
+  "size_range": "XXS–XL",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "leather-jackets",
+      "currency": "USD",
+      "min": 550,
+      "max": 1150,
+      "min_usd": 550,
+      "max_usd": 1150,
+      "fx_date": null,
+      "item_count": 8,
+      "source_url": "https://www.aninebing.com/collections/jackets/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Jackets collection products.json (62 products), leather and suede only: 8 listings, all regular price, none marked down. Cyrus Jacket in regenerated (recycled) leather $550 to Sandy Jacket in 100% grained leather $1,150; Assan and Rory Jackets $595, Leon Bomber and Luca Jacket $600, all recycled leather."
+    }
+  ],
+  "sells_categories": [
+    "leather-jackets"
+  ],
+  "sources": [
+    "https://www.aninebing.com/",
+    "https://www.aninebing.com/collections/jackets/products.json?limit=250",
+    "https://www.aninebing.com/policies/shipping-policy",
+    "https://www.aninebing.com/policies/refund-policy"
+  ],
+  "notes": [
+    "Shipping policy banner: 'Free standard shipping to the United States on all orders'; refund policy: free returns and exchanges on full-price purchases within 14 days of receiving the order, sale items final (https://www.aninebing.com/policies/shipping-policy, https://www.aninebing.com/policies/refund-policy).",
+    "Leather jackets: six of the eight are 'Recycled Leather' (product copy: 'Regenerated leather'); the Sandy Jacket is '100% grained leather', oversized, $1,150. Sizes XXS–XL across them (https://www.aninebing.com/collections/jackets/products.json?limit=250).",
+    "Homepage meta: 'ANINE BING offers everyday wardrobe essentials that are timeless and modern. Free shipping and returns on all orders.' (https://www.aninebing.com/)."
+  ],
+  "checked_at": "2026-10-29"
+}

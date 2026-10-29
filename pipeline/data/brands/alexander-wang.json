@@ -1,0 +1,45 @@
+{
+  "slug": "alexander-wang",
+  "name": "Alexander Wang",
+  "website_url": "https://www.alexanderwang.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Urban-Inspired Designs in Black",
+  "size_range": "XS–XL; US 0–12 on blazers",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 350,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "leather-jackets",
+      "currency": "USD",
+      "min": 1495,
+      "max": 1995,
+      "min_usd": 1495,
+      "max_usd": 1995,
+      "fx_date": null,
+      "item_count": 4,
+      "source_url": "https://www.alexanderwang.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Store feed (Shopify, active currency USD), all products paged; leather jackets only (leather-trim and faux excluded); 4 listings, all regular price: leather blazer $1,495, leather funnel-neck puffer jacket and leather scoop neck bomber jacket $1,595, distressed leather moto jacket $1,995."
+    }
+  ],
+  "sells_categories": [
+    "leather-jackets"
+  ],
+  "sources": [
+    "https://www.alexanderwang.com/",
+    "https://www.alexanderwang.com/products.json?limit=250",
+    "https://www.alexanderwang.com/policies/shipping-policy",
+    "https://www.alexanderwang.com/policies/refund-policy",
+    "https://en.wikipedia.org/wiki/Alexander_Wang_(designer)"
+  ],
+  "notes": [
+    "Shipping policy, United States: standard 3 to 5 business days, 'Free for all orders over $350'; express and next-day options. Refund policy: products must be shipped back within 14 days of the delivery date, unworn with tags (https://www.alexanderwang.com/policies/shipping-policy, https://www.alexanderwang.com/policies/refund-policy).",
+    "Wikipedia: American designer, launched his eponymous brand in 2005, 'known for his urban-inspired designs and use of black' (https://en.wikipedia.org/wiki/Alexander_Wang_(designer)).",
+    "distressed leather moto jacket $1,995: 'classic moto jacket reimagined in distressed leather', belt at the hem (https://www.alexanderwang.com/products.json?limit=250)."
+  ],
+  "checked_at": "2026-10-29"
+}

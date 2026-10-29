@@ -44,6 +44,19 @@
       "source_url": "https://bananarepublic.gap.com/browse/women/dresses?cid=1160186",
       "checked_at": "2026-10-29",
       "note": "Gap Inc. product API the category page calls (api.gap.com/commerce/search/products/v2/cc?cid=1160186&brand=br&market=us, pageSize 200), read with curl and the StylodexBot UA. 115 styles: 38 skirts excluded, 77 dresses; 16 with only marked-down or out-of-stock colorways excluded. Kept colorways priceType R, or P without a markdown. 61 dresses: low Bias-Cut Stretch-Satin Mini Dress, Corduroy Side-Button Mini Dress $148; high Lightweight Cashmere Turtleneck Mini Dress $280. Knit Wrap Midi Dress $198, Wrap-Neck Midi Dress $220."
+    },
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 45.0,
+      "max": 200.0,
+      "min_usd": 45.0,
+      "max_usd": 200.0,
+      "fx_date": null,
+      "item_count": 78,
+      "source_url": "https://bananarepublic.gap.com/browse/women/womens-tops?cid=1160179",
+      "checked_at": "2026-10-29",
+      "note": "Gap Inc. product API the category page calls (api.gap.com/commerce/search/products/v2/cc?cid=1160179&brand=br&market=us, pageSize 200, pages 0–4), read with curl and the StylodexBot UA. 452 styles in Women's Tops; kept womens shirt and tee product types (sweaters, jackets, blazers, men's and accessories excluded): 219 styles; kept in-stock colorways priceType R, or P not below regular; 78 styles at regular price. Low: Refined Scoop-Neck T-Shirt, Refined Camisole and Lightweight Jersey Slim Crew-Neck T-Shirt $45; high: Banana Republic x La Ligne The Cotton Corduroy Shirt and The Relaxed Viscose Tunic $200. The Everyday Silk Shirt $178. Like-for-like: women's tops (shirts, blouses, tees, tanks, knit tops, tunics); sweaters, cardigans, jackets, vests, kimonos, pullovers and outside labels excluded by product name."
     }
   ],
   "materials": [],
@@ -58,15 +71,19 @@
     "https://www.gapinc.com/en-us/about/banana-republic",
     "https://oldnavy.gap.com/customerService/info.do?cid=3019",
     "https://bananarepublic.gap.com/browse/women/dresses?cid=1160186",
-    "https://api.gap.com/commerce/search/products/v2/cc?cid=1160186&brand=br&market=us&locale=en_US&pageSize=200&pageNumber=0"
+    "https://api.gap.com/commerce/search/products/v2/cc?cid=1160186&brand=br&market=us&locale=en_US&pageSize=200&pageNumber=0",
+    "https://bananarepublic.gap.com/browse/women/womens-tops?cid=1160179",
+    "https://api.gap.com/commerce/search/products/v2/cc?cid=1160179&brand=br&market=us"
   ],
   "notes": [
     "2026-10-29 (old-navy page run): homepage title 'Banana Republic | Timeless Style for Women's & Men's Clothing'; description 'Shop cashmere, leather, and linen'. gapinc.com: story 'began in 1978 as a travel outfitter'; 'over 400 company-operated and franchise stores'. Store locator lists stores by US state (Alabama, California, New York, Texas...) and Puerto Rico. Banner 'FREE SHIPPING ON $50+ FOR REWARDS MEMBERS'; shared Gap Inc. checkout ships anywhere in the US (Old Navy cid=3019 lists Banana Republic in the combined bag). Returns page (cid=80735) loads its terms by script, not readable: returns_days empty.",
     "Sizes from the product API size facet on the jeans listing: Regular bottoms 0-20, Petite 00-12, Long 4-12; jeans fits Relaxed, Slim, Straight, Bootcut, Flare, Wide, Barrel-Leg; department Women only.",
-    "2026-10-29 (ann-taylor page run): women's dresses read from the Gap Inc. product API (cid 1160186); see dresses price note."
+    "2026-10-29 (ann-taylor page run): women's dresses read from the Gap Inc. product API (cid 1160186); see dresses price note.",
+    "2026-10-29 (chicos page run): tops price added; see the tops price note."
   ],
   "checked_at": "2026-10-29",
   "sells_categories": [
-    "dresses"
+    "dresses",
+    "tops"
   ]
 }

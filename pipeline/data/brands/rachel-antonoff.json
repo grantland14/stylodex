@@ -31,6 +31,19 @@
       "source_url": "https://rachelantonoff.com/collections/tops-tees/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "Only 10 regular-price in-stock tops of 35 in tops-tees (20 marked down, 4 sale-tagged, 1 sold out). Low: Stella Top Snakes $158; high: Fleming Shirt Medicine Cabinet $268. Median $188. Prints include Lillian Turtleneck Seafood Tower $178 and Lillian Turtleneck Pasta $188 (sheer mesh). Sizes XS–XXL on all, 1X–3X on 6. Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (sweaters, cardigans, hoodies, sweatshirts, jackets, bottoms, dresses, sets, kids', men's, accessories) dropped by title/product type."
+    },
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 248.0,
+      "max": 398.0,
+      "item_count": 26,
+      "source_url": "https://rachelantonoff.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Dresses feed 54 products: 26 regular-price in stock, 28 marked down. Low LOLA DRESS ICE CREAM TRUCK $248; high SAND ART KNIT DRESS $398; median $328. Size variants run XXS–XXL, 0–26 and 1X–3X.",
+      "min_usd": 248.0,
+      "max_usd": 398.0,
+      "fx_date": null
     }
   ],
   "materials": [],
@@ -42,13 +55,17 @@
     "https://rachelantonoff.com/collections/tops-tees/products.json?limit=250",
     "https://rachelantonoff.com/policies/refund-policy",
     "https://rachelantonoff.com/cart.js",
-    "https://www.nordstrom.com/browse/women/clothing/tops-tees/graphic"
+    "https://www.nordstrom.com/browse/women/clothing/tops-tees/graphic",
+    "https://rachelantonoff.com/collections/dresses/products.json?limit=250"
   ],
   "checked_at": "2026-10-29",
   "notes": [
     "Meta: 'Shop the Rachel Antonoff Collection for pieces with thoughtful design, inclusive sizing, and a stringent code of ethics'. Homepage banner 'Free US shipping on orders over $300'. Store currency USD.",
     "Refund policy: returns within 14 days of delivery via Loop; items reduced 30% or more and flash-sale purchases final.",
-    "Shipping policy page is empty; ships_to records US from the banner only. HQ not stated on the store; hq_country left empty."
+    "Shipping policy page is empty; ships_to records US from the banner only. HQ not stated on the store; hq_country left empty.",
+    "2026-10-29 (modcloth page run, C dresses): dresses price from the dresses feed (see price note)."
   ],
-  "sells_categories": []
+  "sells_categories": [
+    "dresses"
+  ]
 }

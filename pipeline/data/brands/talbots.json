@@ -18,7 +18,8 @@
   ],
   "returns_days": 30,
   "sells_categories": [
-    "dresses"
+    "dresses",
+    "tops"
   ],
   "checked_at": "2026-10-29",
   "prices": [
@@ -34,6 +35,19 @@
       "source_url": "https://www.talbots.com/clothing/dresses?sz=200",
       "checked_at": "2026-10-29",
       "note": "Category grid, one plain request (StylodexBot UA), ?sz=200: 103 tiles ('103 items'). Excluded 55 tiles with a markdown-price-range, product-standard-price (struck) or hardmarkprice class. 48 regular tiles; each shows a range across size types (misses to plus). Low: Knit Kit Bateau Neck Midi Dress $99.50–$109; high: RSVP Paisley Lace Dress $269–$299. Polished Ponte Sheath Dress $169–$189, Luxe Ponte Sheath Dress $179, Belted Wool Blend Shirtdress $219–$249, Split Neck A-Line Dress $119–$139."
+    },
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 34.5,
+      "max": 189.0,
+      "min_usd": 34.5,
+      "max_usd": 189.0,
+      "fx_date": null,
+      "item_count": 120,
+      "source_url": "https://www.talbots.com/clothing/tees-and-knits?sz=300",
+      "checked_at": "2026-10-29",
+      "note": "Tops = the store's two tops categories, Blouses & Shirts (132 items, https://www.talbots.com/clothing/blouses-and-shirts?sz=300) and Tees & Knit Tops (243 items), each read in one plain request (StylodexBot UA). 375 tiles, 307 tops after exclusions; tiles with markdown-price-range, struck product-standard-price or hardmarkprice excluded; 120 regular. Each tile shows a range across size types (misses to plus). Low: Pima Cotton Bateau Neck Tank and 180° Two-Way Tank $34.50–$39.50; high: RSVP Embroidered Soft Satin Charmeuse Top $169–$189. Supersoft Jersey Short Sleeve Crewneck Tee $49.50–$59.50, Non-Iron Popover - Buffalo Check $109–$129. Like-for-like: women's tops (shirts, blouses, tees, tanks, knit tops, tunics); sweaters, cardigans, jackets, vests, kimonos, pullovers and outside labels excluded by product name."
     }
   ],
   "sources": [
@@ -46,7 +60,9 @@
     "https://www.knitwellgroup.com/",
     "https://www.talbots.com/sitemap-custom-stores-talbots.xml",
     "https://www.talbots.com/sitemap-custom-product-talbots.xml",
-    "https://www.talbots.com/sitemap-custom-category-talbots.xml"
+    "https://www.talbots.com/sitemap-custom-category-talbots.xml",
+    "https://www.talbots.com/clothing/blouses-and-shirts?sz=300",
+    "https://www.talbots.com/clothing/tees-and-knits?sz=300"
   ],
   "notes": [
     "2026-10-29 (ann-taylor page run): homepage meta 'modern classic selection of women's clothing... apparel in misses, petite, plus size and plus size petite'. Size charts: Misses 2–18 (XS–XL), Petite 0–16 (PP–PXL), Plus 14W–24W (X–3X); no Tall listed.",
@@ -54,7 +70,8 @@
     "Store locator pages (/storelocator, /stores) render stores by script; no US store list read, us_stores left empty. Wikipedia: founded 1947 in Hingham, Massachusetts; HQ Hingham. knitwellgroup.com lists Talbots ('timely and timeless style for every body'). Footer: The Talbots LLC.",
     "2026-10-29 (talbots page run): the store's own store sitemap (https://www.talbots.com/sitemap-custom-stores-talbots.xml) lists 437 store pages under US state codes (PA 32, FL 31, TX 26, NY 25, NC 25, MA 25...), so us_stores true.",
     "2026-10-29 (talbots page run): product sitemap (https://www.talbots.com/sitemap-custom-product-talbots.xml) has 2,775 product URLs; by the last word of the product name: pants 216, dress 191 + shirtdress 33 (224 dresses), top 185, tee 181, sweater 136, jacket 128. Category sitemap: clothing > sweaters, blouses-and-shirts, tees-and-knits, pants, jeans, shorts, dresses, skirts, jackets-and-coats, suiting.",
-    "Coordinator: known_for shortened (was Modern Classic Clothing for Women) so the title has one \"for\"."
+    "Coordinator: known_for shortened (was Modern Classic Clothing for Women) so the title has one \"for\".",
+    "2026-10-29 (chicos page run): tops price added; see the tops price note."
   ],
   "us_stores": true
 }

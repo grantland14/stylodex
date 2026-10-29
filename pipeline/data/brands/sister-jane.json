@@ -39,6 +39,19 @@
       "source_url": "https://sisterjane.com/collections/tops/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "64 regular-price in-stock women's tops of 269 (204 marked down, 1 sold out; vendors starting 'Menswear' excluded). Includes its Ghospell and DREAM lines. Low: Ghospell Amina Ruched Top £59, Vence Check Bow Top £59; Bianca Bow Blouse £69, Veronica Lace Blouse £82; high: DREAM Darling Lamé Bow Blouse £125. Store currency GBP. Regular price = in stock, no variant with compare_at_price above price."
+    },
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 69.0,
+      "max": 255.0,
+      "item_count": 136,
+      "source_url": "https://sisterjane.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Dresses feed (USD cart): 584 products served over 3 pages, 136 regular-price in stock, 445 marked down, 3 sold out. Low Ghospell Roxy Cami Mini Dress $69 (vendor After The Break by Ghospell); high DREAM Circe Sequin Lace Maxi Dress $255; median $105. Feed vendors mix Sister Jane Exclusives with its own sub-lines (Finding Fortunes, Riviera Muse, The Garden Atelier, Island Life) and Ghospell.",
+      "min_usd": 69.0,
+      "max_usd": 255.0,
+      "fx_date": null
     }
   ],
   "sources": [
@@ -48,13 +61,18 @@
     "https://sisterjane.com/policies/refund-policy",
     "https://sisterjane.com/pages/delivery",
     "https://sisterjane.com/collections/jackets/products.json?limit=250",
-    "https://sisterjane.com/collections/tops/products.json?limit=250"
+    "https://sisterjane.com/collections/tops/products.json?limit=250",
+    "https://sisterjane.com/collections/dresses/products.json?limit=250"
   ],
   "notes": [
     "Self-description: 'an elevated London label with romance and nostalgia at heart'. meta.json London, GB.",
     "International buyers pay original shipping, all import duties and return shipping; US costs shown only at checkout. Returns within 14 days of receipt.",
-    "2026-10-29 (brands-like-unif run): 204 of 269 women's tops marked down at read time."
+    "2026-10-29 (brands-like-unif run): 204 of 269 women's tops marked down at read time.",
+    "2026-10-29 (modcloth page run, C dresses): dresses price from the dresses feed (see price note)."
   ],
   "checked_at": "2026-10-29",
-  "slug": "sister-jane"
+  "slug": "sister-jane",
+  "sells_categories": [
+    "dresses"
+  ]
 }

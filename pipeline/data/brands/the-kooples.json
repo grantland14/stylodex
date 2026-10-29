@@ -1,0 +1,50 @@
+{
+  "slug": "the-kooples",
+  "name": "The Kooples",
+  "website_url": "https://www.thekooples.com/int/en/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Contemporary Fashion and Leather",
+  "hq_country": "FR",
+  "founded_year": 2008,
+  "parent_company": "Verdoso",
+  "size_range": "XXS–XXL on men's leather",
+  "ships_to": [
+    "US"
+  ],
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "leather-jackets",
+      "currency": "EUR",
+      "min": 395,
+      "max": 695,
+      "min_usd": 439.75,
+      "max_usd": 773.74,
+      "fx_date": "2026-10-28",
+      "item_count": 13,
+      "source_url": "https://www.thekooples.com/int/en/women/selections/leather.html",
+      "checked_at": "2026-10-29",
+      "note": "International store (the en-US hreflang and the United States country setting both land on EUR prices; US checkout runs through Global-e, so the dollar charge is set at checkout). Men's Leather selection (8 items, https://www.thekooples.com/int/en/men/selection/leather.html) and women's Leather selection (27 items) read from the pages' ItemList data; jackets only (coats, shoes, belts, bags excluded): 4 men's €495–€695 and 9 women's €395–€595. No markdowns shown. Low: Black leather zip-up jacket €395 (women); high: Brown leather jacket €695 (men). USD at ECB 2026-10-28 (1 EUR = 1.1133 USD)."
+    }
+  ],
+  "sells_categories": [
+    "leather-jackets"
+  ],
+  "sources": [
+    "https://www.thekooples.com/int/en/",
+    "https://www.thekooples.com/int/en/men/selection/leather.html",
+    "https://www.thekooples.com/int/en/women/selections/leather.html",
+    "https://www.thekooples.com/int/en/p/black-leather-biker-jacket-122.html",
+    "https://www.thekooples.com/int/en/faq.php",
+    "https://en.wikipedia.org/wiki/The_Kooples",
+    "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
+  ],
+  "notes": [
+    "Black leather biker jacket (men, €495): 100% lambskin, sizes XXS–XXL, 'Fitted. If you hesitate between two sizes, choose the size above.'; outside Europe delivery fees depend on the country; for the United States 'A $10 return fee will be deducted from your refund'; banner 'Return within 14 days' (https://www.thekooples.com/int/en/p/black-leather-biker-jacket-122.html).",
+    "FAQ: 'You have 14 days from the date you receive your order to return it' (https://www.thekooples.com/int/en/faq.php).",
+    "Women's leather jackets read: Black leather zip-up jacket €395, Black leather jacket €425 and €465, Black leather biker jacket €425, Brown leather jacket €445, Beige suede leather jacket €445, Burgundy leather jacket €495, Black officer-style leather jacket €595. Men's: Black leather biker jacket €495, Black leather jacket €545 and €595, Brown leather jacket €695.",
+    "Wikipedia: French fashion retailer founded in Paris in 2008 by Alexandre, Laurent and Raphaël Elicha; acquired by the French industrial group Verdoso in April 2025 (https://en.wikipedia.org/wiki/The_Kooples)."
+  ],
+  "checked_at": "2026-10-29"
+}

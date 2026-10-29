@@ -29,6 +29,19 @@
       "source_url": "https://www.3sixteen.com/collections/denim/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "denim collection products.json, 48 products: 6 non-denim (5 Bottoms, gift card) excluded; 7 sold out excluded; none marked down; 35 regular-price jeans $250–$485. Low: CS-101x Classic Straight Lightweight Selvedge and CT-101x Classic Tapered Lightweight Selvedge ($250); RS-33x Relaxed Straight Natural Selvedge ($270); RS-105xk Relaxed Straight Heavyweight Indigo Kibata ($310); high: CT-102xn Classic Tapered Natural Indigo Selvedge ($485)."
+    },
+    {
+      "category": "shirts",
+      "currency": "USD",
+      "min": 175,
+      "max": 285,
+      "min_usd": 175,
+      "max_usd": 285,
+      "fx_date": null,
+      "item_count": 52,
+      "source_url": "https://www.3sixteen.com/collections/shirts",
+      "checked_at": "2026-10-29",
+      "note": "Men's woven shirts (button-ups, flannels, wool shirts, overshirts) at regular price; tees, knits, polos, sweats, shirt jackets and padded or quilted overshirts excluded. products.json, 72 products, 52 regular shirts, 17 marked down excluded, knit shirts and gift card excluded. Short Sleeve Commuter Shirt $175; Utility Shirt $265; Crosscut Flannel $285."
     }
   ],
   "production_model": "Made in the USA",
@@ -39,17 +52,20 @@
     "https://www.3sixteen.com/pages/about",
     "https://www.3sixteen.com/pages/stores",
     "https://www.3sixteen.com/pages/shipping",
-    "https://www.3sixteen.com/pages/return-policy"
+    "https://www.3sixteen.com/pages/return-policy",
+    "https://www.3sixteen.com/collections/shirts"
   ],
   "notes": [
     "About: 'First and foremost, we're a denim company'; first jean SL-100x in 2008, developed with Kuroki Mills in Okayama, Japan; 'several fits in more than 10 different fabrics' (https://www.3sixteen.com/pages/about). Store description: 'quality American manufacturing'. 45 denim product descriptions read 'Made in USA'.",
     "Shipping: free USPS Ground Advantage over $50; UPS Ground flat $5; international via DHL, customs fees on customer (https://www.3sixteen.com/pages/shipping).",
     "Returns within 10 days of delivery, unworn, unaltered, tags on; hemmed and final-sale items excluded (https://www.3sixteen.com/pages/return-policy).",
     "Stores: New York (190 Elizabeth St, Nolita) and Los Angeles (ROW DTLA, 1320 E 7th St) (https://www.3sixteen.com/pages/stores).",
-    "Jeans waists (products.json): 28–36, 38, 40 on nearly all; 42 on 18 styles; 44 on 1."
+    "Jeans waists (products.json): 28–36, 38, 40 on nearly all; 42 on 18 styles; 44 on 1.",
+    "Crosscut Flannel $285: 'a staple of our collection that's been in production for over 18 years', Japanese flannel, 100% cotton, washed after sewing to remove shrinkage, crossed back yoke, enamel-coated metal buttons; sizes S–2X (https://www.3sixteen.com/collections/shirts)."
   ],
   "checked_at": "2026-10-29",
   "sells_categories": [
-    "jeans"
+    "jeans",
+    "shirts"
   ]
 }

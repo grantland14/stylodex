@@ -1,0 +1,57 @@
+{
+  "slug": "thief-and-bandit",
+  "name": "Thief and Bandit",
+  "website_url": "https://thiefandbandit.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Handprinted Sustainable Fashion",
+  "hq_country": "CA",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XXS–4X",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": null,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 164.0,
+      "max": 245.0,
+      "item_count": 23,
+      "source_url": "https://thiefandbandit.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US storefront prices (Shopify localization US, cart currency USD; base store CAD $225–$335). Dresses feed 25 products: 23 regular-price in stock, 2 sold out, none marked down. Low Coffee on Black 'Fox Den' Jane Dress $164; high Kiki Dress in Black $245.",
+      "min_usd": 164.0,
+      "max_usd": 245.0,
+      "fx_date": null
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": "Made to order in Nova Scotia",
+  "sale_pattern": null,
+  "sources": [
+    "https://thiefandbandit.com/",
+    "https://thiefandbandit.com/collections/dresses/products.json?limit=250",
+    "https://thiefandbandit.com/cart.js",
+    "https://thiefandbandit.com/pages/shipping",
+    "https://thiefandbandit.com/pages/faq",
+    "https://thiefandbandit.com/pages/about-us"
+  ],
+  "notes": [
+    "Homepage title: 'Thief & Bandit | Iconic, Handprinted, XS to 4X Sustainable Fashion'; meta: 'Handmade, organic fashion brand based out of Nova Scotia, Canada. Handprinted garments sewn in house'. Feed variants run XXS to 4X.",
+    "Shipping: 'We currently ship to Canada, USA, and internationally outside of North America. We ship from our studio in Canada'; USA 3-7 business days via USPS. FAQ: 'North American shipping is free'; 'all our garments are made to order, please allow 1-3 weeks'. Return terms not found on the FAQ or shipping pages, so returns_days is empty."
+  ],
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "dresses"
+  ]
+}

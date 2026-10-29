@@ -6,9 +6,44 @@
   "checked_at": "2026-10-29",
   "sources": [
     "https://vuori.com/collections/womens-leggings",
-    "https://vuoriclothing.com/collections/womens-leggings"
+    "https://vuoriclothing.com/collections/womens-leggings",
+    "https://vuoriclothing.com/",
+    "https://vuoriclothing.com/sitemap.xml",
+    "https://vuoriclothing.com/products/strato-tech-v-neck-tee-black",
+    "https://vuoriclothing.com/products/strato-tech-tee-heather-grey",
+    "https://vuoriclothing.com/apps/store-locator"
   ],
   "notes": [
-    "2026-10-29 (athleta page run): vuori.com redirects to vuoriclothing.com; the women's leggings page (title 'Women's Soft Performance, Workout & Everyday Leggings', banner 'Free Standard Shipping With Orders Over $75') renders products client-side, so no prices read; not a Shopify public store (meta.json 404). Status left for a human check."
+    "2026-10-29 (athleta page run): vuori.com redirects to vuoriclothing.com; the women's leggings page (title 'Women's Soft Performance, Workout & Everyday Leggings', banner 'Free Standard Shipping With Orders Over $75') renders products client-side, so no prices read; not a Shopify public store (meta.json 404). Status left for a human check.",
+    "Homepage description: 'Vuori provides a new perspective for athletic and performance clothing... Built to move in. Styled for life.' (https://vuoriclothing.com/); banner: 'Free Standard Shipping With Orders Over $75'.",
+    "Strato Tech V-Neck Tee: $58 (compareAtPrice $58), 96% Polyester 4% Elastane, sizes XXS–3XL, Classic fit (https://vuoriclothing.com/products/strato-tech-v-neck-tee-black).",
+    "Store locator page 'Visit a Vuori Store Nearby' (https://vuoriclothing.com/apps/store-locator). Return window and international countries are on help.vuoriclothing.com, which did not render to WebFetch; left empty."
+  ],
+  "status": "verified",
+  "known_for": "Performance Apparel",
+  "size_range": "XXS–3XL",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 75,
+  "us_stores": true,
+  "verified_at": "2026-10-29",
+  "sells_categories": [
+    "tees"
+  ],
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 58,
+      "max": 88,
+      "min_usd": 58,
+      "max_usd": 88,
+      "fx_date": null,
+      "item_count": 82,
+      "source_url": "https://vuoriclothing.com/sitemap.xml",
+      "checked_at": "2026-10-29",
+      "note": "Collection grid is client-rendered, so every men's short-sleeve tee family in the sitemap (26 handle groups) was read from its product page data (price and compareAtPrice per variant). 82 regular-price, in-stock men's colorways; marked-down colorways (compareAtPrice above price), sold-out ones, Strato Muscle Tee and the women's Surge Seamless Tee excluded. Low: Strato Tech Tee, Strato Tech V-Neck Tee, Current Tech Tee, Strato Breathe Tee ($58); Tuvalu Tee $68; Heavyweight Cotton Tee $74–$78; Ponto Performance Tee $79; high: Merino Wool Tee 2.0, Clearview Seamless Tee, Lightweight Tech Waffle Tee ($88)."
+    }
   ]
 }

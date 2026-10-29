@@ -50,12 +50,26 @@
       "source_url": "https://www.rickowens.eu/en-us/products.json?limit=250&country=US",
       "checked_at": "2026-10-29",
       "note": "1,656 products read (US store, Shopify.currency USD). 20 regular-price in-stock items titled 'hoodie', none marked down, all DRKSHDW FW26: Tommy Hustler Hoodie $655 (medium-weight cotton jersey), Oversized Hoodie $665–$725, Peter Hoodie $805–$1,220, Collage Gimp Hoodie $920, Gimp Hoodie $950, Mountain Hun Hoodie $965–$1,050, Mountain Hoodie $965–$970. Hood accessories, hooded tees, crewnecks and track jackets excluded. Sizes XS–XL on most, XXL on 11, some one size (UNI). Regular = in stock with no variant compare_at_price above price; men's/unisex pullover and zip hoodies by title ('hoodie'), women's, kids, knits, overshirts and jackets excluded."
+    },
+    {
+      "category": "leather-jackets",
+      "currency": "USD",
+      "min": 2580,
+      "max": 11500,
+      "min_usd": 2580,
+      "max_usd": 11500,
+      "fx_date": null,
+      "item_count": 34,
+      "source_url": "https://www.rickowens.eu/en-us/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US market /en-us/products.json (USD), all 1,657 products paged; type OUTERWEAR, jackets (JKT, BIKER, FLIGHT, BOMBER) whose description names leather, lamb, calf, cow, goat, nappa, suede or shearling; coats, vests and the wool-whipcord Alice Jkt excluded; available only; no markdowns. 34 listings: Gary Jkt in veg stretch leather $2,580, Classic Biker in naked lamb $2,990, Dracuflight in tumbled lamb $4,125, up to Secchia Flight $11,500."
     }
   ],
   "sells_categories": [
     "jewelry",
     "pants",
-    "hoodies"
+    "hoodies",
+    "leather-jackets"
   ],
   "sources": [
     "https://www.rickowens.eu/en-us/products.json?limit=250",
@@ -64,7 +78,8 @@
     "https://www.rickowens.eu/en-row/pages/return-policy",
     "https://www.discobrands.co/blogs/23-brands-like-vivienne-westwood",
     "https://www.rickowens.eu/en-us/products.json?limit=250&country=US",
-    "https://www.discobrands.co/blogs/12-brands-like-fear-of-god"
+    "https://www.discobrands.co/blogs/12-brands-like-fear-of-god",
+    "https://www.rickowens.eu/en-us/products.json?limit=250&page=1"
   ],
   "notes": [
     "Footer: OwensCorp Italia SPA, Via M. Ponza 4, Torino, Italy. known_for wording from discobrands (draped monochrome tailoring), not the brand's own copy: human check.",
@@ -73,7 +88,8 @@
     "US store feed (1,657 products, 2026-10-29): BOTTOMS is the largest product type (312), ahead of SHOES (270) and T-SHIRTS / SHIRTS (238) (https://www.rickowens.eu/en-us/products.json?limit=250).",
     "Cheapest regular-price items in the US store feed: Stickers e Magnet Pack and Toothpaste 65ml at $65; in clothing, the Bandana 53x53 at $185 and the Jumbo SS T at $194 (https://www.rickowens.eu/en-us/products.json?limit=250).",
     "Coordinator: known_for replaced; the previous wording came from the disco directory, which is never quoted on a page.",
-    "2026-10-29 (brands-like-fear-of-god, hoodies): hoodies price added; every regular-price hoodie in the US store is from the DRKSHDW line."
+    "2026-10-29 (brands-like-fear-of-god, hoodies): hoodies price added; every regular-price hoodie in the US store is from the DRKSHDW line.",
+    "2026-10-29 (brands-like-allsaints, leather-jackets): leather jackets in the US feed run $2,580 (Gary Jkt, veg stretch leather) to $11,500 (Secchia Flight); Classic Biker in black naked lamb $2,990, Naska Biker in feather nappa $2,930, Alice Jkt in suede $2,815; sizes on these are numeric, 38 to 54 (https://www.rickowens.eu/en-us/products.json?limit=250)."
   ],
   "checked_at": "2026-10-29",
   "slug": "rick-owens"

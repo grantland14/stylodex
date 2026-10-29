@@ -1,0 +1,45 @@
+{
+  "slug": "rhoback",
+  "name": "Rhoback",
+  "website_url": "https://rhoback.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Performance Activewear",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 30,
+  "us_stores": true,
+  "verified_at": "2026-10-29",
+  "sells_categories": [
+    "tees"
+  ],
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 58,
+      "max": 68,
+      "min_usd": 58,
+      "max_usd": 68,
+      "fx_date": null,
+      "item_count": 23,
+      "source_url": "https://rhoback.com/collections/mens-tops-tees",
+      "checked_at": "2026-10-29",
+      "note": "Men's tees collection, pages 1–2 via WebFetch (page 1 'Showing 48 Of 70 Total'): 18 distinct regular-price short-sleeve colorways on page 1 and 5 on page 2; 4 Blitz Tech Tee colorways at $54.40 or $47.60 (was $68) excluded as marked down. Low: Tailwind Performance Tee $58; high: Blitz Tech Tee 2.0 and Blitz Tech Tee $68."
+    }
+  ],
+  "notes": [
+    "Homepage title: 'High Quality Apparel for Those Who Crave Activity'; description 'Performance Activewear Designed for Those Who Crave Activity' (https://rhoback.com/).",
+    "Site banner: 'Free Standard Shipping on domestic orders $150+', 'Free Returns & Exchanges | 30 days after purchase' (https://rhoback.com/pages/our-story).",
+    "Has a store page for Charlottesville (https://rhoback.com/pages/our-stores-charlottesville). International shipping not confirmed; ships_to US only. Shopify JSON endpoints return 404."
+  ],
+  "sources": [
+    "https://rhoback.com/",
+    "https://rhoback.com/collections/mens-tops-tees",
+    "https://rhoback.com/collections/mens-tops-tees?page=2",
+    "https://rhoback.com/pages/our-story",
+    "https://rhoback.com/pages/our-stores-charlottesville"
+  ]
+}

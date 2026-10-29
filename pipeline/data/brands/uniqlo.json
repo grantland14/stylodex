@@ -69,6 +69,19 @@
       "source_url": "https://www.uniqlo.com/us/en/women/tops/sweatshirts-and-hoodies",
       "checked_at": "2026-10-29",
       "note": "WebFetch of the sweatshirts & hoodies listing: 2 hoodies (both MEN-tagged, XXS–3XL): Sweat Oversized Pullover Hoodie $49.90 and Sweat Oversized Full-Zip Hoodie $59.90. One Full-Zip card flagged 'Sale, Select Colors/Sizes Only' at $49.90 excluded. Listing partly rendered ('Results: 0 items' counter)."
+    },
+    {
+      "category": "shirts",
+      "currency": "USD",
+      "min": 49.9,
+      "max": 49.9,
+      "min_usd": 49.9,
+      "max_usd": 49.9,
+      "fx_date": null,
+      "item_count": 3,
+      "source_url": "https://www.uniqlo.com/us/en/men/tops/casual-shirts",
+      "checked_at": "2026-10-29",
+      "note": "Men's woven shirts (button-ups, flannels, wool shirts, overshirts) at regular price; tees, knits, polos, sweats, shirt jackets and padded or quilted overshirts excluded. WebFetch of the casual shirts listing: three flannels priced, none flagged Sale or Limited-Time Offer: Flannel Checked Shirt, Flannel Shirt Tartan Check, Flannel Shirt Ombre Check, all $49.90. Oxford, Broadcloth and Easy Care shirts showed no price."
     }
   ],
   "materials": [
@@ -93,7 +106,8 @@
     "https://www.uniqlo.com/us/en/women/bottoms/jeans",
     "https://www.uniqlo.com/us/en/women/tops/sweatshirts-and-hoodies",
     "https://www.uniqlo.com/us/en/women/tops/t-shirts",
-    "https://www.uniqlo.com/us/en/women/tops/all-tops"
+    "https://www.uniqlo.com/us/en/women/tops/all-tops",
+    "https://www.uniqlo.com/us/en/men/tops/casual-shirts"
   ],
   "notes": [
     "2026-10-29: the US dresses listing was read by WebFetch (an earlier read of /women/dresses-and-jumpsuits returned 503). Shipping and returns pages not read (FAQ site returned 403 to an earlier run), so free_shipping_min_usd and returns_days stay empty. ships_to US rests on the US storefront (USD, uniqlo.com/us).",
@@ -107,13 +121,15 @@
     "ships_to: US store at uniqlo.com/us with USD prices and US shipping terms; CA, GB, AU are served by Uniqlo's separate country stores (not checked as shipping destinations from the US store).",
     "2026-10-29 (gap page run): women's jeans listing loaded to WebFetch (earlier runs got 503). Baggy Barrel Jeans come in separate Short and Tall versions.",
     "2026-10-29 (comfrt run): Sweat Oversized Pullover Hoodie ($49.90) and Sweat Oversized Full-Zip Hoodie ($59.90) are listed in sizes XXS–3XL (men's sizing).",
-    "2026-10-29 (stores-like-primark run, C tops = women's tops and T-shirts): the US 'Women's T-Shirts and Tank Tops' listing loaded to WebFetch with product names (Ribbed Henley Neck T-Shirt, Soft Ribbed T-Shirt, Hooded Ribbed T-Shirt, Soft Knitted Fleece T-Shirt, Crew Neck T-Shirt) but no prices ('Results: 0 items', truncated), so tops goes in sells_categories with no price row. /women/tops/all-tops returned 503; curl got an HTTP/2 stream reset. One try each, no workaround."
+    "2026-10-29 (stores-like-primark run, C tops = women's tops and T-shirts): the US 'Women's T-Shirts and Tank Tops' listing loaded to WebFetch with product names (Ribbed Henley Neck T-Shirt, Soft Ribbed T-Shirt, Hooded Ribbed T-Shirt, Soft Knitted Fleece T-Shirt, Crew Neck T-Shirt) but no prices ('Results: 0 items', truncated), so tops goes in sells_categories with no price row. /women/tops/all-tops returned 503; curl got an HTTP/2 stream reset. One try each, no workaround.",
+    "Casual shirts: Flannel Checked Shirt $49.90 (4.8 from 62 reviews), Flannel Shirt Tartan Check $49.90, Flannel Shirt Ombre Check $49.90 (https://www.uniqlo.com/us/en/men/tops/casual-shirts)."
   ],
   "checked_at": "2026-10-29",
   "us_stores": true,
   "sells_categories": [
     "jeans",
     "hoodies",
-    "tops"
+    "tops",
+    "shirts"
   ]
 }

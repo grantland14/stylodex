@@ -1,0 +1,42 @@
+{
+  "slug": "sandro",
+  "name": "Sandro",
+  "website_url": "https://us.sandro-paris.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Women's and Men's Ready-to-Wear",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "leather-jackets",
+      "currency": "USD",
+      "min": 1095,
+      "max": 2425,
+      "min_usd": 1095,
+      "max_usd": 2425,
+      "fx_date": null,
+      "item_count": 14,
+      "source_url": "https://us.sandro-paris.com/en/womens/clothing/jackets-blazers/?sz=200",
+      "checked_at": "2026-10-29",
+      "note": "US store (USD). Men's Jackets (78 products, https://us.sandro-paris.com/en/mens/clothing/jackets/?sz=200) and women's Jackets & Blazers (75 products) read in full; leather, suede and shearling jackets only, leather-collar and leather-trim pieces excluded. Regular = tile GA4 discount 0; 9 marked-down leather jackets excluded. 14 listings: women's Leather jacket (red) $1,095 to Oversized shearling jacket $2,425; men's Leather jacket $1,265 to Shearling jacket $2,220."
+    }
+  ],
+  "sells_categories": [
+    "leather-jackets"
+  ],
+  "sources": [
+    "https://us.sandro-paris.com/",
+    "https://us.sandro-paris.com/en/mens/clothing/jackets/?sz=200",
+    "https://us.sandro-paris.com/en/womens/clothing/jackets-blazers/?sz=200",
+    "https://us.sandro-paris.com/en/shipping-and-return/shipping-and-return.html"
+  ],
+  "notes": [
+    "Regular-price leather jackets, US store: men's Leather jacket $1,265, Zip-up leather jacket $1,585, Leather jacket $1,905 (camel, midnight blue, petrol blue), Shearling jacket $2,220; women's Leather jacket $1,095, Smooth leather jacket, Oversized leather jacket and Standing collar leather jacket $1,130 each, Zipped shearling jacket $2,265, Oversized shearling jacket $2,425 (https://us.sandro-paris.com/en/mens/clothing/jackets/?sz=200, https://us.sandro-paris.com/en/womens/clothing/jackets-blazers/?sz=200).",
+    "Shipping & Returns: us.sandro-paris.com 'delivers to addresses in the United States only'; Standard ground via FedEx 'Free'; 2-day $22; online orders returnable within 30 days of ship date unless Final Sale, prepaid return label (https://us.sandro-paris.com/en/shipping-and-return/shipping-and-return.html)."
+  ],
+  "checked_at": "2026-10-29"
+}

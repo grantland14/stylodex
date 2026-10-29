@@ -31,6 +31,19 @@
       "source_url": "https://woolrich.us/collections/mens-outerwear",
       "checked_at": "2026-10-29",
       "note": "US men's outerwear via products.json: 17 products, vests excluded, 15 at regular price, none marked down. Low: Wool-Blend Jacket with Hood and Zipper $500; Bering Jacket in Crinkle Nylon $525; Arctic Parka in Ramar Cloth $950; high: Buffalo Check Puffer Parka in Pure Virgin Wool $1,100."
+    },
+    {
+      "category": "shirts",
+      "currency": "USD",
+      "min": 155,
+      "max": 195,
+      "min_usd": 155,
+      "max_usd": 195,
+      "fx_date": null,
+      "item_count": 12,
+      "source_url": "https://woolrich.us/collections/mens-tops",
+      "checked_at": "2026-10-29",
+      "note": "Men's woven shirts (button-ups, flannels, wool shirts, overshirts) at regular price; tees, knits, polos, sweats, shirt jackets and padded or quilted overshirts excluded. products.json, 25 products, 12 regular woven shirts, none marked down; quilted and padded overshirts ($435–$495) excluded. Button-Down Checked Shirt in Pure Cotton Flannel $155; Warren Checked Shirt in Pure Cotton Flannel $185; Checked Flannel Shirt in Pure Cotton $195. Every regular shirt is cotton; no wool shirt in the range."
     }
   ],
   "materials": [
@@ -41,20 +54,23 @@
   "production_model": null,
   "sale_pattern": null,
   "sells_categories": [
-    "coats-jackets"
+    "coats-jackets",
+    "shirts"
   ],
   "sources": [
     "https://woolrich.us/",
     "https://woolrich.us/collections/mens-outerwear",
     "https://woolrich.us/collections/mens-outerwear/products.json",
     "https://woolrich.us/policies/refund-policy",
-    "https://en.wikipedia.org/wiki/Woolrich"
+    "https://en.wikipedia.org/wiki/Woolrich",
+    "https://woolrich.us/collections/mens-tops"
   ],
   "notes": [
     "woolrich.com redirects to woolrich.us, the US storefront in USD; tagline 'American Heritage Since 1830'; 'Free U.S. Standard Shipping for Orders $200+' (https://woolrich.us/).",
     "Refund policy: 30 days from delivery, unworn with tags; orders under $200 pay flat-rate shipping and return shipping; $200+ get free delivery and returns (https://woolrich.us/policies/refund-policy).",
     "Wikipedia: founded in Woolrich, Pennsylvania, in 1830; headquarters Bologna, Italy; acquired by BasicNet in December 2025 (https://en.wikipedia.org/wiki/Woolrich).",
-    "Outerwear sizes S–3XL on all 17 listings (https://woolrich.us/collections/mens-outerwear/products.json)."
+    "Outerwear sizes S–3XL on all 17 listings (https://woolrich.us/collections/mens-outerwear/products.json).",
+    "Men's tops (products.json): shirts are cotton flannel or cotton-blend twill, $155–$195, sizes S–3XL on the flannel button-down; wool appears only in quilted/padded overshirts $435–$495 (https://woolrich.us/collections/mens-tops)."
   ],
   "checked_at": "2026-10-29"
 }

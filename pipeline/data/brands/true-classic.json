@@ -34,10 +34,24 @@
       "source_url": "https://www.trueclassictees.com/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "Public Shopify feed (1,371 products, pages 1–6, curl, StylodexBot UA). 33 jeans listings, all men's: 22 single pairs at $79.99 with compare-at equal to the price (no markdown), e.g. Indigo Wash Straight Comfort Stretch Jeans, Black Wash Slim Authentic Denim Jeans; 11 multi-packs (2-pack $139.99 vs $159.98, 3-pack $159.99 vs $239.97) excluded as marked down. Fits: Slim and Straight, in Comfort Stretch and Authentic Denim; waists 30–42."
+    },
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 34.99,
+      "max": 44.99,
+      "min_usd": 34.99,
+      "max_usd": 44.99,
+      "fx_date": null,
+      "item_count": 213,
+      "source_url": "https://www.trueclassictees.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Store-wide products.json (1,371 products, 6 pages): product types Short Sleeve Crew, Short Sleeve Crew Tall, Short Sleeve V-neck (+Tall), Active Short Sleeve Crew (+Tall); 247 packs/bundles and 2 caps excluded, none marked down; 213 regular-price single tees. Low: Classic Crew Neck, Pocket Crew Tee, Active Crew Neck Tee ($34.99, 165 listings); Heavyweight Crew $39.99; high: Pima Cotton Blend Crew $44.99. Sizes S–3XL, 4XL on some; Tall versions of most crews."
     }
   ],
   "sells_categories": [
-    "jeans"
+    "jeans",
+    "tees"
   ],
   "materials": [],
   "certifications": [],
@@ -53,7 +67,8 @@
     "Homepage title: 'Best High Quality, Soft, Slim Fitted T-Shirts for Men - True Classic'; known_for shortened from it.",
     "Refund policy: 'free returns and exchanges within 100 days of delivery—no questions asked'; unworn, unwashed; final sale excluded; refund less original shipping cost.",
     "Shipping policy: ships worldwide except a listed set of countries (Belarus, Russia, Ukraine and others; US, CA, GB, AU not excluded); US standard 3–7 business days; US orders ship from Southern California and Kentucky; free shipping 'to select countries' above an unstated threshold.",
-    "Men's only: no women's jeans in the feed. Wikipedia has no True Classic article (404), so HQ and founding year are empty."
+    "Men's only: no women's jeans in the feed. Wikipedia has no True Classic article (404), so HQ and founding year are empty.",
+    "Tees (2026-10-29): 213 regular-price single short-sleeve tees at $34.99–$44.99 in the public feed, sizes S–4XL with Tall versions (https://www.trueclassictees.com/products.json?limit=250)."
   ],
   "checked_at": "2026-10-29"
 }

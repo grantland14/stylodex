@@ -1,0 +1,60 @@
+{
+  "slug": "unique-vintage",
+  "name": "Unique Vintage",
+  "website_url": "https://www.unique-vintage.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Retro Clothing Styles",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–5X",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 130,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 58.0,
+      "max": 268.0,
+      "item_count": 370,
+      "source_url": "https://www.unique-vintage.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Dresses collection feed, 1,066 products over 5 pages. Regular price = in stock, no variant with compare_at above price, no sale/final-sale tag, 'dress' or 'gown' in the title: 370 qualify (644 marked down, 51 non-dress titles such as sets). Low Elle Rebel Black Minuit Slip Mini Dress $58; high Mystic Insect Fringed Magdalena Velvet Wrap Dress $268 (Vintage Vandalizm); median $110, e.g. Unique Vintage Blue & Burgundy Plaid Bonnie Swing Dress $110. Store currency USD.",
+      "min_usd": 58.0,
+      "max_usd": 268.0,
+      "fx_date": null
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.unique-vintage.com/",
+    "https://www.unique-vintage.com/collections/dresses/products.json?limit=250",
+    "https://www.unique-vintage.com/policies/shipping-policy",
+    "https://www.unique-vintage.com/pages/returns",
+    "https://www.unique-vintage.com/pages/about-us-new",
+    "https://www.unique-vintage.com/pages/size-fit-guide",
+    "https://www.unique-vintage.com/collections.json?limit=250"
+  ],
+  "notes": [
+    "Homepage title: 'Vintage Clothing & Dresses – Retro Clothing Styles | Unique Vintage'. About page (og:description): 'Back in 2000, our vintage-loving CEO and Founder, Katie Echeverry, would spend her weekends browsing the local vintage shops in her hometown of Burbank, CA' (founded_year left empty: the page dates the idea, not the company).",
+    "kind retailer: first 250 products of the dresses feed are 178 Unique Vintage, 28 Smak Parlour, plus Elle Rebel, Retrolicious, Vintage Vandalizm and others.",
+    "Shipping policy: 'Free shipping available for all orders over $130, after discounts and before tax'; warehouse days exclude US holidays. Country selector lists Canada, UK and Australia and there is an international returns link, but no international shipping terms are stated, so ships_to is US only.",
+    "Returns page: items postmarked within 30 days of delivery; shipping fees non-refundable; final sale not returnable; free returns and exchanges only with the paid opt-in at checkout.",
+    "Sizes: size guide and filters run X-Small to 5X; feed variants include 1X/16 to 5X/26 and 32W-34W."
+  ],
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "dresses"
+  ]
+}

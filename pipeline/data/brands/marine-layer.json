@@ -1,0 +1,49 @@
+{
+  "slug": "marine-layer",
+  "name": "Marine Layer",
+  "website_url": "https://www.marinelayer.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Absurdly Soft Clothes",
+  "hq_country": "US",
+  "size_range": "S–2XL",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": 365,
+  "us_stores": true,
+  "verified_at": "2026-10-29",
+  "sells_categories": [
+    "tees"
+  ],
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 54,
+      "max": 64,
+      "min_usd": 54,
+      "max_usd": 64,
+      "fx_date": null,
+      "item_count": 32,
+      "source_url": "https://www.marinelayer.com/collections/guys-tees-basics/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Absurdly Soft Tees (guys) products.json: 38 listings; 5 long sleeves and a take-back bag excluded; 32 regular-price short-sleeve tees, none marked down. Low: Signature Crew Tee, Signature Sea Change Crew Tee, Signature Jacquard Crew Tee, Everyday Sport Graphic Tee ($54); high: Luxe 250 Classic Tee, Luxe 250 Relaxed Pocket Tee, Luxe Slub Pocket Tee, Cloud 9 Terry Football Tee ($64). Size options Small to 2XL."
+    }
+  ],
+  "notes": [
+    "Homepage description: 'we make absurdly soft clothes that are good for people and the planet' (https://www.marinelayer.com/).",
+    "About: 'Born & Based in San Francisco' (https://www.marinelayer.com/pages/about-us). Returns: 'return or exchange pretty much anything for 365 days', outlet items within 30 days in person (https://www.marinelayer.com/pages/returns). Free shipping on orders $75+ (site banner).",
+    "Shipping: international orders 'nearly all over the globe for $35 via DHL Express' (https://www.marinelayer.com/policies/shipping-policy); ships_to kept to US since countries are not listed. Stores page 'Here's where to find us' (https://www.marinelayer.com/pages/stores)."
+  ],
+  "sources": [
+    "https://www.marinelayer.com/",
+    "https://www.marinelayer.com/collections/guys-tees-basics/products.json?limit=250",
+    "https://www.marinelayer.com/pages/about-us",
+    "https://www.marinelayer.com/pages/returns",
+    "https://www.marinelayer.com/pages/shipping-info",
+    "https://www.marinelayer.com/policies/shipping-policy",
+    "https://www.marinelayer.com/pages/stores"
+  ]
+}

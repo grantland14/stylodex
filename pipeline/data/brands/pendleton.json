@@ -4,14 +4,14 @@
   "website_url": "https://www.pendleton-usa.com",
   "status": "verified",
   "kind": "brand",
-  "known_for": "Wool Clothing and Blankets",
+  "known_for": "Wool Shirts",
   "hq_country": "US",
   "founded_year": 1909,
   "parent_company": null,
-  "size_range": null,
+  "size_range": "XS–5X; Tall M–3X",
   "has_plus": null,
   "has_petite": null,
-  "has_tall": null,
+  "has_tall": true,
   "ships_to": [
     "US"
   ],
@@ -31,6 +31,19 @@
       "source_url": "https://www.pendleton-usa.com/men/clothing/jackets-coats/",
       "checked_at": "2026-10-29",
       "note": "Men's Jackets & Coats page: 21 products (20 read), 3 vests and 3 marked down excluded. Low: Belmont Corduroy Shirt Jacket $168; Gorge Canvas Barn Coat $275; Quilted Wool CPO Jacket $325; Lookout Valley Varsity Wool Jacket $550; high: Brownsville Shearling Collar Coat $625."
+    },
+    {
+      "category": "shirts",
+      "currency": "USD",
+      "min": 88,
+      "max": 230,
+      "min_usd": 88,
+      "max_usd": 230,
+      "fx_date": null,
+      "item_count": 70,
+      "source_url": "https://www.pendleton-usa.com/men/clothing/wool-shirts/?start=0&sz=200",
+      "checked_at": "2026-10-29",
+      "note": "Men's woven shirts (button-ups, flannels, wool shirts, overshirts) at regular price; tees, knits, polos, sweats, shirt jackets and padded or quilted overshirts excluded. Wool Shirts page (63 tiles: 38 regular, 25 marked down; Forest Twill Shirt Jacket $248 excluded) plus Cotton & Linen Shirts page (46 tiles: 33 regular, 13 marked down). Low: Short-Sleeve Shoreline Cotton Shirt $88; Burnside Cotton Flannel $118; Lodge Shirt $179; Board Shirt $198 (Tall and Big sizes up to $230). Second URL: https://www.pendleton-usa.com/men/clothing/cotton-linen-shirts/?start=0&sz=200"
     }
   ],
   "materials": [
@@ -40,18 +53,27 @@
   "production_model": "Own wool mills in Oregon and Washington",
   "sale_pattern": null,
   "sells_categories": [
-    "coats-jackets"
+    "coats-jackets",
+    "shirts"
   ],
   "sources": [
     "https://www.pendleton-usa.com/",
     "https://www.pendleton-usa.com/men/clothing/jackets-coats/",
     "https://www.pendleton-usa.com/help-center/customer-service/returns/returns.html",
-    "https://en.wikipedia.org/wiki/Pendleton_Woolen_Mills"
+    "https://en.wikipedia.org/wiki/Pendleton_Woolen_Mills",
+    "https://www.pendleton-usa.com/men/clothing/wool-shirts/?start=0&sz=200",
+    "https://www.pendleton-usa.com/men/clothing/cotton-linen-shirts/?start=0&sz=200",
+    "https://www.pendleton-usa.com/product/mens-board-shirt/50050_32689.html",
+    "https://www.pendleton-usa.com/product/mens-board-shirt/50050S_32786.html",
+    "https://www.pendleton-usa.com/help-center/customer-service/shipping-information/shipping-info.html"
   ],
   "notes": [
     "Homepage: 'Free Shipping On All Orders Over $150'; 'FROM OUR HANDS TO YOURS'; site title 'World-Class Wool Clothing, Blankets & Decor'; store locator at /stores/ (https://www.pendleton-usa.com/).",
     "Returns: 60 days from purchase or shipment, clean and unworn; mail-in label $9.25 deducted; free at Pendleton retail stores (https://www.pendleton-usa.com/help-center/customer-service/returns/returns.html).",
-    "Wikipedia: founded 1909 in Pendleton, Oregon; HQ Portland; weaving mill in Washougal, Washington since 1912; privately held, Bishop family; retail stores across the US (https://en.wikipedia.org/wiki/Pendleton_Woolen_Mills)."
+    "Wikipedia: founded 1909 in Pendleton, Oregon; HQ Portland; weaving mill in Washougal, Washington since 1912; privately held, Bishop family; retail stores across the US (https://en.wikipedia.org/wiki/Pendleton_Woolen_Mills).",
+    "Board Shirt: $198, 100% pure virgin wool, 'Rugged, midweight fabric' that is water, odor and stain resistant; wool from Umatilla County, Oregon; 'Fabric woven in our American mills'; 'Assembled in El Salvador of USA made fabric' (item 50050; item 50050S says 'Imported of USA fabric'); square bottom, two flap chest pockets; Regular XS–3X (4X, 5X in dropdown), Tall M–3X ('Tall fits men 6' and up'), Big 4X–5X; care: machine wash cold gentle, no bleach, line dry, steam press with warm iron (https://www.pendleton-usa.com/product/mens-board-shirt/50050_32689.html).",
+    "Shipping: free on orders of $150 or more, $9.95 under; 'No, we currently ship only within the United States and Puerto Rico' (https://www.pendleton-usa.com/help-center/customer-service/shipping-information/shipping-info.html).",
+    "known_for corrected from 'Wool Clothing and Blankets' to 'Wool Shirts' (Stylodex covers clothing, not blankets): its men's nav leads with Wool Shirts, page title 'Cozy Men's Wool Shirts' (https://www.pendleton-usa.com/men/clothing/wool-shirts/?start=0&sz=200)."
   ],
   "checked_at": "2026-10-29"
 }

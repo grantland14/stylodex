@@ -31,6 +31,19 @@
       "source_url": "https://www.taylorstitch.com/collections/mens-outerwear",
       "checked_at": "2026-10-29",
       "note": "products.json of Men's Outerwear: 42 products; 37 of product type Outerwear at regular price, none marked down (canvas Shop Shirts excluded). Low: Maritime Shirt Jacket in Moleskin Twill $188; Drover Jacket in Bourbon Suede $798; high: Moto Jacket in Steerhide $1,248."
+    },
+    {
+      "category": "shirts",
+      "currency": "USD",
+      "min": 118,
+      "max": 188,
+      "min_usd": 118,
+      "max_usd": 188,
+      "fx_date": null,
+      "item_count": 84,
+      "source_url": "https://www.taylorstitch.com/collections/mens-shirts",
+      "checked_at": "2026-10-29",
+      "note": "Men's woven shirts (button-ups, flannels, wool shirts, overshirts) at regular price; tees, knits, polos, sweats, shirt jackets and padded or quilted overshirts excluded. products.json, 90 products, 84 regular wovens, none marked down; knit tees and the Shore Jacket excluded. The Jack in Blue Everyday Oxford $118; The Shore Shirt in Midnight Check Wool $168; The Pacific Overshirt in hemp canvas $188."
     }
   ],
   "materials": [
@@ -42,19 +55,22 @@
   "production_model": null,
   "sale_pattern": "Last Call items are final sale",
   "sells_categories": [
-    "coats-jackets"
+    "coats-jackets",
+    "shirts"
   ],
   "sources": [
     "https://www.taylorstitch.com/collections/mens-outerwear",
     "https://www.taylorstitch.com/policies/refund-policy",
     "https://www.taylorstitch.com/policies/shipping-policy",
-    "https://www.taylorstitch.com/pages/about"
+    "https://www.taylorstitch.com/pages/about",
+    "https://www.taylorstitch.com/collections/mens-shirts"
   ],
   "notes": [
     "Refund policy: returns within 21 days of receipt, unworn and unwashed; free return shipping in the continental US; 'Last Call items cannot be accepted for a return'; banner 'Free Shipping & Returns On Every Domestic Order' (https://www.taylorstitch.com/policies/refund-policy).",
     "Shipping policy: domestic in-stock orders ship free by ground; 'There is no free shipping available for international orders'; countries not listed (https://www.taylorstitch.com/policies/shipping-policy). free_shipping_min_usd 0 = free on every US order.",
     "About: 'Constructed to perfection and responsibly built for the long haul'; stores at 383 Valencia St and 2030 Chestnut St, San Francisco, and 315 E Pine St, Seattle; factories 'around the world' (https://www.taylorstitch.com/pages/about).",
-    "Outerwear sizes XS-36 to XXL-46; 'Made in USA' in 4 of 42 listings (https://www.taylorstitch.com/collections/mens-outerwear/products.json)."
+    "Outerwear sizes XS-36 to XXL-46; 'Made in USA' in 4 of 42 listings (https://www.taylorstitch.com/collections/mens-outerwear/products.json).",
+    "The Shore Shirt in Midnight Check Wool $168: 8-oz, 60% organic cotton / 40% wool, camp collar, two flap patch pockets, made in China; sizes XS (36) to XXL (46); Shore Shirts in Portuguese flannel $188 (https://www.taylorstitch.com/collections/mens-shirts)."
   ],
   "checked_at": "2026-10-29"
 }

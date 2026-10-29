@@ -46,6 +46,19 @@
       "source_url": "https://afflictionclothing.com/collections/mens-graphic-tees/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "Mens Graphic Tees collection (the store's own 'Graphic Tees' nav line): 383 regular-price short-sleeve tees of 488 served (80 excluded as sale: compare-at or sale tags such as '4th of July Sale', 'BF Vault Sale'; 28 long-sleeve/2fer/tank/polo items excluded). Women's Short Sleeves (/collections/womens-short-sleeve): $36–$64 over 126 regular-price items. Regular price = no variant with compare_at_price above price and no sale/markdown/clearance tag; long-sleeve, tank, polo, hoodie, bundle and mystery items excluded so the range is short-sleeve tees."
+    },
+    {
+      "category": "leather-jackets",
+      "currency": "USD",
+      "min": 495,
+      "max": 700,
+      "min_usd": 495,
+      "max_usd": 700,
+      "fx_date": null,
+      "item_count": 18,
+      "source_url": "https://www.afflictionclothing.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Store feed, all products paged; titles naming a leather jacket, faux excluded; 18 available listings, none marked down. Top Legend Leather Jacket $495; 16 styles at $595 (Dakota, Fast And Loud, Rebellion Moto, Skeleton, Willow and others); Quilted Cross Leather Jacket in waxed buffalo leather $700."
     }
   ],
   "materials": [],
@@ -68,7 +81,8 @@
     "https://afflictionclothing.com/pages/about",
     "https://afflictionclothing.com/pages.json?limit=250",
     "https://afflictionclothing.com/pages/return-policy",
-    "https://afflictionclothing.com/pages/size-chart"
+    "https://afflictionclothing.com/pages/size-chart",
+    "https://www.afflictionclothing.com/products.json?limit=250"
   ],
   "notes": [
     "affliction.com is a parked Digimedia domain, not the brand: any stored affliction.com URL is a wrong record. The official store is afflictionclothing.com (Wikipedia infobox and External links).",
@@ -83,7 +97,11 @@
     "Returns re-read 2026-10-29 at /pages/return-policy: 'You may return most items within 30 days of your original purchase'; $7.00 restocking fee on refunds.",
     "Currency USD: prices served in USD by products.json; cart.js (USD) was read on the jeans run; this run's cart.js and homepage HTML requests returned no body / 403 to curl, so not re-read (no workaround).",
     "size_range detail: Women's jeans W24–W34; men's W27–W44; men's graphic tees XS–4X (5X on 17 of 488), women's short-sleeve tees XS–XL (2X on 104 of 144)",
-    "production_model detail: Vertically integrated production facilities worldwide; 'The majority of their products are still made in the USA' (About)"
+    "production_model detail: Vertically integrated production facilities worldwide; 'The majority of their products are still made in the USA' (About)",
+    "2026-10-29 (brands-like-allsaints, leather-jackets): leather jackets are mostly '100% Genuine Leather' with embroidery across the back or arms (Dakota, Willow); the Quilted Cross is '100% Buffalo Leather w/ Wax Finish'. Sizes on them run XS to 4X (Dakota and Fast And Loud S–4X) (https://www.afflictionclothing.com/products.json?limit=250)."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "leather-jackets"
+  ]
 }

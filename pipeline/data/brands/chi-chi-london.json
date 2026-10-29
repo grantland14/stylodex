@@ -1,0 +1,58 @@
+{
+  "slug": "chi-chi-london",
+  "name": "Chi Chi London",
+  "website_url": "https://www.chichiclothing.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Dresses Designed in London",
+  "hq_country": "GB",
+  "founded_year": 1982,
+  "parent_company": null,
+  "size_range": "UK 4–26",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "GB"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "GBP",
+      "min": 40.0,
+      "max": 120.0,
+      "item_count": 72,
+      "source_url": "https://www.chichiclothing.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Dresses feed 433 products: 72 regular-price in stock with 'dress' in the title, 351 marked down. Low All-Over Knitted Cable High Neck Mini Dress in Cream £40; high Peplum Embroidered Lace Bodycon Dress in Blue £120; median £95. The store has no US price list: the cart stays in GBP under US localization, so US shoppers pay these GBP prices. USD at ECB 2026-10-28 (USD 1.1133, GBP 0.83785 per EUR).",
+      "min_usd": 53.15,
+      "max_usd": 159.45,
+      "fx_date": "2026-10-28"
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.chichiclothing.com/",
+    "https://www.chichiclothing.com/collections/dresses/products.json?limit=250",
+    "https://www.chichiclothing.com/cart.js",
+    "https://www.chichiclothing.com/pages/delivery-returns",
+    "https://www.chichiclothing.com/pages/return-policy",
+    "https://www.chichiclothing.com/pages/about-us",
+    "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
+  ],
+  "notes": [
+    "Homepage title: 'Chi Chi London | Fashion Dresses & Women's Clothing'; meta: 'Worldwide luxury brand designed in London'. About: 'Chi Chi started back in 1982 as a creative family run design house based in North London'; 'sizes 4-26'; has a Plus Size section.",
+    "Delivery page lists 'USA - £14.99'. Returns: 14 days from delivery; £3.99 deducted for unwanted returns."
+  ],
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "dresses"
+  ]
+}

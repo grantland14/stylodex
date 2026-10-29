@@ -34,22 +34,55 @@
       "source_url": "https://www.allsaints.com/us/men/pants?srule=price-low-to-high&sz=38",
       "checked_at": "2026-10-29",
       "note": "Men's pants, all 38 listings read, 28 at regular price (10 show was/now markdowns, excluded): Raven Cuffed Cotton Ramskull Sweatpants $149 to Vini Slim Bootcut Leather Pants $569; Ware Straight-Fit Double-Pleat Pants $229, York Straight-Fit Twill Pants $249. Men's only."
+    },
+    {
+      "category": "leather-jackets",
+      "currency": "USD",
+      "min": 499,
+      "max": 1799,
+      "min_usd": 499,
+      "max_usd": 1799,
+      "fx_date": null,
+      "item_count": 49,
+      "source_url": "https://www.allsaints.com/us/men/leathers/leather-jackets?sz=200",
+      "checked_at": "2026-10-29",
+      "note": "US store, men's (38 listings) and women's (48) Leather Jackets pages read in full with sz=200. Regular price = tile analytics is_on_sale No and price equal to original_price; 30 marked-down listings excluded, plus coats (Tilson Leather Peacoat, Seyka Shearling Coat, Orville Oversized Leather Coat, Oaker Suede Coat, Tosca Shearling Coat) and the wool-blend Deceit Bomber. 49 regular listings (colourways counted separately): Sadler Slim-Fit Leather Jacket $499 (women) to Xylon Shearling Biker Jacket $1,799 (men). Women's page: https://www.allsaints.com/us/women/leather/leather-jackets?sz=200"
     }
   ],
   "sources": [
     "https://www.allsaints.com/us",
     "https://www.allsaints.com/us/women/dresses",
     "https://www.allsaints.com/us/women/dresses?srule=price-low-to-high&sz=136",
-    "https://www.allsaints.com/us/men/pants?srule=price-low-to-high&sz=38"
+    "https://www.allsaints.com/us/men/pants?srule=price-low-to-high&sz=38",
+    "https://www.allsaints.com/us/men/leathers/leather-jackets?sz=200",
+    "https://www.allsaints.com/us/women/leather/leather-jackets?sz=200",
+    "https://www.allsaints.com/us/help/contact-us/terms-and-conditions/terms-and-conditions.html",
+    "https://www.allsaints.com/us/sizeguide.html",
+    "https://www.allsaints.com/us/stores/",
+    "https://en.wikipedia.org/wiki/AllSaints"
   ],
   "notes": [
     "US homepage title 'ALLSAINTS US Official Site: Menswear, Womenswear & Accessories'; tagline 'The AllSaints wardrobe rebuilt'; Fall 2026 homepage promotes leather jackets, denim, coats and knitwear, with a free standard shipping banner (https://www.allsaints.com/us).",
     "ships_to US rests on the US storefront (USD prices, /us store, shopping bag). The help-centre delivery and returns pages render no text to WebFetch, so free_shipping_min_usd and returns_days are empty (search snippets say 28-day returns and free standard shipping over $100; not stored, not read from the store).",
     "Other dresses read: Beril Silk-Blend Maxi Dress $429, Noora Silk-Viscose Mini Dress $299, Fawn Viscose Midi Slip Dress $279, Bryony Polka-dot Viscose Midi Dress $199 (https://www.allsaints.com/us/women/dresses).",
-    "Men's pants (https://www.allsaints.com/us/men/pants?srule=price-low-to-high&sz=38): sweatpants from $149, chinos $179–$199, tailored and twill pants $229–$249, Vini Slim Bootcut Leather Pants $569."
+    "Men's pants (https://www.allsaints.com/us/men/pants?srule=price-low-to-high&sz=38): sweatpants from $149, chinos $179–$199, tailored and twill pants $229–$249, Vini Slim Bootcut Leather Pants $569.",
+    "Leather jackets, US store (https://www.allsaints.com/us/men/leathers/leather-jackets?sz=200, https://www.allsaints.com/us/women/leather/leather-jackets?sz=200): men's regular from Vegason Oversized Leather Jacket $629, Miller Leather Jacket (lamb) $649, Neo Leather Biker Jacket (cow) $829 to Xylon Shearling Biker Jacket $1,799; women's from Sadler Slim-Fit Leather Jacket $499, Dalby Slim-Fit Leather Biker Jacket $569, Errie Leather Biker Jacket $569, Ryder Leather Jacket $649 to Lorel Shearling Flying Jacket $1,679. Country of origin in the tile data: 43 of the 49 regular listings India, the 6 shearlings Turkey. Mostly sheep, lamb, goat and cow leather or suede.",
+    "US terms and conditions, last updated August 2026 (https://www.allsaints.com/us/help/contact-us/terms-and-conditions/terms-and-conditions.html): seller is All Saints Retail Limited, registered in England and Wales, registered office London E1 6NN; Standard Shipping 5-7 business days 'Free', 3-Day Air $14.95, Next Business Day $24.95; returns within 28 days of receipt, 'free US returns service'; Final Sale items not returnable; no shipping to APO/FPO or PO boxes.",
+    "Size guide (https://www.allsaints.com/us/sizeguide.html): womenswear XS (2-4) to L, US 00 to 12 (bust 30-41 in); menswear XS to XXXL, chest 34-46 in.",
+    "Store locator (https://www.allsaints.com/us/stores/) lists US stores in 16 states, including California, New York, Illinois, Texas and Florida.",
+    "Wikipedia (https://en.wikipedia.org/wiki/AllSaints): founded 1994 by Stuart Trevor and Kait Bolongaro; HQ London; owned by Lion Capital (chairman Lyndon Lea, 'owner via his Lion Capital firm'); 281 stores in 27 countries and regions."
   ],
   "checked_at": "2026-10-29",
   "sells_categories": [
-    "pants"
-  ]
+    "pants",
+    "leather-jackets"
+  ],
+  "hq_country": "GB",
+  "founded_year": 1994,
+  "parent_company": "Lion Capital",
+  "size_range": "Women US 00–12; men XS–XXXL",
+  "has_plus": false,
+  "returns_days": 28,
+  "free_shipping_min_usd": 0,
+  "us_stores": true
 }

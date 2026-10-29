@@ -1,0 +1,43 @@
+{
+  "slug": "cult-gaia",
+  "name": "Cult Gaia",
+  "website_url": "https://cultgaia.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Heirloom Designer Clothing",
+  "size_range": "XXS–XXL",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "leather-jackets",
+      "currency": "USD",
+      "min": 1598,
+      "max": 2298,
+      "min_usd": 1598,
+      "max_usd": 2298,
+      "fx_date": null,
+      "item_count": 3,
+      "source_url": "https://cultgaia.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Store feed (USD, 'Shipping to United States'), all products paged; leather jackets, coats excluded; 3 listings, none marked down: Matthew Leather Jacket (unisex bomber) $1,598, Jarvis Leather Jacket (lamb, cropped) $1,998, Matthieu Leather Jacket $2,298."
+    }
+  ],
+  "sells_categories": [
+    "leather-jackets"
+  ],
+  "sources": [
+    "https://cultgaia.com/",
+    "https://cultgaia.com/products.json?limit=250",
+    "https://cultgaia.com/policies/refund-policy"
+  ],
+  "notes": [
+    "Refund policy: 'Clothing may be returned within 14 days of delivery'; accessories, bags and shoes within 7 days; free shipping 'On all orders over $150' (https://cultgaia.com/policies/refund-policy).",
+    "Homepage meta: 'Cult Gaia is a lifestyle brand that creates beautiful heirloom items'; 'Designer Clothing for Women and Men' (https://cultgaia.com/).",
+    "Jarvis Leather Jacket $1,998: lamb leather, funnel collar, boxy cropped fit; Matthew Leather Jacket $1,598: unisex leather bomber, sizes XS–XXL (https://cultgaia.com/products.json?limit=250)."
+  ],
+  "checked_at": "2026-10-29"
+}

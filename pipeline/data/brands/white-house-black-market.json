@@ -14,7 +14,8 @@
   ],
   "returns_days": 60,
   "sells_categories": [
-    "dresses"
+    "dresses",
+    "tops"
   ],
   "checked_at": "2026-10-29",
   "prices": [
@@ -30,6 +31,19 @@
       "source_url": "https://www.whitehouseblackmarket.com/store/category/dresses/cat210002",
       "checked_at": "2026-10-29",
       "note": "Category page data (one plain request): 100 colorway products, 81 titles; 6 jumpsuit titles excluded, 75 dress titles. Every price object had strikethrough null (none marked down). Low: Collared Wrap Dress and Metallic Slip Dress $140; high: Strapless Pleated Chiffon Gown $275–$295 by color. Faux Wrap Sheath Dress $150, Knit Crepe Belted Sheath Dress $170, Stretch Crepe Collared Sheath Dress $185, Belted Sheath Dress $190; median $180."
+    },
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 39.5,
+      "max": 130.0,
+      "min_usd": 39.5,
+      "max_usd": 130.0,
+      "fx_date": null,
+      "item_count": 220,
+      "source_url": "https://www.whitehouseblackmarket.com/store/category/tops/cat210001",
+      "checked_at": "2026-10-29",
+      "note": "Tops category ('Shop Women's Tops'), all 5 pages read with plain requests (StylodexBot UA): 384 items, 377 unique, 240 tops after exclusions; struck-price listings excluded; 220 regular. Low: WHBM FORME All Ways Stretch V-Neck Cami, Crewneck Short Sleeve Tee and Easy V-Neck Tee $39.50; high: Button Front Lace Shirt and Pleated Lace Collared Shirt $130. Matte Satin Soft Shirt $99. Like-for-like: women's tops (shirts, blouses, tees, tanks, knit tops, tunics); sweaters, cardigans, jackets, vests, kimonos, pullovers and outside labels excluded by product name."
     }
   ],
   "sources": [
@@ -39,13 +53,15 @@
     "https://www.whitehouseblackmarket.com/store/page/shipping-handling-info/19",
     "https://www.knitwellgroup.com/",
     "https://www.whitehouseblackmarket.com/locations/us/tx/the-woodlands/1201-lake-woodlands-dr",
-    "https://en.wikipedia.org/wiki/White_House_Black_Market"
+    "https://en.wikipedia.org/wiki/White_House_Black_Market",
+    "https://www.whitehouseblackmarket.com/store/category/tops/cat210001"
   ],
   "notes": [
     "2026-10-29 (ann-taylor page run): homepage title 'Shop Women's Clothing, Petite, Business Casual, Dresses, Tops & Pants'; meta 'polished black and white women's clothing with pops of color and patterns. Shop tailored dresses, tops, pants and accessories.' Dress size facet 00–18 and XXS–XL; sizeType regular and petite. Promo text: 'Free shipping and returns on petite styles'.",
     "Returns: accepted 'within 60 days of the date of purchase'; $7.00 deducted for mail returns. Shipping: Standard $8.95, 4–10 business days, all US addresses; international via a country drop-down (countries not listed). No free-shipping threshold stated. Footer entity Chico's Distribution Services, LLC; knitwellgroup.com lists White House Black Market. hq_country US from the US legal entity and US-only standard shipping.",
     "2026-10-29 (white-house-black-market page run): store locator (/locations/) renders its list by script, but its own store page https://www.whitehouseblackmarket.com/locations/us/tx/the-woodlands/1201-lake-woodlands-dr (title 'Women's Clothing Store at The Woodlands Mall, The Woodlands, TX', ClothingStore schema with a US address) lists nearby boutiques in Kingwood and Houston, TX; store features 'In-Store Pickup, Curbside Pickup, Petites, Outlet', so us_stores true. Store-page description: 'White and black are the foundation for it all... Effortless, refined looks that feel tailor-made.'",
-    "2026-10-29 (white-house-black-market page run): Wikipedia: 'American women's clothing retailer headquartered in Fort Myers, Florida', founded 1985 (first store The White House in Baltimore carried only white clothing; the Black Market format followed in 1995, combined stores from 1997); subsidiary of Chico's FAS since 2003; infobox '451 boutiques, 67 outlet stores' (undated, not used)."
+    "2026-10-29 (white-house-black-market page run): Wikipedia: 'American women's clothing retailer headquartered in Fort Myers, Florida', founded 1985 (first store The White House in Baltimore carried only white clothing; the Black Market format followed in 1995, combined stores from 1997); subsidiary of Chico's FAS since 2003; infobox '451 boutiques, 67 outlet stores' (undated, not used).",
+    "2026-10-29 (chicos page run): tops price added; see the tops price note."
   ],
   "us_stores": true,
   "founded_year": 1985

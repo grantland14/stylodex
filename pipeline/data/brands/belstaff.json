@@ -31,6 +31,19 @@
       "source_url": "https://belstaff.com/en-us/collections/men-outerwear",
       "checked_at": "2026-10-29",
       "note": "US market (USD) products.json of Men's Outerwear: 154 products, gilets/vests excluded; 35 at regular price, 105 marked down. Low: Carrier Jacket $395; Racemaster Icon Jacket $550; Trialmaster Jacket $675; high: Winterbrook Jacket $2,495. www.belstaff.com without /en-us serves the UK store in GBP."
+    },
+    {
+      "category": "leather-jackets",
+      "currency": "USD",
+      "min": 1225,
+      "max": 2095,
+      "min_usd": 1225,
+      "max_usd": 2095,
+      "fx_date": null,
+      "item_count": 13,
+      "source_url": "https://belstaff.com/en-us/collections/men-leather-jackets/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US market (USD) products.json of Men's Leather Jackets (24 products: 9 regular, 7 marked down, 8 sold out) and Women's Leather Jackets (15: 4 regular, 11 marked down, https://belstaff.com/en-us/collections/women-leather-jackets/products.json?limit=250). 13 regular listings: women's Gangster Icon Jacket in nappa $1,225 to men's Trialmaster Panther Jacket $2,095; men's Gangster and Outlaw Icon Jackets $1,725, Trialmaster Motorcycle Jacket in hand-waxed cow leather $1,975."
     }
   ],
   "materials": [
@@ -40,7 +53,8 @@
   "production_model": null,
   "sale_pattern": null,
   "sells_categories": [
-    "coats-jackets"
+    "coats-jackets",
+    "leather-jackets"
   ],
   "sources": [
     "https://belstaff.com/en-us/collections/men-outerwear",
@@ -48,14 +62,17 @@
     "https://belstaff.com/en-us/products/trialmaster-jacket-oxblood",
     "https://belstaff.com/en-us/pages/delivery",
     "https://www.belstaff.com/products/carrier-jacket-black",
-    "https://en.wikipedia.org/wiki/Belstaff"
+    "https://en.wikipedia.org/wiki/Belstaff",
+    "https://belstaff.com/en-us/collections/men-leather-jackets/products.json?limit=250",
+    "https://belstaff.com/en-us/collections/women-leather-jackets/products.json?limit=250"
   ],
   "notes": [
     "Trialmaster Jacket (US): $675, '6 oz. waxed cotton', duties and tax included; '$10 delivery per order'; 'Complimentary returns within 30 days' (https://belstaff.com/en-us/products/trialmaster-jacket-oxblood).",
     "Waxed jackets (US): 42 products, 21 regular ($540–$795), 21 marked down (https://belstaff.com/en-us/collections/men-waxed-jackets/products.json).",
     "Carrier Jacket on www.belstaff.com is the UK store at £250, made in Vietnam; the US price is $395 (https://www.belstaff.com/products/carrier-jacket-black, https://belstaff.com/en-us/products/carrier-jacket-black.js).",
     "Wikipedia: founded 1924 in Longton, Stoke-on-Trent; HQ London; acquired by Castore in August 2025; pioneered wax cotton in motorcycle apparel (https://en.wikipedia.org/wiki/Belstaff).",
-    "sale_pattern from the outerwear feed: 105 of 154 listings marked down on the day read."
+    "sale_pattern from the outerwear feed: 105 of 154 listings marked down on the day read.",
+    "2026-10-29 (brands-like-allsaints, leather-jackets): Trialmaster Motorcycle Jacket 'Crafted from 100 per cent cow leather, an 18-hour hand-waxing process'; Trialmaster Panther 'crafted in Italy'; Gangster Icon introduced 1969, Outlaw 2015. Women's Trialmaster Panther Jacket $1,350. 18 of the 39 leather listings were marked down on the day read (https://belstaff.com/en-us/collections/men-leather-jackets/products.json?limit=250)."
   ],
   "checked_at": "2026-10-29"
 }

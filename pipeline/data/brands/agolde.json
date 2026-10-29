@@ -1,0 +1,42 @@
+{
+  "slug": "agolde",
+  "name": "AGOLDE",
+  "website_url": "https://agolde.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Premium Directional Denim",
+  "size_range": "XS–XL",
+  "ships_to": [
+    "US"
+  ],
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "leather-jackets",
+      "currency": "USD",
+      "min": 575,
+      "max": 995,
+      "min_usd": 575,
+      "max_usd": 995,
+      "fx_date": null,
+      "item_count": 6,
+      "source_url": "https://agolde.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Store feed (USD storefront), all products paged; leather and suede jackets, none marked down. 6 listings: Nahla Cropped Jacket in recycled leather $575 (three colours), Nahla Cropped Suede Jacket $750 (two colours), Blair Jacket in lamb suede $995."
+    }
+  ],
+  "sells_categories": [
+    "leather-jackets"
+  ],
+  "sources": [
+    "https://agolde.com/",
+    "https://agolde.com/products.json?limit=250",
+    "https://help.agolde.com/en-US/return-policy---us-and-international-(excluding-eu-and-uk)-7749623"
+  ],
+  "notes": [
+    "Homepage meta: 'AGOLDE is a premium denim label dedicated to setting the standard for advanced, directional denim... our Los Angeles based design collective' (https://agolde.com/).",
+    "US return policy: returns within 30 days of receipt; refunds to the original payment method carry a $10 fee; outgoing shipping not refunded (https://help.agolde.com/en-US/return-policy---us-and-international-(excluding-eu-and-uk)-7749623).",
+    "Nahla Cropped Jacket: 'buttery-soft recycled leather' with slight stretch; Blair Jacket: 'supple lamb suede', relaxed bomber, 'true to size' (https://agolde.com/products.json?limit=250)."
+  ],
+  "checked_at": "2026-10-29"
+}

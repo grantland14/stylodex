@@ -30,10 +30,24 @@
       "source_url": "https://www.acnestudios.com/us/en/man/sweatshirts/",
       "checked_at": "2026-10-29",
       "note": "US men's sweatshirts page (31 items, 28 rendered): 11 hoodies at regular price, none marked down: Fleece logo hoodie $730 in seven colours, Sprayed zip hoodie $860 in four. Read with the bot UA and WebFetch; the 3 unrendered items not seen. Fleece logo hoodie: 'organic cotton fleece and piece-dyed for a vintage, slightly worn effect', relaxed unisex fit, 89% cotton 11% polyester, sizes XXXS–XXL."
+    },
+    {
+      "category": "leather-jackets",
+      "currency": "USD",
+      "min": 3000,
+      "max": 4100,
+      "min_usd": 3000,
+      "max_usd": 4100,
+      "fx_date": null,
+      "item_count": 15,
+      "source_url": "https://www.acnestudios.com/us/en/man/outerwear/?sz=200",
+      "checked_at": "2026-10-29",
+      "note": "US store (USD), men's Outerwear (60 items) and women's Outerwear (59) read in full with sz=200 (https://www.acnestudios.com/us/en/woman/outerwear/?sz=200). Leather, suede and shearling jackets only; leather-collar and faux-leather bombers, the suede overshirt and leather coats excluded. No markdowns (tile discount null). 15 listings: Leather bomber jacket $3,000 (women) to Shearling jacket with hood and Shearling Bomber Jacket $4,100."
     }
   ],
   "sells_categories": [
-    "hoodies"
+    "hoodies",
+    "leather-jackets"
   ],
   "sources": [
     "https://www.acnestudios.com/us/en/man/sweatshirts/",
@@ -41,12 +55,23 @@
     "https://www.acnestudios.com/us/en/help/faq.html",
     "https://www.acnestudios.com/us/en/about/about.html",
     "https://www.acnestudios.com/us/en/companyfolder/company__terms-of-use.html",
-    "https://www.discobrands.co/blogs/12-brands-like-fear-of-god"
+    "https://www.discobrands.co/blogs/12-brands-like-fear-of-god",
+    "https://www.acnestudios.com/us/en/man/outerwear/?sz=200",
+    "https://www.acnestudios.com/us/en/woman/outerwear/?sz=200",
+    "https://www.acnestudios.com/us/en/leather-jacket-black/B70168-900.html?g=man",
+    "https://www.acnestudios.com/us/en/rw-wn-leat000036/A70224-AAQ.html?g=woman",
+    "https://www.acnestudios.com/us/en/help/faq",
+    "https://en.wikipedia.org/wiki/Acne_Studios"
   ],
   "notes": [
     "About: 'Acne Studios is a Stockholm-based fashion house'; collections 'with an emphasis on tailoring and an eclectic use of materials', covering ready-to-wear, footwear, accessories and denim (https://www.acnestudios.com/us/en/about/about.html).",
     "FAQ: ships Delivery Duty Paid to the EU, Switzerland, Norway, United States, Canada, South Korea, Japan, China, Singapore, Australia, Taiwan, Thailand and Hong Kong; 'Complimentary express shipping on all orders'; US orders normally ship domestically with tariffs, duties and taxes included. Returns or exchanges within 14 days of receipt. Perfume can be collected in its stores in countries including the United States (us_stores true) (https://www.acnestudios.com/us/en/help/faq.html).",
-    "Terms of use: 'Acne Studios offers a free return service' and pays return shipping for products sent from Sweden and the United States (https://www.acnestudios.com/us/en/companyfolder/company__terms-of-use.html). Site banner: 'Free shipping + Returns. Tariffs & duties included.'"
+    "Terms of use: 'Acne Studios offers a free return service' and pays return shipping for products sent from Sweden and the United States (https://www.acnestudios.com/us/en/companyfolder/company__terms-of-use.html). Site banner: 'Free shipping + Returns. Tariffs & duties included.'",
+    "Men's leather jackets: Leather jacket $3,050 (100% lamb leather, sizes 44-54), Leather biker jacket $3,200 and $3,300, Vintage leather jacket $3,300, Suede bomber jacket $3,400, Shearling jacket with hood $4,100. Women's: Leather bomber jacket $3,000, Leather blouson $3,050, Leather biker jacket $3,300 (100% calf leather, sizes 32-42, Runway line), Suede bomber jacket $3,400, Shearling biker jacket $3,500, Shearling Bomber Jacket $4,100 (https://www.acnestudios.com/us/en/man/outerwear/?sz=200, https://www.acnestudios.com/us/en/woman/outerwear/?sz=200).",
+    "US site banner 'Free shipping + Returns. Tariffs & duties included.'; FAQ: 'Complimentary express shipping on all orders'; withdraw or exchange within 14 days of receiving the product; sale items final; clothes 'based on European/German sizing' (https://www.acnestudios.com/us/en/help/faq).",
+    "Wikipedia: luxury fashion house based in Stockholm, Sweden, founded 1996; men's and women's ready-to-wear, footwear, accessories and denim (https://en.wikipedia.org/wiki/Acne_Studios)."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "slug": "acne-studios",
+  "founded_year": 1996
 }

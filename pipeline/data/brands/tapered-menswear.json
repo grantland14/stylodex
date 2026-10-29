@@ -1,0 +1,49 @@
+{
+  "slug": "tapered-menswear",
+  "name": "Tapered Menswear",
+  "website_url": "https://taperedmenswear.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "V-Tapered Fitted Shirts",
+  "hq_country": "GB",
+  "size_range": "S–XXXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 45,
+  "verified_at": "2026-10-29",
+  "sells_categories": [
+    "tees"
+  ],
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 40,
+      "max": 44,
+      "min_usd": 40,
+      "max_usd": 44,
+      "fx_date": null,
+      "item_count": 11,
+      "source_url": "https://taperedmenswear.com/collections/tapered-fit-t-shirts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Read at US prices: the store's base currency is GBP, so each item was re-read from /products/{handle}.js with its own US setting (localization=US, cart in USD). Muscle Fit T-Shirts collection: 16 listings, gift card excluded, 4 sold out; 11 regular-price tees, none marked down. Tapered Fit T-Shirt and V Neck $40 (GBP 29 at home); high: Short Sleeve Tapered Fit Henley $44. Sizes S–XXXL."
+    }
+  ],
+  "notes": [
+    "Homepage title: 'Tapered Menswear | V-Tapered Fitted Clothing For Men'; description: 'the world's 1st V-Tapered cut shirt... a 10 inch drop from waist to chest' (https://taperedmenswear.com/).",
+    "FAQs: 'Our HQ and fulfilment operations are based in the UK but we ship worldwide'; USA delivery 4–7 days by Evri; 45 day returns policy (https://taperedmenswear.com/pages/faqs). Free shipping over GBP 125 (UK threshold); US threshold not stated.",
+    "Tapered's own blog post on BYLT alternatives promotes itself; not counted as evidence."
+  ],
+  "sources": [
+    "https://taperedmenswear.com/",
+    "https://taperedmenswear.com/collections/tapered-fit-t-shirts/products.json?limit=250",
+    "https://taperedmenswear.com/products/black-tapered-fit-t-shirt.js",
+    "https://taperedmenswear.com/pages/faqs",
+    "https://taperedmenswear.com/pages/shipping-and-delivery",
+    "https://taperedmenswear.com/pages/returns-and-exchanges"
+  ]
+}

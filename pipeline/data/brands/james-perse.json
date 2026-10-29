@@ -1,0 +1,50 @@
+{
+  "slug": "james-perse",
+  "name": "James Perse",
+  "website_url": "https://www.jamesperse.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Jersey T-Shirts",
+  "hq_country": "US",
+  "size_range": "Men sizes 0–5",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 30,
+  "us_stores": true,
+  "verified_at": "2026-10-29",
+  "sells_categories": [
+    "tees"
+  ],
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 80,
+      "max": 250,
+      "min_usd": 80,
+      "max_usd": 250,
+      "fx_date": null,
+      "item_count": 108,
+      "source_url": "https://www.jamesperse.com/collections/mens-short-sleeve-crew-neck-tee/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Men's Short Sleeve Crew Neck Tees products.json: 119 listings; gift sets excluded, none marked down; 108 regular-price tees. Low: Short Sleeve Crew Neck $80 (23 colors); Clear Jersey Crew $105; Slub Jersey Short Sleeve Crew $125; Cotton Slub Short Sleeve Tee $150; Brushed Lotus Crew $165; Heavy Luxe Jersey Crew $195; high: Cotton Cashmere Short Sleeve Tee $250. Sizes 0–5 (00 on a few)."
+    }
+  ],
+  "notes": [
+    "Homepage title: 'James Perse Los Angeles'; nav lists a Malibu Headquarters (https://www.jamesperse.com/). Collections include Men's Classic Jersey, Luxe Lotus Jersey and Heavy Luxe Jersey T-shirts (https://www.jamesperse.com/collections.json).",
+    "Boutiques: Malibu and Beverly Hills, CA, Greenwich, CT, two in London and one in Toronto (https://www.jamesperse.com/pages/boutiques).",
+    "Returns: 30 calendar days from delivery for online orders, full-price only, no return label covered (https://www.jamesperse.com/policies/refund-policy). 'Now shipping worldwide!' with US, Canada, UK and Australia in the country list (https://www.jamesperse.com/pages/international-orders)."
+  ],
+  "sources": [
+    "https://www.jamesperse.com/",
+    "https://www.jamesperse.com/collections/mens-short-sleeve-crew-neck-tee/products.json?limit=250",
+    "https://www.jamesperse.com/pages/boutiques",
+    "https://www.jamesperse.com/policies/refund-policy",
+    "https://www.jamesperse.com/pages/international-orders",
+    "https://www.jamesperse.com/pages/faq"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "hell-bunny",
+  "name": "Hell Bunny",
+  "website_url": "https://www.hellbunny.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "50s and Alternative Clothing",
+  "hq_country": "GB",
+  "founded_year": 2003,
+  "parent_company": null,
+  "size_range": "XXS–6XL",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "GB"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 64.0,
+      "max": 144.0,
+      "item_count": 164,
+      "source_url": "https://www.hellbunny.com/collections/default-category-dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US storefront prices (Shopify localization US, cart currency USD; base store is GBP, e.g. Vixey Dress $64 US vs £39.99 UK, Siara Dress $144 vs £89.99). Dresses feed 300 products: 164 regular-price in stock, 136 marked down. Low Vixey Dress $64; high Siara Dress $144; median $104.",
+      "min_usd": 64.0,
+      "max_usd": 144.0,
+      "fx_date": null
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.hellbunny.com/",
+    "https://www.hellbunny.com/collections/default-category-dresses/products.json?limit=250",
+    "https://www.hellbunny.com/cart.js",
+    "https://www.hellbunny.com/pages/faqs-delivery",
+    "https://www.hellbunny.com/pages/faqs-returns",
+    "https://www.hellbunny.com/pages/about-us"
+  ],
+  "notes": [
+    "About: 'Established in London in 2003, Hell Bunny is a family owned business that celebrates the most iconic fashion eras of the past'; new styles 'available in sizes XS up to 6XL'. Feed variants run XXS to 6XL. Homepage title: 'Vintage, 50s and Alternative Clothing & Accessories'.",
+    "Delivery FAQ: free UK shipping over £80; 'For all other international orders, delivery charges will be calculated at checkout', DHL, 10-14 working days. No USA-specific section; US availability rests on the store's US market (USD prices and USD cart under US localization) plus the international delivery terms. No US free-shipping threshold or duties statement.",
+    "Returns: 'Items must be returned to us within 30 days of the delivery date'; no free returns or exchanges."
+  ],
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "dresses"
+  ]
+}

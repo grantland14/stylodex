@@ -32,6 +32,19 @@
       "source_url": "https://www.landsend.com/shop/mens-outerwear/S-xfi-xez-y5b-xec",
       "checked_at": "2026-10-29",
       "note": "Men's Outerwear, both listing pages (118 products, page=2&pageQuantity=96), read from the page's embedded product data. Vests, pullovers, hoodies, pants/bibs, a flannel shirt and a blazer excluded: 83 jackets/coats, 55 at regular price (minProductPrice equal to minOriginalPrice), 28 marked down. Most listings also show a lower promotional (code) price, ignored. Low: ThermaCheck 100 Fleece Jacket $49.95 and Rain Jacket $49.95; Classic Squall Jacket $89.95; Canvas Barn Jacket $129.95; Wool Car Coat $299.95; Expedition Waterproof Down Parka $359.95; high: Willis & Geiger Leather Bomber Jacket $699.95 (its own Willis & Geiger line; the next highest is $359.95)."
+    },
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 14.95,
+      "max": 84.95,
+      "min_usd": 14.95,
+      "max_usd": 84.95,
+      "fx_date": null,
+      "item_count": 178,
+      "source_url": "https://www.landsend.com/shop/womens-tops/S-xfe-xez-y5c-xec",
+      "checked_at": "2026-10-29",
+      "note": "Women's Tops listing (859 results), all 9 pages (pageQuantity=96) read from the page's embedded product data with plain requests (StylodexBot UA). Kept products whose name starts with womens (men's, unisex and unprefixed items excluded) and that are tops by name: 545; regular = minProductPrice equal to minOriginalPrice (and max equal); 178 regular. Promotional code prices ignored. Low: Women's Short Sleeve Feminine Fit Essential T-Shirt $14.95; high: Women's Boxy Cropped Poplin Tuxedo Shirt $84.95. Women's Supima Cotton Crew Neck Tank $34.95, Women's Long Sleeve No Iron Pinpoint Shirt $64.95 (titles from the product pages). Like-for-like: women's tops (shirts, blouses, tees, tanks, knit tops, tunics); sweaters, cardigans, jackets, vests, kimonos, pullovers and outside labels excluded by product name."
     }
   ],
   "materials": [],
@@ -39,7 +52,8 @@
   "production_model": null,
   "sale_pattern": null,
   "sells_categories": [
-    "coats-jackets"
+    "coats-jackets",
+    "tops"
   ],
   "sources": [
     "https://www.landsend.com/",
@@ -50,7 +64,10 @@
     "https://www.landsend.com/us-returns/",
     "https://www.landsend.com/about-us",
     "https://en.wikipedia.org/wiki/Lands%27_End",
-    "https://www.sec.gov/Archives/edgar/data/799288/000119312526126210/le-20260130.htm"
+    "https://www.sec.gov/Archives/edgar/data/799288/000119312526126210/le-20260130.htm",
+    "https://www.landsend.com/shop/womens-tops/S-xfe-xez-y5c-xec",
+    "https://www.landsend.com/products/womens-long-sleeve-no-iron-pinpoint-shirt/id_195955",
+    "https://www.landsend.com/products/womens-supima-cotton-crew-neck-tank/id_400513"
   ],
   "notes": [
     "Homepage title 'Lands' End: Quality Clothing, Swimwear, Outerwear and Footwear'; banners 'Enjoy 50% off your first order', 'up to 70% off sale & clearance'; nav has Women's Petite, Women's Plus, Men's Big & Tall (https://www.landsend.com/).",
@@ -63,7 +80,8 @@
     "Wikipedia: began as a mail-order yachting supply company in 1963 in Chicago (Gary Comer and partners); HQ Dodgeville, Wisconsin; Nasdaq LE; Sears bought it in 2002 and spun it off in April 2014; 26 domestic stores as of February 2024; 2020 partnership with Kohl's to sell its products in Kohl's stores (https://en.wikipedia.org/wiki/Lands%27_End).",
     "Store locator (/co/StoreLocator) redirects/renders no store list to the bot UA or WebFetch; us_stores comes from the 10-K.",
     "ships_to: US and CA from the free-shipping terms; the store also takes orders to other countries (returns page, 10-K), but no named list was readable, so GB and AU left out.",
-    "Named regular-price men's jackets (minProductPrice = minOriginalPrice, men's outerwear listing data): ThermaCheck 100 Fleece Jacket $49.95 (/products/mens-thermacheck-100-fleece-jacket/id_343809); Classic Squall Jacket $89.95 (id_381023); Canvas Barn Jacket $129.95 (id_396008); Wanderweight Packable Down Jacket $199.95 (id_386751); Squall Waterproof Barn Jacket $199.95 (id_406308); Wool Car Coat $299.95 (id_406954); Expedition Waterproof Down Parka $359.95 (id_368990). 44 of the 55 regular-price jackets are under $200; median $129.95 (https://www.landsend.com/shop/mens-outerwear/S-xfi-xez-y5b-xec)."
+    "Named regular-price men's jackets (minProductPrice = minOriginalPrice, men's outerwear listing data): ThermaCheck 100 Fleece Jacket $49.95 (/products/mens-thermacheck-100-fleece-jacket/id_343809); Classic Squall Jacket $89.95 (id_381023); Canvas Barn Jacket $129.95 (id_396008); Wanderweight Packable Down Jacket $199.95 (id_386751); Squall Waterproof Barn Jacket $199.95 (id_406308); Wool Car Coat $299.95 (id_406954); Expedition Waterproof Down Parka $359.95 (id_368990). 44 of the 55 regular-price jackets are under $200; median $129.95 (https://www.landsend.com/shop/mens-outerwear/S-xfi-xez-y5b-xec).",
+    "2026-10-29 (chicos page run): tops price added; see the tops price note."
   ],
   "checked_at": "2026-10-29"
 }

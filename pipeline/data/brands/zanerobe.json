@@ -1,0 +1,49 @@
+{
+  "slug": "zanerobe",
+  "name": "Zanerobe",
+  "website_url": "https://zanerobe.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Australian Menswear",
+  "hq_country": "AU",
+  "size_range": "XS–XXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 250,
+  "returns_days": 14,
+  "verified_at": "2026-10-29",
+  "sells_categories": [
+    "tees"
+  ],
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 63,
+      "max": 105,
+      "min_usd": 63,
+      "max_usd": 105,
+      "fx_date": null,
+      "item_count": 30,
+      "source_url": "https://zanerobe.com/collections/tees/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Read at US prices: each item in the Tees & Tanks collection (104 listings) re-read from /products/{handle}.js with the store's own US setting (localization=US, cart in USD). Polos, tanks, long sleeves, rugby shirts and the women's Baby Tees excluded; items with a US compare-at price above price excluded as marked down, sold-out items excluded; 30 regular-price tees (the collection does not tag gender; Crop styles may be unisex). Low: Box Tee, Flintlock Tee, Tall Tee ($63); Flow Tee and Cropped Slub Flow Tee $74; ZR Est. Flow Tee $84; high: Script Waffle Flow Tee $105. Home-market prices are lower (Box Tee AUD 59.95)."
+    }
+  ],
+  "notes": [
+    "Title: 'ZANEROBE | Australian Menswear & Contemporary Streetwear'; about: 'an Australian men's apparel brand' (https://zanerobe.com/pages/about-us).",
+    "Help & FAQ shipping table: USA US$20 or free on orders over $250, duties paid; Canada, UK and Europe also listed (https://zanerobe.com/pages/help-and-faq). Returns within 14 days of purchase, $10 processing fee for US, Canada and Australia returns (https://zanerobe.com/policies/refund-policy)."
+  ],
+  "sources": [
+    "https://zanerobe.com/",
+    "https://zanerobe.com/collections/tees/products.json?limit=250",
+    "https://zanerobe.com/products/box-tee-black.js",
+    "https://zanerobe.com/pages/about-us",
+    "https://zanerobe.com/pages/help-and-faq",
+    "https://zanerobe.com/policies/refund-policy"
+  ]
+}

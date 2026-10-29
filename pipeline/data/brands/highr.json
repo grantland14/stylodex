@@ -1,0 +1,47 @@
+{
+  "slug": "highr",
+  "name": "HIGHR",
+  "website_url": "https://highr.co",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Heavyweight Tees",
+  "hq_country": "US",
+  "size_range": "S–3XL",
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 90,
+  "verified_at": "2026-10-29",
+  "sells_categories": [
+    "tees"
+  ],
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 58,
+      "max": 64,
+      "min_usd": 58,
+      "max_usd": 64,
+      "fx_date": null,
+      "item_count": 5,
+      "source_url": "https://highr.co/collections/shirts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Shirts products.json: 9 products, each sold as Singles, 3 Pack or 6 Pack (single prices used). 2 long sleeves excluded; Heavy Tee and Short Heavy Tee excluded as marked down (compare_at above price). 5 regular-price short-sleeve tees: Acid Wash Tee and Heavy Pocket Tee $58; Heavy Acid Wash Tee $62; high: Heavier Vintage Oversized Tee and its Short version $64. Sizes S–3XL."
+    }
+  ],
+  "notes": [
+    "Title: 'HIGHR | Better Men's Basics, Finally Figured Out'; description: 'Shop Heavyweight tees, hoodies, and everyday layers' (https://highr.co/).",
+    "About: 'Being based in Los Angeles'; headquarters 1500 E 223rd St, Carson, CA (https://highr.co/pages/about-highr).",
+    "Shipping: US standard $9.99, free from $150; 'ships to select international destinations'; country selector lists Canada and United States (https://highr.co/policies/shipping-policy). Returns and exchanges within 90 days of delivery, $8 fee on US refunds (https://highr.co/pages/returns-and-exchanges)."
+  ],
+  "sources": [
+    "https://highr.co/",
+    "https://highr.co/collections/shirts/products.json?limit=250",
+    "https://highr.co/pages/about-highr",
+    "https://highr.co/policies/shipping-policy",
+    "https://highr.co/pages/returns-and-exchanges"
+  ]
+}

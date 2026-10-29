@@ -19,7 +19,8 @@
   "returns_days": 60,
   "us_stores": false,
   "sells_categories": [
-    "dresses"
+    "dresses",
+    "tops"
   ],
   "checked_at": "2026-10-29",
   "prices": [
@@ -35,6 +36,19 @@
       "source_url": "https://www.coldwatercreek.com/xmlsitemap.php?type=products&page=1",
       "checked_at": "2026-10-29",
       "note": "The dresses grid is script-rendered, so the range comes from the store's own product pages: the product sitemap's 88 URLs with 'dress' in the name, each fetched once (StylodexBot UA, 2 s apart). 2 swimdresses excluded. All 86 dresses in stock (og:availability instock, purchasable true). 47 marked down (product:price:amount below og:price:standard_amount), excluded. 39 regular: 33 Coldwater Creek label $119.95–$159.95 (All Angles Knit Dress $119.95, New Roads Shirtdress $129.95, Corduroy Shirtdress $129.95, Mixed Print Caftan Dress $139.95, Embroidered TENCEL Shirtdress $144.95, Stretch Velvet Pintuck Dress $149.95, Shadow Bloom Midi Dress $154.95, Scrolled Stretch Velvet Dress $159.95) plus 6 'by Komarov' dresses $298–$388 (an outside label it stocks)."
+    },
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 47.5,
+      "max": 134.95,
+      "min_usd": 47.5,
+      "max_usd": 134.95,
+      "fx_date": null,
+      "item_count": 117,
+      "source_url": "https://www.coldwatercreek.com/xmlsitemap.php?type=products&page=1",
+      "checked_at": "2026-10-29",
+      "note": "Tops grid is script-rendered, so the range comes from the store's own product pages: the product sitemap's 1,037 URLs filtered to tops names (top, tee, shirt, blouse, tunic, tank, cami; sweaters, jackets, dresses, swim, vests, pants excluded): 280 URLs, each fetched once (StylodexBot UA, 1.5 s apart). Outside labels ('by Brand') and non-tops excluded; 1 out of stock; 155 marked down (product:price:amount below og:price:standard_amount), excluded. 117 regular, 34 of them tunics. Low: #BestCotton Whispering Pines Tee $47.50; high: Burnout Velvet Floral Tunic, Dash Away Denim Shirt and Autumn Festival Embroidered Denim Shirt $134.95. River Song Ribbed Tunic $69.95. Like-for-like: women's tops (shirts, blouses, tees, tanks, knit tops, tunics); sweaters, cardigans, jackets, vests, kimonos, pullovers and outside labels excluded by product name."
     }
   ],
   "sources": [
@@ -50,7 +64,9 @@
     "https://www.coldwatercreek.com/faqs",
     "https://www.coldwatercreek.com/privacy-policy",
     "https://www.coldwatercreek.com/terms-of-use",
-    "https://www.coldwatercreek.com/robots.txt"
+    "https://www.coldwatercreek.com/robots.txt",
+    "https://www.coldwatercreek.com/river-song-ribbed-tunic/24922/",
+    "https://www.coldwatercreek.com/burnout-velvet-floral-tunic/26047/"
   ],
   "notes": [
     "2026-10-29 (talbots page run): homepage title 'Coldwater Creek | Women's Clothing | Quality Tunics & Pants XS-3X'; meta 'comfortable tunics, pull-on pants, jeans, and versatile dresses... Misses, Petites & Women's Plus XS-3X'.",
@@ -60,6 +76,7 @@
     "Wikipedia: founded 1984 by Dennis and Ann Pence in Sandpoint, Idaho; Newtimes Group (Hong Kong) bought its inventory and IP in September 2020; closed its 13 stores in 2020 and is online-only, so us_stores false. Current HQ not stated, hq_country left empty. Soft Surroundings article: Coldwater Creek bought Soft Surroundings on December 7, 2023.",
     "2026-10-29 (coldwater-creek page run): privacy policy and terms name the operator 'Coldwater International LLC', 6426 NW 5th Way, Fort Lauderdale, FL 33309, with affiliate 'Soft Surroundings International, LLC dba Soft Surroundings', so hq_country US. Our Story: 'shaped by the beauty, artistry and independent spirit of Sandpoint, Idaho'; 'Mountain West heritage'; 'Quality fabrics, outstanding construction and livable designs'. FAQ offers catalogs ('Request a Catalog'). Size chart intro: 'Misses, Petites and Women's Plus... sizes 2–26W'.",
     "2026-10-29 (coldwater-creek page run): live store selling women's clothing today, so verified, not defunct (stores closed in 2020; online and catalog since). Ahrefs top pages (US): /clothing/dresses is the top product-type page (est. 3,741 visits/mo) ahead of /clothing/tunics (1,502) and /clothing/sweaters (860). Stocks some outside labels (Komarov dresses).",
-    "Coordinator: known_for set to Classic Womenswear (was Comfortable Tunics and Pull-On Pants), which reads oddly in a dresses page title."
+    "Coordinator: known_for set to Classic Womenswear (was Comfortable Tunics and Pull-On Pants), which reads oddly in a dresses page title.",
+    "2026-10-29 (chicos page run): tops price added; see the tops price note."
   ]
 }

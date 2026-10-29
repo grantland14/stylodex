@@ -21,7 +21,8 @@
   "us_stores": true,
   "sells_categories": [
     "dresses",
-    "jeans"
+    "jeans",
+    "tops"
   ],
   "checked_at": "2026-10-29",
   "sources": [
@@ -32,7 +33,8 @@
     "https://jobs.knitwellgroup.com/about-loft",
     "https://www.knitwellgroup.com/",
     "https://www.loft.com/clothing/jeans/catl000015/",
-    "https://www.loft.com/sitemap_0-product.xml"
+    "https://www.loft.com/sitemap_0-product.xml",
+    "https://www.loft.com/clothing/tops/catl000011/"
   ],
   "notes": [
     "2026-10-29 (ann-taylor page run): dresses category (96 tiles read) carries the banner 'All dresses $44!' and every tile shows a struck regular price (e.g. $110) next to $44, so no regular-price dress was readable: no dresses price stored; sells_categories from the store's own dresses page. Size facet on the dresses page 00–18 and XXS–XXL; nav 'More Sizes: Petite, Tall, Curvy'.",
@@ -43,7 +45,8 @@
     "2026-10-29 (loft page run): customer service 'Shipping and Processing Fees': orders of $99 or less ship at a flat $8.95; standard shipping free on orders of $99 after discounts. 'LOFT.COM can ship orders to all locations within the United States and Puerto Rico, as well as internationally' (via ESW); the international return-fee table lists Canada, Mexico, France, Germany, United Kingdom, Australia and others at $25–$35, so ships_to corrected to US, CA, GB, AU. International orders can't be returned to US or Canadian stores.",
     "2026-10-29 (loft page run): product sitemap (2,152 URLs) by category: tops 222 + petite tops 54, pants 217 + petite pants 59, dresses 169 + petite dresses 39 + tall dresses 3, jeans 100, sweaters 65. Knitwell careers page: 'A destination for optimistic and versatile style since its founding in 1998', 'just over 500 stores', 'mood-boosting prints, playful designs, and feel-good fits'. knitwellgroup.com names eight brands: Ann Taylor, Chico's, Haven Well Within, Lane Bryant, LOFT, Soma, Talbots and White House Black Market.",
     "2026-10-29 (loft page run): customer service return policy: online purchases may be returned by mail or at any LOFT store (except Swim, Brands We Love and Intimates by Haven Well Within); 'we cannot accept online purchase returns at Ann Taylor, LOFT Outlet or Ann Taylor Factory store locations'; 'MERCHANDISE PURCHASED AT A LOFT STORE may only be returned to a LOFT store'.",
-    "2026-10-29 (loft page run): known_for shortened from 'Everyday Fashion for Work and Play' so the page title has one 'for' (lint rule for anchors); both come from the Knitwell tagline 'Easy, stylish, everyday fashion for work and play'."
+    "2026-10-29 (loft page run): known_for shortened from 'Everyday Fashion for Work and Play' so the page title has one 'for' (lint rule for anchors); both come from the Knitwell tagline 'Easy, stylish, everyday fashion for work and play'.",
+    "2026-10-29 (chicos page run): Women's Tops page (title 'Women's Tops | LOFT', 1,927 items, sz=96 page 1 read with a plain request, StylodexBot UA): all 96 tiles show 'Price reduced from' a struck price, so no regular-price tops range stored; sells_categories tops from the store's own tops page."
   ],
   "free_shipping_min_usd": 99
 }

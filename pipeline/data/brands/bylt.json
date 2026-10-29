@@ -1,0 +1,53 @@
+{
+  "slug": "bylt",
+  "name": "BYLT",
+  "website_url": "https://byltbasics.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Drop-Cut Tees",
+  "hq_country": "US",
+  "size_range": "S–3XL",
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 99,
+  "returns_days": 30,
+  "us_stores": true,
+  "verified_at": "2026-10-29",
+  "sells_categories": [
+    "tees"
+  ],
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 35,
+      "max": 72,
+      "min_usd": 35,
+      "max_usd": 72,
+      "fx_date": null,
+      "item_count": 25,
+      "source_url": "https://byltbasics.com/collections/short-sleeve-shirts",
+      "checked_at": "2026-10-29",
+      "note": "Short Sleeves collection, both pages (35 cards, server-rendered HTML, StylodexBot UA): 10 marked down (a struck-through price shown) and 1 polo, 1 undershirt excluded; 25 regular-price men's short-sleeve tees and henleys. Low: Drop-Cut: BYLT Signature, Split Hem: BYLT Signature, Drop-Cut V-Neck: BYLT Signature, Pulse Short Sleeve Drop-Cut ($35); Drop-Cut: LUX $40; Everyday Short Sleeve Drop-Cut $45; Slub Short Sleeve Drop-Cut $48; Framework Classic Fit Tee $55; high: Roamknit Relaxed Short Sleeve $72."
+    }
+  ],
+  "notes": [
+    "Homepage title: 'BYLT | Premium Modern Essentials for Men & Women' (https://byltbasics.com/). Short Sleeves collection copy: 'Featuring our signature Drop-Cut hem, athletic fit, and premium performance fabrics' (https://byltbasics.com/collections/short-sleeve-shirts); known_for from it.",
+    "Drop-Cut: BYLT Signature product page: $35, 67% Polyester, 28% Cotton, 5% Spandex, sizes S–3XL, slim fit, elongated hem, 30-inch length; no tall sizes listed (https://byltbasics.com/products/drop-cut-shirt).",
+    "Shipping policy: US standard $7, free on orders $99 and above; ships to Canada at a $15 flat rate, free from $200; UK and Australia not listed (https://byltbasics.com/pages/shipping-policies-new).",
+    "Returns: 30 days from purchase; BYLT's prepaid return service carries a flat $7 package fee, exchanges through it are free; final-sale and BOGO items excluded (https://byltbasics.com/pages/returns-exchanges-new).",
+    "Retail stores page lists 22 US locations in AZ, CA, CO, FL, IL, NV, NY, PA, TX, UT and VA, including an Irvine, CA HQ Showroom (https://byltbasics.com/pages/bylt-retail-stores). hq_country from the HQ Showroom listing.",
+    "Store is a headless Shopify front end: /products.json and /collections.json return 404, so prices were read from the rendered collection pages. Founding year not stated on its own pages; left empty."
+  ],
+  "sources": [
+    "https://byltbasics.com/",
+    "https://byltbasics.com/collections/short-sleeve-shirts",
+    "https://byltbasics.com/products/drop-cut-shirt",
+    "https://byltbasics.com/pages/shipping-policies-new",
+    "https://byltbasics.com/pages/returns-exchanges-new",
+    "https://byltbasics.com/pages/bylt-retail-stores",
+    "https://byltbasics.com/pages/frequently-asked-questions"
+  ]
+}

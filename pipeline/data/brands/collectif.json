@@ -1,0 +1,62 @@
+{
+  "slug": "collectif",
+  "name": "Collectif",
+  "website_url": "https://www.collectiflondon.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Retro Swing Dresses With Pockets",
+  "hq_country": "GB",
+  "founded_year": 2000,
+  "parent_company": null,
+  "size_range": "UK 6–26",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 28,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 90.0,
+      "max": 128.0,
+      "item_count": 118,
+      "source_url": "https://www.collectiflondon.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US storefront prices (Shopify localization US, cart currency USD; the same feed without it is GBP, e.g. Trixie Red Swing Dress $90 US vs £60 UK). Dresses feed 262 products: 118 regular-price in stock, 131 marked down, 12 sold out. Low Trixie Red Swing Dress $90; high Shana Black Cats Swing Dress $128; median $113. US orders under $800 ship DDP, so duties are included.",
+      "min_usd": 90.0,
+      "max_usd": 128.0,
+      "fx_date": null
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.collectiflondon.com/",
+    "https://www.collectiflondon.com/collections/dresses/products.json?limit=250",
+    "https://www.collectiflondon.com/cart.js",
+    "https://www.collectiflondon.com/pages/delivery",
+    "https://www.collectiflondon.com/pages/return-policy",
+    "https://www.collectiflondon.com/pages/our-story",
+    "https://www.collectiflondon.com/pages/stores"
+  ],
+  "notes": [
+    "collectif.co.uk redirects to collectiflondon.com. Our Story: 'turning heads since 2000, featuring pretty prints, plenty of pockets and swing skirts made to move'; 'sizes from a UK6 to UK26'; origins in a Camden Market stall; 'Established in 2000'.",
+    "Delivery page, USA: 'FREE standard shipping on orders over $100', standard $25.00 (6-9 working days), shipped from the UK warehouse; 'United States Orders under $800 are shipped DDP (Delivery and Duty Paid)'. Canada and Australia orders ship DDTP.",
+    "Returns: 'Please return unwanted items to us within 28 days'; US and Canada orders return to a US address, Australian to an Australian address; no exchanges.",
+    "I AM & CO calls Collectif a ModCloth collaborator with a Collectif x Modcloth line."
+  ],
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "dresses"
+  ]
+}

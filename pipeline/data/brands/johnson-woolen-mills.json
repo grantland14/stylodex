@@ -1,0 +1,60 @@
+{
+  "slug": "johnson-woolen-mills",
+  "name": "Johnson Woolen Mills",
+  "website_url": "https://www.johnsonwoolenmills.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Wool Clothing Made in the USA",
+  "hq_country": "US",
+  "founded_year": 1842,
+  "parent_company": null,
+  "size_range": "XS–4XL; Tall in some shirts",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": true,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 200,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "shirts",
+      "currency": "USD",
+      "min": 99.95,
+      "max": 259.95,
+      "min_usd": 99.95,
+      "max_usd": 259.95,
+      "fx_date": null,
+      "item_count": 10,
+      "source_url": "https://www.johnsonwoolenmills.com/collections/men-shirts",
+      "checked_at": "2026-10-29",
+      "note": "Men's woven shirts (button-ups, flannels, wool shirts, overshirts) at regular price; tees, knits, polos, sweats, shirt jackets and padded or quilted overshirts excluded. products.json, 33 products: 10 regular woven shirts, 17 marked down excluded, tees, hoodies and the Merino Wool Short Sleeve Shirt (a 170 gsm knit) excluded. Mens Flannel Button Shirt $99.95–$109.95; Wool Button Down Shirt $169.95–$179.95; Long Tail Wool Button Down Shirt $169.95–$199.95 (Tall $179.95–$219.95); Flannel Lined Wool Button Down Shirt $229.95–$259.95."
+    }
+  ],
+  "materials": [
+    "Wool"
+  ],
+  "certifications": [],
+  "production_model": "Made at its mill in Johnson, Vermont",
+  "sale_pattern": null,
+  "sells_categories": [
+    "shirts"
+  ],
+  "sources": [
+    "https://www.johnsonwoolenmills.com/",
+    "https://www.johnsonwoolenmills.com/pages/about-jwm",
+    "https://www.johnsonwoolenmills.com/policies/shipping-policy",
+    "https://www.johnsonwoolenmills.com/policies/refund-policy",
+    "https://www.johnsonwoolenmills.com/collections/men-shirts"
+  ],
+  "notes": [
+    "Homepage: og:title 'Wool Clothing Made In USA'; 'For over 180 years, Johnson Woolen Mills has produced top quality wool outerwear, including shirts, jackets, pants, and wool accessories proudly made in the USA' (https://www.johnsonwoolenmills.com/).",
+    "About: 'FAMILY OWNED SINCE 1842'; 51 Lower Main St E, Johnson, Vermont; 'hand-crafted in the USA'; cutting, sewing and finishing at the mill for its plaid lines (https://www.johnsonwoolenmills.com/pages/about-jwm).",
+    "Shipping: economy free at $200+, $9.99 under $100, $12.99 $100–$199.99; ships to Canada (economy $37); other countries not listed (https://www.johnsonwoolenmills.com/policies/shipping-policy). Returns: 30 days, unworn with tags, shipping not refunded (https://www.johnsonwoolenmills.com/policies/refund-policy).",
+    "Wool Button Down Shirt $169.95: 85% wool / 15% nylon, 18 oz plaid or 20 oz grey, shorter length meant untucked, sizes S–2XL; Long Tail Wool Button Down Shirt XS–4XL with a Tall version (https://www.johnsonwoolenmills.com/collections/men-shirts)."
+  ],
+  "checked_at": "2026-10-29"
+}

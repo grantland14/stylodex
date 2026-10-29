@@ -1,0 +1,26 @@
+{
+  "slug": "cuts",
+  "name": "Cuts",
+  "website_url": "https://www.cutsclothing.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Curve-Hem Tees",
+  "size_range": "S–XXL",
+  "ships_to": [
+    "US"
+  ],
+  "returns_days": 20,
+  "verified_at": "2026-10-29",
+  "notes": [
+    "Homepage title: 'Cuts Clothing | For the Sport of Business' (https://www.cutsclothing.com/). Nav 'Tees & Henleys' links to /collections/all-shirts.",
+    "2026-10-29: 'BLACK FRIDAY SALE / 30% OFF SITEWIDE' banner; every short-sleeve tee product page read shows a markdown (Crew Curve-Hem, AO Forever Tee, Tomboy Tee $54 shown as $38; Crossover Active Tee $48 to $38; Featherlight Pima Tee $58 to $38; Overtime Oversized Tee $60 to $42; Riviera Knit Textured Tee $88 to $58; Riviera Luxe Knit Crewneck Tee $98 to $78). No regular-price tee, so tees price stays empty. Re-check after the sale.",
+    "Crew Curve-Hem: PYCA Pro, 62% polyester, 33% cotton, 5% spandex; sizes S–XXL; Signature fit, fitted through chest and shoulders with a taper (https://www.cutsclothing.com/products/white-crew-curve-hem). Cart: free US express shipping on $150+.",
+    "Returns: eligible items within 20 days of delivery; international orders refundable within 30 days (https://www.cutsclothing.com/pages/returns). products.json and collection feeds return 404."
+  ],
+  "sources": [
+    "https://www.cutsclothing.com/",
+    "https://www.cutsclothing.com/collections/all-shirts",
+    "https://www.cutsclothing.com/products/white-crew-curve-hem",
+    "https://www.cutsclothing.com/pages/returns"
+  ]
+}

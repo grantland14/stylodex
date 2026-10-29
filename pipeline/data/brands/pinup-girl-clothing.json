@@ -1,0 +1,57 @@
+{
+  "slug": "pinup-girl-clothing",
+  "name": "Pinup Girl Clothing",
+  "website_url": "https://pinupgirlclothing.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Vintage Style Dresses XS to 5X",
+  "hq_country": "US",
+  "founded_year": 1999,
+  "parent_company": null,
+  "size_range": "XS–5X",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 200,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 45.14,
+      "max": 236.0,
+      "item_count": 188,
+      "source_url": "https://pinupgirlclothing.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Dresses feed 247 products: 188 regular-price in stock with 'dress' or 'gown' in the title, 57 marked down. Low Ruched Long-Sleeve Maxi Dress $45.14 (vendor Poundton); high Molly Vintage Gothic 70s Maxi Gown in Solid Black $236 (Pinup Couture); median $158, e.g. Jayne Wiggle Dress in Tomato Red Poly Crepe $158. Store currency USD.",
+      "min_usd": 45.14,
+      "max_usd": 236.0,
+      "fx_date": null
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": "Made to order",
+  "sale_pattern": null,
+  "sources": [
+    "https://pinupgirlclothing.com/",
+    "https://pinupgirlclothing.com/collections/dresses/products.json?limit=250",
+    "https://pinupgirlclothing.com/pages/shipping-info",
+    "https://pinupgirlclothing.com/pages/returns-and-exchanges-policies",
+    "https://pinupgirlclothing.com/pages/our-history"
+  ],
+  "notes": [
+    "Homepage title: 'Pinup Girl Clothing Vintage Couture - Vintage Style Dresses XS to 5X'. Our Story: 'founded in 1999 by Laura Byrnes, Head Creative/Designer, and is an LA-based, female-owned company'.",
+    "kind retailer: dresses feed vendors are Poundton 92, Pinup Couture 87, Retrolicious 13, Laura Byrnes Design 12, Pinup Girl Clothing 9, The Pretty Cult 6 (of 247). The cheapest dresses are Poundton; the house lines (Pinup Couture, Laura Byrnes) sit around $158.",
+    "Shipping: 'United States Enjoy free shipping on orders of $200+ (USD)'; 'International orders over $350 (USD) ship free'; 'As part of our made-to-order approach, each piece is crafted specifically for you once your order is placed.' ships_to stores only US (no country list).",
+    "Returns: 'Return must be initiated within 30 days of the order delivery date' through the Return Portal."
+  ],
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "dresses"
+  ]
+}

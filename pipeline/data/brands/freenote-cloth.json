@@ -27,6 +27,19 @@
       "source_url": "https://freenotecloth.com/collections/denim/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "denim collection products.json, 94 products (all type Denim): 5 canvas styles excluded as not denim (e.g. Modesto Buckleback 11 Ounce Natural Rinsed Canvas $350); 13 sold out excluded; none marked down; 76 regular-price jeans $285–$325. Low: Avila Slim Taper 14.50 Ounce Kaihara Denim, Belford Straight 14 Ounce Ecru Denim ($285); high: Belford Straight 11 Ounce Memphis Blue Rinsed, Wilkes Western 15 Ounce Rinsed Denim ($325)."
+    },
+    {
+      "category": "shirts",
+      "currency": "USD",
+      "min": 220,
+      "max": 360,
+      "min_usd": 220,
+      "max_usd": 360,
+      "fx_date": null,
+      "item_count": 83,
+      "source_url": "https://freenotecloth.com/collections/wovens",
+      "checked_at": "2026-10-29",
+      "note": "Men's woven shirts (button-ups, flannels, wool shirts, overshirts) at regular price; tees, knits, polos, sweats, shirt jackets and padded or quilted overshirts excluded. products.json, 83 woven shirts, all regular. Dayton Chambray $220; Sinclair Royal Blue Denim $320; Dayton LS Harlequin $340; Sinclair $360."
     }
   ],
   "production_model": "Sewn in the USA",
@@ -35,16 +48,19 @@
     "https://freenotecloth.com/collections.json?limit=250",
     "https://freenotecloth.com/collections/denim/products.json?limit=250",
     "https://freenotecloth.com/pages/shipping-returns",
-    "https://freenotecloth.com/policies/refund-policy"
+    "https://freenotecloth.com/policies/refund-policy",
+    "https://freenotecloth.com/collections/wovens"
   ],
   "notes": [
     "Store description and footer: 'a classic menswear collection manufactured exclusively in the United States'; store address San Juan Capistrano, California (meta.json). Product descriptions read 'Sewn in USA'.",
     "Returns: refund or store credit only if postmarked within 7 days of receipt; 8–30 days exchange or store credit only; customer pays return shipping (https://freenotecloth.com/pages/shipping-returns). returns_days stored as 7 (the refund window).",
     "Jeans waists (products.json): 29–36, 38. No free-shipping threshold found; left empty.",
-    "Fit families in the denim collection: Avila, Belford, Modesto, Portola, Rios, Trabuco, Wilkes (collections.json)."
+    "Fit families in the denim collection: Avila, Belford, Modesto, Portola, Rios, Trabuco, Wilkes (collections.json).",
+    "Dayton LS Harlequin $340: 7 oz yarn-dyed wool blend from Japan (70% wool), camp collar, sewn in USA; Sinclair Royal Blue Denim $320: 10 oz Japanese denim western shirt, sewn in USA; shirts in S–XXL (https://freenotecloth.com/collections/wovens)."
   ],
   "checked_at": "2026-10-29",
   "sells_categories": [
-    "jeans"
+    "jeans",
+    "shirts"
   ]
 }

@@ -1,0 +1,48 @@
+{
+  "slug": "rag-bone",
+  "name": "rag & bone",
+  "website_url": "https://www.rag-bone.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "New York Style and British Tailoring",
+  "hq_country": "US",
+  "founded_year": 2002,
+  "parent_company": "Guess and WHP Global",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "leather-jackets",
+      "currency": "USD",
+      "min": 998,
+      "max": 3598,
+      "min_usd": 998,
+      "max_usd": 3598,
+      "fx_date": null,
+      "item_count": 10,
+      "source_url": "https://www.rag-bone.com/mens/leather/?sz=200",
+      "checked_at": "2026-10-29",
+      "note": "US store (USD), men's Leather (https://www.rag-bone.com/mens/leather/?sz=200) and women's Leather (https://www.rag-bone.com/womens/leather/?sz=200) pages; jackets and blazers in leather or suede only (belts, shoes, pants, bags excluded). Tile analytics discount 0 on all. 10 listings: men's rb Suede Trucker Jacket and Harrington Suede Jacket $998, Ricky Suede Jacket $1,298, Manston Leather Flight Jacket $1,498; women's Mercer Leather Blazer $1,298, Marissa Scarf Leather Bomber and Mercer Suede Blazer $1,398, Penelope Leather Jacket $1,498, Terri Suede Shearling Jacket $3,598."
+    }
+  ],
+  "sells_categories": [
+    "leather-jackets"
+  ],
+  "sources": [
+    "https://www.rag-bone.com/",
+    "https://www.rag-bone.com/mens/leather/?sz=200",
+    "https://www.rag-bone.com/womens/leather/?sz=200",
+    "https://www.rag-bone.com/customer-care/shipping.html",
+    "https://www.rag-bone.com/customer-care/returns.html",
+    "https://en.wikipedia.org/wiki/Rag_%26_Bone"
+  ],
+  "notes": [
+    "Shipping: 'We offer free ground shipping on orders in the U.S. Exceptions may apply during certain sale periods for orders less than $250'; two-day $20, one-day $30 (https://www.rag-bone.com/customer-care/shipping.html). Returns: within 30 days of receipt, original condition with tags, refunded to the original payment method; no automatic exchanges (https://www.rag-bone.com/customer-care/returns.html).",
+    "Homepage meta: 'contemporary fashion rooted in New York style and British tailoring' (https://www.rag-bone.com/).",
+    "Wikipedia: founded 2002 by Nathan Bogle and Marcus Wainwright; Guess?, Inc. and WHP Global completed the acquisition in April 2024 (https://en.wikipedia.org/wiki/Rag_%26_Bone)."
+  ],
+  "checked_at": "2026-10-29"
+}

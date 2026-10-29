@@ -43,6 +43,19 @@
       "source_url": "https://www.jcrew.com/plp/womens/categories/clothing/dresses-and-jumpsuits",
       "checked_at": "2026-10-29",
       "note": "Page data (resultCount 42) read with one plain request (StylodexBot UA): 42 tiles; excluded 3 marked down (searchPrice below listPrice) and one third-party label (SLEEPER, $539). 38 regular-price J.Crew tiles (33 styles) at $148–$298. Lowest Gwyneth slip dress in cupro blend $148, highest Column slip dress in sequin tulle $298; Natasha slip dress $178, Parc dress in four-season stretch $198."
+    },
+    {
+      "category": "shirts",
+      "currency": "USD",
+      "min": 89.5,
+      "max": 168,
+      "min_usd": 89.5,
+      "max_usd": 168,
+      "fx_date": null,
+      "item_count": 12,
+      "source_url": "https://www.jcrew.com/plp/mens/categories/clothing/shirts",
+      "checked_at": "2026-10-29",
+      "note": "Men's woven shirts (button-ups, flannels, wool shirts, overshirts) at regular price; tees, knits, polos, sweats, shirt jackets and padded or quilted overshirts excluded. Truncated: the server page holds 16 of 104 shirts; 12 regular wovens (discountPercentages 0) read, 4 knits excluded. Poplin shirt with button-down collar $89.50; Brushed cotton flannel workshirt $128; 1983 oxford shirt $148; Heavyweight chamois workshirt in Japanese cotton $168."
     }
   ],
   "sources": [
@@ -51,7 +64,10 @@
     "https://www.jcrew.com/help/shipping-handling",
     "https://www.jcrew.com/help/returns-exchanges",
     "https://en.wikipedia.org/wiki/J.Crew",
-    "https://www.jcrew.com/plp/womens/categories/clothing/dresses-and-jumpsuits"
+    "https://www.jcrew.com/plp/womens/categories/clothing/dresses-and-jumpsuits",
+    "https://www.jcrew.com/plp/mens/categories/clothing/shirts",
+    "https://www.jcrew.com/plp/womens/categories/clothing/shirts-and-tops",
+    "https://www.jcrew.com/plp/womens/categories/clothing/tees-and-tanks"
   ],
   "notes": [
     "Homepage title: 'J.Crew: Clothes, Shoes & Accessories For Women, Men & Kids'.",
@@ -59,7 +75,13 @@
     "Returns: US online purchases within 30 days of original purchase; $7.50 deducted when using the prepaid label. International: 30 days, customer pays return shipping.",
     "Wikipedia: founded 1947 as Popular Merchandise, Inc., named J.Crew in 1983; HQ 225 Liberty Street, New York City; owned by Anchorage Capital Group and Leonard Green & Partners. founded_year stores 1983 (the J.Crew name).",
     "size_range detail: Women's jeans waist 23–37, Classic, Petite and Tall",
-    "parent_company detail: J.Crew Group (Anchorage Capital Group and Leonard Green & Partners)"
+    "parent_company detail: J.Crew Group (Anchorage Capital Group and Leonard Green & Partners)",
+    "Men's shirts listing: Heavyweight chamois workshirt in Japanese cotton $168 (best seller badge, 4.86 from 138 reviews); Brushed cotton flannel workshirt $128 (https://www.jcrew.com/plp/mens/categories/clothing/shirts).",
+    "2026-10-29 (chicos page run): the women's clothing nav lists Shirts & Tops and Tees & Tanks; both pages render products by script (no product data in a plain request or WebFetch, only subcategory tiles Button-up, Cropped, Statement, Sleeveless shirts), so no tops price; sells_categories tops from the store's own nav and tops page."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "shirts",
+    "tops"
+  ]
 }

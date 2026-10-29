@@ -1,0 +1,55 @@
+{
+  "slug": "mata-traders",
+  "name": "Mata Traders",
+  "website_url": "https://matatraders.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Ethical Fashion in Playful Prints",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–3X",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 200,
+  "returns_days": 14,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 134.0,
+      "max": 229.0,
+      "item_count": 25,
+      "source_url": "https://matatraders.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Dresses feed 25 products, all regular price and in stock (sale dresses sit in a separate sale-dresses collection). Low Ellie Mock Neck Swing Dress - Lounge Cats Navy $134; high Liliana V-Neck Long Sleeve Dress - Mocha Scribble Modal $229; median $164.",
+      "min_usd": 134.0,
+      "max_usd": 229.0,
+      "fx_date": null
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://matatraders.com/",
+    "https://matatraders.com/collections/dresses/products.json?limit=250",
+    "https://matatraders.com/pages/shipping",
+    "https://matatraders.com/pages/returns",
+    "https://matatraders.com/pages/faqs"
+  ],
+  "notes": [
+    "Homepage title: 'Mata Traders: Ethical Women's Fashion, Natural Fibers, Playful Prints'. Shipping page: 'our fair trade mission'; warehouse and Ravenswood headquarters at 5112 N Ravenswood Ave, Chicago; free local Chicago pickup; 'Spend $200 to receive free standard U.S. shipping!'.",
+    "Returns: full refund for items returned new and unworn within 14 days of receipt, except Final Sale; international customers can return at their own label cost (international orders exist, but no country list, so ships_to US only). Dress sizes XS–3X from the feed. StyleWise Blog calls it fair trade certified; the store's own pages say 'fair trade mission' only, so no certification stored."
+  ],
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "dresses"
+  ]
+}

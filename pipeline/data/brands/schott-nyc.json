@@ -31,6 +31,19 @@
       "source_url": "https://www.schottnyc.com/collections/mens-outerwear",
       "checked_at": "2026-10-29",
       "note": "products.json of Men's Outerwear (35 products, 28 regular, 0 marked down) and Men's Leather Jackets (93 products, 89 regular, 0 marked down). Low: 7515 Wool-Blend Chore Jacket $145; 8438 Waxed Cotton Country Jacket $275; A2SM A-2 Leather Flight Jacket $735; high: 257S Classic B-3 Sheepskin Bomber $1,690–$1,995 by size."
+    },
+    {
+      "category": "shirts",
+      "currency": "USD",
+      "min": 75,
+      "max": 490,
+      "min_usd": 75,
+      "max_usd": 490,
+      "fx_date": null,
+      "item_count": 21,
+      "source_url": "https://www.schottnyc.com/collections/mens-shirts",
+      "checked_at": "2026-10-29",
+      "note": "Men's woven shirts (button-ups, flannels, wool shirts, overshirts) at regular price; tees, knits, polos, sweats, shirt jackets and padded or quilted overshirts excluded. products.json, 36 products, 21 regular, 13 marked down excluded (knit polo excluded). SS2304 Short Sleeve Cotton Work Shirt $75; SH2120 Cotton Flannel Shirt $80; 7810 CPO Wool Shirt $125; 7310P Plaid CPO Shirt $155; 3601SH Suede Western Shirt $475; 5601SH Cowhide Western Shirt $490."
     }
   ],
   "materials": [
@@ -42,20 +55,23 @@
   "production_model": "Much of it made in the USA",
   "sale_pattern": null,
   "sells_categories": [
-    "coats-jackets"
+    "coats-jackets",
+    "shirts"
   ],
   "sources": [
     "https://www.schottnyc.com/collections/mens-outerwear",
     "https://www.schottnyc.com/collections/mens-leather-jackets",
     "https://www.schottnyc.com/policies/shipping-policy",
     "https://www.schottnyc.com/policies/refund-policy",
-    "https://en.wikipedia.org/wiki/Schott_NYC"
+    "https://en.wikipedia.org/wiki/Schott_NYC",
+    "https://www.schottnyc.com/collections/mens-shirts"
   ],
   "notes": [
     "Shipping policy: 'Free shipping for all orders over $100 within the continental USA & APO'; ships internationally via FedEx, countries not listed (https://www.schottnyc.com/policies/shipping-policy).",
     "Refund policy: returns and exchanges within 30 days from shipping, unworn with tags; first US exchange label free; US refunds deduct a $9.95 label (https://www.schottnyc.com/policies/refund-policy).",
     "Leather jacket sizes: S–2XL on most, XS–6XL across the range, chest 32–54 on 16 styles; 'Made in USA' in 16 of 93 leather listings (https://www.schottnyc.com/collections/mens-leather-jackets/products.json).",
-    "Wikipedia: founded 1913 in New York City by Irving and Jack Schott; still owned by the Schott family; 'still manufacture[s] much of their clothing in the United States'; Perfecto designed 1928 (https://en.wikipedia.org/wiki/Schott_NYC)."
+    "Wikipedia: founded 1913 in New York City by Irving and Jack Schott; still owned by the Schott family; 'still manufacture[s] much of their clothing in the United States'; Perfecto designed 1928 (https://en.wikipedia.org/wiki/Schott_NYC).",
+    "7810 Men's CPO Wool Shirt $125: heavyweight 50% wool/poly blend, 30-inch back length, anchor buttons, two upper pockets, imported, S–3XL; 7310P Plaid CPO Shirt $155: 20 oz plaid wool blend, unlined, S–2XL (https://www.schottnyc.com/collections/mens-shirts)."
   ],
   "checked_at": "2026-10-29"
 }

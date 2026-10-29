@@ -1,0 +1,64 @@
+{
+  "slug": "faherty",
+  "name": "Faherty",
+  "website_url": "https://fahertybrand.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Soft Clothes in Premium Fabrics",
+  "hq_country": "US",
+  "founded_year": 2013,
+  "parent_company": null,
+  "size_range": "XS–XXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 60,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "shirts",
+      "currency": "USD",
+      "min": 148,
+      "max": 348,
+      "min_usd": 148,
+      "max_usd": 348,
+      "fx_date": null,
+      "item_count": 58,
+      "source_url": "https://fahertybrand.com/collections/mens-shirts",
+      "checked_at": "2026-10-29",
+      "note": "Men's woven shirts (button-ups, flannels, wool shirts, overshirts) at regular price; tees, knits, polos, sweats, shirt jackets and padded or quilted overshirts excluded. products.json, 397 products in the collection; product type Men's Button Ups only: 58 regular, the rest marked down or other types. Laundered Oxford Shirt $148; Japanese Flannel Workshirt $248; Sashiko Indigo Workshirt $348."
+    }
+  ],
+  "materials": [
+    "Organic cotton"
+  ],
+  "certifications": [
+    "B Corp"
+  ],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "shirts"
+  ],
+  "sources": [
+    "https://fahertybrand.com/",
+    "https://fahertybrand.com/pages/faq",
+    "https://fahertybrand.com/pages/about",
+    "https://en.wikipedia.org/wiki/Faherty_Brand",
+    "https://fahertybrand.com/collections/mens-shirts",
+    "https://fahertybrand.com/products/japanese-flannel-workshirt-blue-sora-plaid"
+  ],
+  "notes": [
+    "Homepage meta: 'The best clothes, made from premium fabrics with gotta-feel-it-to-believe-it softness. Family owned. Sustainably-minded.' (https://fahertybrand.com/).",
+    "FAQ: free ground shipping over $150 in the contiguous US; ships to the US, Canada and the UK; returns within 60 days (https://fahertybrand.com/pages/faq).",
+    "About: family-owned since 2013, twins Mike and Alex Faherty (Mike designed for Ralph Lauren's Double RL); 'Over 80 Stores Nationwide'; Certified B Corporation; sources organic and recycled fabrics (https://fahertybrand.com/pages/about). Wikipedia: 'an American clothing company founded in 2013' (https://en.wikipedia.org/wiki/Faherty_Brand).",
+    "Japanese Flannel Workshirt $248: 70% organic cotton / 30% cotton, flannel from the Banshu region of Japan, relaxed fit, 30-inch length (https://fahertybrand.com/products/japanese-flannel-workshirt-blue-sora-plaid). Men's button-ups in XS–XXL (products.json variants)."
+  ],
+  "checked_at": "2026-10-29"
+}
