@@ -22,6 +22,14 @@ things equally, use its best-selling or hero product line as C and say why.
    `sources: []`; they need outside evidence of their own to become picks.
 
 ## §2 Verify each brand (anchor + every candidate with ≥1 source)
+
+**Fact fields are shown to readers as written** (Ash, 2026-10-29). `known_for`, `size_range`,
+`production_model`, `sale_pattern`, `materials`, `certifications` and `parent_company` must be
+short, plain display text: at most 60 characters, no quotes, no source tags like "(About)", no
+counts like "5X on 17 of 488", no semicolon-joined lists. Good: `size_range` "XS–4X; waists
+24–44", `production_model` "Mostly made in the USA". Everything else you learned (exact
+counts, quotes, which page said what) goes in `notes` with its URL in `sources`.
+`npm run lint:facts` flags violations.
 Write `data/brands/{slug}.json` with the `stylodex.brands` columns:
 - `website_url`: the official store, confirmed by WebFetch (the stored URL is often wrong).
 - `status`: `verified` (live, selling C today) · `defunct` (no findable official presence) ·

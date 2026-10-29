@@ -76,6 +76,8 @@ export interface SimilarPair {
   priceRelation: PriceRelation | null;
   reason: string | null;
   body: string | null;
+  /** One line, ≤10 words: who this pick suits ("Baggy jeans under $100"). */
+  bestFor: string | null;
   checkedAt: string | null;
   evidence: Evidence[];
 }
@@ -97,6 +99,8 @@ export interface BrandsLikePage {
   category: { slug: string; name: string };
   intro: string;
   faqs: Faq[];
+  /** "How to choose" close: a short decision guide across the picks. */
+  closing: { heading: string; body: string } | null;
   author: string;
   humanEdited: boolean;
   checkedAt: string;

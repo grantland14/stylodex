@@ -12,7 +12,8 @@
     "preview": "astro preview",
     "check": "astro check",
     "test": "tsx --test lib/*.test.ts",
-    "check:links": "node scripts/check-links.mjs"
+    "check:links": "node scripts/check-links.mjs",
+    "lint:facts": "node scripts/lint-facts.mjs"
   },
   "dependencies": {
     "@astrojs/vercel": "^11.0.16",

@@ -51,12 +51,15 @@ const facts = (pick: SimilarPick) =>
     { text: shipsTo(pick.brand) && `Ships to ${shipsTo(pick.brand)}`, tint: "bg-sky" },
   ].filter((f): f is { text: string; tint: string } => Boolean(f.text));
 const siteHost = (pick: SimilarPick) => (pick.brand.websiteUrl ? new URL(pick.brand.websiteUrl).hostname.replace(/^www\./, "") : null);
-// The first mention of the brand in its body links to its store (through /go/).
-const splitBody = (pick: SimilarPick) => {
-  const body = pick.pair.body ?? "";
-  const i = body.indexOf(pick.brand.name);
-  return i < 0 ? null : { before: body.slice(0, i), after: body.slice(i + pick.brand.name.length) };
+// Bodies are one or two paragraphs. The first mention of the brand links to its store (through /go/).
+const paragraphs = (pick: SimilarPick) => (pick.pair.body ?? "").split(/\n\s*\n/).filter(Boolean);
+const splitPara = (pick: SimilarPick, text: string) => {
+  const i = text.indexOf(pick.brand.name);
+  return i < 0 ? null : { before: text.slice(0, i), after: text.slice(i + pick.brand.name.length) };
 };
+const linkIndex = (pick: SimilarPick) => paragraphs(pick).findIndex((t) => t.includes(pick.brand.name));
+// The table shows "Best for" once every pick has one, otherwise where each ships.
+const tableBestFor = picks.every((p) => p.pair.bestFor);
 
 const graph: object[] = [
   {
@@ -140,7 +143,7 @@ if (page.faqs.length > 0) {
               <th class="py-3 pr-4 font-normal">Brand</th>
               <th class="py-3 pr-4 font-normal">{page.category.name}</th>
               <th class="py-3 pr-4 font-normal">Sizes</th>
-              <th class="py-3 font-normal">Ships to</th>
+              <th class="py-3 font-normal">{tableBestFor ? "Best for" : "Ships to"}</th>
             </tr>
           </thead>
           <tbody>
@@ -154,7 +157,7 @@ if (page.faqs.length > 0) {
                   </td>
                   <td class="py-3 pr-4">{priceWithUsd(priceFor(pick.brand, category))}</td>
                   <td class="py-3 pr-4">{sizes(pick.brand)}</td>
-                  <td class="py-3">{shipsTo(pick.brand)}</td>
+                  <td class="py-3">{tableBestFor ? pick.pair.bestFor : shipsTo(pick.brand)}</td>
                 </tr>
               ))
             }
@@ -198,19 +201,29 @@ if (page.faqs.length > 0) {
                   <ProductStrip brandSlug={pick.brand.slug} brandName={pick.brand.name} shots={shotsFor(pick)} from={path} />
                 </div>
               )}
-              <p class="mt-5 leading-relaxed">
-                {splitBody(pick) ? (
-                  <>
-                    {splitBody(pick)!.before}
-                    <a href={shopHref(pick)} target="_blank" rel="sponsored nofollow noopener" class="text-link">
-                      {pick.brand.name}
-                    </a>
-                    {splitBody(pick)!.after}
-                  </>
-                ) : (
-                  pick.pair.body
-                )}
-              </p>
+              {paragraphs(pick).map((text, n) => {
+                const split = n === linkIndex(pick) ? splitPara(pick, text) : null;
+                return (
+                  <p class:list={["leading-relaxed", n === 0 ? "mt-5" : "mt-3"]}>
+                    {split ? (
+                      <>
+                        {split.before}
+                        <a href={shopHref(pick)} target="_blank" rel="sponsored nofollow noopener" class="text-link">
+                          {pick.brand.name}
+                        </a>
+                        {split.after}
+                      </>
+                    ) : (
+                      text
+                    )}
+                  </p>
+                );
+              })}
+              {pick.pair.bestFor && (
+                <p class="mt-4 text-sm">
+                  <span class="font-medium text-ink">Best for:</span> {pick.pair.bestFor}
+                </p>
+              )}
               <div class="mt-6 flex flex-wrap gap-3">
                 <a href={shopHref(pick)} target="_blank" rel="sponsored nofollow noopener" class="btn-solid">
                   Shop {pick.brand.name} <ArrowUpRight />
@@ -224,6 +237,17 @@ if (page.faqs.length > 0) {
         ))
       }
     </ol>
+
+    {
+      page.closing && (
+        <section class="border-t border-rule pt-12">
+          <h2 class="font-serif text-3xl">{page.closing.heading}</h2>
+          {page.closing.body.split(/\n\s*\n/).map((t) => (
+            <p class="mt-4 leading-relaxed">{t}</p>
+          ))}
+        </section>
+      )
+    }
 
     {
       page.faqs.length > 0 && (
