@@ -1,0 +1,986 @@
+{
+  "subject": "MeUndies",
+  "slug": "meundies",
+  "url_prefix": "brands",
+  "category": {
+    "slug": "underwear",
+    "name": "Underwear",
+    "why": "Category: underwear. MeUndies' own title is 'Comfortable Underwear, Loungewear & Pajamas' (Ahrefs SERP), its help center leads product questions with undies, and every outside source compares men's boxer briefs. Prices compare single-pair men's boxer briefs; multipacks are excluded where a brand sells singles, and Pair of Thieves, which sells packs only, shows pack prices."
+  },
+  "serp": [
+    {
+      "keyword": "brands like meundies",
+      "position": 1,
+      "url": null,
+      "kept": false,
+      "why_dropped": "AI overview, no URL"
+    },
+    {
+      "keyword": "brands like meundies",
+      "position": 1,
+      "url": "https://www.comparably.com/companies/meundies/competitors",
+      "kept": false,
+      "why_dropped": "AI overview sitelink; company-competitor data page, not editorial recommendations"
+    },
+    {
+      "keyword": "brands like meundies",
+      "position": 1,
+      "url": "https://www.cbinsights.com/company/meundies/alternatives-competitors",
+      "kept": false,
+      "why_dropped": "AI overview sitelink; business-competitor database, not shopping recommendations"
+    },
+    {
+      "keyword": "brands like meundies",
+      "position": 1,
+      "url": "https://silkcutunderwear.com/blogs/underwear-comparisons/silkcut-vs-meundies",
+      "kept": false,
+      "why_dropped": "AI overview sitelink; published by SilkCut, a competing brand, promoting itself; not independent, no brands taken"
+    },
+    {
+      "keyword": "brands like meundies",
+      "position": 1,
+      "url": "https://thingtesting.com/brands/box-menswear/similar",
+      "kept": false,
+      "why_dropped": "AI overview sitelink; about Box Menswear, not MeUndies"
+    },
+    {
+      "keyword": "brands like meundies",
+      "position": 1,
+      "url": "https://buy-from-europe.com/alternatives/meundies",
+      "kept": false,
+      "why_dropped": "AI overview sitelink; templated 'European alternatives' directory (seven EU brands, generic one-line blurbs, no author); treated like a scraped list"
+    },
+    {
+      "keyword": "brands like meundies",
+      "position": 1,
+      "url": "https://www.instagram.com/reel/DSVKvyNiRc9/?hl=en",
+      "kept": false,
+      "why_dropped": "social video"
+    },
+    {
+      "keyword": "brands like meundies",
+      "position": 1,
+      "url": "https://www.youtube.com/watch?v=9Wq2OSIYZVc",
+      "kept": false,
+      "why_dropped": "video"
+    },
+    {
+      "keyword": "brands like meundies",
+      "position": 2,
+      "url": "https://www.reddit.com/r/MeUndies/comments/1jarpav/alternatives/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "brands like meundies",
+      "position": 2,
+      "url": "https://www.reddit.com/r/MeUndies/comments/k0ghnm/similar_brands/",
+      "kept": false,
+      "why_dropped": "sitelink; unfetchable: WebFetch refuses reddit.com; not read"
+    },
+    {
+      "keyword": "brands like meundies",
+      "position": 2,
+      "url": "https://www.reddit.com/r/Frugal/comments/dszntr/frugal_version_of_me_undies/",
+      "kept": false,
+      "why_dropped": "sitelink; unfetchable: WebFetch refuses reddit.com; not read"
+    },
+    {
+      "keyword": "brands like meundies",
+      "position": 4,
+      "url": "https://www.meundies.com/",
+      "kept": false,
+      "why_dropped": "anchor's own site"
+    },
+    {
+      "keyword": "brands like meundies",
+      "position": 5,
+      "url": "https://www.mysubscriptionaddiction.com/a/me-undies-alternatives",
+      "kept": false,
+      "why_dropped": "subscription-box directory: 27 boxes (socks, vitamins, alcohol, dental care) with tags and star ratings and no written reasons; no editorial content"
+    },
+    {
+      "keyword": "brands like meundies",
+      "position": 6,
+      "url": "https://www.gentlemansgazette.com/best-mens-underwear-brands/",
+      "kept": true
+    },
+    {
+      "keyword": "brands like meundies",
+      "position": 7,
+      "url": "https://thingtesting.com/brands/meundies/similar",
+      "kept": false,
+      "why_dropped": "read: the 'MeUndies alternatives and similar brands' section rendered empty to WebFetch (list loads client-side); no brands taken"
+    },
+    {
+      "keyword": "brands like meundies",
+      "position": 8,
+      "url": "https://pebblemag.com/ethical-sustainable-underwear/",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch; general sustainable-underwear list"
+    },
+    {
+      "keyword": "brands like meundies",
+      "position": 9,
+      "url": "https://www.cbinsights.com/company/meundies/alternatives-competitors",
+      "kept": false,
+      "why_dropped": "business-competitor database"
+    },
+    {
+      "keyword": "brands like meundies",
+      "position": 10,
+      "url": "https://www.youtube.com/watch?v=rH0gAzK5fd0",
+      "kept": false,
+      "why_dropped": "video"
+    },
+    {
+      "keyword": "meundies alternatives",
+      "position": 1,
+      "url": "https://www.insider.com/guides/style/best-underwear-men",
+      "kept": false,
+      "why_dropped": "WebFetch unable to fetch insider.com; not read"
+    },
+    {
+      "keyword": "meundies alternatives",
+      "position": 2,
+      "url": "https://www.cbinsights.com/company/meundies/alternatives-competitors",
+      "kept": false,
+      "why_dropped": "business-competitor database"
+    },
+    {
+      "keyword": "meundies alternatives",
+      "position": 3,
+      "url": "https://thingtesting.com/brands/meundies/similar",
+      "kept": false,
+      "why_dropped": "client-side list, rendered empty (see above)"
+    },
+    {
+      "keyword": "meundies alternatives",
+      "position": 5,
+      "url": "https://www.similarweb.com/website/meundies.com/competitors/",
+      "kept": false,
+      "why_dropped": "traffic-similarity tool, not editorial"
+    },
+    {
+      "keyword": "meundies alternatives",
+      "position": 6,
+      "url": "https://www.comparably.com/companies/meundies/competitors",
+      "kept": false,
+      "why_dropped": "company-competitor data page"
+    },
+    {
+      "keyword": "meundies alternatives",
+      "position": 7,
+      "url": "https://meundies.knoji.com/alternatives/",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch"
+    },
+    {
+      "keyword": "meundies alternatives",
+      "position": 8,
+      "url": "https://nymag.com/strategist/article/best-new-underwear-brands.html",
+      "kept": false,
+      "why_dropped": "WebFetch unable to fetch nymag.com; not read"
+    },
+    {
+      "keyword": "meundies alternatives",
+      "position": 9,
+      "url": "https://craft.co/meundies/competitors",
+      "kept": false,
+      "why_dropped": "business-competitor database"
+    },
+    {
+      "keyword": "meundies alternatives",
+      "position": 10,
+      "url": "https://www.businessinsider.com/guides/where-to-buy-comfortable-underwear-online-2018-9",
+      "kept": false,
+      "why_dropped": "WebFetch unable to fetch businessinsider.com; not read"
+    },
+    {
+      "keyword": "meundies alternatives",
+      "position": 16,
+      "url": "https://boxes.hellosubscription.com/subscription-box/meundies/alternatives/",
+      "kept": false,
+      "why_dropped": "beyond top 10; redirects to a 404"
+    },
+    {
+      "keyword": "meundies alternatives",
+      "position": 19,
+      "url": "https://www.moonlightreviews.com/best-mens-underwear-meundies-vs-saxx-vs-tommy-john/",
+      "kept": false,
+      "why_dropped": "beyond top 10; WebFetch returned an unrelated blog index, no MeUndies comparison found"
+    },
+    {
+      "keyword": "meundies alternatives",
+      "position": 28,
+      "url": "https://bestunder250.com/underwear-like-meundies/",
+      "kept": true,
+      "why_kept": "beyond the top 10 of the same Ahrefs pull: read because the top 10 held only one readable editorial page (Gentleman's Gazette). An editorial 'Underwear Like MeUndies' list (May 2022, updated July 2023)."
+    },
+    {
+      "keyword": "meundies alternatives",
+      "position": 92,
+      "url": "https://www.honestbrandreviews.com/reviews/mack-weldon-vs-meundies-underwear-review/",
+      "kept": true,
+      "why_kept": "beyond the top 10 of the same Ahrefs pull, read for the same reason: a Mack Weldon vs MeUndies head-to-head (Feb 2020) that names Mack Weldon as the alternative for athletes and travelers."
+    },
+    {
+      "keyword": "stores like meundies",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview returned no positions (US)"
+    },
+    {
+      "keyword": "similar to meundies",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview returned no positions (US)"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": "Target",
+      "url": "https://www.target.com/c/underwear-men-s-clothing/-/N-4vr7v",
+      "used": true,
+      "why": "Target stocks MeUndies (https://www.target.com/s?searchTerm=meundies, 45 results, 2026-10-29) and its Men's Underwear brand filter lists MeUndies with Pair of Thieves, PSD, Cariloha, Minus33 Merino Wool, Hanes, Jockey, Pact, Fruit of the Loom, Champion, ExOfficio and others."
+    },
+    {
+      "retailer": "Nordstrom",
+      "url": "https://www.nordstrom.com/browse/men/clothing?filterByBrand=meundies",
+      "used": false,
+      "why": "Ranked for the anchor in the SERP, but the brand filter no longer lists MeUndies and the page shows no products."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Mack Weldon",
+      "slug": "mack-weldon",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.gentlemansgazette.com/best-mens-underwear-brands/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/underwear-like-meundies/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/reviews/mack-weldon-vs-meundies-underwear-review/"
+        }
+      ]
+    },
+    {
+      "name": "SAXX",
+      "slug": "saxx",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.gentlemansgazette.com/best-mens-underwear-brands/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/underwear-like-meundies/"
+        }
+      ]
+    },
+    {
+      "name": "Pair of Thieves",
+      "slug": "pair-of-thieves",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/underwear-like-meundies/"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.target.com/c/underwear-men-s-clothing/-/N-4vr7v"
+        }
+      ]
+    },
+    {
+      "name": "Calvin Klein",
+      "slug": "calvin-klein",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.gentlemansgazette.com/best-mens-underwear-brands/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/underwear-like-meundies/"
+        }
+      ]
+    },
+    {
+      "name": "Hanes",
+      "slug": "hanes",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/underwear-like-meundies/"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.target.com/c/underwear-men-s-clothing/-/N-4vr7v"
+        }
+      ]
+    },
+    {
+      "name": "BN3TH",
+      "slug": "bn3th",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.gentlemansgazette.com/best-mens-underwear-brands/"
+        }
+      ]
+    },
+    {
+      "name": "T-Bô",
+      "slug": "t-bo",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.gentlemansgazette.com/best-mens-underwear-brands/"
+        }
+      ]
+    },
+    {
+      "name": "RibbedTee",
+      "slug": "ribbedtee",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.gentlemansgazette.com/best-mens-underwear-brands/"
+        }
+      ]
+    },
+    {
+      "name": "PSD",
+      "slug": "psd",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.target.com/c/underwear-men-s-clothing/-/N-4vr7v"
+        }
+      ]
+    },
+    {
+      "name": "Cariloha",
+      "slug": "cariloha",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.target.com/c/underwear-men-s-clothing/-/N-4vr7v"
+        }
+      ]
+    },
+    {
+      "name": "Minus33",
+      "slug": "minus33",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.target.com/c/underwear-men-s-clothing/-/N-4vr7v"
+        }
+      ]
+    },
+    {
+      "name": "Jockey",
+      "slug": "jockey",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.target.com/c/underwear-men-s-clothing/-/N-4vr7v"
+        }
+      ]
+    },
+    {
+      "name": "Pact",
+      "slug": "pact",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.target.com/c/underwear-men-s-clothing/-/N-4vr7v"
+        }
+      ]
+    },
+    {
+      "name": "Fruit of the Loom",
+      "slug": "fruit-of-the-loom",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.target.com/c/underwear-men-s-clothing/-/N-4vr7v"
+        }
+      ]
+    },
+    {
+      "name": "Champion",
+      "slug": "champion",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.target.com/c/underwear-men-s-clothing/-/N-4vr7v"
+        }
+      ]
+    },
+    {
+      "name": "ExOfficio",
+      "slug": "exofficio",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.target.com/c/underwear-men-s-clothing/-/N-4vr7v"
+        }
+      ]
+    },
+    {
+      "name": "Obviously",
+      "slug": "obviously-apparel",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.target.com/c/underwear-men-s-clothing/-/N-4vr7v"
+        }
+      ]
+    },
+    {
+      "name": "Papi",
+      "slug": "papi",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.target.com/c/underwear-men-s-clothing/-/N-4vr7v"
+        }
+      ]
+    },
+    {
+      "name": "lingerie-by-yandy",
+      "slug": "lingerie-by-yandy",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "adore-me",
+      "slug": "adore-me",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "lively",
+      "slug": "lively",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "zivame",
+      "slug": "zivame",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "oh-la-la-cheri",
+      "slug": "oh-la-la-cheri",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "yandy",
+      "slug": "yandy",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "n2n-bodywear",
+      "slug": "n2n-bodywear",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "ann-summers",
+      "slug": "ann-summers",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "lauma-lingerie",
+      "slug": "lauma-lingerie",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "lascana",
+      "slug": "lascana",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "slutty-unicorn",
+      "slug": "slutty-unicorn",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "billie",
+      "slug": "billie",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "magicsuit",
+      "slug": "magicsuit",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "show-me-your-mumu",
+      "slug": "show-me-your-mumu",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "huit",
+      "slug": "huit",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "kawaii-i-am",
+      "slug": "kawaii-i-am",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "miraclesuit",
+      "slug": "miraclesuit",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "vicky-s-secret-vintage-line",
+      "slug": "vicky-s-secret-vintage-line",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "w-for-woman",
+      "slug": "w-for-woman",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "doreanse",
+      "slug": "doreanse",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "bendon",
+      "slug": "bendon",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "skinnydip",
+      "slug": "skinnydip",
+      "in_apart_pool": true,
+      "sources": []
+    }
+  ],
+  "picks": [
+    {
+      "slug": "mack-weldon",
+      "rank": 1,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 30.0,
+        "max": 44.0,
+        "min_usd": 30.0,
+        "max_usd": 44.0,
+        "fx_date": null,
+        "item_count": 9
+      },
+      "price_relation": null,
+      "reason": "Mack Weldon sells single-pair boxer briefs at $30–$44 in four named fabrics, including Supima-cotton SILVER, in S–XXL, with 30-day returns and a one-pair Try On Guarantee.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.gentlemansgazette.com/best-mens-underwear-brands/",
+          "note": "Reviewed alongside MeUndies in a best-under-$30 list (Oct 2019), 3.5/5: \"a decent pair of underwear\"."
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/underwear-like-meundies/",
+          "note": "#1 underwear like MeUndies: uses the same MicroModal fabric, sold in packs of 3, 6 or 12 with no subscription needed."
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/reviews/mack-weldon-vs-meundies-underwear-review/",
+          "note": "Mack Weldon vs MeUndies: Mack Weldon could be the better choice for \"an athlete or traveling a lot\"."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "saxx",
+      "rank": 2,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 25.0,
+        "max": 45.0,
+        "min_usd": 25.0,
+        "max_usd": 45.0,
+        "fx_date": null,
+        "item_count": 85
+      },
+      "price_relation": null,
+      "reason": "SAXX, a Vancouver brand selling pouch underwear since 2006, lists single boxer briefs at $25–$45, including a Smooth Luxe Micro Modal pair, in XS–XXL with 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.gentlemansgazette.com/best-mens-underwear-brands/",
+          "note": "4/5 in the same list as MeUndies; recommends the cotton-Modal-spandex Undercover."
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/underwear-like-meundies/",
+          "note": "#2: a fabric blend described as softer than MeUndies, plus a mesh pouch."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "pair-of-thieves",
+      "rank": 3,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 14.99,
+        "max": 26.99,
+        "min_usd": 14.99,
+        "max_usd": 26.99,
+        "fx_date": null,
+        "item_count": 60
+      },
+      "price_relation": null,
+      "reason": "Pair of Thieves sells boxer briefs only in 2- and 3-packs at $14.99–$26.99, most up to 4XL, with a 101-day return window regardless of condition.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/underwear-like-meundies/",
+          "note": "#3: Super Fit boxer briefs praised for comfort and a fit that doesn't ride up."
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.target.com/c/underwear-men-s-clothing/-/N-4vr7v",
+          "note": "Target's Men's Underwear category, which also stocks MeUndies (brand filter lists both)."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "bn3th",
+      "rank": 4,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 26.0,
+        "max": 38.0,
+        "min_usd": 26.0,
+        "max_usd": 38.0,
+        "fx_date": null,
+        "item_count": 61
+      },
+      "price_relation": null,
+      "reason": "BN3TH sells pouch boxer briefs at $26–$38 in XS–XXL (waists 27–44), with a viscose-cotton Essentials line at $26 and free North American shipping from $75.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.gentlemansgazette.com/best-mens-underwear-brands/",
+          "note": "4.5/5, the author's favorite: \"If MeUndies had a pouch system, I think they would have been my favorite.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "psd",
+      "rank": 5,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 18.0,
+        "max": 32.0,
+        "min_usd": 18.0,
+        "max_usd": 32.0,
+        "fx_date": null,
+        "item_count": 316
+      },
+      "price_relation": null,
+      "reason": "PSD sells printed and licensed-collab boxer briefs, mostly $25–$28 a pair, with Modal and Luxe Modal lines at $28–$32, in XS–XXL.",
+      "evidence": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.target.com/c/underwear-men-s-clothing/-/N-4vr7v",
+          "note": "Target's Men's Underwear category, which also stocks MeUndies."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "cariloha",
+      "rank": 6,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 22.0,
+        "max": 28.0,
+        "min_usd": 22.0,
+        "max_usd": 28.0,
+        "fx_date": null,
+        "item_count": 12
+      },
+      "price_relation": null,
+      "reason": "Cariloha sells bamboo-viscose boxer briefs at $22 in solids and $28 in prints, in S–2XL, and has US showrooms you can walk into.",
+      "evidence": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.target.com/c/underwear-men-s-clothing/-/N-4vr7v",
+          "note": "Target's Men's Underwear category, which also stocks MeUndies."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "minus33",
+      "rank": 7,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 44.99,
+        "max": 44.99,
+        "min_usd": 44.99,
+        "max_usd": 44.99,
+        "fx_date": null,
+        "item_count": 3
+      },
+      "price_relation": null,
+      "reason": "Minus33, a family-owned New Hampshire wool company, sells merino boxer briefs at $44.99 in up to 4XL, with free US shipping from $50.",
+      "evidence": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.target.com/c/underwear-men-s-clothing/-/N-4vr7v",
+          "note": "Target's Men's Underwear category, which also stocks MeUndies (listed as Minus33 Merino Wool)."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "calvin-klein",
+      "why": "unverified: calvinklein.us returned HTTP 403 to curl and WebFetch (2026-10-29); not read, no workaround. 2 sources (Gentleman's Gazette 3/5 budget pick, bestunder250 #5). First in the human-check queue."
+    },
+    {
+      "slug": "hanes",
+      "why": "unverified: hanes.com returned HTTP 403 to WebFetch. 2 sources (bestunder250 #4, Target co-stocking). Human check."
+    },
+    {
+      "slug": "t-bo",
+      "why": "unverified: t-bo.com returned HTTP 503 to WebFetch and a weak-key TLS certificate to curl. 1 source (Gentleman's Gazette 3/5)."
+    },
+    {
+      "slug": "ribbedtee",
+      "why": "ribbedtee.com redirects to underfit.com/ribbedtee/: RibbedTee was folded into UnderFit, which sells undershirts only; its boxer briefs are listed as planned, none for sale. Doesn't sell underwear (C). No brand file written."
+    },
+    {
+      "slug": "jockey",
+      "why": "unverified: jockey.com returned HTTP 403 to curl. 1 source (Target co-stocking)."
+    },
+    {
+      "slug": "pact",
+      "why": "wearpact.com/men/underwear rendered no products to WebFetch (client-side) and serves no Shopify JSON; no price, sizes or returns read."
+    },
+    {
+      "slug": "fruit-of-the-loom",
+      "why": "fruit.com/collections/mens-boxer-briefs rendered no products to WebFetch (Next.js, no JSON); no prices read."
+    },
+    {
+      "slug": "exofficio",
+      "why": "exofficio.com/men/underwear/boxer-briefs/: all 4 boxer briefs marked down 30% (e.g. Give-N-Go 2.0 $22.75 from $32.50), so no regular-price range. Gentleman's Gazette also rated it 1/5."
+    },
+    {
+      "slug": "champion",
+      "why": "champion.com/collections/underwear holds 2 products (3Pk Performance Boxer Brief $16, 4Pk Cotton Stretch Boxer Brief $21); too thin to stand as an underwear pick."
+    },
+    {
+      "slug": "obviously-apparel",
+      "why": "verified and sells boxer briefs ($28–$37, 32 regular-price items), but no HQ is stated (it makes and ships from its own facility in Bulgaria), so hq_country is empty and the gate would drop it; it also refuses change-of-mind returns. No brand file written."
+    },
+    {
+      "slug": "papi",
+      "why": "papi.com returned an empty page to WebFetch and no Shopify JSON."
+    },
+    {
+      "slug": "tommy-john",
+      "why": "no outside source recommends it as a MeUndies alternative: Gentleman's Gazette says it 'refrained from testing' Tommy John, and the SilkCut page is a competitor's own. Not checked."
+    },
+    {
+      "slug": "sheath",
+      "why": "Gentleman's Gazette rates it 2.5/5 (pouch cut too high): not a recommendation. Not checked."
+    },
+    {
+      "slug": "apart-style-pool",
+      "why": "All 22 public.brand_relationships rows for MeUndies are women's lingerie or swim labels (Yandy, Adore Me, Lively, Zivame, Ann Summers, Lascana, Billie, Magicsuit, Bendon…); none has an outside source naming it as a MeUndies alternative (Adore Me appears only in the dropped subscription-box directory)."
+    },
+    {
+      "slug": "target-character-brands",
+      "why": "The rest of Target's men's underwear brand filter is licensed character labels (Marvel, Star Wars, Looney Tunes…), Target's own labels (Goodfellow & Co, All In Motion) and small sellers; not checked."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "anchor prices (meundies.com)",
+      "url": "https://www.meundies.com/",
+      "check": "Vercel bot challenge (HTTP 429, x-vercel-mitigated: challenge) to WebFetch and curl. Record the regular-price range of single-pair men's boxer briefs (Core/FeelFree/Breathe), item count and source URL. Without it the anchor misses price:underwear and the page can't be indexed; with it, set price_relation on every pick."
+    },
+    {
+      "fact": "anchor status basis",
+      "url": "https://help.meundies.com/",
+      "check": "status 'verified' rests on the official help center (served 2026-10-29) and Target's live listing, not the store itself. Confirm the store is live."
+    },
+    {
+      "fact": "BN3TH return window",
+      "url": "https://bn3th.com/policies/refund-policy",
+      "check": "Refund policy says 21 days; FAQ (https://www.bn3th.com/pages/faq) says 30. Stored 21 and the copy says 21. Correct both if 30 is current."
+    },
+    {
+      "fact": "pick check: Calvin Klein, Hanes",
+      "url": "https://www.calvinklein.us/en/men/underwear/boxer-briefs",
+      "check": "Both 403. 2 sources each; would rank 3rd and 4th. Record single-pair boxer brief range, sizes, US shipping, returns. Hanes: https://www.hanes.com/men/underwear/boxer-briefs"
+    },
+    {
+      "fact": "pick check: Jockey, T-Bô",
+      "url": "https://www.jockey.com/",
+      "check": "Jockey 403, T-Bô 503. 1 source each."
+    },
+    {
+      "fact": "evidence beyond the top 10",
+      "url": "https://bestunder250.com/underwear-like-meundies/",
+      "check": "bestunder250 (position 28) and Honest Brand Reviews (position 92) sit beyond the top 10 of 'meundies alternatives'. Without them every pick still has a source (Mack Weldon and SAXX keep Gentleman's Gazette, Pair of Thieves keeps Target). Confirm they may count."
+    },
+    {
+      "fact": "evidence: blocked pages",
+      "url": "https://www.insider.com/guides/style/best-underwear-men",
+      "check": "Unfetchable: Insider, NY Mag Strategist, Business Insider, pebblemag (403), knoji (403), and 3 Reddit threads (r/MeUndies alternatives, r/MeUndies similar brands, r/Frugal). Read for more candidates; the page is at 7 picks against a 10–15 target."
+    },
+    {
+      "fact": "Saxx and PSD shipping countries",
+      "url": "https://www.saxxunderwear.com/pages/help-center",
+      "check": "Neither names destination countries, so ships_to is US only. Add CA/GB/AU if their checkout ships there."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": null,
+  "notes": [
+    "Category: underwear. MeUndies' own title is 'Comfortable Underwear, Loungewear & Pajamas' (Ahrefs SERP), its help center leads product questions with undies, and every outside source compares men's boxer briefs. Prices compare single-pair men's boxer briefs; multipacks are excluded where a brand sells singles, and Pair of Thieves, which sells packs only, shows pack prices.",
+    "Anchor: status verified from help.meundies.com (live, current policies) and Target's MeUndies listing; meundies.com itself is behind a Vercel bot challenge, so no prices. missingAnchorFacts: price:underwear (and imageUrl). Not indexable until a human records the price range.",
+    "7 picks pass enrich.md §3; target was 10–15, not padded. The top 10 of the two keywords with SERP data held one readable editorial page; Calvin Klein and Hanes (2 sources each) are blocked by 403.",
+    "Ranking: independent sources (Mack Weldon 3; SAXX and Pair of Thieves 2; then 1 each), editorial before co-stocking, then by starting price. price_relation is null for every pick because the anchor has no stored price (gate: no label without both prices).",
+    "Prices: Shopify /collections/{handle}/products.json (regular = in stock with no compare_at above price). All USD.",
+    "Evidence: 3 editorial pages read (Gentleman's Gazette Oct 2019; bestunder250 May 2022, updated Jul 2023; Honest Brand Reviews Feb 2020) plus Target's Men's Underwear category (co-stocking: Target stocks MeUndies, 45 results). Ahrefs serp-overview: 4 calls, 'stores like meundies' and 'similar to meundies' empty. FAQ: 1 keywords-explorer-matching-terms call.",
+    "Requests used the StylodexBot UA only; no personal details sent."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "You've got a drawer full of MeUndies and a membership you're not sure you still want. Or you'd like the same kind of boxer brief with a pouch or a longer return window. These seven brands make that kind of underwear, priced between a $14.99 three-pack and $45 single pairs. Each one changes something about the MeUndies formula, and that's what to look at.",
+    "bodies": {
+      "mack-weldon": "Mack Weldon is the closest swap if you like MeUndies' everyday boxer brief but want more fabrics to choose from. The 18-Hour Jersey Boxer Brief ($30) is the pair it says made it famous, and its single pairs run $30 to $44.\n\nThe useful thing is that the line name tells you the fabric. AIRKNITx ($34) is its lightest, most breathable pair, and SILVER ($40) is Supima cotton with an anti-odor tech. First-time buyers can also get one tried-on pair refunded or swapped without sending it back, which takes the risk out of picking a size.\n\nSizes are the limit. It stops at XXL, where MeUndies reaches 4XL on some prints, and free shipping only starts at $150. If you need bigger sizes, Pair of Thieves goes to 4XL for less.",
+      "saxx": "SAXX is the pick if you like MeUndies' boxer brief but want more support. It's the Vancouver brand that credits itself with inventing pouch underwear. Its best seller, the Vibe Xtra Soft Comfort ($36), puts the BallPark Pouch in EcoVero fabric with a fly.\n\nStart with the fabric name. Single pairs run $25 to $45, and the Smooth Luxe Micro Modal ($45) is the one closest to the modal MeUndies is known for. DropTemp Cooling Cotton ($33) is its cooling line. Every style comes in S to XXL, many add XS, and a handful reach 4XL.\n\nYou get 30 days to return unworn pairs, plus a guarantee on your first pair. If you'd like a pouch range that tops out lower, BN3TH stops at $38.",
+      "pair-of-thieves": "Pair of Thieves is the budget pick, and it only sells boxer briefs in packs. The 4-Way Stretch Every Day Kit Cotton Stretch Boxer Briefs (3-Pack) cost $14.99, so you're paying about $5 a pair.\n\nEvery pack sits between $14.99 and $26.99, and most styles go up to 4XL, the top of MeUndies' range too. Returns are the main reason to pick it. You get 101 days to send anything back for a refund or exchange, whatever its condition, with free US return shipping. MeUndies gives you 45 days and wants pairs unworn and unwashed.\n\nThe trade-off is fabric. The cheapest pack is cotton and spandex, and the SuperFit Sport Boxer Briefs (2-Pack) ($26.99) are polyester with mesh vents, so neither is modal. If modal is the point, PSD's Modal Solids ($28) are closer.",
+      "bn3th": "BN3TH is the other pouch brand here, and nothing in its boxer brief range costs more than $38. The Essentials Boxer Brief ($26) is the way in. It's LENZING ECOVERO viscose with cotton and spandex, built around its Original 3D Pouch.\n\nThe line names map to price. Essentials and Pro Flex are $26, the Classic Icon, its premium everyday pair, is $32, and the Pro Ultra performance pair is $38. Sizes run XS to XXL, which it lists as waists 27 to 44. US orders ship free from $75, the same threshold MeUndies sets for non-members.\n\nTime is the trade-off. You get 21 days to return, the shortest window here, and you have to contact it before sending anything back. If you want room to change your mind, Pair of Thieves gives you 101.",
+      "psd": "PSD is where to go if MeUndies' prints are why you buy it. Its store is built around printed boxer briefs and licensed collabs, such as Marvel and SpongeBob SquarePants, plus athlete lines like Ja Morant's. The Modal Solids ($28) give you a plain modal pair too.\n\nMost single pairs cost $25 or $28, with Luxe Modal at $32 and some solids from $18. Sizes run XS to XXL. Free US shipping starts at $99, higher than MeUndies' $75, so it pays to fill the cart before you check out.\n\nReturns are tighter as well. You get 30 days, and a $5 return fee comes off your refund unless you're a Silver or Gold rewards member. For plain basics without the prints, Cariloha's bamboo pairs start at $22.",
+      "cariloha": "Cariloha is the pick if you want boxer briefs that aren't modal. It's a bamboo brand whose number one seller is its sheets, and the Bamboo Boxer Briefs ($22) are made from its bamboo-viscose fabric.\n\nThe range is small and easy to read. Solid colors are $22 and prints like Turtle Wave or Pineapple Skull are $28, in S to 2XL. It also has showrooms you can walk into, in Hawaii, Alaska, Maine and Key West, which helps if you'd like to see the fabric before you buy.\n\nReturns are the weak spot. You have 30 days, the pair has to be in its original packaging, and you pay shipping both ways. So it's one to order once you know your size. Free shipping starts at $100.",
+      "minus33": "Minus33 is the wool option on this list. It's a family-owned New Hampshire wool company, and its Lightweight Men's Boxer Brief ($44.99) is 100% merino wool, made for hiking and everyday wear.\n\nThere are only three regular-price styles, all $44.99. The lightweight pair goes from XS to 4XL, the same top size as MeUndies. The Woolverino pair adds nylon and spandex to the merino and is Woolmark and OEKO-TEX Standard 100 certified. US shipping is free from $50, the lowest threshold here.\n\nAt $44.99 for every style, it's the priciest place to start, so think one or two pairs for the trail. For a full drawer, a whole Pair of Thieves pack costs less than one Minus33 pair."
+    },
+    "best_for": {
+      "mack-weldon": "trying a few fabrics before you commit to one",
+      "saxx": "a modal boxer brief with a pouch for support",
+      "pair-of-thieves": "stocking up on boxer briefs for about $5 a pair",
+      "bn3th": "trying pouch underwear for $26 a pair",
+      "psd": "licensed and novelty prints, plus a plain modal pair",
+      "cariloha": "bamboo instead of modal, at $22 a pair",
+      "minus33": "a merino pair for hiking or long days out"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with what you'd change about MeUndies. If it's support, choose between the pouch brands: BN3TH from $26 a pair or SAXX from $25, with SAXX's Smooth Luxe Micro Modal the closest in fabric. If it's price, Pair of Thieves' packs start at about $5 a pair and come with 101 days to return. Mack Weldon suits you if you'd like to test several fabrics, as long as XXL fits. PSD is the one for prints and Cariloha for bamboo. Minus33 makes sense for a merino pair or two. And if you wear 3XL or 4XL, Pair of Thieves and Minus33's lightweight pair both cover it."
+    },
+    "faqs": [
+      {
+        "q": "What are MeUndies made of?",
+        "a": "Its Core and FeelFree underwear is MicroModal, and FeelFree simply drops the black waistband. The Breathe line uses nylon and spandex instead, and All Over Lace is recycled nylon and spandex.",
+        "source_query": "what are meundies made of"
+      },
+      {
+        "q": "How do you cancel a MeUndies membership?",
+        "a": "Go to Account Info, scroll to Subscriptions and choose Manage Membership, then cancel. The same menu lets you skip a month or pause instead. Once you cancel, prices go back to the regular non-member rate.",
+        "source_query": "how to cancel meundies subscription"
+      },
+      {
+        "q": "How long does MeUndies take to ship?",
+        "a": "Orders leave its California warehouse in 1 to 2 business days, then take 3 to 10 business days to arrive in the US. Orders to Canada, Australia and New Zealand take 1 to 2 weeks.",
+        "source_query": "how long does meundies take to ship"
+      },
+      {
+        "q": "Where can you buy MeUndies?",
+        "a": "On its own site, and at Target, which stocks its men's boxer briefs and trunks, women's briefs and bralettes, and kids' packs.",
+        "source_query": "where can you buy meundies"
+      }
+    ]
+  }
+}

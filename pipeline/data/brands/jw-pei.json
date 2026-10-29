@@ -1,0 +1,61 @@
+{
+  "slug": "jw-pei",
+  "name": "JW PEI",
+  "website_url": "https://www.jwpei.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Vegan Leather Bags",
+  "hq_country": "US",
+  "founded_year": 2018,
+  "parent_company": null,
+  "size_range": "Mini to Large bag sizes",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 200,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "handbags",
+      "currency": "USD",
+      "min": 39.0,
+      "max": 329.0,
+      "min_usd": 39.0,
+      "max_usd": 329.0,
+      "fx_date": null,
+      "item_count": 1249,
+      "source_url": "https://www.jwpei.com/collections/bags/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "products.json: 1,340 listings; 0 with compare_at above price, 56 sold out and 35 straps/charms/wallets/pouches excluded; 1,249 regular-price bags, median $139. Low: Rayna Cloth Tote Bag ($39); high: Hana Large Orchid Embroidered Tote Bag ($329). Joy Shoulder Bag $99; Lucia Classic Top Handle Woven Bag $139. Main materials in the feed: vegan leather (333), faux suede (149), croc-embossed vegan leather (70)."
+    }
+  ],
+  "materials": [
+    "Vegan leather",
+    "Faux suede"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "handbags"
+  ],
+  "sources": [
+    "https://www.jwpei.com/meta.json",
+    "https://www.jwpei.com/collections/bags/products.json?limit=250",
+    "https://www.jwpei.com/pages/about",
+    "https://www.jwpei.com/policies/shipping-policy",
+    "https://www.jwpei.com/policies/refund-policy"
+  ],
+  "notes": [
+    "About: 'Founded in 2018, JW PEI is a Los Angeles fashion label... JW PEI harmonizes vegan materials, sculptural silhouettes, and sophisticated craftsmanship' (https://www.jwpei.com/pages/about). meta.json: City of Industry, USD, ships to 162 countries incl. US, CA, GB, AU; 'Free Delivery for United States on orders over $200 USD' (https://www.jwpei.com/meta.json).",
+    "Returns: 'we gladly accept returns within 30 days of receipt'; customer pays return shipping; sale items final (https://www.jwpei.com/policies/refund-policy). US: 'Duty and taxes would be charged regarding your regions' (https://www.jwpei.com/policies/shipping-policy)."
+  ],
+  "checked_at": "2026-10-29"
+}

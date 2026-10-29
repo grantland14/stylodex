@@ -1,0 +1,63 @@
+{
+  "slug": "polene",
+  "name": "Polène",
+  "website_url": "https://eng.polene-paris.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Parisian Leather Handbags",
+  "hq_country": "FR",
+  "founded_year": 2016,
+  "parent_company": null,
+  "size_range": "Micro to Large bag sizes",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "handbags",
+      "currency": "USD",
+      "min": 220.0,
+      "max": 1190.0,
+      "min_usd": 220.0,
+      "max_usd": 1190.0,
+      "fx_date": null,
+      "item_count": 314,
+      "source_url": "https://eng.polene-paris.com/collections/bags/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "products.json (Polène US store, USD): 327 listings, all product_type Handbags; 0 with compare_at above price, 13 sold out excluded; 314 regular-price bags, median $610. Low: Numéro Un Micro ($220); high: Button Bow Box ($1,190). Numéro Un Nano $470, Numéro Un $580, Cyme Mini from $480, Cyme Textured Camel $620, Numéro Neuf Textured Camel $610."
+    }
+  ],
+  "materials": [
+    "Italian calf leather"
+  ],
+  "certifications": [],
+  "production_model": "Made by artisans in Ubrique, Spain",
+  "sale_pattern": null,
+  "sells_categories": [
+    "handbags"
+  ],
+  "sources": [
+    "https://eng.polene-paris.com/meta.json",
+    "https://www.polene-paris.com/meta.json",
+    "https://www.polene-paris.com/",
+    "https://eng.polene-paris.com/",
+    "https://eng.polene-paris.com/collections/bags/products.json?limit=250",
+    "https://eng.polene-paris.com/products/cyme-textured-camel",
+    "https://eng.polene-paris.com/collections/numero-un/products.json?limit=250"
+  ],
+  "notes": [
+    "The official site www.polene-paris.com is the France store (EUR, meta ships_to excludes US); its country selector sends United States to eng.polene-paris.com, the Polène US store (meta.json: name 'Polène US', New York, USD, ships to 45 countries incl. US and CA) (https://www.polene-paris.com/, https://eng.polene-paris.com/meta.json).",
+    "FR store meta description: 'Polène est une maison de maroquinerie parisienne créée en 2016' (founded 2016, Paris) (https://www.polene-paris.com/meta.json). US meta: 'discover the subtle forms and exquisite craftsmanship of our latest handbag designs'.",
+    "Cyme product page: 'Certified textured Italian calf leather', 'Made by leather-working artisans in Spain'; Ubrique section on the page; 'Delivery within 5 working days - DHL EXPRESS', 'Additional taxes to pay for US delivery', 'Returns accepted within 30 days of receiving the order' (https://eng.polene-paris.com/products/cyme-textured-camel).",
+    "US store footer lists boutiques incl. Costa Mesa (3333 Bristol St, Costa Mesa, CA 92626) and New York (https://eng.polene-paris.com/), so us_stores true. The help centre (support.polene-paris.com) returns 403 to WebFetch; not used. Shopify policy pages render empty. Shipping fee to the US not read, so free_shipping_min_usd empty.",
+    "Sizes: bag lines come in Micro, Nano, Mini, regular and Large (e.g. Numéro Un Micro/Nano, Numéro Neuf Large) per product titles in the bags feed."
+  ],
+  "checked_at": "2026-10-29"
+}

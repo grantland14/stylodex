@@ -1,0 +1,59 @@
+{
+  "slug": "demellier",
+  "name": "DeMellier",
+  "website_url": "https://demellierlondon.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "London-Designed Leather Handbags",
+  "hq_country": "GB",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Nano, Mini, Midi and Large sizes",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 28,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "handbags",
+      "currency": "GBP",
+      "min": 365.0,
+      "max": 665.0,
+      "min_usd": 485.0,
+      "max_usd": 883.62,
+      "fx_date": "2026-10-28",
+      "item_count": 153,
+      "source_url": "https://demellierlondon.com/collections/all-bags/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "products.json: 205 listings (shoulder, crossbody, tote, top handle, clutch, mini); 0 with compare_at above price, 52 sold out excluded; 153 regular-price bags, median £475. Store currency GBP as served; ECB 2026-10-28 GBP→USD 1.328758. Low: The Nano Montreal (£365); high: The New York in zebra-effect hair calf (£665). The Midi New York £475, The Brooklyn £625."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": "Designed in London, made in Spain",
+  "sale_pattern": null,
+  "sells_categories": [
+    "handbags"
+  ],
+  "sources": [
+    "https://demellierlondon.com/meta.json",
+    "https://demellierlondon.com/collections/all-bags/products.json?limit=250",
+    "https://demellierlondon.com/policies/shipping-policy",
+    "https://demellierlondon.com/policies/refund-policy",
+    "https://demellierlondon.com/pages/our-story"
+  ],
+  "notes": [
+    "meta.json: 'Award-Winning British Handbags... Designed in London, handcrafted in Spain', London, GBP, ships to 62 countries incl. US, CA, GB, AU (https://demellierlondon.com/meta.json).",
+    "Shipping policy: shipped worldwide from a European warehouse, 'all Duties & Taxes are included in the price'; United States Standard Delivery FREE (4–5 business days), Express $14.99 (https://demellierlondon.com/policies/shipping-policy).",
+    "Refund policy: returns within 28 days of receipt with FREE worldwide returns; unused, original packaging (https://demellierlondon.com/policies/refund-policy). Our Story: founder Mireia Llusia-Lindh; 'crafted ethically in Europe' (https://demellierlondon.com/pages/our-story)."
+  ],
+  "checked_at": "2026-10-29"
+}

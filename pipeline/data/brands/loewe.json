@@ -1,0 +1,56 @@
+{
+  "slug": "loewe",
+  "name": "Loewe",
+  "website_url": "https://www.loewe.com/usa/en/home",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Designer Leather Bags",
+  "hq_country": "ES",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Mini to Large bag sizes",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 14,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "handbags",
+      "currency": "USD",
+      "min": 650.0,
+      "max": 11600.0,
+      "min_usd": 650.0,
+      "max_usd": 11600.0,
+      "fx_date": null,
+      "item_count": 378,
+      "source_url": "https://www.loewe.com/usa/en/women/bags",
+      "checked_at": "2026-10-29",
+      "note": "US store women's bags listing (378 items) read sorted both ways (?sort=LW_ascendingPrice / LW_descendingPrice, first 16 tiles each). No markdowns shown. Low: Small Basket bag in palm leaf and calfskin ($650; a $390 canvas drawstring pouch excluded); high: Large Amazona 180 bag in ostrich ($11,600). Mini Scarf bag in smooth calfskin $2,400; Medium Amazona 180 bag in suede $4,900."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "handbags"
+  ],
+  "sources": [
+    "https://www.loewe.com/usa/en/home",
+    "https://www.loewe.com/usa/en/women/bags",
+    "https://www.loewe.com/usa/en/women/bags?sort=LW_ascendingPrice",
+    "https://www.loewe.com/usa/en/women/bags?sort=LW_descendingPrice",
+    "https://www.loewe.com/usa/en/faqs",
+    "https://www.loewe.com/usa/en/cc"
+  ],
+  "notes": [
+    "US site title: 'Loewe | Designer Bags, Clothing, Accessories for Women & Men - LOEWE USA Official Website' (https://www.loewe.com/usa/en/home). hq_country ES: loewe.com redirects to /eur/es/home by default.",
+    "FAQ: 'Free returns are available within 14 days of your online order delivery date'; online orders can be exchanged in a LOEWE store within 30 days (https://www.loewe.com/usa/en/faqs). Delivery page: Priority free, 2–7 business days, America and Oceania (https://www.loewe.com/usa/en/cc)."
+  ],
+  "checked_at": "2026-10-29"
+}

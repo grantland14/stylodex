@@ -1,0 +1,57 @@
+{
+  "slug": "charles-keith",
+  "name": "Charles & Keith",
+  "website_url": "https://www.charleskeith.com/us",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Shoes, Bags and Accessories",
+  "hq_country": "SG",
+  "founded_year": 1996,
+  "parent_company": null,
+  "size_range": "Micro to Large bag sizes",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 125,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "handbags",
+      "currency": "USD",
+      "min": 49.0,
+      "max": 229.0,
+      "min_usd": 49.0,
+      "max_usd": 229.0,
+      "fx_date": null,
+      "item_count": null,
+      "source_url": "https://www.charleskeith.com/us/bags",
+      "checked_at": "2026-10-29",
+      "note": "US bags listing, price filter range US$49–US$229; read sorted both ways (?srule=price-low-to-high / price-high-to-low, first tiles): every tile data-item-type regular with empty data-markdown-price. Low: Augustine Ombre Micro Bag ($49); high: Gabine Leather Burnished Shoulder Bag and Large Leather Top-Flap Hobo Bag ($229). Calla Tote Bag $139, Chance Turn-Lock Bucket Bag $139."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "handbags"
+  ],
+  "sources": [
+    "https://www.charleskeith.com/us",
+    "https://www.charleskeith.com/us/bags",
+    "https://www.charleskeith.com/us/bags?srule=price-low-to-high",
+    "https://www.charleskeith.com/us/bags?srule=price-high-to-low",
+    "https://www.charleskeith.com/us/information/customer-care/faq/shipping-and-tracking.html",
+    "https://www.charleskeith.com/us/information/customer-care/faq/returns-and-exchanges.html",
+    "https://www.charleskeith.com/us/information/about-us/brand-profile.html"
+  ],
+  "notes": [
+    "Brand profile: 'Established in 1996, CHARLES & KEITH is a Singaporean fashion label that creates collections – shoes, bags, eyewear, accessories and costume jewellery' (https://www.charleskeith.com/us/information/about-us/brand-profile.html).",
+    "US shipping: Standard US$8.95, free for orders US$125 and above, 4–7 working days (https://www.charleskeith.com/us/information/customer-care/faq/shipping-and-tracking.html). Returns within 30 days of receiving the order; UPS return label US$8.50 deducted from the refund (https://www.charleskeith.com/us/information/customer-care/faq/returns-and-exchanges.html)."
+  ],
+  "checked_at": "2026-10-29"
+}

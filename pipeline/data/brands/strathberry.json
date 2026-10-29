@@ -1,0 +1,60 @@
+{
+  "slug": "strathberry",
+  "name": "Strathberry",
+  "website_url": "https://www.strathberry.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Edinburgh-Designed Leather Handbags",
+  "hq_country": "GB",
+  "founded_year": 2013,
+  "parent_company": null,
+  "size_range": "Nano, Mini, Midi and Maxi sizes",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "GB"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "handbags",
+      "currency": "USD",
+      "min": 495.0,
+      "max": 995.0,
+      "min_usd": 495.0,
+      "max_usd": 995.0,
+      "fx_date": null,
+      "item_count": 103,
+      "source_url": "https://us.strathberry.com/collections/the-strathberry-designer-collection",
+      "checked_at": "2026-10-29",
+      "note": "US store (us.strathberry.com, USD). Headless store, no products.json; read the first page (up to 20 tiles) of 9 collections (bestsellers, new arrivals, designer collection 208 products, tote, Kite, Mosaic, Nest, Sway, Corda): 103 distinct colourways, no struck-through or markdown prices shown. Bags only (wallets, pouches, bracelets excluded): low Kite on a Chain ($495), high Tote ($995). Mosaic Nano $635, Mosaic Bag $745, Midi Tote $875. Partial read: the full 208-item range wasn't paged."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": "Designed in Edinburgh, made in Spain",
+  "sale_pattern": null,
+  "sells_categories": [
+    "handbags"
+  ],
+  "sources": [
+    "https://www.strathberry.com/",
+    "https://us.strathberry.com/collections/the-strathberry-designer-collection",
+    "https://us.strathberry.com/collections/bestsellers",
+    "https://us.strathberry.com/collections/kite-collection",
+    "https://us.strathberry.com/collections/mosaic-collection",
+    "https://us.strathberry.com/pages/delivery",
+    "https://us.strathberry.com/pages/returns",
+    "https://www.strathberry.com/pages/about-us",
+    "https://www.strathberry.com/pages/delivery"
+  ],
+  "notes": [
+    "About: 'Strathberry is an Edinburgh-based global brand specialising in luxury leather goods, founded in 2013 by husband-and-wife team Guy and Leeanne Hundleby. Designed in Scotland, handcrafted in Spain.' Workshops in Ubrique, Spain; signature Music Bar hardware (https://www.strathberry.com/pages/about-us).",
+    "US delivery: Standard 3–6 business days free; 2 business days $20; next day $30; 'All US orders are shipped on a delivery duty paid basis' (https://us.strathberry.com/pages/delivery). US returns: 'Free 30-day returns, on all eligible US orders' (https://us.strathberry.com/pages/returns). UK store ships free standard in the UK (https://www.strathberry.com/pages/delivery). Regional stores also exist for CA, AU and others (store selector), not read."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,1083 @@
+{
+  "subject": "Chrome Hearts",
+  "slug": "chrome-hearts",
+  "url_prefix": "brands",
+  "category": {
+    "slug": "rings",
+    "name": "Rings",
+    "why": "Searchers want Chrome Hearts' silver jewelry: every editorial list on page one except one eyewear list is about heavy silver (RetailBoss, Struga, streetwear.directory's independent makers), and they price and compare rings more than any other piece. C is rings, the product type those lists set side by side. Chrome Hearts' own online shop sells only Baccarat, Scents and Underwear (boxers, intimates, socks), so it has no ring price from its own store and the anchor can't pass the gate for rings. Underwear is the only fashion category priceable on chromehearts.com (Boxers & Leggings $95-$275), but nobody searching this wants underwear alternatives and no source names one, so it was not used as C. Ring ranges are each store's whole regular-price rings collection, silver to gold."
+  },
+  "serp": [
+    {
+      "keyword": "brands like chrome hearts",
+      "position": 1,
+      "url": null,
+      "kept": false,
+      "why_dropped": "AI overview, no URL"
+    },
+    {
+      "keyword": "brands like chrome hearts",
+      "position": 1,
+      "url": "https://www.instagram.com/p/DT6wU4DkX5L/",
+      "kept": false,
+      "why_dropped": "social post promoting the RetailBoss article; read the article itself instead"
+    },
+    {
+      "keyword": "brands like chrome hearts",
+      "position": 1,
+      "url": "https://www.facebook.com/retailboss/posts/10-brands-similar-to-chrome-heartsheavy-sterling-silver-biker-subculture-dark-lu/1492559672875930/",
+      "kept": false,
+      "why_dropped": "social post promoting the RetailBoss article (same source)"
+    },
+    {
+      "keyword": "brands like chrome hearts",
+      "position": 1,
+      "url": "https://www.tiktok.com/@topfloor.ricky/video/7512736295865634066?lang=en",
+      "kept": false,
+      "why_dropped": "TikTok renders nothing to WebFetch ('TikTok - Make Your Day'); title names Ang, Bill Warren, Lionheart, not counted"
+    },
+    {
+      "keyword": "brands like chrome hearts",
+      "position": 2,
+      "url": "https://www.reddit.com/r/ChromeHeart/comments/ypomfw/other_brands_ch_fans_like/",
+      "kept": false,
+      "why_dropped": "reddit refuses WebFetch; not read, no workaround (sitelinks r/ChromeHeart silver brands and r/jewelry also skipped)"
+    },
+    {
+      "keyword": "brands like chrome hearts",
+      "position": 4,
+      "url": "https://streetwear.directory/brands/brands-like-chrome-hearts",
+      "kept": true,
+      "why_dropped": null
+    },
+    {
+      "keyword": "brands like chrome hearts",
+      "position": 6,
+      "url": "https://www.tiktok.com/discover/brands-like-chrome-hearts-but-cheaper",
+      "kept": false,
+      "why_dropped": "TikTok discover page, unreadable"
+    },
+    {
+      "keyword": "brands like chrome hearts",
+      "position": 7,
+      "url": "https://vieweyewear.com/blog/brands-like-chrome-hearts-eyewear",
+      "kept": true,
+      "why_dropped": null,
+      "note": "eyewear alternatives only; no ring sellers"
+    },
+    {
+      "keyword": "brands like chrome hearts",
+      "position": 8,
+      "url": "https://strugadesign.com/blogs/journal/brands-like-chrome-hearts-affordable-dark-silver",
+      "kept": true,
+      "why_dropped": null,
+      "note": "published by STRUGA, a competing silver brand that lists itself #1"
+    },
+    {
+      "keyword": "brands like chrome hearts",
+      "position": 9,
+      "url": "https://www.chromehearts.com/",
+      "kept": false,
+      "why_dropped": "anchor's own site"
+    },
+    {
+      "keyword": "brands like chrome hearts",
+      "position": 10,
+      "url": "https://www.facebook.com/fb-answers/brands-that-look-like-chrome-hearts/",
+      "kept": false,
+      "why_dropped": "renders only 'Facebook' to WebFetch"
+    },
+    {
+      "keyword": "stores like chrome hearts",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs returned no US SERP rows"
+    },
+    {
+      "keyword": "chrome hearts alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs returned no US SERP rows"
+    },
+    {
+      "keyword": "similar to chrome hearts",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs returned no US SERP rows"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": "Bergdorf Goodman / Selfridges",
+      "url": "https://en.wikipedia.org/wiki/Chrome_Hearts",
+      "used": false,
+      "why": "Wikipedia names them as Chrome Hearts stockists; not checked (they rarely list Chrome Hearts jewelry online, and co-stocked brands there would be clothing, not ring makers)."
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "result": "Chrome Hearts has 26 pool rows: Stephen Webster, King Baby Studio, Queen of Darkness, Steampunk Jewelry Co., Necromance, Hirotaka, Sevan Bicakci, Konstantino, Biko, Delfina Delettrez, Alison Lou, Spiked & Co., The Gothic Shop, Ariel Gordon, Bling Empire Jewelry, John Hardy, Von Dutch, Buffalo London, Jacquie Aiche, Anita Ko, Loren Stewart, David Webb, Corum, Karen Walker, King Ice, Alchemy Gothic. None has a fetchable outside source naming it as a Chrome Hearts alternative."
+  },
+  "candidates": [
+    {
+      "name": "Bill Wall Leather",
+      "slug": "bill-wall-leather",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://streetwear.directory/brands/brands-like-chrome-hearts",
+          "note": "Independent makers: \"Handmade in Malibu California\"; Horse Head charm $166"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://strugadesign.com/blogs/journal/brands-like-chrome-hearts-affordable-dark-silver",
+          "note": "#8: originals \"carved from silver blocks, then reproduced by casting in limited numbers\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://retailboss.co/10-best-brands-most-similar-chrome-hearts/",
+          "note": "#5 of 10"
+        }
+      ]
+    },
+    {
+      "name": "The Great Frog",
+      "slug": "the-great-frog",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://streetwear.directory/brands/brands-like-chrome-hearts",
+          "note": "Independent makers: \"London's rock'n'roll jewellers\" (est. 1972)"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://strugadesign.com/blogs/journal/brands-like-chrome-hearts-affordable-dark-silver",
+          "note": "#3: skull forms, Anatomical Skull rings; rings from £130"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://retailboss.co/10-best-brands-most-similar-chrome-hearts/",
+          "note": "#4 of 10"
+        }
+      ]
+    },
+    {
+      "name": "Hard Jewelry",
+      "slug": "hard-jewelry",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://strugadesign.com/blogs/journal/brands-like-chrome-hearts-affordable-dark-silver",
+          "note": "#2: \"offers silver and steel with gothic motifs\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://retailboss.co/10-best-brands-most-similar-chrome-hearts/",
+          "note": "#8 of 10"
+        }
+      ]
+    },
+    {
+      "name": "Gaboratory",
+      "slug": "gaboratory",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://strugadesign.com/blogs/journal/brands-like-chrome-hearts-affordable-dark-silver",
+          "note": "#9: skulls and links, Quarter 11 Skull Links Bracelet; 3-10 week delivery"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://retailboss.co/10-best-brands-most-similar-chrome-hearts/",
+          "note": "#1: \"The 'Godfather' of the style; deep biker roots\""
+        }
+      ]
+    },
+    {
+      "name": "Good Art HLYWD",
+      "slug": "good-art-hlywd",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://streetwear.directory/brands/brands-like-chrome-hearts",
+          "note": "Independent makers: hand-made in its own Los Angeles foundry; Poplock A bracelet $445"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://retailboss.co/10-best-brands-most-similar-chrome-hearts/",
+          "note": "#3 of 10"
+        }
+      ]
+    },
+    {
+      "name": "Clocks and Colours",
+      "slug": "clocks-and-colours",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://retailboss.co/10-best-brands-most-similar-chrome-hearts/",
+          "note": "#10 of 10 (Clocks + Colours)"
+        }
+      ]
+    },
+    {
+      "name": "Werkstatt:München",
+      "slug": "werkstatt-munchen",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://strugadesign.com/blogs/journal/brands-like-chrome-hearts-affordable-dark-silver",
+          "note": "#6: construction, \"each component being made separately\"; forged silver band from €175"
+        }
+      ]
+    },
+    {
+      "name": "OSS",
+      "slug": "oss",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://strugadesign.com/blogs/journal/brands-like-chrome-hearts-affordable-dark-silver",
+          "note": "#5: \"a form often develops while the material is being worked\"; Tiny Band Ring Bis $199"
+        }
+      ]
+    },
+    {
+      "name": "Parts of Four",
+      "slug": "parts-of-four",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://strugadesign.com/blogs/journal/brands-like-chrome-hearts-affordable-dark-silver",
+          "note": "#7: sculptural work; silver ring from €310"
+        }
+      ]
+    },
+    {
+      "name": "Lone Ones",
+      "slug": "lone-ones",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://streetwear.directory/brands/brands-like-chrome-hearts",
+          "note": "Independent makers: founded 1996 by a Chrome Hearts founding member; Crane Bell Pendant ¥90,000"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://strugadesign.com/blogs/journal/brands-like-chrome-hearts-affordable-dark-silver",
+          "note": "#10: founded by Leonard Kamhout, one of Chrome Hearts' founders, in 1996; bell pendants"
+        }
+      ]
+    },
+    {
+      "name": "Struga",
+      "slug": "struga",
+      "in_apart_pool": false,
+      "sources": []
+    },
+    {
+      "name": "Chin Teo",
+      "slug": "chin-teo",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://strugadesign.com/blogs/journal/brands-like-chrome-hearts-affordable-dark-silver",
+          "note": "#4: Cage Ring Mini €154 via RAW Looks"
+        }
+      ]
+    },
+    {
+      "name": "AMBUSH",
+      "slug": "ambush",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/chrome-hearts",
+          "note": "70% match: sterling silver jewelry as its core product"
+        }
+      ]
+    },
+    {
+      "name": "Neighborhood",
+      "slug": "neighborhood",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://streetwear.directory/brands/brands-like-chrome-hearts",
+          "note": "#1 streetwear: biker and rock-and-roll roots, 2017 silver medal collab"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/chrome-hearts",
+          "note": "72% match: heavy silver accessories, not jewelry-led"
+        }
+      ]
+    },
+    {
+      "name": "Wacko Maria",
+      "slug": "wacko-maria",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://streetwear.directory/brands/brands-like-chrome-hearts",
+          "note": "#4: 925 silver Nude Ring €205 at Firmament Berlin"
+        }
+      ]
+    },
+    {
+      "name": "Enfants Riches Déprimés",
+      "slug": "enfants-riches-deprimes",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://retailboss.co/10-best-brands-most-similar-chrome-hearts/",
+          "note": "#2"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/chrome-hearts",
+          "note": "82% match: no jewelry or silver craft"
+        }
+      ]
+    },
+    {
+      "name": "Rick Owens",
+      "slug": "rick-owens",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://retailboss.co/10-best-brands-most-similar-chrome-hearts/",
+          "note": "#6"
+        }
+      ]
+    },
+    {
+      "name": "Guidi",
+      "slug": "guidi",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://retailboss.co/10-best-brands-most-similar-chrome-hearts/",
+          "note": "#9"
+        }
+      ]
+    },
+    {
+      "name": "AMIRI",
+      "slug": "amiri",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://streetwear.directory/brands/brands-like-chrome-hearts",
+          "note": "#6 streetwear: distressed denim, leather, rock-and-roll styling"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/chrome-hearts/cheaper",
+          "note": "#2: began customising stage clothes for rock musicians"
+        }
+      ]
+    },
+    {
+      "name": "King Baby Studio",
+      "slug": "king-baby-studio",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Stephen Webster",
+      "slug": "stephen-webster",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Queen of Darkness",
+      "slug": "queen-of-darkness",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Steampunk Jewelry Co.",
+      "slug": "steampunk-jewelry-co",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Necromance",
+      "slug": "necromance",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Hirotaka",
+      "slug": "hirotaka",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Sevan Bicakci",
+      "slug": "sevan-bicakci",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Konstantino",
+      "slug": "konstantino",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Biko",
+      "slug": "biko",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Delfina Delettrez",
+      "slug": "delfina-delettrez",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Alison Lou",
+      "slug": "alison-lou",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Spiked & Co.",
+      "slug": "spiked-co",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "The Gothic Shop",
+      "slug": "the-gothic-shop",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Ariel Gordon",
+      "slug": "ariel-gordon",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Bling Empire Jewelry",
+      "slug": "bling-empire-jewelry",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "John Hardy",
+      "slug": "john-hardy",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Von Dutch",
+      "slug": "von-dutch",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Buffalo London",
+      "slug": "buffalo-london",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Jacquie Aiche",
+      "slug": "jacquie-aiche",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Anita Ko",
+      "slug": "anita-ko",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Loren Stewart",
+      "slug": "loren-stewart",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "David Webb",
+      "slug": "david-webb",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Corum",
+      "slug": "corum",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Karen Walker",
+      "slug": "karen-walker",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "King Ice",
+      "slug": "king-ice",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Alchemy Gothic",
+      "slug": "alchemy-england",
+      "in_apart_pool": true,
+      "sources": []
+    }
+  ],
+  "picks": [
+    {
+      "slug": "bill-wall-leather",
+      "rank": 1,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 166,
+        "max": 42806,
+        "min_usd": 166,
+        "max_usd": 42806,
+        "fx_date": null,
+        "item_count": 330
+      },
+      "price_relation": null,
+      "reason": "Bill Wall Leather has made biker silver and leather in Malibu since 1985, carving each original from a silver block; rings run $166 to $42,806, most made to order, with 30-day returns on regular-price pieces.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://streetwear.directory/brands/brands-like-chrome-hearts",
+          "note": "Independent makers: \"Handmade in Malibu California\"; Horse Head charm $166"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://strugadesign.com/blogs/journal/brands-like-chrome-hearts-affordable-dark-silver",
+          "note": "#8: originals \"carved from silver blocks, then reproduced by casting in limited numbers\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://retailboss.co/10-best-brands-most-similar-chrome-hearts/",
+          "note": "#5 of 10"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "the-great-frog",
+      "rank": 2,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": {
+        "currency": "GBP",
+        "min": 130,
+        "max": 5800,
+        "min_usd": 172.74,
+        "max_usd": 7706.8,
+        "fx_date": "2026-10-28",
+        "item_count": 223
+      },
+      "price_relation": null,
+      "reason": "The Great Frog is a London rock'n'roll jeweller founded in 1972 with US stores in New York and Los Angeles; rings are £130 to £5,800, duties are prepaid at checkout and online orders have 28-day refunds.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://streetwear.directory/brands/brands-like-chrome-hearts",
+          "note": "Independent makers: \"London's rock'n'roll jewellers\" (est. 1972)"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://strugadesign.com/blogs/journal/brands-like-chrome-hearts-affordable-dark-silver",
+          "note": "#3: skull forms, Anatomical Skull rings; rings from £130"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://retailboss.co/10-best-brands-most-similar-chrome-hearts/",
+          "note": "#4 of 10"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "hard-jewelry",
+      "rank": 3,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 26.95,
+        "max": 372.95,
+        "min_usd": 26.95,
+        "max_usd": 372.95,
+        "fx_date": null,
+        "item_count": 72
+      },
+      "price_relation": null,
+      "reason": "Hard Jewelry, from Ogden, Utah, sells gothic rings in stainless steel or .925 sterling silver at $26.95 to $372.95 (Biohazard Ring $32.95 steel, $52.95 silver), US sizes 3 to 13, 14-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://strugadesign.com/blogs/journal/brands-like-chrome-hearts-affordable-dark-silver",
+          "note": "#2: \"offers silver and steel with gothic motifs\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://retailboss.co/10-best-brands-most-similar-chrome-hearts/",
+          "note": "#8 of 10"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "gaboratory",
+      "rank": 4,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 223,
+        "max": 2290,
+        "min_usd": 223,
+        "max_usd": 2290,
+        "fx_date": null,
+        "item_count": 174
+      },
+      "price_relation": null,
+      "reason": "Gaboratory's official shop sells Silver925 skull and biker rings at US$223 to US$2,290, made to order with 3 to 10 weeks' delivery and flat US$38.70 EMS shipping to North America.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://strugadesign.com/blogs/journal/brands-like-chrome-hearts-affordable-dark-silver",
+          "note": "#9: skulls and links, Quarter 11 Skull Links Bracelet; 3-10 week delivery"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://retailboss.co/10-best-brands-most-similar-chrome-hearts/",
+          "note": "#1: \"The 'Godfather' of the style; deep biker roots\""
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "good-art-hlywd",
+      "rank": 5,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 310,
+        "max": 6825,
+        "min_usd": 310,
+        "max_usd": 6825,
+        "fx_date": null,
+        "item_count": 52
+      },
+      "price_relation": null,
+      "reason": "Good Art HLYWD makes sterling silver and gold rings by hand in its Los Angeles foundry at $310 to $6,825, with free USPS Priority shipping in the US and US sizes 3.5 to 14.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://streetwear.directory/brands/brands-like-chrome-hearts",
+          "note": "Independent makers: hand-made in its own Los Angeles foundry; Poplock A bracelet $445"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://retailboss.co/10-best-brands-most-similar-chrome-hearts/",
+          "note": "#3 of 10"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "clocks-and-colours",
+      "rank": 6,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 69,
+        "max": 359,
+        "min_usd": 69,
+        "max_usd": 359,
+        "fx_date": null,
+        "item_count": 108
+      },
+      "price_relation": null,
+      "reason": "Clocks and Colours, a Toronto brand hand-carved in Bali, sells rings in stainless steel or sterling silver at $69 to $359 in US sizes 3 to 16, free shipping over $100 and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://retailboss.co/10-best-brands-most-similar-chrome-hearts/",
+          "note": "#10 of 10 (Clocks + Colours)"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "werkstatt-munchen",
+      "rank": 7,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "EUR",
+        "min": 175,
+        "max": 20250,
+        "min_usd": 194.83,
+        "max_usd": 22544.33,
+        "fx_date": "2026-10-28",
+        "item_count": 100
+      },
+      "price_relation": null,
+      "reason": "Werkstatt:München has handmade jewelry in its own Munich atelier since 1996, with forged silver rings from €175 (about $195) and a cross ring forged at €385, French sizes 49 to 68.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://strugadesign.com/blogs/journal/brands-like-chrome-hearts-affordable-dark-silver",
+          "note": "#6: construction, \"each component being made separately\"; forged silver band from €175"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "oss",
+      "rank": 8,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "EUR",
+        "min": 180,
+        "max": 660,
+        "min_usd": 200.39,
+        "max_usd": 734.78,
+        "fx_date": "2026-10-28",
+        "item_count": 91
+      },
+      "price_relation": null,
+      "reason": "OSS handmakes rings to order in oxidized or black Silver 925 in Madrid at €180 to €660 (about $200 to $735), US sizes 4 to 15, shipped worldwide by UPS; all sales are final.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://strugadesign.com/blogs/journal/brands-like-chrome-hearts-affordable-dark-silver",
+          "note": "#5: \"a form often develops while the material is being worked\"; Tiny Band Ring Bis $199"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "parts-of-four",
+      "rank": 9,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "EUR",
+        "min": 310,
+        "max": 12340,
+        "min_usd": 345.12,
+        "max_usd": 13738.12,
+        "fx_date": "2026-10-28",
+        "item_count": 1278
+      },
+      "price_relation": null,
+      "reason": "Parts of Four, founded 2011 by Evan Sugerman, sells rings from €310 (matte sterling silver) to €12,340 (gold and diamonds), with free worldwide shipping, duties paid and 14-day exchange or credit returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://strugadesign.com/blogs/journal/brands-like-chrome-hearts-affordable-dark-silver",
+          "note": "#7: sculptural work; silver ring from €310"
+        }
+      ],
+      "gate_gaps": []
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "lone-ones",
+      "why": "verified (West Hollywood flagship on loneones.com) but no ring sold or priced on the official site, and no official page names rings; loneones-online.com is a Japanese shop by P&T Trading, not confirmed official. 2 sources; would be a pick if the official site lists rings."
+    },
+    {
+      "slug": "ambush",
+      "why": "own store lists 27 rings ($204.82-$682.77, likely converted from JPY), but no page names the US as a destination (overseas flat $20 by DHL) and returns are defects-only. 1 source (disco brand page). Not picked: US shipping unconfirmed."
+    },
+    {
+      "slug": "struga",
+      "why": "its only source is its own article (STRUGA lists itself #1 in its 'Brands Like Chrome Hearts' post); no outside evidence. Not verified."
+    },
+    {
+      "slug": "chin-teo",
+      "why": "no official store: chinteo.com answers 404; Struga links only a retailer (rawlooks.com). Not verified."
+    },
+    {
+      "slug": "neighborhood",
+      "why": "neighborhood.jp products.json (317 products) has no rings: Accessories are bags/headwear; not a ring seller. Not written to a brand file."
+    },
+    {
+      "slug": "wacko-maria",
+      "why": "only ring evidence is a retailer listing (Firmament Berlin); wackomaria.co.jp has no readable ring catalog (products.json 404). Not verified within budget."
+    },
+    {
+      "slug": "amiri",
+      "why": "amiri.com products.json (801 products): no rings. Clothing and accessories only. Not written to a brand file."
+    },
+    {
+      "slug": "enfants-riches-deprimes",
+      "why": "disco brand page: 'no jewelry or silver craft'; clothing label. Not checked further."
+    },
+    {
+      "slug": "rick-owens",
+      "why": "RetailBoss #6; clothing and footwear label, not checked for rings within the 25-candidate budget."
+    },
+    {
+      "slug": "guidi",
+      "why": "RetailBoss #9; leather footwear, not a ring seller. Not checked."
+    },
+    {
+      "slug": "king-baby-studio",
+      "why": "Apart Style pool brand; kingbabystudio.com sells 200 regular-price men's rings ($145-$11,700, ships to US), but the only outside mention found is a Purseblog thread that answers 403 to WebFetch. No fetchable outside source, so not a pick. Not written to a brand file."
+    },
+    {
+      "slug": "vieweyewear-picks",
+      "why": "Jacques Marie Mage, T Henri, Anna Karin Karlsson, Cartier, Kuboraum, Anne et Valentin, Gazal, Lindberg, Akoni: eyewear alternatives (vieweyewear.com), not ring sellers for this page (Cartier is named for eyewear only)."
+    },
+    {
+      "slug": "disco-clothing-picks",
+      "why": "John Varvatos, Alexander McQueen, Givenchy, Balenciaga, Saint Laurent, Balmain, Vetements, Fear of God, Margiela, A-Cold-Wall, Palm Angels, Undercover, Ann Demeulemeester (disco 'cheaper' list) and streetwear.directory's Mastermind, Number (N)ine, Thug Club, Hellstar, Gallery Dept., Saint Michael, Pleasures: clothing labels named for Chrome Hearts' apparel, not checked for rings within budget."
+    },
+    {
+      "slug": "other-pool",
+      "why": "the other 25 Apart Style pool brands (Stephen Webster, King Ice, John Hardy, Alchemy Gothic and others) have no outside source naming them as a Chrome Hearts alternative. Not checked."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "anchor price: rings",
+      "url": "https://www.chromehearts.com/",
+      "check": "Chrome Hearts sells no rings online, so the anchor has no rings price and the page can't be indexed for C = rings. Decide: keep the page noindex, or price rings from an official in-store source if Chrome Hearts publishes one."
+    },
+    {
+      "fact": "evidence quality: Struga article",
+      "url": "https://strugadesign.com/blogs/journal/brands-like-chrome-hearts-affordable-dark-silver",
+      "check": "Published by STRUGA, a competing silver brand that lists itself #1. It's the only source for Werkstatt:München, OSS and Parts of Four, and one of two for Hard Jewelry and Gaboratory. Confirm it counts as editorial."
+    },
+    {
+      "fact": "Gaboratory official shop",
+      "url": "https://gaboratory.ocnk.net/",
+      "check": "Titled 'Gaboratory Holding Inc. Official Shopping Site' but footer © Upwell Co., Ltd.; gaboratory.com renders no links to WebFetch. Confirm it is the brand's own store and its HQ country."
+    },
+    {
+      "fact": "pick check: Lone Ones",
+      "url": "https://loneones.com/",
+      "check": "Founded by Chrome Hearts co-founder Leonard Kamhout, 2 sources, West Hollywood flagship. Confirm whether loneones.com sells rings online with prices; it would be the strongest pick."
+    },
+    {
+      "fact": "pick check: AMBUSH",
+      "url": "https://www.ambushdesign.com/legal",
+      "check": "Confirm the store ships to the US (overseas flat $20 by DHL, no destination list) and the ring currency; would be a 10th pick."
+    },
+    {
+      "fact": "pick check: King Baby Studio",
+      "url": "https://kingbabystudio.com/collections/mens-rings",
+      "check": "Rings $145-$11,700, ships to US; needs one fetchable outside source naming it as a Chrome Hearts alternative."
+    },
+    {
+      "fact": "Hard Jewelry free-shipping threshold",
+      "url": "https://www.hardjewelry.com/pages/shipping-policy",
+      "check": "Banner says free US shipping over $75, policy says free on all domestic orders; left empty."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": {
+    "source": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+    "date": "2026-10-28",
+    "per_eur": {
+      "USD": 1.1133,
+      "GBP": 0.83785,
+      "JPY": 175.86
+    },
+    "note": "Read 2026-10-29. EUR prices x 1.1133; GBP prices / 0.83785 x 1.1133."
+  },
+  "notes": [
+    "Anchor: status verified (live, sells underwear online). missingAnchorFacts for rings: sizeRange and price:rings (plus imageUrl if none). The page can't be indexable while Chrome Hearts sells no rings online; every price_relation is null for the same reason (no anchor ring price).",
+    "Prices: Shopify public products.json for each store's rings collection (Bill Wall Leather, The Great Frog, Hard Jewelry, Werkstatt:München all-rings, OSS, Parts of Four) or product_type Ring(s) on the full catalog (Good Art HLYWD, Clocks and Colours); Gaboratory from its ocnk.net ring list pages. Regular = no variant with compare_at_price above price; price-zero items dropped. Ranges include gold and diamond rings in the same collection, which is why tops run into thousands; named products and copy_facts carry the silver entry points.",
+    "ships_to: from each Shopify store's own /meta.json ships_to_countries (all list US, CA, GB, AU; Parts of Four '*'). Gaboratory from its EMS zone table.",
+    "Ranking: independent sources, then lowest starting ring price in USD (there's no anchor ring price to measure closeness against). Bill Wall Leather ($166) before The Great Frog (£130 = $172.74); Hard Jewelry ($26.95), Gaboratory ($223), Good Art ($310) at 2 sources; Clocks and Colours ($69), Werkstatt ($194.83), OSS ($200.39), Parts of Four ($345.12) at 1.",
+    "9 picks, not padded: Lone Ones, AMBUSH and King Baby are the next three and each fails one rule (see rejected / human_check)."
+  ],
+  "web_search": [
+    {
+      "query": "retailboss 10 brands similar to Chrome Hearts",
+      "url": "https://retailboss.co/10-best-brands-most-similar-chrome-hearts/",
+      "kept": true,
+      "note": "RetailBoss, Jeanel Alvarado, Jan 19 2026; the article behind the Instagram/Facebook SERP posts. Ranks by community mentions plus aesthetic; position 7 missing in the fetched text."
+    },
+    {
+      "query": "retailboss 10 brands similar to Chrome Hearts",
+      "url": "https://www.discobrands.co/blogs/chrome-hearts/cheaper",
+      "kept": true,
+      "note": "disco 'Cheaper alternatives to Chrome Hearts' (template, no author, Jul 2026): clothing labels only, none sell rings among those checked"
+    },
+    {
+      "query": "retailboss 10 brands similar to Chrome Hearts",
+      "url": "https://www.discobrands.co/brands/chrome-hearts",
+      "kept": true,
+      "note": "disco brand page: ERD, Gallery Dept, Neighborhood, Ambush (only 4 of 20 shown)"
+    },
+    {
+      "query": "Chrome Hearts jewelry alternatives silver rings brands like Chrome Hearts",
+      "url": "https://strugadesign.com/pages/chrome-hearts-alternative",
+      "kept": false,
+      "note": "STRUGA's own marketing pages; not counted"
+    },
+    {
+      "query": "best silver jewelry brands like Chrome Hearts Great Frog Gaboratory King Baby Good Art",
+      "url": "https://supertalk.superfuture.com/topic/8008-dog-tag-cross-necklace/",
+      "kept": false,
+      "note": "403 to WebFetch; not read"
+    },
+    {
+      "query": "best silver jewelry brands like Chrome Hearts Great Frog Gaboratory King Baby Good Art",
+      "url": "https://forum.purseblog.com/threads/is-chrome-hearts-jewellery-worth-it.384073/",
+      "kept": false,
+      "note": "403 to WebFetch; not read (would be King Baby's only outside source)"
+    },
+    {
+      "query": "\"King Baby\" Chrome Hearts alternative jewelry",
+      "url": null,
+      "kept": false,
+      "note": "no fetchable editorial list naming King Baby as an alternative"
+    }
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "You want a heavy silver ring with a skull or a cross on it, and Chrome Hearts won't sell you one online. Its web shop stops at underwear, scents and Baccarat crystal, so its jewelry means a trip to one of its boutiques. Here are nine silver makers that do sell rings online and ship to the US. The biker and rock'n'roll houses come first, the sculptors last.",
+    "bodies": {
+      "bill-wall-leather": "Bill Wall Leather is the pick for carved biker silver with real history behind it, and the Double Skull Ring ($216) is a good first piece. It's an open ring, shaped to your size and adjustable later.\n\nBill Wall started the brand in Malibu in 1985, sewing his own leather riding gear after a motorcycle crash. He still carves each original out of a block of silver, then casts it in small numbers, and most pieces are made to order. Rings start at $166, and the top of the range is custom gold and pavé work past $40,000.\n\nThere's no Bill Wall store to try anything on. To hold a ring before you buy, go to The Great Frog's shops in New York or LA.",
+      "the-great-frog": "The Great Frog is the one to choose if you want skull rings from a shop you can walk into. It's been making rock'n'roll jewelry in London since 1972, and it has US stores on Orchard Street in New York and Melrose Avenue in LA. The Small Skull Ring (£145, about $193) is where to start.\n\nOnline, prices are in pounds, and duties and taxes are charged at checkout. So the total you see is the total you pay, with no bill at the door. The Skull & Crossbones Ring (£235, about $312) is made to order in sterling silver, and handmade pieces take about a week before they're posted.\n\nSizes are UK letters, from F½ to Z+1, so check yours first. Online jewelry can't be exchanged. A wrong size means a refund within 28 days and a fresh order.",
+      "hard-jewelry": "Hard Jewelry is where to start if Chrome Hearts prices are the problem. Most of its gothic rings come in stainless steel or .925 sterling silver, and the steel versions start under $35.\n\nThat choice is the useful part. The Biohazard Ring costs $32.95 in steel and $52.95 in silver, so you can try a design cheaply, then buy it in silver once you know you'll wear it. The DYT Coffin Ring ($42.95 in steel) has an inner ring that slides out to reveal a hidden coffin. It's a Utah brand, and US sizes run from 3 to 13.\n\nThe catch is the return window. You get 14 days, under half of what Clocks and Colours gives you, so order carefully.",
+      "gaboratory": "Gaboratory is the one for collector-grade biker silver, if you can wait for it. Its skull rings start with the Flat Bar Ring (US$223) and pass $2,000 for full-head skulls like the Moon Face Ring ($2,223).\n\nMost pieces are made to order, with delivery quoted at 3 to 10 weeks, and EMS shipping to North America is a flat $38.70. The listed prices are starting prices, and options add to them, so open the ring to see what yours will cost. The shop also runs deep on wallet chains and leather wallets, if you want the whole biker set from one maker.\n\nNeed one sooner? The Great Frog makes its pieces in about a week and ships by DHL.",
+      "good-art-hlywd": "Good Art HLYWD is the pick if you want a signet or a band rather than a skull. It makes its silver by hand in its own Los Angeles foundry, and the Cigar Band ($475) takes its shape from a cigar label laid flat.\n\nThe Slim Cigar Band ($385) is the cheaper way into the same design. US shipping is free by USPS Priority Mail, and sizes run from US 3.5 to 14, so smaller and larger hands are both covered. Made-to-order pieces take 4 to 6 weeks, while Ready To Ship pieces go out in 3 to 5 business days.\n\nReturns are the weak spot. You get 14 days, for an exchange or store credit only, and a 20% restocking fee comes off the credit. Be sure of your size first.",
+      "clocks-and-colours": "Clocks and Colours is the budget pick for skull rings that come in sterling silver. The Salt & Bone ($69 in steel, $129 in silver) puts a small skull on a bone-shaped band.\n\nIt's a Toronto brand, and its silver is hand-carved in Bali. Most rings come in steel or silver, with steel from $69 and silver up to $359. US sizes go from 3 to 16, the widest range on this list, so it's the one to check if other makers stop short of your size. Shipping is free over $100, and you get 30 days to return.\n\nFor more than a band, Shadow's Wake ($289) sets a silver raven on a band of ivy and thorns.",
+      "werkstatt-munchen": "Werkstatt:München is the one for hammered, hand-forged silver with a cross on it. Its cross ring forged (€385, about $429) is forged from a bar of silver and winds round the finger twice, so it reads as two rings.\n\nKlaus Lohmeyer, a master gold and silversmith, started it in Munich in 1996, and everything is still handmade in its own atelier. Plain bands like the ring classic round forged start at €175 (about $195). Sizes use French numbers, from 49 to 68, so convert yours before you order.\n\nThe extra costs add up for US buyers. Shipping is €43 and import duties are paid on delivery. A return from outside the EU also loses a €50 fee.",
+      "oss": "OSS makes rings that sit somewhere between jewelry and sculpture, handmade in Madrid, and the PSI Ring (€180, about $200) is the easiest way in.\n\nEach piece is made to order in oxidized or black silver. The Centurion Ring (€200, about $223) adds a hand-engraved logo, and the range tops out at €660 (about $735), so it stays well under Werkstatt:München's big pieces. Sizes run from US 4 to 15 across the range. It ships worldwide by UPS, in 4 to 8 business days outside Europe.\n\nKnow your size before you buy, because all sales are final. There are no refunds or change-of-mind returns. If that's a deal-breaker, Werkstatt:München's bands come with a 14-day return.",
+      "parts-of-four": "Parts of Four is the art-world take on dark silver, and it's the one pick here that ships free worldwide and pays your import duties. The Crescent Rift Ring in matte sterling silver (€310, about $345) is the entry point.\n\nEvan Sugerman, a Los Angeles-born artist, started it in 2011, and you can visit in Paris. The product names carry codes for the metal, which is worth learning before you browse. MA means matte sterling silver, while 18K and DIA mean gold and diamonds, and that's how prices climb past €12,000.\n\nReturns are an exchange or store credit within 14 days, not a refund. In the US, Atelier in New York and H. Lorenzo in West Hollywood stock it."
+    },
+    "best_for": {
+      "bill-wall-leather": "a carved silver skull ring with real biker history",
+      "the-great-frog": "skull rings you can try on in New York or LA",
+      "hard-jewelry": "trying a gothic design in steel before buying it in silver",
+      "gaboratory": "collector skull rings, if you can wait a few weeks",
+      "good-art-hlywd": "a handmade LA signet or band instead of a skull",
+      "clocks-and-colours": "silver skull rings under $150, in sizes up to 16",
+      "werkstatt-munchen": "a forged silver cross ring made by hand in Munich",
+      "oss": "sculptural silver rings, if you're sure of your size",
+      "parts-of-four": "art-piece silver shipped free with your duties paid"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with what you'll spend. Hard Jewelry and Clocks and Colours both start under $70, and both let you choose steel or silver. From about $150 to $500 you're into handmade silver. Go to The Great Frog or Bill Wall Leather for skulls and biker motifs, Werkstatt:München or OSS for hammered and sculptural shapes, and Good Art HLYWD for signets and bands. Gaboratory and Parts of Four go well past $1,000 for their big pieces.\n\nThen think about returns. OSS takes nothing back, Good Art gives credit only, and Bill Wall Leather and Clocks and Colours give you 30 days. If you want to hold the ring first, go to The Great Frog in New York or LA."
+    },
+    "faqs": [
+      {
+        "q": "Who owns Chrome Hearts?",
+        "a": "Richard Stark and his wife, Laurie Lynn Stark. It's a private company with no parent group. Stark founded it in Los Angeles in 1988 with John Bowman and Leonard Kamhout, who both left in 1994.",
+        "source_query": "who owns chrome hearts"
+      },
+      {
+        "q": "Where can you buy Chrome Hearts jewelry?",
+        "a": "In its own boutiques. The online shop sells underwear, scents and Baccarat crystal, but no jewelry. In the US, there are boutiques in Los Angeles, Malibu, New York, Miami, Las Vegas, Aspen and Honolulu.",
+        "source_query": "where to buy chrome hearts jewelry"
+      },
+      {
+        "q": "Where is Chrome Hearts made?",
+        "a": "Mostly in Hollywood, including its silver, gold and diamond pieces, most of its clothing, its leather goods and its furniture. Its eyewear is made mainly in Japan and its fragrances in France.",
+        "source_query": "where is chrome hearts made"
+      }
+    ]
+  },
+  "copy_facts": [
+    {
+      "fact": "Chrome Hearts' online shop sells Baccarat, Scents and Underwear (Boxers & Leggings, Intimates, Socks), no jewelry",
+      "url": "https://www.chromehearts.com/"
+    },
+    {
+      "fact": "US boutiques: Aspen, Honolulu, Las Vegas x3, Los Angeles, Malibu, Miami, New York x2",
+      "url": "https://www.chromehearts.com/locations.html"
+    },
+    {
+      "fact": "Owners Richard and Laurie Lynn Stark; founded 1988 LA by Stark, Bowman, Kamhout; Bowman and Kamhout left 1994; made mostly in Hollywood, eyewear Japan, fragrance France",
+      "url": "https://en.wikipedia.org/wiki/Chrome_Hearts"
+    },
+    {
+      "fact": "BWL Double Skull Ring $216, open 'Free Size' ring shaped to your size and adjustable",
+      "url": "https://billwallleather.com/collections/rings/products.json?limit=250"
+    },
+    {
+      "fact": "The Great Frog Small Skull Ring £145; Skull & Crossbones Ring £235, sterling silver, made-to-order tag",
+      "url": "https://thegreatfroglondon.com/collections/rings/products.json?limit=250"
+    },
+    {
+      "fact": "The Great Frog: duties and taxes calculated at checkout and pre-paid; handmade jewellery about 1 week to produce; online jewellery not exchangeable; 28-day refunds",
+      "url": "https://thegreatfroglondon.com/en-us/pages/delivery-returns-1"
+    },
+    {
+      "fact": "Hard Jewelry Biohazard Ring $32.95 stainless steel, $52.95 .925 silver; DYT Coffin Ring $42.95 steel with slide-out inner ring and hidden coffin compartment",
+      "url": "https://www.hardjewelry.com/collections/rings/products.json?limit=250"
+    },
+    {
+      "fact": "Gaboratory Flat Bar Ring US$223, Moon Face Ring US$2,223; prices are 'from' with options; delivery 3 to 10 weeks; EMS North America US$38.70; categories include wallet chains and wallets",
+      "url": "https://gaboratory.ocnk.net/product-list/9"
+    },
+    {
+      "fact": "Good Art Cigar Band $475 (shape of a cigar band splayed out flat; sterling silver; made by hand in our foundry in Los Angeles); Slim Cigar Band $385",
+      "url": "https://www.goodart.com/products.json?limit=250"
+    },
+    {
+      "fact": "Good Art: free US shipping USPS Priority; made to order 4-6 weeks, Ready To Ship 3-5 business days; 14-day exchange or store credit, 20% restocking fee",
+      "url": "https://www.goodart.com/pages/shipping-returns"
+    },
+    {
+      "fact": "Clocks and Colours Salt & Bone $69 steel / $129 silver (small skull on bone-inspired band); Shadow's Wake $289 sterling silver raven, ivy and thorns band",
+      "url": "https://www.clocksandcolours.com/products.json?limit=250"
+    },
+    {
+      "fact": "Werkstatt cross ring forged €385 (forged from rectangular silver profile, winds around the finger twice, impression of two rings); ring classic round forged €175",
+      "url": "https://www.werkstatt-muenchen.com/collections/all-rings/products.json?limit=250"
+    },
+    {
+      "fact": "OSS PSI Ring €180, Centurion Ring €200 (oxidized or black Silver 925, hand engraved logo, made to order), top €660; UPS worldwide, 4-8 business days international; all sales final",
+      "url": "https://oss-oss.com/collections/rings/products.json?limit=250"
+    },
+    {
+      "fact": "Parts of Four Crescent Rift Ring (MA, tag Matte Sterling Silver) €310; free shipping worldwide, duties covered; 14-day exchange/credit; Paris visit; Atelier NY and H. Lorenzo stockists",
+      "url": "https://partsof4.com/pages/shipping-and-returns"
+    }
+  ]
+}

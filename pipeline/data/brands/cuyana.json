@@ -34,6 +34,19 @@
       "source_url": "https://cuyana.com/collections/sweaters-and-capes/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "products.json: 7 listings in the collection; 0 with compare_at above price (sale) and 0 sold out excluded, 0 non-sweaters excluded; 7 regular-price women's sweaters. Low: Alpaca Open-Back Turtleneck Sweater ($228); high: Single Origin Cashmere Wrap Sweater ($328). Alpaca Wool Crewneck Sweater $248; Single-Origin Cashmere Cardigan $248."
+    },
+    {
+      "category": "handbags",
+      "currency": "USD",
+      "min": 248.0,
+      "max": 798.0,
+      "min_usd": 248.0,
+      "max_usd": 798.0,
+      "fx_date": null,
+      "item_count": 66,
+      "source_url": "https://cuyana.com/collections/bags/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "products.json: 100 listings; product_type Bags only (29 small leather goods, 2 care items excluded), weekender/travel/organizer excluded; 0 on sale, 2 sold out excluded; 66 regular-price bags, median $478. Low: Tria Clutch ($248); high: Mila Satchel and Forma Bowler Bag ($798). Small Easy Tote $278, System Tote 16-inch $378."
     }
   ],
   "materials": [
@@ -48,12 +61,17 @@
     "https://cuyana.com/pages/about-us",
     "https://cuyana.com/policies/shipping-policy",
     "https://cuyana.com/policies/refund-policy",
-    "https://cuyana.com/collections/sweaters-and-capes/products.json?limit=250"
+    "https://cuyana.com/collections/sweaters-and-capes/products.json?limit=250",
+    "https://cuyana.com/collections/bags/products.json?limit=250"
   ],
   "notes": [
     "Store description: 'Fewer, Better Things. Timeless apparel and accessories for the modern woman...'; address San Francisco, CA (https://cuyana.com/meta.json).",
     "Shipping: 'Shipping is free for orders over $95; otherwise, it's $5' (No Rush, contiguous US); Standard $10 (https://cuyana.com/policies/shipping-policy).",
-    "Refund policy states no domestic return window; international returns 'within 30 days of shipment'; refunds to card 'less a $8 return shipping and administrative fee'; final sale and monogrammed excluded (https://cuyana.com/policies/refund-policy). support.cuyana.com returned 403, so returns_days stays empty. Sizes not in products.json options."
+    "Refund policy states no domestic return window; international returns 'within 30 days of shipment'; refunds to card 'less a $8 return shipping and administrative fee'; final sale and monogrammed excluded (https://cuyana.com/policies/refund-policy). support.cuyana.com returned 403, so returns_days stays empty. Sizes not in products.json options.",
+    "Handbags (2026-10-29): refund policy's Domestic Returns section still states no return window in days (only international: 30 days of shipment), so returns_days stays empty (https://cuyana.com/policies/refund-policy)."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "handbags"
+  ]
 }
