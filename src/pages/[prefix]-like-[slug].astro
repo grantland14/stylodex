@@ -5,6 +5,7 @@
 import type { GetStaticPaths } from "astro";
 import ArrowUpRight from "../components/ArrowUpRight.astro";
 import Base from "../layouts/Base.astro";
+import { authorByName } from "@/lib/authors";
 import { listAlternativesPages } from "@/lib/data";
 import { longDate, priceRange, shipsTo, sizes } from "@/lib/format";
 import { brandsLikeTitle, judgeBrandsLikePage, priceFor, type PageVerdict } from "@/lib/gate";
@@ -31,6 +32,8 @@ const category = page.category.slug;
 const path = alternativesPath(page.urlPrefix, page.anchor.slug);
 const url = new URL(path, Astro.site).href;
 const anchorPrice = priceRange(priceFor(page.anchor, category));
+const author = authorByName(page.author);
+const authorUrl = author ? new URL(`/authors/${author.slug}`, Astro.site).href : undefined;
 const PRICE_LABEL = { cheaper: "Cheaper", similar: "Similar price", pricier: "Pricier" } as const;
 
 const shopHref = (pick: SimilarPick) => `/go/${pick.brand.slug}?from=${encodeURIComponent(path)}`;
@@ -43,6 +46,14 @@ const facts = (pick: SimilarPick) =>
   ].filter((fact): fact is string => Boolean(fact));
 
 const graph: object[] = [
+  {
+    "@type": "Article",
+    headline: title,
+    url,
+    dateModified: page.checkedAt,
+    author: { "@type": "Person", name: page.author, url: authorUrl },
+    publisher: { "@type": "Organization", name: "Stylodex", url: new URL("/", Astro.site).href },
+  },
   {
     "@type": "ItemList",
     name: title,
@@ -94,7 +105,7 @@ if (page.faqs.length > 0) {
 
     <h1 class="mt-4 text-4xl font-normal leading-[1.1] tracking-tight md:text-5xl">{title}</h1>
     <p class="mt-5 text-sm text-muted">
-      By {page.author} · Last checked {longDate(page.checkedAt)} ·{" "}
+      By {author ? <a href={`/authors/${author.slug}`} class="underline">{page.author}</a> : page.author} · Last checked {longDate(page.checkedAt)} ·{" "}
       <a href="/disclosure" class="underline">We may earn a commission</a>
     </p>
 

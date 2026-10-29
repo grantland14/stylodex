@@ -56,6 +56,6 @@ Write `data/pages/{slug}.review.md`:
 - Fact trace: every number and claim in the copy → the brand file field it came from.
 - The Estimated Page Quality and Needs Met lines from Part 9.
 
-**Author: Ash** (decided 2026-10-29). Set `author` to "Ash" on every page. G5 also wants a short
-bio the byline links to; until Ash supplies one, G5 is BLOCKED (publish). Never write the bio
-or any credential ourselves (G4).
+**Author: Ash** (decided 2026-10-29). Set `author` to "Ash" on every page. His bio (supplied by Ash) is in
+`lib/authors.ts` and the byline links to `/authors/ash`, so G5 passes. Never add to the bio or
+claim fashion credentials it doesn't state (G4).

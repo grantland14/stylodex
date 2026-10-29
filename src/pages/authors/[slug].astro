@@ -1,0 +1,30 @@
+---
+import type { GetStaticPaths } from "astro";
+import Base from "../../layouts/Base.astro";
+import { allAuthors, type Author } from "@/lib/authors";
+
+export const getStaticPaths = (() => allAuthors().map((author) => ({ params: { slug: author.slug }, props: { author } }))) satisfies GetStaticPaths;
+
+interface Props {
+  author: Author;
+}
+
+const { author } = Astro.props;
+const path = `/authors/${author.slug}`;
+---
+
+<Base
+  title={author.name}
+  description={author.bio}
+  canonical={path}
+  jsonLd={{ "@context": "https://schema.org", "@type": "Person", name: author.name, url: new URL(path, Astro.site).href, description: author.bio }}
+>
+  <article class="mx-auto max-w-2xl px-4 py-14 leading-relaxed">
+    <p class="eyebrow">Author</p>
+    <h1 class="mt-3 text-4xl font-normal tracking-tight">{author.name}</h1>
+    <p class="mt-6 text-lg">{author.bio}</p>
+    <p class="mt-6">
+      Every list {author.name} edits follows the same checks; see <a href="/how-we-pick" class="underline">how we pick</a>.
+    </p>
+  </article>
+</Base>
