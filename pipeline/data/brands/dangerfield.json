@@ -1,0 +1,58 @@
+{
+  "slug": "dangerfield",
+  "name": "Dangerfield",
+  "website_url": "https://www.dangerfield.com.au",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Punk, Goth and Vintage-Inspired Fashion",
+  "hq_country": "AU",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "AU 4–24 (US 0–20)",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "tops",
+      "currency": "AUD",
+      "min": 38,
+      "max": 98,
+      "min_usd": 26.72,
+      "max_usd": 68.92,
+      "fx_date": "2026-10-28",
+      "item_count": 64,
+      "source_url": "https://www.dangerfield.com.au/collections/new-arrivals-womens-blouses-tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "64 regular-price in-stock tops of 231 in New Arrivals Womens Blouses & Tops (167 marked down; types Tops, Blouse, Tee, Knit Top, Tank, Shirt; knits, cardigans, vests, swim, jackets excluded). Vendors Dangerfield, Princess Highway, Black Friday. Low: Andie Classic 90'S Tee AUD 38; Bang Bang Low Fi Tee AUD 58, Affinity Goth Lace Top AUD 88; high: Broken Rollercoaster Denim Corset AUD 98. Store currency AUD (cart.js). Regular price = in stock, no variant with compare_at_price above price."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.dangerfield.com.au/",
+    "https://www.dangerfield.com.au/meta.json",
+    "https://www.dangerfield.com.au/cart.js",
+    "https://www.dangerfield.com.au/collections/new-arrivals-womens-blouses-tops/products.json?limit=250",
+    "https://www.dangerfield.com.au/policies/shipping-policy",
+    "https://www.dangerfield.com.au/policies/refund-policy",
+    "https://www.dangerfield.com.au/pages.json"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-unif run): meta 'An iconic Australian brand offering alternative fashion with punk, goth, and vintage-inspired designs'. meta.json city Abbotsford, AU.",
+    "Shipping policy: DHL international delivery to a listed set of countries incl. Canada and United States, and the UK; international shipping calculated by weight at checkout (no free threshold stated); international orders dispatch in 2–5 business days.",
+    "Refund policy: online full-price items returnable for credit, exchange or refund; 'Customers have 14 days to exchange their order'; sale items credit/exchange only; customs and duties not credited.",
+    "Size guide: women's letter sizes 3XS–3XL = AU/UK 4–24, US 0–20 (Dangerfield, Black Friday, Revival); Princess Highway AU 4–20."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -26,6 +26,19 @@
       "source_url": "https://sisterjane.com/collections/jackets/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "13 regular-price items of 102 in the collection (31 on sale excluded, 58 non-outerwear or other-vendor excluded). Store currency GBP (no US market). Women's jackets only: vendors starting 'Menswear' and Ghospell lines excluded. Includes DREAM line pieces (£175–£215)."
+    },
+    {
+      "category": "tops",
+      "currency": "GBP",
+      "min": 59,
+      "max": 125,
+      "min_usd": 78.4,
+      "max_usd": 166.09,
+      "fx_date": "2026-10-28",
+      "item_count": 64,
+      "source_url": "https://sisterjane.com/collections/tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "64 regular-price in-stock women's tops of 269 (204 marked down, 1 sold out; vendors starting 'Menswear' excluded). Includes its Ghospell and DREAM lines. Low: Ghospell Amina Ruched Top £59, Vence Check Bow Top £59; Bianca Bow Blouse £69, Veronica Lace Blouse £82; high: DREAM Darling Lamé Bow Blouse £125. Store currency GBP. Regular price = in stock, no variant with compare_at_price above price."
     }
   ],
   "sources": [
@@ -34,11 +47,13 @@
     "https://sisterjane.com/policies/shipping-policy",
     "https://sisterjane.com/policies/refund-policy",
     "https://sisterjane.com/pages/delivery",
-    "https://sisterjane.com/collections/jackets/products.json?limit=250"
+    "https://sisterjane.com/collections/jackets/products.json?limit=250",
+    "https://sisterjane.com/collections/tops/products.json?limit=250"
   ],
   "notes": [
     "Self-description: 'an elevated London label with romance and nostalgia at heart'. meta.json London, GB.",
-    "International buyers pay original shipping, all import duties and return shipping; US costs shown only at checkout. Returns within 14 days of receipt."
+    "International buyers pay original shipping, all import duties and return shipping; US costs shown only at checkout. Returns within 14 days of receipt.",
+    "2026-10-29 (brands-like-unif run): 204 of 269 women's tops marked down at read time."
   ],
   "checked_at": "2026-10-29",
   "slug": "sister-jane"

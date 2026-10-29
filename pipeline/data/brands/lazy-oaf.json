@@ -29,6 +29,19 @@
       "min_usd": 103.64,
       "max_usd": 119.59,
       "fx_date": "2026-10-28"
+    },
+    {
+      "category": "tops",
+      "currency": "GBP",
+      "min": 40,
+      "max": 95,
+      "min_usd": 53.15,
+      "max_usd": 126.23,
+      "fx_date": "2026-10-28",
+      "item_count": 37,
+      "source_url": "https://www.lazyoaf.com/collections/all-tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "37 regular-price in-stock tops of 39 (product types TOP, UTOP, TSHIRT, UTSHIRT, SHIRT, USHIRT; 2 sold out; knitwear and sweatshirts excluded). Low: Not Perfect Ruched Vest £40; Broken Wings Fitted T-Shirt £45, No Instruction T-Shirt £45, Screwed Up Top £67; high: Big Face Flower Shirt £95. Store currency GBP (cart.js). Regular price = in stock, no variant with compare_at_price above price."
     }
   ],
   "sells_categories": [
@@ -40,13 +53,15 @@
     "https://www.lazyoaf.com/collections/all/products.json?limit=250",
     "https://www.lazyoaf.com/pages/about",
     "https://help.lazyoaf.com/en-US/articles/shipping-14748",
-    "https://help.lazyoaf.com/en-US/articles/returns-14751"
+    "https://help.lazyoaf.com/en-US/articles/returns-14751",
+    "https://www.lazyoaf.com/collections/all-tops/products.json?limit=250"
   ],
   "notes": [
     "Meta: 'Lazy Oaf create irreverent streetwear clothing for men and women, inspired by youth nostalgia, teenage rebellion and a spirit of non-conformity.' About: 'Founded by Gemma Shiel from a North London Garage in 2001'; started with hand-printed T-shirts sold from a stall in East London.",
     "Shipping help: 'USA. Spend over $200 and get free shipping on your order.' Duties and taxes are calculated and paid at checkout for orders outside the UK (no charge on delivery).",
     "Returns help: refund within 28 days of receiving the order (Oaflet items 14 days); exchanges UK only; returns not free: US from $19; returns go to its UK warehouse.",
-    "meta.json: shop country GB, GBP; ships to US, CA, GB, AU."
+    "meta.json: shop country GB, GBP; ships to US, CA, GB, AU.",
+    "2026-10-29 (brands-like-unif run): tops sizes on the feed XS–XXXL plus UK 6–24 (Curve tops collection has 61 products). meta.json: city London, GB."
   ],
   "checked_at": "2026-10-29"
 }

@@ -1,0 +1,57 @@
+{
+  "slug": "blackmilk",
+  "name": "BlackMilk",
+  "website_url": "https://blackmilkclothing.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "A Label for the Unlabeled",
+  "hq_country": "AU",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XXS–XXL (US 2–20)",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 83.7,
+  "returns_days": 60,
+  "prices": [
+    {
+      "category": "tops",
+      "currency": "AUD",
+      "min": 35,
+      "max": 129,
+      "min_usd": 24.61,
+      "max_usd": 90.72,
+      "fx_date": "2026-10-28",
+      "item_count": 101,
+      "source_url": "https://blackmilkclothing.com/collections/tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "101 regular-price in-stock tops and bodysuits of 131 in the Tops collection (26 marked down, 4 sold out; sweaters, jackets, kimonos excluded). Low: Black Tie Front Tee AUD 35; Kirie Cotton Baby Tee AUD 59, Life And Death Giant Tee AUD 69, Gummie Guts Rio Top AUD 79; high: FIRESTARTER Baseball Shirt AUD 129. Store currency AUD (cart.js). Regular price = in stock, no variant with compare_at_price above price."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://blackmilkclothing.com/",
+    "https://blackmilkclothing.com/meta.json",
+    "https://blackmilkclothing.com/cart.js",
+    "https://blackmilkclothing.com/collections/tops/products.json?limit=250",
+    "https://blackmilkclothing.com/pages.json",
+    "https://blackmilkclothing.com/pages/returns"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-unif run): meta 'We're BlackMilk. A label for those who don't want to be labeled.' meta.json city Fortitude Valley, AU.",
+    "Shipping-info page: international standard post AUD 10 under AUD 119, free from AUD 119 (not available in all countries); express courier free from AUD 400. free_shipping_min_usd = AUD 119 at ECB 2026-10-28 (about $83.70).",
+    "Returns page (WebFetch): 'return any eligible item in its original condition to BMHQ within 60 days of delivery' (30 days via Refundid); refund or store credit, no exchanges.",
+    "Sizing chart: women's XXS–XXL = US/CA 2–4 to 18–20."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "disturbia",
+  "name": "Disturbia",
+  "website_url": "https://www.disturbia.us",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Gothic and Dark Romantic Clothing",
+  "hq_country": "GB",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "US 2–20",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 175,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 40,
+      "max": 68,
+      "min_usd": 40,
+      "max_usd": 68,
+      "fx_date": null,
+      "item_count": 12,
+      "source_url": "https://www.disturbia.us/collections/new-tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US store. 12 regular-price in-stock tops of 199 in the New Tops collection (185 marked down, 2 sold out; sweaters, cardigans, hoodies, kimonos excluded). Low: Void Bloom Flocked Mesh Shrug Top $40; Zuri Distressed Long Sleeve Top $43, Ouro Long Sleeve Embroidered T-Shirt $46; high: Disturbia x The Witcher Flocked Mesh Shrug Cami Top $68. Currency USD (cart.js). Regular price = in stock, no variant with compare_at_price above price."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.disturbia.co.uk/",
+    "https://www.disturbia.co.uk/meta.json",
+    "https://www.disturbia.co.uk/policies/refund-policy",
+    "https://www.disturbia.co.uk/pages/faq",
+    "https://www.disturbia.us/meta.json",
+    "https://www.disturbia.us/cart.js",
+    "https://www.disturbia.us/collections/new-tops/products.json?limit=250",
+    "https://www.disturbia.us/policies/shipping-policy",
+    "https://www.disturbia.us/policies/refund-policy"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-unif run): UK store disturbia.co.uk (meta.json city Cramlington, GB; GBP; ships to US, GB, AU and 185 more). Its title: 'Alternative, Gothic & Dark Romantic Clothing, Accessories & Lifestyle'. US store disturbia.us (meta.json city Grove City, Ohio, US; USD; ships to US, CA, MX). website_url set to the US store for US shoppers.",
+    "disturbia.us banner: 'DUTIES & TAXES INCLUDED' and 'FREE US DELIVERY On orders over $175'. Size menu US 2–20.",
+    "Refund policy: returns must be received within 30 days of dispatch; exchanges in the UK, USA and some EU countries; customer pays return shipping, replacement shipping free. US orders (prefix 'A') have their own US returns portal.",
+    "Sale-heavy at read time: 185 of 199 US new-tops products marked down."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -2,13 +2,13 @@
   "slug": "o-mighty",
   "name": "OMIGHTY",
   "website_url": "https://o-mighty.com",
-  "status": "off_category",
+  "status": "verified",
   "kind": "brand",
   "known_for": null,
   "hq_country": null,
   "founded_year": null,
   "parent_company": null,
-  "size_range": null,
+  "size_range": "XS–XL",
   "has_plus": null,
   "has_petite": null,
   "has_tall": null,
@@ -19,7 +19,7 @@
     "AU"
   ],
   "free_shipping_min_usd": null,
-  "returns_days": null,
+  "returns_days": 7,
   "prices": [
     {
       "category": "womenswear",
@@ -33,6 +33,19 @@
       "source_url": "https://o-mighty.com/products/1",
       "checked_at": "2026-10-28",
       "note": "60 items on page 1 of 'Everything'; no sale flags"
+    },
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 46,
+      "max": 65,
+      "min_usd": 46,
+      "max_usd": 65,
+      "fx_date": null,
+      "item_count": 60,
+      "source_url": "https://o-mighty.com/products/211",
+      "checked_at": "2026-10-29",
+      "note": "TOPS category page (/products/211): 60 tops listed $46–$65 USD, no struck-through or sale prices shown. Low: Hard To Get $46, Warning Tee In Black $46; Sorry For Being A Mom Leopard Tank $50, 2016 Corset Cami In Electric $55; high: Bambi Pointelle Tee $65. Custom (non-Shopify) store; product pages say sale items are final."
     }
   ],
   "materials": [],
@@ -42,12 +55,17 @@
   "sources": [
     "https://www.omighty.com/",
     "https://o-mighty.com/",
-    "https://o-mighty.com/products/1"
+    "https://o-mighty.com/products/1",
+    "https://o-mighty.com/products/211",
+    "https://o-mighty.com/products/211/all/19538",
+    "https://o-mighty.com/index.php/contact"
   ],
   "notes": [
     "The stored URL omighty.com 301-redirects to o-mighty.com ('OFFICIAL WEBSITE OF OMIGHTY - Worldwide delivery').",
     "Womenswear (graphic tees, camis, yoga pants). No self-description beyond 'official website', and no streetwear positioning, so off_category.",
-    "ships_to comes from the header claim 'Worldwide delivery'; the terms page was not read. Some product names are sexually explicit."
+    "ships_to comes from the header claim 'Worldwide delivery'; the terms page was not read. Some product names are sexually explicit.",
+    "2026-10-29 (brands-like-unif run): status corrected from off_category to verified (--overwrite status): it is a live womenswear store selling tops, bottoms, dresses and sets; the earlier off_category was set for lacking streetwear positioning, a category judgment, not out of Stylodex scope.",
+    "Product page (Esoterica Iconica Magnetica White Tank $48, WebFetch): sizes XS–XL; cotton spandex, double layered; orders ship DDU (buyer pays duties and taxes); regular-priced items returnable for e-store credit or exchange within 7 days of receipt, buyer pays return shipping; sale items and discount-code orders final. The 'TERMS & SHIPPING' footer link opens a contact page with no terms."
   ],
   "checked_at": "2026-10-29"
 }

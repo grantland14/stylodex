@@ -1,0 +1,59 @@
+{
+  "slug": "big-bud-press",
+  "name": "Big Bud Press",
+  "website_url": "https://www.bigbudpress.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Unisex Everyday Goods Made in LA",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XXS–7XL",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 45,
+      "max": 135,
+      "min_usd": 45,
+      "max_usd": 135,
+      "fx_date": null,
+      "item_count": 128,
+      "source_url": "https://www.bigbudpress.com/collections/tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "128 regular-price in-stock tops of 212 in the Tops collection (84 marked down; jackets and cropped overshirts excluded). Low: Cropped Tank Top - Basic Black $45; The Tank Top $48, Baby Tee - Vintage Tee Off-White $52, The Organic Vintage Tee $55, Colorblock Raglan Tee $68; high: Hot Dogs & Beer & Wine & Pretzels Pantry Button-Up $135. Sizes on tops XXS–7XL. Store currency USD (cart.js). Regular price = in stock, no variant with compare_at_price above price."
+    }
+  ],
+  "materials": [
+    "Mostly 100% cotton"
+  ],
+  "certifications": [],
+  "production_model": "Made in Los Angeles and the USA",
+  "sale_pattern": null,
+  "sources": [
+    "https://www.bigbudpress.com/",
+    "https://www.bigbudpress.com/meta.json",
+    "https://bigbudpress.com/cart.js",
+    "https://www.bigbudpress.com/collections/tops/products.json?limit=250",
+    "https://www.bigbudpress.com/pages.json",
+    "https://www.bigbudpress.com/pages/customer-service",
+    "https://www.bigbudpress.com/policies/refund-policy"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-unif run): meta 'Big Bud Press is a fast-growing Los Angeles based clothing label specializing in unisex, everyday goods... ethical and local manufacturing... sweatshop free.' meta.json city Los Angeles, US.",
+    "About page: knit fabrics made locally around Los Angeles, the rest made in the USA; since end of 2022 only American-made fabrics; almost exclusively 100% cotton; water-based screen-print ink; audits manufacturing partners every 90 days.",
+    "Customer service (WebFetch): US shipping priced by weight and location at checkout (no free threshold stated); ships in 1–5 business days; international via DHL incl. Canada, Australia, UK. US returns and exchanges within 14 days of delivery (contact first); international returns within 10 days, refund or store credit only."
+  ],
+  "checked_at": "2026-10-29"
+}

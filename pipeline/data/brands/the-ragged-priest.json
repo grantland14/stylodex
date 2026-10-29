@@ -33,6 +33,19 @@
       "source_url": "https://theraggedpriest.com/collections/jeans/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "all 8 items in the Jeans collection; 4 baggy, 4 flare, 4 low-rise by title; waist sizes 24–38"
+    },
+    {
+      "category": "tops",
+      "currency": "GBP",
+      "min": 35,
+      "max": 38,
+      "min_usd": 46.51,
+      "max_usd": 50.49,
+      "fx_date": "2026-10-28",
+      "item_count": 7,
+      "source_url": "https://theraggedpriest.com/collections/tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "7 regular-price in-stock items of product type Tops in the Tops collection (35 products; 5 Tops sold out; 22 Knitwear/Sweat and 1 hoodie excluded). Low: Afterlife Skeleton Graphic Baby T-Shirt £35, Flock Graphic Baby T-Shirt £35; high: Chamber Black Hardware Wrap Top £38, Mantis Oversized Skeleton Graphic T-Shirt £38. Store currency GBP (cart.js). Regular price = in stock, no variant with compare_at_price above price."
     }
   ],
   "materials": [],
@@ -47,7 +60,9 @@
     "https://theraggedpriest.com/policies/refund-policy",
     "https://theraggedpriest.com/collections/jeans/products.json?limit=250",
     "https://theraggedpriest.com/cart.js",
-    "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
+    "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+    "https://theraggedpriest.com/collections/tops/products.json?limit=250",
+    "https://theraggedpriest.com/meta.json"
   ],
   "notes": [
     "Live and selling. It positions itself as 'Official Online Store | Grunge Clothing & Fashion', not as streetwear, so it is off_category under this run's rule (C = streetwear only when the brand's own site says so). Borderline: it sells baggy jeans, graphic tees and hoodies. A human may widen the rule.",
@@ -57,7 +72,8 @@
     "Store currency GBP (cart.js). USD at ECB 2026-10-28: USD per GBP = 1.1133/0.83785.",
     "hq_country still null: /pages/about-us and /pages/about returned 404, and no Wikipedia article exists.",
     "size_range detail: UK 6–22 (US 2–18); denim W24–W38; men XS–XL",
-    "2026-10-29 (brands-like-minga-london run): jeans feed re-read, unchanged: 8 regular-price jeans £70–£80, waists 24–38 (Patch Dalmatian Print Baggy Jeans £70, Loopy Eyelet Super Baggy Jeans £80)."
+    "2026-10-29 (brands-like-minga-london run): jeans feed re-read, unchanged: 8 regular-price jeans £70–£80, waists 24–38 (Patch Dalmatian Print Baggy Jeans £70, Loopy Eyelet Super Baggy Jeans £80).",
+    "2026-10-29 (brands-like-unif run): tops read from the Tops collection: 7 regular-price tops £35–£38, mostly graphic baby tees; sizes XS–XL and UK 6–16 on tops. meta.json: city Watford, GB."
   ],
   "checked_at": "2026-10-29"
 }

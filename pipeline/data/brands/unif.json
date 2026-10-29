@@ -1,0 +1,63 @@
+{
+  "slug": "unif",
+  "name": "UNIF",
+  "website_url": "https://www.unifclothing.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Vintage-Inspired Clothing and Shoes",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–XL; shoes US 5–11",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 5,
+  "prices": [
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 38,
+      "max": 108,
+      "min_usd": 38,
+      "max_usd": 108,
+      "fx_date": null,
+      "item_count": 44,
+      "source_url": "https://www.unifclothing.com/collections/tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "44 regular-price in-stock women's tops and tees of 65 in the Tops collection (9 sold out; 12 tagged final-sale excluded: their prices sit at 80% of the same style's full price, e.g. Sincere Top $62.40 final-sale vs $78, Coil Top $70.40 vs $88, and UNIF's returns page says discounted items are final sale; men's tees, sweaters and a mis-typed hat/shrug excluded). Low: Mars Top $38; Raglan Baby Tee $45 (Black, Vintage White), Raglan Baby Tee - Oil Wash $48, UFO Baby Tee $68, Sora Cami $55, Nexus Top $92; high: Slint Top $108. 21 of the 44 are tagged made-in-la, 28 natural-fabric. Store currency USD (cart.js, meta.json). Regular price = in stock, no variant with compare_at_price above price."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": "Some styles made in Los Angeles",
+  "sale_pattern": "Sale items are final sale",
+  "sources": [
+    "https://www.unifclothing.com/",
+    "https://www.unifclothing.com/meta.json",
+    "https://www.unifclothing.com/cart.js",
+    "https://www.unifclothing.com/collections.json?limit=250",
+    "https://www.unifclothing.com/collections/all/products.json?limit=250",
+    "https://www.unifclothing.com/collections/tops/products.json?limit=250",
+    "https://www.unifclothing.com/collections/made-in-la/products.json?limit=250",
+    "https://www.unifclothing.com/pages.json",
+    "https://www.unifclothing.com/policies/shipping-policy"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-unif run): homepage title 'UNIF | Vintage-inspired effortless clothing and shoes'; meta 'Shop all the latest UNIF collections as well as online exclusives! Enjoy Free Shipping on ALL U.S. orders $150+'. Ahrefs shows an older indexed title 'The Official Home for Platform Boots, Baby Tees and ...'.",
+    "meta.json: store city Los Angeles, California, US; currency USD; ships_to_countries lists 189 countries incl. US, CA, GB, AU. Contact phone (213) area code.",
+    "Catalog (collections/all, 482 products): Vintage 226 (one-off resale, 21 in stock), Women's Tops 61, Women's Shoes 50, Women's Dresses 34, Women's Sweaters 27, Women's Skirts 23. Tops is the largest new-made type; shoes (Parker Platform Boot $198–$228, 16 regular-price shoes $128–$228) are the hero line in outside sources (Lane Creatore 'Unif inspired boots').",
+    "Shipping (Customer Service page via pages.json + /policies/shipping-policy): free economy shipping on US orders over $150; orders over $150 need a signature; ships within 48 hours Mon–Thu; international priced by country and weight, duties and taxes shown at checkout.",
+    "Returns (help-returns-exchanges page): 'ALL RETURNS AND EXCHANGES MUST BE INITIATED WITHIN 5 DAYS OF RECEIPT'; full-price items refundable or store credit within 5 days of delivery; buyer pays return shipping for size/style returns; 10% restocking fee on refunds of $500+; all sale-promotion items and all vintage are final sale.",
+    "Size chart (app-size-chart page): women's tops & dresses XS–L (bust 32–39.5 in), tees XS–XL, women's shoes US 5–11.",
+    "Founded year not stored: outside sources disagree (a search snippet of i-D vs a FashionBI listing); Apparel News covered UNIF at LA Fashion Week in March 2008. Not fetched as a fact."
+  ],
+  "checked_at": "2026-10-29"
+}
