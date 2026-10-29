@@ -1,0 +1,57 @@
+{
+  "slug": "saxx",
+  "name": "SAXX",
+  "website_url": "https://www.saxxunderwear.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Pouch Underwear",
+  "hq_country": "CA",
+  "founded_year": 2006,
+  "parent_company": null,
+  "size_range": "XS–XXL; some styles to 4XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 30,
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "prices": [
+    {
+      "category": "underwear",
+      "currency": "USD",
+      "min": 25.0,
+      "max": 45.0,
+      "min_usd": 25.0,
+      "max_usd": 45.0,
+      "fx_date": null,
+      "item_count": 85,
+      "source_url": "https://saxxunderwear.com/collections/mens-boxer-briefs/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "mens-boxer-briefs products.json: 229 listings, 175 regular-price in stock, 54 marked down. Single pairs only: 85 at $25–$45 (90 multipacks at $45–$289 excluded for like-for-like). SAXX FREE DropTemp All Day Cooling $25, DropTemp Cooling Cotton $33, Vibe Xtra Soft Comfort $36 (EcoVero fabric, BallPark Pouch, fly), Smooth Luxe Micro Modal $45. Sizes S–XXL on all, XS on 118 listings, 3XL/4XL on 5."
+    }
+  ],
+  "sells_categories": [
+    "underwear"
+  ],
+  "sources": [
+    "https://saxxunderwear.com/collections/mens-boxer-briefs/products.json?limit=250",
+    "https://www.saxxunderwear.com/pages/about-us",
+    "https://www.saxxunderwear.com/pages/help-center",
+    "https://saxxunderwear.com/policies/refund-policy",
+    "https://saxxunderwear.com/policies/terms-of-service"
+  ],
+  "notes": [
+    "About us: 'Life-changing underwear, since 2006'; started in Vancouver, Canada; credits itself with inventing pouch underwear (BallPark Pouch, BallPark Pouch PRO).",
+    "Terms of service: 'SAXX operates the Site out of its business in Vancouver, in the Province of British Columbia, in Canada'; address 2015 Main Street, Vancouver.",
+    "Help center: free shipping on orders over $100. Destination countries not listed by name (only regions), so ships_to records the US only.",
+    "Refund policy: returns within 30 calendar days, unworn and unwashed, in original packaging; First Pair Guarantee on a first underwear purchase; shipping and duties non-refundable.",
+    "Smooth Luxe Micro Modal ($45): 'buttery-soft fabric', XS–XXL. Vibe Xtra Soft Comfort ($36) is described as its best-selling boxer brief."
+  ],
+  "checked_at": "2026-10-29"
+}

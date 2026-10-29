@@ -1,0 +1,64 @@
+{
+  "slug": "cariloha",
+  "name": "Cariloha",
+  "website_url": "https://cariloha.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Bamboo Bedding and Apparel",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "S–2XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "AU"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 30,
+  "us_stores": true,
+  "materials": [
+    "Bamboo viscose"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "prices": [
+    {
+      "category": "underwear",
+      "currency": "USD",
+      "min": 22.0,
+      "max": 28.0,
+      "min_usd": 22.0,
+      "max_usd": 28.0,
+      "fx_date": null,
+      "item_count": 12,
+      "source_url": "https://cariloha.com/collections/mens-underwear/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "mens-underwear products.json: 19 listings, 12 regular-price in stock (all Bamboo Boxer Briefs), 5 marked down, 2 sold out. Solid colors $22 (Black, Deep Sea, Graphite Heather, Honu Blue, Light Heather Gray, Steel Blue); prints $28 (Blue Hibiscus, Pineapple Skull, Turtle Wave, spacedyes). Sizes S–2XL."
+    }
+  ],
+  "sells_categories": [
+    "underwear"
+  ],
+  "sources": [
+    "https://cariloha.com/collections/mens-underwear/products.json?limit=250",
+    "https://cariloha.com/products/bamboo-boxer-briefs-black.json",
+    "https://cariloha.com/pages/about-us",
+    "https://cariloha.com/pages/shipping-policy",
+    "https://cariloha.com/pages/return-policy",
+    "https://cariloha.com/pages/faq",
+    "https://cariloha.com/pages/showrooms"
+  ],
+  "notes": [
+    "About us: 'Born in the Islands' and 'Sustainable Luxury'; makes bamboo-viscose fabrics. HQ city not stated. hq_country US because its return policy calls its domestic policy US-only and returns go to its Corporate Headquarters; showrooms are in Hawaii, Alaska, Maine and Florida among others.",
+    "Shipping policy: free standard shipping in the contiguous US on orders over $100. FAQ: 'Currently, only Canada and Australia receive international shipments.'",
+    "Return policy (all other products): exchange or return within 30 days of delivery, in original packaging with proof of purchase, sent to Corporate Headquarters; buyer pays shipping both ways.",
+    "Showrooms page lists US showrooms (Kailua and Kauai HI; Juneau, Ketchikan, Skagway AK; Bar Harbor ME; Key West) plus Caribbean and Mexico locations.",
+    "Bamboo Boxer Briefs: 'lightweight, incredibly breathable bamboo briefs make for less sweat'."
+  ],
+  "checked_at": "2026-10-29"
+}

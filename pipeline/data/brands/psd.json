@@ -1,0 +1,60 @@
+{
+  "slug": "psd",
+  "name": "PSD",
+  "website_url": "https://www.psd.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Printed Underwear and Collabs",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": "Pant Saggin LLC",
+  "size_range": "XS–XXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 99,
+  "returns_days": 30,
+  "materials": [
+    "Modal (Modal and Luxe Modal lines)"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "prices": [
+    {
+      "category": "underwear",
+      "currency": "USD",
+      "min": 18.0,
+      "max": 32.0,
+      "min_usd": 18.0,
+      "max_usd": 32.0,
+      "fx_date": null,
+      "item_count": 316,
+      "source_url": "https://psdunderwear.com/collections/mens-underwear/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "mens-underwear products.json (3 pages): 647 listings, 405 regular-price in stock, 242 marked down. Single pairs: 316 at $18–$32; 89 multipacks ($40–$112) excluded for like-for-like. Most single pairs $25 or $28; Modal Solids $28; Luxe Modal $32; Solids from $18. Product types mostly boxer briefs in Standard (281) and Mid Length. Sizes XS–XXL."
+    }
+  ],
+  "sells_categories": [
+    "underwear"
+  ],
+  "sources": [
+    "https://psdunderwear.com/collections/mens-underwear/products.json?limit=250",
+    "https://psdunderwear.com/products/322180166-blk-modal-solids-blk.json",
+    "https://www.psd.com/pages/faq",
+    "https://www.psd.com/pages/returns-exchanges",
+    "https://psdunderwear.com/policies/refund-policy",
+    "https://psdunderwear.com/policies/terms-of-service"
+  ],
+  "notes": [
+    "Terms of use: operated by Pant Saggin LLC, d/b/a PSD Underwear (a US LLC; basis for hq_country US, HQ city not stated). psdunderwear.com serves the store; the site's own pages are on psd.com.",
+    "FAQ: contiguous US free standard shipping over $99, otherwise $8 (6–10 business days), express $19.99, expedited $34.99; offers international shipping to a list of countries not readable on the page; international orders 3–5 weeks.",
+    "Returns: within 30 days of shipment, unworn with tags and packaging; refund less original shipping and a $5 return shipping fee (free returns for Silver and Gold rewards members); exchanges free, US only; special-offer, final sale and mystery items not returnable.",
+    "Site navigation lists collaborations (Realtree, 7-Eleven, Playboy, Kool-Aid, Marvel, SpongeBob SquarePants, Looney Tunes, Rick and Morty) and athlete collections (Ja Morant, Paolo Banchero, Mitch Marner).",
+    "Modal Solids ($28): 'Premium Modal underwear ... far softer than standard cotton', athletic fit."
+  ],
+  "checked_at": "2026-10-29"
+}

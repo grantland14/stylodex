@@ -1,0 +1,49 @@
+{
+  "slug": "meundies",
+  "name": "MeUndies",
+  "website_url": "https://www.meundies.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "MicroModal Underwear",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–4XL; 4XL on some prints",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": 45,
+  "materials": [
+    "MicroModal"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": "Lower member pricing; clearance is final sale",
+  "sells_categories": [
+    "underwear"
+  ],
+  "sources": [
+    "https://help.meundies.com/",
+    "https://www.target.com/s?searchTerm=meundies"
+  ],
+  "notes": [
+    "meundies.com answered HTTP 429 with a Vercel bot challenge (x-vercel-mitigated: challenge) to WebFetch and curl on 2026-10-29; not read, no workaround. No prices recorded: prices only come from the brand's own store. Human check.",
+    "Status set from the brand's official help center (help.meundies.com, served 2026-10-29), which describes current ordering, shipping and returns, and from target.com, which listed 45 MeUndies products (men's UltraModal Core boxer briefs, trunks, boxers; women's FeelFree briefs and bralettes; kids' packs) on 2026-10-29.",
+    "Help center, What size undies are right for me?: 'MeUndies offer a huge size pool that starts from XS up until 4XL.*' with '* Prints and styles that offer size 4XL varies'.",
+    "Help center, What's the difference between our undies?: Core is MicroModal with a black waistband; FeelFree is the same Modal without the black waistband; FeelFree Lace has a lace waistband; All Over Lace uses recycled nylon and spandex; Breathe (formerly MoveMe) uses nylon and spandex; Seamless (formerly DreamSeam) lies flat to avoid lines. Target listings call the fabric UltraModal.",
+    "Help center, How much does shipping cost?: members get free US shipping on every order; non-members free over $75, otherwise $7.95 standard or $25 expedited. Flat rates: Canada $12, UK $10, Australia and New Zealand $16, EU $16, other international $38 (USD), DDP.",
+    "Help center, Where do you ship?: ships from San Bernardino, CA to 'everywhere in the world*' except listed restricted countries; not currently shipping to Chile, Colombia, Costa Rica, Ecuador, Guatemala, Indonesia, Malaysia, Mexico, Paraguay, Peru, Portugal, Spain, Taiwan or Iceland.",
+    "Help center, What is your return policy?: full refund within 45 days; underwear unworn and unwashed; refunds only, no exchanges; Mystery Packs and clearance are final sale; free returns for domestic orders only. Returns address in San Bernardino, CA, which the page calls 'our HQ address' (basis for hq_country US).",
+    "Help center, How long should my order take to arrive?: 1–2 business days to ship, then 3–10 business days within the US; Canada, Australia and New Zealand 1–2 weeks.",
+    "Help center, Membership articles: cancel from Account Info > Subscriptions > Manage Membership, which also offers skip a month or an extended pause; after cancelling, 'our products will return to their original price'.",
+    "Help center, referral program: $25 credit per successful referral; referred new customers get 40% off a first order of $12 or more (excludes packs and gift cards)."
+  ],
+  "checked_at": "2026-10-29"
+}

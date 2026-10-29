@@ -1,0 +1,66 @@
+{
+  "slug": "minus33",
+  "name": "Minus33",
+  "website_url": "https://minus33.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Merino Wool Clothing",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": "L. W. Packard & Co.",
+  "size_range": "XS–4XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 50,
+  "returns_days": 30,
+  "materials": [
+    "Merino wool"
+  ],
+  "certifications": [
+    "Woolmark",
+    "OEKO-TEX Standard 100"
+  ],
+  "production_model": "Family-owned New Hampshire wool company",
+  "sale_pattern": null,
+  "prices": [
+    {
+      "category": "underwear",
+      "currency": "USD",
+      "min": 44.99,
+      "max": 44.99,
+      "min_usd": 44.99,
+      "max_usd": 44.99,
+      "fx_date": null,
+      "item_count": 3,
+      "source_url": "https://minus33.com/collections/mens-boxer-briefs/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "mens-boxer-briefs products.json: 4 listings, 3 regular-price in stock at $44.99, 1 marked down. Lightweight Men's Boxer Brief (100% merino wool, XS–4XL); Men's Merino Wool Pouch Boxer Briefs, Microweight (S–2XL); Microweight Men's Wool Boxer Briefs, Woolverino (84% merino, 12% nylon, 4% spandex; S–3XL; OEKO-TEX Standard 100 and Woolmark certified)."
+    }
+  ],
+  "sells_categories": [
+    "underwear"
+  ],
+  "sources": [
+    "https://minus33.com/collections/mens-boxer-briefs/products.json?limit=250",
+    "https://minus33.com/products/woolverino-mens-micro-weight-boxer-briefs.json",
+    "https://minus33.com/policies/refund-policy",
+    "https://minus33.com/policies/shipping-policy",
+    "https://minus33.com/policies/contact-information",
+    "https://minus33.com/pages/faq",
+    "https://minus33.com/pages/shipping"
+  ],
+  "notes": [
+    "Contact information: L. W. Packard & Co. Inc, 22 Mill Street, Ashland NH, United States. FAQ: headquarters in Ashland, NH.",
+    "Site footer: '5th-generation family-owned business in New Hampshire with over a century of woolen textile manufacturing expertise'; free shipping on US orders over $50; 30-day returns/exchanges; 2-year product warranty.",
+    "Refund policy: 30-Day Satisfaction Guarantee, replacement or refund with dated receipt; international customers pay return shipping, duties and taxes.",
+    "Shipping policy: ships to most countries via UPS; country selector lists Canada (CAD), United Kingdom (GBP) and Australia (AUD)."
+  ],
+  "checked_at": "2026-10-29"
+}

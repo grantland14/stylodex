@@ -1,0 +1,65 @@
+{
+  "slug": "mack-weldon",
+  "name": "Mack Weldon",
+  "website_url": "https://mackweldon.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Men's Underwear and Everyday Basics",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "S–XXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 30,
+  "us_stores": true,
+  "materials": [
+    "Supima cotton (SILVER line)"
+  ],
+  "certifications": [],
+  "production_model": "Made in WRAP-certified factories abroad",
+  "sale_pattern": null,
+  "prices": [
+    {
+      "category": "underwear",
+      "currency": "USD",
+      "min": 30.0,
+      "max": 44.0,
+      "min_usd": 30.0,
+      "max_usd": 44.0,
+      "fx_date": null,
+      "item_count": 9,
+      "source_url": "https://mackweldon.com/collections/boxer-briefs/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "boxer-briefs products.json: 21 listings, 9 regular-price in stock, 3 marked down, 9 sold out; all single pairs (packs sit in separate collections). 18-Hour Jersey Boxer Brief $30 ('the underwear that made us famous'), AIRKNITx Boxer Brief $34 ('our lightest, most breathable'), AIRKNITx 8\" and Stealth Pro $38, SILVER Boxer Brief $40 (Supima cotton, anti-odor), SILVER HD $44. Sizes S–XXL on all 21."
+    }
+  ],
+  "sells_categories": [
+    "underwear"
+  ],
+  "sources": [
+    "https://mackweldon.com/collections/boxer-briefs/products.json?limit=250",
+    "https://mackweldon.com/products/18-hour-jersey-boxer-briefs.json",
+    "https://mackweldon.com/products/airknitx-boxer-brief.json",
+    "https://mackweldon.com/products/silver-boxer-brief.json",
+    "https://mackweldon.com/pages/faq",
+    "https://mackweldon.com/pages/about-us",
+    "https://mackweldon.com/pages/our-stores",
+    "https://mackweldon.com/policies/refund-policy"
+  ],
+  "notes": [
+    "About us: 'a New York-based brand'; founder and CEO Brian Berger; 'Blending a timeless sense of style with an obsessive approach to comfort.' Founding year not stated.",
+    "FAQ: US standard shipping free over $150, otherwise $8; ships internationally incl. Canada, UK, Australia; returns within 30 days, unworn and unwashed, underwear in original packaging; underwear S–XXL; products made in WRAP-certified factories in Thailand, Peru, China, Egypt and Vietnam; designed in New York.",
+    "Refund policy: first-time customers get a Try On Guarantee: refund or exchange one tried-on pair of underwear without sending it back.",
+    "Our stores: one company store at 20 Hudson Yards, New York; also sold at Bloomingdale's, Dillard's, Saks Fifth Avenue, Von Maur, Mitchells, Richards, Marios."
+  ],
+  "checked_at": "2026-10-29"
+}

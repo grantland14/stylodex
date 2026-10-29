@@ -1,0 +1,59 @@
+{
+  "slug": "pair-of-thieves",
+  "name": "Pair of Thieves",
+  "website_url": "https://pairofthieves.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Value Packs of Underwear and Socks",
+  "hq_country": "US",
+  "founded_year": 2013,
+  "parent_company": "Stateside Merchants, LLC",
+  "size_range": "S–4XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 70,
+  "returns_days": 101,
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "prices": [
+    {
+      "category": "underwear",
+      "currency": "USD",
+      "min": 14.99,
+      "max": 26.99,
+      "min_usd": 14.99,
+      "max_usd": 26.99,
+      "fx_date": null,
+      "item_count": 60,
+      "source_url": "https://pairofthieves.com/collections/boxer-briefs/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "boxer-briefs products.json: 60 listings, all regular-price and in stock; every listing is a multipack (2- or 3-pack). 4-Way Stretch Every Day Kit Cotton Stretch Boxer Briefs (3-Pack) $14.99; SuperFit Sport Boxer Briefs (2-Pack) $26.99 (polyester-spandex jersey with mesh vents). Sizes S–XL on all, 2XL on 51, 3XL and 4XL on 37, XS on 3."
+    }
+  ],
+  "sells_categories": [
+    "underwear"
+  ],
+  "sources": [
+    "https://pairofthieves.com/collections/boxer-briefs/products.json?limit=250",
+    "https://pairofthieves.com/products/4-way-stretch-every-day-kit-cotton-stretch-boxer-briefs-black-charcoal-underwear-3-pack.json",
+    "https://pairofthieves.com/products/supercool-boxer-briefs-black-underwear-2-pack.json",
+    "https://pairofthieves.com/policies/refund-policy",
+    "https://pairofthieves.com/policies/shipping-policy",
+    "https://pairofthieves.com/pages/about-us",
+    "https://pairofthieves.com/pages/faq",
+    "https://pairofthieves.com/policies/terms-of-service"
+  ],
+  "notes": [
+    "About us: started 2013 by three friends; 'Our goods live at the overlap of style, comfort, and value.'",
+    "Terms: the site is operated by Stateside Merchants, LLC, owner of the Pair of Thieves brand (a US LLC; basis for hq_country US, HQ city not stated).",
+    "Shipping policy: standard $7.95 under $70, free on $70+; 3-day expedited $30, free on $130+. No international destinations stated, so ships_to records the US only.",
+    "Refund policy, No Regrets Guarantee: send it back within 101 days of purchase from its website for a full refund or exchange, including free US return shipping, regardless of the product's condition. Black Friday, Cyber Monday and Final Sale purchases may be excluded; third-party retailer purchases are not eligible."
+  ],
+  "checked_at": "2026-10-29"
+}

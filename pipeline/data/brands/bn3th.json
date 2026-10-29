@@ -1,0 +1,57 @@
+{
+  "slug": "bn3th",
+  "name": "BN3TH",
+  "website_url": "https://www.bn3th.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "3D Pouch Underwear",
+  "hq_country": "CA",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–XXL; waists 27–44",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": 21,
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "prices": [
+    {
+      "category": "underwear",
+      "currency": "USD",
+      "min": 26.0,
+      "max": 38.0,
+      "min_usd": 26.0,
+      "max_usd": 38.0,
+      "fx_date": null,
+      "item_count": 61,
+      "source_url": "https://bn3th.com/collections/boxer-briefs-us/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "boxer-briefs-us products.json: 129 listings, 63 regular-price in stock, 66 marked down; 2 Pro Ultra Liner Shorts ($55–$60) excluded as not boxer briefs, leaving 61 single pairs. Essentials, Pro Flex and Pro Flex Max $26; Classic Icon $32 (with or without fly); Pro Ultra and Pro Agua X $38. Essentials fabric 65% LENZING ECOVERO viscose, 30% cotton, 5% spandex. Sizes XS–XXL."
+    }
+  ],
+  "sells_categories": [
+    "underwear"
+  ],
+  "sources": [
+    "https://bn3th.com/collections/boxer-briefs-us/products.json?limit=250",
+    "https://bn3th.com/products/classic-essentials-boxer-brief-black.json",
+    "https://www.bn3th.com/pages/faq",
+    "https://www.bn3th.com/pages/our-story",
+    "https://bn3th.com/policies/refund-policy"
+  ],
+  "notes": [
+    "Our story: founders Dez and Dustin; began in Vancouver, British Columbia; formerly MyPakage; mission 'to radically change how men think about underwear'. No current HQ stated: hq_country CA is from its Vancouver founding.",
+    "FAQ: free shipping on orders of $75 or more within North America; international shipping via Global-e (destinations not listed); sizes 27–44 (XS–XXL); orders ship from Riverside, CA; 'Original 3D Pouch' lifts and separates.",
+    "Return window conflict: the refund policy says returns 'within 21 days of purchase' (free return label included); the FAQ says 'a 30-day return window'. returns_days records the stricter 21. Human check.",
+    "Underwear lines: Classic Icon (premium everyday), Essentials (all-day comfort), Pro Ultra (premium performance), Pro Flex (everyday sport), Pro Agua X (hybrid)."
+  ],
+  "checked_at": "2026-10-29"
+}
