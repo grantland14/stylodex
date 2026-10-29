@@ -1,0 +1,61 @@
+{
+  "name": "Selkie",
+  "website_url": "https://selkiecollection.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Fanciful, Romantic Party Dresses",
+  "hq_country": "US",
+  "size_range": "XXS–6X",
+  "has_plus": true,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 350,
+  "returns_days": 15,
+  "production_model": "Designed in LA, made in China",
+  "certifications": [
+    "WRAP-certified factory",
+    "BSCI-certified factory"
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 109.0,
+      "max": 1500.0,
+      "min_usd": 109.0,
+      "max_usd": 1500.0,
+      "fx_date": null,
+      "item_count": 305,
+      "source_url": "https://selkiecollection.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "All 305 items in the dresses collection (216 Dresses, 89 Gowns) are regular price (no compare_at above price). 290 have a size in stock ($149–$1,500). Median $359. Low end: The Eclipse Dublin Pinafore $109 (sold out), The Phantom Chemise $149; top: The Queen Of Angels Silk Gown Made to Order $1,500. Puff dresses $249–$335 (Rainbow Puff Dress $290, Ivory Puff Dress $259)."
+    }
+  ],
+  "sources": [
+    "https://selkiecollection.com/meta.json",
+    "https://selkiecollection.com/pages/about-selkie",
+    "https://selkiecollection.com/pages/learn-more-about-selkie",
+    "https://selkiecollection.com/pages/size-chart",
+    "https://selkiecollection.com/pages/shipping",
+    "https://selkiecollection.com/pages/returns-exchanges",
+    "https://selkiecollection.com/policies/shipping-policy",
+    "https://selkiecollection.com/policies/refund-policy",
+    "https://selkiecollection.com/collections/dresses/products.json?limit=250"
+  ],
+  "notes": [
+    "About: 'Fanciful, nostalgic and extra romantic. By former Wildfox Co-Founder, Kimberley Gordon.' 'Selkie offers a range of stand out party dresses, and after party sweatsuits.' Sizes 'XXS-6X'. (pages/about-selkie)",
+    "Learn more: designed in Silverlake, LA; 'works hand in hand with a talented manufacturing team in China'; manufacturer 'WRAP certified and BSCI certified'; 'We cut very small runs of inventory and pre sell many of our best sellers'; 'Some garments have only 15-20 ever made'; 'not 100% sustainable due to the use of polyester'.",
+    "meta.json: shop address Reno, Nevada, US; currency USD; ships_to_countries includes '*' and US, CA, GB, AU.",
+    "Size chart XXS (bust 31-33in) to 6X (bust 60-64in); 'Hips are free-size unless noted'; 'Designed to be height inclusive' (no tall range).",
+    "Shipping: domestic and international $20, free over $350 (after gift cards/discounts); orders shipping from more than one location may be charged $40 (refund of $20 on request); 'as we ship most of our items from China we do not offer expedited shipping'; international 7-10 working days, buyer pays import fees; Canada/US territories may route via its LA warehouse (up to 2 weeks processing).",
+    "Returns: file within 15 days of delivery, then 15 more days to post; one exchange allowed; return shipping deducted from refund or credit; sale items over 25% off, final sale, mystery bags and sample sale are non-returnable; no returns for items worn at events, photoshoots or on social media.",
+    "founded_year left empty: not stated on its own pages."
+  ]
+}

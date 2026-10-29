@@ -1,0 +1,46 @@
+{
+  "name": "Jen's Pirate Booty",
+  "website_url": "https://jenspiratebooty.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Bohemian Kaftans and Dresses",
+  "hq_country": "US",
+  "size_range": "XS–XL",
+  "ships_to": [
+    "US",
+    "CA",
+    "AU"
+  ],
+  "free_shipping_min_usd": 200,
+  "returns_days": 14,
+  "sells_categories": [
+    "dresses"
+  ],
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 110.0,
+      "max": 375.0,
+      "min_usd": 110.0,
+      "max_usd": 375.0,
+      "fx_date": null,
+      "item_count": 48,
+      "source_url": "https://jenspiratebooty.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "48 regular-price dresses of 117 in the collection (47 marked down, plus kaftans, tops, robes and a sample-sale piece excluded). Median $238. Countryside Mini Dress $110 to Rosalea Gown $375."
+    }
+  ],
+  "sources": [
+    "https://jenspiratebooty.com/meta.json",
+    "https://jenspiratebooty.com/policies/shipping-policy",
+    "https://jenspiratebooty.com/policies/refund-policy",
+    "https://jenspiratebooty.com/collections/dresses/products.json?limit=250"
+  ],
+  "notes": [
+    "meta.json: Westlake Village, California, US; 'Jen's Pirate Booty Bohemian fashion. Shop kaftans, kimonos, tops, tunics, dresses...'; ships_to_countries US, CA, AU (5 entries). jenrossicollection.com serves the same shop.",
+    "Banner: 'FREE DOMESTIC SHIPPING ON ORDERS $200+', 'FREE INTERNATIONAL SHIPPING WHEN YOU SPEND $400+'.",
+    "Returns: 14 days; $10 restocking fee on every return; buyer pays return shipping; sale items not refundable.",
+    "Sizes from dress variants: XS–L on most, some XL, XXS, P/S and M/L."
+  ]
+}

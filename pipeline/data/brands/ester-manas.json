@@ -1,0 +1,49 @@
+{
+  "name": "Ester Manas",
+  "website_url": "https://estermanas.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Ready-to-Wear Made for Every Body",
+  "size_range": "XS–4XL",
+  "has_plus": true,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 14,
+  "production_model": "Handmade in Brussels from deadstock fabric",
+  "sells_categories": [
+    "dresses"
+  ],
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "EUR",
+      "min": 190.0,
+      "max": 1960.0,
+      "min_usd": 211.53,
+      "max_usd": 2182.07,
+      "fx_date": "2026-10-28",
+      "item_count": 38,
+      "source_url": "https://estermanas.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "All 38 dresses regular price. Median €405. Butter Easy Slip Dress €190 to Signature Mesh & Textured Wool Midi Dress €1,960. Its US-market feed (country=US) shows $215.91–$2,227.29, a converted price above the ECB rate."
+    }
+  ],
+  "sources": [
+    "https://estermanas.com/meta.json",
+    "https://estermanas.com/policies/shipping-policy",
+    "https://estermanas.com/policies/refund-policy",
+    "https://estermanas.com/collections/dresses/products.json?limit=250",
+    "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
+  ],
+  "notes": [
+    "meta.json: 'Ester Manas: ready-to-wear made for every body, literally. Ruched, sensual pieces handcrafted in Brussels from deadstock & EU fabrics.' Store currency EUR; ships_to_countries includes US, CA, GB, AU.",
+    "Shipping to the US: rest-of-world rate €30, free over €350; 'For deliveries outside the EU, duties and taxes remain the Customer's responsibility'; dispatch 2-4 business days, then about 4-10 business days.",
+    "Returns: 14 days from delivery; buyer pays the return label; exchanges ship free; outside-EU buyers also pay duties on the return.",
+    "Sizes from variants: XS/S, M/L, XL/XXL, 3XL, 4XL (some styles 34/44 and 44/50).",
+    "hq_country left empty: the shop address (Encausse, FR) and the Brussels workshop disagree."
+  ]
+}

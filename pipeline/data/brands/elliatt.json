@@ -1,0 +1,50 @@
+{
+  "name": "Elliatt",
+  "website_url": "https://www.elliatt.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Modern, Feminine Occasion Wear",
+  "hq_country": "AU",
+  "founded_year": 2010,
+  "size_range": "XXS–XXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 500,
+  "returns_days": 14,
+  "sells_categories": [
+    "dresses"
+  ],
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 168.0,
+      "max": 870.0,
+      "min_usd": 168.0,
+      "max_usd": 870.0,
+      "fx_date": null,
+      "item_count": 801,
+      "source_url": "https://www.elliatt.com/collections/dresses/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "US-market prices (country=US; the default feed is AUD, e.g. Floriana Puff Sleeve Mini Dress A$270 vs US$238). 801 regular-price Elliatt dresses of 895 in the collection (94 CURAAE-label or non-dress items excluded, none marked down). Median $308. Alexandra Tiered Mini Dress $168 to Veloria Short Sleeve Gown $870. Puff-sleeve styles $238–$675."
+    }
+  ],
+  "sources": [
+    "https://www.elliatt.com/meta.json",
+    "https://www.elliatt.com/pages/shipping",
+    "https://www.elliatt.com/policies/refund-policy",
+    "https://www.elliatt.com/pages/our-story",
+    "https://www.elliatt.com/collections/dresses/products.json?limit=250&country=US",
+    "https://www.elliatt.com/products/floriana-puff-sleeve-mini-dress-in-cornflower-blue"
+  ],
+  "notes": [
+    "Our story: 'a female-founded Australian business'; 'high-quality, modern, and feminine garments for every occasion'; founder Katie Pratt, 2010; head office Surry Hills, Sydney.",
+    "US shipping: 'All U.S. orders are shipped exclusively from our Los Angeles warehouse'; UPS Ground $15 (5-8 business days), UPS 2nd Day $25, free 2nd Day over $500 (no free ground option); 'no duties will be applied at checkout'.",
+    "Returns: within 14 days of receipt, unworn with tags; promo-discounted items credit/exchange only; customer pays return shipping; US customers can return to its LA warehouse; header: 'Instant exchanges available for AU and US'.",
+    "Sizes from dress variants XXS–XXL; no size guide page found (pages/size-guide 404)."
+  ]
+}

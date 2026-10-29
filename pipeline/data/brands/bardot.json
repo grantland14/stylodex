@@ -1,0 +1,45 @@
+{
+  "name": "Bardot",
+  "website_url": "https://www.usa.bardot.com",
+  "status": "verified",
+  "kind": "brand",
+  "size_range": "US 0–12",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 200,
+  "returns_days": 30,
+  "sells_categories": [
+    "dresses"
+  ],
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 139.0,
+      "max": 329.0,
+      "min_usd": 139.0,
+      "max_usd": 329.0,
+      "fx_date": null,
+      "item_count": 24,
+      "source_url": "https://www.usa.bardot.com/dresses/",
+      "checked_at": "2026-10-29",
+      "note": "Sample: the 24 dresses rendered on page 1 of 242 (newest first; sort parameters not honoured). None marked down. Median $199. Natalya Mesh Midi Dress $139 to 030 Denim Strapless Mini Dress $329. Full range not read: human check."
+    }
+  ],
+  "sources": [
+    "https://www.bardot.com/",
+    "https://www.usa.bardot.com/",
+    "https://www.usa.bardot.com/dresses/",
+    "https://www.usa.bardot.com/delivery/united_states.html",
+    "https://www.usa.bardot.com/returns/online_returns_policy.html",
+    "https://www.usa.bardot.com/about-us/sizeguide.html"
+  ],
+  "notes": [
+    "bardot.com redirects US visitors to its US store usa.bardot.com (USD). Dress categories: occasion, cocktail & party, day to night.",
+    "US delivery: ground $10, third-day $16, second-day $20; free ground on a cart subtotal of $200+; ships from ZIP 91739.",
+    "Returns: full-price items within 30 days of delivery for refund, exchange or store credit; sale items exchange or credit note only; original shipping non-refundable.",
+    "Size guide: 'All sizes are based on standard Australian sizing'; apparel AU 6-16 = US 2-12; conversion table US 0 (XXS) to 12 (XXL). No petite/plus/tall mentioned.",
+    "hq_country and known_for left empty: no About page read."
+  ]
+}

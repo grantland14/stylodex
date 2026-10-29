@@ -1,0 +1,48 @@
+{
+  "name": "Selfie Leslie",
+  "website_url": "https://www.selfieleslie.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Affordable, On-Trend Dresses",
+  "hq_country": "US",
+  "size_range": "XXS–4XL",
+  "has_plus": true,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 30,
+  "sells_categories": [
+    "dresses"
+  ],
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 59.0,
+      "max": 155.0,
+      "min_usd": 59.0,
+      "max_usd": 155.0,
+      "fx_date": null,
+      "item_count": 3614,
+      "source_url": "https://www.selfieleslie.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Whole dresses collection, 3,614 items, all regular price (no compare_at above price). Median $94. Labels include its own Selfie Leslie line plus SAINTS & SECRETS, HERE COMES THE SUN, ANGEL BIBA, MIKA & GALA and LIONESS. Puff-sleeve styles from $69 (SAINTS & SECRETS Hayden Puff Sleeve Eyelet Embroidery Dress)."
+    }
+  ],
+  "sources": [
+    "https://www.selfieleslie.com/meta.json",
+    "https://www.selfieleslie.com/policies/shipping-policy",
+    "https://www.selfieleslie.com/policies/refund-policy",
+    "https://www.selfieleslie.com/products/oceana-layered-ruffle-maxi-dress-white",
+    "https://www.selfieleslie.com/collections/dresses/products.json?limit=250"
+  ],
+  "notes": [
+    "meta.json: Vernon, California, US; 'Our cute clothing store offers affordable and on-trend clothing'; ships_to_countries 37 incl. US, CA, GB (not AU).",
+    "US shipping: standard free over $100, else $9.99; expedited $14.99. Canada $29.99, rest of world $39.99, duties extra.",
+    "Returns: within 30 days of delivery, US customers only; store credit at 100% or free exchange; refunds lose a $9.75 fee; final sale includes items discounted 40%+ ('or ending in .50/.00'); product page: 'Easy 30-day returns & exchanges'.",
+    "Sizes from dress variants: XS–XL on nearly all, XXS, XXL, 3XL and 4XL on some."
+  ]
+}

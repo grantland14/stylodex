@@ -46,6 +46,19 @@
       "source_url": "https://us.lionessfashion.com/collections/tops/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "US store (us.lionessfashion.com, cart.js USD). 223 regular-price in-stock tops of 249 (20 on sale, 6 sold out). Low: Kaia Cami $30; high: Notting Hill Shirt $90. Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (jackets, bottoms, dresses, sets, knitwear, hoodies, men's) excluded by title/product type."
+    },
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 55.0,
+      "max": 115.0,
+      "min_usd": 55.0,
+      "max_usd": 115.0,
+      "fx_date": null,
+      "item_count": 84,
+      "source_url": "https://us.lionessfashion.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US store (USD). 84 regular-price items typed Women's Dresses of 99 (11 marked down, 4 jackets/playsuits excluded; includes a few rompers typed as dresses). Median $85. Kiss & Tell Mini Dress $55 to Trophy Maxi Dress $115. Sizes XXS–XXL on every dress."
     }
   ],
   "materials": [],
@@ -64,7 +77,8 @@
     "https://us.lionessfashion.com/policies/shipping-policy",
     "https://us.lionessfashion.com/policies/refund-policy",
     "https://us.lionessfashion.com/cart.js",
-    "https://us.lionessfashion.com/collections/denim/products.json?limit=250"
+    "https://us.lionessfashion.com/collections/denim/products.json?limit=250",
+    "https://us.lionessfashion.com/collections/dresses/products.json?limit=250"
   ],
   "notes": [
     "Shipping page: \"All prices shown on LIONESS are in AUD\"; business based in Sydney, Australia. Its \"Delivery to\" list names Australia, UK, Canada, New Zealand, Europe, Asia and \"Rest of world\", but not the United States, so US is not stored. Free express worldwide shipping \"for qualifying orders\" (no threshold stated).",
@@ -75,7 +89,11 @@
     "2026-10-29 (stores-like-edikted run): ships_to corrected to include US. The US store us.lionessfashion.com (USD) states 'Free standard shipping for all US orders from our US warehouse' (meta); its shipping policy: US warehouse standard 2–4 business days free, express $15 or free over $150; AU-warehouse items $8 or free over $95.",
     "US returns: 30 days from delivery; free returns for store credit/exchange; refunds get a free label with a $15 deduction.",
     "known_for from the US meta: 'Australian fashion label inspired by current luxury trends'.",
-    "2026-10-29 (brands-like-minga-london run): jeans price switched to the US store's USD prices ($85 Horseshoe Cropped Jean to $105 for most styles, e.g. Cobra Jean, Sloane Jean). The AU store charged A$79–A$109 for the same line. Product photos in product-images.json still come from the AU feed in AUD; re-run product-images.mjs."
+    "2026-10-29 (brands-like-minga-london run): jeans price switched to the US store's USD prices ($85 Horseshoe Cropped Jean to $105 for most styles, e.g. Cobra Jean, Sloane Jean). The AU store charged A$79–A$109 for the same line. Product photos in product-images.json still come from the AU feed in AUD; re-run product-images.mjs.",
+    "2026-10-29 (brands-like-selkie run): US dresses $55–$115, 84 regular-price items, sizes XXS–XXL."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "dresses"
+  ]
 }
