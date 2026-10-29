@@ -1,0 +1,58 @@
+{
+  "slug": "pink-lily",
+  "name": "Pink Lily",
+  "website_url": "https://pinklily.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Affordable, Trend-Driven Fashion",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 79,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 38,
+      "max": 78,
+      "min_usd": 38,
+      "max_usd": 78,
+      "fx_date": null,
+      "item_count": 91,
+      "source_url": "https://pinklily.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Full dresses feed, 136 products; 110 in-stock dresses, 19 marked down, 91 regular. Low: Consistently Confident Striped T-Shirt Midi Dress $38, Never A Dull Moment Striped Tee Dress $38; high: Thalia Navy And White Floral Maxi Dress $78. Median $58; all under $100. Vendors Tailoria 37, Maize 34, Kimberly C 7 and others. Sizes XS–XL."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://pinklily.com/",
+    "https://pinklily.com/meta.json",
+    "https://pinklily.com/pages/about-us",
+    "https://pinklily.com/pages/shipping-policy",
+    "https://pinklily.com/pages/return-exchange-policy",
+    "https://pinklily.com/collections/dresses/products.json?limit=250"
+  ],
+  "notes": [
+    "2026-10-29 (stores-like-akira run): meta.json shop 'Pink Lily', Bowling Green, Kentucky, US, USD; description 'boutique fashions, trendy clothing and fab looks that are fun and affordable. Enjoy free shipping on orders over $79.' About: founder Tori Gerbig grew up in Bowling Green, Kentucky; Chris Gerbig joined full-time in 2014; 'affordable, trend-driven fashion and real connection'; 'original, on-trend designs created by our in-house team'; 'Perfect Fit Promise'. Sells other labels too (Tailoria, Maize…), so kind retailer.",
+    "Shipping (WebFetch): standard $8.95, Priority $20, Express $30; 'Free Standard Shipping on orders over $79 (continental U.S. only — APOs excluded)'; Canada charged by weight; other international orders via FedEx, rates by destination (UK/AU not named, so not stored).",
+    "Returns (WebFetch): '30 days from the ship date to return or exchange'; store credit free (e-gift card), refunds minus a $7.95 processing fee; sale and Doorbuster items exchange/store credit only; Final Sale not returnable."
+  ],
+  "checked_at": "2026-10-29"
+}

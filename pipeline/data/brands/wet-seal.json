@@ -7,9 +7,11 @@
   "checked_at": "2026-10-29",
   "prices": [],
   "sources": [
-    "https://www.wetseal.com/"
+    "https://www.wetseal.com/",
+    "https://wetseal.com/"
   ],
   "notes": [
-    "2026-10-29 (coldwater-creek page run): wetseal.com redirects to wetseal.com and serves HTTP 404 'This store is unavailable' (a hosted-store placeholder). Not marked defunct: find the current official site, if any, before deciding."
+    "2026-10-29 (coldwater-creek page run): wetseal.com redirects to wetseal.com and serves HTTP 404 'This store is unavailable' (a hosted-store placeholder). Not marked defunct: find the current official site, if any, before deciding.",
+    "2026-10-29 (stores-like-akira run): wetseal.com returns HTTP 404 with a Shopify 'This store is unavailable' page. A web search found no other official site. Not marked defunct (a failed URL indicts the record first); human check: find the current official store, if any."
   ]
 }

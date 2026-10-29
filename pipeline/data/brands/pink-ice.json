@@ -1,0 +1,59 @@
+{
+  "slug": "pink-ice",
+  "name": "Pink Ice",
+  "website_url": "https://pinkice.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Trendy Womens and Juniors Clothing",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–L",
+  "has_plus": false,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 50,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 17.99,
+      "max": 89.99,
+      "min_usd": 17.99,
+      "max_usd": 89.99,
+      "fx_date": null,
+      "item_count": 68,
+      "source_url": "https://pinkice.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Full dresses feed, 80 products; 68 in stock, none marked down. Low: Ambiance Apparel Rachel Ribbed Mini Dress $17.99, Demi Floral Mini Dress $24.99; high: Nomadic Magic Maxi Dress and Verona Convertible Maxi Dress $89.99. Median $59.99; all under $100. Vendors: Love Stitch 21, Flying Tomato 18, Lana Roux 4 and others (multi-brand). Sizes Small 66, Medium 53, Large 36, X-Small 4."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://pinkice.com/",
+    "https://pinkice.com/meta.json",
+    "https://pinkice.com/pages/shipping-delivery",
+    "https://pinkice.com/pages/returns-exchanges",
+    "https://pinkice.com/pages/size-chart",
+    "https://pinkice.com/collections/dresses/products.json?limit=250"
+  ],
+  "notes": [
+    "2026-10-29 (stores-like-akira run): meta.json shop 'Pink Ice', Los Angeles, California, US, USD, ships_to_countries CA, US; description 'Pink Ice is an affordable, trendy women's online boutique. From bohemian kimonos to nostalgic overalls, to our endless selection of quality denim.' og:title 'Trendy Womens and Juniors Clothing Boutique | Pink Ice'. hq_country US from the shop address. Sells other labels (Love Stitch, Flying Tomato…), so kind retailer.",
+    "Shipping (WebFetch): Standard $4.99 (4–6 business days), Expedited $11.99, Overnight $45.99; 'FREE SHIPPING ON ORDERS OF $50 OR MORE (DOMESTIC ORDERS ONLY)', though a banner says 'Free U.S Shipping on Orders Over $75' (stored 50 from the policy page); 'we don't accept International orders except for Canada', Canada $18 flat.",
+    "Returns (WebFetch): 'All returns are accepted within 30 days from the shipped date'; refund to original tender; customer pays return postage; hats, tube tops, cosmetics, accessories, jewelry, swimwear, intimates and Final Sale items not returnable.",
+    "Size chart is an image with no text; size_range from the dresses feed's size options (X-Small to Large). No plus sizes in the dresses feed."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -9,7 +9,8 @@
     "https://www.gojane.com/"
   ],
   "notes": [
-    "2026-10-29 (charlotte-russe run): WebFetch got HTTP 503; curl got a 122-byte 'Error. Page cannot be displayed.' page. Not worked around."
+    "2026-10-29 (charlotte-russe run): WebFetch got HTTP 503; curl got a 122-byte 'Error. Page cannot be displayed.' page. Not worked around.",
+    "2026-10-29 (stores-like-akira run): www.gojane.com TLS connection failed (SSL_ERROR_SYSCALL), one try, no workaround. Still unverified."
   ],
   "checked_at": "2026-10-29"
 }

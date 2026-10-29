@@ -50,7 +50,8 @@
     "https://en.wikipedia.org/wiki/Dolls_Kill",
     "https://www.dollskill.com/collections/jeans/products.json?limit=250",
     "https://www.dollskill.com/collections/tops/products.json?limit=250&sort_by=created-descending",
-    "https://www.dollskill.com/cart.js"
+    "https://www.dollskill.com/cart.js",
+    "https://www.dollskill.com/collections/dresses/products.json?limit=250"
   ],
   "notes": [
     "Retailer: sells third-party labels (Demonia, Ed Hardy, Von Dutch, Koi Footwear...) alongside ®-marked house labels (Club Exx, Current Mood, Widow...).",
@@ -58,7 +59,11 @@
     "Founded 2011 by Shoddy Lynn and Bobby Farahi, HQ San Francisco (Wikipedia infobox, citing GeekWire). Wikipedia names no current parent.",
     "Returns are issued as gift cards only ('All returns are issued gift cards').",
     "Prices are null: collection pages render no products or prices to WebFetch (JS).",
-    "2026-10-29: its Jeans collection (products.json pages 1, 3 and 4; page 2 returned HTTP 500) lists 18 Jaded London jeans at $80–$108 among 750 products, so Dolls Kill is a stockist of Jaded London, not an alternative to it. Its jeans category is used as co_stocked evidence for other brands on the jaded-london page."
+    "2026-10-29: its Jeans collection (products.json pages 1, 3 and 4; page 2 returned HTTP 500) lists 18 Jaded London jeans at $80–$108 among 750 products, so Dolls Kill is a stockist of Jaded London, not an alternative to it. Its jeans category is used as co_stocked evidence for other brands on the jaded-london page.",
+    "2026-10-29 (stores-like-akira run): Dresses collection feed pages 1–6 (1,500 products; page 7 returned an error): 136 in-stock dresses, 130 marked down (compare_at_price above price), 6 regular at $39–$89 (Widow Eclipsed Romance Lace Mini Dress $39, Club Exx Sensory Escapade Bodycon Dress $59, Current Mood Get Over It Babydoll Dress $79, DARKER WAVS Echo Hooded Slit Maxi Dress $89). No dresses price row: 6 items can't stand for the range. sells_categories dresses from its own collection."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "dresses"
+  ]
 }

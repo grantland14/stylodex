@@ -1,0 +1,65 @@
+{
+  "slug": "akira",
+  "name": "Akira",
+  "website_url": "https://shopakira.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Trending Clothing and Shoes",
+  "hq_country": "US",
+  "founded_year": 2002,
+  "parent_company": null,
+  "size_range": "XS–3X (US 00–28); denim 1–19",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "AU"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": 30,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 29.9,
+      "max": 299.9,
+      "min_usd": 29.9,
+      "max_usd": 299.9,
+      "fx_date": null,
+      "item_count": 733,
+      "source_url": "https://shopakira.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Full dresses collection feed, 22 pages, 5,430 products; 962 in-stock items titled dress or gown, 229 marked down (a variant with compare_at_price above price, or a markdown/clearance tag), 733 regular price. Every regular-price dress has vendor AKIRA. Low: Barely There Mesh Mini Dress $29.90, Reyna Mini Bodycon Dress $34.90; high: Don't Mess With Me Collared Cadet Maxi Dress $299.90, Stand Out Chain Mini Dress $249.90. Median $89.90; 575 under $100. In-stock sizes S–XL on ~600 each, 1X on 452, 2X on 115, XS on 131, 3X on 2."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://shopakira.com/",
+    "https://shopakira.com/meta.json",
+    "https://shopakira.com/pages/about-us",
+    "https://shopakira.com/policies/shipping-policy",
+    "https://shopakira.com/policies/refund-policy",
+    "https://shopakira.com/pages/size-guide",
+    "https://shopakira.com/collections/dresses/products.json?limit=250",
+    "https://shopakira.com/products.json?limit=250"
+  ],
+  "notes": [
+    "2026-10-29 (stores-like-akira run): About Us: 'AKIRA first opened in 2002 as a single Women's Clothing boutique in the trendy Bucktown/ Wicker Park neighborhood of Chicago'; owned by Eric Hsueh, Erikka Wang, Sarah Hughes, Mark Ricard and Gordon Liao; 'expanded to over 40 stores, its E-Commerce Website, and Wholesale'; 'stores in over 18 states'; 'a full line of Women's Clothing, Footwear, and Accessories'; 'AKIRA is based in Chicago'; Day 1 'July 7, 2002'; the name is 'Erikka' spelled backwards. us_stores true from this page (the store locator renders client-side and shows nothing to a plain fetch).",
+    "Homepage og:title 'AKIRA Clothing | Top Trending Fashion Clothing and Shoes'; meta description 'Shop AKIRA for the best fashion online and in stores. Find the latest trends in sexy dresses, shoes, coats and more.' known_for from the og:title. meta.json: shop 'AKIRA', Chicago, Illinois, US, USD.",
+    "Shipping policy: free standard US shipping on orders of $75 or more, excluding sale items (before tax), within the 48 contiguous states; $7.95 under the threshold; standard 5–10 business days; 2-day from $20, overnight from $30; banner says expedited shipping is temporarily unavailable and processing is delayed 3+ business days. International via Global-e, 2–7 business days, duties collected by Global-e. The policy's country list names Canada and Australia but not the United Kingdom, although meta.json ships_to_countries includes GB; GB left out of ships_to.",
+    "Refund policy: online orders returnable within 30 days of the order date for a refund to the original payment or store credit, less original shipping; prepaid label costs $10 (deducted), free if you use your own label; final sale: earrings, tights, swimwear, face covers, body tape. In-store: full-price items within 14 days for exchange or store gift card only, no cash refunds; accessories, jewelry and bodysuits final sale in store.",
+    "Size guide: apparel XS (00–0), S (2–4), M (6–8), L (10–12), XL (14–16), 1X (18–20), 2X (22–24), 3X (26–28); denim sizes 1–19 (waist 24–36 in.). Models wear a small, size 2–4. Navigation has an Extended Sizes section (tops, bottoms, dresses, jackets) and Extended Size Shoes.",
+    "Catalog: products.json pages 1–60 (14,999 products) are vendor AKIRA 12,993, Azalea Wang 1,615, AKIRA GOLD 278, Coi 64, Paxton 43; product types ACCESSORIES 2,074, TOPS 1,702, BOTTOMS 1,505, DRESSES 1,343, BOOTS 867, SANDALS 526. Mostly its own label, so kind brand.",
+    "Category choice: dresses. Ahrefs top pages (US, 2026-10-28): thigh-high boots collection is the top category page (8,578 visits), then faux fur coats (2,867), birthday-dress edit (2,586) and dresses (1,513); boots pages total more traffic than dress pages. Dresses chosen because the editorial lists that name alternatives frame Akira by its dresses (etechshout '13 Stores Like Akira To Buy Best Dresses & Cute Crop Tops'), every candidate is a clothing store, and DRESSES is its largest clothing product type after tops and bottoms."
+  ],
+  "checked_at": "2026-10-29"
+}

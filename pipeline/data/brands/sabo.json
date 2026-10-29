@@ -6,7 +6,7 @@
   "kind": "brand",
   "known_for": "Elevated Summer Dresses and Sets",
   "hq_country": "AU",
-  "founded_year": null,
+  "founded_year": 2011,
   "parent_company": null,
   "size_range": "XXS–XXXL",
   "has_plus": null,
@@ -34,10 +34,24 @@
       "source_url": "https://us.saboskirt.com/collections/tops/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "US store (us.saboskirt.com, meta currency USD). Tops feed 510 products: 203 regular-price in-stock tops (product type Tops; 257 marked down, 50 non-tops excluded). Regular price = no variant with compare_at_price above price. Low: Ria Top - Tan $56.16; Azalia Tank, Illaria Top, Kia Top $60.84 (product .js confirms 5616 cents). High: Orion Top - Fiore Festivo $283.14; Aquila Top $241.02. Median $88.92. Sizes XXS–XXL on nearly all, XXXL on 145. The AU store (saboskirt.com, AUD) lists the same tops at A$68–A$340."
+    },
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 67.86,
+      "max": 416.52,
+      "min_usd": 67.86,
+      "max_usd": 416.52,
+      "fx_date": null,
+      "item_count": 294,
+      "source_url": "https://us.saboskirt.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US store (Shopify.currency active USD, rate 1.0; product page priceCurrency USD). Full dresses feed, 467 products; 463 in stock, 169 marked down (compare_at_price above price), 294 regular. Low: Sweeney Dress - Tan $67.86, Cabana Dress and Dimmi Dress $74.88; high: ZACO Fiorella Dress - Velora $416.52, ZACO Evia Dress $411.84. SABO-label regular dresses top out at Kiama Dress - Blue $205.92; the ZACO dresses ($300+) set the ceiling. Median $124.02; 46 under $100. Vendors SABO 260, ZACO 34. Sizes XXS–XXL on ~160–216 each, XXXL on 151."
     }
   ],
   "sells_categories": [
-    "tops"
+    "tops",
+    "dresses"
   ],
   "materials": [],
   "certifications": [],
@@ -48,13 +62,18 @@
     "https://saboskirt.com/meta.json",
     "https://us.saboskirt.com/collections/tops/products.json?limit=250",
     "https://us.saboskirt.com/products/ria-top-tan.js",
-    "https://us.saboskirt.com/pages.json"
+    "https://us.saboskirt.com/pages.json",
+    "https://us.saboskirt.com/collections/dresses/products.json?limit=250",
+    "https://us.saboskirt.com/products/dimmi-dress",
+    "https://us.saboskirt.com/pages/about",
+    "https://us.saboskirt.com/pages/sizing-chart"
   ],
   "notes": [
     "2026-10-29 (stores-like-white-fox run): US store meta 'SABO', Austin, Texas, USD, ships_to_countries CA, US; description 'Australian fashion label redefining your summer wardrobe. Explore elevated summer dresses, playsuits and two-piece sets designed exclusively by SABO.' AU store meta: Archerfield, Queensland, AUD, ships to 199 countries incl. US, CA, GB, AU. hq_country AU. Formerly Sabo Skirt (domain saboskirt.com).",
     "US shipping page (pages/shipping-information): 'SABO ships to the United States and Canada'; up to 3 business days to process; shipped via SEKO; free Tracked Standard shipping for US orders over $175 USD; 'All listed prices are inclusive of duties, tariffs, and taxes.'",
     "Returns page: full-priced items can be returned for a full refund or store credit; items must be posted within 14 days of delivery; US return method $20 USD deducted from the refund, parcels go via a US facility to Australia and can take up to six weeks to arrive; no exchanges (place a new order); final sale not returnable; items bought with a discount code: store credit only.",
-    "Size & Fit page: XXS (US 0) to XL (US 10) in its chart; tops feed variants run to XXL and XXXL."
+    "Size & Fit page: XXS (US 0) to XL (US 10) in its chart; tops feed variants run to XXL and XXXL.",
+    "2026-10-29 (stores-like-akira run): About page: 'SABO was founded in 2011 by Brisbane best friends and sister-in-laws Thessy and Yiota'; 'With our HQ in Brisbane and retail stores throughout QLD and NSW'; clothing, shoes, swimwear, sleepwear and formal wear 'all designed in-house and exclusively sold by SABO'. Sizing chart (WebFetch): 2XS US 0, XS 2, S 4, M 6, L 8, XL 10, 2XL 12, 3XL 14. Shipping page: free standard shipping on US orders over $175 USD; listed prices include duties and tariffs. Returns: posted within 14 days of receiving; full-price items refund or store credit; $20 USD return label deducted."
   ],
   "checked_at": "2026-10-29"
 }

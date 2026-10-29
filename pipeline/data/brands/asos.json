@@ -1,0 +1,15 @@
+{
+  "slug": "asos",
+  "name": "ASOS",
+  "website_url": "https://www.asos.com/us/",
+  "status": "unverified",
+  "kind": "retailer",
+  "sources": [
+    "https://www.asos.com/us/",
+    "https://www.asos.com/us/women/dresses/cat/?cid=8799"
+  ],
+  "notes": [
+    "2026-10-29 (stores-like-akira run): www.asos.com/us/ refused a scripted request (HTTP/2 stream reset) and WebFetch of the US women's dresses page got HTTP 503. One try each, no workaround. Status unverified; a human must record dress prices, US shipping and returns."
+  ],
+  "checked_at": "2026-10-29"
+}

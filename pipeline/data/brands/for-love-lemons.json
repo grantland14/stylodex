@@ -1,0 +1,45 @@
+{
+  "slug": "for-love-lemons",
+  "name": "For Love & Lemons",
+  "website_url": "https://forloveandlemons.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Flattering Cuts and Exquisite Detail",
+  "hq_country": null,
+  "founded_year": 2010,
+  "parent_company": null,
+  "size_range": "XXS–XL",
+  "has_plus": false,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 250,
+  "returns_days": 21,
+  "us_stores": null,
+  "prices": [],
+  "sells_categories": [
+    "dresses"
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://forloveandlemons.com/",
+    "https://forloveandlemons.com/collections/dresses",
+    "https://forloveandlemons.com/pages/about",
+    "https://forloveandlemons.com/pages/shipping",
+    "https://forloveandlemons.com/pages/returns",
+    "https://forloveandlemons.com/products/abby-mini-dress-pink"
+  ],
+  "notes": [
+    "2026-10-29 (stores-like-akira run): About: 'For Love & Lemons was founded in 2010 by lifelong best friends, Laura Hall and Gillian Rose Kern'; 'Adored for their flattering cuts and exquisite attention to detail.' No HQ or stores stated, so hq_country empty.",
+    "Dresses collection page: '693 Items' (WebFetch; 63 rendered, Morrigan Gown, Night Court Mini Dress, Abby Mini Dress, Lani Maxi Dress…). No price row: the grid renders no prices to WebFetch and /products.json and /collections/dresses/products.json return 404 (disabled). sells_categories dresses from its own store.",
+    "Abby Mini Dress (pink): product JSON-LD offers priceCurrency USD with price '23900.00' (cents) and the page shows '4 interest-free installments of $59.75', so $239; sizes XXS, XS, S, M, L, XL; '64% polyester, 32% polyamide, 4% elastane', lining 90% polyester 10% spandex. Bailey Maxi Dress JSON-LD 68900.00 ($689). size_range from these product pages.",
+    "Shipping (WebFetch): Standard $10, 'Free over $250+' ('free Standard Shipping on eligible U.S. orders over $250 USD', bridal excluded); Express $25, Priority $35; international times shown at checkout, no countries named, so ships_to is US.",
+    "Returns (WebFetch): 'Orders may be returned up to 21 days after your order has shipped'; refund or store credit; flat $10 for US returns, $30 international, $25 select bridal; 25% restocking fee on worn items; final sale not returnable."
+  ],
+  "checked_at": "2026-10-29"
+}

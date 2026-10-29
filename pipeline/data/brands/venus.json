@@ -1,0 +1,57 @@
+{
+  "slug": "venus",
+  "name": "Venus",
+  "website_url": "https://www.venus.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Swim Separates and RSVP-Ready Dresses",
+  "hq_country": "US",
+  "founded_year": 1982,
+  "parent_company": null,
+  "size_range": "2–24; XS–2X",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 39,
+      "max": 168,
+      "min_usd": 39,
+      "max_usd": 168,
+      "fx_date": null,
+      "item_count": 162,
+      "source_url": "https://www.venus.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Full dresses feed, 462 products; 351 in-stock dresses, 189 marked down (compare_at_price above price, or a markdown/clearance tag), 162 regular. Low: Casual Tank Dress - Navy $39, Easy Shift Dress - Olive $39; high: Miraclesuit Niki Shaping Dress $168, VENUS Jacquard Halter Maxi Dress $109. Median $74; 159 under $100. Vendors VENUS 140, bebe 16, VA 4, Miraclesuit 2. Sizes XS–XL on most, 1X/2X on ~25, numeric 2–14 on ~15, a PETITE option on 15."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.venus.com/",
+    "https://www.venus.com/meta.json",
+    "https://www.venus.com/pages/about-us",
+    "https://www.venus.com/pages/shipping",
+    "https://www.venus.com/pages/returns",
+    "https://www.venus.com/collections/dresses/products.json?limit=250"
+  ],
+  "notes": [
+    "2026-10-29 (stores-like-akira run): About Us: 'Founded in 1982 in Jacksonville, Florida, VENUS' heritage is rooted in swim'; 'The Originators of Swim Separates since 1982'; 'With size offerings from 2-24'; 'head-to-toe looks for every moment of life'. og:title 'Venus | Women's Clothing and Swim'; meta description: swimwear 'to RSVP-ready dresses, bold cover-ups, and vacation-ready styles designed to fit every body'. meta.json shop city Nazareth, Pennsylvania, US. Navigation 'Brands We ♥': bebe, Mimi Flamingo, Magicsuit, Miraclesuit, Shape Solver; mostly its own label, so kind brand.",
+    "Shipping (WebFetch): Standard Ground $9.95, Standard Air $19.95, Expedited Air $29.95; ships to the continental US, plus AK/HI/territories at $29.95; only country option United States. Free-shipping threshold conflicts: banner 'FREE Shipping on $99+ (no code needed, US orders only)' (limited time) vs table 'Free Standard Ground on Orders Over $150'; free_shipping_min_usd left empty. meta.json lists many ship-to countries, but the shipping page names only the US, so ships_to is US.",
+    "Returns (WebFetch): 'Returns and exchanges must be received within 30 days of delivery'; refunds to card excluding shipping; $9 return fee without Checkout+ ($6.98); Final Sale and Last Call items not returnable."
+  ],
+  "checked_at": "2026-10-29"
+}
