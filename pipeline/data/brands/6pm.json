@@ -1,0 +1,56 @@
+{
+  "slug": "6pm",
+  "name": "6pm",
+  "website_url": "https://www.6pm.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Discount Shoes, Clothing & Accessories",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": "Zappos IP, Inc. (Amazon)",
+  "size_range": "Varies by brand; plus (to 26W) and petite (P) jeans in stock",
+  "has_plus": true,
+  "has_petite": true,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "womens-clothing",
+      "currency": "USD",
+      "min": 17.99,
+      "max": 279,
+      "min_usd": 17.99,
+      "max_usd": 279,
+      "fx_date": null,
+      "item_count": 1309,
+      "source_url": "https://www.6pm.com/filters/jeans/EMjXAeICAQI.zso?t=women+jeans&ot=women+jeans",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: women's jeans. Full listing read from the page's embedded product data (14 pages, 1,310 items, Gender=Women, Category=Jeans; one jumpsuit excluded). 'Regular price' = 6pm's listed selling price; 1,231 of 1,310 were marked on sale against MSRP (median 40% off), 79 were at MSRP. No extra promo codes applied. Min: Carhartt Rugged Flex Relaxed Fit Jeans $17.99 (MSRP $59.99); max: Paige jeans at $279. 33 brands; most items from KUT from the Kloth (234), NYDJ (199), AG (173), Joe's Jeans (140), Paige (126), Liverpool Los Angeles (78), 7 For All Mankind (75), Levi's (72), Madewell (61). Price filter counts: 245 at $50 and under, 108 over $200."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.6pm.com/",
+    "https://www.6pm.com/women-jeans",
+    "https://www.6pm.com/filters/jeans/EMjXAeICAQI.zso?t=women+jeans&ot=women+jeans",
+    "https://www.6pm.com/c/shipping-and-returns",
+    "https://www.6pm.com/c/return-questions",
+    "https://www.6pm.com/c/about-us-1"
+  ],
+  "notes": [
+    "Homepage title 'Discount Shoes, Clothing & Accessories | 6pm'; logo alt 'Your Premier Destination for Discount Fashion'; nav Shoes, Clothing, Bags, Accessories, Women's, Men's, Kids', Clearance, Brands.",
+    "About page: '6pm is the discount retail division of Zappos IP, Inc.'; serving customers 'since 2007'; 'one physical outlet store located in Shepherdsville, KY'. No HQ named; hq_country US from the Kentucky outlet and US-only shipping.",
+    "Shipping page: 'Spend $100 or more, before tax, for Free Standard Shipping (4-5 Business Days)'; otherwise Standard Shipping $3.95; 'orders may only be shipped to US States and Territories.'",
+    "Returns page: 'Returns are accepted within 30 Days from the purchase date'; the customer pays return shipping, outbound shipping isn't refunded; items unworn with original security tag and packaging; no exchanges.",
+    "Size range: the listing's size filter isn't in the served data. In-stock sizes on sampled product pages: NYDJ Plus Size Marilyn Straight 20W–26W, KUT from the Kloth Petite Natalie Bootcut 14P–16P, Joe's Jeans Bowie 28–32. 28 plus-named and 123 petite-named jeans in the listing.",
+    "Read with curl (User-Agent StylodexBot), which 6pm serves normally; no challenge."
+  ],
+  "checked_at": "2026-10-29"
+}

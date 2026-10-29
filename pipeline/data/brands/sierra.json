@@ -1,0 +1,18 @@
+{
+  "slug": "sierra",
+  "name": "Sierra",
+  "website_url": "https://www.sierra.com",
+  "status": "unverified",
+  "kind": "retailer",
+  "ships_to": [],
+  "prices": [],
+  "sources": [
+    "https://www.sierra.com/",
+    "https://www.tjx.com/businesses/united-states/sierra"
+  ],
+  "notes": [
+    "2026-10-29: sierra.com returns 'Sierra.com: Something went wrong' to WebFetch. Human check.",
+    "TJX's Sierra page: 'We joined the TJX family in 2012'; 'active & outdoor essentials like top-brand gear, footwear, apparel & more'; 'opened over a hundred stores'; shop 'in-store or at sierra.com'."
+  ],
+  "checked_at": "2026-10-29"
+}

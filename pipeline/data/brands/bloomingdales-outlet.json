@@ -1,0 +1,16 @@
+{
+  "slug": "bloomingdales-outlet",
+  "name": "Bloomingdale's Outlet",
+  "website_url": "https://www.bloomingdales.com/shop/bloomingdales-the-outlet",
+  "status": "unverified",
+  "kind": "retailer",
+  "ships_to": [],
+  "prices": [],
+  "sources": [
+    "https://www.bloomingdales.com/shop/bloomingdales-the-outlet"
+  ],
+  "notes": [
+    "2026-10-29: bloomingdales.com returned HTTP 403 to WebFetch. Whether outlet merchandise is sold online is unchecked. Human check."
+  ],
+  "checked_at": "2026-10-29"
+}

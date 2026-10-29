@@ -1,0 +1,17 @@
+{
+  "slug": "burlington",
+  "name": "Burlington",
+  "website_url": "https://www.burlington.com",
+  "status": "verified",
+  "kind": "retailer",
+  "ships_to": [],
+  "prices": [],
+  "sources": [
+    "https://www.burlington.com/",
+    "https://www.burlington.com/faq"
+  ],
+  "notes": [
+    "2026-10-29: burlington.com homepage heading 'Deals. Brands. WOW! at Burlington Stores!'; Deals menu includes Beauty, Ladies, Mens, Juniors, Plus, Shoes; copy promotes in-store shopping ('Deals In-Store'). No online ordering found on the page; ships_to left empty. /faq is 404."
+  ],
+  "checked_at": "2026-10-29"
+}

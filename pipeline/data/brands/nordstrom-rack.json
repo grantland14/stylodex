@@ -1,0 +1,55 @@
+{
+  "slug": "nordstrom-rack",
+  "name": "Nordstrom Rack",
+  "website_url": "https://www.nordstromrack.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Great Brands at Great Prices",
+  "hq_country": "US",
+  "founded_year": 1973,
+  "parent_company": "Nordstrom, Inc.",
+  "size_range": "Women's 00–28W+ (XXS–4X+); petite 00P–18P+; plus 14W–28W+; jeans waists 23–36",
+  "has_plus": true,
+  "has_petite": true,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 89,
+  "returns_days": 40,
+  "prices": [
+    {
+      "category": "womens-clothing",
+      "currency": "USD",
+      "min": 15.38,
+      "max": 419.97,
+      "min_usd": 15.38,
+      "max_usd": 419.97,
+      "fx_date": null,
+      "item_count": 119,
+      "source_url": "https://www.nordstromrack.com/shop/women/clothing/jeans",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: women's jeans. A sample, not the whole range: 119 jeans from page 1 (default sort) and page 42 of the Women's Jeans & Denim listing (2,961–3,069 items that day, 42–43 pages); the price-sort URLs returned an empty page to WebFetch. 'Regular price' = Nordstrom Rack's listed selling price ('Comparable value' shown as reference); excluded items labeled 'New Markdown', 'Previous Price' or a promo range ('Up to 60% off select items'), and non-jeans (denim shorts, a shirtdress, culottes, pants). Min: MANGO Claudia Waxed Crop Slim Fit Jeans $15.38 (comparable $69.99); max: Akris Finnian High Waist Wide Leg Jeans $419.97 (comparable $995). Page-1 items ran $39.97–$79.97. Brands seen include Levi's, Democracy, Joe's, Good American, Madewell, True Religion, Lucky Brand, PAIGE, FRAME, Citizens of Humanity, L'AGENCE, AG, rag & bone, Veronica Beard."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": "Ongoing markdowns: homepage banner 'New Markdowns Up to 70% Off'; a Clearance department in the main navigation.",
+  "sources": [
+    "https://www.nordstromrack.com/",
+    "https://www.nordstromrack.com/shop/Women/Clothing/Jeans",
+    "https://www.nordstromrack.com/shop/women/clothing/jeans?page=2",
+    "https://www.nordstromrack.com/shop/women/clothing/jeans?page=42",
+    "https://www.nordstromrack.com/customer-service/ship-return-policy",
+    "https://en.wikipedia.org/wiki/Nordstrom_Rack"
+  ],
+  "notes": [
+    "Homepage title 'Nordstrom Rack: Shop Clothes, Shoes, Jewelry, Beauty and Home'; image alt text 'Great Brands. Great Prices.'; nav: Clearance, New & Now, Women, Men, Kids, Shoes, Bags & Accessories, Beauty, Home. Beauty 'Top Brands' include Anastasia Beverly Hills, Burberry, Charlotte Tilbury, Clinique, Gucci, MAC Cosmetics.",
+    "Shipping/returns page (2026-10-29): free shipping 'Applies to most orders over $89 before tax'; 'All other orders under $89: $9.95'; 'Online purchases must be returned within 40 days of order date'; '$9.95 will be deducted from your refund per pre-paid shipping label used'; online orders can be returned to any Nordstrom or Nordstrom Rack store at no charge; 'Nordstrom Rack will no longer offer shipping options for addresses outside of the U.S., including Canada.' Holiday extension for purchases 10/5/26–12/24/26 runs to 1/18/27.",
+    "Size range from the jeans listing's size filters (women's 00 to 28W+/4X+, petite 00 (XXS) to 18+ (XXL+), plus 14W–28W+/1X–4X+, waist 23–36).",
+    "Wikipedia (Nordstrom_Rack): founded 1973 in Seattle as a clearance outlet [3], first Rack in the basement of the downtown Seattle Nordstrom [4]; parent Nordstrom; HQ Seattle; 348 stores in 41 US states [2] (infobox says 346, 2023). HauteLook (acquired by Nordstrom 2011) now redirects to nordstromrack.com/events.",
+    "nordstromrack.com serves a JavaScript challenge to curl; read only via WebFetch. Query-string URLs (sort) came back empty; ?page=N worked."
+  ],
+  "checked_at": "2026-10-29"
+}

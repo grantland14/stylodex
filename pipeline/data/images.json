@@ -1,4 +1,9 @@
 {
+  "6pm": {
+    "status": "no_share_image",
+    "source_page": "https://www.6pm.com",
+    "fetched_at": "2026-10-29"
+  },
   "affliction": {
     "status": "ok",
     "path": "/img/brands/affliction.webp",
@@ -26,6 +31,22 @@
   },
   "bershka": {
     "status": "no_website",
+    "fetched_at": "2026-10-29"
+  },
+  "bloomingdales-outlet": {
+    "status": "blocked",
+    "http": 403,
+    "source_page": "https://www.bloomingdales.com/shop/bloomingdales-the-outlet",
+    "fetched_at": "2026-10-29"
+  },
+  "burlington": {
+    "status": "ok",
+    "path": "/img/brands/burlington.webp",
+    "width": 960,
+    "height": 502,
+    "bytes": 14288,
+    "source_page": "https://www.burlington.com",
+    "source_image": "https://cdn.sanity.io/images/k5c6l842/production/efea89471c344f736be75d60d4c757cccc2c7fd0-1200x630.png?rect=0,2,1200,627&w=1200&h=627&fit=crop&auto=format",
     "fetched_at": "2026-10-29"
   },
   "chrome-hearts": {
@@ -67,6 +88,11 @@
     "status": "error",
     "error": "image fetch 404 image/png;",
     "source_page": "https://edikted.com",
+    "fetched_at": "2026-10-29"
+  },
+  "hautelook": {
+    "status": "no_share_image",
+    "source_page": "https://www.hautelook.com",
     "fetched_at": "2026-10-29"
   },
   "hoodrich": {
@@ -120,6 +146,11 @@
     "source_image": "https://www.manieredevoir.com/cdn/shop/t/785/assets/mdv-link-share-1200x630.png?v=37524156615902115241793123305",
     "fetched_at": "2026-10-29"
   },
+  "marshalls": {
+    "status": "no_share_image",
+    "source_page": "https://www.marshalls.com",
+    "fetched_at": "2026-10-29"
+  },
   "metal-mulisha": {
     "status": "no_share_image",
     "source_page": "https://metalmulisha.com",
@@ -160,6 +191,17 @@
     "source_image": "https://cdn.shopify.com/s/files/1/0269/0059/4766/files/preferences_logo.jpg?v=1732698455",
     "fetched_at": "2026-10-29"
   },
+  "neiman-marcus-last-call": {
+    "status": "blocked",
+    "http": 403,
+    "source_page": "https://www.lastcall.com",
+    "fetched_at": "2026-10-29"
+  },
+  "nordstrom-rack": {
+    "status": "no_share_image",
+    "source_page": "https://www.nordstromrack.com",
+    "fetched_at": "2026-10-29"
+  },
   "o-mighty": {
     "status": "ok",
     "path": "/img/brands/o-mighty.webp",
@@ -192,6 +234,26 @@
     "bytes": 3624,
     "source_page": "https://representclo.com",
     "source_image": "https://cdn.shopify.com/s/files/1/0587/5816/8785/files/Represent1checkout_1_db08ea91-0ef3-4c8d-9da8-7aece30c19f5.png?v=1629391529",
+    "fetched_at": "2026-10-29"
+  },
+  "ross-dress-for-less": {
+    "status": "ok",
+    "path": "/img/brands/ross-dress-for-less.webp",
+    "width": 960,
+    "height": 502,
+    "bytes": 18762,
+    "source_page": "https://www.rossstores.com",
+    "source_image": "https://www.rossstores.com/wp-content/uploads/2021/06/ross_logo_fb.png",
+    "fetched_at": "2026-10-29"
+  },
+  "saks-off-5th": {
+    "status": "no_share_image",
+    "source_page": "https://www.saksoff5th.com",
+    "fetched_at": "2026-10-29"
+  },
+  "sierra": {
+    "status": "no_share_image",
+    "source_page": "https://www.sierra.com",
     "fetched_at": "2026-10-29"
   },
   "sullen": {
@@ -227,6 +289,11 @@
     "bytes": 1914,
     "source_page": "https://throwdown.com",
     "source_image": "https://throwdown.com/cdn/shop/files/Throwdown-logo_1204x630.png?v=1614297702",
+    "fetched_at": "2026-10-29"
+  },
+  "tj-maxx": {
+    "status": "no_share_image",
+    "source_page": "https://tjmaxx.tjx.com",
     "fetched_at": "2026-10-29"
   },
   "true-religion": {

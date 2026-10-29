@@ -1,0 +1,16 @@
+{
+  "slug": "hautelook",
+  "name": "HauteLook",
+  "website_url": "https://www.hautelook.com",
+  "status": "defunct",
+  "kind": "retailer",
+  "ships_to": [],
+  "prices": [],
+  "sources": [
+    "https://www.hautelook.com/"
+  ],
+  "notes": [
+    "2026-10-29: hautelook.com 301-redirects to https://www.nordstromrack.com/events/all?hautelook_redirect=1, so it is retired into Nordstrom Rack."
+  ],
+  "checked_at": "2026-10-29"
+}

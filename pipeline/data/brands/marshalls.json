@@ -1,0 +1,19 @@
+{
+  "slug": "marshalls",
+  "name": "Marshalls",
+  "website_url": "https://www.marshalls.com",
+  "status": "unverified",
+  "kind": "retailer",
+  "ships_to": [],
+  "prices": [],
+  "sources": [
+    "https://www.marshalls.com/",
+    "https://www.marshalls.com/us/store/index.jsp",
+    "https://www.tjx.com/businesses/united-states/marshalls"
+  ],
+  "notes": [
+    "2026-10-29: marshalls.com/ and /us/store/index.jsp return TJX's 'Something went wrong' page to WebFetch. Human check.",
+    "TJX's Marshalls page: 'acquired by TJX in 1995, joining TJ Maxx to form Marmaxx'; buyers search for 'the best finds in fashion, home, shoes, beauty, and accessories'; 'an expanded men's department' and 'a larger shoe department'; e-commerce site marshalls.com 'launched in 2019'."
+  ],
+  "checked_at": "2026-10-29"
+}

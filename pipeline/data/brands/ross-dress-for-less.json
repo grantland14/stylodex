@@ -1,0 +1,16 @@
+{
+  "slug": "ross-dress-for-less",
+  "name": "Ross Dress for Less",
+  "website_url": "https://www.rossstores.com",
+  "status": "unverified",
+  "kind": "retailer",
+  "ships_to": [],
+  "prices": [],
+  "sources": [
+    "https://www.rossstores.com/"
+  ],
+  "notes": [
+    "2026-10-29: rossstores.com (title 'Ross Dress For Less') shows only store links ('Find A Store', 'Discover Fall In-Store', 'items will vary by store'); no online ordering found. Departments not listed; ships_to empty."
+  ],
+  "checked_at": "2026-10-29"
+}

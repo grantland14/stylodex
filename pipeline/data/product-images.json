@@ -29,6 +29,100 @@
         }
       ],
       "fetched_at": "2026-10-29"
+    },
+    "graphic-tees": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/affliction/hunter-1.webp",
+          "title": "Hunter Tee",
+          "product_path": "/products/hunter-1",
+          "price": 48,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1268/8989/files/A27967B_1_23c7365f-415e-464f-b366-4fe225cd8afc.jpg?v=1793058163"
+        },
+        {
+          "path": "/img/products/affliction/haunted-crypt.webp",
+          "title": "Haunted Crypt Tee",
+          "product_path": "/products/haunted-crypt",
+          "price": 39.95,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1268/8989/files/AFFL0024_1.jpg?v=1793062029"
+        },
+        {
+          "path": "/img/products/affliction/december-horizon-1.webp",
+          "title": "December Horizon Tee",
+          "product_path": "/products/december-horizon-1",
+          "price": 64,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1268/8989/files/A32441_1.jpg?v=1777589238"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "alchemy-england": {
+    "graphic-tees": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/alchemy-england/aw24-podtb-prince-of-darkness-t-shirt-black.webp",
+          "title": "Prince of Darkness T-Shirt - Black",
+          "product_path": "/products/aw24-podtb-prince-of-darkness-t-shirt-black",
+          "price": 40,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0674/7196/6417/files/PrinceOfDarknessTee_Black_2__41217.1733272340.1280.1280.jpg?v=1782499364"
+        },
+        {
+          "path": "/img/products/alchemy-england/aw24-tfbtb-thirst-for-blood-t-shirt-black.webp",
+          "title": "Thirst for Blood T-Shirt - Black",
+          "product_path": "/products/aw24-tfbtb-thirst-for-blood-t-shirt-black",
+          "price": 40,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0674/7196/6417/files/ThirstForBloodTee_Black_1__74445.1733268789.1280.1280.jpg?v=1782499364"
+        },
+        {
+          "path": "/img/products/alchemy-england/aw24-hoatb-house-of-alchemy-t-shirt-black.webp",
+          "title": "House of Alchemy T-Shirt - Black",
+          "product_path": "/products/aw24-hoatb-house-of-alchemy-t-shirt-black",
+          "price": 40,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0674/7196/6417/files/HouseOfAlchemyTee_Black_1__53640.1733272386.1280.1280.jpg?v=1782499368"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "ed-hardy": {
+    "graphic-tees": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/ed-hardy/eagle-mens-ss-tee.webp",
+          "title": "EAGLE MENS SS TEE",
+          "product_path": "/products/eagle-mens-ss-tee",
+          "price": 45,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0080/3608/9892/files/EHM1100-181_Eagle_T_Shirt_1_Crop_738d0042-9db7-41ba-bbe6-e3972ee72de9.jpg?v=1791301740"
+        },
+        {
+          "path": "/img/products/ed-hardy/heart-web-boxy-tee.webp",
+          "title": "Heart Web Boxy Tee",
+          "product_path": "/products/heart-web-boxy-tee",
+          "price": 60,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0080/3608/9892/files/13.png?v=1785771980"
+        },
+        {
+          "path": "/img/products/ed-hardy/panther-flame-boxy-tee-sunfade-grey.webp",
+          "title": "Panther Flame Boxy Tee",
+          "product_path": "/products/panther-flame-boxy-tee-sunfade-grey",
+          "price": 45,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0080/3608/9892/files/EHM1101-86_Panther_Flame_Boxy_Tee2_crop.jpg?v=1786380457"
+        }
+      ],
+      "fetched_at": "2026-10-29"
     }
   },
   "edikted": {
@@ -70,6 +164,36 @@
           "price": 280,
           "currency": "USD",
           "source_image": "https://cdn.shopify.com/s/files/1/0022/0446/7300/files/JNCO_ECOMM_SEP4073.jpg?v=1790104431"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    },
+    "graphic-tees": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/jnco/4-the-people-tee-black.webp",
+          "title": "\"4 The People\" Tee. Black.",
+          "product_path": "/products/4-the-people-tee-black",
+          "price": 80,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0022/0446/7300/files/JNCO_12-18-202578846-Edit.jpg?v=1767036325"
+        },
+        {
+          "path": "/img/products/jnco/street-gambler-tee-black-copy.webp",
+          "title": "Skull Cards Tee. Black.",
+          "product_path": "/products/street-gambler-tee-black-copy",
+          "price": 80,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0022/0446/7300/files/JNCO_12-18-202578847-Edit.jpg?v=1767036336"
+        },
+        {
+          "path": "/img/products/jnco/skater-tee-black-copy.webp",
+          "title": "Skater Tee. Ecru.",
+          "product_path": "/products/skater-tee-black-copy",
+          "price": 60,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0022/0446/7300/files/JNCO_12-18-202578871-Edit.jpg?v=1767035990"
         }
       ],
       "fetched_at": "2026-10-29"
@@ -134,6 +258,38 @@
           "price": 155,
           "currency": "USD",
           "source_image": "https://cdn.shopify.com/s/files/1/1604/7647/files/MDV_0139_MDV4.jpg?v=1791273019"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "metal-mulisha": {
+    "graphic-tees": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/metal-mulisha/demo-tee.webp",
+          "title": "DEMO TEE",
+          "product_path": "/products/demo-tee",
+          "price": 30,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0504/7926/7994/files/MMTSS6055_BLK_DEMO-TEE_F_web.jpg?v=1793133663"
+        },
+        {
+          "path": "/img/products/metal-mulisha/conee-tee-white.webp",
+          "title": "CONEE TEE",
+          "product_path": "/products/conee-tee-white",
+          "price": 28,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0504/7926/7994/files/MMTSS6031_WHT_CONEE-TEE_F_web.jpg?v=1793133771"
+        },
+        {
+          "path": "/img/products/metal-mulisha/conee-tee-black-red.webp",
+          "title": "CONEE TEE",
+          "product_path": "/products/conee-tee-black-red",
+          "price": 28,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0504/7926/7994/files/MMTSS6031_BLR_CONEE-TEE_F_web.jpg?v=1793133763"
         }
       ],
       "fetched_at": "2026-10-29"
@@ -235,6 +391,38 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "sullen": {
+    "graphic-tees": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/sullen/hodu-reaper-artrist-series-skulls-bones-dark-sulleween-hodu-tee.webp",
+          "title": "Hodu Reaper Premium",
+          "product_path": "/products/hodu-reaper-artrist-series-skulls-bones-dark-sulleween-hodu-tee",
+          "price": 32.5,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1096/0120/files/HoduReaperTee_5.jpg?v=1792014798"
+        },
+        {
+          "path": "/img/products/sullen/medusa-painting-of-great-battle-against-medusa-matt-jordan-tee.webp",
+          "title": "Medusa Standard",
+          "product_path": "/products/medusa-painting-of-great-battle-against-medusa-matt-jordan-tee",
+          "price": 27.95,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1096/0120/files/MEDUSA_Lifestyle_2.jpg?v=1786767707"
+        },
+        {
+          "path": "/img/products/sullen/6-swords-painting-by-artist-matt-jordan.webp",
+          "title": "6 Swords Standard",
+          "product_path": "/products/6-swords-painting-by-artist-matt-jordan",
+          "price": 27.95,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1096/0120/files/6-SWORDS_Lifestyle_1_ec6b0f2e-6d08-467c-bd81-15953099f5a6.jpg?v=1786767708"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "the-ragged-priest": {
     "jeans": {
       "status": "ok",
@@ -262,6 +450,38 @@
           "price": 75,
           "currency": "GBP",
           "source_image": "https://cdn.shopify.com/s/files/1/0252/4518/8149/files/ragged-priest-icon-dirty-blue-belted-flare-jeans-1.jpg?v=1791364102"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "venum": {
+    "graphic-tees": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/venum/venum-fight-icon-cotton-t-shirt-black.webp",
+          "title": "Venum Fight Icon Cotton T-Shirt - Black",
+          "product_path": "/products/venum-fight-icon-cotton-t-shirt-black",
+          "price": 29.99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0264/2218/1937/files/d71779b6d2dafe2dfea254403174c69c2ab490af_VENUM_06371_001_G_4.jpg?v=1786615081"
+        },
+        {
+          "path": "/img/products/venum/venum-ufc-unity-by-venum-authentic-fight-week-mens-short-sleeve-t-shirt-sand.webp",
+          "title": "Venum UFC Unity by Venum Authentic Fight Week Men's Short Sleeve T-Shirt - Sand",
+          "product_path": "/products/venum-ufc-unity-by-venum-authentic-fight-week-mens-short-sleeve-t-shirt-sand",
+          "price": 34.99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0264/2218/1937/files/49be37e6774370ac2ee8e875a5cdfb664d647649_VNMUFC_00574_040_G_1.jpg?v=1788265376"
+        },
+        {
+          "path": "/img/products/venum/venum-x-mike-tyson-tiger-t-shirt-black-gold.webp",
+          "title": "Venum x Mike Tyson Tiger T-Shirt - Black/Gold",
+          "product_path": "/products/venum-x-mike-tyson-tiger-t-shirt-black-gold",
+          "price": 39.99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0264/2218/1937/files/7f8f2e14fab3ada0ec22bffba38ebbbbf7f4266b_VENUM_06033_126_G_3.jpg?v=1788507872"
         }
       ],
       "fetched_at": "2026-10-29"

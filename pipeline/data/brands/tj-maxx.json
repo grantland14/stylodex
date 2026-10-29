@@ -1,0 +1,38 @@
+{
+  "slug": "tj-maxx",
+  "name": "TJ Maxx",
+  "website_url": "https://tjmaxx.tjx.com",
+  "status": "unverified",
+  "kind": "retailer",
+  "known_for": "Brand-Name Fashion for Way Less",
+  "hq_country": "US",
+  "founded_year": 1976,
+  "parent_company": "The TJX Companies, Inc.",
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [],
+  "free_shipping_min_usd": null,
+  "returns_days": null,
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://tjmaxx.tjx.com/",
+    "https://tjmaxx.tjx.com/store/index.jsp",
+    "https://www.tjx.com/",
+    "https://www.tjx.com/businesses/united-states/tj-maxx",
+    "https://en.wikipedia.org/wiki/TJ_Maxx"
+  ],
+  "notes": [
+    "2026-10-29: tjmaxx.tjx.com/ and /store/index.jsp return a 'Something went wrong. Let's get back on track' page (links to TJ Maxx, Marshalls, HomeGoods only) to WebFetch, so the store, prices, sizes, shipping and returns are unverified. No workaround tried. Human check.",
+    "TJX's T.J. Maxx page (tjx.com/businesses/united-states/tj-maxx): 'TJ Maxx was founded in 1976'; 'the largest off-price retailer of apparel and home fashions in the U.S.'; brands 'for way less'; 'brand-name fashion to home decor'; 'an expanded assortment of jewelry, accessories'; 'the Runway at TJ Maxx' is 'our exclusive department that brings you high-end luxury at an amazing value', 'in select stores'; e-commerce site tjmaxx.com 'launched in 2013'; 'stores across the country, including Puerto Rico'.",
+    "tjx.com home page: TJX is a 'leading off-price retailer with 5,200+ stores in 10 countries'; sells 'at prices generally 20%-60% below full-price retailers'' regular prices (TJX's own claim); US brands: TJ Maxx, Marshalls, HomeGoods, Sierra, Homesense.",
+    "Wikipedia (TJ_Maxx, read 2026-10-29): founded 1976, Framingham, Massachusetts (infobox); headquarters Framingham; parent TJX (1987–present); first two stores 1977 in Worcester and Auburn, MA [5]; 1,333 locations (infobox, Statista [1]); infobox products include clothing, footwear, jewelry, beauty products.",
+    "known_for built from TJX's page wording ('brand-name fashion', 'for way less'); not checked against tjmaxx.tjx.com."
+  ],
+  "checked_at": "2026-10-29"
+}
