@@ -7,6 +7,8 @@ test("prices show in the store's own currency", () => {
   assert.equal(priceRange({ ...base, currency: "USD", min: 48, max: 56 }), "$48–$56");
   assert.equal(priceRange({ ...base, currency: "GBP", min: 40, max: 95 }), "£40–£95");
   assert.equal(priceRange(undefined), null);
+  assert.equal(priceRange({ ...base, currency: "USD", min: 24.99, max: 48.95 }), "$24.99–$48.95");
+  assert.equal(priceRange({ ...base, currency: "USD", min: 25, max: 48.95 }), "$25.00–$48.95");
 });
 
 test("non-USD prices also show the dollar equivalent", () => {

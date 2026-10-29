@@ -1,0 +1,56 @@
+{
+  "slug": "modcloth",
+  "name": "ModCloth",
+  "website_url": "https://modcloth.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Vintage-Style Clothing",
+  "hq_country": "US",
+  "founded_year": 2002,
+  "parent_company": null,
+  "size_range": "XS–4X; regular-price jeans AU 4–20",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "womens-clothing",
+      "currency": "USD",
+      "min": 72.6,
+      "max": 86.6,
+      "min_usd": 72.6,
+      "max_usd": 86.6,
+      "fx_date": null,
+      "item_count": 20,
+      "source_url": "https://modcloth.com/collections/denim-clothing-2/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: women's jeans. products.json for the Denim collection: 70 products (page 2 empty), 34 jeans/denim pants by product_type. Regular price = no compare_at above price and no sale/markdown/final-sale tag; 14 excluded. All 20 regular-price jeans are from Dangerfield (vendor 'Dangerfield US'), in AU sizes 4–20, many embroidered or printed. The 0–26W sizes seen were on sale-tagged EZ Apparel styles, so not stored."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://modcloth.com/",
+    "https://modcloth.com/collections/denim-clothing-2/products.json?limit=250",
+    "https://modcloth.com/pages/about-modcloth",
+    "https://modcloth.com/pages/shipping-info",
+    "https://modcloth.com/pages/loop-returns-exchanges",
+    "https://modcloth.com/pages/size-guide",
+    "https://en.wikipedia.org/wiki/ModCloth"
+  ],
+  "notes": [
+    "Homepage title: 'Shop Vintage Outfits // Vintage Style Clothing // ModCloth'. kind=retailer: homepage lists outside labels such as Princess Highway, Dangerfield, Orchid Bloom, Sleepy Peach, Chelsea Crew, Leg Avenue and Sock Candy alongside ModCloth's own collaborations.",
+    "About page: 'Born in a Pittsburgh dorm room in 2002'; 'inclusive sizing, standout style, and just the right touch of nostalgia'. HQ not on site; Wikipedia: Los Angeles, California; founders Eric Koger and Susan Gregg Koger; Nogin acquired it in May 2021 and filed Chapter 11 in December 2023 (plan confirmed April 2024), so the current owner is left empty.",
+    "Shipping: free ground shipping on eligible orders over $150, contiguous USA only. Express transit times are listed for Canada, Australia and the UK, but the page doesn't confirm standard shipping there, so only US is stored.",
+    "Returns: request within 30 days of delivery; $14 per-order fee unless Checkout+ was bought; final sale not returnable.",
+    "Sizes: size charts are images; the sale banner reads 'XS-4X' and the navigation has 'Shop Plus Sizes'."
+  ],
+  "checked_at": "2026-10-29"
+}

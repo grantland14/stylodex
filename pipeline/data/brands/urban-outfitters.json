@@ -1,0 +1,36 @@
+{
+  "slug": "urban-outfitters",
+  "name": "Urban Outfitters",
+  "website_url": "https://www.urbanoutfitters.com",
+  "status": "unverified",
+  "kind": "retailer",
+  "known_for": null,
+  "hq_country": "US",
+  "founded_year": 1970,
+  "parent_company": "Urban Outfitters, Inc. (Nasdaq: URBN)",
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [],
+  "free_shipping_min_usd": null,
+  "returns_days": null,
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.urbanoutfitters.com/",
+    "https://www.urbanoutfitters.com/womens-clothing",
+    "https://www.urbanoutfitters.com/help/shipping-information",
+    "https://en.wikipedia.org/wiki/Urban_Outfitters"
+  ],
+  "notes": [
+    "2026-10-29: urbanoutfitters.com returned HTTP 403 to WebFetch on /, /womens-clothing and /help/shipping-information (one try each). No retry, no workaround. Status unverified; a human must confirm prices, sizes, shipping and returns (see human_check in pages/urban-outfitters.json).",
+    "Wikipedia (fetched 2026-10-29): founded 1970 in Philadelphia, Pennsylvania, first as a store called Free People; renamed Urban Outfitters and incorporated in 1976. Founders Richard Hayne, Judy Wicks and Scott Belair. Headquarters Philadelphia. Owned by the public company Urban Outfitters, Inc. (Nasdaq: URBN), whose other brands include Anthropologie, Free People, Terrain, BHLDN and the Vetri Family restaurant group.",
+    "Wikipedia: the Urban Outfitters store sells women's and men's apparel, footwear, beauty and wellness, accessories, activewear, housewares and music (mainly vinyl records and cassettes); much of the merchandise is designed and produced by the company's wholesale division under multiple private labels (not named on the page).",
+    "Ahrefs SERP title of the homepage (not fetched): 'Urban Outfitters: Men's & Women's Clothing, Homeware & Decor'. Not stored as known_for because the site itself could not be read."
+  ],
+  "checked_at": "2026-10-29"
+}

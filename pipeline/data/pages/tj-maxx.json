@@ -1,0 +1,896 @@
+{
+  "subject": "TJ Maxx",
+  "slug": "tj-maxx",
+  "url_prefix": "stores",
+  "category": {
+    "slug": "womens-clothing",
+    "name": "Women's Clothing",
+    "why": "TJ Maxx is a multi-brand off-price store (kind retailer), so C is the department most of its searches are about. run-page.md names womens-clothing as the usual one, and TJX's own page leads with 'brand-name fashion'; the store couldn't be read to confirm its department mix (human_check). Scope: clothing and beauty only (home is out of scope). Like-for-like item for prices: women's jeans, which every off-price candidate lists as its own category (Nordstrom Rack 'Women's Jeans & Denim', 6pm Women > Clothing > Jeans). Off-price prices are each store's listed selling price; the compare-at/MSRP figure is not stored as a price."
+  },
+  "serp": [
+    {
+      "keyword": "stores like tj maxx",
+      "position": 2,
+      "url": "https://247wallst.com/investing/2024/01/19/16-stores-like-tj-maxx-best-alternatives-and-affordable-options/",
+      "kept": true,
+      "note": "read 2026-10-29: Rob Hayek, 24/7 Wall St., Jan 19 2024; 16 numbered stores"
+    },
+    {
+      "keyword": "stores like tj maxx",
+      "position": 4,
+      "url": "https://www.reddit.com/r/NYCbitcheswithtaste/comments/1h3z4r8/what_shops_are_similar_to_tj_maxx_where_i_can_get/",
+      "kept": false,
+      "why_dropped": "reddit: WebFetch refuses reddit.com; not read, no workaround tried"
+    },
+    {
+      "keyword": "stores like tj maxx",
+      "position": 4,
+      "url": "https://www.reddit.com/r/rva/comments/128nr45/whats_the_best_discount_department_store_for/",
+      "kept": false,
+      "why_dropped": "reddit sitelink; not read"
+    },
+    {
+      "keyword": "stores like tj maxx",
+      "position": 4,
+      "url": "https://www.reddit.com/r/AskReddit/comments/4o2rmv/are_stores_like_tjmaxx_marshalls_ross_stein_mart/",
+      "kept": false,
+      "why_dropped": "reddit sitelink; not read"
+    },
+    {
+      "keyword": "stores like tj maxx",
+      "position": 5,
+      "url": "https://irreverentgent.medium.com/the-25-best-stores-like-tj-maxx-for-on-point-affordable-discount-styles-bf2a8f0ac68e",
+      "kept": true,
+      "note": "Medium copy returned HTTP 403; read the same article on the publisher's own site, https://www.irreverentgent.com/stores-like-tj-maxx/ (Dave Bowden, Irreverent Gent, updated June 18 2026; 25 numbered stores)"
+    },
+    {
+      "keyword": "stores like tj maxx",
+      "position": 6,
+      "url": "https://www.facebook.com/groups/themedellinexpats/posts/25907451175528680/",
+      "kept": false,
+      "why_dropped": "Facebook group post (about Medellín, Colombia); login wall, not an editorial list"
+    },
+    {
+      "keyword": "stores like tj maxx",
+      "position": 7,
+      "url": "https://www.quora.com/Which-stores-are-cheaper-TJ-Maxx-Marshalls-or-Target",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch"
+    },
+    {
+      "keyword": "stores like tj maxx",
+      "position": 8,
+      "url": "https://www.instagram.com/reel/DZ_M2g7tcwm/?hl=en",
+      "kept": false,
+      "why_dropped": "Instagram reel; no readable list"
+    },
+    {
+      "keyword": "stores like tj maxx",
+      "position": 9,
+      "url": "https://effortlessgent.com/stores-like-nordstrom-rack/",
+      "kept": false,
+      "why_dropped": "about alternatives to Nordstrom Rack, not to TJ Maxx"
+    },
+    {
+      "keyword": "stores like tj maxx",
+      "position": 10,
+      "url": "https://www.teamblind.com/post/whats-your-opinion-on-shopping-in-stores-like-ross-marshalls-and-tj-maxx-are-they-any-good-uvb0skdg",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch"
+    },
+    {
+      "keyword": "stores like tj maxx",
+      "position": 1,
+      "url": "https://www.businessinsider.com/tj-maxx-vs-marshalls-holiday-shopping-2025-12",
+      "kept": false,
+      "why_dropped": "AI-overview sitelink; WebFetch can't fetch businessinsider.com; a TJ Maxx vs Marshalls visit, not a list"
+    },
+    {
+      "keyword": "stores like tj maxx",
+      "position": 1,
+      "url": "https://www.marketbeat.com/stocks/NYSE/TJX/competitors-and-alternatives/",
+      "kept": false,
+      "why_dropped": "AI-overview sitelink; stock competitors, not shopping alternatives"
+    },
+    {
+      "keyword": "tj maxx alternatives",
+      "position": 4,
+      "url": "https://247wallst.com/investing/2024/01/19/16-stores-like-tj-maxx-best-alternatives-and-affordable-options/",
+      "kept": true,
+      "note": "same page as above"
+    },
+    {
+      "keyword": "tj maxx alternatives",
+      "position": 6,
+      "url": "https://irreverentgent.medium.com/the-25-best-stores-like-tj-maxx-for-on-point-affordable-discount-styles-bf2a8f0ac68e",
+      "kept": true,
+      "note": "same article as above"
+    },
+    {
+      "keyword": "tj maxx alternatives",
+      "position": 2,
+      "url": "https://www.reddit.com/r/rva/comments/128nr45/whats_the_best_discount_department_store_for/",
+      "kept": false,
+      "why_dropped": "reddit; not read"
+    },
+    {
+      "keyword": "tj maxx alternatives",
+      "position": 1,
+      "url": "https://www.reddit.com/r/marshallsfinds/comments/1i36cja/marshalls_vs_tjmaxx_ross_vs_burlington/",
+      "kept": false,
+      "why_dropped": "AI-overview sitelink; reddit; not read"
+    },
+    {
+      "keyword": "tj maxx alternatives",
+      "position": 5,
+      "url": "https://www.facebook.com/groups/themedellinexpats/posts/25907451175528680/",
+      "kept": false,
+      "why_dropped": "Facebook group post; not an editorial list"
+    },
+    {
+      "keyword": "tj maxx alternatives",
+      "position": 7,
+      "url": "https://effortlessgent.com/stores-like-nordstrom-rack/",
+      "kept": false,
+      "why_dropped": "about Nordstrom Rack alternatives"
+    },
+    {
+      "keyword": "tj maxx alternatives",
+      "position": 8,
+      "url": "https://www.quora.com/Which-stores-are-cheaper-TJ-Maxx-Marshalls-or-Target",
+      "kept": false,
+      "why_dropped": "HTTP 403"
+    },
+    {
+      "keyword": "tj maxx alternatives",
+      "position": 9,
+      "url": "https://offe.market/pages/press",
+      "kept": false,
+      "why_dropped": "a store's press page, not a list of alternatives"
+    },
+    {
+      "keyword": "tj maxx alternatives",
+      "position": 10,
+      "url": "https://www.instagram.com/reel/DZ_M2g7tcwm/?hl=en",
+      "kept": false,
+      "why_dropped": "Instagram reel"
+    },
+    {
+      "keyword": "similar to tj maxx",
+      "position": 1,
+      "url": "https://247wallst.com/investing/2024/01/19/16-stores-like-tj-maxx-best-alternatives-and-affordable-options/",
+      "kept": true,
+      "note": "same page as above"
+    },
+    {
+      "keyword": "similar to tj maxx",
+      "position": 5,
+      "url": "https://irreverentgent.medium.com/the-25-best-stores-like-tj-maxx-for-on-point-affordable-discount-styles-bf2a8f0ac68e",
+      "kept": true,
+      "note": "same article as above"
+    },
+    {
+      "keyword": "similar to tj maxx",
+      "position": 3,
+      "url": "https://www.reddit.com/r/NYCbitcheswithtaste/comments/1h3z4r8/what_shops_are_similar_to_tj_maxx_where_i_can_get/",
+      "kept": false,
+      "why_dropped": "reddit; not read"
+    },
+    {
+      "keyword": "similar to tj maxx",
+      "position": 4,
+      "url": "https://www.facebook.com/groups/themedellinexpats/posts/25907451175528680/",
+      "kept": false,
+      "why_dropped": "Facebook group post"
+    },
+    {
+      "keyword": "similar to tj maxx",
+      "position": 6,
+      "url": "https://www.youtube.com/watch?v=IUq9eMOfizU",
+      "kept": false,
+      "why_dropped": "YouTube video; no readable list"
+    },
+    {
+      "keyword": "similar to tj maxx",
+      "position": 6,
+      "url": "https://www.reddit.com/r/TjMaxx/comments/1mykqzl/tj_maxx_vs_ross/",
+      "kept": false,
+      "why_dropped": "reddit; not read"
+    },
+    {
+      "keyword": "similar to tj maxx",
+      "position": 7,
+      "url": "https://www.quora.com/Which-stores-are-cheaper-TJ-Maxx-Marshalls-or-Target",
+      "kept": false,
+      "why_dropped": "HTTP 403"
+    },
+    {
+      "keyword": "similar to tj maxx",
+      "position": 8,
+      "url": "https://www.youtube.com/watch?v=OjhQvAbgVjA",
+      "kept": false,
+      "why_dropped": "YouTube shopping haul"
+    },
+    {
+      "keyword": "similar to tj maxx",
+      "position": 9,
+      "url": "https://effortlessgent.com/stores-like-nordstrom-rack/",
+      "kept": false,
+      "why_dropped": "about Nordstrom Rack alternatives"
+    },
+    {
+      "keyword": "similar to tj maxx",
+      "position": 10,
+      "url": "https://www.youtube.com/watch?v=TYdlXTc35S0",
+      "kept": false,
+      "why_dropped": "YouTube video"
+    },
+    {
+      "keyword": "brands like tj maxx",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview returned no positions (no SERP stored for this keyword)"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": null,
+      "url": null,
+      "used": false,
+      "why": "enrich.md §1.4b doesn't apply: TJ Maxx is itself a multi-brand retailer, not a brand stocked by one."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Nordstrom Rack",
+      "slug": "nordstrom-rack",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/investing/2024/01/19/16-stores-like-tj-maxx-best-alternatives-and-affordable-options/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/"
+        }
+      ]
+    },
+    {
+      "name": "Saks OFF 5TH",
+      "slug": "saks-off-5th",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/investing/2024/01/19/16-stores-like-tj-maxx-best-alternatives-and-affordable-options/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/"
+        }
+      ]
+    },
+    {
+      "name": "Bloomingdale's Outlet",
+      "slug": "bloomingdales-outlet",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/investing/2024/01/19/16-stores-like-tj-maxx-best-alternatives-and-affordable-options/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/"
+        }
+      ]
+    },
+    {
+      "name": "Marshalls",
+      "slug": "marshalls",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/investing/2024/01/19/16-stores-like-tj-maxx-best-alternatives-and-affordable-options/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/"
+        }
+      ]
+    },
+    {
+      "name": "Walmart",
+      "slug": "walmart",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/investing/2024/01/19/16-stores-like-tj-maxx-best-alternatives-and-affordable-options/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/"
+        }
+      ]
+    },
+    {
+      "name": "Target",
+      "slug": "target",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/investing/2024/01/19/16-stores-like-tj-maxx-best-alternatives-and-affordable-options/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/"
+        }
+      ]
+    },
+    {
+      "name": "Amazon",
+      "slug": "amazon",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/investing/2024/01/19/16-stores-like-tj-maxx-best-alternatives-and-affordable-options/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/"
+        }
+      ]
+    },
+    {
+      "name": "eBay",
+      "slug": "ebay",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/investing/2024/01/19/16-stores-like-tj-maxx-best-alternatives-and-affordable-options/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/"
+        }
+      ]
+    },
+    {
+      "name": "Urban Outfitters",
+      "slug": "urban-outfitters",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/investing/2024/01/19/16-stores-like-tj-maxx-best-alternatives-and-affordable-options/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/"
+        }
+      ]
+    },
+    {
+      "name": "Wayfair",
+      "slug": "wayfair",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/investing/2024/01/19/16-stores-like-tj-maxx-best-alternatives-and-affordable-options/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/"
+        }
+      ]
+    },
+    {
+      "name": "Burlington",
+      "slug": "burlington",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/investing/2024/01/19/16-stores-like-tj-maxx-best-alternatives-and-affordable-options/"
+        }
+      ]
+    },
+    {
+      "name": "Ross Dress for Less",
+      "slug": "ross-dress-for-less",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/investing/2024/01/19/16-stores-like-tj-maxx-best-alternatives-and-affordable-options/"
+        }
+      ]
+    },
+    {
+      "name": "Kohl's",
+      "slug": "kohls",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/investing/2024/01/19/16-stores-like-tj-maxx-best-alternatives-and-affordable-options/"
+        }
+      ]
+    },
+    {
+      "name": "Macy's",
+      "slug": "macys",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/investing/2024/01/19/16-stores-like-tj-maxx-best-alternatives-and-affordable-options/"
+        }
+      ]
+    },
+    {
+      "name": "HomeGoods",
+      "slug": "homegoods",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/investing/2024/01/19/16-stores-like-tj-maxx-best-alternatives-and-affordable-options/"
+        }
+      ]
+    },
+    {
+      "name": "Bed Bath & Beyond",
+      "slug": "bed-bath-beyond",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/investing/2024/01/19/16-stores-like-tj-maxx-best-alternatives-and-affordable-options/"
+        }
+      ]
+    },
+    {
+      "name": "Sierra",
+      "slug": "sierra",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/"
+        }
+      ]
+    },
+    {
+      "name": "6pm",
+      "slug": "6pm",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/"
+        }
+      ]
+    },
+    {
+      "name": "HauteLook",
+      "slug": "hautelook",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/"
+        }
+      ]
+    },
+    {
+      "name": "Neiman Marcus Last Call",
+      "slug": "neiman-marcus-last-call",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/"
+        }
+      ]
+    },
+    {
+      "name": "Dillard's",
+      "slug": "dillards",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/"
+        }
+      ]
+    },
+    {
+      "name": "ASOS",
+      "slug": "asos",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/"
+        }
+      ]
+    },
+    {
+      "name": "Everlane",
+      "slug": "everlane",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/"
+        }
+      ]
+    },
+    {
+      "name": "boohooMAN",
+      "slug": "boohooman",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/"
+        }
+      ]
+    },
+    {
+      "name": "Romwe",
+      "slug": "romwe",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/"
+        }
+      ]
+    },
+    {
+      "name": "Shein",
+      "slug": "shein",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/"
+        }
+      ]
+    },
+    {
+      "name": "JackThreads",
+      "slug": "jackthreads",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/"
+        }
+      ]
+    },
+    {
+      "name": "End.",
+      "slug": "end-clothing",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/"
+        }
+      ]
+    },
+    {
+      "name": "YesStyle",
+      "slug": "yesstyle",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/"
+        }
+      ]
+    },
+    {
+      "name": "Overstock",
+      "slug": "overstock",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/"
+        }
+      ]
+    },
+    {
+      "name": "ThredUp",
+      "slug": "thredup",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/"
+        }
+      ]
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "result": "no TJ Maxx row in public.brands (searched name/slug ILIKE '%maxx%'), so no pool candidates"
+  },
+  "picks": [
+    {
+      "slug": "nordstrom-rack",
+      "rank": 1,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 15.38,
+        "max": 419.97,
+        "min_usd": 15.38,
+        "max_usd": 419.97,
+        "fx_date": null,
+        "item_count": 119
+      },
+      "price_relation": null,
+      "reason": "Nordstrom Rack is an off-price store selling brand-name women's jeans (Levi's, Madewell, FRAME, Akris) below a listed comparable value, shipping to US addresses only, free over $89, with 40-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/investing/2024/01/19/16-stores-like-tj-maxx-best-alternatives-and-affordable-options/",
+          "note": "#7: \"probably one of the biggest competitors to TJ Maxx.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/",
+          "note": "#1: \"tops the list of stores like TJ Maxx\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "6pm",
+      "rank": 2,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 17.99,
+        "max": 279,
+        "min_usd": 17.99,
+        "max_usd": 279,
+        "fx_date": null,
+        "item_count": 1309
+      },
+      "price_relation": null,
+      "reason": "6pm, Zappos' discount division, lists 1,310 women's jeans from 33 brands, 1,231 of them marked down from MSRP, and ships to US addresses only, free over $100, with 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.irreverentgent.com/stores-like-tj-maxx/",
+          "note": "#25: \"an online clothing store owned by Zappos\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "marshalls",
+      "why": "unverified: marshalls.com returns TJX's 'Something went wrong' page to WebFetch (2026-10-29). Off-price, 2 sources: first in the human-check queue."
+    },
+    {
+      "slug": "bloomingdales-outlet",
+      "why": "unverified: bloomingdales.com HTTP 403 to WebFetch. Off-price, 2 sources; human check (also whether outlet stock sells online)."
+    },
+    {
+      "slug": "saks-off-5th",
+      "why": "no online store: saksoff5th.com reads 'SaksOFF5TH.com is Shutting Down' (stores stay open), so it can't ship to the US and fails the gate. Off-price, 2 sources."
+    },
+    {
+      "slug": "burlington",
+      "why": "no online ordering found (homepage promotes in-store deals), ships_to empty, so it fails the gate's US-shipping rule. Off-price, 1 source. A store-only chain is a real answer to 'stores like TJ Maxx': coordinator decision."
+    },
+    {
+      "slug": "ross-dress-for-less",
+      "why": "no online ordering found (rossstores.com links to stores only); 247wallst also says Ross 'still does not have an online store'. Fails the US-shipping rule. Off-price, 1 source; same coordinator question as Burlington."
+    },
+    {
+      "slug": "sierra",
+      "why": "unverified: sierra.com returns TJX's error page to WebFetch. Off-price active/outdoor store (TJX), 1 source; human check."
+    },
+    {
+      "slug": "hautelook",
+      "why": "defunct as a store: hautelook.com 301-redirects to nordstromrack.com events (retired into Nordstrom Rack, which is already a pick)."
+    },
+    {
+      "slug": "neiman-marcus-last-call",
+      "why": "defunct as a store: lastcall.com 301-redirects to Neiman Marcus's sale page."
+    },
+    {
+      "slug": "dillards",
+      "why": "department store (different store type: TJ Maxx is off-price, and run-page.md says picks are stores of the same type.) The source names its Clearance Centers, but dillards.com sells clearance only as sale prices. Site reads fine (2026-10-29); becomes a pick if department stores are allowed."
+    },
+    {
+      "slug": "kohls",
+      "why": "department store; different store type: TJ Maxx is off-price, and run-page.md says picks are stores of the same type. Also HTTP 403 to WebFetch."
+    },
+    {
+      "slug": "macys",
+      "why": "department store; different store type: TJ Maxx is off-price, and run-page.md says picks are stores of the same type. Also HTTP 403 to WebFetch."
+    },
+    {
+      "slug": "walmart",
+      "why": "general-merchandise discount chain with a third-party marketplace; different store type: TJ Maxx is off-price, and run-page.md says picks are stores of the same type. Not verified."
+    },
+    {
+      "slug": "target",
+      "why": "general-merchandise discount chain; different store type: TJ Maxx is off-price, and run-page.md says picks are stores of the same type. Not verified."
+    },
+    {
+      "slug": "amazon",
+      "why": "marketplace (enrich.md §1 drops marketplaces)."
+    },
+    {
+      "slug": "ebay",
+      "why": "marketplace."
+    },
+    {
+      "slug": "urban-outfitters",
+      "why": "full-price multi-brand boutique; different store type: TJ Maxx is off-price, and run-page.md says picks are stores of the same type. Its site returned 403 on the Jaded London run."
+    },
+    {
+      "slug": "asos",
+      "why": "marketplace (kind=marketplace on the Jaded London run)."
+    },
+    {
+      "slug": "thredup",
+      "why": "secondhand resale, a different store type; also HTTP 403 to WebFetch."
+    },
+    {
+      "slug": "everlane",
+      "why": "single-brand store (sells its own label), kind=brand; not a multi-brand off-price store."
+    },
+    {
+      "slug": "boohooman",
+      "why": "single-brand store (own label), kind=brand."
+    },
+    {
+      "slug": "romwe",
+      "why": "own-label online fast-fashion store, not off-price brand-name retail; not verified."
+    },
+    {
+      "slug": "shein",
+      "why": "own-label store with a marketplace; not off-price brand-name retail; not verified."
+    },
+    {
+      "slug": "jackthreads",
+      "why": "full-price menswear store; different store type: TJ Maxx is off-price, and run-page.md says picks are stores of the same type. Not verified."
+    },
+    {
+      "slug": "end-clothing",
+      "why": "full-price multi-brand boutique; different store type: TJ Maxx is off-price, and run-page.md says picks are stores of the same type. Not verified."
+    },
+    {
+      "slug": "yesstyle",
+      "why": "Asian fashion and beauty marketplace; not verified."
+    },
+    {
+      "slug": "wayfair",
+      "why": "out of scope: home furnishings."
+    },
+    {
+      "slug": "overstock",
+      "why": "out of scope: home furnishings."
+    },
+    {
+      "slug": "homegoods",
+      "why": "out of scope: home décor (TJX sister store)."
+    },
+    {
+      "slug": "bed-bath-beyond",
+      "why": "out of scope: home goods."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "status / website_url",
+      "url": "https://tjmaxx.tjx.com/",
+      "check": "Open the store; confirm it is live and selling women's clothing today. Every WebFetch read on 2026-10-29 returned TJX's 'Something went wrong' page."
+    },
+    {
+      "fact": "price range for womens-clothing (like-for-like: women's jeans, USD)",
+      "url": "https://tjmaxx.tjx.com/store/shop/womens-clothing/_/N-?",
+      "check": "Find the women's jeans listing; record min and max listed price (TJ Maxx's own price, not the 'Compare At' figure, and no clearance) and how many items. This unlocks cheaper/similar/pricier labels for every pick."
+    },
+    {
+      "fact": "size_range (+ has_plus, has_petite, has_tall)",
+      "url": "https://tjmaxx.tjx.com/",
+      "check": "Women's size filters on the jeans or women's clothing listing."
+    },
+    {
+      "fact": "ships_to, free_shipping_min_usd, returns_days",
+      "url": "https://tjmaxx.tjx.com/",
+      "check": "Shipping and returns help pages, US terms (third-party sites disagree: 30 vs 40 days, $9.99 vs $11.99 mail-return fee; none of those were stored)."
+    },
+    {
+      "fact": "known_for",
+      "url": "https://tjmaxx.tjx.com/",
+      "check": "Confirm 'Brand-Name Fashion for Way Less' (built from tjx.com's TJ Maxx page) fits the store's own wording."
+    },
+    {
+      "fact": "pick check: Marshalls",
+      "url": "https://www.marshalls.com/",
+      "check": "Same TJX error page. Confirm live + women's jeans price range, sizes, US shipping, returns. 2 sources."
+    },
+    {
+      "fact": "pick check: Bloomingdale's Outlet",
+      "url": "https://www.bloomingdales.com/shop/bloomingdales-the-outlet",
+      "check": "403. Does outlet stock sell online? If yes: women's jeans range, sizes, shipping, returns. 2 sources."
+    },
+    {
+      "fact": "pick check: Sierra",
+      "url": "https://www.sierra.com/",
+      "check": "TJX error page. Women's clothing (jeans or the closest like-for-like item), sizes, shipping, returns. 1 source."
+    },
+    {
+      "fact": "Nordstrom Rack price range is a sample",
+      "url": "https://www.nordstromrack.com/shop/women/clothing/jeans",
+      "check": "Sort by price low-high and high-low in a browser; replace the 119-item sample range ($15.38–$419.97) with the full listing's min/max."
+    },
+    {
+      "fact": "policy: store-only chains",
+      "url": "lib/gate.ts",
+      "check": "Burlington, Ross and (now) Saks OFF 5TH have no online store, so the gate's ships_to=US rule rejects them, though they are the usual answers to 'stores like TJ Maxx'. Decide whether a stores page can list in-store-only US chains."
+    },
+    {
+      "fact": "policy: department stores",
+      "url": "pipeline/run-page.md",
+      "check": "Kohl's, Macy's and Dillard's are named by the sources but are department stores. If they're allowed on an off-price anchor, Dillard's reads fine and can be verified next; Kohl's and Macy's return 403."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": null,
+  "notes": [
+    "2 picks pass enrich.md §3 (verified, sells women's jeans, ships to the US, ≥1 outside source, one checkable reason). Target was 10–15; never padded.",
+    "Why so few: picks must be off-price stores (run-page.md). The two readable editorial lists name 11 off-price stores: 2 verified (Nordstrom Rack, 6pm), 3 unverified because the site refuses WebFetch (Marshalls, Sierra, Bloomingdale's Outlet), 3 have no online store (Saks OFF 5TH online is shutting down; Burlington, Ross), 2 are retired into a parent (HauteLook, Last Call), and Dillard's Clearance Centers is a department store's clearance. The other 20 named are department stores, mass merchants, marketplaces, full-price or own-label shops, resale, or home stores.",
+    "The page FAILS lib/gate.ts: the anchor is unverified (tjmaxx.tjx.com refuses WebFetch), so it has no price, sizes, shipping or returns, and every price_relation is null; only 2 picks (need 6); no /img/ images.",
+    "Evidence: 2 serp_comention pages (24/7 Wall St., Irreverent Gent). Everything else on the four SERPs is Reddit, Facebook, Quora (403), Instagram, YouTube, a Nordstrom Rack list, a stock page, or a store's press page. 'brands like tj maxx' has no SERP in Ahrefs.",
+    "Prices: 6pm from its full listing (embedded product data, read with curl, StylodexBot UA); Nordstrom Rack from a 119-item sample of pages 1 and 42 via WebFetch (curl gets a JS challenge; sort URLs came back empty)."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "TJ Maxx is TJX's off-price chain, selling brand-name fashion for less than full-price stores. These two stores work the same way online, with big-name denim marked down from its usual price, and both ship anywhere in the US. Women's jeans start at $15.38 at Nordstrom Rack and $17.99 at 6pm.",
+    "bodies": {
+      "nordstrom-rack": "Nordstrom Rack is Nordstrom's off-price chain, started in Seattle in 1973, and it has the bigger denim range here, with about 3,000 women's jeans. Labels run from Levi's and Madewell up to FRAME and Akris, each priced under a listed comparable value: JASON WU barrel jeans at $39.97 against $198, say. Sizes go from 00 to 28W, with petite and plus filters. Shipping is free over $89, and online orders go back free to any Nordstrom or Rack store within 40 days.",
+      "6pm": "6pm is the discount arm of Zappos, selling online since 2007 with a single outlet store in Shepherdsville, Kentucky. Its 1,310 women's jeans come from 33 brands, mostly KUT from the Kloth, NYDJ, AG and Joe's Jeans, and the typical pair is 40% under MSRP. Petite shoppers get 123 styles, plus 28 plus-size cuts. Free shipping needs a $100 order (otherwise $3.95). Returns close after 30 days, and you pay the postage back."
+    },
+    "faqs": [
+      {
+        "q": "What is TJ Maxx?",
+        "a": "An off-price chain founded in 1976 and owned by TJX. It sells brand-name fashion, jewelry and accessories for less than full-price stores, and its Runway department, in select stores, carries high-end luxury pieces.",
+        "source_query": "what is tj maxx"
+      },
+      {
+        "q": "Who owns TJ Maxx?",
+        "a": "The TJX Companies, which also runs Marshalls and Sierra in the US. TJX bought Marshalls in 1995 and put it together with TJ Maxx to form its Marmaxx division.",
+        "source_query": "who owns tj maxx"
+      }
+    ]
+  }
+}

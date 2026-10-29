@@ -24,7 +24,9 @@ export function countryName(code: string | null): string | null {
 /** The store's own prices, e.g. "$48–$56" or "£40–£95". */
 export function priceRange(price: CategoryPrice | undefined): string | null {
   if (!price) return null;
-  const fmt = new Intl.NumberFormat("en-US", { style: "currency", currency: price.currency, maximumFractionDigits: 0 });
+  // Whole prices stay whole ($48–$56); show cents when a store uses them ($24.99–$48.95).
+  const digits = price.min % 1 || price.max % 1 ? 2 : 0;
+  const fmt = new Intl.NumberFormat("en-US", { style: "currency", currency: price.currency, minimumFractionDigits: digits, maximumFractionDigits: digits });
   return `${fmt.format(price.min)}–${fmt.format(price.max)}`;
 }
 
