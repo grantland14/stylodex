@@ -31,6 +31,19 @@
       "source_url": "https://charlotterusse.com/collections/dresses-jumpsuits/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "Union of the dresses, dresses-jumpsuits, mini-dresses, maxi-dresses and midi-dresses feeds: 42 products, 35 in-stock items titled dress, 34 with no compare_at markdown (1 marked down). Low $10 (Halter Bodycon Mini Dress, Beaded Halter Mini Dress and others); high $20 (Denim Square Neck Maxi Dress). Median $12.99. Maxis $15.99–$20 (Lace Ruffle Strapless Maxi Dress $15.99, Smocked Tiered Maxi Dress $16.99). Sizes XS, S, M, L, XL. Vendors Stitches (18) and Urban Ladies (16)."
+    },
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 12.99,
+      "max": 29.99,
+      "min_usd": 12.99,
+      "max_usd": 29.99,
+      "fx_date": null,
+      "item_count": 98,
+      "source_url": "https://charlotterusse.com/collections/jeans/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Shopify jeans collection feed (109 products, read with curl, StylodexBot UA): kept product_type 'Womens Denim' with 'Jean' in the title (98; shorts, skirts, skorts and jackets dropped). No variant had a compare_at_price above its price, so all are regular price. Most at $20 (e.g. Brooklyn Low Rise Baggy Medium Jean, London Low Rise Super Baggy White Jean); $12.99 for Stretch Mid Rise Push Up Skinny Jean and two barrel jeans; top $29.99 (Brooklyn Low Rise Rhinestone Baggy Jean); $25 for embellished styles (e.g. Brooklyn Studded Low Rise Baggy Jean)."
     }
   ],
   "sells_categories": [
@@ -56,7 +69,8 @@
     "https://charlotterusse.com/apps/api/v1/stores",
     "https://charlotterusse.com/pages/faq-1",
     "https://en.wikipedia.org/wiki/Charlotte_Russe_(clothing_retailer)",
-    "https://en.wikipedia.org/wiki/Rue21"
+    "https://en.wikipedia.org/wiki/Rue21",
+    "https://charlotterusse.com/collections/jeans/products.json?limit=250"
   ],
   "notes": [
     "Status: trading. charlotterusse.com is a live Shopify store (861 products in /products.json, 2026-10-29). Meta description: 'Your destination for the latest clothing, footwear and accessory trends. With unbeatable pricing, every woman can afford to feel her best'. About Us: 'your go to for the latest trends at prices you'll love'. Ahrefs SERP questions ask 'Does Charlotte Russe still exist?' and 'Why is Charlotte Russe closing?'; the closure was in 2019 (Wikipedia), and the brand has traded again under YM Inc. since.",
@@ -67,7 +81,8 @@
     "Sizes from the product feed (in-stock variants): tops and dresses XS, S/P, M, L/G, XL (XXS and XXL on 4 and 2 items); jeans 00–15. No plus range, so has_plus false. The size-guide page renders its charts client-side.",
     "Product feed vendors: Stitches 575, Urban Ladies 237, CR Licensed 49 (licensed lines such as Playboy, Juicy Couture, Snoopy). Stitches is also the vendor on rue21.com's feed; Wikipedia says YM Inc. owns both chains.",
     "Category C = dresses: Ahrefs top pages for charlotterusse.com (US, 2026-10-28) put /collections/dresses (top keyword 'charlotte russe dresses', est. 74/month) ahead of /collections/jeans (46) among product-type pages (Playboy and boots pages are a licensed line and footwear); beautymag says the brand has 'a particular emphasis on dresses and going-out looks'.",
-    "FAQ: 'we do not restock most of our items'; payment by card, Google Pay, Apple Pay; gift cards not accepted online."
+    "FAQ: 'we do not restock most of our items'; payment by card, Google Pay, Apple Pay; gift cards not accepted online.",
+    "2026-10-29 (aeropostale page run): homepage nav Denim: Brooklyn - Baggy, London - Super Baggy, Paris - Wide Leg, Soho - Stretch Super Baggy, plus Bootcut, Flare, Wide Leg, Baggy, Barrel and Embellished Jeans. Banner 'FREE SHIPPING ON ORDERS OVER $100'."
   ],
   "checked_at": "2026-10-29"
 }

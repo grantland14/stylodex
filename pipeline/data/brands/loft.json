@@ -17,7 +17,8 @@
   "returns_days": 30,
   "us_stores": true,
   "sells_categories": [
-    "dresses"
+    "dresses",
+    "jeans"
   ],
   "checked_at": "2026-10-29",
   "sources": [
@@ -26,10 +27,12 @@
     "https://www.loft.com/customer-service",
     "https://www.loft.com/store/directory",
     "https://jobs.knitwellgroup.com/about-loft",
-    "https://www.knitwellgroup.com/"
+    "https://www.knitwellgroup.com/",
+    "https://www.loft.com/clothing/jeans/catl000015/"
   ],
   "notes": [
     "2026-10-29 (ann-taylor page run): dresses category (96 tiles read) carries the banner 'All dresses $44!' and every tile shows a struck regular price (e.g. $110) next to $44, so no regular-price dress was readable: no dresses price stored; sells_categories from the store's own dresses page. Size facet on the dresses page 00–18 and XXS–XXL; nav 'More Sizes: Petite, Tall, Curvy'.",
-    "Customer service page: receipted returns 'MADE WITHIN 30 DAYS OF THE PURCHASE DATE are credited for the price paid'; later returns get merchandise credit; $9.95 deducted for the prepaid label; store purchases return to a LOFT store. Store directory: '358 LOFT STORES IN THE UNITED STATES'. Knitwell: founded 1998, 'over 500 stores across the United States' (incl. outlets), home office in Times Square, NYC; tagline 'Easy, stylish, everyday fashion for work and play'."
+    "Customer service page: receipted returns 'MADE WITHIN 30 DAYS OF THE PURCHASE DATE are credited for the price paid'; later returns get merchandise credit; $9.95 deducted for the prepaid label; store purchases return to a LOFT store. Store directory: '358 LOFT STORES IN THE UNITED STATES'. Knitwell: founded 1998, 'over 500 stores across the United States' (incl. outlets), home office in Times Square, NYC; tagline 'Easy, stylish, everyday fashion for work and play'.",
+    "2026-10-29 (aeropostale page run, C jeans): Women's Jeans page (https://www.loft.com/clothing/jeans/catl000015/, title \"Women's Jeans | LOFT\", read with curl, StylodexBot UA): 50 priced tiles, every one 'Price reduced from' a struck price at about 50% off (e.g. Rivet Mid Rise Wide Leg Jeans $47.47, struck $94.95; struck prices $89.95-$130). No regular-price jeans, so no jeans price row; jeans added to sells_categories from this page."
   ]
 }

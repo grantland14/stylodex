@@ -1,0 +1,55 @@
+{
+  "name": "Berlinc",
+  "website_url": "https://berlinc.co",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Heavyweight Washed Hoodies",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Hoodies XS–XXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "us_stores": false,
+  "free_shipping_min_usd": 200,
+  "returns_days": 0,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 95,
+      "max": 145,
+      "item_count": 7,
+      "source_url": "https://berlinc.co/collections/hoodies/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Hoodies collection: 7 regular-price hoodies, 1 marked down. Heather Gray Hoodie and Essential Black Hoodie $95 (500 gsm 100% cotton fleece, slightly cropped), Sunfaded Pink Zip Up Hoodie $110, V2 Monochrome Sunfaded Hoodie and Essential Monochrome Washed Hoodie $120 ('our #1 best selling heavyweight monochrome hoodie', 500 gsm), Reversible Camo Zip Up Hoodie $145. Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final-sale, on-sale, sale-NN, NN%, rebajas). Hoodies = pullover and zip hoodies (title or product type names a hood); crewnecks, knit hoodies, jackets, sleeveless, kids and bundles excluded.",
+      "min_usd": 95,
+      "max_usd": 145,
+      "fx_date": null
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://berlinc.co/meta.json",
+    "https://berlinc.co/collections.json?limit=250",
+    "https://berlinc.co/policies/shipping-policy?country=US",
+    "https://berlinc.co/policies/refund-policy?country=US",
+    "https://berlinc.co/collections/hoodies/products.json?limit=250",
+    "https://berlinc.co/pages/shipping-returns"
+  ],
+  "notes": [
+    "Shipping & returns page: 'U.S. Orders over $200 get free shipping'; in-stock items ship next business day, 2-5 business days domestic; pre-order items take 6-8 weeks to produce; worldwide shipping, customs not covered.",
+    "Returns: size exchanges within 7 days of delivery; 'All sales are final... We do not offer refunds.' returns_days stored as 0 (no refunds; 7-day exchanges only). Return address Gardena, CA; meta.json address Laguna Niguel, California. Calls itself 'a small independent brand' using small-batch production."
+  ],
+  "checked_at": "2026-10-29"
+}

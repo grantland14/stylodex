@@ -5,7 +5,7 @@
   "status": "verified",
   "kind": "retailer",
   "known_for": "Fashion, Denim and Plus Sizes",
-  "hq_country": null,
+  "hq_country": "US",
   "size_range": "Sizes 0–24",
   "has_plus": true,
   "has_petite": true,
@@ -41,7 +41,9 @@
     "https://www.maurices.com/category/jeans",
     "https://www.maurices.com/customer-service/shipping-handling",
     "https://www.maurices.com/customer-service/returns-exchanges",
-    "https://locations.maurices.com/"
+    "https://locations.maurices.com/",
+    "https://www.maurices.com/about-us",
+    "https://www.maurices.com/size-chart"
   ],
   "checked_at": "2026-10-29",
   "notes": [
@@ -49,6 +51,11 @@
     "2026-10-29 (buckle page run): jeans page 1 brands: m jeans by maurices (19 styles), Silver Jeans Co. (18, incl. Petite and Curvy fits), Flying Monkey, edgely, Everflex, KanCan. Sells other brands next to its own, so kind=retailer. Petite Silver Jeans and Curvy fits listed (has_petite); sizes to 24 (has_plus).",
     "2026-10-29 (buckle page run): Shipping & Handling page: ships within the United States and to Canada (some items can't ship to Canada); free standard ground shipping on 'orders to the US over $50 USD or Credit Card Member'; standard US ground $8.95, 3-8 business days; Canada flat rate $11.95.",
     "2026-10-29 (buckle page run): Returns page: 'We happily accept maurices returns anytime with your original receipt or order number'; mailed online returns: '$6.95 (USD) fee will be deducted'. No day limit, so returns_days left empty.",
-    "2026-10-29 (buckle page run): store locator (locations.maurices.com) renders by script ('Loading Map...') to WebFetch, so us_stores not recorded; the pick rests on US shipping."
-  ]
+    "2026-10-29 (buckle page run): store locator (locations.maurices.com) renders by script ('Loading Map...') to WebFetch, so us_stores not recorded; the pick rests on US shipping.",
+    "2026-10-29 (aeropostale page run): About page: 'stylemakers since 1931'; 'We call 900 locations across the U.S. and Canada our hometowns. Our headquarters is in Duluth, Minnesota, where we opened our first store in 1931. We offer inclusive 0 to 24 sizing and are a trusted go-to for jeans, tees and special occasion outfits.' hq_country, founded_year and us_stores true from this official page.",
+    "2026-10-29 (aeropostale page run): size chart: regular 0-20 (XS-XXL); plus 14W-24W (0X-4X; 26W-30W listed as not currently available); maurices jeans from 00, plus jeans 14W-24W; 'Select styles come in X-Short, Short, Long and X-Long inseams (each inseam is two inches longer than the last).'",
+    "2026-10-29 (aeropostale page run): jeans page re-read (curl, embedded product data, 72 of 324 loaded): own-label m jeans by maurices mostly $44.99-$49.99 (Classic Mid Rise Flare Jeans $34.90; High Rise Knit Wide Leg Jean $44.99), edgely $64.99-$69.99 (High Rise Adjustable Cinch Waist Baggy Wide Leg Jeans $69.99), KanCan $74.99-$79.99, Flying Monkey $76.99-$79.99, Silver Jeans Co. $88-$108. A sitewide '30% off ... jeans' promotion on select regular-price styles is a checkout promotion, not a markdown. Stored $34.90-$108 range confirmed."
+  ],
+  "founded_year": 1931,
+  "us_stores": true
 }

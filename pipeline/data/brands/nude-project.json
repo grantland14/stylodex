@@ -1,0 +1,58 @@
+{
+  "name": "Nude Project",
+  "website_url": "https://nude-project.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Ready-to-Wear Streetwear Label",
+  "hq_country": "ES",
+  "founded_year": 2018,
+  "parent_company": null,
+  "size_range": "Hoodies XS–XXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "us_stores": true,
+  "free_shipping_min_usd": 400,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 99,
+      "max": 174,
+      "item_count": 83,
+      "source_url": "https://nude-project.com/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "US market (?country=US; Shopify.currency USD): 83 regular-price hoodies from $99 (Origins Hoodie, regular fit, 400 g brushed cotton-poly fleece) to $174 (Hoodie Stores Amsterdam); 38 at $129 (e.g. Biggie Hoodie, Bear Hoodie), 29 at $139 (e.g. Ying-Yang Zip-Up, 100% cotton piqué); Teddy Quarter-Zip $169. Base EUR market: Origins Hoodie €69 (ECB: $76.82). Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final-sale, on-sale, sale-NN, NN%, rebajas). Hoodies = pullover and zip hoodies (title or product type names a hood); crewnecks, knit hoodies, jackets, sleeveless, kids and bundles excluded.",
+      "min_usd": 99,
+      "max_usd": 174,
+      "fx_date": null
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://nude-project.com/meta.json",
+    "https://nude-project.com/collections.json?limit=250",
+    "https://nude-project.com/policies/shipping-policy?country=US",
+    "https://nude-project.com/policies/refund-policy?country=US",
+    "https://nude-project.com/products.json?limit=250&country=US",
+    "https://nude-project.com/en-us?country=US",
+    "https://nude-project.com/products/origins-hoodie-brown.js?country=US"
+  ],
+  "notes": [
+    "meta.json: 'a ready-to-wear label founded in 2018 in a small dorm room by two friends'; shop address Barcelona, ES; base currency EUR.",
+    "US homepage (en-us): 'United States 8-10 business days approximately, Free Shipping on orders over $400'; banner 'No extra fees on US orders - Taxes & Duties Included'; '30 days Easy Returns & Exchanges'. Store list in page HTML includes New York, 42 Greene St, NY 10013 (us_stores true).",
+    "Refund policy: 30 days to return by mail; return fee €25 outside the EU; shipping costs not refunded; stores in Madrid, Valencia, Barcelona and La Roca Village.",
+    "Sizes: 82 of 83 hoodies XS–XXL."
+  ],
+  "checked_at": "2026-10-29"
+}

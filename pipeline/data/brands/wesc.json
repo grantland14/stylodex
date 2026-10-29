@@ -1,0 +1,56 @@
+{
+  "name": "WeSC",
+  "website_url": "https://wesc.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Skate and Music Streetwear",
+  "hq_country": "US",
+  "founded_year": 1999,
+  "parent_company": null,
+  "size_range": "Hoodies S–XXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "AU"
+  ],
+  "us_stores": false,
+  "free_shipping_min_usd": 150,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 88,
+      "max": 88,
+      "item_count": 5,
+      "source_url": "https://wesc.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "5 regular-price hoodies, all $88: Dropped Shoulder Hoodie (Enzyme Wash Palm Logo, Skater Glitch, Club Sandwich, Pizza; loopback summer fleece, dropped-shoulder oversized fit) and 90's Mike Utility Color Block hoodie; 2 marked down. Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final-sale, on-sale, sale-NN, NN%, rebajas). Hoodies = pullover and zip hoodies (title or product type names a hood); crewnecks, knit hoodies, jackets, sleeveless, kids and bundles excluded.",
+      "min_usd": 88,
+      "max_usd": 88,
+      "fx_date": null
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://wesc.com/meta.json",
+    "https://wesc.com/collections.json?limit=250",
+    "https://wesc.com/policies/shipping-policy?country=US",
+    "https://wesc.com/policies/refund-policy?country=US",
+    "https://wesc.com/products.json?limit=250",
+    "https://wesc.com/pages/about-us",
+    "https://wesc.com/pages/shipping-information"
+  ],
+  "notes": [
+    "About: 'Founded in 1999 in Stockholm', 'rooted in skateboarding, music, art, and global street culture'; CEO & CMO Joseph Janus. Today's store ships from a Los Angeles warehouse; meta.json address New York, NY, so hq_country US (founded in Sweden).",
+    "Shipping policy: free shipping on all orders over $150 (homepage banner says over $100 USD on domestic orders; policy value stored); standard ground about 5 business days.",
+    "Refund policy: 14 days from delivery; return shipping paid by the customer; items 50% off or more final sale."
+  ],
+  "checked_at": "2026-10-29"
+}

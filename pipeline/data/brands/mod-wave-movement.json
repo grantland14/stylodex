@@ -1,0 +1,55 @@
+{
+  "name": "Mod Wave Movement",
+  "website_url": "https://modwavemovement.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Dark Fashion With Asian Aesthetics",
+  "hq_country": "ES",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Hoodies XXS–XXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "us_stores": false,
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 182,
+      "max": 330,
+      "item_count": 17,
+      "source_url": "https://modwavemovement.com/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "US market (?country=US; Shopify.currency USD): 17 regular-price hoodies from $182 (cropped TEDDY Mike Bag hoodie) to $330 (Vanguard Dogs studded hoodie, €290 in Spain); Sudadera con capucha oversized $194; 59 hoodie listings marked down and excluded. Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final-sale, on-sale, sale-NN, NN%, rebajas). Hoodies = pullover and zip hoodies (title or product type names a hood); crewnecks, knit hoodies, jackets, sleeveless, kids and bundles excluded.",
+      "min_usd": 182,
+      "max_usd": 330,
+      "fx_date": null
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://modwavemovement.com/meta.json",
+    "https://modwavemovement.com/collections.json?limit=250",
+    "https://modwavemovement.com/policies/shipping-policy?country=US",
+    "https://modwavemovement.com/policies/refund-policy?country=US",
+    "https://modwavemovement.com/products.json?limit=250&country=US",
+    "https://modwavemovement.com/pages/sobre-nosotros"
+  ],
+  "notes": [
+    "About: 'Mod Wave Movement Dark fashion. Asian aesthetics. Genderless.' meta.json: Madrid, ES, base EUR.",
+    "Shipping page: North America (US, Canada, Mexico) from €30; international duties, local VAT or customs fees not included and not paid by MWM. Returns: 14 calendar days from receipt (refund policy page empty; terms on the shipping page)."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Blue Banana",
+  "website_url": "https://www.bluebananabrand.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Adventure Clothing From Madrid",
+  "hq_country": "ES",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Hoodies XS–XXL",
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": false,
+  "free_shipping_min_usd": 139.16,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "EUR",
+      "min": 94.9,
+      "max": 94.9,
+      "item_count": 9,
+      "source_url": "https://www.bluebananabrand.com/collections/hoodies-y-sudaderas/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "US market (?country=US; Shopify.country US but Shopify.currency stays EUR): 9 regular-price Classic hoodies at €94.90 (Sudadera con capucha Classic in Acqua, Amazon Green, Antracita, Berry, Jay Blue and more; 100% organic cotton, regular fit, embroidered X). Same hoodies in Spain: €69.90. 5 marked down; crewnecks excluded. Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final-sale, on-sale, sale-NN, NN%, rebajas). Hoodies = pullover and zip hoodies (title or product type names a hood); crewnecks, knit hoodies, jackets, sleeveless, kids and bundles excluded.",
+      "min_usd": 105.65,
+      "max_usd": 105.65,
+      "fx_date": "2026-10-28"
+    }
+  ],
+  "materials": [
+    "100% organic cotton"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://www.bluebananabrand.com/meta.json",
+    "https://www.bluebananabrand.com/collections.json?limit=250",
+    "https://www.bluebananabrand.com/policies/shipping-policy?country=US",
+    "https://www.bluebananabrand.com/policies/refund-policy?country=US",
+    "https://www.bluebananabrand.com/collections/hoodies-y-sudaderas/products.json?limit=250&country=US",
+    "https://www.bluebananabrand.com/pages/nosotros",
+    "https://www.bluebananabrand.com/?country=US"
+  ],
+  "notes": [
+    "The Spanish Blue Banana Brand (Madrid), not the UK alternative-clothing shop bluebanana.com. About (nosotros): founders Nacho Rivera and Juan Fernández-Estrada; 'Somos la marca de la nueva generación de aventureros'. meta.json: Madrid, ES; garments of recycled polyester and organic cotton.",
+    "Shipping policy: Estados Unidos €5.90, 2/6 days, free over €125 (stored as $139.16 at ECB 1.1133); 'Envíos sujetos a aduanas a cargo del cliente' (US customs paid by the customer).",
+    "Refund policy: 30 calendar days from delivery; exchanges only in Spain and Portugal, other countries returns only.",
+    "meta.json ships_to_countries lists 28 countries: US but not CA, GB or AU."
+  ],
+  "checked_at": "2026-10-29"
+}

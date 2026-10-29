@@ -1,0 +1,57 @@
+{
+  "name": "Picante",
+  "website_url": "https://www.picante.shop",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Luxury Fashion From London",
+  "hq_country": "GB",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Hoodies XS–XXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "us_stores": false,
+  "free_shipping_min_usd": 300,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 270,
+      "max": 720,
+      "item_count": 38,
+      "source_url": "https://www.picante.shop/collections/hoodies/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "US market (?country=US; Shopify.currency USD): 38 regular-price hoodies from $270 (Everyday Hoodie: boxy fit, garment dyed, heavy organic brushed-back cotton) to $720 (Faux Fur Lined Sun-Faded Zip-Up Hoodie); Everyday Zip-Up Hoodie $320; Tailor Chain Stitch Hoodie $310. Base GBP market: Everyday Hoodie £145 (ECB: $192.66). Shaggy Knit Hoodie excluded (knit). Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final-sale, on-sale, sale-NN, NN%, rebajas). Hoodies = pullover and zip hoodies (title or product type names a hood); crewnecks, knit hoodies, jackets, sleeveless, kids and bundles excluded.",
+      "min_usd": 270,
+      "max_usd": 720,
+      "fx_date": null
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://www.picante.shop/meta.json",
+    "https://www.picante.shop/collections.json?limit=250",
+    "https://www.picante.shop/policies/shipping-policy?country=US",
+    "https://www.picante.shop/policies/refund-policy?country=US",
+    "https://www.picante.shop/collections/hoodies/products.json?limit=250&country=US",
+    "https://www.picante.shop/products/everyday-hoodie.js?country=US",
+    "https://www.picante.shop/?country=US"
+  ],
+  "notes": [
+    "meta.json: 'Luxury fashion and lifestyle brand based in London'; base currency GBP.",
+    "Shipping policy: USA 3-9 days, 'All taxes and duties included', international orders ship DDP; 'free shipping on all orders over £200 and $300'.",
+    "Refund policy: 14 days from delivery to start a return; return costs paid by the buyer; exchanges not available on international orders."
+  ],
+  "checked_at": "2026-10-29"
+}

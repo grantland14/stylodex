@@ -1,0 +1,66 @@
+{
+  "name": "Scuffers",
+  "website_url": "https://scuffers.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Oversized Hoodies From Madrid",
+  "hq_country": "ES",
+  "founded_year": 2018,
+  "parent_company": null,
+  "size_range": "Hoodies XS–XXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "us_stores": false,
+  "free_shipping_min_usd": 400,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 109,
+      "max": 119,
+      "item_count": 150,
+      "source_url": "https://scuffers.com/collections/hoodies/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "US market prices (the store's own localisation, ?country=US; Shopify.currency active USD): 150 regular-price hoodies, 93 pullovers at $109 (e.g. Raw Butter Hoodie, Sign Hoodie, Leo Purple Hoodie) and 57 zip hoodies at $119 (e.g. Club Pink Zipper, Track Navy Zipper). Same items in the base EUR market: €79 and €82 (ECB 2026-10-28: $87.95 and $91.29), so US prices run about 24% above a straight conversion. Weeb zippers (typed Man Jacket, $139/€85) and No Gym sleeveless hoodies excluded. Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final-sale, on-sale, sale-NN, NN%, rebajas). Hoodies = pullover and zip hoodies (title or product type names a hood); crewnecks, knit hoodies, jackets, sleeveless, kids and bundles excluded.",
+      "min_usd": 109,
+      "max_usd": 119,
+      "fx_date": null
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://scuffers.com/meta.json",
+    "https://scuffers.com/collections.json?limit=250",
+    "https://scuffers.com/collections/hoodies/products.json?limit=250&country=US",
+    "https://scuffers.com/collections/hoodies/products.json?limit=250",
+    "https://scuffers.com/collections/best-sellers/products.json?limit=250",
+    "https://scuffers.com/collections/best-sellers-usa/products.json?limit=250",
+    "https://scuffers.com/products/raw-butter-hoodie?country=US",
+    "https://scuffers.com/policies/shipping-policy",
+    "https://scuffers.com/policies/refund-policy",
+    "https://scuffers.com/pages/faqs",
+    "https://fashionunited.com/news/fashion/scuffers-how-to-build-a-cult-brand/2025041865475",
+    "https://www.ldnfashion.com/features/everything-you-need-to-know-about-scuffers-the-streetwear-brand-everyones-talking-about/"
+  ],
+  "notes": [
+    "meta.json: shop address Pozuelo de Alarcón, Madrid, ES; base currency EUR; description 'Everyday Urban Aesthetics. As Always, With Love'; ships_to_countries includes US, CA, GB, AU.",
+    "Best Sellers (78 products): 32 'Man Hoodie Standard' + 5 zipped hoodies, the largest product type; Best Sellers USA (30): 22 standard hoodies + 4 zipped. Hoodies collection 293 listed / 155 served; T-Shirts 342.",
+    "Shipping policy: 'United States STANDARD 2-5 DAYS- 10 USD | FREE > 400 USD'; import taxes for the USA (and AU, NZ, CH, UK, KR, JP, CA, AE, SA, SG, MX) 'are covered by Scuffers Partners S.L.'. FAQ: 'All taxes are covered by Scuffers Partners S.L.'",
+    "Refund policy/FAQ: 14 days from receipt to request a return or exchange; US return fee $15, US exchange $10; online returns and exchanges available for the USA; Mystery Hoodie/T-shirt not returnable; shipping costs not refunded.",
+    "FAQ: 'The fit of our products is oversized.' Raw Butter Hoodie page: 'midweight cotton blend fleece with brushed interior... relaxed fit... double-layer hood and no drawstrings'.",
+    "Founded 2018 in Madrid by Jaime Cruz and Javier López, aged 16 and 17 (FashionUnited; ldnfashion, 2026-09-06). FashionUnited: four stores in Spain (Madrid, Valencia, two in Barcelona), pop-ups in London, Amsterdam and Los Angeles; ldnfashion: London pop-up at 52 Brewer Street from Feb 2025. No permanent US store found: us_stores false (stores page renders no text to WebFetch).",
+    "Sizes: 134 hoodies XS–XXL, 16 X-SMALL–XX-LARGE."
+  ],
+  "checked_at": "2026-10-29"
+}

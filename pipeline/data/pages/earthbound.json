@@ -1,0 +1,1070 @@
+{
+  "subject": "Earthbound",
+  "slug": "earthbound",
+  "url_prefix": "stores",
+  "category": {
+    "slug": "dresses",
+    "name": "Dresses",
+    "why": "Earthbound Trading Co. is a boho mall chain selling sourced goods under its own name (kind retailer). Its searches are about clothing: the 'stores like earthbound' SERP ranks Earthbound's own /clothing page, and its threads and People Also Ask ask for 'boho/hippie' clothing stores and 'What are some clothing stores similar to Earthbound?'. Online, fashion is just over half the catalog (clothing 238 + accessories 754 vs home + gift 890), so it's in scope, not mostly home goods. Within clothing, tops (88), bottoms (72) and dresses (69) are close; C is dresses, the item every boho alternative sells and the first clothing menu entry, used as the like-for-like item. Using the womens-clothing slug would overwrite other pages' jeans-based womens-clothing price rows (e.g. ModCloth), so dresses keeps the comparison clean. Regular price only: Earthbound $39.95–$69.95 across 29 full-price dresses. PacSun, American Eagle and Nordstrom render without a price via sells_categories (no readable full-price range)."
+  },
+  "checked_at": "2026-10-29",
+  "fx": {
+    "source": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+    "date": "2026-10-28",
+    "per_eur": {
+      "USD": 1.1133,
+      "AUD": 1.583
+    },
+    "usd_per_aud": 0.703285
+  },
+  "serp": [
+    {
+      "keyword": "stores like earthbound",
+      "position": 1,
+      "url": "https://www.reddit.com/r/ethicalfashion/comments/1eb3tga/what_stores_sell_stuff_like_this/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround"
+    },
+    {
+      "keyword": "stores like earthbound",
+      "position": 1,
+      "url": "https://www.soul-flower.com/",
+      "kept": false,
+      "why_dropped": "a brand's own store (AI overview sitelink); not evidence. Soul Flower is a candidate via technicalustad"
+    },
+    {
+      "keyword": "stores like earthbound",
+      "position": 1,
+      "url": "https://www.facebook.com/groups/OlatheConnect/posts/6968997273162953/",
+      "kept": false,
+      "why_dropped": "Facebook group post; WebFetch returned only the group title, no replies readable"
+    },
+    {
+      "keyword": "stores like earthbound",
+      "position": 1,
+      "url": "https://iamandco.com/blogs/articles/stores-like-free-people",
+      "kept": false,
+      "why_dropped": "read 2026-10-29: stores like Free People; doesn't mention Earthbound, so no brand is an alternative to it"
+    },
+    {
+      "keyword": "stores like earthbound",
+      "position": 1,
+      "url": "https://www.thredup.com/bg/p/stores-like-anthropologie",
+      "kept": false,
+      "why_dropped": "about Anthropologie, not Earthbound (AI-overview sitelink); ThredUp 403s WebFetch on other runs; not read"
+    },
+    {
+      "keyword": "stores like earthbound",
+      "position": 1,
+      "url": "https://www.purewow.com/fashion/stores-like-anthropologie",
+      "kept": false,
+      "why_dropped": "about Anthropologie, not Earthbound (AI-overview sitelink); not used"
+    },
+    {
+      "keyword": "stores like earthbound",
+      "position": 1,
+      "url": "https://www.facebook.com/groups/fairywitchcottagecorevibes/posts/959989082391510/",
+      "kept": false,
+      "why_dropped": "Facebook group post, general witchy-clothing question; not readable"
+    },
+    {
+      "keyword": "stores like earthbound",
+      "position": 1,
+      "url": "https://www.reddit.com/r/ActualHippies/comments/1d1i29u/does_anyone_know_where_i_can_buy_cheap_hippie/",
+      "kept": false,
+      "why_dropped": "unfetchable: reddit; not about Earthbound"
+    },
+    {
+      "keyword": "stores like earthbound",
+      "position": 2,
+      "url": "https://www.soul-flower.com/",
+      "kept": false,
+      "why_dropped": "a brand's own store"
+    },
+    {
+      "keyword": "stores like earthbound",
+      "position": 3,
+      "url": "https://www.earthboundtrading.com/",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "stores like earthbound",
+      "position": 4,
+      "url": "https://www.reddit.com/r/ethicalfashion/comments/1eb3tga/what_stores_sell_stuff_like_this/",
+      "kept": false,
+      "why_dropped": "unfetchable: reddit"
+    },
+    {
+      "keyword": "stores like earthbound",
+      "position": 4,
+      "url": "https://www.reddit.com/r/Knoxville/comments/1964dji/earthboundlike_stores_bohohippie_stuff/",
+      "kept": false,
+      "why_dropped": "unfetchable: reddit (sitelink); the most on-topic thread, not read"
+    },
+    {
+      "keyword": "stores like earthbound",
+      "position": 4,
+      "url": "https://www.reddit.com/r/fashionwomens35/comments/1dcrv2t/need_adult_boho_recommendations/",
+      "kept": false,
+      "why_dropped": "unfetchable: reddit"
+    },
+    {
+      "keyword": "stores like earthbound",
+      "position": 5,
+      "url": "https://www.facebook.com/groups/fairywitchcottagecorevibes/posts/781394750250945/",
+      "kept": false,
+      "why_dropped": "Facebook group post; not readable"
+    },
+    {
+      "keyword": "stores like earthbound",
+      "position": 5,
+      "url": "https://www.facebook.com/groups/OlatheConnect/posts/6968997273162953/",
+      "kept": false,
+      "why_dropped": "Facebook group post; title only"
+    },
+    {
+      "keyword": "stores like earthbound",
+      "position": 7,
+      "url": "https://www.earthboundtrading.com/clothing",
+      "kept": false,
+      "why_dropped": "the anchor's own site (its clothing page ranks for the query)"
+    },
+    {
+      "keyword": "stores like earthbound",
+      "position": 8,
+      "url": "https://backdoorgallery.org/blog/best-bohemian-clothing-brands",
+      "kept": false,
+      "why_dropped": "read 2026-10-29: a store's own general boho-brands list (no author, '2023' in headline); never mentions Earthbound"
+    },
+    {
+      "keyword": "stores like earthbound",
+      "position": 9,
+      "url": "https://iamandco.com/blogs/articles/stores-like-free-people",
+      "kept": false,
+      "why_dropped": "no Earthbound mention"
+    },
+    {
+      "keyword": "stores like earthbound",
+      "position": 10,
+      "url": "https://www.storeslike.com/earthbound",
+      "kept": false,
+      "why_dropped": "read 2026-10-29: templated directory (no author or date, one-line uniform blurbs; Free People, One Tribe Apparel, Soul Flower). Dropped as a similist-style list"
+    },
+    {
+      "keyword": "brands like earthbound",
+      "position": 1,
+      "url": "https://www.soul-flower.com/",
+      "kept": false,
+      "why_dropped": "a brand's own store"
+    },
+    {
+      "keyword": "brands like earthbound",
+      "position": 1,
+      "url": "https://www.reddit.com/r/Knoxville/comments/1964dji/earthboundlike_stores_bohohippie_stuff/",
+      "kept": false,
+      "why_dropped": "unfetchable: reddit"
+    },
+    {
+      "keyword": "brands like earthbound",
+      "position": 1,
+      "url": "https://www.apartstyle.com/post/brands-like-earthbound",
+      "kept": false,
+      "why_dropped": "apartstyle.com never counts"
+    },
+    {
+      "keyword": "brands like earthbound",
+      "position": 3,
+      "url": "https://www.reddit.com/r/ethicalfashion/comments/1eb3tga/what_stores_sell_stuff_like_this/",
+      "kept": false,
+      "why_dropped": "unfetchable: reddit"
+    },
+    {
+      "keyword": "brands like earthbound",
+      "position": 3,
+      "url": "https://www.reddit.com/r/ethicalfashion/comments/1i8ro35/do_you_know_any_ethical_storesbrands_that_sell/",
+      "kept": false,
+      "why_dropped": "unfetchable: reddit"
+    },
+    {
+      "keyword": "brands like earthbound",
+      "position": 4,
+      "url": "https://www.earthboundtrading.com/",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "brands like earthbound",
+      "position": 6,
+      "url": "https://www.facebook.com/groups/fairywitchcottagecorevibes/posts/781394750250945/",
+      "kept": false,
+      "why_dropped": "Facebook group post; not readable"
+    },
+    {
+      "keyword": "brands like earthbound",
+      "position": 6,
+      "url": "https://www.facebook.com/groups/773302015070284/posts/928594229541061/",
+      "kept": false,
+      "why_dropped": "Facebook group post; not readable"
+    },
+    {
+      "keyword": "brands like earthbound",
+      "position": 7,
+      "url": "https://www.tiktok.com/discover/stores-like-earthbound",
+      "kept": false,
+      "why_dropped": "WebFetch returned only 'TikTok - Make Your Day'; no content"
+    },
+    {
+      "keyword": "brands like earthbound",
+      "position": 8,
+      "url": "https://backdoorgallery.org/blog/best-bohemian-clothing-brands",
+      "kept": false,
+      "why_dropped": "no Earthbound mention"
+    },
+    {
+      "keyword": "brands like earthbound",
+      "position": 9,
+      "url": "https://www.similist.com/alternatives/stores-like-earthbound-trading-company",
+      "kept": false,
+      "why_dropped": "similist.com scraped list"
+    },
+    {
+      "keyword": "brands like earthbound",
+      "position": 10,
+      "url": "https://www.apartstyle.com/post/brands-like-earthbound",
+      "kept": false,
+      "why_dropped": "apartstyle.com never counts"
+    },
+    {
+      "keyword": "earthbound trading company alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview returned no positions for this keyword (US)"
+    },
+    {
+      "keyword": "stores like earthbound trading company",
+      "position": 1,
+      "url": "https://www.facebook.com/fb-answers/brands-similar-to-earthbound/",
+      "kept": false,
+      "why_dropped": "WebFetch returned only 'Facebook'; no content"
+    },
+    {
+      "keyword": "stores like earthbound trading company",
+      "position": 3,
+      "url": "https://www.yelp.com/search?find_desc=Hippie+Stores&find_loc=Clearwater%2C+FL",
+      "kept": false,
+      "why_dropped": "local directory search"
+    },
+    {
+      "keyword": "stores like earthbound trading company",
+      "position": 4,
+      "url": "https://www.reddit.com/r/Crystals/comments/1hzbvl9/are_there_any_stores_where_i_can_buy_crystals_from/",
+      "kept": false,
+      "why_dropped": "reddit, about crystals (not C)"
+    },
+    {
+      "keyword": "stores like earthbound trading company",
+      "position": 5,
+      "url": "https://thingtesting.com/brands/earthbound-trading-company/similar",
+      "kept": false,
+      "why_dropped": "read 2026-10-29: alternatives section renders no brand names"
+    },
+    {
+      "keyword": "stores like earthbound trading company",
+      "position": 6,
+      "url": "https://www.tripadvisor.co.nz/Attraction_Review-g31352-d8752209-Reviews-Earthbound_Trading_Company-Sedona_Arizona.html",
+      "kept": false,
+      "why_dropped": "review page for one Earthbound store"
+    },
+    {
+      "keyword": "stores like earthbound trading company",
+      "position": 7,
+      "url": "https://www.amazon.com/earthbound-trading-company-clothes/s?k=earthbound+trading+company+clothes",
+      "kept": false,
+      "why_dropped": "marketplace"
+    },
+    {
+      "keyword": "stores like earthbound trading company",
+      "position": 8,
+      "url": "https://www.ziprecruiter.com/e/Earthbound-Trading-Company-What-is-the-difference-between-Earthbound-Trading-Company-sales-associate-vs-retail-sales-associate",
+      "kept": false,
+      "why_dropped": "jobs page"
+    },
+    {
+      "keyword": "stores like earthbound trading company",
+      "position": 9,
+      "url": "https://www.instagram.com/p/DdQFP7qEdAc/",
+      "kept": false,
+      "why_dropped": "Earthbound's own Instagram post"
+    },
+    {
+      "keyword": "stores like earthbound trading company",
+      "position": 10,
+      "url": "https://www.yelp.com/search?find_desc=Earthbound+Trading+Company&find_loc=Flagstaff%2C+AZ",
+      "kept": false,
+      "why_dropped": "local directory search"
+    },
+    {
+      "keyword": "(WebSearch) stores similar to Earthbound Trading Company",
+      "position": null,
+      "url": "https://technicalustad.com/stores-like-earthbound/",
+      "kept": true,
+      "why_dropped": null,
+      "note": "Not in the Ahrefs US top 10. 'Top 9 Stores Like Earthbound For Unique, Boho-Chic Finds', Sarah Khan, July 26, 2025. SEO-style (templated per-store blocks, unsourced stats, byline/bio mismatch). Main list: Free People, Soul Flower, One Tribe Apparel, Urban Outfitters, ModCloth, Pacsun, Anthropologie, ASOS, Spell. FAQ answers framed as stores/brands like Earthbound also name Farm Rio, Reformation, Dôen, Sézane, indigo Luna (and Brother Vellies, Matt & Nat, Stitch Fix, Nuuly, ThredUp, GlamAR, kids' labels)."
+    },
+    {
+      "keyword": "(WebSearch) stores similar to Earthbound Trading Company",
+      "position": null,
+      "url": "https://etechshout.com/stores-like-earthbound-trading/",
+      "kept": true,
+      "why_dropped": null,
+      "note": "Not in the Ahrefs US top 10. 'eTechShout Editor', January 3, 2026. 11 stores: Urban Outfitters, ModCloth, Nordstrom, Zara, American Eagle, PacSun, Free People, American Apparel, ASOS, Abercrombie & Fitch, Wish. Near-identical store set to PlainTips: independence doubtful, flagged."
+    },
+    {
+      "keyword": "(WebSearch) stores similar to Earthbound Trading Company",
+      "position": null,
+      "url": "https://plaintips.com/stores-like-earthbound",
+      "kept": true,
+      "why_dropped": null,
+      "note": "Not in the Ahrefs US top 10. PlainTips, author ip_bilal, undated (cites 2015 sales figures; affiliate disclosure). 10 stores: Urban Outfitters, Free People, American Apparel, Asos, Pacsun, American Eagle, Zara, Nordstrom, ModCloth, Abercrombie & Fitch."
+    },
+    {
+      "keyword": "(WebSearch) stores similar to Earthbound Trading Company",
+      "position": null,
+      "url": "https://blowra.com/stores-like-earthbound-trading-co/",
+      "kept": false,
+      "why_dropped": "HTTP 503 to WebFetch twice (2026-10-29); not read"
+    },
+    {
+      "keyword": "(WebSearch) stores similar to Earthbound Trading Company",
+      "position": null,
+      "url": "https://www.similarsitesearch.com/sites/earthbound-trading/",
+      "kept": false,
+      "why_dropped": "site-similarity directory (templated 'Is X a good alternative?' blocks, titled for home decor); dropped as a similist-style list. Names Urban Outfitters, Anthropologie, Free People, H&M, Forever21, West Elm, World Market"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": "n/a",
+      "url": null,
+      "used": false,
+      "why": "Earthbound is itself the store and sells no outside labels by name, so §1 4b doesn't apply."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Free People",
+      "slug": "free-people",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://technicalustad.com/stores-like-earthbound/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-earthbound-trading/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-earthbound"
+        }
+      ]
+    },
+    {
+      "name": "Urban Outfitters",
+      "slug": "urban-outfitters",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://technicalustad.com/stores-like-earthbound/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-earthbound-trading/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-earthbound"
+        }
+      ]
+    },
+    {
+      "name": "ModCloth",
+      "slug": "modcloth",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://technicalustad.com/stores-like-earthbound/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-earthbound-trading/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-earthbound"
+        }
+      ]
+    },
+    {
+      "name": "PacSun",
+      "slug": "pacsun",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://technicalustad.com/stores-like-earthbound/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-earthbound-trading/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-earthbound"
+        }
+      ]
+    },
+    {
+      "name": "ASOS",
+      "slug": "asos",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://technicalustad.com/stores-like-earthbound/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-earthbound-trading/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-earthbound"
+        }
+      ]
+    },
+    {
+      "name": "Abercrombie & Fitch",
+      "slug": "abercrombie-fitch",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-earthbound-trading/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-earthbound"
+        }
+      ]
+    },
+    {
+      "name": "American Eagle",
+      "slug": "american-eagle",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-earthbound-trading/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-earthbound"
+        }
+      ]
+    },
+    {
+      "name": "Nordstrom",
+      "slug": "nordstrom",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-earthbound-trading/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-earthbound"
+        }
+      ]
+    },
+    {
+      "name": "Zara",
+      "slug": "zara",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-earthbound-trading/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-earthbound"
+        }
+      ]
+    },
+    {
+      "name": "American Apparel",
+      "slug": "american-apparel",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-earthbound-trading/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-earthbound"
+        }
+      ]
+    },
+    {
+      "name": "Soul Flower",
+      "slug": "soul-flower",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://technicalustad.com/stores-like-earthbound/"
+        }
+      ]
+    },
+    {
+      "name": "One Tribe Apparel",
+      "slug": "one-tribe-apparel",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://technicalustad.com/stores-like-earthbound/"
+        }
+      ]
+    },
+    {
+      "name": "Anthropologie",
+      "slug": "anthropologie",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://technicalustad.com/stores-like-earthbound/"
+        }
+      ]
+    },
+    {
+      "name": "Spell",
+      "slug": "spell",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://technicalustad.com/stores-like-earthbound/"
+        }
+      ]
+    },
+    {
+      "name": "FARM Rio",
+      "slug": "farm-rio",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://technicalustad.com/stores-like-earthbound/"
+        }
+      ]
+    },
+    {
+      "name": "Reformation",
+      "slug": "reformation",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://technicalustad.com/stores-like-earthbound/"
+        }
+      ]
+    },
+    {
+      "name": "DÔEN",
+      "slug": "doen",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://technicalustad.com/stores-like-earthbound/"
+        }
+      ]
+    },
+    {
+      "name": "Sézane",
+      "slug": "sezane",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://technicalustad.com/stores-like-earthbound/"
+        }
+      ]
+    },
+    {
+      "name": "Indigo Luna",
+      "slug": "indigo-luna",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://technicalustad.com/stores-like-earthbound/"
+        }
+      ]
+    },
+    {
+      "name": "Wish",
+      "slug": "wish",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-earthbound-trading/"
+        }
+      ]
+    }
+  ],
+  "picks": [
+    {
+      "slug": "modcloth",
+      "rank": 1,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 49,
+        "max": 329,
+        "min_usd": 49,
+        "max_usd": 329,
+        "fx_date": null,
+        "item_count": 630
+      },
+      "price_relation": "similar",
+      "reason": "ModCloth's regular-price vintage-style dresses start at $49 with a median of $89, in sizes XS to 4X, mixing labels such as Dangerfield with its own.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://technicalustad.com/stores-like-earthbound/",
+          "note": "#5: 'blends vintage-inspired designs with bohemian flair'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-earthbound-trading/",
+          "note": "#2: 'might be your best option if you are looking for such clothes like Earthbound'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-earthbound",
+          "note": "#9: 'a fashion store that offers unique designs'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "pacsun",
+      "rank": 2,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "PacSun's women's department sells baby doll, crochet, casual and denim dresses, with free US standard shipping over $59, below Earthbound's $75.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://technicalustad.com/stores-like-earthbound/",
+          "note": "#6: 'brings a youthful, California-cool spin to stores like Earthbound'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-earthbound-trading/",
+          "note": "#6: 'makes products that appeal to a diverse audience'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-earthbound",
+          "note": "#5: 'another affordable alternative to Earthbound'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "abercrombie-fitch",
+      "rank": 3,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 70,
+        "max": 200,
+        "min_usd": 70,
+        "max_usd": 200,
+        "fx_date": null,
+        "item_count": 86
+      },
+      "price_relation": "pricier",
+      "reason": "Abercrombie's regular-price dresses run $70 to $200, with YPB activewear minis at $70 to $85, and standard shipping is free over $99 to the US and Canada.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-earthbound-trading/",
+          "note": "#10: 'products of high quality and superior comfort'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-earthbound",
+          "note": "#10: 'a comprehensive variety of upscale casual wear'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "american-eagle",
+      "rank": 4,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "American Eagle sells dresses next to its jeans, ships free from $75 like Earthbound, and gives 60 days for a full refund against Earthbound's 30.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-earthbound-trading/",
+          "note": "#5: 'a reputation for providing stylish and affordable clothing'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-earthbound",
+          "note": "#6: 'good quality and reasonably priced range of clothing'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "nordstrom",
+      "rank": 5,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "Nordstrom's dress department stocks DÔEN and Baltic Born, ships free with no minimum to all US states including Alaska and Hawaii, and sets no return deadline.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-earthbound-trading/",
+          "note": "#3: 'the variety of brands they offer'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-earthbound",
+          "note": "#8: heading 'Expensive Than Earthbound, But GREAT!'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "soul-flower",
+      "rank": 6,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 44,
+        "max": 50,
+        "min_usd": 44,
+        "max_usd": 50,
+        "fx_date": null,
+        "item_count": 2
+      },
+      "price_relation": "similar",
+      "reason": "Soul Flower is a woman-owned Des Moines hippie shop selling patchwork and harem pants from $38 in organic cotton and hemp, with dresses at $44 and $50 and 45-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://technicalustad.com/stores-like-earthbound/",
+          "note": "#2: 'a standout among stores like Earthbound for its eco-conscious ethos and inclusive sizing'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "farm-rio",
+      "rank": 7,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 55,
+        "max": 1310,
+        "min_usd": 55,
+        "max_usd": 1310,
+        "fx_date": null,
+        "item_count": 142
+      },
+      "price_relation": "similar",
+      "reason": "FARM Rio's regular-price printed dresses start at $55 and run to $1,310 in sizes XXS to XL, with free returns and exchanges within 30 days.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://technicalustad.com/stores-like-earthbound/",
+          "note": "FAQ 'What are the most sustainable stores like Earthbound Trading Co.…': 'Newer entrants like Farm Rio stand out'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "indigo-luna",
+      "rank": 8,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "AUD",
+        "min": 129,
+        "max": 169,
+        "min_usd": 90.72,
+        "max_usd": 118.86,
+        "fx_date": "2026-10-28",
+        "item_count": 9
+      },
+      "price_relation": "pricier",
+      "reason": "Indigo Luna's Australian yoga and lifestyle dresses cost AUD 129 to 169 (about $91 to $119), with free express US delivery over AUD 250 and 14-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://technicalustad.com/stores-like-earthbound/",
+          "note": "FAQ 'Are there stores like Earthbound that specialize in men's bohemian clothing…': 'check indigo Luna's eco-friendly basics'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "doen",
+      "rank": 9,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 198,
+        "max": 2998,
+        "min_usd": 198,
+        "max_usd": 2998,
+        "fx_date": null,
+        "item_count": 199
+      },
+      "price_relation": "pricier",
+      "reason": "DÔEN's California-nostalgia dresses start at $198 for the Ema Dress, it's a Certified B Corp, and it has shops in Los Angeles, Santa Barbara, Montecito and New York.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://technicalustad.com/stores-like-earthbound/",
+          "note": "FAQ 'What emerging bohemian brands similar to Earthbound…': 'Look to brands like Dôen for romantic, sustainable maxi dresses'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "spell",
+      "rank": 10,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 230,
+        "max": 399,
+        "min_usd": 230,
+        "max_usd": 399,
+        "fx_date": null,
+        "item_count": 34
+      },
+      "price_relation": "pricier",
+      "reason": "Spell's Byron Bay boho dresses sell from a US store in dollars at $230 to $399, many lace or bias-cut, in sizes XXS to 3XL with free US shipping over $150.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://technicalustad.com/stores-like-earthbound/",
+          "note": "#9: 'a dreamy pick among stores like Earthbound, offering romantic bohemian fashion'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "free-people",
+      "why": "unverified: freepeople.com HTTP 403 to curl (StylodexBot UA) on 2026-10-29, and to WebFetch on other runs today. 3 sources (technicalustad, eTechShout, PlainTips): first in the human-check queue."
+    },
+    {
+      "slug": "urban-outfitters",
+      "why": "verified from the URBN 10-K (other run) but the store 403s again (2026-10-29): no dresses page, no US shipping or store fact, so it fails 'available in the US' and 'sells dresses'. 3 sources; human check."
+    },
+    {
+      "slug": "asos",
+      "why": "asos.com/us/ failed (curl HTTP/2 stream error) and its dresses page returned HTTP 503 to WebFetch (2026-10-29). No brand file. 3 sources; human check."
+    },
+    {
+      "slug": "zara",
+      "why": "unverified: zara.com/us/ HTTP 403 to curl (2026-10-29), as on other runs. 2 sources."
+    },
+    {
+      "slug": "american-apparel",
+      "why": "off_category (other run): americanapparel.com is now a wholesale blanks site with no consumer dresses. 2 sources."
+    },
+    {
+      "slug": "anthropologie",
+      "why": "unverified: anthropologie.com HTTP 403 to curl (2026-10-29). 1 source; human check."
+    },
+    {
+      "slug": "one-tribe-apparel",
+      "why": "defunct: onetribeapparel.com says it is 'no longer operating as a standalone brand' and points to Peak Primal Wellness (saunas). 1 source."
+    },
+    {
+      "slug": "reformation",
+      "why": "unverified: thereformation.com 403 on another run today; not retried. 1 source (technicalustad FAQ)."
+    },
+    {
+      "slug": "sezane",
+      "why": "sezane.com/us-en and /collection/dresses HTTP 403 (curl and WebFetch, 2026-10-29). No brand file. 1 source (technicalustad FAQ)."
+    },
+    {
+      "slug": "wish",
+      "why": "marketplace, not a store selling its own or curated stock. 1 source."
+    },
+    {
+      "slug": "thredup",
+      "why": "secondhand/resale: never a pick (enrich.md §1 4c). Named only in a technicalustad FAQ."
+    },
+    {
+      "slug": "other-technicalustad-faq-mentions",
+      "why": "Brother Vellies (bags, boots), Matt & Nat (purses), Stitch Fix and Nuuly (subscription/rental services), GlamAR (AR tool), Young Eden and Hippie Baby Co (kids) don't sell women's dresses as stores; Chloé and Isabel Marant appear under a trends question, not as Earthbound alternatives. Not verified."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "pick check: Free People (3 sources)",
+      "url": "https://www.freepeople.com/dresses/",
+      "check": "403. The most-named alternative. Confirm regular-price dress range (USD), US shipping, returns, sizes."
+    },
+    {
+      "fact": "pick check: Urban Outfitters, ASOS (3 sources each)",
+      "url": "https://www.urbanoutfitters.com/womens-dresses",
+      "check": "403 / 503. Confirm US shipping or US stores and a regular-price dress range for each."
+    },
+    {
+      "fact": "pick check: Anthropologie, Zara, Reformation, Sézane",
+      "url": "https://www.anthropologie.com/dresses",
+      "check": "All refuse reads. Each would add a pick with the same facts."
+    },
+    {
+      "fact": "evidence quality",
+      "url": "https://technicalustad.com/stores-like-earthbound/",
+      "check": "All evidence is three SEO-style listicles outside the Ahrefs top 10 (technicalustad, eTechShout, PlainTips); eTechShout and PlainTips name nearly the same stores and may not be independent. Reddit (r/Knoxville 'Earthbound-like stores') and the Facebook threads, which Google ranks, couldn't be read. The three FAQ-only picks (FARM Rio, Indigo Luna, DÔEN) rest on one FAQ answer each, and Indigo Luna's answer is about men's and gender-neutral clothing. Decide whether that is enough to index."
+    },
+    {
+      "fact": "anchor: us_stores",
+      "url": "https://www.earthboundtrading.com/locations",
+      "check": "The locator shows no list to scripted reads. us_stores is set from the About page (150 shops) and Simon's 37 US mall listings; confirm on the locator."
+    },
+    {
+      "fact": "DÔEN ships_to",
+      "url": "https://www.shopdoen.com/policies/shipping-policy",
+      "check": "Shipping policy body renders empty. Confirm US shipping terms and the free-shipping threshold (a cart line says $500)."
+    },
+    {
+      "fact": "PacSun dresses price",
+      "url": "https://www.pacsun.com/womens/dresses/",
+      "check": "403. Record min/max regular-price dresses so the pick shows a price."
+    }
+  ],
+  "notes": [
+    "SERP: 4 Ahrefs serp-overview calls (stores like earthbound, brands like earthbound, earthbound trading company alternatives (no data), stores like earthbound trading company). The top 10s are Reddit, Facebook, TikTok, Soul Flower's own store, general boho lists and directories; none of the readable ones names alternatives to Earthbound. Evidence came from three listicles found with WebSearch, all about Earthbound alternatives.",
+    "No Apart Style pool: public.brands has no Earthbound row (read-only SQL, 2026-10-29). No disco directory page for Earthbound (discobrands.co 404).",
+    "Order: source count, then closeness to Earthbound's $39.95–$69.95 (no-price picks after priced ones with the same count). Soul Flower is the closest in look but ranks sixth on that rule.",
+    "Copy says Soul Flower has two dresses; its real strength is pants and tees, which the body says.",
+    "FAQ: one Ahrefs keywords-explorer-matching-terms call ('earthbound', questions, US). Most results are the game or Earthbound Farms. Kept 'who owns earthbound trading company' and 'is earthbound trading co ethical'; skipped 'is earthbound fast fashion' (no stored fact answers it). Two from People Also Ask on the SERPs: 'What stores are similar to Earthbound?' and 'What style is Earthbound clothing?'."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "You've found the sari-print maxi you wanted at Earthbound, then hit a wall: no plus sizes, no shipping to Hawaii or Alaska, or simply not enough dresses. Its own full-price dresses run $39.95 to $69.95, so that's the yardstick here. The list starts with the stores shopping guides name most often next to Earthbound, then moves to smaller boho labels, closest in price first.",
+    "bodies": {
+      "modcloth": "ModCloth is the closest match on price, and the one to try first if you love Earthbound's peasant and patchwork dresses but want far more choice. Full-price dresses start at $49 and the middle of the range sits around $89, which is where you'll find the Garden Party Tapestry Midi Dress ($89).\n\nThe bigger difference is size. ModCloth goes up to 4X, while Earthbound stops at XXL, so this is the better bet if you're past a US 22. It also stocks outside labels such as Dangerfield and Orchid Bloom next to its own collaborations.\n\nThe catch is shipping. It's free only over $150, double Earthbound's $75, and returns cost $14 an order. Buy two or three dresses at once, or try Soul Flower if you only want one piece.",
+      "pacsun": "PacSun is the pick if what you buy at Earthbound is easy summer dresses rather than crystals and tapestries. Its women's department has baby doll, crochet, casual and denim dresses, so it leans beach more than festival.\n\nIt's a California chain that grew out of a small surf shop in Seal Beach, and it now has stores in 46 states. So there's a fair chance you can try a dress on before you buy. Online, standard shipping is free over $59, lower than Earthbound's $75, though orders to Alaska and Hawaii don't qualify.\n\nIts own pitch is denim, streetwear and everyday basics. If the embroidered, sari-print side of Earthbound is what you're after, Soul Flower is the closer match.",
+      "abercrombie-fitch": "Abercrombie & Fitch is where to go for cotton and lace-trim dresses one step above Earthbound's prices. Full-price dresses start at $70, just past Earthbound's top price, and the 100% Cotton Lace-Trim Slash Midi Dress ($200) sits at the top.\n\nStart with YPB, its activewear offshoot. The mini dresses there cost $70 to $85, the nearest Abercrombie gets to Earthbound. Standard shipping is free over $99, and it ships to Canada as well as the US, which Earthbound doesn't.\n\nIts dress page mixes in jumpsuits, so filter to dresses first. And if prints and patchwork are the point, FARM Rio or Spell will feel much closer to Earthbound than anything here.",
+      "american-eagle": "American Eagle works if you want a dress and a pair of jeans in the same order, with the same free-shipping line as Earthbound. Both ship free from $75, so a cart that qualifies at one qualifies at the other.\n\nReturns are the real draw. You get 60 days for a full refund, twice Earthbound's 30, which helps when you're buying a dress you haven't tried on. Online returns cost $5 unless you're a top-tier Real Rewards member or cardholder.\n\nIts dresses are marked down often, so it pays to wait for a sale. Full price runs well above Earthbound's: the AE77 Crinkle Lace Slip Cami Dress is $148. For boho prints at that money, FARM Rio has more to choose from.",
+      "nordstrom": "Nordstrom is the answer if you want a boho label like DÔEN with free shipping and no return deadline. Its dress department carries DÔEN's the Ischia Convertible Organic Cotton Maxi Dress ($348), next to cheaper names like Baltic Born, whose Veronica Velvet Maxi Dress is $65.\n\nShipping is free with no minimum to anywhere in the US, Alaska and Hawaii included. That matters here, because Earthbound doesn't ship to either state. Returns have no time limit, in store or by mail.\n\nIt's a department store, so the dresses run all the way to sequin gowns like HELSI's Leslie Pattern Sequin Strapless Gown ($495). Filter by the labels you already like and skip the rest.",
+      "soul-flower": "Soul Flower is the closest match to Earthbound's hippie side, and its dresses cost about the same. The Thyme to Wander Smocked Dress is $44 and the Magic Mandala Dress in Blues is $50.\n\nBut dresses are a small part of it. Pants are the thing to buy here, from Classic Patchwork Pants ($38) to harem and wide-leg styles in the $40s to $70s. Like Earthbound, it's woman-owned. It's been selling out of Des Moines since 1999, and much of the range is organic cotton, hemp or recycled fibers.\n\nReturns run 45 days, longer than Earthbound's 30. US shipping is free only over $150, though, so it's cheaper to bundle pants with a tee or two than to order one piece.",
+      "farm-rio": "FARM Rio is where to go for louder prints than Earthbound's, and its cheapest full-price dresses start at $55. From there it climbs quickly, to the Luize Mini Dress ($248) and the Mystical Paradise Maxi Dress ($348).\n\nSizes run XXS to XL, with a few styles in 2XL. So most of it stops a size below Earthbound's XXL, though it starts one size smaller. Returns and exchanges are free within 30 days. That's the same window as Earthbound, but you don't pay the postage to send things back.\n\nIt's a statement-dress store, which suits one big buy better than a basket of cheap pieces. For several dresses under $100 in one order, ModCloth is the better trip.",
+      "indigo-luna": "Indigo Luna suits you if you want relaxed, yoga-and-everyday dresses rather than festival prints. It's an Australian label, and the Frida Dress costs AUD 129 (about $91) while the Juni Midi Dress is AUD 169 (about $119).\n\nDresses come in doubled-up sizes, XS/S, M/L and XL/2XL, so there are only three to choose between when you can't try them on. Express delivery to the US is free over AUD 250 (about $176), with no extra charges added at checkout for US orders.\n\nReturns are tighter. You get 14 days, and sending a parcel back to Australia costs AUD 35, so check the measurements first. If you'd rather return things in person, Nordstrom is easier.",
+      "doen": "DÔEN is the grown-up version of Earthbound's peasant dress: romantic, vintage-leaning California dresses at a much higher price. The Ema Dress ($198) is the cheapest, and several sit just above it, like the Juliet Tunic Dress ($268).\n\nSisters Margaret and Katherine Kleveland founded it with a collective of LA women, all of them co-owners, and it's a Certified B Corp. You can try it on at its shops in Los Angeles, Santa Barbara, Montecito and New York, or find some pieces at Nordstrom.\n\nPrices climb fast, up to $2,998 for the Anniversary dresses. Returns take 30 days, like Earthbound, but final sale is final. If you want the romance for less, ModCloth's vintage-style dresses sit around $89.",
+      "spell": "Spell takes Earthbound's boho look into lace and bias-cut dresses, at several times the price. It's from Byron Bay in Australia but runs a US store in dollars, so there's no conversion to work out. Dresses start at $230 for the Frances Mini Dress, and the Irma Lace Halter Mini Dress is $295.\n\nSizes run XXS to 3XL, wider than DÔEN's or FARM Rio's. US shipping is a flat $9.95, or free over $150, and full-price styles can go back within 30 days.\n\nSale pieces are store credit only, so buy at full price if you're unsure of the fit. It also sells gowns like the Whimsy Garden Lace Gown Dress ($399), worth a look for a boho wedding."
+    },
+    "best_for": {
+      "modcloth": "vintage-style dresses in sizes past XXL",
+      "pacsun": "casual summer dresses you can try on in a store",
+      "abercrombie-fitch": "cotton and lace dresses one step above Earthbound's prices",
+      "american-eagle": "a dress and jeans in one order, with 60 days to return",
+      "nordstrom": "boho labels with free shipping to Alaska and Hawaii",
+      "soul-flower": "patchwork pants and organic basics at Earthbound prices",
+      "farm-rio": "one bold printed dress you'll build an outfit around",
+      "indigo-luna": "relaxed Australian dresses with free express US delivery",
+      "doen": "a romantic splurge dress you can try on first",
+      "spell": "a lace boho dress for a summer wedding"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with your budget. Under $100, ModCloth and Soul Flower sit right by Earthbound's prices, and ModCloth is the one to pick if you need sizes past XXL. If you'd rather try things on, PacSun and Nordstrom both have stores, and Nordstrom ships free to Alaska and Hawaii, which Earthbound won't. For a small step up, Abercrombie's YPB minis start at $70 and Indigo Luna's Frida Dress is about $91. Spend more and the choice comes down to look. FARM Rio is for loud prints, Spell for lace and DÔEN for romantic vintage. Of those three, Spell has the widest sizes."
+    },
+    "faqs": [
+      {
+        "q": "Who owns Earthbound Trading Company?",
+        "a": "Suzana Gordon is the sole owner, which makes Earthbound a woman-owned business. She started it with Steve Gordon in 1994 as a rock and mineral shop, and it's based in Grapevine, Texas.",
+        "source_query": "who owns earthbound trading company"
+      },
+      {
+        "q": "Is Earthbound Trading Co. ethical?",
+        "a": "Earthbound says its vendors must follow its supplier code of conduct and that a team visits them regularly. It doesn't name an outside certification. If that matters to you, DÔEN is a Certified B Corp.",
+        "source_query": "is earthbound trading co ethical"
+      },
+      {
+        "q": "What stores are similar to Earthbound?",
+        "a": "For the hippie look at the same prices, try Soul Flower and ModCloth. PacSun is the chain for casual summer dresses. For pricier boho dresses, go to FARM Rio, Spell or DÔEN.",
+        "source_query": "stores like earthbound",
+        "source": "people_also_ask"
+      },
+      {
+        "q": "What style is Earthbound clothing?",
+        "a": "Boho and hippie. Its dresses lean on sari fabrics, patchwork, paisley and fairy styles, plus peasant dresses and patchwork overalls. Full-price dresses run $39.95 to $69.95.",
+        "source_query": "brands like earthbound",
+        "source": "people_also_ask"
+      }
+    ]
+  }
+}

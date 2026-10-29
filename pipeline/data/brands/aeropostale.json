@@ -16,7 +16,7 @@
     "US"
   ],
   "free_shipping_min_usd": 25,
-  "returns_days": null,
+  "returns_days": 60,
   "prices": [
     {
       "category": "jeans",
@@ -39,7 +39,10 @@
     "https://www.aeropostale.com/customer-service/cs-landing.html?a=Aeropostale-In-Store-and-Online-Purchase-Return-Policy---id--K7F1Z7VUSGaiUCi4gErIVQ",
     "https://www.aeropostale.com/size-charts/size-charts.html",
     "https://en.wikipedia.org/wiki/A%C3%A9ropostale_(clothing)",
-    "https://www.aeropostale.com/men/graphic-tees/"
+    "https://www.aeropostale.com/men/graphic-tees/",
+    "https://eddiebauer.gladly.com/api/v1/orgs/bgrS2X4lShS7ua5F3sbN_g/answers/K7F1Z7VUSGaiUCi4gErIVQ?lng=en-us",
+    "https://eddiebauer.gladly.com/api/v1/orgs/bgrS2X4lShS7ua5F3sbN_g/answers/XLD2ONhAQseIy5J6Bq4M0w?lng=en-us",
+    "https://stores.aeropostale.com/"
   ],
   "notes": [
     "Homepage title: 'Men's and Women's Jeans, Clothes, Hoodies, and Graphic Tees | Aeropostale.'",
@@ -48,10 +51,15 @@
     "Sizes: women's jeans listing filters show 000–20 with S/L length suffixes and XXS–XXL; size chart shows women's bottoms 000 to 18–20 with a Curvy Fit column, men's waist 26–46 (XXL/XXXL web-exclusive).",
     "Wikipedia: founded 1987 (first stores Thousand Oaks, CA and Short Hills, NJ); HQ New York City; currently owned by Catalyst Brands (infobox owner field names Authentic Brands Group); aimed at young adults and teenagers.",
     "size_range detail: Women's 000–20 with short and long lengths, XXS–XXL; men's waist 26–46",
-    "2026-10-29 (tillys page run, C mens-clothing = men's tees): https://www.aeropostale.com/guys/graphic-tees/ redirects to /men/graphic-tees/ (read with curl and WebFetch). Men's nav: Graphic Tees, 'Buy 1, Get 2 Free Tees', Jeans (Baggy, Mega Baggy, Super Baggy and more), Hoodies + Sweatshirts, Joggers + Sweatpants. The served grid held no T-shirt tiles (hoodies, sweatpants, polos, jeans), and those tiles show a 'Comp. Value' above a lower price (e.g. A87 Piqué Polo Comp. Value $24.50, $10.00), so no men's tee price is stored. sells_categories mens-clothing rests on the men's graphic tees category and the homepage title."
+    "2026-10-29 (tillys page run, C mens-clothing = men's tees): https://www.aeropostale.com/guys/graphic-tees/ redirects to /men/graphic-tees/ (read with curl and WebFetch). Men's nav: Graphic Tees, 'Buy 1, Get 2 Free Tees', Jeans (Baggy, Mega Baggy, Super Baggy and more), Hoodies + Sweatshirts, Joggers + Sweatpants. The served grid held no T-shirt tiles (hoodies, sweatpants, polos, jeans), and those tiles show a 'Comp. Value' above a lower price (e.g. A87 Piqué Polo Comp. Value $24.50, $10.00), so no men's tee price is stored. sells_categories mens-clothing rests on the men's graphic tees category and the homepage title.",
+    "2026-10-29 (aeropostale page run): the return-policy article on aeropostale.com loads from the Gladly help-center API the page itself calls (gladlyHCConfig in the page source; read with curl, StylodexBot UA). 'Aéropostale® Return, Refund and Exchange Policy': return or exchange unworn items with tags and proof of purchase 'within 60 days of the purchase'; purchases Oct 1 to Dec 31, 2026 returnable until the later of Jan 31, 2027 or 60 days; exchanges in store only, not by mail; '$8 return label fee will be deducted from your refund' for mail returns; items must be bought online or in a US store. returns_days 60.",
+    "2026-10-29 (aeropostale page run): shipping article (same API): 'Aeropostale.com currently ships orders within the United States, U.S. Territories, and APO/FPO addresses.' ships_to US confirmed.",
+    "2026-10-29 (aeropostale page run): store locator (stores.aeropostale.com, title 'Clothing Store for Teens, Women, and Men Near Me | Aeropostale') lists locations in 44 states plus Puerto Rico. us_stores true.",
+    "2026-10-29 (aeropostale page run): women's jeans page re-read with curl: Low-Rise Baggy Wide Leg Jean $64.95, Super Low-Rise Bootcut Jean $64.95, Super Low-Rise Ultra Wide Leg Jean $64.95, Super Low-Rise Baggy Wide Leg Rhinestone Heart Jean $69.95, matching the stored $64.95-$69.95 range."
   ],
   "checked_at": "2026-10-29",
   "sells_categories": [
     "mens-clothing"
-  ]
+  ],
+  "us_stores": true
 }

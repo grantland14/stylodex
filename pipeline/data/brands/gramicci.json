@@ -1,0 +1,57 @@
+{
+  "name": "Gramicci",
+  "website_url": "https://gramicci.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Outdoor and Climbing Apparel",
+  "hq_country": "US",
+  "founded_year": 1982,
+  "parent_company": null,
+  "size_range": "Hoodies XS–XL",
+  "ships_to": [
+    "US",
+    "CA",
+    "AU"
+  ],
+  "us_stores": false,
+  "free_shipping_min_usd": 175,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 115,
+      "max": 115,
+      "item_count": 6,
+      "source_url": "https://gramicci.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "6 regular-price hooded sweatshirts, all $115 (GCE Hooded Sweatshirt: 87% cotton, 13% polyester fleeceback; Icon Zip, Ladybug, Starburst, Spell Out Zip, Climbing Zip Hooded Sweatshirt); 14 other hoodie listings marked down and excluded. Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final-sale, on-sale, sale-NN, NN%, rebajas). Hoodies = pullover and zip hoodies (title or product type names a hood); crewnecks, knit hoodies, jackets, sleeveless, kids and bundles excluded.",
+      "min_usd": 115,
+      "max_usd": 115,
+      "fx_date": null
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://gramicci.com/meta.json",
+    "https://gramicci.com/collections.json?limit=250",
+    "https://gramicci.com/policies/shipping-policy?country=US",
+    "https://gramicci.com/policies/refund-policy?country=US",
+    "https://gramicci.com/products.json?limit=250",
+    "https://gramicci.com/collections/mens-sweatshirts-hoodies/products.json?limit=250",
+    "https://gramicci.com/pages/about",
+    "https://gramicci.com/?country=US"
+  ],
+  "notes": [
+    "About: 'In 1982, Gramicci was born', started by climber Mike Graham in his garage in Ventura, California; 'Outdoor Lifestyle & Climbing Apparel'; first climbing shorts, then G-Pants. meta.json shop address New York, NY.",
+    "Homepage banner: 'Free Shipping on Orders $175+'. Refund policy: 30-day returns on gramicci.com purchases; US returns incur a $9 label fee, US exchanges free; international sales final.",
+    "US store ships to US, CA, AU per meta.json (GB not listed)."
+  ],
+  "checked_at": "2026-10-29"
+}

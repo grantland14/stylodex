@@ -45,14 +45,16 @@
     "https://darcsport.com/policies/refund-policy",
     "https://darcsport.com/policies/shipping-policy",
     "https://shop.darcsport.com/pages/our-story",
-    "https://shop.darcsport.com/pages/this-is-darc-sport-2026"
+    "https://shop.darcsport.com/pages/this-is-darc-sport-2026",
+    "https://darcsport.com/collections/all-hoodies/products.json?limit=250"
   ],
   "notes": [
     "Policy page: 'ALL ORDERS ARE FINAL SALE. WE DO NOT ACCEPT RETURNS ON ANY ORDERS'; notify within 7 days of issues. returns_days stored as 0 (no returns).",
     "Our Story page: 'FREE US SHIPPING ON ORDERS OVER $150'; yearly collections from 'RATHER DIE STANDING 2022' to 'FOR THE SAKE OF OTHERS 2026'; footer '© 2026 DarcSport /Civil Clothing Inc.' (parent_company). Instagram section: 'upcoming drops, athlete features, training content and an inside look at the Wolves'. No founding year or HQ stated; meta.json store address Torrance, California.",
     "meta.json ships_to 56 countries incl. US, CA, GB, AU; international ships DDU.",
     "known_for built from the yearly-collection structure on Our Story; homepage gives only the slogan 'Never F*ckin Give Up'. In human_check.",
-    "WebFetch of the refund policy got HTTP 429 once; the policy text was read from the earlier honest-UA fetch."
+    "WebFetch of the refund policy got HTTP 429 once; the policy text was read from the earlier honest-UA fetch.",
+    "2026-10-29 (scuffers page, hoodies): all 55 hoodies served by darcsport.com/collections/all-hoodies carry a compare-at price above price (e.g. Darc Emblem Pierce Hoodie $45.50 vs $65), so no regular-price hoodie range; no hoodies price stored. A source (worthybornedit) links shop.darcsportathletics.com, a separate store not confirmed as Darc Sport's official one; not used."
   ],
   "checked_at": "2026-10-29"
 }

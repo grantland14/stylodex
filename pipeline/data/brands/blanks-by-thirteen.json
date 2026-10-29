@@ -1,0 +1,59 @@
+{
+  "name": "Blanks by Thirteen",
+  "website_url": "https://blanksbythirteen.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "USA-Made Blank Apparel",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Hoodies S–XXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "us_stores": false,
+  "free_shipping_min_usd": 100,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 78,
+      "max": 85,
+      "item_count": 23,
+      "source_url": "https://blanksbythirteen.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "23 regular-price hoodies: Perfect Hoodie $78; 22 washed hoodies at $85 (e.g. Faded Black Hoodie, Vintage Black Hoodie, Thrashed Olive Hoodie). Descriptions: 450 GSM pre-shrunk, 'Custom California milled 100% combed cotton fleece', 'MADE IN USA', slightly oversized dropped-shoulder fit. Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final-sale, on-sale, sale-NN, NN%, rebajas). Hoodies = pullover and zip hoodies (title or product type names a hood); crewnecks, knit hoodies, jackets, sleeveless, kids and bundles excluded.",
+      "min_usd": 78,
+      "max_usd": 85,
+      "fx_date": null
+    }
+  ],
+  "materials": [
+    "100% combed cotton fleece"
+  ],
+  "certifications": [],
+  "production_model": "Made in the USA",
+  "sale_pattern": null,
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://blanksbythirteen.com/meta.json",
+    "https://blanksbythirteen.com/collections.json?limit=250",
+    "https://blanksbythirteen.com/policies/shipping-policy?country=US",
+    "https://blanksbythirteen.com/policies/refund-policy?country=US",
+    "https://blanksbythirteen.com/products.json?limit=250",
+    "https://blanksbythirteen.com/pages/faq",
+    "https://blanksbythirteen.com/?country=US"
+  ],
+  "notes": [
+    "meta.json: 'a USA made blank apparel company that uses 100% combed cotton custom milled fabrics'; shop address Bay Shore, New York.",
+    "Homepage banner: 'FREE SHIPPING ON ORDERS $100+' (US). Refund policy: returns and exchanges within 30 days of delivery; international orders final sale. Duties on international orders are the buyer's.",
+    "Blanks Limited line releases new products every two weeks and does not restock (FAQ)."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Von Dutch",
+  "website_url": "https://vondutch.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Trucker Caps and Streetwear",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": "White Space Group",
+  "size_range": "Hoodies XS–2XL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB"
+  ],
+  "us_stores": false,
+  "free_shipping_min_usd": null,
+  "returns_days": 0,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 65,
+      "max": 135,
+      "item_count": 23,
+      "source_url": "https://vondutch.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "23 regular-price hoodies: Remi Waffle Hoodie and Velour Zip Up $65, Spider Crest and Spider Nest hoodies and Von Dutch x Young Thug YSL Hoodie $130, VD x Hardfest distressed hoodies $135; 4 marked down. Wallets with zips excluded. Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final-sale, on-sale, sale-NN, NN%, rebajas). Hoodies = pullover and zip hoodies (title or product type names a hood); crewnecks, knit hoodies, jackets, sleeveless, kids and bundles excluded.",
+      "min_usd": 65,
+      "max_usd": 135,
+      "fx_date": null
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://vondutch.com/meta.json",
+    "https://vondutch.com/collections.json?limit=250",
+    "https://vondutch.com/policies/shipping-policy?country=US",
+    "https://vondutch.com/policies/refund-policy?country=US",
+    "https://vondutch.com/products.json?limit=250",
+    "https://vondutch.com/pages/about-us",
+    "https://vondutch.com/pages/shipping-1"
+  ],
+  "notes": [
+    "About: rose 'from underground custom culture' in the early 2000s under Christian Audigier; 'Now under the ownership of WSG (White Space Group)'. meta.json: 'Iconic trucker caps & streetwear'; Beverly Hills, CA.",
+    "Refund policy: 'VON DUTCH DOES NOT CURRENTLY OFFER RETURNS ON ANY ITEMS'; exchanges offered, customer buys the return label. returns_days stored as 0.",
+    "Shipping: processed in 1-6 business days; international customers pay duties. No free-shipping threshold stated in policy."
+  ],
+  "checked_at": "2026-10-29"
+}
