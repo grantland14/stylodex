@@ -1,0 +1,62 @@
+{
+  "slug": "hot-topic",
+  "name": "Hot Topic",
+  "website_url": "https://www.hottopic.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Pop-Culture Merch and Clothing",
+  "hq_country": "US",
+  "founded_year": 1989,
+  "parent_company": null,
+  "size_range": "XS–5XL; tall LT–4XLT",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": true,
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": null,
+  "free_shipping_min_usd": 75,
+  "returns_days": 30,
+  "sells_categories": [
+    "mens-clothing"
+  ],
+  "prices": [
+    {
+      "category": "mens-clothing",
+      "currency": "USD",
+      "min": 12.99,
+      "max": 50.9,
+      "min_usd": 12.99,
+      "max_usd": 50.9,
+      "fx_date": null,
+      "item_count": 547,
+      "source_url": "https://www.hottopic.com/guys/tees/",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: men's short-sleeve T-shirts. Read with curl (StylodexBot UA) from the Guys > Tees listing three ways: default sort (sz=1000 returned 200), srule=sortingPriceLowToHigh&sz=200 and srule=sortingPriceHighToLow&sz=200, so both ends of the range are covered: 588 unique products, 547 short-sleeve T-shirts with no strike-through price. Excluded: 10 with a crossed-out list price, and long-sleeve, twofer, hoodie, tank and crop items. Prices are each tile's lowest ('From') price; bigger sizes can cost more. Min: InuYasha Yellow & White T-Shirt $12.99 (next: Shaka Wear 7.5 Oz. Heavyweight T-Shirt $15.90); max: WWE John Cena Wrestlemania 23 Garment-Dyed T-Shirt $50.90 (Comfort Colors heavyweight tee, 100% cotton) and Bad Bunny DTMF Casita World Tour Black T-Shirt $50.00."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.hottopic.com/",
+    "https://www.hottopic.com/guys/tees/",
+    "https://www.hottopic.com/guys/tees/?srule=sortingPriceLowToHigh&start=0&sz=200",
+    "https://www.hottopic.com/guys/tees/?srule=sortingPriceHighToLow&start=0&sz=200",
+    "https://www.hottopic.com/customer-service/shipping/",
+    "https://www.hottopic.com/customer-service/returns-exchanges/",
+    "https://www.hottopic.com/product/wwe-john-cena-wrestlemania-23-garment-dyed-t-shirt/34844965.html",
+    "https://www.hottopic.com/product/shaka-wear-black-7.5-oz.-heavyweight-t-shirt/37034611.html",
+    "https://en.wikipedia.org/wiki/Hot_Topic"
+  ],
+  "notes": [
+    "2026-10-29 (zumiez page run): homepage title 'Hot Topic | The Pop-Culture Merch & Clothing Store'; nav Pop Culture, Halloween, Holiday, New, Girls, Plus, Guys, Tees, Backpacks & Bags, Accessories; banner 'Free Shipping With $75 Purchase*'. known_for from the title.",
+    "Shipping page: 'Hottopic.com ships to all 50 states, APO/FPO addresses, U.S. territories and possessions and over 150+ countries' (countries not named, so ships_to records the US only); Standard 3–8 business days $7.99 on the $0.01–$49.99 and $50–$99.99 bands; product page: 'Free delivery over $75, exclusions apply'; pre-order merch carries a $1.99 per-item surcharge to home addresses; Hawaii, Alaska, APO/FPO excluded from the sitewide offer.",
+    "Returns page: 'Refunds are valid within 30 days of purchase', with exceptions (beauty, body jewelry final sale; bags and collectibles 7 days; defective items 90 days); return to a Hot Topic store or by mail.",
+    "Size filter on Guys > Tees: XS, S, M, L, XL, 2XL, 3XL, 4XL, 5XL and tall LT, XLT, 2XLT, 3XLT, 4XLT. size_range detail: XS–5XL; tall LT–4XLT.",
+    "Wikipedia (Hot Topic): founded October 1989 in Montclair, California by Orv Madden; HQ City of Industry, California; Sycamore Partners bought it in 2013; on August 7, 2026 Spencer Spirit Holdings announced it would acquire Hot Topic from Sycamore (pending), so parent_company is left empty; 675 locations (April 2020). Store locator (hottopic.com/stores) loads by script, so us_stores is not set."
+  ],
+  "checked_at": "2026-10-29"
+}

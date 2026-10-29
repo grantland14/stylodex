@@ -31,7 +31,8 @@
     "https://www.ae.com/us/en/c/women/bottoms/jeans/cat6430042",
     "https://www.ae.com/us/en/c/men/bottoms/jeans/cat6430041",
     "https://www.ae.com/women-jeans/web/s-cat/6430042",
-    "https://www.ae.com/us/en/o/best-jeans-for-women"
+    "https://www.ae.com/us/en/o/best-jeans-for-women",
+    "https://www.ae.com/us/en/c/men/tops/t-shirts/cat90012"
   ],
   "notes": [
     "Dresses page (WebFetch, 2026-10-29): header says 129 items, 30 rendered; 29 of the 30 were marked down 31% (one 50%), e.g. 'was $64.95'. Only one listing was at full price (AE77 Crinkle Lace Slip Cami Dress, $148), so no regular-price dress range is stored.",
@@ -40,12 +41,14 @@
     "Homepage title (2026-10-29): 'Men's & Women's Jeans, Clothes & Accessories | American Eagle'; banner 'GIVE. GET. JEANS.'",
     "Women's Jeans page (https://www.ae.com/women-jeans/web/s-cat/6430042, 2026-10-29): 186 items, 30 tiles rendered, every one marked down 40–50% (e.g. AE Lowest Rise Extra Baggy Jean $44.97, was $74.95; was-prices $59.95–$89.95). No full-price jeans, so no price row. Filters: Fit (Classic, Curvy), rise, stretch level, wash, destruction; Curvy versions of several cuts (AE Curvy Super High-Waisted Baggy Wide-Leg Jean, AE Curvy High-Waisted Stovepipe Jean). Numeric size range not shown (size-chart URL 404).",
     "2026-10-29 (hollister run): Women's Jeans (https://www.ae.com/us/en/c/women/bottoms/jeans/cat6430042) reports 186 items; all 31 rendered were marked down 40–50% (e.g. AE Lowest Rise Extra Baggy Jean $44.97, was $74.95; full prices $59.95–$89.95). No regular-price jeans, so no price row; jeans in sells_categories from this page. Fit filter: Classic Fit and Curvy Fit.",
-    "2026-10-29 (old-navy page run): women's jeans listing (WebFetch): 186 items, 30 tiles, every one marked down (e.g. AE Low-Rise Classic Straight Jean $41.97, was $69.95); was-prices $59.95-$89.95. No regular-price item, so no jeans price row; 'jeans' stays in sells_categories from the store's own jeans page. Curvy Fit offered as a fit option."
+    "2026-10-29 (old-navy page run): women's jeans listing (WebFetch): 186 items, 30 tiles, every one marked down (e.g. AE Low-Rise Classic Straight Jean $41.97, was $69.95); was-prices $59.95-$89.95. No regular-price item, so no jeans price row; 'jeans' stays in sells_categories from the store's own jeans page. Curvy Fit offered as a fit option.",
+    "2026-10-29 (zumiez page run, C mens-clothing = men's tees): Men's T-Shirts page (cat90012, read with curl, StylodexBot UA; title 'Men's T-Shirts: Long Sleeve, Henley, and More | American Eagle') rendered 30 tiles; 28 showed a sale price under a crossed-out list price (e.g. AE Standard Fit Lightweight Logo T-Shirt $9.99, list $17.95; AE Standard Fit Lived-In T-Shirt $11.99, list $19.95; AE Standard Fit Grinch / Snoopy Graphic T-Shirt and AE Boxy Fit Ford Graphic T-Shirt $24.11, list $34.95). The only full-price items were the AE Standard Fit Cozy Thermal Shirt ($39.95), not a T-shirt, so no regular-price men's tee range is stored. Nav also links 'Tees Under $15'. sells_categories mens-clothing rests on this page. Homepage meta: 'Shop American Eagle men's and women's jeans, tops, bottoms... in additional sizes and styles at AE.com'."
   ],
   "checked_at": "2026-10-29",
   "sells_categories": [
     "womens-clothing",
     "dresses",
-    "jeans"
+    "jeans",
+    "mens-clothing"
   ]
 }

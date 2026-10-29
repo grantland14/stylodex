@@ -1,0 +1,65 @@
+{
+  "slug": "zumiez",
+  "name": "Zumiez",
+  "website_url": "https://www.zumiez.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Skate Shoes, Skateboards and Streetwear",
+  "hq_country": "US",
+  "founded_year": 1978,
+  "parent_company": "Zumiez Inc. (Nasdaq: ZUMZ)",
+  "size_range": "XS–3XL in tees, varies by brand",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": true,
+  "free_shipping_min_usd": 64.94,
+  "returns_days": 30,
+  "sells_categories": [
+    "mens-clothing"
+  ],
+  "prices": [
+    {
+      "category": "mens-clothing",
+      "currency": "USD",
+      "min": 24.99,
+      "max": 64.95,
+      "min_usd": 24.99,
+      "max_usd": 64.95,
+      "fx_date": null,
+      "item_count": 60,
+      "source_url": "https://www.zumiez.com/mens/tops/t-shirts.html",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: men's T-shirts. A sample, not the whole range: the 60 products rendered on page 1 (default sort) of Men's Clothing > Tops > T-Shirts ('2960 items found'), read with WebFetch; ?page=2 and sort URLs came back empty. No item showed a crossed-out price, so all 60 count as regular price ('Buy 1 Get 1 50% Off' on Shaka Wear, ITA and Vitriol is a multi-buy promotion, not a markdown). Min: Shaka Wear Max Heavyweight Black T-Shirt $24.99; max: Affliction Theory Rhinestone Black T-Shirt $64.95. Long sleeves on the page ran $44.95–$59.95, inside the range. Brands seen: West Coast Choppers, Affliction, VLONE, DGK, Shaka Wear, Santa Cruz, Brooklyn Projects, A.LAB, ITA, SAD BOYZ, Welcome, Vitriol, Cookies, Midnight Organic, Primitive, Porfa."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.zumiez.com/",
+    "https://www.zumiez.com/about",
+    "https://www.zumiez.com/how-do-i-get-free-shipping",
+    "https://www.zumiez.com/help/returns-exchanges",
+    "https://www.zumiez.com/stores/list",
+    "https://www.zumiez.com/mens/tops/t-shirts.html",
+    "https://www.zumiez.com/shaka-wear-max-heavyweight-black-t-shirt.html",
+    "https://www.zumiez.com/santa-cruz-x-pokemon-power-dot-black-t-shirt.html",
+    "https://en.wikipedia.org/wiki/Zumiez"
+  ],
+  "notes": [
+    "2026-10-29 (zumiez page run): homepage title 'Zumiez - Clothing Stores for Skate shoes, Skateboards, Snowboards, & Streetwear'; nav Deals, New Arrivals, Men, Women, Kids, Shoes, Accessories, Skate, Snow, Gift Cards, Brands, Sale; banner 'Free Shipping on Orders Over $64.94'. known_for is built from that title.",
+    "About page: founded 'in Seattle in 1978 by Tom Campion' as 'a single store called Above the Belt'; 'over 700+ stores across North America and Europe'; sells 'apparel, footwear, and accessories to skate hardgoods and lifestyle products'; describes itself as 'a global destination connecting young people with the products, brands, and lifestyles that help them individuate'. Names Ninth Hall, Pro Club and Sprayground among brands carried.",
+    "Shipping: free economy shipping on qualifying orders to the contiguous US over $64.94 (FedEx or USPS, 3–10 business days); Alaska, Hawaii and APO/FPO not eligible; free ship-to-store with no minimum; 3-Day Shipping $8.95 flat on orders $59.95+. International destinations pay 'standard international rates' (countries not named), so ships_to records only the US. A separate zumiez.ca site serves Canada.",
+    "Returns: full refund or exchange to the original payment within 30 days; after 30 days, a gift card. Mail-in returns pay their own postage ('Shipping costs are non-refundable'); returning in a store is described as 'the FAST and FREE way'.",
+    "Store list (zumiez.com/stores/list, 'All Zumiez Stores', by US state): e.g. California 85, Florida 36, Colorado 20, Georgia 17, Illinois 15 (read through Missouri; page truncated). us_stores true.",
+    "Sizes: Shaka Wear Max Heavyweight tee XS–3XL in the selector (size chart lists 4XL, 5XL); Santa Cruz x Pokémon Power Dot tee S–XXL ($31.95, 100% cotton). size_range detail: men's tees XS–3XL, varies by brand.",
+    "Wikipedia (Zumiez): founded 1978, first store at Seattle's Northgate Mall as 'Above the Belt'; founders Thomas D. Campion and Gary Haakenson; HQ Lynnwood, Washington (moved from Everett in 2012); Nasdaq: ZUMZ, public since 2005; acquired Blue Tomato (2012) and Fast Times (2015); 726 stores at Feb 3, 2018 (608 US, 52 Canada, 54 Europe, 12 Australia); infobox 739 worldwide (604 US) for 2021.",
+    "Category: mens-clothing (department). Zumiez is a multi-brand store (kind retailer); Men's Clothing is the department its SERPs surface (zumiez.com/mens.html is a sitelink on 'stores like zumiez' and ranks #10 for 'brands like zumiez'; 'Graphic Tees' is a sitelink). Like-for-like item: men's T-shirts."
+  ],
+  "checked_at": "2026-10-29"
+}

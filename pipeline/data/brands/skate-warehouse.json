@@ -1,0 +1,57 @@
+{
+  "slug": "skate-warehouse",
+  "name": "Skate Warehouse",
+  "website_url": "https://www.skatewarehouse.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Skate Decks, Shoes and Clothing",
+  "hq_country": "US",
+  "founded_year": 2003,
+  "parent_company": null,
+  "size_range": "SM–XXL in tees",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": false,
+  "free_shipping_min_usd": 60,
+  "returns_days": 60,
+  "sells_categories": [
+    "mens-clothing"
+  ],
+  "prices": [
+    {
+      "category": "mens-clothing",
+      "currency": "USD",
+      "min": 14.95,
+      "max": 50.0,
+      "min_usd": 14.95,
+      "max_usd": 50.0,
+      "fx_date": null,
+      "item_count": 119,
+      "source_url": "https://www.skatewarehouse.com/tees.html",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: men's T-shirts. Full Skate T-Shirts listing as served (119 products), read with curl (StylodexBot UA); every tile shows a single price, no markdowns (clearance is a separate department). Min: Pro Club Heavyweight T-Shirt (Black, White) $14.95, then Independent Bar Logo T-Shirt $19.95; max: Polar Contrast T-Shirt $50.00 and Vans Rowan Z Stripe T-Shirt $50.00. Baker tees (Stamp Mode, Problem Child, My Evil Wingman) $39.99. Meta: tees 'from brands like Thrasher, Independent, Santa Cruz, Brixton, RVCA and more'."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.skatewarehouse.com/",
+    "https://www.skatewarehouse.com/tees.html",
+    "https://www.skatewarehouse.com/SupportCenter/Shipping/",
+    "https://www.skatewarehouse.com/SupportCenter/AboutUs/",
+    "https://www.skatewarehouse.com/Baker_Stamp_Mode_T-Shirt/descpage-BKSMWTS.html?color=WH"
+  ],
+  "notes": [
+    "2026-10-29 (zumiez page run): homepage title 'Skate Warehouse | Best Selection of Skate Decks, Complete Skateboards, Skate Shoes, Clothing and More'; nav Skateboards, Trucks, Wheels, Bearings, Griptape, Parts, Shoes, Clothing, Accessories, Protective Gear; banner 'Free Shipping Over $60' and 'Free 60 Day Returns'. known_for from the title.",
+    "Shipping page: 'free shipping on orders over $60 delivering to physical addresses within the 48 contiguous United States', typically 1–5 business days; orders over 10 lbs excluded; has an International Shipping section (countries not read), so ships_to records the US only. Returns: 'can be returned within 60 days of the original purchase'; 'Free return shipping is available for all orders shipped within the 48 contiguous United States' with a pre-paid label in the box.",
+    "About page: 'Since taking our first internet order in 2003'; the only retail location is San Luis Obispo, CA, 'Retail Pickup ONLY', so us_stores false (online store). Footer links sister sites under 'Other Sports Warehouse Websites' (Tennis Warehouse, Pickleball Warehouse); no parent company named, parent_company left empty.",
+    "Sizes: tee tiles list SM, MD, LG, XL, XXL; Baker Stamp Mode Tee in MD–XXL."
+  ],
+  "checked_at": "2026-10-29"
+}

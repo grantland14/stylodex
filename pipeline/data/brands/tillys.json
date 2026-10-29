@@ -27,6 +27,19 @@
       "source_url": "https://www.tillys.com/women/clothing/jeans/",
       "checked_at": "2026-10-29",
       "note": "Women's jeans page, WebFetch 2026-10-29: 12 products in the embedded item list, none marked down ('Buy 1, Get 1 50% off' on RSQ is a promotion, not a markdown): RSQ Low Rise Bootcut $49.99, RSQ Low Rise Baggy $54.99, Levi's Superlow Loose $74.99, Miss Me X Pocket Mid Rise Bootcut $89.99, Levi's Premium 501 '90s Loose $109.99. A sample: the page states no total."
+    },
+    {
+      "category": "mens-clothing",
+      "currency": "USD",
+      "min": 29.99,
+      "max": 45.0,
+      "min_usd": 29.99,
+      "max_usd": 45.0,
+      "fx_date": null,
+      "item_count": 14,
+      "source_url": "https://www.tillys.com/men/clothing/t-shirts/",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: men's short-sleeve T-shirts. A small sample: the 12 products in the embedded item list of Men > T-Shirts plus 2 more from Men > T-Shirts > Graphic Tees (https://www.tillys.com/men/clothing/t-shirts/graphic-tees/), read with WebFetch (curl gets 403). No crossed-out prices or sale labels. Excluded: RSQ Mens Washed Boxy Thermal $29.99, West Coast Choppers Camo Fill Long Sleeve 2fer $44.99, Rip Curl Archive Sandman Long Sleeve $39.99. Min: RSQ Mens Seamed Shrunken Tee and Brixton Regal Mens Tee $29.99; max: The North Face Retro Trail Mens Tee $45.00. Others: Pokémon & Santa Cruz Power Dot Mens Tee $31.99, Mr. Grinch / Toyota Supra / Twilight / UFC Hasbulla boxy tees $34.99, The North Face Monte Mens Tee $35.00, Rip Curl Archive 69 Panel Boxy Tee $39.99. Menu promos: 'Graphic Tees 2 for $35' (men)."
     }
   ],
   "materials": [],
@@ -34,13 +47,22 @@
   "sources": [
     "https://www.tillys.com/",
     "https://www.tillys.com/women/clothing/jeans/",
-    "https://www.sec.gov/Archives/edgar/data/1524025/000162828025017352/tlys-20250201.htm"
+    "https://www.sec.gov/Archives/edgar/data/1524025/000162828025017352/tlys-20250201.htm",
+    "https://www.tillys.com/men/clothing/t-shirts/",
+    "https://www.tillys.com/men/clothing/t-shirts/graphic-tees/",
+    "https://www.tillys.com/cs-help-shipping.html",
+    "https://www.tillys.com/cs-help-returns-exchanges.html",
+    "https://www.tillys.com/about/",
+    "https://en.wikipedia.org/wiki/Tilly%27s"
   ],
   "checked_at": "2026-10-29",
   "notes": [
-    "2026-10-29: homepage title 'Tillys | Men, Women and Kids' Clothing & Shoe Store'; banner 'FREE SHIPPING on orders over $70*'. Size filters on women's jeans: XS–XL, 0–13, 23–33. Form 10-K (year ended Feb 1, 2025): 240 stores in 33 states; HQ Irvine, California; founded 1982 in Orange County; sells to customers 'in all 50 states and the District of Columbia'; RSQ, its own 'denim, apparel, accessories and fragrance brand', was its top seller at 23% of net sales. Returns terms not read (shipping-info URL 404), so returns_days empty."
+    "2026-10-29: homepage title 'Tillys | Men, Women and Kids' Clothing & Shoe Store'; banner 'FREE SHIPPING on orders over $70*'. Size filters on women's jeans: XS–XL, 0–13, 23–33. Form 10-K (year ended Feb 1, 2025): 240 stores in 33 states; HQ Irvine, California; founded 1982 in Orange County; sells to customers 'in all 50 states and the District of Columbia'; RSQ, its own 'denim, apparel, accessories and fragrance brand', was its top seller at 23% of net sales. Returns terms not read (shipping-info URL 404), so returns_days empty.",
+    "2026-10-29 (zumiez page run, C mens-clothing = men's tees): men's tee size filter XS, S, M, L, XL, XXL, XXXL, XXXXL, 5XL. Shipping page: 'FREE SHIPPING on orders over $70*' (not valid to Alaska and Hawaii); Ground $10.95 and Economy $7.95 up to $70; 'Sorry, we are temporarily not shipping internationally.' Returns page: 'Returns are accepted within 30 days of package order date or store purchase date'; 'A return fee of $6.95 will be charged when you create a return label'; online orders can be returned to a Tillys store for free. About page: 'Since 1982'; 'With stores in 32 states' (mobile version says 33). Wikipedia: founded 1982 in Los Alamitos, California as 'World of Jeans and Tops' by Hezy Shaked and Tilly Levine; HQ Irvine; NYSE: TLYS; store brands RSQ and Blue Crown; sells clothing, shoes and accessories for surfing, skateboarding, snowboarding and motocross."
   ],
   "sells_categories": [
-    "jeans"
-  ]
+    "jeans",
+    "mens-clothing"
+  ],
+  "returns_days": 30
 }

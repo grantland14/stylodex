@@ -1,0 +1,52 @@
+{
+  "slug": "foot-locker",
+  "name": "Foot Locker",
+  "website_url": "https://www.footlocker.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Sneakers and Apparel",
+  "hq_country": "US",
+  "founded_year": 1974,
+  "parent_company": null,
+  "size_range": null,
+  "ships_to": [],
+  "us_stores": true,
+  "free_shipping_min_usd": null,
+  "returns_days": null,
+  "sells_categories": [
+    "mens-clothing"
+  ],
+  "prices": [
+    {
+      "category": "mens-clothing",
+      "currency": "USD",
+      "min": 35.0,
+      "max": 60.0,
+      "min_usd": 35.0,
+      "max_usd": 60.0,
+      "fx_date": null,
+      "item_count": 9,
+      "source_url": "https://www.footlocker.com/category/mens/clothing/t-shirts.html",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: men's T-shirts. A small sample: the 32 products embedded in the default first page of Men's T-shirts (totalResults 1,381), read with curl (StylodexBot UA); query-string sort URLs returned a different (shoe) listing. 23 of the 32 had a sale price below originalPrice and are excluded; the 9 at full price: Nike Air Futura, Futura Block and Max 90 Air T-Shirts $35, Nike NSW Swoosh Chase Loose $37, Nike Graffiti $42, Jordan Chest Stretch OS Short Sleeve Crew and Jordan 1991 Air Jordan 4 Boxy $45, Nike Knicks Icon $55, Nike Knicks Pregame $60."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.footlocker.com/",
+    "https://www.footlocker.com/category/mens/clothing/t-shirts.html",
+    "https://stores.footlocker.com/",
+    "https://www.footlocker.com/help",
+    "https://en.wikipedia.org/wiki/Foot_Locker"
+  ],
+  "notes": [
+    "2026-10-29 (zumiez page run): homepage title 'Sneakers, Apparel & More | Foot Locker'; known_for from that title. Men's clothing nav: Fleece, Hoodies, Jackets, Pants, Shorts, T-shirts.",
+    "Store locator stores.footlocker.com lists locations by US state, e.g. 'California (68)', 'Florida (54)', 'Georgia (22)': us_stores true.",
+    "Shipping and returns not stored: footlocker.com/help says only 'Free standard shipping and returns' for FLX Rewards members; its domestic shipping link redirects to a Zendesk page that returns 403, and the returns category page had no policy text. ships_to and returns_days left empty.",
+    "Wikipedia (Foot_Locker): brand dates to September 12, 1974; HQ 112 West 34th Street, Manhattan; Dick's Sporting Goods announced the $2.4 billion acquisition in May 2025 and completed it in September 2025; 2,523 stores (2023), mostly in malls in the US, Canada, Europe and Asia; sells 'footwear, sportswear, urban youth apparel and accessories'; nearly 70% of products from Nike."
+  ],
+  "checked_at": "2026-10-29"
+}

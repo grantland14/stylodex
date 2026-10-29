@@ -1,0 +1,30 @@
+{
+  "slug": "vans",
+  "name": "Vans",
+  "website_url": "https://www.vans.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Skate Shoes and Youth Culture Apparel",
+  "hq_country": "US",
+  "founded_year": 1966,
+  "parent_company": "VF Corporation",
+  "ships_to": [],
+  "us_stores": true,
+  "sells_categories": [
+    "mens-clothing"
+  ],
+  "prices": [],
+  "sources": [
+    "https://www.vans.com/en-us",
+    "https://www.vfc.com/brands/vans",
+    "https://locations.vans.com/en-us/",
+    "https://locations.vans.com/en-us/ca/los-angeles/"
+  ],
+  "notes": [
+    "2026-10-29 (zumiez page run): vans.com/en-us returned HTTP 403 to WebFetch and to curl (StylodexBot UA), one try each, no workaround: no prices, sizes, shipping or returns stored.",
+    "Parent company's official site (vfc.com/brands/vans, enrich.md §2 parent rule): 'Founded 1966'; 'Primary Products Youth Culture Inspired Footwear, Apparel, Accessories'; 'the original action sports footwear company'; links Vans.com. Status verified and sells_categories mens-clothing (apparel) rest on this page. known_for paraphrases its primary-products line.",
+    "Vans' own store locator (locations.vans.com) lists 'Vans Stores and Dealers' by US state; the Los Angeles page names 'Vans Store - Westfield Century City, 10250 Santa Monica Blvd'. us_stores true.",
+    "Also sold by picks on this page: Skate Warehouse lists the Vans Rowan Z Stripe T-Shirt at $50.00 (skatewarehouse.com/tees.html, 2026-10-29)."
+  ],
+  "checked_at": "2026-10-29"
+}

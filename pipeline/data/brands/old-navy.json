@@ -11,7 +11,9 @@
     "Shipping (cid=3019 'Everyday Free Shipping'): 'Free shipping on all Rewards Members' orders of $50 or more'; members' orders under $50 ship for $7; 'Qualifying items ship for $9 for all nonmember orders'; valid for orders 'shipped anywhere in the U.S. (including Puerto Rico)'; 'one combined shopping bag for Old Navy, Athleta, Gap, and Banana Republic'. free_shipping_min_usd 50 is the rewards-member threshold (membership is free to join).",
     "Returns (how_to_return_or_exchange and returns_faq JSON the returns page loads): '30 Days to Return or Exchange', from delivery (online) or purchase (store); Premier members up to 45 days, All-Access Cardmembers up to 60 days (merchandise credit after 30); holiday purchases Oct 15-Dec 24 returnable through Jan 15; 'Free returns on all orders' by prepaid UPS label or in store; final sale items excluded.",
     "gapinc.com Old Navy page: 'Old Navy opened its first store in Colma, California on March 19,1994'; '1200+ stores'; 'fabulous, affordable fashion for everyone'. Wikipedia infobox: HQ San Francisco; founded March 11, 1994; parent Gap Inc.; 1,142 locations (dates differ by 8 days; founded_year 1994 either way).",
-    "sale_pattern detail: 274 of the 330 women's jeans colorways read carried an app-only extra 20% off; 56 were marked down (priceType M)."
+    "sale_pattern detail: 274 of the 330 women's jeans colorways read carried an app-only extra 20% off; 56 were marked down (priceType M).",
+    "2026-10-29 (zumiez page run, C mens-clothing): homepage nav includes Men; meta: 'Shop men's, women's, women's plus, kids', baby and maternity wear. We also offer big and tall sizes for adults and extended sizes for kids.' Men's product grids load by script, so no men's tee price is stored; sells_categories mens-clothing rests on the homepage nav and meta. Store locator (oldnavy.gap.com/stores) browses stores by US state (Alabama through Wyoming).",
+    "known_for shortened by the coordinator so the page title reads cleanly (was: Affordable Clothing for the Family)."
   ],
   "sources": [
     "https://oldnavy.gap.com/",
@@ -26,13 +28,14 @@
     "https://en.wikipedia.org/wiki/Old_Navy"
   ],
   "checked_at": "2026-10-29",
-  "known_for": "Affordable Clothing for the Family",
+  "known_for": "Affordable Family Clothing",
   "parent_company": "Gap Inc.",
   "us_stores": true,
   "size_range": "00–30; petite and tall",
   "hq_country": "US",
   "sells_categories": [
-    "jeans"
+    "jeans",
+    "mens-clothing"
   ],
   "founded_year": 1994,
   "has_plus": true,

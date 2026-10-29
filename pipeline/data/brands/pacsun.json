@@ -2,14 +2,28 @@
   "slug": "pacsun",
   "name": "PacSun",
   "website_url": "https://www.pacsun.com",
-  "status": "unverified",
+  "status": "verified",
   "kind": "retailer",
   "notes": [
-    "2026-10-29: pacsun.com homepage 'Access to this page has been denied' (403) to a plain request; /womens/jeans/ HTTP 403 to WebFetch. No workaround. Sells its own PacSun label and other brands, so kind=retailer."
+    "2026-10-29: pacsun.com homepage 'Access to this page has been denied' (403) to a plain request; /womens/jeans/ HTTP 403 to WebFetch. No workaround. Sells its own PacSun label and other brands, so kind=retailer.",
+    "2026-10-29 (zumiez page run): pacsun.com homepage served normally to a plain request with the StylodexBot UA (title 'Pacsun | Denim, Streetwear, & Everyday Essentials'; meta 'Pacsun is the go-to for the latest baggy jeans, hoodies, graphic tees, swimwear, and more... FREE shipping on orders over $59!'). Nav links Men's Graphic Tees (/mens/graphic-tees/), Oversized, Long Sleeve Tees. Shipping fine print: 'Free standard shipping on jeans, pants, or orders over $59. U.S. only. Shipments to AK, HI, PR and Military APO/FPO do not qualify for free shipping. Offer subject to change.' Status set to verified from the live store. /mens/graphic-tees/ returned 'Access to this page has been denied' (PerimeterX, 403) to curl and 403 to WebFetch, one try each, no workaround: no men's tee price stored. Returns terms not read.",
+    "Wikipedia (PacSun): founded 1980 by Jack Hopkins and Tom Moore (infobox: Newport Beach, California), roots in 'a small surf shop in Seal Beach, California'; HQ Anaheim, California; privately held, owned by Golden Gate Capital after a 2016 Chapter 11 restructuring; 325 stores in 46 states (dated 2025 in text, May 2022 in infobox)."
   ],
   "sources": [
     "https://www.pacsun.com/",
-    "https://www.pacsun.com/womens/jeans/"
+    "https://www.pacsun.com/womens/jeans/",
+    "https://www.pacsun.com/mens/graphic-tees/",
+    "https://en.wikipedia.org/wiki/PacSun"
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "known_for": "Denim, Streetwear and Everyday Essentials",
+  "hq_country": "US",
+  "founded_year": 1980,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 59,
+  "sells_categories": [
+    "mens-clothing"
+  ]
 }
