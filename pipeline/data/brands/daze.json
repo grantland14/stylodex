@@ -1,0 +1,56 @@
+{
+  "slug": "daze",
+  "name": "Daze",
+  "website_url": "https://dazedenim.com",
+  "status": "verified",
+  "kind": "brand",
+  "materials": [],
+  "certifications": [],
+  "checked_at": "2026-10-29",
+  "known_for": "Premium Women's Jeans",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "W23–W33 (US 0–16)",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 140,
+  "returns_days": 15,
+  "production_model": null,
+  "sale_pattern": null,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 88,
+      "max": 128,
+      "min_usd": 88,
+      "max_usd": 128,
+      "fx_date": null,
+      "item_count": 35,
+      "source_url": "https://dazedenim.com/collections/denim/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "35 regular-price denim pants (product_type DENIM PANTS) of 108 products served by the denim collection; 29 with compare_at above price excluded. Fits by name: wide, flare, barrel, straight, skinny, palazzo, cargo harem; waists 23–33."
+    }
+  ],
+  "sources": [
+    "https://dazedenim.com/",
+    "https://dazedenim.com/collections/denim/products.json?limit=250",
+    "https://dazedenim.com/pages/shipping",
+    "https://dazedenim.com/policies/refund-policy",
+    "https://dazedenim.com/pages/size-guide",
+    "https://dazedenim.com/pages/about-us",
+    "https://dazedenim.com/cart.js"
+  ],
+  "notes": [
+    "Homepage title: 'Daze Denim | Premium Women’s Jeans, Apparel & Outerwear'; meta: 'Premium denim with superior stretch, expert washes, and tailored fits'.",
+    "Shipping page: 'Daze Denim currently only ships to USA.' Flat $9.32 FedEx 2Day under $140; free over $140 (banner 'Free shipping on orders $140+').",
+    "Returns: postmarked within 15 days of delivery; refunds carry a $10 return label fee, waived for store credit; FINAL SALE items not returnable.",
+    "HQ not stated as such: the only address is the contact address 2211 E 27th St, Vernon, CA 90058; hq_country US from that and US-only shipping. About page is empty.",
+    "Size guide: denim sizes 23–33 (numeric 0–16), waist 24.5–36 in; no petite/tall/plus mentioned."
+  ]
+}

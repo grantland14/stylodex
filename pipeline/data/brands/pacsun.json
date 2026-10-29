@@ -1,0 +1,15 @@
+{
+  "slug": "pacsun",
+  "name": "PacSun",
+  "website_url": "https://www.pacsun.com",
+  "status": "unverified",
+  "kind": "retailer",
+  "notes": [
+    "2026-10-29: pacsun.com homepage 'Access to this page has been denied' (403) to a plain request; /womens/jeans/ HTTP 403 to WebFetch. No workaround. Sells its own PacSun label and other brands, so kind=retailer."
+  ],
+  "sources": [
+    "https://www.pacsun.com/",
+    "https://www.pacsun.com/womens/jeans/"
+  ],
+  "checked_at": "2026-10-29"
+}

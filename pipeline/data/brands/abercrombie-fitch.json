@@ -1,0 +1,55 @@
+{
+  "slug": "abercrombie-fitch",
+  "name": "Abercrombie & Fitch",
+  "website_url": "https://www.abercrombie.com/shop/us",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": null,
+  "hq_country": "US",
+  "founded_year": 1892,
+  "parent_company": "Abercrombie & Fitch Co.",
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 99,
+  "returns_days": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 70,
+      "max": 200,
+      "min_usd": 70,
+      "max_usd": 200,
+      "fx_date": null,
+      "item_count": 86,
+      "source_url": "https://www.abercrombie.com/shop/us/womens-dresses-and-jumpsuits",
+      "checked_at": "2026-10-29",
+      "note": "Read with WebFetch in two passes (page 1 of 2): 90 tiles, of which 2 are not dresses and 2 marked down (was $85 now $51, was $220 now $110); 86 regular-price dress/jumpsuit tiles at $70–$200, many colour repeats. Includes the YPB activewear sub-line (mini dresses at $70–$85). Highest: 100% Cotton Lace-Trim Slash Midi Dress $200."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.abercrombie.com/shop/us/womens-dresses-and-jumpsuits",
+    "https://www.abercrombie.com/shop/CustomerService?pageName=sale-terms&storeId=10051&textKey=LEGAL_SALES_TERMS&catalogId=10901&langId=-1",
+    "https://www.abercrombie.com/shop/us/help/online-return-exchange-policy",
+    "https://en.wikipedia.org/wiki/Abercrombie_%26_Fitch",
+    "https://www.abercrombie.com/shop/us",
+    "https://www.abercrombie.com/shop/us/womens-jeans",
+    "https://corporate.abercrombie.com/about-us/our-brands/"
+  ],
+  "notes": [
+    "Sale terms page (timestamped Thu Oct 29 2026): 'Free Standard Shipping and Handling On All Orders Over $99', orders shipped within the U.S. or Canada via Standard Ground.",
+    "Returns page rendered only an error ('A required part of this site couldn't load'); a search snippet mentions 30 days but that isn't stored. returns_days empty.",
+    "Wikipedia: headquartered in New Albany, Ohio; founded 1892 in Manhattan; NYSE: ANF; YPB (Your Personal Best) is one of its offshoot brands."
+  ],
+  "checked_at": "2026-10-29"
+}

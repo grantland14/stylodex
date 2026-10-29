@@ -1,0 +1,60 @@
+{
+  "slug": "afends",
+  "name": "AFENDS",
+  "website_url": "https://afends.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Organic Hemp Fashion and Streetwear",
+  "hq_country": "AU",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XXXS–XXL (US 2–10 for XS–XL)",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "AU",
+    "CA",
+    "GB",
+    "US"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "AUD",
+      "min": 109.99,
+      "max": 159.99,
+      "min_usd": 77.35,
+      "max_usd": 112.52,
+      "fx_date": "2026-10-28",
+      "item_count": 44,
+      "source_url": "https://afends.com/collections/womens-dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "44 regular-price, in-stock dresses of 156 (106 marked down, 6 sold out). By title: 22 mini, 18 maxi, 4 midi; many seersucker, plus chambray, knit, mesh and one cupro. Store base currency AUD (cart.js); the site has a US/USD region selector. Converted at ECB 2026-10-28."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": "Refunds only on full-price items; sale items not refundable unless faulty.",
+  "sources": [
+    "https://afends.com/",
+    "https://afends.com/collections/womens-dresses/products.json?limit=250",
+    "https://afends.com/cart.js",
+    "https://afends.com/pages/shipping",
+    "https://afends.com/policies/refund-policy",
+    "https://afends.com/pages/size-guide",
+    "https://afends.com/collections.json?limit=250",
+    "https://afends.com/collections/womens-jeans/products.json?limit=250",
+    "https://us.afends.com/collections.json?limit=250"
+  ],
+  "notes": [
+    "Homepage title: 'AFENDS Official - Byron Bay Clothing & Fashion Label'; meta: 'an alternative Byron Bay Clothing & Fashion Brand leading the way in Organic Hemp fashion and Mens & Womens Streetwear.'",
+    "Shipping page: US standard 12+ business days, 'ORDERS OVER $150 USD - FREE', under $150 USD $17.50 USD; also ships to Canada, the UK and Australia.",
+    "Returns: 30 days from delivery; refunds only on full-priced items; one free size exchange per order on full-priced items.",
+    "Size guide (women's tops and dresses): XS–XL = AU/UK 6–14 = US 2–10. Dress feed sizes run XXXS–XXL."
+  ],
+  "checked_at": "2026-10-29"
+}

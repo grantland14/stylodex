@@ -67,17 +67,19 @@ export function pickProblems(anchor: Brand, pick: SimilarPick, category: string,
   if (pair.evidence.length === 0) problems.push("no outside evidence");
   if (!pair.reason || pair.reason.trim().length < MIN_REASON_CHARS) problems.push("no specific reason");
   if (!pair.body) problems.push("no body");
-  // The US is the main market: a pick US readers can't order from isn't an alternative for them.
-  if (!brand.shipsTo.includes("US")) problems.push("doesn't ship to the US");
+  // The US is the main market: a pick must ship to the US or have US stores to walk into.
+  if (!brand.shipsTo.includes("US") && !brand.usStores) problems.push("not available in the US");
 
   const anchorPrice = priceFor(anchor, category);
   const pickPrice = priceFor(brand, category);
-  if (!pickPrice) {
+  // Sells the category: a price from its own store, or (walk-in chains with no online prices)
+  // an official source confirming it, recorded in sellsCategories.
+  if (!pickPrice && !brand.sellsCategories.includes(category)) {
     problems.push(`doesn't sell ${category}`);
-  } else if (anchorPrice && pair.priceRelation !== computePriceRelation(anchorPrice, pickPrice)) {
+  } else if (anchorPrice && pickPrice && pair.priceRelation !== computePriceRelation(anchorPrice, pickPrice)) {
     problems.push("price label doesn't match stored prices");
-  } else if (!anchorPrice && pair.priceRelation) {
-    problems.push("price label without an anchor price");
+  } else if ((!anchorPrice || !pickPrice) && pair.priceRelation) {
+    problems.push("price label without both prices");
   }
 
   return problems;

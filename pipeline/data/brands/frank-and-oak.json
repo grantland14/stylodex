@@ -1,0 +1,55 @@
+{
+  "slug": "frank-and-oak",
+  "name": "Frank And Oak",
+  "website_url": "https://frankandoak.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Essential Clothing Designed for Better Living",
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XXS–XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "CA",
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 15,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "CAD",
+      "min": 159.0,
+      "max": 165.0,
+      "min_usd": 113.2,
+      "max_usd": 117.47,
+      "fx_date": "2026-10-28",
+      "item_count": 2,
+      "source_url": "https://frankandoak.com/collections/womens-dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Only 2 dresses in the collection, both regular price: City Dress and Polo Sweater Dress. Vendor field reads 'ThreadC'. Store base currency CAD (cart.js); converted at ECB 2026-10-28."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": "All purchases made during sale events since April 2, 2025 are final sale.",
+  "sources": [
+    "https://frankandoak.com/",
+    "https://frankandoak.com/collections/womens-dresses/products.json?limit=250",
+    "https://frankandoak.com/cart.js",
+    "https://frankandoak.com/policies/shipping-policy",
+    "https://frankandoak.com/policies/refund-policy",
+    "https://frankandoak.com/pages/our-story",
+    "https://frankandoak.com/pages/shipping"
+  ],
+  "notes": [
+    "Homepage title 'Frank And Oak | Essential Clothing Designed for Better Living'; meta: 'Frank And Oak returns with clarity and intention: focused on craftsmanship, natural fibers, and the dependable essentials that defined us from day one.'",
+    "Our Story and Shipping pages render no text to WebFetch; HQ and founding year not stored (Wikipedia URL 404).",
+    "Shipping policy: free standard shipping over $99, else $10; currency not stated, so free_shipping_min_usd is empty. Refund policy: free return shipping within Canada and the US; 15 days from shipping to request a label for a refund. ships_to CA, US from the refund policy."
+  ],
+  "checked_at": "2026-10-29"
+}

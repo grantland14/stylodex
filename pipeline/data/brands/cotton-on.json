@@ -1,0 +1,50 @@
+{
+  "slug": "cotton-on",
+  "name": "Cotton On",
+  "website_url": "https://cottonon.com/US/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": null,
+  "hq_country": "AU",
+  "founded_year": 1991,
+  "parent_company": "Cotton On Group",
+  "size_range": "Women's US 0–20; Petite and Curvy jeans ranges",
+  "has_plus": null,
+  "has_petite": true,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": null,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 69.99,
+      "max": 79.99,
+      "min_usd": 69.99,
+      "max_usd": 79.99,
+      "fx_date": null,
+      "item_count": 35,
+      "source_url": "https://cottonon.com/US/co/women/women-clothing/womens-jeans/",
+      "checked_at": "2026-10-29",
+      "note": "35 tiles visible of 220 women's jeans the page reports; none show an original or sale price: 26 at $69.99, 9 at $79.99. Styles: low rise straight and wide, mid rise barrel and bootcut, 91 Straight, Curvy Stretch Wide, Petite low rise straight/wide and Petite mid rise bootcut."
+    }
+  ],
+  "sources": [
+    "https://cottonon.com/US/",
+    "https://cottonon.com/US/co/women/women-clothing/womens-jeans/",
+    "https://cottonon.com/US/information-about-returns.html",
+    "https://cottonon.com/US/size-guide.html",
+    "https://en.wikipedia.org/wiki/Cotton_On_Group"
+  ],
+  "notes": [
+    "US store title: 'Women's Men's & Kids Clothing & Accessories | Cotton On USA'. No short positioning line found, so known_for is empty.",
+    "Site banner on the US store: 'Free delivery on orders $75+'. Standard rate not stated.",
+    "Returns page: 'No expiration on returns!': eligible items can be returned at any time with proof of purchase, in original condition; return shipping free within the country of purchase; original delivery fees not refunded on change-of-mind returns. returns_days left empty because there is no day limit.",
+    "Size guide: women's US 0–20 (3XS–5XL). Jeans menu has Petite Jeans and Curvy Fit Jeans; petite tiles say 'Shorter Front Rise & Inseam'; some curvy tiles say 'Gap-proof Waist'.",
+    "Wikipedia: Cotton On Group founded 1991 by Nigel Austin, HQ Geelong, Australia, private company."
+  ],
+  "checked_at": "2026-10-29"
+}

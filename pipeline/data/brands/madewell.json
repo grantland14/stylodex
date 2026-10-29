@@ -33,6 +33,32 @@
       "source_url": "https://www.madewell.com/womens/clothing/jeans/",
       "checked_at": "2026-10-29",
       "note": "Like-for-like item: women's jeans. The page says 89 products but serves 48 tiles (same 48 with ?page=2), so the range covers 48 of 89: 44 at $148, 2 at $158, 1 at $168, 1 at $198 (Madewell x Kaihara Low-Rise Slim Jean). No struck-through or sale prices; each tile carries a promo-code line ('Up to 30% off with code REFRESH'), which is not a markdown. All listed jeans are Madewell's own label."
+    },
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 118,
+      "max": 168,
+      "min_usd": 118,
+      "max_usd": 168,
+      "fx_date": null,
+      "item_count": 14,
+      "source_url": "https://www.madewell.com/womens/clothing/dresses",
+      "checked_at": "2026-10-29",
+      "note": "Read with WebFetch: 17 listings rendered (total count not shown, so this may be the first page only). 14 Madewell dresses at $118–$168 with no markdowns; excluded The Reissue Denim Overalls ($158) and two third-party brands sold on the page (LESET $650, Banjanan $400). A promo code 'up to 30% off with code REFRESH' is not a markdown."
+    },
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 148,
+      "max": 198,
+      "min_usd": 148,
+      "max_usd": 198,
+      "fx_date": null,
+      "item_count": 48,
+      "source_url": "https://www.madewell.com/womens/clothing/jeans/",
+      "checked_at": "2026-10-29",
+      "note": "Same page and day as the womens-clothing entry (48 of 89 tiles served: 44 at $148, 2 at $158, 1 at $168, 1 at $198). The hollister run read 36 tiles at https://www.madewell.com/womens/clothing/jeans, all full price, $148–$158. No markdowns; 'Up to 30% off with code REFRESH' is a promo code, not a markdown. About page (https://www.madewell.com/c/about-madewell/, read 2026-10-29): calls Madewell a 'premium denim brand' whose 'story begins with denim'; 'Introduced in 2006'; Denim Atelier one-on-one fit and tailoring, free in-store hemming for Insiders."
     }
   ],
   "materials": [],
@@ -48,7 +74,12 @@
     "https://www.madewell.com/c/international-orders/",
     "https://www.madewell.com/c/size-chart/",
     "https://www.madewell.com/womens/denim/",
-    "https://en.wikipedia.org/wiki/Madewell"
+    "https://en.wikipedia.org/wiki/Madewell",
+    "https://www.madewell.com/womens/clothing/dresses",
+    "https://www.madewell.com/shipping-and-returns.html",
+    "https://www.madewell.com/size-charts.html",
+    "https://www.madewell.com/dresses-SizeChart.html",
+    "https://www.madewell.com/c/about-madewell/"
   ],
   "notes": [
     "kind=retailer: besides its own label, the 'Labels We Love' directory ('Exclusive collabs and favorite finds from around the world') lists 37 outside labels, including Birkenstock, Veja, New Balance, Teva, Onitsuka Tiger, Golde and Clem Swimwear.",

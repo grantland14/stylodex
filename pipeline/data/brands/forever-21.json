@@ -1,0 +1,58 @@
+{
+  "slug": "forever-21",
+  "name": "Forever 21",
+  "website_url": "https://forever21.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Standout Fashion at Unbeatable Value",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–XXL; Plus section",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 50,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 24.99,
+      "max": 24.99,
+      "min_usd": 24.99,
+      "max_usd": 24.99,
+      "fx_date": null,
+      "item_count": 6,
+      "source_url": "https://forever21.com/collections/women-dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Only 6 of 103 dresses carry no markdown (92 have a compare-at price above the selling price or a sale tag, 5 not dresses). All 6 are $24.99. The marked-down dresses sell from $14.98."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": "92 of 103 dresses were marked down on 2026-10-29; clearance and Final Sale items can't be returned.",
+  "sources": [
+    "https://forever21.com/",
+    "https://forever21.com/collections/women-dresses/products.json?limit=250",
+    "https://forever21.com/cart.js",
+    "https://forever21.com/policies/shipping-policy",
+    "https://forever21.com/policies/refund-policy",
+    "https://en.wikipedia.org/wiki/Forever_21",
+    "https://www.forever21.com/",
+    "https://www.forever21.com/collections.json?limit=250",
+    "https://www.forever21.com/collections/womens-denim/products.json?limit=250",
+    "https://www.forever21.com/collections/mens-denim/products.json?limit=250"
+  ],
+  "notes": [
+    "Homepage mission: 'LA-born and style-obsessed, we empower self-expression through standout fashion at unbeatable value.' Slogan 'FASHION IS FOR EVERYONE.' Nav includes Dresses and Plus.",
+    "Shipping: 'Currently, we ship only to all 50 states of the U.S.' Standard $9.99, free on orders of $50 or more (Forever 21 merchandise); express $20.99.",
+    "Returns: refund within 30 days of receipt; $9.99 return shipping fee per return; Final Sale and clearance items non-returnable. Policy pages carry '© 2025 Brands Online, LLC'.",
+    "Wikipedia: founded in Los Angeles in 1984; filed Chapter 11 on 17 March 2025 and closed all US stores by 1 May 2025; Authentic Brands Group owns the IP; relaunch announced September 2025 as an online retailer. The page's operator is not named beyond the Brands Online, LLC copyright, so parent_company is empty."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "old-navy",
+  "name": "Old Navy",
+  "website_url": "https://oldnavy.gap.com",
+  "status": "verified",
+  "kind": "brand",
+  "notes": [
+    "2026-10-29: store live (title 'Old Navy | Affordable Clothing for Women, Men, Kids & Baby'); women's jeans page (cid=85729) says jeans come in 'sizes 00-30, petite and tall' with a 'Jeans from $25' link, but the product grid loads by script ('0 of 0 items'), so no item prices were readable. No jeans price row."
+  ],
+  "sources": [
+    "https://oldnavy.gap.com/",
+    "https://oldnavy.gap.com/browse/women/jeans?cid=85729"
+  ],
+  "checked_at": "2026-10-29"
+}

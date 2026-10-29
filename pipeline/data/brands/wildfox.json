@@ -1,0 +1,14 @@
+{
+  "slug": "wildfox",
+  "name": "Wildfox",
+  "website_url": "https://wildfox.com",
+  "status": "off_category",
+  "kind": "brand",
+  "notes": [
+    "2026-10-29: Shopify collections.json (107 collections) has no jeans or denim collection."
+  ],
+  "sources": [
+    "https://wildfox.com/collections.json?limit=250"
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "honest-basics",
+  "name": "Honest Basics",
+  "website_url": "https://honest-basics.com",
+  "status": "off_category",
+  "kind": "brand",
+  "known_for": null,
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [],
+  "free_shipping_min_usd": null,
+  "returns_days": null,
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://honestbasics.com/products.json?limit=250",
+    "https://honest-basics.com/products.json?limit=250",
+    "https://honest-basics.com/cart.js"
+  ],
+  "notes": [
+    "honestbasics.com serves a parked-domain redirect ('/lander'); the store is honest-basics.com (EUR). Its full catalog (62 products, one page) has product types Jeans, Joggers, Knits, Socks, Sweaters, T-Shirts, Tops, Underwear and Gift Cards: no dresses (2026-10-29)."
+  ],
+  "checked_at": "2026-10-29"
+}

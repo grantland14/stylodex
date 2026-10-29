@@ -1,0 +1,56 @@
+{
+  "slug": "storets",
+  "name": "Storets",
+  "website_url": "https://storets.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Sophisticated Fun",
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "S–L; S/M, M/L",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "GB",
+    "CA"
+  ],
+  "free_shipping_min_usd": 200,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 34.9,
+      "max": 128.9,
+      "min_usd": 34.9,
+      "max_usd": 128.9,
+      "fx_date": null,
+      "item_count": 24,
+      "source_url": "https://storets.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "24 regular-price STORETS-label dress listings (12 styles, colour repeats) of 86 in the collection; excluded 23 marked down, 'STORETS SALE' vendor items, one third-party vendor (vitaliia), a dress-and-jacket set and non-dresses. Lowest Alena Knitted Tube Dress $34.90, highest Luna Tailored Blazer Dress $128.90."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://storets.com/",
+    "https://storets.com/pages/about-us",
+    "https://storets.com/pages/faq",
+    "https://storets.com/pages/shipping-rates-by-country",
+    "https://storets.com/collections/dresses/products.json?limit=250",
+    "https://storets.com/policies/shipping-policy",
+    "https://storets.com/policies/refund-policy"
+  ],
+  "notes": [
+    "About page: 'Storets was born from a desire to offer trendy, stylish, high quality fashion that doesn't break your wallet... We offer only in-house designs or carefully selected fashion items from cutting edge labels... We call this \"Sophisticated Fun\"!' Mostly own label in the dress feed (vendor STORETS).",
+    "FAQ: 'We ship worldwide via DHL Express from South Korea.' HQ isn't stated, so hq_country is empty.",
+    "Shipping: free worldwide over USD $200; US from USD $14.99 by weight; STORETS pays US duties and taxes. Returns: request within 14 days of delivery; customer pays return shipping; no direct exchanges."
+  ],
+  "checked_at": "2026-10-29"
+}

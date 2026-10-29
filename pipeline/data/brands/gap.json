@@ -1,0 +1,33 @@
+{
+  "slug": "gap",
+  "name": "Gap",
+  "website_url": "https://www.gap.com",
+  "status": "unverified",
+  "kind": "brand",
+  "known_for": null,
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [],
+  "free_shipping_min_usd": null,
+  "returns_days": null,
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.gap.com/browse/women/dresses?cid=13658",
+    "https://www.gap.com/",
+    "https://www.gap.com/browse/women/jeans?cid=5664",
+    "https://www.gap.com/browse/category.do?cid=5664"
+  ],
+  "notes": [
+    "https://www.gap.com/browse/women/dresses?cid=13658 loaded with '0 of 0 items' (product grid didn't render) to WebFetch on 2026-10-29. Status unverified; nothing else stored."
+  ],
+  "checked_at": "2026-10-29"
+}

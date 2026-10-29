@@ -1,0 +1,15 @@
+{
+  "slug": "levis",
+  "name": "Levi's",
+  "website_url": "https://www.levi.com",
+  "status": "unverified",
+  "kind": "brand",
+  "notes": [
+    "2026-10-29: levi.com/US/en_US/ HTTP 403 to a plain request; women's jeans page HTTP 403 to WebFetch (Retry-After 10800). No workaround."
+  ],
+  "sources": [
+    "https://www.levi.com/US/en_US/",
+    "https://www.levi.com/US/en_US/clothing/women/jeans/c/levi_clothing_women_jeans"
+  ],
+  "checked_at": "2026-10-29"
+}

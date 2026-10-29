@@ -1,0 +1,1853 @@
+{
+  "subject": "Urban Outfitters",
+  "slug": "urban-outfitters",
+  "url_prefix": "stores",
+  "category": {
+    "slug": "womens-clothing",
+    "name": "Women's Clothing",
+    "why": "Urban Outfitters is a multi-brand store (run-page.md Retailers), so C is the department its 'stores like' searches are about. Of the readable SERP pages for the four keywords, the women's-fashion lists (I AM & CO, Yahoo Creators, Good On You, Stylewise, Eco-Stylist) outnumber the one men's list (Effortless Gent) and the one home list (MyDomaine, dropped); Ahrefs also ranks urbanoutfitters.com/womens-clothing at #10 for 'urban outfitters alternatives'. Like-for-like item for prices: women's jeans, the item every verified pick sells (Shopbop Jeans, Madewell Women's Jeans, ModCloth Denim, Revolve Denim). The anchor's own jeans price could not be read (403)."
+  },
+  "checked_at": "2026-10-29",
+  "fx": null,
+  "serp": [
+    {
+      "keyword": "stores like urban outfitters",
+      "position": 1,
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/x4za9e/are_there_any_clothes_brands_that_are_like_urban/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "stores like urban outfitters",
+      "position": 1,
+      "url": "https://www.thredup.com/bg/p/stores-like-urban-outfitters",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch (2026-10-29); not read, no workaround"
+    },
+    {
+      "keyword": "stores like urban outfitters",
+      "position": 1,
+      "url": "https://www.mydomaine.com/urban-outfitters-home",
+      "kept": false,
+      "why_dropped": "about Urban Outfitters Home (home-decor stores); C is womens-clothing, so its picks aren't alternatives in this category. Not used."
+    },
+    {
+      "keyword": "stores like urban outfitters",
+      "position": 1,
+      "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters",
+      "kept": true,
+      "why_dropped": null,
+      "note": "AI overview sitelink + organic #3"
+    },
+    {
+      "keyword": "stores like urban outfitters",
+      "position": 1,
+      "url": "https://www.quora.com/What-are-cheaper-stores-like-Urban-Outfitters",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch (2026-10-29); not read, no workaround, no brands taken"
+    },
+    {
+      "keyword": "stores like urban outfitters",
+      "position": 1,
+      "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html",
+      "kept": true,
+      "why_dropped": null,
+      "note": "AI overview sitelink. Lindsey Puls (Have Clothes, Will Travel), September 27, 2025; 24 stores"
+    },
+    {
+      "keyword": "stores like urban outfitters",
+      "position": 2,
+      "url": "https://www.urbanoutfitters.com/",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "stores like urban outfitters",
+      "position": 3,
+      "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters",
+      "kept": true,
+      "why_dropped": null,
+      "note": "20 stores; no author or date on the page"
+    },
+    {
+      "keyword": "stores like urban outfitters",
+      "position": 5,
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/1k8ds5/stores_like_free_people_or_urban_outfitters_but/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "stores like urban outfitters",
+      "position": 5,
+      "url": "https://www.reddit.com/r/ethicalfashion/comments/msuls6/urban_outfitters_uk_alternatives/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "stores like urban outfitters",
+      "position": 6,
+      "url": "https://www.thredup.com/bg/p/stores-like-urban-outfitters",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch (2026-10-29); not read, no workaround"
+    },
+    {
+      "keyword": "stores like urban outfitters",
+      "position": 7,
+      "url": "https://effortlessgent.com/stores-like-urban-outfitters/",
+      "kept": true,
+      "why_dropped": null,
+      "note": "Beau Hayhoe, July 23, 2021 (updated August 16, 2023); men's list, 11 stores"
+    },
+    {
+      "keyword": "stores like urban outfitters",
+      "position": 8,
+      "url": "https://www.quora.com/What-are-cheaper-stores-like-Urban-Outfitters",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch (2026-10-29); not read, no workaround, no brands taken"
+    },
+    {
+      "keyword": "stores like urban outfitters",
+      "position": 8,
+      "url": "https://www.quora.com/What-are-some-online-clothing-stores-similar-to-Urban-Outfitters",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch (2026-10-29); not read, no workaround, no brands taken"
+    },
+    {
+      "keyword": "stores like urban outfitters",
+      "position": 8,
+      "url": "https://www.quora.com/What-are-some-good-apartment-accessory-stores-like-Urban-Outfitters",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch (2026-10-29); not read, no workaround, no brands taken; also about home accessories"
+    },
+    {
+      "keyword": "stores like urban outfitters",
+      "position": 9,
+      "url": "https://www.mydomaine.com/urban-outfitters-home",
+      "kept": false,
+      "why_dropped": "about Urban Outfitters Home (home-decor stores); C is womens-clothing, so its picks aren't alternatives in this category. Not used."
+    },
+    {
+      "keyword": "stores like urban outfitters",
+      "position": 10,
+      "url": "https://www.whowhatwear.com/stores-like-urban-outfitters",
+      "kept": false,
+      "why_dropped": "read 2026-10-29: page text is 87 characters (title '10 Stores Like Urban Outfitters | Who What Wear' only); body didn't load, no brands taken"
+    },
+    {
+      "keyword": "brands like urban outfitters",
+      "position": 1,
+      "url": "https://www.thredup.com/bg/p/stores-like-urban-outfitters",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch (2026-10-29); not read, no workaround"
+    },
+    {
+      "keyword": "brands like urban outfitters",
+      "position": 1,
+      "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters",
+      "kept": true,
+      "why_dropped": null
+    },
+    {
+      "keyword": "brands like urban outfitters",
+      "position": 1,
+      "url": "https://www.whowhatwear.com/stores-like-urban-outfitters",
+      "kept": false,
+      "why_dropped": "read 2026-10-29: page text is 87 characters (title '10 Stores Like Urban Outfitters | Who What Wear' only); body didn't load, no brands taken"
+    },
+    {
+      "keyword": "brands like urban outfitters",
+      "position": 2,
+      "url": "https://www.urbanoutfitters.com/",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "brands like urban outfitters",
+      "position": 4,
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/x4za9e/are_there_any_clothes_brands_that_are_like_urban/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "brands like urban outfitters",
+      "position": 4,
+      "url": "https://www.reddit.com/r/ethicalfashion/comments/msuls6/urban_outfitters_uk_alternatives/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "brands like urban outfitters",
+      "position": 4,
+      "url": "https://www.reddit.com/r/frugalmalefashion/comments/2htrue/stores_like_urban_outfitters_but_more_affordable/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "brands like urban outfitters",
+      "position": 5,
+      "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters",
+      "kept": true,
+      "why_dropped": null
+    },
+    {
+      "keyword": "brands like urban outfitters",
+      "position": 6,
+      "url": "https://www.reddit.com/r/frugalmalefashion/comments/2htrue/stores_like_urban_outfitters_but_more_affordable/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "brands like urban outfitters",
+      "position": 6,
+      "url": "https://www.quora.com/What-are-cheaper-stores-like-Urban-Outfitters",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch (2026-10-29); not read, no workaround, no brands taken"
+    },
+    {
+      "keyword": "brands like urban outfitters",
+      "position": 6,
+      "url": "https://www.quora.com/What-are-some-good-apartment-accessory-stores-like-Urban-Outfitters",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch (2026-10-29); not read, no workaround, no brands taken"
+    },
+    {
+      "keyword": "brands like urban outfitters",
+      "position": 7,
+      "url": "https://www.eco-stylist.com/sustainable-and-ethical-alternatives-to-urban-outfitters/",
+      "kept": true,
+      "why_dropped": null,
+      "note": "Bella Tabor, Eco-Stylist, August 11, 2025 (updated June 23, 2026); 10 sustainable brands"
+    },
+    {
+      "keyword": "brands like urban outfitters",
+      "position": 8,
+      "url": "https://effortlessgent.com/stores-like-urban-outfitters/",
+      "kept": true,
+      "why_dropped": null
+    },
+    {
+      "keyword": "brands like urban outfitters",
+      "position": 9,
+      "url": "https://www.mydomaine.com/urban-outfitters-home",
+      "kept": false,
+      "why_dropped": "about Urban Outfitters Home (home-decor stores); C is womens-clothing, so its picks aren't alternatives in this category. Not used."
+    },
+    {
+      "keyword": "brands like urban outfitters",
+      "position": 10,
+      "url": "https://www.whowhatwear.com/stores-like-urban-outfitters",
+      "kept": false,
+      "why_dropped": "read 2026-10-29: page text is 87 characters (title '10 Stores Like Urban Outfitters | Who What Wear' only); body didn't load, no brands taken"
+    },
+    {
+      "keyword": "urban outfitters alternatives",
+      "position": 1,
+      "url": "https://www.thredup.com/bg/p/stores-like-urban-outfitters",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch (2026-10-29); not read, no workaround"
+    },
+    {
+      "keyword": "urban outfitters alternatives",
+      "position": 1,
+      "url": "https://www.mydomaine.com/urban-outfitters-home",
+      "kept": false,
+      "why_dropped": "about Urban Outfitters Home (home-decor stores); C is womens-clothing, so its picks aren't alternatives in this category. Not used."
+    },
+    {
+      "keyword": "urban outfitters alternatives",
+      "position": 1,
+      "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters",
+      "kept": true,
+      "why_dropped": null
+    },
+    {
+      "keyword": "urban outfitters alternatives",
+      "position": 1,
+      "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html",
+      "kept": true,
+      "why_dropped": null
+    },
+    {
+      "keyword": "urban outfitters alternatives",
+      "position": 2,
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/x4za9e/are_there_any_clothes_brands_that_are_like_urban/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "urban outfitters alternatives",
+      "position": 2,
+      "url": "https://www.reddit.com/r/ethicalfashion/comments/msuls6/urban_outfitters_uk_alternatives/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "urban outfitters alternatives",
+      "position": 2,
+      "url": "https://www.reddit.com/r/frugalmalefashion/comments/2htrue/stores_like_urban_outfitters_but_more_affordable/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "urban outfitters alternatives",
+      "position": 3,
+      "url": "https://www.thredup.com/bg/p/stores-like-urban-outfitters",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch (2026-10-29); not read, no workaround"
+    },
+    {
+      "keyword": "urban outfitters alternatives",
+      "position": 4,
+      "url": "https://goodonyou.eco/sustainable-alternatives-urban-outfitters/",
+      "kept": true,
+      "why_dropped": null,
+      "note": "Solene Rauturier, Good On You, 25 May 2023; 10 sustainable brands"
+    },
+    {
+      "keyword": "urban outfitters alternatives",
+      "position": 5,
+      "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters",
+      "kept": true,
+      "why_dropped": null
+    },
+    {
+      "keyword": "urban outfitters alternatives",
+      "position": 7,
+      "url": "https://www.reddit.com/r/frugalmalefashion/comments/2htrue/stores_like_urban_outfitters_but_more_affordable/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "urban outfitters alternatives",
+      "position": 7,
+      "url": "https://www.quora.com/What-are-cheaper-stores-like-Urban-Outfitters",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch (2026-10-29); not read, no workaround, no brands taken"
+    },
+    {
+      "keyword": "urban outfitters alternatives",
+      "position": 7,
+      "url": "https://www.quora.com/What-are-some-online-clothing-stores-similar-to-Urban-Outfitters",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch (2026-10-29); not read, no workaround, no brands taken"
+    },
+    {
+      "keyword": "urban outfitters alternatives",
+      "position": 8,
+      "url": "https://stylewise-blog.com/ethical-alternatives-to-urban-outfitters/",
+      "kept": true,
+      "why_dropped": null,
+      "note": "Leah Wise, Stylewise, March 11, 2023 (updated August 24, 2024); 7 brands"
+    },
+    {
+      "keyword": "urban outfitters alternatives",
+      "position": 9,
+      "url": "https://www.mydomaine.com/urban-outfitters-home",
+      "kept": false,
+      "why_dropped": "about Urban Outfitters Home (home-decor stores); C is womens-clothing, so its picks aren't alternatives in this category. Not used."
+    },
+    {
+      "keyword": "urban outfitters alternatives",
+      "position": 10,
+      "url": "https://www.urbanoutfitters.com/womens-clothing",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "similar to urban outfitters",
+      "position": 1,
+      "url": "https://www.thredup.com/bg/p/stores-like-urban-outfitters",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch (2026-10-29); not read, no workaround"
+    },
+    {
+      "keyword": "similar to urban outfitters",
+      "position": 1,
+      "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters",
+      "kept": true,
+      "why_dropped": null
+    },
+    {
+      "keyword": "similar to urban outfitters",
+      "position": 1,
+      "url": "https://www.quora.com/What-are-cheaper-stores-like-Urban-Outfitters",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch (2026-10-29); not read, no workaround, no brands taken"
+    },
+    {
+      "keyword": "similar to urban outfitters",
+      "position": 2,
+      "url": "https://www.urbanoutfitters.com/",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "similar to urban outfitters",
+      "position": 4,
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/x4za9e/are_there_any_clothes_brands_that_are_like_urban/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "similar to urban outfitters",
+      "position": 4,
+      "url": "https://www.reddit.com/r/ethicalfashion/comments/msuls6/urban_outfitters_uk_alternatives/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "similar to urban outfitters",
+      "position": 4,
+      "url": "https://www.reddit.com/r/maximalism/comments/1ix45sl/looking_for_an_online_home_goods_store_similar_to/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken; also about home goods"
+    },
+    {
+      "keyword": "similar to urban outfitters",
+      "position": 5,
+      "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters",
+      "kept": true,
+      "why_dropped": null
+    },
+    {
+      "keyword": "similar to urban outfitters",
+      "position": 6,
+      "url": "https://www.reddit.com/r/maximalism/comments/1ix45sl/looking_for_an_online_home_goods_store_similar_to/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "similar to urban outfitters",
+      "position": 6,
+      "url": "https://www.quora.com/What-are-cheaper-stores-like-Urban-Outfitters",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch (2026-10-29); not read, no workaround, no brands taken"
+    },
+    {
+      "keyword": "similar to urban outfitters",
+      "position": 6,
+      "url": "https://www.quora.com/What-are-some-online-clothing-stores-similar-to-Urban-Outfitters",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch (2026-10-29); not read, no workaround, no brands taken"
+    },
+    {
+      "keyword": "similar to urban outfitters",
+      "position": 7,
+      "url": "https://effortlessgent.com/stores-like-urban-outfitters/",
+      "kept": true,
+      "why_dropped": null
+    },
+    {
+      "keyword": "similar to urban outfitters",
+      "position": 8,
+      "url": "https://www.mydomaine.com/urban-outfitters-home",
+      "kept": false,
+      "why_dropped": "about Urban Outfitters Home (home-decor stores); C is womens-clothing, so its picks aren't alternatives in this category. Not used."
+    },
+    {
+      "keyword": "similar to urban outfitters",
+      "position": 9,
+      "url": "https://www.thredup.com/bg/p/stores-like-urban-outfitters",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch (2026-10-29); not read, no workaround"
+    },
+    {
+      "keyword": "similar to urban outfitters",
+      "position": 10,
+      "url": "https://www.whowhatwear.com/stores-like-urban-outfitters",
+      "kept": false,
+      "why_dropped": "read 2026-10-29: page text is 87 characters (title '10 Stores Like Urban Outfitters | Who What Wear' only); body didn't load, no brands taken"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": "n/a",
+      "url": null,
+      "used": false,
+      "why": "§1 4b applies to a brand sold by a multi-brand retailer; the anchor is itself the retailer, so there is no co-stocking evidence to gather. urbanoutfitters.com returned 403 anyway."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "ASOS",
+      "slug": "asos",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "PacSun",
+      "slug": "pacsun",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html"
+        }
+      ]
+    },
+    {
+      "name": "Anthropologie",
+      "slug": "anthropologie",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html"
+        }
+      ]
+    },
+    {
+      "name": "Free People",
+      "slug": "free-people",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html"
+        }
+      ]
+    },
+    {
+      "name": "Forever 21",
+      "slug": "forever-21",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html"
+        }
+      ]
+    },
+    {
+      "name": "American Eagle",
+      "slug": "american-eagle",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html"
+        }
+      ]
+    },
+    {
+      "name": "Lucky Brand",
+      "slug": "lucky-brand",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html"
+        }
+      ]
+    },
+    {
+      "name": "& Other Stories",
+      "slug": "other-stories",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html"
+        }
+      ]
+    },
+    {
+      "name": "Mango",
+      "slug": "mango",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html"
+        }
+      ]
+    },
+    {
+      "name": "Reformation",
+      "slug": "reformation",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html"
+        }
+      ]
+    },
+    {
+      "name": "Topshop",
+      "slug": "topshop",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html"
+        }
+      ]
+    },
+    {
+      "name": "Revolve",
+      "slug": "revolve",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html"
+        }
+      ]
+    },
+    {
+      "name": "Shopbop",
+      "slug": "shopbop",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html"
+        }
+      ]
+    },
+    {
+      "name": "Madewell",
+      "slug": "madewell",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html"
+        }
+      ]
+    },
+    {
+      "name": "ModCloth",
+      "slug": "modcloth",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html"
+        }
+      ]
+    },
+    {
+      "name": "Lulus",
+      "slug": "lulus",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html"
+        }
+      ]
+    },
+    {
+      "name": "Boohoo",
+      "slug": "boohoo",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html"
+        }
+      ]
+    },
+    {
+      "name": "Nasty Gal",
+      "slug": "nasty-gal",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html"
+        }
+      ]
+    },
+    {
+      "name": "Shein",
+      "slug": "shein",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "H&M",
+      "slug": "h-and-m",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html"
+        }
+      ]
+    },
+    {
+      "name": "PrettyLittleThing",
+      "slug": "prettylittlething",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html"
+        }
+      ]
+    },
+    {
+      "name": "Everlane",
+      "slug": "everlane",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html"
+        }
+      ]
+    },
+    {
+      "name": "Salty Crush",
+      "slug": "salty-crush",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html"
+        }
+      ]
+    },
+    {
+      "name": "Romwe",
+      "slug": "romwe",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "Planet Blue",
+      "slug": "planet-blue",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters"
+        }
+      ]
+    },
+    {
+      "name": "Need Supply Co.",
+      "slug": "need-supply-co",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters"
+        }
+      ]
+    },
+    {
+      "name": "American Apparel",
+      "slug": "american-apparel",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters"
+        }
+      ]
+    },
+    {
+      "name": "J Brand",
+      "slug": "j-brand",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters"
+        }
+      ]
+    },
+    {
+      "name": "Miss Selfridge",
+      "slug": "miss-selfridge",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters"
+        }
+      ]
+    },
+    {
+      "name": "Wildfox",
+      "slug": "wildfox",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters"
+        }
+      ]
+    },
+    {
+      "name": "Amour Vert",
+      "slug": "amour-vert",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters"
+        }
+      ]
+    },
+    {
+      "name": "Frank And Oak",
+      "slug": "frank-and-oak",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "Brandy Melville",
+      "slug": "brandy-melville",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-urban-outfitters"
+        }
+      ]
+    },
+    {
+      "name": "boohooMAN",
+      "slug": "boohooman",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "FEAT",
+      "slug": "feat",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "JackThreads",
+      "slug": "jackthreads",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "UNIQLO",
+      "slug": "uniqlo",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "Superdry",
+      "slug": "superdry",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "Old Navy",
+      "slug": "old-navy",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "Topman",
+      "slug": "topman",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "Known Supply",
+      "slug": "known-supply",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/sustainable-and-ethical-alternatives-to-urban-outfitters/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://stylewise-blog.com/ethical-alternatives-to-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "Outerknown",
+      "slug": "outerknown",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/sustainable-and-ethical-alternatives-to-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "Boyish",
+      "slug": "boyish",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/sustainable-and-ethical-alternatives-to-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "Subset",
+      "slug": "subset",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/sustainable-and-ethical-alternatives-to-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "Ten Thousand Villages",
+      "slug": "ten-thousand-villages",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/sustainable-and-ethical-alternatives-to-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "Astor & Orion",
+      "slug": "astor-and-orion",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/sustainable-and-ethical-alternatives-to-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "prAna",
+      "slug": "prana",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/sustainable-and-ethical-alternatives-to-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "Kotn",
+      "slug": "kotn",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/sustainable-and-ethical-alternatives-to-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "Toad&Co",
+      "slug": "toadandco",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/sustainable-and-ethical-alternatives-to-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "Marimekko",
+      "slug": "marimekko",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/sustainable-and-ethical-alternatives-to-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "Afends",
+      "slug": "afends",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/sustainable-alternatives-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "Plant Faced Clothing",
+      "slug": "plant-faced-clothing",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/sustainable-alternatives-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "Yes And",
+      "slug": "yes-and",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/sustainable-alternatives-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "The Common Good Company",
+      "slug": "the-common-good-company",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/sustainable-alternatives-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "Whimsy + Row",
+      "slug": "whimsy-row",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/sustainable-alternatives-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "WAWWA",
+      "slug": "wawwa",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/sustainable-alternatives-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "Christy Dawn",
+      "slug": "christy-dawn",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/sustainable-alternatives-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "MUD Jeans",
+      "slug": "mud-jeans",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/sustainable-alternatives-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "WIILDS",
+      "slug": "wiilds",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/sustainable-alternatives-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "Phyne",
+      "slug": "phyne",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/sustainable-alternatives-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "Lisa Says Gah",
+      "slug": "lisa-says-gah",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://stylewise-blog.com/ethical-alternatives-to-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "Big Bud Press",
+      "slug": "big-bud-press",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://stylewise-blog.com/ethical-alternatives-to-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "LOTI",
+      "slug": "loti",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://stylewise-blog.com/ethical-alternatives-to-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "Valani",
+      "slug": "valani",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://stylewise-blog.com/ethical-alternatives-to-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "Tamga Designs",
+      "slug": "tamga-designs",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://stylewise-blog.com/ethical-alternatives-to-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "Kindom",
+      "slug": "kindom",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://stylewise-blog.com/ethical-alternatives-to-urban-outfitters/"
+        }
+      ]
+    },
+    {
+      "name": "Dolls Kill",
+      "slug": "dollskill",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Karmaloop",
+      "slug": "karmaloop",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Shop Wasteland",
+      "slug": "shop-wasteland",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Hot Topic",
+      "slug": "hot-topic",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Garage",
+      "slug": "garage",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Urban Planet",
+      "slug": "urban-planet",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Princess Polly",
+      "slug": "princess-polly",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Tobi",
+      "slug": "tobi",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Cotton On",
+      "slug": "cotton-on",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "River Island",
+      "slug": "river-island",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Aritzia",
+      "slug": "aritzia",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Gap",
+      "slug": "gap",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Grailed",
+      "slug": "grailed",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Stüssy",
+      "slug": "stussy",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Carhartt WIP",
+      "slug": "carhartt-wip",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Lazy Oaf",
+      "slug": "lazy-oaf",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Rokit",
+      "slug": "rokit",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Jaded London",
+      "slug": "jaded-london",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Charlotte Russe",
+      "slug": "charlotte-russe",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Missguided",
+      "slug": "missguided",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Spencer's",
+      "slug": "spencer-s",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Claire's",
+      "slug": "claire-s",
+      "in_apart_pool": true,
+      "sources": []
+    }
+  ],
+  "picks": [
+    {
+      "slug": "shopbop",
+      "rank": 1,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 78,
+        "max": 1550,
+        "min_usd": 78,
+        "max_usd": 1550,
+        "fx_date": null,
+        "item_count": 946
+      },
+      "price_relation": null,
+      "reason": "Shopbop stocks 946 regular-price women's jeans from 78 labels at $78–$1,550, ships free in the US with no minimum and takes returns for 30 days.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html",
+          "note": "#21: \"a wide range of trendy and also classic clothing\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "madewell",
+      "rank": 2,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 148,
+        "max": 198,
+        "min_usd": 148,
+        "max_usd": 198,
+        "fx_date": null,
+        "item_count": 48
+      },
+      "price_relation": null,
+      "reason": "Madewell sells its own jeans ($148–$198 across 48 listed styles) next to 37 outside labels in its Labels We Love edit, in Petite, Tall and Plus 14W–24W fits.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html",
+          "note": "#3: \"best known for their killer jeans,\" plus dresses, shoes, and candles"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "modcloth",
+      "rank": 3,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 72.6,
+        "max": 86.6,
+        "min_usd": 72.6,
+        "max_usd": 86.6,
+        "fx_date": null,
+        "item_count": 20
+      },
+      "price_relation": null,
+      "reason": "ModCloth mixes outside labels with its own collaborations, and its regular-price jeans are Dangerfield styles at $72.60–$86.60 with free US shipping over $150.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html",
+          "note": "#13: \"more vintage and retro than UO,\" with some similar items"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "revolve",
+      "rank": 4,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": null,
+      "price_relation": null,
+      "reason": "Revolve sells designer denim labels such as AGOLDE, FRAME and Citizens of Humanity, lists 5,735 women's denim items, and offers free US shipping and returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://creators.yahoo.com/lifestyle/story/the-best-stores-like-urban-outfitters-to-shop-now-155002471.html",
+          "note": "#9: \"a wide variety of styles and brands\""
+        }
+      ],
+      "gate_gaps": [
+        "price:womens-clothing",
+        "hq_country",
+        "image_url"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "asos",
+      "why": "unverified: asos.com/us/ returned HTTP 503 twice (2026-10-29). Multi-brand store with 3 sources (I AM & CO, Yahoo Creators, Effortless Gent): first in the human-check queue. Note: jaded-london.json called ASOS a marketplace; its main store sells ASOS's own label plus other brands, which is a retailer."
+    },
+    {
+      "slug": "pacsun",
+      "why": "unverified: pacsun.com returned HTTP 403 (2026-10-29). Multi-brand store, 2 sources (I AM & CO, Yahoo Creators); human check."
+    },
+    {
+      "slug": "anthropologie",
+      "why": "unverified: anthropologie.com returned HTTP 403 (2026-10-29). Multi-brand store and an Urban Outfitters, Inc. sister brand (Wikipedia), 2 sources; human check."
+    },
+    {
+      "slug": "free-people",
+      "why": "unverified: freepeople.com returned HTTP 403 (2026-10-29); also an Urban Outfitters, Inc. sister brand and mostly its own label (kind unconfirmed). 2 sources; human check."
+    },
+    {
+      "slug": "lulus",
+      "why": "unverified: lulus.com returned HTTP 403 (2026-10-29); whether it sells other labels is unconfirmed. 1 source."
+    },
+    {
+      "slug": "planet-blue",
+      "why": "defunct: shopplanetblue.com does not resolve (DNS failure on www and bare domain, 2026-10-29); Patch and Uncover LA (November 2020) reported it closing all stores. No other official presence found."
+    },
+    {
+      "slug": "need-supply-co",
+      "why": "defunct: needsupply.com shows no products, only '1996-2020'; Retail Dive (July 2020) reported a spokesperson confirming stores and online business would close for good."
+    },
+    {
+      "slug": "lisa-says-gah",
+      "why": "kind brand: lisasaysgah.com (fetched 2026-10-29) sells only Lisa Says Gah's own products; not a multi-brand store."
+    },
+    {
+      "slug": "kindom",
+      "why": "kind brand (KINdom, a small LA label per Eco-Stylist's directory); official site not found. Not a multi-brand store."
+    },
+    {
+      "slug": "jackthreads",
+      "why": "jackthreads.com returned HTTP 404 (2026-10-29); the only source lists it as a men's store, and C is womens-clothing."
+    },
+    {
+      "slug": "ten-thousand-villages",
+      "why": "off-category: the source recommends it for fair-trade gifts and home goods, not women's clothing."
+    },
+    {
+      "slug": "forever-21",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "american-eagle",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "lucky-brand",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "other-stories",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "mango",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "reformation",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "topshop",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "boohoo",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "nasty-gal",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "shein",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "h-and-m",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "prettylittlething",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "everlane",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "salty-crush",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "romwe",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "american-apparel",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "j-brand",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "miss-selfridge",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "wildfox",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "amour-vert",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "frank-and-oak",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "brandy-melville",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "boohooman",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "feat",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "uniqlo",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "superdry",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "old-navy",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "topman",
+      "why": "single-brand store (sells its own label, kind: brand per run-page.md Retailers); a stores page for a multi-brand store picks other multi-brand stores. Not fetched."
+    },
+    {
+      "slug": "known-supply",
+      "why": "single-label sustainable brand (the source describes it as a brand); not a multi-brand store. Not fetched."
+    },
+    {
+      "slug": "outerknown",
+      "why": "single-label sustainable brand (the source describes it as a brand); not a multi-brand store. Not fetched."
+    },
+    {
+      "slug": "boyish",
+      "why": "single-label sustainable brand (the source describes it as a brand); not a multi-brand store. Not fetched."
+    },
+    {
+      "slug": "subset",
+      "why": "single-label sustainable brand (the source describes it as a brand); not a multi-brand store. Not fetched."
+    },
+    {
+      "slug": "astor-and-orion",
+      "why": "single-label sustainable brand (the source describes it as a brand); not a multi-brand store. Not fetched."
+    },
+    {
+      "slug": "prana",
+      "why": "single-label sustainable brand (the source describes it as a brand); not a multi-brand store. Not fetched."
+    },
+    {
+      "slug": "kotn",
+      "why": "single-label sustainable brand (the source describes it as a brand); not a multi-brand store. Not fetched."
+    },
+    {
+      "slug": "toadandco",
+      "why": "single-label sustainable brand (the source describes it as a brand); not a multi-brand store. Not fetched."
+    },
+    {
+      "slug": "marimekko",
+      "why": "single-label sustainable brand (the source describes it as a brand); not a multi-brand store. Not fetched."
+    },
+    {
+      "slug": "afends",
+      "why": "single-label sustainable brand (the source describes it as a brand); not a multi-brand store. Not fetched."
+    },
+    {
+      "slug": "plant-faced-clothing",
+      "why": "single-label sustainable brand (the source describes it as a brand); not a multi-brand store. Not fetched."
+    },
+    {
+      "slug": "yes-and",
+      "why": "single-label sustainable brand (the source describes it as a brand); not a multi-brand store. Not fetched."
+    },
+    {
+      "slug": "the-common-good-company",
+      "why": "single-label sustainable brand (the source describes it as a brand); not a multi-brand store. Not fetched."
+    },
+    {
+      "slug": "whimsy-row",
+      "why": "single-label sustainable brand (the source describes it as a brand); not a multi-brand store. Not fetched."
+    },
+    {
+      "slug": "wawwa",
+      "why": "single-label sustainable brand (the source describes it as a brand); not a multi-brand store. Not fetched."
+    },
+    {
+      "slug": "christy-dawn",
+      "why": "single-label sustainable brand (the source describes it as a brand); not a multi-brand store. Not fetched."
+    },
+    {
+      "slug": "mud-jeans",
+      "why": "single-label sustainable brand (the source describes it as a brand); not a multi-brand store. Not fetched."
+    },
+    {
+      "slug": "wiilds",
+      "why": "single-label sustainable brand (the source describes it as a brand); not a multi-brand store. Not fetched."
+    },
+    {
+      "slug": "phyne",
+      "why": "single-label sustainable brand (the source describes it as a brand); not a multi-brand store. Not fetched."
+    },
+    {
+      "slug": "big-bud-press",
+      "why": "single-label sustainable brand (the source describes it as a brand); not a multi-brand store. Not fetched."
+    },
+    {
+      "slug": "loti",
+      "why": "single-label sustainable brand (the source describes it as a brand); not a multi-brand store. Not fetched."
+    },
+    {
+      "slug": "valani",
+      "why": "single-label sustainable brand (the source describes it as a brand); not a multi-brand store. Not fetched."
+    },
+    {
+      "slug": "tamga-designs",
+      "why": "single-label sustainable brand (the source describes it as a brand); not a multi-brand store. Not fetched."
+    },
+    {
+      "slug": "apart-style-pool",
+      "why": "Apart Style pool (public.brand_relationships for Urban Outfitters, Loungewear by UO, UO Men, UO Vintage, UO Collaborations; 130 rows): no pool brand has an outside source on this SERP except PacSun, Mango and American Eagle (covered above). Mostly single labels (Stüssy, OBEY, Carhartt WIP…); multi-brand pool stores without evidence: Dolls Kill, Karmaloop, Shop Wasteland, Hot Topic, Grailed (marketplace)."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "status / website_url",
+      "url": "https://www.urbanoutfitters.com/",
+      "check": "Open the store; confirm it is live and selling women's clothing. Every automated read returned HTTP 403 on 2026-10-29 (and on 2026-10-28 for the Jaded London run)."
+    },
+    {
+      "fact": "known_for",
+      "url": "https://www.urbanoutfitters.com/",
+      "check": "The store's own positioning line (title/tagline), ≤6 words, Title Case. Ahrefs shows the title as 'Urban Outfitters: Men's & Women's Clothing, Homeware & Decor' (unconfirmed)."
+    },
+    {
+      "fact": "price range for womens-clothing = women's jeans (regular price, USD)",
+      "url": "https://www.urbanoutfitters.com/womens-jeans",
+      "check": "Min and max of regular-price (not sale) women's jeans and how many items. Needed for every pick's price_relation."
+    },
+    {
+      "fact": "size_range (+ has_plus, has_petite, has_tall)",
+      "url": "https://www.urbanoutfitters.com/help/size-charts",
+      "check": "Women's size range and jeans waists; plus/petite/tall offered?"
+    },
+    {
+      "fact": "ships_to (US, CA, GB, AU) and free_shipping_min_usd",
+      "url": "https://www.urbanoutfitters.com/help/shipping-information",
+      "check": "US free-shipping threshold; whether it ships to CA, GB, AU."
+    },
+    {
+      "fact": "returns_days",
+      "url": "https://www.urbanoutfitters.com/help/returns",
+      "check": "US returns window in days."
+    },
+    {
+      "fact": "pick check: ASOS (3 sources)",
+      "url": "https://www.asos.com/us/women/jeans/cat/?cid=3630",
+      "check": "503 twice. Confirm live, regular-price women's jeans range (USD), sizes, US shipping and returns, HQ."
+    },
+    {
+      "fact": "pick check: PacSun (2 sources)",
+      "url": "https://www.pacsun.com/womens/jeans/",
+      "check": "403. Same facts as above; confirm it sells outside brands."
+    },
+    {
+      "fact": "pick check: Anthropologie (2 sources)",
+      "url": "https://www.anthropologie.com/jeans",
+      "check": "403. Same facts as above."
+    },
+    {
+      "fact": "pick check: Free People (2 sources)",
+      "url": "https://www.freepeople.com/jeans/",
+      "check": "403. Confirm whether it sells outside labels (kind) and the same facts."
+    },
+    {
+      "fact": "pick check: Lulus (1 source)",
+      "url": "https://www.lulus.com/categories/13_62/jeans.html",
+      "check": "403. Confirm whether it sells outside labels (kind) and the same facts."
+    },
+    {
+      "fact": "Revolve jeans price + hq_country",
+      "url": "https://www.revolve.com/jeans/br/2664ce/",
+      "check": "Sort by price in a browser; record min/max regular-price women's jeans and item count. HQ city/country from an official page (investor site lacks it)."
+    },
+    {
+      "fact": "Madewell jeans range covers 48 of 89",
+      "url": "https://www.madewell.com/womens/clothing/jeans/",
+      "check": "Scroll the full listing; confirm min/max regular price across all 89 ($148–$198 among the 48 served)."
+    }
+  ],
+  "notes": [
+    "Strict reading of run-page.md Retailers: picks are other multi-brand stores. Of 66 sourced candidates, 13 are multi-brand stores; 4 verified (Shopbop, Madewell, ModCloth, Revolve), 5 refused automated reads (ASOS, PacSun, Anthropologie, Free People, Lulus), 2 closed (Planet Blue, Need Supply Co.), 2 turned out to be single brands (Lisa Says Gah, KINdom). The other 51 are single-brand stores or labels, rejected by kind, not by evidence. The 10–15 target can't be met with real multi-brand picks from this SERP; the floor of 6 isn't met either.",
+    "If the owner decides single-brand chains count as 'stores like Urban Outfitters' (the SERP lists treat them that way: Free People, Forever 21, H&M, Mango, & Other Stories, American Eagle, Reformation…), 20+ sourced candidates are waiting, with Forever 21, American Eagle, Mango, & Other Stories, Reformation, Topshop, Lucky Brand (2 sources each) first.",
+    "Evidence: 6 editorial pages read (I AM & CO, Yahoo Creators, Effortless Gent, Eco-Stylist, Good On You, Stylewise). ThredUp and Quora 403; Who What Wear body empty; Reddit not fetched; MyDomaine dropped as a home-decor list. Every verified pick has one source (Yahoo Creators).",
+    "Prices: women's jeans as the like-for-like item. Shopbop: all 2,024 Jeans-category products read from embedded page data (sale and non-jeans titles excluded). ModCloth: Shopify products.json. Madewell: 48 of 89 served. Revolve: not stored (16 rendered of 5,735). Anchor price missing (403), so every price_relation is null.",
+    "Gate impact: anchor unverified (missing status, sizes, shipping, returns, price, image); 3 picks pass everything but image_url (coordinator's media step); Revolve also lacks price and hq_country."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "Urban Outfitters started in Philadelphia in 1970 and now sells women's and men's clothing, shoes, beauty, home goods and records, much of it under its own labels. The stores below each put many labels under one roof and ship to the US. A pair of women's jeans costs $72.60 at ModCloth and can reach $1,550 at Shopbop.",
+    "bodies": {
+      "shopbop": "Shopbop is the designer option. It stocks 946 regular-price women's jeans from 78 labels, with the most styles from MOTHER (70) and AGOLDE (63), starting at $78 for Free People. Denim waists run 22–38. Amazon has owned it since 2006. US shipping is free with no minimum, and returns are free if you drop them off within 15 days, then $10 up to day 30. Go here when you want to compare dozens of denim labels in one place.",
+      "madewell": "Madewell mixes its own label with 37 outside ones in its Labels We Love edit, including Birkenstock, Veja and New Balance. The '90s Jean and The Perfect Vintage Wide-Leg Jean cost $148, and depending on the style, fits include Petite, Tall, Curvy and Plus 14W–24W. It's part of J.Crew Group. Shipping is free only for Madewell Insider members (non-members pay $5–$7), and returns are open for 30 days.",
+      "modcloth": "ModCloth leans vintage. It started in a Pittsburgh dorm room in 2002 and now sells outside labels such as Princess Highway and Orchid Bloom alongside its own collaborations. Its regular-price jeans are all Dangerfield styles, many embroidered or printed, at $72.60–$86.60 in Australian sizes 4–20. Shipping is free over $150 within the contiguous US. Returns are open for 30 days, with a $14 fee unless you added Checkout+ to the order.",
+      "revolve": "Revolve, founded in 2003, is a designer store with 5,735 women's denim items, from labels such as AGOLDE, FRAME and Citizens of Humanity. Sizes run XXS–4X, or US 00 to 24–26. US shipping and returns are free, and you get 30 days for a refund or 60 for an exchange. It suits you if you want designer denim with free returns."
+    },
+    "faqs": [
+      {
+        "q": "Who owns Urban Outfitters?",
+        "a": "Urban Outfitters, Inc., a Philadelphia company listed on Nasdaq as URBN. The same company owns Anthropologie, Free People, Terrain and BHLDN.",
+        "source_query": "who owns urban outfitters"
+      },
+      {
+        "q": "What is Urban Outfitters?",
+        "a": "A Philadelphia-based store chain that sells women's and men's clothing, shoes, beauty, accessories, home goods and music, mainly vinyl records and cassettes. Much of its stock is made under its own labels.",
+        "source_query": "what is urban outfitters"
+      },
+      {
+        "q": "When was Urban Outfitters founded?",
+        "a": "In 1970, in Philadelphia, by Richard Hayne, Judy Wicks and Scott Belair. It opened as a store called Free People and took the Urban Outfitters name in 1976.",
+        "source_query": "when was urban outfitters founded"
+      }
+    ]
+  }
+}

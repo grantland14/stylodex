@@ -34,7 +34,7 @@
     "Returns: orders shipped on or after May 1, 2024: 30 days for a refund, 60 for an exchange; free prepaid return label for domestic orders.",
     "Size guide: XXS–4X, US 00 to 24–26; denim waist 24–25 in. to 47–48 in. No petite/tall/plus labels.",
     "Ships to: page lists no explicit destination countries (only exclusions), so only US is stored.",
-    "No jeans price stored: the Denim page (5,735 items) renders 16 products to WebFetch ($98–$278, none on sale) and ignores sortBy; a scripted request was refused (HTTP/2 stream reset), so no workaround. Human check queued."
+    "No jeans price stored: the Denim page (5,735 items, women's) renders 16 products to WebFetch and ignores sortBy; those 16 were AGOLDE, FRAME, Citizens of Humanity and Free People jeans at $98–$278, none on sale (too few to stand for the range). A scripted request was refused (HTTP/2 stream reset), so no workaround. Human check queued."
   ],
   "checked_at": "2026-10-29"
 }

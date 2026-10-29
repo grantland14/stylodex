@@ -34,9 +34,13 @@ source you fetched, with its URL. Nothing estimated, nothing from memory.
 ## Retailers and closed stores
 - Single-brand retailers (they sell their own label: Uniqlo, Old Navy, H&M) are `kind: brand`.
 - Multi-brand stores (TJ Maxx, Nordstrom, Urban Outfitters) are `kind: retailer`: C is the
-  department most of their searches are about (usually `womens-clothing`); picks are other stores
-  of the same type (off-price, department, multi-brand boutique), and prices compare a
-  like-for-like item the stores all sell (say which, in `category.why`).
+  department most of their searches are about (usually `womens-clothing`). Picks are the stores
+  outside sources name as alternatives: same-type stores first, and also discount department
+  stores, outlets and chains people shop for the same reason (Ash, 2026-10-29: "stores like TJ
+  Maxx" should list Ross, Burlington, Marshalls, Kohl's and the like). Store chains with US
+  stores count without online shipping. Prices compare a like-for-like item the stores all sell
+  (say which, in `category.why`); a store with no readable online prices can still be a pick,
+  shown without a price.
 - A closed store (`defunct`) can anchor a `stores` page: say how we know it closed; every pick
   must be live.
 

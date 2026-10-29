@@ -1,21 +1,40 @@
 {
   "slug": "other-uk",
-  "name": "Other UK",
+  "name": "OTHER",
   "website_url": "https://otheruk.com",
-  "status": "off_category",
+  "status": "verified",
   "kind": "brand",
-  "known_for": "Officially Licensed Rock Clothing",
+  "known_for": "Luxury Rock n Roll Clothing",
   "hq_country": "GB",
-  "founded_year": null,
+  "founded_year": 2012,
   "parent_company": null,
-  "size_range": null,
+  "size_range": "W26–W36 (men's jeans)",
   "has_plus": null,
   "has_petite": null,
   "has_tall": null,
-  "ships_to": [],
-  "free_shipping_min_usd": null,
-  "returns_days": null,
-  "prices": [],
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 170,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "GBP",
+      "min": 110,
+      "max": 120,
+      "min_usd": 146.16,
+      "max_usd": 159.45,
+      "fx_date": "2026-10-28",
+      "item_count": 6,
+      "source_url": "https://otheruk.com/collections/denim/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "6 regular-price O32 flared jeans (standard, raw edge, ripped knee; jet black and vintage black) of 12 in the denim collection; 6 sale items excluded. Men's jeans, waists 26–36. Store charges GBP (Shopify.currency GBP); converted at ECB 2026-10-28."
+    }
+  ],
   "materials": [
     "leather",
     "denim"
@@ -25,11 +44,20 @@
   "sale_pattern": null,
   "sources": [
     "https://www.otheruk.com/",
-    "https://otheruk.com/pages/about-us"
+    "https://otheruk.com/pages/about-us",
+    "https://otheruk.com/",
+    "https://otheruk.com/collections/denim/products.json?limit=250",
+    "https://otheruk.com/policies/shipping-policy",
+    "https://otheruk.com/policies/refund-policy",
+    "https://otheruk.com/pages/delivery",
+    "https://otheruk.com/pages/size-guide"
   ],
   "notes": [
-    "Live, GBP store. It positions itself as rock clothing ('Officially Licensed Rock Clothing'), not streetwear, so off_category.",
-    "Delivery and returns pages not fetched. The size guide link on the homepage is a placeholder (#). hq_country GB is inferred from 'our UK studio'; no HQ is stated."
+    "Live, GBP store. Homepage title 'OTHER ‐ Luxury Rock n Roll Clothing'; og:description 'Founded in 2012 by musician Nick Davey, OTHER is rock and roll rebuilt: leather, knitwear and band tees'.",
+    "2026-10-28 marked off_category against the old style-category (streetwear). 2026-10-29 re-checked for C = jeans: it sells regular-price jeans, so status is verified.",
+    "Delivery: 'Orders ship from our UK HQ'; regions UK, EU, USA, Australia, Canada, ROW; 'USA Shipping: Flat Fee of $16 … free shipping when you spend over $170'; prices include duties.",
+    "Returns: refunds within 14 days of receiving the order; customer pays return shipping (international return fee deducted); sale items final.",
+    "hq_country GB from 'our UK HQ' (delivery policy). The size guide gives no ranges; the waist range comes from product variants."
   ],
-  "checked_at": "2026-10-28"
+  "checked_at": "2026-10-29"
 }

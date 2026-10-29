@@ -63,6 +63,7 @@ export function brandFromJson(slug: string, j: any, media: Media = { images: {},
     hasPetite: j.has_petite ?? null,
     hasTall: j.has_tall ?? null,
     shipsTo: j.ships_to ?? [],
+    usStores: j.us_stores ?? null,
     freeShippingMinUsd: j.free_shipping_min_usd ?? null,
     returnsDays: j.returns_days ?? null,
     materials: j.materials ?? [],
@@ -72,6 +73,7 @@ export function brandFromJson(slug: string, j: any, media: Media = { images: {},
     imageUrl: j.image_url ?? (media.images[slug]?.status === "ok" ? media.images[slug].path : null),
     verifiedAt: j.verified_at ?? null,
     productShots: shotsFor(slug, media),
+    sellsCategories: j.sells_categories ?? [],
     prices: (j.prices ?? [])
       .filter((p: any) => p.min != null && p.max != null && p.min_usd != null && p.max_usd != null)
       .map(

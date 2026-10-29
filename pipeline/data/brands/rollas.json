@@ -1,0 +1,56 @@
+{
+  "slug": "rollas",
+  "name": "Rolla's",
+  "website_url": "https://rollasjeans.com",
+  "status": "verified",
+  "kind": "brand",
+  "materials": [],
+  "certifications": [],
+  "checked_at": "2026-10-29",
+  "known_for": "Denim That Lifts, Holds & Flatters",
+  "hq_country": "AU",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "W23–W36",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 120,
+  "returns_days": 30,
+  "production_model": null,
+  "sale_pattern": null,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 129,
+      "max": 199,
+      "min_usd": 129,
+      "max_usd": 199,
+      "fx_date": null,
+      "item_count": 61,
+      "source_url": "https://rollasjeans.com/collections/womens-denim",
+      "checked_at": "2026-10-29",
+      "note": "Not Shopify products.json; read from the US collection page's embedded search data (rollas_us_prod_products, 82 hits: 61 category Jeans, 21 Pants). All 61 jeans had compareAtPrice equal to price (regular). Many styles have a 'Long' version (34 in inseam). Waists 23–36 from 5 styles' variant lists."
+    }
+  ],
+  "sources": [
+    "https://rollasjeans.com/",
+    "https://rollasjeans.com/collections/womens-denim",
+    "https://rollasjeans.com/pages/shipping",
+    "https://rollasjeans.com/pages/returns",
+    "https://fashionunited.com/companies/rollas-jeans"
+  ],
+  "notes": [
+    "US homepage title: 'Rolla's Jeans USA | Denim that lifts, holds & flatters'. The default (AU) title: 'Rolla's Jeans | Australian Denim Classic Design Modern Fabrication' (hq_country AU; FashionUnited also lists it as Australian, founded by Andy Paltos and Sarah Gilsenan).",
+    "US shipping: free economy at $120+, $12 under; free expedited at $300+, $25 under. Regions: United States, Canada, Europe & Great Britain, Asia, rest of world. Dispatch cutoff is in AEDT.",
+    "Returns: within 30 days of delivery; standard return US$6–$10 (free with Checkout+); refund, exchange or store credit on full-price items; sale items not returnable.",
+    "No size-guide page found (/pages/size-guide 404)."
+  ]
+}

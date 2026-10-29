@@ -831,7 +831,7 @@
     {
       "fact": "known_for",
       "url": "https://tjmaxx.tjx.com/",
-      "check": "Confirm 'Brand-Name Fashion for Way Less' (built from tjx.com's TJ Maxx page) fits the store's own wording."
+      "check": "Confirm 'Off-Price Brand-Name Fashion' (built from tjx.com's wording) fits the store's own positioning."
     },
     {
       "fact": "pick check: Marshalls",
@@ -877,7 +877,7 @@
   "copy": {
     "intro": "TJ Maxx is TJX's off-price chain, selling brand-name fashion for less than full-price stores. These two stores work the same way online, with big-name denim marked down from its usual price, and both ship anywhere in the US. Women's jeans start at $15.38 at Nordstrom Rack and $17.99 at 6pm.",
     "bodies": {
-      "nordstrom-rack": "Nordstrom Rack is Nordstrom's off-price chain, started in Seattle in 1973, and it has the bigger denim range here, with about 3,000 women's jeans. Labels run from Levi's and Madewell up to FRAME and Akris, each priced under a listed comparable value: JASON WU barrel jeans at $39.97 against $198, say. Sizes go from 00 to 28W, with petite and plus filters. Shipping is free over $89, and online orders go back free to any Nordstrom or Rack store within 40 days.",
+      "nordstrom-rack": "Nordstrom Rack is Nordstrom's off-price chain, started in Seattle in 1973, and it has the bigger denim range here, with about 3,000 women's jeans. Levi's and Madewell sit next to FRAME and Akris, each priced under a listed comparable value (an Akris wide-leg pair is $419.97 against $995). Sizes go from 00 to 28W, with petite and plus filters. Shipping is free over $89, and online orders go back free to any Nordstrom or Rack store within 40 days.",
       "6pm": "6pm is the discount arm of Zappos, selling online since 2007 with a single outlet store in Shepherdsville, Kentucky. Its 1,310 women's jeans come from 33 brands, mostly KUT from the Kloth, NYDJ, AG and Joe's Jeans, and the typical pair is 40% under MSRP. Petite shoppers get 123 styles, plus 28 plus-size cuts. Free shipping needs a $100 order (otherwise $3.95). Returns close after 30 days, and you pay the postage back."
     },
     "faqs": [

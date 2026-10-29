@@ -1,0 +1,16 @@
+{
+  "slug": "mud-jeans",
+  "name": "MUD Jeans",
+  "website_url": "https://mudjeans.com",
+  "status": "verified",
+  "kind": "brand",
+  "notes": [
+    "2026-10-29: store live (Shopify, EUR). women-buy-jeans products.json: 72 products, 46 on sale, 26 regular at EUR 139.95–149.95 (not stored as a price row: no USD conversion done, and US shipping unconfirmed). /pages/shipping 404; mudjeans.us refused by the egress proxy. US shipping not confirmed, so ships_to is empty."
+  ],
+  "sources": [
+    "https://mudjeans.com/collections.json?limit=250",
+    "https://mudjeans.com/collections/women-buy-jeans/products.json?limit=250",
+    "https://mudjeans.com/pages/shipping"
+  ],
+  "checked_at": "2026-10-29"
+}

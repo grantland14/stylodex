@@ -1,0 +1,58 @@
+{
+  "slug": "pixie-market",
+  "name": "Pixie Market",
+  "website_url": "https://pixiemarket.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Chic and Affordable Ready-to-Wear",
+  "hq_country": "US",
+  "founded_year": 2006,
+  "parent_company": null,
+  "size_range": "XS–L",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "AU"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 20,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 82.0,
+      "max": 199.0,
+      "min_usd": 82.0,
+      "max_usd": 199.0,
+      "fx_date": null,
+      "item_count": 11,
+      "source_url": "https://pixiemarket.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "11 regular-price dresses of 31 (19 marked down, 1 not a dress). Three linen styles, three marked BESTSELLER. Lowest Plaid Lace Trim Dress $82, highest Floral Satin Slip Midi Dress $199."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://pixiemarket.com/",
+    "https://pixiemarket.com/pages/about-us",
+    "https://pixiemarket.com/pages/shipping",
+    "https://pixiemarket.com/pages/website-faqs",
+    "https://pixiemarket.com/collections/dresses/products.json?limit=250",
+    "https://pixiemarket.com/policies/shipping-policy",
+    "https://pixiemarket.com/policies/refund-policy"
+  ],
+  "notes": [
+    "About: 'Pixie Market was founded in NYC by Magda Pietrobelli and has been empowering women's own authentic style since 2006.' 'Affordability and quality is at the core of our brand.' Mentions 'our PM label and our sister labels'.",
+    "FAQ: 'We are based in the United States. All currency is priced in USD.' 'Most garments are sized on the small side unless they are described as oversized.' Return address: Altamonte Springs, Florida.",
+    "Shipping: US free over $100, else $7.95 (FedEx/USPS 2–5 days); Canada, Europe, Asia/Australia/NZ free over $200 by DHL Express.",
+    "Returns (US): full-price items within 20 days of the order; $8 fee if you use their return label; Final Sale not returnable.",
+    "Homepage title: 'Chic and Affordable Ready-to-Wear | Shop Pixie Market'."
+  ],
+  "checked_at": "2026-10-29"
+}

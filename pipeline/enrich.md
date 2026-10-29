@@ -26,6 +26,11 @@ Write `data/brands/{slug}.json` with the `stylodex.brands` columns:
 - `website_url`: the official store, confirmed by WebFetch (the stored URL is often wrong).
 - `status`: `verified` (live, selling C today) · `defunct` (no findable official presence) ·
   `off_category` (live but doesn't sell C) · `unverified` (site refuses fetches; human check).
+  If a chain's own site refuses reads, its **parent company's official site** (e.g. tjx.com for
+  Marshalls and Sierra, annual reports, store locators) is an official source for status,
+  `us_stores` and what it sells. Prices still come only from the store itself; leave them empty
+  if it's unreadable, and record the category in `sells_categories` (with the official source in
+  `sources`) so the pick can still render, without a price.
   An `unverified` anchor blocks indexing; queue it for a human check rather than guessing.
 - `kind`: `brand` · `retailer` (sells other brands) · `marketplace`.
 - `known_for`: what people go to it for, in Title Case, ≤6 words, from the brand's own positioning
@@ -34,6 +39,8 @@ Write `data/brands/{slug}.json` with the `stylodex.brands` columns:
 - `size_range`, `has_plus`, `has_petite`, `has_tall`: from the size guide.
 - `ships_to` (ISO codes; check US, CA, GB, AU), `free_shipping_min_usd`, `returns_days`: from the
   shipping and returns pages, US terms.
+- `us_stores`: true if its own store locator (or its parent company's official site) lists US
+  stores. A chain you can walk into counts for US shoppers even with no online shop.
 - `prices`: for category C (and other main categories), min/max of **regular-price** items on
   the brand's own category page, in the store's own `currency`, with the page URL and today's date.
   No sale prices. Shopify stores serve the whole collection at `/collections/{handle}/products.json`
@@ -44,7 +51,8 @@ Write `data/brands/{slug}.json` with the `stylodex.brands` columns:
 - `sources`: every URL used.
 
 ## §3 Pick
-A candidate becomes a pick only if: `status = verified`, it sells C, it ships to the US, it has ≥1 outside source,
+A candidate becomes a pick only if: `status = verified`, it sells C, it ships to the US **or has US stores**
+(`us_stores: true`, from its own store locator), it has ≥1 outside source,
 and there is one **specific, checkable reason** built from stored facts (price, material, fit,
 origin, aesthetic as the brand itself states it). Mood-only reasons ("similar vibe") fail.
 Rank by number of independent sources, then closeness of price range. **Target 10–15 picks**

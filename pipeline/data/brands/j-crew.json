@@ -1,0 +1,49 @@
+{
+  "slug": "j-crew",
+  "name": "J.Crew",
+  "website_url": "https://www.jcrew.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Clothes, Shoes & Accessories",
+  "hq_country": "US",
+  "founded_year": 1983,
+  "parent_company": "J.Crew Group (Anchorage Capital Group and Leonard Green & Partners)",
+  "size_range": "Women's jeans waist 23–37, Classic, Petite and Tall",
+  "has_plus": null,
+  "has_petite": true,
+  "has_tall": true,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 148,
+      "max": 198,
+      "min_usd": 148,
+      "max_usd": 198,
+      "fx_date": null,
+      "item_count": 9,
+      "source_url": "https://www.jcrew.com/plp/womens/categories/clothing/denim",
+      "checked_at": "2026-10-29",
+      "note": "9 jeans visible of 45 items the page reports; all single-price, none marked down: $158 (exaggerated barrel, Zoe barrel, slim-wide, full-length slim-wide), $158–$168 (high-waisted denim trouser jean, two flap-pocket washes), $148–$198 (western straight with metallic studs), $188 (embellished lowrider). 7 of 9 offered in Classic, Petite and Tall."
+    }
+  ],
+  "sources": [
+    "https://www.jcrew.com/",
+    "https://www.jcrew.com/plp/womens/categories/clothing/denim",
+    "https://www.jcrew.com/help/shipping-handling",
+    "https://www.jcrew.com/help/returns-exchanges",
+    "https://en.wikipedia.org/wiki/J.Crew"
+  ],
+  "notes": [
+    "Homepage title: 'J.Crew: Clothes, Shoes & Accessories For Women, Men & Kids'.",
+    "Shipping: Standard $7 (3–6 business days), Expedited $17, Overnight $25, Saturday $35; free standard shipping for J.Crew Rewards members on qualifying orders, no dollar threshold stated. Page covers US only (50 states, DC, territories, APO/FPO/DPO); international FAQ not read.",
+    "Returns: US online purchases within 30 days of original purchase; $7.50 deducted when using the prepaid label. International: 30 days, customer pays return shipping.",
+    "Wikipedia: founded 1947 as Popular Merchandise, Inc., named J.Crew in 1983; HQ 225 Liberty Street, New York City; owned by Anchorage Capital Group and Leonard Green & Partners. founded_year stores 1983 (the J.Crew name)."
+  ],
+  "checked_at": "2026-10-29"
+}

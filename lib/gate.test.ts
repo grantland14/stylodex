@@ -94,7 +94,7 @@ test("a closed store can anchor a stores-like page when every pick is live", () 
 test("a closed store's picks can't claim cheaper or pricier", () => {
   const page = fixtureClosedStorePage();
   page.picks[0].pair.priceRelation = "cheaper";
-  assert.deepEqual(pickProblems(page.anchor, page.picks[0], "denim", NOW), ["price label without an anchor price"]);
+  assert.deepEqual(pickProblems(page.anchor, page.picks[0], "denim", NOW), ["price label without both prices"]);
 });
 
 test("a closed brand can never be a pick", () => {
@@ -116,8 +116,28 @@ test("an unverified brand (site refuses automated reads) is never a pick", () =>
   assert.deepEqual(pickProblems(page.anchor, page.picks[0], "denim", NOW), ["brand not verified"]);
 });
 
-test("a pick that doesn't ship to the US is dropped", () => {
+test("a pick that doesn't ship to the US and has no US stores is dropped", () => {
   const page = fixturePage();
   page.picks[0].brand.shipsTo = ["AU", "NZ"];
-  assert.deepEqual(pickProblems(page.anchor, page.picks[0], "denim", NOW), ["doesn't ship to the US"]);
+  assert.deepEqual(pickProblems(page.anchor, page.picks[0], "denim", NOW), ["not available in the US"]);
+});
+
+test("a store chain with US stores counts even without online shipping", () => {
+  const page = fixturePage();
+  page.picks[0].brand.shipsTo = [];
+  page.picks[0].brand.usStores = true;
+  assert.deepEqual(pickProblems(page.anchor, page.picks[0], "denim", NOW), []);
+});
+
+test("a walk-in chain with no online prices can be a pick when an official source confirms the category", () => {
+  const page = fixturePage();
+  const pick = fixturePick("example-chain", "Example Chain", 1, { priceRelation: null });
+  pick.brand.prices = [];
+  pick.brand.shipsTo = [];
+  pick.brand.usStores = true;
+  assert.deepEqual(pickProblems(page.anchor, pick, "denim", NOW), ["doesn't sell denim"]);
+  pick.brand.sellsCategories = ["denim"];
+  assert.deepEqual(pickProblems(page.anchor, pick, "denim", NOW), []);
+  pick.pair.priceRelation = "cheaper";
+  assert.deepEqual(pickProblems(page.anchor, pick, "denim", NOW), ["price label without both prices"]);
 });

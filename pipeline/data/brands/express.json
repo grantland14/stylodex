@@ -1,0 +1,30 @@
+{
+  "slug": "express",
+  "name": "Express",
+  "website_url": "https://www.express.com",
+  "status": "unverified",
+  "kind": "brand",
+  "known_for": null,
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [],
+  "free_shipping_min_usd": null,
+  "returns_days": null,
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.express.com/womens-clothing/dresses/cat550007"
+  ],
+  "notes": [
+    "https://www.express.com/womens-clothing/dresses/cat550007 returned only the title 'Express - Men's & Women's Clothing' to WebFetch on 2026-10-29; no products or prices readable. Status unverified; nothing else stored."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "rue21",
+  "name": "rue21",
+  "website_url": "https://www.rue21.com",
+  "status": "unverified",
+  "kind": "brand",
+  "notes": [
+    "2026-10-29: Shopify collections.json lists denim-jeans_shop-all-jeans (119 products) but its products.json and the collection page return 0 products; /collections/womens-jeans 404. Store's jeans could not be read; no price."
+  ],
+  "sources": [
+    "https://www.rue21.com/",
+    "https://www.rue21.com/collections.json?limit=250",
+    "https://www.rue21.com/collections/denim-jeans_shop-all-jeans"
+  ],
+  "checked_at": "2026-10-29"
+}

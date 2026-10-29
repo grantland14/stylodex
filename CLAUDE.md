@@ -18,7 +18,7 @@ site-wide; see `tasks/todo.md` for the plan and why.
   `graphql_public` in the list, or Apart Style's API breaks.
 - **Similar brands must be real.** A pick renders only if `lib/gate.ts` passes it: both brands
   verified, same category, price label matches stored prices, outside evidence stored, one specific
-  reason, checked within 90 days, ships to the US. Change the gate only with tests in `lib/gate.test.ts`.
+  reason, checked within 90 days, ships to the US or has US stores. Change the gate only with tests in `lib/gate.test.ts`.
 - **Index nothing that fails the gate.** Pages that fail render `noindex`; the sitemap lists only
   passing pages. Release in waves (see `tasks/todo.md` Phase 3).
 - **Every sentence traces to a stored fact.** Article copy is drafted from the brands' stored facts

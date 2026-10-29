@@ -1,0 +1,54 @@
+{
+  "slug": "oak-fort",
+  "name": "Oak + Fort",
+  "website_url": "https://oakandfort.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Thoughtful Design for a Modern Lifestyle",
+  "hq_country": "CA",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XXS–XL; 0–12",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 21,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 78.0,
+      "max": 168.0,
+      "min_usd": 78.0,
+      "max_usd": 168.0,
+      "fx_date": null,
+      "item_count": 8,
+      "source_url": "https://oakandfort.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "8 regular-price, in-stock dresses of 417 listings (313 sold out, 96 marked down). Lowest Off Shoulder Open Back Mini Dress $78, highest Maxi Dress With Tassel Slit Detail $168."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": "Online purchases at 20% off or more are final sale.",
+  "sources": [
+    "https://oakandfort.com/",
+    "https://oakandfort.com/pages/about-us",
+    "https://oakandfort.com/pages/shipping-pickup",
+    "https://oakandfort.com/pages/size-guide-womens-alpha",
+    "https://oakandfort.com/collections/dresses/products.json?limit=250",
+    "https://oakandfort.com/policies/refund-policy"
+  ],
+  "notes": [
+    "About page: 'THOUGHTFUL DESIGN FOR A MODERN LIFESTYLE.' 'Opening our first OAK Studio location in Vancouver, Canada — OAK + FORT is a woman founded and led business. Valuing cost-conscious looks...' oakandfort.com is the US store (title 'OAK + FORT USA', USD).",
+    "Shipping: US orders over $100 pre-tax ship free, else $7.99; Alaska/Hawaii free over $125.",
+    "Returns: regular-price items (or under 20% off) refundable within 21 days of arrival; customer pays return shipping; 20%+ off is final sale.",
+    "Size guide: tops/dresses XXS–XL; dress feed also has numeric 0–12."
+  ],
+  "checked_at": "2026-10-29"
+}

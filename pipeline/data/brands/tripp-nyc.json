@@ -1,0 +1,55 @@
+{
+  "slug": "tripp-nyc",
+  "name": "Tripp NYC",
+  "website_url": "https://trippnyc.com",
+  "status": "verified",
+  "kind": "brand",
+  "materials": [],
+  "certifications": [],
+  "checked_at": "2026-10-29",
+  "known_for": "Alternative Fashion",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "women's W24–W31; unisex XXS–XXXL; plus 14–18 in denim (size chart plus 10–28)",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 7,
+  "production_model": null,
+  "sale_pattern": null,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 79,
+      "max": 174,
+      "min_usd": 79,
+      "max_usd": 174,
+      "fx_date": null,
+      "item_count": 28,
+      "source_url": "https://trippnyc.com/collections/denim/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "28 regular-price denim pants and jeans of 53 products in the denim collection (skirts, corsets, halters, shorts, an overall and the non-denim Three Step Pant excluded; 7 sale items with compare_at above price excluded). Mostly strap, zip and bondage denim pants; 2 titled 'jean' (High Waist Skinny Jean $79, Love Jean $97)."
+    }
+  ],
+  "sources": [
+    "https://trippnyc.com/",
+    "https://trippnyc.com/collections/denim/products.json?limit=250",
+    "https://trippnyc.com/policies/shipping-policy",
+    "https://trippnyc.com/policies/refund-policy",
+    "https://trippnyc.com/pages/about",
+    "https://trippnyc.com/pages/sizechart",
+    "https://trippnyc.com/cart.js"
+  ],
+  "notes": [
+    "About: founded 'in the early 1980s' by designer Daang Goodman in the East Village, New York City; 'a staple in alternative fashion'. No exact year, so founded_year is null. Returns go to North Bergen, NJ.",
+    "Shipping: 'US domestic orders over $150 qualify for free ground shipping'; under that, weight/location based. International shipping exists (duties shown at checkout) but no country list, so only US is stored.",
+    "Returns: request within 7 days of receipt; refunds minus return shipping; free returns for store credit; sale styles final; returns over $350 may carry a 15% restocking fee.",
+    "Size chart: women's bottoms 24–31; unisex Dark Street pants XXS–XXXL (waist 29–49 in, 32 in inseam); women's plus 10–28. Denim products list plus 14–18."
+  ]
+}

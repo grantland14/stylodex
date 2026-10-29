@@ -1,0 +1,45 @@
+{
+  "slug": "superdry",
+  "name": "Superdry",
+  "website_url": "https://www.superdry.com/us/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Made for Living",
+  "hq_country": "GB",
+  "founded_year": 2003,
+  "parent_company": null,
+  "size_range": "Women's jeans waist 24–34",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": null,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 74.95,
+      "max": 109.95,
+      "min_usd": 74.95,
+      "max_usd": 109.95,
+      "fx_date": null,
+      "item_count": 22,
+      "source_url": "https://www.superdry.com/us/womens/jeans/",
+      "checked_at": "2026-10-29",
+      "note": "48 tiles visible of 64 the page reports; 23 at full price, 25 marked down (excluded). The 23 full-price tiles are 22 jeans plus one 'Mid Rise Straight Stripe Pants' ($89.95), which doesn't change the range: Mid Rise Baggy Jeans $74.95 (5 colors), most others $89.95, organic cotton skinny and wide-leg styles $109.95. 14 of the 22 jeans are named 'Organic Cotton'."
+    }
+  ],
+  "sources": [
+    "https://www.superdry.com/us/",
+    "https://www.superdry.com/us/womens/jeans/",
+    "https://www.superdry.com/us/help-centre.html",
+    "https://en.wikipedia.org/wiki/Superdry"
+  ],
+  "notes": [
+    "US store title: 'Superdry US: Made for Living | Men's & Women's Clothing'.",
+    "ships_to US: the US storefront (superdry.com/us) sells in USD. Delivery and returns terms are in a script-loaded help centre that WebFetch and a plain request could not read; free_shipping_min_usd and returns_days left empty. Returns run through https://superdry.returns.international/.",
+    "Sizes: women's jeans filter W24–W34.",
+    "Wikipedia: founded 2003 by Ian Hibbs, Julian Dunkerton, James Holder and Theo Karpathios; HQ Cheltenham, England; delisted from the London Stock Exchange in July 2024; rebranded as Superdry & Co. in 2025."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "pistola",
+  "name": "Pistola",
+  "website_url": "https://www.pistoladenim.com",
+  "status": "verified",
+  "kind": "brand",
+  "materials": [],
+  "certifications": [],
+  "checked_at": "2026-10-29",
+  "known_for": "Clothing for Women Going Places",
+  "hq_country": "US",
+  "founded_year": 2013,
+  "parent_company": null,
+  "size_range": "W23–W33; petite 23P–33P",
+  "has_plus": null,
+  "has_petite": true,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB"
+  ],
+  "free_shipping_min_usd": 200,
+  "returns_days": 15,
+  "production_model": null,
+  "sale_pattern": null,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 188,
+      "max": 248,
+      "min_usd": 188,
+      "max_usd": 248,
+      "fx_date": null,
+      "item_count": 49,
+      "source_url": "https://www.pistoladenim.com/collections/jeans/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "49 regular-price jeans of 72 served by the jeans collection; 20 with compare_at above price excluded, 3 non-jeans excluded. Includes petite versions (P sizes). Fits by name: straight, bowed straight, wide leg, barrel, flare, bootcut, palazzo."
+    }
+  ],
+  "sources": [
+    "https://www.pistoladenim.com/",
+    "https://www.pistoladenim.com/collections/jeans/products.json?limit=250",
+    "https://www.pistoladenim.com/policies/shipping-policy",
+    "https://www.pistoladenim.com/policies/refund-policy",
+    "https://www.pistoladenim.com/pages/about-us",
+    "https://www.pistoladenim.com/cart.js"
+  ],
+  "notes": [
+    "About: 'founded in 2013 by Grace Na'; 'Los Angeles-based womenswear brand'; tagline 'Clothing for women going places'; 'everyday premium pieces with street-smart and utilitarian sensibility'.",
+    "Shipping: 'only ships to USA, Canada, and the UK'. US FedEx 2-Day $9.53 under $200, free at $200+.",
+    "Returns: store credit or refund within 15 days of delivery; customer pays $10 return shipping (free for store credit/exchanges); final sale not returnable."
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "everlane",
+  "name": "Everlane",
+  "website_url": "https://everlane.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Clean Luxury",
+  "hq_country": "US",
+  "founded_year": 2010,
+  "parent_company": "Shein (acquisition agreed May 2026, per Wikipedia)",
+  "size_range": "XXS–XXXL; 00–16",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 58.0,
+      "max": 198.0,
+      "min_usd": 58.0,
+      "max_usd": 198.0,
+      "fx_date": null,
+      "item_count": 26,
+      "source_url": "https://everlane.com/collections/womens-dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "26 regular-price, in-stock dresses of 784 listings (551 sold out, 207 marked down). By title: 16 mini, 3 midi, 3 maxi; fabrics include stretch linen, cashmere, fine knit and cotton silk voile. Lowest Weekend Tee Midi Dress $58, highest Cashmere Polo Midi Dress $198."
+    },
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 88,
+      "max": 148,
+      "min_usd": 88,
+      "max_usd": 148,
+      "fx_date": null,
+      "item_count": 69,
+      "source_url": "https://www.everlane.com/collections/womens-jeans/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "products.json (3 pages, 542 products): 70 non-jean items (shorts, skirts, jackets, vests, shirts) excluded; 403 had compare_at above price (sale) and were excluded; 69 regular-price women's jeans at $88–$148. Low end: The Way-High Curve Jean ($88, sold in 27\" and 29\" inseams); high end: W Heavyweight Low Rise Relaxed Boot Flare Jean ($148)."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": "Partners with ethical factories it audits (fair wages, reasonable hours, environment) and publishes the cost of materials, labor and transport ('Radical Transparency') (About page)",
+  "sale_pattern": null,
+  "sources": [
+    "https://everlane.com/",
+    "https://everlane.com/pages/about",
+    "https://everlane.com/pages/international",
+    "https://everlane.com/collections/womens-dresses/products.json?limit=250",
+    "https://everlane.com/policies/shipping-policy",
+    "https://everlane.com/policies/refund-policy",
+    "https://en.wikipedia.org/wiki/Everlane",
+    "https://www.everlane.com/",
+    "https://www.everlane.com/pages/about",
+    "https://www.everlane.com/collections.json?limit=250",
+    "https://www.everlane.com/collections/womens-jeans/products.json?limit=250",
+    "https://www.everlane.com/policies/shipping-policy",
+    "https://www.everlane.com/policies/refund-policy"
+  ],
+  "notes": [
+    "About page footer: 'Clean Luxury. Better For You.'; the page also describes 'Radical Transparency' as revealing 'the true costs behind all of our products.'",
+    "US shipping: Standard 4–7 business days $8, Express $20; no free-shipping threshold stated (promotions applied at checkout).",
+    "Returns: 30 days from ship date (US and Canada); mail-in returns carry a $7 label fee, in-store returns free.",
+    "International page lists the United States, Canada, the United Kingdom and Australia among destinations.",
+    "Wikipedia: headquartered in San Francisco (move to Los Angeles announced April 2026); founded 2010 by Michael Preysman and Jesse Farmer; Shein agreed to acquire it in May 2026."
+  ],
+  "checked_at": "2026-10-29"
+}

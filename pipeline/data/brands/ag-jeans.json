@@ -1,0 +1,50 @@
+{
+  "slug": "ag-jeans",
+  "name": "AG Jeans",
+  "website_url": "https://agjeans.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Premium Denim Jeans and Clothing",
+  "hq_country": "US",
+  "founded_year": 2000,
+  "parent_company": null,
+  "size_range": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 210,
+      "max": 425,
+      "min_usd": 210,
+      "max_usd": 425,
+      "fx_date": null,
+      "item_count": 174,
+      "source_url": "https://agjeans.com/collections/womens-jeans/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "products.json (2 pages, 261 products): 5 non-jean items excluded, 82 with compare_at above price excluded; 174 regular-price women's jeans at $210–$425. Low end: Farrah Skinny Ankle, Mari, Prima Ankle ($210); high end: Adria and Billie ($425); Mercer and Sydney Selvage at $395."
+    }
+  ],
+  "production_model": "Vertically operated with in-house manufacturing; describes itself as the first vertically operated denim manufacturer on the West Coast (About page)",
+  "sources": [
+    "https://agjeans.com/",
+    "https://agjeans.com/collections.json?limit=250",
+    "https://agjeans.com/collections/womens-jeans/products.json?limit=250",
+    "https://agjeans.com/pages/shipping-policy",
+    "https://agjeans.com/pages/return-policy",
+    "https://agjeans.com/pages/about-us"
+  ],
+  "notes": [
+    "Homepage title: 'AG Jeans - Official Online Store - Premium Denim Jeans and Clothing'. About page: 'premium denim and knitwear house leading the sustainable manufacturing movement'; founded in Los Angeles in 2000 by Adriano Goldschmied and Yul Ku.",
+    "Shipping policy: 'Complimentary 2-day shipping is offered for all online purchases shipping to the U.S.' (contiguous US; no P.O. boxes, APO/FPO or territories) at any subtotal. free_shipping_min_usd left empty because the template would render a $0 threshold as \"Over $0\". Overnight $14.95–$34.95 by subtotal. Country selector lists Canada, United Kingdom and Australia as shipping countries.",
+    "Return policy: 30 days from purchase; $12 return fee (or a $12 restocking fee) unless the $7 Free Returns add-on is bought at checkout; waived for gift card refunds or own-carrier returns. Final Sale not returnable."
+  ],
+  "checked_at": "2026-10-29"
+}

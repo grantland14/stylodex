@@ -1,0 +1,30 @@
+{
+  "slug": "free-people",
+  "name": "Free People",
+  "website_url": "https://www.freepeople.com",
+  "status": "unverified",
+  "kind": "brand",
+  "known_for": null,
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [],
+  "free_shipping_min_usd": null,
+  "returns_days": null,
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.freepeople.com/dresses/"
+  ],
+  "notes": [
+    "https://www.freepeople.com/dresses/ returned HTTP 403 to WebFetch on 2026-10-29. Status unverified; nothing else stored."
+  ],
+  "checked_at": "2026-10-29"
+}

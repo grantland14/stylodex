@@ -1,0 +1,40 @@
+{
+  "slug": "american-eagle",
+  "name": "American Eagle",
+  "website_url": "https://www.ae.com/us/en",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": null,
+  "hq_country": "US",
+  "founded_year": 1977,
+  "parent_company": "American Eagle Outfitters, Inc.",
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": 60,
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.ae.com/us/en/c/women/dresses/cat1320034",
+    "https://www.ae.com/us/en/content/help/return-policy",
+    "https://www.ae.com/us/en/content/help/shipping-handling",
+    "https://en.wikipedia.org/wiki/American_Eagle_Outfitters",
+    "https://www.ae.com/us/en",
+    "https://www.ae.com/us/en/c/women/bottoms/jeans/cat6430042",
+    "https://www.ae.com/us/en/c/men/bottoms/jeans/cat6430041"
+  ],
+  "notes": [
+    "Dresses page (WebFetch, 2026-10-29): header says 129 items, 30 rendered; 29 of the 30 were marked down 31% (one 50%), e.g. 'was $64.95'. Only one listing was at full price (AE77 Crinkle Lace Slip Cami Dress, $148), so no regular-price dress range is stored.",
+    "Shipping: free standard shipping on orders of $75 or more to the US; $7.95 under $75. Returns: full refund within 60 days of purchase; online returns $5 (free for Real Rewards Level 3 and cardmembers).",
+    "Wikipedia: headquartered at SouthSide Works, Pittsburgh; founded 1977 by Jerry and Mark Silverman."
+  ],
+  "checked_at": "2026-10-29"
+}

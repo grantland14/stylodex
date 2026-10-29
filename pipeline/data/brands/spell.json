@@ -1,0 +1,56 @@
+{
+  "slug": "spell",
+  "name": "Spell",
+  "website_url": "https://usa.spell.co",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Elevated Boho Clothing",
+  "hq_country": "AU",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XXS–3XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "AU"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 230.0,
+      "max": 399.0,
+      "min_usd": 230.0,
+      "max_usd": 399.0,
+      "fx_date": null,
+      "item_count": 34,
+      "source_url": "https://usa.spell.co/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "34 regular-price dresses of 58 on the US store (22 marked down, 2 not dresses). Many lace and bias-cut styles and 6 gowns by title. Lowest Frances Mini Dress $230, highest Whimsy Garden Lace Gown Dress $399."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": "Sale items are store credit only; Online Warehouse Sale items can't be refunded.",
+  "sources": [
+    "https://spell.co/",
+    "https://usa.spell.co/",
+    "https://usa.spell.co/cart.js",
+    "https://usa.spell.co/collections/dresses/products.json?limit=250",
+    "https://usa.spell.co/policies/shipping-policy",
+    "https://usa.spell.co/policies/refund-policy",
+    "https://spell.co/policies/shipping-policy",
+    "https://spell.co/policies/refund-policy"
+  ],
+  "notes": [
+    "spell.co (AUD) title: 'Elevated Boho Clothing, Designed in Byron Bay – SPELL'; meta: 'an Australian lifestyle brand of ready-to-wear pieces'. us.spell.co redirects to usa.spell.co, a separate US store in USD.",
+    "US shipping: free over $150, flat $9.95 under $150, USPS Priority 3–5 business days. Returns: full-price styles within 30 days; sale styles store credit only.",
+    "The Australian store ships internationally via DHL Express."
+  ],
+  "checked_at": "2026-10-29"
+}

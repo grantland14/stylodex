@@ -1,0 +1,30 @@
+{
+  "slug": "mango",
+  "name": "Mango",
+  "website_url": "https://shop.mango.com/us",
+  "status": "unverified",
+  "kind": "brand",
+  "known_for": null,
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [],
+  "free_shipping_min_usd": null,
+  "returns_days": null,
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://shop.mango.com/us/en/c/women/dresses-and-jumpsuits/dresses_b4864b2e"
+  ],
+  "notes": [
+    "https://shop.mango.com/us/en/c/women/dresses-and-jumpsuits/dresses_b4864b2e returned HTTP 403 to WebFetch on 2026-10-29. Status unverified; nothing else stored."
+  ],
+  "checked_at": "2026-10-29"
+}

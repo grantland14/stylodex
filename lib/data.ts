@@ -59,6 +59,7 @@ function toBrand(row: any): Brand {
     hasPetite: row.has_petite,
     hasTall: row.has_tall,
     shipsTo: row.ships_to ?? [],
+    usStores: row.us_stores ?? null,
     freeShippingMinUsd: row.free_shipping_min_usd == null ? null : Number(row.free_shipping_min_usd),
     returnsDays: row.returns_days,
     materials: row.materials ?? [],
@@ -69,6 +70,7 @@ function toBrand(row: any): Brand {
     verifiedAt: row.verified_at,
     // Product photos aren't in Supabase yet; they load from pipeline files (lib/pipeline.ts).
     productShots: [],
+    sellsCategories: [],
     prices: (row.brand_category_prices ?? []).map(
       (p: any): CategoryPrice => ({
         category: p.category_slug,

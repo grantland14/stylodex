@@ -1,0 +1,59 @@
+{
+  "slug": "kotn",
+  "name": "Kotn",
+  "website_url": "https://kotn.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Premium Quality Basics in Egyptian Cotton",
+  "hq_country": "CA",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "CA",
+    "US",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 15,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "CAD",
+      "min": 118.0,
+      "max": 158.0,
+      "min_usd": 84.01,
+      "max_usd": 112.48,
+      "fx_date": "2026-10-28",
+      "item_count": 8,
+      "source_url": "https://kotn.com/collections/womens-dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "8 regular-price, in-stock dresses of 22 in the collection (9 marked down, 2 sold out, 3 not dresses); 4 styles in two colours each: Ghina V-Neck, Dana Asymmetric, Samira Wrap, Zahra Mini. Store base currency CAD (cart.js); converted at ECB 2026-10-28."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": "All sale items are final sale (refund policy).",
+  "sources": [
+    "https://kotn.com/",
+    "https://kotn.com/collections/womens-dresses/products.json?limit=250",
+    "https://kotn.com/cart.js",
+    "https://kotn.com/policies/shipping-policy",
+    "https://kotn.com/policies/refund-policy",
+    "https://kotn.com/pages/about",
+    "https://kotn.com/pages/international-size-guide"
+  ],
+  "notes": [
+    "Homepage title: 'Kotn: Premium quality basics, ethically made from Egyptian cotton.' Meta description: 'Designed in Canada, ethically and sustainably made in the Nile Delta... Every purchase funds new schools.' hq_country CA rests on 'Designed in Canada' and the CAD base currency; no HQ city is stated on the pages read.",
+    "About page: co-founders Ben, Mackenzie and Rami; no founding year stated.",
+    "Shipping: free over $100 in Canada, the US and the UK, else flat $8 (CA/US); the page doesn't name the currency for that tier, so free_shipping_min_usd is left empty. Select international destinations (incl. Australia) free over $150 USD. Kotn covers duties and import fees on US, UK and EU orders.",
+    "Returns (CA/US): full refund within 15 days of delivery; exchanges or store credit within 30 days; free return labels; all sale items final sale.",
+    "Dress sizes in the feed: XS–XL."
+  ],
+  "checked_at": "2026-10-29"
+}

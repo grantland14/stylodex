@@ -1,0 +1,30 @@
+{
+  "slug": "topshop",
+  "name": "Topshop",
+  "website_url": "https://www.asos.com/us/topshop/",
+  "status": "unverified",
+  "kind": "brand",
+  "known_for": null,
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [],
+  "free_shipping_min_usd": null,
+  "returns_days": null,
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://us.topshop.com/"
+  ],
+  "notes": [
+    "https://us.topshop.com/ redirects to https://www.asos.com/us/topshop/ (2026-10-29): no own US store, sold through ASOS, a marketplace. Not a pick for that reason; ASOS not fetched."
+  ],
+  "checked_at": "2026-10-29"
+}

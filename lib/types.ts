@@ -48,6 +48,8 @@ export interface Brand {
   hasPetite: boolean | null;
   hasTall: boolean | null;
   shipsTo: string[];
+  /** Has physical stores in the US: a chain you can walk into counts for US shoppers. */
+  usStores: boolean | null;
   freeShippingMinUsd: number | null;
   returnsDays: number | null;
   materials: string[];
@@ -57,6 +59,8 @@ export interface Brand {
   imageUrl: string | null;
   verifiedAt: string | null;
   prices: CategoryPrice[];
+  /** Categories an official source confirms it sells when no online prices can be read (walk-in chains). */
+  sellsCategories: string[];
   productShots: ProductShot[];
 }
 

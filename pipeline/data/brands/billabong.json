@@ -1,0 +1,15 @@
+{
+  "slug": "billabong",
+  "name": "Billabong",
+  "website_url": "https://www.billabong.com",
+  "status": "off_category",
+  "kind": "brand",
+  "notes": [
+    "2026-10-29: Shopify collections.json (250 collections) has no jeans collection; the only denim collection is '5-pocket-denim-shorts' (1 product). Doesn't sell jeans today."
+  ],
+  "sources": [
+    "https://www.billabong.com/",
+    "https://www.billabong.com/collections.json?limit=250"
+  ],
+  "checked_at": "2026-10-29"
+}

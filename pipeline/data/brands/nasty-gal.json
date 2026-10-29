@@ -1,0 +1,32 @@
+{
+  "slug": "nasty-gal",
+  "name": "Nasty Gal",
+  "website_url": "https://www.nastygal.com",
+  "status": "off_category",
+  "kind": "brand",
+  "known_for": null,
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [],
+  "free_shipping_min_usd": null,
+  "returns_days": null,
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.nastygal.com/",
+    "https://www.nastygal.com/products.json?limit=1",
+    "https://www.nastygal.com/collections.json?limit=250"
+  ],
+  "notes": [
+    "2026-10-29: nastygal.com is a 'Coming Soon' placeholder ('Something new is coming.' / 'Nasty Gal is coming back.'), with a returns link and no products. Live official presence, sells nothing today."
+  ],
+  "checked_at": "2026-10-29"
+}

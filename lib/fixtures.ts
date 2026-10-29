@@ -22,6 +22,7 @@ export function fixtureBrand(overrides: Partial<Brand> & Pick<Brand, "slug" | "n
     hasPetite: false,
     hasTall: true,
     shipsTo: ["US", "CA", "GB", "AU"],
+    usStores: null,
     freeShippingMinUsd: 75,
     returnsDays: 30,
     materials: ["cotton"],
@@ -31,6 +32,7 @@ export function fixtureBrand(overrides: Partial<Brand> & Pick<Brand, "slug" | "n
     imageUrl: "/img/placeholder.svg",
     verifiedAt: CHECKED,
     productShots: [],
+    sellsCategories: [],
     prices: [{ category: "denim", currency: "USD", min: 80, max: 140, minUsd: 80, maxUsd: 140, sourceUrl: "https://example.com", checkedAt: CHECKED }],
     ...overrides,
   };

@@ -1,0 +1,41 @@
+{
+  "slug": "h-m",
+  "name": "H&M",
+  "website_url": "https://www2.hm.com/en_us/",
+  "status": "unverified",
+  "kind": "brand",
+  "known_for": null,
+  "hq_country": "SE",
+  "founded_year": 1947,
+  "parent_company": "H & M Hennes & Mauritz AB (H&M Group)",
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [],
+  "free_shipping_min_usd": null,
+  "returns_days": null,
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www2.hm.com/en_us/index.html",
+    "https://www.hm.com/",
+    "https://www2.hm.com/en_us/customer-service/shipping-and-delivery.html",
+    "https://hmgroup.com/about-us/",
+    "https://hmgroup.com/brands/hm/",
+    "https://en.wikipedia.org/wiki/H%26M",
+    "https://www2.hm.com/",
+    "https://www2.hm.com/en_us/women/products/jeans.html"
+  ],
+  "notes": [
+    "www2.hm.com/en_us/index.html, www.hm.com and the US shipping page all returned HTTP 403 to WebFetch on 2026-10-29. One try each, no workaround. A human must open the US store for status, known_for, dress prices, sizes, shipping and returns (see human_check in pages/h-m.json).",
+    "H&M Group's own brand page (hmgroup.com/brands/hm/) states the business idea as 'fashion and quality at the best price in a sustainable way' and says H&M has about 3,000 stores in 70 store markets and 50 online markets. Suggested known_for for the human check (the line is 7 words, over the 6-word limit): 'Fashion and Quality at the Best Price'.",
+    "hmgroup.com/about-us lists the group's brands: H&M, COS, Weekday (with Cheap Monday and Monki), & Other Stories, ARKET, Singular Society and Sellpy. COS, & Other Stories and ARKET are H&M Group sister brands.",
+    "Wikipedia: founded by Erling Persson in 1947 as Hennes, first shop in Västerås, Sweden; headquartered in Stockholm; first US store on Fifth Avenue, New York, 31 March 2000; listed on Nasdaq Stockholm.",
+    "Category C = dresses (see pages/h-m.json category.why). Ahrefs top pages for www2.hm.com/en_us/ (US, 2026-10-28): the women's maxi dresses page is the highest-traffic product-type page (est. 7,792/month)."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "by-dyln",
+  "name": "BY.DYLN",
+  "website_url": "https://bydyln.com",
+  "status": "verified",
+  "kind": "brand",
+  "materials": [],
+  "certifications": [],
+  "checked_at": "2026-10-29",
+  "known_for": "Wardrobe Essentials and Statement Denim",
+  "hq_country": "AU",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 105.49,
+  "returns_days": 14,
+  "production_model": null,
+  "sale_pattern": null,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "AUD",
+      "min": 149,
+      "max": 290,
+      "min_usd": 104.79,
+      "max_usd": 203.95,
+      "fx_date": "2026-10-28",
+      "item_count": 7,
+      "source_url": "https://bydyln.com/collections/jeans/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "6 regular-price jeans in the jeans collection (Cooper, Cyrus x2, Fargo 2.0, Brooklyn, Archer; 1 sale item excluded) plus Armen Jeans (AUD 190) from https://bydyln.com/collections/denim/products.json. Store charges AUD (cart.js); converted at ECB 2026-10-28."
+    }
+  ],
+  "sources": [
+    "https://bydyln.com/",
+    "https://bydyln.com/collections/jeans/products.json?limit=250",
+    "https://bydyln.com/collections/denim/products.json?limit=250",
+    "https://bydyln.com/policies/shipping-policy",
+    "https://bydyln.com/policies/refund-policy",
+    "https://bydyln.com/pages/faq",
+    "https://bydyln.com/pages/size-guide",
+    "https://bydyln.com/cart.js"
+  ],
+  "notes": [
+    "Homepage meta: 'The feminine approach to dressing with a touch of masculine energy. BY.DYLN offers core wardrobe essentials … to match back with our key statement denim.'",
+    "Ships from a Melbourne warehouse; returns address Collingwood, VIC, Australia (hq_country AU). Founding year not stated.",
+    "Shipping: worldwide, flat AUD 20 international (AUD 30 Canada); US and UK named among tracked destinations; 'Free International Shipping is valid for all orders over $150 (AUD)', stored as free_shipping_min_usd at the ECB 2026-10-28 rate.",
+    "Returns: full-price items within 14 days of receipt, refund or 110% store credit; customer pays return shipping to Australia; 40%+ markdowns final.",
+    "Size guide is an image (not read); sizes XS–XL come from product variants."
+  ]
+}

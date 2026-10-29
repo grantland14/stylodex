@@ -1,0 +1,54 @@
+{
+  "slug": "miaou",
+  "name": "Miaou",
+  "website_url": "https://miaou.com",
+  "status": "verified",
+  "kind": "brand",
+  "materials": [],
+  "certifications": [],
+  "checked_at": "2026-10-29",
+  "known_for": "Designer Women's Clothes",
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XXS–XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 250,
+  "returns_days": 14,
+  "production_model": null,
+  "sale_pattern": null,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 218,
+      "max": 325,
+      "min_usd": 218,
+      "max_usd": 325,
+      "fx_date": null,
+      "item_count": 5,
+      "source_url": "https://miaou.com/collections/all/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "5 regular-price jeans: Low Rise Flare (Dark Olive $218, Cold Wash $245), Low Rise Flare Jean (Dark Wash, Black Sand Wash, $245), Element Jean ($325). 2 sale jeans (Ryleigh, Low Rise Flare Vanilla) excluded. Sizes XXS–XL."
+    }
+  ],
+  "sources": [
+    "https://miaou.com/",
+    "https://miaou.com/collections/denim-shop/products.json?limit=250",
+    "https://miaou.com/collections/all/products.json?limit=250",
+    "https://miaou.com/policies/shipping-policy",
+    "https://miaou.com/policies/refund-policy",
+    "https://miaou.com/pages/about",
+    "https://miaou.com/cart.js"
+  ],
+  "notes": [
+    "Homepage meta: 'Born in France and inspired by the Southern California coastline. Shop our iconic corsets, matching sets, dresses, denim and more. Free shipping on purchases over $250 in the U.S.'",
+    "About: designer Alexia Elkaim; 'in 2016, Elkaim took things into her own hands, designing a one-off pair of denim pants'. Founding year and HQ not stated outright, so both are null.",
+    "US returns: store credit or exchange only, within 14 days of placing the order, $9.95 processing fee; sale items final. International orders ship (5–10 days) but no country list, so only US is stored."
+  ]
+}
