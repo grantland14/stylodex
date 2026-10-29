@@ -10,7 +10,7 @@ How a "brands like X" page goes from a keyword to rows in Supabase. Every step w
 | 2. Evidence | `brands like X` / `stores like X` top 10 (Ahrefs SERP) | `data/pages/{slug}.json` → `candidates` | agent, `enrich.md` §1 |
 | 3. Verify brands | each candidate + the anchor | `data/brands/{slug}.json` | agent, `enrich.md` §2 |
 | 4. Pick | candidates + brand facts | `data/pages/{slug}.json` → `picks` | agent, `enrich.md` §3, then `lib/gate.ts` |
-| 5. Write | page JSON | intro, per-pick body, FAQ | wildcard-seo method, read-only (see below) |
+| 5. Write | page JSON | intro, per-pick body, FAQ + review | agent, `write.md` (wildcard-seo references, read-only) |
 | 6. Load | reviewed JSON | `stylodex.*` rows | script, after Ash's review |
 
 ## Rules that bind every step
