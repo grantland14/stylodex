@@ -31,12 +31,15 @@
     "https://namedcollective.com/collections/hoodies",
     "https://namedcollective.com/pages/delivery-1",
     "https://namedcollective.com/pages/returns-exchanges-1",
-    "https://namedcollective.com/pages/sizing"
+    "https://namedcollective.com/pages/sizing",
+    "https://namedcollective.com/collections/denim/products.json?limit=250",
+    "https://namedcollective.com/collections/jeans/products.json?limit=250"
   ],
   "notes": [
     "BORDERLINE. It sells hoodies, sweatpants and tracksuit sets, but its own positioning ('Independent fashion label'; About: 'a London-based independent collective') never says streetwear, and neither did the fetched hoodies page. A WebSearch summary claimed some category pages call pieces streetwear, but that wasn't fetched. Off_category under this run's rule; a human may override.",
     "GBP store (hoodies £90–£125); us.namedcollective.com 301-redirects to the main site. No USD prices, so none are stored.",
-    "Returns: 14 days for US orders; the page says 'UK orders', which looks like a typo. International orders get 21 days. Size charts are images, so no sizes were read."
+    "Returns: 14 days for US orders; the page says 'UK orders', which looks like a typo. International orders get 21 days. Size charts are images, so no sizes were read.",
+    "2026-10-29 re-check for C = jeans: stays off_category. /collections/denim serves 1 product (sweatpants) and /collections/jeans serves none."
   ],
-  "checked_at": "2026-10-28"
+  "checked_at": "2026-10-29"
 }

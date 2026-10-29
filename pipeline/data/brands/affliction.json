@@ -1,0 +1,57 @@
+{
+  "slug": "affliction",
+  "name": "Affliction",
+  "website_url": "https://afflictionclothing.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": null,
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": "Affliction Holdings LLC",
+  "size_range": "Women's jeans W24–W34; men's W27–W44",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 99.95,
+      "max": 125,
+      "min_usd": 99.95,
+      "max_usd": 125,
+      "fx_date": null,
+      "item_count": 5,
+      "source_url": "https://afflictionclothing.com/collections/womens-bottoms/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "women's jeans in Womens Bottoms (no sale items). Men's jeans in /collections/mens-bottoms: $120–$138.95 over 6 regular-price items (12 on sale excluded)"
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.affliction.com/",
+    "https://afflictionclothing.com/",
+    "https://afflictionclothing.com/collections/womens-bottoms/products.json?limit=250",
+    "https://afflictionclothing.com/collections/mens-bottoms/products.json?limit=250",
+    "https://afflictionclothing.com/cart.js",
+    "https://afflictionclothing.com/policies/shipping-policy",
+    "https://afflictionclothing.com/policies/refund-policy",
+    "https://en.wikipedia.org/wiki/Affliction_Clothing"
+  ],
+  "notes": [
+    "affliction.com is a parked Digimedia domain, not the brand: any stored affliction.com URL is a wrong record. The official store is afflictionclothing.com (Wikipedia infobox and External links).",
+    "Homepage title \"Affliction Clothing – Live Fast\"; no self-description, so known_for is null.",
+    "Wikipedia: HQ Seal Beach, California (cites Entrepreneur, 2009); \"now owned by Affliction Holdings LLC\" (supported by trademark references). Founded 2005 per Wikipedia, but uncited, so founded_year is null. /pages/history returned 404.",
+    "Shipping policy: \"We ship to almost every country via FedEx International\" with an exclusion list; US standard $8.95 flat; no free-shipping threshold stated. Only US is stored.",
+    "Refund policy: 30 days; $7 restocking fee."
+  ],
+  "checked_at": "2026-10-29"
+}

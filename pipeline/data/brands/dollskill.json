@@ -33,14 +33,16 @@
     "https://help.dollskill.com/shipping-delivery/shipping-information",
     "https://help.dollskill.com/returns/returns",
     "https://help.dollskill.com/hc/en-us/articles/9236181811991-Size-Guide",
-    "https://en.wikipedia.org/wiki/Dolls_Kill"
+    "https://en.wikipedia.org/wiki/Dolls_Kill",
+    "https://www.dollskill.com/collections/jeans/products.json?limit=250"
   ],
   "notes": [
     "Retailer: sells third-party labels (Demonia, Ed Hardy, Von Dutch, Koi Footwear...) alongside ®-marked house labels (Club Exx, Current Mood, Widow...).",
     "Has its own category 'Women's Streetwear Clothing' (/collections/mia-sexy-streetwear) and a 'Plus Size Women's Streetwear' collection (WebSearch listing).",
     "Founded 2011 by Shoddy Lynn and Bobby Farahi, HQ San Francisco (Wikipedia infobox, citing GeekWire). Wikipedia names no current parent.",
     "Returns are issued as gift cards only ('All returns are issued gift cards').",
-    "Prices are null: collection pages render no products or prices to WebFetch (JS)."
+    "Prices are null: collection pages render no products or prices to WebFetch (JS).",
+    "2026-10-29: its Jeans collection (products.json pages 1, 3 and 4; page 2 returned HTTP 500) lists 18 Jaded London jeans at $80–$108 among 750 products, so Dolls Kill is a stockist of Jaded London, not an alternative to it. Its jeans category is used as co_stocked evidence for other brands on the jaded-london page."
   ],
-  "checked_at": "2026-10-28"
+  "checked_at": "2026-10-29"
 }

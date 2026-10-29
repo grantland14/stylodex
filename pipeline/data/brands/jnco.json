@@ -20,7 +20,21 @@
   ],
   "free_shipping_min_usd": null,
   "returns_days": 21,
-  "prices": [],
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 130,
+      "max": 350,
+      "min_usd": 130,
+      "max_usd": 350,
+      "fx_date": null,
+      "item_count": 62,
+      "source_url": "https://jnco.com/collections/womens-pants/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "collection titled \"Women's Jeans\"; 62 of 86 product_type Jeans at regular price (24 on sale excluded). Men's Jeans (/collections/mens-pants) also $130–$350 over 69 items"
+    }
+  ],
   "materials": [],
   "certifications": [],
   "production_model": null,
@@ -31,13 +45,16 @@
     "https://jnco.com/pages/shipping-returns-exchanges",
     "https://jnco.com/collections/mens-v2",
     "https://jnco.com/collections/womens-v2",
-    "https://jnco.com/collections/pants"
+    "https://jnco.com/collections/pants",
+    "https://jnco.com/collections/womens-pants/products.json?limit=250",
+    "https://jnco.com/collections/mens-pants/products.json?limit=250"
   ],
   "notes": [
     "Our Story: 'one of the most influential brands in streetwear history'; founder Milo Revah; timeline starts 1985 ('Los Angeles since 1985' on the homepage); 'the original JNCO family took the company back' in 2019. No parent company is named.",
     "Free shipping: none offered. US orders are a $10 flat rate ($25 AK/HI), so free_shipping_min_usd is null, not missing. International shipping is DHL worldwide.",
     "Waist 24–44 (women) / 26–44 (men); leg openings 20\"–50\" (collection filters).",
-    "Prices are null: collection pages list product names but no prices to WebFetch."
+    "Prices are null: collection pages list product names but no prices to WebFetch.",
+    "2026-10-29: jeans price added from products.json. Regular price = no variant with compare_at_price above price and no sale/markdown tag; sale items excluded."
   ],
-  "checked_at": "2026-10-28"
+  "checked_at": "2026-10-29"
 }

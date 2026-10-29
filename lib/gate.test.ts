@@ -115,3 +115,9 @@ test("an unverified brand (site refuses automated reads) is never a pick", () =>
   page.picks[0].brand.status = "unverified";
   assert.deepEqual(pickProblems(page.anchor, page.picks[0], "denim", NOW), ["brand not verified"]);
 });
+
+test("a pick that doesn't ship to the US is dropped", () => {
+  const page = fixturePage();
+  page.picks[0].brand.shipsTo = ["AU", "NZ"];
+  assert.deepEqual(pickProblems(page.anchor, page.picks[0], "denim", NOW), ["doesn't ship to the US"]);
+});

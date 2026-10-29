@@ -2,7 +2,7 @@
   "slug": "the-ragged-priest",
   "name": "The Ragged Priest",
   "website_url": "https://theraggedpriest.com",
-  "status": "off_category",
+  "status": "verified",
   "kind": "brand",
   "known_for": "Grunge Clothing & Fashion",
   "hq_country": null,
@@ -20,7 +20,21 @@
   ],
   "free_shipping_min_usd": 90,
   "returns_days": 28,
-  "prices": [],
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "GBP",
+      "min": 70,
+      "max": 80,
+      "min_usd": 93.01,
+      "max_usd": 106.3,
+      "fx_date": "2026-10-28",
+      "item_count": 8,
+      "source_url": "https://theraggedpriest.com/collections/jeans/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "all 8 items in the Jeans collection; 4 baggy, 4 flare, 4 low-rise by title; waist sizes 24–38"
+    }
+  ],
   "materials": [],
   "certifications": [],
   "production_model": null,
@@ -30,12 +44,18 @@
     "https://theraggedpriest.com/collections/shop-all",
     "https://theraggedpriest.com/pages/size-charts",
     "https://theraggedpriest.com/pages/delivery-information",
-    "https://theraggedpriest.com/policies/refund-policy"
+    "https://theraggedpriest.com/policies/refund-policy",
+    "https://theraggedpriest.com/collections/jeans/products.json?limit=250",
+    "https://theraggedpriest.com/cart.js",
+    "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
   ],
   "notes": [
     "Live and selling. It positions itself as 'Official Online Store | Grunge Clothing & Fashion', not as streetwear, so it is off_category under this run's rule (C = streetwear only when the brand's own site says so). Borderline: it sells baggy jeans, graphic tees and hoodies. A human may widen the rule.",
     "Prices are null: the store shows GBP only (36 regular-price items £35–£160). /en-us/ returned 404. Nothing converted.",
-    "Founding year and HQ were not found on fetched pages."
+    "Founding year and HQ were not found on fetched pages.",
+    "2026-10-29 re-check for C = jeans: status changed off_category -> verified (the off_category verdict was for the old streetwear category; it sells jeans). Regular price = no variant with compare_at_price above price and no sale/markdown tag; sale items excluded.",
+    "Store currency GBP (cart.js). USD at ECB 2026-10-28: USD per GBP = 1.1133/0.83785.",
+    "hq_country still null: /pages/about-us and /pages/about returned 404, and no Wikipedia article exists."
   ],
-  "checked_at": "2026-10-28"
+  "checked_at": "2026-10-29"
 }

@@ -23,8 +23,13 @@
   "prices": [
     {
       "category": "womenswear",
+      "currency": "USD",
+      "min": 46,
+      "max": 82,
       "min_usd": 46,
       "max_usd": 82,
+      "fx_date": null,
+      "item_count": null,
       "source_url": "https://o-mighty.com/products/1",
       "checked_at": "2026-10-28",
       "note": "60 items on page 1 of 'Everything'; no sale flags"
@@ -44,5 +49,5 @@
     "Womenswear (graphic tees, camis, yoga pants). No self-description beyond 'official website', and no streetwear positioning, so off_category.",
     "ships_to comes from the header claim 'Worldwide delivery'; the terms page was not read. Some product names are sexually explicit."
   ],
-  "checked_at": "2026-10-28"
+  "checked_at": "2026-10-29"
 }

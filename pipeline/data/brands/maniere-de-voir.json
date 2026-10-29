@@ -2,13 +2,13 @@
   "slug": "maniere-de-voir",
   "name": "Manière De Voir",
   "website_url": "https://www.manieredevoir.com",
-  "status": "off_category",
+  "status": "verified",
   "kind": "brand",
   "known_for": "Bridging High Fashion And High Street",
   "hq_country": "US",
   "founded_year": 2013,
   "parent_company": null,
-  "size_range": null,
+  "size_range": "Women's jeans US 0–12",
   "has_plus": null,
   "has_petite": null,
   "has_tall": null,
@@ -16,15 +16,33 @@
     "US"
   ],
   "free_shipping_min_usd": 250,
-  "returns_days": null,
+  "returns_days": 14,
   "prices": [
     {
       "category": "womenswear",
+      "currency": "USD",
+      "min": 90,
+      "max": 540,
       "min_usd": 90,
       "max_usd": 540,
+      "fx_date": null,
+      "item_count": null,
       "source_url": "https://us.manieredevoir.com/collections/womens-new-in",
       "checked_at": "2026-10-28",
       "note": "48 of 172 New In items, all regular price"
+    },
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 155,
+      "max": 200,
+      "min_usd": 155,
+      "max_usd": 200,
+      "fx_date": null,
+      "item_count": 31,
+      "source_url": "https://us.manieredevoir.com/collections/womens-jeans/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "collection \"Women's Jeans & Denim\": 31 jeans, none on sale; wide, straight and flared cuts; sizes US 0–12"
     }
   ],
   "materials": [],
@@ -34,11 +52,15 @@
   "sources": [
     "https://www.manieredevoir.com/",
     "https://us.manieredevoir.com/collections/womens-new-in",
-    "https://www.manieredevoir.com/pages/about-us"
+    "https://www.manieredevoir.com/pages/about-us",
+    "https://us.manieredevoir.com/collections/womens-jeans/products.json?limit=250",
+    "https://us.manieredevoir.com/policies/refund-policy"
   ],
   "notes": [
     "About: 'bridge the gap between high fashion and the high street'; founder and CEO Reece Wabara; founded 2013; head office SoHo, New York. It doesn't call itself streetwear, so off_category.",
-    "The US store (us.manieredevoir.com) prices in USD; the main site is GBP. Returns page not fetched."
+    "The US store (us.manieredevoir.com) prices in USD; the main site is GBP. Returns page not fetched.",
+    "2026-10-29 re-check for C = jeans: status off_category -> verified (sells jeans). Refund policy (US store): 14 days from delivery; sale items e-gift card only; returns address Freehold, NJ. First products.json request returned 503; the second returned 200. Regular price = no variant with compare_at_price above price and no sale/markdown tag; sale items excluded.",
+    "size_range is from the jeans variants (US 0–12), not a size guide."
   ],
-  "checked_at": "2026-10-28"
+  "checked_at": "2026-10-29"
 }

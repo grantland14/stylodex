@@ -1,0 +1,31 @@
+{
+  "slug": "the-kript",
+  "name": "The Kript",
+  "website_url": "https://thekript.com",
+  "status": "unverified",
+  "kind": "brand",
+  "known_for": null,
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [],
+  "free_shipping_min_usd": null,
+  "returns_days": null,
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://thekript.com/",
+    "https://thekript.com/collections.json?limit=250"
+  ],
+  "notes": [
+    "2026-10-29: thekript.com serves a JavaScript challenge page (\"Loading...\" with a redirect token) to WebFetch and to scripted reads, including collections.json and cart.js. Treated as a bot wall: no workaround. Human check needed (2 outside sources: worthybornedit, Dolls Kill jeans)."
+  ],
+  "checked_at": "2026-10-29"
+}

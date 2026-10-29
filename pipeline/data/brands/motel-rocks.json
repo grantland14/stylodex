@@ -2,7 +2,7 @@
   "slug": "motel-rocks",
   "name": "Motel Rocks",
   "website_url": "https://us.motelrocks.com",
-  "status": "off_category",
+  "status": "verified",
   "kind": "brand",
   "known_for": "Vintage & Printed Women's Fashion",
   "hq_country": null,
@@ -17,7 +17,21 @@
   ],
   "free_shipping_min_usd": 95,
   "returns_days": 30,
-  "prices": [],
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 89,
+      "max": 114,
+      "min_usd": 89,
+      "max_usd": 114,
+      "fx_date": null,
+      "item_count": 97,
+      "source_url": "https://us.motelrocks.com/collections/jeans/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "97 of 141 jeans items at regular price (44 on sale excluded); product types include Roomy (43), Parallel (41), Flared (28) jeans; waists W24–W36, lengths L30–L34"
+    }
+  ],
   "materials": [],
   "certifications": [],
   "production_model": "Designed in-house in London; production team in Canggu, Bali (About)",
@@ -27,12 +41,15 @@
     "https://us.motelrocks.com/collections/new-in",
     "https://us.motelrocks.com/pages/about-us",
     "https://us.motelrocks.com/pages/sizing",
-    "https://us.motelrocks.com/pages/returns"
+    "https://us.motelrocks.com/pages/returns",
+    "https://us.motelrocks.com/collections/jeans/products.json?limit=250",
+    "https://us.motelrocks.com/cart.js"
   ],
   "notes": [
     "Live. Self-description: 'Vintage & Printed Women's Fashion & Clothes'. The About page doesn't say streetwear, and the word appears only in individual product copy. Off_category under this run's rule.",
     "Returns: 30 days from dispatch. Jeans come in 30/32/34 inch leg lengths only. Founders 'Will and Andy'; independent; HQ not stated.",
-    "Prices null: New In rendered no products."
+    "Prices null: New In rendered no products.",
+    "2026-10-29 re-check for C = jeans: status off_category -> verified (sells jeans). Regular price = no variant with compare_at_price above price and no sale/markdown tag; sale items excluded."
   ],
-  "checked_at": "2026-10-28"
+  "checked_at": "2026-10-29"
 }

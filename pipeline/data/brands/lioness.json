@@ -1,0 +1,57 @@
+{
+  "slug": "lioness",
+  "name": "LIONESS",
+  "website_url": "https://lionessfashion.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": null,
+  "hq_country": "AU",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XXS–XXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "AUD",
+      "min": 79,
+      "max": 109,
+      "min_usd": 55.56,
+      "max_usd": 76.66,
+      "fx_date": "2026-10-28",
+      "item_count": 41,
+      "source_url": "https://lionessfashion.com/collections/denim/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "41 of 45 jeans in the Denim collection at regular price (4 on sale excluded)"
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://lionessfashion.com/",
+    "https://lionessfashion.com/collections/denim/products.json?limit=250",
+    "https://lionessfashion.com/cart.js",
+    "https://lionessfashion.com/pages/shipping-delivery",
+    "https://lionessfashion.com/pages/returns",
+    "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
+  ],
+  "notes": [
+    "Shipping page: \"All prices shown on LIONESS are in AUD\"; business based in Sydney, Australia. Its \"Delivery to\" list names Australia, UK, Canada, New Zealand, Europe, Asia and \"Rest of world\", but not the United States, so US is not stored. Free express worldwide shipping \"for qualifying orders\" (no threshold stated).",
+    "Returns: 30 days from delivery; international return shipping not covered.",
+    "known_for null: the homepage has no self-description (title is a shipping/Afterpay claim). founded_year null: only third-party sources found.",
+    "size_range is from the jeans variants (XXS–XXL), not a size guide.",
+    "A WebSearch for its About page found only third-party profiles; not used."
+  ],
+  "checked_at": "2026-10-29"
+}

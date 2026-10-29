@@ -44,7 +44,7 @@ Write `data/brands/{slug}.json` with the `stylodex.brands` columns:
 - `sources`: every URL used.
 
 ## §3 Pick
-A candidate becomes a pick only if: `status = verified`, it sells C, it has ≥1 outside source,
+A candidate becomes a pick only if: `status = verified`, it sells C, it ships to the US, it has ≥1 outside source,
 and there is one **specific, checkable reason** built from stored facts (price, material, fit,
 origin, aesthetic as the brand itself states it). Mood-only reasons ("similar vibe") fail.
 Rank by number of independent sources, then closeness of price range. Keep 6–12.

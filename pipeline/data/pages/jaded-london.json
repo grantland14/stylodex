@@ -3,9 +3,9 @@
   "slug": "jaded-london",
   "url_prefix": "brands",
   "category": {
-    "slug": "streetwear",
-    "name": "Streetwear",
-    "why": "Jaded London's own store (jadedldn.com) returned HTTP 403 to WebFetch, so its core line couldn't be read from the site directly. Search-index titles of its own pages read 'Women's Streetwear & Clothing' (/collections/womens-all) and 'Curated Premium Streetwear for Women' (/collections/womens). Wikipedia calls it a UK 'streetwear brand', and the Urban Outfitters stockist page calls it a 'UK-based streetwear label'. Its range spans tops, joggers/cargos, jeans and dresses (Urban Outfitters listing: ~20 tops, ~18 joggers/trousers/cargos, ~8 jeans, ~8 dresses of 72), so no single product type is its core. Streetwear is how it labels the whole range. PROVISIONAL until a human opens jadedldn.com. Because streetwear is a style, not a product type, 'sells C' was judged by one checkable rule: the brand's own site must use 'streetwear' in its title, About page or a category name. Product-copy mentions don't count."
+    "slug": "jeans",
+    "name": "Jeans",
+    "why": "C is a product type, so the style label \"streetwear\" was dropped. Jeans is Jaded London's hero line: discobrands (re-read 2026-10-29) titles its list \"Brands like Jaded London for Baggy Denim and Y2K\" and says the brand's look is \"very baggy denim and cargos, washed finishes, Y2K references and women's going-out pieces\" and refers to \"the exaggerated leg volume that drives this label's jeans\". Retailers stock it as a jeans brand: Revolve has a dedicated Jaded London Denim page (https://www.revolve.com/jaded-london-denim/br/2b84aa/, 14 denim items) and Dolls Kill's jeans collection carries 18 Jaded London jeans. Its own store has Women's Jeans, Women's Baggy Jeans and Colossus Jeans collections (WebSearch listing of jadedldn.com; not fetched, 403). Tops and joggers outnumbered jeans on the first run's Urban Outfitters listing (~20 tops, ~18 joggers/cargos, ~8 jeans of 72), so jeans is chosen as the line the brand is known for, not its largest category. PROVISIONAL until a human confirms on jadedldn.com (human_check)."
   },
   "serp": [
     {
@@ -90,7 +90,8 @@
       "position": 8,
       "url": "https://www.discobrands.co/blogs/13-brands-like-jaded-london",
       "kept": true,
-      "why_dropped": null
+      "why_dropped": null,
+      "note": "re-read 2026-10-29: now titled \"14 Brands like Jaded London for Baggy Denim and Y2K (2026)\", reviewed by Dante Phillips, October 2026 (Ahrefs SERP title: \"21 Brands like Jaded London - disco\"); same 14 brands as the first run"
     },
     {
       "keyword": "brands like jaded london",
@@ -145,8 +146,8 @@
       "keyword": "brands like jaded london",
       "position": 10,
       "url": "https://www.mumsnet.com/talk/style_and_beauty/5115973-if-you-wear-a-lot-of-all-saints-would-you-say-your-style-is-edgy?page=2",
-      "kept": true,
-      "why_dropped": null
+      "kept": false,
+      "why_dropped": "thread is about AllSaints and edgy style, not an alternatives list for Jaded London; it names Jaded London alongside other brands but recommends nothing as an alternative to it (dropped 2026-10-29)"
     },
     {
       "keyword": "stores like jaded london",
@@ -301,6 +302,298 @@
       "url": "https://www.whowhatwear.com/small-brands-shopping-edit",
       "kept": false,
       "why_dropped": "WebFetch returned only the title (134 chars); body not readable, so no co-mention could be checked"
+    },
+    {
+      "keyword": "jaded london alternatives",
+      "position": 1,
+      "url": null,
+      "kept": false,
+      "why_dropped": "AI Overview block (no URL)"
+    },
+    {
+      "keyword": "jaded london alternatives",
+      "position": 1,
+      "url": "https://ca.pinterest.com/pin/13-brands-like-jaded-london--553379872981803658/",
+      "kept": false,
+      "why_dropped": "Pinterest pin of the discobrands article (duplicate, aggregator)"
+    },
+    {
+      "keyword": "jaded london alternatives",
+      "position": 1,
+      "url": "https://www.tiktok.com/discover/jaded-london-alternatives",
+      "kept": false,
+      "why_dropped": "TikTok discover page, aggregator"
+    },
+    {
+      "keyword": "jaded london alternatives",
+      "position": 1,
+      "url": "https://www.tiktok.com/discover/brands-similar-to-jaded-london-men",
+      "kept": false,
+      "why_dropped": "TikTok discover page, aggregator"
+    },
+    {
+      "keyword": "jaded london alternatives",
+      "position": 2,
+      "url": "https://www.reddit.com/r/vinted/comments/12ulp5h/hi_do_you_know_some_brands_similar_to_collusion/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "jaded london alternatives",
+      "position": 2,
+      "url": "https://www.reddit.com/r/ethicalfashion/comments/1uuh9y4/ethical_shops_like_jaded_london/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "jaded london alternatives",
+      "position": 2,
+      "url": "https://www.reddit.com/r/malefashionadvice/comments/1ojjtr0/are_there_any_cheap_alternatives_for_these_one/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "jaded london alternatives",
+      "position": 2,
+      "url": "https://www.google.com/search?q=jaded+london+alternatives+site:www.reddit.com",
+      "kept": false,
+      "why_dropped": "Google 'more results' link"
+    },
+    {
+      "keyword": "jaded london alternatives",
+      "position": 3,
+      "url": "https://www.tiktok.com/discover/jaded-london-alternatives",
+      "kept": false,
+      "why_dropped": "TikTok discover page, aggregator"
+    },
+    {
+      "keyword": "jaded london alternatives",
+      "position": 4,
+      "url": null,
+      "kept": false,
+      "why_dropped": "People Also Ask questions (no URL): \"Is Jaded London just SHEIN?\", \"Why is Jaded London so expensive now?\", \"What brands is Gen Z obsessed with?\", \"What is the 3-3-3 rule for clothing?\""
+    },
+    {
+      "keyword": "jaded london alternatives",
+      "position": 5,
+      "url": "https://ca.pinterest.com/pin/13-brands-like-jaded-london--553379872981803658/",
+      "kept": false,
+      "why_dropped": "Pinterest pin of the discobrands article (duplicate)"
+    },
+    {
+      "keyword": "jaded london alternatives",
+      "position": 6,
+      "url": "https://www.tiktok.com/@clo3simone/video/7612620656299003158",
+      "kept": false,
+      "why_dropped": "social video; not fetchable as text"
+    },
+    {
+      "keyword": "jaded london alternatives",
+      "position": 7,
+      "url": "https://worthybornedit.com/10-edgy-streetwear-brands-like-jaded-london/",
+      "kept": true,
+      "why_dropped": null,
+      "note": "already read for \"stores like jaded london\"; same page"
+    },
+    {
+      "keyword": "jaded london alternatives",
+      "position": 8,
+      "url": "https://ws-cor.revolve.com/content/mobile/products/similaritems/JLON-WD34",
+      "kept": false,
+      "why_dropped": "retailer similar-items widget for one Jaded London product; WebFetch got HTTP 503, not read"
+    },
+    {
+      "keyword": "jaded london alternatives",
+      "position": 8,
+      "url": "https://www.google.com/m/storepages?q=revolve.com&c=US&hl=en-US",
+      "kept": false,
+      "why_dropped": "Google store-pages link"
+    },
+    {
+      "keyword": "jaded london alternatives",
+      "position": 9,
+      "url": "https://www.tiktok.com/discover/clothing-brands-like-jaded-ldn",
+      "kept": false,
+      "why_dropped": "TikTok discover page, aggregator"
+    },
+    {
+      "keyword": "jaded london alternatives",
+      "position": 10,
+      "url": "https://www.discobrands.co/blogs/13-brands-like-jaded-london",
+      "kept": true,
+      "why_dropped": null,
+      "note": "already read for \"brands like jaded london\"; same page"
+    },
+    {
+      "keyword": "similar to jaded london",
+      "position": 1,
+      "url": null,
+      "kept": false,
+      "why_dropped": "AI Overview block (no URL)"
+    },
+    {
+      "keyword": "similar to jaded london",
+      "position": 1,
+      "url": "https://ws-cor.revolve.com/content/mobile/products/similaritems/JLON-WD34",
+      "kept": false,
+      "why_dropped": "AI Overview link; retailer similar-items widget; HTTP 503, not read"
+    },
+    {
+      "keyword": "similar to jaded london",
+      "position": 1,
+      "url": "https://ca.pinterest.com/pin/13-brands-like-jaded-london--553379872981803658/",
+      "kept": false,
+      "why_dropped": "Pinterest pin of the discobrands article (duplicate)"
+    },
+    {
+      "keyword": "similar to jaded london",
+      "position": 1,
+      "url": "https://worthybornedit.com/10-edgy-streetwear-brands-like-jaded-london/",
+      "kept": true,
+      "why_dropped": null,
+      "note": "AI Overview link; same page as organic #7"
+    },
+    {
+      "keyword": "similar to jaded london",
+      "position": 2,
+      "url": "https://ws-cor.revolve.com/content/mobile/products/similaritems/JLON-WD34",
+      "kept": false,
+      "why_dropped": "HTTP 503, not read"
+    },
+    {
+      "keyword": "similar to jaded london",
+      "position": 2,
+      "url": "https://www.google.com/m/storepages?q=revolve.com&c=US&hl=en-US",
+      "kept": false,
+      "why_dropped": "Google store-pages link"
+    },
+    {
+      "keyword": "similar to jaded london",
+      "position": 3,
+      "url": null,
+      "kept": false,
+      "why_dropped": "People Also Ask questions (no URL): \"Is Jaded London just shein?\", \"What fashion style is Jaded London?\", \"Why is Jaded London so expensive now?\", \"What is the coolest Gen Z clothing brand?\""
+    },
+    {
+      "keyword": "similar to jaded london",
+      "position": 4,
+      "url": "https://ca.pinterest.com/pin/13-brands-like-jaded-london--553379872981803658/",
+      "kept": false,
+      "why_dropped": "Pinterest pin (duplicate)"
+    },
+    {
+      "keyword": "similar to jaded london",
+      "position": 5,
+      "url": "https://www.reddit.com/r/ethicalfashion/comments/1uuh9y4/ethical_shops_like_jaded_london/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "similar to jaded london",
+      "position": 5,
+      "url": "https://www.reddit.com/r/vinted/comments/12ulp5h/hi_do_you_know_some_brands_similar_to_collusion/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "similar to jaded london",
+      "position": 5,
+      "url": "https://www.reddit.com/r/findfashion/comments/1cr3ass/where_can_i_find_clothes_like_this_besides/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "similar to jaded london",
+      "position": 5,
+      "url": "https://www.google.com/search?q=similar+to+jaded+london+site:www.reddit.com",
+      "kept": false,
+      "why_dropped": "Google 'more results' link"
+    },
+    {
+      "keyword": "similar to jaded london",
+      "position": 6,
+      "url": "https://www.tiktok.com/discover/similar-stores-like-jaded-london",
+      "kept": false,
+      "why_dropped": "TikTok discover page, aggregator"
+    },
+    {
+      "keyword": "similar to jaded london",
+      "position": 7,
+      "url": "https://worthybornedit.com/10-edgy-streetwear-brands-like-jaded-london/",
+      "kept": true,
+      "why_dropped": null,
+      "note": "same page as above"
+    },
+    {
+      "keyword": "similar to jaded london",
+      "position": 8,
+      "url": "https://www.instagram.com/popular/brands-similar-to-jaded-london/",
+      "kept": false,
+      "why_dropped": "Instagram tag aggregator"
+    },
+    {
+      "keyword": "similar to jaded london",
+      "position": 9,
+      "url": "https://shop.tiktok.com/us/k/brands-like-jaded-london",
+      "kept": false,
+      "why_dropped": "marketplace (TikTok Shop) search page"
+    },
+    {
+      "keyword": "similar to jaded london",
+      "position": 10,
+      "url": "https://www.whowhatwear.com/fashion/affordable/alternative-high-street-brands",
+      "kept": false,
+      "why_dropped": "WebFetch returned only the title (\"7 Cool Brands to Shop on the High Street\"); body not readable, so no co-mention could be checked"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": "Urban Outfitters",
+      "url": "https://www.urbanoutfitters.com/brands/jaded-london",
+      "used": false,
+      "why": "HTTP 403 to WebFetch (2026-10-29)"
+    },
+    {
+      "retailer": "Urban Outfitters",
+      "url": "https://www.urbanoutfitters.com/womens-jeans",
+      "used": false,
+      "why": "HTTP 403 to WebFetch"
+    },
+    {
+      "retailer": "Urban Outfitters",
+      "url": "https://www.urbanoutfitters.com/en-gb/brands/jaded-london",
+      "used": false,
+      "why": "HTTP 403 to WebFetch (the first run could read it on 2026-10-28)"
+    },
+    {
+      "retailer": "Urban Outfitters",
+      "url": "https://www.urbanoutfitters.com/en-gb/womens-jeans",
+      "used": false,
+      "why": "HTTP 403 to WebFetch"
+    },
+    {
+      "retailer": "Revolve",
+      "url": "https://www.revolve.com/jaded-london-denim/br/2b84aa/",
+      "used": false,
+      "why": "read: confirms Revolve stocks Jaded London denim (14 denim items, regular $145–$200), but the page is brand-only, so it names no other brands"
+    },
+    {
+      "retailer": "Revolve",
+      "url": "https://www.revolve.com/denim-flared-wide-leg/br/2a81b5/",
+      "used": false,
+      "why": "read: 1,598 items claimed, 12 rendered, none Jaded London; the Jaded product page (https://www.revolve.com/jaded-london-colossus-baggy-jeans-in-sand/dp/JLON-WJ4/) shows only a brand breadcrumb, so it can't be confirmed that Jaded sits in this category"
+    },
+    {
+      "retailer": "Revolve",
+      "url": "https://www.revolve.com/v/baggy-jeans",
+      "used": false,
+      "why": "read: \"Baggy Black Jeans\", 21 items from 14 brands, none Jaded London"
+    },
+    {
+      "retailer": "Dolls Kill",
+      "url": "https://www.dollskill.com/collections/jeans",
+      "used": true,
+      "why": "products.json (pages 1, 3, 4; page 2 HTTP 500) lists 750 jeans products including 18 Jaded London jeans, so every other brand vendor in it is co_stocked with Jaded's jeans. Excluded as brands: Dolls Kill house lines (vendor names containing \"Dolls Kill\", plus Current Mood, Widow, Club Exx), and vendor names prefixed \"x_\" (look like supplier codes, not brand names)."
     }
   ],
   "candidates": [
@@ -331,6 +624,11 @@
         {
           "kind": "serp_comention",
           "url": "https://worthybornedit.com/10-edgy-streetwear-brands-like-jaded-london/"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "91 The Ragged Priest products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
         }
       ]
     },
@@ -508,7 +806,8 @@
           "kind": "serp_comention",
           "url": "https://worthybornedit.com/10-edgy-streetwear-brands-like-jaded-london/"
         }
-      ]
+      ],
+      "note": "Dolls Kill stocks Jaded London (18 Jaded jeans in its jeans collection)"
     },
     {
       "name": "LIONESS",
@@ -518,6 +817,12 @@
         {
           "kind": "serp_comention",
           "url": "https://worthybornedit.com/10-edgy-streetwear-brands-like-jaded-london/"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "Dolls Kill vendor name \"Lioness\" (product page https://www.dollskill.com/products/denim-stripe-eivissa-baggy-jeans names only \"Lioness\"); not confirmed to be LIONESS of lionessfashion.com, so not counted",
+          "counted": false
         }
       ]
     },
@@ -540,6 +845,11 @@
         {
           "kind": "serp_comention",
           "url": "https://worthybornedit.com/10-edgy-streetwear-brands-like-jaded-london/"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "14 THE KRIPT products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
         }
       ]
     },
@@ -551,6 +861,11 @@
         {
           "kind": "serp_comention",
           "url": "https://worthybornedit.com/10-edgy-streetwear-brands-like-jaded-london/"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "28 Edikted products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
         }
       ]
     },
@@ -558,12 +873,7 @@
       "name": "Drop Dead Clothing",
       "slug": "drop-dead-clothing",
       "in_apart_pool": false,
-      "sources": [
-        {
-          "kind": "serp_comention",
-          "url": "https://www.mumsnet.com/talk/style_and_beauty/5115973-if-you-wear-a-lot-of-all-saints-would-you-say-your-style-is-edgy?page=2"
-        }
-      ]
+      "sources": []
     },
     {
       "name": "Minga London",
@@ -571,8 +881,10 @@
       "in_apart_pool": false,
       "sources": [
         {
-          "kind": "serp_comention",
-          "url": "https://www.mumsnet.com/talk/style_and_beauty/5115973-if-you-wear-a-lot-of-all-saints-would-you-say-your-style-is-edgy?page=2"
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "Dolls Kill vendor name \"Minga\" (product page https://www.dollskill.com/products/sweetheart-denim-mom-jeans names only \"Minga\"); not confirmed to be Minga London, so not counted",
+          "counted": false
         }
       ]
     },
@@ -730,7 +1042,13 @@
       "name": "Lazy Oaf",
       "slug": "lazy-oaf",
       "in_apart_pool": true,
-      "sources": []
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "5 Lazy Oaf products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
     },
     {
       "name": "Rebellious Fashion",
@@ -760,7 +1078,13 @@
       "name": "MinkPink",
       "slug": "minkpink",
       "in_apart_pool": true,
-      "sources": []
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "2 Mink Pink products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
     },
     {
       "name": "Dracula Clothing",
@@ -784,7 +1108,13 @@
       "name": "Tripp NYC",
       "slug": "tripp-nyc",
       "in_apart_pool": true,
-      "sources": []
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "12 Tripp NYC products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
     },
     {
       "name": "Stray Rats",
@@ -815,329 +1145,1628 @@
       "slug": "nasty-gal",
       "in_apart_pool": true,
       "sources": []
+    },
+    {
+      "name": "Momokrom",
+      "slug": "momokrom",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "53 Momokrom products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "BDG",
+      "slug": "bdg",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "28 BDG products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Rollas",
+      "slug": "rollas",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "21 Rollas products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Daze",
+      "slug": "daze",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "14 Daze products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Levis",
+      "slug": "levis",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "13 Levis products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "BY DYLN",
+      "slug": "by-dyln",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "12 BY DYLN products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Generation Kiss",
+      "slug": "generation-kiss",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "11 Generation Kiss products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "ABRAND JEANS",
+      "slug": "abrand-jeans",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "11 ABRAND JEANS products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Pistola",
+      "slug": "pistola",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "9 Pistola products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Daisy Street",
+      "slug": "daisy-street",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "9 Daisy Street products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "ZEMETA",
+      "slug": "zemeta",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "8 ZEMETA products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "DARKER WAVS",
+      "slug": "darker-wavs",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "7 DARKER WAVS products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "DOGMA",
+      "slug": "dogma",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "7 DOGMA products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Milk It",
+      "slug": "milk-it",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "7 Milk It products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Poster Grl",
+      "slug": "poster-grl",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "7 Poster Grl products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Hidden Denim",
+      "slug": "hidden-denim",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "7 Hidden Denim products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "ZGY",
+      "slug": "zgy",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "7 ZGY products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "HOROSCOPEZ",
+      "slug": "horoscopez",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "7 HOROSCOPEZ products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Sugar Thrillz",
+      "slug": "sugar-thrillz",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "6 Sugar Thrillz products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "One Teaspoon",
+      "slug": "one-teaspoon",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "4 One Teaspoon products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Just Black Denim",
+      "slug": "just-black-denim",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "4 Just Black Denim products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Cute Mistake",
+      "slug": "cute-mistake",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "4 Cute Mistake products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Another Girl",
+      "slug": "another-girl",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "4 Another Girl products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "THRILLS",
+      "slug": "thrills",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "3 THRILLS products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Cheap Monday",
+      "slug": "cheap-monday",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "3 Cheap Monday products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Free People",
+      "slug": "free-people",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "3 Free People products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Wildfox Couture",
+      "slug": "wildfox-couture",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "3 Wildfox Couture products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Articles of Society",
+      "slug": "articles-of-society",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "3 Articles of Society products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Elsie & Fred",
+      "slug": "elsie-and-fred",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "3 Elsie & Fred products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "True Religion Brand Jeans",
+      "slug": "true-religion-brand-jeans",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "3 True Religion Brand Jeans products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Blank NYC",
+      "slug": "blank-nyc",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "3 Blank NYC products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "NGOrder",
+      "slug": "ngorder",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "3 NGOrder products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Ksubi",
+      "slug": "ksubi",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "2 Ksubi products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Neon Blonde",
+      "slug": "neon-blonde",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "2 Neon Blonde products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "SIWY Denim",
+      "slug": "siwy-denim",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "2 SIWY Denim products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Pleasures",
+      "slug": "pleasures",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "2 Pleasures products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "No Dress",
+      "slug": "no-dress",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "2 No Dress products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "VIGOSS",
+      "slug": "vigoss",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "2 VIGOSS products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Glamorous",
+      "slug": "glamorous",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "2 Glamorous products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Courtshop",
+      "slug": "courtshop",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "2 Courtshop products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Obey",
+      "slug": "obey",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "2 Obey products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Kickers",
+      "slug": "kickers",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "2 Kickers products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Pretty Garbage",
+      "slug": "pretty-garbage",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "2 Pretty Garbage products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "The Grave Girls",
+      "slug": "the-grave-girls",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "2 The Grave Girls products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Trickz N' Treatz",
+      "slug": "trickz-n-treatz",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "1 Trickz N' Treatz products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "JET by John Eshaya",
+      "slug": "jet-by-john-eshaya",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "1 JET by John Eshaya products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Somedays Lovin",
+      "slug": "somedays-lovin",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "1 Somedays Lovin products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Little Sunny Bite",
+      "slug": "little-sunny-bite",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "1 Little Sunny Bite products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "One Above Another",
+      "slug": "one-above-another",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "1 One Above Another products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "EVIDNT",
+      "slug": "evidnt",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "1 EVIDNT products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Junker",
+      "slug": "junker",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "1 Junker products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Liquor N Poker",
+      "slug": "liquor-n-poker",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "1 Liquor N Poker products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Ivy Berlin",
+      "slug": "ivy-berlin",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "1 Ivy Berlin products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "FAN ALL FLAMES",
+      "slug": "fan-all-flames",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "1 FAN ALL FLAMES products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Basic Pleasure Mode",
+      "slug": "basic-pleasure-mode",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "1 Basic Pleasure Mode products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Kill City",
+      "slug": "kill-city",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "1 Kill City products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "I AM GIA",
+      "slug": "i-am-gia",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "1 I AM GIA products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Dickies Girl",
+      "slug": "dickies-girl",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "1 Dickies Girl products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Expired Girl",
+      "slug": "expired-girl",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "1 Expired Girl products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "RIPNDIP",
+      "slug": "ripndip",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "1 RIPNDIP products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Whatever 21",
+      "slug": "whatever-21",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "1 Whatever 21 products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Twiin",
+      "slug": "twiin",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "1 Twiin products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "WeWoreWhat",
+      "slug": "weworewhat",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "1 WeWoreWhat products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Punk Rave",
+      "slug": "punk-rave",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "1 Punk Rave products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "Neuw",
+      "slug": "neuw",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "1 Neuw products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
+    },
+    {
+      "name": "BADEE",
+      "slug": "badee",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "1 BADEE products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
+        }
+      ]
     }
   ],
   "picks": [
     {
-      "slug": "mnml",
+      "slug": "the-ragged-priest",
       "rank": 1,
-      "reason": "mnml is a Los Angeles label whose own site sells 'Modern Streetwear' tees at $48–$56 regular price, with free US shipping over $50 and 30-day returns.",
+      "independent_sources": 3,
+      "single_source": false,
+      "price": {
+        "currency": "GBP",
+        "min": 70,
+        "max": 80,
+        "min_usd": 93.01,
+        "max_usd": 106.3,
+        "fx_date": "2026-10-28",
+        "item_count": 8
+      },
+      "price_relation": null,
+      "reason": "The Ragged Priest's own store lists 8 regular-price jeans at £70–£80 (4 of them baggy cuts) in waists 24–38, and ships to the US with 28-day returns.",
       "evidence": [
         {
           "kind": "serp_comention",
           "url": "https://www.discobrands.co/blogs/13-brands-like-jaded-london",
-          "note": "Listed as a top pick among 13 brands like Jaded London: baggy denim, cargos, washed streetwear (reviewed by Dante Phillips, Oct 2026)"
-        }
-      ]
-    },
-    {
-      "slug": "minga-london",
-      "rank": 2,
-      "reason": "Like Jaded London, which started in East London around 2013, Minga London was born in East London in 2014; its US store sells a 'Men's Clothing & Streetwear' range at $130–$140.",
-      "evidence": [
-        {
-          "kind": "serp_comention",
-          "url": "https://www.mumsnet.com/talk/style_and_beauty/5115973-if-you-wear-a-lot-of-all-saints-would-you-say-your-style-is-edgy?page=2",
-          "note": "Forum post (Mumsnet) names 'Drop dead Clothing, mingalondon, Jaded London' together as 'great for alt clothing or an edgier vibe'"
-        }
-      ]
-    },
-    {
-      "slug": "hoodrich",
-      "rank": 3,
-      "reason": "Like Jaded London (founded 2013), Hoodrich is a UK streetwear label of the same era, founded in Birmingham in 2014, shipping to the US free over $150 with 30-day returns.",
-      "evidence": [
-        {
-          "kind": "serp_comention",
-          "url": "https://www.discobrands.co/blogs/13-brands-like-jaded-london",
-          "note": "Listed among brands like Jaded London for tracksuits and matching streetwear sets"
-        }
-      ]
-    },
-    {
-      "slug": "dollskill",
-      "rank": 4,
-      "reason": "Dolls Kill is a San Francisco retailer with its own 'Women's Streetwear Clothing' category and women's sizes XXS–3X, including a plus-size streetwear section.",
-      "evidence": [
+          "note": "Top pick: \"Statement jeans, distressed finishes and alternative Y2K styling.\""
+        },
         {
           "kind": "serp_comention",
           "url": "https://worthybornedit.com/10-edgy-streetwear-brands-like-jaded-london/",
-          "note": "Listed #5 of 10 brands like Jaded London for edgy streetwear (Worthy Born, 2025-02-17)"
+          "note": "#10: \"brings a similar vibe to Jaded London's styles.\""
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "91 The Ragged Priest products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
         }
+      ],
+      "gate_gaps": [
+        "hq_country",
+        "image_url",
+        "body"
       ]
     },
     {
       "slug": "edikted",
-      "rank": 5,
-      "reason": "Edikted is a Los Angeles brand that says its range is 'inspired by top streetwear looks', with petite and tall collections and free US shipping over $80.",
+      "rank": 2,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "Edikted, a Los Angeles brand with its own petite and tall collections, lists 484 jeans on its store, 349 of them baggy and 456 low-rise, and offers free US shipping over $80.",
       "evidence": [
         {
           "kind": "serp_comention",
           "url": "https://worthybornedit.com/10-edgy-streetwear-brands-like-jaded-london/",
-          "note": "Listed #9 of 10 brands like Jaded London (Gen Z-focused, low-rise jeans)"
+          "note": "#9: \"delivers stylish pieces at affordable prices, much like Jaded London.\""
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "28 Edikted products in the Dolls Kill jeans collection that lists 18 Jaded London jeans"
         }
+      ],
+      "gate_gaps": [
+        "price:jeans",
+        "image_url",
+        "body"
+      ]
+    },
+    {
+      "slug": "mnml",
+      "rank": 3,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 72,
+        "max": 98,
+        "min_usd": 72,
+        "max_usd": 98,
+        "fx_date": null,
+        "item_count": 85
+      },
+      "price_relation": null,
+      "reason": "mnml's own store sells 85 regular-price jeans at $72–$98, including baggy, flare and rave cuts, in waists 28–42, with free US shipping over $50 and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-jaded-london",
+          "note": "Listed as a top pick: \"Baggy denim, cargos and washed streetwear fits for everyday wear.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url",
+        "body"
       ]
     },
     {
       "slug": "jnco",
-      "rank": 6,
-      "reason": "JNCO has sold wide-leg jeans from Los Angeles since 1985, calls itself 'one of the most influential brands in streetwear history', and stocks waists 24–44.",
+      "rank": 4,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 130,
+        "max": 350,
+        "min_usd": 130,
+        "max_usd": 350,
+        "fx_date": null,
+        "item_count": 62
+      },
+      "price_relation": null,
+      "reason": "JNCO has made wide-leg jeans in Los Angeles since 1985; its store lists 62 regular-price women's jeans at $130–$350 in waists 24–44.",
       "evidence": [
         {
           "kind": "serp_comention",
           "url": "https://www.discobrands.co/blogs/13-brands-like-jaded-london",
-          "note": "Listed as a top pick among brands like Jaded London: very wide-leg denim with a rave and skate identity"
+          "note": "Top pick: \"Very wide-leg denim with a rave and skate attitude.\""
         }
+      ],
+      "gate_gaps": [
+        "image_url",
+        "body"
+      ]
+    },
+    {
+      "slug": "maniere-de-voir",
+      "rank": 5,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 155,
+        "max": 200,
+        "min_usd": 155,
+        "max_usd": 200,
+        "fx_date": null,
+        "item_count": 31
+      },
+      "price_relation": null,
+      "reason": "Manière De Voir's US store lists 31 women's jeans at $155–$200 in wide, straight and flared cuts, sizes US 0–12, with free US shipping over $250.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-jaded-london",
+          "note": "\"Sculpted fashion silhouettes that share this label's shape-first approach to women's going-out dressing.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url",
+        "body"
       ]
     },
     {
       "slug": "represent",
-      "rank": 7,
-      "reason": "Like Jaded London, Represent is a British streetwear label: it calls itself 'a British luxury streetwear brand', founded in Manchester in 2011, and runs its own USD store.",
+      "rank": 6,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 245,
+        "max": 260,
+        "min_usd": 245,
+        "max_usd": 260,
+        "fx_date": null,
+        "item_count": 5
+      },
+      "price_relation": null,
+      "reason": "Represent, which calls itself a British luxury streetwear brand, sells 5 regular-price jeans on its US store at $245–$260, including the R3 Baggy Jean, with free US shipping over $175.",
       "evidence": [
         {
           "kind": "serp_comention",
           "url": "https://www.discobrands.co/blogs/13-brands-like-jaded-london",
-          "note": "Listed among brands like Jaded London: washed, oversized menswear with faded finishes"
+          "note": "\"Washed, oversized menswear that shares this label's faded finishes and roomy fits.\""
         }
+      ],
+      "gate_gaps": [
+        "image_url",
+        "body"
+      ]
+    },
+    {
+      "slug": "motel-rocks",
+      "rank": 7,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 89,
+        "max": 114,
+        "min_usd": 89,
+        "max_usd": 114,
+        "fx_date": null,
+        "item_count": 97
+      },
+      "price_relation": null,
+      "reason": "Motel Rocks' US store lists 97 regular-price jeans at $89–$114, mostly its Roomy, Parallel and Flared fits, in waists 24–36, with free US shipping over $95.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/10-edgy-streetwear-brands-like-jaded-london/",
+          "note": "#2: \"Like Jaded London, it offers a mix of trendy fashion and unique designs that make a statement.\""
+        }
+      ],
+      "gate_gaps": [
+        "hq_country",
+        "image_url",
+        "body"
+      ]
+    },
+    {
+      "slug": "affliction",
+      "rank": 8,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 99.95,
+        "max": 125,
+        "min_usd": 99.95,
+        "max_usd": 125,
+        "fx_date": null,
+        "item_count": 5
+      },
+      "price_relation": null,
+      "reason": "Affliction, a Seal Beach, California label, sells 5 regular-price women's jeans at $99.95–$125 in waists 24–34, with 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-jaded-london",
+          "note": "\"Tattoo-style graphics with a Y2K feel, the same era-referencing statement styling this label uses.\""
+        }
+      ],
+      "gate_gaps": [
+        "known_for",
+        "image_url",
+        "body"
+      ]
+    },
+    {
+      "slug": "lioness",
+      "rank": 9,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "AUD",
+        "min": 79,
+        "max": 109,
+        "min_usd": 55.56,
+        "max_usd": 76.66,
+        "fx_date": "2026-10-28",
+        "item_count": 41
+      },
+      "price_relation": null,
+      "reason": "LIONESS, a Sydney label, lists 41 regular-price jeans at A$79–A$109 in sizes XXS–XXL, with 30-day returns; it does not list the US as a delivery destination.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/10-edgy-streetwear-brands-like-jaded-london/",
+          "note": "#6: \"Like Jaded London, its apparel brings bold urban styles designed for confident fashion lovers.\""
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "counted": false,
+          "note": "Dolls Kill vendor name \"Lioness\" (product page https://www.dollskill.com/products/denim-stripe-eivissa-baggy-jeans names only \"Lioness\"); not confirmed to be LIONESS of lionessfashion.com, so not counted"
+        }
+      ],
+      "gate_gaps": [
+        "known_for",
+        "ships_to:US",
+        "image_url",
+        "body"
       ]
     }
   ],
   "rejected": [
     {
       "slug": "weekday",
-      "why": "unverified: weekday.com returned HTTP 403 to WebFetch. Has 2 sources (the most of any candidate), so it gets the first human check."
-    },
-    {
-      "slug": "bershka",
-      "why": "unverified: bershka.com/us/ returned HTTP 403 to WebFetch; human check"
-    },
-    {
-      "slug": "the-ragged-priest",
-      "why": "off_category: positions itself as 'Grunge Clothing & Fashion', not streetwear (2 sources; borderline, human may widen C). No USD prices either (GBP only)"
-    },
-    {
-      "slug": "named-collective",
-      "why": "off_category (borderline): own positioning is 'Independent fashion label' / 'London-based independent collective', with no streetwear claim on fetched pages; GBP-only prices"
-    },
-    {
-      "slug": "motel-rocks",
-      "why": "off_category: 'Vintage & Printed Women's Fashion'; streetwear appears only in product copy"
-    },
-    {
-      "slug": "maniere-de-voir",
-      "why": "off_category: positions itself as bridging 'high fashion and the high street'; also $90–$540 womenswear"
-    },
-    {
-      "slug": "other-uk",
-      "why": "off_category: 'Officially Licensed Rock Clothing'"
-    },
-    {
-      "slug": "o-mighty",
-      "why": "off_category: graphic womenswear with no streetwear positioning; stored URL omighty.com redirects to o-mighty.com"
+      "why": "unverified: weekday.com returned HTTP 403 again (2026-10-29, /en-us/women/jeans/). 2 sources; first in the human-check queue."
     },
     {
       "slug": "urban-outfitters",
-      "why": "retailer that stocks Jaded London itself (urbanoutfitters.com/en-gb/brands/jaded-london), so it is a place to buy Jaded, not an alternative brand; not verified"
+      "why": "retailer that stocks Jaded London itself; a place to buy Jaded, not an alternative brand."
     },
     {
       "slug": "asos",
-      "why": "not verified this run: 15-candidate cap (1 source each; lower priority than streetwear-led or Apart-pool brands); also a marketplace (kind=marketplace), which §1 drops"
+      "why": "marketplace (kind=marketplace), which §1 drops; also stocks third-party brands."
+    },
+    {
+      "slug": "named-collective",
+      "why": "off_category for jeans: its denim collection serves 1 product (sweatpants) and /collections/jeans none."
+    },
+    {
+      "slug": "hoodrich",
+      "why": "sells jeans only marginally: its All Denim collection serves 2 products, 1 at regular price (£70); discobrands names it for tracksuits and sets. A jeans pick would rest on one item. Human may override."
+    },
+    {
+      "slug": "o-mighty",
+      "why": "not re-checked for jeans (15-brand cap); first run saw graphic womenswear, tops and yoga pants, no jeans."
     },
     {
       "slug": "black-milk",
-      "why": "not verified this run: 15-candidate cap (1 source each; lower priority than streetwear-led or Apart-pool brands)"
+      "why": "not verified this run: 15-brand cap (1 source; serp_comention)"
     },
     {
-      "slug": "affliction",
-      "why": "not verified this run: 15-candidate cap (1 source each; lower priority than streetwear-led or Apart-pool brands)"
+      "slug": "other-uk",
+      "why": "off_category on 2026-10-28 (\"Officially Licensed Rock Clothing\"); no jeans collection checked this run (15-brand cap)."
+    },
+    {
+      "slug": "bershka",
+      "why": "unverified: bershka.com/us/ returned HTTP 403 on 2026-10-28; not re-tried this run."
     },
     {
       "slug": "urban-revivo",
-      "why": "not verified this run: 15-candidate cap (1 source each; lower priority than streetwear-led or Apart-pool brands)"
+      "why": "not verified this run: 15-brand cap (1 source; serp_comention)"
     },
     {
-      "slug": "lioness",
-      "why": "not verified this run: 15-candidate cap (1 source each; lower priority than streetwear-led or Apart-pool brands)"
+      "slug": "dollskill",
+      "why": "retailer that stocks Jaded London (18 Jaded jeans in its jeans collection), so it is a place to buy Jaded, not an alternative brand. Its jeans category is used as co_stocked evidence instead."
     },
     {
       "slug": "miaou",
-      "why": "not verified this run: 15-candidate cap (1 source each; lower priority than streetwear-led or Apart-pool brands)"
+      "why": "not verified this run: 15-brand cap (1 source; serp_comention)"
     },
     {
       "slug": "the-kript",
-      "why": "not verified this run: 15-candidate cap (1 source each; lower priority than streetwear-led or Apart-pool brands)"
+      "why": "unverified: thekript.com serves a JavaScript challenge page; no workaround. 2 sources (worthybornedit + Dolls Kill jeans); human check."
     },
     {
       "slug": "drop-dead-clothing",
-      "why": "not verified this run: 15-candidate cap (1 source each; lower priority than streetwear-led or Apart-pool brands)"
+      "why": "no outside source: its only source (Mumsnet AllSaints thread) was dropped."
+    },
+    {
+      "slug": "minga-london",
+      "why": "no counted outside source: its only first-run source (Mumsnet AllSaints thread) was dropped, and the Dolls Kill vendor \"Minga\" isn't confirmed to be Minga London. Verified, jeans $130–$210; becomes a pick if a human confirms the Dolls Kill vendor."
     },
     {
       "slug": "candy-stripper",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "young-reckless",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "distorted-people",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "fame-agenda",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "rebel8",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "trapstar",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "baby-phat",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "retroworld",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "mism",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "shop-wasteland",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "uo-x-various-collaborations",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "mishka",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "sickboys",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "boohooman",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "dolls-kill-lingerie",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "sinners-attire",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "baes-bores",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "glassons",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "teddy-fresh",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "na-kd",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "kill-brand",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "hypland",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "daisy-lowe-x-lazy-oaf",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "hellstar",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "cute-poison",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "lazy-oaf",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "not verified this run: 15-brand cap (1 source; Apart Style pool + co_stocked)"
     },
     {
       "slug": "rebellious-fashion",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "nastydress",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "vlone",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "anti-social-social-club",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "minkpink",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "not verified this run: 15-brand cap (1 source; Apart Style pool + co_stocked)"
     },
     {
       "slug": "dracula-clothing",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "riot-society",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "madness",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "tripp-nyc",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "not verified this run: 15-brand cap (1 source; Apart Style pool + co_stocked)"
     },
     {
       "slug": "stray-rats",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "urban-outfitters-vintage-section",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "crooks-castles",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "braindead",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
     },
     {
       "slug": "nasty-gal",
-      "why": "Apart Style pool only: no outside source among the readable SERP pages, so it can't be a pick"
+      "why": "Apart Style pool only: no outside source, so it can't be a pick"
+    },
+    {
+      "slug": "momokrom",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "bdg",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "rollas",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "daze",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "levis",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "by-dyln",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "generation-kiss",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "abrand-jeans",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "pistola",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "daisy-street",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "zemeta",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "darker-wavs",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "dogma",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "milk-it",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "poster-grl",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "hidden-denim",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "zgy",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "horoscopez",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "sugar-thrillz",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "one-teaspoon",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "just-black-denim",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "cute-mistake",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "another-girl",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "thrills",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "cheap-monday",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "free-people",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "wildfox-couture",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "articles-of-society",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "elsie-and-fred",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "true-religion-brand-jeans",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "blank-nyc",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "ngorder",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "ksubi",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "neon-blonde",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "siwy-denim",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "pleasures",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "no-dress",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "vigoss",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "glamorous",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "courtshop",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "obey",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "kickers",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "pretty-garbage",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "the-grave-girls",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "trickz-n-treatz",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "jet-by-john-eshaya",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "somedays-lovin",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "little-sunny-bite",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "one-above-another",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "evidnt",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "junker",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "liquor-n-poker",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "ivy-berlin",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "fan-all-flames",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "basic-pleasure-mode",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "kill-city",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "i-am-gia",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "dickies-girl",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "expired-girl",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "ripndip",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "whatever-21",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "twiin",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "weworewhat",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "punk-rave",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "neuw",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
+    },
+    {
+      "slug": "badee",
+      "why": "not verified this run: 15-brand cap (1 source; co_stocked)"
     }
   ],
-  "checked_at": "2026-10-28",
+  "human_check": [
+    {
+      "fact": "status / website_url",
+      "url": "https://jadedldn.com/",
+      "check": "Open the store; confirm it is live and selling jeans today. jadedldn.com returned 403 to every automated read on 2026-10-28 and 2026-10-29."
+    },
+    {
+      "fact": "price range for jeans (regular price, USD)",
+      "url": "https://jadedldn.com/en-us/collections/womens-jeans",
+      "check": "Record min and max of regular-price (not sale) jeans and how many items; or open https://jadedldn.com/collections/womens-jeans/products.json in a browser. Also check https://jadedldn.com/en-us/collections/colossus-jeans. Stockist prices for reference only (not stored): Revolve $145–$200, Dolls Kill $80–$108."
+    },
+    {
+      "fact": "size_range (+ has_plus, has_petite, has_tall)",
+      "url": "https://jadedldn.com/en-us/pages/womens-denim-fit-guide",
+      "check": "Waist range for jeans, plus the general size guide for tops."
+    },
+    {
+      "fact": "ships_to (US, CA, GB, AU) and free_shipping_min_usd",
+      "url": "https://jadedldn.com/pages/shipping",
+      "check": "US terms; whether it ships to CA, GB, AU; free-shipping threshold in USD."
+    },
+    {
+      "fact": "returns_days",
+      "url": "https://jadedldn.com/pages/returns",
+      "check": "Returns window for US orders, in days."
+    },
+    {
+      "fact": "known_for",
+      "url": "https://jadedldn.com/",
+      "check": "The brand's own positioning line (title/tagline/About), ≤6 words, Title Case."
+    },
+    {
+      "fact": "category C = jeans (confirm hero line)",
+      "url": "https://jadedldn.com/en-us/collections/colossus-jeans",
+      "check": "Confirm jeans (the Colossus line) is the line the brand leads with in its own navigation."
+    },
+    {
+      "fact": "pick check: Weekday",
+      "url": "https://www.weekday.com/en-us/women/jeans/",
+      "check": "403 to WebFetch. Confirm live + jeans price range (USD), sizes, US shipping and returns. 2 sources."
+    },
+    {
+      "fact": "pick check: The Kript",
+      "url": "https://thekript.com/",
+      "check": "JavaScript challenge page. Confirm official store, jeans price range, sizes, shipping, returns. 2 sources."
+    },
+    {
+      "fact": "evidence check: Dolls Kill vendors \"Lioness\" and \"Minga\"",
+      "url": "https://www.dollskill.com/collections/lioness",
+      "check": "Confirm \"Lioness\" is LIONESS (lionessfashion.com) and https://www.dollskill.com/collections/minga is Minga London. If yes, LIONESS gets 2 sources and Minga London 1 (and becomes a pick)."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": {
+    "source": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+    "date": "2026-10-28",
+    "per_eur": {
+      "USD": 1.1133,
+      "GBP": 0.83785,
+      "AUD": 1.583
+    },
+    "usd_per_gbp": 1.328758,
+    "usd_per_aud": 0.703285
+  },
   "notes": [
-    "7 picks pass enrich.md §3 (verified for streetwear, ≥1 outside source, one checkable reason). The page will still FAIL lib/gate.ts as-is: (1) the anchor is unverified and has no streetwear price; (2) Represent, Hoodrich, Dolls Kill, Edikted and JNCO have no stored streetwear USD price (JS-rendered collection pages, GBP-only stores, or a sitewide sale), so pickProblems returns \"doesn't sell streetwear\"; (3) no pair has a body or a /img/ image yet. Only mnml and Minga London have prices.",
-    "Ranking: every pick has exactly 1 independent source, and the anchor has no price, so price closeness couldn't break ties. Ties were broken by how many gate fields are filled (price, size, shipping, returns, HQ), so mnml and Minga London come first.",
-    "price_relation is left unset for every pick, because the anchor has no stored price (the gate forbids a label without an anchor price).",
-    "No Reddit evidence: 5 Reddit threads in the SERP (including two literally titled 'brands like/similar to Jaded London') couldn't be read, because WebFetch refuses reddit.com."
+    "9 picks pass enrich.md §3 (verified, sells jeans, ≥1 counted outside source, one checkable reason). Only The Ragged Priest (3) and Edikted (2) have ≥2 independent sources; the other 7 have one each.",
+    "The page still FAILS lib/gate.ts: the anchor is unverified with no jeans price (missingAnchorFacts), so every price_relation is null; Edikted has no regular-price jeans (sitewide sale); no pick has a body or a /img/ image; some picks lack known_for or hq_country (see gate_gaps).",
+    "Ranking: independent sources, then (anchor price missing, so price closeness can't be used) fewer gate gaps, then more priced items.",
+    "Evidence this run: 2 serp_comention pages (discobrands, worthybornedit) and 1 co_stocked page (Dolls Kill jeans). The two new keywords added no new readable editorial page: their results are Reddit, TikTok, Pinterest, Instagram, a Revolve widget (503) and a Who What Wear page whose body didn't load.",
+    "Prices: Shopify /collections/{handle}/products.json, regular price = no compare_at above price and no sale/markdown tag (mnml zeroes compare_at on markdowns and tags them instead). Non-USD converted at ECB 2026-10-28. Where a store splits jeans by gender, the women's collection is used (Jaded's own store leads with Women's Jeans); the men's range is in the brand file note."
   ]
 }

@@ -67,6 +67,8 @@ export function pickProblems(anchor: Brand, pick: SimilarPick, category: string,
   if (pair.evidence.length === 0) problems.push("no outside evidence");
   if (!pair.reason || pair.reason.trim().length < MIN_REASON_CHARS) problems.push("no specific reason");
   if (!pair.body) problems.push("no body");
+  // The US is the main market: a pick US readers can't order from isn't an alternative for them.
+  if (!brand.shipsTo.includes("US")) problems.push("doesn't ship to the US");
 
   const anchorPrice = priceFor(anchor, category);
   const pickPrice = priceFor(brand, category);

@@ -20,12 +20,17 @@
   "returns_days": 30,
   "prices": [
     {
-      "category": "streetwear",
+      "category": "jeans",
+      "currency": "USD",
+      "min": 130,
+      "max": 210,
       "min_usd": 130,
-      "max_usd": 140,
-      "source_url": "https://us.mingalondon.com/collections/men",
-      "checked_at": "2026-10-28",
-      "note": "4 priced items visible (sweaters, sweatpants, zip hoodie); page titled 'Men's Clothing & Streetwear'"
+      "max_usd": 210,
+      "fx_date": null,
+      "item_count": 30,
+      "source_url": "https://us.mingalondon.com/collections/jeans/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "30 of 43 jeans at regular price (13 sale-tagged excluded); baggy, flared and bootcut styles"
     }
   ],
   "materials": [],
@@ -38,13 +43,16 @@
     "https://us.mingalondon.com/collections/shop-all",
     "https://www.mingalondon.com/pages/about-us",
     "https://help.mingalondon.com/en-GB/articles/shipping-and-delivery-343908",
-    "https://help.mingalondon.com/en-GB/articles/returns-343909"
+    "https://help.mingalondon.com/en-GB/articles/returns-343909",
+    "https://us.mingalondon.com/collections/jeans/products.json?limit=250",
+    "https://us.mingalondon.com/cart.js"
   ],
   "notes": [
     "The US store (us.mingalondon.com) prices in USD; the main site prices in GBP. The women's shop-all showed $79–$160, but that includes accessories, so it isn't stored.",
     "About: 'We create for those who embrace their weirdness!'; an independent brand born in East London in 2014; HQ not stated.",
     "Shipping: the help article names UK, USA and EU orders (customs section) but doesn't list destinations. The US free-shipping threshold is blank in the page text, so it is null.",
-    "The size range comes from product sizes on the men's page (S–XXXL, XS–XL). WebSearch suggests the size guide runs XS–XXXL (UK 24–26), but it wasn't fetched, so has_plus is null."
+    "The size range comes from product sizes on the men's page (S–XXXL, XS–XL). WebSearch suggests the size guide runs XS–XXXL (UK 24–26), but it wasn't fetched, so has_plus is null.",
+    "2026-10-29: old streetwear row dropped (style, not product type); jeans row added. Regular price = no variant with compare_at_price above price and no sale/markdown tag; sale items excluded."
   ],
-  "checked_at": "2026-10-28"
+  "checked_at": "2026-10-29"
 }

@@ -20,7 +20,21 @@
   ],
   "free_shipping_min_usd": 150,
   "returns_days": 30,
-  "prices": [],
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "GBP",
+      "min": 70,
+      "max": 70,
+      "min_usd": 93.01,
+      "max_usd": 93.01,
+      "fx_date": "2026-10-28",
+      "item_count": 1,
+      "source_url": "https://hoodrichuk.com/collections/denim/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "the All Denim collection serves 2 products; 1 (Ritual Jeans) at regular price, 1 tagged sale"
+    }
+  ],
   "materials": [],
   "certifications": [],
   "production_model": null,
@@ -31,12 +45,15 @@
     "https://hoodrichuk.com/pages/our-story",
     "https://hoodrichuk.com/pages/shipping-information",
     "https://hoodrichuk.com/pages/returns-policy",
-    "https://hoodrichuk.com/collections/shop-all"
+    "https://hoodrichuk.com/collections/shop-all",
+    "https://hoodrichuk.com/collections/denim/products.json?limit=250",
+    "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
   ],
   "notes": [
     "hoodrich.com is NOT the brand: it belongs to Hood-Rich Architecture, Springfield MO. The official store is hoodrichuk.com ('Hoodrich Official Store | From Nothing To Something'; Hoodrich Ltd trademark). Any stored hoodrich.com URL is a wrong record.",
     "Our Story: founded 2014 by Jay Williams; HQ opened in Birmingham's Jewellery Quarter in 2023; 'roots in music and street culture'; logo alt text 'Hoodrich Streetwear Logo'. Hoodrich Ltd is the trademark holder; no parent company is named.",
-    "Prices are null. The store showed GBP only (£35–£130 across 56 items) and labelled every price 'Sale price', so regular and sale prices can't be told apart. No USD shown; nothing converted."
+    "Prices are null. The store showed GBP only (£35–£130 across 56 items) and labelled every price 'Sale price', so regular and sale prices can't be told apart. No USD shown; nothing converted.",
+    "2026-10-29: jeans price from products.json; store currency GBP. Regular price = no variant with compare_at_price above price and no sale/markdown tag; sale items excluded."
   ],
-  "checked_at": "2026-10-28"
+  "checked_at": "2026-10-29"
 }

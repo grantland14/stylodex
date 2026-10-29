@@ -21,10 +21,12 @@
   "production_model": null,
   "sale_pattern": null,
   "sources": [
-    "https://www.weekday.com/"
+    "https://www.weekday.com/",
+    "https://www.weekday.com/en-us/women/jeans/"
   ],
   "notes": [
-    "weekday.com returned HTTP 403 to WebFetch; no workaround tried. Human check needed. Named by 2 outside sources (discobrands, worthybornedit), the most of any candidate."
+    "weekday.com returned HTTP 403 to WebFetch; no workaround tried. Human check needed. Named by 2 outside sources (discobrands, worthybornedit), the most of any candidate.",
+    "2026-10-29: https://www.weekday.com/en-us/women/jeans/ returned HTTP 403 to WebFetch; stays unverified. Not Shopify. Human check needed (2 outside sources)."
   ],
-  "checked_at": "2026-10-28"
+  "checked_at": "2026-10-29"
 }
