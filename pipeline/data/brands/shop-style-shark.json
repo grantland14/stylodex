@@ -4,7 +4,7 @@
   "website_url": "https://shopstyleshark.com",
   "status": "verified",
   "kind": "brand",
-  "known_for": "Women's Contemporary Fashion",
+  "known_for": "Contemporary Womenswear",
   "hq_country": "US",
   "founded_year": null,
   "parent_company": null,
@@ -55,7 +55,8 @@
     "2026-10-29 (stores-like-boohoo run): title 'SHOP STYLE SHARK | FASHION ONLINE FOR WOMEN'; meta 'your ultimate destination for women's contemporary fashion'. meta.json: Montgomery, Texas, US, USD.",
     "2026-10-29: Shipping policy: processing up to 10 business days, standard delivery up to 14 days after shipment; 'Orders ship from overseas'; ships to the US, Canada, UK, Australia, Western Europe and more. Free-shipping banner says $100+ but the cart message says $150, so free_shipping_min_usd left empty.",
     "2026-10-29: Refund policy: returns postmarked within 14 days of delivery; shipping costs non-refundable; refund, store credit or exchange.",
-    "2026-10-29: sizes from the dresses feed: S and M on all 67, L on 65, XS on 35, XL on 5, XXL on 1."
+    "2026-10-29: sizes from the dresses feed: S and M on all 67, L on 65, XS on 35, XL on 5, XXL on 1.",
+    "Coordinator: reworded without an apostrophe so the fact lint passes; meaning unchanged."
   ],
   "checked_at": "2026-10-29"
 }
