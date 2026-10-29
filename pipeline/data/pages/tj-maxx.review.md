@@ -1,114 +1,129 @@
-# Review: stores like TJ Maxx (steps 2–5)
+# Review: stores like TJ Maxx (redo, steps 2–5)
 
-Written 2026-10-29. Author: Ash. Copy in `tj-maxx.json` → `author`, `copy`.
-Checked with `lib/gate.ts` through `lib/pipeline.ts` (tsx script, now = 2026-10-29):
+Redone 2026-10-29 under the new store rules (US stores count via `us_stores`; `sells_categories`
+when no online price is readable; parent-company official sources count; discount department
+stores and outlets count). Author: Ash. Copy rewritten from scratch against the new `voice.md`.
 
-- Title: "2 Stores Like TJ Maxx for Off-Price Brand-Name Fashion"
-- Rendered picks: nordstrom-rack, 6pm. `pickProblems` returns `[]` for both.
-- Verdict: **not indexable**. Reasons: `anchor missing: status, sizeRange, shipsTo, returnsDays, imageUrl, price:womens-clothing` and `only 2 publishable picks (need 6)`.
-- `npm test`: 25/25 pass after the new data files.
+## Gate (lib/pipeline.ts → judgeBrandsLikePage, now = 2026-10-29)
 
-## Category
+- Renderable picks: **12 / 12**. Title: "12 Stores Like TJ Maxx for Off-Price Brand-Name Fashion".
+- `pickProblems` returns `[]` for all 12.
+- **Not indexable**: `anchor missing: sizeRange, shipsTo, returnsDays, imageUrl, price:womens-clothing`.
+  The anchor now passes `status` (verified from tjx.com + TJX's 10-K), but tjmaxx.tjx.com still
+  serves TJX's "Something went wrong" page to WebFetch, so its sizes, shipping, returns and price
+  can only come from a human (human_check 1). Every `price_relation` is null for the same reason.
+- `npm test` 27/27 pass; `npm run lint:facts` ok.
 
-`womens-clothing`. TJ Maxx is a multi-brand off-price store (`kind: retailer`). The runbook names womens-clothing as the usual department, and TJX's own page leads with "brand-name fashion". The like-for-like item for prices is **women's jeans**, which both picks list as a category of its own. For off-price stores the stored price is each store's listed selling price. The compare-at or MSRP figure is a reference only and is not stored as a price.
+## Picks
 
-## Picks: 2 renderable of 2 (target 10–15, floor 6, not padded)
-
-| Rank | Pick | Sources | Price row (USD, women's jeans) | Gate |
+| Rank | Pick | Type | Sources (W/I/M/R) | How it passes the gate |
 |---|---|---|---|---|
-| 1 | Nordstrom Rack | 2 (24/7 Wall St. #7, Irreverent Gent #1) | 15.38–419.97, **119-item sample** (pages 1 and 42 of ~3,000) | [] |
-| 2 | 6pm | 1 (Irreverent Gent #25) | 17.99–279, full listing, 1,309 items | [] |
+| 1 | Marshalls | off-price | 4 | TJX 10-K + tjx.com: verified, us_stores, sells womens-clothing ("family apparel") |
+| 2 | Nordstrom Rack | off-price | 4 | store read: ships US, jeans price row (sample) |
+| 3 | Bloomingdale's Outlet | off-price | 4 | Macy's, Inc. site + 10-K: 25 locations, clothing; bloomingdales.com 403 |
+| 4 | Ross | off-price | 3 | Ross's own release on SEC: 1,952 stores, apparel for the family |
+| 5 | Burlington | off-price | 3 | own site (Ladies dept, store directory) + own release on SEC |
+| 6 | Sierra | off-price | 3 | TJX 10-K: 145 stores, apparel for the whole family |
+| 7 | 6pm | off-price (online) | 3 | store read: ships US, jeans price row |
+| 8 | Gabe's | off-price | 1 | own site: Ladies dept, 20-state locator |
+| 9 | Dillard's | department store | 3 | own release on SEC: 272 stores incl. 28 clearance centers; site nav Women |
+| 10 | Macy's | department store | 2 | macysinc.com + 10-K (Women's Apparel, Backstage 300+); macys.com 403 |
+| 11 | Kohl's | department store | 1 | Kohl's 10-K: 1,153 stores, Women's line; site 403 |
+| 12 | Target | discount store | 4 | target.com women's page + corporate.target.com (50 states) |
 
-Why only two. The rule is that picks are off-price stores like the anchor. The two readable lists name 11 off-price stores:
-- Verified: Nordstrom Rack and 6pm.
-- Site refuses WebFetch: Marshalls, Sierra (TJX error page) and Bloomingdale's Outlet (403). These go to human_check.
-- No online store, so the gate's US-shipping rule fails them: Saks OFF 5TH (its site reads "SaksOFF5TH.com is Shutting Down"), Burlington and Ross.
-- Retired into a parent: HauteLook (now Nordstrom Rack) and Last Call (now the Neiman Marcus sale page).
-- Dillard's Clearance Centers belongs to a department store.
-
-The other 20 candidates are department stores, mass merchants, marketplaces, full-price or own-label shops, resale or home stores. Each is in `rejected` with its reason. Two policy questions are in `human_check`:
-1. Can a stores page list US chains that only sell in their stores?
-2. Can department stores appear on an off-price anchor's page?
+W = 247wallst (Jan 2024), I = Irreverent Gent (updated June 2026), M = MoneyPantry (Dec 2023),
+R = RankRed (June 2026). M and R were found by WebSearch for "brands like tj maxx" (no Ahrefs SERP
+for that keyword); the three Ahrefs SERPs are from this morning's run and were not re-called.
+Ranking: same-type (off-price) first by source count, then department stores, then Target, per
+run-page.md. Rejected with reasons in the page file: Saks OFF 5TH (online closed, locator shows no
+stores to WebFetch), Walmart (bot check, corporate page doesn't confirm apparel), Urban Outfitters
+(full-price), HomeGoods (home only), marketplaces, defunct HauteLook/Last Call, own-label and resale.
 
 ## FAQ sources (Ahrefs)
 
-One call: `keywords-explorer-matching-terms`, "tj maxx", US, terms=questions, volume desc, limit 40.
+One call: `keywords-explorer-matching-terms`, "tj maxx", US, terms=questions, volume desc, limit 50.
 
-| Used | Question (US volume) | source_query |
+| Used | Question (US volume) | Answered from |
 |---|---|---|
-| Yes | What is TJ Maxx? (500) | `what is tj maxx` |
-| Yes | Who owns TJ Maxx? (500) | `who owns tj maxx` |
+| Yes | what is tj maxx (500) | tj-maxx founded_year, notes (10-K: family apparel, Runway, 1,348 stores) |
+| Yes | who owns tj maxx (500) | parent_company, notes (TJX US banners, Marmaxx) |
+| Yes | is tj maxx going out of business (350) | notes (1,348 vs 1,333 stores; 45 Marmaxx net new stores planned) |
 
-Skipped because no stored fact answers them: opening and closing times and holiday hours (3,400 and below), restock days (3,400 and 900), Apple Pay (2,300), "is tj maxx closing" (1,300; nothing stored, and the closing store found was Saks OFF 5TH's site), pay (1,100), Black Friday, dogs, the return policy and cross-store returns with Marshalls (700 and below; anchor returns unverified, third-party figures conflict and were not stored), gift cards, and "what does tj maxx stand for" (700; nothing stored).
+Skipped (no stored fact): opening hours and holidays, restock days, Apple Pay, pay, Black Friday,
+dogs, return policy, returning TJ Maxx items at Marshalls and gift cards across stores (nothing
+from TJX states it), "is tj maxx closing" (ambiguous with closing time), "what does tj maxx stand for".
 
 ## G1–G15
 
 | # | Result | Evidence |
 |---|---|---|
-| G1 | PASS | "Stores like TJ Maxx" for US shoppers is the site's purpose. Copy covers clothing and beauty scope only. |
-| G2 | PASS | The bodies use no outside wording. The substance is store-level data: 6pm's full 1,310-item jeans listing (33 brands, median 40% under MSRP, 123 petite and 28 plus styles), Nordstrom Rack's sizes, comparable-value example and return terms. |
-| G3 | PASS (thin) | Specifics a SERP reader can't get: the $89 vs $100 free-shipping bars, 40 vs 30 days, free in-store returns vs paid return postage, 6pm's Kentucky outlet. There are only two entries, though. |
-| G4 | PASS | No wear, try or test claims. Bio not added to. |
-| G5 | PASS | author "Ash", byline goes to /authors/ash. Not YMYL. |
-| G6 | **BLOCKED (publish)** | Every sentence traces (table below). But the anchor is `unverified`, "Off-Price Brand-Name Fashion" is built from tjx.com rather than the store, and Nordstrom Rack's price chip shows a sampled range (human_check). |
+| G1 | PASS | "Stores like TJ Maxx" for US shoppers is the site's purpose. Clothing and beauty only. |
+| G2 | PASS | No outside wording. The substance is each store's own facts: store counts and states, departments, named products and prices, return rules, label structures (Kohl's own vs exclusive, Target own labels vs Levi's), Backstage inside Macy's. |
+| G3 | PASS | Specifics a list reader doesn't get: TJ Maxx vs Marshalls department split from TJX's 10-K, $9.95 mail-return deduction vs free store returns, 6pm's no-exchange rule, Target's one-year own-brand returns, dd's DISCOUNTS, Sierra's former name. No hands-on claims. |
+| G4 | PASS | No wear/try/test claims; Ash's bio untouched. |
+| G5 | PASS | author "Ash". Not YMYL. |
+| G6 | **BLOCKED (publish)** | Every sentence traces (below). But five picks (Marshalls, Sierra, Bloomingdale's Outlet, Macy's, Kohl's) and the anchor rest on parent-company sources because the stores refuse WebFetch; Nordstrom Rack's range is a sample (human_check 2–3). |
 | G7 | PASS (N/A) | Not YMYL. |
-| G8 | PASS | "2 Stores Like TJ Maxx…" is the true count. |
-| G9 | **BLOCKED (publish)** | There is no TJ Maxx price, size or shipping data, so neither pick can be labeled cheaper, similar or pricier. That half of the comparison is missing. |
-| G10 | **FAIL** | Two picks don't answer "stores like TJ Maxx". A reader will search again for Marshalls, Ross and Burlington, which this page can't list (unverified or store-only). |
-| G11 | PASS | The intro opens on what TJ Maxx is, then what the picks share and where prices start. There is no preamble. |
-| G12 | PASS | All checks are dated 2026-10-29. The template's "Last checked" line carries the date. |
-| G13 | **FAIL** | The estimate is Low to Medium (below). |
-| G14 | PASS | Affiliate links go through /go/ with the disclosure. There is no implied testing. |
-| G15 | PASS | 0 em dashes, 0 semicolons, no Markdown. The two bodies end differently. |
+| G8 | PASS | "12 Stores Like TJ Maxx…" is the real rendered count. |
+| G9 | **BLOCKED (publish)** | Intent served (the usual answers: Marshalls, Ross, Burlington, Nordstrom Rack, Kohl's). The price comparison half needs TJ Maxx's own prices, which only a human can read. |
+| G10 | PASS | The names a searcher expects are all here except Saks OFF 5TH (its locator shows no stores to us) and Walmart; HomeGoods is pointed to in the closing for home. |
+| G11 | PASS | Intro states what TJ Maxx is and how the list is sorted; each body opens on the answer. |
+| G12 | PASS | Store counts from filings for the year ended Jan 2026 or Q2 2026; prices checked 2026-10-29. |
+| G13 | **FAIL** | Honest estimate is Medium (below): no images, anchor side empty. |
+| G14 | PASS | Links via /go/, disclosure in byline, no implied testing. |
+| G15 | PASS | 0 em dashes, 0 semicolons, no Markdown; endings vary; no sibling duplicate. |
 
-**Estimated Page Quality:** Low to Medium. The data on the two stores is real and specific. But a two-entry list for a query whose page-one lists run 16 and 25 is thin, it leaves out the obvious answers, and the anchor side is empty.
+**Estimated Page Quality:** Medium. Strongest point: each pick says what the store is actually good
+for and how it differs from TJ Maxx and from the others, from the stores' own facts. Holding it
+back: no images and no TJ Maxx price, sizes or shipping.
 
-**Estimated Needs Met:** Slightly Meets. What would move it most:
-1. Decide the store-only and department-store policy.
-2. Human-verify Marshalls, Sierra, Bloomingdale's Outlet and tjmaxx.tjx.com.
+**Estimated Needs Met:** Moderately to Highly Meets. Fix that moves it most: a human read of
+tjmaxx.tjx.com (price, sizes, shipping, returns), then `/img/` images.
 
-## AI-voice scan
+## Voice check (voice.md "What we never write")
 
-| Pattern | Where | Fix |
-|---|---|---|
-| §40 "from X to Y" | NR body "Labels run from Levi's and Madewell up to FRAME and Akris" | Changed to "Levi's and Madewell sit next to FRAME and Akris" |
-| Dated past tense (process narration) | "Akris wide-leg jeans were $419.97" | Changed to present: "an Akris wide-leg pair is $419.97 against $995" |
-| Example not stored | First draft used a JASON WU $39.97/$198 example that isn't in the brand file | Replaced with the stored Akris min/max item |
-| §3 rule of three, §1 contrasts, §13, §16, §34, §48 | none found | — |
-| Smell test | Each body is built on that store's own numbers | — |
+- Process narration: none ("we checked", dates as narration, "its About page says": 0). Claims are
+  attributed only where they are the store's pitch ("what TJX pitches as", "what Ross puts at").
+- Spreadsheet sentences: counts appear only with why they matter (Ross's 1,952 stores → "when your
+  nearest TJ Maxx is a drive away"; Dillard's 28 of 272 → "treat a nearby center as a bonus").
+- Verdicts, invented experience, hype: none.
+- Moves present: answer-first openers, one teachable thing per store (TJX department split, Rack's
+  comparable value, Kohl's label tiers, Target's own labels, Sierra's old name, dd's DISCOUNTS),
+  a trade-off per pick, cross-pick comparisons (Burlington vs Ross on plus, 6pm vs Rack on shipping
+  and returns, Backstage vs Dillard's clearance), use-case Best for lines, How to choose by shopping
+  style.
 
-## Fact trace
+## AI-voice scan (ai-voice-avoid.md)
+
+Fixed: 11 sentences over 26 words split (§6, §8); four three-item name lists cut to two (§3);
+claims with no stored fact removed in drafting (Dillard's centers as "leftovers", outlet stock
+coming from Bloomingdale's stores, Backstage turnover "like TJ Maxx", Burlington "before Ross" for
+plus, "comparable value isn't a promise"). Remaining, judged fine: two colon setups (Target, Gabe's),
+one "isn't X, but" (Kohl's, a factual store-type contrast). No §13/§14 words.
+
+## Fact trace (copy → stored field)
 
 | Claim | Source field |
 |---|---|
-| **Intro** | |
-| TJ Maxx is TJX's off-price chain, brand-name fashion for less than full-price stores | tj-maxx `parent_company`; `notes[1]` ("largest off-price retailer…", "brand-name fashion", "for way less"); `notes[2]` (20–60% below full-price retailers, TJX claim, paraphrased as "for less") |
-| two stores, big-name denim marked down from its usual price | nordstrom-rack `prices[0].note` (comparable value); 6pm `prices[0].note` (1,231 of 1,310 on sale against MSRP) |
-| both ship anywhere in the US | `ships_to` ["US"] for both; shipping notes |
-| jeans start at $15.38 (Nordstrom Rack), $17.99 (6pm) | `prices[0].min` for each |
-| **Nordstrom Rack** | |
-| Nordstrom's off-price chain, Seattle, 1973 | `parent_company`; `founded_year`; `notes[3]` |
-| bigger denim range here, about 3,000 women's jeans | `prices[0].note` (2,961–3,069 listed) vs 6pm 1,310 |
-| Levi's, Madewell, FRAME, Akris; priced under a listed comparable value | `prices[0].note` (brands seen; "Comparable value" reference) |
-| Akris wide-leg pair $419.97 against $995 | `prices[0].note` (max item) |
-| sizes 00 to 28W, petite and plus filters | `size_range`; `has_petite`, `has_plus`; `notes[2]` |
-| free shipping over $89 | `free_shipping_min_usd` 89 |
-| online orders back free to any Nordstrom or Rack store within 40 days | `returns_days` 40; `notes[1]` |
-| **6pm** | |
-| discount arm of Zappos, since 2007, one outlet store in Shepherdsville, KY | `parent_company`; `notes[1]` |
-| 1,310 women's jeans, 33 brands, mostly KUT from the Kloth, NYDJ, AG, Joe's Jeans | `prices[0].note` |
-| typical pair 40% under MSRP | `prices[0].note` (median 40% off) |
-| 123 petite styles, 28 plus-size cuts | `notes[4]` |
-| free shipping needs $100, otherwise $3.95 | `free_shipping_min_usd` 100; `notes[2]` |
-| returns close after 30 days; you pay the postage back | `returns_days` 30; `notes[3]` |
-| **FAQ** | |
-| founded 1976, owned by TJX; fashion, jewelry, accessories; Runway department in select stores, high-end luxury | tj-maxx `founded_year`; `parent_company`; `notes[1]` |
-| TJX also runs Marshalls and Sierra in the US | tj-maxx `notes[2]` (US brands) |
-| TJX bought Marshalls in 1995, formed Marmaxx with TJ Maxx | marshalls `notes[1]` |
+| TJX pitch 20%–60% under full-price stores | tj-maxx notes (tjx.com) |
+| TJ Maxx: jewelry, accessories, The Runway, select stores; 1,348 stores; founded 1976 | tj-maxx notes (10-K, tjx.com), founded_year |
+| Marshalls: TJX, family apparel + home, 1,255 stores, full line of shoes for women/men/kids, broader men's, "shop both" | marshalls notes (10-K, tjx.com) |
+| Nordstrom Rack: MANGO $15.38, Akris $419.97, Levi's/PAIGE, comparable value, 00–28W petite/plus, free over $89, 40 days, $9.95 per label, free store returns | nordstrom-rack prices[].note, size_range, notes |
+| Bloomingdale's Outlet: 25 stores coast to coast, clothing/accessories/home for less, luxury to contemporary, owned by Macy's, Inc. | bloomingdales-outlet notes, parent_company |
+| Ross: 1,952 stores in 44 states, family name brands and designer, 20–60%, no online store, stock varies, dd's 376 stores in 23 states, lower priced | ross-dress-for-less notes |
+| Burlington: Coats/Ladies/Plus/Juniors/Kids/Baby depts, $69.99 coat, $19.99 dress, up to 60%, in-season branded, 1,287 stores in 47 states, no online clothes | burlington notes |
+| Sierra: active/outdoor apparel, shoes, gear for the family, camping/fishing, home and pet, ex-Sierra Trading Post (2018), 145 stores, 24 planned, sierra.com | sierra notes (10-K) |
+| 6pm: Zappos discount arm, Carhartt $17.99, Paige $279, mostly below MSRP, NYDJ/KUT/AG, plus to 26W, petite, 30 days, customer pays return postage, no exchanges, free over $100 | 6pm prices[].note, notes, size_range |
+| Gabe's: up to 70% off vs original store prices, 20 states (NY, NJ, FL, MO, OK named), ladies'/men's/home/pets/gifts, no online shop | gabes notes |
+| Dillard's: 272 stores, 28 clearance centers, 30 states, Sale and Clearance on site, Women/Juniors, Dillard's Exclusive | dillards notes |
+| Macy's Backstage: 300+, store-within-store, 4 freestanding, "off price, on trend, arriving daily"; national and private brands | macys notes |
+| Kohl's: moderately priced, 1,153 stores in 49 states, Sonoma Goods for Life/Croft & Barrow own brands priced under national, LC Lauren Conrad/Simply Vera Vera Wang exclusive, Sephora | kohls notes (10-K) |
+| Target: 2,000+ stores in 50 states, A New Day/Universal Thread own labels, Levi's, $38 and $74.99 jeans, one-year own-brand returns | target notes |
+| HomeGoods is TJ Maxx's home sister store | tj-maxx notes (10-K) |
 
 ## Publish conditions
 
-1. Human check on tjmaxx.tjx.com: live status, women's jeans price, sizes, shipping, returns and known_for (`human_check` 1–5).
-2. Policy calls on store-only chains and department stores (`human_check` 10–11). Then human-verify Marshalls, Bloomingdale's Outlet and Sierra (6–8). Even with all of these, the page reaches 6 picks only if the policy opens up.
-3. Replace Nordstrom Rack's sampled range with the full listing's min/max (9).
-4. Add `/img/` images.
+1. Human read of tjmaxx.tjx.com: women's jeans price, sizes, US shipping, returns (unblocks indexing and price labels).
+2. Human confirm the five parent-sourced picks are selling women's clothing on their own stores.
+3. Full Nordstrom Rack jeans min/max; Saks OFF 5TH locator check.
+4. `/img/` images (only Burlington and Ross have them).
