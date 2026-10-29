@@ -33,6 +33,19 @@
       "source_url": "https://blackmilkclothing.com/collections/tops/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "101 regular-price in-stock tops and bodysuits of 131 in the Tops collection (26 marked down, 4 sold out; sweaters, jackets, kimonos excluded). Low: Black Tie Front Tee AUD 35; Kirie Cotton Baby Tee AUD 59, Life And Death Giant Tee AUD 69, Gummie Guts Rio Top AUD 79; high: FIRESTARTER Baseball Shirt AUD 129. Store currency AUD (cart.js). Regular price = in stock, no variant with compare_at_price above price."
+    },
+    {
+      "category": "tees",
+      "currency": "AUD",
+      "min": 35,
+      "max": 99,
+      "item_count": 36,
+      "source_url": "https://blackmilkclothing.com/collections/tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Tops collection (203 products): 49 tees by title, 12 marked down, 1 sold out, 36 regular-price in stock. Low: Black Tie Front Tee AUD 35; Meow Cotton Baby Tee AUD 49; Kirie Cotton Baby Tee AUD 59; Pikachu Electricity Giant Tee AUD 79, Familiars Boyfriend Tee AUD 79; high: Illyrian Warriors Long Sleeve Oversized Boyfriend Tee AUD 99. Store currency AUD; no en-US storefront (/en-us/cart.js empty). Regular price = in stock, no variant with compare_at_price above price. Tees = T-shirts and tees by title, short and long sleeve; tanks, vests, polos, multipacks, dresses, sweatshirts and kids excluded.",
+      "min_usd": 24.61,
+      "max_usd": 69.63,
+      "fx_date": "2026-10-28"
     }
   ],
   "materials": [],
@@ -53,5 +66,8 @@
     "Returns page (WebFetch): 'return any eligible item in its original condition to BMHQ within 60 days of delivery' (30 days via Refundid); refund or store credit, no exchanges.",
     "Sizing chart: women's XXS–XXL = US/CA 2–4 to 18–20."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "tees"
+  ]
 }

@@ -55,7 +55,8 @@
     "Shipping page: in-stock pieces ship in 5 to 10 business days (processing 10 to 15 business days); made-to-order pieces 'could take 3 to 6 months'; pre-order times per product. US orders UPS Ground, 1-5 business days, cost shown at checkout (no free-shipping threshold stated). International via DHL Express; recipient pays import fees. 24-hour cancellation window, 'No refunds, no exceptions past the 24-hour cancellation window'. In-person try-ons for in-stock pieces at its NYC office by appointment.",
     "Returns policy: 'We do not offer refunds for returned items. No Exceptions.' Store credit or limited exchanges for unworn garments within 14 days of receipt; customer pays return shipping; sale items and custom pieces final sale. returns_days 14 is for store credit or exchange only.",
     "Stockists page: FWRD, Moda Operandi, REVOLVE online; Desordre boutiques in Australia. No US store of its own (NYC office try-ons by appointment), so us_stores left empty.",
-    "Collections include Archive Sale 2026, Sample Sale, Last Chance Sale: sale_pattern 'Archive and sample sales'."
+    "Collections include Archive Sale 2026, Sample Sale, Last Chance Sale: sale_pattern 'Archive and sample sales'.",
+    "Product copy (collections/dresses/products.json): Classic Supermodel Dress in Noir $595, 'A lady length stretch body-con dress with a slight flare at hem', made in New York City. Lady Di A-Line Dress in Noir $395, 'A scoop neck a-line mini dress with power mesh lining'. The Moonrise Gown $3,995; Cascading Ruffle Gown in Sangre $2,395. About: 'bringing fair wages, waste reduction and craftsmanship to the forefront'."
   ],
   "checked_at": "2026-10-29"
 }

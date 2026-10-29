@@ -33,6 +33,19 @@
       "source_url": "https://valfre.com/collections/tees/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "12 regular-price in-stock tees of 13 in the Tees collection (1 sold out), all the Cósmica zodiac tees at $58 (e.g. Cósmica Leo Tee). Tees are its only apparel. Store currency USD (cart.js). Regular price = in stock, no variant with compare_at_price above price."
+    },
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 58,
+      "max": 58,
+      "item_count": 12,
+      "source_url": "https://valfre.com/collections/tees/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Tees collection: 13 products, 12 regular-price in stock, 1 sold out. All are Cósmica zodiac tees at $58 (Cósmica Leo Tee, Cósmica Scorpio Tee...). Sizes S–XXL. Regular price = in stock, no variant with compare_at_price above price. Tees = T-shirts and tees by title, short and long sleeve; tanks, vests, polos, multipacks, dresses, sweatshirts and kids excluded.",
+      "min_usd": 58,
+      "max_usd": 58,
+      "fx_date": null
     }
   ],
   "materials": [],
@@ -50,5 +63,8 @@
     "2026-10-29 (brands-like-unif run): title 'Valfré | Artist Works & Gift Shop'; meta 'View works by artist Ilse Valfré and shop unique gifts such as ceramics, stationery, planners, bags, accessories and home decor'. Apparel menu holds Tees only.",
     "Refund policy: all purchases ship out of Los Angeles within 2–3 business days; exchange or store credit within 21 days of purchase (shipping excluded); returns (not exchanges) carry a 10% restocking fee; sale items final. meta.json ships to 238 countries incl. US, CA, GB, AU."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "tees"
+  ]
 }

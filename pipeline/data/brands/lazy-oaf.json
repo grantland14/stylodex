@@ -42,10 +42,24 @@
       "source_url": "https://www.lazyoaf.com/collections/all-tops/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "37 regular-price in-stock tops of 39 (product types TOP, UTOP, TSHIRT, UTSHIRT, SHIRT, USHIRT; 2 sold out; knitwear and sweatshirts excluded). Low: Not Perfect Ruched Vest £40; Broken Wings Fitted T-Shirt £45, No Instruction T-Shirt £45, Screwed Up Top £67; high: Big Face Flower Shirt £95. Store currency GBP (cart.js). Regular price = in stock, no variant with compare_at_price above price."
+    },
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 59,
+      "max": 93,
+      "item_count": 18,
+      "source_url": "https://www.uslazyoaf.com/collections/all-t-shirts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US storefront (uslazyoaf.com, the en-US hreflang target of lazyoaf.com; cart.js currency USD, Shopify.currency USD rate 1.3587). All T-Shirts collection: 27 products, 20 tees, 18 regular-price in stock, 2 sold out, none marked down. Low: Toady T-Shirt $59; most $62 (Art Lover T-Shirt, No Instruction T-Shirt, Oaf DIY T-Shirt, Boxy Waffle T-shirt, Broken Wings Fitted T-Shirt); Pompompurin Face T-Shirt $68; high: LO x DHMIS Long Sleeve T-shirt $93, On A Leash T-Shirt $89. Whole-store US feed (2,353 products) adds 3 in range: Black Precious Baby Angel Fitted Tee $62, Oaf Rail Big Square T-shirt $68, Fun Baseball T-Shirt $82 (pre-order, UK 6–24). Sizes XS–XXXL. US prices run about 36% above the GBP prices on lazyoaf.com (e.g. a skirt $120 vs £88). Regular price = in stock, no variant with compare_at_price above price. Tees = T-shirts and tees by title, short and long sleeve; tanks, vests, polos, multipacks, dresses, sweatshirts and kids excluded.",
+      "min_usd": 59,
+      "max_usd": 93,
+      "fx_date": null
     }
   ],
   "sells_categories": [
-    "hoodies"
+    "hoodies",
+    "tees"
   ],
   "sources": [
     "https://www.lazyoaf.com/",
@@ -54,14 +68,21 @@
     "https://www.lazyoaf.com/pages/about",
     "https://help.lazyoaf.com/en-US/articles/shipping-14748",
     "https://help.lazyoaf.com/en-US/articles/returns-14751",
-    "https://www.lazyoaf.com/collections/all-tops/products.json?limit=250"
+    "https://www.lazyoaf.com/collections/all-tops/products.json?limit=250",
+    "https://www.uslazyoaf.com/",
+    "https://www.uslazyoaf.com/cart.js",
+    "https://www.uslazyoaf.com/meta.json",
+    "https://www.uslazyoaf.com/collections/all-t-shirts/products.json?limit=250",
+    "https://www.uslazyoaf.com/products.json?limit=250"
   ],
   "notes": [
     "Meta: 'Lazy Oaf create irreverent streetwear clothing for men and women, inspired by youth nostalgia, teenage rebellion and a spirit of non-conformity.' About: 'Founded by Gemma Shiel from a North London Garage in 2001'; started with hand-printed T-shirts sold from a stall in East London.",
     "Shipping help: 'USA. Spend over $200 and get free shipping on your order.' Duties and taxes are calculated and paid at checkout for orders outside the UK (no charge on delivery).",
     "Returns help: refund within 28 days of receiving the order (Oaflet items 14 days); exchanges UK only; returns not free: US from $19; returns go to its UK warehouse.",
     "meta.json: shop country GB, GBP; ships to US, CA, GB, AU.",
-    "2026-10-29 (brands-like-unif run): tops sizes on the feed XS–XXXL plus UK 6–24 (Curve tops collection has 61 products). meta.json: city London, GB."
+    "2026-10-29 (brands-like-unif run): tops sizes on the feed XS–XXXL plus UK 6–24 (Curve tops collection has 61 products). meta.json: city London, GB.",
+    "2026-10-29 (brands-like-lazy-oaf run): lazyoaf.com's hreflang en-US points to https://www.uslazyoaf.com/, the same Shopify shop (meta.json id 20178131) with a USD storefront (cart.js currency USD). Its products.json serves USD prices, e.g. LO x Angela Kirkwood Skirt $120 vs £88 on lazyoaf.com. The hoodies and tops entries are GBP from lazyoaf.com; the tees entry is from the US storefront.",
+    "About page (stored source): founded by Gemma Shiel in a North London garage in 2001, starting with hand-printed T-shirts sold from an East London stall. US tees collection: 20 T-shirts, mostly $62."
   ],
   "checked_at": "2026-10-29"
 }

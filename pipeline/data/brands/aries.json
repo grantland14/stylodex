@@ -1,0 +1,48 @@
+{
+  "name": "Aries",
+  "website_url": "https://us.ariesarise.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Luxury Streetwear and Outsider Art",
+  "hq_country": "GB",
+  "size_range": "XXS–XXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 95,
+      "max": 195,
+      "item_count": 30,
+      "source_url": "https://us.ariesarise.com/collections/tees/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US store (us.ariesarise.com, the en-US hreflang target of ariesarise.com; cart.js currency USD). Tees collection: 36 products, 30 tees, all regular price and in stock. Low: Aries x Jolene Wizard SS Tee $95; Temple SS Tee $105–$116; high: Metal Airtex LS Tee $195. Sizes XXS–XXL. The whole US feed also sells its No Problemo line's tees from $56 (Mini Problemo SS Tee); not in the tees collection, so not in this range. Regular price = in stock, no variant with compare_at_price above price. Tees = T-shirts and tees by title, short and long sleeve; tanks, vests, polos, multipacks, dresses, sweatshirts and kids excluded.",
+      "min_usd": 95,
+      "max_usd": 195,
+      "fx_date": null
+    }
+  ],
+  "sells_categories": [
+    "tees"
+  ],
+  "sources": [
+    "https://www.ariesarise.com/",
+    "https://www.ariesarise.com/meta.json",
+    "https://us.ariesarise.com/cart.js",
+    "https://us.ariesarise.com/collections/tees/products.json?limit=250",
+    "https://us.ariesarise.com/products.json?limit=250",
+    "https://us.ariesarise.com/pages/about-us",
+    "https://us.ariesarise.com/policies/refund-policy"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-lazy-oaf run): About: 'aries is a luxury streetwear brand with integrity and authority founded by creative director sofia prantera, aries is born out of an ongoing love for street wear, trash culture and outsider art and illustration'. ariesarise.com meta.json city London, GB, GBP; ships to 225 countries incl. US, CA, GB, AU.",
+    "Refund policy (US store): notify a return within 14 days of receipt, then 14 days to send it; unworn with tags; customer pays return shipping unless stated; briefs not returnable."
+  ],
+  "checked_at": "2026-10-29"
+}

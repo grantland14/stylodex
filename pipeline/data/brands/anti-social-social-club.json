@@ -26,10 +26,24 @@
       "source_url": "https://antisocialsocialclub.com/products.json?limit=250&country=US",
       "checked_at": "2026-10-29",
       "note": "Whole store read (393 products), hoodies and zip-ups (kids, crewnecks excluded): 130 regular price of 131. 84 at $119 (mostly NFL collaborations), 18 at $99; Classic Mind Games Hoodie $89. Regular = no variant with compare_at_price above price; tags without a compare-at price are not markdowns."
+    },
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 55,
+      "max": 85,
+      "item_count": 106,
+      "source_url": "https://antisocialsocialclub.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Whole store (393 products), product type T-Shirt/T-Shirts: 117 tees, 1 marked down, 10 sold out, 106 regular-price in stock. Low: NFL collab tees $55 (ASSC x 49ers Snap Tee, ASSC x Bears Blossom Tee); Cancelled Again Tee $75, Weathered Mind Games Tee $75; ASSC x BOYNEXTDOOR T-Shirt $76; high: Embroidered Rose Kkotch Tee $85. Made to order, all sales final (stored notes). Regular price = in stock, no variant with compare_at_price above price. Tees = T-shirts and tees by title, short and long sleeve; tanks, vests, polos, multipacks, dresses, sweatshirts and kids excluded.",
+      "min_usd": 55,
+      "max_usd": 85,
+      "fx_date": null
     }
   ],
   "sells_categories": [
-    "hoodies"
+    "hoodies",
+    "tees"
   ],
   "sources": [
     "https://antisocialsocialclub.com/",

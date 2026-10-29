@@ -1,0 +1,50 @@
+{
+  "name": "Princess Highway",
+  "website_url": "https://princesshighway.com.au",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Vintage-Inspired Prints",
+  "hq_country": "AU",
+  "size_range": "AU 4–20 (US 0–16)",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 14,
+  "free_shipping_min_usd": null,
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 35,
+      "max": 62,
+      "item_count": 6,
+      "source_url": "https://princesshighway.com.au/en-us/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US market (princesshighway.com.au/en-us, en-US hreflang target; en-us cart.js currency USD). Whole-store US feed (1,927 products): 36 tees, 30 marked down, 6 regular-price in stock: Andie Classic 90'S Tee $35; Jodie Contrast Bind Ringer Tee, Luxe Stripe Tee, Sunflower Printed Tee, Sweet Dog Printed Tee $53; Lacey Short Sleeve Tee $62. Sizes AU 6–20. Regular price = in stock, no variant with compare_at_price above price. Tees = T-shirts and tees by title, short and long sleeve; tanks, vests, polos, multipacks, dresses, sweatshirts and kids excluded.",
+      "min_usd": 35,
+      "max_usd": 62,
+      "fx_date": null
+    }
+  ],
+  "sells_categories": [
+    "tees"
+  ],
+  "sources": [
+    "https://www.princesshighway.com.au/",
+    "https://www.princesshighway.com.au/meta.json",
+    "https://www.princesshighway.com.au/en-us/cart.js",
+    "https://princesshighway.com.au/en-us/products.json?limit=250",
+    "https://princesshighway.com.au/en-us/policies/shipping-policy",
+    "https://princesshighway.com.au/en-us/policies/refund-policy"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-lazy-oaf run): meta 'Discover the Australian label Princess Highway, which brings vintage-inspired charm, timeless prints, and flattering fits'. meta.json city Abbotsford, Victoria, AU (same city as Dangerfield and Gorman); ships to 45 countries incl. US, CA, GB, AU.",
+    "Shipping policy: DHL international delivery to listed countries incl. Canada and United States; international orders not subject to Australian GST; free shipping over AUD 300 is domestic only.",
+    "Refund policy: 14 days from receiving the parcel to return; full-price items for credit, exchange or refund (shipping excluded); sale items credit or exchange only.",
+    "Size navigation: AU 4/US 0 to AU 20/US 16."
+  ],
+  "checked_at": "2026-10-29"
+}

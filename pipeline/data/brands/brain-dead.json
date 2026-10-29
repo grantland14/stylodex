@@ -1,0 +1,47 @@
+{
+  "name": "Brain Dead",
+  "website_url": "https://wearebraindead.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Graphic-Led Post-Punk Clothing",
+  "hq_country": "US",
+  "size_range": "XS–XXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 7,
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 32,
+      "max": 95,
+      "item_count": 46,
+      "source_url": "https://wearebraindead.com/collections/t-shirt/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "T-shirt collection: 53 products, 51 tees, 5 marked down, 46 regular-price in stock. Low: Brain Dead x Sound & Fury 2026 Lineup T-shirt $32; Brain Dead x UD Ibiza Coast T-Shirt $48; Brain Dead Fantasy Fest T-shirt $54, Fantasy Games Dungeon Keeper T-shirt $54; Easy T-shirt $75; Brain Dead x A.P.C. In A Daze T-shirt $85; high: Pigment Pique T-shirt $95. Sizes XS–XXL. Regular price = in stock, no variant with compare_at_price above price. Tees = T-shirts and tees by title, short and long sleeve; tanks, vests, polos, multipacks, dresses, sweatshirts and kids excluded.",
+      "min_usd": 32,
+      "max_usd": 95,
+      "fx_date": null
+    }
+  ],
+  "sells_categories": [
+    "tees"
+  ],
+  "sources": [
+    "https://wearebraindead.com/",
+    "https://wearebraindead.com/meta.json",
+    "https://wearebraindead.com/collections/t-shirt/products.json?limit=250",
+    "https://wearebraindead.com/policies/shipping-policy",
+    "https://wearebraindead.com/policies/refund-policy"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-lazy-oaf run): meta 'Brain Dead is a creative collective of artists and designers from around the world. With its disruptive, graphic-led approach, the brand takes its cues from post punk, underground comics, and the spirit of subculture as a whole.' meta.json city Los Angeles, US, USD; ships to 191 countries incl. US, CA, GB, AU.",
+    "Shipping policy: ships to most countries worldwide (excluding Belarus, Brazil, Indonesia, Iran, Iraq, Israel, Russia, Ukraine, Venezuela); duties and taxes calculated at checkout where available.",
+    "Refund policy, domestic (US): start a return or exchange through its return portal within 7 days of delivery; items new, unused, tags on."
+  ],
+  "checked_at": "2026-10-29"
+}

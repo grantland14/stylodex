@@ -43,6 +43,19 @@
       "source_url": "https://www.stussy.com/collections/sweats/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "Sweats collection feed, 75 products: 46 regular-price in-stock hoodies, none marked down, 7 sold out. Low: Basic Stüssy Hoodie $130; high: Bonded Jersey Zip Hoodie $195. Whole-store feed also carries a Denim Tears Sequin Zip Hoodie collab at $275, not in the range. Sizes S–XXL, XS on most. Regular price = in stock, no variant with compare_at_price above price; hoodie = title says hoodie/hoody, kids, knit, sets and jackets excluded."
+    },
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 45,
+      "max": 65,
+      "item_count": 93,
+      "source_url": "https://www.stussy.com/collections/tees/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Tees collection (100 listings, one per colour): 94 tees, 93 regular-price in stock, 1 sold out, none marked down. Low: Basic Stüssy Tee $45 (Black, Navy, Khaki and more), 8 Ball Tee $45, Box Crown Tee $45, Designs Tee $45; Lazy LS Tee $60; high: Junya Surfman Tee and Junya Venus Tee $65. Sizes XS–XXL (XS on 92 of 100). Regular price = in stock, no variant with compare_at_price above price. Tees = T-shirts and tees by title, short and long sleeve; tanks, vests, polos, multipacks, dresses, sweatshirts and kids excluded.",
+      "min_usd": 45,
+      "max_usd": 65,
+      "fx_date": null
     }
   ],
   "sources": [
@@ -51,7 +64,9 @@
     "https://www.stussy.com/policies/refund-policy",
     "https://www.stussy.com/collections/jeans/products.json?limit=250",
     "https://en.wikipedia.org/wiki/St%C3%BCssy",
-    "https://www.stussy.com/collections/sweats/products.json?limit=250"
+    "https://www.stussy.com/collections/sweats/products.json?limit=250",
+    "https://www.stussy.com/collections/tees/products.json?limit=250",
+    "https://www.stussy.com/meta.json"
   ],
   "notes": [
     "2026-10-29 (jnco run): homepage meta 'Authentic Stüssy goods. Made tough for the world. Quality guaranteed. Built for the long haul. Shop tees, sweats, outerwear, headwear, denim'. known_for built from it.",
@@ -61,9 +76,11 @@
     "Jeans (products.json): waists 26–38, all 100% cotton, non-stretch, unisex. Big Ol' Jean: 'Oversized waist with a relaxed rise', leg opening circumference 18½\" / 47cm (size 32). New Classic Jean: classic fit, straight cut, 14.5oz, 17½\" leg opening circumference.",
     "2026-10-29 (brands-like-named-collective): hoodies priced from the sweats collection feed; see the hoodies price note.",
     "2026-10-29 (brands-like-named-collective): Wikipedia (https://en.wikipedia.org/wiki/St%C3%BCssy): 'an American privately held fashion house founded in the early 1980s by Shawn Stussy. It benefited from the surfwear trend which began in Orange County, California, and was later adopted by the skateboard and hip-hop scenes.' Hoodie sizes in the sweats feed: S–XXL on all 46, XS on 36.",
-    "2026-10-29 (brands-like-named-collective): refund policy (https://www.stussy.com/policies/refund-policy) also says 'Shipping charges are non-refundable' and 'Undergarments, swimwear, and fragrances cannot be returned'."
+    "2026-10-29 (brands-like-named-collective): refund policy (https://www.stussy.com/policies/refund-policy) also says 'Shipping charges are non-refundable' and 'Undergarments, swimwear, and fragrances cannot be returned'.",
+    "2026-10-29 (brands-like-lazy-oaf run): tees collection feed read; meta.json shop city Irvine, California, US, USD."
   ],
   "sells_categories": [
-    "hoodies"
+    "hoodies",
+    "tees"
   ]
 }

@@ -32,10 +32,24 @@
       "min_usd": 59.95,
       "max_usd": 129.95,
       "fx_date": null
+    },
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 29.95,
+      "max": 69.95,
+      "item_count": 54,
+      "source_url": "https://www.aelfriceden.com/collections/all-tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "All Tops collection feed (441 products): 105 tees by title, 51 marked down, 54 regular-price in stock. Low: Aelfric Eden Logo Embroidered Tee $29.95; Aelfric Eden Boxy Tee, Floral Graphic Baby Tee, Heart Graphic Baby Tee $34.95; high: long-sleeve tees $59.95–$69.95 (Off-The-Shoulder Long Sleeve Tee $59.95). Sizes XS–XL. Regular price = in stock, no variant with compare_at_price above price. Tees = T-shirts and tees by title, short and long sleeve; tanks, vests, polos, multipacks, dresses, sweatshirts and kids excluded.",
+      "min_usd": 29.95,
+      "max_usd": 69.95,
+      "fx_date": null
     }
   ],
   "sells_categories": [
-    "hoodies"
+    "hoodies",
+    "tees"
   ],
   "materials": [],
   "certifications": [],
@@ -50,7 +64,8 @@
     "https://www.aelfriceden.com/pages/our-story",
     "https://www.aelfriceden.com/pages/shipping",
     "https://www.aelfriceden.com/policies/refund-policy",
-    "https://www.aelfriceden.com/pages/pop-up-store"
+    "https://www.aelfriceden.com/pages/pop-up-store",
+    "https://www.aelfriceden.com/collections/all-tops/products.json?limit=250"
   ],
   "notes": [
     "Homepage og:title 'Aelfric Eden Global Street Wear'; meta: 'a Street wear brand rooted in creating a brand with mix of skateboards and visual subcultures. It also aims to bring Asian street fashion into the Western world.' Main nav: NEW IN, TRENDING NOW, HOODIES, BOXY, BAGGY BOTTOMS, ONLY FOR WOMEN (known_for built from the nav).",

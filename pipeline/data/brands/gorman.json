@@ -1,0 +1,49 @@
+{
+  "name": "Gorman",
+  "website_url": "https://gormanshop.com.au",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Bold Prints and Artist Collabs",
+  "hq_country": "AU",
+  "size_range": "AU 4–20 (US 0–16)",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 91,
+      "max": 118,
+      "item_count": 16,
+      "source_url": "https://gormanshop.com.au/en-us/collections/clothing-tees/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US market (gormanshop.com.au/en-us, en-US hreflang target; en-us cart.js currency USD). Clothing Tees collection: 71 products, 67 tees, 51 marked down, 16 regular-price in stock. Low $91 (Right Meow Baby Tee, Daisies Relaxed Tee, Jumble Print Classic Tee, Sunspill Classic Tee); high $118 (Passion Flower Stripe Relaxed Tee, Mariposa Placement Oversized Tee, Right Meow Placement Oversized Tee). Sizes AU 4–20. Regular price = in stock, no variant with compare_at_price above price. Tees = T-shirts and tees by title, short and long sleeve; tanks, vests, polos, multipacks, dresses, sweatshirts and kids excluded.",
+      "min_usd": 91,
+      "max_usd": 118,
+      "fx_date": null
+    }
+  ],
+  "sells_categories": [
+    "tees"
+  ],
+  "sources": [
+    "https://www.gormanshop.com.au/",
+    "https://www.gormanshop.com.au/meta.json",
+    "https://www.gormanshop.com.au/en-us/cart.js",
+    "https://gormanshop.com.au/en-us/collections/clothing-tees/products.json?limit=250",
+    "https://gormanshop.com.au/en-us/policies/shipping-policy",
+    "https://gormanshop.com.au/en-us/policies/refund-policy"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-lazy-oaf run): meta 'From bold prints to exclusive artist collabs, Gorman is an Australian fashion icon blending local inspiration with colour, creativity, and fresh design.' meta.json city Abbotsford, Victoria, AU; ships to 45 countries incl. US, CA, GB, AU; country selector lists United States (USD).",
+    "Shipping policy: international via AUS Post, calculated by weight at checkout; free standard shipping over AUD 400 is domestic only.",
+    "Refund policy: 14 days from receiving the parcel to start a return; full-price items for online credit, exchange or refund; sale items credit or exchange only.",
+    "Size navigation: AU 4/US 0 to AU 20/US 16. Also sells homewares, kidswear and pet goods."
+  ],
+  "checked_at": "2026-10-29"
+}
