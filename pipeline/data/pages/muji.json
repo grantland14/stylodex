@@ -1,0 +1,1413 @@
+{
+ "subject": "Muji",
+ "slug": "muji",
+ "url_prefix": "stores",
+ "category": {
+  "slug": "tees",
+  "name": "T-Shirts",
+  "why": "C is the clothing line Muji is best known for: muji.us lists T-Shirts under Best Sellers, its apparel page sells 'casual, minimalist Japanese style' made from natural materials, and the outside lists frame Muji as a basics brand (disco: 'basics'; zhihu: 'very simple and understated, and comfortable to wear'). Muji also sells home goods and stationery, which Stylodex doesn't cover, so the page is about clothing only. Prices compare men's T-shirts (unisex where the store doesn't split), regular price only; multipacks, tanks, camisoles, polos and sweatshirts excluded. The same definition the Uniqlo page uses, so Uniqlo, Everlane and GU prices are reused from that run."
+ },
+ "serp": [
+  {
+   "keyword": "stores like muji",
+   "position": 1,
+   "url": null,
+   "kept": false,
+   "why_dropped": "AI overview, no URL"
+  },
+  {
+   "keyword": "stores like muji",
+   "position": 1,
+   "url": "https://similist.com/alternatives/stores-like-muji/",
+   "kept": false,
+   "why_dropped": "similist.com scraped list (dropped by rule)"
+  },
+  {
+   "keyword": "stores like muji",
+   "position": 1,
+   "url": "https://www.thredup.com/bg/p/brands-like-uniqlo",
+   "kept": false,
+   "why_dropped": "about Uniqlo, not Muji; resale marketplace; 403 to WebFetch on the Uniqlo run"
+  },
+  {
+   "keyword": "stores like muji",
+   "position": 1,
+   "url": "https://www.instagram.com/p/DR9ELWKkV3y/",
+   "kept": false,
+   "why_dropped": "social post, not readable"
+  },
+  {
+   "keyword": "stores like muji",
+   "position": 2,
+   "url": "https://www.reddit.com/r/muji/comments/90szx5/similar_japanese_storeswebsites_to_muji/",
+   "kept": false,
+   "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround"
+  },
+  {
+   "keyword": "stores like muji",
+   "position": 2,
+   "url": "https://www.reddit.com/r/muji/comments/142zqzh/places_similar_to_muji/",
+   "kept": false,
+   "why_dropped": "unfetchable: reddit; not read"
+  },
+  {
+   "keyword": "stores like muji",
+   "position": 2,
+   "url": "https://www.reddit.com/r/JapanTravelTips/comments/1ezwo68/budget_stores_that_arent_uniqlo_muji/",
+   "kept": false,
+   "why_dropped": "unfetchable: reddit; about shopping in Japan"
+  },
+  {
+   "keyword": "stores like muji",
+   "position": 4,
+   "url": "https://www.facebook.com/groups/japantravel/posts/1555691258882782/",
+   "kept": false,
+   "why_dropped": "Facebook group, not readable without login; shopping in Japan"
+  },
+  {
+   "keyword": "stores like muji",
+   "position": 4,
+   "url": "https://www.facebook.com/groups/457573074653783/posts/2096214400789634/",
+   "kept": false,
+   "why_dropped": "Facebook group, not readable; Tokyo shopping"
+  },
+  {
+   "keyword": "stores like muji",
+   "position": 5,
+   "url": "https://www.muji.us/",
+   "kept": false,
+   "why_dropped": "anchor's own site"
+  },
+  {
+   "keyword": "stores like muji",
+   "position": 6,
+   "url": "https://blog.japanwondertravel.com/popular-japanese-clothing-stores-28937",
+   "kept": false,
+   "why_dropped": "read: list of Japanese clothing stores with Muji as its own entry; names no store as similar to or an alternative to Muji"
+  },
+  {
+   "keyword": "stores like muji",
+   "position": 7,
+   "url": "https://similist.com/alternatives/stores-like-muji/",
+   "kept": false,
+   "why_dropped": "similist.com scraped list"
+  },
+  {
+   "keyword": "stores like muji",
+   "position": 8,
+   "url": "https://www.thredup.com/bg/p/brands-like-uniqlo",
+   "kept": false,
+   "why_dropped": "about Uniqlo"
+  },
+  {
+   "keyword": "stores like muji",
+   "position": 9,
+   "url": "https://japanesetaste.com/blogs/japanese-taste-blog/the-best-japanese-clothing-brands-for-every-style-muji-mizuno-bape-more",
+   "kept": false,
+   "why_dropped": "read: Japanese clothing brands by style; groups Muji with Uniqlo, GU, Auralee, Beams, United Arrows but presents none as an alternative to Muji"
+  },
+  {
+   "keyword": "stores like muji",
+   "position": 10,
+   "url": "https://thejapanschool.com/ultimate-guide-top-japanese-clothing-brands/",
+   "kept": false,
+   "why_dropped": "read: guide to Japanese brands; says locals prefer 'subtler labels like MUJI, United Arrows, or Beams' but never as alternatives to Muji"
+  },
+  {
+   "keyword": "brands like muji",
+   "position": 1,
+   "url": null,
+   "kept": false,
+   "why_dropped": "AI overview, no URL"
+  },
+  {
+   "keyword": "brands like muji",
+   "position": 1,
+   "url": "https://thejapanschool.com/ultimate-guide-top-japanese-clothing-brands/",
+   "kept": false,
+   "why_dropped": "same as above"
+  },
+  {
+   "keyword": "brands like muji",
+   "position": 1,
+   "url": "https://www.apartstyle.com/post/brands-like-muji",
+   "kept": false,
+   "why_dropped": "apartstyle.com never counts"
+  },
+  {
+   "keyword": "brands like muji",
+   "position": 2,
+   "url": "https://www.zhihu.com/en/answer/13109271",
+   "kept": true,
+   "why": "Q&A 'What are some brands with a similar style to Muji?': names Uniqlo (clothing) and FELISSIMO (colored pencils, out of scope)"
+  },
+  {
+   "keyword": "brands like muji",
+   "position": 4,
+   "url": "https://www.reddit.com/r/stationery/comments/16laa2n/muji_brand_dupe/",
+   "kept": false,
+   "why_dropped": "reddit, stationery"
+  },
+  {
+   "keyword": "brands like muji",
+   "position": 5,
+   "url": "https://ianreyno.wordpress.com/2012/07/23/review-uniqlo-vs-muji/",
+   "kept": false,
+   "why_dropped": "2012 head-to-head review, not an alternatives list; not read"
+  },
+  {
+   "keyword": "brands like muji",
+   "position": 6,
+   "url": "https://www.fastcompany.com/90177301/from-muji-to-ikea-why-the-best-retailers-think-like-ux-designers",
+   "kept": false,
+   "why_dropped": "retail design feature, not alternatives"
+  },
+  {
+   "keyword": "brands like muji",
+   "position": 7,
+   "url": "https://www.tripadvisor.in/ShowTopic-g294232-i525-k14256111-Made_in_Japan_clothing-Japan.html",
+   "kept": false,
+   "why_dropped": "HTTP 403 to WebFetch; not retried"
+  },
+  {
+   "keyword": "brands like muji",
+   "position": 8,
+   "url": "https://www.quora.com/Do-any-Japanese-brands-sell-well-in-China",
+   "kept": false,
+   "why_dropped": "off topic (brands selling in China)"
+  },
+  {
+   "keyword": "brands like muji",
+   "position": 9,
+   "url": "https://www.tripadvisor.co.nz/ShowTopic-g294232-i525-k13031421-Affordable_Mens_Clothing-Japan.html",
+   "kept": false,
+   "why_dropped": "HTTP 403 to WebFetch; not retried"
+  },
+  {
+   "keyword": "brands like muji",
+   "position": 10,
+   "url": "https://www.resetera.com/threads/i-dont-like-logos-on-clothes-any-more.209310/",
+   "kept": false,
+   "why_dropped": "read: thread about logo-free clothes; one post 'I pretty much only wear muji, everlane, and uniqlo these days' lists brands worn together, not alternatives to Muji; not counted"
+  },
+  {
+   "keyword": "brands like muji",
+   "position": 11,
+   "url": "https://brandslike.info/brand/muji/",
+   "kept": true,
+   "why": "unsigned brand directory, 'similar to MUJI' block: COS, UNIQLO, Everlane, ARKET, Bassike. Treated like the disco directory: evidence only, never named or linked on the page"
+  },
+  {
+   "keyword": "muji alternatives",
+   "position": 1,
+   "url": "https://www.hunker.com/13709027/15-minimalist-brands-you-need-to-follow",
+   "kept": false,
+   "why_dropped": "read: minimalist brands list with Muji first; not framed as alternatives, and the others are home goods"
+  },
+  {
+   "keyword": "muji alternatives",
+   "position": 2,
+   "url": "https://craft.co/muji/competitors",
+   "kept": false,
+   "why_dropped": "company-competitor database, not an editorial alternatives list"
+  },
+  {
+   "keyword": "muji alternatives",
+   "position": 3,
+   "url": "https://www.reddit.com/r/HerOneBag/comments/sv3gf3/alternatives_to_muji/",
+   "kept": false,
+   "why_dropped": "reddit; not read"
+  },
+  {
+   "keyword": "muji alternatives",
+   "position": 4,
+   "url": "https://muji.knoji.com/alternatives/",
+   "kept": false,
+   "why_dropped": "HTTP 403 to WebFetch; not retried"
+  },
+  {
+   "keyword": "muji alternatives",
+   "position": 5,
+   "url": "https://www.youtube.com/watch?v=5MtizjKNsdg",
+   "kept": false,
+   "why_dropped": "video; stationery"
+  },
+  {
+   "keyword": "muji alternatives",
+   "position": 6,
+   "url": "https://www.sitelike.org/similar/muji.us/",
+   "kept": false,
+   "why_dropped": "similar-websites tool"
+  },
+  {
+   "keyword": "muji alternatives",
+   "position": 7,
+   "url": "https://bobcutmag.com/2022/04/07/stores-like-muji/",
+   "kept": false,
+   "why_dropped": "read: four alternatives (Jinen, Danish Design Store, Artifox, Ferm Living), all home goods; no clothing pick"
+  },
+  {
+   "keyword": "muji alternatives",
+   "position": 8,
+   "url": "https://says.com/my/lifestyle/dupes-you-can-get-in-daiso-if-you-want-a-muji-styled-home",
+   "kept": false,
+   "why_dropped": "home goods (Daiso)"
+  },
+  {
+   "keyword": "muji alternatives",
+   "position": 9,
+   "url": "https://www.iproperty.com.my/lifestyle/furniture-shops-like-muji/",
+   "kept": false,
+   "why_dropped": "furniture"
+  },
+  {
+   "keyword": "muji alternatives",
+   "position": 10,
+   "url": "https://www.bloomberg.com/news/features/2019-07-15/muji-struggles-as-chinese-copycats-knock-off-minimalist-products",
+   "kept": false,
+   "why_dropped": "news feature, not alternatives"
+  },
+  {
+   "keyword": "similar to muji",
+   "position": null,
+   "url": null,
+   "kept": false,
+   "why_dropped": "Ahrefs returned no SERP for this keyword"
+  },
+  {
+   "keyword": "(directory)",
+   "position": null,
+   "url": "https://discobrands.co/blogs/12-brands-like-muji",
+   "kept": true,
+   "why": "disco directory list of brands like Muji (21 brands, clothing and footwear) plus its Muji profile 'If you like Muji' block (Uniqlo, Cos, Everlane, Organic Basics). Counted as one source, never cited on the page"
+  }
+ ],
+ "co_stocking": [
+  {
+   "retailer": null,
+   "url": null,
+   "used": false,
+   "why": "Muji sells only its own label through its own stores and site; no multi-brand retailer category page to compare."
+  }
+ ],
+ "candidates": [
+  {
+   "name": "Uniqlo",
+   "slug": "uniqlo",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#1: \"minimalist LifeWear basics like Heattech, AIRism and Ultra Light Down\""
+    },
+    {
+     "kind": "directory",
+     "url": "https://brandslike.info/brand/muji/",
+     "note": "UNIQLO: overlaps in apparel, basics and functional, everyday styling"
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/13109271",
+     "note": "BingOO: \"they are quite similar, both very simple and understated, and comfortable to wear\""
+    }
+   ]
+  },
+  {
+   "name": "Everlane",
+   "slug": "everlane",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#4: \"minimalist neutral wardrobe staples, denim, and recycled-material outerwear\""
+    },
+    {
+     "kind": "directory",
+     "url": "https://brandslike.info/brand/muji/",
+     "note": "Everlane: overlaps in apparel, basics, minimalist audiences"
+    }
+   ]
+  },
+  {
+   "name": "COS",
+   "slug": "cos",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#8: \"architectural tailoring, knitwear\""
+    },
+    {
+     "kind": "directory",
+     "url": "https://brandslike.info/brand/muji/",
+     "note": "COS: overlaps with MUJI in apparel"
+    }
+   ]
+  },
+  {
+   "name": "Arket",
+   "slug": "arket",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#10: \"Nordic-modernist clothing, homeware\""
+    },
+    {
+     "kind": "directory",
+     "url": "https://brandslike.info/brand/muji/",
+     "note": "ARKET: calm, practical lifestyle shopping across apparel and home"
+    }
+   ]
+  },
+  {
+   "name": "Organic Basics",
+   "slug": "organic-basics",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#7: \"minimalist organic cotton underwear, basics and loungewear\""
+    }
+   ]
+  },
+  {
+   "name": "GU",
+   "slug": "gu",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#14: \"low-price, trend-driven sister brand to Uniqlo\""
+    }
+   ]
+  },
+  {
+   "name": "Frank And Oak",
+   "slug": "frank-and-oak",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#6: \"Montreal minimal-basics label\""
+    }
+   ]
+  },
+  {
+   "name": "A.P.C.",
+   "slug": "a-p-c",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#16: \"raw selvedge denim, Demi-Lune bags\""
+    }
+   ]
+  },
+  {
+   "name": "Norse Projects",
+   "slug": "norse-projects",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#9: \"clean silhouettes and technical GORE-TEX outerwear\""
+    }
+   ]
+  },
+  {
+   "name": "nanamica",
+   "slug": "nanamica",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#18: \"GORE-TEX outdoor construction with restrained, everyday sportswear\""
+    }
+   ]
+  },
+  {
+   "name": "Margaret Howell",
+   "slug": "margaret-howell",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#17: \"relaxed shirting, tailoring and knitwear in traditional UK fabrics\""
+    }
+   ]
+  },
+  {
+   "name": "Bassike",
+   "slug": "bassike",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "directory",
+     "url": "https://brandslike.info/brand/muji/",
+     "note": "Bassike: minimalist shoppers who value simple apparel, wardrobe basics"
+    }
+   ]
+  },
+  {
+   "name": "Weekday",
+   "slug": "weekday",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#2: \"affordable wide-leg jeans and graphic basics\""
+    }
+   ]
+  },
+  {
+   "name": "Pact",
+   "slug": "pact",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#5: \"affordable organic cotton basics, underwear and bedding\""
+    }
+   ]
+  },
+  {
+   "name": "Acne Studios",
+   "slug": "acne-studios",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#15: \"oversized tailoring, mohair knitwear, denim and the Musubi bag\""
+    }
+   ]
+  },
+  {
+   "name": "ssstein",
+   "slug": "ssstein",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#19: \"genderless, minimal tailoring and wardrobe staples\""
+    }
+   ]
+  },
+  {
+   "name": "Blue Blue Japan",
+   "slug": "blue-blue-japan",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#11: \"Japanese-made clothing dyed with natural plant indigo\""
+    }
+   ]
+  },
+  {
+   "name": "Mr. Olive",
+   "slug": "mr-olive",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#13: \"Japan-made trad-leaning basics and Horween leather bags\""
+    }
+   ]
+  },
+  {
+   "name": "Frev Clothing",
+   "slug": "frev-clothing",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#3: \"graphic tees and hoodies\""
+    }
+   ]
+  },
+  {
+   "name": "my beautiful landlet",
+   "slug": "my-beautiful-landlet",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#20: \"calculated oversized silhouettes\""
+    }
+   ]
+  },
+  {
+   "name": "Comme des Garçons SHIRT",
+   "slug": "comme-des-garcons-shirt",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#21: \"classic poplin button-downs\""
+    }
+   ]
+  },
+  {
+   "name": "Greats",
+   "slug": "greats",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#12: \"minimal Italian-made leather styles (footwear)\""
+    }
+   ]
+  },
+  {
+   "name": "SHEEP",
+   "slug": "sheep",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Bunaai",
+   "slug": "bunaai",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Anello",
+   "slug": "anello",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Danton",
+   "slug": "danton",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Hobonichi",
+   "slug": "hobonichi",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Kato Classic",
+   "slug": "kato-classic",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Citizen",
+   "slug": "citizen",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "American Giant",
+   "slug": "american-giant",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Adanola",
+   "slug": "adanola",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Asket",
+   "slug": "asket",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Daily Monday",
+   "slug": "daily-monday",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "V76 by Vaughn",
+   "slug": "v76-by-vaughn",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Appointed",
+   "slug": "appointed",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "AS Colour",
+   "slug": "as-colour",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Basic Rights",
+   "slug": "basic-rights",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Kirkland Signature",
+   "slug": "kirkland-signature",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Basic.Space",
+   "slug": "basic-space",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Caitlyn Minimalist",
+   "slug": "caitlyn-minimalist",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Richer Poorer",
+   "slug": "richer-poorer",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Quince",
+   "slug": "quince",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Current Mood",
+   "slug": "current-mood",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Apostrophe",
+   "slug": "apostrophe",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Crucial Clothing",
+   "slug": "crucial-clothing",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "CUUP",
+   "slug": "cuup",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Esprit",
+   "slug": "esprit",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "ESSENTIALS",
+   "slug": "essentials",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "George at Asda",
+   "slug": "george-at-asda",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Knickey",
+   "slug": "knickey",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Los Angeles Apparel",
+   "slug": "los-angeles-apparel",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Knowledge Cotton Apparel",
+   "slug": "knowledge-cotton-apparel",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Grana",
+   "slug": "grana",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "American Vintage",
+   "slug": "american-vintage",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Kotn",
+   "slug": "kotn",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Ping Collection",
+   "slug": "ping-collection",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Practical Functional Wear",
+   "slug": "practical-functional-wear",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Rawganique",
+   "slug": "rawganique",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "ThirdLove",
+   "slug": "thirdlove",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Thread & Supply",
+   "slug": "thread-and-supply",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Tinu Drops",
+   "slug": "tinu-drops",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Triple F.A.T. Goose",
+   "slug": "triple-f-a-t-goose",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Unruched",
+   "slug": "unruched",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Allbirds",
+   "slug": "allbirds",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Austere",
+   "slug": "austere",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Made by Folk",
+   "slug": "made-by-folk",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Linoto",
+   "slug": "linoto",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Omoo",
+   "slug": "omoo",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Basic Thread",
+   "slug": "basic-thread",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "NOBULL",
+   "slug": "nobull",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Charnos",
+   "slug": "charnos",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Tote & Carry",
+   "slug": "tote-carry",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Les Deux",
+   "slug": "les-deux",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Lolly's Laundry",
+   "slug": "lollys-laundry",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Canvas by Bella+Canvas",
+   "slug": "canvas-by-bella-canvas",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Minted",
+   "slug": "minted",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Modern Citizen",
+   "slug": "modern-citizen",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Harris Wharf London",
+   "slug": "harris-wharf-london",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Duer",
+   "slug": "duer",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Decade",
+   "slug": "decade",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Cuts Clothing",
+   "slug": "cuts-clothing",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Roots",
+   "slug": "roots",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Beyond Clothing",
+   "slug": "beyond-clothing",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Sunday Supply Co.",
+   "slug": "sunday-supply-co",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Sézane",
+   "slug": "sezane",
+   "in_apart_pool": true,
+   "sources": []
+  }
+ ],
+ "picks": [
+  {
+   "slug": "uniqlo",
+   "rank": 1,
+   "independent_sources": 3,
+   "single_source": false,
+   "price": {
+    "currency": "USD",
+    "min": 9.9,
+    "max": 34.9,
+    "min_usd": 9.9,
+    "max_usd": 34.9,
+    "fx_date": null,
+    "item_count": 23
+   },
+   "price_relation": "similar",
+   "reason": "Uniqlo's regular-price men's tees run $9.90 to $34.90, with the SUPIMA Cotton T-Shirt at $24.90 in sizes to 3XL, and it has 86 US stores.",
+   "evidence": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#1: \"minimalist LifeWear basics like Heattech, AIRism and Ultra Light Down\""
+    },
+    {
+     "kind": "directory",
+     "url": "https://brandslike.info/brand/muji/",
+     "note": "UNIQLO: overlaps in apparel, basics and functional, everyday styling"
+    },
+    {
+     "kind": "forum",
+     "url": "https://www.zhihu.com/en/answer/13109271",
+     "note": "BingOO: \"they are quite similar, both very simple and understated, and comfortable to wear\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "everlane",
+   "rank": 2,
+   "independent_sources": 2,
+   "single_source": false,
+   "price": {
+    "currency": "USD",
+    "min": 34.0,
+    "max": 88.0,
+    "min_usd": 34.0,
+    "max_usd": 88.0,
+    "fx_date": null,
+    "item_count": 33
+   },
+   "price_relation": "similar",
+   "reason": "Everlane's men's tees run $34 to $88, led by The Essential Organic Crew at $34 in OCS-certified organic cotton, in XS to XXL, with free US shipping over $75.",
+   "evidence": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#4: \"minimalist neutral wardrobe staples, denim, and recycled-material outerwear\""
+    },
+    {
+     "kind": "directory",
+     "url": "https://brandslike.info/brand/muji/",
+     "note": "Everlane: overlaps in apparel, basics, minimalist audiences"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "organic-basics",
+   "rank": 3,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 35.0,
+    "max": 43.0,
+    "min_usd": 35.0,
+    "max_usd": 43.0,
+    "fx_date": null,
+    "item_count": 20
+   },
+   "price_relation": "similar",
+   "reason": "Organic Basics sells single organic cotton tees from $35 (True Regular Fit Tee) to $43 from its US store, sizes XXS to 3XL, with 30-day returns.",
+   "evidence": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#7: \"minimalist organic cotton underwear, basics and loungewear\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "frank-and-oak",
+   "rank": 4,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "CAD",
+    "min": 35.0,
+    "max": 79.0,
+    "min_usd": 24.92,
+    "max_usd": 56.24,
+    "fx_date": "2026-10-28",
+    "item_count": 16
+   },
+   "price_relation": "similar",
+   "reason": "Frank And Oak's men's tees run CA$35 to CA$79 (about $25 to $56), led by the 100% cotton 180gsm Essential Slim Tee, in XS to XXL, shipping to the US.",
+   "evidence": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#6: \"Montreal minimal-basics label\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "gu",
+   "rank": 5,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 6.9,
+    "max": 29.9,
+    "min_usd": 6.9,
+    "max_usd": 29.9,
+    "fx_date": null,
+    "item_count": 15
+   },
+   "price_relation": "similar",
+   "reason": "GU, owned by Uniqlo's parent Fast Retailing, sells men's tees from $6.90 (Cotton Color Crew Neck T-Shirt) to $29.90, with free US shipping from $79.",
+   "evidence": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#14: \"low-price, trend-driven sister brand to Uniqlo\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "a-p-c",
+   "rank": 6,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 85.0,
+    "max": 330.0,
+    "min_usd": 85.0,
+    "max_usd": 330.0,
+    "fx_date": null,
+    "item_count": 44
+   },
+   "price_relation": "pricier",
+   "reason": "A.P.C.'s US store sells men's tees from $85 to $330, including the organic cotton Ollie T-shirt at $150, in XXS to 3XL, with 14-day returns.",
+   "evidence": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#16: \"raw selvedge denim, Demi-Lune bags\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "norse-projects",
+   "rank": 7,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 90.0,
+    "max": 215.0,
+    "min_usd": 90.0,
+    "max_usd": 215.0,
+    "fx_date": null,
+    "item_count": 34
+   },
+   "price_relation": "pricier",
+   "reason": "Norse Projects' tees run $90 to $215 in USD, starting with the Norse Standard T-shirt in midweight organic cotton made in Portugal, in XS to XXL.",
+   "evidence": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#9: \"clean silhouettes and technical GORE-TEX outerwear\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "nanamica",
+   "rank": 8,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 90.0,
+    "max": 250.0,
+    "min_usd": 90.0,
+    "max_usd": 250.0,
+    "fx_date": null,
+    "item_count": 17
+   },
+   "price_relation": "pricier",
+   "reason": "nanamica's US store sells tees from $90 (Loopwheel COOLMAX Jersey Tee, knitted on a loopwheel machine) to $250, with a New York store and free shipping from $200.",
+   "evidence": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#18: \"GORE-TEX outdoor construction with restrained, everyday sportswear\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "margaret-howell",
+   "rank": 9,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 125.0,
+    "max": 190.0,
+    "min_usd": 125.0,
+    "max_usd": 190.0,
+    "fx_date": null,
+    "item_count": 8
+   },
+   "price_relation": "pricier",
+   "reason": "Margaret Howell's US prices for men's tees run $125 (MHL. Simple T Shirt in cotton linen jersey) to $190, shipped with US duties and tax included, 28-day returns.",
+   "evidence": [
+    {
+     "kind": "directory",
+     "url": "https://discobrands.co/blogs/12-brands-like-muji",
+     "note": "#17: \"relaxed shirting, tailoring and knitwear in traditional UK fabrics\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "bassike",
+   "rank": 10,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 130.0,
+    "max": 280.0,
+    "min_usd": 130.0,
+    "max_usd": 280.0,
+    "fx_date": null,
+    "item_count": 27
+   },
+   "price_relation": "pricier",
+   "reason": "Bassike's men's tees run $130 to $280 in USD, in organic cotton jersey designed and made in Australia, with US duties included and free shipping from $300.",
+   "evidence": [
+    {
+     "kind": "directory",
+     "url": "https://brandslike.info/brand/muji/",
+     "note": "Bassike: minimalist shoppers who value simple apparel, wardrobe basics"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  }
+ ],
+ "rejected": [
+  {
+   "slug": "cos",
+   "why": "unverified: cos.com returned 403 to WebFetch for an earlier run on 2026-10-29 (brand file); not retried. 2 sources (disco, brandslike.info); human check."
+  },
+  {
+   "slug": "arket",
+   "why": "unverified: arket.com/en-us/men/t-shirts/ returned 403 to WebFetch on 2026-10-29 (Uniqlo run, brand file); not retried. 2 sources; human check."
+  },
+  {
+   "slug": "weekday",
+   "why": "unverified: weekday.com returned 403 for another run (brand file); not retried. 1 source."
+  },
+  {
+   "slug": "pact",
+   "why": "no readable prices: wearpact.com is not a Shopify feed and its men's tees page (https://wearpact.com/men/apparel/tees%20&%20henleys) renders no products to curl or WebFetch. 1 source."
+  },
+  {
+   "slug": "acne-studios",
+   "why": "not a fit for this page: every tee on its US men's T-shirts page (https://www.acnestudios.com/us/en/man/t-shirts/, 2026-10-29) is a logo or graphic tee at $300 to $520 (22 of 101 read), so there's no specific reason tying it to Muji's unbranded basics. 1 source. No brand file written."
+  },
+  {
+   "slug": "ssstein",
+   "why": "not a pick: JPY store (tees ¥17,600–25,300, https://ssstein.com/products.json?limit=250); shipping policy says international via FedEx but lists no countries, and it takes no change-of-mind returns (defects only, 7 days; https://ssstein.com/policies/refund-policy). 1 source."
+  },
+  {
+   "slug": "blue-blue-japan",
+   "why": "unverified: bluebluejapan.com renders no text without JavaScript (curl, 2026-10-29). 1 source."
+  },
+  {
+   "slug": "mr-olive",
+   "why": "unverified: mr-olive.com is a JavaScript app ('You need to enable JavaScript'). 1 source."
+  },
+  {
+   "slug": "frev-clothing",
+   "why": "not checked: the agent proxy refused frevclothing.com; graphic tees per the source, not plain basics. 1 source."
+  },
+  {
+   "slug": "my-beautiful-landlet",
+   "why": "no online store: mybeautifullandlet.com is a lookbook with a stockists list (Osaka company). 1 source."
+  },
+  {
+   "slug": "comme-des-garcons-shirt",
+   "why": "not checked: named for poplin button-downs, not tees; no official store page looked up this run. 1 source."
+  },
+  {
+   "slug": "greats",
+   "why": "not checked: footwear brand per the source, doesn't fit a tees page. 1 source."
+  },
+  {
+   "slug": "felissimo",
+   "why": "out of scope: the zhihu answer recommends FELISSIMO for its colored pencils."
+  },
+  {
+   "slug": "pool-only",
+   "why": "Apart Style pool brands with no outside source this run (e.g. Asket, Quince, Kotn, American Giant, Los Angeles Apparel, SHEEP, Danton) can't be picks without outside evidence."
+  },
+  {
+   "slug": "home-goods",
+   "why": "SERP lists that recommend only home or stationery stores (Bob Cut Magazine, Hunker, Daiso, furniture lists) were read or dropped; Stylodex covers fashion and beauty only."
+  }
+ ],
+ "human_check": [
+  {
+   "fact": "pick check: COS / Arket",
+   "url": "https://www.cos.com/en-us",
+   "check": "403 to WebFetch. 2 sources each (disco, brandslike.info). Confirm regular-price men's tee range, sizes, US shipping and returns; both would become picks."
+  },
+  {
+   "fact": "evidence quality: directories",
+   "url": "https://brandslike.info/brand/muji/",
+   "check": "Every pick except Uniqlo and Everlane rests on one unsigned directory (the disco list, or brandslike.info for Bassike). Editorial SERP pages for this query list home goods or don't frame brands as Muji alternatives. Decide whether brandslike.info counts like the disco directory."
+  },
+  {
+   "fact": "anchor known_for",
+   "url": "https://www.muji.us/collections/apparel",
+   "check": "known_for changed from 'Simple, Unbranded Goods' to 'Minimalist Japanese Basics' (from the apparel page meta) so the title is about clothing. Confirm."
+  },
+  {
+   "fact": "pick price: Uniqlo",
+   "url": "https://www.uniqlo.com/us/en/men/tops/all-tops",
+   "check": "Reused from the Uniqlo run: truncated listing (23 tees visible). Same check as the Uniqlo page."
+  },
+  {
+   "fact": "pick ships_to: Norse Projects",
+   "url": "https://norseprojects.com/pages/faq",
+   "check": "US shipping rests on the store's country selector (United States, USD prices); the FAQ doesn't list destinations. Confirm a US checkout works."
+  }
+ ],
+ "checked_at": "2026-10-29",
+ "fx": {
+  "source": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+  "date": "2026-10-28",
+  "per_eur": {
+   "USD": 1.1133,
+   "CAD": 1.5638,
+   "GBP": 0.83785,
+   "AUD": 1.583,
+   "DKK": 7.4741,
+   "JPY": 175.86
+  },
+  "note": "Read 2026-10-29. Only Frank And Oak prices in a foreign currency (CAD); Norse Projects, Margaret Howell and Bassike show USD with the US market selected."
+ },
+ "notes": [
+  "Anchor verified (brand file, 2026-10-29): muji.us live, men's tees $14.90–$60 regular price (35 listings re-read today), women's $14.90–$39.90, ships US (free from $80), 30-day returns with free US label, US stores in NY, MA and OR. Only image_url is missing. known_for corrected to 'Minimalist Japanese Basics' (apparel page meta) so the title is about clothing.",
+  "10 picks pass enrich.md §3. Uniqlo (3 independent sources) and Everlane (2) are multi-sourced; the other 8 rest on one directory source each (7 on the disco list, Bassike on brandslike.info). Editorial SERP pages for these keywords recommend home goods or don't frame brands as Muji alternatives.",
+  "Reused verified brand files from the Uniqlo run (Uniqlo, Everlane, GU tees, all checked 2026-10-29). New brand files: norse-projects, nanamica, margaret-howell, bassike. Patched: muji, organic-basics, frank-and-oak, a-p-c (tees prices; A.P.C. size_range corrected from bag sizes).",
+  "COS and Arket (2 sources each) refuse WebFetch and are in human_check; they'd likely enter the top five once verified."
+ ],
+ "author": "Ash",
+ "copy": {
+  "intro": "Muji's $19.90 organic cotton crewneck is the kind of tee you end up owning in four colors. Then you want a heavier one, or a cut Muji doesn't make. This list sticks to Muji's clothing, not the storage boxes and stationery. Every store here sells simple T-shirts, starting with the ones closest to Muji's prices and ending with the labels that charge more for the fabric or where it's made.",
+  "bodies": {
+   "uniqlo": "Uniqlo is the obvious next stop, and for most tees it's the cheaper one. The SUPIMA Cotton T-Shirt ($24.90) is the one to start with, and the DRY Color T-Shirt ($9.90) undercuts every tee Muji sells.\n\nThe useful difference is fabric. Uniqlo builds its tees around named fabric lines like AIRism and HEATTECH, up to the HEATTECH Ultra Warm T-Shirt ($34.90), where Muji's names just describe the fabric. The SUPIMA tee also runs to 3XL in men's sizing, past Muji's usual XL. With 86 US stores, trying one on is easy.\n\nOnline is where Muji wins. Uniqlo's free shipping starts at $99 against Muji's $80, and you pay your own return postage, while Muji sends a free label.",
+   "everlane": "Everlane is the pick for an organic cotton crew at Muji's upper price. The Essential Organic Crew ($34) is OCS-certified organic cotton, and it's the one to buy first.\n\nThat's about what Muji's heavier tees cost, but the sizing goes further, XS to XXL on nearly every style. It also publishes the cost of materials, labor and transport behind its products, so you can see what the $34 pays for. Want something warmer? The Thermal Henley in Cozy Waffle ($88) sits at the top. US shipping is free over $75.\n\nTwo things to weigh. Mailed returns cost $7, where Muji's label is free. And if ethics is the reason you'd pay more, Shein agreed to buy Everlane in May 2026.",
+   "organic-basics": "Organic Basics is the closest match to Muji on price and on the plain look. Its single tees sit between $35 and $43, starting with the True Regular Fit Tee ($35) in mid-weight organic cotton.\n\nIf Muji's Heavyweight Cotton T-Shirt ($29.90) is your favorite, the True Heavy Boxy Fit Tee ($42) is the one to try here, in 100% organic cotton with a boxier cut. It's a Copenhagen label and a Certified B Corp, but US orders ship from its own US warehouse, so you're not waiting on a parcel from Denmark. Sizes run XXS to 3XL.\n\nThe catch is refunds. Exchanges are free within 30 days, but a refund loses the return shipping fee.",
+   "frank-and-oak": "Frank And Oak is the pick for a slim tee to wear under shirts and sweaters. The Essential Slim Tee (CA$35, about $25) is 100% cotton at a light 180gsm, made for layering without bulk.\n\nPrices are in Canadian dollars, so the range works out at roughly $25 to $56, right inside Muji's. The Essential Relaxed Tee (CA$45, about $32) is the looser cut, and The Waffle Henley (CA$79, about $56) is the warmest. Sizes go from XS to XXL, a size past most of Muji's tees.\n\nWatch the return window. You get 15 days to ask for a label, half of Muji's 30, and anything bought during a sale event is final.",
+   "gu": "GU is the cheapest store here, so it's the one for tees you don't mind wearing out. The Cotton Color Crew Neck T-Shirt ($6.90) costs less than half of Muji's cheapest tee.\n\nIt's owned by Fast Retailing, Uniqlo's parent company, and its regular-price men's tees top out at $29.90 for the Cotton Boxy T-Shirt Long. That's the same money as Muji's Heavyweight Cotton T-Shirt, so the whole range sits at or below Muji's middle. The Dry Ponte T-Shirt ($14.90) is the in-between pick, at the price of Muji's Jersey Crewneck. Free shipping kicks in at $79, a dollar under Muji's bar.\n\nLike Muji, it tops out at XL. For anything bigger, Uniqlo's SUPIMA tee or Organic Basics go to 3XL.",
+   "a-p-c": "A.P.C. is the step up if you want a French designer tee. The Ollie T-shirt ($150) is organic cotton in a straight fit with a ribbed crew neck, and it's the plain one to start with.\n\nThis is where the comparison with Muji gets tricky. Plenty of A.P.C. tees carry the name, like the Standard Rue Madame T-shirt ($185) with A.P.C. Rue Madame embroidered over the heart. That's the opposite of Muji's no-brand idea. Collab tees with Brain Dead are the cheapest way in, at $85.\n\nShipping covers the US and Canada only. Returns close after 14 days and cost $10 a label, so if you want more time to decide on a premium tee, Margaret Howell allows 28 days.",
+   "norse-projects": "Norse Projects is the Copenhagen take on the plain basic tee. The Norse Standard T-shirt ($90) is midweight organic cotton, made in Portugal, with a ribbed collar and twin-needle stitched hem and cuffs.\n\nFor something closer to Muji's Heavyweight Cotton T-Shirt, the Elmelunde Soft Compact Cotton T-shirt ($110) is heavyweight organic jersey, garment dyed, in a relaxed fit. The Norse Standard Heavy Loose T-shirt ($100) sits between the two, a looser, heavier cut for ten dollars more. Sizes run XS to XXL.\n\nThe catch is the border. Prices outside the EU leave out Danish VAT, but any US import taxes are yours to pay, and returns close after 14 days. Margaret Howell builds US duties into its prices instead.",
+   "nanamica": "nanamica is the closest thing to Muji's Loopwheel Cotton T-Shirt ($40), at more than twice the price. Its Loopwheel COOLMAX Jersey Tee ($90) is knitted on a loopwheel machine too, in a 50/50 blend of cotton and COOLMAX. The machines it's knitted on are more than half a century old, the same loopwheel method behind Muji's version.\n\nThat blend is the point. nanamica designs around utility and sports, so its tees mix cotton with performance yarn, like the COOLMAX Jersey Pocket Tee ($120) it calls its signature tee. The loopwheel tee has the nanamica logo embroidered on the front, so it isn't quite unbranded.\n\nThere's a store in New York, and US shipping is free from $200. Returns close at 14 days, and anything discounted is final sale.",
+   "margaret-howell": "Margaret Howell is the pick for a plain tee in a less usual fabric. The MHL. Simple T Shirt ($125) is garment-dyed cotton linen jersey in a relaxed, boxy cut.\n\nKnow the two lines before you shop. MHL. carries the cheaper tees, from $125 up to $175 for the Guernsey and Smock Neck T Shirts. The MHL. Flatlock Crew Neck Top ($145) in matte jersey sits between them, and the mainline Short Sleeve T Shirt ($190) is plain cotton jersey. Sizes run XS to XXL.\n\nIt's a London label, but US orders ship with duties and tax already paid, so only state tax is added at checkout. Returns get 28 days, the longest of the pricier picks here.",
+   "bassike": "Bassike is for organic cotton jersey that's made where it's designed, in Australia. The Regular Fit T-Shirt ($130) is lightweight organic single jersey with twisted side seams.\n\nIt has the highest starting price here, with tees up to $280 for the Universal Stripe Boxy T-Shirt. So it suits buying a few good tees rather than a drawer full. For a heavier one, the Boxy Midweight T-Shirt ($170) is the step up, and the Fitted Henley T-Shirt costs the same. Sizes run XXS to XXL.\n\nUS duties are built into the price, and shipping is free from $300. Returns cost a flat $12 and close after 14 days. Sale pieces can only be exchanged or swapped for credit, so pay full price if you're unsure of the size."
+  },
+  "best_for": {
+   "uniqlo": "cheaper tees with fabric tech and a store nearby",
+   "everlane": "an organic cotton crew in sizes up to XXL",
+   "organic-basics": "heavyweight organic tees in sizes up to 3XL",
+   "frank-and-oak": "a slim layering tee under shirts and sweaters",
+   "gu": "the cheapest plain tee here, from Uniqlo's parent company",
+   "a-p-c": "a French designer tee, with or without the logo",
+   "norse-projects": "a Portugal-made organic tee with a Danish label",
+   "nanamica": "a loopwheel tee with performance yarn in the mix",
+   "margaret-howell": "a cotton linen tee with US duties already paid",
+   "bassike": "a few Australian-made organic tees, duties included"
+  },
+  "closing": {
+   "heading": "How to choose",
+   "body": "Start with price. If Muji's tees already feel like the right money, Organic Basics and Frank And Oak sit inside its range, and GU or Uniqlo go cheaper. Need sizes past XL? Uniqlo's SUPIMA tee and Organic Basics both reach 3XL, and Everlane goes to XXL. If Muji's Loopwheel tee is the one you love, nanamica is the direct step up. For heavier organic cotton made in Europe, go to Norse Projects. And if you'd rather pay once for a tee in a less common fabric, Margaret Howell's cotton linen and Bassike's Australian-made jersey are where the money goes."
+  },
+  "faqs": [
+   {
+    "q": "Is Muji Japanese?",
+    "a": "Yes. Muji is headquartered in Tokyo and run by Ryohin Keikaku, and it was founded in 1980. The name comes from Mujirushi Ryohin, which means no-brand quality goods.",
+    "source_query": "is muji japanese"
+   },
+   {
+    "q": "Does Muji ship to the US?",
+    "a": "Yes. Standard US shipping is free from $80, or from $50 to states including California, Texas and Florida. Below that it's $9 up to $39.99 and $15 up to $79.99. It also has US stores in New York, Massachusetts and Oregon.",
+    "source_query": "does muji ship to us"
+   },
+   {
+    "q": "Are Muji and Uniqlo related?",
+    "a": "No. Muji is run by Ryohin Keikaku, while Uniqlo belongs to Fast Retailing, which also owns GU. They sell similar plain basics, but they're separate companies.",
+    "source_query": "are muji and uniqlo related"
+   },
+   {
+    "q": "Is MUJI a cheap brand?",
+    "a": "For clothing, mostly yes. Men's tees run from $14.90 for the Jersey Crewneck T-Shirt to $60, and most sit under $30. GU and Uniqlo go lower, starting at $6.90 and $9.90.",
+    "source_query": "brands like muji",
+    "source": "people_also_ask"
+   }
+  ]
+ }
+}

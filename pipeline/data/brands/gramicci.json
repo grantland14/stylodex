@@ -29,6 +29,19 @@
       "min_usd": 115,
       "max_usd": 115,
       "fx_date": null
+    },
+    {
+      "category": "coats-jackets",
+      "currency": "USD",
+      "min": 150,
+      "max": 332,
+      "min_usd": 150,
+      "max_usd": 332,
+      "fx_date": null,
+      "item_count": 11,
+      "source_url": "https://gramicci.com/collections/mens-outerwear/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Shopify collection feed mens-outerwear (StylodexBot UA): 18 products; vests, pants and the Thermal Fleece Jacket excluded; 11 jackets at regular price (1 marked down via compare_at_price), mostly product_type 'Unisex Jacket'. Low: Mini Check Nylon Jacket $150; WR Anorak $190; Japanese Denim Trucker $200; G-Zero Primaloft Jacket $210; high: Nanotex DWR Hooded Shell Jacket $280, Coldfront Down Jacket $332."
     }
   ],
   "materials": [],
@@ -36,7 +49,8 @@
   "production_model": null,
   "sale_pattern": null,
   "sells_categories": [
-    "hoodies"
+    "hoodies",
+    "coats-jackets"
   ],
   "sources": [
     "https://gramicci.com/meta.json",
@@ -46,12 +60,14 @@
     "https://gramicci.com/products.json?limit=250",
     "https://gramicci.com/collections/mens-sweatshirts-hoodies/products.json?limit=250",
     "https://gramicci.com/pages/about",
-    "https://gramicci.com/?country=US"
+    "https://gramicci.com/?country=US",
+    "https://gramicci.com/collections/mens-outerwear/products.json"
   ],
   "notes": [
     "About: 'In 1982, Gramicci was born', started by climber Mike Graham in his garage in Ventura, California; 'Outdoor Lifestyle & Climbing Apparel'; first climbing shorts, then G-Pants. meta.json shop address New York, NY.",
     "Homepage banner: 'Free Shipping on Orders $175+'. Refund policy: 30-day returns on gramicci.com purchases; US returns incur a $9 label fee, US exchanges free; international sales final.",
-    "US store ships to US, CA, AU per meta.json (GB not listed)."
+    "US store ships to US, CA, AU per meta.json (GB not listed).",
+    "2026-10-29 (eddie-bauer page run): men's outerwear sizes XXS–XL (S and M on all 18, XL on 15, XXS on 13); most jackets are unisex (https://gramicci.com/collections/mens-outerwear/products.json)."
   ],
   "checked_at": "2026-10-29"
 }

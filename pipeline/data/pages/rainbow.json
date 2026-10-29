@@ -1,0 +1,1039 @@
+{
+  "subject": "Rainbow",
+  "slug": "rainbow",
+  "url_prefix": "stores",
+  "category": {
+    "slug": "dresses",
+    "name": "Dresses",
+    "why": "C is a product type. Rainbow is a multi-brand store (about two thirds house label) whose searches are about the store as a whole, but the brief asks for a product type and womens-clothing already carries a different like-for-like item on other pages. Dresses: Google's sitelinks for 'stores like rainbow' are Clothing, New, Tops and Dresses; Ahrefs top pages put /collections/womens-dresses (top keyword 'rainbow dress', 4,100/month) and /collections/pink-dresses among its leading product-type pages (bodysuit pages draw more but on generic 'bodysuit' searches); the women's dress feed holds 704 products plus 206 plus-size dresses. Like-for-like item: women's dresses at regular price. Stores whose dress grids don't render, show only markdowns, or sell in store only render without a price via sells_categories."
+  },
+  "anchor_status": {
+    "status": "verified",
+    "how": "rainbowshops.com is a live Shopify store with 704 women's dresses in its feed and collections updated 2026-10-29; its store locator and FAQ say it operates more than 800 stores across the US, Puerto Rico and the US Virgin Islands. Privately held (Wikipedia: Chehebar family). Not defunct."
+  },
+  "serp": [
+    {
+      "keyword": "stores like rainbow",
+      "position": 1,
+      "url": "https://www.rainbowshops.com/",
+      "kept": false,
+      "why_dropped": "the anchor's own site (sitelinks Clothing, New, Tops, Dresses)"
+    },
+    {
+      "keyword": "stores like rainbow",
+      "position": 3,
+      "url": "https://www.reddit.com/r/retailporn/comments/1kdfk3h/has_anyone_ever_shopped_at_these_stores/",
+      "kept": false,
+      "why_dropped": "reddit: not read, no workaround (also sitelinks r/AskNYC, r/Frugal)"
+    },
+    {
+      "keyword": "stores like rainbow",
+      "position": 4,
+      "url": "https://us.boohoo.com/",
+      "kept": false,
+      "why_dropped": "a store's own homepage, not an editorial source (Boohoo is a candidate through four lists)"
+    },
+    {
+      "keyword": "stores like rainbow",
+      "position": 5,
+      "url": "https://www.storeslike.com/rainbow",
+      "kept": false,
+      "why_dropped": "templated store-list page, no author or date (read: Forever 21, Missguided, PrettyLittleThing, ASOS, Topshop, Charlotte Russe, Nasty Gal, Boohoo, 2020AVE, Urban Outfitters); dropped as on the Charlotte Russe page"
+    },
+    {
+      "keyword": "stores like rainbow",
+      "position": 6,
+      "url": "https://www.facebook.com/groups/kansascitysecrets/posts/4237085486552214/",
+      "kept": false,
+      "why_dropped": "Facebook group post; WebFetch shows only the title, no replies (sitelinks: two more group posts, same result)"
+    },
+    {
+      "keyword": "stores like rainbow",
+      "position": 7,
+      "url": "https://www.cbinsights.com/company/rainbow-shops/alternatives-competitors",
+      "kept": false,
+      "why_dropped": "unexplained company-database competitor list (Nordstrom, Dick's Sporting Goods…), not editorial recommendations"
+    },
+    {
+      "keyword": "stores like rainbow",
+      "position": 8,
+      "url": "https://www.buzzfeed.com/maitlandquitmeyer/the-best-places-to-buy-inexpensive-clothes-online",
+      "kept": false,
+      "why_dropped": "general cheap-clothes list; doesn't mention Rainbow in the readable part"
+    },
+    {
+      "keyword": "stores like rainbow",
+      "position": 9,
+      "url": "https://www.youtube.com/watch?v=bj-QbVxHxt0",
+      "kept": false,
+      "why_dropped": "video, no editorial text"
+    },
+    {
+      "keyword": "stores like rainbow",
+      "position": 10,
+      "url": "https://danielaaraya.substack.com/p/20-colorful-clothing-brands-you-need",
+      "kept": false,
+      "why_dropped": "about colorful clothing, not Rainbow Shops"
+    },
+    {
+      "keyword": "brands like rainbow",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs returned no SERP for this keyword"
+    },
+    {
+      "keyword": "rainbow shops alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs returned no SERP for this keyword"
+    },
+    {
+      "keyword": "stores similar to rainbow",
+      "position": 1,
+      "url": "https://www.reddit.com/r/retailporn/comments/1kdfk3h/has_anyone_ever_shopped_at_these_stores/",
+      "kept": false,
+      "why_dropped": "reddit (AI overview sitelink): not read"
+    },
+    {
+      "keyword": "stores similar to rainbow",
+      "position": 4,
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/1b956dg/what_are_your_favorite_places_to_get_affordable/",
+      "kept": false,
+      "why_dropped": "reddit (sitelink): not read"
+    },
+    {
+      "keyword": "stores similar to rainbow",
+      "position": 5,
+      "url": "https://www.rainbowshops.com/collections/womens-clothing",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "stores similar to rainbow",
+      "position": 6,
+      "url": "https://www.cbinsights.com/company/rainbow-shops/alternatives-competitors",
+      "kept": false,
+      "why_dropped": "as above"
+    },
+    {
+      "keyword": "stores similar to rainbow",
+      "position": 7,
+      "url": "https://www.storeslike.com/rainbow",
+      "kept": false,
+      "why_dropped": "as above"
+    },
+    {
+      "keyword": "stores similar to rainbow",
+      "position": 9,
+      "url": "https://therainbowcloset.com/",
+      "kept": false,
+      "why_dropped": "a different store named The Rainbow Closet"
+    },
+    {
+      "keyword": "stores similar to rainbow",
+      "position": 10,
+      "url": "https://www.similist.com/alternatives/stores-like-rainbow-shops",
+      "kept": false,
+      "why_dropped": "similist.com scraped list (enrich.md §1.2)"
+    },
+    {
+      "keyword": "WebSearch (Ahrefs SERPs had no editorial list)",
+      "position": null,
+      "url": "https://clothedup.com/stores-like-rainbow/",
+      "kept": true,
+      "note": "read 2026-10-29: Dannica Ramirez, updated March 8, 2023; 11 stores like Rainbow"
+    },
+    {
+      "keyword": "WebSearch",
+      "position": null,
+      "url": "https://etechshout.com/stores-like-rainbow/",
+      "kept": true,
+      "note": "read 2026-10-29: eTechShout Editor, January 17, 2024; 12 Rainbow alternatives"
+    },
+    {
+      "keyword": "WebSearch",
+      "position": null,
+      "url": "https://plaintips.com/stores-like-rainbow",
+      "kept": true,
+      "note": "read 2026-10-29: undated (footer 2013); 10 alternatives, each compared to Rainbow"
+    },
+    {
+      "keyword": "WebSearch",
+      "position": null,
+      "url": "https://joingerald.com/blog/stores-similar-to-rainbow",
+      "kept": true,
+      "note": "read 2026-10-29: Jessica Smith, May 28, 2025, fintech company blog; 5 stores similar to Rainbow"
+    },
+    {
+      "keyword": "WebSearch",
+      "position": null,
+      "url": "https://soxy.com/blogs/stores-like-rainbow/",
+      "kept": true,
+      "note": "read 2026-10-29: Stephanie Patterson, dated 'May 02' with no year; a sock store's blog, no self-promotion in the list. Low quality: rue21 and 2020AVE are listed for 'home decor' and American Eagle for men's jeans, so those three mentions are not counted."
+    },
+    {
+      "keyword": "WebSearch",
+      "position": null,
+      "url": "https://eleggible.com/stores-like-rainbow/",
+      "kept": false,
+      "why_dropped": "301 to an unrelated site (cafexplorer.in); list gone"
+    },
+    {
+      "keyword": "WebSearch",
+      "position": null,
+      "url": "https://www.reviewed.com/style/features/best-places-buy-cheap-plus-size-clothing",
+      "kept": false,
+      "why_dropped": "lists Rainbow as one of 12 cheap plus-size stores; presents nothing as an alternative to it"
+    },
+    {
+      "keyword": "WebSearch",
+      "position": null,
+      "url": "https://www.shopsleuth.com/stores-like/rainbow/",
+      "kept": false,
+      "why_dropped": "automated similar-site directories (also instya.com, similarsitesearch.com, similarweb.com); not read"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": null,
+      "url": null,
+      "used": false,
+      "why": "No multi-brand retailer stocks Rainbow; it sells through its own stores and site."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Charlotte Russe",
+      "slug": "charlotte-russe",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-rainbow/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-rainbow/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-rainbow/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-rainbow"
+        }
+      ]
+    },
+    {
+      "name": "Boohoo",
+      "slug": "boohoo",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-rainbow/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-rainbow/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://joingerald.com/blog/stores-similar-to-rainbow"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-rainbow/"
+        }
+      ]
+    },
+    {
+      "name": "Forever 21",
+      "slug": "forever-21",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-rainbow/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-rainbow/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://joingerald.com/blog/stores-similar-to-rainbow"
+        }
+      ]
+    },
+    {
+      "name": "H&M",
+      "slug": "h-m",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-rainbow/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-rainbow/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://joingerald.com/blog/stores-similar-to-rainbow"
+        }
+      ]
+    },
+    {
+      "name": "Topshop",
+      "slug": "topshop",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-rainbow/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-rainbow/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-rainbow/"
+        }
+      ]
+    },
+    {
+      "name": "Old Navy",
+      "slug": "old-navy",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-rainbow/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-rainbow"
+        }
+      ]
+    },
+    {
+      "name": "rue21",
+      "slug": "rue21",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-rainbow"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-rainbow/"
+        }
+      ]
+    },
+    {
+      "name": "Citi Trends",
+      "slug": "citi-trends",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-rainbow"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-rainbow/"
+        }
+      ]
+    },
+    {
+      "name": "Lane Bryant",
+      "slug": "lane-bryant",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-rainbow/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-rainbow/"
+        }
+      ]
+    },
+    {
+      "name": "PrettyLittleThing",
+      "slug": "prettylittlething",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-rainbow/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-rainbow/"
+        }
+      ]
+    },
+    {
+      "name": "Shein",
+      "slug": "shein",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-rainbow/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://joingerald.com/blog/stores-similar-to-rainbow"
+        }
+      ]
+    },
+    {
+      "name": "ASOS",
+      "slug": "asos",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-rainbow/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-rainbow/"
+        }
+      ]
+    },
+    {
+      "name": "Nasty Gal",
+      "slug": "nasty-gal",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-rainbow/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-rainbow/"
+        }
+      ]
+    },
+    {
+      "name": "Deb Shops",
+      "slug": "deb-shops",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-rainbow/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-rainbow"
+        }
+      ]
+    },
+    {
+      "name": "Target",
+      "slug": "target",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-rainbow"
+        }
+      ]
+    },
+    {
+      "name": "Fashion Nova",
+      "slug": "fashion-nova",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://joingerald.com/blog/stores-similar-to-rainbow"
+        }
+      ]
+    },
+    {
+      "name": "Ashley Stewart",
+      "slug": "ashley-stewart",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-rainbow/"
+        }
+      ]
+    },
+    {
+      "name": "Avenue",
+      "slug": "avenue",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-rainbow/"
+        }
+      ]
+    },
+    {
+      "name": "Woman Within",
+      "slug": "woman-within",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-rainbow/"
+        }
+      ]
+    },
+    {
+      "name": "Dressbarn",
+      "slug": "dressbarn",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-rainbow/"
+        }
+      ]
+    },
+    {
+      "name": "Maurices",
+      "slug": "maurices",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-rainbow/"
+        }
+      ]
+    },
+    {
+      "name": "2020AVE",
+      "slug": "2020ave",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-rainbow/"
+        }
+      ]
+    },
+    {
+      "name": "Torrid",
+      "slug": "torrid",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-rainbow/"
+        }
+      ]
+    },
+    {
+      "name": "Wet Seal",
+      "slug": "wet-seal",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-rainbow"
+        }
+      ]
+    },
+    {
+      "name": "American Eagle",
+      "slug": "american-eagle",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-rainbow"
+        }
+      ]
+    },
+    {
+      "name": "Lands' End",
+      "slug": "lands-end",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-rainbow"
+        }
+      ]
+    },
+    {
+      "name": "Gymboree",
+      "slug": "gymboree",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-rainbow"
+        }
+      ]
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "result": "No Rainbow Shops brand in public.brands (only Rainbow Sandals, a different brand), so the pool is empty."
+  },
+  "picks": [
+    {
+      "slug": "charlotte-russe",
+      "rank": 1,
+      "independent_sources": 4,
+      "single_source": false,
+      "store_type": "mall chain",
+      "price_relation": "similar",
+      "reason": "YM Inc. mall chain with regular-price dresses at $10 to $20 in XS–XL, about 190 US stores and in-store returns of online orders.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-rainbow/",
+          "note": "#8: \"another iconic mall staple\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-rainbow/",
+          "note": "#3: \"affordable clothing that is both chic and trendy\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-rainbow/",
+          "note": "#7: \"The unbeatable pricing makes it affordable for all women to feel their best\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-rainbow",
+          "note": "#1: \"a great alternative to Rainbow for teenage girls and women\""
+        }
+      ]
+    },
+    {
+      "slug": "boohoo",
+      "rank": 2,
+      "independent_sources": 4,
+      "single_source": false,
+      "store_type": "fast-fashion",
+      "price_relation": null,
+      "reason": "Online fast-fashion store with dresses in US sizes 0 to 26 plus petite and tall ranges, shipping to the US for $10.99.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-rainbow/",
+          "note": "#3: \"a huge plus-sized clothing collection\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-rainbow/",
+          "note": "#7: \"affordable and chic clothing\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://joingerald.com/blog/stores-similar-to-rainbow",
+          "note": "#5: \"a wide range of trendy clothing at very competitive prices\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-rainbow/",
+          "note": "#5: prices \"generally lower than at other online retailers\""
+        }
+      ]
+    },
+    {
+      "slug": "forever-21",
+      "rank": 3,
+      "independent_sources": 3,
+      "single_source": false,
+      "store_type": "fast-fashion",
+      "price_relation": "similar",
+      "reason": "LA-born online store with every full-price dress at $24.99, XS–XXL plus a separate plus section, free US shipping over $50.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-rainbow/",
+          "note": "#1: \"carries all the latest trends in clothing\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-rainbow/",
+          "note": "#2: \"offers trendy styles at accessible prices\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://joingerald.com/blog/stores-similar-to-rainbow",
+          "note": "#1: \"a strong competitor with its vast selection of youthful, on-trend apparel\""
+        }
+      ]
+    },
+    {
+      "slug": "old-navy",
+      "rank": 4,
+      "independent_sources": 2,
+      "single_source": false,
+      "store_type": "family chain",
+      "price_relation": "similar",
+      "reason": "Family chain with regular-price dresses at $34.99 to $59.99, sizes 00 to 30 with petite and tall, and US stores.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-rainbow/",
+          "note": "#1: \"everyday basics and fashionable finds that won't break the bank\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-rainbow",
+          "note": "#7: listed among the alternatives (not compared directly)"
+        }
+      ]
+    },
+    {
+      "slug": "rue21",
+      "rank": 5,
+      "independent_sources": 2,
+      "single_source": false,
+      "store_type": "mall chain",
+      "price_relation": null,
+      "reason": "Charlotte Russe's YM Inc. sister chain selling women's dresses in its US stores only, with no online shop.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-rainbow",
+          "note": "#2: \"The price range and quality of stuff at Rue 21 is comparable to Rainbow Shops\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-rainbow/",
+          "note": "#9: \"aims to make fashion fun and accessible to everyone\""
+        }
+      ]
+    },
+    {
+      "slug": "citi-trends",
+      "rank": 6,
+      "independent_sources": 2,
+      "single_source": false,
+      "store_type": "off-price chain",
+      "price_relation": null,
+      "reason": "Off-price chain with about 590 US stores selling juniors, missy and plus women's apparel including dresses, 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-rainbow",
+          "note": "#5: \"a good and cheap alternative to Rainbow to buy dresses, fashion accessories and shoes\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-rainbow/",
+          "note": "#12: \"quality products at significantly lower prices than its competitors\""
+        }
+      ]
+    },
+    {
+      "slug": "lane-bryant",
+      "rank": 7,
+      "independent_sources": 2,
+      "single_source": false,
+      "store_type": "plus-size specialist",
+      "price_relation": null,
+      "reason": "Plus-size specialist with dresses in sizes 10 to 40 and more than 400 US stores, past Rainbow's 4X.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-rainbow/",
+          "note": "#9: \"a great option for plus-size clothing\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-rainbow/",
+          "note": "#10: \"a great Rainbow alternative if you're looking for a budget-friendly option\""
+        }
+      ]
+    },
+    {
+      "slug": "prettylittlething",
+      "rank": 8,
+      "independent_sources": 2,
+      "single_source": false,
+      "store_type": "fast-fashion",
+      "price_relation": null,
+      "reason": "Boohoo Group's trend-led online store with dresses in US 00 to 24 including petite, tall and plus, $9.99 US shipping.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-rainbow/",
+          "note": "#9: \"the large variety of products\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-rainbow/",
+          "note": "#11: \"a range of statement pieces\""
+        }
+      ]
+    },
+    {
+      "slug": "target",
+      "rank": 9,
+      "independent_sources": 1,
+      "single_source": true,
+      "store_type": "big-box store",
+      "price_relation": "similar",
+      "reason": "Big-box store whose dress section is built on its own labels, with regular-price dresses at $28 to $52 and 90-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-rainbow",
+          "note": "#8: \"a very good alternative to many stores including Rainbow\""
+        }
+      ]
+    },
+    {
+      "slug": "ashley-stewart",
+      "rank": 10,
+      "independent_sources": 1,
+      "single_source": true,
+      "store_type": "plus-size specialist",
+      "price_relation": "pricier",
+      "reason": "Plus-size chain with dresses at $44.50 to $79.50 in sizes 10 to 36, US stores and free 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-rainbow/",
+          "note": "#1: \"features plus-size fashion online\""
+        }
+      ]
+    },
+    {
+      "slug": "fashion-nova",
+      "rank": 11,
+      "independent_sources": 1,
+      "single_source": true,
+      "store_type": "fast-fashion",
+      "price_relation": null,
+      "reason": "LA fast-fashion store with a Plus+Curve section and dresses, shipping to the US free over $75, $6.99 below.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://joingerald.com/blog/stores-similar-to-rainbow",
+          "note": "#4: \"Known for its bold, figure-hugging styles\""
+        }
+      ]
+    },
+    {
+      "slug": "avenue",
+      "rank": 12,
+      "independent_sources": 1,
+      "single_source": true,
+      "store_type": "plus-size specialist",
+      "price_relation": null,
+      "reason": "Plus-size store with a large dress section in sizes 14 to 32 and 60-day returns from the ship date.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-rainbow/",
+          "note": "#3: \"amazing looks and feel to women of all sizes\""
+        }
+      ]
+    },
+    {
+      "slug": "woman-within",
+      "rank": 13,
+      "independent_sources": 1,
+      "single_source": true,
+      "store_type": "plus-size specialist",
+      "price_relation": null,
+      "reason": "FullBeauty Brands plus-size label with dresses in 12W to 44W or S to 8X and 60-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-rainbow/",
+          "note": "#11: \"fits perfectly up to 6X\""
+        }
+      ]
+    },
+    {
+      "slug": "dressbarn",
+      "rank": 14,
+      "independent_sources": 1,
+      "single_source": true,
+      "store_type": "dress specialist",
+      "price_relation": "pricier",
+      "reason": "Online dress store with regular-price dresses at $74.95 to $388 in XS–XL, 4 to 18 and plus 0X to 5X.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-rainbow/",
+          "note": "#4: \"known for its warm and friendly customer service\""
+        }
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "h-m",
+      "why": "3 sources, but status unverified in the shared brand file (www2.hm.com refuses WebFetch with HTTP 403, earlier runs today). Not retried as a workaround."
+    },
+    {
+      "slug": "topshop",
+      "why": "3 sources, but us.topshop.com redirects to ASOS (shared brand file): no own US store; ASOS refuses fetches. Unverified."
+    },
+    {
+      "slug": "shein",
+      "why": "2 sources; us.shein.com sends scripted requests to a bot check (shared brand file). Unverified, not worked around."
+    },
+    {
+      "slug": "asos",
+      "why": "2 sources; unverified in the shared brand file (refuses fetches), and a multi-brand marketplace."
+    },
+    {
+      "slug": "nasty-gal",
+      "why": "2 sources; nastygal.com is a Coming Soon placeholder with no products (shared brand file, off_category). Not selling today."
+    },
+    {
+      "slug": "deb-shops",
+      "why": "2 sources (clothedup 2023, plaintips). Wikipedia: the original Deb Shops closed its 295 stores in 2015 and shut its website in December 2018; debshops.com now serves a parked error page. deb-shops.com is a live Shopify store using the name (dresses $39.99–$79.99 regular, free US shipping, 15-day returns with a 12% restocking fee) whose only contact is a Gmail address and a Cheyenne, WY registered-agent address, so it can't be confirmed as the store the sources describe. No brand file written; human check."
+    },
+    {
+      "slug": "american-eagle",
+      "why": "1 source (plaintips, for 'good quality at reasonable price', not dresses); its dresses are nearly all marked down and the one full-price dress is $148, far from Rainbow's $8–$40, so no specific dress reason. Weakest fit; left out rather than padding."
+    },
+    {
+      "slug": "maurices",
+      "why": "1 source (clothedup). maurices.com/category/clothing/dresses returns HTTP 404 to a plain request and the homepage no longer shows dresses in its navigation, so dresses couldn't be confirmed today."
+    },
+    {
+      "slug": "2020ave",
+      "why": "1 source (etechshout). 2020ave.com loads but its product feed and homepage show no products, so it couldn't be confirmed as selling dresses. No brand file written."
+    },
+    {
+      "slug": "torrid",
+      "why": "1 source; torrid.com returns HTTP 403 (shared brand file, unverified)."
+    },
+    {
+      "slug": "wet-seal",
+      "why": "1 source; wetseal.com serves a 'This store is unavailable' page (shared brand file, unverified)."
+    },
+    {
+      "slug": "lands-end",
+      "why": "1 source (plaintips, an undated old list); dresses not confirmed (category page renders no products to WebFetch) and a classic family brand rather than a budget trend store."
+    },
+    {
+      "slug": "gymboree",
+      "why": "1 source, recommended for kids' clothing only; not an alternative for women's dresses. Not checked."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "H&M, Shein, Topshop, Torrid",
+      "url": "https://www2.hm.com/en_us/",
+      "check": "Shared brand files are unverified (403 or bot check). H&M and Topshop have 3 sources each here; record dress prices, US shipping and returns to make them picks."
+    },
+    {
+      "fact": "Deb Shops",
+      "url": "https://deb-shops.com/",
+      "check": "Decide whether the live deb-shops.com store (Gmail contact, registered-agent address) is a legitimate continuation of Deb Shops; the original closed in 2018 per Wikipedia."
+    },
+    {
+      "fact": "Citi Trends sells dresses",
+      "url": "https://www.sec.gov/Archives/edgar/data/1318484/000155837024005294/ctrn-20240203x10k.htm",
+      "check": "Dresses rest on the FY2023 10-K (filed April 2024). The 2026 10-K describes the Women's division without naming dresses. A store visit or photo would confirm."
+    },
+    {
+      "fact": "Rainbow standard shipping fee",
+      "url": "https://www.rainbowshops.com/policies/shipping-policy",
+      "check": "The policy says orders under $75 pay $7.99 but its table shows $9.99 for Continental US standard. The copy names neither fee."
+    },
+    {
+      "fact": "2020AVE and Maurices",
+      "url": "https://www.2020ave.com/",
+      "check": "2020AVE shows no products; Maurices' dresses page 404s to a plain request. Re-check before the next wave."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": null,
+  "notes": [
+    "Anchor is trading: live Shopify store (collections updated 2026-10-29) and a store locator with more than 800 stores in the US, Puerto Rico and USVI. Not defunct, so the closed-store rules don't apply.",
+    "Evidence: the four Ahrefs SERPs held no readable editorial list ('brands like rainbow' and 'rainbow shops alternatives' returned nothing; the rest were Reddit, Facebook, the anchor, a templated list, CB Insights and unrelated pages). Five editorial lists found by WebSearch were read instead: clothedup, etechshout, plaintips, joingerald, soxy. The evidence base is old and thin (2013–2025; soxy is low quality).",
+    "Ranking: by independent sources, then price closeness to Rainbow's $7.99–$39.97, then store type (walk-in budget chains before online-only). American Eagle left out (see rejected).",
+    "14 picks: 6 show a dress price (Charlotte Russe, Forever 21, Old Navy, Target similar; Ashley Stewart, Dressbarn pricier); 8 render without a price via sells_categories (grids not readable, every rendered dress marked down, or store-only).",
+    "Candidate pool: public.brand_relationships has no Rainbow Shops row (only Rainbow Sandals, a different brand), so no pool candidates.",
+    "Co-stocking: none. Rainbow stocks outside labels (Almost Famous, Iris, Madden Girl) but no multi-brand retailer stocks Rainbow.",
+    "Brand files written this run (merge_brand.py): rainbow, citi-trends, ashley-stewart, dressbarn, avenue, woman-within. Reused unchanged: charlotte-russe, boohoo, forever-21, old-navy, rue21, lane-bryant, prettylittlething, target, fashion-nova.",
+    "Ahrefs: 4 serp-overview calls, 1 site-explorer-top-pages (category choice), 1 keywords-explorer-matching-terms (FAQ questions). Supabase: one read-only SELECT on public.brands."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "You've found the Rainbow dress you wanted, and your size is gone, or the nearest store has closed. Rainbow's mix is hard to copy: most of its full-price dresses cost under $40, and the same store runs from XS to 4X. So here are the stores people shop instead. The cheap trend chains come first, then the plus-size specialists and a few everyday stores.",
+    "bodies": {
+      "charlotte-russe": "Charlotte Russe is the closest match on price. Its full-price dresses run from $10 to $20, about half Rainbow's top price, with the Dolman Eyelet Mini Dress ($10) and the Printed Scoop Neck Mini Dress ($12.99) at the cheap end.\n\nIt's a mall chain too, with about 190 US stores, and an online order can go back to a store instead of the post office. The rule worth knowing is that it rarely restocks. A dress you like today may not come back, so don't wait for payday.\n\nThe trade-off is size. Charlotte Russe stops at XL and has no plus section, and free shipping starts at $100, against Rainbow's $75. If you shop Rainbow's 1X to 4X rail, Ashley Stewart or Lane Bryant will fit you better.",
+      "boohoo": "Boohoo is the online answer to Rainbow's mix of cheap trend pieces and a real plus section. Its size chart covers US 0 to 26, and petite and tall ranges sit alongside it, so length is easier to get right.\n\nThe thing to understand is how its pricing works. Banners promise up to 70% off almost everything, and the small print says those discounts may not be based on former prices. So compare the number at checkout with what Rainbow charges.\n\nPlan ahead, too. Shipping to the US costs $10.99 and takes six to eight business days, with no extra tariff charges. Returns get 21 days, and $14.99 comes off each refund. That's a real cost next to Rainbow's free in-store returns. If you'd rather buy from an LA store with free shipping over $75, Fashion Nova is the closer bet.",
+      "forever-21": "Forever 21 is the one for going-out dresses at Rainbow money. Every full-price dress is $24.99, the Satin Lace Cutout Mini Dress included, which lands in the middle of Rainbow's own range.\n\nTreat that $24.99 as the most you'd pay. Most of its dresses carry a markdown, from $14.98, so browse the sale rail before anything else. Its plus section sits apart from the XS to XXL main range, much like Rainbow keeps its 1X to 4X dresses in their own collection.\n\nWhat you give up is the shop. Forever 21 closed its US stores and now sells online only, so returns go by post at $9.99 each, and clearance is final. Free shipping does start lower than Rainbow's, at $50.",
+      "old-navy": "Old Navy is the safe choice for everyday dresses in a wider size range than Rainbow's. Full-price dresses run from $34.99 for the High-Neck Jersey Mini Swing Dress to $59.99 for The Occasion by Old Navy Long-Sleeve Tie-Front Maxi Dress.\n\nThat's the top of Rainbow's range and past it, so it's the place for a dress you'll wear every week. The payoff is fit. Its sizes run from 00 to 30, with petite and tall cuts as well.\n\nIt's easy to shop in person, with stores in 49 states, and you get 30 days to return. Rewards members ship free over $50. If you want the cheapest dress for a single event, Charlotte Russe is the better stop.",
+      "rue21": "rue21 is the walk-in swap for anyone who likes shopping Rainbow in person. It's Charlotte Russe's sister chain under YM Inc., and its stores sell women's dresses alongside a men's side, under the promise of fashion at better prices.\n\nWhat you need to know is that rue21.com doesn't sell anything now. It's a lookbook and a store locator, so there's no online price to compare and nothing to ship. You go in, try on and pay, much like a Saturday trip to Rainbow.\n\nThat makes it the pick if you live near a mall and hate waiting on parcels. But it's no help on a late-night browse. For the same owner with a working online shop, Charlotte Russe ships to the 48 contiguous states.",
+      "citi-trends": "Citi Trends is the walk-in store for Rainbow shoppers who want national labels at lower prices. It's an off-price chain with about 590 stores in 33 states, and its women's side covers juniors, missy and plus sizes.\n\nOff-price means its own labels mixed with brand names, sold for up to 50% less than other stores, it says. So it rewards a regular visit, since the racks change. There's no online shop, which also means no shipping costs and no waiting.\n\nReturns take a receipt and the original tag within 30 days, and clearance can't come back. If you'd rather browse plus-size dresses from home and still have a store nearby, Ashley Stewart does both.",
+      "lane-bryant": "Lane Bryant is where to go when Rainbow's 4X isn't enough. Its sizes run from 10 to 40, dresses included, and it has more than 400 US stores, so you can try a fit before you commit.\n\nThe thing to know is how it prices. Most of its dresses show a 40% off promotion against a higher list price, so a sale is the normal state here. Check which promo is running before you check out.\n\nIt's the plus-size specialist with the most stores on this list. That matters if you'd rather not order three sizes and send two back. For a fixed price you can see up front, Ashley Stewart also goes to a 36, with dresses from $44.50.",
+      "prettylittlething": "PrettyLittleThing is the pick for the bodycon and party side of Rainbow's dress rail. Its US sizes run 00 to 24, with separate petite, tall and plus ranges, so the same mini can come in a length that suits you.\n\nIt's Boohoo's sister store, founded in Manchester, and the terms are nearly the same. US standard shipping is $9.99 an order with no free threshold. Returns get 21 days, with $14.99 taken off the refund. Its 70% off banners carry the same note that discounts may not be based on former prices.\n\nSo it's best when you're buying for a set night and keeping what you order. If you want to try the dress on first, Charlotte Russe and rue21 have stores you can walk into.",
+      "target": "Target is the everyday fallback when you want a dress and the rest of your shopping list in one trip. Its dress section is built around its own labels: A New Day, Wild Fable, Universal Thread and KBB by Kahlana. Full prices start with the Wild Fable Women's Flocked Dot Ruffle Mini Dress ($28).\n\nPrices sit at the top of Rainbow's range and a little past it, up to the A New Day Faux Suede Drop Waist Midi Dress ($52). So it isn't the cheapest stop. What it does have is the most forgiving returns here: 90 days on most items, and a year on Target's own brands with a receipt.\n\nIf you need petite or tall lengths too, Old Navy is the better trip, with dresses at similar prices.",
+      "ashley-stewart": "Ashley Stewart is the plus-size store for a dress you'll wear more than once. Its dresses come in sizes 10 to 36. Full prices run from $44.50 for the Square Neck Bodycon Tank Dress to $79.50, with the A Line Ponte Dress ($59.50) in between.\n\nThat's above anything on Rainbow's rail. The useful detail is the returns. They're free in store and by mail for 30 days, but every dress carries a Do Not Remove tag, and once it's off the dress can't go back. Leave it on until you're sure.\n\nYou can try things on in its stores across 21 states. Sizes 28 and up are online only, though, so plan for delivery, which starts at $9.95. For more stores to walk into, Lane Bryant is the bigger chain.",
+      "fashion-nova": "Fashion Nova is the LA store built around bold, fearless going-out style, with a Plus+Curve section in the main site. It ships to the US, Canada, the UK and Australia, and US orders over $75 ship free, the same bar as Rainbow.\n\nThe catch is the pricing. Its dresses show a sale price against a comparison value, like the Night Well Spent Ruched Mesh Maxi Dress at $34.99 against $49.99. So there's no true full price to judge by. Look at what you'd pay and compare that.\n\nBelow $75, standard US shipping is $6.99 and takes three to seven business days. It started in 2006 as a single LA store. If you'd rather see a plain full price, Ashley Stewart shows one on nearly every dress.",
+      "avenue": "Avenue is a plus-size specialist for Rainbow shoppers who wear a 14 and up and want a big dress section to scroll. Its sizes run from 14 to 32, and the dress range is far larger than Rainbow's plus rail.\n\nThe full price is rarely what you pay. Most of its dresses show a markdown, like the Lucia Plisse Maxi Dress at $99.99 against $139.95. The basics are the exception: the Stretch Cotton T-Shirt Maxi Dress sells at one price, $29.99, close to Rainbow's.\n\nReturns get 60 days from the ship date, twice Rainbow's window. A refund to your card costs $10.99, but taking it as an e-gift card is free. Woman Within, next on the list, runs on the same terms and goes further on size.",
+      "woman-within": "Woman Within covers the sizes Rainbow can't, from 12W to 44W, or S to 8X. Its focus is comfortable, casual clothes, so its dresses lean toward easy knit and crinkle day styles.\n\nThe useful thing to know is that most of its dresses show a markdown, like the Thermal Knit A-Line Dress at $44.39 against $73.99. So the list price is a starting point, and the sale is what you'd actually pay.\n\nReturns get 60 days from the ship date. They're free as an e-gift card, or $10.99 comes off a refund to your card, the same deal as Avenue. If you want a going-out dress in plus sizes instead, Boohoo goes up to a US 26.",
+      "dressbarn": "Dressbarn is the step up for a dress for an occasion that matters. Full-price dresses start at $74.95 for the Women's Tweed Fit & Flare Dress, and cocktail dresses go up to $388.\n\nThat's a different budget from Rainbow, so think of it for the one dress that has to work. The range is wide on fit. Sizes run XS to XL, 4 to 18 and plus 0X to 5X, with petite cuts as well.\n\nRead the terms before you order. It ships only to the 48 contiguous states. Returns within 30 days come back as store credit, and you pay the return postage. For an occasion dress at a lower price, Ashley Stewart's dresses start at $44.50 and Old Navy's The Occasion maxi is $59.99."
+    },
+    "best_for": {
+      "charlotte-russe": "a $10 to $20 dress you can pick up at the mall",
+      "boohoo": "trend dresses in petite, tall or up to a US 26",
+      "forever-21": "a $24.99 going-out dress, cheaper still on sale",
+      "old-navy": "an everyday dress in sizes 00 to 30, petite or tall",
+      "rue21": "trying on cheap dresses in store with no online wait",
+      "citi-trends": "off-price brand names on a regular store trip",
+      "lane-bryant": "plus-size dresses past a 4X that you can try on in store",
+      "prettylittlething": "a bodycon mini in petite, tall or plus lengths",
+      "target": "grabbing a dress with the groceries, with 90 days to return",
+      "ashley-stewart": "plus-size dresses up to a 36 at fixed prices",
+      "fashion-nova": "bold going-out dresses with free shipping over $75",
+      "avenue": "plus-size dresses with 60 days to change your mind",
+      "woman-within": "easy day dresses up to a 44W or 8X",
+      "dressbarn": "one occasion dress worth paying more for"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with your budget. For dresses at Rainbow prices, Charlotte Russe and Forever 21 sit between $10 and $25, and Charlotte Russe has stores to walk into. If you shop Rainbow for its plus rail, Boohoo goes to a US 26 online, while Lane Bryant runs to 40 and Woman Within to 44W. Prefer to try things on? rue21 and Citi Trends sell only in store, and Ashley Stewart pairs its shops with a site. For everyday dresses in petite or tall, Old Navy is the easy pick. And if you're buying for an event, Dressbarn costs more but is built around dresses, while Target's 90-day returns make it the low-risk try."
+    },
+    "faqs": [
+      {
+        "q": "Is Rainbow Shops going out of business?",
+        "a": "No. Rainbow still runs more than 800 stores across the US, Puerto Rico and the US Virgin Islands, and it sells online with free shipping on orders over $75.",
+        "source_query": "is rainbow shops going out of business"
+      },
+      {
+        "q": "Who owns Rainbow Shops?",
+        "a": "It's privately held by the Chehebar family. Rainbow began in Brooklyn in 1935 and is still based there.",
+        "source_query": "who owns rainbow shops"
+      },
+      {
+        "q": "What kind of store is Rainbow?",
+        "a": "A budget fashion chain for women, plus sizes and kids, with shoes and accessories too. It sells new stock, not secondhand, in sizes XS to XL and 1X to 4X, and its full-price dresses cost under $40.",
+        "source_query": "what kind of store is rainbow"
+      },
+      {
+        "q": "How long does Rainbow Shops take to ship?",
+        "a": "Standard delivery takes three to seven business days to the continental US. Shipping to a Rainbow store is free over $15 and takes about two days longer than home delivery.",
+        "source_query": "how long does rainbow shops take to ship"
+      }
+    ]
+  }
+}

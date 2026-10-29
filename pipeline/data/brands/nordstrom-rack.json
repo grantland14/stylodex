@@ -43,6 +43,19 @@
       "source_url": "https://www.nordstromrack.com/shop/women/clothing/jeans",
       "checked_at": "2026-10-29",
       "note": "WebFetch of page 1 (2,961 items; 55 tiles read before the text cut off): a sample. Price = Nordstrom Rack's listed selling price (off-price; 'Comparable value' shown as reference). Excluded a 'Previous Price' tile (Pistola $59.40) and a promo range ('Up to 60% off select items', Wit & Wisdom $34.96-$51.97). Low: Democracy Ab Technology Ankle Skinny $39.97 (comparable $78), JASON WU High Waist Barrel $39.97 (comparable $198); high: Madewell The '90s Creased High Waist Straight Leg $79.97 (comparable $128), Joe's The Mia $79.97. Levi's 501 '90s High Waist Straight Leg $49.97 (comparable $110). Brands: Levi's, Democracy, Joe's, Good American, Madewell, True Religion, Lucky Brand, PAIGE, DL1961."
+    },
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 14.97,
+      "max": 158.97,
+      "min_usd": 14.97,
+      "max_usd": 158.97,
+      "fx_date": null,
+      "item_count": 56,
+      "source_url": "https://www.nordstromrack.com/shop/women/clothing/tops",
+      "checked_at": "2026-10-29",
+      "note": "WebFetch of Women's Tops page 1 (7,503 items; two reads, offset 0 and 100000, 72 tiles). Price = Nordstrom Rack's listed selling price (off-price; 'Comparable value' is reference only). Excluded 12 tiles with a price range, 'Markdown' or 'Up to X% off' label and 3 non-tops (sweater top, poncho, vest). 56 kept: low $14.97 (1901 Crewneck Cotton T-Shirt, Abound Rib Knit Halter Top, Madden Girl Ruched Button Front Shirt, Ookie & Lala Satin One-Shoulder Top); Madewell Softfade Long Sleeve T-Shirt $22.97; high ALICE + OLIVIA Delania Mesh Ruffle Cuff Top $158.97. Most between $19.97 and $39.97. A sample, not the whole range."
     }
   ],
   "materials": [],
@@ -56,7 +69,8 @@
     "https://www.nordstromrack.com/shop/women/clothing/jeans?page=42",
     "https://www.nordstromrack.com/customer-service/ship-return-policy",
     "https://en.wikipedia.org/wiki/Nordstrom_Rack",
-    "https://www.nordstromrack.com/shop/women/clothing/jeans"
+    "https://www.nordstromrack.com/shop/women/clothing/jeans",
+    "https://www.nordstromrack.com/shop/women/clothing/tops"
   ],
   "notes": [
     "Homepage title 'Nordstrom Rack: Shop Clothes, Shoes, Jewelry, Beauty and Home'; image alt text 'Great Brands. Great Prices.'; nav: Clearance, New & Now, Women, Men, Kids, Shoes, Bags & Accessories, Beauty, Home. Beauty 'Top Brands' include Anastasia Beverly Hills, Burberry, Charlotte Tilbury, Clinique, Gucci, MAC Cosmetics.",
@@ -67,5 +81,8 @@
     "size_range detail: Women's 00–28W+ (XXS–4X+); petite 00P–18P+; plus 14W–28W+; jeans waists 23–36",
     "sale_pattern detail: Ongoing markdowns: homepage banner 'New Markdowns Up to 70% Off'; a Clearance department in the main navigation."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "tops"
+  ]
 }

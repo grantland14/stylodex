@@ -1,0 +1,69 @@
+{
+  "slug": "armedangels",
+  "name": "Armedangels",
+  "website_url": "https://www.armedangels.com/en-us/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Timeless, Mission-Driven Fashion",
+  "hq_country": "DE",
+  "founded_year": 2007,
+  "parent_company": null,
+  "size_range": "XS–XXL",
+  "has_plus": false,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "us_stores": false,
+  "materials": [
+    "Certified organic cotton",
+    "Recycled fibers"
+  ],
+  "certifications": [
+    "Fair Wear Leader"
+  ],
+  "production_model": null,
+  "sale_pattern": null,
+  "prices": [
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 38.0,
+      "max": 118.0,
+      "min_usd": 38.0,
+      "max_usd": 118.0,
+      "fx_date": null,
+      "item_count": 124,
+      "source_url": "https://www.armedangels.com/en-us/collections/women-tops",
+      "checked_at": "2026-10-29",
+      "note": "US storefront (/en-us/, USD). Product grid HTML, pages 1-6 (144 tiles, 24 per page; more pages may follow). Every tile shows a single price-min span, no compare-at or sale price. Excluded titles naming sweaters and knit sweaters (20). 124 kept: low LUALAA T-Shirt $38; IDAARA T-Shirt and EINIAARA Soft Longsleeve $48; ICONIC TARJAA T-Shirt $65; high GUILIAA Merino Knit T-Shirt $118. /en-us/products/idaara-white.js: $48.00, sizes XS-XXL, type Jersey Shirts."
+    }
+  ],
+  "sells_categories": [
+    "tops"
+  ],
+  "notes": [
+    "2026-10-29: US storefront live, title 'Timeless Fashion for Women & Men | ARMEDANGELS', meta 'Discover timeless fashion for women & men: thoughtful designs, high-quality materials.'",
+    "Shipping overview: United States (Zone 4) $15.00, 5-10 business days, no US free-shipping threshold; Canada (Zone 5) EUR 40; UK (Zone 1) EUR 4.95, free over EUR 150; Australia (Zone 6) EUR 50. FAQ: 'Shipping to the US is a flat rate of $15.00 USD per order.' Duties not mentioned.",
+    "FAQ: 'You can return unworn and unwashed items within 30 days of delivery'; 'return shipping costs are the responsibility of the customer'. Fit: 'relaxed, European fit'. Materials: 'We use certified organic cotton, recycled fibers, and fair-trade production across our entire range'; 'Fair Wear Leader' badge.",
+    "Our Mission: 'Since 2007, ARMEDANGELS has challenged fashion's status quo.' Imprint: Social Fashion Company GmbH, registered office Thebäerstr. 17, 50823 Köln (Cologne); own stores in Cologne and Düsseldorf (stores pages), none in the US.",
+    "Size range from product variants (IDAARA and LUALAA T-shirts: XS, S, M, L, XL, XXL)."
+  ],
+  "sources": [
+    "https://www.armedangels.com/en-us/",
+    "https://www.armedangels.com/en-us/collections/women-tops",
+    "https://www.armedangels.com/en-us/pages/shipping-overview",
+    "https://www.armedangels.com/en-us/pages/faq",
+    "https://www.armedangels.com/en-us/pages/our-mission",
+    "https://www.armedangels.com/en-us/pages/imprint",
+    "https://www.armedangels.com/en-us/products/idaara-white.js",
+    "https://www.armedangels.com/en-us/pages/stores"
+  ],
+  "checked_at": "2026-10-29"
+}

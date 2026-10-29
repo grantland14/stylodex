@@ -21,7 +21,9 @@
   "us_stores": null,
   "prices": [],
   "sells_categories": [
-    "dresses"
+    "dresses",
+    "jeans",
+    "tops"
   ],
   "materials": [],
   "certifications": [],
@@ -32,7 +34,9 @@
     "https://us.boohoo.com/pages/informational/delivery",
     "https://us.boohoo.com/pages/informational/returns",
     "https://us.boohoo.com/pages/informational/size-guide",
-    "https://en.wikipedia.org/wiki/Boohoo_Group"
+    "https://en.wikipedia.org/wiki/Boohoo_Group",
+    "https://us.boohoo.com/categories/womens-jeans",
+    "https://us.boohoo.com/womens/tops"
   ],
   "notes": [
     "Dresses page (us.boohoo.com/womens/dresses): live women's dresses category; product grid loads client-side, so no prices rendered (no price row). Banners: 'SPOOKY DISCOUNT - UP TO 20% OFF', '70% OFF ALMOST EVERYTHING*', 'Discounts may not be based on former prices'.",
@@ -40,7 +44,9 @@
     "Returns: 21 days from receipt; '$14.99 per parcel' deducted from the refund; store credit pays a 20% bonus.",
     "Size guide: US 0–26 main chart; petite range for 5ft 3in; plus and tall columns in length guides.",
     "Wikipedia (Boohoo_Group infobox): founded 2006 by Mahmud Kamani and Carol Kane; HQ Dale Street, Manchester; brands include boohoo, PrettyLittleThing, Karen Millen, Debenhams; trading as Debenhams Group since March 2025, legal name still Boohoo Group.",
-    "known_for from the store's own title: 'boohoo | Womens and Mens Clothes | Shop Online Fashion'."
+    "known_for from the store's own title: 'boohoo | Womens and Mens Clothes | Shop Online Fashion'.",
+    "2026-10-29 (cotton-on page run, C jeans): US 'Women's Jeans' category page is live (heading 'Women's Jeans', breadcrumb Womens / Womens Clothing / Jeans, intro 'Find your dream denim fit with boohoo's new women's jeans', links to Plus-Size, Petite, Maternity and Tall Jeans), but the product grid loads client-side, so no prices rendered. Jeans recorded in sells_categories from the store's own category page; no jeans price row.",
+    "2026-10-29 (stores-like-primark run, C tops = women's tops and T-shirts): us.boohoo.com/womens/tops is a live 'Women's Tops' category (heading, filters, banner); the product grid loads client-side, so no prices rendered to WebFetch. tops in sells_categories from the store's own page; no price row."
   ],
   "checked_at": "2026-10-29"
 }

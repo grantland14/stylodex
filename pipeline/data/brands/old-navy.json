@@ -28,7 +28,9 @@
     "https://oldnavy.gap.com/static_content/onesitecategory/components/webAssets/oldnavyprod/customerService/json/returns_faq_092926.json",
     "https://www.gapinc.com/en-us/about/old-navy",
     "https://en.wikipedia.org/wiki/Old_Navy",
-    "https://api.gap.com/commerce/search/products/v2/cc?cid=15292&brand=on&market=us&locale=en_US&pageSize=200&pageNumber=0"
+    "https://api.gap.com/commerce/search/products/v2/cc?cid=15292&brand=on&market=us&locale=en_US&pageSize=200&pageNumber=0",
+    "https://oldnavy.gap.com/browse/women/all-tops?cid=72091",
+    "https://api.gap.com/commerce/search/products/v2/cc?cid=72091&brand=on&market=us&locale=en_US&pageSize=200&pageNumber=0"
   ],
   "checked_at": "2026-10-29",
   "known_for": "Affordable Family Clothing",
@@ -40,7 +42,8 @@
     "jeans",
     "mens-clothing",
     "womens-clothing",
-    "dresses"
+    "dresses",
+    "tops"
   ],
   "founded_year": 1994,
   "has_plus": true,
@@ -78,6 +81,19 @@
       "source_url": "https://oldnavy.gap.com/browse/women/dresses-and-jumpsuits?cid=15292",
       "checked_at": "2026-10-29",
       "note": "Gap Inc. product API (cid 15292, brand on, market us), StylodexBot UA: 69 styles; 26 non-dresses (skirts, bottoms, etc.) excluded; 43 dresses, 34 with only marked-down or out-of-stock colorways excluded. 9 regular: low High-Neck Jersey Mini Swing Dress $34.99; Sleeveless Fit & Flare Ponte Mini Dress $39.99; high The Occasion by Old Navy Long-Sleeve Tie-Front Maxi Dress $59.99."
+    },
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 12.99,
+      "max": 44.99,
+      "min_usd": 12.99,
+      "max_usd": 44.99,
+      "fx_date": null,
+      "item_count": 106,
+      "source_url": "https://oldnavy.gap.com/browse/women/all-tops?cid=72091",
+      "checked_at": "2026-10-29",
+      "note": "Gap Inc. product API the category page calls (cid 72091, brand on, market us, 20 pages, StylodexBot UA): 747 styles, of which 181 typed 'womens tops', 'womens short-sleeved tees' or 'z womens graphic tees' (men's tees, Dropship third-party listings, activewear, sweaters, sweatshirts, sleepwear and bras excluded, plus titles naming sweaters, cardigans, hoodies, jackets, vests and the like). Regular = regularPrice of in-stock colorways with priceType R, or P (temporary promotion) without a markdown, clearance, final-sale or 'price as marked' flag. 106 styles qualify: low First-Layer Ribbed Scoop-Neck Tank Top and First-Layer Cami Tank Top $12.99; high Oversized Boyfriend Button-Down Corduroy Shirt $44.99. Most common regular prices $24.99, $39.99 and $19.99. Many kept items carry an 'App Exclusive Extra 20% Off' flag."
     }
   ]
 }

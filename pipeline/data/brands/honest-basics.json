@@ -32,6 +32,19 @@
       "source_url": "https://honest-basics.com/collections/men/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "Men's collection T-shirts (flannel shirt excluded): Basic T-shirt €14.90 (70% organic, 30% recycled cotton, 180 gsm, preshrunk), Hipster Shirt €16.90–19.90, OG Shirt €19.90–24.90, OG Long €22.90–27.90, Long Henley €27.90. No markdowns on these. USD at ECB 2026-10-28 (1.1133)."
+    },
+    {
+      "category": "tops",
+      "currency": "EUR",
+      "min": 12.9,
+      "max": 49.9,
+      "min_usd": 14.36,
+      "max_usd": 55.55,
+      "fx_date": "2026-10-28",
+      "item_count": 16,
+      "source_url": "https://honest-basics.com/collections/women/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Shopify feed of the women's collection (40 products), product types T-Shirts and Tops: 19 tops, 3 marked down, 16 regular and in stock. Low Spaghetti Strap Top EUR 12.90; Basic T-shirt and Straight Tank EUR 14.90; Cap Tee EUR 16.90; high Flannel Shirt EUR 49.90 (next highest Polo Knit EUR 29.90). Store prices in EUR only. Converted at ECB 2026-10-28 (USD 1.1133 per EUR)."
     }
   ],
   "materials": [
@@ -49,7 +62,8 @@
     "https://honest-basics.com/collections/men/products.json?limit=250",
     "https://honest-basics.com/policies/shipping-policy",
     "https://honest-basics.com/policies/refund-policy",
-    "https://honest-basics.com/pages/about-us"
+    "https://honest-basics.com/pages/about-us",
+    "https://honest-basics.com/collections/women/products.json?limit=250"
   ],
   "notes": [
     "honestbasics.com serves a parked-domain redirect ('/lander'); the store is honest-basics.com (EUR). Its full catalog (62 products, one page) has product types Jeans, Joggers, Knits, Socks, Sweaters, T-Shirts, Tops, Underwear and Gift Cards: no dresses (2026-10-29).",
@@ -57,5 +71,8 @@
     "Returns: up to 30 days after receipt; customer pays return postage.",
     "About: based in Berlin; header 'Sustainable basics for friendly prices'; mission 'to make fair fashion easy and accessible for everyone'."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "tops"
+  ]
 }

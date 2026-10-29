@@ -91,7 +91,9 @@
     "https://www.fastretailing.com/eng/group/shoplist/",
     "https://www.fastretailing.com/eng/group/strategy/",
     "https://www.uniqlo.com/us/en/women/bottoms/jeans",
-    "https://www.uniqlo.com/us/en/women/tops/sweatshirts-and-hoodies"
+    "https://www.uniqlo.com/us/en/women/tops/sweatshirts-and-hoodies",
+    "https://www.uniqlo.com/us/en/women/tops/t-shirts",
+    "https://www.uniqlo.com/us/en/women/tops/all-tops"
   ],
   "notes": [
     "2026-10-29: the US dresses listing was read by WebFetch (an earlier read of /women/dresses-and-jumpsuits returned 503). Shipping and returns pages not read (FAQ site returned 403 to an earlier run), so free_shipping_min_usd and returns_days stay empty. ships_to US rests on the US storefront (USD, uniqlo.com/us).",
@@ -104,12 +106,14 @@
     "Wikipedia: incorporated 1974 as Sun Road Co., Uniqlo name from 2005; headquartered in Yamaguchi City, Japan; wholly owned by Fast Retailing; first US global flagship in SoHo, November 2006. Sister brand GU is also Fast Retailing.",
     "ships_to: US store at uniqlo.com/us with USD prices and US shipping terms; CA, GB, AU are served by Uniqlo's separate country stores (not checked as shipping destinations from the US store).",
     "2026-10-29 (gap page run): women's jeans listing loaded to WebFetch (earlier runs got 503). Baggy Barrel Jeans come in separate Short and Tall versions.",
-    "2026-10-29 (comfrt run): Sweat Oversized Pullover Hoodie ($49.90) and Sweat Oversized Full-Zip Hoodie ($59.90) are listed in sizes XXS–3XL (men's sizing)."
+    "2026-10-29 (comfrt run): Sweat Oversized Pullover Hoodie ($49.90) and Sweat Oversized Full-Zip Hoodie ($59.90) are listed in sizes XXS–3XL (men's sizing).",
+    "2026-10-29 (stores-like-primark run, C tops = women's tops and T-shirts): the US 'Women's T-Shirts and Tank Tops' listing loaded to WebFetch with product names (Ribbed Henley Neck T-Shirt, Soft Ribbed T-Shirt, Hooded Ribbed T-Shirt, Soft Knitted Fleece T-Shirt, Crew Neck T-Shirt) but no prices ('Results: 0 items', truncated), so tops goes in sells_categories with no price row. /women/tops/all-tops returned 503; curl got an HTTP/2 stream reset. One try each, no workaround."
   ],
   "checked_at": "2026-10-29",
   "us_stores": true,
   "sells_categories": [
     "jeans",
-    "hoodies"
+    "hoodies",
+    "tops"
   ]
 }

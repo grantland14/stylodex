@@ -1,0 +1,37 @@
+{
+  "slug": "kings-of-indigo",
+  "name": "Kings of Indigo",
+  "website_url": "https://kingsofindigo.com",
+  "status": "verified",
+  "kind": "brand",
+  "hq_country": "NL",
+  "returns_days": 30,
+  "sells_categories": [
+    "tops"
+  ],
+  "prices": [
+    {
+      "category": "tops",
+      "currency": "EUR",
+      "min": 45.0,
+      "max": 165.0,
+      "min_usd": 50.1,
+      "max_usd": 183.69,
+      "fx_date": "2026-10-28",
+      "item_count": 33,
+      "source_url": "https://kingsofindigo.com/collections/womens-tops-1/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Shopify feed of women's tops (59 products; base currency EUR, country NL): all 45 non-excluded items regular price; knitwear ('Knit L/S', 10) and sweats (2) excluded, leaving 33 tees, singlets, shirts and woven tops: low Kerry and Joou singlets EUR 45; high Quinn shirt EUR 165."
+    }
+  ],
+  "notes": [
+    "2026-10-29: store live (Shopify, EUR, country NL). Shipping policy: ships to 'every country in the European Union, plus the United Kingdom, Switzerland and a number of others'; 'All other countries: EUR 40'; outside the EU 'import VAT and duty are not included'. The US is not named, so ships_to stays empty. Refund policy: returns 'within 30 days after delivery'; outside the EU the customer sends it back by their own carrier; return address Apeldoorn, Netherlands."
+  ],
+  "sources": [
+    "https://kingsofindigo.com/",
+    "https://kingsofindigo.com/policies/shipping-policy",
+    "https://kingsofindigo.com/policies/refund-policy",
+    "https://kingsofindigo.com/collections/womens-tops-1/products.json?limit=250"
+  ],
+  "checked_at": "2026-10-29"
+}

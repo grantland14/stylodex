@@ -32,6 +32,19 @@
       "source_url": "https://yesfriends.co/collections/dresses/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "2 regular-price, in-stock dresses of 7 in the collection (1 marked down, 2 sold out, 2 not dresses): Every Occasion Linen Blend Dress £39, Cord Mini Dress £45. Sizes XXS–XXL. Store base currency GBP (cart.js); converted at ECB 2026-10-28 (USD 1.1133, GBP 0.83785 per EUR). Most of the range is tees (37 of 118 products by type)."
+    },
+    {
+      "category": "tops",
+      "currency": "GBP",
+      "min": 12.0,
+      "max": 38.0,
+      "min_usd": 15.95,
+      "max_usd": 50.49,
+      "fx_date": "2026-10-28",
+      "item_count": 24,
+      "source_url": "https://yesfriends.co/collections/women/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Shopify feed of the women's collection (73 products), product types T-shirts, Tops, Tank Tops and Shirts: 32 tops, 3 marked down, 5 sold out, 24 regular and in stock. Low Unisex Original T-shirt, Classic Tank Top and Ribbed Athletic Tank Top GBP 12; Classic Heavyweight T-shirt and Premium Fitted T-shirt GBP 16; long-sleeve tees GBP 22; high Unisex Relaxed Check Shirt GBP 38. Store currency GBP (Shopify.currency active GBP, country GB; no /en-us storefront, 404). Converted at ECB 2026-10-28 (USD 1.1133, GBP 0.83785 per EUR). US delivery $9.95 with duties included (delivery page)."
     }
   ],
   "materials": [],
@@ -44,7 +57,9 @@
     "https://yesfriends.co/pages/delivery",
     "https://yesfriends.co/policies/refund-policy",
     "https://yesfriends.co/pages/our-story-1",
-    "https://yesfriends.co/products.json?limit=250"
+    "https://yesfriends.co/products.json?limit=250",
+    "https://yesfriends.co/collections/women/products.json?limit=250",
+    "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist-90d.xml"
   ],
   "notes": [
     "Title: 'Yes Friends | Affordable, Ethical & Sustainable Clothing'. Meta: 'Yes Friends exists to make ethical clothing affordable and transform the fashion industry.'",
@@ -53,5 +68,8 @@
     "Returns: within 30 days of arriving, unworn with tags.",
     "Eco-Stylist: organic cotton tees, hoodies and sweatshirts made in a Fair Trade USA and GOTS certified factory (not confirmed on the brand's own pages read)."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "tops"
+  ]
 }

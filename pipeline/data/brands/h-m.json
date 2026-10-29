@@ -36,7 +36,8 @@
     "hmgroup.com/about-us lists the group's brands: H&M, COS, Weekday (with Cheap Monday and Monki), & Other Stories, ARKET, Singular Society and Sellpy. COS, & Other Stories and ARKET are H&M Group sister brands.",
     "Wikipedia: founded by Erling Persson in 1947 as Hennes, first shop in Västerås, Sweden; headquartered in Stockholm; first US store on Fifth Avenue, New York, 31 March 2000; listed on Nasdaq Stockholm.",
     "Category C = dresses (see pages/h-m.json category.why). Ahrefs top pages for www2.hm.com/en_us/ (US, 2026-10-28): the women's maxi dresses page is the highest-traffic product-type page (est. 7,792/month).",
-    "2026-10-29: www2.hm.com homepage and /en_us/women/products/jeans.html HTTP 403. No workaround."
+    "2026-10-29: www2.hm.com homepage and /en_us/women/products/jeans.html HTTP 403. No workaround.",
+    "2026-10-29 (stores-like-primark run, C tops = women's tops and T-shirts): women's tops page https://www2.hm.com/en_us/women/products/tops.html returned HTTP 403 to WebFetch. One try, no workaround; no tops price or sells_categories."
   ],
   "checked_at": "2026-10-29"
 }

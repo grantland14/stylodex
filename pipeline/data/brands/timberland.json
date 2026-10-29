@@ -1,0 +1,14 @@
+{
+  "slug": "timberland",
+  "name": "Timberland",
+  "website_url": "https://www.timberland.com",
+  "status": "unverified",
+  "kind": "brand",
+  "sources": [
+    "https://www.timberland.com/"
+  ],
+  "notes": [
+    "2026-10-29 (eddie-bauer page run): homepage returned an 'Access Denied' page (HTTP 403) to the StylodexBot UA; not worked around. Human check."
+  ],
+  "checked_at": "2026-10-29"
+}

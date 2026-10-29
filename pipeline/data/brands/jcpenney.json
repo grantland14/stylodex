@@ -9,7 +9,8 @@
   "parent_company": "Catalyst Brands",
   "us_stores": true,
   "sells_categories": [
-    "womens-clothing"
+    "womens-clothing",
+    "tops"
   ],
   "ships_to": [],
   "prices": [],
@@ -33,7 +34,8 @@
     "2026-10-29 (macys page run): jcpenney.com returns HTTP 503 to WebFetch; no workaround. status=verified from JCPenney's own corporate site (corporate.jcpenney.com, reached via jcpnewsroom.com 301), per enrich.md §2. Company info page (https://corporate.jcpenney.com/about/company-info/): 'one of the nation's largest retailers of apparel, home, jewelry, and beauty merchandise'; 'a growing portfolio of private and national brands'; 'more than 600+ stores across the United States and Puerto Rico'; founded 'in Kemmerer, Wyoming, in 1902' by James Cash Penney.",
     "Oct 21 2026 release boilerplate: 'JCPenney, part of Catalyst Brands, is the shopping destination for America's diverse, working families'; 'a broad portfolio of fashion, apparel, home, beauty and jewelry from national and private brands'; 'from jcp.com to more than 600 stores across the U.S. and Puerto Rico'; salon, portrait and optical services. known_for built from that wording.",
     "Oct 1 2026 release: women's Marilyn Monroe collection 'available exclusively at JCPenney, in stores and online at JCPenney.com'; pieces start at $44; High-Rise Vintage Slim Jeans $54, Off-the-Shoulder Top $44, Pleated Skirt $68. Sep 16 2026 release names Liz Claiborne, a.n.a., St. John's Bay, Levi's, Adidas, Nike. These are launch prices from the corporate site, not a category range, so no price row stored.",
-    "catalystbrands.com: Catalyst Brands brings together JCPenney, Brooks Brothers, Aeropostale, Lucky Brand and Nautica. No prices, sizes, shipping or returns stored (store unreadable)."
+    "catalystbrands.com: Catalyst Brands brings together JCPenney, Brooks Brothers, Aeropostale, Lucky Brand and Nautica. No prices, sizes, shipping or returns stored (store unreadable).",
+    "2026-10-29 (stores-like-primark run, C tops = women's tops and T-shirts): sells_categories tops rests on JCPenney's own Oct 1 2026 release (corporate.jcpenney.com/2026/10/01/...): the women's Marilyn Monroe collection includes an Off-the-Shoulder Top ($44 launch price), sold in stores and at JCPenney.com. No price row: prices come only from the store, which returns 503."
   ],
   "checked_at": "2026-10-29",
   "hq_country": "US"

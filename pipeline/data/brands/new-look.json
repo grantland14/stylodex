@@ -1,0 +1,14 @@
+{
+  "slug": "new-look",
+  "name": "New Look",
+  "website_url": "https://www.newlook.com",
+  "status": "unverified",
+  "kind": "brand",
+  "notes": [
+    "2026-10-29 (stores-like-primark run, C tops = women's tops and T-shirts): www.newlook.com returned HTTP 403 to WebFetch, one try, no workaround. US delivery unknown. Human check."
+  ],
+  "sources": [
+    "https://www.newlook.com/"
+  ],
+  "checked_at": "2026-10-29"
+}

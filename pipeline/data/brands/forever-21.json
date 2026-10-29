@@ -69,6 +69,19 @@
       "source_url": "https://www.forever21.com/collections/mens-tops",
       "checked_at": "2026-10-29",
       "note": "Like-for-like item: men's short-sleeve T-shirts. Public Shopify feed https://www.forever21.com/collections/mens-tops/products.json?limit=250: 78 products, 21 tees; 9 short-sleeve tees have a variant with no compare-at price above the price (regular price), 11 are marked down on every variant, 1 sleeveless excluded. Min: 100% Cotton Crew Tee, 100% Cotton V-Neck Tee, Cotton-Blend Crew Tee $7.99 (sizes XS–XXXL); Scoop Cotton Crew Tee $12.99; Mineral Wash Regular Fit T-Shirt $19.99; Varsity Logo Graphic T-Shirt $24.99; max: Saint Velour Studded Graphic T-Shirt and Velour Rhinestone Short Sleeve T-Shirt $34.99."
+    },
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 9.98,
+      "max": 36.99,
+      "min_usd": 9.98,
+      "max_usd": 36.99,
+      "fx_date": null,
+      "item_count": 37,
+      "source_url": "https://forever21.com/collections/womens-tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Shopify feed of Women's Tops (collections.json lists 1,155 products; the feed returned 626). Excluded titles naming sweaters, cardigans, hoodies, sweatshirts, sets, ponchos and other non-tops (266). Of 360 tops, 323 have a variant with compare_at_price above price (marked down) and 37 are regular price and in stock. Low Ribbed Lace-Trim Top and Seamless Tank Bodysuit $9.98, Cropped Sweetheart Tube Top $9.99; high Striped Knit Cropped Halter Top $36.99, Ruched Button Front Halter Top $34.99. Median $19.99."
     }
   ],
   "materials": [],
@@ -89,7 +102,9 @@
     "https://www.forever21.com/collections/women-bottoms/products.json?limit=250",
     "https://www.forever21.com/collections/womens-plus-size-denim-jeans/products.json?limit=250",
     "https://forever21.com/collections/mens-tops/products.json?limit=250",
-    "https://www.forever21.com/collections/mens-tops/products.json?limit=250"
+    "https://www.forever21.com/collections/mens-tops/products.json?limit=250",
+    "https://forever21.com/collections/womens-tops/products.json?limit=250",
+    "https://forever21.com/collections.json?limit=250"
   ],
   "notes": [
     "Homepage mission: 'LA-born and style-obsessed, we empower self-expression through standout fashion at unbeatable value.' Slogan 'FASHION IS FOR EVERYONE.' Nav includes Dresses and Plus.",
@@ -105,6 +120,7 @@
   "sells_categories": [
     "womens-clothing",
     "jeans",
-    "mens-clothing"
+    "mens-clothing",
+    "tops"
   ]
 }

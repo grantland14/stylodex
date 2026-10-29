@@ -1,0 +1,15 @@
+{
+  "slug": "guess",
+  "name": "Guess",
+  "website_url": "https://www.guess.com/us/en/home",
+  "status": "unverified",
+  "kind": "brand",
+  "sources": [
+    "https://www.guess.com/us/en/home",
+    "https://en.wikipedia.org/wiki/Guess_(clothing)"
+  ],
+  "notes": [
+    "guess.com/us/en/home 403 to a plain request (StylodexBot UA) and /us/en/women/apparel/jeans/ 403 to WebFetch, 2026-10-29. No workaround. Wikipedia (Guess_(clothing)): Guess?, Inc., founded 1981 by the Marciano brothers, HQ Los Angeles; Authentic Brands Group owns 51%."
+  ],
+  "checked_at": "2026-10-29"
+}

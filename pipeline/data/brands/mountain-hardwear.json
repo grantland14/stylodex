@@ -1,0 +1,14 @@
+{
+  "slug": "mountain-hardwear",
+  "name": "Mountain Hardwear",
+  "website_url": "https://www.mountainhardwear.com",
+  "status": "unverified",
+  "kind": "brand",
+  "sources": [
+    "https://www.mountainhardwear.com/"
+  ],
+  "notes": [
+    "2026-10-29 (eddie-bauer page run): homepage and products probe returned HTTP 403 to the StylodexBot UA; not worked around. Human check."
+  ],
+  "checked_at": "2026-10-29"
+}

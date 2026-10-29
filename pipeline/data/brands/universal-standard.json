@@ -1,0 +1,60 @@
+{
+  "slug": "universal-standard",
+  "name": "Universal Standard",
+  "website_url": "https://www.universalstandard.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Fashion in Sizes 00–40",
+  "hq_country": "US",
+  "founded_year": 2015,
+  "parent_company": null,
+  "size_range": "00–40 (4XS–4XL)",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 118.0,
+      "max": 188.0,
+      "min_usd": 118.0,
+      "max_usd": 188.0,
+      "fx_date": null,
+      "item_count": 158,
+      "source_url": "https://www.universalstandard.com/collections/denim/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Public Shopify feed of /collections/denim (192 products, read with curl, StylodexBot UA): 158 jeans listings (one per wash), none with a compare-at price above the price; 34 non-jean items (denim-look pants, jackets, chambray shirts, shorts) excluded. Low end: Seine High Rise Skinny Jeans ($118, 27, 30 and 32 inch inseams); Bae Boyfriend Crop Jeans $138; top $188."
+    }
+  ],
+  "sells_categories": [
+    "jeans"
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.universalstandard.com/",
+    "https://www.universalstandard.com/pages/our-story",
+    "https://www.universalstandard.com/collections/denim/products.json?limit=250",
+    "https://www.universalstandard.com/policies/refund-policy",
+    "https://www.universalstandard.com/policies/shipping-policy",
+    "https://en.wikipedia.org/wiki/Universal_Standard",
+    "https://iamandco.com/blogs/articles/stores-like-cotton-on"
+  ],
+  "notes": [
+    "Our Story page: 'Where style is your only filter. Sizes 00-40. Fashion for all of US. As we are.' Sizes listed from '4XS 00-0' to '4XL 38-40'. Mentions 'premium Peruvian cotton'; no manufacturing location stated.",
+    "Shipping policy: 'All United States orders receive free standard (5-10 business days) shipping!'; expedited $25; 'Free shipping is guaranteed on all full-price purchases' (promotions and final sale may carry a fee). International: 'We ship to most countries' via Global-e (DHL), duties collected at checkout; ships_to stores only the US, the one destination the policy names.",
+    "Refund policy: 30 days from the shipping date for non-final-sale items, unworn with tags; Happy Returns drop-off $4.50 fee, mail-in $7.50 per order; exchanges and store credit free. Homepage: 'Fit Liberty: Free Exchanges For 1 Year'.",
+    "Wikipedia infobox: founded 2015 by Alexandra Waldman and Polina Veksler; HQ New York City; private.",
+    "Denim inseams sold separately for several styles (e.g. Seine High Rise Skinny Jeans 27, 30 and 32 inch)."
+  ],
+  "checked_at": "2026-10-29"
+}

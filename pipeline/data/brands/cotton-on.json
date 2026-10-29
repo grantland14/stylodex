@@ -4,7 +4,7 @@
   "website_url": "https://cottonon.com/US/",
   "status": "verified",
   "kind": "brand",
-  "known_for": null,
+  "known_for": "Laid-Back Aussie Fashion",
   "hq_country": "AU",
   "founded_year": 1991,
   "parent_company": "Cotton On Group",
@@ -21,15 +21,15 @@
     {
       "category": "jeans",
       "currency": "USD",
-      "min": 69.99,
+      "min": 10.0,
       "max": 79.99,
-      "min_usd": 69.99,
+      "min_usd": 10.0,
       "max_usd": 79.99,
       "fx_date": null,
-      "item_count": 35,
-      "source_url": "https://cottonon.com/US/co/women/women-clothing/womens-jeans/",
+      "item_count": 135,
+      "source_url": "https://cottonon.com/US/co/women/women-clothing/womens-jeans/?sz=250",
       "checked_at": "2026-10-29",
-      "note": "35 tiles visible of 220 women's jeans the page reports; none show an original or sale price: 26 at $69.99, 9 at $79.99. Styles: low rise straight and wide, mid rise barrel and bootcut, 91 Straight, Curvy Stretch Wide, Petite low rise straight/wide and Petite mid rise bootcut."
+      "note": "Full grid read with curl (StylodexBot UA, ?sz=250): 220 tiles, 6 denim shorts excluded, 79 jeans tiles show a Standard Price with a lower Sale Price (excluded). 135 jeans colour tiles show only a Standard Price (no markdown): $10.00 (13, e.g. High Rise Skinny Jean), $15, $20.00 (34, e.g. Original Straight Jean, Seam Wide Jean), $30.00 (30, e.g. Barrel Jean in some washes), $40–$59.99 (8), $69.99 (37, e.g. Low Rise Straight Jean, Petite Low Rise Straight Jean), $79.99 (11, e.g. Barrel Jean, Low Rise Wide Jean). The same style carries different standard prices by wash (Barrel Jean $30.00 and $79.99; Low Rise Straight Jean $30.00 and $69.99). Replaces the earlier 69.99–79.99 entry, which covered only the first 35 tiles."
     },
     {
       "category": "mens-clothing",
@@ -51,7 +51,11 @@
     "https://cottonon.com/US/information-about-returns.html",
     "https://cottonon.com/US/size-guide.html",
     "https://en.wikipedia.org/wiki/Cotton_On_Group",
-    "https://cottonon.com/US/co/men/mens-clothing/mens-tops/mens-short-sleeve-t-shirts/"
+    "https://cottonon.com/US/co/men/mens-clothing/mens-tops/mens-short-sleeve-t-shirts/",
+    "https://cottonon.com/US/co/women/women-clothing/womens-jeans/?sz=250",
+    "https://cottonongroup.com.au/our-brands/cotton-on/",
+    "https://cottonongroup.com.au/our-brands/",
+    "https://cottonon.com/US/store-finder/"
   ],
   "notes": [
     "US store title: 'Women's Men's & Kids Clothing & Accessories | Cotton On USA'. No short positioning line found, so known_for is empty.",
@@ -60,7 +64,12 @@
     "Size guide: women's US 0–20 (3XS–5XL). Jeans menu has Petite Jeans and Curvy Fit Jeans; petite tiles say 'Shorter Front Rise & Inseam'; some curvy tiles say 'Gap-proof Waist'.",
     "Wikipedia: Cotton On Group founded 1991 by Nigel Austin, HQ Geelong, Australia, private company.",
     "size_range detail: Women's US 0–20; Petite and Curvy jeans ranges",
-    "2026-10-29 (tillys page run, C mens-clothing = men's tees): US store nav has Men > Clothing > Tops > Short Sleeve T-Shirts, so mens-clothing added to sells_categories; 59 of the 99 tiles on that page were marked down."
+    "2026-10-29 (tillys page run, C mens-clothing = men's tees): US store nav has Men > Clothing > Tops > Short Sleeve T-Shirts, so mens-clothing added to sells_categories; 59 of the 99 tiles on that page were marked down.",
+    "2026-10-29 (cotton-on page run): known_for from Cotton On Group's brand page (https://cottonongroup.com.au/our-brands/cotton-on/): 'a global fashion and lifestyle brand that's taking the Aussie lifestyle to the world', 'Laid-back and always lived to the fullest', 'We deliver the trends of the moment in womenswear, menswear and accessories.'",
+    "2026-10-29 (cotton-on page run): Cotton On Group's brands page lists eight brands: Cotton On, Cotton On Kids, Cotton On Body, Factorie, Rubi by Cotton On, Typo, Supré, Ceres Life ('Eight Aussie lifestyle brands').",
+    "2026-10-29 (cotton-on page run): returns page re-read: 'Change your mind anytime! ... return online anytime. (No expiration on returns!)'; in-store exchange or refund with receipt. returns_days stays null (no day limit; same coordinator decision as nordstrom).",
+    "2026-10-29 (cotton-on page run): US store-finder page (https://cottonon.com/US/store-finder/) rendered no store list to WebFetch ('Google Map not initialized'), so us_stores stays empty.",
+    "2026-10-29 (cotton-on page run): women's jeans standard prices vary by wash within one style (Barrel Jean $30.00 in some washes, $79.99 in others; Low Rise Straight Jean $30.00 and $69.99), with no strikethrough on the lower ones. By the markdown rule all count as regular price."
   ],
   "checked_at": "2026-10-29",
   "sells_categories": [

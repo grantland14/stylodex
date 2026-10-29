@@ -30,7 +30,8 @@
     "https://www.zara.com/us/en/woman-dresses-l1066.html returned HTTP 403 to WebFetch on 2026-10-29. One try, no workaround. Status unverified; nothing else stored.",
     "2026-10-29 (stores-like-zara run): https://www.zara.com/us/ also returned HTTP 403 to WebFetch. One try, no workaround. Status stays unverified until a human opens the US store (dress price range, sizes, US shipping, returns).",
     "Inditex brands page: 'ZARA IS A FORWARD-THINKING FORCE IN FASHION'; Zara listed among Inditex's eight brands with Pull&Bear, Massimo Dutti, Bershka, Stradivarius, Oysho, Zara Home and Lefties (https://www.inditex.com/itxcomweb/en/brands).",
-    "Wikipedia: 'Zara was established by Amancio Ortega Gaona and Rosalía Mera Goyenechea in 1975'; 'The head office is located at Arteixo in the province of A Coruña, Spain'; 'Zara sells clothing, accessories, beauty products and perfumes'; 'In 1989, the company entered the United States'; 'Online stores began operating in the United States in 2011'; 'makes roughly 40,000 designs of which around 12,000 new designs are selected and produced each year'."
+    "Wikipedia: 'Zara was established by Amancio Ortega Gaona and Rosalía Mera Goyenechea in 1975'; 'The head office is located at Arteixo in the province of A Coruña, Spain'; 'Zara sells clothing, accessories, beauty products and perfumes'; 'In 1989, the company entered the United States'; 'Online stores began operating in the United States in 2011'; 'makes roughly 40,000 designs of which around 12,000 new designs are selected and produced each year'.",
+    "2026-10-29 (stores-like-primark run, C tops = women's tops and T-shirts): women's tops page https://www.zara.com/us/en/woman-tops-l1322.html returned HTTP 403 to WebFetch. One try, no workaround; no tops price or sells_categories."
   ],
   "checked_at": "2026-10-29"
 }

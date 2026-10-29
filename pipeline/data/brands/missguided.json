@@ -18,9 +18,24 @@
   "free_shipping_min_usd": 67.49,
   "returns_days": 30,
   "us_stores": null,
-  "prices": [],
+  "prices": [
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 5.4,
+      "max": 10.7,
+      "min_usd": 5.4,
+      "max_usd": 10.7,
+      "fx_date": null,
+      "item_count": 4,
+      "source_url": "https://www.missguided.com/market-us/category/Women-Tops-Blouses-Tee-1766",
+      "checked_at": "2026-10-29",
+      "note": "WebFetch of the US Tops, Blouses & Tee category (9,705 items, 122 pages; first 20 tiles read). 16 of the 20 show a current price under a was price (marked down) and are excluded; 4 at full price, all MISSGUIDED-label: Fitted Crop Top With Text Print Front $5.40, Cap Sleeve Cotton Top With Side Ruched Detail $8.76, Sheer Ruffle Long Sleeve High Neck Blouse $9.92, Elegant Oversized Cinched Waist Design T Shirt $10.70. A thin first-page sample; other-label listings (SUMWON WOMEN, BABYPHAT) were all marked down."
+    }
+  ],
   "sells_categories": [
-    "dresses"
+    "dresses",
+    "tops"
   ],
   "materials": [],
   "certifications": [],
@@ -30,7 +45,8 @@
     "https://www.missguided.com/market-us",
     "https://www.missguided.com/market-us/page/shipping",
     "https://www.missguided.com/market-us/page/return",
-    "https://www.missguided.com/market-us/category/Women-Dresses-12716"
+    "https://www.missguided.com/market-us/category/Women-Dresses-12716",
+    "https://www.missguided.com/market-us/category/Women-Tops-Blouses-Tee-1766"
   ],
   "notes": [
     "2026-10-29: missguided.com redirects to /market-us, a live US storefront (nav: New In, Brands, Bestsellers, Dresses, Tops, Co-ords, Bottoms, SALE). Page title text: 'Shop the latest trends at Missguided. Style for the extraordinary.' Footer: '© MISSGUIDED-ALL RIGHTS RESERVED', no company name.",

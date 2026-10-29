@@ -9,7 +9,8 @@
     "https://us.shein.com/Women-Dresses-c-1727.html"
   ],
   "notes": [
-    "2026-10-29 (charlotte-russe run): the US dresses page redirects to /risk/action/limit (a bot check) for curl, and WebFetch got only the meta description. Not worked around."
+    "2026-10-29 (charlotte-russe run): the US dresses page redirects to /risk/action/limit (a bot check) for curl, and WebFetch got only the meta description. Not worked around.",
+    "2026-10-29 (stores-like-primark run, C tops = women's tops and T-shirts): women's tops page https://us.shein.com/Women-Tops-c-1766.html returned only the site description to WebFetch, no products. One try, no workaround; no tops price or sells_categories."
   ],
   "checked_at": "2026-10-29"
 }

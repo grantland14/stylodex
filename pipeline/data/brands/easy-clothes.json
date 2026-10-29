@@ -1,0 +1,61 @@
+{
+  "slug": "easy-clothes",
+  "name": "Easy Clothes",
+  "website_url": "https://www.easy-clothes.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": null,
+  "ships_to": [
+    "FR",
+    "BE",
+    "CH",
+    "ES",
+    "DE",
+    "AT",
+    "BA",
+    "BG",
+    "CY",
+    "HR",
+    "DK",
+    "EE",
+    "VA",
+    "FI",
+    "GR",
+    "GP",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "RE",
+    "LV",
+    "LT",
+    "LU",
+    "MT",
+    "MQ",
+    "MC",
+    "NO",
+    "NL",
+    "PL",
+    "PT",
+    "RO",
+    "GB",
+    "SK",
+    "SI",
+    "SE",
+    "CZ"
+  ],
+  "us_stores": null,
+  "prices": [],
+  "sells_categories": [
+    "jeans"
+  ],
+  "sources": [
+    "https://www.easy-clothes.com/",
+    "https://www.easy-clothes.com/collections/jeans/products.json?limit=250",
+    "https://www.discobrands.co/blogs/18-brands-like-cotton-on"
+  ],
+  "notes": [
+    "2026-10-29 (cotton-on page run): French-language Shopify store, live; /collections/jeans feed has 53 jeans at €34–€55, none marked down (e.g. Jeans Hugues €34). Checkout shipping-country list covers France, Belgium and 35 other European countries; no United States, Canada or Australia. Not a pick for US pages. Prices not stored (no US shipping, no FX needed)."
+  ],
+  "checked_at": "2026-10-29"
+}

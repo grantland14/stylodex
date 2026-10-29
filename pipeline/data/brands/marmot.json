@@ -1,0 +1,61 @@
+{
+  "slug": "marmot",
+  "name": "Marmot",
+  "website_url": "https://www.marmot.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Outdoor Clothing and Gear",
+  "hq_country": "US",
+  "founded_year": 1974,
+  "parent_company": "Newell Brands",
+  "size_range": "S–XXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "USD",
+      "min": 110,
+      "max": 650,
+      "min_usd": 110,
+      "max_usd": 650,
+      "fx_date": null,
+      "item_count": 46,
+      "source_url": "https://www.marmot.com/c/marmot-men-jackets",
+      "checked_at": "2026-10-29",
+      "note": "Men's Jackets listing, all 4 pages (offset 0/24/48/72), 83 products read from the page's embedded search hits; fleece, vests, half-zips, shirt jackets, hoodies-as-sweatshirts, beanie, toy and suit excluded: 46 jackets/parkas/hoodies, all priceType 'List' (pricebook marmot-us-list-prices), none marked down. Low: Men's Tempo Softshell Jacket $110; Men's Cascade Rain Jacket $120; Men's PreCip Eco Rain Jacket $135; mid: Men's Guides Down 2.0 Jacket $275, Men's GridLite Down Jacket $300, Men's Yukon Down Parka $400; high: Men's GORE-TEX Orion Jacket $530, Men's GORE-TEX Mammoth Down Parka $650."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "coats-jackets"
+  ],
+  "sources": [
+    "https://www.marmot.com/",
+    "https://www.marmot.com/c/marmot-men-jackets",
+    "https://www.marmot.com/Support-Show?cfid=shipping-delivery",
+    "https://www.marmot.com/Support-Show?cfid=returns",
+    "https://www.marmot.com/our_story.html",
+    "https://www.marmot.com/store-locator.html",
+    "https://en.wikipedia.org/wiki/Marmot_(company)"
+  ],
+  "notes": [
+    "Homepage title 'Marmot: Outdoor Clothing & Gear Made for Adventure' (https://www.marmot.com/).",
+    "Shipping page: 'we are only accepting orders to the United States at this time'; FedEx Standard $8 (2–10 business days); free shipping only for Marmot Rewards members on orders $49+, so free_shipping_min_usd left empty (https://www.marmot.com/Support-Show?cfid=shipping-delivery).",
+    "Returns: 'All other purchases may be returned within 30 days of purchase date'; 'Returns are free via FedEx through the Marmot Return Portal'; Nov 15–Dec 31 purchases returnable to Jan 31 (https://www.marmot.com/Support-Show?cfid=returns).",
+    "Men's jackets listing variant data: sizes S, M, L, XL, XXL on 56 jacket/parka/hoody listings, XS on one (https://www.marmot.com/c/marmot-men-jackets).",
+    "Store locator is a 'Locally' dealer finder with no own stores listed; us_stores left empty (https://www.marmot.com/store-locator.html).",
+    "Our Story: 'It all started on an Alaskan glacier', founders Dave Huntley and Eric Reynolds (UC Santa Cruz), club formed 1971 (https://www.marmot.com/our_story.html). Wikipedia: established 1974 in Grand Junction, Colorado; HQ Rohnert Park, California; part of Newell Brands since 2016 (https://en.wikipedia.org/wiki/Marmot_(company))."
+  ],
+  "checked_at": "2026-10-29"
+}

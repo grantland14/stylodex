@@ -1,0 +1,60 @@
+{
+  "slug": "stio",
+  "name": "Stio",
+  "website_url": "https://www.stio.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Technical Mountain Apparel",
+  "hq_country": "US",
+  "founded_year": 2011,
+  "parent_company": null,
+  "size_range": "S–XXL; XXXL on about half",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 99,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "USD",
+      "min": 129,
+      "max": 799,
+      "min_usd": 129,
+      "max_usd": 799,
+      "fx_date": null,
+      "item_count": 21,
+      "source_url": "https://www.stio.com/collections/mens-jackets/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Shopify collection feed mens-jackets (StylodexBot UA): 31 products; vests, pants and the Wilcox Fleece Jacket excluded; 21 jackets at regular price, none with compare_at_price above price. Low: Men's Second Light Windshell $129; Men's Modis Hooded Jacket $179; Men's Azura Insulated Jacket $229; mid: Men's Pinion Down Hooded Jacket $299, Men's Hometown Down Hooded Jacket $379, Men's Colter Down Jacket $449; high: Men's Shot 7 Down Jacket $699, Men's Objective Pro Jacket $799."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "coats-jackets"
+  ],
+  "sources": [
+    "https://www.stio.com/",
+    "https://www.stio.com/collections/mens-jackets/products.json",
+    "https://stio.com/pages/about-us",
+    "https://stio.com/pages/shipping",
+    "https://stio.com/pages/shipping-returns",
+    "https://stio.com/pages/store-locator"
+  ],
+  "notes": [
+    "About: 'Since 2011, our crew has been living, skiing, riding, designing, and developing products' in 'our hometown of Jackson, WY'; Stephen Sullivan Founder/CEO; 'premium, technical apparel for mountain athletes' (https://stio.com/pages/about-us).",
+    "Shipping: free economy shipping on US orders over $99, $10 under; Canada $65 flat-rate FedEx International Economy; other countries 'contact us' (https://stio.com/pages/shipping).",
+    "Returns: within 30 days of the order date, free for standard online orders; Stiosphere orders $5 return fee (https://stio.com/pages/shipping-returns).",
+    "Store locator didn't render its store list; us_stores left empty (https://stio.com/pages/store-locator).",
+    "mens-jackets products.json size options: Small–Extra Extra Large on all 31, Extra Extra Extra Large on 15, Extra Small on 8 (https://www.stio.com/collections/mens-jackets/products.json)."
+  ],
+  "checked_at": "2026-10-29"
+}

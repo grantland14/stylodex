@@ -22,7 +22,8 @@
   "prices": [],
   "sells_categories": [
     "dresses",
-    "tops"
+    "tops",
+    "jeans"
   ],
   "materials": [],
   "certifications": [],
@@ -35,7 +36,8 @@
     "https://www.prettylittlething.us/pages/informational/size-guide",
     "https://www.prettylittlething.us/pages/informational/about-us",
     "https://en.wikipedia.org/wiki/Boohoo_Group",
-    "https://www.prettylittlething.us/clothing/tops.html"
+    "https://www.prettylittlething.us/clothing/tops.html",
+    "https://www.prettylittlething.us/categories/womens-jeans"
   ],
   "notes": [
     "Dresses page (/clothing/dresses.html redirects to /categories/womens-dresses): heading 'Dresses for Women', 'our latest edit of women's dresses has officially landed'; product grid loads client-side, so no prices rendered (no price row). Banners: '70% OFF EVERYTHING*', 'DISCOUNTS MAY NOT BE BASED ON FORMER PRICES'.",
@@ -43,7 +45,8 @@
     "Returns: 'You've got 21 days to send something back'; 'a returns charge of $14.99 per parcel will be deducted from your refund amount'; store credit option pays 10% extra.",
     "Size guide (US/CA): main 0–14, petite 00–12, tall 0–14, shape 0–16, plus 12–24 (L–3XL); maternity range too.",
     "About: 'Founded in Manchester', 2012, brothers Adam and Umar Kamani; HQs in London and Paris; 'the generation-defining style source for every kind of IT girl'. Parent: Boohoo Group (Wikipedia infobox lists PrettyLittleThing among its brands).",
-    "2026-10-29 (stores-like-white-fox run): US 'Women's Tops' category page is live (heading, filters, banners incl. '70% OFF EVERYTHING*'), but the product grid loads client-side, so no prices rendered to WebFetch. Tops recorded in sells_categories from the store's own category page; no tops price row."
+    "2026-10-29 (stores-like-white-fox run): US 'Women's Tops' category page is live (heading, filters, banners incl. '70% OFF EVERYTHING*'), but the product grid loads client-side, so no prices rendered to WebFetch. Tops recorded in sells_categories from the store's own category page; no tops price row.",
+    "2026-10-29 (cotton-on page run, C jeans): US 'Jeans for Women' category page is live (intro 'Jeans are the ultimate style staple...', Shop by Fit: Plus Size, Petite, Tall and Shape Jeans; banners '70% OFF EVERYTHING*'), product grid loads client-side, so no prices rendered. Jeans recorded in sells_categories from the store's own category page; no jeans price row."
   ],
   "checked_at": "2026-10-29"
 }

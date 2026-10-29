@@ -1,0 +1,14 @@
+{
+  "slug": "pact",
+  "name": "Pact",
+  "website_url": "https://wearpact.com",
+  "status": "unverified",
+  "kind": "brand",
+  "sources": [
+    "https://wearpact.com"
+  ],
+  "notes": [
+    "2026-10-29: wearpact.com homepage renders only its title ('Pact | Dress Yourself Well') to WebFetch and a plain request; no categories readable, products.json not served. Jeans not confirmed; unverified."
+  ],
+  "checked_at": "2026-10-29"
+}

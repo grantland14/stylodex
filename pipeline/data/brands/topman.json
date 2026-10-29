@@ -1,0 +1,15 @@
+{
+  "slug": "topman",
+  "name": "Topman",
+  "website_url": "https://www.topshop.com/gb/topman",
+  "status": "unverified",
+  "kind": "brand",
+  "sources": [
+    "https://www.topshop.com/gb/topman",
+    "https://en.wikipedia.org/wiki/Topshop"
+  ],
+  "notes": [
+    "2026-10-29: www.topman.com redirects to topshop.com/gb/topman, which refused a plain request and returned 503 to WebFetch. Wikipedia (Topshop): acquired by ASOS in 2021 and converted to online-only; owners Bestseller 75%, ASOS 25%. US availability unconfirmed; unverified."
+  ],
+  "checked_at": "2026-10-29"
+}

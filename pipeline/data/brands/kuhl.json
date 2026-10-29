@@ -1,0 +1,56 @@
+{
+  "slug": "kuhl",
+  "name": "KÜHL",
+  "website_url": "https://www.kuhl.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Hiking Pants and Mountain Wear",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "S–XXXL; some jackets in Tall",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": true,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 45,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "USD",
+      "min": 149,
+      "max": 699,
+      "min_usd": 149,
+      "max_usd": 699,
+      "fx_date": null,
+      "item_count": 46,
+      "source_url": "https://www.kuhl.com/kuhl/mens/jackets/",
+      "checked_at": "2026-10-29",
+      "note": "Men's Jackets & Coats page, 49 items in the page's ItemList (JSON-LD offers, USD); Impakt Vest and two Shirt-Jacs (Deviatr $129, Relentr $149) excluded: 46 jackets, parkas and hooded jackets, no markdown shown on any card. Low: Burr Jacket $149; Burr Lined Jacket $169; The Outlaw Waxed Jacket $179; mid: Stretch Voyagr Jacket $199, Arktik Jacket $349; high: Arktik Down Parka $599, Skyfire Parka $599, Ükon Down Parka $699."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "coats-jackets"
+  ],
+  "sources": [
+    "https://www.kuhl.com/",
+    "https://www.kuhl.com/kuhl/mens/jackets/",
+    "https://www.kuhl.com/content/return/",
+    "https://www.kuhl.com/content/retail-stores/"
+  ],
+  "notes": [
+    "Homepage meta: 'Shop the official KÜHL online store for the highest quality hiking pants and shorts, performance shirts, outerwear, and outdoor clothing. Stylish mountain wear!'; banner 'Enjoy Free Shipping on Orders $100+' (https://www.kuhl.com/).",
+    "Returns: 45 days after purchase (Oct 20–Dec 24 2026 purchases to Jan 30 2027); $7.50 deducted for the prepaid label; Quick Returns lower 48 only (https://www.kuhl.com/content/return/). Countries shipped to not stated; US site only recorded.",
+    "Retail stores page: Boston, Boulder, Jackson Hole, Seattle, San Francisco, Park City; corporate address Salt Lake City, UT in the page's Organization data (https://www.kuhl.com/content/retail-stores/).",
+    "Jackets page size facet: S 46, M 47, L 46, XL 47, XXL 47, XXXL 19 of 49 items; Impakt Jacket Tall and Impakt Insulated Jacket Tall listed (https://www.kuhl.com/kuhl/mens/jackets/)."
+  ],
+  "checked_at": "2026-10-29"
+}

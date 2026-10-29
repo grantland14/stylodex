@@ -24,7 +24,8 @@
     "https://shop.mango.com/us/en/c/women/dresses-and-jumpsuits/dresses_b4864b2e"
   ],
   "notes": [
-    "https://shop.mango.com/us/en/c/women/dresses-and-jumpsuits/dresses_b4864b2e returned HTTP 403 to WebFetch on 2026-10-29. Status unverified; nothing else stored."
+    "https://shop.mango.com/us/en/c/women/dresses-and-jumpsuits/dresses_b4864b2e returned HTTP 403 to WebFetch on 2026-10-29. Status unverified; nothing else stored.",
+    "2026-10-29 (stores-like-primark run, C tops = women's tops and T-shirts): women's tops page https://shop.mango.com/us/en/c/women/tops_8b7d5d33 returned HTTP 403 to WebFetch. One try, no workaround; no tops price or sells_categories."
   ],
   "checked_at": "2026-10-29"
 }

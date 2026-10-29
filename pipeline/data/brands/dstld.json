@@ -1,0 +1,14 @@
+{
+  "slug": "dstld",
+  "name": "DSTLD",
+  "website_url": "https://www.dstld.la",
+  "status": "unverified",
+  "kind": "brand",
+  "sources": [
+    "https://www.dstld.la"
+  ],
+  "notes": [
+    "2026-10-29: dstld.com redirects to dstld.la; homepage live ('WE SEPARATE THE NECESSARY FROM THE UNNECESSARY.', free shipping banner) but the women's denim collection reads 'Collection DSTLD WOMENS DENIM is empty' and /products.json returns no products. Nothing on sale to price; unverified."
+  ],
+  "checked_at": "2026-10-29"
+}

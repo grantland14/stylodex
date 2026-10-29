@@ -10,7 +10,8 @@
   "sells_categories": [
     "womens-clothing",
     "jeans",
-    "dresses"
+    "dresses",
+    "tops"
   ],
   "ships_to": [
     "US"
@@ -41,6 +42,19 @@
       "source_url": "https://www.target.com/c/dresses-women-s-clothing/-/N-5xtcg",
       "checked_at": "2026-10-29",
       "note": "Women's Dresses page (WebFetch): 10,191 results; first 15 tiles read, 14 at regular price, 1 clearance (A New Day V-Neck Midi Dress $32, reg $40). Low Wild Fable Women's Flocked Dot Ruffle Mini Dress and Portrait Neck Mini Dress $28; high A New Day Faux Suede Drop Waist Midi Dress $52. A first-page sample, not the full range."
+    },
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 8.0,
+      "max": 28.0,
+      "min_usd": 8.0,
+      "max_usd": 28.0,
+      "fx_date": null,
+      "item_count": 8,
+      "source_url": "https://www.target.com/c/tops-women-s-clothing/-/N-5xtbq",
+      "checked_at": "2026-10-29",
+      "note": "WebFetch of the Women's Tops listing, page 1 (111,472 results; 24 tiles read): a sample, not the whole range. Regular price = one listed price with no clearance, sale or 'reg' flag. Kept 8 tops: Women's Short Sleeve Iconic V-Neck T-Shirt - Universal Thread $8, Women's Short Sleeve Perfect T-Shirt - A New Day $8, Women's Slim Fit Long Sleeve Crewneck T-Shirt - Wild Fable $12, Women's Banded Long Sleeve Off the Shoulder Top - Wild Fable $15, Women's Vintage Raglan Sleeve Baseball Shirt - Universal Thread $18, Women's Cap Short Sleeve V-Neck Lace Button-Up Blouse - Wild Fable $22, Women's Long Sleeve Triangle Flyaway Top - Wild Fable $25, Women's Short Sleeve High Neck Mesh T-Shirt - A New Day $28. Excluded: 3 clearance tiles (from $5.60) and 13 sweaters, sweatshirts, hoodies, cardigans and a poncho."
     }
   ],
   "materials": [],
@@ -51,12 +65,14 @@
     "https://corporate.target.com/about",
     "https://www.target.com/c/jeans-women-s-clothing/-/N-5xtc8",
     "https://www.target.com/returns",
-    "https://www.target.com/c/dresses-women-s-clothing/-/N-5xtcg"
+    "https://www.target.com/c/dresses-women-s-clothing/-/N-5xtcg",
+    "https://www.target.com/c/tops-women-s-clothing/-/N-5xtbq"
   ],
   "notes": [
     "2026-10-29: target.com women's clothing page readable. Owned brands shown: All In Motion, A New Day, Auden, Ava & Viv, JoyLab, KBB by Kahlana, Shade & Shore, Universal Thread, Wild Fable; national brands in filters incl. Levi's, Lucky Brand, Lee, Hanes, Champion. Products at regular price: Women's High-Rise Vintage Straight Jeans - Universal Thread $38.00; Women's Mid-Rise Boyfriend Jeans - Universal Thread $40.00; Levi's Women's High-Rise Cinch Baggy Jeans $74.99; Women's High-Rise Ponte Barrel Pants - A New Day $30.00 (a sample of 24 items, not a full range, so no price row stored). Returns page: 'Target Owned Brand items' returnable for one year with a receipt. corporate.target.com/about: '2,000+' US stores, 'stores in all 50 states and the District of Columbia'; '45+' owned brands; 'From our exclusive only-at-Target products to the national brands our guests expect'.",
     "2026-10-29 (old-navy page run): returns page (target.com/returns): '90 days for most items sold by Target'; '365 days for Target brand items with a receipt'; Circle members get 'an extra 30 days' (wording cut off). The page also shows an unqualified '30 days for most items' line; 90 stored as the stated window for most items sold by Target. ships_to US: US storefront in USD; corporate.target.com: 'shop Target in stores, online or delivered to your home'. No free-shipping threshold found.",
-    "2026-10-29 (charlotte-russe run, C dresses): dresses page lists A New Day, Wild Fable, Universal Thread and KBB by Kahlana dresses, and has a 'Target Brands' filter."
+    "2026-10-29 (charlotte-russe run, C dresses): dresses page lists A New Day, Wild Fable, Universal Thread and KBB by Kahlana dresses, and has a 'Target Brands' filter.",
+    "2026-10-29 (stores-like-primark run, C tops = women's tops and T-shirts): Women's Tops listing read by WebFetch; owned labels on the tops shown: A New Day, Universal Thread, Wild Fable, KBB by Kahlana."
   ],
   "checked_at": "2026-10-29",
   "returns_days": 90

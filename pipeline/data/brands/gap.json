@@ -30,6 +30,19 @@
       "source_url": "https://www.gap.com/browse/women/jeans?cid=5664",
       "checked_at": "2026-10-29",
       "note": "Gap Inc. product API that the category page itself calls (commerceProductsSearchUrl in the page source), read with curl and the StylodexBot UA. Women's jeans only (shorts, overalls, skirts, jackets, shirts, pants and capris excluded). Price = the store's regularPrice for colorways not marked down: priceType R, or P (a temporary promotion) without a markdown flag; priceType M and colorways flagged 'price as marked', clearance or final sale excluded. Women's jeans cid=5664, brand=gap, pages 0-6 (webProductType 'womens jeans' and 'petite jeans' kept, men's dropped). 40 styles: $79.95 (Curvy High Rise Stride Wide-Leg Ankle, High Rise Cheeky Straight) to $99.95 (some Low Rise '90s Loose and Long & Lean washes); 38 colorway prices at $89.95 (e.g. High Rise '70s Flare, The Hailey Extra Baggy Jean). Kept items carried a '60% off: limited time' promo flag."
+    },
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 19.95,
+      "max": 89.95,
+      "min_usd": 19.95,
+      "max_usd": 89.95,
+      "fx_date": null,
+      "item_count": 35,
+      "source_url": "https://www.gap.com/browse/women/shirts-and-tops?cid=34608",
+      "checked_at": "2026-10-29",
+      "note": "Gap Inc. product API (StylodexBot UA), women's Shirts & Tops (cid 34608, 2 pages) and T-Shirts & Tanks (cid 17076, 5 pages): 117 women's styles typed '(petite|womens) (long-sleeved|short-sleeved|sleeveless) (shirts|tees)' (Gap types its women's range as 'petite'; men's tees, polos, bras, sleepwear and jackets excluded). Regular = regularPrice of in-stock colorways with priceType R, or P without a markdown, clearance or final-sale flag; 35 styles qualify. Low Modern Crop Cami $19.95 (some colors $24.95); Rib Scoop Tank Top $24.95; Organic Cotton VintageSoft T-Shirt $29.95; high Corduroy Fitted Shirt, Corduroy Big Shirt and Vegan Suede Relaxed Shirt $89.95."
     }
   ],
   "materials": [],
@@ -49,7 +62,10 @@
     "https://api.gap.com/commerce/search/products/v2/cc?cid=5664&brand=gap&market=us&locale=en_US&pageSize=200&pageNumber=0&department=136",
     "https://oldnavy.gap.com/static_content/onesitecategory/components/webAssets/oldnavyprod/customerService/json/returns_faq_092926.json",
     "https://www.gapinc.com/en-us/about",
-    "https://api.gap.com/commerce/search/products/v2/cc?cid=13658&brand=gap&market=us&locale=en_US&pageSize=200&pageNumber=0"
+    "https://api.gap.com/commerce/search/products/v2/cc?cid=13658&brand=gap&market=us&locale=en_US&pageSize=200&pageNumber=0",
+    "https://www.gap.com/browse/women/shirts-and-tops?cid=34608",
+    "https://www.gap.com/browse/women/t-shirts-and-tanks?cid=17076",
+    "https://api.gap.com/commerce/search/products/v2/cc?cid=34608&brand=gap&market=us&locale=en_US&pageSize=200&pageNumber=0"
   ],
   "notes": [
     "https://www.gap.com/browse/women/dresses?cid=13658 loaded with '0 of 0 items' (product grid didn't render) to WebFetch on 2026-10-29. Status unverified; nothing else stored.",
@@ -64,6 +80,7 @@
   "us_stores": true,
   "sells_categories": [
     "jeans",
-    "dresses"
+    "dresses",
+    "tops"
   ]
 }
