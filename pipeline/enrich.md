@@ -47,5 +47,8 @@ Write `data/brands/{slug}.json` with the `stylodex.brands` columns:
 A candidate becomes a pick only if: `status = verified`, it sells C, it ships to the US, it has ≥1 outside source,
 and there is one **specific, checkable reason** built from stored facts (price, material, fit,
 origin, aesthetic as the brand itself states it). Mood-only reasons ("similar vibe") fail.
-Rank by number of independent sources, then closeness of price range. Keep 6–12.
+Rank by number of independent sources, then closeness of price range. **Target 10–15 picks**
+(Ash, 2026-10-29): page-one lists run 10–15 (Jaded London's top results: 10, 10, 11, 13, 15), so
+aim to beat the biggest one on page one where real picks exist. Never pad: the title shows the
+real count, and 6 is the floor for indexing.
 Record rejected candidates with the reason, so a re-run doesn't re-check them blind.

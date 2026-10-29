@@ -13,7 +13,8 @@ source you fetched, with its URL. Nothing estimated, nothing from memory.
 ## Steps
 1. **Enrich** (`enrich.md` §1–§3): category C (a product type), SERP evidence for the four
    keywords (Ahrefs `serp-overview`, at most 4 calls), co-stocking, candidate pool (read-only
-   SQL on `public.brand_relationships`), verify the anchor and up to 15 candidates, pick 6–12.
+   SQL on `public.brand_relationships`), verify the anchor and up to 25 candidates (most-sourced first), pick 10–15 (never pad; 6 is
+   the floor).
 2. **Write** (`write.md`): intro, one body per renderable pick, FAQ from one Ahrefs
    `keywords-explorer-matching-terms` call (questions only), author "Ash", self-review file.
 3. **Check**: run `node -e` or a short tsx script that loads the page through

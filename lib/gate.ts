@@ -5,7 +5,7 @@
 import type { Brand, BrandsLikePage, CategoryPrice, PriceRelation, SimilarPick } from "./types";
 
 export const MIN_PICKS = 6;
-export const MAX_PICKS = 12;
+export const MAX_PICKS = 15;
 export const RECHECK_DAYS = 90;
 const MIN_REASON_CHARS = 40;
 const DAY_MS = 24 * 60 * 60 * 1000;
