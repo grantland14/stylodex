@@ -19,6 +19,17 @@ export interface CategoryPrice {
   checkedAt: string;
 }
 
+/** A product photo from the brand's own store, linked through /go/ to that product. */
+export interface ProductShot {
+  category: string;
+  imageUrl: string;
+  title: string;
+  /** Path on the brand's own store, e.g. /products/handle; /go/ only allows same-host deep links. */
+  productPath: string;
+  price: number;
+  currency: string;
+}
+
 export interface Brand {
   id: string;
   slug: string;
@@ -29,6 +40,7 @@ export interface Brand {
   knownFor: string | null;
   hqCountry: string | null;
   foundedYear: number | null;
+  parentCompany: string | null;
   sizeRange: string | null;
   hasPlus: boolean | null;
   hasPetite: boolean | null;
@@ -43,6 +55,7 @@ export interface Brand {
   imageUrl: string | null;
   verifiedAt: string | null;
   prices: CategoryPrice[];
+  productShots: ProductShot[];
 }
 
 export interface Evidence {

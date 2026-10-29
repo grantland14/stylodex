@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { test } from "node:test";
-import { evidenceLine, priceRange, priceWithUsd } from "./format";
+import { countryName, evidenceLine, money, priceRange, priceWithUsd } from "./format";
 
 test("prices show in the store's own currency", () => {
   const base = { category: "denim", sourceUrl: "", checkedAt: "", minUsd: 0, maxUsd: 0 };
@@ -25,4 +25,11 @@ test("evidence shows each source site once, with what kind of source it is", () 
     "discobrands.co (list), dollskill.com (stocks both)",
   );
   assert.equal(evidenceLine([]), null);
+});
+
+test("money and country names", () => {
+  assert.equal(money(99.95, "USD"), "$99.95");
+  assert.equal(money(80, "GBP"), "£80");
+  assert.equal(countryName("GB"), "United Kingdom");
+  assert.equal(countryName(null), null);
 });

@@ -11,7 +11,13 @@ How a "brands like X" page goes from a keyword to rows in Supabase. Every step w
 | 3. Verify brands | each candidate + the anchor | `data/brands/{slug}.json` | agent, `enrich.md` §2 |
 | 4. Pick | candidates + brand facts | `data/pages/{slug}.json` → `picks` | agent, `enrich.md` §3, then `lib/gate.ts` |
 | 5. Write | page JSON | intro, per-pick body, FAQ + review | agent, `write.md` (wildcard-seo references, read-only) |
+| 5b. Media | brand files, page files | `public/img/brands/`, `public/img/products/`, `data/images.json`, `data/product-images.json` | `node pipeline/images.mjs`, `node pipeline/product-images.mjs` |
 | 6. Load | reviewed JSON | `stylodex.*` rows | script, after Ash's review |
+
+Media rules: brand share images (`og:image`) come from the brand's own homepage; product photos
+come from the category collection feed recorded in the brand file, regular-price items only, each
+linking through `/go/` to that product. One honest User-Agent (`StylodexBot`), no workarounds: a
+store that refuses us gets no image. Files live in the repo for now (≈30 KB each, WebP).
 
 ## Rules that bind every step
 - **Outside evidence only.** apartstyle.com never counts as a source, and no Apart Style text is

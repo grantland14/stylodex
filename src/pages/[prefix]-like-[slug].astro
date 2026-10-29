@@ -4,6 +4,7 @@
 // other prefixes 404. Never change a page's url_prefix once it is indexed.
 import type { GetStaticPaths } from "astro";
 import ArrowUpRight from "../components/ArrowUpRight.astro";
+import ProductStrip from "../components/ProductStrip.astro";
 import Base from "../layouts/Base.astro";
 import { authorByName } from "@/lib/authors";
 import { listAlternativesPages } from "@/lib/data";
@@ -36,6 +37,9 @@ const author = authorByName(page.author);
 const authorUrl = author ? new URL(`/authors/${author.slug}`, Astro.site).href : undefined;
 const PRICE_LABEL = { cheaper: "Cheaper", similar: "Similar price", pricier: "Pricier" } as const;
 
+const shotsFor = (pick: SimilarPick) => pick.brand.productShots.filter((s) => s.category === category);
+// A brand image only stands in when there are no product photos for this category.
+const sideImage = (pick: SimilarPick) => (shotsFor(pick).length === 0 ? pick.brand.imageUrl : null);
 const shopHref = (pick: SimilarPick) => `/go/${pick.brand.slug}?from=${encodeURIComponent(path)}`;
 const facts = (pick: SimilarPick) =>
   [
@@ -155,11 +159,11 @@ if (page.faqs.length > 0) {
         picks.map((pick, i) => (
           <li
             id={pick.brand.slug}
-            class:list={["scroll-mt-6 border-t border-rule py-10", pick.brand.imageUrl && "md:grid md:grid-cols-[13rem_1fr] md:gap-8"]}
+            class:list={["scroll-mt-6 border-t border-rule py-10", sideImage(pick) && "md:grid md:grid-cols-[13rem_1fr] md:gap-8"]}
           >
-            {pick.brand.imageUrl && (
+            {sideImage(pick) && (
               <img
-                src={pick.brand.imageUrl}
+                src={sideImage(pick)!}
                 alt={pick.brand.name}
                 loading={i < 2 ? "eager" : "lazy"}
                 width="416"
@@ -167,7 +171,7 @@ if (page.faqs.length > 0) {
                 class="aspect-square w-full bg-soft object-cover md:w-52"
               />
             )}
-            <div class:list={[pick.brand.imageUrl && "mt-5 md:mt-0"]}>
+            <div class:list={[sideImage(pick) && "mt-5 md:mt-0"]}>
               <p class="eyebrow">No. {i + 1}</p>
               <h2 class="mt-1 text-2xl font-medium tracking-tight">{pick.brand.name}</h2>
               <ul class="mt-4 flex flex-wrap gap-2" aria-label={`${pick.brand.name} at a glance`}>
@@ -175,6 +179,11 @@ if (page.faqs.length > 0) {
                   <li class="chip">{fact}</li>
                 ))}
               </ul>
+              {shotsFor(pick).length > 0 && (
+                <div class="mt-5">
+                  <ProductStrip brandSlug={pick.brand.slug} brandName={pick.brand.name} shots={shotsFor(pick)} from={path} />
+                </div>
+              )}
               <p class="mt-5 leading-relaxed">{pick.pair.body}</p>
               {evidenceLine(pick.pair.evidence) && (
                 <p class="mt-3 text-xs text-muted">Also recommended alongside {page.anchor.name} by: {evidenceLine(pick.pair.evidence)}</p>

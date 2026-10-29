@@ -6,6 +6,21 @@ export function usd(amount: number): string {
   return `$${Math.round(amount).toLocaleString("en-US")}`;
 }
 
+export function money(amount: number, currency: string): string {
+  return new Intl.NumberFormat("en-US", { style: "currency", currency, maximumFractionDigits: amount % 1 ? 2 : 0 }).format(amount);
+}
+
+const REGIONS = new Intl.DisplayNames(["en"], { type: "region" });
+/** ISO country code to name: "GB" → "United Kingdom". */
+export function countryName(code: string | null): string | null {
+  if (!code) return null;
+  try {
+    return REGIONS.of(code.toUpperCase()) ?? code;
+  } catch {
+    return code;
+  }
+}
+
 /** The store's own prices, e.g. "$48–$56" or "£40–£95". */
 export function priceRange(price: CategoryPrice | undefined): string | null {
   if (!price) return null;

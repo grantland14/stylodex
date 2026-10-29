@@ -1,0 +1,42 @@
+---
+// Product photos from a brand's own store. Each links through /go/ to that product,
+// so clicks are logged and wrapped like every other shop link.
+import { money } from "@/lib/format";
+import type { ProductShot } from "@/lib/types";
+
+interface Props {
+  brandSlug: string;
+  brandName: string;
+  shots: ProductShot[];
+  /** Page the click came from, for the click log. */
+  from: string;
+  max?: number;
+}
+
+const { brandSlug, brandName, shots, from, max = 3 } = Astro.props;
+const href = (s: ProductShot) =>
+  `/go/${brandSlug}?from=${encodeURIComponent(from)}&to=${encodeURIComponent(s.productPath)}`;
+---
+
+{
+  shots.length > 0 && (
+    <ul class="grid grid-cols-3 gap-2 sm:gap-3" aria-label={`From ${brandName}'s store`}>
+      {shots.slice(0, max).map((s) => (
+        <li>
+          <a href={href(s)} rel="sponsored nofollow" class="group block no-underline">
+            <img
+              src={s.imageUrl}
+              alt={s.title}
+              width="600"
+              height="750"
+              loading="lazy"
+              class="aspect-[4/5] w-full bg-soft object-cover transition-opacity group-hover:opacity-90"
+            />
+            <span class="mt-2 line-clamp-2 block text-xs leading-snug text-ink">{s.title}</span>
+            <span class="mt-0.5 block text-xs text-muted">{money(s.price, s.currency)}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  )
+}

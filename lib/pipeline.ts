@@ -4,7 +4,7 @@
 
 import { existsSync, readdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
-import type { Brand, BrandsLikePage, CategoryPrice, Evidence, SimilarPick, UrlPrefix } from "./types";
+import type { Brand, BrandsLikePage, CategoryPrice, Evidence, ProductShot, SimilarPick, UrlPrefix } from "./types";
 
 const DATA = join(process.cwd(), "pipeline", "data");
 
@@ -13,7 +13,33 @@ function readJson(path: string): any {
   return JSON.parse(readFileSync(path, "utf8"));
 }
 
-export function brandFromJson(slug: string, j: any): Brand {
+/** Media from pipeline/images.mjs and pipeline/product-images.mjs, keyed by brand slug. */
+export interface Media {
+  images: Record<string, any>;
+  products: Record<string, Record<string, any>>;
+}
+
+export function loadMedia(dataDir = DATA): Media {
+  const read = (f: string) => (existsSync(join(dataDir, f)) ? readJson(join(dataDir, f)) : {});
+  return { images: read("images.json"), products: read("product-images.json") };
+}
+
+function shotsFor(slug: string, media: Media): ProductShot[] {
+  return Object.entries(media.products[slug] ?? {}).flatMap(([category, r]: [string, any]) =>
+    r?.status === "ok"
+      ? (r.items ?? []).map((i: any) => ({
+          category,
+          imageUrl: i.path,
+          title: i.title,
+          productPath: i.product_path,
+          price: Number(i.price),
+          currency: i.currency ?? "USD",
+        }))
+      : [],
+  );
+}
+
+export function brandFromJson(slug: string, j: any, media: Media = { images: {}, products: {} }): Brand {
   return {
     id: `pipeline-${slug}`,
     slug,
@@ -24,6 +50,7 @@ export function brandFromJson(slug: string, j: any): Brand {
     knownFor: j.known_for ?? null,
     hqCountry: j.hq_country ?? null,
     foundedYear: j.founded_year ?? null,
+    parentCompany: j.parent_company ?? null,
     sizeRange: j.size_range ?? null,
     hasPlus: j.has_plus ?? null,
     hasPetite: j.has_petite ?? null,
@@ -35,8 +62,9 @@ export function brandFromJson(slug: string, j: any): Brand {
     certifications: j.certifications ?? [],
     productionModel: j.production_model ?? null,
     salePattern: j.sale_pattern ?? null,
-    imageUrl: j.image_url ?? null,
+    imageUrl: j.image_url ?? (media.images[slug]?.status === "ok" ? media.images[slug].path : null),
     verifiedAt: j.verified_at ?? null,
+    productShots: shotsFor(slug, media),
     prices: (j.prices ?? [])
       .filter((p: any) => p.min != null && p.max != null && p.min_usd != null && p.max_usd != null)
       .map(
@@ -91,10 +119,11 @@ export function pipelinePages(dataDir = DATA): BrandsLikePage[] {
   const brandsDir = join(dataDir, "brands");
   const pagesDir = join(dataDir, "pages");
   if (!existsSync(brandsDir) || !existsSync(pagesDir)) return [];
+  const media = loadMedia(dataDir);
   const brands = new Map<string, Brand>();
   for (const file of readdirSync(brandsDir).filter((f) => f.endsWith(".json"))) {
     const slug = file.replace(/\.json$/, "");
-    brands.set(slug, brandFromJson(slug, readJson(join(brandsDir, file))));
+    brands.set(slug, brandFromJson(slug, readJson(join(brandsDir, file)), media));
   }
   return readdirSync(pagesDir)
     .filter((f) => f.endsWith(".json"))

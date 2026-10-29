@@ -84,8 +84,13 @@ Progress 2026-10-28:
       pass done, deployed in pipeline mode: `vercel deploy -b STYLODEX_DATA=pipeline -b
       STYLODEX_FIXTURES=0 -e …` (2026-10-29). Not publishable yet: G13 Medium, and G6/G9/G10
       blocked until a person checks jadedldn.com (`human_check` in the page file)
-- [ ] Brand images: none yet; the gate needs `/img/…` for the anchor. Source and re-host into
-      `stylodex-images` (needs a server-side upload path: service key or Storage API)
+- [x] Images (2026-10-29): brand share images (18 of 32 brands; many are logos) and 3 product
+      photos per pick from each store's own collection feed, served from `/img/` in the repo
+- [x] Brand pages richer: product strip, grouped facts (prices, sizing, shipping and returns,
+      about), "where it's recommended" links, checked-on line, Brand JSON-LD
+- [ ] Sizes per category (like prices): Affliction's `size_range` now mixes jeans and tees
+- [ ] Move product photos into Supabase/`stylodex-images` once a server-side upload key exists
+      (the repo copy is fine for hundreds of brands, not thousands)
 - [ ] Second page (Affliction) running, to measure a typical page against the gate and its cost
 
 - [ ] Import the brand seed list (name, URL, price tier) into the new schema

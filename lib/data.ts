@@ -37,7 +37,7 @@ function db() {
 }
 
 const BRAND_COLUMNS =
-  "id, slug, name, kind, website_url, status, known_for, hq_country, founded_year, size_range, has_plus, has_petite, has_tall, ships_to, free_shipping_min_usd, returns_days, materials, certifications, production_model, sale_pattern, image_url, verified_at, brand_category_prices(category_slug, currency, price_min, price_max, price_min_usd, price_max_usd, source_url, checked_at)";
+  "id, slug, name, kind, website_url, status, known_for, hq_country, founded_year, parent_company, size_range, has_plus, has_petite, has_tall, ships_to, free_shipping_min_usd, returns_days, materials, certifications, production_model, sale_pattern, image_url, verified_at, brand_category_prices(category_slug, currency, price_min, price_max, price_min_usd, price_max_usd, source_url, checked_at)";
 
 /* eslint-disable @typescript-eslint/no-explicit-any -- untyped Supabase rows, mapped once here */
 function toBrand(row: any): Brand {
@@ -51,6 +51,7 @@ function toBrand(row: any): Brand {
     knownFor: row.known_for,
     hqCountry: row.hq_country,
     foundedYear: row.founded_year,
+    parentCompany: row.parent_company,
     sizeRange: row.size_range,
     hasPlus: row.has_plus,
     hasPetite: row.has_petite,
@@ -64,6 +65,8 @@ function toBrand(row: any): Brand {
     salePattern: row.sale_pattern,
     imageUrl: row.image_url,
     verifiedAt: row.verified_at,
+    // Product photos aren't in Supabase yet; they load from pipeline files (lib/pipeline.ts).
+    productShots: [],
     prices: (row.brand_category_prices ?? []).map(
       (p: any): CategoryPrice => ({
         category: p.category_slug,

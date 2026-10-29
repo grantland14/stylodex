@@ -1,0 +1,1097 @@
+{
+  "subject": "Affliction",
+  "slug": "affliction",
+  "url_prefix": "brands",
+  "category": {
+    "slug": "graphic-tees",
+    "name": "Graphic Tees",
+    "why": "C is the product type the store is built on. Affliction's full catalog (afflictionclothing.com/products.json, 1,802 products, read 2026-10-29) has 844 short-sleeve tees (product types Short Sleeve Tees 392, Mens Short Sleeve Tees 295, Womens Short Sleeve Tees 157) = 47%; the next type is Pullover Hoodies (87) and denim is 74. The store's own line is 'Mens Graphic Tees' (895 listed products, the largest collection after 'Mens'), and its About page says the founders, with 'backgrounds in graphic design and screen printing', 'embraced full-coverage designs'. Retailers sell it the same way: Zumiez's Affliction page (358 items) and T-Shirts page carry its tees. Jeans (the earlier cached category) is a minor line here. Price range uses the men's collection, the larger line (Mens 790 vs Womens 441); women's tees are in the brand file note."
+  },
+  "serp": [
+    {
+      "keyword": "brands like affliction",
+      "position": 1,
+      "url": null,
+      "kept": false,
+      "why_dropped": "AI overview, no URL"
+    },
+    {
+      "keyword": "brands like affliction",
+      "position": 2,
+      "url": "https://www.reddit.com/r/mensfashion/comments/1q6xufz/any_brands_somewhat_like_affliction_that_wont/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "brands like affliction",
+      "position": 2,
+      "url": "https://www.reddit.com/r/HauntedMound/comments/wdevdc/any_other_brands_like_affliction/",
+      "kept": false,
+      "why_dropped": "sitelink; unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "brands like affliction",
+      "position": 2,
+      "url": "https://www.reddit.com/r/affliction/comments/1g00nje/heres_a_list_of_every_single_afflictionlike/",
+      "kept": false,
+      "why_dropped": "sitelink; unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "brands like affliction",
+      "position": 2,
+      "url": "https://www.google.com/search?q=brands+like+affliction+site:www.reddit.com",
+      "kept": false,
+      "why_dropped": "Google 'more results' sitelink, not a page"
+    },
+    {
+      "keyword": "brands like affliction",
+      "position": 3,
+      "url": "https://ca.pinterest.com/pin/22-brands-like-affliction--607141593543929871/",
+      "kept": false,
+      "why_dropped": "social pin, not an editorial page; not read"
+    },
+    {
+      "keyword": "brands like affliction",
+      "position": 4,
+      "url": "https://www.afflictionclothing.com/",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "brands like affliction",
+      "position": 5,
+      "url": "https://www.tiktok.com/discover/brands-that-sell-clothes-similar-to-affliction",
+      "kept": false,
+      "why_dropped": "TikTok discover page (social), not read"
+    },
+    {
+      "keyword": "brands like affliction",
+      "position": 6,
+      "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+      "kept": true,
+      "why_dropped": null,
+      "note": "Obphoria blog (no author or date; footer © 2026). Obphoria sells its own tees and lists itself at #20, so that entry is not counted. 23 brands; the 7 linked only to eBay/Grailed listings have no description."
+    },
+    {
+      "keyword": "brands like affliction",
+      "position": 7,
+      "url": "https://www.facebook.com/groups/751327399982980/posts/1603860934729618/",
+      "kept": false,
+      "why_dropped": "Facebook group post (social, login), not read"
+    },
+    {
+      "keyword": "brands like affliction",
+      "position": 8,
+      "url": "https://www.buckle.com/mens/brand:affliction",
+      "kept": false,
+      "why_dropped": "retailer brand page, not editorial; see co_stocking"
+    },
+    {
+      "keyword": "brands like affliction",
+      "position": 9,
+      "url": "https://www.instagram.com/popular/brands-like-affliction-but-cheaper/",
+      "kept": false,
+      "why_dropped": "Instagram (social), not read"
+    },
+    {
+      "keyword": "brands like affliction",
+      "position": 10,
+      "url": "https://en.wikipedia.org/wiki/Affliction_Clothing",
+      "kept": false,
+      "why_dropped": "encyclopedia entry on the anchor; recommends no alternatives"
+    },
+    {
+      "keyword": "stores like affliction",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview (US, 2026-10-29) returned no positions for this keyword: no SERP data"
+    },
+    {
+      "keyword": "affliction alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview (US, 2026-10-29) returned no positions for this keyword: no SERP data"
+    },
+    {
+      "keyword": "similar to affliction",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview (US, 2026-10-29) returned no positions for this keyword: no SERP data"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": "Buckle",
+      "url": "https://www.buckle.com/mens/brand:affliction",
+      "used": false,
+      "why": "page rendered no products to WebFetch (title and nav only); https://www.buckle.com/mens/graphic-tees is 404"
+    },
+    {
+      "retailer": "Zumiez",
+      "url": "https://www.zumiez.com/brands/affliction",
+      "used": true,
+      "why": "read: 358 Affliction items incl. tees ($39.95 'Repent Grey T-Shirt')"
+    },
+    {
+      "retailer": "Zumiez",
+      "url": "https://www.zumiez.com/mens/t-shirts.html",
+      "used": true,
+      "why": "read: 'T-Shirts', 2,960 items; Affliction tees render on it (8 in the second half of the page). Brands rendered beside them (West Coast Choppers, VLONE, DGK, Shaka Wear, Brooklyn Projects, Santa Cruz, Vitriol, SAD BOYZ, A.LAB, ITA, Welcome Skateboards, Cookies, Primitive, Midnight Organic, Porfa) are co_stocked candidates. For Obphoria brands, the Zumiez brand page was read to confirm Zumiez stocks their T-shirts (Ed Hardy, Metal Mulisha, Ecko, True Religion yes; Tapout socks only; Sullen, Venum, JNCO, Rebel Spirit, Xtreme Couture, Chrome Hearts, Konflic 404)."
+    },
+    {
+      "retailer": "Dolls Kill",
+      "url": "https://www.dollskill.com/collections/affliction/products.json",
+      "used": false,
+      "why": "0 products: Dolls Kill doesn't stock Affliction"
+    },
+    {
+      "retailer": "Tilly's",
+      "url": "https://www.tillys.com/brands/affliction/",
+      "used": false,
+      "why": "HTTP 403; not read, no workaround"
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Ed Hardy",
+      "slug": "ed-hardy",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "#7: \"famous for its tattoo-inspired graphics\""
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.zumiez.com/brands/ed-hardy",
+          "note": "Zumiez brand page: 282 Ed Hardy items incl. T-shirts ($42.95–$44.95). Affliction tees are on Zumiez's T-Shirts page (https://www.zumiez.com/mens/t-shirts.html, 2,960 items) and its Affliction brand page lists 358 items."
+        }
+      ]
+    },
+    {
+      "name": "Metal Mulisha",
+      "slug": "metal-mulisha",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "#3: \"known for its motocross and MMA ties\""
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.zumiez.com/brands/metal-mulisha",
+          "note": "Zumiez brand page: 4 Metal Mulisha items, all T-shirts at $33.95. Affliction tees are on Zumiez's T-Shirts page (https://www.zumiez.com/mens/t-shirts.html, 2,960 items) and its Affliction brand page lists 358 items."
+        }
+      ]
+    },
+    {
+      "name": "Ecko Unltd.",
+      "slug": "ecko-unltd",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "#22: \"a streetwear brand founded by Marc Ecko in 1993\""
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.zumiez.com/brands/ecko",
+          "note": "Zumiez brand page: 6 Ecko T-shirts at $30.99. Affliction tees are on Zumiez's T-Shirts page (https://www.zumiez.com/mens/t-shirts.html, 2,960 items) and its Affliction brand page lists 358 items."
+        }
+      ]
+    },
+    {
+      "name": "True Religion",
+      "slug": "true-religion",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "#8: \"jeans with a distinctive five-needle thread\""
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.zumiez.com/brands/true-religion",
+          "note": "Zumiez brand page: 302 True Religion items; 11 of 32 visible are T-shirts ($41.95). Affliction tees are on Zumiez's T-Shirts page (https://www.zumiez.com/mens/t-shirts.html, 2,960 items) and its Affliction brand page lists 358 items."
+        }
+      ]
+    },
+    {
+      "name": "Tapout",
+      "slug": "tapout",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "#1: \"started in 1997 by three MMA super fans\""
+        }
+      ]
+    },
+    {
+      "name": "Xtreme Couture",
+      "slug": "xtreme-couture",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "#2: \"founded by Randy Couture, this brand combines MMA culture\""
+        }
+      ]
+    },
+    {
+      "name": "Throwdown",
+      "slug": "throwdown",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "#4: \"offers graphic-heavy designs inspired by MMA\""
+        }
+      ]
+    },
+    {
+      "name": "Bad Boy",
+      "slug": "bad-boy",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "#5: \"a pioneer in MMA apparel\""
+        }
+      ]
+    },
+    {
+      "name": "Venum",
+      "slug": "venum",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "#6: \"combines high-performance fight gear with graphic-heavy\" designs"
+        }
+      ]
+    },
+    {
+      "name": "Sullen Clothing",
+      "slug": "sullen",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "#9: \"blends streetwear with tattoo culture and gothic influences\""
+        }
+      ]
+    },
+    {
+      "name": "Alchemy Gothic",
+      "slug": "alchemy-england",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "#17: \"specializes in gothic clothing and accessories\" (links alchemygothic.com; store is Alchemy England)"
+        }
+      ]
+    },
+    {
+      "name": "Chrome Hearts",
+      "slug": "chrome-hearts",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "#18: \"a luxury brand synonymous with high-end garments\""
+        }
+      ]
+    },
+    {
+      "name": "JNCO",
+      "slug": "jnco",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "#19: \"famous for their baggy jeans\""
+        }
+      ]
+    },
+    {
+      "name": "Konflic USA",
+      "slug": "konflic-usa",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "#21 (as \"Konflict\"): \"a lesser-known brand offering edgy, graphic-heavy styles\""
+        }
+      ]
+    },
+    {
+      "name": "Rebel Spirit",
+      "slug": "rebel-spirit",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "#23: \"features bold prints and religious themes\""
+        }
+      ]
+    },
+    {
+      "name": "Xzavier",
+      "slug": "xzavier",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "listed with no description; links only to a resale listing (ebay.com/b/Xzavier)"
+        }
+      ]
+    },
+    {
+      "name": "Archaic",
+      "slug": "archaic",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "listed with no description; links only to a resale listing (ebay.com/b/Archaic-Mens-Clothes)"
+        }
+      ]
+    },
+    {
+      "name": "Raw State",
+      "slug": "raw-state",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "listed with no description; links only to a resale listing (grailed.com/designers/raw-state)"
+        }
+      ]
+    },
+    {
+      "name": "Red Ape",
+      "slug": "red-ape",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "listed with no description; links only to a resale listing (ebay.com/b/Red-Ape-Clothing-for-Men)"
+        }
+      ]
+    },
+    {
+      "name": "Helix",
+      "slug": "helix",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "listed with no description; links only to a resale listing (ebay.com/b/Helix-Mens-T-Shirts)"
+        }
+      ]
+    },
+    {
+      "name": "Decoded",
+      "slug": "decoded",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "listed with no description; links only to a resale listing (ebay.com/b/Decoded-Mens-Clothes)"
+        }
+      ]
+    },
+    {
+      "name": "Stranded",
+      "slug": "stranded",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "listed with no description; links only to a resale listing (ebay.com/b/Stranded-T-Shirts-for-Men)"
+        }
+      ]
+    },
+    {
+      "name": "West Coast Choppers",
+      "slug": "west-coast-choppers",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.zumiez.com/mens/t-shirts.html",
+          "note": "T-shirts rendered on the Zumiez T-Shirts page that also renders Affliction tees"
+        }
+      ]
+    },
+    {
+      "name": "VLONE",
+      "slug": "vlone",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.zumiez.com/mens/t-shirts.html",
+          "note": "T-shirts rendered on the Zumiez T-Shirts page that also renders Affliction tees"
+        }
+      ]
+    },
+    {
+      "name": "Vitriol",
+      "slug": "vitriol",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.zumiez.com/mens/t-shirts.html",
+          "note": "T-shirts rendered on the Zumiez T-Shirts page that also renders Affliction tees"
+        }
+      ]
+    },
+    {
+      "name": "Shaka Wear",
+      "slug": "shaka-wear",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.zumiez.com/mens/t-shirts.html",
+          "note": "T-shirts rendered on the Zumiez T-Shirts page that also renders Affliction tees"
+        }
+      ]
+    },
+    {
+      "name": "DGK",
+      "slug": "dgk",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.zumiez.com/mens/t-shirts.html",
+          "note": "T-shirts rendered on the Zumiez T-Shirts page that also renders Affliction tees"
+        }
+      ]
+    },
+    {
+      "name": "Brooklyn Projects",
+      "slug": "brooklyn-projects",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.zumiez.com/mens/t-shirts.html",
+          "note": "T-shirts rendered on the Zumiez T-Shirts page that also renders Affliction tees"
+        }
+      ]
+    },
+    {
+      "name": "Santa Cruz",
+      "slug": "santa-cruz",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.zumiez.com/mens/t-shirts.html",
+          "note": "T-shirts rendered on the Zumiez T-Shirts page that also renders Affliction tees"
+        }
+      ]
+    },
+    {
+      "name": "SAD BOYZ",
+      "slug": "sad-boyz",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.zumiez.com/mens/t-shirts.html",
+          "note": "T-shirts rendered on the Zumiez T-Shirts page that also renders Affliction tees"
+        }
+      ]
+    },
+    {
+      "name": "A.LAB",
+      "slug": "a-lab",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.zumiez.com/mens/t-shirts.html",
+          "note": "T-shirts rendered on the Zumiez T-Shirts page that also renders Affliction tees"
+        }
+      ]
+    },
+    {
+      "name": "ITA",
+      "slug": "ita",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.zumiez.com/mens/t-shirts.html",
+          "note": "T-shirts rendered on the Zumiez T-Shirts page that also renders Affliction tees"
+        }
+      ]
+    },
+    {
+      "name": "Welcome Skateboards",
+      "slug": "welcome-skateboards",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.zumiez.com/mens/t-shirts.html",
+          "note": "T-shirts rendered on the Zumiez T-Shirts page that also renders Affliction tees"
+        }
+      ]
+    },
+    {
+      "name": "Cookies",
+      "slug": "cookies",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.zumiez.com/mens/t-shirts.html",
+          "note": "T-shirts rendered on the Zumiez T-Shirts page that also renders Affliction tees"
+        }
+      ]
+    },
+    {
+      "name": "Primitive",
+      "slug": "primitive",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.zumiez.com/mens/t-shirts.html",
+          "note": "T-shirts rendered on the Zumiez T-Shirts page that also renders Affliction tees"
+        }
+      ]
+    },
+    {
+      "name": "Midnight Organic",
+      "slug": "midnight-organic",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.zumiez.com/mens/t-shirts.html",
+          "note": "T-shirts rendered on the Zumiez T-Shirts page that also renders Affliction tees"
+        }
+      ]
+    },
+    {
+      "name": "Porfa",
+      "slug": "porfa",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.zumiez.com/mens/t-shirts.html",
+          "note": "T-shirts rendered on the Zumiez T-Shirts page that also renders Affliction tees"
+        }
+      ]
+    },
+    {
+      "name": "Vivienne Westwood",
+      "slug": "vivienne-westwood",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Betsey Johnson",
+      "slug": "betsey-johnson",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Punk Rave",
+      "slug": "punk-rave",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Bravado",
+      "slug": "bravado",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Bitch New York",
+      "slug": "bitch-new-york",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "The Kooples",
+      "slug": "the-kooples",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "DevilFashion",
+      "slug": "devilfashion",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Dark in Love",
+      "slug": "dark-in-love",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Jawbreaker",
+      "slug": "jawbreaker",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Lip Service",
+      "slug": "lip-service",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Killer Goth",
+      "slug": "killer-goth",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Spiral Direct",
+      "slug": "spiral-direct",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Rebel Queen",
+      "slug": "rebel-queen",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Moschino",
+      "slug": "moschino",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Banned Alternative",
+      "slug": "banned-alternative",
+      "in_apart_pool": true,
+      "sources": []
+    }
+  ],
+  "picks": [
+    {
+      "slug": "ed-hardy",
+      "rank": 1,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 45,
+        "max": 115,
+        "min_usd": 45,
+        "max_usd": 115,
+        "fx_date": null,
+        "item_count": 41
+      },
+      "price_relation": "similar",
+      "reason": "Ed Hardy's own store lists 41 regular-price men's tees at $45–$115 built on Don Ed Hardy's tattoo art, in S–XXL, with free US shipping over $100 and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "#7: \"famous for its tattoo-inspired graphics\""
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.zumiez.com/brands/ed-hardy",
+          "note": "Zumiez brand page: 282 Ed Hardy items incl. T-shirts ($42.95–$44.95). Affliction tees are on Zumiez's T-Shirts page (https://www.zumiez.com/mens/t-shirts.html, 2,960 items) and its Affliction brand page lists 358 items."
+        }
+      ],
+      "gate_gaps": [
+        "image_url",
+        "body"
+      ]
+    },
+    {
+      "slug": "metal-mulisha",
+      "rank": 2,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 28,
+        "max": 38,
+        "min_usd": 28,
+        "max_usd": 38,
+        "fx_date": null,
+        "item_count": 83
+      },
+      "price_relation": "cheaper",
+      "reason": "Metal Mulisha, a California FMX, motocross and MMA label, lists 83 regular-price short-sleeve tees at $28–$38 in S–3XL (4XL on most), with 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "#3: \"known for its motocross and MMA ties\""
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.zumiez.com/brands/metal-mulisha",
+          "note": "Zumiez brand page: 4 Metal Mulisha items, all T-shirts at $33.95. Affliction tees are on Zumiez's T-Shirts page (https://www.zumiez.com/mens/t-shirts.html, 2,960 items) and its Affliction brand page lists 358 items."
+        }
+      ],
+      "gate_gaps": [
+        "image_url",
+        "body"
+      ]
+    },
+    {
+      "slug": "jnco",
+      "rank": 3,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 50,
+        "max": 80,
+        "min_usd": 50,
+        "max_usd": 80,
+        "fx_date": null,
+        "item_count": 22
+      },
+      "price_relation": "similar",
+      "reason": "JNCO, a Los Angeles label since 1985, lists 22 regular-price tees at $50–$80 in S–XXXL, inside Affliction's $39–$88 tee range, and ships to the US, Canada, the UK and Australia.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "#19: \"famous for their baggy jeans\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url",
+        "body"
+      ]
+    },
+    {
+      "slug": "venum",
+      "rank": 4,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 24.99,
+        "max": 89.99,
+        "min_usd": 24.99,
+        "max_usd": 89.99,
+        "fx_date": null,
+        "item_count": 86
+      },
+      "price_relation": "similar",
+      "reason": "Venum's US store lists 86 regular-price men's cotton tees at $24.99–$89.99 (most under $50) in S–XXL, many up to XXXL, with free US shipping over $75 and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "#6: \"combines high-performance fight gear with graphic-heavy\" designs"
+        }
+      ],
+      "gate_gaps": [
+        "known_for",
+        "hq_country",
+        "image_url",
+        "body"
+      ]
+    },
+    {
+      "slug": "alchemy-england",
+      "rank": 5,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 40,
+        "max": 40,
+        "min_usd": 40,
+        "max_usd": 40,
+        "fx_date": null,
+        "item_count": 9
+      },
+      "price_relation": "similar",
+      "reason": "Alchemy England, a Leicestershire gothic jewellery maker founded in 1977, sells 9 horror-graphic tees at $40 each in S–XXXL from its Fort Worth warehouse, free US shipping over $100.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "#17: \"specializes in gothic clothing and accessories\" (links alchemygothic.com; store is Alchemy England)"
+        }
+      ],
+      "gate_gaps": [
+        "returns_days",
+        "image_url",
+        "body"
+      ]
+    },
+    {
+      "slug": "sullen",
+      "rank": 6,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 25,
+        "max": 48.95,
+        "min_usd": 25,
+        "max_usd": 48.95,
+        "fx_date": null,
+        "item_count": 102
+      },
+      "price_relation": "similar",
+      "reason": "Sullen, a Southern California tattoo-lifestyle brand since 2001, lists 102 regular-price tees at $25–$48.95 with artwork by working tattoo artists, in S–5X, with free US shipping over $99.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+          "note": "#9: \"blends streetwear with tattoo culture and gothic influences\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url",
+        "body"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "true-religion",
+      "why": "unverified: truereligion.com answered HTTP 307 to itself for WebFetch (2026-10-29); not read, no workaround. 2 sources (Obphoria + Zumiez T-shirts); first in the human-check queue."
+    },
+    {
+      "slug": "ecko-unltd",
+      "why": "no regular-price tees: 59 of 79 products in ALL T-SHIRTS (and every short-sleeve tee) carry a compare-at price. 2 sources; re-check when the markdown ends."
+    },
+    {
+      "slug": "xtreme-couture",
+      "why": "no regular-price tees: all 20 products in its Mens collection are marked down (compare-at $25 / $44)."
+    },
+    {
+      "slug": "bad-boy",
+      "why": "no regular-price tees: all 12 products in T-Shirts carry a compare-at price."
+    },
+    {
+      "slug": "konflic-usa",
+      "why": "sells tees only marginally at regular price: 94 of 95 MMA Tees (and 114 of 115 products store-wide) carry a compare-at price; a range would rest on one $24.99 tee. Human may override."
+    },
+    {
+      "slug": "throwdown",
+      "why": "sells tees only marginally: 4 tees (2 designs) at $29.99 in L–XXL; the store positions itself as 'MMA, Boxing, and Fitness Equipment'. Human may override."
+    },
+    {
+      "slug": "tapout",
+      "why": "off_category: tapout.com sells nothing directly (links to Dick's, Walmart, Amazon, Academy) and shows no tees."
+    },
+    {
+      "slug": "chrome-hearts",
+      "why": "off_category: its online shop sells Baccarat, scents and underwear, no tees."
+    },
+    {
+      "slug": "rebel-spirit",
+      "why": "defunct: the linked domain redirects to an unrelated site (saw-mill.co.uk) and no official store was found."
+    },
+    {
+      "slug": "obphoria",
+      "why": "the source page's own brand, listed by itself (#20); self-recommendation is not outside evidence."
+    },
+    {
+      "slug": "xzavier",
+      "why": "not verified this run: 15-brand cap; Obphoria gives no description and links only to eBay/Grailed resale listings (1 source)."
+    },
+    {
+      "slug": "archaic",
+      "why": "not verified this run: 15-brand cap; Obphoria gives no description and links only to eBay/Grailed resale listings (1 source)."
+    },
+    {
+      "slug": "raw-state",
+      "why": "not verified this run: 15-brand cap; Obphoria gives no description and links only to eBay/Grailed resale listings (1 source)."
+    },
+    {
+      "slug": "red-ape",
+      "why": "not verified this run: 15-brand cap; Obphoria gives no description and links only to eBay/Grailed resale listings (1 source)."
+    },
+    {
+      "slug": "helix",
+      "why": "not verified this run: 15-brand cap; Obphoria gives no description and links only to eBay/Grailed resale listings (1 source)."
+    },
+    {
+      "slug": "decoded",
+      "why": "not verified this run: 15-brand cap; Obphoria gives no description and links only to eBay/Grailed resale listings (1 source)."
+    },
+    {
+      "slug": "stranded",
+      "why": "not verified this run: 15-brand cap; Obphoria gives no description and links only to eBay/Grailed resale listings (1 source)."
+    },
+    {
+      "slug": "west-coast-choppers",
+      "why": "not verified this run: 15-brand cap (1 source: co_stocked on Zumiez T-Shirts)."
+    },
+    {
+      "slug": "vlone",
+      "why": "not verified this run: 15-brand cap (1 source: co_stocked on Zumiez T-Shirts)."
+    },
+    {
+      "slug": "vitriol",
+      "why": "not verified this run: 15-brand cap (1 source: co_stocked on Zumiez T-Shirts)."
+    },
+    {
+      "slug": "shaka-wear",
+      "why": "not verified this run: 15-brand cap (1 source: co_stocked on Zumiez T-Shirts)."
+    },
+    {
+      "slug": "dgk",
+      "why": "not verified this run: 15-brand cap (1 source: co_stocked on Zumiez T-Shirts)."
+    },
+    {
+      "slug": "brooklyn-projects",
+      "why": "not verified this run: 15-brand cap (1 source: co_stocked on Zumiez T-Shirts)."
+    },
+    {
+      "slug": "santa-cruz",
+      "why": "not verified this run: 15-brand cap (1 source: co_stocked on Zumiez T-Shirts)."
+    },
+    {
+      "slug": "sad-boyz",
+      "why": "not verified this run: 15-brand cap (1 source: co_stocked on Zumiez T-Shirts)."
+    },
+    {
+      "slug": "a-lab",
+      "why": "not verified this run: 15-brand cap (1 source: co_stocked on Zumiez T-Shirts)."
+    },
+    {
+      "slug": "ita",
+      "why": "not verified this run: 15-brand cap (1 source: co_stocked on Zumiez T-Shirts)."
+    },
+    {
+      "slug": "welcome-skateboards",
+      "why": "not verified this run: 15-brand cap (1 source: co_stocked on Zumiez T-Shirts)."
+    },
+    {
+      "slug": "cookies",
+      "why": "not verified this run: 15-brand cap (1 source: co_stocked on Zumiez T-Shirts)."
+    },
+    {
+      "slug": "primitive",
+      "why": "not verified this run: 15-brand cap (1 source: co_stocked on Zumiez T-Shirts)."
+    },
+    {
+      "slug": "midnight-organic",
+      "why": "not verified this run: 15-brand cap (1 source: co_stocked on Zumiez T-Shirts)."
+    },
+    {
+      "slug": "porfa",
+      "why": "not verified this run: 15-brand cap (1 source: co_stocked on Zumiez T-Shirts)."
+    },
+    {
+      "slug": "apart-style-pool",
+      "why": "15 Apart Style pool brands (vivienne-westwood ... banned-alternative) have no outside evidence for Affliction; not verified."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "pick check: True Religion",
+      "url": "https://www.truereligion.com/mens-graphic-tees",
+      "check": "307 loop to WebFetch. Confirm live + regular-price men's graphic tee range (USD, item count), sizes, US/CA/GB/AU shipping, free-shipping threshold, returns. 2 sources; would become a pick."
+    },
+    {
+      "fact": "evidence quality: Obphoria list",
+      "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
+      "check": "The only readable editorial page. It is a clothing brand's blog with no author or date that lists itself (#20). Confirm it should count as outside evidence; 4 of 6 picks rest on it alone."
+    },
+    {
+      "fact": "evidence: Reddit lists",
+      "url": "https://www.reddit.com/r/affliction/comments/1g00nje/heres_a_list_of_every_single_afflictionlike/",
+      "check": "Unfetchable. Read this thread and https://www.reddit.com/r/mensfashion/comments/1q6xufz/any_brands_somewhat_like_affliction_that_wont/ ; add each brand recommended as an Affliction alternative as kind=reddit evidence."
+    },
+    {
+      "fact": "SERP coverage",
+      "url": "https://app.ahrefs.com/keywords-explorer",
+      "check": "Ahrefs had no US SERP data for 'stores like affliction', 'affliction alternatives' and 'similar to affliction' (2026-10-29). Re-pull later or check manually."
+    },
+    {
+      "fact": "anchor known_for wording",
+      "url": "https://afflictionclothing.com/pages/about",
+      "check": "'Full-Coverage Graphic Tees' is built from the About phrase 'full-coverage designs' and the store's 'Graphic Tees' line. Confirm the title wording."
+    },
+    {
+      "fact": "Venum known_for / hq_country",
+      "url": "https://www.venum.com/",
+      "check": "No self-description on the US store; brand HQ not stated (US store run by DBV distribution, Vernon CA). Find the brand's own About/positioning."
+    },
+    {
+      "fact": "Metal Mulisha ships_to + free shipping",
+      "url": "https://metalmulisha.com/pages/shipping-policy",
+      "check": "International shipping exists but no countries are named; free-shipping threshold is 'shown on the site'. Record CA/GB/AU and the USD threshold from checkout or the banner."
+    },
+    {
+      "fact": "Alchemy England returns_days",
+      "url": "https://alchemyofengland.com/pages/returns",
+      "check": "No return window stated for undamaged items (account credit); 15 days to report damage. Confirm the window in days."
+    },
+    {
+      "fact": "co-stocking: Buckle",
+      "url": "https://www.buckle.com/mens/brand:affliction",
+      "check": "Buckle stocks Affliction but its pages render no products to WebFetch. Open the men's graphic tees category and note brands beside Affliction."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": {
+    "source": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+    "date": "2026-10-28",
+    "per_eur": {
+      "USD": 1.1133,
+      "GBP": 0.83785,
+      "AUD": 1.583,
+      "CAD": 1.5638
+    },
+    "note": "Read 2026-10-29. Every verified store prices in USD (cart.js / products.json), so no conversion was needed; fx_date is null on all prices."
+  },
+  "notes": [
+    "Anchor: verified, graphic-tees $39–$88 over 383 regular-price men's tees. missingAnchorFacts leaves only image_url (no /img/ asset yet, as on every page at this step).",
+    "6 picks pass enrich.md §3 (verified, sells graphic tees at a regular price, ships to the US, ≥1 outside source, one checkable reason). Only Ed Hardy and Metal Mulisha have 2 independent sources (Obphoria + Zumiez); the other 4 rest on Obphoria alone.",
+    "Ranking: independent sources, then price closeness as the distance between range midpoints (anchor $63.50): JNCO 1.5, Venum 6, Ed Hardy 16.5, Alchemy 23.5, Sullen 26.5, Metal Mulisha 30.5 (Metal Mulisha ranks 2nd on its 2 sources).",
+    "Gate: every pick still needs pair.status=verified, a body (step 5) and a /img/ image; with those, all 6 render (MIN_PICKS 6). Losing any one drops the page below the gate, so True Religion (human_check) is the buffer.",
+    "Prices: Shopify /collections/{handle}/products.json; regular = no compare_at above price and no sale/markdown/clearance tag (Affliction keeps old tags like '4th of July Sale' on 80 tees, which are excluded); short-sleeve tees only (long-sleeve, tanks, polos, hoodies, bundles excluded) to match the anchor's range.",
+    "Evidence: 1 serp_comention page (Obphoria) + Zumiez co-stocking. Ahrefs returned no SERP rows for 3 of the 4 keywords; all 4 calls used."
+  ]
+}
