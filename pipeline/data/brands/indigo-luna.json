@@ -1,0 +1,56 @@
+{
+  "slug": "indigo-luna",
+  "name": "Indigo Luna",
+  "website_url": "https://www.indigoluna.store",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Yoga and Lifestyle Clothing",
+  "hq_country": "AU",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS/S–XL/2XL",
+  "has_plus": false,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "AU",
+    "US"
+  ],
+  "free_shipping_min_usd": 175.82,
+  "returns_days": 14,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "AUD",
+      "min": 129,
+      "max": 169,
+      "min_usd": 90.72,
+      "max_usd": 118.86,
+      "fx_date": "2026-10-28",
+      "item_count": 9,
+      "source_url": "https://www.indigoluna.store/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Dresses collection feed: 11 products, 2 marked down (Mökki, Dove), 9 at regular price: Frida Dress AUD 129 (4 colours), Muse Dress AUD 139 (3, tagged DISCONTINUED / Final Stock), Juni Midi and Mini Dress AUD 169. Excluding the discontinued Muse the range is the same. USD at ECB 2026-10-28 (1 AUD = 0.703285 USD)."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.indigoluna.store/",
+    "https://www.indigoluna.store/collections.json?limit=250",
+    "https://www.indigoluna.store/collections/dresses/products.json?limit=250",
+    "https://www.indigoluna.store/policies/shipping-policy",
+    "https://www.indigoluna.store/policies/refund-policy",
+    "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
+  ],
+  "notes": [
+    "Homepage title 'Women's yoga and lifestyle clothing from Australia – Indigo Luna Store'; tagline 'Clothing for yoga and life.' Prices in AUD (hq_country AU; packing hours in AEST, domestic delivery by Australia Post).",
+    "Shipping policy: 'FREE Express Delivery on US orders over $250 AUD' (about $176) and 'we've kept our checkout free of any extra charges for US orders'; international delivery 3–6 working days after dispatch.",
+    "Returns: requested and shipped back within 14 days of delivery, unworn with tags; international returns DHL flat rate AUD 35; clearance and last pieces final sale.",
+    "Dress sizes in the feed: XS/S, M/L, XL/XXL or XL/2XL; one style One Size."
+  ],
+  "checked_at": "2026-10-29"
+}

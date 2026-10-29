@@ -1,0 +1,77 @@
+{
+  "slug": "earthbound",
+  "name": "Earthbound",
+  "website_url": "https://www.earthboundtrading.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Boho and Hippie Fashion",
+  "hq_country": "US",
+  "founded_year": 1994,
+  "parent_company": null,
+  "size_range": "XS–XXL (US 0–22)",
+  "has_plus": false,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": 30,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 39.95,
+      "max": 69.95,
+      "min_usd": 39.95,
+      "max_usd": 69.95,
+      "fx_date": null,
+      "item_count": 29,
+      "source_url": "https://www.earthboundtrading.com/clothing/dresses-jumpsuits",
+      "checked_at": "2026-10-29",
+      "note": "Dresses + Jumpsuits listing, all 3 pages (?p=1..3, 69 items), read with curl (StylodexBot UA). 37 at a single price, 32 showing an old price above the final price (marked down, excluded). Of the 37, 29 are dresses (8 overalls, jumpsuits or rompers left out). Lowest $39.95 (Black Fairy Cold Shoulder Mini Dress, Purple Embroidered Lace Up Dress, Two Tone Astro Convertible Dress Skirt); highest $69.95 (Crimson Goddess Reversible Maxi Dress, Salmon Goddess Reversible Wrap Maxi Dress). Most at $44.95–$49.95, e.g. Mauve Boho Peasant Dress $49.95. Configurable items show 'As low as'."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": "Sourced from suppliers plus in-house designs",
+  "sale_pattern": "Clearance prices end in $.94",
+  "sells_categories": [
+    "dresses",
+    "womens-clothing"
+  ],
+  "sources": [
+    "https://www.earthboundtrading.com/",
+    "https://www.earthboundtrading.com/about-us",
+    "https://www.earthboundtrading.com/clothing",
+    "https://www.earthboundtrading.com/clothing/dresses-jumpsuits",
+    "https://www.earthboundtrading.com/clothing/dresses-jumpsuits?p=2",
+    "https://www.earthboundtrading.com/clothing/dresses-jumpsuits?p=3",
+    "https://www.earthboundtrading.com/accessories",
+    "https://www.earthboundtrading.com/home-gift",
+    "https://www.earthboundtrading.com/shipping-information",
+    "https://www.earthboundtrading.com/refunds-and-exchanges",
+    "https://www.earthboundtrading.com/faq",
+    "https://www.earthboundtrading.com/media/managed/ReturnForm.pdf",
+    "https://www.earthboundtrading.com/mauve-boho-peasant-dress",
+    "https://www.earthboundtrading.com/responsible-sourcing-statement",
+    "https://www.earthboundtrading.com/locations",
+    "https://www.simon.com/brands/earthbound-trading-company"
+  ],
+  "notes": [
+    "Homepage title (2026-10-29): 'Shop Bohemian, Hippie Fashion, Artisanal Crafts & Home Decor | Earthbound'; meta: 'curated collection of bohemian and hippie clothing, jewelry, accessories, and home decor'. known_for built from the title.",
+    "Department sizes from each listing's toolbar count (2026-10-29): Clothing 238, Accessories 754 (Jewelry 577), Home + Gift 890. Fashion (clothing + accessories, 992) is just over half the online catalog, so it is in scope; it is not mostly home goods, though home + gift is the largest single department. Clothing: Tops 88, Bottoms 72, Dresses + Jumpsuits 69.",
+    "About page: started 'in the 90's by Steve and Suzana Gordon as a humble rock and mineral shop with unique crystals curated from Suzana's home country, Brazil'; 'Today, Suzana is the sole owner, making Earthbound a woman-owned business'; '150 shops and an online site'. Simon's brand page: 'Started in 1994 by Steve and Suzana Gordon' (founded_year) and lists 37 Simon mall stores in the US (Texas 8, Florida 7, Indiana 4).",
+    "HQ: the return form PDF gives 'Earthbound Trading Co. HQ', 4051 Freeport Parkway, Suite 400, Grapevine, TX 76051 (hq_country US).",
+    "Store locator page (/locations) renders no store list to curl or WebFetch (map loads by script). us_stores from the About page's 150 shops plus Simon's 37 US mall listings.",
+    "Shipping page: 'does not ship internationally'; standard shipping free at $75 and above (after discounts, before tax); FedEx Standard Overnight and 2-Day offered; no shipping to Hawaii, Alaska or P.O. boxes.",
+    "Returns: online purchases within 30 days of delivery, in store or by mail (customer pays mail postage); exchanges for a different size of the same item; clearance items ending in $.94 can't be returned; no cash refunds for online orders.",
+    "FAQ: 'Our products come from various suppliers and artists from around the world. In addition, we have a small-but-mighty team of in-house designers who create products just for us!' Items unique to Earthbound are marked on the tag and in the product name. Wrap skirts are made from recycled fabrics and sold only in stores. kind=retailer (a store of sourced goods, not a single label).",
+    "Size guide on product pages (women's apparel): XS–XXL, US 0–22. No separate plus line.",
+    "Mauve Boho Peasant Dress ($49.95): 'made in India', body 100% rayon, embroidery 100% polyester, imported.",
+    "Site banner 2026-10-29: '*Reg. Price Clothing BOGO 50% Off' (code FALLSTYLE) and '*New Markdowns'; FAQ: 15% off for new subscribers.",
+    "Responsible Sourcing Statement: suppliers must follow its Supplier Code of Conduct; may request certifications or audits; names no certification."
+  ],
+  "checked_at": "2026-10-29"
+}

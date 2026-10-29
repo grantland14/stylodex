@@ -115,6 +115,7 @@ const TITLE_NOUN = { brands: "Brands", stores: "Stores", sites: "Sites" } as con
 
 /** "7 Brands Like Levi's for Durable, High-Quality Denim". The count is the real count. */
 export function brandsLikeTitle(page: BrandsLikePage, pickCount: number): string {
-  const base = `${pickCount} ${TITLE_NOUN[page.urlPrefix]} Like ${page.anchor.name}`;
+  const noun = TITLE_NOUN[page.urlPrefix];
+  const base = `${pickCount} ${pickCount === 1 ? noun.replace(/s$/, "") : noun} Like ${page.anchor.name}`;
   return page.anchor.knownFor ? `${base} for ${page.anchor.knownFor}` : base;
 }

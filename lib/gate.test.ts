@@ -72,6 +72,10 @@ test("the title uses the real pick count", () => {
   assert.equal(brandsLikeTitle(page, 7), "7 Brands Like Example Denim Co for Durable, Everyday Denim");
 });
 
+test("a one-pick title is singular", () => {
+  assert.equal(brandsLikeTitle(fixturePage(), 1), "1 Brand Like Example Denim Co for Durable, Everyday Denim");
+});
+
 test("images hosted anywhere but /img/ block indexing", () => {
   const page = fixturePage();
   page.anchor = fixtureBrand({

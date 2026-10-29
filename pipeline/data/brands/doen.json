@@ -1,0 +1,59 @@
+{
+  "slug": "doen",
+  "name": "DÔEN",
+  "website_url": "https://www.shopdoen.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Romantic, Vintage-Inspired California Dresses",
+  "hq_country": "US",
+  "founded_year": 2016,
+  "parent_company": null,
+  "size_range": "XXS–XXL",
+  "has_plus": false,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 198,
+      "max": 2998,
+      "min_usd": 198,
+      "max_usd": 2998,
+      "fx_date": null,
+      "item_count": 199,
+      "source_url": "https://www.shopdoen.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Dresses collection feed: 200 products (page 2 empty), 199 titled dress, none with a compare_at markdown. Lowest Ema Dress $198; Nevita and Verity Dresses $248; Juliet Tunic Dress $268; median $498; 75 under $400; top five are Anniversary dresses at $2,998 (e.g. Handkerchief Anniversary Dress)."
+    }
+  ],
+  "materials": [],
+  "certifications": [
+    "Certified B Corp"
+  ],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.shopdoen.com/",
+    "https://www.shopdoen.com/collections/dresses/products.json?limit=250",
+    "https://www.shopdoen.com/pages/our-story",
+    "https://www.shopdoen.com/pages/our-shops",
+    "https://www.shopdoen.com/policies/refund-policy",
+    "https://www.shopdoen.com/policies/shipping-policy",
+    "https://www.shopdoen.com/pages/faq"
+  ],
+  "notes": [
+    "Homepage title 'DÔEN | Official Site'; meta: 'collections inspired by nostalgia for California of decades past'. known_for paraphrases that and its dress-led catalog.",
+    "Our Story: founded by Santa Barbara-born sisters Margaret and Katherine Kleveland with a Collective of LA-based women, all equity owners; 'DÔEN launched in 2016'; in 2020 a longtime vendor (owners of one of its factories) became an equity partner; 'In 2026, DÔEN proudly became a Certified B Corp'.",
+    "Our Shops: Los Angeles, Santa Barbara, Montecito Country Mart (CA) and two New York City shops (us_stores).",
+    "Returns: initiated and shipped back within 30 days of fulfillment, new and unworn with tags; final sale not accepted; shipping not refunded.",
+    "Shipping policy and FAQ bodies render empty to curl and WebFetch (content loads by script), so ships_to and the free-shipping threshold are not stored. A cart line reads 'free shipping on all orders over $500' without a stated country; not stored.",
+    "Sizes in the dress feed: XS–XL on 195 of 199, XXS on 105, XXL on 101.",
+    "Nordstrom's dresses listing (2026-10-29) includes DÔEN's Ischia Convertible Organic Cotton Maxi Dress at $348."
+  ],
+  "checked_at": "2026-10-29"
+}

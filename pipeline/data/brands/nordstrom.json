@@ -76,7 +76,8 @@
     "Wikipedia (Nordstrom): founded 1901 in Seattle as Wallin & Nordstrom by John W. Nordstrom and Carl F. Wallin; HQ Seattle; 'upmarket department store chain'; privately held since May 20, 2025 (Nordstrom family 50.1%, El Puerto de Liverpool 49.9%). parent_company left null (no single parent).",
     "nordstrom.com serves a JavaScript challenge to curl (StylodexBot UA); read only through WebFetch. sort=PriceHighToLow and sort+page combinations returned empty pages; plain ?page=N worked.",
     "2026-10-29 (buckle page run): jeans price row added from the existing womens-clothing row, which was read from the store's own women's jeans listing (https://www.nordstrom.com/browse/women/clothing/jeans), same date; jeans added to sells_categories.",
-    "2026-10-29 (talbots page run): women's dresses category read via WebFetch (breadcrumb Women > Clothing > Dresses; brand filter incl. Adrianna Papell, Eileen Fisher, A.L.C.). No dresses price stored: the page spans hundreds of labels, so a store-wide range isn't like-for-like."
+    "2026-10-29 (talbots page run): women's dresses category read via WebFetch (breadcrumb Women > Clothing > Dresses; brand filter incl. Adrianna Papell, Eileen Fisher, A.L.C.). No dresses price stored: the page spans hundreds of labels, so a store-wide range isn't like-for-like.",
+    "2026-10-29 (earthbound page run, C dresses): Dresses listing (WebFetch, read in two parts) shows 39,568 items; of the first 25 tiles 24 were regular price, from $65 (Baltic Born Veronica Velvet Maxi Dress) to $495 (HELSI Leslie Pattern Sequin Strapless Gown), incl. DÔEN Ischia Convertible Organic Cotton Maxi Dress $348 and Petal & Pup dresses at $89–$119. A 25-tile sample can't stand for the range, so no dresses price row; 'dresses' added to sells_categories from this page."
   ],
   "checked_at": "2026-10-29"
 }

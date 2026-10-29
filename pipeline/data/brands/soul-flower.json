@@ -1,0 +1,65 @@
+{
+  "slug": "soul-flower",
+  "name": "Soul Flower",
+  "website_url": "https://www.soul-flower.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Hippie Clothing and Boho Gifts",
+  "hq_country": "US",
+  "founded_year": 1999,
+  "parent_company": null,
+  "size_range": "S–XXL; a few styles in 2X",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 45,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 44,
+      "max": 50,
+      "min_usd": 44,
+      "max_usd": 50,
+      "fx_date": null,
+      "item_count": 2,
+      "source_url": "https://www.soul-flower.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Whole catalog via /products.json (439 products, pages 1–2). Only 2 dresses, both regular price: Thyme to Wander Smocked Dress $44 and Magic Mandala Dress in Blues $50. The 'Hippie Dresses & Boho Skirts' collection feed returned 13 items, mostly skirts, rompers and overalls."
+    }
+  ],
+  "materials": [
+    "Organic cotton",
+    "Hemp",
+    "Recycled fibers"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": "Closeouts and last-chance items at 60–85% off",
+  "sources": [
+    "https://www.soul-flower.com/",
+    "https://www.soul-flower.com/collections.json?limit=250",
+    "https://www.soul-flower.com/collections/hippie-dresses-boho-skirts/products.json?limit=250",
+    "https://www.soul-flower.com/products.json?limit=250",
+    "https://www.soul-flower.com/products.json?limit=250&page=2",
+    "https://www.soul-flower.com/pages/about-us",
+    "https://www.soul-flower.com/pages/shipping-info",
+    "https://www.soul-flower.com/policies/shipping-policy",
+    "https://www.soul-flower.com/policies/refund-policy",
+    "https://www.soul-flower.com/pages/size-guide"
+  ],
+  "notes": [
+    "Homepage title 'Hippie Clothing & Boho Gifts | Soul Flower'; meta: 'organic cotton tees and patchwork pants to flowy skirts, hippie stickers, and boho headbands'.",
+    "About page: 'Since 1999, we've created cool threads for kind heads'; footer 'Independent & woman-owned since 1999'; address 204 12th St #103, Des Moines, IA 50309; 'Organic cotton, hemp, and recycled fibers make up a lot of what we do.' Footer badges read 'GOTS Certified Organic Textiles' and 'Fair Trade Certified' (badges only, no detail; not stored as certifications).",
+    "Catalog by product_type (439): stickers 85, magnets 40, patches 29, earrings 26, t-shirts 25, headbands 24, pants 16 (+5 under 'Hippie Clothing > Pants'), dresses 2. Pants $38–$88 at regular price, e.g. Classic Patchwork Pants $38, Long Story Short Harem Pants $40, Easy Breezy Patchwork Wide Leg Pants $72.",
+    "Shipping: ships from Des Moines IA; shipping-info page says 'Free US shipping on orders over $150' (a footer also offers free US shipping on a first order over $50). International rates at checkout; countries not named, so only US stored.",
+    "Returns: within 45 days of receipt, unwashed and unworn; customer pays return shipping ($7.95 deducted for its label service); no exchanges; final sale not returnable.",
+    "Sizes from product variants: SM, MD, LG, XL on most clothing, XXL on 53, 2X on 3; navigation has a Plus Size section (has_plus). Size guide is image-only."
+  ],
+  "checked_at": "2026-10-29"
+}
