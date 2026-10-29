@@ -1,0 +1,1120 @@
+{
+  "subject": "Tillys",
+  "slug": "tillys",
+  "url_prefix": "stores",
+  "category": {
+    "slug": "mens-clothing",
+    "name": "Men's Clothing",
+    "why": "Tillys is a multi-brand store (kind retailer), so C is the department its searches are about. Men's is Tillys' biggest department: its Form 10-K (year ended Feb 1, 2025) puts Mens at 36% of net sales against Womens 28%, and tillys.com/men/ ('Men's Streetwear') is the anchor's own result on 'stores like tillys' (#7). The kept lists are about youth mall stores (skate, surf, streetwear, teen chains). Like-for-like item for prices: men's short-sleeve T-shirts (Tillys Men > T-Shirts, as on the Zumiez page). Prices are regular (non-markdown) selling prices only."
+  },
+  "serp": [
+    {
+      "keyword": "stores like tillys",
+      "position": 1,
+      "url": "https://www.zumiez.com/",
+      "kept": false,
+      "why_dropped": "AI-overview sitelink to a store's own homepage, not a list of alternatives (Zumiez is a candidate through the kept lists)"
+    },
+    {
+      "keyword": "stores like tillys",
+      "position": 1,
+      "url": "https://www.reddit.com/r/streetwear/comments/7qcnda/thank_u_guys_for_all_those_streetwear_brands_i_am/",
+      "kept": false,
+      "why_dropped": "reddit: WebFetch refuses reddit.com; not read, no workaround (also organic #3 and its sitelinks r/streetwear 'make a CHEAP streetwear store list?' and 'Every single streetwear store/website you know?')"
+    },
+    {
+      "keyword": "stores like tillys",
+      "position": 2,
+      "url": "https://www.zumiez.com/",
+      "kept": false,
+      "why_dropped": "a store's own homepage, not a list of alternatives"
+    },
+    {
+      "keyword": "stores like tillys",
+      "position": 4,
+      "url": "https://www.tillys.com/",
+      "kept": false,
+      "why_dropped": "the anchor's own site (used for anchor facts)"
+    },
+    {
+      "keyword": "stores like tillys",
+      "position": 5,
+      "url": "https://www.karmaloop.com/",
+      "kept": false,
+      "why_dropped": "a store's own homepage, not a list of alternatives; no kept source names Karmaloop, so it is not a candidate"
+    },
+    {
+      "keyword": "stores like tillys",
+      "position": 6,
+      "url": null,
+      "kept": false,
+      "why_dropped": "People Also Ask box: 'What's similar to tillys?', 'Where do Gen Z girls shop for clothes?', 'What is Gen Z's favorite clothing brand?', 'Are PacSun and Tilly's the same company?' (no answers stored)"
+    },
+    {
+      "keyword": "stores like tillys",
+      "position": 7,
+      "url": "https://www.tillys.com/men/",
+      "kept": false,
+      "why_dropped": "the anchor's own site; title 'Men's Streetwear' (used for the category choice)"
+    },
+    {
+      "keyword": "stores like tillys",
+      "position": 8,
+      "url": "https://www.have-clothes-will-travel.com/stores-like-pacsun/",
+      "kept": false,
+      "why_dropped": "read: a 'stores like PacSun' list (Lindsey Puls, Mar 2023, updated Nov 2023, 23 stores); it names Tilly's as an alternative to PacSun ('Tilly's is another California-based brand like Pacsun'), not alternatives to Tillys, so it isn't evidence for this page"
+    },
+    {
+      "keyword": "stores like tillys",
+      "position": 9,
+      "url": "https://www.tillys.com/brands/",
+      "kept": false,
+      "why_dropped": "the anchor's own site (brands page used for anchor facts)"
+    },
+    {
+      "keyword": "stores like tillys",
+      "position": 10,
+      "url": "https://www.similarweb.com/website/tillys.com/competitors/",
+      "kept": false,
+      "why_dropped": "automated traffic-competitor tool page, no editorial recommendation"
+    },
+    {
+      "keyword": "brands like tillys",
+      "position": 1,
+      "url": "https://revenuebase.ai/companies/streetwear-brands/united-states",
+      "kept": false,
+      "why_dropped": "company-database list of US streetwear brands, not about Tillys"
+    },
+    {
+      "keyword": "brands like tillys",
+      "position": 2,
+      "url": null,
+      "kept": false,
+      "why_dropped": "People Also Ask box (Gen Z brands, top streetwear brands, lowkey brands); no answers stored"
+    },
+    {
+      "keyword": "brands like tillys",
+      "position": 3,
+      "url": "https://www.reddit.com/r/malefashionadvice/comments/66n1cc/best_t_shirts_brand/",
+      "kept": false,
+      "why_dropped": "reddit; not read, and about T-shirt brands in general, not Tillys"
+    },
+    {
+      "keyword": "brands like tillys",
+      "position": 4,
+      "url": "https://www.lemon8-app.com/experience/where-to-bug-cute-clothes?region=us",
+      "kept": false,
+      "why_dropped": "read: a social-app page that lists Tillys among places to buy cute clothes, presenting no store as an alternative to Tillys"
+    },
+    {
+      "keyword": "brands like tillys",
+      "position": 5,
+      "url": "https://www.quora.com/Which-stores-are-the-best-for-teenage-girls-clothing?no_redirect=1",
+      "kept": false,
+      "why_dropped": "Quora Q&A about teen girls' clothing stores in general, not alternatives to Tillys; not read"
+    },
+    {
+      "keyword": "brands like tillys",
+      "position": 6,
+      "url": "https://shop-eat-surf-outdoor.com/executive-edition/2012-04-tilly-s-vs-zumiez-vs-pacsun/32452/",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch; not read, no workaround (a 2012 trade comparison of Tilly's, Zumiez and PacSun, judging by title and URL)"
+    },
+    {
+      "keyword": "brands like tillys",
+      "position": 7,
+      "url": "https://www.yelp.com/search?find_desc=Teen+Clothing+Stores&find_loc=Paramus%2C+NJ+07652",
+      "kept": false,
+      "why_dropped": "local directory search results, no editorial list"
+    },
+    {
+      "keyword": "brands like tillys",
+      "position": 8,
+      "url": "https://pandce.proboards.com/thread/641254/skinny-tween-teen-boys",
+      "kept": false,
+      "why_dropped": "forum thread about sizing for skinny teen boys, not alternatives to Tillys"
+    },
+    {
+      "keyword": "brands like tillys",
+      "position": 9,
+      "url": "https://www.quora.com/What-is-a-good-cheap-clothing-brand?no_redirect=1",
+      "kept": false,
+      "why_dropped": "Quora, cheap clothing brands in general, not about Tillys"
+    },
+    {
+      "keyword": "tillys alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview returned no positions (no SERP stored for this keyword)"
+    },
+    {
+      "keyword": "similar to tillys",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview returned no positions (no SERP stored for this keyword)"
+    }
+  ],
+  "web_search": [
+    {
+      "query": "stores like Tillys",
+      "url": "https://www.honestbrandreviews.com/comparison/similar-stores-to-tillys/",
+      "kept": true,
+      "note": "read with WebFetch: 'similar stores to tillys', Honest Brand Reviews, byline Susie Johnson, published July 5, 2023; 10 numbered picks (Anthropologie, Zara and Topshop named only in the closing section, not counted). Templated in style (numbering restarts), but a named author and a Tillys-specific list."
+    },
+    {
+      "query": "stores like Tillys and PacSun surf skate mall stores list",
+      "url": "https://etechshout.com/stores-like-tillys/",
+      "kept": true,
+      "note": "read with WebFetch: 'Stores Like Tillys: Top 15 Alternatives in 2026', eTechShout, 'eTechShout Editor', January 3, 2026; 15 numbered stores."
+    },
+    {
+      "query": "stores like Tillys and PacSun surf skate mall stores list",
+      "url": "https://soxy.com/blogs/stores-like-tillys/",
+      "kept": true,
+      "note": "read with WebFetch: 'Stores Like Tillys - Read This First', Soxy (a sock store's own blog), Josie Costigan, dated March 23 with no year; 10 numbered stores. Not a seller of the listed stores' products, so no conflict of interest in the list."
+    },
+    {
+      "query": "stores like Tillys",
+      "url": "https://expertbeacon.com/similar-stores-to-tillys/",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch; not read, no workaround ('Hey Fashionista, Here Are 10 Stores Like Tilly's You'll Love'). Search snippets are not counted."
+    },
+    {
+      "query": "stores like Tillys",
+      "url": "https://openpension.ctdata.org/stores-similar-to-tillys",
+      "kept": false,
+      "why_dropped": "HTTP 503; and an off-topic subdomain of a data site hosting shopping content (same text on openpension.ctdata.org/shops-like-tillys, pkm.shacknews.com/shops-like-tillys, vis.copcap.com, blog.cityofeverett.com): parasite pages, not editorial"
+    },
+    {
+      "query": "stores like Tillys and PacSun surf skate mall stores list",
+      "url": "https://similist.com/alternatives/stores-like-tillys/",
+      "kept": false,
+      "why_dropped": "Similist: scraped list with no editorial content (enrich.md §1.2)"
+    },
+    {
+      "query": "Tillys alternatives stores similar to Tilly's",
+      "url": "https://greenlitcontent.com/resources/stores-similar-to-hollister",
+      "kept": false,
+      "why_dropped": "read: a 'stores like Hollister' list that names Tilly's (#10) as an alternative to Hollister, not alternatives to Tillys"
+    },
+    {
+      "query": "\"like Tillys\" stores teens alternatives Zumiez PacSun Hollister guide",
+      "url": "https://www.irreverentgent.com/stores-like-pacsun/",
+      "kept": false,
+      "why_dropped": "a 'stores like PacSun' list (not read); about PacSun, not Tillys"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": null,
+      "url": null,
+      "used": false,
+      "why": "enrich.md §1.4b doesn't apply: Tillys is itself a multi-brand retailer, not a brand stocked by one."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Zumiez",
+      "slug": "zumiez",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/similar-stores-to-tillys/",
+          "position_in_list": "#2"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-tillys/",
+          "position_in_list": "#1"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-tillys/",
+          "position_in_list": "#1"
+        }
+      ]
+    },
+    {
+      "name": "PacSun",
+      "slug": "pacsun",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/similar-stores-to-tillys/",
+          "position_in_list": "#1"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-tillys/",
+          "position_in_list": "#2"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-tillys/",
+          "position_in_list": "#2"
+        }
+      ]
+    },
+    {
+      "name": "Urban Outfitters",
+      "slug": "urban-outfitters",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/similar-stores-to-tillys/",
+          "position_in_list": "#3"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-tillys/",
+          "position_in_list": "#14"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-tillys/",
+          "position_in_list": "#10"
+        }
+      ]
+    },
+    {
+      "name": "Aeropostale",
+      "slug": "aeropostale",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-tillys/",
+          "position_in_list": "#3"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-tillys/",
+          "position_in_list": "#7"
+        }
+      ]
+    },
+    {
+      "name": "Hot Topic",
+      "slug": "hot-topic",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-tillys/",
+          "position_in_list": "#10"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-tillys/",
+          "position_in_list": "#4"
+        }
+      ]
+    },
+    {
+      "name": "Hollister",
+      "slug": "hollister",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-tillys/",
+          "position_in_list": "#7"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-tillys/",
+          "position_in_list": "#9"
+        }
+      ]
+    },
+    {
+      "name": "Anthropologie",
+      "slug": "anthropologie",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-tillys/",
+          "position_in_list": "#5"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-tillys/",
+          "position_in_list": "#5"
+        }
+      ]
+    },
+    {
+      "name": "Nasty Gal",
+      "slug": "nasty-gal",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/similar-stores-to-tillys/",
+          "position_in_list": "#10"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-tillys/",
+          "position_in_list": "#11"
+        }
+      ]
+    },
+    {
+      "name": "H&M",
+      "slug": "h-m",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/similar-stores-to-tillys/",
+          "position_in_list": "#4"
+        }
+      ]
+    },
+    {
+      "name": "Forever 21",
+      "slug": "forever-21",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/similar-stores-to-tillys/",
+          "position_in_list": "#5"
+        }
+      ]
+    },
+    {
+      "name": "ASOS",
+      "slug": "asos",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/similar-stores-to-tillys/",
+          "position_in_list": "#6"
+        }
+      ]
+    },
+    {
+      "name": "Boohoo",
+      "slug": "boohoo",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/similar-stores-to-tillys/",
+          "position_in_list": "#7"
+        }
+      ]
+    },
+    {
+      "name": "Fashion Nova",
+      "slug": "fashion-nova",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/similar-stores-to-tillys/",
+          "position_in_list": "#8"
+        }
+      ]
+    },
+    {
+      "name": "Missguided",
+      "slug": "missguided",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/similar-stores-to-tillys/",
+          "position_in_list": "#9"
+        }
+      ]
+    },
+    {
+      "name": "Neff",
+      "slug": "neff-headwear",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-tillys/",
+          "position_in_list": "#4"
+        }
+      ]
+    },
+    {
+      "name": "Volcom",
+      "slug": "volcom",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-tillys/",
+          "position_in_list": "#6"
+        }
+      ]
+    },
+    {
+      "name": "Vans",
+      "slug": "vans",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-tillys/",
+          "position_in_list": "#8"
+        }
+      ]
+    },
+    {
+      "name": "J.Jill",
+      "slug": "j-jill",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-tillys/",
+          "position_in_list": "#9"
+        }
+      ]
+    },
+    {
+      "name": "6pm",
+      "slug": "6pm",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-tillys/",
+          "position_in_list": "#12"
+        }
+      ]
+    },
+    {
+      "name": "Eddie Bauer",
+      "slug": "eddie-bauer",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-tillys/",
+          "position_in_list": "#13"
+        }
+      ]
+    },
+    {
+      "name": "Cotton On",
+      "slug": "cotton-on",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-tillys/",
+          "position_in_list": "#15"
+        }
+      ]
+    },
+    {
+      "name": "Old Navy",
+      "slug": "old-navy",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-tillys/",
+          "position_in_list": "#3"
+        }
+      ]
+    },
+    {
+      "name": "Zaful",
+      "slug": "zaful",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-tillys/",
+          "position_in_list": "#6"
+        }
+      ]
+    },
+    {
+      "name": "American Eagle",
+      "slug": "american-eagle",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-tillys/",
+          "position_in_list": "#8"
+        }
+      ]
+    },
+    {
+      "name": "Quiksilver",
+      "slug": "quiksilver",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "RVCA",
+      "slug": "rvca",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "DC Shoes",
+      "slug": "dc-shoes",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Etnies",
+      "slug": "etnies",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "HUF",
+      "slug": "huf",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Stüssy",
+      "slug": "stussy",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "LRG (Lifted Research Group)",
+      "slug": "lrg",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Brixton",
+      "slug": "brixton",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Lakai",
+      "slug": "lakai",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Urban Planet",
+      "slug": "urban-planet",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Roadster",
+      "slug": "roadster",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "SnorgTees",
+      "slug": "snorgtees",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Pull & Bear",
+      "slug": "pull-bear",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "TeePublic",
+      "slug": "teepublic",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "The Souled Store",
+      "slug": "the-souled-store",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Converse",
+      "slug": "converse",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Hurley",
+      "slug": "hurley",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Emerica",
+      "slug": "emerica",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Busted Tees",
+      "slug": "busted-tees",
+      "in_apart_pool": true,
+      "sources": []
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "result": "Tilly's (public.brands id f18f57b8-…) has 25 pool rows (PacSun twice), 24 brands: Zumiez, PacSun, Quiksilver, Volcom, RVCA, DC Shoes, Etnies, Forever 21, HUF, Stüssy, LRG, Brixton, Lakai, Urban Planet, Aeropostale, Roadster, SnorgTees, Pull & Bear, TeePublic, The Souled Store, Converse, Hurley, Emerica, Busted Tees. Only Zumiez, PacSun, Volcom, Forever 21 and Aeropostale also have outside sources."
+  },
+  "picks": [
+    {
+      "slug": "zumiez",
+      "rank": 1,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 24.99,
+        "max": 64.95,
+        "min_usd": 24.99,
+        "max_usd": 64.95,
+        "fx_date": null,
+        "item_count": 60
+      },
+      "price_relation": "similar",
+      "reason": "Zumiez is a multi-brand skate, snow and streetwear chain with stores across the US, selling men's tees at $24.99–$64.95 (including the Santa Cruz x Pokémon Power Dot tee Tillys also sells), with free US shipping over $64.94 and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/similar-stores-to-tillys/",
+          "note": "#2: \"a retailer that caters to the skate and streetwear scene.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-tillys/",
+          "note": "#1: \"Zumiez could possibly win the award for being the most similar dresses to Tillys.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-tillys/",
+          "note": "#1: \"Zumiez elevates the skater lifestyle to the next level.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "pacsun",
+      "rank": 2,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "PacSun began as a surf shop in Seal Beach, California and sells its own label and other brands of baggy jeans, hoodies and men's graphic tees, shipping US orders free over $59 or with any jeans or pants.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/similar-stores-to-tillys/",
+          "note": "#1: \"PacSun is a popular retailer that specializes in California-inspired clothing and accessories.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-tillys/",
+          "note": "#2: \"is committed to providing a curated selection of brands and products to a community of style-conscious youth.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-tillys/",
+          "note": "#2: \"The quality of their clothing is sure to last\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "hot-topic",
+      "rank": 3,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 12.99,
+        "max": 50.9,
+        "min_usd": 12.99,
+        "max_usd": 50.9,
+        "fx_date": null,
+        "item_count": 547
+      },
+      "price_relation": "similar",
+      "reason": "Hot Topic is a pop-culture merch and clothing store selling men's tees at $12.99–$50.90 in sizes XS–5XL plus tall LT–4XLT, with 30-day returns by mail or in store.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-tillys/",
+          "note": "#10: \"One of Hot Topic's main objectives remained to provide non-traditional and fresh inventory\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-tillys/",
+          "note": "#4: \"Most of its merchandise is licensed band or movie clothing and accessories.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "aeropostale",
+      "rank": 4,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "Aeropostale sells its own men's graphic tees, baggy jeans and hoodies to teens and young adults, with men's waists 26–46 and free US shipping over $25.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-tillys/",
+          "note": "#3: \"Aeropostale is an important store in the same category as Tillys.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-tillys/",
+          "note": "#7: \"Aeropostale has done a big revamp recently.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "volcom",
+      "rank": 5,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 22.0,
+        "max": 42.0,
+        "min_usd": 22.0,
+        "max_usd": 42.0,
+        "fx_date": null,
+        "item_count": 101
+      },
+      "price_relation": "similar",
+      "reason": "Volcom, a skate, surf and snowboard brand since 1991 that Tillys stocks, sells men's short-sleeve tees direct at $22–$42 and ships to the US and Canada at the same rates, free over $99.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-tillys/",
+          "note": "#6: \"Volcom produces stylish, durable apparel and accessories.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "forever-21",
+      "rank": 6,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 7.99,
+        "max": 34.99,
+        "min_usd": 7.99,
+        "max_usd": 34.99,
+        "fx_date": null,
+        "item_count": 9
+      },
+      "price_relation": "similar",
+      "reason": "Forever 21 now sells online only, with men's basic crew tees from $7.99 in XS–XXXL and graphic tees up to $34.99, free US shipping over $50 and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/similar-stores-to-tillys/",
+          "note": "#5: \"is a fast-fashion retailer that caters to young adults and teenagers.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "cotton-on",
+      "rank": 7,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 7.0,
+        "max": 34.99,
+        "min_usd": 7.0,
+        "max_usd": 34.99,
+        "fx_date": null,
+        "item_count": 6
+      },
+      "price_relation": "similar",
+      "reason": "Cotton On's US store sells men's short-sleeve tees from $7 (Easy T-Shirt) to $34.99 (Fitted Henley T-Shirt), with free US delivery over $75 and returns with no time limit.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-tillys/",
+          "note": "#15: \"Prices at Cotton On are lower than those of its competitors.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "neff-headwear",
+      "rank": 8,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 17.5,
+        "max": 21.99,
+        "min_usd": 17.5,
+        "max_usd": 21.99,
+        "fx_date": null,
+        "item_count": 98
+      },
+      "price_relation": "cheaper",
+      "reason": "Neff, a snow and skate headwear label based in Irvine, California, sells men's graphic tees at $17.50–$21.99 in S–2XL, with free shipping over $50 and free 45-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-tillys/",
+          "note": "#4: \"Neff Headwear is one of those online stores like Tillys with the most stylish products\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "vans",
+      "rank": 9,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": null,
+      "price_relation": null,
+      "reason": "Vans, VF Corporation's original action sports footwear company, makes youth-culture apparel, runs its own stores and dealers across the US and is one of the brands Tillys stocks.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-tillys/",
+          "note": "#8: \"Vans is known for its quality shoes and merchandise related to the street culture\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "american-eagle",
+      "rank": 10,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": null,
+      "price_relation": null,
+      "reason": "American Eagle sells men's T-shirts and jeans with free US shipping over $75 and a 60-day full-refund return window, twice Tillys' 30 days.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-tillys/",
+          "note": "#8: \"The designs emulate that southern, preppy fashion sense.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "old-navy",
+      "rank": 11,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": null,
+      "price_relation": null,
+      "reason": "Old Navy, Gap Inc.'s value brand, has stores in 49 states plus DC and Puerto Rico, big and tall sizes for adults and free returns on every order.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-tillys/",
+          "note": "#3: \"Some sales offer as much as 80% off regular-priced items.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "urban-outfitters",
+      "why": "3 sources (HB #3, ET #14, SX #10), but no US-shipping or US-store fact is stored: urbanoutfitters.com refuses WebFetch and curl (403, earlier runs today), and URBN's 10-K (fiscal year ended Jan 31, 2026, read twice this run) counts 177 Urban Outfitters stores in 'North America' with no US split and doesn't say where its websites ship. Fails the gate's US-availability rule; men's clothing is in the 10-K, but not recorded without the US fact."
+    },
+    {
+      "slug": "hollister",
+      "why": "2 sources (ET #7, SX #9); status unverified (hollisterco.com serves a 'Client Challenge' to every fetch, per its brand file). Not re-tried, no workaround."
+    },
+    {
+      "slug": "anthropologie",
+      "why": "2 sources (ET #5, SX #5); anthropologie.com returned 403 to curl (StylodexBot UA), one try. Not verified, no brand file written."
+    },
+    {
+      "slug": "nasty-gal",
+      "why": "2 sources (HB #10, ET #11); brand file status off_category (set by another run, left as is); nastygal.com/us/ served a page titled 'Nasty Gal — Coming Soon' to curl, so it isn't selling to the US now."
+    },
+    {
+      "slug": "h-m",
+      "why": "1 source (HB #4); status unverified (www2.hm.com 403 on earlier runs)."
+    },
+    {
+      "slug": "asos",
+      "why": "marketplace (kind=marketplace on the Jaded London run); enrich.md §1 drops marketplaces."
+    },
+    {
+      "slug": "boohoo",
+      "why": "1 source (HB #7); brand file has no men's clothing recorded (us.boohoo.com title says 'Womens and Mens Clothes', but no men's tee page read). Women's-led fast fashion, a weaker fit than the 11 picks; not checked further, so not padded in."
+    },
+    {
+      "slug": "fashion-nova",
+      "why": "1 source (HB #8); men's collections' Shopify feeds return 404, so no men's page read; homepage title names Men but no category fact stored. Not padded in."
+    },
+    {
+      "slug": "missguided",
+      "why": "1 source (HB #9); missguided.com redirects to /market-us (title 'Shop the latest trends at Missguided'); women's fashion, not checked for men's clothing. No brand file written."
+    },
+    {
+      "slug": "j-jill",
+      "why": "1 source (ET #9); jjill.com title 'Refresh Your Wardrobe With New J.Jill Women's Clothing': women's only, so it doesn't sell C. No brand file written."
+    },
+    {
+      "slug": "6pm",
+      "why": "1 source (ET #12); a discount site where tiles read show markdowns (e.g. a $395 sandal at $79, 80% off) and the 'men t shirts' search URL served a mixed listing, so no men's tee page was read. Not padded in."
+    },
+    {
+      "slug": "eddie-bauer",
+      "why": "1 source (ET #13); eddiebauer.com title 'Eddie Bauer: Outdoor Apparel, Outerwear & Gear': an outdoor brand, a weak fit for a youth surf-skate store. Not checked further, no brand file written."
+    },
+    {
+      "slug": "zaful",
+      "why": "1 source (SX #6); zaful.com live (title 'Women and Men's Fashion Clothing...') but shipping, returns and men's tee prices not read this run. Not padded in."
+    },
+    {
+      "slug": "pool-only",
+      "why": "19 Apart Style pool brands with no outside source naming them as an alternative to Tillys: Quiksilver, RVCA, DC Shoes, Etnies, HUF, Stüssy, LRG (Lifted Research Group), Brixton, Lakai, Urban Planet, Roadster, SnorgTees, Pull & Bear, TeePublic, The Souled Store, Converse, Hurley, Emerica, Busted Tees. Hurley, Quiksilver, RVCA and others are brands Tillys itself stocks (its brands page), not alternatives to the store."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "Tillys men's tee range is a small sample",
+      "url": "https://www.tillys.com/men/clothing/t-shirts/",
+      "check": "14 tees from the embedded item list ($29.99–$45.00). Sort Men > T-Shirts by price both ways in a browser and replace with the full regular-price min/max."
+    },
+    {
+      "fact": "PacSun men's tee prices and returns",
+      "url": "https://www.pacsun.com/mens/graphic-tees/",
+      "check": "PerimeterX 403 on earlier runs (not retried). Record the regular-price men's graphic tee min/max, sizes and returns window."
+    },
+    {
+      "fact": "Aeropostale men's tee prices and returns",
+      "url": "https://www.aeropostale.com/men/graphic-tees/",
+      "check": "The served grid holds no tees and shows 'Comp. Value' prices; in a browser, record regular-price (no Comp. Value markdown) men's tee min/max and the returns window."
+    },
+    {
+      "fact": "Vans and American Eagle tee prices",
+      "url": "https://www.vans.com/en-us",
+      "check": "vans.com 403; AE men's tees were nearly all marked down. Record a regular-price men's tee range for each if one exists."
+    },
+    {
+      "fact": "Urban Outfitters US availability",
+      "url": "https://www.urbanoutfitters.com/",
+      "check": "Confirm US shipping (or US stores from its store locator) and men's tee prices; 3 sources would make it a top-three pick."
+    },
+    {
+      "fact": "ExpertBeacon list",
+      "url": "https://expertbeacon.com/similar-stores-to-tillys/",
+      "check": "403 to WebFetch. Read it in a browser and add its picks as a fourth source if it recommends them as Tillys alternatives."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": null,
+  "notes": [
+    "11 picks pass enrich.md §3 (verified, sells men's clothing, ships to the US or has US stores, ≥1 outside source, one checkable reason). Target 10–15; not padded (Boohoo, Fashion Nova, 6pm, Zaful, Eddie Bauer left out, see rejected).",
+    "Order: same-type multi-brand stores first (Zumiez and PacSun with 3 sources, Hot Topic with 2), then single-brand chains and labels: Aeropostale (2 sources), then 1-source picks with a price by closeness to Tillys' $29.99–$45 (end-point gap: Volcom $10.99, Forever 21 $32.01, Cotton On $33.00, Neff $35.51), then 1-source picks without a price (Vans, American Eagle, Old Navy).",
+    "Evidence: Ahrefs had positions for 2 of the 4 keywords and none of those pages was a Tillys-specific editorial list, so WebSearch (3 queries) found the 3 kept lists (Honest Brand Reviews 2023, eTechShout 2026, Soxy blog, undated). ExpertBeacon 403; parasite copies on ctdata/shacknews subdomains dropped; reverse-direction lists (stores like PacSun / Hollister naming Tillys) are not counted. 2 picks have 3 sources, 2 have 2, 7 have 1.",
+    "Anchor verified (brand file from the Zumiez run plus this run): status, prices (men's tees and jeans), sizes, shipping, returns 30 days, 10-K department split. image_url is the coordinator's.",
+    "Prices this run: Volcom, Forever 21 and Neff from public Shopify products.json feeds; Cotton On from its SFCC listing via curl (StylodexBot UA). Zumiez, Hot Topic and Tillys prices from the Zumiez run (same date). No price for PacSun, Aeropostale, Vans, American Eagle, Old Navy.",
+    "Patches written to the scratchpad's patches/tillys/ only and merged one at a time with merge_brand.py: volcom (new), neff-headwear (new), cotton-on, forever-21, aeropostale, tillys, volcom size_range (--overwrite, twice, to pass lint:facts)."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "The tee you wanted at Tillys is gone in your size, or there's no Tillys within a sensible drive. These are the stores and labels people go to instead for skate, surf and streetwear basics. Multi-brand mall stores built like Tillys come first, then the brands you'd shop for the same reasons. Men's is Tillys' biggest department, so every price here is for men's T-shirts, next to its own $29.99 to $45.",
+    "bodies": {
+      "zumiez": "Zumiez is the closest thing to another Tillys. It's a multi-brand mall chain for skate, snow and streetwear, and its tees start with the Shaka Wear Max Heavyweight T-Shirt ($24.99).\n\nThe two even share a collab: the Santa Cruz x Pokémon Power Dot tee is $31.95 here and $31.99 at Tillys. Zumiez reaches higher at the top, up to the Affliction Theory Rhinestone T-Shirt ($64.95), so it's the better bet for the louder brands. Free shipping starts at $64.94, a few dollars under Tillys' $70. Returns get 30 days, and taking one back to a store is free, while mailed returns pay their own postage.\n\nThe catch is sizing. Its tees mostly run XS to 3XL, so if you need a 4XL or 5XL, Hot Topic goes further.",
+      "pacsun": "PacSun is the pick if you want Tillys' California surf roots with more of a denim focus. It started as a surf shop in Seal Beach, and today it's best known for baggy jeans, hoodies and men's graphic tees.\n\nIts shipping rule saves you money. US orders over $59 ship free, and so does any order with jeans or pants in it, whatever the total. That's a lower bar than Tillys' $70, so a single pair of jeans and a tee cost nothing to send. Like Tillys, it sells its own label next to other brands, so you can still mix names in one basket.\n\nIt ships within the US only, the same as Tillys right now. If you're ordering from Canada, Volcom ships there at its US rates.",
+      "hot-topic": "Hot Topic is where to go when the tee you want has a band, a game or an anime on it. It's a pop-culture merch and clothing store, and its men's tees run from $12.99 to $50.90, so it starts well under Tillys' cheapest.\n\nGo for the sizes. Tees go from XS to 5XL, plus a tall run from LT to 4XLT, which only Old Navy also covers among these picks. The Shaka Wear 7.5 Oz. Heavyweight T-Shirt ($15.90) is the plain option if you only need blanks. Free shipping starts at $75, and returns get 30 days in a store or by mail.\n\nWatch the pre-orders, though. Pre-order merch shipped to your home adds $1.99 an item, and choosing ship-to-store waives it.",
+      "aeropostale": "Aeropostale is the easy-shipping choice for the same mall-store basics: graphic tees, baggy jeans and hoodies, all under its own name. Free US shipping starts at $25, the lowest bar of any store here.\n\nIt's a single brand, so you're buying Aero and nothing else, where Tillys mixes in Volcom, Vans and the rest. Start with the men's graphic tees and the jeans, which come in baggy, mega baggy and super baggy fits. Men's waists run 26 to 46, and the XXL and XXXL sizes are online only, so order those rather than hunting in a store.\n\nMuch of the range shows a Comp. Value above a lower price, and the lower one is what you pay. If you want brand-name skate labels instead of one house brand, Zumiez or PacSun fit better.",
+      "volcom": "Volcom is the way to buy one of Tillys' own brands straight from the source. Tillys stocks it, and Volcom's site sells men's short-sleeve tees from $22 for the Workwear Short Sleeve Tee up to $42.\n\nIt's been a skate, surf and snowboard label since 1991, so the tees lean on artwork. The Featured Artist line, like the Daniel Shepard Walleye Short Sleeve Tee ($40), sits at the top of the range. More than half the tees carry a markdown, so check the sale section before paying full price.\n\nIt also ships to Canada at its US rates, free over $99, which Tillys can't do right now. Returns get 30 days with a prepaid label. A refund to your card costs $7, but a gift card costs nothing.",
+      "forever-21": "Forever 21 is the cheapest way here to stock up on plain tees. Its 100% Cotton Crew Tee ($7.99) costs about a quarter of Tillys' cheapest, and the basic crews and V-necks run XS to XXXL.\n\nIt's online only now, after closing its US stores, so there's nowhere to try anything on. Graphic tees top out with the Velour Rhinestone Short Sleeve T-Shirt ($34.99), still well under Tillys' top price. Shipping is free over $50, and returns get 30 days, with a $9.99 fee taken off and no returns at all on clearance or final sale.\n\nIt's a trend store for everyone, though, so for the skate and surf names Tillys carries, Zumiez is closer.",
+      "cotton-on": "Cotton On is the budget basics pick with the most relaxed returns. The Easy T-Shirt ($7) is the cheapest tee on this page, and the Fitted Henley T-Shirt ($34.99) tops its men's range. Four Easy T-Shirts cost less than one Tillys tee.\n\nReturns have no time limit. Eligible items in original condition can go back whenever, with proof of purchase, and return shipping within the US is free. Tillys gives you 30 days and charges $6.95 for a mailed return. Free delivery starts at $75.\n\nIt's an Australian brand with one label, and plenty of the men's range sits on markdown. If you want graphic tees with a skate name on them, Neff or Volcom fit better.",
+      "neff-headwear": "Neff sells graphic tees at one flat price. Nearly every men's tee costs $21.98, about $8 under Tillys' cheapest, and that includes the Garfield collab, like the Men's NEFF X Garfield Ballin T-Shirt ($21.98).\n\nIt started as snow and skate headwear, so the beanies are worth adding to the order. It's based in Irvine, California, the same city as Tillys' headquarters. Shipping is free over $50, and returns get 45 days with return shipping paid, which is longer and cheaper than Tillys' 30 days and $6.95 fee.\n\nSizes stop at 2XL, though, and it only ships within the US. For anything bigger, Hot Topic and Tillys both go to 5XL.",
+      "vans": "Go to Vans if your Tillys trip is mostly about the shoes and the tees that go with them. It calls itself the original action sports footwear company, founded in 1966, and it makes youth-culture apparel alongside the sneakers. Tillys stocks it too.\n\nVans runs its own stores and dealers across the US, like the Vans Store at Westfield Century City in Los Angeles. That puts the whole range in one place, more than any multi-brand shop's slice. Its store locator lists stores and dealers state by state. It's owned by VF Corporation.\n\nIf you'd rather have Vans next to other skate brands in one basket, Zumiez or Tillys itself is the better trip.",
+      "american-eagle": "American Eagle gives you 60 days to return jeans-and-tee basics for a full refund, twice Tillys' 30. An online return costs $5.\n\nIt's a single brand, like Aeropostale, and its men's T-shirts lean plain: logo tees, lived-in basics and graphics like Snoopy and Ford. Free US shipping starts at $75, and under that it's $7.95. AE.com also carries additional sizes and styles, so look there if a store runs out.\n\nMost men's tees carry a markdown, such as the AE Standard Fit Lived-In T-Shirt at $11.99 against a $19.95 list price. So it can undercut Tillys while a deal runs, but there's no skate or surf label in the mix. For those, PacSun is the closer mall store.",
+      "old-navy": "Old Navy works when you're shopping for the whole family as well as yourself. It's Gap Inc.'s value brand, with stores in 49 states plus DC and Puerto Rico, and it carries big and tall sizes for adults and extended sizes for kids.\n\nEvery order gets free returns within 30 days, by prepaid label or in a store, and Premier members get up to 45. Rewards members get free shipping over $50, and the bag combines with Gap, Athleta and Banana Republic.\n\nIt's the furthest from Tillys in style. There's no skate or surf brand here, so treat it as the basics run and go to Zumiez or PacSun for the labels."
+    },
+    "best_for": {
+      "zumiez": "another mall store with the same skate brands and collabs",
+      "pacsun": "free shipping on a single pair of jeans",
+      "hot-topic": "band and anime tees in 5XL or tall sizes",
+      "aeropostale": "teen basics with free shipping from $25",
+      "volcom": "buying a Tillys brand direct, even from Canada",
+      "forever-21": "plain crew tees for under $8",
+      "cotton-on": "cheap basics you can return any time",
+      "neff-headwear": "graphic tees at one flat price with free returns",
+      "vans": "seeing the whole Vans range in its own store",
+      "american-eagle": "jeans and tees with 60 days to change your mind",
+      "old-navy": "family basics with free returns in store or by mail"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with what you're replacing. For the same mix of skate and surf brands under one roof, Zumiez is the closest, and PacSun is the one if jeans are on the list, since they ship free. Need a 4XL, a 5XL or a tall? Hot Topic. For the brands Tillys itself sells, go to Volcom or Vans directly. On a tight budget, Cotton On and Forever 21 have tees under $10, and Neff keeps graphic tees near $22 with free returns. American Eagle and Old Navy are the safe calls for plain basics with easy returns. And if you're in Canada, Volcom ships there at its US rates."
+    },
+    "faqs": [
+      {
+        "q": "What is Tillys?",
+        "a": "A Southern California chain for casual clothes, shoes and accessories rooted in surf and skate. It opened in 1982 as World of Jeans and Tops, now has stores in more than 30 states, and sells brands like Volcom and Vans next to its own RSQ label.",
+        "source_query": "what is tillys"
+      },
+      {
+        "q": "Who owns Tillys?",
+        "a": "It's a public company, Tillys, Inc., listed on the New York Stock Exchange as TLYS and based in Irvine, California. Hezy Shaked and Tilly Levine founded it in 1982.",
+        "source_query": "who owns tillys"
+      },
+      {
+        "q": "What is Tillys' return policy?",
+        "a": "You get 30 days from the order date or the store purchase date. A mailed return costs $6.95 for the label, but taking an online order back to a Tillys store is free.",
+        "source_query": "what is tillys return policy"
+      }
+    ]
+  }
+}

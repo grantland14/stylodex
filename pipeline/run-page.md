@@ -21,6 +21,12 @@ source you fetched, with its URL. Nothing estimated, nothing from memory.
 3. **Check**: run `node -e` or a short tsx script that loads the page through
    `lib/pipeline.ts` and `judgeBrandsLikePage`, and record the result in the review file.
 
+## Requests
+- Every scripted request uses the honest bot UA, `StylodexBot/0.1 (+https://www.stylodex.com/how-we-pick)`.
+  **Never put Ash's email or any personal detail in a header, URL or payload**, even where a site
+  (SEC EDGAR asks for a contact email) says it wants one. If a site refuses the bot UA, use
+  WebFetch or leave the fact out.
+
 ## Shared files: other agents run at the same time
 - Brand files in `pipeline/data/brands/` are shared. **Write them only through
   `python3 -I pipeline/merge_brand.py <slug> <patch.json> [--overwrite field,field]`**, which
