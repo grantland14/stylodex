@@ -109,13 +109,13 @@ const jsonLd = {
         {brand.knownFor && <p class="mt-3 text-lg leading-relaxed">Known for {brand.knownFor.toLowerCase()}.</p>}
         {
           host && (
-            <a href={goHref} rel="sponsored nofollow" class="mt-3 inline-flex items-center gap-1 text-sm text-ink underline">
+            <a href={goHref} target="_blank" rel="sponsored nofollow noopener" class="mt-3 inline-flex items-center gap-1 text-sm text-ink underline">
               {host} <ArrowUpRight />
             </a>
           )
         }
         <div class="mt-6 grid grid-cols-2 gap-3 sm:flex">
-          <a href={goHref} rel="sponsored nofollow" class="btn-solid">Shop {brand.name} <ArrowUpRight /></a>
+          <a href={goHref} target="_blank" rel="sponsored nofollow noopener" class="btn-solid">Shop {brand.name} <ArrowUpRight /></a>
           {
             alternatives && (
               <a href={alternatives} class="btn-line">

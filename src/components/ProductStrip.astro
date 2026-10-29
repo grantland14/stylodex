@@ -23,7 +23,7 @@ const href = (s: ProductShot) =>
     <ul class="grid grid-cols-3 gap-2 sm:gap-3" aria-label={`From ${brandName}'s store`}>
       {shots.slice(0, max).map((s) => (
         <li>
-          <a href={href(s)} rel="sponsored nofollow" class="group block no-underline">
+          <a href={href(s)} target="_blank" rel="sponsored nofollow noopener" class="group block no-underline">
             <img
               src={s.imageUrl}
               alt={s.title}

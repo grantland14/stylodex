@@ -23,7 +23,9 @@ site-wide; see `tasks/todo.md` for the plan and why.
   passing pages. Release in waves (see `tasks/todo.md` Phase 3).
 - **Every sentence traces to a stored fact.** Article copy is drafted from the brands' stored facts
   only; a claim with no stored fact is cut.
-- **Affiliate links go through `/go/[slug]`** with `rel="sponsored nofollow"` and the disclosure.
+- **Affiliate links go through `/go/[slug]`** with `rel="sponsored nofollow noopener"`, open in a new tab
+  (`target="_blank"`), and carry the disclosure. Every external link opens in a new tab (Ash,
+  2026-10-29); `npm run check:links` enforces it on the built pages.
 - **Never change a page's `url_prefix` once it is indexed.** Each subject is built at one prefix
   only; the other prefixes 404, so a changed prefix loses the ranking URL.
 - **Astro, static first.** Pages are prerendered from Supabase at build time and ship no
@@ -34,7 +36,7 @@ site-wide; see `tasks/todo.md` for the plan and why.
 
 ## Checks before any push
 
-`npm test && npm run check && STYLODEX_FIXTURES=1 npm run build`
+`npm test && npm run check && STYLODEX_FIXTURES=1 npm run build && npm run check:links`
 
 ## Workflow Orchestration
 
