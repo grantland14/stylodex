@@ -1,0 +1,984 @@
+{
+  "subject": "Zumiez",
+  "slug": "zumiez",
+  "url_prefix": "stores",
+  "category": {
+    "slug": "mens-clothing",
+    "name": "Men's Clothing",
+    "why": "Zumiez is a multi-brand store (kind retailer), so C is the department its 'stores like' searches are about. Men's Clothing is the department its SERPs surface: zumiez.com/mens.html is a sitelink on 'stores like zumiez' and ranks #10 for 'brands like zumiez', and 'Graphic Tees' is a sitelink on the 'brands like zumiez' result. Both kept lists are about youth apparel stores (skate, surf, streetwear, mall chains). Like-for-like item for prices: men's T-shirts (short-sleeve), which Zumiez and every priced pick list as their own category (Zumiez Men's > Tops > T-Shirts, Tillys Men > T-Shirts, Hot Topic Guys > Tees, Skate Warehouse Skate T-Shirts, Foot Locker Men's T-shirts, Hurley mens-t-shirts, Billabong mens-clothing-t-shirts). Prices are regular (non-markdown) selling prices only."
+  },
+  "serp": [
+    {
+      "keyword": "stores like zumiez",
+      "position": 1,
+      "url": "https://styleyouroccasion.com/stores-like-zumiez/",
+      "kept": true,
+      "note": "read 2026-10-29: Style Your Occasion, published July 15, 2022, no author shown; 11 numbered stores (also an AI-overview sitelink)."
+    },
+    {
+      "keyword": "stores like zumiez",
+      "position": 1,
+      "url": "https://www.semrush.com/website/zumiez.com/competitors/",
+      "kept": false,
+      "why_dropped": "AI-overview sitelink; automated traffic-competitor tool page (tillys.com, journeys.com, tactics.com, vans.com, skatewarehouse.com), no editorial recommendation and no stated method"
+    },
+    {
+      "keyword": "stores like zumiez",
+      "position": 1,
+      "url": "https://en.wikipedia.org/wiki/Zumiez",
+      "kept": false,
+      "why_dropped": "AI-overview sitelink; encyclopedia entry about the anchor, not a list of alternatives (used for anchor facts)"
+    },
+    {
+      "keyword": "stores like zumiez",
+      "position": 2,
+      "url": "https://www.zumiez.com/",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "stores like zumiez",
+      "position": 4,
+      "url": "https://www.karmaloop.com/",
+      "kept": false,
+      "why_dropped": "a store's own homepage, not a list of alternatives; no kept source names Karmaloop, so it is not a candidate"
+    },
+    {
+      "keyword": "stores like zumiez",
+      "position": 5,
+      "url": "https://www.reddit.com/r/streetwear/comments/1nrqo4/hey_i_wanna_know_websites_that_have_zumiez_like/",
+      "kept": false,
+      "why_dropped": "reddit: WebFetch refuses reddit.com; not read, no workaround tried (also its sitelinks r/malefashionadvice and r/streetwear)"
+    },
+    {
+      "keyword": "stores like zumiez",
+      "position": 6,
+      "url": "https://styleyouroccasion.com/stores-like-zumiez/",
+      "kept": true,
+      "note": "same page as position 1"
+    },
+    {
+      "keyword": "stores like zumiez",
+      "position": 7,
+      "url": "https://www.pinterest.com/ideas/stores-like-zumiez/915837870832/",
+      "kept": false,
+      "why_dropped": "Pinterest ideas page; no editorial list"
+    },
+    {
+      "keyword": "stores like zumiez",
+      "position": 8,
+      "url": "https://www.semrush.com/website/zumiez.com/competitors/",
+      "kept": false,
+      "why_dropped": "automated competitor data (see above)"
+    },
+    {
+      "keyword": "stores like zumiez",
+      "position": 9,
+      "url": "https://www.facebook.com/fb-answers/clothing-stores-with-similar-styles-to-zumiez/",
+      "kept": false,
+      "why_dropped": "WebFetch returned only the word 'Facebook' (login wall); not read"
+    },
+    {
+      "keyword": "stores like zumiez",
+      "position": 10,
+      "url": "https://iamandco.com/blogs/articles/stores-like-free-people",
+      "kept": false,
+      "why_dropped": "about Free People alternatives, not Zumiez"
+    },
+    {
+      "keyword": "zumiez alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview returned no positions (no SERP stored for this keyword)"
+    },
+    {
+      "keyword": "similar to zumiez",
+      "position": 1,
+      "url": "https://www.offersflow.com/stores-like-zumiez",
+      "kept": false,
+      "why_dropped": "302 to a hugedomains.com 'domain for sale' page; the site is gone (Ahrefs SERP for this keyword is an old snapshot: titles dated 2017–2018)"
+    },
+    {
+      "keyword": "similar to zumiez",
+      "position": 2,
+      "url": "http://www.storeslike.com/similar/Zumiez",
+      "kept": false,
+      "why_dropped": "scraped 'similar stores' directory with no editorial content"
+    },
+    {
+      "keyword": "similar to zumiez",
+      "position": 3,
+      "url": "https://www.zumiez.com/brands.html",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "similar to zumiez",
+      "position": 4,
+      "url": "https://www.techlazy.com/stores-like-zumiez/",
+      "kept": false,
+      "why_dropped": "HTTP 503 to WebFetch twice; not read, no workaround"
+    },
+    {
+      "keyword": "similar to zumiez",
+      "position": 5,
+      "url": "https://freesiteslike.com/stores-like-zumiez/",
+      "kept": false,
+      "why_dropped": "HTTP 503 to WebFetch twice; not read (its sitelinks name Karmaloop, Vans, PacSun, TheHouse, but sitelink titles are not counted as recommendations)"
+    },
+    {
+      "keyword": "similar to zumiez",
+      "position": 6,
+      "url": "http://www.shopsleuth.com/stores-like/zumiez/",
+      "kept": false,
+      "why_dropped": "scraped '100 stores like' directory"
+    },
+    {
+      "keyword": "similar to zumiez",
+      "position": 7,
+      "url": "https://www.reddit.com/r/streetwear/comments/3kw0jx/any_stores_similar_to_zumiez_in_the_uk/",
+      "kept": false,
+      "why_dropped": "reddit; not read (and about UK stores)"
+    },
+    {
+      "keyword": "similar to zumiez",
+      "position": 8,
+      "url": "https://www.quora.com/What-are-some-stores-like-Zumiez",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch"
+    },
+    {
+      "keyword": "similar to zumiez",
+      "position": 9,
+      "url": "http://www.99storeslike.com/alternative-stores-and-shops-like/zumiez",
+      "kept": false,
+      "why_dropped": "scraped directory"
+    },
+    {
+      "keyword": "similar to zumiez",
+      "position": 10,
+      "url": "https://answers.yahoo.com/question/index?qid=20090514164836AAWmVPq",
+      "kept": false,
+      "why_dropped": "Yahoo Answers closed in 2021; not fetched"
+    },
+    {
+      "keyword": "similar to zumiez",
+      "position": 11,
+      "url": "http://plaintips.com/stores-like-zumiez",
+      "kept": true,
+      "note": "read 2026-10-29 at https://plaintips.com/stores-like-zumiez: PlainTips, author 'rehangillani', no date shown; 10 numbered stores with prose per entry"
+    },
+    {
+      "keyword": "similar to zumiez",
+      "position": 12,
+      "url": "https://www.ocregister.com/2007/03/23/pacsun-vs-zumiez/",
+      "kept": false,
+      "why_dropped": "WebFetch can't fetch ocregister.com; a 2007 news comparison, not read"
+    },
+    {
+      "keyword": "similar to zumiez",
+      "position": 18,
+      "url": "https://zumiez.knoji.com/alternatives/",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch"
+    },
+    {
+      "keyword": "similar to zumiez",
+      "position": 19,
+      "url": "https://www.dosplash.com/story/10-best-stores-like-zumiez/",
+      "kept": false,
+      "why_dropped": "HTTP 503 to WebFetch"
+    },
+    {
+      "keyword": "similar to zumiez",
+      "position": 21,
+      "url": "http://sitestroll.com/stores-like-zumiez/",
+      "kept": false,
+      "why_dropped": "host does not resolve in this session (ENOTFOUND); not read"
+    },
+    {
+      "keyword": "similar to zumiez",
+      "position": 22,
+      "url": "https://digitalrecourse.com/10-best-stores-just-like-zumiez/",
+      "kept": false,
+      "why_dropped": "host does not resolve in this session (ENOTFOUND); not read"
+    },
+    {
+      "keyword": "similar to zumiez",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "positions 13–100 are stock pages, jobs, reviews, coupons, malls and other scraped 'sites like' directories (moreofit, topsimilarsites, similarsitesearch, storify, steemit copy); none read"
+    },
+    {
+      "keyword": "brands like zumiez",
+      "position": 1,
+      "url": "https://styleyouroccasion.com/stores-like-zumiez/",
+      "kept": true,
+      "note": "AI-overview sitelink and #7 organic; same page as above"
+    },
+    {
+      "keyword": "brands like zumiez",
+      "position": 4,
+      "url": "https://www.karmaloop.com/",
+      "kept": false,
+      "why_dropped": "store homepage, not a list"
+    },
+    {
+      "keyword": "brands like zumiez",
+      "position": 5,
+      "url": "https://www.reddit.com/r/streetwear/comments/1nrqo4/hey_i_wanna_know_websites_that_have_zumiez_like/",
+      "kept": false,
+      "why_dropped": "reddit; not read (also sitelinks r/malefashionadvice, r/streetwear 'make a CHEAP streetwear store list?')"
+    },
+    {
+      "keyword": "brands like zumiez",
+      "position": 6,
+      "url": "https://www.zumiez.com/brands",
+      "kept": false,
+      "why_dropped": "anchor's own site"
+    },
+    {
+      "keyword": "brands like zumiez",
+      "position": 8,
+      "url": "https://www.facebook.com/fb-answers/clothing-stores-with-similar-styles-to-zumiez/",
+      "kept": false,
+      "why_dropped": "login wall"
+    },
+    {
+      "keyword": "brands like zumiez",
+      "position": 9,
+      "url": "https://www.semrush.com/website/zumiez.com/competitors/",
+      "kept": false,
+      "why_dropped": "automated competitor data"
+    },
+    {
+      "keyword": "brands like zumiez",
+      "position": 10,
+      "url": "https://www.zumiez.com/mens.html",
+      "kept": false,
+      "why_dropped": "anchor's own site (shows the Men's Clothing department ranks for this keyword; used for category.why)"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": null,
+      "url": null,
+      "used": false,
+      "why": "enrich.md §1.4b doesn't apply: Zumiez is itself a multi-brand retailer, not a brand stocked by one."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Tillys",
+      "slug": "tillys",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-zumiez/",
+          "position_in_list": "#1"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-zumiez",
+          "position_in_list": "#1"
+        }
+      ]
+    },
+    {
+      "name": "PacSun",
+      "slug": "pacsun",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-zumiez/",
+          "position_in_list": "#2"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-zumiez",
+          "position_in_list": "#2"
+        }
+      ]
+    },
+    {
+      "name": "American Eagle",
+      "slug": "american-eagle",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-zumiez/",
+          "position_in_list": "#11 (honorable mention)"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-zumiez",
+          "position_in_list": "#3"
+        }
+      ]
+    },
+    {
+      "name": "Vans",
+      "slug": "vans",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-zumiez/",
+          "position_in_list": "#6"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-zumiez",
+          "position_in_list": "#5"
+        }
+      ]
+    },
+    {
+      "name": "Urban Outfitters",
+      "slug": "urban-outfitters",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-zumiez/",
+          "position_in_list": "#3"
+        }
+      ]
+    },
+    {
+      "name": "Hot Topic",
+      "slug": "hot-topic",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-zumiez/",
+          "position_in_list": "#4"
+        }
+      ]
+    },
+    {
+      "name": "ASOS",
+      "slug": "asos",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-zumiez/",
+          "position_in_list": "#5"
+        }
+      ]
+    },
+    {
+      "name": "Billabong",
+      "slug": "billabong",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-zumiez/",
+          "position_in_list": "#7"
+        }
+      ]
+    },
+    {
+      "name": "Hurley",
+      "slug": "hurley",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-zumiez/",
+          "position_in_list": "#8"
+        }
+      ]
+    },
+    {
+      "name": "Skate Warehouse",
+      "slug": "skate-warehouse",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-zumiez/",
+          "position_in_list": "#9"
+        }
+      ]
+    },
+    {
+      "name": "Urban Planet",
+      "slug": "urban-planet",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-zumiez/",
+          "position_in_list": "#10"
+        }
+      ]
+    },
+    {
+      "name": "Foot Locker",
+      "slug": "foot-locker",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-zumiez",
+          "position_in_list": "#4"
+        }
+      ]
+    },
+    {
+      "name": "Hollister",
+      "slug": "hollister",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-zumiez",
+          "position_in_list": "#6"
+        }
+      ]
+    },
+    {
+      "name": "CafePress",
+      "slug": "cafepress",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-zumiez",
+          "position_in_list": "#7"
+        }
+      ]
+    },
+    {
+      "name": "Old Navy",
+      "slug": "old-navy",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-zumiez",
+          "position_in_list": "#8"
+        }
+      ]
+    },
+    {
+      "name": "Spencer's",
+      "slug": "spencers",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-zumiez",
+          "position_in_list": "#9"
+        }
+      ]
+    },
+    {
+      "name": "Forever 21",
+      "slug": "forever-21",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-zumiez",
+          "position_in_list": "#10"
+        }
+      ]
+    },
+    {
+      "name": "Volcom",
+      "slug": "volcom",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Stüssy",
+      "slug": "stussy",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "The Hundreds",
+      "slug": "the-hundreds",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "OBEY Clothing",
+      "slug": "obey-clothing",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Crooks & Castles",
+      "slug": "crooks-castles",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "HUF",
+      "slug": "huf",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Supreme",
+      "slug": "supreme",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Diamond Supply Co.",
+      "slug": "diamond-supply-co",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Hellstar",
+      "slug": "hellstar",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Anti Social Social Club",
+      "slug": "anti-social-social-club",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Pleasures",
+      "slug": "pleasures",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "RIPNDIP",
+      "slug": "ripndip",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "EMP",
+      "slug": "emp",
+      "in_apart_pool": true,
+      "sources": []
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "result": "Zumiez (public.brands id 33b1ce04-…) has 15 pool rows: Volcom, Tilly's, Stüssy, PacSun, The Hundreds, OBEY Clothing, Crooks & Castles, HUF, Supreme, Diamond Supply Co., Hellstar, Anti Social Social Club, Pleasures, RIPNDIP, EMP. Only Tilly's and PacSun also have outside sources."
+  },
+  "picks": [
+    {
+      "slug": "tillys",
+      "rank": 1,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 29.99,
+        "max": 45.0,
+        "min_usd": 29.99,
+        "max_usd": 45.0,
+        "fx_date": null,
+        "item_count": 14
+      },
+      "price_relation": "similar",
+      "reason": "Tillys is a multi-brand mall store for surf, skate and snow clothing with stores in 32 states, selling men's tees at $29.99–$45 (including the same Santa Cruz x Pokémon Power Dot collab Zumiez carries), free US shipping over $70 and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-zumiez/",
+          "note": "#1: \"Tilly's first opened in Southern California in 1982.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-zumiez",
+          "note": "#1: \"Tillys jumped into the world of the American action sports clothing\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "pacsun",
+      "rank": 2,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "PacSun began as a surf shop in Seal Beach, California and now sells baggy jeans, hoodies and men's graphic tees, shipping US orders free over $59 or with any jeans or pants.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-zumiez/",
+          "note": "#2: \"PacSun originally began as a surf shop but later included skate wear.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-zumiez",
+          "note": "#2: \"a wide network of stores across all 50 American states and Puerto Rico\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "foot-locker",
+      "rank": 3,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 35.0,
+        "max": 60.0,
+        "min_usd": 35.0,
+        "max_usd": 60.0,
+        "fx_date": null,
+        "item_count": 9
+      },
+      "price_relation": "similar",
+      "reason": "Foot Locker is a multi-brand sneaker chain with US stores (68 in California) whose full-price men's tees, mostly Nike and Jordan, run $35–$60.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-zumiez",
+          "note": "#4: \"an American footwear retail giant\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "skate-warehouse",
+      "rank": 4,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 14.95,
+        "max": 50.0,
+        "min_usd": 14.95,
+        "max_usd": 50.0,
+        "fx_date": null,
+        "item_count": 119
+      },
+      "price_relation": "similar",
+      "reason": "Skate Warehouse is an online skate shop selling decks, trucks, shoes and skate-brand tees ($14.95–$50) with free shipping over $60 and free 60-day returns in the contiguous US.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-zumiez/",
+          "note": "#9: \"offers a huge selection of skateboards and longboards.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "hot-topic",
+      "rank": 5,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 12.99,
+        "max": 50.9,
+        "min_usd": 12.99,
+        "max_usd": 50.9,
+        "fx_date": null,
+        "item_count": 547
+      },
+      "price_relation": "similar",
+      "reason": "Hot Topic is a pop-culture merch store whose men's graphic tees run $12.99–$50.90 in sizes XS–5XL plus tall LT–4XLT, with free shipping over $75 and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-zumiez/",
+          "note": "#4: \"This brand is inspired by pop culture and has a grunge and goth aesthetic.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "vans",
+      "rank": 6,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "Vans, founded in 1966 as an action sports footwear company, makes skate shoes and apparel and runs its own US stores, such as Westfield Century City in Los Angeles.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-zumiez/",
+          "note": "#6: \"iconic for its shoes, specifically their black and white checkered slip-on.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-zumiez",
+          "note": "#5: Vans (recommended as an alternative; the entry is about buying from the brand's own store)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "american-eagle",
+      "rank": 7,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "American Eagle sells its own men's tees and jeans online and ships US orders free over $75, with 60-day returns, twice Zumiez's 30-day window.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-zumiez/",
+          "note": "#11: \"carries youthful lifestyle-inspired clothing for teens and young adults.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-zumiez",
+          "note": "#3: \"a wide range of sizes in each of their articles\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "hurley",
+      "rank": 8,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 25.0,
+        "max": 55.0,
+        "min_usd": 25.0,
+        "max_usd": 55.0,
+        "fx_date": null,
+        "item_count": 80
+      },
+      "price_relation": "similar",
+      "reason": "Hurley, a Southern California surf label founded in 1979, sells men's tees at $25–$55 in XS–XXL, ships free in the contiguous US over $99 and takes returns for 30 days.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-zumiez/",
+          "note": "#8: \"Hurley's is one of the best brands to choose from.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "billabong",
+      "rank": 9,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 29.95,
+        "max": 49.95,
+        "min_usd": 29.95,
+        "max_usd": 49.95,
+        "fx_date": null,
+        "item_count": 152
+      },
+      "price_relation": "similar",
+      "reason": "Billabong, the Gold Coast surf label founded in 1973, sells regular-price men's tees at $29.95–$49.95, ships to the US and Canada, free in the contiguous US over $125.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-zumiez/",
+          "note": "#7: \"Billabong is an Australian retailer that sells clothing and accessories.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "old-navy",
+      "rank": 10,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": null,
+      "price_relation": null,
+      "reason": "Old Navy, Gap Inc.'s value brand, has stores in 49 states plus DC and Puerto Rico, offers big and tall sizes for adults and free returns on every order.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-zumiez",
+          "note": "#8: \"make high-quality casual clothing affordable for most American men and women\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "urban-outfitters",
+      "why": "verified in its brand file (URBN 10-K), but no US shipping or US-store fact is stored: urbanoutfitters.com returned 403 to curl (/mens-graphic-tees, 2026-10-29) as on earlier runs, and the 10-K counts stores for North America without splitting out the US. Fails the gate's US-availability rule. 1 source (SYO #3)."
+    },
+    {
+      "slug": "asos",
+      "why": "marketplace (kind=marketplace on the Jaded London run); enrich.md §1 drops marketplaces."
+    },
+    {
+      "slug": "cafepress",
+      "why": "print-on-demand custom-printing site (plaintips: 'a print-on-demand service'), a different store type; not verified."
+    },
+    {
+      "slug": "hollister",
+      "why": "unverified in its brand file: hollisterco.com serves a 'Client Challenge' page to WebFetch and curl (hollister run, 2026-10-29). Not re-tried. 1 source (plaintips #6)."
+    },
+    {
+      "slug": "forever-21",
+      "why": "verified and sells men's tees, but its mens-graphic-tees feed has 15 products, 13 marked down and 2 at regular price (one sleeveless), so there's no men's tee range to compare and no specific reason a Zumiez shopper would choose it; its US stores closed in 2025 (brand notes, Wikipedia). Left out rather than padded. 1 source (plaintips #10)."
+    },
+    {
+      "slug": "spencers",
+      "why": "unverified: spencersonline.com reset the connection to curl (HTTP/2 INTERNAL_ERROR) and returned 503 to WebFetch, one try each. A novelty-gift store; 1 source (plaintips #9)."
+    },
+    {
+      "slug": "urban-planet",
+      "why": "unverified: urbanplanet.ca returned 503 to WebFetch (curl failed TLS through the proxy); urbanplanet.com is an unrelated software company. Canada-based (SYO), US availability unknown. 1 source (SYO #10)."
+    },
+    {
+      "slug": "volcom, stussy, the-hundreds, obey-clothing, crooks-castles, huf, supreme, diamond-supply-co, hellstar, anti-social-social-club, pleasures, ripndip, emp",
+      "why": "Apart Style pool only: no kept outside source names them as alternatives to Zumiez."
+    },
+    {
+      "slug": "karmaloop, journeys, tactics, thehouse",
+      "why": "named only by the store's own homepage ranking (Karmaloop), the automated Semrush competitor page (Journeys, Tactics) or an unreadable page's sitelinks (TheHouse); no readable editorial source, so not candidates."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "Zumiez price range is a sample",
+      "url": "https://www.zumiez.com/mens/tops/t-shirts.html",
+      "check": "Sort Men's T-Shirts by Price: Low to High and High to Low in a browser; replace the 60-item page-1 range ($24.99–$64.95) with the full listing's min/max (regular price only). Sort and ?page=2 URLs came back empty to WebFetch."
+    },
+    {
+      "fact": "PacSun men's tee prices and returns",
+      "url": "https://www.pacsun.com/mens/graphic-tees/",
+      "check": "PerimeterX 403 to curl and WebFetch. Record the regular-price men's graphic tee min/max, sizes and the returns window. Unlocks a price label."
+    },
+    {
+      "fact": "Vans men's tee prices, shipping, returns",
+      "url": "https://www.vans.com/en-us",
+      "check": "403 to WebFetch and curl. Men's T-shirts regular-price range, sizes, US shipping threshold, returns days."
+    },
+    {
+      "fact": "Tillys and Foot Locker ranges are small samples",
+      "url": "https://www.tillys.com/men/clothing/t-shirts/",
+      "check": "Tillys: 14 tees from the embedded item list; Foot Locker (https://www.footlocker.com/category/mens/clothing/t-shirts.html): 9 full-price tees from the first 32 of 1,381. Sort both by price for the full range."
+    },
+    {
+      "fact": "Foot Locker shipping and returns",
+      "url": "https://www.footlocker.com/help",
+      "check": "Help-center shipping page 403 (Zendesk); record US free-shipping threshold and returns window."
+    },
+    {
+      "fact": "Hot Topic owner and US stores",
+      "url": "https://www.hottopic.com/stores",
+      "check": "Spencer Spirit Holdings' acquisition (announced Aug 7, 2026) was pending; set parent_company when it closes. Store locator loads by script, so us_stores is unset (it ships to the US, so the pick renders)."
+    },
+    {
+      "fact": "Urban Outfitters US availability",
+      "url": "https://www.urbanoutfitters.com/",
+      "check": "Confirm US shipping terms (or US stores) and a men's graphic tee range; it then becomes a pick (1 source)."
+    },
+    {
+      "fact": "Hollister, Spencer's, Urban Planet",
+      "url": "https://www.spencersonline.com/",
+      "check": "Unverified (challenge page / 503). Each has 1 source; check status, men's tees and US availability."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": null,
+  "notes": [
+    "10 picks pass enrich.md §3 (verified, sells men's clothing, ships to the US or has US stores, ≥1 outside source, one checkable reason). Target 10–15; not padded (Forever 21 left out, see rejected).",
+    "Order: same-type multi-brand stores first (Tillys, PacSun, Foot Locker, Skate Warehouse, Hot Topic), ranked by sources then price closeness to Zumiez's $24.99–$64.95 (Foot Locker 15, Skate Warehouse 25, Hot Topic 26 dollars of total end-point gap); then single-brand chains people shop for the same reason (Vans, American Eagle with 2 sources; Hurley 10, Billabong 20; Old Navy, no price).",
+    "Evidence: only 2 readable editorial lists (Style Your Occasion, 2022; PlainTips, undated). techlazy, freesiteslike and dosplash returned 503; sitestroll and digitalrecourse don't resolve here; Quora and Knoji 403; Reddit and Facebook not readable. The 'similar to zumiez' SERP in Ahrefs is an old snapshot (2017–2018 titles). 4 picks have 2 sources, 6 have 1.",
+    "Anchor verified: zumiez.com read with WebFetch (homepage, about, shipping, returns, store list, T-shirts listing, two product pages). All facts the gate needs are stored except image_url (coordinator).",
+    "Prices: Hot Topic, Skate Warehouse, Foot Locker, AE and PacSun homepage via curl with the StylodexBot UA; Hurley and Billabong from public Shopify products.json feeds; Zumiez and Tillys via WebFetch (Tillys refuses curl with 403). No price for PacSun (PerimeterX 403 on category pages), Vans (403), American Eagle (28 of 30 men's tees marked down, no regular-price tee), Old Navy (grid loads by script).",
+    "Shared scratchpad: other page agents use the same scratchpad 'patches/' folder; this run's brand patches were first written there (zumiez, tillys, pacsun, hot-topic, foot-locker, skate-warehouse, vans, hurley, billabong, american-eagle, old-navy .json) and may have overwritten another agent's same-named patch files before being moved to zumiez-run/patches/. Merges into pipeline/data/brands went through merge_brand.py only."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "The tee you wanted at Zumiez is gone in your size, or the nearest store is a long drive away. These are the stores people go to instead for skate gear, graphic tees and streetwear. Multi-brand shops built like Zumiez come first, then the single-brand chains people shop for the same reasons. Every one sells men's T-shirts, so that's the price you'll see next to Zumiez's own.",
+    "bodies": {
+      "tillys": "Tillys is the closest thing to another Zumiez. It's a chain for surf, skate and snow clothing with stores in 32 states, and it stocks the same Santa Cruz x Pokémon collab: the Power Dot Mens Tee is $31.99 here and $31.95 at Zumiez.\n\nMen's tees run $29.99 to $45, and the size filter goes up to 5XL, which helps if you need more than a 3XL. Free shipping starts at $70, a few dollars above Zumiez's $64.94. Returns get 30 days, with a $6.95 fee on a mailed return. Take an online order back to a store and it's free.\n\nShipping stops at the border, though. Tillys isn't shipping outside the US right now, so if you're ordering from Canada, Billabong is the better bet.",
+      "pacsun": "PacSun is the one for the clothes side of Zumiez. It started as a surf shop in Seal Beach, California, and now it's built around baggy jeans, hoodies and graphic tees, with its men's tees split into oversized, longline and long-sleeve cuts.\n\nThe useful trick is in the shipping. Standard shipping is free on US orders over $59, and also on any order with jeans or pants in it, so one pair of jeans gets the tees shipped free too. That offer skips Alaska, Hawaii, Puerto Rico and APO addresses.\n\nIt has stores in 46 states, so trying things on is rarely far away. If you're also after decks and trucks, Skate Warehouse sells those next to its tees.",
+      "foot-locker": "Foot Locker is for the shoe half of a Zumiez trip. It's a sneaker chain first, with 68 stores in California alone, and its men's tees follow the shoes. The Nike Air Futura T-Shirt is $35 and the Jordan 1991 Air Jordan 4 Boxy T-Shirt is $45.\n\nFull-price tees run $35 to $60. Nearly 70% of what Foot Locker sells comes from Nike, so most of the tees carry Nike or Jordan branding, and you'll find few of the skate labels Zumiez is known for. Markdowns are common on its tees, so check for a sale price before you pay list.\n\nIf skate shoes are the goal, Vans or Skate Warehouse fits better.",
+      "skate-warehouse": "Skate Warehouse makes the most sense if the board was the reason for your Zumiez trip. It's an online skate shop that sells decks, trucks, wheels and griptape next to the clothes, and its tees come from skate labels like Baker, Independent and Polar. The Pro Club Heavyweight T-Shirt, from a brand Zumiez also stocks, is $14.95 here.\n\nThe returns are the best part. You get 60 days, and orders to the 48 contiguous states come with a prepaid return label in the box. Shipping is free over $60, and tees top out at $50.\n\nThe catch is that there's no shop to walk into. Its one location, in San Luis Obispo, is for order pickup only. Tee sizes also stop at XXL, so bigger sizes are easier at Hot Topic.",
+      "hot-topic": "Hot Topic is the place when the print on the tee is the whole point. It calls itself a pop-culture merch store, so its men's tees carry bands, anime and wrestling, from the InuYasha Yellow & White T-Shirt ($12.99) to a Comfort Colors WWE John Cena Wrestlemania 23 tee ($50.90).\n\nIt also goes big. Tees run XS to 5XL, matching Tillys, and Hot Topic adds tall sizes from LT to 4XLT. Most of the range is licensed merch, so this is where the band and show tees live. Free shipping starts at $75, and returns get 30 days.\n\nPre-order merch adds $1.99 per item if it ships to your home, and nothing if you pick it up in a store.",
+      "vans": "Vans is where to go when the shoes are what you came to Zumiez for. It started in 1966 and calls itself the original action sports footwear company, and it makes apparel too, so a tee can come home with the shoes.\n\nIts own stores are the draw. Vans runs its own stores in the US, like the one at Westfield Century City in Los Angeles. Its store finder lists dealers alongside them, so pick a location named Vans Store if you want the full range. And because it's one brand, you won't find other labels next to it the way you do at Zumiez.\n\nIf you'd like a Vans tee with free 60-day returns, Skate Warehouse stocks the Vans Rowan Z Stripe T-Shirt ($50).",
+      "american-eagle": "American Eagle covers the basics side of a Zumiez haul, with logo tees and jeans under its own label. The AE Standard Fit Lightweight Logo T-Shirt lists at $17.95, and markdowns on its men's tees are common, so watch for the sale price before you buy.\n\nThe returns window is the real advantage. You get 60 days, twice Zumiez's 30, though a mailed online return costs $5 unless you're a Real Rewards Level 3 member or an AE cardholder. US shipping is free over $75.\n\nIt only sells its own label, so skip it if you're after skate brands. And the fit is in each tee's name (Standard, Boxy or Vintage Relaxed), so check it before you order.",
+      "hurley": "Hurley is the surf-label pick, with men's tees from $25 for the Icon Tee Short Sleeve to $55 for the H2O Dri Slub Short Sleeve. It began as Bob Hurley's surfboard business in Southern California in 1979, and it still sells itself as surf, skate and streetwear inspired by beach culture.\n\nSizes run XS to XXL. Free shipping needs a $99 order, which is a lot of tees, and a return costs $5 per item with its label. You get 30 days, but online orders can't go back to a store.\n\nBillabong is the other surf label here. Its tees stop at $49.95, but its free-shipping bar is higher still, at $125.",
+      "billabong": "Billabong is the Australian half of the surf pair. It was founded on the Gold Coast in 1973, and its regular-price men's tees run from the Hollow Premium Short Sleeve Knit T-Shirt ($29.95) to the Blueprint Crewneck T-Shirt ($49.95).\n\nIt ships to Canada as well as the US, which Tillys doesn't. Shipping cost is the downside. Free US delivery starts at $125, the highest bar on this list, and smaller orders pay $10. Every return or exchange also carries a $7.50 restocking fee, so buy in a size you're sure of. Tees come in S to XXL.\n\nPlenty of its men's tees are marked down, so check the sale section before paying full price.",
+      "old-navy": "Old Navy is the easy fallback for plain tees, because it's nearly everywhere. Its stores cover 49 states plus DC and Puerto Rico, and Gap Inc. runs it as its value apparel brand.\n\nTwo things beat most picks here. Returns are free on every order, by prepaid label or in a store, and it sells big and tall sizes for adults. Free shipping needs a $50 order and a Rewards membership, which is free to join, and it covers anywhere in the US, Puerto Rico included.\n\nIt only sells its own label, so you won't find the skate or streetwear brands Zumiez carries."
+    },
+    "best_for": {
+      "tillys": "a second mall store with the same skate collabs",
+      "pacsun": "baggy jeans and graphic tees shipped free from $59",
+      "foot-locker": "Nike and Jordan tees to match your sneakers",
+      "skate-warehouse": "decks, trucks and tees with 60 days to return",
+      "hot-topic": "band and anime tees up to 5XL or in tall sizes",
+      "vans": "skate shoes straight from the brand's own stores",
+      "american-eagle": "logo tees and jeans with a 60-day return window",
+      "hurley": "surf-brand tees from $25 in XS to XXL",
+      "billabong": "surf tees when you're ordering from Canada",
+      "old-navy": "plain tees and free returns from a store nearby"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with what you went to Zumiez for. For the same mix of skate, surf and street labels under one roof, Tillys is the nearest match, and PacSun if the jeans and hoodies matter more than the brands. For boards and parts, Skate Warehouse, which also has the easiest returns here. For shoes, Vans covers skate styles and Foot Locker covers Nike and Jordan. If size is the problem, Hot Topic and Tillys both go to 5XL, and Hot Topic adds tall. On a budget, Hot Topic's tees start at $12.99 and Skate Warehouse's at $14.95. And if you want time to change your mind, American Eagle and Skate Warehouse both give you 60 days."
+    },
+    "faqs": [
+      {
+        "q": "Is Zumiez closing?",
+        "a": "Not as a company. Zumiez still sells online and runs stores across the US, with 85 in California alone, and it ships free to the contiguous US on orders over $64.94.",
+        "source_query": "is zumiez closing"
+      },
+      {
+        "q": "What is Zumiez?",
+        "a": "A store for skate shoes, skateboards, snowboards and streetwear. Tom Campion founded it in Seattle in 1978 as a single store called Above the Belt, and it now has more than 700 stores across North America and Europe.",
+        "source_query": "what is zumiez"
+      },
+      {
+        "q": "Who owns Zumiez?",
+        "a": "It's a public company, Zumiez Inc., listed on Nasdaq as ZUMZ since 2005 and based in Lynnwood, Washington.",
+        "source_query": "who owns zumiez"
+      },
+      {
+        "q": "Does Zumiez sell skateboards?",
+        "a": "Yes. Skate is one of its main departments, next to Snow, and it sells skate hardgoods alongside clothes and shoes. Skate Warehouse is the online specialist if you also want trucks, wheels and griptape.",
+        "source_query": "does zumiez sell skateboards"
+      }
+    ]
+  }
+}
