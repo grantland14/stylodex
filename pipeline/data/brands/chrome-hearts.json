@@ -4,28 +4,58 @@
   "website_url": "https://www.chromehearts.com",
   "status": "verified",
   "kind": "brand",
-  "known_for": null,
-  "hq_country": null,
-  "founded_year": null,
+  "known_for": "Silver Jewelry and Leather",
+  "hq_country": "US",
+  "founded_year": 1988,
   "parent_company": null,
   "size_range": null,
   "has_plus": null,
   "has_petite": null,
   "has_tall": null,
-  "ships_to": [],
+  "ships_to": [
+    "US"
+  ],
   "free_shipping_min_usd": null,
-  "returns_days": null,
-  "prices": [],
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "underwear",
+      "currency": "USD",
+      "min": 95,
+      "max": 275,
+      "min_usd": 95,
+      "max_usd": 275,
+      "fx_date": null,
+      "item_count": 6,
+      "source_url": "https://www.chromehearts.com/boxers-leggings",
+      "checked_at": "2026-10-29",
+      "note": "Boxers & Leggings page: 6 items, BOXER BRIEF - SHORTS $95 to LEGGINGS and LONG JOHNS $275; no strikethrough or sale prices shown."
+    }
+  ],
   "materials": [],
   "certifications": [],
   "production_model": null,
   "sale_pattern": null,
   "sources": [
-    "https://www.chromehearts.com/"
+    "https://www.chromehearts.com/",
+    "https://www.chromehearts.com/boxers-leggings",
+    "https://www.chromehearts.com/general.html",
+    "https://www.chromehearts.com/locations.html",
+    "https://www.chromehearts.com/magazine.html",
+    "https://en.wikipedia.org/wiki/Chrome_Hearts"
   ],
   "notes": [
     "Live official site (© 2026 Chrome Hearts LLC) with an online shop, but its shop categories are Baccarat, Scents and Underwear; no tees sold online.",
-    "Coordinator: status back to verified. off_category had been set for one category miss; status is shared by every page, so the category miss now lives in prices and sells_categories only (enrich.md §2)."
+    "Coordinator: status back to verified. off_category had been set for one category miss; status is shared by every page, so the category miss now lives in prices and sells_categories only (enrich.md §2).",
+    "2026-10-29 (brands like Chrome Hearts, C = rings): the online shop (nav: Baccarat, Scents, Underwear > Boxers & Leggings, Intimates, Socks) sells no jewelry or rings, so there is no ring price from its own store and rings is left out of prices and sells_categories. No official page read names jewelry (general.html, locations.html and magazine.html list only the shop categories). Status stays verified: live and selling underwear.",
+    "general.html: corporate office 915 N Mansfield Ave, Hollywood, CA 90038 (hq_country US); 'Standard Shipping (Ground) is provided for all US orders' and orders ship only within the 'Delivery Zone' (no other countries named, so ships_to is US only); returns 'within thirty (30) calendar days from the delivery date', return labels prepaid; website purchases can't be returned to stores.",
+    "locations.html lists 10 US boutiques: Aspen, Honolulu, Las Vegas (Caesars Palace, Fontainebleau, Wynn Plaza), Los Angeles, Malibu, Miami, New York West Village and Upper East Side; plus St. Barth, China, Hong Kong, Taiwan, Japan, South Korea, UK and France.",
+    "Wikipedia (https://en.wikipedia.org/wiki/Chrome_Hearts): founded 1988 in a Los Angeles garage by Richard Stark, John Bowman and Leonard Kamhout (Bloomberg, Hypebeast, Chicago Tribune citations); Bowman and Kamhout left in 1994; co-owned today by Richard Stark and Laurie Lynn Stark (Complex citation), private, no parent; known for silver, gold and diamond accessories plus eyewear, leather, apparel and furniture; most items made in Hollywood, eyewear mainly in Japan, fragrance in France; sold through its own boutiques and retailers such as Bergdorf Goodman and Selfridges. known_for 'Silver Jewelry and Leather' is from this, since the brand's own pages state no positioning.",
+    "size_range left empty: the boxers page shows no size list (size codes only appear in product URLs)."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "us_stores": true,
+  "sells_categories": [
+    "underwear"
+  ]
 }

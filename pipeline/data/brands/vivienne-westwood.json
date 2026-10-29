@@ -1,0 +1,59 @@
+{
+  "name": "Vivienne Westwood",
+  "website_url": "https://www.viviennewestwood.com/en-us/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Orb Jewelry and Punk Fashion",
+  "hq_country": "GB",
+  "size_range": "XS–XL; rings XXS–XXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "us_stores": true,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "jewelry",
+      "currency": "USD",
+      "min": 90,
+      "max": 1200,
+      "min_usd": 90,
+      "max_usd": 1200,
+      "fx_date": null,
+      "item_count": 444,
+      "source_url": "https://www.viviennewestwood.com/en-us/women/jewellery/",
+      "checked_at": "2026-10-29",
+      "note": "Women's Jewellery page states 444 items. Sorted price-low-to-high: Adel Single Stud Earring $90 lowest; price-high-to-low: Pimlico Earrings (Gold, Solid Gold) $1,200 highest. No struck-through or sale prices on either sorted page or the default first 28."
+    }
+  ],
+  "sells_categories": [
+    "jewelry"
+  ],
+  "sources": [
+    "https://www.viviennewestwood.com/en-us/",
+    "https://www.viviennewestwood.com/en-us/women/jewellery/",
+    "https://www.viviennewestwood.com/en-us/women/jewellery/?srule=price-low-to-high",
+    "https://www.viviennewestwood.com/en-us/women/jewellery/?srule=price-high-to-low",
+    "https://www.viviennewestwood.com/en-us/women/clothing/",
+    "https://www.viviennewestwood.com/en-us/bags/",
+    "https://www.viviennewestwood.com/en-us/women/clothing/dresses/",
+    "https://www.viviennewestwood.com/en-us/women/jewellery/rings/",
+    "https://www.viviennewestwood.com/en-us/customer-service/shipping-information/",
+    "https://www.viviennewestwood.com/en-us/customer-service/returns-and-refunds/refunds/refund-how-to-return.html",
+    "https://www.viviennewestwood.com/en-us/storelist/",
+    "https://en.wikipedia.org/wiki/Vivienne_Westwood"
+  ],
+  "notes": [
+    "US store prices in USD. Category counts on 2026-10-29: Women's Jewellery 444 (Necklaces 150, Earrings 131, Rings 57, Bracelets 61, Solid Gold 5), Bags 217, Women's Clothing 112. Jewellery is the largest line, hence C = jewelry.",
+    "Named jewellery: Solid Orb Earrings $115, London Orb Ring $135, Mini Bas Relief Earrings $170, Mini Bas Relief Pendant Necklace $210, Mini Bas Relief Pearl Choker $260, Chaos Pearl necklace $380 (homepage), Three Row Pearl Bas Relief Choker $725, Pimlico Pendant Necklace (solid gold) $1,105, Pimlico Earrings (solid gold) $1,200. Listings name finishes like Platinum/Gold with pearls, crystal, CZ; only 5 pieces labelled SOLID GOLD.",
+    "Shipping page: ships worldwide incl. US (Zone 6, rate table shows 21,9 €, calculated at checkout), CA, AU, GB. Free-shipping promotions ($400) exclude the US. Orders dispatched in 2-3 working days; sales add 2-3 days.",
+    "Returns (How To Return): 30 days from delivery; free with the prepaid label; orders outside UK/EU must request a return form; earrings, socks, swimwear and underwear can't be returned unless faulty.",
+    "Store list: US stores at 14 E. 55th Street New York, 8320 Melrose Avenue Los Angeles, and an outlet at 2501 Hempstead Turnpike (Belmont, NY).",
+    "Size filters: dresses XS–XL, UK 6–16, IT 36–48; rings XXS–XXL. Wikipedia: operating company Vivienne Westwood Ltd, original shop 430 Kings Road London; orb logo from the 1987/88 Harris Tweed collection; credited with bringing punk into the mainstream."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "vivienne-westwood"
+}

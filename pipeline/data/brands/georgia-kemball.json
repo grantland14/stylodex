@@ -1,0 +1,51 @@
+{
+  "name": "Georgia Kemball",
+  "website_url": "https://georgiakemball.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Hand-Carved Mythical Silver Charms",
+  "hq_country": "GB",
+  "founded_year": 2017,
+  "size_range": "Rings UK H–R",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 14,
+  "materials": [
+    "Recycled silver and gold"
+  ],
+  "production_model": "Made in a South London studio",
+  "prices": [
+    {
+      "category": "jewelry",
+      "currency": "GBP",
+      "min": 100.0,
+      "max": 600.0,
+      "min_usd": 132.88,
+      "max_usd": 797.25,
+      "fx_date": "2026-10-28",
+      "item_count": 30,
+      "source_url": "https://georgiakemball.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "products.json (GBP), all 30 available products (jewellery: pendants, rings, pins, earrings), no markdowns: Tiny Flower £100 to Diamond Flower Ring £600; Dragon and Goblin sterling silver pendants £120, Cherub Oval Pendant £180."
+    }
+  ],
+  "sells_categories": [
+    "jewelry"
+  ],
+  "sources": [
+    "https://georgiakemball.com/products.json?limit=250",
+    "https://georgiakemball.com/pages/about",
+    "https://georgiakemball.com/policies/shipping-policy",
+    "https://georgiakemball.com/policies/refund-policy"
+  ],
+  "notes": [
+    "About: London based jewellery brand est. 2017; magic and mythology; recycled silver and gold; carved in wax and cast mostly by Georgia in a South London studio.",
+    "Shipping: DHL Express, rest of world £30, 3-8 working days; local duties not included. Returns/exchanges within 14 days of delivery, customer pays shipping."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "georgia-kemball"
+}

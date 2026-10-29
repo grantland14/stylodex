@@ -1,0 +1,47 @@
+{
+  "name": "Simone Rocha",
+  "website_url": "https://shop-us.simonerocha.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Pearl and Floral Jewelry and Womenswear",
+  "hq_country": "GB",
+  "size_range": "Women 4–14 and XS–XXL",
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": true,
+  "free_shipping_min_usd": 600,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "jewelry",
+      "currency": "USD",
+      "min": 255.0,
+      "max": 865.0,
+      "min_usd": 255.0,
+      "max_usd": 865.0,
+      "fx_date": null,
+      "item_count": 23,
+      "source_url": "https://shop-us.simonerocha.com/collections/jewellery",
+      "checked_at": "2026-10-29",
+      "note": "US store products.json (USD), Earrings + Necklace types, available, no compare_at markdown: Claddagh & Pearl Hoop Earrings $255 to V-Line Floral Necklace $865; also Mini Daisy Drop Earrings $285, Stacked Link Pearl Chain Necklace $715. Hair clips excluded."
+    }
+  ],
+  "sells_categories": [
+    "jewelry"
+  ],
+  "sources": [
+    "https://shop-us.simonerocha.com/products.json?limit=250",
+    "https://shop-us.simonerocha.com/policies/shipping-policy",
+    "https://shop-us.simonerocha.com/policies/refund-policy",
+    "https://shop-us.simonerocha.com/pages/about",
+    "https://simonerocha.com/policies/refund-policy"
+  ],
+  "notes": [
+    "US store ships from the New York flagship by UPS/USPS: $15 standard, free over $600 (not Hawaii/Alaska or Crocs/adidas collabs). Returns 14 days, $15 return fee, original shipping not refunded.",
+    "About: four stand-alone stores in London, New York and Taiwan; shop-in-shops at Dover Street Market; debuted at London Fashion Week 2010. UK store simonerocha.com prices in GBP; London Mount Street store contact.",
+    "Sizes on US store: dresses/skirts 4–14, tops XS–XXL."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "simone-rocha"
+}

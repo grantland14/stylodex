@@ -1,0 +1,55 @@
+{
+  "slug": "werkstatt-munchen",
+  "name": "Werkstatt:München",
+  "website_url": "https://www.werkstatt-muenchen.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Jewelry Handmade in Munich",
+  "hq_country": "DE",
+  "founded_year": 1996,
+  "size_range": "French ring sizes 49–68",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 14,
+  "production_model": "Handmade in its own Munich atelier",
+  "materials": [
+    "Recycled metals"
+  ],
+  "prices": [
+    {
+      "category": "rings",
+      "currency": "EUR",
+      "min": 175,
+      "max": 20250,
+      "min_usd": 194.83,
+      "max_usd": 22544.33,
+      "fx_date": "2026-10-28",
+      "item_count": 100,
+      "source_url": "https://www.werkstatt-muenchen.com/collections/all-rings/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "All Rings collection: 101 products, 1 non-ring excluded, 100 regular, none marked down. Silver from €175 (ring classic round forged) to €20,250 (4 ring combination hammered gold). EUR store; USD at ECB 2026-10-28. Regular price = no variant with compare_at_price above price (Shopify products.json, the test product-images.mjs uses); price-zero items excluded."
+    }
+  ],
+  "sells_categories": [
+    "rings"
+  ],
+  "sources": [
+    "https://www.werkstatt-muenchen.com/pages/history",
+    "https://www.werkstatt-muenchen.com/pages/size",
+    "https://www.werkstatt-muenchen.com/policies/shipping-policy",
+    "https://www.werkstatt-muenchen.com/policies/refund-policy",
+    "https://www.werkstatt-muenchen.com/meta.json",
+    "https://www.werkstatt-muenchen.com/collections/all-rings/products.json?limit=250"
+  ],
+  "notes": [
+    "History: founded 1996 in Munich by Klaus Lohmeyer, a master gold and silversmith; jewelry 'handmade in Munich, Germany' in its own atelier; recycled metals, no chemical coatings, no plated pieces.",
+    "Shipping: country selector includes Australia, Canada, UK, US; priority shipping outside Europe/Asia €43, US 2-6 business days; US duties and import taxes charged on delivery to the recipient ('Every shipment to the United States is subject to import charges, whatever its value'). No free-shipping threshold.",
+    "Returns: 14-day withdrawal; from outside the EU a flat €50 return label and customs fee is deducted and import duties aren't refunded; made-to-order pieces excluded.",
+    "Sizes: XXS 49, XS 52, S 54, M 60, L 65, XL 68 (French sizes). Named rings: ring classic round forged €175 (hammered with a polished silversmith hammer), cross ring forged €385 (forged from a rectangular silver profile, winds round the finger twice)."
+  ],
+  "checked_at": "2026-10-29"
+}

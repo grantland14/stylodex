@@ -1,0 +1,52 @@
+{
+  "name": "Monies",
+  "website_url": "https://monies.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Sculptural Jewelry in Natural Materials",
+  "hq_country": "DK",
+  "founded_year": 1973,
+  "size_range": "Rings one size",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 30,
+  "materials": [
+    "Horn",
+    "Stone",
+    "Shell",
+    "Wood"
+  ],
+  "prices": [
+    {
+      "category": "jewelry",
+      "currency": "DKK",
+      "min": 1144.0,
+      "max": 128823.0,
+      "min_usd": 170.4,
+      "max_usd": 19188.75,
+      "fx_date": "2026-10-28",
+      "item_count": 390,
+      "source_url": "https://monies.com/collections/all",
+      "checked_at": "2026-10-29",
+      "note": "products.json (DKK; product page shows 1.144 kr for Fides stud earrings, tax and duties included), jewellery types, available, no markdowns: Fides stud earrings DKK 1,144 to a prehistoric shark tooth and ammonite necklace DKK 128,823; Katherine acacia wood necklace DKK 4,422."
+    }
+  ],
+  "sells_categories": [
+    "jewelry"
+  ],
+  "sources": [
+    "https://monies.com/products.json?limit=250",
+    "https://monies.com/products/fides-earring-polyester",
+    "https://monies.com/pages/shipping-and-returns",
+    "https://monies.com/pages/our-story",
+    "https://monies.com/"
+  ],
+  "notes": [
+    "Our story: founded in Copenhagen in 1973 by Gerda and Nikolai Monies; works with horn, stone, shell, wood, fossils, pearls and minerals. Homepage title: Sculptural Jewellery in Extraordinary Natural Materials.",
+    "Shipping: standard shipping free on all orders; outside the EU shipped delivered duty paid; US customers may still owe local state tax. Returns 30 days; non-EU return fee €20; bespoke pieces excluded."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "monies"
+}

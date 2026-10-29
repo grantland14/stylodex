@@ -1,0 +1,52 @@
+{
+  "name": "Tom Wood",
+  "website_url": "https://www.tomwoodproject.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Recycled Silver Jewelry From Oslo",
+  "hq_country": "NO",
+  "founded_year": 2013,
+  "size_range": "Rings EU 42–68",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 30,
+  "materials": [
+    "100% recycled precious metals"
+  ],
+  "prices": [
+    {
+      "category": "jewelry",
+      "currency": "USD",
+      "min": 139.0,
+      "max": 5439.0,
+      "min_usd": 139.0,
+      "max_usd": 5439.0,
+      "fx_date": null,
+      "item_count": 393,
+      "source_url": "https://www.tomwoodproject.com/collections/all",
+      "checked_at": "2026-10-29",
+      "note": "products.json (USD, matches the US product page: Ear Cuff Slim $139), jewellery types, available, regular price only (135 marked down excluded): Ear Cuff Slim $139 to Tilt Ring Gold Brilliant $5,439; Maze Ring and Rue Chain $439."
+    }
+  ],
+  "sells_categories": [
+    "jewelry"
+  ],
+  "sources": [
+    "https://www.tomwoodproject.com/products.json?limit=250",
+    "https://www.tomwoodproject.com/products/ear-cuff-slim",
+    "https://www.tomwoodproject.com/pages/about-tom-wood",
+    "https://www.tomwoodproject.com/policies/shipping-policy",
+    "https://www.tomwoodproject.com/policies/refund-policy"
+  ],
+  "notes": [
+    "About: HQ and showroom in Grünerløkka, Oslo; founded 2013 by Mona Jensen; Responsible Jewellery Council certified. Product page: all precious metals 100% recycled.",
+    "Shipping: free worldwide on all orders by DHL Express, delivery duty paid. Returns: 30 days; USA return fee $25 deducted from refund; no exchanges."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "tom-wood"
+}

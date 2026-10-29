@@ -1,0 +1,49 @@
+{
+  "name": "Sophie Buhai",
+  "website_url": "https://www.sophiebuhai.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Sterling Silver Jewelry Made in LA",
+  "hq_country": "US",
+  "founded_year": 2015,
+  "size_range": "Rings US 3–10",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 500,
+  "returns_days": 10,
+  "materials": [
+    "Sterling silver"
+  ],
+  "production_model": "Made in the Los Angeles area",
+  "prices": [
+    {
+      "category": "jewelry",
+      "currency": "USD",
+      "min": 150.0,
+      "max": 22000.0,
+      "min_usd": 150.0,
+      "max_usd": 22000.0,
+      "fx_date": null,
+      "item_count": 266,
+      "source_url": "https://www.sophiebuhai.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "products.json (USD), WEARABLE OBJECT items whose titles are jewellery, available, regular price only (6 marked down excluded): Pearl Baby Bracelet/Anklet $150 to 18K Gold Circle Link Necklace $22,000; Small Single Layered Hoops $180, Large Reversible Hinged Hoops $550."
+    }
+  ],
+  "sells_categories": [
+    "jewelry"
+  ],
+  "sources": [
+    "https://www.sophiebuhai.com/products.json?limit=250",
+    "https://www.sophiebuhai.com/pages/about",
+    "https://www.sophiebuhai.com/policies/shipping-policy",
+    "https://www.sophiebuhai.com/policies/refund-policy"
+  ],
+  "notes": [
+    "About: Los Angeles studio founded 2015; sterling silver is the signature material; made with artisans and silversmiths in the LA area; Paris showroom on Rue de Babylone.",
+    "Shipping: free on jewelry and hair orders over $500 in the contiguous US. Returns: store credit or exchange within 10 days of delivery, no refunds; international orders final sale."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "sophie-buhai"
+}

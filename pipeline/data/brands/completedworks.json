@@ -1,0 +1,49 @@
+{
+  "name": "Completedworks",
+  "website_url": "https://completedworks.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Recycled Vermeil and Silver Jewelry",
+  "hq_country": "GB",
+  "founded_year": 2013,
+  "size_range": "Rings UK H–V",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 132.88,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "jewelry",
+      "currency": "GBP",
+      "min": 95.0,
+      "max": 16000.0,
+      "min_usd": 126.23,
+      "max_usd": 21260.13,
+      "fx_date": "2026-10-28",
+      "item_count": 807,
+      "source_url": "https://completedworks.com/collections/jewellery",
+      "checked_at": "2026-10-29",
+      "note": "products.json (GBP), jewellery types (earrings, necklace, rings, bracelet, brooch, pin, cufflinks), available, no markdowns: £95 (Husband Number Six? resin and gold vermeil single earring) to £16,000 (Bright Hours 18ct white gold and diamond earrings). Suburbs Recycled Gold Vermeil Earrings £235. Homeware excluded."
+    }
+  ],
+  "sells_categories": [
+    "jewelry"
+  ],
+  "sources": [
+    "https://completedworks.com/products.json?limit=250",
+    "https://completedworks.com/policies/shipping-policy",
+    "https://completedworks.com/policies/refund-policy",
+    "https://completedworks.com/pages/about"
+  ],
+  "notes": [
+    "About: founded by siblings in London in 2013; prioritises recycled and renewable resources. Also sells ceramics and glass.",
+    "Shipping: delivers worldwide by DHL; free worldwide over £100; under £100 the US is £10; US duties and taxes are the receiver's.",
+    "Returns: within 14 days of delivery; US return label £15 flat; duties not refunded."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "completedworks"
+}

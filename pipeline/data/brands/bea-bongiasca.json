@@ -1,0 +1,49 @@
+{
+  "name": "Bea Bongiasca",
+  "website_url": "https://beabongiasca.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Gold Jewelry With Bright Enamel",
+  "hq_country": "IT",
+  "founded_year": 2013,
+  "size_range": "Rings EU 42–60",
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 556.65,
+  "returns_days": 14,
+  "materials": [
+    "Gold and enamel"
+  ],
+  "prices": [
+    {
+      "category": "jewelry",
+      "currency": "EUR",
+      "min": 90.0,
+      "max": 13480.0,
+      "min_usd": 100.2,
+      "max_usd": 15007.28,
+      "fx_date": "2026-10-28",
+      "item_count": 233,
+      "source_url": "https://beabongiasca.com/collections/all",
+      "checked_at": "2026-10-29",
+      "note": "products.json (EUR), rings/earrings/necklaces/bracelets, available, no markdowns, gift card excluded: Flower Ear Cuff €90 (silver with enamel) to Chunky Ring in White Gold €13,480; Tarallo Earrings €530."
+    }
+  ],
+  "sells_categories": [
+    "jewelry"
+  ],
+  "sources": [
+    "https://beabongiasca.com/products.json?limit=250",
+    "https://beabongiasca.com/pages/about",
+    "https://beabongiasca.com/policies/shipping-policy",
+    "https://beabongiasca.com/policies/refund-policy"
+  ],
+  "notes": [
+    "About: Milan label and studio launched 2013; flagship at 25 Via Solferino; gold submerged in bright enamel colours.",
+    "Shipping: United States zone €35, free over €500, customs taxes included (no extra costs on arrival); Canada €40. Returns or exchanges within 14 days of delivery, with prior notice."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "bea-bongiasca"
+}

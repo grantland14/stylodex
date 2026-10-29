@@ -1,0 +1,51 @@
+{
+  "name": "Chopova Lowena",
+  "website_url": "https://chopovalowena.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Folklore Sportswear and Carabiner Skirts",
+  "hq_country": "GB",
+  "size_range": "XXS–XL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 14,
+  "materials": [
+    "Recycled and deadstock textiles"
+  ],
+  "prices": [
+    {
+      "category": "jewelry",
+      "currency": "USD",
+      "min": 198.0,
+      "max": 796.0,
+      "min_usd": 198.0,
+      "max_usd": 796.0,
+      "fx_date": null,
+      "item_count": 19,
+      "source_url": "https://chopovalowena.com/en-us/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US market /en-us/products.json (USD), type Jewellery, available, regular price only (28 marked down excluded): Red and Blue Safety Pin Bracelet $198 to Gem Drop Earrings $796; Hold My Orb Charm Necklace $238, Skull and Cross Bones Necklace $259. UK store: same items £145–£585."
+    }
+  ],
+  "sells_categories": [
+    "jewelry"
+  ],
+  "sources": [
+    "https://chopovalowena.com/en-us/products.json?limit=250",
+    "https://chopovalowena.com/products.json?limit=250",
+    "https://chopovalowena.com/policies/shipping-policy",
+    "https://chopovalowena.com/policies/refund-policy",
+    "https://chopovalowena.com/pages/about"
+  ],
+  "notes": [
+    "Shipping policy: all orders ship from its studio in London; ships worldwide; no longer ships to the USA delivery duty paid, so US orders may incur customs, duty and tax.",
+    "Returns: full-price items within 14 days; customer pays return postage; discounted items final sale.",
+    "About: folklore mixed with sportswear, artisans employed in Bulgaria, recycled and deadstock textiles; collections include Carabiner Skirts."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "chopova-lowena"
+}

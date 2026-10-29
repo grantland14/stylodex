@@ -1,0 +1,50 @@
+{
+  "slug": "parts-of-four",
+  "name": "Parts of Four",
+  "website_url": "https://partsof4.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Talismanic Jewelry and Objects",
+  "hq_country": "FR",
+  "founded_year": 2011,
+  "size_range": "US ring sizes 4–13",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "rings",
+      "currency": "EUR",
+      "min": 310,
+      "max": 12340,
+      "min_usd": 345.12,
+      "max_usd": 13738.12,
+      "fx_date": "2026-10-28",
+      "item_count": 1278,
+      "source_url": "https://partsof4.com/collections/rings/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Rings collection (6 pages): 1,278 regular-price rings; compare_at equals price, so none marked down. From Crescent Rift Ring (Wedge Var. 7.5mm, MA) €310 to Sistema Ring (Fuse, 1.6 CT, 12mm, DA18K+SPDIA) €12,340. EUR store; USD at ECB 2026-10-28. Regular price = no variant with compare_at_price above price (Shopify products.json, the test product-images.mjs uses); price-zero items excluded."
+    }
+  ],
+  "sells_categories": [
+    "rings"
+  ],
+  "sources": [
+    "https://partsof4.com/pages/about",
+    "https://partsof4.com/pages/shipping-and-returns",
+    "https://partsof4.com/meta.json",
+    "https://partsof4.com/collections/rings/products.json?limit=250"
+  ],
+  "notes": [
+    "About: founded 2011, designed by Los Angeles-born artist Evan Sugerman; jewelry, objects, furniture; only visit location Paris (36 Rue Charlot); US stockists include Atelier NY, H. Lorenzo (West Hollywood) and SVRN (Chicago). Store: Paris, FR, EUR; description 'jewelry and talismanic objects made from precious metals, crystals, rough diamonds and organic materials'.",
+    "Shipping: 'Fully free shipping worldwide', and it covers import taxes and duties. meta.json ships_to_countries ['*'] (all). free_shipping_min_usd 0.",
+    "Returns: 'Items can be returned for exchange or store credit within 14 days from delivery', with a return authorization number; return shipping paid back.",
+    "Variant codes: MA tagged 'Matte Sterling Silver' (e.g. Crescent Rift Ring, MA, €310; Sistema Ring Bridge Plus 4mm MA+MZ, €350, tags Matte Sterling Silver and Matte white bronze); DA18K/DIA items are gold and diamond."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "the-great-frog",
+  "name": "The Great Frog",
+  "website_url": "https://thegreatfroglondon.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "London Rock and Roll Jewelry",
+  "hq_country": "GB",
+  "founded_year": 1972,
+  "size_range": "UK ring sizes F½–Z+1",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "us_stores": true,
+  "returns_days": 28,
+  "production_model": "Handmade in London",
+  "prices": [
+    {
+      "category": "rings",
+      "currency": "GBP",
+      "min": 130,
+      "max": 5800,
+      "min_usd": 172.74,
+      "max_usd": 7706.8,
+      "fx_date": "2026-10-28",
+      "item_count": 223,
+      "source_url": "https://thegreatfroglondon.com/collections/rings/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Rings collection: 223 regular-price rings, none marked down. From the 4mm Rounded Plain Band and Los Angelitos Ring (£130) to £5,800 (gold/stone pieces). Store base currency GBP (cart.js); USD at ECB 2026-10-28. Regular price = no variant with compare_at_price above price (Shopify products.json, the test product-images.mjs uses); price-zero items excluded."
+    }
+  ],
+  "sells_categories": [
+    "rings"
+  ],
+  "sources": [
+    "https://thegreatfroglondon.com/en-us/pages/about",
+    "https://thegreatfroglondon.com/policies/shipping-policy",
+    "https://thegreatfroglondon.com/policies/refund-policy",
+    "https://thegreatfroglondon.com/en-us/pages/delivery-returns-1",
+    "https://thegreatfroglondon.com/meta.json",
+    "https://thegreatfroglondon.com/cart.js",
+    "https://thegreatfroglondon.com/collections/rings/products.json?limit=250"
+  ],
+  "notes": [
+    "About: 'founded in 1972 in the heart of London by my parents, Paterson Riley and Carol Lehtonen-Riley', first shop on Carnaby Street; calls itself 'London's rock'n'roll jewellers'; orders 'processed and shipped from our London workshop'. Store description: 'handmade jewellery in London since 1972'.",
+    "US stores per About page: New York flagship on Orchard Street (Lower East Side) and Los Angeles store on Melrose Avenue (opened 2014). Also Tokyo; Dover Street Market stocks it.",
+    "Shipping: international by DHL, 1-3 days once dispatched; handmade jewellery takes about a week to make; 'Shipping, duties and taxes will be calculated at checkout and pre-paid before shipping'. Free shipping only on UK orders (£200 on delivery-returns page, £250 on shipping policy). ships_to from meta.json ships_to_countries (235 incl. US, CA, GB, AU).",
+    "Returns: online orders refundable 'within 28 days of delivery', unworn; online jewellery orders not eligible for exchange; resizing from £35.",
+    "Named products: Small Skull Ring £145; Skull & Crossbones Ring £235 ('A classic pirate symbol crafted into a Sterling Silver Ring', made to order). Ring sizes are UK letters (variant options F½ to Z+1)."
+  ],
+  "checked_at": "2026-10-29"
+}

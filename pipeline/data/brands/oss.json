@@ -1,0 +1,53 @@
+{
+  "slug": "oss",
+  "name": "OSS",
+  "website_url": "https://oss-oss.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Handmade Sculptural Silver Jewelry",
+  "hq_country": "ES",
+  "founded_year": 2016,
+  "size_range": "US ring sizes 4–15",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "production_model": "Handmade to order",
+  "materials": [
+    "Silver 925"
+  ],
+  "prices": [
+    {
+      "category": "rings",
+      "currency": "EUR",
+      "min": 180,
+      "max": 660,
+      "min_usd": 200.39,
+      "max_usd": 734.78,
+      "fx_date": "2026-10-28",
+      "item_count": 91,
+      "source_url": "https://oss-oss.com/collections/rings/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Rings collection: 91 regular-price rings, none marked down. PSI, TAU and UPSILON Rings €180 to CERE DOUBLE RING €660. EUR store; USD at ECB 2026-10-28. Regular price = no variant with compare_at_price above price (Shopify products.json, the test product-images.mjs uses); price-zero items excluded."
+    }
+  ],
+  "sells_categories": [
+    "rings"
+  ],
+  "sources": [
+    "https://oss-oss.com/en-us/pages/copy-of-about",
+    "https://oss-oss.com/en-us/policies/shipping-policy",
+    "https://oss-oss.com/en-us/policies/refund-policy",
+    "https://oss-oss.com/meta.json",
+    "https://oss-oss.com/collections/rings/products.json?limit=250"
+  ],
+  "notes": [
+    "About: founded 2016 by Josefina and Pablo, an Argentine couple, studio in Madrid after about five years in Paris; handmade jewelry 'somewhere between jewelry, sculpture and object design'. Store description: 'Handmade Jewelry. Madrid studio'. Some product pages say pieces ship 'direct from our Paris atelier'.",
+    "Shipping: 'We ship worldwide using UPS'; 1-3 business days Europe, 4-8 international. ships_to from meta.json (148 incl. US, CA, GB, AU). No free-shipping threshold stated.",
+    "Returns: 'all sales are final', no refunds or change-of-mind returns; only damaged or faulty items reviewed for repair, replacement or credit. returns_days left empty (no window exists).",
+    "Named rings: CENTURION RING €200 (oxidized or black Silver 925, hand engraved logo, made to order, sizes US 4-13), PSI RING €180."
+  ],
+  "checked_at": "2026-10-29"
+}

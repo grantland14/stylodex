@@ -1,0 +1,45 @@
+{
+  "name": "Ashley Williams",
+  "website_url": "https://ashleywilliamslondon.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Womenswear and Star Charm Jewelry",
+  "hq_country": "GB",
+  "size_range": "XXS–XL; rings S–L",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB"
+  ],
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "jewelry",
+      "currency": "GBP",
+      "min": 110.0,
+      "max": 340.0,
+      "min_usd": 146.16,
+      "max_usd": 451.78,
+      "fx_date": "2026-10-28",
+      "item_count": 33,
+      "source_url": "https://ashleywilliamslondon.com/collections/accessories",
+      "checked_at": "2026-10-29",
+      "note": "products.json (GBP; store shows GBP, EUR, USD, JPY), titles that are jewellery (all Ashley Williams x YVMIN), available, regular price only (3 marked down excluded): Star Hoop/Stud Earrings £110 to Floral Toilet Paper Bracelet £340; Star Necklace £160."
+    }
+  ],
+  "sells_categories": [
+    "jewelry"
+  ],
+  "sources": [
+    "https://ashleywilliamslondon.com/products.json?limit=250",
+    "https://ashleywilliamslondon.com/pages/shipping",
+    "https://ashleywilliamslondon.com/",
+    "https://ashleywilliamslondon.com/pages/stockists"
+  ],
+  "notes": [
+    "Shipping page: America/Canada £18 flat, 7-15 days; import charges are the customer's. Returns initiated within 14 days; returns go to its UK address; sale and pre-order items final.",
+    "hq_country GB from the UK returns address and GBP default; no About page found: human check. US stockists listed: Dover Street Market LA and NY, H Lorenzo, Retail Pharmacy, Hauteline."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "ashley-williams"
+}

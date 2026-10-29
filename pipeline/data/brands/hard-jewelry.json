@@ -1,0 +1,55 @@
+{
+  "slug": "hard-jewelry",
+  "name": "Hard Jewelry",
+  "website_url": "https://www.hardjewelry.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Gothic Steel and Silver Jewelry",
+  "hq_country": "US",
+  "founded_year": 2017,
+  "size_range": "US ring sizes 3–13",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 14,
+  "materials": [
+    "Stainless steel",
+    "Sterling silver"
+  ],
+  "prices": [
+    {
+      "category": "rings",
+      "currency": "USD",
+      "min": 26.95,
+      "max": 372.95,
+      "min_usd": 26.95,
+      "max_usd": 372.95,
+      "fx_date": null,
+      "item_count": 72,
+      "source_url": "https://www.hardjewelry.com/collections/rings/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Rings collection: 83 rings, 11 marked down (excluded), 72 regular. Stainless steel from $26.95 (Mini Rings) and $29.95; .925 sterling silver from $52.95 (Biohazard Ring) to $372.95 (DYT Coffin Ring). Regular price = no variant with compare_at_price above price (Shopify products.json, the test product-images.mjs uses); price-zero items excluded."
+    }
+  ],
+  "sells_categories": [
+    "rings"
+  ],
+  "sources": [
+    "https://www.hardjewelry.com/pages/shipping-policy",
+    "https://www.hardjewelry.com/pages/refund-policy",
+    "https://www.hardjewelry.com/pages/about",
+    "https://www.hardjewelry.com/meta.json",
+    "https://www.hardjewelry.com/collections/rings/products.json?limit=250",
+    "https://strugadesign.com/blogs/journal/brands-like-chrome-hearts-affordable-dark-silver"
+  ],
+  "notes": [
+    "Store description (meta.json): 'The official Hard Jewelry® website. We offer high quality solid stainless steel & solid .925 sterling jewelry. Free shipping in the USA.' Ogden, Utah. The About page rendered no story to WebFetch; founder William Velazquez, Ogden, 2017 (founded_year) per the Struga article.",
+    "Shipping: banner 'Free US shipping over $75' but the policy says 'FREE SHIPPING on All Domestic Orders'; free_shipping_min_usd left empty because the two conflict. International: free above $92. ships_to from meta.json (48 countries incl. US, CA, GB, AU).",
+    "Returns: 'return any jewelry for a full refund or exchange within 14 days of delivery'.",
+    "Most rings are offered in a Material option: STAINLESS STEEL or .925 STERLING SILVER. Biohazard Ring: $32.95 in stainless steel, $52.95 in .925 silver. DYT Coffin Ring has a slide-out inner ring hiding a coffin compartment ($42.95 steel)."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Solange Azagury-Partridge",
+  "website_url": "https://solange.co.uk/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Enamel Hotlips Rings and Fine Jewelry",
+  "hq_country": "GB",
+  "size_range": "Rings EU 46–63",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB"
+  ],
+  "free_shipping_min_usd": 6643.79,
+  "returns_days": 14,
+  "materials": [
+    "Sterling silver and enamel"
+  ],
+  "prices": [
+    {
+      "category": "jewelry",
+      "currency": "GBP",
+      "min": 275.0,
+      "max": 320000.0,
+      "min_usd": 365.41,
+      "max_usd": 425202.6,
+      "fx_date": "2026-10-28",
+      "item_count": 309,
+      "source_url": "https://solange.co.uk/collections/all",
+      "checked_at": "2026-10-29",
+      "note": "products.json (GBP), Ring/Rings/Earrings/Necklace/Bracelet, available, no markdowns: Hotlips rings from £275 (Classic Red, Black) up to the Treasure Necklace at £320,000. Happy Face Hotlips ring £395."
+    }
+  ],
+  "sells_categories": [
+    "jewelry"
+  ],
+  "sources": [
+    "https://solange.co.uk/products.json?limit=250",
+    "https://solange.co.uk/policies/shipping-policy",
+    "https://solange.co.uk/policies/refund-policy",
+    "https://solange.co.uk/"
+  ],
+  "notes": [
+    "Homepage: British designer; London boutique at 26 Chilworth Street W2; pieces in the V&A and Les Arts Décoratifs.",
+    "Hotlips product text: rings made from sterling silver and hand painted in enamel; Classic Red is one of the original four colours released in 1995.",
+    "Shipping: international £20 FedEx, free over £5,000; North America 2-3 working days; VAT removed outside the UK, US duties/taxes not included. Returns within 14 days of receipt."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "solange-azagury-partridge"
+}
