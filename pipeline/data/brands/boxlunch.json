@@ -1,0 +1,60 @@
+{
+  "slug": "boxlunch",
+  "name": "BoxLunch",
+  "website_url": "https://www.boxlunch.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Fandom Merch and Gifts",
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–5XL; Big & Tall XL–4XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": true,
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": null,
+  "free_shipping_min_usd": 75,
+  "returns_days": 30,
+  "sells_categories": [
+    "graphic-tees"
+  ],
+  "prices": [
+    {
+      "category": "graphic-tees",
+      "currency": "USD",
+      "min": 20.9,
+      "max": 69.08,
+      "min_usd": 20.9,
+      "max_usd": 69.08,
+      "fx_date": null,
+      "item_count": 147,
+      "source_url": "https://www.boxlunch.com/tees/",
+      "checked_at": "2026-10-29",
+      "note": "Tees listing read with curl (StylodexBot UA) sorted both ways (srule=sortingPriceLowToHigh&sz=200 and srule=sortingPriceHighToLow&sz=200). 147 unique short-sleeve T-shirt tiles with no strike-through price (27 strike-through tiles excluded; long-sleeve, tank, crop, hoodie, kids and baby titles excluded). Min $20.90 (e.g. Disney Lilo & Stitch Angel Birthday T-Shirt, Marvel Spider-Man Birthday Spiderman T-Shirt); max $69.08 Hyperfly NBA x My Hero Academia Endeavor Golden State Warriors T-Shirt - BoxLunch Exclusive (structured data price 69.08); next highest Disney The Aristocats Pink Pocket Women's T-Shirt - BoxLunch Exclusive $38.90 and Wicked: For Good Glinda & Elphaba Icons Garment-Dyed T-Shirt $36.90. 146 of 147 are under $40; 57 are $30 or less."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.boxlunch.com/",
+    "https://www.boxlunch.com/tees/?srule=sortingPriceLowToHigh&start=0&sz=200",
+    "https://www.boxlunch.com/tees/?srule=sortingPriceHighToLow&start=0&sz=200",
+    "https://www.boxlunch.com/customer-service/shipping/",
+    "https://www.boxlunch.com/customer-service/returns-exchanges/",
+    "https://www.boxlunch.com/boxlunch-gives/",
+    "https://en.wikipedia.org/wiki/BoxLunch"
+  ],
+  "notes": [
+    "2026-10-29 (spencers page run): homepage title 'BoxLunch Gifts | The Fandom Merch & Gifts Shop'; banner 'Free Shipping with $75 Order*'. Homepage: 'For every $10 spent, BoxLunch will help provide a meal secured by Feeding America® on behalf of local member food banks'. kind=retailer: tiles carry outside brands (e.g. HYPERFLY).",
+    "2026-10-29: shipping page: 'BoxLunch.com ships to all 50 states, APO/FPO addresses, U.S. territories and possessions, and over 150+ countries' (countries not named, so ships_to is US only); 'There is an additional $1.99 surcharge per item on pre-order merch shipped to home addresses'; shipping surcharges are not waived by free shipping.",
+    "2026-10-29: returns page: 'Merchandise Refunds are valid within 30 days of purchase' with exceptions (beauty, body jewelry final sale; bags and collectibles 7 days; defective 90 days); return to store or by mail.",
+    "2026-10-29: tees size filter: XS, SM, MD, LG, XL, 2XL, 3XL, 4XL, 5XL and XL–4XL Big & Tall.",
+    "2026-10-29: en.wikipedia.org/wiki/BoxLunch redirects to the Hot Topic article; it gives no separate BoxLunch HQ, founding year or owner, so those are left empty. Store locator (/stores/) loads by script, so us_stores is not set."
+  ],
+  "checked_at": "2026-10-29"
+}

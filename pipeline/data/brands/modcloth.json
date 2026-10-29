@@ -43,6 +43,19 @@
       "source_url": "https://modcloth.com/collections/vintage-dresses/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "vintage-dresses collection (861 products, the largest dress collection in collections.json): 630 in stock with no compare_at markdown, 214 marked down, 17 not titled dress. Low Circe - Striped Mini Dress $49 (vendor Witchwood Bags); high GUNNE SAX for ModCloth Beth Lace Corselette Maxi Dress $329; median $89. Sizes XS–4X and AU 4–20. Vendors include Dangerfield, Orchid Bloom, Retrolicious."
+    },
+    {
+      "category": "graphic-tees",
+      "currency": "USD",
+      "min": 25,
+      "max": 37,
+      "min_usd": 25,
+      "max_usd": 37,
+      "fx_date": null,
+      "item_count": 55,
+      "source_url": "https://www.modcloth.com/collections/tees/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Full Shopify feed of the tees collection (196 products). Graphic tees = 'graphic' in title, product type or tags; short-sleeve T-shirts only; in stock; no compare_at_price above price; no Final Sale or sale tag. 55 qualify (1 excluded as sale; a 3/4-sleeve tee at $37.50 excluded). Min $25 (A Dream Within A Dream Poe Quote: T-Shirt, Black Cats T-Shirt: Dusty Rose); max $37 (Happy Holiday Hippo Tee in Deep Coal Grey, Whimsical Landscape & Animal Tee in Walnut). Tee vendors include Witchwood Bags, BTC, Self-Care Shirts, Blue Platypus Clothing, Sleepy Peach; sizes XS–4XL on the $25 tees."
     }
   ],
   "materials": [],
@@ -58,7 +71,8 @@
     "https://modcloth.com/pages/size-guide",
     "https://en.wikipedia.org/wiki/ModCloth",
     "https://modcloth.com/collections.json?limit=250",
-    "https://modcloth.com/collections/vintage-dresses/products.json?limit=250"
+    "https://modcloth.com/collections/vintage-dresses/products.json?limit=250",
+    "https://www.modcloth.com/collections/tees/products.json?limit=250"
   ],
   "notes": [
     "Homepage title: 'Shop Vintage Outfits // Vintage Style Clothing // ModCloth'. kind=retailer: homepage lists outside labels such as Princess Highway, Dangerfield, Orchid Bloom, Sleepy Peach, Chelsea Crew, Leg Avenue and Sock Candy alongside ModCloth's own collaborations.",
@@ -66,10 +80,12 @@
     "Shipping: free ground shipping on eligible orders over $150, contiguous USA only. Express transit times are listed for Canada, Australia and the UK, but the page doesn't confirm standard shipping there, so only US is stored.",
     "Returns: request within 30 days of delivery; $14 per-order fee unless Checkout+ was bought; final sale not returnable.",
     "Sizes: size charts are images; the sale banner reads 'XS-4X' and the navigation has 'Shop Plus Sizes'.",
-    "2026-10-29 (charlotte-russe run, C dresses): dresses price from the vintage-dresses feed; marked-down dresses go down to $9.99 and are labelled Final Sale."
+    "2026-10-29 (charlotte-russe run, C dresses): dresses price from the vintage-dresses feed; marked-down dresses go down to $9.99 and are labelled Final Sale.",
+    "2026-10-29 (spencers page run, C graphic-tees): graphic-tees price from the tees feed (see price note). The $25 graphic tees come from small outside labels (Witchwood Bags, Self-Care Shirts) and run XS–4XL."
   ],
   "checked_at": "2026-10-29",
   "sells_categories": [
-    "dresses"
+    "dresses",
+    "graphic-tees"
   ]
 }

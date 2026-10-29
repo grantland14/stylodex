@@ -1,0 +1,57 @@
+{
+  "slug": "fye",
+  "name": "FYE",
+  "website_url": "https://www.fye.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Pop Culture and Entertainment Merch",
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Tees S–2X",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": true,
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "sells_categories": [
+    "graphic-tees"
+  ],
+  "prices": [
+    {
+      "category": "graphic-tees",
+      "currency": "USD",
+      "min": 19.99,
+      "max": 29.99,
+      "min_usd": 19.99,
+      "max_usd": 29.99,
+      "fx_date": null,
+      "item_count": 121,
+      "source_url": "https://www.fye.com/collections/apparel-t-shirts/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Full Shopify feed of the apparel-t-shirts collection (147 products): 121 in-stock T-shirts with no compare_at_price above price and no sale tag; 10 marked down excluded; 16 non-tee items excluded. Min $19.99 (Back To The Future Racing T-Shirt, Solo Leveling Jinwoo T-Shirt, Strawberry Shortcake Farmer Market T-Shirt); max $29.99 Helluva Boss Group T-Shirt; Riot Society tees (e.g. Riot Society Scarface The World is Yours T-Shirt) $26.99; Adventure Time Concert T-Shirt $24.99. Vendors: FYE 125, Riot Society 16, Great Eastern Entertainment 6."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.fye.com/",
+    "https://www.fye.com/pages/about-us",
+    "https://www.fye.com/collections/apparel-t-shirts/products.json?limit=250",
+    "https://www.fye.com/policies/shipping-policy",
+    "https://www.fye.com/policies/refund-policy"
+  ],
+  "notes": [
+    "2026-10-29 (spencers page run): meta description 'FYE is your ultimate destination for pop culture and entertainment. Shop collectibles, Funko Pop! figures, Pokémon cards, music, movies, apparel, and exclusive merch'. About: 'FYE is a leading specialty retailer of entertainment and pop culture merchandise stores in the United States and online at FYE.com' (us_stores=true). Also runs a 'Used Media Buyback' (sells mainly new merch, not a thrift shop).",
+    "2026-10-29: shipping policy: 'We ship to the 50 states, military addresses (AA, AE, AP) and the following US Territories: Guam Puerto Rico Palau US Virgin Islands. At this time we cannot ship to other locations'. Non-media items: Standard 5–10 business days $4.25 + $3.75 per pound of product weight; no free-shipping threshold stated.",
+    "2026-10-29: refund policy: 'Items may be returned within 30 days of the ship date for a refund'; trading cards, blind bags and food final; shipping costs refunded only for defective, damaged or misshipped items.",
+    "2026-10-29: tee sizes in the feed: S, M, L, XL, 2X."
+  ],
+  "checked_at": "2026-10-29"
+}

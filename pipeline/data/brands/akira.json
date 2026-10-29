@@ -33,10 +33,24 @@
       "source_url": "https://shopakira.com/collections/dresses/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "Full dresses collection feed, 22 pages, 5,430 products; 962 in-stock items titled dress or gown, 229 marked down (a variant with compare_at_price above price, or a markdown/clearance tag), 733 regular price. Every regular-price dress has vendor AKIRA. Low: Barely There Mesh Mini Dress $29.90, Reyna Mini Bodycon Dress $34.90; high: Don't Mess With Me Collared Cadet Maxi Dress $299.90, Stand Out Chain Mini Dress $249.90. Median $89.90; 575 under $100. In-stock sizes S–XL on ~600 each, 1X on 452, 2X on 115, XS on 131, 3X on 2."
+    },
+    {
+      "category": "graphic-tees",
+      "currency": "USD",
+      "min": 29.9,
+      "max": 79.9,
+      "min_usd": 29.9,
+      "max_usd": 79.9,
+      "fx_date": null,
+      "item_count": 45,
+      "source_url": "https://shopakira.com/collections/tops/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Shopify feed of the tops collection, first 8 pages (2,000 products; the feed may hold more). Graphic tees = 'graphic' in title, type or tags; short-sleeve tees only; in stock; no compare_at_price above price; no sale/final-sale tag. 45 qualify, 2 marked down excluded. Min $29.90 YOUR FUTURE STEPMOM GRAPHIC TEE; also DUMP HIM TEE $39.90; max $79.90 (MY FUTURE OVERSIZED GRAPHIC TEE IN BURGUNDY, FIRST ROW INTERSTELLAR RHINESTONE TEE IN PLUM). Vendors in the feed: AKIRA 1,987, Paxton 13."
     }
   ],
   "sells_categories": [
-    "dresses"
+    "dresses",
+    "graphic-tees"
   ],
   "materials": [],
   "certifications": [],
@@ -50,7 +64,8 @@
     "https://shopakira.com/policies/refund-policy",
     "https://shopakira.com/pages/size-guide",
     "https://shopakira.com/collections/dresses/products.json?limit=250",
-    "https://shopakira.com/products.json?limit=250"
+    "https://shopakira.com/products.json?limit=250",
+    "https://shopakira.com/collections/tops/products.json?limit=250"
   ],
   "notes": [
     "2026-10-29 (stores-like-akira run): About Us: 'AKIRA first opened in 2002 as a single Women's Clothing boutique in the trendy Bucktown/ Wicker Park neighborhood of Chicago'; owned by Eric Hsueh, Erikka Wang, Sarah Hughes, Mark Ricard and Gordon Liao; 'expanded to over 40 stores, its E-Commerce Website, and Wholesale'; 'stores in over 18 states'; 'a full line of Women's Clothing, Footwear, and Accessories'; 'AKIRA is based in Chicago'; Day 1 'July 7, 2002'; the name is 'Erikka' spelled backwards. us_stores true from this page (the store locator renders client-side and shows nothing to a plain fetch).",
@@ -59,7 +74,8 @@
     "Refund policy: online orders returnable within 30 days of the order date for a refund to the original payment or store credit, less original shipping; prepaid label costs $10 (deducted), free if you use your own label; final sale: earrings, tights, swimwear, face covers, body tape. In-store: full-price items within 14 days for exchange or store gift card only, no cash refunds; accessories, jewelry and bodysuits final sale in store.",
     "Size guide: apparel XS (00–0), S (2–4), M (6–8), L (10–12), XL (14–16), 1X (18–20), 2X (22–24), 3X (26–28); denim sizes 1–19 (waist 24–36 in.). Models wear a small, size 2–4. Navigation has an Extended Sizes section (tops, bottoms, dresses, jackets) and Extended Size Shoes.",
     "Catalog: products.json pages 1–60 (14,999 products) are vendor AKIRA 12,993, Azalea Wang 1,615, AKIRA GOLD 278, Coi 64, Paxton 43; product types ACCESSORIES 2,074, TOPS 1,702, BOTTOMS 1,505, DRESSES 1,343, BOOTS 867, SANDALS 526. Mostly its own label, so kind brand.",
-    "Category choice: dresses. Ahrefs top pages (US, 2026-10-28): thigh-high boots collection is the top category page (8,578 visits), then faux fur coats (2,867), birthday-dress edit (2,586) and dresses (1,513); boots pages total more traffic than dress pages. Dresses chosen because the editorial lists that name alternatives frame Akira by its dresses (etechshout '13 Stores Like Akira To Buy Best Dresses & Cute Crop Tops'), every candidate is a clothing store, and DRESSES is its largest clothing product type after tops and bottoms."
+    "Category choice: dresses. Ahrefs top pages (US, 2026-10-28): thigh-high boots collection is the top category page (8,578 visits), then faux fur coats (2,867), birthday-dress edit (2,586) and dresses (1,513); boots pages total more traffic than dress pages. Dresses chosen because the editorial lists that name alternatives frame Akira by its dresses (etechshout '13 Stores Like Akira To Buy Best Dresses & Cute Crop Tops'), every candidate is a clothing store, and DRESSES is its largest clothing product type after tops and bottoms.",
+    "2026-10-29 (spencers page run, C graphic-tees): graphic-tees price from the tops feed, first 8 pages (2,000 products). 45 regular-price short-sleeve graphic tees: min YOUR FUTURE STEPMOM GRAPHIC TEE $29.90, DUMP HIM TEE $39.90, max $79.90 (MY FUTURE OVERSIZED GRAPHIC TEE IN BURGUNDY). In-stock graphic tee sizes run S–1X."
   ],
   "checked_at": "2026-10-29"
 }

@@ -1,0 +1,57 @@
+{
+  "slug": "the-chivery",
+  "name": "The Chivery",
+  "website_url": "https://www.thechivery.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Fun T-Shirts and Accessories",
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "S–5XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": null,
+  "free_shipping_min_usd": 125,
+  "returns_days": 30,
+  "sells_categories": [
+    "graphic-tees"
+  ],
+  "prices": [
+    {
+      "category": "graphic-tees",
+      "currency": "USD",
+      "min": 28,
+      "max": 38,
+      "min_usd": 28,
+      "max_usd": 38,
+      "fx_date": null,
+      "item_count": 1224,
+      "source_url": "https://www.thechivery.com/collections/t-shirts/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Shopify feed of the t-shirts collection: the feed returned 1,259 products (collections.json lists 5,868 for the handle, so this is the part the public feed serves). 1,224 in-stock tees with no compare_at_price above price and no sale tag; 12 marked down excluded. Min $28 (most theCHIVE tees, e.g. Keep Calm and Chive On Tee, The KCCO Tee; Buy Me Brunch tees too); max $38 (William Murray Golf tees such as Scuba Steve T-Shirt and Spackler's Revenge T-Shirt). Vendors: theCHIVE 865, Buy Me Brunch 270, BUSCH / Natural Light 102, William Murray Golf 12, Chive Charities 10."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": "Most apparel made to order",
+  "sale_pattern": null,
+  "sources": [
+    "https://www.thechivery.com/",
+    "https://www.thechivery.com/collections/t-shirts/products.json?limit=250",
+    "https://www.thechivery.com/collections.json?limit=250",
+    "https://www.thechivery.com/pages/shipping-information",
+    "https://www.thechivery.com/policies/refund-policy"
+  ],
+  "notes": [
+    "2026-10-29 (spencers page run): meta description 'The Chivery is the official store of theCHIVE, and is the only place to buy high quality, authentic Chive Tees, Buy Me Brunch Tees, Challenge Coins, Ball Markers, and Rare Metal Coins.' Footer: 'the one-stop-shop for all your fun t-shirts and accessories'. kind=brand: it sells theCHIVE's own lines (plus licensed BUSCH / Natural Light and William Murray Golf).",
+    "2026-10-29: shipping page: 'Most apparel items, including shirts and graphic merchandise, are made and prepared to order. Please allow 7–10 business days for processing before shipment.' 'We offer free standard shipping on orders over $125 (after discounts, before tax) within the contiguous United States.' No international terms stated, so ships_to is US only.",
+    "2026-10-29: refund policy: 'Our policy lasts 30 days'; final sale, dropship and intimate apparel not returnable.",
+    "2026-10-29: tee size option values: Small, Medium, Large, XL, XXL, 3XL on nearly all; 4XL on 455 and 5XL on 44 of 1,259."
+  ],
+  "checked_at": "2026-10-29"
+}

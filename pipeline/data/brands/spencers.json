@@ -1,0 +1,39 @@
+{
+  "slug": "spencers",
+  "name": "Spencer's",
+  "website_url": "https://www.spencersonline.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Graphic Tees and Gag Gifts",
+  "hq_country": "US",
+  "founded_year": 1947,
+  "parent_company": "Spencer Spirit Holdings",
+  "size_range": null,
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [],
+  "us_stores": true,
+  "free_shipping_min_usd": null,
+  "returns_days": null,
+  "sells_categories": [
+    "graphic-tees"
+  ],
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://stores.spencersonline.com/",
+    "https://en.wikipedia.org/wiki/Spencer_Gifts",
+    "https://www.spencersonline.com/"
+  ],
+  "notes": [
+    "2026-10-29 (spencers page run): www.spencersonline.com refused every read: curl with the StylodexBot UA got HTTP/2 INTERNAL_ERROR (stream reset) on the homepage and a 30 s timeout over HTTP/1.1 (also on /robots.txt); WebFetch got HTTP 503 on the homepage, /c/t-shirts and /category/music-band-t-shirts/pc/3369/3382.uts. No workaround tried. Prices, sizes, shipping and returns are therefore not stored (human check).",
+    "2026-10-29: Spencer's own store locator, https://stores.spencersonline.com/, loads (HTTP 200, curl, StylodexBot UA). Title 'Jewelry, T-Shirts & Adult Novelties | Spencer's Store Locator'. Text: 'Shop our always-growing selection of personality-packed graphic t shirts, standout backpacks, party-starting novelty and gag gifts, on-trend body jewelry and so much more. If it's pop culture, it's at Spencer's. With over 630 stores across the United States and Canada'. Also: 'Spencer's has been your mall mainstay for 75 years, and now we're expanding our presence to outlets and beyond!' Browse-by-state lists 49 US states (no Alaska) and 7 Canadian provinces. status=verified and us_stores=true from this page (enrich.md §2: a chain's own locator is an official source).",
+    "2026-10-29: locator navigation lists a Graphic Tees department (Top Sellers, Online Exclusive, Plus Size T Shirts, Funny, Music & Band, Horror, Movie, TV, Anime, Gaming, Playboy Tees, Grindr Tees, Steven Rhodes, Clearance T Shirts and '$10 T Shirts'), plus Body Jewelry, Backpacks (Loungefly), Sex & Wellness (brands incl. Lelo, Lovehoney, We-Vibe, Fleshlight), Room & Decor, Gifts & Humor, Halloween costumes and a 'Kayla Malecc x Spencer's' jewelry collab. kind=retailer: it sells other brands (Loungefly, Lelo, Lovehoney, Playboy). has_plus from the 'Plus Size T Shirts' category. Banner: 'Free Shipping Over $20, Use Code: SHIP20' is a promo code, so free_shipping_min_usd is not set. Locator says SMS promotions are 'Restricted to the US'.",
+    "2026-10-29: Wikipedia (Spencer Gifts): founded 1947 in Easton, Pennsylvania by Max Spencer Adler as a mail-order novelty catalog; HQ Egg Harbor Township, New Jersey; operated by Spencer Spirit Holdings, Inc. (ACON Investments bought it in 2007 and sold it to management in 2015); sells novelty and gag items, clothing, accessories, body jewelry, adult products, fantasy and horror items; infobox 'Over 670' locations, text '600 locations in malls across the United States and Canada' (undated); subsidiaries Spirit Halloween, Hot Topic, BoxLunch; on August 6, 2026 the company announced it would acquire Hot Topic from Sycamore Partners, pending regulatory approval; Hot Topic to operate as an independent subsidiary keeping its California offices and retail banners; combined 'over 3,000 retail locations in North America'. Official site: spencersonline.com."
+  ],
+  "checked_at": "2026-10-29"
+}

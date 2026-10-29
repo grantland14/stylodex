@@ -19,7 +19,8 @@
   "free_shipping_min_usd": 75,
   "returns_days": 30,
   "sells_categories": [
-    "mens-clothing"
+    "mens-clothing",
+    "graphic-tees"
   ],
   "prices": [
     {
@@ -34,6 +35,19 @@
       "source_url": "https://www.hottopic.com/guys/tees/",
       "checked_at": "2026-10-29",
       "note": "Like-for-like item: men's short-sleeve T-shirts. Read with curl (StylodexBot UA) from the Guys > Tees listing three ways: default sort (sz=1000 returned 200), srule=sortingPriceLowToHigh&sz=200 and srule=sortingPriceHighToLow&sz=200, so both ends of the range are covered: 588 unique products, 547 short-sleeve T-shirts with no strike-through price. Excluded: 10 with a crossed-out list price, and long-sleeve, twofer, hoodie, tank and crop items. Prices are the tile price (every tile carries a 'From' label, so a few sizes may cost more; not checked). Min: InuYasha Yellow & White T-Shirt $12.99 (next: Shaka Wear 7.5 Oz. Heavyweight T-Shirt $15.90); max: WWE John Cena Wrestlemania 23 Garment-Dyed T-Shirt $50.90 (Comfort Colors heavyweight tee, 100% cotton) and Bad Bunny DTMF Casita World Tour Black T-Shirt $50.00."
+    },
+    {
+      "category": "graphic-tees",
+      "currency": "USD",
+      "min": 12.99,
+      "max": 50.9,
+      "min_usd": 12.99,
+      "max_usd": 50.9,
+      "fx_date": null,
+      "item_count": 221,
+      "source_url": "https://www.hottopic.com/tees/",
+      "checked_at": "2026-10-29",
+      "note": "All Tees listing read with curl (StylodexBot UA) sorted both ways: srule=sortingPriceLowToHigh&sz=200 and srule=sortingPriceHighToLow&sz=200, so both ends are covered. 221 unique short-sleeve T-shirt tiles with no strike-through price (13 tiles with a strike-through excluded; long-sleeve, tank, crop, hoodie, kids, baby and twofer titles excluded). Min: InuYasha Yellow & White T-Shirt $12.99 (blank Shaka Wear 7.5 Oz. Heavyweight T-Shirts at $15.90 are not graphic); max: WWE John Cena Wrestlemania 23 Garment-Dyed T-Shirt $50.90, then Bad Bunny DTMF Casita World Tour Black T-Shirt $50.00 and Affliction Flaming Bones T-Shirt $48.95. Also: Misfits Crimson Ghost Heavyweight T-Shirt $39.90."
     }
   ],
   "materials": [],
@@ -49,7 +63,9 @@
     "https://www.hottopic.com/customer-service/returns-exchanges/",
     "https://www.hottopic.com/product/wwe-john-cena-wrestlemania-23-garment-dyed-t-shirt/34844965.html",
     "https://www.hottopic.com/product/shaka-wear-black-7.5-oz.-heavyweight-t-shirt/37034611.html",
-    "https://en.wikipedia.org/wiki/Hot_Topic"
+    "https://en.wikipedia.org/wiki/Hot_Topic",
+    "https://www.hottopic.com/tees/?srule=sortingPriceLowToHigh&start=0&sz=200",
+    "https://www.hottopic.com/tees/?srule=sortingPriceHighToLow&start=0&sz=200"
   ],
   "notes": [
     "2026-10-29 (zumiez page run): homepage title 'Hot Topic | The Pop-Culture Merch & Clothing Store'; nav Pop Culture, Halloween, Holiday, New, Girls, Plus, Guys, Tees, Backpacks & Bags, Accessories; banner 'Free Shipping With $75 Purchase*'. known_for from the title.",
@@ -57,7 +73,8 @@
     "Returns page: 'Refunds are valid within 30 days of purchase', with exceptions (beauty, body jewelry final sale; bags and collectibles 7 days; defective items 90 days); return to a Hot Topic store or by mail.",
     "Size filter on Guys > Tees: XS, S, M, L, XL, 2XL, 3XL, 4XL, 5XL and tall LT, XLT, 2XLT, 3XLT, 4XLT. size_range detail: XS–5XL; tall LT–4XLT.",
     "Wikipedia (Hot Topic): founded October 1989 in Montclair, California by Orv Madden; HQ City of Industry, California; Sycamore Partners bought it in 2013; on August 7, 2026 Spencer Spirit Holdings announced it would acquire Hot Topic from Sycamore (pending), so parent_company is left empty; 675 locations (April 2020). Store locator (hottopic.com/stores) loads by script, so us_stores is not set.",
-    "Wikipedia (Hot Topic) also: stores target 'counterculture-related clothing and accessories' and licensed music; the current selection is mostly licensed video game merchandise, internet memes, anime, manga and Japanese film merchandise. Shipping page: 'There is an additional $1.99 surcharge per item on pre-order merch shipped to home addresses. This surcharge is waived entirely if the Ship To Store option is selected.'"
+    "Wikipedia (Hot Topic) also: stores target 'counterculture-related clothing and accessories' and licensed music; the current selection is mostly licensed video game merchandise, internet memes, anime, manga and Japanese film merchandise. Shipping page: 'There is an additional $1.99 surcharge per item on pre-order merch shipped to home addresses. This surcharge is waived entirely if the Ship To Store option is selected.'",
+    "2026-10-29 (spencers page run, C graphic-tees): graphic-tees price from the all-tees listing (see price note). Its tees are licensed pop-culture, music and anime tees, so the whole listing counts as graphic tees except blank basics."
   ],
   "checked_at": "2026-10-29"
 }

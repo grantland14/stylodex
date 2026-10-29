@@ -1,0 +1,57 @@
+{
+  "slug": "archie-mcphee",
+  "name": "Archie McPhee",
+  "website_url": "https://mcphee.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Funny Gifts, Toys and Novelties",
+  "hq_country": "US",
+  "founded_year": 1983,
+  "parent_company": null,
+  "size_range": "Tees S–XXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": true,
+  "free_shipping_min_usd": 50,
+  "returns_days": 30,
+  "sells_categories": [
+    "graphic-tees"
+  ],
+  "prices": [
+    {
+      "category": "graphic-tees",
+      "currency": "USD",
+      "min": 19.95,
+      "max": 19.95,
+      "min_usd": 19.95,
+      "max_usd": 19.95,
+      "fx_date": null,
+      "item_count": 5,
+      "source_url": "https://mcphee.com/collections/clothing-accessories/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Full Shopify feed of clothing-accessories (34 products): 5 T-shirts, all $19.95, none marked down: Axolotl T-shirt, Less Talk, More Monkey Swirl T-Shirt, Party Frog T-shirt, Retro Bigfoot T-Shirt, Rubber Chicken Museum T-Shirt. Sizes S–XXL."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://mcphee.com/",
+    "https://mcphee.com/collections/clothing-accessories/products.json?limit=250",
+    "https://mcphee.com/pages/order-shipping-info",
+    "https://mcphee.com/policies/refund-policy",
+    "https://mcphee.com/pages/what-is-the-history-of-archie-mcphee"
+  ],
+  "notes": [
+    "2026-10-29 (spencers page run): archiemcphee.com 301s to www.mcphee.com, which redirects to mcphee.com. Meta description: 'Archie McPhee sells funny gifts, toys, & novelties. Bigfoot, cats, finger monsters, crows, unicorns, axolotls, pickle gifts, tiny hands! Archie makes weird!' Banner: 'FREE SHIPPING ON ORDERS OVER $50 • FREE GIFT WITH EVERY ORDER'. Nav links a 'Seattle Store' (us_stores=true).",
+    "2026-10-29: history page: owner Mark Pahlow started selling rubber lizards from his house in L.A.; 'In 1983 he set up shop with two employees in Seattle's Fremont district using the name Archie McPhee'; design team and customer service in Mukilteo, Washington. kind=brand: it makes its own products.",
+    "2026-10-29: shipping page: standard shipping free on $50.00 and up (not US territories and islands); 'We are not currently shipping orders outside the United States.'",
+    "2026-10-29: refund policy: 'You may return most new, unopened items within 30 days of delivery for a refund of the full merchandise total'; returns start by email or phone and go by mail to Mukilteo, WA."
+  ],
+  "checked_at": "2026-10-29"
+}
