@@ -89,7 +89,7 @@ Sierra, Backcountry) are rejected as brand picks.
   Eddie Bauer's line", "half as long again").
 - Verdicts on brands: none. Catches are attributes (size ceiling, return fees, shipping cost).
 - Invented experience: none. Hype words: none.
-- No semicolons, no em dashes, no bold. Brands are "it". Contractions throughout. Max sentence 25 words.
+- No semicolons, no em dashes, no bold. Brands are "it". Contractions throughout. Max sentence 26 words.
 
 ## AI-voice scan (reference/ai-voice-avoid.md)
 

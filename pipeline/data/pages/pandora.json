@@ -1,0 +1,1352 @@
+{
+  "subject": "Pandora",
+  "slug": "pandora",
+  "url_prefix": "brands",
+  "category": {
+    "slug": "charms",
+    "name": "Charms",
+    "why": "C is a product type: charms. Pandora's own store locator calls its charms and bracelets 'iconic' and lists Charms first in its shop, and its crafting facility takes its design from 'our signature charm bracelet'. The searches agree: People also ask on these keywords asks 'What are some alternatives to Pandora charms?' and 'What are the best dupes for Pandora charms?', the top Reddit result is 'Pandora charm alternatives', and the readable lists name charm makers (Trollbeads, Thomas Sabo, Chamilia, Brighton, Gnoce, Nomination). Prices compare each brand's own charms (beads, links and dangle charms; finished bracelets and necklaces excluded) at regular price."
+  },
+  "serp": [
+    {
+      "keyword": "brands like pandora",
+      "position": 1,
+      "url": null,
+      "kept": false,
+      "why_dropped": "AI overview, no URL"
+    },
+    {
+      "keyword": "brands like pandora",
+      "position": 1,
+      "url": "https://mejuri.com/",
+      "kept": false,
+      "why_dropped": "brand's own site (AI overview sitelink)"
+    },
+    {
+      "keyword": "brands like pandora",
+      "position": 1,
+      "url": "https://ajluxe.com/blogs/jewelry-guide/pandora-alternatives",
+      "kept": false,
+      "why_dropped": "404 to WebFetch; the blog index shows no such post"
+    },
+    {
+      "keyword": "brands like pandora",
+      "position": 1,
+      "url": "https://www.glamour.com/story/best-jewelry-brands",
+      "kept": false,
+      "why_dropped": "WebFetch refused (glamour.com); generic best-brands list"
+    },
+    {
+      "keyword": "brands like pandora",
+      "position": 2,
+      "url": "https://mejuri.com/eu/en/",
+      "kept": false,
+      "why_dropped": "brand's own site"
+    },
+    {
+      "keyword": "brands like pandora",
+      "position": 4,
+      "url": "https://www.elle.com/uk/fashion/g36448338/jewellery-brands/",
+      "kept": false,
+      "why_dropped": "WebFetch refused (elle.com); generic best-brands list"
+    },
+    {
+      "keyword": "brands like pandora",
+      "position": 5,
+      "url": "https://www.cosmopolitan.com/uk/fashion/style/g30493160/jewellery-brands/",
+      "kept": false,
+      "why_dropped": "WebFetch refused (cosmopolitan.com); generic list"
+    },
+    {
+      "keyword": "brands like pandora",
+      "position": 6,
+      "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-affordable-jewelry-brand/",
+      "kept": false,
+      "why_dropped": "403 to WebFetch"
+    },
+    {
+      "keyword": "brands like pandora",
+      "position": 7,
+      "url": "https://www.youtube.com/watch?v=WufzVc4sjFc",
+      "kept": false,
+      "why_dropped": "video, unreadable"
+    },
+    {
+      "keyword": "brands like pandora",
+      "position": 8,
+      "url": "https://www.nordstrom.com/brands-list/women/jewelry",
+      "kept": false,
+      "why_dropped": "retailer brand index, not alternatives"
+    },
+    {
+      "keyword": "brands like pandora",
+      "position": 9,
+      "url": "https://reverrajewels.com/blogs/article/best-alternatives-to-pandora-jewelry-in-the-usa",
+      "kept": true,
+      "why_dropped": null,
+      "note": "publisher lists itself #1; diamond sellers only, none sell charms"
+    },
+    {
+      "keyword": "brands like pandora",
+      "position": 10,
+      "url": "https://trendia.co/blogs/news/best-jewelry-brands",
+      "kept": false,
+      "why_dropped": "generic best-brands list by a jewelry seller; not framed as Pandora alternatives"
+    },
+    {
+      "keyword": "stores like pandora",
+      "position": 1,
+      "url": "https://www.kendrascott.com/",
+      "kept": false,
+      "why_dropped": "brand's own site (AI overview sitelink)"
+    },
+    {
+      "keyword": "stores like pandora",
+      "position": 1,
+      "url": "https://flaireaccessories.com/",
+      "kept": false,
+      "why_dropped": "brand's own site (AI overview sitelink)"
+    },
+    {
+      "keyword": "stores like pandora",
+      "position": 1,
+      "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-online-jewelry-store/",
+      "kept": false,
+      "why_dropped": "Forbes answers 403 to WebFetch"
+    },
+    {
+      "keyword": "stores like pandora",
+      "position": 2,
+      "url": "https://www.reddit.com/r/jewelry/comments/1i24ys4/pandora_alternative/",
+      "kept": false,
+      "why_dropped": "reddit refuses WebFetch; not read, no workaround"
+    },
+    {
+      "keyword": "stores like pandora",
+      "position": 4,
+      "url": "https://www.themolehill.net/p/25-cool-jewelry-brands-youll-want",
+      "kept": false,
+      "why_dropped": "no mention of Pandora in the readable part (rest paywalled)"
+    },
+    {
+      "keyword": "stores like pandora",
+      "position": 5,
+      "url": "https://www.theguardian.com/thefilter/2025/feb/11/affordable-jewellery-brands",
+      "kept": false,
+      "why_dropped": "WebFetch refused (theguardian.com)"
+    },
+    {
+      "keyword": "stores like pandora",
+      "position": 6,
+      "url": "https://www.bloomingdales.com/shop/all-designers/jewelry-brands?id=1001342",
+      "kept": false,
+      "why_dropped": "retailer brand index"
+    },
+    {
+      "keyword": "stores like pandora",
+      "position": 7,
+      "url": "https://www.saksfifthavenue.com/c/the-edit-content/050923/best-jewelry-brands",
+      "kept": false,
+      "why_dropped": "luxury jewelers list, not Pandora alternatives"
+    },
+    {
+      "keyword": "stores like pandora",
+      "position": 8,
+      "url": "https://www.cosmopolitan.com/style-beauty/fashion/g69677870/affordable-jewelry-brands/",
+      "kept": false,
+      "why_dropped": "WebFetch refused (cosmopolitan.com)"
+    },
+    {
+      "keyword": "stores like pandora",
+      "position": 9,
+      "url": "https://www.kayoutlet.com/collections/gender/womens-collections/c/8000000245",
+      "kept": false,
+      "why_dropped": "retailer category page"
+    },
+    {
+      "keyword": "stores like pandora",
+      "position": 10,
+      "url": "https://www.thezoereport.com/fashion/affordable-fine-jewelry-brands",
+      "kept": false,
+      "why_dropped": "generic fine-jewelry list, not framed as Pandora alternatives; not read"
+    },
+    {
+      "keyword": "pandora alternatives",
+      "position": 1,
+      "url": "https://alternative.me/pandora",
+      "kept": false,
+      "why_dropped": "about Pandora the music service"
+    },
+    {
+      "keyword": "pandora alternatives",
+      "position": 1,
+      "url": "https://www.quora.com/What-is-a-better-alternative-to-Pandora-internet-radio",
+      "kept": false,
+      "why_dropped": "music service"
+    },
+    {
+      "keyword": "pandora alternatives",
+      "position": 1,
+      "url": "https://www.sursenso.com/blogs/sursenso-silver-jewelry-blog/affordable-pandora-alternatives-stunning-sterling-silver-jewelry-you-ll-love",
+      "kept": true,
+      "why_dropped": null,
+      "note": "publisher Sursenso lists itself #1 (read the en-us copy)"
+    },
+    {
+      "keyword": "pandora alternatives",
+      "position": 2,
+      "url": "https://www.reddit.com/r/PandoraCollectors/comments/1rwb9rp/pandora_charm_alternatives/",
+      "kept": false,
+      "why_dropped": "reddit refuses WebFetch; not read"
+    },
+    {
+      "keyword": "pandora alternatives",
+      "position": 2,
+      "url": "https://www.reddit.com/r/jewelry/comments/19cbe9f/pandora_dupe/",
+      "kept": false,
+      "why_dropped": "reddit; not read"
+    },
+    {
+      "keyword": "pandora alternatives",
+      "position": 4,
+      "url": "https://www.facebook.com/groups/238242870660873/posts/1379489799869502/",
+      "kept": false,
+      "why_dropped": "Facebook group post, unreadable"
+    },
+    {
+      "keyword": "pandora alternatives",
+      "position": 5,
+      "url": "https://thepanacheco.com/blogs/news/best-alternatives-to-pandora-jewellery-brand-in-uk",
+      "kept": false,
+      "why_dropped": "WebFetch returned an empty page"
+    },
+    {
+      "keyword": "pandora alternatives",
+      "position": 6,
+      "url": "https://reverrajewels.com/blogs/news/best-alternatives-to-pandora-jewelry-in-the-usa",
+      "kept": false,
+      "why_dropped": "same article as the reverrajewels.com/blogs/article URL"
+    },
+    {
+      "keyword": "pandora alternatives",
+      "position": 7,
+      "url": "https://www.instagram.com/popular/pandora-jewelry-alternative/",
+      "kept": false,
+      "why_dropped": "Instagram, unreadable"
+    },
+    {
+      "keyword": "pandora alternatives",
+      "position": 9,
+      "url": "https://www.etsy.com/market/alternative_pandora_charms",
+      "kept": false,
+      "why_dropped": "marketplace"
+    },
+    {
+      "keyword": "pandora alternatives",
+      "position": 10,
+      "url": "https://thingtesting.com/brands/pandora/similar",
+      "kept": false,
+      "why_dropped": "alternatives section renders no brand names; no editorial"
+    },
+    {
+      "keyword": "similar to pandora",
+      "position": 1,
+      "url": "https://www.amazon.com/pandora-like-charm/s?k=pandora+like+charm",
+      "kept": false,
+      "why_dropped": "marketplace"
+    },
+    {
+      "keyword": "similar to pandora",
+      "position": 1,
+      "url": "https://www.reddit.com/r/audiophile/comments/1gg5s2m/pandora_alternatives/",
+      "kept": false,
+      "why_dropped": "music service"
+    },
+    {
+      "keyword": "similar to pandora",
+      "position": 4,
+      "url": "https://www.quora.com/Which-famous-brand-bracelet-for-me-to-buy-pandora-or-soufeel",
+      "kept": false,
+      "why_dropped": "Quora, not read (Soufeel named in title only)"
+    },
+    {
+      "keyword": "similar to pandora",
+      "position": 5,
+      "url": "https://www.etsy.com/market/pandora_like_jewelry",
+      "kept": false,
+      "why_dropped": "marketplace"
+    },
+    {
+      "keyword": "similar to pandora",
+      "position": 7,
+      "url": "https://www.cosmopolitan.com/uk/fashion/style/g30493160/jewellery-brands/",
+      "kept": false,
+      "why_dropped": "duplicate; WebFetch refused"
+    },
+    {
+      "keyword": "similar to pandora",
+      "position": 8,
+      "url": "https://www.youtube.com/watch?v=_jUbeVQmCyw",
+      "kept": false,
+      "why_dropped": "video, Amazon finds"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": "OD's Jewellers",
+      "url": "https://www.odsjewellers.com/pages/pandora-alternatives-guide",
+      "used": true,
+      "why": "UK stockist's own 'Pandora alternatives' guide (it does not stock Pandora); counted as a serp_comention source for Nomination and Clogau, flagged in human_check."
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "result": "Pandora has 19 pool rows: Nomination, Kendra Scott, Stella & Dot, Daisy London, Links of London, Abbott Lyon, By Charlotte, Jenny Bird, Gorjana, Missoma, Moon & Lola, Michael Kors, Mejuri, Uncommon James, Stuhrling Original, Fascination Jewelry, Astrid & Miyu, Radley London, Alex and Ani. Eight have outside sources of their own (Nomination, Kendra Scott, Daisy London, Missoma, Michael Kors, Mejuri, Astrid & Miyu, Alex and Ani)."
+  },
+  "candidates": [
+    {
+      "name": "Brighton",
+      "slug": "brighton",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.latterly.org/pandora-jewelry-competitors/",
+          "note": "#11: charm bracelets, pendants and leather accessories mixing leather, enamel and crystals"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.extrabux.com/en/guide/8509357",
+          "note": "Gnoce vs. Pandora vs. Brighton vs. Swarovski: family-owned California business founded 1991 (sic), charms called costume-jewelry equivalent"
+        }
+      ]
+    },
+    {
+      "name": "Kendra Scott",
+      "slug": "kendra-scott",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.latterly.org/pandora-jewelry-competitors/",
+          "note": "#6: gemstone statement earrings, pendants, cuffs and charm bracelets"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/pandora",
+          "note": "'If you like Pandora' #1, 82% match; directory evidence only, never cited"
+        }
+      ]
+    },
+    {
+      "name": "Gnoce",
+      "slug": "gnoce",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.extrabux.com/en/guide/8509357",
+          "note": "#1 alternative: 18K gold plated sterling silver charms that fit most European-style charm bracelets incl. Pandora's; most items around $100"
+        }
+      ]
+    },
+    {
+      "name": "Alex and Ani",
+      "slug": "alex-and-ani",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.latterly.org/pandora-jewelry-competitors/",
+          "note": "#3: expandable wire bangles, charm bangles, necklaces, earrings at affordable prices"
+        }
+      ]
+    },
+    {
+      "name": "GLDN",
+      "slug": "gldn",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/pandora",
+          "note": "'If you like Pandora' #4, 72% match, hand-personalised made-to-order keepsakes; directory evidence only, never cited"
+        }
+      ]
+    },
+    {
+      "name": "Nomination",
+      "slug": "nomination",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.odsjewellers.com/pages/pandora-alternatives-guide",
+          "note": "main alternative: Italian composable charm bracelets (retailer guide; OD's is an authorised Nomination stockist and does not stock Pandora)"
+        }
+      ]
+    },
+    {
+      "name": "Thomas Sabo",
+      "slug": "thomas-sabo",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.latterly.org/pandora-jewelry-competitors/",
+          "note": "#4 and Top 3: sterling silver charm bracelets, pendants, stacking rings"
+        }
+      ]
+    },
+    {
+      "name": "Trollbeads",
+      "slug": "trollbeads",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.latterly.org/pandora-jewelry-competitors/",
+          "note": "#5 and Top 3: handcrafted silver, gold and glass beads; premium, collectible"
+        }
+      ]
+    },
+    {
+      "name": "James Avery",
+      "slug": "james-avery",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.latterly.org/pandora-jewelry-competitors/",
+          "note": "#10: handcrafted sterling silver and gold charms, bracelets, rings, crosses"
+        }
+      ]
+    },
+    {
+      "name": "Astrid & Miyu",
+      "slug": "astrid-miyu",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/pandora",
+          "note": "'If you like Pandora' #2, 78% match, layerable silver stacks and in-store piercing; directory evidence only, never cited"
+        }
+      ]
+    },
+    {
+      "name": "Mejuri",
+      "slug": "mejuri",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.latterly.org/pandora-jewelry-competitors/",
+          "note": "#7: solid 14k gold and sterling silver rings, huggies, necklaces, bracelets"
+        }
+      ]
+    },
+    {
+      "name": "Clogau",
+      "slug": "clogau",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.odsjewellers.com/pages/pandora-alternatives-guide",
+          "note": "alternative #2: Welsh gold heritage jewellery (retailer guide; OD's stocks Clogau)"
+        }
+      ]
+    },
+    {
+      "name": "Swarovski",
+      "slug": "swarovski",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.latterly.org/pandora-jewelry-competitors/",
+          "note": "#1 and #13: crystal-cut fashion jewelry"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.extrabux.com/en/guide/8509357",
+          "note": "alternative #3: crystals, about $21 to $2,000"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.odsjewellers.com/pages/pandora-alternatives-guide",
+          "note": "alternative #3: precision-cut crystal, finished pieces"
+        }
+      ]
+    },
+    {
+      "name": "Tiffany & Co.",
+      "slug": "tiffany",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.latterly.org/pandora-jewelry-competitors/",
+          "note": "#2: sterling silver charms and chains"
+        }
+      ]
+    },
+    {
+      "name": "Chamilia",
+      "slug": "chamilia",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.latterly.org/pandora-jewelry-competitors/",
+          "note": "#15: sterling silver and Murano glass charms and beads"
+        }
+      ]
+    },
+    {
+      "name": "Monica Vinader",
+      "slug": "monica-vinader",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.latterly.org/pandora-jewelry-competitors/",
+          "note": "#8: gold vermeil and sterling silver friendship bracelets, rings, charms"
+        }
+      ]
+    },
+    {
+      "name": "Missoma",
+      "slug": "missoma",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.latterly.org/pandora-jewelry-competitors/",
+          "note": "#9: gold vermeil chains, charm pendants"
+        }
+      ]
+    },
+    {
+      "name": "Michael Kors",
+      "slug": "michael-kors",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.latterly.org/pandora-jewelry-competitors/",
+          "note": "#14: logo-forward fashion jewelry"
+        }
+      ]
+    },
+    {
+      "name": "Zales",
+      "slug": "zales",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.latterly.org/pandora-jewelry-competitors/",
+          "note": "#12: national jewelry retailer"
+        }
+      ]
+    },
+    {
+      "name": "Daisy London",
+      "slug": "daisy-london",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/pandora",
+          "note": "'If you like Pandora' #3, 74% match; directory evidence only, never cited"
+        }
+      ]
+    },
+    {
+      "name": "Vivienne Westwood",
+      "slug": "vivienne-westwood",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.odsjewellers.com/pages/pandora-alternatives-guide",
+          "note": "listed only under 'Top Pandora Alternatives at OD's Right Now' (Nano Solitaire earrings, Hectorina pendant), not compared"
+        }
+      ]
+    },
+    {
+      "name": "Kit Heath",
+      "slug": "kit-heath",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.odsjewellers.com/pages/pandora-alternatives-guide",
+          "note": "listed only under 'Top Pandora Alternatives at OD's Right Now' (Coast Pebble Stud earrings)"
+        }
+      ]
+    },
+    {
+      "name": "Wostu",
+      "slug": "wostu",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.sursenso.com/en-us/blogs/sursenso-silver-jewelry-blog/affordable-pandora-alternatives-stunning-sterling-silver-jewelry-you-ll-love",
+          "note": "#2 (publisher Sursenso lists itself #1)"
+        }
+      ]
+    },
+    {
+      "name": "Silpada",
+      "slug": "silpada",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.sursenso.com/en-us/blogs/sursenso-silver-jewelry-blog/affordable-pandora-alternatives-stunning-sterling-silver-jewelry-you-ll-love",
+          "note": "#3 (publisher Sursenso lists itself #1)"
+        }
+      ]
+    },
+    {
+      "name": "Sursenso",
+      "slug": "sursenso",
+      "in_apart_pool": false,
+      "sources": []
+    },
+    {
+      "name": "Reverra Jewels",
+      "slug": "reverra-jewels",
+      "in_apart_pool": false,
+      "sources": []
+    },
+    {
+      "name": "Brilliant Earth",
+      "slug": "brilliant-earth",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://reverrajewels.com/blogs/article/best-alternatives-to-pandora-jewelry-in-the-usa",
+          "note": "#2 (publisher Reverra lists itself #1): lab-grown diamonds, engagement rings"
+        }
+      ]
+    },
+    {
+      "name": "Blue Nile",
+      "slug": "blue-nile",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://reverrajewels.com/blogs/article/best-alternatives-to-pandora-jewelry-in-the-usa",
+          "note": "#3: certified diamonds, engagement rings"
+        }
+      ]
+    },
+    {
+      "name": "James Allen",
+      "slug": "james-allen",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://reverrajewels.com/blogs/article/best-alternatives-to-pandora-jewelry-in-the-usa",
+          "note": "#4: engagement rings and diamonds"
+        }
+      ]
+    },
+    {
+      "name": "Shane Co.",
+      "slug": "shane-co",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://reverrajewels.com/blogs/article/best-alternatives-to-pandora-jewelry-in-the-usa",
+          "note": "#5: engagement rings, diamond studs"
+        }
+      ]
+    },
+    {
+      "name": "Bustle Amazon picks (Nine West, MULA, LongLuck, EAMTI, Parmuz, Step Forward, PAVOI, MiaBella, ORAZIO, SBLING, QueenCharms, BOUTIQUELOVIN)",
+      "slug": "bustle-amazon-picks",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.bustle.com/style/jewelry-like-pandora",
+          "note": "Andrea Gale, Apr 15 2023: Amazon listings"
+        }
+      ]
+    },
+    {
+      "name": "Stella & Dot",
+      "slug": "stella-dot",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Links of London",
+      "slug": "links-of-london",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Abbott Lyon",
+      "slug": "abbott-lyon",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "By Charlotte",
+      "slug": "by-charlotte",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Jenny Bird",
+      "slug": "jenny-bird",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Gorjana",
+      "slug": "gorjana",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Moon & Lola",
+      "slug": "moon-lola",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Uncommon James",
+      "slug": "uncommon-james",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Stuhrling Original",
+      "slug": "stuhrling",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Fascination Jewelry",
+      "slug": "fascination-jewelry",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Radley London",
+      "slug": "radley-london",
+      "in_apart_pool": true,
+      "sources": []
+    }
+  ],
+  "picks": [
+    {
+      "slug": "brighton",
+      "rank": 1,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 6,
+        "max": 68,
+        "min_usd": 6,
+        "max_usd": 68,
+        "fx_date": null,
+        "item_count": 624
+      },
+      "price_relation": null,
+      "reason": "Brighton, a family-owned company making silver jewelry and leather handbags since 1972, sells charms, beads and amulets from $6 to $68, has its own US stores and takes returns for 60 days.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.latterly.org/pandora-jewelry-competitors/",
+          "note": "#11: charm bracelets, pendants and leather accessories mixing leather, enamel and crystals"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.extrabux.com/en/guide/8509357",
+          "note": "Gnoce vs. Pandora vs. Brighton vs. Swarovski: family-owned California business founded 1991 (sic), charms called costume-jewelry equivalent"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "kendra-scott",
+      "rank": 2,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 50,
+        "max": 500,
+        "min_usd": 50,
+        "max_usd": 500,
+        "fx_date": null,
+        "item_count": 34
+      },
+      "price_relation": null,
+      "reason": "Kendra Scott, an Austin brand, sells charms mostly in 18k gold vermeil over sterling silver, from $50 spacers to $500 14k gold diamond charms, with free returns within 30 days.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.latterly.org/pandora-jewelry-competitors/",
+          "note": "#6: gemstone statement earrings, pendants, cuffs and charm bracelets"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/pandora",
+          "note": "'If you like Pandora' #1, 82% match; directory evidence only, never cited"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "gnoce",
+      "rank": 3,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 9.95,
+        "max": 191.95,
+        "min_usd": 9.95,
+        "max_usd": 191.95,
+        "fx_date": null,
+        "item_count": 2263
+      },
+      "price_relation": null,
+      "reason": "Gnoce sells charms and photo beads in 18k gold plated sterling silver made to fit all major bracelet brands, most under $60, with worldwide shipping and 60-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.extrabux.com/en/guide/8509357",
+          "note": "#1 alternative: 18K gold plated sterling silver charms that fit most European-style charm bracelets incl. Pandora's; most items around $100"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "alex-and-ani",
+      "rank": 4,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 14,
+        "max": 34,
+        "min_usd": 14,
+        "max_usd": 34,
+        "fx_date": null,
+        "item_count": 51
+      },
+      "price_relation": null,
+      "reason": "Alex and Ani's Charm Bar charms are stainless steel charms for its interchangeable bases at $14 to $34, the lowest prices here, with free continental US shipping over $85.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.latterly.org/pandora-jewelry-competitors/",
+          "note": "#3: expandable wire bangles, charm bangles, necklaces, earrings at affordable prices"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "gldn",
+      "rank": 5,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 28,
+        "max": 348,
+        "min_usd": 28,
+        "max_usd": 348,
+        "fx_date": null,
+        "item_count": 50
+      },
+      "price_relation": null,
+      "reason": "GLDN makes most pieces in its La Conner, Washington studio and sells charms for bracelets, chains and hoops in silver, vermeil or 10k gold from $28, with 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/pandora",
+          "note": "'If you like Pandora' #4, 72% match, hand-personalised made-to-order keepsakes; directory evidence only, never cited"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "nomination",
+      "rank": 6,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 33,
+        "max": 364,
+        "min_usd": 33,
+        "max_usd": 364,
+        "fx_date": null,
+        "item_count": 1735
+      },
+      "price_relation": null,
+      "reason": "Nomination is an Italian brand whose Composable bracelets are built from themed links, $33 to $364 in the US store, with free US delivery over $100 and 30-business-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.odsjewellers.com/pages/pandora-alternatives-guide",
+          "note": "main alternative: Italian composable charm bracelets (retailer guide; OD's is an authorised Nomination stockist and does not stock Pandora)"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "thomas-sabo",
+      "rank": 7,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 37,
+        "max": 225,
+        "min_usd": 37,
+        "max_usd": 225,
+        "fx_date": null,
+        "item_count": 202
+      },
+      "price_relation": null,
+      "reason": "Thomas Sabo, a German brand founded in 1984, sells 925 sterling silver Charm Club charms that hook on with a lobster clasp, $37 to $225 in its US store, with 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.latterly.org/pandora-jewelry-competitors/",
+          "note": "#4 and Top 3: sterling silver charm bracelets, pendants, stacking rings"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "trollbeads",
+      "rank": 8,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 39,
+        "max": 787,
+        "min_usd": 39,
+        "max_usd": 787,
+        "fx_date": null,
+        "item_count": 927
+      },
+      "price_relation": null,
+      "reason": "Trollbeads, headquartered in Copenhagen like Pandora, sells handmade sterling silver and Murano glass beads from $39, ships free in the US over $149 and takes returns for 30 days.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.latterly.org/pandora-jewelry-competitors/",
+          "note": "#5 and Top 3: handcrafted silver, gold and glass beads; premium, collectible"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "james-avery",
+      "rank": 9,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 46,
+        "max": 450,
+        "min_usd": 46,
+        "max_usd": 450,
+        "fx_date": null,
+        "item_count": 776
+      },
+      "price_relation": null,
+      "reason": "James Avery has made jewelry in Kerrville, Texas since 1954 and sells sterling silver and 14k gold charms from $46 to $450, with free shipping, free returns and a 365-day return window.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.latterly.org/pandora-jewelry-competitors/",
+          "note": "#10: handcrafted sterling silver and gold charms, bracelets, rings, crosses"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "astrid-miyu",
+      "rank": 10,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 55,
+        "max": 200,
+        "min_usd": 55,
+        "max_usd": 200,
+        "fx_date": null,
+        "item_count": 316
+      },
+      "price_relation": null,
+      "reason": "Astrid & Miyu, a London brand founded in 2012, sells clip, click and welding charms at $55 to $200 on its US store, with free US delivery and 28-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/pandora",
+          "note": "'If you like Pandora' #2, 78% match, layerable silver stacks and in-store piercing; directory evidence only, never cited"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "mejuri",
+      "rank": 11,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 88,
+        "max": 398,
+        "min_usd": 88,
+        "max_usd": 398,
+        "fx_date": null,
+        "item_count": 39
+      },
+      "price_relation": null,
+      "reason": "Mejuri sells gold charms set with pearls, birthstones and lab-grown diamonds from $88 to $398, ships free in the US over $75 and takes returns within 30 days.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.latterly.org/pandora-jewelry-competitors/",
+          "note": "#7: solid 14k gold and sterling silver rings, huggies, necklaces, bracelets"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "clogau",
+      "rank": 12,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "GBP",
+        "min": 99,
+        "max": 99,
+        "min_usd": 131.55,
+        "max_usd": 131.55,
+        "fx_date": "2026-10-28",
+        "item_count": 9
+      },
+      "price_relation": null,
+      "reason": "Clogau's Insignia charms are sterling silver with 9ct rose gold details and rare Welsh gold from the Clogau St David's mine, all £99 (about $132), with a 30-day money-back guarantee.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.odsjewellers.com/pages/pandora-alternatives-guide",
+          "note": "alternative #2: Welsh gold heritage jewellery (retailer guide; OD's stocks Clogau)"
+        }
+      ],
+      "gate_gaps": []
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "swarovski",
+      "why": "3 sources (Latterly, Extrabux, OD's), but swarovski.com answers 403 to the StylodexBot UA and to WebFetch; no charms price or US terms readable. Not written to a brand file; queue for a human check."
+    },
+    {
+      "slug": "chamilia",
+      "why": "chamilia.com 301-redirects to swarovski.com: no store of its own to verify or price. 1 source. Not written to a brand file."
+    },
+    {
+      "slug": "monica-vinader",
+      "why": "1 source; monicavinader.com/us answers 403 to curl and WebFetch. Not verified."
+    },
+    {
+      "slug": "kit-heath",
+      "why": "OD's lists it only under a product strip, not as a compared alternative; kitheath.com answers 403. Not verified."
+    },
+    {
+      "slug": "tiffany",
+      "why": "1 source; tiffany.com/jewelry/charms/ shows 11 items, mostly 18k gold and platinum key pendants $2,900-$12,100, and also says '0 items'. No like-for-like charm range. Not written to a brand file."
+    },
+    {
+      "slug": "missoma",
+      "why": "verified (shared file), 1 source, but its US charms-pendants collection has only 4 regular-price items, all talisman pendants $108-$109; no real charm line. Not a pick."
+    },
+    {
+      "slug": "daisy-london",
+      "why": "1 source (disco only); its charms collection (28 products) has every item marked down (compare_at above price), so no regular-price charm range. Not written to a brand file."
+    },
+    {
+      "slug": "michael-kors",
+      "why": "Latterly #14 for logo fashion jewelry; no charm line named. Not checked within the 25-candidate budget."
+    },
+    {
+      "slug": "zales",
+      "why": "Latterly #12; a multi-brand jewelry retailer, not a brand alternative on a brands page. Not checked."
+    },
+    {
+      "slug": "vivienne-westwood",
+      "why": "OD's names it only in a product strip (earrings, pendant), not as a charm alternative; no charm evidence. Not checked for charms."
+    },
+    {
+      "slug": "reverra-picks",
+      "why": "Reverra Jewels (self-listed #1), Brilliant Earth, Blue Nile, James Allen, Shane Co.: diamond and engagement-ring sellers, not charm makers. Not checked."
+    },
+    {
+      "slug": "sursenso-picks",
+      "why": "Sursenso lists itself #1 (self-promotion, no outside evidence); Wostu and Silpada named once on a competitor's page. Not checked within budget."
+    },
+    {
+      "slug": "bustle-amazon-picks",
+      "why": "Bustle (2023) recommends unbranded Amazon listings (MULA, LongLuck, Parmuz, PAVOI...): marketplace sellers, not brands with their own stores. Not checked."
+    },
+    {
+      "slug": "apart-pool-only",
+      "why": "Stella & Dot, Links of London, Abbott Lyon, By Charlotte, Jenny Bird, Gorjana, Moon & Lola, Uncommon James, Stuhrling, Fascination Jewelry, Radley London: Apart Style pool only, no outside source naming them as Pandora alternatives."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "anchor price: charms",
+      "url": "https://us.pandora.net/en/charms/",
+      "check": "us.pandora.net (and uk., pandora.net, robots.txt) answer 403 to the StylodexBot UA and to WebFetch. Anchor has no charms price, size range, ships_to or returns, so the page can't be indexed. Decide whether Pandora's store can be read some approved way, or keep the page noindex."
+    },
+    {
+      "fact": "anchor status",
+      "url": "https://pandoragroup.com/",
+      "check": "Status set verified from Pandora's own corporate site and store locator (stores.pandora.net), since the store refuses reads. Confirm that counts."
+    },
+    {
+      "fact": "pick check: Swarovski",
+      "url": "https://www.swarovski.com/en-US/",
+      "check": "Named by 3 sources (most of any candidate) but the site refuses reads. If a human can confirm US charms prices and terms, it would rank first."
+    },
+    {
+      "fact": "evidence quality: retailer and affiliate guides",
+      "url": "https://www.odsjewellers.com/pages/pandora-alternatives-guide",
+      "check": "OD's Jewellers is a stockist comparing its own brands (only source for Nomination and Clogau); Extrabux is an affiliate guide (one of two for Brighton, only one for Gnoce); Latterly has no byline. Confirm they count as editorial."
+    },
+    {
+      "fact": "Trollbeads range top",
+      "url": "https://www.trollbeads.com/collections/beads/products.json",
+      "check": "Top of range is the retired 2 + 2 Bead at $787, still listed as available. Next highest is $430. Decide whether to keep it."
+    },
+    {
+      "fact": "James Avery range",
+      "url": "https://www.jamesavery.com/charms?sz=1000",
+      "check": "Range uses each tile's default variant; gold variants of silver charms may cost more than $450."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": {
+    "source": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+    "date": "2026-10-28",
+    "per_eur": {
+      "USD": 1.1133,
+      "GBP": 0.83785
+    },
+    "note": "Read 2026-10-29. GBP prices / 0.83785 x 1.1133 (Clogau £99 = $131.55)."
+  },
+  "notes": [
+    "Anchor: status verified from Pandora's own corporate site and store locator; us.pandora.net refuses reads (403 to curl with the StylodexBot UA and to WebFetch). missingAnchorFacts for charms: sizeRange, shipsTo, returnsDays, price:charms. The page can't be indexable until the anchor has a charms price; every price_relation is null for the same reason.",
+    "Ranking: independent sources, then lowest starting charm price in USD (no anchor price to measure closeness against). Brighton ($6) before Kendra Scott ($50) at 2 sources; then 1-source picks by starting price: Gnoce $9.95, Alex and Ani $14, GLDN $28, Nomination $33, Thomas Sabo $37, Trollbeads $39, James Avery $46, Astrid & Miyu $55, Mejuri $88, Clogau $131.55.",
+    "12 picks, not padded. Swarovski (3 sources) is the strongest miss: its site refuses reads. Daisy London has every charm marked down; Missoma and Tiffany have no real charm range.",
+    "Brand files reused: kendra-scott, alex-and-ani (charms price added beside their necklaces entries). New: pandora, brighton, thomas-sabo, trollbeads, james-avery, astrid-miyu, gldn, gnoce, nomination, clogau, mejuri.",
+    "FAQ: one Ahrefs keywords-explorer-matching-terms call (US, questions) on 'pandora charms'; three questions from it, one from People also ask on 'pandora alternatives'."
+  ],
+  "web_search": [
+    {
+      "query": "brands like Pandora charm bracelet alternatives",
+      "url": "https://www.latterly.org/pandora-jewelry-competitors/",
+      "kept": true,
+      "note": "Latterly 'Top 12 Pandora Jewelry Competitors & Alternatives [2026]', no byline or date shown; 15 entries (Swarovski twice)"
+    },
+    {
+      "query": "brands like Pandora charm bracelet alternatives",
+      "url": "https://www.extrabux.com/en/guide/8509357",
+      "kept": true,
+      "note": "Extrabux 'Gnoce vs. Pandora vs. Brighton vs. Swarovski', Nov 18 2024, unsigned affiliate guide"
+    },
+    {
+      "query": "brands like Pandora charm bracelet alternatives",
+      "url": "https://www.odsjewellers.com/pages/pandora-alternatives-guide",
+      "kept": true,
+      "note": "OD's Jewellers (UK stockist) guide: Nomination, Clogau, Swarovski; does not stock Pandora"
+    },
+    {
+      "query": "brands like Pandora charm bracelet alternatives",
+      "url": "https://www.bustle.com/style/jewelry-like-pandora",
+      "kept": true,
+      "note": "Bustle, Andrea Gale, Apr 15 2023: Amazon listings only"
+    },
+    {
+      "query": "brands like Pandora charm bracelet alternatives",
+      "url": "https://ajluxe.com/blogs/jewelry-guide/pandora-charm-bracelet-alternatives",
+      "kept": false,
+      "note": "404"
+    },
+    {
+      "query": "brands like Pandora charm bracelet alternatives",
+      "url": "https://forum.purseblog.com/threads/pandora-vs-chamilia.623828/",
+      "kept": false,
+      "note": "403 to WebFetch; not read"
+    },
+    {
+      "query": "brands like Pandora charm bracelet alternatives",
+      "url": "https://www.womensweekly.com.sg/shopping/chic-charm-bracelets-chic-not-cheesy",
+      "kept": false,
+      "note": "lists Pandora alongside Monica Vinader and Thomas Sabo, not as alternatives"
+    },
+    {
+      "query": "\"alternatives to Pandora\" charms Trollbeads Thomas Sabo Chamilia",
+      "url": "https://jewellerymonthly.co.uk/pandora-or-trollbeads/",
+      "kept": false,
+      "note": "403 to WebFetch; not read"
+    },
+    {
+      "query": "direct",
+      "url": "https://www.discobrands.co/brands/pandora",
+      "kept": true,
+      "note": "disco directory 'If you like Pandora': Kendra Scott, Astrid & Miyu, Daisy London, GLDN. Evidence only, never named on the page. /blogs/pandora/cheaper is 404"
+    },
+    {
+      "query": "best Pandora alternatives jewelry brands list",
+      "url": "https://www.cbinsights.com/company/pandora-1/alternatives-competitors",
+      "kept": false,
+      "note": "auto-generated company competitor list, not editorial"
+    }
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "You've started a Pandora charm bracelet, and the wish list is getting long. Before every new charm comes from the same shop, it's worth knowing who else makes them. Danish glass beads, Italian links, Texas sterling silver and gold charms with real stones are all a click away. These twelve brands sell charms online to the US. The ones named most often come first, then the cheapest.",
+    "bodies": {
+      "brighton": "Brighton is the budget pick for building a charm bracelet one small gift at a time. Most of its charms cost under $30, and the Carry You Charm ($22) comes topped with its own tiny dangling crown.\n\nThe range runs from mini beads at $6 to heart amulets at $68, so a full bracelet stays affordable. It's a family-owned company that's made silver jewelry and leather handbags since 1972, designed in Los Angeles. It also has its own stores across the US, which helps if you'd rather see a charm before you buy it. You get 60 days to return, as long as Gnoce gives you.\n\nThe catch is reach. It ships to US addresses only, and a refund to your card costs a $5 processing fee. Exchanges and store credit are free.",
+      "kendra-scott": "Kendra Scott is the pick if you want gold charms without paying solid-gold prices. Most of its charms are 18k gold vermeil, like the Cross Charm ($80), and the sterling silver ones, like the Small Horseshoe Charm ($70), cost a little less.\n\nVermeil here means sterling silver under a layer of 18k gold, so there's real silver beneath the gold color. Charms start at $50 for spacers and top out at $500 for 14k gold with diamonds. The designs lean Texan, with Longhorn and State of Texas charms, which makes sense for an Austin brand. Orders over $85 ship free, and returns are free within 30 days.\n\nIt's a short list of charms next to the specialists. If you want gemstones set in gold, Mejuri is the next step up in price.",
+      "gnoce": "Gnoce is where to look if you want lots of choice for a bracelet you already own. It makes its charms to fit all the major bracelet brands, and most cost under $60, like the Family Tree Heart Charm ($19.95).\n\nPersonalization is the draw. Its photo beads, like the Couple Personalized Photo Bead ($37.95), carry a picture you choose, and there are engravable and birthstone charms too. Pieces are sterling silver plated with 18k gold. Shipping is free over $89, and you get 60 days to return or exchange.\n\nThe catalog is enormous and heavily themed, with licensed Doraemon charms and Halloween black cats. Shop by theme instead of scrolling. If you'd rather have a short list of plain sterling silver, Thomas Sabo is the tidier choice.",
+      "alex-and-ani": "Alex and Ani has the lowest ceiling on this list, so no charm will surprise you at checkout. Its Charm Bar charms cost $14 to $34 and slip onto its own interchangeable bases, like the Eiffel Tower Charm ($18) in polished stainless steel.\n\nStainless steel is what keeps the price down, so they suit charms you swap out with the seasons. The Phonebooth Charm ($24), in gold-tone steel with red enamel, shows the style. Orders over $85 ship free in the continental US, and returns run 30 days, minus a $5 handling fee.\n\nInternational orders are final sale, so this one is really for US shoppers. If you want far more designs at a similar budget, Brighton's range is much bigger.",
+      "gldn": "GLDN is the pick for charms you can move between a bracelet, a necklace and your hoops. Most of its pieces are made by hand in its La Conner, Washington studio. The Four Leaf Clover Charm costs $40 in sterling silver or $48 in gold vermeil, with a small green gemstone in the center.\n\nMany charms come in silver, vermeil or 10k solid gold, so you can start in silver and add gold later. Spacers like the Extra Essential Bead ($32 in silver) give each charm room so they don't tangle. Shipping is free over $150, and you get 30 days to return for a refund or 90 days to exchange.\n\nPersonalized pieces can't be returned for a refund. Save the engraved charms for when you're sure. For US-made sterling silver with a bigger charm catalog, James Avery goes further.",
+      "nomination": "Nomination is the Italian take on a bracelet you build yourself, made of Composable links instead of charms on a chain. The Skyline Brooklyn Bridge link ($33) in silver is one of the cheapest ways to start.\n\nThe links come in themes like initials and birthstones, so you can spell out a name or a birth month. Zodiac links like the gold Sagittarius with etched detail ($47) are typical, and gold plate with diamonds tops out at $364. It also sells a Key for Composable Bracelet ($7), so add one to your first order. US delivery is free over $100.\n\nReturns are open for 30 business days, but return shipping is on you. If you'd rather thread beads on a chain, Trollbeads is the classic alternative.",
+      "thomas-sabo": "Thomas Sabo is the pick for sterling silver charms that hang rather than thread. Its Charm Club charms hook onto its bracelets and necklaces with a lobster clasp, so you can rearrange them any time. The Crown Charm ($52) is an easy first one.\n\nCharm Club charms are 925 sterling silver, and some carry 18k yellow or rose gold plating. Prices run from $37 to $225, with novelty pieces like the silver frog ($135) near the top. It's a German brand founded in 1984, US orders ship from Canada, and returns run 30 days.\n\nIt can't deliver to Puerto Rico, Guam, American Samoa or the US Virgin Islands. If you live there, Gnoce ships worldwide. And if you love the idea of beads on a chain, Trollbeads works that way.",
+      "trollbeads": "Trollbeads is the one to choose for handmade glass beads, each one slightly different in size, color and pattern. It's from Copenhagen, like Pandora, and classic beads start at $39. The Vine of Dreams glass bead ($49) is a good example of its violet, flower-strewn style.\n\nMost of the range is sterling silver, with Murano glass, gemstones and gold cores at the top. Faceted glass beads mostly cost $75. US shipping is free over $149, and returns run 30 days with a $6.99 handling fee.\n\nPlan on its own bracelet. Trollbeads says other brands' beads fit its chains, but its own beads don't fit other chains, apart from some large ones. If you want charms that hang from a clasp instead, Thomas Sabo is the better fit.",
+      "james-avery": "James Avery is the pick if you want sterling silver charms made in the US. It's been making jewelry in Kerrville, Texas since 1954 and still designs and crafts it there. Prices start at $46, with the Tiniest Elephant Charm, and the Enamel Peppermint Charm ($56) shows its playful side.\n\nMost charms are sterling silver, and 14k gold versions go up to $450 for a round St. Christopher medal. Shipping and returns are free on every order, and you get 365 days to return. That's the longest window here by far. It'll also attach charms to your bracelet for you, which adds two or three business days.\n\nIt ships within the US only, with international orders by phone. If you want a US-made charm that also works on a necklace or hoops, GLDN is the other option.",
+      "astrid-miyu": "Astrid & Miyu is the pick for charms that clip, click or get welded on. It's a London brand founded in 2012, and its charms come as clip charms, click charms and welding charms. The Pearl Clip Charm in Gold ($55) is the cheapest way in.\n\nThe useful part is matching. It sells hoops, chains and bracelets marked as compatible with each charm type, so pick the base first and buy charms for it. Click charms in solid gold, like the initial letters, cost $110, and the range tops out at $200. Delivery to the US is free, and returns run 28 days.\n\nWelding charms are for permanent jewelry, an in-store service, and the stores are in London and the UK. US buyers should stick to clip and click charms. If you'd rather buy from a US brand, Kendra Scott's vermeil charms start at $50.",
+      "mejuri": "Mejuri is the step up to gold charms set with real stones. The Organic Pearl Charm ($88) is the entry point, and the Puzzle Sliding Charm ($128) comes in 14 stones, opal and lab-grown ruby among them.\n\nBirthstone Charms start at $118 in 10k gold, and Cursive Letter Charms cost $148 in 14k. At the top, the pavé diamond engravable tag and disc charms cost $398. US orders over $75 ship free, and you get 30 days to return.\n\nThe range is small next to the charm specialists, so it suits one or two meaningful charms more than a full bracelet. If you want gold color at a lower price, Kendra Scott's vermeil charms start lower.",
+      "clogau": "Clogau is the pick for a charm with a story about where its gold came from. The brand grew out of the Clogau St David's gold mine in Snowdonia, and every piece contains rare Welsh gold. The Welsh Dragon Charm (£99, about $132) is the obvious one to start with.\n\nIts Insignia charms are sterling silver with 9ct rose gold details, and they're all priced the same. Each one is designed for Clogau's own Insignia charm bracelet, necklace or choker. Returns come with a 30-day money-back guarantee.\n\nPrices are in pounds, so add the conversion and the £14.99 international delivery before you compare. If you want sterling silver charms priced in dollars, Thomas Sabo and James Avery both start well under $60."
+    },
+    "best_for": {
+      "brighton": "filling a whole charm bracelet for under $30 a charm",
+      "kendra-scott": "gold vermeil charms with a Texas streak",
+      "gnoce": "photo beads and themed charms for the bracelet you own",
+      "alex-and-ani": "swappable charms you can buy on a whim",
+      "gldn": "charms that move from a bracelet to your hoops",
+      "nomination": "building an Italian link bracelet one link at a time",
+      "thomas-sabo": "sterling silver charms that clip on and off",
+      "trollbeads": "handmade glass beads where no two are alike",
+      "james-avery": "US-made silver charms with a year to return them",
+      "astrid-miyu": "clip-on charms from a London jeweler with free US delivery",
+      "mejuri": "one gold charm with a real gemstone",
+      "clogau": "a charm gift with Welsh gold in it"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with how you want to wear them. For beads you thread on a chain, go to Trollbeads for handmade glass or Gnoce for a huge themed catalog. For charms that hang from a clasp, Thomas Sabo is the silver option and Astrid & Miyu the clip-on one. Nomination is its own system of links. On budget, Brighton and Alex and Ani keep most charms under $35. Kendra Scott and GLDN sit in the middle, in vermeil and silver. Mejuri and Clogau are for one special gold piece. And if returns worry you, James Avery gives you a full year."
+    },
+    "faqs": [
+      {
+        "q": "What are some alternatives to Pandora charms?",
+        "a": "Trollbeads and Thomas Sabo are the closest, with sterling silver charms made for their own bracelets. Gnoce makes charms to fit all the major bracelet brands, and Brighton and Alex and Ani cost the least.",
+        "source_query": "What are some alternatives to Pandora charms?",
+        "source": "people_also_ask"
+      },
+      {
+        "q": "Are Pandora charms sterling silver?",
+        "a": "Many are. Pandora makes its jewelry in sterling silver, 18k gold-plated sterling silver, 14k gold and its own Pandora Rose metal, all from recycled silver and gold.",
+        "source_query": "are pandora charms sterling silver"
+      },
+      {
+        "q": "Where are Pandora charms made?",
+        "a": "In Pandora's own crafting facilities in Thailand, in Bangkok, Lamphun and Gemopolis. The designs start in its Copenhagen studio.",
+        "source_query": "where are pandora charms made"
+      },
+      {
+        "q": "Do Gnoce charms fit Pandora?",
+        "a": "Gnoce makes its charms to fit all the major charm bracelet brands, which is the whole idea of the line. It also gives you 60 days to return one that doesn't suit your bracelet.",
+        "source_query": "do gnoce charms fit pandora"
+      }
+    ]
+  },
+  "copy_facts": [
+    {
+      "fact": "Pandora founded 1982, HQ Copenhagen; materials 14k gold, 18K gold-plated sterling silver, sterling silver, Pandora Rose; 'iconic Pandora charms and bracelets'; US stores",
+      "url": "https://stores.pandora.net/en-us/"
+    },
+    {
+      "fact": "Pandora crafting facilities Bangkok, Lamphun, Gemopolis (Thailand); design starts in Copenhagen studio; 100% recycled silver and gold",
+      "url": "https://pandoragroup.com/about-us/craftmanship"
+    },
+    {
+      "fact": "Brighton charms $6-$68 (57% under $30); Carry You Charm $22 topped with a tiny dangling crown; founded 1972 by Jerry and Terri Kohl, family-owned, design HQ Los Angeles; US stores; 60-day returns, $5 refund fee; ships US only; free over $95",
+      "url": "https://www.brighton.com/collections/charms/products.json"
+    },
+    {
+      "fact": "Kendra Scott charms $50-$500, 22 of 34 in 18k gold vermeil; Cross Charm 18k Gold Vermeil $80; Small Horseshoe Charm Sterling Silver $70; Longhorn and State of Texas charms; vermeil = sterling silver plated with 18k gold; free shipping $85+, 30-day free returns; Austin",
+      "url": "https://www.kendrascott.com/jewelry/categories/charms/"
+    },
+    {
+      "fact": "Gnoce: 'Fit All Major Brands of Bracelets & Necklaces'; sterling silver plated with 18K gold; Family Tree Heart Charm $19.95; Couple Personalized Photo Bead $37.95; 62% under $60; free shipping over $89; 60-day returns; worldwide shipping; Doraemon and Halloween themes",
+      "url": "https://www.gnoce.com/product-family-tree-heart-charm-cid8-ggc033.html"
+    },
+    {
+      "fact": "Alex and Ani Charm Bar charms $14-$34; Eiffel Tower Charm $18 stainless steel polished silver; Phonebooth Charm $24 gold-tone stainless steel red enamel; free continental US shipping $85+; 30-day returns minus $5; international sales final",
+      "url": "https://www.alexandani.com/collections/charm-bar-charms/products.json"
+    },
+    {
+      "fact": "GLDN: 90% made in La Conner, WA studio; Four Leaf Clover Charm $40 silver / $48 vermeil, green gemstone center; 51 of 65 charms offer 10k gold; Extra Essential Bead $32 silver; free shipping over $150; 30-day refunds, 90-day exchanges; personalized pieces not refundable",
+      "url": "https://www.gldn.com/collections/charms/products.json"
+    },
+    {
+      "fact": "Nomination Composable links $33 (Skyline Brooklyn Bridge silver) to $364; Sagittarius gold link etched $47; Key for Composable Bracelet $7; themes initials, birthstones, love, family, travel; free US delivery over $100; 30 business days returns at buyer's cost",
+      "url": "https://www.nomination.com/us_en/composable/composable/links"
+    },
+    {
+      "fact": "Thomas Sabo Charm Club charms 925 sterling silver, some 18k gold plated, lobster clasp onto Charm Club bracelets and necklaces; $37-$225; Crown Charm $52; Silver charm pendant frog $135; ships from Canada; no delivery to Puerto Rico, American Samoa, Guam, Virgin Islands; 30-day returns; founded 1984 Germany",
+      "url": "https://www.thomassabo.com/US/en_US/charm-club/by-category/charms-original"
+    },
+    {
+      "fact": "Trollbeads: HQ Copenhagen; each bead handmade, unique in size, colour and pattern; majority silver, plus Murano glass; beads from $39; Vine of Dreams $49 violet glass with hearts and flowers; faceted $75; free US shipping $149+; 30-day returns, $6.99 fee; other brands' beads fit its chains, not the reverse",
+      "url": "https://www.trollbeads.com/pages/faqs"
+    },
+    {
+      "fact": "James Avery: Kerrville, Texas since 1954, designs and crafts in Texas; charms from $46 (Tiniest Elephant Charm), Enamel Peppermint $56, 14k gold up to $450 (Round St. Christopher Medal Charm); free shipping and returns; 365-day returns; Attach a Charm 2-3 business days; US only, international by phone",
+      "url": "https://www.jamesavery.com/charms?sz=1000"
+    },
+    {
+      "fact": "Astrid & Miyu: founded 2012 by Connie Nam, London/UK stores; clip, click, welding charms; Pearl Clip Charm in Gold $55; solid gold initial click charms $110; top $200; compatible hoops, chains, bracelets collections; permanent jewelry in store; free US delivery; 28-day returns",
+      "url": "https://www.astridandmiyu.com/en-us/collections/all-charms/products.json"
+    },
+    {
+      "fact": "Mejuri charms $88 (Organic Pearl Charm) to $398 (pavé diamond engravable tag/disc); Puzzle Sliding Charm $128 in 14 stones incl. opal and lab-grown ruby; Birthstone Charm 10k from $118; Cursive Letter Charm 14k $148; free US shipping $75+; 30-day returns",
+      "url": "https://mejuri.com/collections/charms"
+    },
+    {
+      "fact": "Clogau: Clogau St David's mine, Snowdonia; every piece contains rare Welsh gold; Insignia sterling silver charms with 9ct rose gold detailing, all £99; Welsh Dragon Charm; designed for the Insignia bracelet, necklace and choker; international delivery £14.99; 30-day money-back guarantee",
+      "url": "https://www.clogau.co.uk/collections/all-charms/products.json"
+    }
+  ]
+}

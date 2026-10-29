@@ -1,0 +1,932 @@
+{
+ "subject": "White House Black Market",
+ "slug": "white-house-black-market",
+ "url_prefix": "stores",
+ "category": {
+  "slug": "dresses",
+  "name": "Dresses",
+  "why": "White House Black Market sells its own label (kind brand), so C is a product type. Its positioning ('polished black and white women's clothing... tailored dresses, tops, pants') is a style, not a product; dresses are the hero product type: listed first among products in the store's meta ('Shop tailored dresses, tops, pants and accessories'), a top-level nav item, and the category its sibling pages (Ann Taylor, Talbots, Loft, Coldwater Creek) already compare on, so its dresses price row (75 regular-price dresses, $140–$295) is shared and current. Like-for-like item: women's dresses, which every pick sells; prices are each store's regular price for dresses not marked down (see brand-file price notes)."
+ },
+ "serp": [
+  {
+   "keyword": "stores like white house black market",
+   "position": 1,
+   "url": "https://www.whitehouseblackmarket.com/store",
+   "kept": false,
+   "why_dropped": "AI overview sitelink; anchor's own site"
+  },
+  {
+   "keyword": "stores like white house black market",
+   "position": 1,
+   "url": "https://www.reddit.com/r/workingmoms/comments/1ereyc3/where_are_you_all_buying_business_wear_these_days/",
+   "kept": false,
+   "why_dropped": "AI overview sitelink; reddit, WebFetch refuses reddit.com; not read"
+  },
+  {
+   "keyword": "stores like white house black market",
+   "position": 2,
+   "url": "https://www.whitehouseblackmarket.com/store",
+   "kept": false,
+   "why_dropped": "anchor's own site"
+  },
+  {
+   "keyword": "stores like white house black market",
+   "position": 4,
+   "url": "https://www.whitehouseblackmarket.com/store/category/clothing/cat11389313",
+   "kept": false,
+   "why_dropped": "anchor's own site"
+  },
+  {
+   "keyword": "stores like white house black market",
+   "position": 5,
+   "url": "https://www.similist.com/alternatives/stores-like-white-house-black-market",
+   "kept": false,
+   "why_dropped": "similist: scraped list with no editorial content"
+  },
+  {
+   "keyword": "stores like white house black market",
+   "position": 6,
+   "url": "https://www.reddit.com/r/workingmoms/comments/1ereyc3/where_are_you_all_buying_business_wear_these_days/",
+   "kept": false,
+   "why_dropped": "reddit; not read (sitelinks r/ethicalfashion 'Alternatives to WHBM?' and r/fashionwomens35 also reddit)"
+  },
+  {
+   "keyword": "stores like white house black market",
+   "position": 7,
+   "url": "https://www.busbeestyle.com/best-places-to-shop-over-40",
+   "kept": false,
+   "why_dropped": "read: a general 'places to shop over 40' list; names WHBM once in 'For Basics' ('I suggest Frank & Eileen, Jenni Kayne, White House Black Market, Everlane, Ann Taylor, and/or J. Crew') but recommends nothing as an alternative to it"
+  },
+  {
+   "keyword": "stores like white house black market",
+   "position": 8,
+   "url": "https://www.cbinsights.com/company/white-house-black-market/alternatives-competitors",
+   "kept": false,
+   "why_dropped": "business-competitor database, not shopping recommendations"
+  },
+  {
+   "keyword": "stores like white house black market",
+   "position": 9,
+   "url": "https://www.facebook.com/fb-answers/stores-similar-to-white-house-black-market/",
+   "kept": false,
+   "why_dropped": "Facebook answers page; WebFetch got only the word 'Facebook'"
+  },
+  {
+   "keyword": "stores like white house black market",
+   "position": 10,
+   "url": "https://www.wardrobeoxygen.com/best-clothing-retailers-women-over-40/",
+   "kept": false,
+   "why_dropped": "read in two parts: article body never mentions WHBM; one 2016 reader comment says 'WH/BM is great for tall women' and names no alternative"
+  },
+  {
+   "keyword": "brands like white house black market",
+   "position": 1,
+   "url": "https://www.whitehouseblackmarket.com/store",
+   "kept": false,
+   "why_dropped": "anchor's own site"
+  },
+  {
+   "keyword": "brands like white house black market",
+   "position": 3,
+   "url": "https://www.whitehouseblackmarket.com/store/category/clothing/cat11389313",
+   "kept": false,
+   "why_dropped": "anchor's own site"
+  },
+  {
+   "keyword": "brands like white house black market",
+   "position": 4,
+   "url": "https://www.reddit.com/r/workingmoms/comments/1ereyc3/where_are_you_all_buying_business_wear_these_days/",
+   "kept": false,
+   "why_dropped": "reddit; not read"
+  },
+  {
+   "keyword": "brands like white house black market",
+   "position": 5,
+   "url": "https://www.facebook.com/fb-answers/stores-similar-to-white-house-black-market/",
+   "kept": false,
+   "why_dropped": "Facebook answers page; no content"
+  },
+  {
+   "keyword": "brands like white house black market",
+   "position": 6,
+   "url": "https://busbeestyle.com/best-places-to-shop-over-40/",
+   "kept": false,
+   "why_dropped": "same page as 'stores like' #7"
+  },
+  {
+   "keyword": "brands like white house black market",
+   "position": 7,
+   "url": "https://www.cbinsights.com/company/white-house-black-market/alternatives-competitors",
+   "kept": false,
+   "why_dropped": "business-competitor database"
+  },
+  {
+   "keyword": "brands like white house black market",
+   "position": 8,
+   "url": "https://www.wardrobeoxygen.com/best-clothing-retailers-women-over-40/",
+   "kept": false,
+   "why_dropped": "same page as 'stores like' #10"
+  },
+  {
+   "keyword": "brands like white house black market",
+   "position": 9,
+   "url": "https://www.reddit.com/r/ethicalfashion/comments/ofi9oo/alternatives_to_whbm/",
+   "kept": false,
+   "why_dropped": "reddit; not read"
+  },
+  {
+   "keyword": "brands like white house black market",
+   "position": 9,
+   "url": "https://ask.metafilter.com/276064/Clothes-similar-to-White-House-Black-Market",
+   "kept": false,
+   "why_dropped": "HTTP 403 to the bot UA and to WebFetch; not worked around (human check)"
+  },
+  {
+   "keyword": "brands like white house black market",
+   "position": 10,
+   "url": "https://similist.com/alternatives/stores-like-white-house-black-market/",
+   "kept": false,
+   "why_dropped": "similist: scraped list"
+  },
+  {
+   "keyword": "white house black market alternatives",
+   "position": null,
+   "url": null,
+   "kept": false,
+   "why_dropped": "Ahrefs returned no SERP rows"
+  },
+  {
+   "keyword": "similar to white house black market",
+   "position": null,
+   "url": null,
+   "kept": false,
+   "why_dropped": "Ahrefs returned no SERP rows"
+  },
+  {
+   "keyword": "web search: brands similar to WHBM White House Black Market alternatives list",
+   "position": null,
+   "url": "https://temufinds.com/stores-like-white-house-black-market/",
+   "kept": true,
+   "note": "found by WebSearch (Ahrefs SERPs had no readable editorial list); signed 'Kafiya T', published 2024-12-06, modified 2025-05-31; 12 stores"
+  },
+  {
+   "keyword": "web search",
+   "position": null,
+   "url": "https://viraltalky.com/stores-like-white-house-black-market/",
+   "kept": true,
+   "note": "found by WebSearch; 'ViralTalky', 2023-06-01; 13 stores"
+  },
+  {
+   "keyword": "web search",
+   "position": null,
+   "url": "https://gentstylez.com/blogs/fashion/stores-like-white-house-black-market",
+   "kept": false,
+   "why_dropped": "TLS handshake failure to curl, HTTP 503 to WebFetch; not read"
+  },
+  {
+   "keyword": "web search",
+   "position": null,
+   "url": "https://almostsimilar.com/stores-like-white-house-black-market/",
+   "kept": false,
+   "why_dropped": "301 to an unrelated domain (rotoplast.in); not followed"
+  }
+ ],
+ "co_stocking": [
+  {
+   "retailer": null,
+   "url": null,
+   "used": false,
+   "why": "enrich.md §1.4b doesn't apply: White House Black Market sells only through its own boutiques and site."
+  }
+ ],
+ "disco": {
+  "checked": true,
+  "result": "No discobrands.co page for White House Black Market: its sitemap (6,227 URLs) has none, and /brands/white-house-black-market and /blogs/brands-like-white-house-black-market 404. Nothing counted."
+ },
+ "candidates": [
+  {
+   "name": "Eileen Fisher",
+   "slug": "eileen-fisher",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://temufinds.com/stores-like-white-house-black-market/",
+     "note": "#1: 'as is White House Black Market, but with a much stronger focus on sustainability and comfort'"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-white-house-black-market/",
+     "note": "#1 Eileen Fisher"
+    }
+   ]
+  },
+  {
+   "name": "Talbots",
+   "slug": "talbots",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://temufinds.com/stores-like-white-house-black-market/",
+     "note": "#2: 'Like White House Black Market, Talbots sells a line of timeless, versatile clothing'"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-white-house-black-market/",
+     "note": "#8 Talbots"
+    }
+   ]
+  },
+  {
+   "name": "Chico's",
+   "slug": "chicos",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://temufinds.com/stores-like-white-house-black-market/",
+     "note": "#3: 'Chico's takes an edgier approach to fashion but also caters to the fashion needs of the contemporary woman'"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-white-house-black-market/",
+     "note": "#4 Chico's; FAQ names it among 'White House Black Market competitors'"
+    }
+   ]
+  },
+  {
+   "name": "Ann Taylor",
+   "slug": "ann-taylor",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://temufinds.com/stores-like-white-house-black-market/",
+     "note": "#4: 'very similar in style to WHBM because of its focus on elegant, feminine attire'; FAQ: 'Ann Taylor and Theory have the closest likeness'"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-white-house-black-market/",
+     "note": "#2 Ann Taylor; FAQ"
+    }
+   ]
+  },
+  {
+   "name": "Loft",
+   "slug": "loft",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://temufinds.com/stores-like-white-house-black-market/",
+     "note": "#5: 'a more casual, youthful take on the classic styles White House Black Market is known for'"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-white-house-black-market/",
+     "note": "#6 LOFT"
+    }
+   ]
+  },
+  {
+   "name": "Theory",
+   "slug": "theory",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://temufinds.com/stores-like-white-house-black-market/",
+     "note": "#6: 'much like the White House Black Market'"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-white-house-black-market/",
+     "note": "#9 Theory"
+    }
+   ]
+  },
+  {
+   "name": "J.Crew",
+   "slug": "j-crew",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://temufinds.com/stores-like-white-house-black-market/",
+     "note": "#7: 'various lines of clothes that can be hauled up or down to suit your style, much like WHBM'"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-white-house-black-market/",
+     "note": "#5 J.Crew"
+    }
+   ]
+  },
+  {
+   "name": "Old Navy",
+   "slug": "old-navy",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://temufinds.com/stores-like-white-house-black-market/",
+     "note": "#8: 'appeals to those who like White House Black Market because of its classic, clean line'; FAQ cheaper alternative"
+    }
+   ]
+  },
+  {
+   "name": "Francesca's",
+   "slug": "francescas",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://temufinds.com/stores-like-white-house-black-market/",
+     "note": "#9: 'shares a commitment to pieces that make statements with WHBM'"
+    }
+   ]
+  },
+  {
+   "name": "Tobi",
+   "slug": "tobi",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://temufinds.com/stores-like-white-house-black-market/",
+     "note": "#10: 'Similar to White House Black Market, only a tad young and relaxed'"
+    }
+   ]
+  },
+  {
+   "name": "boohoo",
+   "slug": "boohoo",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://temufinds.com/stores-like-white-house-black-market/",
+     "note": "#11: 'a bit of a younger and very fashion-forward style'; FAQ names it among cheaper alternatives"
+    }
+   ]
+  },
+  {
+   "name": "Shein",
+   "slug": "shein",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://temufinds.com/stores-like-white-house-black-market/",
+     "note": "#12 Shein; FAQ cheaper alternative"
+    }
+   ]
+  },
+  {
+   "name": "Wet Seal",
+   "slug": "wet-seal",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://temufinds.com/stores-like-white-house-black-market/",
+     "note": "FAQ 'Are there cheaper versions of White House Black Market?': 'Old Navy, Wet Seal, Boohoo, and Shein'"
+    }
+   ]
+  },
+  {
+   "name": "Banana Republic",
+   "slug": "banana-republic",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-white-house-black-market/",
+     "note": "#3 Banana Republic; FAQ names it among WHBM competitors"
+    }
+   ]
+  },
+  {
+   "name": "Nordstrom",
+   "slug": "nordstrom",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-white-house-black-market/",
+     "note": "#7 Nordstrom; FAQ names it among WHBM competitors"
+    }
+   ]
+  },
+  {
+   "name": "Vince",
+   "slug": "vince",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-white-house-black-market/",
+     "note": "#10 Vince"
+    }
+   ]
+  },
+  {
+   "name": "Lands' End",
+   "slug": "lands-end",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-white-house-black-market/",
+     "note": "#11 Land's End"
+    }
+   ]
+  },
+  {
+   "name": "Topshop",
+   "slug": "topshop",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-white-house-black-market/",
+     "note": "#12 Topshop"
+    }
+   ]
+  },
+  {
+   "name": "The Limited",
+   "slug": "the-limited",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-white-house-black-market/",
+     "note": "#13 The Limited"
+    }
+   ]
+  },
+  {
+   "name": "Veronica Beard",
+   "slug": "veronica-beard",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "A.L.C.",
+   "slug": "a-l-c",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Whistles",
+   "slug": "whistles",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Club Monaco",
+   "slug": "club-monaco",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Acler",
+   "slug": "acler",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Express",
+   "slug": "express",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Toteme",
+   "slug": "toteme",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "FRAME",
+   "slug": "frame",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Madewell",
+   "slug": "madewell",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Gérard Darel",
+   "slug": "gerard-darel",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Equipment",
+   "slug": "equipment",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Halogen",
+   "slug": "halogen",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Jenni Kayne",
+   "slug": "jenni-kayne",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Everlane",
+   "slug": "everlane",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Sézane",
+   "slug": "sezane",
+   "in_apart_pool": true,
+   "sources": []
+  }
+ ],
+ "candidate_pool": {
+  "source": "public.brand_relationships (Apart Style, read-only)",
+  "result": "17 rows for white-house-black-market: Theory, Veronica Beard, A.L.C., Whistles, Club Monaco, Acler, Ann Taylor LOFT (= loft), Express, Toteme, FRAME, Madewell, Gérard Darel, Equipment, Halogen, Jenni Kayne, Everlane, Sézane. Only Theory and Loft have outside sources."
+ },
+ "picks": [
+  {
+   "slug": "j-crew",
+   "rank": 1,
+   "independent_sources": 2,
+   "single_source": false,
+   "price": {
+    "currency": "USD",
+    "min": 148,
+    "max": 298,
+    "min_usd": 148,
+    "max_usd": 298,
+    "fx_date": null,
+    "item_count": 38
+   },
+   "price_relation": "similar",
+   "reason": "J.Crew's regular dresses run $148 to $298 (Parc dress in four-season stretch $198, slip dresses from $148), in petite and tall, with 30-day returns.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://temufinds.com/stores-like-white-house-black-market/",
+     "note": "#7: 'various lines of clothes that can be hauled up or down to suit your style, much like WHBM'"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-white-house-black-market/",
+     "note": "#5 J.Crew"
+    }
+   ]
+  },
+  {
+   "slug": "talbots",
+   "rank": 2,
+   "independent_sources": 2,
+   "single_source": false,
+   "price": {
+    "currency": "USD",
+    "min": 99.5,
+    "max": 299.0,
+    "min_usd": 99.5,
+    "max_usd": 299.0,
+    "fx_date": null,
+    "item_count": 48
+   },
+   "price_relation": "similar",
+   "reason": "Talbots sells dresses in misses 2–18, petite 0–16 and plus 14W–24W at $99.50 to $299 (Luxe Ponte Sheath Dress $179), with 437 US stores.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://temufinds.com/stores-like-white-house-black-market/",
+     "note": "#2: 'Like White House Black Market, Talbots sells a line of timeless, versatile clothing'"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-white-house-black-market/",
+     "note": "#8 Talbots"
+    }
+   ]
+  },
+  {
+   "slug": "chicos",
+   "rank": 3,
+   "independent_sources": 2,
+   "single_source": false,
+   "price": {
+    "currency": "USD",
+    "min": 109.5,
+    "max": 189.5,
+    "min_usd": 109.5,
+    "max_usd": 189.5,
+    "fx_date": null,
+    "item_count": 15
+   },
+   "price_relation": "similar",
+   "reason": "Chico's regular dresses run $109.50 to $189.50 in its 000–4 scale (US 0–22) with petites, and it keeps White House Black Market's 60-day return window.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://temufinds.com/stores-like-white-house-black-market/",
+     "note": "#3: 'Chico's takes an edgier approach to fashion but also caters to the fashion needs of the contemporary woman'"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-white-house-black-market/",
+     "note": "#4 Chico's; FAQ names it among 'White House Black Market competitors'"
+    }
+   ]
+  },
+  {
+   "slug": "ann-taylor",
+   "rank": 4,
+   "independent_sources": 2,
+   "single_source": false,
+   "price": null,
+   "price_relation": null,
+   "reason": "Ann Taylor is a Knitwell sister brand built on tailored workwear, with Work Dresses and Suit Dresses, petite, tall and curvy fits, and free US shipping over $150.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://temufinds.com/stores-like-white-house-black-market/",
+     "note": "#4: 'very similar in style to WHBM because of its focus on elegant, feminine attire'; FAQ: 'Ann Taylor and Theory have the closest likeness'"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-white-house-black-market/",
+     "note": "#2 Ann Taylor; FAQ"
+    }
+   ]
+  },
+  {
+   "slug": "loft",
+   "rank": 5,
+   "independent_sources": 2,
+   "single_source": false,
+   "price": null,
+   "price_relation": null,
+   "reason": "Loft sells dresses in 00–18 and XXS–XXL with petite, tall and curvy fits, has 358 US stores, ships to CA, GB and AU, and takes returns within 30 days.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://temufinds.com/stores-like-white-house-black-market/",
+     "note": "#5: 'a more casual, youthful take on the classic styles White House Black Market is known for'"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-white-house-black-market/",
+     "note": "#6 LOFT"
+    }
+   ]
+  },
+  {
+   "slug": "banana-republic",
+   "rank": 6,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 148.0,
+    "max": 280.0,
+    "min_usd": 148.0,
+    "max_usd": 280.0,
+    "fx_date": null,
+    "item_count": 61
+   },
+   "price_relation": "similar",
+   "reason": "Banana Republic's regular dresses run $148 to $280 (Knit Wrap Midi Dress $198, cashmere mini $280) in 0–20, petite 00–12 and long 4–12.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-white-house-black-market/",
+     "note": "#3 Banana Republic; FAQ names it among WHBM competitors"
+    }
+   ]
+  },
+  {
+   "slug": "vince",
+   "rank": 7,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 298.0,
+    "max": 628.0,
+    "min_usd": 298.0,
+    "max_usd": 628.0,
+    "fx_date": null,
+    "item_count": 24
+   },
+   "price_relation": "pricier",
+   "reason": "Vince's regular dresses start at $298, where White House Black Market's stop, and run to $628 (Satin V-Neck Slip Dress $398), with free US shipping from $250 and 30-day returns.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-white-house-black-market/",
+     "note": "#10 Vince"
+    }
+   ]
+  },
+  {
+   "slug": "old-navy",
+   "rank": 8,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 34.99,
+    "max": 59.99,
+    "min_usd": 34.99,
+    "max_usd": 59.99,
+    "fx_date": null,
+    "item_count": 9
+   },
+   "price_relation": "cheaper",
+   "reason": "Old Navy's regular dresses cost $34.99 to $59.99 (Sleeveless Fit & Flare Ponte Mini Dress $39.99) in sizes 00–30 with petite and tall, and free 30-day returns.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://temufinds.com/stores-like-white-house-black-market/",
+     "note": "#8: 'appeals to those who like White House Black Market because of its classic, clean line'; FAQ cheaper alternative"
+    }
+   ]
+  },
+  {
+   "slug": "nordstrom",
+   "rank": 9,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": null,
+   "price_relation": null,
+   "reason": "Nordstrom stocks dresses from hundreds of labels in 00–28W with petite and plus, ships free anywhere in the US and sets no time limit on returns.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-white-house-black-market/",
+     "note": "#7 Nordstrom; FAQ names it among WHBM competitors"
+    }
+   ]
+  },
+  {
+   "slug": "boohoo",
+   "rank": 10,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": null,
+   "price_relation": null,
+   "reason": "boohoo sells dresses in US 0–26 with petite, plus and tall, ships to the US for $10.99 with no extra tariff charges, and takes returns within 21 days.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://temufinds.com/stores-like-white-house-black-market/",
+     "note": "#11: 'a bit of a younger and very fashion-forward style'; FAQ names it among cheaper alternatives"
+    }
+   ]
+  }
+ ],
+ "rejected": [
+  {
+   "slug": "eileen-fisher",
+   "why": "2 sources, but unverified: eileenfisher.com gave no response to the bot UA (and closed connections / 503 in today's loft run). Not worked around; human check."
+  },
+  {
+   "slug": "theory",
+   "why": "2 sources, but unverified: theory.com HTTP 403 to the bot UA. Human check."
+  },
+  {
+   "slug": "francescas",
+   "why": "1 source; francescas.com HTTP 423 'Locked' to the bot UA and WebFetch. New brand file, unverified; human check."
+  },
+  {
+   "slug": "tobi",
+   "why": "1 source; defunct (its own site: 'Tobi is no longer operating')."
+  },
+  {
+   "slug": "shein",
+   "why": "1 source; unverified marketplace in its brand file (US site redirects to a bot check)."
+  },
+  {
+   "slug": "wet-seal",
+   "why": "1 source (FAQ only); unverified: wetseal.com serves a hosted-store 'unavailable' page."
+  },
+  {
+   "slug": "lands-end",
+   "why": "1 source; its brand file has no women's dresses (sells_categories coats-jackets; the ann-taylor run found no women's dresses in its nav). Gate would drop it from dresses."
+  },
+  {
+   "slug": "topshop",
+   "why": "1 source; no own US store (us.topshop.com redirects to ASOS, a marketplace)."
+  },
+  {
+   "slug": "the-limited",
+   "why": "1 source (2023 list); thelimited.com failed TLS to curl and 503 to WebFetch. New brand file, unverified; human check."
+  },
+  {
+   "slug": "veronica-beard",
+   "why": "Apart Style pool and CB Insights (dropped source) only; no outside shopping source."
+  },
+  {
+   "slug": "pool-rest",
+   "why": "Other Apart Style pool brands (A.L.C., Whistles, Club Monaco, Acler, Express, Toteme, FRAME, Madewell, Gérard Darel, Equipment, Halogen, Jenni Kayne, Everlane, Sézane): no outside source names them as WHBM alternatives (Jenni Kayne and Everlane appear only in busbeestyle's general list, dropped)."
+  }
+ ],
+ "human_check": [
+  {
+   "fact": "evidence pages refused",
+   "url": "https://ask.metafilter.com/276064/Clothes-similar-to-White-House-Black-Market",
+   "check": "MetaFilter 'Clothes similar to White House Black Market?' is 403 (Cloudflare); gentstylez is 503; three Reddit threads (r/workingmoms, r/ethicalfashion 'Alternatives to WHBM?', r/fashionwomens35) can't be read. They likely add sources and names."
+  },
+  {
+   "fact": "two-source candidates blocked",
+   "url": "https://www.eileenfisher.com/",
+   "check": "Eileen Fisher (first on both lists) and Theory (theory.com 403) would be picks if a human records dress prices, sizes, US shipping and returns."
+  },
+  {
+   "fact": "Francesca's and The Limited status",
+   "url": "https://www.francescas.com/",
+   "check": "francescas.com 423; thelimited.com TLS failure/503. Confirm each is live and its official store before any page uses them."
+  },
+  {
+   "fact": "Ann Taylor and Loft dress prices",
+   "url": "https://www.anntaylor.com/",
+   "check": "Ann Taylor's store is behind a bot challenge and Loft's dresses were all marked down; both render without a price. Record regular dress ranges when readable."
+  }
+ ],
+ "checked_at": "2026-10-29",
+ "fx": null,
+ "notes": [
+  "Evidence is thin. The two Ahrefs SERPs with rows held no readable editorial list naming WHBM alternatives (reddit x3, Facebook, MetaFilter 403, similist, CB Insights, two general over-40 lists that don't frame anything as a WHBM alternative). 'white house black market alternatives' and 'similar to white house black market' returned no SERP rows. Two WebSearches found two readable lists: temufinds (signed, Dec 2024, updated May 2025, 12 stores) and viraltalky (June 2023, 13 stores). Every pick rests on one or both. Ahrefs: 4 serp-overview calls, 1 matching-terms call (FAQ).",
+  "Ranking: sources first (2: J.Crew, Talbots, Chico's, Ann Taylor, Loft; 1: the rest), then price closeness as the share of the pick's regular dress range inside the anchor's $140–$295: J.Crew 0.98, Talbots 0.78, Chico's 0.62; unpriced two-source picks (Ann Taylor, Loft) follow in list order. One-source: Banana Republic 1.0, then Vince and Old Navy (0 overlap; Vince's $298 floor is $3 above the anchor's top, Old Navy's $59.99 top is $80 below its floor), then unpriced Nordstrom and boohoo in list order.",
+  "price_relation from lib/gate.ts computePriceRelation against the anchor's dresses row ($140–$295): J.Crew, Talbots, Chico's, Banana Republic similar; Vince pricier (298 > 295); Old Navy cheaper (59.99 < 140). Unpriced picks (Ann Taylor, Loft, Nordstrom, boohoo) carry no label and render from sells_categories dresses.",
+  "Brand files reused without change: j-crew, talbots, chicos, ann-taylor, loft, banana-republic, old-navy, nordstrom, boohoo (all read today by sibling runs). Patched: white-house-black-market (us_stores, founded_year), eileen-fisher and theory (notes only). New: vince (verified, dresses price), francescas and the-limited (unverified).",
+  "Four picks share the anchor's owner, Knitwell Group (knitwellgroup.com): Talbots, Chico's, Ann Taylor and Loft."
+ ],
+ "author": "Ash",
+ "copy": {
+  "intro": "You know your size at White House Black Market, but its dresses stop at an 18 and there's no tall or plus line. Or maybe you just want the same polished office look with a bit more choice. These ten stores sell dresses for that wardrobe, from Old Navy's under-$60 range to Vince's satin slips. They're ranked by how often they come up as alternatives, then by how close their prices sit to White House Black Market's.",
+  "bodies": {
+   "j-crew": "J.Crew is the closest match on price. Its regular-price dresses run from $148 to $298, nearly the same band as White House Black Market's, and the Parc dress in four-season stretch ($198) is the one to start with for work.\n\nSlip dresses run right through the range, from the Gwyneth slip dress in cupro blend ($148) to the Column slip dress in sequin tulle ($298). So the same store covers the office and a night out. J.Crew also cuts in petite and tall, and tall is the fit White House Black Market doesn't make.\n\nThe trade-off is the return window. You get 30 days, not 60, and $7.50 comes off a return sent with the prepaid label. If the longer window matters to you, Chico's keeps the full 60 days.",
+   "talbots": "Talbots is the pick if you need plus sizes without giving up the polished look. Its dresses come in misses 2 to 18, petite 0 to 16 and plus 14W to 24W, with regular prices from $99.50 to $299.\n\nOne thing to know before you compare: each dress is priced by size type, so the number moves with the size you pick. The Split Neck A-Line Dress ($119 to $139) shows the spread. For a work sheath, the Luxe Ponte Sheath Dress ($179) sits a few dollars above White House Black Market's Knit Crepe Belted Sheath Dress ($170).\n\nReturns get 30 days, with $9.95 taken off if you use the prepaid label. But with more than 400 US stores, it's one of the easiest picks here to try on in person first.",
+   "chicos": "Chico's is White House Black Market's sister brand, and it's the one to try if the 60-day return window is why you shop there. Its regular-price dresses run from $109.50 to $189.50, so it sits at the lower end of the same range. The Printed Long Sleeved Maxi Dress ($149.50) is a good place to start.\n\nLearn the sizing before you order. Chico's uses its own scale, 000 to 4, which maps to US 0 to 22, with petites from 000P to 4P. That reaches past White House Black Market's 18, though there's no plus or tall chart.\n\nIt has over 500 boutiques across the US, and full-price online orders can go back to a full-price boutique. The Travelers Classic Dress ($109.50) is the cheapest way in.",
+   "ann-taylor": "Ann Taylor is the store for tailored workwear, and it belongs to the same Knitwell group as White House Black Market. Its dress section splits into Work Dresses and Suit Dresses, which tells you where the focus sits. If most of your White House Black Market dresses go to the office, this is the most direct swap.\n\nThe bigger difference is fit. Ann Taylor sells petite, tall and curvy versions, so it covers the tall shoppers White House Black Market leaves out. Standard US orders ship free over $150, and there are around 200 stores to walk into.\n\nIf you want something more relaxed for the weekend as well, Loft is its sister store, with the same petite, tall and curvy fits.",
+   "loft": "Loft is the easygoing version of this look, with dresses for work and weekends in one place. It sells sizes 00 to 18 and XXS to XXL, plus petite, tall and curvy fits, so it goes one size past White House Black Market's XL.\n\nIt's easy to reach, too. Loft has 358 stores in the US, ships to Canada, the UK and Australia, and standard shipping is free on orders of $99.\n\nOne detail to know if you shop both Knitwell sisters: online orders can go back to a Loft store, but not to an Ann Taylor or a Loft Outlet. Refunds need a receipt within 30 days, and $9.95 comes off a return sent with the prepaid label.",
+   "banana-republic": "Banana Republic is the closest on price after J.Crew, and it's the one for knit and cashmere dresses. Its regular-price dresses run from $148 to $280, and the Lightweight Cashmere Turtleneck Mini Dress ($280) shows where the top of the range goes.\n\nThe Knit Wrap Midi Dress ($198) is the everyday pick, and the Wrap-Neck Midi Dress ($220) is the step up. Sizes run 0 to 20, with petite 00 to 12 and long 4 to 12, so tall shoppers get a real option here as well as at J.Crew.\n\nIt also shares one checkout with Old Navy, Gap and Athleta. So a single bag can hold a $198 wrap dress and a $39.99 Old Navy one, and Rewards members get free shipping over $50.",
+   "vince": "Vince is the step up. Its regular-price dresses start at $298, right where White House Black Market's stop, and run to $628. The Satin V-Neck Slip Dress ($398) is the one to know.\n\nIt's a Los Angeles label that calls its style understated luxury, and the dress range leans on satin and jersey. The Ruched-Side Knit Short-Sleeve Dress ($298) is the cheapest way in. Shipping is free from $250, which means every one of its dresses ships free, and full-price returns get 30 days.\n\nSizes go XXS to XL or 00 to 16 depending on the style, with no petite line. So if you wear petites, White House Black Market itself or Banana Republic will fit you better.",
+   "old-navy": "Old Navy is the budget answer. Its regular-price dresses run from $34.99 to $59.99, so two or three cost about the same as one White House Black Market sheath. The Sleeveless Fit & Flare Ponte Mini Dress ($39.99) is the one to start with.\n\nSizes are the other draw. It runs 00 to 30 with petite and tall, the widest range on this list, which makes it the easy answer if White House Black Market's 18 is your problem. For something dressier, look at The Occasion by Old Navy, where the Long-Sleeve Tie-Front Maxi Dress ($59.99) tops the range.\n\nReturns are free for 30 days, and Rewards members (it's free to join) get free shipping over $50. Promotions run often, so check what's marked down before you pay full price.",
+   "nordstrom": "Nordstrom is the pick if you want the polished look from many labels in one place, and it's the only department store here. Its dresses come from hundreds of brands, Adrianna Papell and Eileen Fisher among them.\n\nThat range cuts both ways. Prices go from the Petal & Pup Laurel A-Line Dress ($89) to the Adrianna Papell Foiled Trumpet Gown ($295) and well past it, so filter by price first. Fit and fabric change from one label to the next, too.\n\nWhat makes it worth it is the policy. Shipping is free anywhere in the US with no minimum, and there's no time limit on returns. That makes it the safest place here to order two sizes and send one back. Its women's sizes run 00 to 28W, with petite and plus.",
+   "boohoo": "boohoo is the pick for sizes White House Black Market doesn't make. Its US size chart runs 0 to 26, with petite, plus and tall cuts, from a British label.\n\nIt's an online store, so plan around the post. Standard US shipping is $10.99 and takes six to eight business days, with no extra tariff charges on top.\n\nReturns are the catch. You get 21 days, and $14.99 per parcel comes off your refund, so it's a poor place to order several sizes and keep one. Its sale banners also carry a note that discounts may not be based on former prices, so judge each dress on what it costs, not the percentage off. If you want low prices with free returns, Old Navy does that."
+  },
+  "best_for": {
+   "j-crew": "work dresses at the same price, in tall sizes too",
+   "talbots": "plus and petite dresses with the same polish",
+   "chicos": "keeping 60-day returns with sizes up to a 22",
+   "ann-taylor": "tailored office dresses in petite, tall or curvy fits",
+   "loft": "relaxed dresses for work and weekends up to XXL",
+   "banana-republic": "knit and cashmere dresses in petite and long lengths",
+   "vince": "spending more on one satin dress",
+   "old-navy": "two or three dresses for the price of one",
+   "nordstrom": "ordering two sizes with no return deadline",
+   "boohoo": "sizes up to 26 with petite and tall cuts"
+  },
+  "closing": {
+   "heading": "How to choose",
+   "body": "Start with your budget. Old Navy's whole regular-price range sits under $60, and it goes up to a size 30. Between $100 and $300, J.Crew and Banana Republic match White House Black Market most closely, while Talbots and Chico's start a little lower. Vince begins where White House Black Market's prices end.\n\nThen let your size decide. Talbots is the one for plus, and tall shoppers should start at Ann Taylor or Banana Republic. Chico's reaches a US 22 and keeps the 60-day returns. If you're unsure of fit, Nordstrom's free shipping and open-ended returns make it the safest place to try two sizes."
+  },
+  "faqs": [
+   {
+    "q": "Who owns White House Black Market?",
+    "a": "Knitwell Group owns it. The same group owns Chico's, Talbots, Ann Taylor and Loft, so several stores on this list are White House Black Market's sister brands.",
+    "source_query": "who owns white house black market"
+   },
+   {
+    "q": "What is White House Black Market's return policy?",
+    "a": "You get 60 days from the date of purchase. Mailed returns have $7 taken off the refund, so a boutique return saves you that.",
+    "source_query": "what is white house black market return policy"
+   },
+   {
+    "q": "Does White House Black Market have plus sizes?",
+    "a": "Not for dresses. They stop at an 18 or XL, in regular and petite. For plus sizes, Talbots runs 14W to 24W, Old Navy goes to 30, and boohoo's US sizes reach 26.",
+    "source_query": "does white house black market have plus sizes"
+   },
+   {
+    "q": "What store is comparable to White House Black Market?",
+    "a": "J.Crew and Banana Republic match its dress prices most closely. Talbots and Chico's sell the same polished workwear for a little less, and Vince is the step up.",
+    "source_query": "brands like white house black market",
+    "source": "people_also_ask"
+   }
+  ]
+ }
+}
