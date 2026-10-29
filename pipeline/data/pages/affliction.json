@@ -1093,5 +1093,39 @@
     "Gate: every pick still needs pair.status=verified, a body (step 5) and a /img/ image; with those, all 6 render (MIN_PICKS 6). Losing any one drops the page below the gate, so True Religion (human_check) is the buffer.",
     "Prices: Shopify /collections/{handle}/products.json; regular = no compare_at above price and no sale/markdown/clearance tag (Affliction keeps old tags like '4th of July Sale' on 80 tees, which are excluded); short-sleeve tees only (long-sleeve, tanks, polos, hoodies, bundles excluded) to match the anchor's range.",
     "Evidence: 1 serp_comention page (Obphoria) + Zumiez co-stocking. Ahrefs returned no SERP rows for 3 of the 4 keywords; all 4 calls used."
-  ]
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "Affliction is a California label known for full-coverage graphic tees, and short-sleeve tees make up nearly half its catalog. Most of these six brands draw on the same tattoo, motocross and fight culture, and all of them ship to the US. Their regular-price tees run from $24.99 at Venum to $115 at Ed Hardy, with Affliction's own at $39–$88.",
+    "bodies": {
+      "ed-hardy": "Ed Hardy prints the tattoo art of Don Ed Hardy on its tees, and Zumiez stocks it alongside Affliction. Its 41 men's styles start a little above Affliction at $45 and climb to $115 for the rhinestone boxy tees. Sizes stop at XXL, where Affliction goes up to 4X. There's also a women's line at $29.25–$60. US orders over $100 ship free, and sale items can't be returned.",
+      "metal-mulisha": "Metal Mulisha comes out of freestyle motocross and MMA, and co-founders Brian Deegan and Larry Linkogle run it from San Juan Capistrano, California. It's the cheapest pick: all 83 of its regular-price tees cost $28–$38, under Affliction's $39 starting price. Most styles go up to 4XL, close to Affliction's 4X. Zumiez carries both brands. Returns are open for 30 days, but sale items are final.",
+      "jnco": "JNCO is the Los Angeles label behind the wide-leg jeans it has made since 1985, and its 22 tees sit inside Affliction's price range at $50–$80. Nearly every one comes in XXXL. If you want jeans in the same order, JNCO's run $130–$350 in waists 24–44. US shipping is a flat $10 with no free threshold, and returns close after 21 days.",
+      "venum": "Venum is a combat sports brand first, selling boxing gloves and MMA gear next to its fightwear, plus a Venum x UFC line. Its 86 men's cotton tees start lower than Affliction's, with most at $24.99–$49.99 and one $89.99 tee at the top. Many styles run to XXXL and a few to XXXXL. US shipping is free over $75, and unworn items can go back within 30 days.",
+      "alchemy-england": "Alchemy England has made gothic jewelry in Leicestershire, England, since 1977, and its small tee line carries horror prints such as The Mummy and Curse of Frankenstein. Every tee costs $40, near the bottom of Affliction's range, in S–XXXL. US orders ship from its warehouse in Fort Worth, Texas, and go free over $100. Rings and pendants are the main line, so it's an easy add-on to a tee order.",
+      "sullen": "Sullen has been a tattoo lifestyle brand in Southern California since 2001, and every graphic on its tees is original work by a tattoo artist, with more than 460 in its Artist Series. Its 102 tees cost $25–$48.95, topping out well under Affliction's $88, and the bigger sizes cost a little more. Nearly every style goes to 5X, the widest size run on this list. US orders over $99 ship free."
+    },
+    "faqs": [
+      {
+        "q": "What is Affliction clothing?",
+        "a": "A US clothing brand founded in 2005 and based in Seal Beach, California. It's best known for full-coverage graphic tees, a look its founders built on backgrounds in graphic design and screen printing. Short-sleeve tees are nearly half its catalog.",
+        "source_query": "what is affliction clothing"
+      },
+      {
+        "q": "Where can you buy Affliction clothing?",
+        "a": "From its own store at afflictionclothing.com (affliction.com is an unrelated parked domain) or at Zumiez, which carries hundreds of Affliction pieces, tees included.",
+        "source_query": "where to buy affliction clothing"
+      },
+      {
+        "q": "How much are Affliction shirts?",
+        "a": "Regular-price men's graphic tees cost $39–$88 and come in XS–4X. Women's short-sleeve tees cost $36–$64.",
+        "source_query": "how much are affliction shirts"
+      },
+      {
+        "q": "Who owns Affliction clothing?",
+        "a": "Affliction Holdings LLC. The brand started in 2005 as a passion project between friends, and most of its products are still made in the USA.",
+        "source_query": "who owns affliction clothing"
+      }
+    ]
+  }
 }
