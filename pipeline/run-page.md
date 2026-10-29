@@ -7,7 +7,8 @@ source you fetched, with its URL. Nothing estimated, nothing from memory.
 ## Read first
 - `pipeline/README.md`, `pipeline/enrich.md`, `pipeline/write.md`, `tasks/lessons.md`
 - `lib/gate.ts` (what renders and what's indexable)
-- A finished example: `pipeline/data/pages/jaded-london.json`, `jaded-london.review.md`
+- `pipeline/voice.md` before writing a word. The existing page files predate it, so use them for
+  the JSON shape only, never as a model for the copy.
 - wildcard-seo references named in `write.md`, **read-only** (never edit `/home/user/wildcard-seo`)
 
 ## Steps

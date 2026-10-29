@@ -31,3 +31,19 @@ already has a method box and a "Last checked" date.
 process narration (we checked, Stylodex found, dates, "X describes it as", what we couldn't
 verify), no source lists shown to readers. Intros are 40–70 words: what the anchor is known for,
 what the list offers. Evidence lives in the page file and the gate, not on the page.
+
+---
+
+## 2026-10-29 — Match the house voice from its finished work, not a summary of its rules
+
+**What happened:** After the first voice pass Ash said the copy was "better but could be more like
+Apart Style". `voice.md` had restated Apart Style's rules (contractions, rhythm, no verdicts) but
+not the moves its finished listicles actually make.
+
+**Why I got it wrong:** I copied the rule list and skipped reading a finished article. The rules
+say what not to do; the voice is in what each section does: an opinionated answer-first line,
+why each fact matters to the reader, one useful thing taught per brand, an honest trade-off,
+comparisons between picks, and use-case "Best for" lines.
+
+**Rule for next time:** When asked to match a voice, read two or three finished pieces in it, not
+only its guide, and write down the moves as well as the bans. Keep the moves, never the text.
