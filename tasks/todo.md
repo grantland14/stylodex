@@ -80,7 +80,13 @@ Progress 2026-10-28:
 - [x] Fixes from the pilot: `unverified` status and store-currency prices folded into the still
       unapplied migration 00003 (re-tested); `enrich.md` now uses product-type categories, four
       evidence keywords, retailer co-stocking, Shopify `products.json` for full price ranges
-- [ ] Re-run the pilot with the fixed method, write the page (step 5), preview it for Ash
+- [x] Pilot re-run (category jeans, 9 picks, 7 renderable) and written (step 5, author Ash), edit
+      pass done, deployed in pipeline mode: `vercel deploy -b STYLODEX_DATA=pipeline -b
+      STYLODEX_FIXTURES=0 -e …` (2026-10-29). Not publishable yet: G13 Medium, and G6/G9/G10
+      blocked until a person checks jadedldn.com (`human_check` in the page file)
+- [ ] Brand images: none yet; the gate needs `/img/…` for the anchor. Source and re-host into
+      `stylodex-images` (needs a server-side upload path: service key or Storage API)
+- [ ] Second page (Affliction) running, to measure a typical page against the gate and its cost
 
 - [ ] Import the brand seed list (name, URL, price tier) into the new schema
 - [ ] Re-verify every domain (WebFetch + search; a DNS failure means a bad record, not a dead brand)
