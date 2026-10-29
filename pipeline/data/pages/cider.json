@@ -1,0 +1,872 @@
+{
+  "subject": "Cider",
+  "slug": "cider",
+  "url_prefix": "stores",
+  "category": {
+    "slug": "dresses",
+    "name": "Dresses",
+    "why": "Cider sells its own label only (kind brand), so C is a product type. Dresses are the most prominent type on its site: 'Midi Dresses' and 'Short Dresses' are the first clothing filters, Dresses is a top-level category (id 38 with short, midi, maxi and knitted dresses), and 9 of the first 30 Clothing products are dresses or dress sets. Good On You's 'alternatives to CIDER's best sellers' gives dresses two of nine slots (mini and occasion dresses). Every pick sells dresses at a regular price on its own store."
+  },
+  "checked_at": "2026-10-29",
+  "fx": {
+    "source": "ECB euro reference rates",
+    "date": "2026-10-28",
+    "usd_per_eur": 1.1133,
+    "gbp_per_eur": 0.83785,
+    "cad_per_eur": 1.5638
+  },
+  "serp": [
+    {
+      "keyword": "stores like cider",
+      "position": 1,
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/vwh2r7/legit_stores_that_have_products_like_shop_cider/",
+      "kept": false,
+      "why_dropped": "reddit (AI-overview sitelink, also organic #2): WebFetch refuses reddit.com; not read, no workaround tried"
+    },
+    {
+      "keyword": "stores like cider",
+      "position": 1,
+      "url": "https://goodonyou.eco/alternatives-cider-best-sellers/",
+      "kept": true,
+      "note": "AI-overview sitelink and organic #4. Isobella Wolfe, Good On You, published 22 Sep 2026; 9 brands, each replacing one CIDER best-seller type (sponsored post)"
+    },
+    {
+      "keyword": "stores like cider",
+      "position": 1,
+      "url": "https://www.instyle.com/stores-like-princess-polly-5346253",
+      "kept": false,
+      "why_dropped": "about alternatives to Princess Polly, not Cider (also organic #8)"
+    },
+    {
+      "keyword": "stores like cider",
+      "position": 1,
+      "url": "https://www.similarweb.com/website/shopcider.com/competitors/",
+      "kept": false,
+      "why_dropped": "traffic-overlap competitor list, no editorial recommendation"
+    },
+    {
+      "keyword": "stores like cider",
+      "position": 1,
+      "url": "https://www.facebook.com/groups/pastelgothfashion/posts/1511617632674359/",
+      "kept": false,
+      "why_dropped": "Facebook group post; login wall, not an editorial list"
+    },
+    {
+      "keyword": "stores like cider",
+      "position": 1,
+      "url": "https://www.genniferrose.com/blog/boho-fashion-brands-similar-to-free-people",
+      "kept": false,
+      "why_dropped": "about brands similar to Free People, not Cider"
+    },
+    {
+      "keyword": "stores like cider",
+      "position": 1,
+      "url": "https://www.tiktok.com/discover/legit-stores-to-buy-clothes-like-cider",
+      "kept": false,
+      "why_dropped": "TikTok discover page; no readable list"
+    },
+    {
+      "keyword": "stores like cider",
+      "position": 1,
+      "url": "https://www.tiktok.com/discover/ethical-clothing-brands-similar-to-cider",
+      "kept": false,
+      "why_dropped": "TikTok discover page; no readable list"
+    },
+    {
+      "keyword": "stores like cider",
+      "position": 2,
+      "url": "https://www.reddit.com/r/ethicalfashion/comments/xln26c/recommendations_for_ethical_fashion_with_clothes/",
+      "kept": false,
+      "why_dropped": "reddit sitelink; not read"
+    },
+    {
+      "keyword": "stores like cider",
+      "position": 2,
+      "url": "https://www.reddit.com/r/AusFemaleFashion/comments/1qd6v0y/cider_other_alternatives/",
+      "kept": false,
+      "why_dropped": "reddit sitelink (also discussion #5); not read"
+    },
+    {
+      "keyword": "stores like cider",
+      "position": 5,
+      "url": "https://www.facebook.com/groups/fairywitchcottagecorevibes/posts/775544994169254/",
+      "kept": false,
+      "why_dropped": "Facebook group post; login wall"
+    },
+    {
+      "keyword": "stores like cider",
+      "position": 6,
+      "url": "https://m.shopcider.com/",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "stores like cider",
+      "position": 7,
+      "url": "https://www.tiktok.com/discover/clothing-stores-similar-to-cider",
+      "kept": false,
+      "why_dropped": "TikTok discover page; no readable list"
+    },
+    {
+      "keyword": "stores like cider",
+      "position": 9,
+      "url": "https://www.thegoodtrade.com/features/fair-trade-clothing/",
+      "kept": false,
+      "why_dropped": "general list of 99 sustainable brands; the first 100,000 characters read do not mention Cider, so it doesn't recommend anything as an alternative to Cider"
+    },
+    {
+      "keyword": "stores like cider",
+      "position": 10,
+      "url": "https://thingtesting.com/brands/cider/similar",
+      "kept": false,
+      "why_dropped": "directory page; names no similar brands (empty lists)"
+    },
+    {
+      "keyword": "brands like cider",
+      "position": 1,
+      "url": "https://goodonyou.eco/alternatives-cider-best-sellers/",
+      "kept": true,
+      "note": "same page as above (AI-overview sitelink, organic #4)"
+    },
+    {
+      "keyword": "brands like cider",
+      "position": 1,
+      "url": "https://imperfectidealist.com/is-cider-ethical/",
+      "kept": true,
+      "note": "AI-overview sitelink. Lily Fang, Imperfect Idealist, published Dec 27 2022, updated Jun 5 2023; 7 brands plus secondhand platforms"
+    },
+    {
+      "keyword": "brands like cider",
+      "position": 1,
+      "url": "https://brands.thecommons.earth/search?query=Cider&searchOrigin=trending",
+      "kept": false,
+      "why_dropped": "site search results page, not an editorial list (also organic #10)"
+    },
+    {
+      "keyword": "brands like cider",
+      "position": 1,
+      "url": "https://www.tiktok.com/discover/cider-shop-alternatives",
+      "kept": false,
+      "why_dropped": "TikTok discover page; no readable list"
+    },
+    {
+      "keyword": "brands like cider",
+      "position": 2,
+      "url": "https://www.reddit.com/r/ethicalfashion/comments/xln26c/recommendations_for_ethical_fashion_with_clothes/",
+      "kept": false,
+      "why_dropped": "reddit; not read"
+    },
+    {
+      "keyword": "brands like cider",
+      "position": 2,
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/zz22mw/where_to_get_better_shop_cider_clothing/",
+      "kept": false,
+      "why_dropped": "reddit sitelink; not read"
+    },
+    {
+      "keyword": "brands like cider",
+      "position": 6,
+      "url": "https://m.shopcider.com/",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "brands like cider",
+      "position": 7,
+      "url": "https://www.tiktok.com/discover/ethical-clothing-brands-similar-to-cider",
+      "kept": false,
+      "why_dropped": "TikTok discover page"
+    },
+    {
+      "keyword": "brands like cider",
+      "position": 8,
+      "url": "https://www.thegoodtrade.com/features/fair-trade-clothing/",
+      "kept": false,
+      "why_dropped": "general sustainable list; no Cider mention in the part read"
+    },
+    {
+      "keyword": "brands like cider",
+      "position": 9,
+      "url": "https://www.eco-stylist.com/is-cider-fast-fashion-are-they-ethical-and-sustainable/",
+      "kept": true,
+      "note": "Adela Cardona with Garik Himebaugh, Eco-Stylist, published Oct 12 2026, modified Oct 22 2026; 6 alternatives plus Depop/Poshmark"
+    },
+    {
+      "keyword": "cider alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview returned no positions"
+    },
+    {
+      "keyword": "similar to cider",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview returned no positions"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": null,
+      "url": null,
+      "used": false,
+      "why": "Cider sells through its own site and app; no multi-brand retailer stocking Cider appeared on the pages read, and none was searched for."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Lucy & Yak",
+      "slug": "lucy-and-yak",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://imperfectidealist.com/is-cider-ethical/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/is-cider-fast-fashion-are-they-ethical-and-sustainable/"
+        }
+      ]
+    },
+    {
+      "name": "Kotn",
+      "slug": "kotn",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-cider-best-sellers/"
+        }
+      ]
+    },
+    {
+      "name": "Thinking MU",
+      "slug": "thinking-mu",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-cider-best-sellers/"
+        }
+      ]
+    },
+    {
+      "name": "Gaia Segattini Knotwear",
+      "slug": "gaia-segattini-knotwear",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-cider-best-sellers/"
+        }
+      ]
+    },
+    {
+      "name": "Spell",
+      "slug": "spell",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-cider-best-sellers/"
+        }
+      ]
+    },
+    {
+      "name": "Kings of Indigo",
+      "slug": "kings-of-indigo",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-cider-best-sellers/"
+        }
+      ]
+    },
+    {
+      "name": "OMNES",
+      "slug": "omnes",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-cider-best-sellers/"
+        }
+      ]
+    },
+    {
+      "name": "Dawn Denim",
+      "slug": "dawn-denim",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-cider-best-sellers/"
+        }
+      ]
+    },
+    {
+      "name": "LANIUS",
+      "slug": "lanius",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-cider-best-sellers/"
+        }
+      ]
+    },
+    {
+      "name": "Happy Earth",
+      "slug": "happy-earth",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-cider-best-sellers/"
+        }
+      ]
+    },
+    {
+      "name": "Dazey LA",
+      "slug": "dazey-la",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://imperfectidealist.com/is-cider-ethical/"
+        }
+      ]
+    },
+    {
+      "name": "TAMGA Designs",
+      "slug": "tamga-designs",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://imperfectidealist.com/is-cider-ethical/"
+        }
+      ]
+    },
+    {
+      "name": "Mayamiko",
+      "slug": "mayamiko",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://imperfectidealist.com/is-cider-ethical/"
+        }
+      ]
+    },
+    {
+      "name": "For Days",
+      "slug": "for-days",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://imperfectidealist.com/is-cider-ethical/"
+        }
+      ]
+    },
+    {
+      "name": "Loud Bodies",
+      "slug": "loud-bodies",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://imperfectidealist.com/is-cider-ethical/"
+        }
+      ]
+    },
+    {
+      "name": "Whimsy + Row",
+      "slug": "whimsy-and-row",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://imperfectidealist.com/is-cider-ethical/"
+        }
+      ]
+    },
+    {
+      "name": "Reformation",
+      "slug": "reformation",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/is-cider-fast-fashion-are-they-ethical-and-sustainable/"
+        }
+      ]
+    },
+    {
+      "name": "Frankie Collective",
+      "slug": "frankie-collective",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/is-cider-fast-fashion-are-they-ethical-and-sustainable/"
+        }
+      ]
+    },
+    {
+      "name": "Pact",
+      "slug": "pact",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/is-cider-fast-fashion-are-they-ethical-and-sustainable/"
+        }
+      ]
+    },
+    {
+      "name": "Yes Friends",
+      "slug": "yes-friends",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/is-cider-fast-fashion-are-they-ethical-and-sustainable/"
+        }
+      ]
+    },
+    {
+      "name": "Boldwill",
+      "slug": "boldwill",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/is-cider-fast-fashion-are-they-ethical-and-sustainable/"
+        }
+      ]
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style), read-only, brand slug cider",
+    "brands": [
+      "shein",
+      "66girls",
+      "daisy-street",
+      "dresslily",
+      "boohoo",
+      "tobi",
+      "forever-21",
+      "zaful",
+      "a-gaci",
+      "sinsay",
+      "justice",
+      "misspap",
+      "oasap",
+      "princess-polly",
+      "stradivarius",
+      "rue21",
+      "dabagirl",
+      "berrylush",
+      "fame-forever",
+      "fashion-nova",
+      "garage",
+      "urban-planet",
+      "pacsun",
+      "lularoe",
+      "merry-go-round",
+      "sweet-cute",
+      "temu",
+      "pixie-market",
+      "prettylittlething",
+      "yesstyle",
+      "romwe",
+      "rosegal",
+      "shimamura",
+      "showpo",
+      "missguided",
+      "chuu",
+      "asos-design-ego",
+      "angel-blue"
+    ],
+    "note": "38 pool brands; none has an outside source on the readable SERP pages, so none can be a pick."
+  },
+  "picks": [
+    {
+      "slug": "lucy-and-yak",
+      "rank": 1,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 109,
+        "max": 119,
+        "min_usd": 109,
+        "max_usd": 119,
+        "fx_date": null,
+        "item_count": 9
+      },
+      "price_relation": "pricier",
+      "reason": "Lucy & Yak makes dresses from organic and recycled fabrics in US sizes 0–28 with Petite and Tall ranges, and publishes its supplier partners; US dresses $109–$119.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://imperfectidealist.com/is-cider-ethical/",
+          "note": "#2: 'a UK brand best-known for its slouchy dungarees/overalls'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/is-cider-fast-fashion-are-they-ethical-and-sustainable/",
+          "note": "#2: 'verifies a living wage with its suppliers, and runs its own repair and resale programs'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "yes-friends",
+      "rank": 2,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "GBP",
+        "min": 39,
+        "max": 45,
+        "min_usd": 51.82,
+        "max_usd": 59.79,
+        "fx_date": "2026-10-28",
+        "item_count": 2
+      },
+      "price_relation": "similar",
+      "reason": "Yes Friends sells regular-price dresses at £39–£45 (about $52–$60), the closest to Cider's $24.90–$77.90 here, with $9.95 US shipping and duties included.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/is-cider-fast-fashion-are-they-ethical-and-sustainable/",
+          "note": "#5: 'Its organic cotton tees, hoodies, and sweatshirts are made in a Fair Trade USA and GOTS certified factory.'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "mayamiko",
+      "rank": 3,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "GBP",
+        "min": 39,
+        "max": 159,
+        "min_usd": 51.82,
+        "max_usd": 211.27,
+        "fx_date": "2026-10-28",
+        "item_count": 25
+      },
+      "price_relation": "similar",
+      "reason": "Mayamiko's dresses are made in Malawi and start at £39 (about $52), overlapping Cider's dress prices, in UK sizes 8–16, shipped worldwide for a flat £14.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://imperfectidealist.com/is-cider-ethical/",
+          "note": "#5: 'Mayamiko's bold pieces are one-of-a-kind, as they're made from locally-sourced fabric in Malawi'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "frankie-collective",
+      "rank": 4,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 80,
+        "max": 90,
+        "min_usd": 80,
+        "max_usd": 90,
+        "fx_date": null,
+        "item_count": 12
+      },
+      "price_relation": "pricier",
+      "reason": "Frankie Collective reworks vintage and deadstock into one-of-one pieces, including $80–$90 mini dresses cut from vintage sports tees, shipped from a US studio.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/is-cider-fast-fashion-are-they-ethical-and-sustainable/",
+          "note": "#3: 'upcycles vintage clothing in its own Vancouver workshop and says it pays all workers a living wage'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "kotn",
+      "rank": 5,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "CAD",
+        "min": 118,
+        "max": 158,
+        "min_usd": 84.01,
+        "max_usd": 112.48,
+        "fx_date": "2026-10-28",
+        "item_count": 8
+      },
+      "price_relation": "pricier",
+      "reason": "Kotn makes Egyptian cotton dresses in the Nile Delta at CA$118–CA$158 (about $84–$112) and covers duties and import fees on US orders.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-cider-best-sellers/",
+          "note": "#1: Dendera Pleated Mini Skirt replaces CIDER's pleated mini skirts; 'Kotn makes stylish ready-to-wear clothing.'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "happy-earth",
+      "rank": 6,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 98,
+        "max": 98,
+        "min_usd": 98,
+        "max_usd": 98,
+        "fx_date": null,
+        "item_count": 1
+      },
+      "price_relation": "pricier",
+      "reason": "Happy Earth makes Fair Trade organic cotton basics and activewear in sizes up to 3XL, with one wrap dress at $98 and free contiguous-US shipping over $150.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-cider-best-sellers/",
+          "note": "#9: Wrap Crop Top replaces CIDER's wrap tops; 'a US organic clothing brand that is inspired by nature and dedicated to preserving it'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "thinking-mu",
+      "rank": 7,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "EUR",
+        "min": 150,
+        "max": 190,
+        "min_usd": 167.0,
+        "max_usd": 211.53,
+        "fx_date": "2026-10-28",
+        "item_count": 4
+      },
+      "price_relation": "pricier",
+      "reason": "Thinking MU makes organic, sustainable long and midi dresses at €150–€190 (about $167–$212), shipping to the US for $24.90 with duties included.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-cider-best-sellers/",
+          "note": "#2: Julia Top replaces CIDER's ruched tops; 'a Barcelona-based fashion brand for non-conformists and passionate people'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "spell",
+      "rank": 8,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 230,
+        "max": 399,
+        "min_usd": 230,
+        "max_usd": 399,
+        "fx_date": null,
+        "item_count": 34
+      },
+      "price_relation": "pricier",
+      "reason": "Spell sells lace and bias-cut dresses and gowns from $230 to $399 on a US store in dollars, in sizes XXS–3XL, free US shipping over $150.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-cider-best-sellers/",
+          "note": "#4: Feliz Mini Dress replaces CIDER's mini dresses; 'Its clothes are proudly designed and sampled in Byron Bay'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "reformation",
+      "why": "unverified: thereformation.com returned HTTP 403 to WebFetch (its brand file, 2026-10-29); not re-tried. 1 source (Eco-Stylist #1: 'publishes its factory list, which is exactly what Cider took down')."
+    },
+    {
+      "slug": "pact",
+      "why": "unverified: wearpact.com serves a captcha to plain fetches and an empty page to WebFetch (2026-10-29); no workaround. 1 source (Eco-Stylist #4)."
+    },
+    {
+      "slug": "whimsy-and-row",
+      "why": "unverified: whimsyandrow.com is live (shipping and refund policies read: LA warehouse, free US shipping over $200, 14-day refunds) but its Dresses and All collections show 'no products' to WebFetch and products.json is empty, so selling dresses can't be confirmed. 1 source (Imperfect Idealist #8)."
+    },
+    {
+      "slug": "omnes",
+      "why": "unverified: omnes.co.uk returned HTTP 403; omnesfashion.com is a parked domain (redirects to /lander). 1 source (Good On You #6)."
+    },
+    {
+      "slug": "loud-bodies",
+      "why": "closing: loudbodies.com runs a 'Final Closing Sale'; every dress seen is marked down and all sales are final, so there is no regular price. 1 source (Imperfect Idealist #7)."
+    },
+    {
+      "slug": "tamga-designs",
+      "why": "unverified: tamgadesigns.com returns Shopify 'Store unavailable' (HTTP 402, 2026-10-29); no other official store found on the pages read. 1 source (Imperfect Idealist #4)."
+    },
+    {
+      "slug": "for-days",
+      "why": "unverified: fordays.com collections show 0 products and the footer reads 'Copyright 2024 For Days'; selling can't be confirmed. 1 source (Imperfect Idealist #6)."
+    },
+    {
+      "slug": "kings-of-indigo",
+      "why": "not available in the US: kingsofindigo.com ships to the EU, UK, Switzerland and the countries in its checkout selector, which has no United States (shipping policy, 2026-10-29). Only 2 dresses (€180). 1 source (Good On You #5)."
+    },
+    {
+      "slug": "lanius",
+      "why": "not available in the US: lanius.com delivers to Germany, Switzerland, Norway, the UK and EU countries only (/pages/lieferung). 1 source (Good On You #8)."
+    },
+    {
+      "slug": "gaia-segattini-knotwear",
+      "why": "no regular-price dresses: all 16 dresses on gaiasegattiniknotwear.it are marked down (e.g. Friendly dress €112.80, was €188); US shipping not stated on the shipping policy read. Knitwear specialist. 1 source (Good On You #3)."
+    },
+    {
+      "slug": "dawn-denim",
+      "why": "off-category: dawndenim.com is a denim label; its women-dresses-skirts collection returned 0 products. 1 source (Good On You #7, for barrel-leg jeans)."
+    },
+    {
+      "slug": "boldwill",
+      "why": "off-category: activewear (Eco-Stylist #6 calls it 'one of the most transparent activewear brands'); its women collection is tees, hoodies and sets. Not checked for dresses."
+    },
+    {
+      "slug": "dazey-la",
+      "why": "off-category: dazeyla.com redirects to danidazey.com, now 'Dani Dazey - Maximalist Lifestyle'; 118 of its 130 products are home decor, 7 apparel, 1 dress ($120). 1 source (Imperfect Idealist #3)."
+    },
+    {
+      "slug": "secondhand-platforms",
+      "why": "Poshmark, Mercari, ThredUP, eBay, Etsy and Depop (Imperfect Idealist #1, Eco-Stylist) are resale marketplaces, not stores like Cider. Not candidates."
+    },
+    {
+      "slug": "apart-pool",
+      "why": "Apart Style pool brands (Shein, Princess Polly, Boohoo, Fashion Nova, PrettyLittleThing, ROMWE, Showpo, Tobi and 30 others) have no outside source on the readable SERP pages naming them as an alternative to Cider; the only lists that might (Reddit, TikTok, Facebook) can't be read. Not picks."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "price range for dresses (regular price, USD)",
+      "url": "https://www.shopcider.com/category/dresses-cid-38",
+      "check": "The dresses category rendered 0 results to WebFetch and a robot check to a plain fetch. Stored range $24.90–$77.90 is a 12-dress sample from page 1 of Clothing. Confirm min/max of regular-price dresses and the count."
+    },
+    {
+      "fact": "ships_to (CA, GB, AU) and free_shipping_min_usd",
+      "url": "https://www.shopcider.com/policies/shipping-and-returns/shipping",
+      "check": "Page renders client-side; only US is stored (free US returns imply US shipping; site meta claims worldwide shipping). Confirm countries and any US free-shipping threshold."
+    },
+    {
+      "fact": "hq_country",
+      "url": "https://www.shopcider.com/policies/privacy",
+      "check": "SG stored from the legal entity Cider (SG) Holding PTE. LTD.; Eco-Stylist lists LinkedIn (Los Angeles), Terms (Singapore, Hong Kong branch) and trade press (Guangzhou). Decide which the HQ chip should show."
+    },
+    {
+      "fact": "returns_days",
+      "url": "https://www.shopcider.com/policies/returns.html",
+      "check": "14 days stored from the page's meta description; the body renders client-side. Confirm the 14-day window and free US returns."
+    },
+    {
+      "fact": "frankie-collective hq_country",
+      "url": "https://frankiecollective.com/",
+      "check": "CA stored from Eco-Stylist (Vancouver workshop); the brand's pages name no HQ and orders ship from a US studio."
+    },
+    {
+      "fact": "pick check: Reformation, Pact, Whimsy + Row, OMNES",
+      "url": "https://www.thereformation.com/dresses",
+      "check": "Refused or unreadable automated reads. Each has one source; confirm live, regular-price dresses (USD), sizes, US shipping, returns, HQ (wearpact.com/women/apparel/dresses, whimsyandrow.com/collections/dresses, omnes.co.uk)."
+    },
+    {
+      "fact": "policy: same-type stores",
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/vwh2r7/legit_stores_that_have_products_like_shop_cider/",
+      "check": "Every readable list for this SERP is an ethical-alternatives list, so no cheap trendy stores (Shein, Princess Polly, Edikted...) have outside evidence. If a human can read the Reddit threads, same-type stores they name could join with that evidence."
+    }
+  ],
+  "notes": [
+    "Evidence: 3 editorial pages read (Good On You, Imperfect Idealist, Eco-Stylist). All three are ethical-alternative lists, so the picks are pricier, more transparent swaps rather than same-type cheap trendy stores; the page and copy frame them that way. Reddit, TikTok and Facebook results not read.",
+    "21 named candidates: 8 picks; 7 unverified or closing (Reformation, Pact, Whimsy + Row, OMNES, TAMGA, For Days, Loud Bodies); 2 don't ship to the US (Kings of Indigo, LANIUS); 4 off-category or no regular-price dresses (Gaia Segattini, Dawn Denim, Boldwill, Dazey LA).",
+    "Prices: dresses. Shopify products.json for Lucy & Yak (US store), Yes Friends, Mayamiko, Frankie Collective, Happy Earth, Thinking MU; Kotn and Spell rows were already in their brand files from 2026-10-29. Cider: 12-dress sample (see human_check). Regular price = no compare_at_price above price, in stock.",
+    "Only Lucy & Yak has two sources; seven picks are single-source.",
+    "Gate gaps: image_url on every brand (coordinator's media step)."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "You've got a Cider cart full of dresses under $80, and you start to wonder who made them. Cider doesn't publish a supplier list, so you can't find out. Every store here sells dresses, ships to the US and shows up on lists of more ethical swaps for Cider. They're ordered by how often they're recommended, then by how close their prices sit to Cider's. Expect to pay more, with two exceptions.",
+    "bodies": {
+      "lucy-and-yak": "Lucy & Yak is where we'd start if you want colorful, comfy clothes and a straight answer on who made them. Its dresses run $109 to $119, like the Layla Pinafore Mini Dress in organic cotton denim ($109).\n\nIt publishes its supplier partners by name, down to the factory address and audit, so you can see who made what. Sizes go from US 0 to 28, with Petite and Tall ranges. Cider's main sizes stop at XL, with its Curve line going to 4XL. It's best known for its overalls, so if a dress isn't your thing, start there. The US store ships free over $150 and gives you 30 days to return.\n\nThe catch is price. Its cheapest dress ($109) costs more than Cider's most expensive one ($77.90). If that stings, Yes Friends is the closest to Cider's prices.",
+      "yes-friends": "Yes Friends is the closest you'll get to Cider's prices on this list. Its dresses cost £39 to £45 (about $52 to $60), and the Cord Mini Dress (£45) is the one to look at.\n\nIt launched in 2021 around one idea: an ethical tee for the price of a pint in London. So most of the range is tees, and dresses are a small corner of it. Sizes run XXS to XXL. US shipping is a flat $9.95 with import duties already included, which means the price at checkout is what you pay. Returns are open for 30 days.\n\nWant more than a couple of dress styles? Mayamiko has a much bigger rack at a similar starting price.",
+      "mayamiko": "Mayamiko is the one for bold, one-of-a-kind dresses that start near Cider's prices. The Rose Pinafore Dress costs £39 (about $52), and the range tops out at £159 (about $211).\n\nEverything is made in Malawi. Paola Masperi set the label up in 2013 to mix contemporary design with traditional African techniques. Start with the Dalitso wrap, which comes as the Dalitso Wrap Dress (£79, about $105) and a maxi version at the top of the range. Sizes run UK 8 to 16, which is US 4 to 12, so the fit range is narrower than most here. US orders ship from the UK for a flat £14 (about $19).\n\nBe quick with returns. You get 14 days, and you pay the postage.",
+      "frankie-collective": "Frankie Collective is the pick if you shop Cider for pieces nobody else is wearing. It reworks vintage and deadstock, and most of its dresses are mini dresses cut from old sports tees, like the Rework Minnesota Twins Mini Dress ($90).\n\nDresses cost $80 to $90. Many pieces are one-of-one, so the size on the listing is often the only size there is, anywhere from XS to 2XL. Orders ship from a US studio, so US buyers don't face the customs fees that international orders can.\n\nReturns are store credit only, requested within 15 days, and you cover the return shipping. So read the sizing page before you buy. If you'd rather buy new and keep a refund option, Happy Earth gives you 30 days.",
+      "kotn": "Kotn is the basics option: simple dresses from a label built on Egyptian cotton. They cost CA$118 to CA$158 (about $84 to $112), across four styles such as the Samira Wrap and the Zahra Mini.\n\nIt's designed in Canada and made in the Nile Delta, and every purchase helps fund new schools. Kotn covers duties and import fees on US orders, so the converted price is close to what you'll pay. Sizes run XS to XL.\n\nTwo things to watch. Returns close after 15 days, and anything bought on sale is final. For a wider size range at a similar price, Lucy & Yak goes up to a US 28.",
+      "happy-earth": "Happy Earth is a basics and activewear label, so come here for Cider-style wrap tops, hoodies and sweats more than dresses. It has one dress, the Ruffle Wrap Dress in a Monstera print ($98).\n\nEverything is Fair Trade and organic cotton. Its founders started it while finishing graduate degrees in biomedical sciences, with tees dedicated to specific ecosystems. The dress runs two sizes past Cider's main range, and sizes come in pairs, from XXS/XS up to 2XL/3XL. Shipping is free over $150 to the contiguous US, and returns are open for 30 days.\n\nOne dress won't build a wardrobe. For a proper dress rack at a similar price, go to Kotn or Lucy & Yak.",
+      "thinking-mu": "Thinking MU is the step up for long, dressier styles from a label that makes organic and sustainable clothing. Its dresses cost €150 to €190 (about $167 to $212), from the Neus long dress (€150) to the Green pleated midi Myrtle dress (€190).\n\nIt's a Mediterranean label that a group of friends founded in 2008. The dress rack is small, four styles in XS to XL, so you'll see the whole thing in a minute. US shipping is a flat $24.90 with duties included.\n\nYou get 30 days to return, but the clock starts on the day you order, so a slow parcel eats into it. Spell is the next step up in price, with a far bigger dress range.",
+      "spell": "Spell is the pricier, dressier route to the lace that runs through so many Cider dresses. Its dresses cost $230 to $399, with plenty of lace and bias-cut styles and a few gowns, starting with the Frances Mini Dress ($230).\n\nIt's designed in Byron Bay, Australia, and its US store charges in dollars, so there's no currency math. Sizes run XXS to 3XL. US shipping is free over $150, which every dress here clears, and full-price pieces have 30 days for returns.\n\nSale pieces go back for store credit only, so buy at full price if you might return it. If $230 is past your budget, Mayamiko's Dalitso Wrap Dress costs under half that."
+    },
+    "best_for": {
+      "lucy-and-yak": "colorful organic dresses in sizes up to US 28",
+      "yes-friends": "ethical basics at the prices nearest to Cider's",
+      "mayamiko": "bold wrap dresses made in Malawi, from about $52",
+      "frankie-collective": "one-of-one reworked mini dresses that ship from the US",
+      "kotn": "simple cotton dresses with US duties already covered",
+      "happy-earth": "Fair Trade sweats and wrap tops in sizes to 3XL",
+      "thinking-mu": "long organic dresses with US duties included",
+      "spell": "lace dresses and gowns when the budget stretches"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with your budget. To stay near Cider's prices, Yes Friends and the cheaper end of Mayamiko are your options, both from about $52. Between $80 and $120, it's Frankie Collective for one-off reworked minis, Kotn for plain cotton and Lucy & Yak for color. Lucy & Yak is also the answer if you need numeric sizes up to 28. Above $150 you're into Thinking MU and Spell, the dressier end, and Spell has the bigger choice.\n\nThen check returns. Cider gives free US returns for 14 days. Mayamiko gives the same 14 days but you pay the postage, and Frankie Collective only offers store credit, so be sure before you order from either."
+    },
+    "faqs": [
+      {
+        "q": "What is Cider clothing?",
+        "a": "Cider is an online womenswear store selling trendy clothing, shoes and accessories. Its dresses run from about $25 to $78, in sizes XXS to XL, with a Curve line from 0XL to 4XL.",
+        "source_query": "what is cider clothing"
+      },
+      {
+        "q": "Where is Cider clothing from?",
+        "a": "Cider was founded in 2020, and the company behind it, Cider (SG) Holding Pte. Ltd., is registered in Singapore. Its clothes are made in China.",
+        "source_query": "where is cider clothing from"
+      },
+      {
+        "q": "Is Cider clothing ethical?",
+        "a": "You can't check. Cider no longer publishes a supplier list, so its factories can't be verified. If that matters to you, Lucy & Yak names its supplier partners factory by factory.",
+        "source_query": "is cider clothing ethical"
+      }
+    ]
+  }
+}

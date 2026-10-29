@@ -51,7 +51,9 @@ Write `data/brands/{slug}.json` with the `stylodex.brands` columns:
   stores. A chain you can walk into counts for US shoppers even with no online shop.
 - `prices`: for category C (and other main categories), min/max of **regular-price** items on
   the brand's own category page, in the store's own `currency`, with the page URL and today's date.
-  No sale prices. Shopify stores serve the whole collection at `/collections/{handle}/products.json`
+  No sale prices. An item is on sale when it shows a markdown (Shopify: `compare_at_price` above
+  `price`), the same test `product-images.mjs` uses. A "sale" tag or campaign name with no markdown
+  is still regular price. Shopify stores serve the whole collection at `/collections/{handle}/products.json`
   (a public endpoint), which avoids truncated pages: use it when the site serves it, and record
   how many items the range covers. Non-USD prices also get `min_usd`/`max_usd` at the ECB rate of
   `fx_date`; the gate compares those.
