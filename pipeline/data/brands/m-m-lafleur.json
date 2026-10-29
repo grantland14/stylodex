@@ -1,0 +1,44 @@
+{
+  "slug": "m-m-lafleur",
+  "name": "M.M.LaFleur",
+  "website_url": "https://mmlafleur.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Power Casual Womenswear",
+  "hq_country": "US",
+  "size_range": "00–20 and XS–XXL",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 400,
+  "returns_days": 21,
+  "sells_categories": [
+    "dresses"
+  ],
+  "checked_at": "2026-10-29",
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 199.0,
+      "max": 399.0,
+      "min_usd": 199.0,
+      "max_usd": 399.0,
+      "fx_date": null,
+      "item_count": 36,
+      "source_url": "https://mmlafleur.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Shopify products.json: 36 listings, all in stock, none with compare_at above price. Low: Beatrice Look Back Dress (Mixed Media Poplin) $199; high: Meredith Executive Dress (Heritage Tweed) $399. Maaza Travel Dress (OrigamiTech) $249, Madge Polished Dress (Everyday Crepe) $319, Ashtin Desk to Dinner Dress (Luxe Flex Suiting) $359. Size options on dresses 00–20 and XS–XXL."
+    }
+  ],
+  "sources": [
+    "https://mmlafleur.com/",
+    "https://mmlafleur.com/collections/dresses/products.json?limit=250",
+    "https://mmlafleur.gorgias.help/en-US/articles/returns-and-exchanges-274207",
+    "https://mmlafleur.gorgias.help/en-US/articles/shipping-and-delivery-274208"
+  ],
+  "notes": [
+    "2026-10-29 (ann-taylor page run): homepage meta 'M.M.LaFleur is a New York-based womenswear brand known for introducing the world to Power Casual: the clothing equivalent of work-life balance.' Title 'Live with Purpose, Dress with Ease'.",
+    "Returns: 'Returns must be initiated within 21 days of receiving your order.' Shipping help: US Standard, Ground, Two Day and Next Day; 'Any order over $400 qualifies for our free St[andard...]' (excerpt truncated); international via DHL Express, countries not listed. /pages/about-us 404."
+  ]
+}

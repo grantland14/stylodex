@@ -1,0 +1,48 @@
+{
+  "slug": "hobbs",
+  "name": "Hobbs",
+  "website_url": "https://www.hobbs.com/us/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Women's Clothes and Elegant Occasionwear",
+  "hq_country": "GB",
+  "founded_year": 1981,
+  "size_range": "US 2–18; petite collection",
+  "has_petite": true,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 350,
+  "returns_days": 30,
+  "sells_categories": [
+    "dresses"
+  ],
+  "checked_at": "2026-10-29",
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 210.0,
+      "max": 780.0,
+      "min_usd": 210.0,
+      "max_usd": 780.0,
+      "fx_date": null,
+      "item_count": 54,
+      "source_url": "https://www.hobbs.com/us/clothing/dresses/",
+      "checked_at": "2026-10-29",
+      "note": "US store (USD) dresses & jumpsuits grid, one plain request: page reports 264 styles, 54 rendered; all 54 are dresses with a single price and no strike-through class. Low: Aliza, Anna, Dakota and Theodora Jersey Dresses $210; high: Shirley Sequin Trimmed Maxi Dress $780. Petula Jersey Dress $250. Range covers the 54 rendered styles only."
+    }
+  ],
+  "sources": [
+    "https://www.hobbs.com/us/",
+    "https://www.hobbs.com/us/clothing/dresses/",
+    "https://www.hobbs.com/us/return-policy.html",
+    "https://www.hobbs.com/us/size-guide.html",
+    "https://www.hobbs.com/us/delivery-and-collection.html",
+    "https://www.hobbs.com/us/our-story.html"
+  ],
+  "notes": [
+    "2026-10-29 (ann-taylor page run): title 'Hobbs US | Shop Women's Clothes & Elegant Occasionwear'. Our Story: 'In 1981, Hobbs was established in Hampstead, London'; 'a womenswear brand synonymous with the best of British design'.",
+    "US delivery: Express only, 'FREE over $350, $8 under $350', 2–3 business days; 'All parcels are shipped directly from our warehouses in the UK'; duties may be calculated at checkout, 'We guarantee no additional charges on delivery'. Returns: 'within 30 days from the parcel delivery date'; 'returns are not free' (express prepaid $20, cost deducted). Size guide: US 2–18 (UK 6–22); Petite collection in nav; no Tall. us/stores page lists no US stores read."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "white-house-black-market",
+  "name": "White House Black Market",
+  "website_url": "https://www.whitehouseblackmarket.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Polished Black and White Clothing",
+  "hq_country": "US",
+  "parent_company": "Knitwell Group",
+  "size_range": "00–18, XXS–XL; regular and petite",
+  "has_petite": true,
+  "ships_to": [
+    "US"
+  ],
+  "returns_days": 60,
+  "sells_categories": [
+    "dresses"
+  ],
+  "checked_at": "2026-10-29",
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 140.0,
+      "max": 295.0,
+      "min_usd": 140.0,
+      "max_usd": 295.0,
+      "fx_date": null,
+      "item_count": 75,
+      "source_url": "https://www.whitehouseblackmarket.com/store/category/dresses/cat210002",
+      "checked_at": "2026-10-29",
+      "note": "Category page data (one plain request): 100 colorway products, 81 titles; 6 jumpsuit titles excluded, 75 dress titles. Every price object had strikethrough null (none marked down). Low: Collared Wrap Dress and Metallic Slip Dress $140; high: Strapless Pleated Chiffon Gown $275–$295 by color. Faux Wrap Sheath Dress $150, Knit Crepe Belted Sheath Dress $170, Stretch Crepe Collared Sheath Dress $185, Belted Sheath Dress $190; median $180."
+    }
+  ],
+  "sources": [
+    "https://www.whitehouseblackmarket.com/store",
+    "https://www.whitehouseblackmarket.com/store/category/dresses/cat210002",
+    "https://www.whitehouseblackmarket.com/store/page/returns-info/21",
+    "https://www.whitehouseblackmarket.com/store/page/shipping-handling-info/19",
+    "https://www.knitwellgroup.com/"
+  ],
+  "notes": [
+    "2026-10-29 (ann-taylor page run): homepage title 'Shop Women's Clothing, Petite, Business Casual, Dresses, Tops & Pants'; meta 'polished black and white women's clothing with pops of color and patterns. Shop tailored dresses, tops, pants and accessories.' Dress size facet 00–18 and XXS–XL; sizeType regular and petite. Promo text: 'Free shipping and returns on petite styles'.",
+    "Returns: accepted 'within 60 days of the date of purchase'; $7.00 deducted for mail returns. Shipping: Standard $8.95, 4–10 business days, all US addresses; international via a country drop-down (countries not listed). No free-shipping threshold stated. Footer entity Chico's Distribution Services, LLC; knitwellgroup.com lists White House Black Market. hq_country US from the US legal entity and US-only standard shipping."
+  ]
+}

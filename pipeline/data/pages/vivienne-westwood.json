@@ -1,0 +1,1616 @@
+{
+ "subject": "Vivienne Westwood",
+ "slug": "vivienne-westwood",
+ "url_prefix": "brands",
+ "category": {
+  "slug": "jewelry",
+  "name": "Jewelry",
+  "why": "C is a product type. Vivienne Westwood's US store lists 444 women's jewellery items against 217 bags and 112 women's clothing pieces, so jewellery is its biggest line. The SERP backs it: an r/jewelry 'Vivienne Westwood alternatives' thread and an Instagram 'Jewelry Brands Like Vivienne Westwood' page rank in the top 10. Prices compare regular-price jewelry on each brand's own store."
+ },
+ "serp": [
+  {
+   "keyword": "brands like vivienne westwood",
+   "position": 1,
+   "url": null,
+   "kept": false,
+   "why_dropped": "AI overview, no URL"
+  },
+  {
+   "keyword": "brands like vivienne westwood",
+   "position": 1,
+   "url": "https://www.reddit.com/r/findfashion/comments/1bgxu6x/does_anyone_know_a_clothing_brandbrands_that_has/",
+   "kept": false,
+   "why_dropped": "Reddit refuses WebFetch; not read, no workaround"
+  },
+  {
+   "keyword": "brands like vivienne westwood",
+   "position": 1,
+   "url": "https://www.pinterest.com/ideas/brands-like-vivienne-westwood/946871441809/",
+   "kept": false,
+   "why_dropped": "Pinterest idea board, no editorial list (also organic #4)"
+  },
+  {
+   "keyword": "brands like vivienne westwood",
+   "position": 1,
+   "url": "https://www.youtube.com/watch?v=uMM-qa-7T7A",
+   "kept": false,
+   "why_dropped": "video (AI overview sitelink); also OvOqNhIAKWI and C8tTMfdjOuo videos"
+  },
+  {
+   "keyword": "brands like vivienne westwood",
+   "position": 1,
+   "url": "https://www.instagram.com/reel/DYv8kF_JzeR/",
+   "kept": false,
+   "why_dropped": "social video"
+  },
+  {
+   "keyword": "brands like vivienne westwood",
+   "position": 1,
+   "url": "https://www.altpress.com/alternative-music-inspired-fashion-brands/",
+   "kept": false,
+   "why_dropped": "HTTP 403 to WebFetch; not read, no workaround (AI overview sitelink)"
+  },
+  {
+   "keyword": "brands like vivienne westwood",
+   "position": 7,
+   "url": "https://www.instagram.com/popular/jewelry-brands-like-vivienne-westwood/",
+   "kept": false,
+   "why_dropped": "Instagram tag page, social, no editorial list (also AI overview sitelink). Its title shows jewelry intent."
+  },
+  {
+   "keyword": "brands like vivienne westwood",
+   "position": 10,
+   "url": "https://forums.thefashionspot.com/threads/designers-like-betsey-johnson-or-vivienne-westwood.41241/",
+   "kept": false,
+   "why_dropped": "forum, HTTP 403 to WebFetch; not read, no workaround (also AI overview sitelink)"
+  },
+  {
+   "keyword": "brands like vivienne westwood",
+   "position": 2,
+   "url": "https://www.reddit.com/r/jewelry/comments/1o3lbbr/are_there_any_vivienne_westwood_alternatives/",
+   "kept": false,
+   "why_dropped": "Reddit sitelink (r/jewelry 'Are there any Vivienne Westwood alternatives?'); not read. Supports C = jewelry."
+  },
+  {
+   "keyword": "brands like vivienne westwood",
+   "position": 2,
+   "url": "https://www.reddit.com/r/findfashion/comments/1poi0fx/any_brands_that_has_vivienne_westwood_style_but/",
+   "kept": false,
+   "why_dropped": "Reddit sitelink; not read"
+  },
+  {
+   "keyword": "brands like vivienne westwood",
+   "position": 5,
+   "url": "https://www.etsy.com/market/vivienne_westwood_inspired_clothing",
+   "kept": false,
+   "why_dropped": "marketplace"
+  },
+  {
+   "keyword": "brands like vivienne westwood",
+   "position": 6,
+   "url": "https://www.discobrands.co/blogs/23-brands-like-vivienne-westwood",
+   "kept": true,
+   "why_dropped": null,
+   "note": "'19 Brands like Vivienne Westwood for Grunge & Punk (2026)', disco, updated July 2026, no author. 19 brands, mostly designer clothing houses."
+  },
+  {
+   "keyword": "brands like vivienne westwood",
+   "position": 8,
+   "url": "https://www.fashiongonerogue.com/designer-brands/",
+   "kept": false,
+   "why_dropped": "general list of 50 designer brands, not alternatives to Vivienne Westwood"
+  },
+  {
+   "keyword": "brands like vivienne westwood",
+   "position": 9,
+   "url": "https://www.tiktok.com/discover/brands-instead-of-vivienne-westwood",
+   "kept": false,
+   "why_dropped": "social video page"
+  },
+  {
+   "keyword": "stores like vivienne westwood",
+   "position": null,
+   "url": null,
+   "kept": false,
+   "why_dropped": "Ahrefs serp-overview returned no positions (US)"
+  },
+  {
+   "keyword": "vivienne westwood alternatives",
+   "position": null,
+   "url": null,
+   "kept": false,
+   "why_dropped": "Ahrefs serp-overview returned no positions (US)"
+  },
+  {
+   "keyword": "similar to vivienne westwood",
+   "position": null,
+   "url": null,
+   "kept": false,
+   "why_dropped": "Ahrefs serp-overview returned no positions (US)"
+  }
+ ],
+ "co_stocking": [
+  {
+   "retailer": "Dover Street Market New York e-shop",
+   "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250",
+   "used": true,
+   "why": "products.json of the all-jewelry collection (405 products, 3 pages) holds 4 Vivienne Westwood pieces (3 earrings, 1 necklace, $315–$360), so other jewelry vendors in it are co_stocked with Westwood jewelry. Its Vivienne Westwood collection (https://shop-us.doverstreetmarket.com/collections/vivienne-westwood/products.json, 28 items) confirms. Watch dealers (Casio, Classic 55, Bamford Watches) excluded."
+  },
+  {
+   "retailer": "SSENSE",
+   "url": "https://www.ssense.com/en-us/women/designers/vivienne-westwood/jewelry",
+   "used": false,
+   "why": "HTTP 403 to WebFetch; not read, no workaround"
+  },
+  {
+   "retailer": "Selfridges",
+   "url": "https://www.selfridges.com/US/en/cat/womens/accessories/jewellery/necklaces/",
+   "used": false,
+   "why": "HTTP 403 to WebFetch; stocks Vivienne Westwood jewellery per WebSearch only; not read"
+  },
+  {
+   "retailer": "Revolve",
+   "url": "https://www.revolve.com/vivienne-westwood/br/0d8e8b/",
+   "used": false,
+   "why": "read: 'No products found', Revolve doesn't stock it"
+  },
+  {
+   "retailer": "Nordstrom",
+   "url": "https://www.nordstrom.com/brands/vivienne-westwood--20370",
+   "used": false,
+   "why": "empty response to WebFetch; not read"
+  },
+  {
+   "retailer": "Dolls Kill",
+   "url": "https://www.dollskill.com/collections/vivienne-westwood/products.json",
+   "used": false,
+   "why": "0 products"
+  }
+ ],
+ "candidates": [
+  {
+   "name": "Rick Owens",
+   "slug": "rick-owens",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/23-brands-like-vivienne-westwood"
+    }
+   ]
+  },
+  {
+   "name": "Alexander McQueen",
+   "slug": "alexander-mcqueen",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/23-brands-like-vivienne-westwood"
+    }
+   ]
+  },
+  {
+   "name": "HODAKOVA",
+   "slug": "hodakova",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/23-brands-like-vivienne-westwood"
+    }
+   ]
+  },
+  {
+   "name": "Comme des Garçons (CDG Jewelry)",
+   "slug": "comme-des-garcons",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/23-brands-like-vivienne-westwood"
+    },
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "BLESS",
+   "slug": "bless",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/23-brands-like-vivienne-westwood"
+    }
+   ]
+  },
+  {
+   "name": "Craig Green",
+   "slug": "craig-green",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/23-brands-like-vivienne-westwood"
+    }
+   ]
+  },
+  {
+   "name": "Greg Lauren",
+   "slug": "greg-lauren",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/23-brands-like-vivienne-westwood"
+    }
+   ]
+  },
+  {
+   "name": "Thom Browne",
+   "slug": "thom-browne",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/23-brands-like-vivienne-westwood"
+    }
+   ]
+  },
+  {
+   "name": "Y/Project",
+   "slug": "y-project",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/23-brands-like-vivienne-westwood"
+    }
+   ]
+  },
+  {
+   "name": "VETEMENTS",
+   "slug": "vetements",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/23-brands-like-vivienne-westwood"
+    }
+   ]
+  },
+  {
+   "name": "Kenzo",
+   "slug": "kenzo",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/23-brands-like-vivienne-westwood"
+    }
+   ]
+  },
+  {
+   "name": "Dolce&Gabbana",
+   "slug": "dolce-gabbana",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/23-brands-like-vivienne-westwood"
+    }
+   ]
+  },
+  {
+   "name": "Balenciaga",
+   "slug": "balenciaga",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/23-brands-like-vivienne-westwood"
+    }
+   ]
+  },
+  {
+   "name": "C2H4",
+   "slug": "c2h4",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/23-brands-like-vivienne-westwood"
+    }
+   ]
+  },
+  {
+   "name": "Dior Homme",
+   "slug": "dior-homme",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/23-brands-like-vivienne-westwood"
+    }
+   ]
+  },
+  {
+   "name": "psylo fashion",
+   "slug": "psylo-fashion",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/23-brands-like-vivienne-westwood"
+    }
+   ]
+  },
+  {
+   "name": "Song for the Mute",
+   "slug": "song-for-the-mute",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/23-brands-like-vivienne-westwood"
+    }
+   ]
+  },
+  {
+   "name": "M.A+",
+   "slug": "m-a",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/23-brands-like-vivienne-westwood"
+    }
+   ]
+  },
+  {
+   "name": "Charles Jeffrey LOVERBOY",
+   "slug": "charles-jeffrey-loverboy",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/23-brands-like-vivienne-westwood"
+    }
+   ]
+  },
+  {
+   "name": "Tom Wood",
+   "slug": "tom-wood",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Seb Brown",
+   "slug": "seb-brown",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Moritz Glik",
+   "slug": "moritz-glik",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Prounis",
+   "slug": "prounis",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Shay",
+   "slug": "shay",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Bunney",
+   "slug": "bunney",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Monies",
+   "slug": "monies",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Mindi Mond",
+   "slug": "mindi-mond",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Unsaid",
+   "slug": "unsaid",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Weinan Pan",
+   "slug": "weinan-pan",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Joule Project",
+   "slug": "joule-project",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Nomis",
+   "slug": "nomis",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Ox",
+   "slug": "ox",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Patcharavipa",
+   "slug": "patcharavipa",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Bea Bongiasca",
+   "slug": "bea-bongiasca",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Martine Ali",
+   "slug": "martine-ali",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Nikolle Radi",
+   "slug": "nikolle-radi",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Solange Azagury-Partridge",
+   "slug": "solange-azagury-partridge",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Burkindy",
+   "slug": "burkindy",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Completedworks",
+   "slug": "completedworks",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Spinelli Kilcollin",
+   "slug": "spinelli-kilcollin",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Alice Waese",
+   "slug": "alice-waese",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Khepri",
+   "slug": "khepri",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Noguchi Bijoux",
+   "slug": "noguchi-bijoux",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Panconesi",
+   "slug": "panconesi",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Sophie Buhai",
+   "slug": "sophie-buhai",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Maison Coco",
+   "slug": "maison-coco",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Shihara",
+   "slug": "shihara",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "NVW",
+   "slug": "nvw",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Walter Van Beirendonck",
+   "slug": "walter-van-beirendonck",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "13 Lucky Monkey",
+   "slug": "13-lucky-monkey",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Castro",
+   "slug": "castro",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Niccolo Pasqualetti",
+   "slug": "niccolo-pasqualetti",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Simone Rocha",
+   "slug": "simone-rocha",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Ashley Williams",
+   "slug": "ashley-williams",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Bernard James",
+   "slug": "bernard-james",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Chopova Lowena",
+   "slug": "chopova-lowena",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Dries Van Noten",
+   "slug": "dries-van-noten",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Georgia Kemball",
+   "slug": "georgia-kemball",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Yutai",
+   "slug": "yutai",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Alexei Hay",
+   "slug": "alexei-hay",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Delfina Delettrez",
+   "slug": "delfina-delettrez",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Jacques Marie Mage",
+   "slug": "jacques-marie-mage",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Johnny Valentine",
+   "slug": "johnny-valentine",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Kundo",
+   "slug": "kundo",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Natural Instinct",
+   "slug": "natural-instinct",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250"
+    }
+   ]
+  },
+  {
+   "name": "Andreas Kronthaler for Vivienne Westwood",
+   "slug": "andreas-kronthaler-for-vivienne-westwood",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Mister S",
+   "slug": "mister-s",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Bikini Kill",
+   "slug": "bikini-kill",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Lip Service",
+   "slug": "lip-service",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Psycho Leather",
+   "slug": "psycho-leather",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Punk Rave",
+   "slug": "punk-rave",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Killer Goth",
+   "slug": "killer-goth",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Miaou",
+   "slug": "miaou",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Moschino",
+   "slug": "moschino",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Rebel Sister",
+   "slug": "rebel-sister",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "DevilFashion",
+   "slug": "devilfashion",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Gareth Pugh",
+   "slug": "gareth-pugh",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Irregular Artwear",
+   "slug": "irregular-artwear",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Ann Demeulemeester",
+   "slug": "ann-demeulemeester",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Philosophy di Lorenzo Serafini",
+   "slug": "philosophy-di-lorenzo-serafini",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Rebel Queen",
+   "slug": "rebel-queen",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Rodarte",
+   "slug": "rodarte",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Palomo Spain",
+   "slug": "palomo-spain",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Mugler",
+   "slug": "mugler",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Rabanne",
+   "slug": "rabanne",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Banned Alternative",
+   "slug": "banned-alternative",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Matty Bovan",
+   "slug": "matty-bovan",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "House of Holland",
+   "slug": "house-of-holland",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Schiaparelli",
+   "slug": "schiaparelli",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Maison Margiela",
+   "slug": "maison-margiela",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Helmut Lang",
+   "slug": "helmut-lang",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Olivier Theyskens",
+   "slug": "olivier-theyskens",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Jil Sander",
+   "slug": "jil-sander",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Affliction",
+   "slug": "affliction",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "RAF SIMONS",
+   "slug": "raf-simons",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Gothic Rose",
+   "slug": "gothic-rose",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Rogue & Wolf",
+   "slug": "rogue-wolf",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Poster Girl",
+   "slug": "poster-girl",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Kreepsville 666",
+   "slug": "kreepsville-666",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Mowalola",
+   "slug": "mowalola",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Darkside Lingerie",
+   "slug": "darkside-lingerie",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Hussein Chalayan",
+   "slug": "hussein-chalayan",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Eckhaus Latta",
+   "slug": "eckhaus-latta",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Marni",
+   "slug": "marni",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Iris van Herpen",
+   "slug": "iris-van-herpen",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Loewe",
+   "slug": "loewe",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Chromat",
+   "slug": "chromat",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Sacai",
+   "slug": "sacai",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Kambriel",
+   "slug": "kambriel",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Gypsy Sport",
+   "slug": "gypsy-sport",
+   "in_apart_pool": true,
+   "sources": []
+  }
+ ],
+ "picks": [
+  {
+   "slug": "georgia-kemball",
+   "rank": 1,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "GBP",
+    "min": 100.0,
+    "max": 600.0,
+    "min_usd": 132.88,
+    "max_usd": 797.25,
+    "fx_date": "2026-10-28",
+    "item_count": 30
+   },
+   "price_relation": "similar",
+   "reason": "London studio hand-carving sterling silver pendants in recycled silver and gold, £100–£600 (about $133–$797), inside Westwood's $90–$1,200 jewelry range; ships to the US by DHL.",
+   "evidence": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250",
+     "note": "Dover Street Market NY all-jewelry collection lists 2 Georgia Kemball piece(s) (Drop Earrings, a necklace, $705–$900) alongside 4 Vivienne Westwood pieces (Claude Long Earrings etc., $315–$360)."
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "chopova-lowena",
+   "rank": 2,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 198.0,
+    "max": 796.0,
+    "min_usd": 198.0,
+    "max_usd": 796.0,
+    "fx_date": null,
+    "item_count": 19
+   },
+   "price_relation": "similar",
+   "reason": "London label whose carabiner charm necklaces include a Hold My Orb Charm Necklace ($238); US-store jewelry $198–$796 sits inside Westwood's $90–$1,200, and it ships worldwide.",
+   "evidence": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250",
+     "note": "Dover Street Market NY all-jewelry collection lists 2 Chopova Lowena piece(s) (Charm Necklace, $333–$402) alongside 4 Vivienne Westwood pieces (Claude Long Earrings etc., $315–$360)."
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "simone-rocha",
+   "rank": 3,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 255.0,
+    "max": 865.0,
+    "min_usd": 255.0,
+    "max_usd": 865.0,
+    "fx_date": null,
+    "item_count": 23
+   },
+   "price_relation": "similar",
+   "reason": "Pearl earrings and pearl chain necklaces at $255–$865 on its US store, overlapping Westwood's pearl chokers ($260–$725); ships from its New York flagship, free over $600.",
+   "evidence": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250",
+     "note": "Dover Street Market NY all-jewelry collection lists 3 Simone Rocha piece(s) (Pearl Chain Necklace, earrings, $410–$715) alongside 4 Vivienne Westwood pieces (Claude Long Earrings etc., $315–$360)."
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "ashley-williams",
+   "rank": 4,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "GBP",
+    "min": 110.0,
+    "max": 340.0,
+    "min_usd": 146.16,
+    "max_usd": 451.78,
+    "fx_date": "2026-10-28",
+    "item_count": 33
+   },
+   "price_relation": "similar",
+   "reason": "London womenswear label's YVMIN star jewelry at £110–£340 (about $146–$452), the low end of Westwood's $90–$1,200 range; ships to the US for £18.",
+   "evidence": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250",
+     "note": "Dover Street Market NY all-jewelry collection lists 2 Ashley Williams piece(s) (Shooting Star Comb Earrings, $215) alongside 4 Vivienne Westwood pieces (Claude Long Earrings etc., $315–$360)."
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "rick-owens",
+   "rank": 5,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 250.0,
+    "max": 2385.0,
+    "min_usd": 250.0,
+    "max_usd": 2385.0,
+    "fx_date": null,
+    "item_count": 85
+   },
+   "price_relation": "similar",
+   "reason": "Sells an orb of its own (Jumbo Orb Pendant, $2,385) and brass earrings and rings from $250; most of its 85 US-store jewelry pieces sit under $500, and it has five US stores.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/23-brands-like-vivienne-westwood",
+     "note": "#1 of 19: Rick Owens, $$$$$ similar price; independent avant-garde label known for draped monochrome tailoring and chunky sneakers."
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "tom-wood",
+   "rank": 6,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 139.0,
+    "max": 5439.0,
+    "min_usd": 139.0,
+    "max_usd": 5439.0,
+    "fx_date": null,
+    "item_count": 393
+   },
+   "price_relation": "similar",
+   "reason": "Oslo jeweler in 100% recycled precious metals, US prices $139–$5,439 with most under $500; free worldwide shipping, duties paid, and 30-day returns like Westwood's.",
+   "evidence": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250",
+     "note": "Dover Street Market NY all-jewelry collection lists 30 Tom Wood piece(s) (rings, earrings, bracelets, $229–$1,329) alongside 4 Vivienne Westwood pieces (Claude Long Earrings etc., $315–$360)."
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "bea-bongiasca",
+   "rank": 7,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "EUR",
+    "min": 90.0,
+    "max": 13480.0,
+    "min_usd": 100.2,
+    "max_usd": 15007.28,
+    "fx_date": "2026-10-28",
+    "item_count": 233
+   },
+   "price_relation": "similar",
+   "reason": "Milan studio making gold and silver jewelry in bright enamel, from a €90 (about $100) ear cuff near Westwood's $90 floor; US shipping €35 with customs included.",
+   "evidence": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250",
+     "note": "Dover Street Market NY all-jewelry collection lists 9 Bea Bongiasca piece(s) (rings and earrings, $552–$1,380) alongside 4 Vivienne Westwood pieces (Claude Long Earrings etc., $315–$360)."
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "completedworks",
+   "rank": 8,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "GBP",
+    "min": 95.0,
+    "max": 16000.0,
+    "min_usd": 126.23,
+    "max_usd": 21260.13,
+    "fx_date": "2026-10-28",
+    "item_count": 807
+   },
+   "price_relation": "similar",
+   "reason": "London label pairing pearls with recycled gold vermeil, e.g. a pearl bracelet at £125 (about $166) against Westwood's $225 pearl bracelet; free US shipping over £100.",
+   "evidence": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250",
+     "note": "Dover Street Market NY all-jewelry collection lists 8 Completedworks piece(s) (Earrings With Pearls etc., $315–$730) alongside 4 Vivienne Westwood pieces (Claude Long Earrings etc., $315–$360)."
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "monies",
+   "rank": 9,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "DKK",
+    "min": 1144.0,
+    "max": 128823.0,
+    "min_usd": 170.4,
+    "max_usd": 19188.75,
+    "fx_date": "2026-10-28",
+    "item_count": 390
+   },
+   "price_relation": "similar",
+   "reason": "Copenhagen house (1973) making statement jewelry in wood, horn, stone and pearls, from DKK 1,144 (about $170); free shipping with duties paid and 30-day returns.",
+   "evidence": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250",
+     "note": "Dover Street Market NY all-jewelry collection lists 14 Monies piece(s) (Havana Earrings etc., $195–$1,005) alongside 4 Vivienne Westwood pieces (Claude Long Earrings etc., $315–$360)."
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "sophie-buhai",
+   "rank": 10,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 150.0,
+    "max": 22000.0,
+    "min_usd": 150.0,
+    "max_usd": 22000.0,
+    "fx_date": null,
+    "item_count": 266
+   },
+   "price_relation": "similar",
+   "reason": "Los Angeles sterling silver jewelry made with local silversmiths, priced in dollars from $150, hoops at $180–$550; free US shipping over $500.",
+   "evidence": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250",
+     "note": "Dover Street Market NY all-jewelry collection lists 6 Sophie Buhai piece(s) (Small Circle Link Necklace etc., $495–$1,300) alongside 4 Vivienne Westwood pieces (Claude Long Earrings etc., $315–$360)."
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "solange-azagury-partridge",
+   "rank": 11,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "GBP",
+    "min": 275.0,
+    "max": 320000.0,
+    "min_usd": 365.41,
+    "max_usd": 425202.6,
+    "fx_date": "2026-10-28",
+    "item_count": 309
+   },
+   "price_relation": "similar",
+   "reason": "London jeweler's sterling silver Hotlips rings hand-painted in enamel, from £275 (about $365), inside Westwood's $90–$1,200 range; ships to the US by FedEx for £20.",
+   "evidence": [
+    {
+     "kind": "co_stocked",
+     "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250",
+     "note": "Dover Street Market NY all-jewelry collection lists 9 Solange piece(s) (Hotlips rings, $275–$405) alongside 4 Vivienne Westwood pieces (Claude Long Earrings etc., $315–$360)."
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  }
+ ],
+ "rejected": [
+  {
+   "slug": "weinan-pan",
+   "why": "co_stocked (DSM). weinanpan.com products.json: all 38 jewelry products sold out, so no regular-price range; not a pick."
+  },
+  {
+   "slug": "niccolo-pasqualetti",
+   "why": "co_stocked (DSM). Shipping page lists EU rates and one €70 international rate but never names the US; US shipping unconfirmed. Only 6 jewellery items (£345–£1,200)."
+  },
+  {
+   "slug": "panconesi",
+   "why": "co_stocked (DSM). panconesi.com failed TLS from this box (curl 000); not read, no workaround. unverified."
+  },
+  {
+   "slug": "bunney",
+   "why": "co_stocked (DSM). bunney.co.uk jewellery (WooCommerce) shows 267 items over 15 pages, first page £430–£13,700; full range, shipping and returns not read this run."
+  },
+  {
+   "slug": "walter-van-beirendonck",
+   "why": "co_stocked (DSM). waltervanbeirendonck.com returned empty content to WebFetch; not verified."
+  },
+  {
+   "slug": "13-lucky-monkey",
+   "why": "co_stocked (DSM). 13luckymonkey.com returned empty content to WebFetch; not verified."
+  },
+  {
+   "slug": "charles-jeffrey-loverboy",
+   "why": "discobrands #19. charlesjeffreyloverboy.com products.json (218 products) has no jewelry (keychains only), so it doesn't sell C. Not written to a brand file."
+  },
+  {
+   "slug": "alexander-mcqueen",
+   "why": "discobrands #2, Apart pool. /en-us/women/jewelry and /en-us/ca/women/jewelry return 404; jewelry category not found on the US site. Not verified."
+  },
+  {
+   "slug": "comme-des-garcons",
+   "why": "2 sources (discobrands #4, DSM 'CDG Jewelry' 9 pieces $830–$44,000). comme-des-garcons.com has no Shopify catalogue and no jewelry shop page was found; its jewelry sells through DSM. Human check."
+  },
+  {
+   "slug": "others-dsm-fine-jewelry",
+   "why": "Moritz Glik, Prounis, Shay, Mindi Mond, Unsaid, Joule Project, Nomis, Ox, Patcharavipa, Nikolle Radi, Spinelli Kilcollin, Alice Waese, Khepri, Noguchi Bijoux, Maison Coco, Shihara, NVW, Castro, Bernard James, Yutai, Alexei Hay, Delfina Delettrez, Jacques Marie Mage, Natural Instinct, Kundo, Seb Brown: DSM prices mostly start above $1,500 (fine jewelry), far from Westwood's $90–$1,200; not checked under the 25-candidate cap."
+  },
+  {
+   "slug": "others-dsm-unchecked",
+   "why": "Martine Ali ($1,595+ at DSM), Burkindy, Dries Van Noten, Johnny Valentine: not checked this run (25-candidate cap / time)."
+  },
+  {
+   "slug": "others-discobrands",
+   "why": "HODAKOVA, BLESS, Craig Green, Greg Lauren, Thom Browne, VETEMENTS, Kenzo, Dolce&Gabbana, Balenciaga, C2H4, Dior Homme, psylo fashion, Song for the Mute, M.A+: clothing-led designer houses, not checked for jewelry this run. Y/Project: the article itself says it ceased operations in January 2025."
+  },
+  {
+   "slug": "apart-pool",
+   "why": "Apart Style pool brands (Mister S, Punk Rave, Killstar-like goth labels, Moschino etc.) have no outside source for Westwood jewelry; not picks."
+  }
+ ],
+ "human_check": [
+  {
+   "fact": "category C = jewelry",
+   "url": "https://www.viviennewestwood.com/en-us/women/jewellery/",
+   "check": "Confirm jewelry over clothing/bags: jewellery 444 items vs bags 217, women's clothing 112. The only editorial source (discobrands) lists clothing houses."
+  },
+  {
+   "fact": "evidence is thin",
+   "url": "https://shop-us.doverstreetmarket.com/collections/dsm-jewelry-view-all-jewelry/products.json?limit=250",
+   "check": "10 of 11 picks rest on one co-stocking source (Dover Street Market NY jewelry). Confirm co-stocking at DSM is enough for these to read as alternatives."
+  },
+  {
+   "fact": "Rick Owens known_for and hq_country",
+   "url": "https://www.rickowens.eu/en-us/pages/stores",
+   "check": "known_for 'Draped Monochrome Tailoring' comes from discobrands, not Rick Owens; hq_country IT from the OwensCorp Italia footer."
+  },
+  {
+   "fact": "Ashley Williams hq_country GB",
+   "url": "https://ashleywilliamslondon.com/pages/shipping",
+   "check": "No About page; GB taken from the UK returns address and GBP default."
+  },
+  {
+   "fact": "Vivienne Westwood US shipping cost",
+   "url": "https://www.viviennewestwood.com/en-us/customer-service/shipping-information/",
+   "check": "Rate table shows 21,9 € for the US zone; the US cost isn't stated in dollars, so free_shipping_min_usd is left empty and the copy doesn't quote a cost."
+  }
+ ],
+ "checked_at": "2026-10-29",
+ "fx": {
+  "source": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+  "date": "2026-10-28",
+  "per_eur": {
+   "USD": 1.1133,
+   "GBP": 0.83785,
+   "DKK": 7.4741
+  },
+  "usd_per_gbp": 1.328758,
+  "usd_per_eur": 1.1133,
+  "usd_per_dkk": 0.148954
+ },
+ "notes": [
+  "11 picks pass enrich.md §3, all on one independent source each: Rick Owens on discobrands, the other 10 co-stocked with Westwood jewelry at Dover Street Market NY. Ranked by price-range closeness to Westwood's $90–$1,200 (sum of |ln| distance of min and max).",
+  "Only 'brands like vivienne westwood' returned SERP data; the other three keywords returned no positions. Reddit, altpress and thefashionspot couldn't be read.",
+  "All picks are price_relation 'similar' (each overlaps $90–$1,200).",
+  "Vivienne Westwood earrings can't be returned unless faulty (How To Return §2.1): used in the intro."
+ ],
+ "author": "Ash",
+ "copy": {
+  "intro": "The orb earrings have sat in your cart for a week, and Vivienne Westwood won't take earrings back unless they're faulty. So it pays to look around before you click. Here are 11 jewelry labels for the same pearls and punk details, most of them small London studios, sorted by how close their prices sit to Westwood's $90 to $1,200.",
+  "bodies": {
+   "georgia-kemball": "Georgia Kemball is the pick for hand-carved silver pendants at Westwood's prices, and everything costs between £100 and £600 (about $133 to $797). Start with the Dragon pendant (£120), hand-carved in sterling silver after the creatures in medieval paintings.\n\nIt's a London studio, and Georgia carves most pieces in wax herself before casting them in recycled silver and gold. The Cherub Oval Pendant (£180, about $239) still costs less than Westwood's Mini Bas Relief Pearl Choker ($260). Pendants come on their own, on a pin or on a curb chain you can add to over time.\n\nThe catch is getting it here. US orders ship by DHL for £30, and duties aren't included, so add both before you compare. If you'd rather the price you see be the price you pay, Tom Wood ships free with duties covered.",
+   "chopova-lowena": "Chopova Lowena is the most punk label here, and it even has its own orb: the Hold My Orb Charm Necklace ($238). Carabiner necklaces make up most of the jewelry, priced from $198 to $796 in US dollars.\n\nIt's a London label best known for carabiner skirts that mix folklore with sportswear, and the necklaces borrow the same clip. Start with the Skull and Cross Bones Necklace ($259) if you want the closest thing to Westwood's punk roots. Clothing runs XXS to XL if you end up wanting the skirt too.\n\nTwo things to know before you order. It no longer ships to the US with duties paid, so a customs bill can follow the parcel. And anything bought at a discount is final sale, while full-price pieces get 14 days.",
+   "simone-rocha": "Simone Rocha is where to go if it's Westwood's pearls you're after. They show up across the jewelry, from the Claddagh & Pearl Hoop Earrings ($255) to the Stacked Link Pearl Chain Necklace ($715).\n\nIts US store ships from the New York flagship for $15, and free over $600, so there's no customs surprise like there is with the London-only labels. You can also see it in person in New York. Prices start higher than Westwood's, though. Nothing here is under $255, where Westwood has its Solid Orb Earrings at $115.\n\nReturns last 14 days and cost $15. If you want pearls on a smaller budget, Completedworks pairs them with gold vermeil from £125 (about $166).",
+   "ashley-williams": "Ashley Williams keeps every piece of jewelry under £340 (about $452), the lowest ceiling on this list. The Star Hoop Earrings (£110, about $146) are the place to start, and the Star Necklace is £160.\n\nAll of it is a collaboration with YVMIN, built on stars and novelty shapes, and the priciest piece is the Floral Toilet Paper Bracelet. Where Westwood climbs to $1,200, this stays in gift territory. Rings come in S, M and L rather than numbered sizes, which makes buying for someone else easier.\n\nShipping to the US is a flat £18 and takes 7 to 15 days, with import charges on you. Returns have to start within 14 days, and sale or pre-order pieces can't go back. For bigger statement pieces, Monies is the other end of the scale.",
+   "rick-owens": "Rick Owens is the darker take on Westwood's orb, and it sells one outright: the Jumbo Orb Pendant ($2,385), a sphere set with faceted hematite on a snake chain. Most of the jewelry costs far less, with brass rings from $250.\n\nThe Trunk Earring ($270) is the one to start with, a beveled brass shape engraved with the logo on the back. Most pieces sit under $500, so the price gap with Westwood is smaller than the orb suggests.\n\nYou can try it on first. Rick Owens has US stores in New York, Los Angeles, Miami, Las Vegas and Costa Mesa. Online, returns close after 10 days, and if you live in New York or California, import duties come on top of the price. Chopova Lowena is the cheaper way to get an orb charm.",
+   "tom-wood": "Tom Wood is for the Westwood fan whose taste has gone quieter: plain silver from Oslo, all of it in recycled precious metals, with the Ear Cuff Slim at $139. The Maze Ring ($439) sits right in the middle of the range.\n\nIt's the easiest buy here for a US shopper. Prices are in dollars, and shipping is free on every order with duties already paid. Returns run 30 days, like Westwood's. A $25 return fee comes off the refund, though.\n\nMost of the range costs under $500, but the gold pieces climb to $5,439, so check the metal before you fall for a photo. Rings run from EU 42 to 68, so it's worth a look if Westwood's XXS to XXL sizing doesn't fit you.",
+   "bea-bongiasca": "Bea Bongiasca is for Westwood's color rather than its punk: gold and silver jewelry flooded with bright enamel, from a Milan studio. The Flower Ear Cuff (€90, about $100) is the cheapest way in, close to Westwood's own cheapest stud at $90.\n\nMost of the line costs under €1,000, like the glossy Tarallo Earrings (€530). Past that, the diamond pieces run up to €13,480, so sort by price before you browse.\n\nUS orders cost €35 to ship, free over €500, and customs are included, so there's no bill at the door. That makes it a safer bet than the London labels if duties put you off. Returns need an email first and close after 14 days.",
+   "completedworks": "Completedworks is the best value for pearls on this list, pairing them with recycled gold vermeil. The Classicworks A Gold Vermeil and Pearl Bracelet costs £125 (about $166), against $225 for Westwood's Mini Bas Relief Pearl Bracelet.\n\nThe London label's cheapest pieces are single earrings in bio resin and vermeil at £95, so check whether a listing is one earring or a pair before you compare. Pairs like the Suburbs Recycled Gold Vermeil Earrings (£235) are its sweet spot. Above that it moves into solid gold and diamonds, up to £16,000.\n\nShipping to the US is free over £100 and £10 below it, but duties land on you. Returns get 14 days and a £15 US label. If you want bigger pearl pieces, Simone Rocha's chain necklaces go further.",
+   "monies": "Monies is for Westwood's statement pieces made big, in wood, horn and stone instead of crystal. The Copenhagen house was founded in 1973, and the Fides stud earrings (DKK 1,144, about $170) are where prices start.\n\nPrices are in Danish kroner, so convert before you compare. The Katherine necklace in acacia wood (DKK 4,422, about $659) is a fair picture of the middle of the range. The oversized one-offs with fossils and pearls go well into five figures in dollars.\n\nShipping is free and duties are paid upfront, though some US states still add sales tax. Returns run 30 days, with a €20 fee from outside the EU. Rings come in one size, so there's no guessing.",
+   "sophie-buhai": "Sophie Buhai is the only American label here, making sterling silver jewelry with silversmiths around Los Angeles. Prices are in dollars and shipping is free over $500, so it's the simplest order on the list after Tom Wood.\n\nStart with the hoops. The Large Reversible Hinged Hoops ($550) can be worn with or without their texture, so one pair does the work of two. The Small Single Layered Hoops cost $180, but that pair is final sale.\n\nThe real catch is returns. There are no refunds, only store credit or an exchange within 10 days. So buy here when you're sure, and go to Tom Wood instead if you want 30 days to change your mind.",
+   "solange-azagury-partridge": "Solange Azagury-Partridge belongs here for one ring: the Hotlips, sterling silver hand-painted in enamel. Classic Red (£275, about $365) is one of the four original colors released in 1995. The Happy Face version, in banana yellow and black enamel, is £395.\n\nThe London jeweler's work sits in the V&A, and most of its catalogue is fine jewelry priced over £10,000. So treat the Hotlips rings as the way in, not a sample of the range. Ring sizes run EU 46 to 63.\n\nInternational shipping is £20 by FedEx, and US duties aren't included. Returns close 14 days after delivery. If you want punk attitude at a similar price, Chopova Lowena's charm necklaces start lower."
+  },
+  "best_for": {
+   "georgia-kemball": "hand-carved silver charms for less than a Westwood choker",
+   "chopova-lowena": "a punk orb charm with the skirt to match",
+   "simone-rocha": "pearl earrings shipped from New York, not London",
+   "ashley-williams": "a funny gift that stays under $500",
+   "rick-owens": "a darker orb you can try on in a US store",
+   "tom-wood": "duty-paid silver with free shipping and 30-day returns",
+   "bea-bongiasca": "bright enamel color with customs already paid",
+   "completedworks": "pearls and recycled vermeil for under $200",
+   "monies": "big wood and horn statement pieces with free shipping",
+   "sophie-buhai": "dollar-priced sterling silver hoops made in Los Angeles",
+   "solange-azagury-partridge": "one hand-painted lips ring as your splurge"
+  },
+  "closing": {
+   "heading": "How to choose",
+   "body": "Start with what you'd miss most about Westwood. For pearls, Simone Rocha is the closest match, and Completedworks gets you pearls with vermeil for far less. For the punk side, Chopova Lowena has the charms and Rick Owens has the orb, at a much higher price. If shipping costs worry you, Tom Wood and Monies ship free with duties paid, and Bea Bongiasca includes customs on US orders. On a tight budget, Georgia Kemball keeps everything under $800 and Ashley Williams under $500. And if you want one ring with a history, Solange's Hotlips line goes back to 1995."
+  },
+  "faqs": [
+   {
+    "q": "Is Vivienne Westwood jewelry real gold?",
+    "a": "Only its Solid Gold line is, and that's five pieces, topping out with the Pimlico Earrings at $1,200. The rest is listed by finish, such as Platinum or Gold, with pearls and crystals.",
+    "source_query": "is vivienne westwood real gold"
+   },
+   {
+    "q": "Where can I buy a Vivienne Westwood orb necklace?",
+    "a": "Westwood's own US store sells its orb jewelry online, and the brand has stores in New York and Los Angeles. Dover Street Market's New York e-shop also stocks a few Westwood earrings and a necklace.",
+    "source_query": "where to buy vivienne westwood orb necklace"
+   },
+   {
+    "q": "How much is a Vivienne Westwood necklace?",
+    "a": "The Mini Bas Relief Pendant Necklace is $210 and the Chaos Pearl necklace is $380. Three Row Pearl Bas Relief Chokers are $725, and the solid gold Pimlico Pendant Necklace is $1,105.",
+    "source_query": "how much is a vivienne westwood necklace"
+   },
+   {
+    "q": "How long does Vivienne Westwood take to ship?",
+    "a": "Orders leave within 2 to 3 working days, and sales can add another 2 to 3. Delivery estimates count from the day it ships, not the day you order.",
+    "source_query": "how long does vivienne westwood take to ship"
+   }
+  ]
+ }
+}

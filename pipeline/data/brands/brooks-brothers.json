@@ -1,0 +1,29 @@
+{
+  "slug": "brooks-brothers",
+  "name": "Brooks Brothers",
+  "website_url": "https://www.brooksbrothers.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "The Original Authority on American Style",
+  "size_range": "00–16, XXS–XL",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 200,
+  "us_stores": true,
+  "sells_categories": [
+    "dresses"
+  ],
+  "checked_at": "2026-10-29",
+  "sources": [
+    "https://www.brooksbrothers.com/",
+    "https://www.brooksbrothers.com/womens/dresses",
+    "https://www.brooksbrothers.com/sizeguide?cid=women-general-v2",
+    "https://stores.brooksbrothers.com/",
+    "https://www.brooksbrothers.com/Support?a=Shipping-Methods---id--aPg4uxCYQHeaf87YJXMg5w"
+  ],
+  "notes": [
+    "2026-10-29 (ann-taylor page run): women's dresses page (title 'Women's Dresses | Linen, Shirt & Sheath Dresses') lists 44 dresses, every one price_type 'Markdown' in the page data (e.g. Leaf Motif Cap Sleeve Dress $187.60), so no regular dresses price stored; sells_categories from that page.",
+    "Meta 'Brooks Brothers is the original authority on American style for men, women, and kids.' Women's size guide 00–16 (XXS–XL); no petite/plus/tall mentioned. 'Free Standard Shipping on $200+'. Store locator lists locations by US state (Alabama, California, New York, Texas...). Returns page not readable (links to Narvar): returns_days empty."
+  ]
+}

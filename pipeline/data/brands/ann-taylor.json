@@ -1,0 +1,33 @@
+{
+  "slug": "ann-taylor",
+  "name": "Ann Taylor",
+  "website_url": "https://www.anntaylor.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Women's Workwear",
+  "hq_country": "US",
+  "founded_year": 1954,
+  "parent_company": "Knitwell Group",
+  "has_petite": true,
+  "has_tall": true,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 150,
+  "us_stores": true,
+  "sells_categories": [
+    "dresses"
+  ],
+  "checked_at": "2026-10-29",
+  "sources": [
+    "https://www.anntaylor.com/search?cgid=cat4190002",
+    "https://www.anntaylor.com/sitemap_0-product.xml",
+    "https://jobs.knitwellgroup.com/about-ann-taylor",
+    "https://www.knitwellgroup.com/"
+  ],
+  "notes": [
+    "2026-10-29 (ann-taylor page run): anntaylor.com homepage, product pages, category pages (e.g. /clothing/dresses/cata000012/), /customer-service and /store all 302 to /px?url=... (a bot challenge; WebFetch: too many redirects). Not worked around. Prices, size guide and returns unread: human check.",
+    "Readable: /search?cgid=cat4190002 (page shell, no products): nav Clothing > Dresses, Suits, Pants, Tops and Blouses...; More Sizes > All Petite, All Tall, All Curvy; Work > Work Dresses, Suits, Work Pants. Promo 'FREE SHIPPING WITH ORDERS OF $150+ ... Offer valid only on standard U.S. domestic orders placed on anntaylor.com'. Footer '(c)2026 Premium Brands Opco LLC'. Product sitemap (lastmod 2026-10-29): 3,768 product URLs, 247 under clothing/dresses and 234 under petites/petite-dresses, 206 clothing/suits, 188 clothing/pants, 628 tops-and-blouses.",
+    "Knitwell Group (parent's official site, jobs.knitwellgroup.com/about-ann-taylor): 'go-to brand for women's workwear', 'timeless, tailored style', founded 1954 (history: 'Founded in 1950s Connecticut'), '200 stores and counting', distribution center supplies retail stores 'across the United States and Canada', corporate office in Times Square, New York. knitwellgroup.com lists Ann Taylor with Loft, Talbots, White House Black Market, Chico's, Lane Bryant, Soma and Haven Well Within ('A leading portfolio of iconic American fashion brands')."
+  ]
+}

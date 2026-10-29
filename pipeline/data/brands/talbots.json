@@ -1,0 +1,53 @@
+{
+  "slug": "talbots",
+  "name": "Talbots",
+  "website_url": "https://www.talbots.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Modern Classic Women's Clothing",
+  "hq_country": "US",
+  "founded_year": 1947,
+  "parent_company": "Knitwell Group",
+  "size_range": "2–18, petite 0–16, plus 14W–24W",
+  "has_plus": true,
+  "has_petite": true,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB"
+  ],
+  "returns_days": 30,
+  "sells_categories": [
+    "dresses"
+  ],
+  "checked_at": "2026-10-29",
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 99.5,
+      "max": 299.0,
+      "min_usd": 99.5,
+      "max_usd": 299.0,
+      "fx_date": null,
+      "item_count": 48,
+      "source_url": "https://www.talbots.com/clothing/dresses?sz=200",
+      "checked_at": "2026-10-29",
+      "note": "Category grid, one plain request (StylodexBot UA), ?sz=200: 103 tiles ('103 items'). Excluded 55 tiles with a markdown-price-range, product-standard-price (struck) or hardmarkprice class. 48 regular tiles; each shows a range across size types (misses to plus). Low: Knit Kit Bateau Neck Midi Dress $99.50–$109; high: RSVP Paisley Lace Dress $269–$299. Polished Ponte Sheath Dress $169–$189, Luxe Ponte Sheath Dress $179, Belted Wool Blend Shirtdress $219–$249, Split Neck A-Line Dress $119–$139."
+    }
+  ],
+  "sources": [
+    "https://www.talbots.com/",
+    "https://www.talbots.com/clothing/dresses?sz=200",
+    "https://www.talbots.com/returns/returns.html",
+    "https://www.talbots.com/shipping/shipping.html",
+    "https://www.talbots.com/size-charts/size-charts.html",
+    "https://en.wikipedia.org/wiki/Talbots",
+    "https://www.knitwellgroup.com/"
+  ],
+  "notes": [
+    "2026-10-29 (ann-taylor page run): homepage meta 'modern classic selection of women's clothing... apparel in misses, petite, plus size and plus size petite'. Size charts: Misses 2–18 (XS–XL), Petite 0–16 (PP–PXL), Plus 14W–24W (X–3X); no Tall listed.",
+    "Returns: 'within 30 days of purchase'; $9.95 deducted when using the prepaid UPS label. Shipping: standard $8.95 flat; ships to US incl. AK/HI, APO/FPO, Canada, Mexico, UK, Bahamas, Bermuda; 'Shipping to Australia is currently not available'. Only free-shipping figure is an email sign-up perk ('$15 Off + Free Ship $49+'), so free_shipping_min_usd left empty.",
+    "Store locator pages (/storelocator, /stores) render stores by script; no US store list read, us_stores left empty. Wikipedia: founded 1947 in Hingham, Massachusetts; HQ Hingham. knitwellgroup.com lists Talbots ('timely and timeless style for every body'). Footer: The Talbots LLC."
+  ]
+}

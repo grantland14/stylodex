@@ -31,6 +31,19 @@
       "source_url": "https://us.boden.com/collections/womens-sweaters/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "products.json: 138 listings in the collection; 0 with compare_at above price (sale) and 5 sold out excluded, 30 non-sweaters excluded; 103 regular-price women's sweaters. Low: Camilla Cotton Crew Sweater-Bitter Chocolate ($89); high: Marta Longline Merino Jumper-Grey, Red, Pink Argyle ($249). US store (USD). None of the regular items appear in womens-sale-sweaters. Camilla Cotton Crew Sweater $89; Elsie Cashmere Crew Sweater $170 (cashmere certified by The Good Cashmere Standard, machine washable); Kat Brushed Cashmere Sweater $240; highest Marta Longline Merino Jumper $249."
+    },
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 99.0,
+      "max": 460.0,
+      "min_usd": 99.0,
+      "max_usd": 460.0,
+      "fx_date": null,
+      "item_count": 189,
+      "source_url": "https://us.boden.com/collections/womens-all-dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Shopify products.json (US store, USD), 3 pages: 687 listings; 491 with every in-stock variant marked down (compare_at above price) and 7 sold out excluded; 189 regular-price women's dresses. Low: Briony Jersey Short Dress $99; high: Jacquard Boat Neck Dress $460. Marcia Jersey Shirt Dress $149, Alex Ponte Contrast Midi Dress $220, Una Cord Midi Dress $220."
     }
   ],
   "materials": [
@@ -49,13 +62,18 @@
     "https://us.boden.com/collections/womens-sweaters/products.json?limit=250",
     "https://us.boden.com/collections/womens-sale-sweaters/products.json?limit=250",
     "https://us.boden.com/products/women-elsie-cashmere-crew-sweater-black-k1298blk.json",
-    "https://en.wikipedia.org/wiki/Boden_(clothing)"
+    "https://en.wikipedia.org/wiki/Boden_(clothing)",
+    "https://us.boden.com/collections/womens-all-dresses/products.json?limit=250"
   ],
   "notes": [
     "US store is us.boden.com (bodenusa.com redirects there; boden.com serves the GBP UK shop). Store description mentions 'joyful colors' and timeless British style; address Pittston, PA; ships_to_countries: US only (https://us.boden.com/meta.json).",
     "About timeline: 1991 'Johnnie launches Boden with a mail-order catalogue containing just eight products', drawn 'on his kitchen table in West London'; nav links Petite and Tall collections (https://us.boden.com/pages/about-us).",
     "Wikipedia: HQ North Acton, London; founded 1991 by Johnnie Boden; US website since 2002, the US is its largest market (45% of 2024 sales) (https://en.wikipedia.org/wiki/Boden_(clothing)).",
-    "Returns: 'within 45 days of receipt', unworn, unwashed, tags attached; no fee stated (https://us.boden.com/policies/refund-policy). Free-shipping threshold not found (shipping-policy URL 404)."
+    "Returns: 'within 45 days of receipt', unworn, unwashed, tags attached; no fee stated (https://us.boden.com/policies/refund-policy). Free-shipping threshold not found (shipping-policy URL 404).",
+    "2026-10-29 (ann-taylor page run): women's dresses from the womens-all-dresses collection feed; see dresses price note."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "dresses"
+  ]
 }

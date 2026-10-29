@@ -1,0 +1,35 @@
+{
+  "slug": "loft",
+  "name": "Loft",
+  "website_url": "https://www.loft.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Everyday Fashion for Work and Play",
+  "hq_country": "US",
+  "founded_year": 1998,
+  "parent_company": "Knitwell Group",
+  "size_range": "00–18, XXS–XXL; petite, tall and curvy",
+  "has_petite": true,
+  "has_tall": true,
+  "ships_to": [
+    "US"
+  ],
+  "returns_days": 30,
+  "us_stores": true,
+  "sells_categories": [
+    "dresses"
+  ],
+  "checked_at": "2026-10-29",
+  "sources": [
+    "https://www.loft.com/",
+    "https://www.loft.com/clothing/dresses/catl000013/",
+    "https://www.loft.com/customer-service",
+    "https://www.loft.com/store/directory",
+    "https://jobs.knitwellgroup.com/about-loft",
+    "https://www.knitwellgroup.com/"
+  ],
+  "notes": [
+    "2026-10-29 (ann-taylor page run): dresses category (96 tiles read) carries the banner 'All dresses $44!' and every tile shows a struck regular price (e.g. $110) next to $44, so no regular-price dress was readable: no dresses price stored; sells_categories from the store's own dresses page. Size facet on the dresses page 00–18 and XXS–XXL; nav 'More Sizes: Petite, Tall, Curvy'.",
+    "Customer service page: receipted returns 'MADE WITHIN 30 DAYS OF THE PURCHASE DATE are credited for the price paid'; later returns get merchandise credit; $9.95 deducted for the prepaid label; store purchases return to a LOFT store. Store directory: '358 LOFT STORES IN THE UNITED STATES'. Knitwell: founded 1998, 'over 500 stores across the United States' (incl. outlets), home office in Times Square, NYC; tagline 'Easy, stylish, everyday fashion for work and play'."
+  ]
+}
