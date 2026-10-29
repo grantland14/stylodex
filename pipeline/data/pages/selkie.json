@@ -834,33 +834,6 @@
       "gate_gaps": [
         "image_url"
       ]
-    },
-    {
-      "slug": "witch-bitch-thrift",
-      "rank": 8,
-      "independent_sources": 1,
-      "single_source": true,
-      "price": {
-        "currency": "USD",
-        "min": 12.0,
-        "max": 495.0,
-        "min_usd": 12.0,
-        "max_usd": 495.0,
-        "fx_date": null,
-        "item_count": 225
-      },
-      "price_relation": "similar",
-      "reason": "Witch Bitch Thrift, a size-inclusive online thrift shop, lists 225 secondhand dresses at $12–$495 (median $25) in sizes up to 6X, matching Selkie's top size.",
-      "evidence": [
-        {
-          "kind": "serp_comention",
-          "url": "https://info.charm.io/en/blog/5-brands-like-selkie",
-          "note": "#1: 'a curated collection of vintage and retro-inspired fashion'; quirky, nostalgic pieces."
-        }
-      ],
-      "gate_gaps": [
-        "image_url"
-      ]
     }
   ],
   "rejected": [
@@ -919,6 +892,10 @@
     {
       "slug": "apart-style-pool",
       "why": "27 public.brand_relationships brands (Lirika Matoshi, For Love & Lemons, Sister Jane, Batsheva, Self-Portrait and others) have no outside source naming them as an alternative to Selkie: the girlstyle and A Quiet Wild pages list some beside Selkie without comparing them; Reddit and Facebook threads not readable. Not verified."
+    },
+    {
+      "slug": "witch-bitch-thrift",
+      "reason": "Secondhand shop, not a brand: Ash cut it from this brands page (2026-10-29)."
     }
   ],
   "human_check": [
@@ -983,20 +960,20 @@
     "Every priced pick is 'similar' because Selkie's range is wide ($109 pinafore to $1,500 gown); LIONESS overlaps by $6 ($115 top vs $109 bottom).",
     "Prices: Shopify /collections/dresses/products.json, regular = no compare_at above price. Elliatt from its country=US market. Ester Manas in EUR at ECB 2026-10-28. Bardot from a WebFetch of its US dresses page (24-dress sample).",
     "All requests used the StylodexBot User-Agent only; no personal details sent.",
-    "Every pick has gate_gap image_url only (coordinator fetches images)."
+    "Every pick has gate_gap image_url only (coordinator fetches images).",
+    "2026-10-29: Witch Bitch Thrift removed at Ash's request (a secondhand shop doesn't belong on a brands page)."
   ],
   "author": "Ash",
   "copy": {
     "intro": "You've picked out Selkie's Rainbow Puff Dress, seen the $290 price, and then found your size already gone. That happens a lot with a label that makes some pieces in runs of 15 to 20. These eight sell the dresses people reach for instead, from $12 secondhand finds to Brussels-made pieces at €1,960, and every one of them delivers to the US. Here's what each does best, and what it costs.",
     "bodies": {
-      "prettylittlething": "PrettyLittleThing is the one to try when Selkie's fit is the problem rather than its look. It cuts dresses in petite, tall, plus and maternity ranges, from a US 00 to a 24, so you can choose a length as well as a size.\n\nIt's a Manchester label, part of the Boohoo Group, and US delivery is a flat $9.99 an order. Selkie charges $20 unless you spend $350, so on one dress PrettyLittleThing's delivery costs about half as much.\n\nThe catch is returns. You get 21 days, but $14.99 comes off the refund for each parcel, so order the size you're surest of. And the plus range stops at a 24, well short of Selkie's 6X. Witch Bitch Thrift goes higher.",
+      "prettylittlething": "PrettyLittleThing is the one to try when Selkie's fit is the problem rather than its look. It cuts dresses in petite, tall, plus and maternity ranges, from a US 00 to a 24, so you can choose a length as well as a size.\n\nIt's a Manchester label, part of the Boohoo Group, and US delivery is a flat $9.99 an order. Selkie charges $20 unless you spend $350, so on one dress PrettyLittleThing's delivery costs about half as much.\n\nThe catch is returns. You get 21 days, but $14.99 comes off the refund for each parcel, so order the size you're surest of. And the plus range stops at a 24, well short of Selkie's 6X.",
       "elliatt": "Elliatt is the closest match here for Selkie's puff sleeves at Selkie's prices. The Floriana Puff Sleeve Mini Dress in Cornflower ($238) costs a little less than a Selkie Puff Dress. For bigger occasions, there's the Nathalie Puff Sleeve Gown in Pink Floral ($598).\n\nIt's a Sydney label, but US orders ship from its Los Angeles warehouse with no duties at checkout. Ground delivery is $15 whatever you spend. Its dresses run from $168 to $870, and the ones with puff sleeves in the name sit between $238 and $675, which is where to start.\n\nSizes stop at XXL, far short of Selkie's 6X. Returns close after 14 days and the postage back is yours, though US orders can swap sizes as an instant exchange. Need more room? Ester Manas goes to 4XL.",
       "ester-manas": "Ester Manas is the pick if Selkie's size range is the reason you shop there. Its ready-to-wear is made for every body, in sizes from XS to 4XL, and the Butter Easy Slip Dress (€190, about $212) is the easiest way in.\n\nThe look is different, so know that before you go. These are ruched, sensual pieces made by hand in Brussels from deadstock and EU fabrics, not tulle and puff sleeves. The Signature dresses carry the price, like the Black Polka Dots Signature Dress (€1,250, about $1,392).\n\nPrices are in euros, and US orders pay the duties on arrival, on top of €30 shipping (free over €350). Returns close after 14 days, with the label on you. For volume rather than ruching, Elliatt is closer.",
-      "jens-pirate-booty": "Jen's Pirate Booty is where to look if you like Selkie's romance but lean bohemian. It's a California label built around kaftans and kimonos, and its dresses run from the Countryside Mini Dress ($110) up to $375.\n\nStart with the Lapis Maxi Dress ($285). It's priced right alongside Selkie's puff dresses, which run $249 to $335. Domestic shipping is free over $200, well under Selkie's $350 mark.\n\nTwo things to check first. Every return costs a $10 restocking fee plus the postage, inside 14 days, and sale pieces can't be refunded. Sizes run XS to XL, so for anything bigger, Selfie Leslie or Witch Bitch Thrift will serve you better.",
+      "jens-pirate-booty": "Jen's Pirate Booty is where to look if you like Selkie's romance but lean bohemian. It's a California label built around kaftans and kimonos, and its dresses run from the Countryside Mini Dress ($110) up to $375.\n\nStart with the Lapis Maxi Dress ($285). It's priced right alongside Selkie's puff dresses, which run $249 to $335. Domestic shipping is free over $200, well under Selkie's $350 mark.\n\nTwo things to check first. Every return costs a $10 restocking fee plus the postage, inside 14 days, and sale pieces can't be refunded. Sizes run XS to XL, so for anything bigger, Selfie Leslie will serve you better.",
       "bardot": "Bardot is the one for Selkie's party side without the gown prices. Its US store has occasion and party dresses, like the Adrie Babydoll Mini Dress ($219), and the Natalya Mesh Midi Dress ($139) is about as low as it goes.\n\nThe returns are generous: 30 days on full-price pieces, for a refund, an exchange or credit. Orders ship from inside the US, $10 by ground or free over $200. That's a lower bar than Selkie's $350, and the Adrie clears it on its own.\n\nThe trade-off is size. It's cut on Australian sizing and stops at a US 12, a much narrower run than Selkie's XXS to 6X. For a bigger range at a lower price, Selfie Leslie goes to 4XL.",
       "selfie-leslie": "Selfie Leslie is the place to go for new puff-sleeve dresses under $100. Start with its own Lovers Lane Lace Trim Puff Sleeve Dress ($89), or the SAINTS & SECRETS Hayden Puff Sleeve Eyelet Embroidery Dress ($69). Nothing in its dresses section goes past $155.\n\nIt's a California shop that mixes its own label with others, including MIKA & GALA and LIONESS. US shipping is free over $100, and returns run 30 days. Take store credit and you get the full amount back. A refund loses $9.75.\n\nMost dresses come in XS to XL, with some up to 4XL, so check the size before you fall for one. And anything cut by 40% or more is final sale.",
-      "lioness": "LIONESS is the budget pick for a new going-out dress, and nothing in its US dress range costs more than $115. The Melrose Maxi Dress in Vintage Floral ($70) is the nearest it gets to Selkie's florals, and the Kiss & Tell Mini Dress ($55) is the cheapest way in.\n\nIt's an Australian label that takes its cues from luxury trends, and US orders ship free from its US warehouse. Returns run 30 days and cost nothing if you take credit or an exchange. A refund costs $15.\n\nDon't come here for puff sleeves or tulle. These are minis and maxis in sizes XXS to XXL. If it's the puff sleeve you're after at this price, Selfie Leslie has far more of them.",
-      "witch-bitch-thrift": "Witch Bitch Thrift is the answer if you want Selkie's size range at thrift prices. It's a size-inclusive online thrift shop, half its dresses cost $25 or less, and sizes run all the way to 6X, the same top size as Selkie.\n\nEvery listing starts with the size, so it's quick to scan. Look for the ruffles and balloon sleeves, like a 6X IGIGI floral dress with balloon sleeves ($24). Most of the stock is under $100, and the dearest piece is a $495 Jil Sander dress.\n\nIt's secondhand, so each dress is a one-off, and all sales are final. Check the measurements before you buy, because there's no sending it back. Shipping is worked out at checkout, from New Haven, Connecticut."
+      "lioness": "LIONESS is the budget pick for a new going-out dress, and nothing in its US dress range costs more than $115. The Melrose Maxi Dress in Vintage Floral ($70) is the nearest it gets to Selkie's florals, and the Kiss & Tell Mini Dress ($55) is the cheapest way in.\n\nIt's an Australian label that takes its cues from luxury trends, and US orders ship free from its US warehouse. Returns run 30 days and cost nothing if you take credit or an exchange. A refund costs $15.\n\nDon't come here for puff sleeves or tulle. These are minis and maxis in sizes XXS to XXL. If it's the puff sleeve you're after at this price, Selfie Leslie has far more of them."
     },
     "best_for": {
       "prettylittlething": "petite, tall or plus lengths for $9.99 shipping",
@@ -1005,12 +982,11 @@
       "jens-pirate-booty": "a bohemian maxi priced alongside a Selkie Puff Dress",
       "bardot": "a cocktail dress with a month to send it back",
       "selfie-leslie": "new puff-sleeve dresses for under $100",
-      "lioness": "a going-out dress under $115 with free US shipping",
-      "witch-bitch-thrift": "secondhand dresses up to 6X for about $25"
+      "lioness": "a going-out dress under $115 with free US shipping"
     },
     "closing": {
       "heading": "How to choose",
-      "body": "Start with your budget. Under $100, Selfie Leslie has the most puff sleeves, LIONESS keeps everything under $115, and Witch Bitch Thrift sells secondhand dresses from $12 in sizes to 6X. Around Selkie's puff-dress prices, Elliatt is the nearest match on puff sleeves, while Jen's Pirate Booty swaps them for bohemian maxis. Bardot covers cocktail dresses with a month to return them. If size is the sticking point, PrettyLittleThing has petite and tall lengths, and Ester Manas goes to 4XL in pieces made by hand in Brussels. Want a big-occasion gown? Elliatt's top out at $870, and the Ester Manas Signature dresses go higher."
+      "body": "Start with your budget. Under $100, Selfie Leslie has the most puff sleeves, and LIONESS keeps everything under $115. Around Selkie's puff-dress prices, Elliatt is the nearest match on puff sleeves, while Jen's Pirate Booty swaps them for bohemian maxis. Bardot covers cocktail dresses with a month to return them. If size is the sticking point, PrettyLittleThing has petite and tall lengths, and Ester Manas goes to 4XL in pieces made by hand in Brussels. Want a big-occasion gown? Elliatt's top out at $870, and the Ester Manas Signature dresses go higher."
     },
     "faqs": [
       {

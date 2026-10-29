@@ -10,6 +10,9 @@ things equally, use its best-selling or hero product line as C and say why.
    (Ahrefs `serp-overview`). One or two keywords left too few editorial pages in the pilot.
 2. Drop apartstyle.com, similist.com-style scraped lists with no editorial content, marketplaces,
    and the anchor's own site. Keep editorial lists, forums (Reddit) and publications.
+   Unsigned brand directories (the "disco" directory, discobrands.co) count as evidence, but are
+   **never cited**: no link, name or quote on the page (Ash, 2026-10-29). Evidence lives only in
+   the page file; the template never shows it.
 3. WebFetch each kept page and list every brand it recommends as an alternative to X.
 4. Write `candidates`: one entry per brand with every source URL that names it
    (`kind`: `serp_comention` for editorial pages, `reddit` for Reddit threads). A source counts
@@ -18,6 +21,8 @@ things equally, use its best-selling or hero product line as C and say why.
 4b. Retailer co-stocking (`co_stocked`): if X is sold by a multi-brand retailer (ASOS, Urban
    Outfitters, Nordstrom…), brands in the same retailer's matching category page are candidates
    with that page as evidence.
+4c. Picks are brands or stores selling new stock. A secondhand or thrift shop is never a pick on
+   a brands page (Ash, 2026-10-29).
 5. Add Apart Style pool brands (`public.brand_relationships` for X) as candidates with
    `sources: []`; they need outside evidence of their own to become picks.
 

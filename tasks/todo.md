@@ -239,6 +239,10 @@ in this repo.
 - Search demand ("X vs Y" volume) is **not** outside evidence for a pick (Ash, 2026-10-29).
 - No "unlimited returns" value: `returns_days` stays a number of days, so a store with no
   return limit (Nordstrom) leaves it empty and its page stays noindex (Ash, 2026-10-29).
+- FAQs from Google's "People also ask" are kept (Ash, 2026-10-29).
+- The unsigned disco directory counts as evidence but is never cited on a page (Ash, 2026-10-29).
+- No secondhand or thrift shops as picks on brands pages; Witch Bitch Thrift cut from Selkie
+  (Ash, 2026-10-29).
 
 ## Review
 

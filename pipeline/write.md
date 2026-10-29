@@ -25,7 +25,9 @@ stored, the sentence goes; it is never filled from memory or from what other sit
 
 ## FAQ (2–4 questions)
 - Questions come from real searches only: Ahrefs `keywords-explorer-matching-terms` for the
-  anchor name, filtered to questions. Record each question's source query.
+  anchor name, filtered to questions, or Google's "People also ask" box for the page's keywords
+  when Ahrefs has too few on-topic ones (Ash, 2026-10-29: keep these). Record each question's
+  source query, and `"source": "people_also_ask"` for the second kind.
 - Answers per `voice.md`. Skip any question the stored facts can't answer.
 
 ## Self-review before saving
