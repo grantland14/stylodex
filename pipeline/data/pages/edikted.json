@@ -1,0 +1,1179 @@
+{
+  "subject": "Edikted",
+  "slug": "edikted",
+  "url_prefix": "stores",
+  "category": {
+    "slug": "tops",
+    "name": "Tops",
+    "why": "C is a product type. Tops are Edikted's largest and best-selling line: its tops collection feed holds 3,985 tops (product types Top 1,546, Tank Top 909, T-Shirt 523, Strapless 275, Corset 243, Crop Top 178) against 484 jeans and 769 dresses, and 116 of 289 best-sellers are Top, T-Shirt or Tank Top (edikted.com/collections/best-sellers/products.json, 2026-10-29). The nav lists Jeans then Tops; jeans are the next-largest single type. Like-for-like price item for every pick: its tops collection at regular price."
+  },
+  "serp": [
+    {
+      "keyword": "stores like edikted",
+      "position": 1,
+      "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/",
+      "type": "ai_overview_sitelink",
+      "kept": true
+    },
+    {
+      "keyword": "stores like edikted",
+      "position": 1,
+      "url": "https://www.asos.com/women/a-to-z-of-brands/cat/?cid=1340",
+      "type": "ai_overview_sitelink",
+      "kept": false,
+      "why_dropped": "marketplace A–Z brand index, not an alternatives list"
+    },
+    {
+      "keyword": "stores like edikted",
+      "position": 1,
+      "url": "https://www.instyle.com/stores-like-princess-polly-5346253",
+      "type": "ai_overview_sitelink",
+      "kept": false,
+      "why_dropped": "about Princess Polly, not Edikted; doesn't recommend anything as an alternative to Edikted"
+    },
+    {
+      "keyword": "stores like edikted",
+      "position": 1,
+      "url": "https://www.lemon8-app.com/experience/top-clothing-name-brands?region=us",
+      "type": "ai_overview_sitelink",
+      "kept": false,
+      "why_dropped": "generic 'it girl brands' app page, not about Edikted"
+    },
+    {
+      "keyword": "stores like edikted",
+      "position": 1,
+      "url": "https://iamandco.com/blogs/articles/stores-like-free-people",
+      "type": "ai_overview_sitelink",
+      "kept": false,
+      "why_dropped": "about Free People, not Edikted"
+    },
+    {
+      "keyword": "stores like edikted",
+      "position": 2,
+      "url": "https://edikted.com/?__ptLanguage=en-US",
+      "type": "organic",
+      "kept": false,
+      "why_dropped": "anchor's own site"
+    },
+    {
+      "keyword": "stores like edikted",
+      "position": 4,
+      "url": "https://www.reddit.com/r/FrugalFemaleFashion/comments/gl4u1n/what_some_affordable_shops_that_sell_clothes_like/",
+      "type": "organic",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "stores like edikted",
+      "position": 4,
+      "url": "https://www.reddit.com/r/womensfashion/comments/1kkc92v/fashion_brandssites_for_young_women_with_quality/",
+      "type": "sitelink",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "stores like edikted",
+      "position": 4,
+      "url": "https://www.reddit.com/r/PrincessPolly/comments/1bxe2yb/similar_stores_except_the_quality_matches_the/",
+      "type": "sitelink",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "stores like edikted",
+      "position": 5,
+      "url": "https://www.quora.com/What-are-some-good-online-clothing-stores-I-have-a-cottage-core-soft-style-but-can-t-find-any-good-dresses",
+      "type": "discussion",
+      "kept": false,
+      "why_dropped": "about cottagecore dresses, not Edikted"
+    },
+    {
+      "keyword": "stores like edikted",
+      "position": 6,
+      "url": "https://goodonyou.eco/alternatives-edikted/",
+      "type": "organic",
+      "kept": true
+    },
+    {
+      "keyword": "stores like edikted",
+      "position": 7,
+      "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/",
+      "type": "organic",
+      "kept": true
+    },
+    {
+      "keyword": "stores like edikted",
+      "position": 8,
+      "url": "https://www.russh.com/stores-like-brandy-melville/",
+      "type": "organic",
+      "kept": false,
+      "why_dropped": "about Brandy Melville, not Edikted"
+    },
+    {
+      "keyword": "stores like edikted",
+      "position": 9,
+      "url": "https://www.asos.com/women/a-to-z-of-brands/cat/?cid=1340",
+      "type": "organic",
+      "kept": false,
+      "why_dropped": "marketplace brand index"
+    },
+    {
+      "keyword": "stores like edikted",
+      "position": 10,
+      "url": "https://iamandco.com/blogs/articles/stores-like-free-people",
+      "type": "organic",
+      "kept": false,
+      "why_dropped": "about Free People, not Edikted"
+    },
+    {
+      "keyword": "brands like edikted",
+      "position": 1,
+      "url": "https://www.reddit.com/r/findfashion/comments/1njwkfk/where_do_i_find_clothes_like_this_that_arent_just/",
+      "type": "ai_overview_sitelink",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "brands like edikted",
+      "position": 1,
+      "url": "https://goodonyou.eco/alternatives-edikted/",
+      "type": "ai_overview_sitelink",
+      "kept": true
+    },
+    {
+      "keyword": "brands like edikted",
+      "position": 1,
+      "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/",
+      "type": "ai_overview_sitelink",
+      "kept": true
+    },
+    {
+      "keyword": "brands like edikted",
+      "position": 1,
+      "url": "https://www.instagram.com/reel/DVcaoMZjOmV/",
+      "type": "ai_overview_sitelink",
+      "kept": false,
+      "why_dropped": "Instagram reel, no readable editorial text"
+    },
+    {
+      "keyword": "brands like edikted",
+      "position": 1,
+      "url": "https://www.instagram.com/popular/brands-like-edikted/",
+      "type": "ai_overview_sitelink",
+      "kept": false,
+      "why_dropped": "Instagram tag page, no editorial content"
+    },
+    {
+      "keyword": "brands like edikted",
+      "position": 1,
+      "url": "https://www.similarweb.com/website/edikted.com/competitors/",
+      "type": "ai_overview_sitelink",
+      "kept": false,
+      "why_dropped": "traffic-overlap competitor list (scraped data), not editorial"
+    },
+    {
+      "keyword": "brands like edikted",
+      "position": 2,
+      "url": "https://edikted.com/?__ptLanguage=en-US",
+      "type": "organic",
+      "kept": false,
+      "why_dropped": "anchor's own site"
+    },
+    {
+      "keyword": "brands like edikted",
+      "position": 4,
+      "url": "https://www.reddit.com/r/womensfashion/comments/1kkc92v/fashion_brandssites_for_young_women_with_quality/",
+      "type": "organic",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "brands like edikted",
+      "position": 4,
+      "url": "https://www.reddit.com/r/PrincessPolly/comments/1bxe2yb/similar_stores_except_the_quality_matches_the/",
+      "type": "sitelink",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "brands like edikted",
+      "position": 4,
+      "url": "https://www.reddit.com/r/bitcheswithtaste/comments/1ewsh9k/what_brands_sell_cool_clothing_anymore/",
+      "type": "sitelink",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "brands like edikted",
+      "position": 5,
+      "url": "https://www.tiktok.com/discover/clothing-brands-similar-to-edikted",
+      "type": "organic",
+      "kept": false,
+      "why_dropped": "TikTok discover page, no editorial text"
+    },
+    {
+      "keyword": "brands like edikted",
+      "position": 6,
+      "url": "https://goodonyou.eco/alternatives-edikted/",
+      "type": "organic",
+      "kept": true
+    },
+    {
+      "keyword": "brands like edikted",
+      "position": 7,
+      "url": "https://www.asos.com/women/a-to-z-of-brands/cat/?cid=1340",
+      "type": "organic",
+      "kept": false,
+      "why_dropped": "marketplace brand index"
+    },
+    {
+      "keyword": "brands like edikted",
+      "position": 8,
+      "url": "https://www.instagram.com/popular/edikted-clothing-similar-brands-canada/",
+      "type": "organic",
+      "kept": false,
+      "why_dropped": "Instagram tag page"
+    },
+    {
+      "keyword": "brands like edikted",
+      "position": 9,
+      "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/",
+      "type": "organic",
+      "kept": true
+    },
+    {
+      "keyword": "brands like edikted",
+      "position": 10,
+      "url": "https://www.wardrobeoxygen.com/best-clothing-retailers-women-over-40/",
+      "type": "organic",
+      "kept": false,
+      "why_dropped": "about retailers for women over 40, not Edikted"
+    },
+    {
+      "keyword": "edikted alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview returned no positions (US)"
+    },
+    {
+      "keyword": "similar to edikted",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview returned no positions (US)"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": "ASOS",
+      "url": "https://www.asos.com/women/a-to-z-of-brands/edikted/cat/?cid=51671",
+      "used": false,
+      "why": "ASOS stocks Edikted (WebSearch listing: '442 styles found'), but the page returned HTTP 503 to WebFetch (2026-10-29); its tops category was not read, so no co_stocked candidates."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Jaded London",
+      "slug": "jaded-london",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/"
+        }
+      ]
+    },
+    {
+      "name": "Revice Denim",
+      "slug": "revice-denim",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/"
+        }
+      ]
+    },
+    {
+      "name": "I.AM.GIA",
+      "slug": "i-am-gia",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/"
+        }
+      ]
+    },
+    {
+      "name": "Outkast (Outcast)",
+      "slug": "outcast",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/"
+        }
+      ]
+    },
+    {
+      "name": "Miaou",
+      "slug": "miaou",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/"
+        }
+      ]
+    },
+    {
+      "name": "White Fox Boutique",
+      "slug": "white-fox",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/"
+        }
+      ]
+    },
+    {
+      "name": "Motel Rocks",
+      "slug": "motel-rocks",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/"
+        }
+      ]
+    },
+    {
+      "name": "Garage",
+      "slug": "garage",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/"
+        }
+      ]
+    },
+    {
+      "name": "Dolls Kill",
+      "slug": "dollskill",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/"
+        }
+      ]
+    },
+    {
+      "name": "The Kript",
+      "slug": "the-kript",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/"
+        }
+      ]
+    },
+    {
+      "name": "Princess Polly",
+      "slug": "princess-polly",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/"
+        }
+      ]
+    },
+    {
+      "name": "Lioness",
+      "slug": "lioness",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/"
+        }
+      ]
+    },
+    {
+      "name": "Urban Outfitters",
+      "slug": "urban-outfitters",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/"
+        }
+      ]
+    },
+    {
+      "name": "Peppermayo",
+      "slug": "peppermayo",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/"
+        }
+      ]
+    },
+    {
+      "name": "Tiger Mist",
+      "slug": "tiger-mist",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/"
+        }
+      ]
+    },
+    {
+      "name": "Afends",
+      "slug": "afends",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-edikted/"
+        }
+      ]
+    },
+    {
+      "name": "CHNGE",
+      "slug": "chnge",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-edikted/"
+        }
+      ]
+    },
+    {
+      "name": "Frankie Collective",
+      "slug": "frankie-collective",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-edikted/"
+        }
+      ]
+    },
+    {
+      "name": "Neu Nomads",
+      "slug": "neu-nomads",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-edikted/"
+        }
+      ]
+    },
+    {
+      "name": "Plant Faced Clothing",
+      "slug": "plant-faced-clothing",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-edikted/"
+        }
+      ]
+    },
+    {
+      "name": "Triarchy",
+      "slug": "triarchy",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-edikted/"
+        }
+      ]
+    },
+    {
+      "name": "Crooks & Castles",
+      "slug": "crooks-castles",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Trapstar",
+      "slug": "trapstar",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Pyrex Vision",
+      "slug": "pyrex-vision",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Undefeated",
+      "slug": "undefeated",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Nasty Gal",
+      "slug": "nasty-gal",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "REIGN",
+      "slug": "reign",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Restless Cult",
+      "slug": "restless-cult",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Joyrich",
+      "slug": "joyrich",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Mishka",
+      "slug": "mishka",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Clandestine Industries",
+      "slug": "clandestine-industries",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Nicopanda",
+      "slug": "nicopanda",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Meshki",
+      "slug": "meshki",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Ksubi",
+      "slug": "ksubi",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Torrid",
+      "slug": "torrid",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Lazy Oaf",
+      "slug": "lazy-oaf",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Diesel",
+      "slug": "diesel",
+      "in_apart_pool": true,
+      "sources": []
+    }
+  ],
+  "picks": [
+    {
+      "slug": "princess-polly",
+      "rank": 1,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 29,
+        "max": 110,
+        "min_usd": 29,
+        "max_usd": 110,
+        "fx_date": null,
+        "item_count": 913
+      },
+      "price_relation": null,
+      "reason": "Princess Polly's full-price tops run $29–$110, led by Daily Define tube and halter tops at $29, in US 0–12 with some Curve styles to US 20, free US shipping over $50 and 30-day refunds.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/",
+          "note": "#11: \"One of the most popular brands for cute and trendy clothing\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "white-fox",
+      "rank": 2,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 29.99,
+        "max": 99.99,
+        "min_usd": 29.99,
+        "max_usd": 99.99,
+        "fx_date": null,
+        "item_count": 820
+      },
+      "price_relation": null,
+      "reason": "White Fox lists 820 full-price tops at $29.99–$99.99, mostly tanks and halters, in sizes from 3XS to XL, dispatched from the US; returns are store credit within 30 days of ordering.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/",
+          "note": "#6: \"a popular brand that offers a wide range of trendy clothing for all occasions\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "lioness",
+      "rank": 3,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 30,
+        "max": 90,
+        "min_usd": 30,
+        "max_usd": 90,
+        "fx_date": null,
+        "item_count": 223
+      },
+      "price_relation": null,
+      "reason": "Lioness's US store sells full-price camis and tops at $30–$90 in XXS–XXL, with free standard shipping from its US warehouse and 30-day returns (free for store credit).",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/",
+          "note": "#12 (links us.lionessfashion.com): \"a fashion-forward brand that encapsulates edgy, urban, and trendy fashion\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "revice-denim",
+      "rank": 4,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 32,
+        "max": 48,
+        "min_usd": 32,
+        "max_usd": 48,
+        "fx_date": null,
+        "item_count": 24
+      },
+      "price_relation": null,
+      "reason": "Revice Denim's full-price tops are cotton-stretch tanks at $32–$48 (Starlet Tank $32) in XS–XL, shipped flat $7.88 in the US or free over $100, with 30-day exchange or store credit.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/",
+          "note": "#2: \"a great one-stop shop for alternative clothing and trendy pieces\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "outcast",
+      "rank": 5,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 35,
+        "max": 105,
+        "min_usd": 35,
+        "max_usd": 105,
+        "fx_date": null,
+        "item_count": 324
+      },
+      "price_relation": null,
+      "reason": "Outcast's tops are almost all crop tops and corsets (300 and 118 of 456), full price $35–$105 in XXS–XL, free US shipping over $130; US returns are store credit within 30 days.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/",
+          "note": "#4 (as 'Outkast', links outcast-clothing.us): \"an online fashion brand delivering the last fashion with a rebellious twist\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "motel-rocks",
+      "rank": 6,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 36,
+        "max": 98,
+        "min_usd": 36,
+        "max_usd": 98,
+        "fx_date": null,
+        "item_count": 454
+      },
+      "price_relation": null,
+      "reason": "Motel Rocks' largest tops line is halternecks; full-price tops run $36–$98 in XXS–XXL, US shipping is free over $95 and returns get 30 days.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/",
+          "note": "#7: \"captures the essence of modern streetwear and Y2K clothing brands\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "the-kript",
+      "rank": 7,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 36,
+        "max": 89,
+        "min_usd": 36,
+        "max_usd": 89,
+        "fx_date": null,
+        "item_count": 21
+      },
+      "price_relation": null,
+      "reason": "The Kript sells corset and graphic tops at $36–$89 (Elara Corset $62) in XXS–XL; US orders ship duty-paid from Montreal, free over $150, with 14-day returns for refund or credit.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/",
+          "note": "#10 (links thekriptstore.com): \"This online clothing store for alternative fashion\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "peppermayo",
+      "rank": 8,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 45,
+        "max": 98,
+        "min_usd": 45,
+        "max_usd": 98,
+        "fx_date": null,
+        "item_count": 313
+      },
+      "price_relation": null,
+      "reason": "Peppermayo's US store lists 313 full-price tops at $45–$98 in US 0–18, duties included, free standard shipping over $99; returns are 21 days for credit, 14 for a refund.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/",
+          "note": "#14 (links us.peppermayo.com): \"most known for its feminine-forward and chic couture clothing\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "i-am-gia",
+      "rank": 9,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 49,
+        "max": 179,
+        "min_usd": 49,
+        "max_usd": 179,
+        "fx_date": null,
+        "item_count": 67
+      },
+      "price_relation": null,
+      "reason": "I.AM.GIA's printed Blare Boob Tube tops start at $49 and its full-price tops reach $179 for a latex corset, in XXS–XL, shipped from a US warehouse with 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/",
+          "note": "#3: \"one of the top streetwear brands out there\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "tiger-mist",
+      "rank": 10,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 49,
+        "max": 105,
+        "min_usd": 49,
+        "max_usd": 105,
+        "fx_date": null,
+        "item_count": 56
+      },
+      "price_relation": null,
+      "reason": "Tiger Mist sells baby tees from $49 and bandage tops to $105 at full price in XXS–XL, with free US shipping over $75 and 30-day returns (free label for store credit, $10 off refunds).",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/",
+          "note": "#15: \"a trendy fashion brand focusing on chic and feminine clothing with a modern twist\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "miaou",
+      "rank": 11,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 78,
+        "max": 395,
+        "min_usd": 78,
+        "max_usd": 395,
+        "fx_date": null,
+        "item_count": 72
+      },
+      "price_relation": null,
+      "reason": "Miaou's tops are led by corsets, full price $78–$395, with some styles in 1XL–4XL; US shipping is free over $250 and returns are 14-day store credit or exchange with a $9.95 fee.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/",
+          "note": "#5: \"An elevated yet trendy fashion-forward brand\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "dollskill",
+      "rank": 12,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 29,
+        "max": 79,
+        "min_usd": 29,
+        "max_usd": 79,
+        "fx_date": null,
+        "item_count": 9
+      },
+      "price_relation": null,
+      "reason": "Dolls Kill is a multi-brand store selling its own labels and others; full-price tops in stock run $29–$79, women's sizes go to 3X, US shipping is free over $50, returns are gift cards within 30 days.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-edikted-for-trendy-y2k-clothing/",
+          "note": "#9: \"an online clothing store that delivers unique and trendy fashion\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "frankie-collective",
+      "rank": 13,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 30,
+        "max": 185,
+        "min_usd": 30,
+        "max_usd": 185,
+        "fx_date": null,
+        "item_count": 407
+      },
+      "price_relation": null,
+      "reason": "Frankie Collective sells one-of-one vintage and reworked tops, full price $30–$185 (Rework Cycling Tank $30, cut from a vintage cycling jersey), shipped from a US studio; returns are 15-day store credit.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-edikted/",
+          "note": "#3: \"dedicated to innovating women's streetwear while setting a standard for responsibility\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "afends",
+      "rank": 14,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "AUD",
+        "min": 49.99,
+        "max": 99.99,
+        "min_usd": 35.16,
+        "max_usd": 70.32,
+        "fx_date": "2026-10-28",
+        "item_count": 97
+      },
+      "price_relation": null,
+      "reason": "Afends, a Byron Bay hemp and organic label, sells rib halters and baby tees at AUD 49.99–99.99 (about $35–$70), ships to the US free over $150 and refunds full-price items within 30 days.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-edikted/",
+          "note": "#1: \"a more responsible brand leading the way in hemp fashion\" (Born in Byron Bay)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "jaded-london",
+      "why": "unverified: jadedldn.com returned HTTP 403 to every automated read (curl tops feed 403, 2026-10-29; earlier runs the same). 1 source (worthybornedit #1). Human check queued on the jaded-london page."
+    },
+    {
+      "slug": "garage",
+      "why": "unverified: garageclothing.com/us/ returned HTTP 403 to WebFetch and to the tops feed (2026-10-29). 1 source (worthybornedit #8). Human check."
+    },
+    {
+      "slug": "urban-outfitters",
+      "why": "multi-brand department store; its brand file is unverified (403 on earlier runs) and /collections/tops is not a Shopify feed (404). 1 source (worthybornedit #13). Not re-checked further."
+    },
+    {
+      "slug": "triarchy",
+      "why": "off_category for tops: the whole-store feed holds 3 tops among 34 products (mostly jeans; denim shirt $370). Sells jeans, not tops."
+    },
+    {
+      "slug": "plant-faced-clothing",
+      "why": "only 2 regular-price tops ($14 crop tops) among 113 tops/tees in its all-products feed, the rest marked down; mostly slogan merch, tees, hats and socks. No usable regular tops price."
+    },
+    {
+      "slug": "neu-nomads",
+      "why": "verified live (TENCEL and poplin blouses $78–$295, 38 regular-price), but its line is loungewear and travel blouses; no specific shared reason with Edikted's tanks, tubes and corsets beyond sustainability."
+    },
+    {
+      "slug": "chnge",
+      "why": "live (chnge.com, Brooklyn; activist slogan tees $39–$59 and caps), not Shopify, so regular vs sale price not separable; slogan tees share no specific reason with Edikted's tops. Not added."
+    },
+    {
+      "slug": "crooks-castles",
+      "why": "Apart Style pool only; no outside source names it as an alternative to Edikted."
+    },
+    {
+      "slug": "trapstar",
+      "why": "Apart Style pool only; no outside source names it as an alternative to Edikted."
+    },
+    {
+      "slug": "pyrex-vision",
+      "why": "Apart Style pool only; no outside source names it as an alternative to Edikted."
+    },
+    {
+      "slug": "undefeated",
+      "why": "Apart Style pool only; no outside source names it as an alternative to Edikted."
+    },
+    {
+      "slug": "nasty-gal",
+      "why": "Apart Style pool only; no outside source names it as an alternative to Edikted."
+    },
+    {
+      "slug": "reign",
+      "why": "Apart Style pool only; no outside source names it as an alternative to Edikted."
+    },
+    {
+      "slug": "restless-cult",
+      "why": "Apart Style pool only; no outside source names it as an alternative to Edikted."
+    },
+    {
+      "slug": "joyrich",
+      "why": "Apart Style pool only; no outside source names it as an alternative to Edikted."
+    },
+    {
+      "slug": "mishka",
+      "why": "Apart Style pool only; no outside source names it as an alternative to Edikted."
+    },
+    {
+      "slug": "clandestine-industries",
+      "why": "Apart Style pool only; no outside source names it as an alternative to Edikted."
+    },
+    {
+      "slug": "nicopanda",
+      "why": "Apart Style pool only; no outside source names it as an alternative to Edikted."
+    },
+    {
+      "slug": "meshki",
+      "why": "Apart Style pool only; no outside source names it as an alternative to Edikted."
+    },
+    {
+      "slug": "ksubi",
+      "why": "Apart Style pool only; no outside source names it as an alternative to Edikted."
+    },
+    {
+      "slug": "torrid",
+      "why": "Apart Style pool only; no outside source names it as an alternative to Edikted."
+    },
+    {
+      "slug": "lazy-oaf",
+      "why": "Apart Style pool only; no outside source names it as an alternative to Edikted."
+    },
+    {
+      "slug": "diesel",
+      "why": "Apart Style pool only; no outside source names it as an alternative to Edikted."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "anchor price for tops (regular price, USD)",
+      "url": "https://edikted.com/collections/tops/products.json?limit=250",
+      "check": "After the '50% OFF SITEWIDE' sale ends, record min and max of tops with no compare_at_price above price, and the item count. All 3,985 tops read on 2026-10-29 were discounted. This is the only data gap blocking indexing besides the image."
+    },
+    {
+      "fact": "anchor image",
+      "url": "https://edikted.com/",
+      "check": "images.json has edikted as blocked (HTTP 429, 2026-10-29). Re-run pipeline/images.mjs later; a 429 is rate limiting, not a refusal."
+    },
+    {
+      "fact": "Dolls Kill tops price row",
+      "url": "https://www.dollskill.com/collections/tops/products.json?limit=250&sort_by=created-descending",
+      "check": "Only 9 regular-price, in-stock tops in the newest 1,000 products ($29–$79). Confirm the range looks right on the site, or drop the chip."
+    },
+    {
+      "fact": "Garage US store",
+      "url": "https://www.garageclothing.com/us/",
+      "check": "403 to every automated read. If live and selling tops to the US, it is a candidate with 1 source (worthybornedit #8)."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": {
+    "source": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+    "date": "2026-10-28",
+    "per_eur": {
+      "USD": 1.1133,
+      "AUD": 1.583
+    },
+    "usd_per_aud": 0.703285
+  },
+  "notes": [
+    "Evidence: two readable editorial pages for the four keywords: worthybornedit '15 Stores Like Edikted for Trendy Y2K Clothing' (Mar 2025, style list) and Good On You '6 More Sustainable Alternatives to Edikted' (Feb 2023, sustainability list; rates Edikted 'We Avoid'). 'edikted alternatives' and 'similar to edikted' have no Ahrefs SERP data. WebSearch found no further editorial list (apartstyle.com excluded by rule).",
+    "Every pick has exactly 1 independent source, so source count can't rank. The anchor has no regular tops price (sitewide sale), so price closeness can't either, and every price_relation is null. Ranking used: worthybornedit (same-style list) before Good On You (sustainability list); within each, lowest full-price top first, then more priced items. Exception: Dolls Kill is placed last of the style group because its price row rests on 9 items.",
+    "Prices: Shopify /collections/tops/products.json (womens-tops for Afends; Peppermayo and Lioness from their US stores in USD). Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag. Non-top items (jackets, bottoms, dresses, sets, knitwear, hoodies, men's) dropped by title/product type. Feeds over 4,000 products (Princess Polly, Dolls Kill, Edikted) read as samples; see each brand's price note.",
+    "Corrections merged into shared brand files: edikted known_for (was 'Gen-Z Online Fashion Brand', read badly in the title), us_stores true and founded_year 2020; the-kript website_url thekript.com -> www.thekriptstore.com and status unverified -> verified; lioness ships_to adds US (us.lionessfashion.com ships from a US warehouse).",
+    "New brand files: revice-denim, i-am-gia, outcast, white-fox, princess-polly, peppermayo, tiger-mist. frankie-collective existed (another run) and got a tops price only."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "Your Edikted cart is full of baby tees and corset tops, and you'd like to see who else makes them before you check out. Maybe you need a size past XL, or a return that doesn't cost you a fee. Every store here sells the same kind of tops to the US. The list starts with the ones whose full-price tops cost least, then ends on a vintage store and an organic hemp label.",
+    "bodies": {
+      "princess-polly": "Princess Polly is the closest match for Edikted's tube and halter tops at the low end. Start with the Daily Define Tube Top ($29), and know that full-price tops stop at $110.\n\nDaily Define is the name to look for. It's the brand's own lower-impact fabric, mostly reclaimed polyamide, and it runs through its cheapest tanks and tubes. Sizes are in US numbers, 0 to 12, and some styles come in a Curve version up to 20. Edikted's tops don't go that far.\n\nUS shipping is free over $50, and you get 30 days to send things back for a refund as well as an exchange. If you'd rather try before you buy, it has stores in Scottsdale, Santa Clara, Boston and Columbus.",
+      "white-fox": "White Fox is the one for plain tanks and halters in lots of colors. The Test Drive Halter Top ($29.99) and the Core Strengths Tank Top ($29.99) sit at the bottom of a range that tops out just under $100.\n\nIt's an Australian label, but US orders go out on US Eastern time, usually the same day if you order before noon on a weekday. Sizes start at 3XS on some tops, so it's worth a look if you need something smaller than Edikted's XS. They stop at XL, though.\n\nRead the returns first. It's store credit only, and the 30 days start when you place the order, so a slow delivery eats into them. If you want a refund as an option, Princess Polly is the safer bet.",
+      "lioness": "Lioness suits you if your Edikted order is mostly camis. The Kaia Cami ($30) is the cheapest way in, and the Bare Cami ($40) comes in viscose. Full-price tops stay between $30 and $90.\n\nIt's an Australian label with a US warehouse, and standard shipping from there is free with no minimum, which nobody else here offers. Some pieces ship from Australia instead. Those cost $8 to send unless that part of your order passes $95, and a mixed order arrives in two parcels.\n\nSizes run XXS to XXL, a step past Edikted's tops. You get 30 days to return. Pick store credit and the return is free, but a refund costs you $15.",
+      "revice-denim": "Revice Denim is a jeans label first, so its tanks are the thing to add to a pair of its jeans. The Starlet Tank ($32) is a cotton-stretch basic in a long run of colors, and no full-price top goes past $48.\n\nThat's the tightest price range on this page, and the smallest choice. You'll find a couple of dozen tanks and tees, enough for a matching top and not much more. For variety, White Fox or Outcast carry far more.\n\nUS shipping is a flat $7.88, or free over $100. Returns are exchange or store credit within 30 days, and anything marked 40% off or more is final sale.",
+      "outcast": "Outcast is the store to try for Edikted's crop-top-and-corset mix, since those two make up nearly all of its tops. Start with a slogan baby tee like the DJ Baby Tee ($35). Corset tops start at $50, and the range goes up to $105.\n\nSizes run XXS to XL. Free shipping needs $130, which is a lot higher than Princess Polly's $50, so it makes more sense for a full haul than a single top.\n\nThe catch is returns. You get 30 days, but US orders come back as store credit, minus the return postage. There's no refund for a change of mind or the wrong size. If you're between sizes, The Kript and Princess Polly both offer refunds.",
+      "motel-rocks": "Motel Rocks makes more halternecks than any other kind of top, so it's where to go for printed halters. The Kindos Halter Top ($36) comes plain or in micro polka dots, and the Raceline Halterneck Top ($41 to $45) comes in rayon jersey. For something sheer to layer, the Barlyn Cami Top ($39) comes in pink mesh.\n\nNearly every top comes in XXS to XXL, one size more than Edikted's tops usually reach. Full-price tops run from $36 to $98, and US shipping is free over $95.\n\nIt designs everything in-house in London. Returns get 30 days. If you only want a plain halter and color matters more than print, White Fox's start lower at $29.99.",
+      "the-kript": "The Kript is where to find a corset top under $100. The Elara Corset ($62) is the first one to look at, and the Michelle Corset ($89) is the priciest full-price top it has, with the range starting at $36. The whole line leans Y2K, with graphic tops and low-rise denim to match.\n\nUS orders ship from Montreal, but duties are already paid, so nothing extra is due at the door. Standard shipping is $8.99, or free over $150.\n\nIts tops edit is small, a few dozen pieces, and the return window is one of the shortest here at 14 days. But you can choose a refund, which Outcast and White Fox don't allow.",
+      "peppermayo": "Peppermayo is the one for size range. Most of its tops come in US 0 to 18, further than Edikted's tops go. Start with the Hollywood Baby Tank Top ($45), in cream, white or chocolate. It also makes halter, cami and bustier tops, so the going-out side of Edikted is covered in bigger sizes too.\n\nFull-price tops run from $45 to $98, so it's a step up from Princess Polly or White Fox. US orders arrive with duties paid, and standard shipping is free over $99.\n\nWatch the return clock. It's 21 days for store credit or an exchange, only 14 for a refund, and sale pieces can't go back at all.",
+      "i-am-gia": "I.AM.GIA is the pick for printed tube tops. The Blare Boob Tube ($49) comes in prints like aqua zebra and a denim trompe l'oeil. It's the easy way into a range that climbs to $179 for the Buffy Latex Corset. For a printed tank instead, the T-Rex Tank ($55) is the one.\n\nUS orders ship from a US warehouse, and the brand covers duties and tariffs on them. Sizes run XXS to XL.\n\nReturns are fair. You get 30 days, store credit comes with a free label, and a refund costs $10. If you like the latex look but not the price, Miaou's corsets cost more again, so I.AM.GIA is the middle ground.",
+      "tiger-mist": "Tiger Mist covers the dressier end, with bandage tops like the Brigit Bandage Top ($75) next to rayon baby tees like the Bella Baby Tee ($49). The Elisa Corset Top ($69) in blue gingham sits between them. Full-price tops run from $49 to $105.\n\nFree US shipping starts at $75, lower than most stores here. Returns work the same way as I.AM.GIA's: 30 days, a free label if you take store credit and $10 off a refund. Sizes run XXS to XL.\n\nThe catch is the starting price. Its cheapest top is $49, against $29 at Princess Polly and $29.99 at White Fox, so come for the bandage and corset pieces.",
+      "miaou": "Miaou is the splurge, a French-born designer label inspired by the Southern California coast, and corsets are its biggest line of tops. The Jinx Tank ($88), in compressed cotton rib with stud details, is the cheapest way in. The Libra Corset starts at $195, and the latex version is $395. The Stella Tank ($135) is the step up from the Jinx.\n\nSome tops also come in 1XL to 4XL, a range most stores here don't touch.\n\nBuy carefully. Returns are store credit or exchange only, within 14 days of ordering, with a $9.95 fee. Free US shipping needs $250. If you want the corset shape for less, The Kript's start at $62.",
+      "dollskill": "Dolls Kill is the widest net here for an edgier top. It's a store of many labels, with its own, like Current Mood and Club Exx, hanging next to Von Dutch and Ed Hardy. The Pastel Pop Criss-Cross Top ($29) and the Moto Dickini Top ($79) sit at either end of its full-price tops.\n\nWomen's sizes go up to 3X, which is the reason to look here if Edikted's XL is too small. US shipping is free over $50.\n\nReturns come back as a gift card, never a refund, within 30 days. That's fine if you shop it often. If not, Princess Polly gives you your money back.",
+      "frankie-collective": "Frankie Collective is the secondhand route to the same baby tees and tanks. Everything is vintage or reworked, like the Rework Cycling Tank ($30), cropped from a vintage cycling jersey. Reworks include corsets too, like the Rework Indianapolis Colts NFL Corset ($89). Full-price tops run from $30 to $185.\n\nThe useful thing to know is that most pieces exist once, in one size. Filter by your size first, or you'll fall for something that only comes in an L. Across the store, sizes run from XS to 2XL.\n\nIt ships from a US studio. Returns are store credit only, requested within 15 days of delivery, so be sure before you buy.",
+      "afends": "Afends, a Byron Bay label, is the hemp-and-organic answer to Edikted's tanks and baby tees. The Basis Rib Halter (AUD 49.99, about $35) and the Carmen Baby Tee (AUD 69.99, about $49) are the two to start with. Women's tops stop at about $70.\n\nPrices are in Australian dollars, so add the conversion and the shipping before you compare. US shipping is free over $150 but $17.50 below that, and it takes 12 business days or more.\n\nIts XS to XL equals US 2 to 10, so check the chart if you're usually a US 12. You get 30 days to return, with refunds only on full-price pieces, so treat a sale buy as final."
+    },
+    "best_for": {
+      "princess-polly": "tube and halter tops under $30, some up to US 20",
+      "white-fox": "plain tanks and halters, from a 3XS",
+      "lioness": "camis with free US shipping and no minimum",
+      "revice-denim": "a cheap tank to wear with Revice jeans",
+      "outcast": "a full haul of crop tops and corsets",
+      "motel-rocks": "printed halter tops from XXS to XXL",
+      "the-kript": "a corset top under $100 with duties paid",
+      "peppermayo": "baby tanks in US sizes up to 18",
+      "i-am-gia": "printed tube tops shipped from a US warehouse",
+      "tiger-mist": "bandage tops with free US shipping from $75",
+      "miaou": "a designer corset, or tops up to 4XL",
+      "dollskill": "edgier tops across many labels, in sizes up to 3X",
+      "frankie-collective": "one-of-one vintage tanks instead of new clothes",
+      "afends": "organic rib halters and baby tees from Byron Bay"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with your size. If you need more than XL, Peppermayo goes to US 18, Princess Polly's Curve styles reach 20 and some Miaou tops go to 4XL.\n\nThen set a budget. For tanks and tubes under $50, look at Princess Polly, White Fox and Lioness first. For a corset, The Kript keeps it under $100, while I.AM.GIA and Miaou go up to latex.\n\nReturns split the list too. Princess Polly, Lioness, The Kript, I.AM.GIA and Tiger Mist all offer refunds. White Fox, Outcast, Revice Denim, Miaou, Dolls Kill and Frankie Collective give store credit or a gift card only, so buy there when you're sure of the size. And if you'd rather skip new clothes, Frankie Collective is the swap."
+    },
+    "faqs": [
+      {
+        "q": "Where is Edikted based?",
+        "a": "Los Angeles, California. It's an online women's fashion brand that takes its cues from street style and runway trends, and it also runs its own stores.",
+        "source_query": "where is edikted based"
+      },
+      {
+        "q": "How many Edikted stores are there?",
+        "a": "21 in the US, across 12 states, including SoHo and Fifth Avenue in New York, The Grove in Los Angeles and Mall of America. There are also two in the UK and one in Bangkok.",
+        "source_query": "how many edikted stores are there"
+      },
+      {
+        "q": "When was Edikted founded?",
+        "a": "In 2020, as an online store, by Dedy Shwartzenberg and Zvika Alon. Its first shop opened in New York in 2023.",
+        "source_query": "when was edikted founded"
+      },
+      {
+        "q": "What is Edikted's return policy?",
+        "a": "You get 30 days, and a $4.90 processing fee comes off your refund. Final Sale pieces can't go back. US shipping is free on orders over $80.",
+        "source_query": "what is edikted return policy"
+      }
+    ]
+  }
+}
