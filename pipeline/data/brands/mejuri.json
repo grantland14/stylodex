@@ -1,0 +1,44 @@
+{
+  "name": "Mejuri",
+  "website_url": "https://mejuri.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Fine Jewelry for Every Day",
+  "founded_year": 2015,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "charms",
+      "currency": "USD",
+      "min": 88,
+      "max": 398,
+      "min_usd": 88,
+      "max_usd": 398,
+      "fx_date": null,
+      "item_count": 39,
+      "source_url": "https://mejuri.com/collections/charms",
+      "checked_at": "2026-10-29",
+      "note": "Charms collection (WebFetch; 39 of 39 products shown), no crossed-out prices ('Bundle + Save 10%' is a promotion). Organic Pearl Charm $88 to Tag / Disc Pavé Diamond Engravable Charm $398. Puzzle Sliding Charm $128 (14 stones), Birthstone Charm (10k) from $118, Cursive Letter Charm (14k) $148."
+    }
+  ],
+  "sells_categories": [
+    "charms"
+  ],
+  "sources": [
+    "https://mejuri.com/collections/charms",
+    "https://mejuri.com/faq/return-exchanges",
+    "https://mejuri.com/faq/order-shipping",
+    "https://mejuri.com/company/about-us"
+  ],
+  "notes": [
+    "About: 'creating jewelry for every budget since 2015'. Shipping: US standard free on $75+, $8 below, express $15; also ships to the UK, Germany and Europe, Australia, Canada. Returns: 30-day return policy; exchanges must be initiated within it; bundles cannot be exchanged."
+  ],
+  "checked_at": "2026-10-29"
+}

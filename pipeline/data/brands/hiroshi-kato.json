@@ -1,0 +1,54 @@
+{
+  "slug": "hiroshi-kato",
+  "name": "Hiroshi Kato",
+  "website_url": "https://kato-brand.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "4-Way Stretch Selvedge Jeans",
+  "hq_country": "US",
+  "size_range": "Waists 29–40",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 21,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 228.0,
+      "max": 368.0,
+      "min_usd": 228.0,
+      "max_usd": 368.0,
+      "fx_date": null,
+      "item_count": 81,
+      "source_url": "https://kato-brand.com/collections/jeans/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "jeans collection products.json, 81 products (all type Jeans), none sold out or marked down: 81 regular-price jeans $228–$368. Low: The Pen Slim Indigo Raw 10.5oz Selvedge and The Needle Skinny Indigo Raw 10.5oz Selvedge ($228); The Hammer Straight Brown Raw 10.5oz ($238); median $258; high: The Barrel Classic Straight Monster Slub Indigo Tina 17oz Selvedge ($368)."
+    }
+  ],
+  "production_model": "Made in Los Angeles from Japanese denim",
+  "sources": [
+    "https://kato-brand.com/",
+    "https://kato-brand.com/meta.json",
+    "https://kato-brand.com/collections/jeans/products.json?limit=250",
+    "https://kato-brand.com/pages/shipping-policy",
+    "https://kato-brand.com/pages/return",
+    "https://kato-brand.com/pages/about-us",
+    "https://kato-brand.com/pages/american-made"
+  ],
+  "notes": [
+    "Stored website hiroshikato.com is a parked domain (redirects to /lander); the official store is kato-brand.com ('HIROSHI KATO | Official Online Store'), store city Gardena, CA (meta.json).",
+    "Homepage meta: 'the signature 4-Way Stretch Selvedge Jeans, DENIT® and more'. American Made page: 'we only cut the highest quality imported Japanese denim on American soil in Los Angeles, California' (https://kato-brand.com/pages/american-made). About: brand 'born in Japan'.",
+    "Shipping: free ground shipping to the continental US; international available with fees at checkout (https://kato-brand.com/pages/shipping-policy).",
+    "Returns: within 21 days from ship date, unworn, unhemmed; international orders not eligible for returns or exchanges; return shipping deducted (https://kato-brand.com/pages/return).",
+    "Jeans waists (products.json): 29–34, 36, 38, 40 on nearly all; 28 on 12 styles."
+  ],
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "jeans"
+  ]
+}

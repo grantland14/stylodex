@@ -24,10 +24,24 @@
       "source_url": "https://www.rickowens.eu/en-us/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "US market /en-us/products.json (USD), type JEWELERY, 85 available, no markdowns: Hollywood Ring (brass) $250 to Jumbo Orb Pendant (palladio copper and hematite) $2,385; Trunk Earring (brass) $270, Pentagram Earring (palladio brass) $435."
+    },
+    {
+      "category": "pants",
+      "currency": "USD",
+      "min": 665.0,
+      "max": 5895.0,
+      "min_usd": 665.0,
+      "max_usd": 5895.0,
+      "fx_date": null,
+      "item_count": 164,
+      "source_url": "https://www.rickowens.eu/en-us/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US market /en-us/products.json (USD), type BOTTOMS, full-length pants and jeans only (shorts, pods, swingers, skirts, boxers, cutoffs excluded by title and description), 164 available with no markdown: Bias Pants $665 to Joris Pants $5,895. DRKSHDW Berlin Drawstring $810, DRKSHDW Geth Jeans in canvas $880, Bela Pants $850, Geth Jeans in waxy lamb leather $3,050."
     }
   ],
   "sells_categories": [
-    "jewelry"
+    "jewelry",
+    "pants"
   ],
   "sources": [
     "https://www.rickowens.eu/en-us/products.json?limit=250",
@@ -39,7 +53,9 @@
   "notes": [
     "Footer: OwensCorp Italia SPA, Via M. Ponza 4, Torino, Italy. known_for wording from discobrands (draped monochrome tailoring), not the brand's own copy: human check.",
     "US stores: South Coast Plaza Costa Mesa, 819 N. La Brea LA, Fontainebleau Las Vegas, 131 NE 41st St Miami, 30 Howard St New York.",
-    "Shipping to US €30 by DHL Express, 2-3 working days; prices include duties for most states, but customers in CA, NJ, FL, MD, GA, PA, IL, NY, MA, NC, OH, VA pay import duties on top; US customs needs an SSN or CBP number. Returns: exchange or refund within 10 days; outside Europe a flat €42 plus return shipping is deducted."
+    "Shipping to US €30 by DHL Express, 2-3 working days; prices include duties for most states, but customers in CA, NJ, FL, MD, GA, PA, IL, NY, MA, NC, OH, VA pay import duties on top; US customs needs an SSN or CBP number. Returns: exchange or refund within 10 days; outside Europe a flat €42 plus return shipping is deducted.",
+    "US store feed (1,657 products, 2026-10-29): BOTTOMS is the largest product type (312), ahead of SHOES (270) and T-SHIRTS / SHIRTS (238) (https://www.rickowens.eu/en-us/products.json?limit=250).",
+    "Cheapest regular-price items in the US store feed: Stickers e Magnet Pack and Toothpaste 65ml at $65; in clothing, the Bandana 53x53 at $185 and the Jumbo SS T at $194 (https://www.rickowens.eu/en-us/products.json?limit=250)."
   ],
   "checked_at": "2026-10-29",
   "slug": "rick-owens"

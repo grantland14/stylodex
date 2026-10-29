@@ -1,0 +1,16 @@
+{
+  "slug": "hello-molly",
+  "name": "Hello Molly",
+  "website_url": "https://www.hellomolly.com",
+  "status": "unverified",
+  "kind": "brand",
+  "prices": [],
+  "sells_categories": [],
+  "sources": [
+    "https://www.hellomolly.com/collections/dresses"
+  ],
+  "notes": [
+    "2026-10-29 (stores-like-lucy-in-the-sky run): www.hellomolly.com returns HTTP 429 to curl (StylodexBot UA) and to WebFetch; /collections/dresses/products.json returns 403. Not verified, no workaround; website_url not confirmed."
+  ],
+  "checked_at": "2026-10-29"
+}

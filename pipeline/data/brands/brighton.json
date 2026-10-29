@@ -1,0 +1,48 @@
+{
+  "name": "Brighton",
+  "website_url": "https://www.brighton.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Silver Jewelry and Leather Handbags",
+  "hq_country": "US",
+  "founded_year": 1972,
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": true,
+  "free_shipping_min_usd": 95,
+  "returns_days": 60,
+  "prices": [
+    {
+      "category": "charms",
+      "currency": "USD",
+      "min": 6,
+      "max": 68,
+      "min_usd": 6,
+      "max_usd": 68,
+      "fx_date": null,
+      "item_count": 624,
+      "source_url": "https://www.brighton.com/collections/charms/products.json",
+      "checked_at": "2026-10-29",
+      "note": "products.json (USD) charms collection, 815 products; charm types only (Charms, Beads, Amulets, Minis, Spacers; keepsake bracelets, holders and gift sets excluded): 624 regular-price available, 0 marked down, 31 sold out. Crosshatch Mini Bead $6 to Amyah Heart Amulet $68; median $28. Carry You Charm $22 (topped with a tiny dangling crown charm), Initially Yours Charm $18."
+    }
+  ],
+  "sells_categories": [
+    "charms"
+  ],
+  "sources": [
+    "https://www.brighton.com/collections/charms/products.json",
+    "https://www.brighton.com/meta.json",
+    "https://www.brighton.com/pages/shipping",
+    "https://www.brighton.com/pages/returns",
+    "https://www.brighton.com/pages/about-brighton",
+    "https://www.brighton.com/sitemap.xml"
+  ],
+  "notes": [
+    "About: founded 1972 by Jerry and Terri Kohl, family-owned; silver jewelry and leather handbags designed in-house; design headquarters in Los Angeles; first Brighton-only store opened in Dallas.",
+    "Shipping: standard $6.95, free over $95 (contiguous US), 3-5 business days. meta.json ships_to_countries: US only. Store pages in the sitemap (Lakewood CO, San Antonio TX, Annapolis MD and many more), so us_stores true.",
+    "Returns: within 60 days of receiving the order, $5 processing fee on refunds to original tender, no fee for exchanges or store credit; customized items excluded.",
+    "Charms price spread (2026-10-29, products.json): 57% of the 624 regular-price charms, beads and amulets start under $30."
+  ],
+  "checked_at": "2026-10-29"
+}

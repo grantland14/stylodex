@@ -1,0 +1,55 @@
+{
+  "slug": "iron-heart",
+  "name": "Iron Heart",
+  "website_url": "https://www.ironheart.co.uk",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Heavyweight Japanese Selvedge Denim",
+  "hq_country": "JP",
+  "founded_year": 2002,
+  "size_range": "Waists 28–44",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 200,
+  "returns_days": 28,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 335.0,
+      "max": 500.0,
+      "min_usd": 335.0,
+      "max_usd": 500.0,
+      "fx_date": null,
+      "item_count": 81,
+      "source_url": "https://www.ironheart.co.uk/collections/bottoms/products.json?limit=250&currency=USD",
+      "checked_at": "2026-10-29",
+      "note": "US-dollar prices the store shows (currency=USD presentment; base currency GBP). bottoms products.json, 146 products: 98 jeans by title (shorts excluded); 17 sold out excluded; none marked down; 81 regular-price jeans $335–$500 (GBP base £255–£380, https://www.ironheart.co.uk/collections/bottoms/products.json?limit=250). Low: 14oz Selvedge Denim Slim Straight Cut, Relaxed Tapered Cut and 1955 Vintage Tapered Jeans ($335); high: 25oz Selvedge Denim Slim, Slim Straight and Slim Tapered Cut Jeans Indigo/Black ($500)."
+    }
+  ],
+  "production_model": null,
+  "sources": [
+    "https://www.ironheart.co.uk/meta.json",
+    "https://www.ironheart.co.uk/collections.json?limit=250",
+    "https://www.ironheart.co.uk/collections/bottoms/products.json?limit=250",
+    "https://www.ironheart.co.uk/collections/bottoms/products.json?limit=250&currency=USD",
+    "https://www.ironheart.co.uk/pages/shipping-info",
+    "https://www.ironheart.co.uk/pages/our-story",
+    "https://www.ironheart.co.uk/policies/refund-policy"
+  ],
+  "notes": [
+    "Our story: Shinichi Haraki established Works Inc and the Iron Heart brand in 2002, with a focus on heavyweight denims for the Japanese motorcycling community; Works Inc is based in Japan (Shibuya, Hachioji), Iron Heart stores in Tokyo, Osaka, Nagoya and Kojima. Iron Heart International (UK, Gosport) runs international sales; this store ships from its UK distribution centre (https://www.ironheart.co.uk/pages/our-story). hq_country JP is the brand's home; the online store is UK-run.",
+    "Shipping: free on orders of £200 / US$200 or more; below that Rest of World US$35; international via DHL/UPS; 'stacking' option holds orders up to 90 days until they reach US$200 (https://www.ironheart.co.uk/pages/shipping-info). VAT/duty treatment for US orders not stated.",
+    "Returns: 28 days after receipt, unworn with tags (https://www.ironheart.co.uk/policies/refund-policy).",
+    "Jeans waists (products.json Waist option): 28–36, 38, 40, 42, 44. Weights in titles run 14oz to 25oz.",
+    "Store description: 'Iron Heart is the home of the highest quality Japanese Selvedge Denim. Shipping worldwide.' (meta.json)."
+  ],
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "jeans"
+  ]
+}

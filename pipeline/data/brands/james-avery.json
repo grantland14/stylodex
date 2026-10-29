@@ -1,0 +1,50 @@
+{
+  "name": "James Avery",
+  "website_url": "https://www.jamesavery.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Sterling Silver Charms Made in Texas",
+  "hq_country": "US",
+  "founded_year": 1954,
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": true,
+  "free_shipping_min_usd": 0,
+  "returns_days": 365,
+  "production_model": "Designed and crafted in Texas",
+  "materials": [
+    "Sterling silver",
+    "14k gold"
+  ],
+  "prices": [
+    {
+      "category": "charms",
+      "currency": "USD",
+      "min": 46,
+      "max": 450,
+      "min_usd": 46,
+      "max_usd": 450,
+      "fx_date": null,
+      "item_count": 776,
+      "source_url": "https://www.jamesavery.com/charms?sz=1000",
+      "checked_at": "2026-10-29",
+      "note": "Charms category with sz=1000: 779 tiles (776 Charms, 2 pendants, 1 glass enhancer bead excluded), no strike-through prices. Prices are each tile's default variant (740 sterling silver); 84 tiles say 'starting at'. Tiniest Elephant Charm $46 to Round St. Christopher Medal Charm (14K Yellow Gold) $450. Enamel Peppermint Charm $56, Texas Girl Charm $69."
+    }
+  ],
+  "sells_categories": [
+    "charms"
+  ],
+  "sources": [
+    "https://www.jamesavery.com/charms?sz=1000",
+    "https://www.jamesavery.com/customer-service/returns-and-exchanges.html",
+    "https://www.jamesavery.com/customer-service/shipping-information.html",
+    "https://www.jamesavery.com/about-us.html"
+  ],
+  "notes": [
+    "About: James Avery first started making jewelry in Kerrville, Texas in 1954; still designs and crafts its jewelry in Texas.",
+    "Shipping: free standard shipping and returns on all orders, 1-5 business days to all US states; international by phone only, buyer pays duties. Attach a Charm service adds 2-3 business days.",
+    "Returns: items must be received with a receipt on or before the 365th day since purchase; exchanges in any James Avery retail store, so us_stores true."
+  ],
+  "checked_at": "2026-10-29"
+}

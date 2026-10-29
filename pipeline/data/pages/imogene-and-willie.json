@@ -1,0 +1,1107 @@
+{
+  "subject": "Imogene + Willie",
+  "slug": "imogene-and-willie",
+  "url_prefix": "brands",
+  "category": {
+    "slug": "jeans",
+    "name": "Jeans",
+    "why": "Imogene + Willie sells its own label (kind brand), so C is a product type. Its store description says it set up shop 'forever on the quest to make the perfect jeans', its first products were the imogene and willie jeans, and the denim collections are its largest (men-denim 47, women-denim 37 products). Like-for-like item: jeans, men's and women's together, since I+W and most picks sell both or men's only; each row's note says which. Prices are each store's regular price as a US shopper sees it, not marked down."
+  },
+  "serp": [
+    {
+      "keyword": "brands like imogene + willie",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview returned no positions for this spelling"
+    },
+    {
+      "keyword": "imogene and willie alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview returned no positions"
+    },
+    {
+      "keyword": "brands like imogene and willie",
+      "position": 1,
+      "url": "https://stagprovisions.com/pages/brands",
+      "kept": true,
+      "note": "STAG Provisions, multi-brand retailer listed on I+W's stockists page; used as co-stocking (its jeans collection) per enrich.md §1.4b, not as an editorial list"
+    },
+    {
+      "keyword": "brands like imogene and willie",
+      "position": 3,
+      "url": "https://www.reddit.com/r/malefashionadvice/comments/1iupknj/what_are_authentic_good_quality_american_fashion/",
+      "kept": false,
+      "why_dropped": "reddit: WebFetch refuses reddit.com; not read"
+    },
+    {
+      "keyword": "brands like imogene and willie",
+      "position": 3,
+      "url": "https://www.reddit.com/r/malefashionadvice/comments/1h98yku/graphic_tee_brands_similar_to_imogene_willie/",
+      "kept": false,
+      "why_dropped": "reddit, and about graphic tees, not jeans; not read"
+    },
+    {
+      "keyword": "brands like imogene and willie",
+      "position": 3,
+      "url": "https://www.reddit.com/r/findfashion/comments/1hjcn53/tee_alternatives_to_imogene_and_willie/",
+      "kept": false,
+      "why_dropped": "reddit, tees; not read"
+    },
+    {
+      "keyword": "brands like imogene and willie",
+      "position": 1,
+      "url": "https://www.facebook.com/fb-answers/brands-similar-to-imogene-and-willie/",
+      "kept": false,
+      "why_dropped": "Facebook (social); WebFetch got only the word 'Facebook'"
+    },
+    {
+      "keyword": "brands like imogene and willie",
+      "position": 5,
+      "url": "https://toddshelton.com/blog/about-todd-shelton/made-in-america/american-made-clothing-brands",
+      "kept": false,
+      "why_dropped": "general made-in-USA list by a brand; names I+W only as a mislabelled button, recommends nothing as an alternative to it"
+    },
+    {
+      "keyword": "brands like imogene and willie",
+      "position": 6,
+      "url": "https://hiconsumption.com/style/best-mens-fashion-brands/",
+      "kept": false,
+      "why_dropped": "general men's brands list, not alternatives to I+W"
+    },
+    {
+      "keyword": "brands like imogene and willie",
+      "position": 7,
+      "url": "https://fashionangelwarrior.com/6-american-made-fashion-brands-that-are-reshaping-the-industry/",
+      "kept": false,
+      "why_dropped": "general American-made list, not alternatives to I+W"
+    },
+    {
+      "keyword": "brands like imogene and willie",
+      "position": 8,
+      "url": "https://myamericangoods.com/blogs/american-made-goods-guide/best-american-made-t-shirts-under-60-dollars",
+      "kept": false,
+      "why_dropped": "tees under $60, not jeans alternatives"
+    },
+    {
+      "keyword": "brands like imogene and willie",
+      "position": 9,
+      "url": "https://thingtesting.com/brands/imogene-and-willie/similar",
+      "kept": false,
+      "why_dropped": "platform brand page; WebFetch found no alternatives listed (loads client-side)"
+    },
+    {
+      "keyword": "brands like imogene and willie",
+      "position": 10,
+      "url": "https://www.youtube.com/watch?v=K_TvXUv1-6w",
+      "kept": false,
+      "why_dropped": "video"
+    },
+    {
+      "keyword": "stores like imogene and willie",
+      "position": 1,
+      "url": "https://www.ringly.io/discover/brands-like-buck-mason",
+      "kept": false,
+      "why_dropped": "alternatives to Buck Mason (I+W is one of its picks), not alternatives to I+W"
+    },
+    {
+      "keyword": "stores like imogene and willie",
+      "position": 1,
+      "url": "https://hiconsumption.com/style/best-american-made-denim-brands/",
+      "kept": false,
+      "why_dropped": "AI-overview sitelink: best USA-made denim brands, not alternatives to I+W"
+    },
+    {
+      "keyword": "stores like imogene and willie",
+      "position": 1,
+      "url": "https://www.instagram.com/reel/DXYBsUPER4N/",
+      "kept": false,
+      "why_dropped": "social video"
+    },
+    {
+      "keyword": "stores like imogene and willie",
+      "position": 1,
+      "url": "https://www.reddit.com/r/HeritageWear/comments/1o7misx/what_are_your_favorite_brands_and_retailers_i/",
+      "kept": false,
+      "why_dropped": "reddit; not read"
+    },
+    {
+      "keyword": "stores like imogene and willie",
+      "position": 2,
+      "url": "https://stagprovisions.com/pages/brands",
+      "kept": true,
+      "note": "same as above"
+    },
+    {
+      "keyword": "stores like imogene and willie",
+      "position": 7,
+      "url": "https://www.youtube.com/watch?v=f1CgiLalWME",
+      "kept": false,
+      "why_dropped": "video"
+    },
+    {
+      "keyword": "stores like imogene and willie",
+      "position": 9,
+      "url": "https://thingtesting.com/brands/imogene-and-willie/similar",
+      "kept": false,
+      "why_dropped": "as above"
+    },
+    {
+      "keyword": "stores like imogene and willie",
+      "position": 10,
+      "url": "https://www.shopeagleeye.com/southern-brands/",
+      "kept": false,
+      "why_dropped": "retailer brand page for southern brands; not a jeans category page"
+    },
+    {
+      "keyword": "(web search) brands like Imogene + Willie jeans alternatives",
+      "position": null,
+      "url": "https://www.discobrands.co/alternatives/jeans-like-imogene-willie",
+      "kept": true,
+      "note": "disco directory 'jeans like imogene willie': 12 alternatives with one-line reasons (3sixteen, Todd Shelton, orSlow, Iron Heart, Nudie Jeans, ONI, Momotaro, Kapital, HIROSHI KATO, Samurai, FULLCOUNT, Freenote). Evidence only, never named on the page."
+    },
+    {
+      "keyword": "(linked from the above)",
+      "position": null,
+      "url": "https://www.discobrands.co/brands/imogene-willie",
+      "kept": true,
+      "note": "disco brand profile: similar brands 3sixteen, Todd Shelton, Baldwin Denim (closed), James Dant (shop, no own jeans). Same directory as above, so counted as one source."
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": "STAG Provisions (Nashville, Dallas, Austin)",
+      "url": "https://stagprovisions.com/collections/bottoms-jeans",
+      "used": true,
+      "why": "Listed on I+W's stockists page; jeans collection (56 products) has 5 I+W jeans plus RRL (17), Levi's Premium (17), Alex Mill (7), Levi's Blue Tab (5), Rogue Territory (2), BEAMS+, Monostereo, STAG."
+    },
+    {
+      "retailer": "Snake Oil Provisions (Los Angeles)",
+      "url": "https://snakeoilprovisions.com/collections/jeans",
+      "used": true,
+      "why": "Listed on I+W's stockists page; jeans collection (65) has 4 I+W jeans plus Full Count, Stevenson Overall Co., RRL, Rogue Territory, UES, Omoto, Momotaro, The Flat Head, Schaeffer's Garment Hotel, Drake's, Brain Dead, Aaron Levine, Denime."
+    },
+    {
+      "retailer": "Blue Owl Workshop (Seattle)",
+      "url": "https://www.blueowl.us/collections/denim",
+      "used": true,
+      "why": "Listed on I+W's stockists page; denim collection (163) has 8 I+W jeans plus Naked & Famous, Hiroshi Kato, Samurai, Freenote Cloth, Momotaro, RRL, orSlow, Omoto, Pure Blue Japan, Graph Zero, Fullcount, Studio D'artisan, Warehouse, UES, Resolute, Pherrow's, Boncoura, Sassafras, ONI."
+    },
+    {
+      "retailer": "Totem Brand Co. (Philadelphia)",
+      "url": "https://totembrandco.com/collections/denim-1",
+      "used": true,
+      "why": "Listed on I+W's stockists page and its store search returns I+W jeans (e.g. Catherine Pasadena, Black Selvedge Rinse); its denim collection (86) lists orSlow, Kapital, Fullcount, Pure Blue Japan, Sassafras, Naked & Famous, Studio D'Artisan, Denime, Resolute, Samurai, Warehouse, Auralee, Maison Mihara Yasuhiro, Rogue Territory. I+W's jeans sit outside that collection (human_check)."
+    },
+    {
+      "retailer": "Ford General (Chicago)",
+      "url": "https://fordgeneral.com/collections/denim",
+      "used": false,
+      "why": "Stockist, but its denim collection is its own label only (64 products)."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Rogue Territory",
+      "slug": "rogue-territory",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://stagprovisions.com/collections/bottoms-jeans"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://snakeoilprovisions.com/collections/jeans"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://totembrandco.com/collections/denim-1"
+        }
+      ]
+    },
+    {
+      "name": "Samurai Jeans",
+      "slug": "samurai-jeans",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/jeans-like-imogene-willie"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://totembrandco.com/collections/denim-1"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.blueowl.us/collections/denim"
+        }
+      ]
+    },
+    {
+      "name": "Fullcount",
+      "slug": "fullcount",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/jeans-like-imogene-willie"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://snakeoilprovisions.com/collections/jeans"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://totembrandco.com/collections/denim-1"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.blueowl.us/collections/denim"
+        }
+      ]
+    },
+    {
+      "name": "Momotaro Jeans",
+      "slug": "momotaro-jeans",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/jeans-like-imogene-willie"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://snakeoilprovisions.com/collections/jeans"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.blueowl.us/collections/denim"
+        }
+      ]
+    },
+    {
+      "name": "orSlow",
+      "slug": "orslow",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/jeans-like-imogene-willie"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://totembrandco.com/collections/denim-1"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.blueowl.us/collections/denim"
+        }
+      ]
+    },
+    {
+      "name": "RRL",
+      "slug": "rrl",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://stagprovisions.com/collections/bottoms-jeans"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://snakeoilprovisions.com/collections/jeans"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.blueowl.us/collections/denim"
+        }
+      ]
+    },
+    {
+      "name": "Hiroshi Kato",
+      "slug": "hiroshi-kato",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/jeans-like-imogene-willie"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.blueowl.us/collections/denim"
+        }
+      ]
+    },
+    {
+      "name": "Freenote Cloth",
+      "slug": "freenote-cloth",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/jeans-like-imogene-willie"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.blueowl.us/collections/denim"
+        }
+      ]
+    },
+    {
+      "name": "Naked & Famous Denim",
+      "slug": "naked-and-famous",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://totembrandco.com/collections/denim-1"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.blueowl.us/collections/denim"
+        }
+      ]
+    },
+    {
+      "name": "Kapital",
+      "slug": "kapital",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/jeans-like-imogene-willie"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://totembrandco.com/collections/denim-1"
+        }
+      ]
+    },
+    {
+      "name": "ONI Denim",
+      "slug": "oni-denim",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/jeans-like-imogene-willie"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.blueowl.us/collections/denim"
+        }
+      ]
+    },
+    {
+      "name": "Pure Blue Japan",
+      "slug": "pure-blue-japan",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://totembrandco.com/collections/denim-1"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.blueowl.us/collections/denim"
+        }
+      ]
+    },
+    {
+      "name": "Studio D'Artisan",
+      "slug": "studio-d-artisan",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://totembrandco.com/collections/denim-1"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.blueowl.us/collections/denim"
+        }
+      ]
+    },
+    {
+      "name": "Resolute",
+      "slug": "resolute",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://totembrandco.com/collections/denim-1"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.blueowl.us/collections/denim"
+        }
+      ]
+    },
+    {
+      "name": "Warehouse & Co.",
+      "slug": "warehouse-co",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://totembrandco.com/collections/denim-1"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.blueowl.us/collections/denim"
+        }
+      ]
+    },
+    {
+      "name": "Sassafras",
+      "slug": "sassafras",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://totembrandco.com/collections/denim-1"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.blueowl.us/collections/denim"
+        }
+      ]
+    },
+    {
+      "name": "UES",
+      "slug": "ues",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://snakeoilprovisions.com/collections/jeans"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.blueowl.us/collections/denim"
+        }
+      ]
+    },
+    {
+      "name": "Omoto Denim",
+      "slug": "omoto-denim",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://snakeoilprovisions.com/collections/jeans"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.blueowl.us/collections/denim"
+        }
+      ]
+    },
+    {
+      "name": "3sixteen",
+      "slug": "3sixteen",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/jeans-like-imogene-willie"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/imogene-willie"
+        }
+      ]
+    },
+    {
+      "name": "Todd Shelton",
+      "slug": "todd-shelton",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/jeans-like-imogene-willie"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/imogene-willie"
+        }
+      ]
+    },
+    {
+      "name": "Iron Heart",
+      "slug": "iron-heart",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/jeans-like-imogene-willie"
+        }
+      ]
+    },
+    {
+      "name": "Nudie Jeans",
+      "slug": "nudie-jeans",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/jeans-like-imogene-willie"
+        }
+      ]
+    },
+    {
+      "name": "Levi's",
+      "slug": "levis",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://stagprovisions.com/collections/bottoms-jeans"
+        }
+      ]
+    },
+    {
+      "name": "Alex Mill",
+      "slug": "alex-mill",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://stagprovisions.com/collections/bottoms-jeans"
+        }
+      ]
+    },
+    {
+      "name": "Stevenson Overall Co.",
+      "slug": "stevenson-overall",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://snakeoilprovisions.com/collections/jeans"
+        }
+      ]
+    },
+    {
+      "name": "The Flat Head",
+      "slug": "the-flat-head",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://snakeoilprovisions.com/collections/jeans"
+        }
+      ]
+    },
+    {
+      "name": "Baldwin Denim",
+      "slug": "baldwin-denim",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/imogene-willie"
+        }
+      ]
+    },
+    {
+      "name": "James Dant",
+      "slug": "james-dant",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/imogene-willie"
+        }
+      ]
+    },
+    {
+      "name": "Sid Mashburn",
+      "slug": "sid-mashburn",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Raleigh Denim Workshop",
+      "slug": "raleigh-denim-workshop",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Taylor Stitch",
+      "slug": "taylor-stitch",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Left Field NYC",
+      "slug": "left-field-nyc",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Gustin",
+      "slug": "gustin",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Tellason",
+      "slug": "tellason",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Japan Blue Jeans",
+      "slug": "japan-blue-jeans",
+      "in_apart_pool": true,
+      "sources": []
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "result": "37 rows for imogene-and-willie; outside sources also name RRL, Rogue Territory, Iron Heart, Freenote Cloth, 3sixteen, Naked & Famous, Nudie Jeans, orSlow and Baldwin Denim; the other 28 have sources: []"
+  },
+  "picks": [
+    {
+      "slug": "rogue-territory",
+      "rank": 1,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 265,
+        "max": 375,
+        "min_usd": 265,
+        "max_usd": 375,
+        "fx_date": null,
+        "item_count": 25
+      },
+      "price_relation": "similar",
+      "reason": "Rogue Territory cuts and sews its jeans in Los Angeles, most at $265 and washed pairs to $375 against I+W's $235–$325, with waists 27–40 like I+W's men's range.",
+      "evidence": [
+        {
+          "kind": "co_stocked",
+          "url": "https://stagprovisions.com/collections/bottoms-jeans",
+          "note": "Stanton 15oz Stealth Black ($265) and Stanton Indigo River Wash ($375) beside I+W's Willie and Barton jeans"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://snakeoilprovisions.com/collections/jeans",
+          "note": "6 Rogue Territory jeans in the same jeans collection as 4 I+W jeans"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://totembrandco.com/collections/denim-1",
+          "note": "1 Rogue Territory jean in Totem's denim collection; Totem also sells I+W jeans"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "samurai-jeans",
+      "rank": 2,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 376,
+        "max": 527,
+        "min_usd": 376,
+        "max_usd": 527,
+        "fx_date": null,
+        "item_count": 19
+      },
+      "price_relation": "pricier",
+      "reason": "Samurai Jeans makes its jeans in Japan in 15oz to 21oz denim, $376–$527 on its US store (all above I+W's $325 top), with waists to 46 on some styles.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/jeans-like-imogene-willie",
+          "note": "#10: 'heavyweight Japanese selvedge jeans and workwear with samurai-inspired detailing'"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.blueowl.us/collections/denim",
+          "note": "19 Samurai jeans in the denim collection with 8 I+W jeans"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://totembrandco.com/collections/denim-1",
+          "note": "3 SAMURAI JEANS in Totem's denim collection"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "hiroshi-kato",
+      "rank": 3,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 228,
+        "max": 368,
+        "min_usd": 228,
+        "max_usd": 368,
+        "fx_date": null,
+        "item_count": 81
+      },
+      "price_relation": "similar",
+      "reason": "Hiroshi Kato cuts imported Japanese 4-way stretch selvedge in Los Angeles, $228–$368 against I+W's $235–$325, with free ground shipping in the continental US like I+W.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/jeans-like-imogene-willie",
+          "note": "#9: 'Japanese-founded, Los Angeles-made denim label known for 4-Way Stretch selvedge jeans'"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.blueowl.us/collections/denim",
+          "note": "21 Hiroshi Kato jeans in the denim collection with 8 I+W jeans"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "freenote-cloth",
+      "rank": 4,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 285,
+        "max": 325,
+        "min_usd": 285,
+        "max_usd": 325,
+        "fx_date": null,
+        "item_count": 76
+      },
+      "price_relation": "similar",
+      "reason": "Freenote Cloth makes men's jeans exclusively in the US at $285–$325, inside I+W's $235–$325 range, in waists 29–38.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/jeans-like-imogene-willie",
+          "note": "#12: 'California heritage menswear label making US-sewn Japanese selvedge denim'"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.blueowl.us/collections/denim",
+          "note": "13 Freenote Cloth jeans in the denim collection with 8 I+W jeans"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "naked-and-famous",
+      "rank": 5,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 141,
+        "max": 495,
+        "min_usd": 141,
+        "max_usd": 495,
+        "fx_date": null,
+        "item_count": 233
+      },
+      "price_relation": "similar",
+      "reason": "Naked & Famous cuts and sews raw Japanese selvedge jeans in Canada, $141–$495 with many at $176, women's fits from a 23 waist and men's to 44, $10 US shipping and free hemming.",
+      "evidence": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.blueowl.us/collections/denim",
+          "note": "30 Naked & Famous jeans in the denim collection with 8 I+W jeans"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://totembrandco.com/collections/denim-1",
+          "note": "5 Naked & Famous Denim in Totem's denim collection"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "todd-shelton",
+      "rank": 6,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 280,
+        "max": 320,
+        "min_usd": 280,
+        "max_usd": 320,
+        "fx_date": null,
+        "item_count": 8
+      },
+      "price_relation": "similar",
+      "reason": "Todd Shelton makes its jeans in its own New Jersey factory at $280–$320, with four thigh fits, two rises, waists 28–40 and lengths 26–38.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/jeans-like-imogene-willie",
+          "note": "#2: 'Own US factory, jeans plus plain shirts and tees'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/imogene-willie",
+          "note": "84% match: own US factory, fit-focused made-to-size model, less vintage styling (same directory, not an independent source)"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "3sixteen",
+      "rank": 7,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 250,
+        "max": 485,
+        "min_usd": 250,
+        "max_usd": 485,
+        "fx_date": null,
+        "item_count": 35
+      },
+      "price_relation": "similar",
+      "reason": "3sixteen sells made-in-USA selvedge jeans at $250–$485, overlapping I+W's $235–$325, in waists 28–42, with free US shipping over $50 and stores in New York and Los Angeles.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/jeans-like-imogene-willie",
+          "note": "#1: 'US-sewn selvedge denim and workwear staples'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/imogene-willie",
+          "note": "90% match: US-sewn selvedge, Japanese custom denim, heavier fabrics, New York style (same directory)"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "iron-heart",
+      "rank": 8,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 335,
+        "max": 500,
+        "min_usd": 335,
+        "max_usd": 500,
+        "fx_date": null,
+        "item_count": 81
+      },
+      "price_relation": "pricier",
+      "reason": "Iron Heart sells 14oz to 25oz Japanese selvedge jeans at $335–$500 in US dollars, above I+W's $325 top, in waists 28–44, free shipping over US$200.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/jeans-like-imogene-willie",
+          "note": "#4: 'Japanese label making over-engineered 21oz selvedge denim'"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "levis",
+      "rank": 9,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": null,
+      "price_relation": null,
+      "reason": "Levi's, the denim company founded in 1853, sells jeans in stores across 40 US states, where I+W has two shops (Nashville and Austin).",
+      "evidence": [
+        {
+          "kind": "co_stocked",
+          "url": "https://stagprovisions.com/collections/bottoms-jeans",
+          "note": "Levi's Premium (17) and Levi's Blue Tab (5) jeans in the same jeans collection as 5 I+W jeans"
+        }
+      ],
+      "gate_gaps": []
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "fullcount",
+      "why": "4 sources, but its own store fullcount-online.com ships to JP only (meta.json ships_to_countries ['JP']); no own US-shipping store or US stores found. No brand file written."
+    },
+    {
+      "slug": "momotaro-jeans",
+      "why": "3 sources; momotarojeans.com HTTP 403 to curl (StylodexBot UA); no workaround, no brand file."
+    },
+    {
+      "slug": "orslow",
+      "why": "3 sources + Apart pool; orslow.jp has no own online store (orslow.jp/store is a stockist list). No price from its own store."
+    },
+    {
+      "slug": "rrl",
+      "why": "3 co-stocking sources + Apart pool; sold on ralphlauren.com, which redirects WebFetch (307) and is already 'unverified' in ralph-lauren.json. Not retried."
+    },
+    {
+      "slug": "alex-mill",
+      "why": "verified with a jeans row ($225, women's, from its own store), but the Stag evidence is men's Alex Mill 5-pocket jeans ($129.95) that its own store doesn't list. Like-for-like breaks, so not used. 1 source."
+    },
+    {
+      "slug": "kapital",
+      "why": "2 sources; kapital-webshop.jp HTTP 403. No workaround."
+    },
+    {
+      "slug": "oni-denim",
+      "why": "2 sources; no official store found (onidenim.com/.jp unreachable; oni-denim.com is an unrelated US 'wide leg jeans' site, not the Okayama label)."
+    },
+    {
+      "slug": "pure-blue-japan",
+      "why": "2 co-stocking sources; purebluejapan.jp unreachable to curl and HTTP 503 to WebFetch."
+    },
+    {
+      "slug": "studio-d-artisan",
+      "why": "2 co-stocking sources; dartisan.co.jp unreachable, own store not found. Not verified."
+    },
+    {
+      "slug": "resolute",
+      "why": "2 co-stocking sources; resolute.jp unreachable/404. Not verified."
+    },
+    {
+      "slug": "warehouse-co",
+      "why": "2 co-stocking sources; own store not reached. Not verified."
+    },
+    {
+      "slug": "ues",
+      "why": "2 co-stocking sources; ues.co.jp 404. Not verified."
+    },
+    {
+      "slug": "omoto-denim",
+      "why": "2 co-stocking sources; omotodenim.com unreachable. Not verified."
+    },
+    {
+      "slug": "sassafras",
+      "why": "2 co-stocking sources; mainly work pants and outerwear, not checked (verify cap)."
+    },
+    {
+      "slug": "nudie-jeans",
+      "why": "1 source + Apart pool; nudiejeans.com HTTP 429 to curl and WebFetch. Not retried."
+    },
+    {
+      "slug": "stevenson-overall",
+      "why": "1 source; stevensonoverall.com is a parked domain (redirects to /lander). Real store not found."
+    },
+    {
+      "slug": "the-flat-head",
+      "why": "1 source; theflathead.jp unreachable."
+    },
+    {
+      "slug": "baldwin-denim",
+      "why": "disco profile says it has closed. Not a pick."
+    },
+    {
+      "slug": "james-dant",
+      "why": "a shop with no in-house jeans (disco profile). Not a pick on a brands page."
+    },
+    {
+      "slug": "raleigh-denim-workshop",
+      "why": "Apart pool only; no outside source names it as an I+W alternative (Ford General stocks it, but under a brand collection, and its denim page lists only its own label). Store verified readable (USD, ships US) for a future run."
+    },
+    {
+      "slug": "apart-pool-others",
+      "why": "Sid Mashburn, Taylor Stitch, Left Field NYC, Gustin, Tellason, Japan Blue and the other pool rows: no outside source this run (Taylor Stitch is on Stag's brand list but not in its jeans collection)."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "evidence: co-stocking",
+      "url": "https://www.blueowl.us/collections/denim",
+      "check": "Most evidence is I+W stockists' denim pages (Stag, Snake Oil, Blue Owl, Totem). Totem sells I+W jeans but they're not in its denim-1 collection; Totem is counted for Rogue Territory, Samurai and Naked & Famous. Confirm co-stocking counts as 'alternative' evidence here."
+    },
+    {
+      "fact": "evidence: disco",
+      "url": "https://www.discobrands.co/alternatives/jeans-like-imogene-willie",
+      "check": "Unsigned directory with 'from $' prices that don't match stores (e.g. 3sixteen 'from $12'). Sole outside source for 3sixteen, Todd Shelton and Iron Heart."
+    },
+    {
+      "fact": "pick price: Iron Heart",
+      "url": "https://www.ironheart.co.uk/collections/bottoms/products.json?limit=250&currency=USD",
+      "check": "Stored $335–$500 is the store's USD presentment (base £255–£380). Shipping page doesn't say whether UK VAT comes off for US orders. Check a US checkout total."
+    },
+    {
+      "fact": "pick price: Samurai Jeans",
+      "url": "https://www.samurai-jeans.com/en-us/collections/samurai-jeans/products.json?limit=250",
+      "check": "US storefront prices ($376–$527) are about double the Japanese storefront's yen prices (¥29,800–¥41,800 ≈ $189–$265 at ECB). Stored the US price per enrich.md (what a US shopper is charged). Confirm on a US checkout."
+    },
+    {
+      "fact": "pick check: RRL, Momotaro, Fullcount",
+      "url": "https://www.ralphlauren.com/",
+      "check": "Each has 3–4 sources. RRL (ralphlauren.com redirect/blocked), Momotaro (403), Fullcount (own store ships JP only). Would lift the page toward 12 picks if a readable official US source exists."
+    },
+    {
+      "fact": "anchor ships_to",
+      "url": "https://imogeneandwillie.com/meta.json",
+      "check": "CA, GB, AU recorded from Shopify's rest-of-world zone ('*') and the policy's mention of international orders; no country list on the site."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": null,
+  "notes": [
+    "9 picks pass enrich.md §3. Never padded: Fullcount, Momotaro, RRL and orSlow each have 3+ sources but no readable official US-shipping store; Alex Mill dropped on a like-for-like mismatch.",
+    "Ranking: independent sources (disco counted once across its two pages), then distance between price midpoints (I+W $280). 3: Rogue Territory (40), Samurai (171.5). 2: Hiroshi Kato (18), Freenote (25), Naked & Famous (38). 1: Todd Shelton (20), 3sixteen (87.5), Iron Heart (137.5), Levi's (no price).",
+    "Evidence: no editorial 'brands like I+W' list on page one (Reddit refused, others off-topic); disco directory (2 pages) + 4 stockists' jeans pages from I+W's own stockists list. Ahrefs serp-overview: 4 calls, 2 empty ('brands like imogene + willie', 'imogene and willie alternatives').",
+    "Anchor: new brand file, verified from its own Shopify store; jeans $235–$325 (66 regular-price, men's and women's). No share image checked (coordinator's images step).",
+    "Hiroshi Kato: the Apart-era domain hiroshikato.com is parked; official store is kato-brand.com."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "You've found the Imogene + Willie jean you like, then seen $325 for the wash you want, or you just want a second pair from someone else. These nine denim makers cover the same ground, from US-sewn selvedge to heavy Japanese denim, and most of them sell at I+W money. They're sorted by how often they're stocked or named alongside it, then by how close the price is.",
+    "bodies": {
+      "rogue-territory": "Rogue Territory is the nearest thing to Imogene + Willie if what you like is denim made at home by a denim-first label. It cuts and sews its jeans in Los Angeles, and the Stanton 15oz Stealth ($265) is the pair to start with, since the Stanton is its best-selling fit.\n\nMost of the line sits at $265, a little above I+W's cheapest pairs, and the washed versions go up to $375. Waists run from 27 to 40, close to I+W's men's sizes. The catch is shipping. A pair at this price pays $12 to ship within the US, where I+W ships free.\n\nIf free shipping matters more to you, Hiroshi Kato also cuts its jeans in Los Angeles and ships free to the continental US.",
+      "samurai-jeans": "Samurai Jeans is the move if you want to trade up to heavier Japanese denim. The Osaka label develops its own fabric for jeans made in Japan, and the S0510XXII 15oz Regular Straight ($401) is a sensible first pair.\n\nEvery regular-price jean on its US store costs more than I+W's most expensive one, from $376 to $527. What the extra buys is weight, with models from 15oz up to 21oz. Waists go from 28 to 40, and some styles reach a 46, well past I+W's 40.\n\nThe trade-off is distance. Orders ship from Japan, any duties are yours to pay, and you've got 14 days to ask for a return. Iron Heart is the other heavyweight pick, with a longer 28-day window.",
+      "hiroshi-kato": "Hiroshi Kato is the one to pick for selvedge jeans with some give. Its signature is a 4-way stretch selvedge denim, imported from Japan and cut in Los Angeles. The Pen Slim Indigo Raw 10.5oz ($228) costs a little less than I+W's cheapest pair.\n\nPrices run from $228 to $368, so most of the line lands right where I+W's $235 to $325 does. Ground shipping to the continental US is free, much like at I+W. Waists run 29 to 40.\n\nWatch the returns, though. You get 21 days from shipping, and international orders can't be returned at all. If you'd rather skip the stretch, Todd Shelton's Original 13 is all cotton.",
+      "freenote-cloth": "Freenote Cloth is the closest price match to Imogene + Willie. Its regular-price jeans sit between $285 and $325, right inside I+W's range, and the Avila Slim Taper in 14.5oz Kaihara denim ($285) is the cheapest way in.\n\nIt's a California menswear label that makes its whole collection in the US, so the made-at-home appeal carries straight over. Each fit has a name, Avila, Belford and Wilkes among them, which makes it easy to reorder the cut that worked. Waists run 29 to 38.\n\nThe returns window is the catch. A refund needs the pair posted back within 7 days, and after that it's exchange or store credit up to day 30. If you're unsure of your size, I+W's free exchanges are kinder.",
+      "naked-and-famous": "Naked & Famous Denim is where to find raw Japanese selvedge for less than I+W charges. Plenty of pairs sit at $176, like the Easy Guy in Natural Indigo Selvedge ($176), and the full range runs from $141 to $495.\n\nThe Montreal label cuts and sews its jeans in Canada from Japanese fabric, with no washes or distressing. That's the big difference from I+W, which sells washed pairs as well as rigid ones. Women's fits like True Girl and Bestie start at a 23 waist, and men's fits go to 44.\n\nUS shipping is a flat $10 and hemming is free. Most orders arrive duties paid, though its made-in-Japan pieces can carry import duty. Returns come back as store credit only, so it's best once you know your fit.",
+      "todd-shelton": "Todd Shelton is the pick if fit is the thing you're trying to fix. The Original 13 ($320) is an all-cotton jean in 13oz Japanese selvedge, made in the brand's own New Jersey factory.\n\nThe Original 13 comes in four thigh fits and two rises, in waists 28 to 40 and lengths from 26 to 38 inches. So you choose the thigh, rise and length separately, where I+W hems a standard pair for you. The factory plans for exchanges, and swaps and refunds are free within 30 days. The Classic 12 in black denim is the cheaper option at $280.\n\nIt ships only within the US, and orders take about 7 business days to go out. If you need jeans sooner, 3sixteen ships within 2 business days.",
+      "3sixteen": "3sixteen is a New York denim company with made-in-USA jeans, and the CS-101x Classic Straight Lightweight Selvedge ($250) makes an easy first pair. Its first jean, back in 2008, used a custom denim from Kuroki Mills in Okayama.\n\nPrices start close to I+W's at $250 and climb to $485 for the natural indigo CT-102xn. The model codes tell you the cut, so CS means Classic Straight and RS means Relaxed Straight. Waists go up to a 42, one size past I+W's men's 40. US shipping is free over $50, and there are stores in New York and Los Angeles.\n\nThe short returns window is the catch. Returns close 10 days after delivery, so try them on the day they arrive.",
+      "iron-heart": "Iron Heart is for heavyweight denim, with jeans from 14oz all the way to 25oz selvedge. The 14oz Selvedge Denim Slim Straight Cut ($335) is the lightest way in.\n\nEvery pair costs more than I+W's top price, from $335 to $500 in US dollars. The Japanese brand started in 2002 making heavy denim for motorcyclists, which is why the weights go so high. Orders ship from its UK warehouse and go free over US$200, so any pair qualifies. Waists go up to 44, and you get 28 days to send them back.\n\nIf you want heavy Japanese denim for a bit less, Samurai's 19oz and 21oz models cost $413 to $426.",
+      "levis": "Levi's makes sense if you'd like to try jeans on before you pay I+W money for a pair. The denim company dates back to 1853 in San Francisco, and it has stores in 40 US states.\n\nI+W has two shops, one in Nashville and one in Austin. Levi's is the easiest way on this list to try a few fits in person and walk out with a pair the same day. It also sells casual wear and accessories for men, women and kids, so one trip can cover more than jeans.\n\nWith about 3,300 stores worldwide, it's a much bigger operation. If the small-batch, made-in-the-US side of I+W is what you're after, start with Freenote or Rogue Territory instead."
+    },
+    "best_for": {
+      "rogue-territory": "Los Angeles-made jeans at nearly the same price",
+      "samurai-jeans": "trading up to 15oz to 21oz denim in big waist sizes",
+      "hiroshi-kato": "stretch selvedge for less than I+W's cheapest pair",
+      "freenote-cloth": "American-made men's jeans at almost exactly I+W prices",
+      "naked-and-famous": "raw selvedge under $200, with free hemming",
+      "todd-shelton": "choosing thigh, rise and inseam separately",
+      "3sixteen": "a made-in-USA selvedge starter pair from $250",
+      "iron-heart": "heavyweight selvedge up to 25oz, shipped free",
+      "levis": "trying fits on in person, in 40 states"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "If you want what I+W does, US-made jeans at the same money, start with Freenote or Rogue Territory. Hiroshi Kato costs about the same, with stretch in the denim. If sizing is the problem, Todd Shelton lets you set the thigh, rise and length yourself. Naked & Famous is the cheaper route into raw selvedge, with plenty of pairs under $200. To go heavier, Samurai and Iron Heart both run past $400, and 3sixteen sits between the two camps with stores in New York and Los Angeles. And if you just need to try something on today, Levi's has stores in 40 states."
+    },
+    "faqs": [
+      {
+        "q": "Why is Imogene and Willie so expensive?",
+        "a": "Its jeans are made in the USA in small batches, with its own sewing room in Los Angeles and some fabric from a US mill. The $235 to $325 price also covers free chainstitch hems and a year of free repairs.",
+        "source_query": "why is imogene and willie so expensive"
+      },
+      {
+        "q": "Where can you buy Imogene and Willie jeans?",
+        "a": "On its own site, which ships free within the US, or at its shops in Nashville and Austin. Independent stores carry it too, including Blue Owl in Seattle and Stag Provisions in Nashville, Dallas and Austin.",
+        "source_query": "where to buy imogene and willie jeans"
+      },
+      {
+        "q": "Is Imogene and Willie legit?",
+        "a": "Yes. It's a Nashville denim maker that has sold jeans since 2009, with shops in Nashville and Austin. Full-price online orders can be returned within 30 days, and exchanges are free.",
+        "source_query": "is imogene and willie legit"
+      }
+    ]
+  }
+}

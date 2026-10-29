@@ -1,0 +1,14 @@
+{
+  "slug": "the-limited",
+  "name": "The Limited",
+  "website_url": "https://www.thelimited.com",
+  "status": "unverified",
+  "kind": "brand",
+  "checked_at": "2026-10-29",
+  "sources": [
+    "https://www.thelimited.com/"
+  ],
+  "notes": [
+    "2026-10-29 (white-house-black-market page run): https://www.thelimited.com/ failed the TLS handshake to curl (StylodexBot UA) and returned HTTP 503 to WebFetch. One try each, not worked around. The domain is the stored guess, not a confirmed official store. Status unread: human check (find the current official store, if any, before deciding live or defunct). One 'stores like White House Black Market' list (viraltalky, 2023) names it."
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "imogene-and-willie",
+  "name": "Imogene + Willie",
+  "website_url": "https://imogeneandwillie.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "American-Made Jeans",
+  "hq_country": "US",
+  "founded_year": 2009,
+  "parent_company": null,
+  "size_range": "Waists 23–36 women, 27–40 men",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 30,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 235.0,
+      "max": 325.0,
+      "min_usd": 235.0,
+      "max_usd": 325.0,
+      "fx_date": null,
+      "item_count": 66,
+      "source_url": "https://imogeneandwillie.com/collections/men-denim/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like: jeans, men's and women's. men-denim products.json (47 products; 3 carpenter/work pants and a pattern hook excluded): 35 regular-price jeans $235–$325, 6 marked down and 2 sold out excluded. women-denim products.json (https://imogeneandwillie.com/collections/women-denim/products.json?limit=250, 37 products; pattern hook excluded): 31 regular-price jeans $235–$325, 4 marked down and 1 sold out excluded. Low: barton black selvage rinse (men's, $235), catherine black selvage rinse (women's, $235); high: barton carson (men's, $325), catherine slim lewiston (women's, $325). Most common men's price $325 (11 styles)."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": "Made in the USA in small batches",
+  "sale_pattern": null,
+  "sources": [
+    "https://imogeneandwillie.com/",
+    "https://imogeneandwillie.com/meta.json",
+    "https://imogeneandwillie.com/collections.json?limit=250",
+    "https://imogeneandwillie.com/collections/men-denim/products.json?limit=250",
+    "https://imogeneandwillie.com/collections/women-denim/products.json?limit=250",
+    "https://imogeneandwillie.com/policies/shipping-policy",
+    "https://imogeneandwillie.com/policies/refund-policy",
+    "https://imogeneandwillie.com/pages/our-policies",
+    "https://imogeneandwillie.com/pages/our-story",
+    "https://imogeneandwillie.com/pages/locations",
+    "https://imogeneandwillie.com/pages/made-in-usa",
+    "https://imogeneandwillie.com/pages/the-tailor-shop",
+    "https://imogeneandwillie.com/pages/denim-repair",
+    "https://imogeneandwillie.com/pages/stockists"
+  ],
+  "notes": [
+    "Store description (meta.json, homepage): 'in 2009 we set up shop in Nashville, TN, forever on the quest to make the perfect jeans. made in the USA. free returns & exchanges + free shipping on all domestic orders'.",
+    "Our story: first fits were 'imogene (for women) and willie (for men)'; shop opened in an old service station in Nashville in 2009; later 'constructed our own sewing room in los angeles, opened a second home in austin' (https://imogeneandwillie.com/pages/our-story).",
+    "Made in USA page: 'to make all of our clothing in the usa'; small-batch production; in-house sewing team of 12; fabric partners named: Mt. Vernon Mills (US mill), Martin Farms (regenerative cotton, Alabama), Stony Creek Colors (plant-based natural indigo, near Nashville) (https://imogeneandwillie.com/pages/made-in-usa).",
+    "Returns: full-price online items within 30 days for refund, exchange or store credit; refunds carry a $12 processing fee; exchanges free; sale items final; custom-inseam alterations final (https://imogeneandwillie.com/policies/refund-policy).",
+    "Shipping: free on all domestic orders (meta/homepage); domestic via USPS; international orders accepted, customer pays duties (https://imogeneandwillie.com/pages/our-policies). Shopify ships_to_countries: ['*','CA','US'] (rest of world zone), so CA, GB, AU recorded.",
+    "Stores: Nashville (2601 12th Ave S) and Austin (1401 S Congress Ave); in-store guided fittings and complimentary chainstitch hemming (https://imogeneandwillie.com/pages/locations).",
+    "Tailor shop: complimentary chainstitch hems on all pants; denim repair: free repairs for one year on I+W jeans, hardware (zippers, buttons, rivets) free for life (https://imogeneandwillie.com/pages/denim-repair).",
+    "Sizes (products.json options): women's jeans waists 23–36; men's 27–40 (27–36, 38, 40). A 'women's denim - extended inseam' collection (27 products) exists; has_tall left null.",
+    "Collab: i+w x Wrangler capsule no. 2 on the homepage banner ('Made in USA collaboration').",
+    "Stockists page lists ~40 US shops (e.g. Blue Owl Seattle, Stag Provisions Nashville/Dallas/Austin, Snake Oil Provisions LA, Totem Brand Co. Philadelphia, Ford General Chicago) (https://imogeneandwillie.com/pages/stockists)."
+  ],
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "jeans"
+  ]
+}

@@ -8,8 +8,8 @@
   "hq_country": "US",
   "founded_year": null,
   "parent_company": null,
-  "size_range": null,
-  "has_plus": null,
+  "size_range": "XXS–XL; waists 22–30.5 in",
+  "has_plus": false,
   "has_petite": null,
   "has_tall": null,
   "ships_to": [
@@ -41,19 +41,26 @@
   ],
   "materials": [],
   "certifications": [],
-  "production_model": null,
+  "production_model": "Designed in Los Angeles, made internationally",
   "sale_pattern": null,
   "sources": [
     "https://www.lucyinthesky.com/",
     "https://www.lucyinthesky.com/shop/mini-dresses",
     "https://www.lucyinthesky.com/shop/maxi-dresses",
-    "https://www.lucyinthesky.com/shop/support/faq?faq-category=shipping"
+    "https://www.lucyinthesky.com/shop/support/faq?faq-category=shipping",
+    "https://www.lucyinthesky.com/shop/support/faq?faq-category=sizing",
+    "https://www.lucyinthesky.com/shop/support/faq?faq-category=general",
+    "https://www.lucyinthesky.com/shop/support/faq?faq-category=returns",
+    "https://www.lucyinthesky.com/shop/midi-dresses"
   ],
   "notes": [
     "Homepage tagline 'Party in style'; footer 'Copyright © 2026 LUCY IN THE SKY'. Mini dresses page title: 'Mini Dresses 2026, Designed in Los Angeles'. Shop by occasion: Homecoming, Winter Formal, Prom, Sorority Rush, Wedding Guest, NYE.",
     "FAQ (shipping): US orders ship with Amazon Shipping or USPS Ground Advantage, 4–7 business days; 'Ships in 24 Hours' styles; international $19.90 regular (7–14 business days), $39.90 expedited. ships_to CA, GB, AU from the international shipping terms (no country list read).",
     "FAQ (returns): 'Our Return Policy is for STORE CREDIT'; non-final-sale styles returnable in original condition within 14 days of delivery; final sale not returnable. Return address 808 Wall St, Los Angeles, CA, so hq_country US.",
-    "FAQ (sizing): 'Our small is generally the equivalent of a US Size 2'; 'Our sizes may run a bit smaller'; suggests sizing up between sizes. No size chart read, so size_range empty."
+    "FAQ (sizing): 'Our small is generally the equivalent of a US Size 2'; 'Our sizes may run a bit smaller'; suggests sizing up between sizes. No size chart read, so size_range empty.",
+    "2026-10-29 (stores-like-lucy-in-the-sky run): FAQ size guide (FAQPage JSON-LD on /shop/support/faq): XXS–XL, bust 29–37.5 in, waist 22–30.5 in, hip 33–41 in; 'Our small is generally the equivalent of a US Size 2'; models about 5ft 9in wear a small; standard dress length about 31 in for a small. Chart stops at XL, so has_plus false.",
+    "2026-10-29 (stores-like-lucy-in-the-sky run): FAQ general: 'All of our styles are designed at our offices in Los Angeles, and produced internationally.' Shipping FAQ: 'All orders ship out of Los Angeles'; domestic delivery 4–7 business days after shipping (Amazon Shipping or USPS Ground Advantage); 'Ships in 24 Hours' styles; estimated ship time shown per product once a size is picked. No direct exchanges (store credit toward another style); no price adjustments.",
+    "2026-10-29 (stores-like-lucy-in-the-sky run): dresses price re-read and unchanged: first 80 tiles of /shop/mini-dresses (76 regular, $55.90–$79.90), 80 of /shop/maxi-dresses (all regular, $65.90–$99.90) and 4 of /shop/midi-dresses (all regular, $59.90 Ruched Midi Dress in Black to $79.90 Sequin Midi Dress in Champagne). Sequin Draped Waist Dress in Pastel Blue $79.90 among the minis."
   ],
   "checked_at": "2026-10-29"
 }

@@ -1,0 +1,50 @@
+{
+  "name": "Clogau",
+  "website_url": "https://www.clogau.co.uk/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Jewelry Made With Rare Welsh Gold",
+  "hq_country": "GB",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 30,
+  "materials": [
+    "Sterling silver",
+    "Welsh gold"
+  ],
+  "prices": [
+    {
+      "category": "charms",
+      "currency": "GBP",
+      "min": 99,
+      "max": 99,
+      "min_usd": 131.55,
+      "max_usd": 131.55,
+      "fx_date": "2026-10-28",
+      "item_count": 9,
+      "source_url": "https://www.clogau.co.uk/collections/all-charms/products.json",
+      "checked_at": "2026-10-29",
+      "note": "products.json (GBP) all-charms, 10 products: 9 regular-price available, all £99 (Insignia Sterling Silver charms: Welsh Dragon, Heart, Daffodil, Tree of Life, Cariad, Oak Leaf...). Each with 9ct rose gold detailing; 'Every piece of Clogau jewellery contains rare Welsh gold'; designed to fit the Insignia charm bracelet, necklace and choker."
+    }
+  ],
+  "sells_categories": [
+    "charms"
+  ],
+  "sources": [
+    "https://www.clogau.co.uk/collections/all-charms/products.json",
+    "https://www.clogau.co.uk/meta.json",
+    "https://www.clogau.co.uk/policies/shipping-policy",
+    "https://www.clogau.co.uk/policies/refund-policy",
+    "https://www.clogau.co.uk/pages/about-us",
+    "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
+  ],
+  "notes": [
+    "About: in 1989 William Roberts found the abandoned Clogau St David's gold mine at Bontddu in Snowdonia; the brand captures that Welsh gold in its jewellery.",
+    "Shipping: international delivery £14.99 for all orders (UK free over £150); meta.json ships_to_countries includes US, CA, GB, AU. Returns: 30-day no-quibble money-back guarantee, unworn in original packaging; earrings, engraved and bespoke excluded."
+  ],
+  "checked_at": "2026-10-29"
+}

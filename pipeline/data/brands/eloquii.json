@@ -1,0 +1,46 @@
+{
+  "slug": "eloquii",
+  "name": "ELOQUII",
+  "website_url": "https://www.eloquii.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Fashion-First Plus-Size Clothing",
+  "hq_country": "US",
+  "parent_company": "FullBeauty Brands",
+  "size_range": "US 10–32",
+  "has_plus": true,
+  "has_petite": true,
+  "has_tall": true,
+  "ships_to": [
+    "US",
+    "CA",
+    "AU"
+  ],
+  "free_shipping_min_usd": 125,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [],
+  "sells_categories": [
+    "jeans"
+  ],
+  "materials": [],
+  "certifications": [],
+  "sources": [
+    "https://www.eloquii.com/",
+    "https://www.eloquii.com/zq/bottoms/denim/",
+    "https://www.eloquii.com/on/demandware.store/Sites-oss-Site/default/Search-ShowAjax?cgid=ZQ_Denim_1&sz=60",
+    "https://www.eloquii.com/c/eloquii-size-chart.html",
+    "https://www.eloquii.com/help-page?cid=account-shipping-zq",
+    "https://www.eloquii.com/help-page?cid=zq-custservice-returns",
+    "https://en.wikipedia.org/wiki/FullBeauty_Brands"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "2026-10-29 (maurices page run): homepage title 'Plus size Clothing, Dresses, Skirts, Suits, Tops, Jeans and Pants for Women | ELOQUII'; its brand-header tagline for ELOQUII: 'Fashion first, fit obsessed. Sizes 14+'. known_for from that tagline. The site shares a FullBeauty header (Dia & Co, Avenue and others) and sells a few outside lines (Naturalizer footwear, CUUP bras, 11 Honoré); clothing is its own label, so kind brand.",
+    "Size chart: numeric US 10 to 32 (10/12 through 32; 'Select styles available in sizes 30 and 32'); no letter sizes. Nav has Petite Bottoms and Tall Bottoms categories (has_petite, has_tall from those).",
+    "Denim page title 'Womens Plus Size Jeans and Denim at ELOQUII'; 21 items. Its listing (the category's own Search-ShowAjax request, curl, StylodexBot UA): 15 jeans tiles, every one displayed 'Price reduced from' a list price ($99.95-$119.95) to a promotion price (e.g. The Trouser Jean $59.97, list $99.95; High-Rise Pocket Barrel Jean $65, list $119.95) and one also on sale. No tile at an unreduced price, so no jeans price row; jeans in sells_categories. Named lines: The Naomi Comfort Stretch Straight Leg Jean, The Yvette Rigid Wide Leg Jean.",
+    "Shipping Info: 'We ship to all 50 states, Washington D.C, U.S. territories, and APO/FPO addresses'; contiguous US standard 5-7 business days; banner 'FREE US Standard Shipping on Orders $125+'. Its international country list includes Canada and Australia, not the United Kingdom.",
+    "Returns: US customers can return unused, unworn, unwashed or defective items 'within 30 days of the ship date'; free return as an e-gift card through Happy Returns (5,000+ drop-off locations).",
+    "Wikipedia (FullBeauty Brands): brand table lists ELOQUII as acquired, 'Plus-size casual, evening and outerwear for women, sizes 14-32'; FullBeauty is headquartered in New York City. hq_country US; founding year not confirmed from an official source, left empty."
+  ]
+}

@@ -31,6 +31,19 @@
       "source_url": "https://www.ashleystewart.com/collections/clothing-dresses/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "Public Shopify feed (101 products; 74 titled dress, jumpsuits excluded): 73 with a variant at no markdown, 1 marked down. Low Square Neck Bodycon Tank Dress $44.50; A Line Ponte Dress $59.50; high Ribbed Embellished A Line Dress, Snake Print Denim Cargo Dress, Stripe Paneled Sweater Dress $79.50. Sizes 10, 12, 14/16 to 34/36."
+    },
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 54.5,
+      "max": 79.5,
+      "min_usd": 54.5,
+      "max_usd": 79.5,
+      "fx_date": null,
+      "item_count": 37,
+      "source_url": "https://www.ashleystewart.com/collections/jeans/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Public Shopify feed of the JEANS collection (60 products, read with curl, StylodexBot UA): 37 titled jeans, none with a compare_at_price above its price, so all regular price (608 variants, every one $54.50-$79.50). Low: Fearless High Rise Skinny Jeans and Fearless High Waist Skinny Jeans $54.50; high: Crystal Tapered Jeans, Splatter Print Straight Leg Jeans and Straight Leg Cargo Jeans $79.50. Most variants at $54.50 or $59.50. Vests, skirts and jackets in the collection excluded."
     }
   ],
   "materials": [],
@@ -38,7 +51,8 @@
   "production_model": null,
   "sale_pattern": null,
   "sells_categories": [
-    "dresses"
+    "dresses",
+    "jeans"
   ],
   "sources": [
     "https://www.ashleystewart.com/",
@@ -46,13 +60,15 @@
     "https://www.ashleystewart.com/collections/clothing-dresses/products.json?limit=250",
     "https://www.ashleystewart.com/policies/shipping-policy",
     "https://www.ashleystewart.com/policies/refund-policy",
-    "https://www.ashleystewart.com/pages/store-locator"
+    "https://www.ashleystewart.com/pages/store-locator",
+    "https://www.ashleystewart.com/collections/jeans/products.json?limit=250"
   ],
   "notes": [
     "2026-10-29 (rainbow page run): live Shopify store. Title 'Plus Size Clothing, Sizes 10-36 | Ashley Stewart'; meta 'trendy plus size dresses, jeans, tops'. known_for and size_range from the title. Dress vendor is Ashley Stewart throughout, so kind brand.",
     "Shipping policy (updated Oct 8, 2026): flat rates, economy $9.95 (3–7 business days) and standard $12.95 to the 48 contiguous states and DC; $19.95 to Alaska, Hawaii, Puerto Rico and Guam; no standing free-shipping threshold (promotions only).",
     "Refund policy: free returns in store and by mail within 30 days of purchase or ship date; dresses must keep their 'Do Not Remove' tag; sizes 28 and up are online exclusives returned by mail; international sales final.",
-    "Store locator: 74 stores across 21 states (Birmingham, Chicago, Brooklyn, Houston, Miami among them)."
+    "Store locator: 74 stores across 21 states (Birmingham, Chicago, Brooklyn, Houston, Miami among them).",
+    "2026-10-29 (maurices page run, C jeans): JEANS collection feed: 37 jeans, all own label (vendor Ashley Stewart), sizes 10-36 in the size option. Collections also include Jeans Flare & Bootcut (16), Jeans Skinny (15), Signature Jeans (9) and Straight Leg Universal Jeans (6)."
   ],
   "checked_at": "2026-10-29"
 }

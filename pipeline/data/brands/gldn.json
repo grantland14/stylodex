@@ -1,0 +1,48 @@
+{
+  "name": "GLDN",
+  "website_url": "https://gldn.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Personalized Handmade Jewelry",
+  "hq_country": "US",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 30,
+  "production_model": "Most pieces made in its La Conner, WA studio",
+  "prices": [
+    {
+      "category": "charms",
+      "currency": "USD",
+      "min": 28,
+      "max": 348,
+      "min_usd": 28,
+      "max_usd": 348,
+      "fx_date": null,
+      "item_count": 50,
+      "source_url": "https://www.gldn.com/collections/charms/products.json",
+      "checked_at": "2026-10-29",
+      "note": "products.json (USD) charms collection, 65 products: 50 regular-price available. Contour Convertible Charm $28 (sterling silver, small) to Four Leaf Clover Charm $348 (10k solid gold with chain). Extra Essential Bead spacer $32 silver / $36 vermeil; Four Leaf Clover Charm alone $40 silver, $48 vermeil."
+    }
+  ],
+  "sells_categories": [
+    "charms"
+  ],
+  "sources": [
+    "https://www.gldn.com/collections/charms/products.json",
+    "https://www.gldn.com/meta.json",
+    "https://www.gldn.com/policies/shipping-policy",
+    "https://gldn.com/pages/return-policies",
+    "https://gldn.com/pages/about"
+  ],
+  "notes": [
+    "About: makers craft 90% of pieces in its La Conner, WA studio; 10% with partner specialists; donates 10% of profits.",
+    "Shipping: US standard $7.95, free over $150; made-to-order 4-7 business days production. meta.json ships_to_countries: '*', CA, US (worldwide). Returns: refund within 30 days of delivery, exchanges or store credit within 90 days; personalized and final-sale pieces excluded; $8 US return fee without package protection.",
+    "Charms options (2026-10-29, products.json): 51 of 65 charm products offer a 10k solid gold option alongside sterling silver and vermeil. Contour Convertible Charm fits hinged hoops over 13mm and all chains; Mementos set adds to hoops, charm holders and chains."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Astrid & Miyu",
+  "website_url": "https://www.astridandmiyu.com/en-us",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Charms, Piercing and Permanent Jewelry",
+  "hq_country": "GB",
+  "founded_year": 2012,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 28,
+  "prices": [
+    {
+      "category": "charms",
+      "currency": "USD",
+      "min": 55,
+      "max": 200,
+      "min_usd": 55,
+      "max_usd": 200,
+      "fx_date": null,
+      "item_count": 316,
+      "source_url": "https://www.astridandmiyu.com/en-us/collections/all-charms/products.json",
+      "checked_at": "2026-10-29",
+      "note": "products.json on the en-us market (USD) all-charms, 352 products: 316 regular-price available. Pearl Clip Charm in Gold $55 to Pavé Star Charm 9k Gold $200 (a welding charm). Types: Welding Charm 175, Click Charms 63, Charm 44, Talisman Charm 34. Initial Click Charm in Solid Gold $110, birthstone clip charms $90."
+    }
+  ],
+  "sells_categories": [
+    "charms"
+  ],
+  "sources": [
+    "https://www.astridandmiyu.com/en-us/collections/all-charms/products.json",
+    "https://www.astridandmiyu.com/meta.json",
+    "https://www.astridandmiyu.com/policies/refund-policy",
+    "https://www.astridandmiyu.com/en-us/pages/delivery-and-returns-drawer",
+    "https://www.astridandmiyu.com/en-us/pages/about-astrid-and-miyu",
+    "https://www.astridandmiyu.com/en-us/pages/astrid-and-miyu-stores",
+    "https://www.astridandmiyu.com/collections.json"
+  ],
+  "notes": [
+    "About: founded in 2012 by Connie Nam; stores page is London and UK boutiques. Offers piercing, permanent jewelry (welding charms) and tattoos in store.",
+    "Delivery: free standard delivery to the UK, EU, US and Canada; international shipping elsewhere. meta.json ships_to_countries includes US, CA, GB, AU. Returns: refunds and exchanges within 28 days of purchase; engraved and monogrammed items excluded.",
+    "Base store currency is GBP (all-charms £40-£120); the en-us market path serves USD prices, used for the price entry.",
+    "Charm types and matching pieces (collections.json): clip charms, click charms (click-charm-compatible collection), welding charms, story charms, charm-compatible hoops and charm-compatible necklaces and bracelets. Delivery page banner: in-store experiences include matching tattoos, permanent jewelry and piercings; stores page lists London and UK boutiques."
+  ],
+  "checked_at": "2026-10-29"
+}

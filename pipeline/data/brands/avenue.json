@@ -24,17 +24,21 @@
   "production_model": null,
   "sale_pattern": null,
   "sells_categories": [
-    "dresses"
+    "dresses",
+    "jeans"
   ],
   "sources": [
     "https://www.avenue.com/",
     "https://www.avenue.com/av/dresses/",
-    "https://www.avenue.com/help-page?cid=av-custservice-returns"
+    "https://www.avenue.com/help-page?cid=av-custservice-returns",
+    "https://www.avenue.com/av/denim/",
+    "https://www.avenue.com/on/demandware.store/Sites-oss-Site/default/Search-ShowAjax?cgid=AV_Denim&sz=60"
   ],
   "notes": [
     "2026-10-29 (rainbow page run, WebFetch): live store. Homepage 'Avenue is Your Best Plus Size Women's Outfitter'; title 'Shop Women's Clothing in Plus Sizes 14 - 32' (a banner says Sizes 14-36). Shipping To: United States. Free shipping only as a FullBeauty credit-card offer ($75 minimum).",
     "Dresses page (https://www.avenue.com/av/dresses/): 'Plus Size Dresses', 752 items; 15 priced tiles rendered, 14 marked down (e.g. Lucia Plisse Maxi Dress $99.99, was $139.95). One at a single price: Stretch Cotton T-Shirt Maxi Dress $29.99. Too few regular-price items for a range, so no price row; dresses in sells_categories from this page.",
-    "Returns: within 60 days of ship date; free as an e-gift card, $10.99 deducted for a refund to the original payment via Happy Returns or prepaid label."
+    "Returns: within 60 days of ship date; free as an e-gift card, $10.99 deducted for a refund to the original payment via Happy Returns or prepaid label.",
+    "2026-10-29 (maurices page run, C jeans): Denim page title 'Modern Women's Plus Size Denim Looks | Avenue'; its listing (the category's own Search-ShowAjax request, curl, StylodexBot UA) has 15 tiles, every one with a sale price under a list price (e.g. Butter Denim Straight Leg Jean $49.99, list $69.95; Butter Denim Curvy Straight Leg Jean $64.99, list $79.95). No regular-price jeans, so no price row; jeans in sells_categories."
   ],
   "checked_at": "2026-10-29"
 }

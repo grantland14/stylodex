@@ -1,0 +1,43 @@
+{
+  "name": "The Viridi-Anne",
+  "website_url": "https://www.the.viridi-anne-ec.com/",
+  "status": "verified",
+  "kind": "brand",
+  "hq_country": "JP",
+  "size_range": "Sizes 1–5",
+  "ships_to": [
+    "US"
+  ],
+  "production_model": "Made in Japan",
+  "prices": [
+    {
+      "category": "pants",
+      "currency": "USD",
+      "min": 290.42,
+      "max": 1355.28,
+      "min_usd": 290.42,
+      "max_usd": 1355.28,
+      "fx_date": null,
+      "item_count": 27,
+      "source_url": "https://www.the.viridi-anne-ec.com/collections/trousers/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "US market (country=US; cart currency USD), trousers collection, 27 available regular-price pants (markdowns excluded): Sweat Tapered Pants $290.42 (¥49,500 in Japan) to [ISO] Sashiko Overdyed Double Knee Baggy Pants $1,355.28 (¥231,000); Black Denim Wide Pants $374.32, Wool Pile Wide Trousers $477.58. All but one description says MADE IN JAPAN (the other doesn't say)."
+    }
+  ],
+  "sells_categories": [
+    "pants"
+  ],
+  "sources": [
+    "https://www.the.viridi-anne-ec.com/collections/trousers/products.json?limit=250&country=US",
+    "https://www.the.viridi-anne-ec.com/pages/shipping-policy-customs-and-import-duties",
+    "https://www.the.viridi-anne-ec.com/pages/%E8%BF%94%E5%93%81-%E4%BA%A4%E6%8F%9B%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "https://viridi-anne.jp/"
+  ],
+  "notes": [
+    "Shipping policy: international shipping to most countries; duties and import taxes are not included and are paid by the recipient; has a legal notice for EU, U.S. and Asia customers (https://www.the.viridi-anne-ec.com/pages/shipping-policy-customs-and-import-duties).",
+    "Returns (Japanese page): not accepted once 3 or more days have passed since arrival; customer pays outbound and return shipping plus a 3.4–4.15% card fee; sale items final (returns page). returns_days left empty because the window is under 3 days.",
+    "Company: Caterpillar Produit Co., Ltd., Tokyo; flagship at Ebisu 3-42-12, Shibuya (https://viridi-anne.jp/ and returns page)."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "the-viridi-anne"
+}

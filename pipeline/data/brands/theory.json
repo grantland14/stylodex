@@ -8,6 +8,7 @@
     "https://www.theory.com/"
   ],
   "notes": [
-    "2026-10-29 (ann-taylor page run): www.theory.com HTTP 403 to the StylodexBot UA. Not worked around: status, prices and shipping unread; human check."
+    "2026-10-29 (ann-taylor page run): www.theory.com HTTP 403 to the StylodexBot UA. Not worked around: status, prices and shipping unread; human check.",
+    "2026-10-29 (white-house-black-market page run): https://www.theory.com/ HTTP 403 to a plain request (StylodexBot UA). Not worked around; still unverified. Two 'stores like White House Black Market' lists (temufinds, viraltalky) name it."
   ]
 }

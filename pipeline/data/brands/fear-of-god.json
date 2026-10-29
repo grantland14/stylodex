@@ -1,0 +1,43 @@
+{
+  "name": "Fear of God",
+  "website_url": "https://fearofgod.com/",
+  "status": "verified",
+  "kind": "brand",
+  "size_range": "XS–XXXL; EU 44–56",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 15,
+  "prices": [
+    {
+      "category": "pants",
+      "currency": "USD",
+      "min": 350.0,
+      "max": 1300.0,
+      "min_usd": 350.0,
+      "max_usd": 1300.0,
+      "fx_date": null,
+      "item_count": 43,
+      "source_url": "https://fearofgod.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Store feed (USD), vendor 'Fear of God' (main line, not ESSENTIALS), type Bottoms, 43 available full-length pants with no markdown: DSYF Wide Leg Sweatpant $350, FG Classic Sweatpant $475, to Double Face Wool Cashmere Flared Pants $1,300; Double Weave Wool Tailored Flared Pants $1,190."
+    }
+  ],
+  "sells_categories": [
+    "pants"
+  ],
+  "sources": [
+    "https://fearofgod.com/products.json?limit=250",
+    "https://fearofgod.com/policies/shipping-policy",
+    "https://fearofgod.com/policies/refund-policy",
+    "https://fearofgod.com/"
+  ],
+  "notes": [
+    "US shipping: free standard ground over $100 within the contiguous US, 4-7 business days after it leaves the distribution center (https://fearofgod.com/policies/shipping-policy).",
+    "Returns within 15 days of receiving (domestic: 15 business days); ESSENTIALS, sale items and underwear are final sale; returns go to the Los Angeles distribution center (https://fearofgod.com/policies/refund-policy).",
+    "fearofgod.com also sells ESSENTIALS (separate brand file fear-of-god-essentials); this file covers the main Fear of God line only."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "fear-of-god"
+}

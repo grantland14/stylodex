@@ -31,10 +31,24 @@
       "source_url": "https://www.kendrascott.com/jewelry/necklaces/",
       "checked_at": "2026-10-29",
       "note": "Necklaces category page (Bloomreach data in the page, usd-ks-list-prices pricebook = list price, no markdowns on the items read): 483 results = 475 Necklaces + 7 Accessories (extenders, clasps). Sorted low to high: extenders $12/$20, Layer It! clasp $25 excluded; lowest necklaces $50 (Mallory Crystal Gold Short Pendant, Andi Gold Y, Phoebe, Leanne). High to low: 4.73 ct Lab Grown White Diamond Tennis Necklace in 14k Yellow Gold $5,695. Price facet: 206 at $50–$99.99, 160 at $100–$249.99, 121 at $250+. Bestsellers: Elisa Gold Pendant Necklace in Ivory Mother-of-Pearl $70, Mini Elisa Gold Satellite Short Pendant $55, Elisa Star $75, Elisa Silver Pendant $70, Color Bar Elisa Silver Locket Gift Set $175."
+    },
+    {
+      "category": "charms",
+      "currency": "USD",
+      "min": 50,
+      "max": 500,
+      "min_usd": 50,
+      "max_usd": 500,
+      "fx_date": null,
+      "item_count": 34,
+      "source_url": "https://www.kendrascott.com/jewelry/categories/charms/",
+      "checked_at": "2026-10-29",
+      "note": "Charms category page, 56 items read across ?offset=0..48 (usd-ks-list-prices pricebook only, no markdowns); 34 are charms (necklaces, bracelets, chains excluded): Metal 18k Gold Vermeil Spacer Charm $50 to 14k gold diamond charms $500 (Letter U, Pavé Longhorn, State of Texas). Small Horseshoe Charm in Sterling Silver $70, Cross Charm in 18k Gold Vermeil $80, Maisie 18k Gold Vermeil Birthstone Charm $120."
     }
   ],
   "sells_categories": [
-    "necklaces"
+    "necklaces",
+    "charms"
   ],
   "sources": [
     "https://www.kendrascott.com/jewelry/necklaces/",
@@ -45,7 +59,9 @@
     "https://www.kendrascott.com/shipping-returns.html",
     "https://www.kendrascott.com/international-orders.html",
     "https://www.kendrascott.com/about-kendra.html",
-    "https://www.kendrascott.com/stores"
+    "https://www.kendrascott.com/stores",
+    "https://www.kendrascott.com/jewelry/categories/charms/",
+    "https://www.kendrascott.com/jewelry/categories/charms/?offset=12"
   ],
   "notes": [
     "About: launched 2002 by Kendra with $500; still operates out of Austin, Texas; 'celebrated for its design and material innovation, vibrant use of color, and signature silhouettes'; custom stone silhouettes; Kendra Scott Foundation (2023), $65M donated.",
@@ -53,7 +69,9 @@
     "Shipping: free on orders $85+ (banner; Alaska, Hawaii, Puerto Rico excluded); standard 2–4 business days after processing. Returns: 30 days, unworn with tags, free return shipping; final sale = engraved, Color Bar custom, gift cards, marked-down. Holiday: 11/1/26–1/1/27 purchases returnable to 1/31/27.",
     "International (Global-e): ships to more than 175 countries (not listed); duties prepaid or on delivery; no free shipping or free returns; Canadian shoppers get duties refunded on returns (so CA stored). GB/AU not named, not stored.",
     "Store locator (/stores, /stores/stores.html) returned no store list to WebFetch or curl (Google Maps API key error), so us_stores left null even though the FAQ mentions in-store returns and store pickup.",
-    "Ring Size facet on /jewelry/rings/: 3–12 (most 5–9)."
+    "Ring Size facet on /jewelry/rings/: 3–12 (most 5–9).",
+    "Charms (2026-10-29): 56 items in the charms category incl. charm necklaces and bracelets; charms alone $50 (spacer charms) to $500 (14k gold with diamonds); sterling silver charms $60-$90 (Dira, Allison, Davis, Horseshoe, Football), 18k gold vermeil charms mostly $80-$160.",
+    "Charms metal split (2026-10-29, charms category): of 34 charms, 22 are 18k gold vermeil, 9 sterling silver, 3 14k gold; designs include Longhorn, State of Texas, Texas Coin and Y'all charms."
   ],
   "checked_at": "2026-10-29",
   "slug": "kendra-scott"

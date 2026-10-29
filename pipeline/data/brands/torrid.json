@@ -7,10 +7,12 @@
   "prices": [],
   "sources": [
     "https://www.torrid.com/",
-    "https://www.torrid.com/clothing/dresses/"
+    "https://www.torrid.com/clothing/dresses/",
+    "https://www.torrid.com/clothing/jeans/"
   ],
   "notes": [
-    "2026-10-29 (charlotte-russe run): torrid.com and /clothing/dresses/ returned HTTP 403 (one try each). No workaround."
+    "2026-10-29 (charlotte-russe run): torrid.com and /clothing/dresses/ returned HTTP 403 (one try each). No workaround.",
+    "2026-10-29 (maurices page run): torrid.com and /clothing/jeans/ returned HTTP 403 to curl (StylodexBot UA) and WebFetch, one try each. No workaround; still unverified."
   ],
   "checked_at": "2026-10-29"
 }

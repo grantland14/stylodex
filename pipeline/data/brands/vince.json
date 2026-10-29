@@ -1,0 +1,54 @@
+{
+  "slug": "vince",
+  "name": "Vince",
+  "website_url": "https://www.vince.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Understated Luxury From California",
+  "hq_country": "US",
+  "founded_year": 2002,
+  "size_range": "XXS–XL; 00–16",
+  "has_plus": false,
+  "has_petite": false,
+  "has_tall": false,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 250,
+  "returns_days": 30,
+  "sells_categories": [
+    "dresses"
+  ],
+  "checked_at": "2026-10-29",
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 298.0,
+      "max": 628.0,
+      "min_usd": 298.0,
+      "max_usd": 628.0,
+      "fx_date": null,
+      "item_count": 24,
+      "source_url": "https://www.vince.com/women-dresses-jumpsuits/",
+      "checked_at": "2026-10-29",
+      "note": "Category grid, one plain request (StylodexBot UA, ?sz=200): '24 Items', every tile data-pricetype 'Regular' with no strike-through price; all 24 are dresses (18 titles, some in two colors). Low: Ruched-Side Knit Short-Sleeve Dress $298; high: Contrast-Trim Pleated Satin Dress $628. Draped-Neck Long-Sleeve Mini Dress $328, Cozy Stretch-Jersey Midi Dress $368, Satin V-Neck Slip Dress $398, Striped Cotton-Blend Wrap Dress $398, Draped Crepe Funnel-Neck Dress $468."
+    }
+  ],
+  "sources": [
+    "https://www.vince.com/",
+    "https://www.vince.com/women-dresses-jumpsuits/",
+    "https://www.vince.com/product/satin-scarf-neck-dress-V156652092.html",
+    "https://www.vince.com/faqs.html",
+    "https://www.vince.com/returns-exchanges.html",
+    "https://www.vince.com/shipping.html",
+    "https://www.vince.com/vince-about-us/"
+  ],
+  "notes": [
+    "2026-10-29 (white-house-black-market page run): homepage title 'Men's and Women's Clothing | Vince'; meta 'Understated luxury from California. Shop new arrivals featuring cashmere, knitwear, leather & shoes for women and men.' Banner: 'free shipping on orders of $250+ and free returns on all orders.' About Us: 'Vince crafts understated luxury from California. Our design atelier was established in Los Angeles'; 'Since our founding in 2002'; materials named: leather, cashmere, silk, wool.",
+    "Sizes from dress product pages: knit and satin dresses XXS–XL (Cozy Stretch-Jersey Midi, Draped Satin Cowl-Neck, Contrast-Trim Pleated Satin); woven/crepe dresses 00–16 (Satin Scarf-Neck Dress, Draped Crepe Funnel-Neck Dress). No petite, plus or tall size types seen.",
+    "Returns (US): 'unworn, unwashed, unaltered, full-price merchandise with original tags attached for a refund or exchange within 30 days of purchase date'; 'On Sale' items exchange or store credit only; 'Final Sale' can't be returned; returns also accepted 'at any Vince Retail Store'. International returns section names Canadian shoppers (CREDITS duties reclaim), so CA in ships_to; other countries only via the site's flag selector (not read).",
+    "Shipping: contiguous US Ground 2–8 business days, 'FREE on orders of $250 or more'; 2-Day Express $15; Overnight $30; Alaska and Hawaii 2-Day $30. Store locator (/s/vince/storelocator) renders by script; us_stores left empty."
+  ]
+}

@@ -35,6 +35,36 @@
         }
       ],
       "fetched_at": "2026-10-29"
+    },
+    "tees": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/a-p-c/t-shirt-a-p-c-x-barbour-iak.webp",
+          "title": "T-Shirt A.P.C. X Barbour",
+          "product_path": "/products/t-shirt-a-p-c-x-barbour-iak",
+          "price": 165,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHSY-H26644IAK_00.jpg?v=1791996873"
+        },
+        {
+          "path": "/img/products/a-p-c/paaix-h26662_logo-t-shirt.webp",
+          "title": "Logo T-Shirt",
+          "product_path": "/products/paaix-h26662_logo-t-shirt",
+          "price": 190,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/PAAIX-H26662AAB_01.jpg?v=1792706317"
+        },
+        {
+          "path": "/img/products/a-p-c/logo-t-shirt-paaiw-h12685_iaj.webp",
+          "title": "Logo T-Shirt",
+          "product_path": "/products/logo-t-shirt-paaiw-h12685_iaj",
+          "price": 330,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/PAAIW-H12685IAJ_00.jpg?v=1792607243"
+        }
+      ],
+      "fetched_at": "2026-10-29"
     }
   },
   "abercrombie-fitch": {
@@ -369,6 +399,36 @@
         }
       ],
       "fetched_at": "2026-10-29"
+    },
+    "graphic-tees": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/akira/sold-out-cropped-tee.webp",
+          "title": "SOLD OUT CROPPED TEE",
+          "product_path": "/products/sold-out-cropped-tee",
+          "price": 59.9,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0850/1329/9515/files/GLM241007-3-NEW2WHITE-BLACK1.jpg?v=1782915624"
+        },
+        {
+          "path": "/img/products/akira/in-too-deep-rhinestone-tee-in-mineral-wash.webp",
+          "title": "IN TOO DEEP RHINESTONE TEE IN MINERAL WASH",
+          "product_path": "/products/in-too-deep-rhinestone-tee-in-mineral-wash",
+          "price": 69.9,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0850/1329/9515/files/YLM32805-1-GRYGREY-MULTI1.jpg?v=1793197144"
+        },
+        {
+          "path": "/img/products/akira/eyes-on-the-prize-graphic-tee.webp",
+          "title": "EYES ON THE PRIZE GRAPHIC TEE",
+          "product_path": "/products/eyes-on-the-prize-graphic-tee",
+          "price": 45.9,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0850/1329/9515/files/GLM2601083BLACK-MULTI1.jpg?v=1781196893"
+        }
+      ],
+      "fetched_at": "2026-10-29"
     }
   },
   "albaray": {
@@ -510,6 +570,12 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "altard-state": {
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "american-eagle": {
     "dresses": {
       "status": "no_feed",
@@ -612,6 +678,76 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "archie-mcphee": {
+    "graphic-tees": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/archie-mcphee/axolotl-t-shirt.webp",
+          "title": "Axolotl T-shirt",
+          "product_path": "/products/axolotl-t-shirt",
+          "price": 19.95,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1365/2497/products/AxolotlT-ShirtArtwork-2.jpg?v=1682098297"
+        },
+        {
+          "path": "/img/products/archie-mcphee/retro-bigfoot-t-shirt.webp",
+          "title": "Retro Bigfoot T-Shirt",
+          "product_path": "/products/retro-bigfoot-t-shirt",
+          "price": 19.95,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1365/2497/products/RetroBigfootT-ShirtImageForestGreen.jpg?v=1665808504"
+        },
+        {
+          "path": "/img/products/archie-mcphee/rubber-chicken-museum-t-shirt.webp",
+          "title": "Rubber Chicken Museum T-Shirt",
+          "product_path": "/products/rubber-chicken-museum-t-shirt",
+          "price": 19.95,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1365/2497/products/RubberChickenMuseum-Shirt.png?v=1665808334"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "armedangels": {
+    "tops": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "ashley-stewart": {
+    "dresses": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/ashley-stewart/embbellslv-010-s0033s-19.webp",
+          "title": "Embellished Ribbed A Line Dress",
+          "product_path": "/products/embbellslv-010-s0033s-19",
+          "price": 79.5,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0629/1115/2172/files/010-S0033S_0326_front.jpg?v=1791372714"
+        },
+        {
+          "path": "/img/products/ashley-stewart/clrblkswrl-010-red02drsxset.webp",
+          "title": "Swirl Intarsia Sweater Dress",
+          "product_path": "/products/clrblkswrl-010-red02drsxset",
+          "price": 64.5,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0629/1115/2172/files/010-RED02DRSXSET_0622_front_8b0c9b7e-85e5-49a0-b612-d080b7264067.jpg?v=1792410287"
+        },
+        {
+          "path": "/img/products/ashley-stewart/oeembbells-010-s0033soe-19.webp",
+          "title": "Ribbed Embellished A Line Dress",
+          "product_path": "/products/oeembbells-010-s0033soe-19",
+          "price": 79.5,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0629/1115/2172/files/010-S0033SOE_0918_front_85ca978b-c672-4bb3-bf40-c9328e95efc1.jpg?v=1791375925"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "ashley-williams": {
     "jewelry": {
       "status": "no_feed",
@@ -657,6 +793,12 @@
     }
   },
   "avara": {
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "avenue": {
     "dresses": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
@@ -752,6 +894,12 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "bassike": {
+    "tees": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "baublebar": {
     "necklaces": {
       "status": "ok",
@@ -790,6 +938,38 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "beginning-boutique": {
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/beginning-boutique/harriet-red-chiffon-key-hole-halter-neck-top.webp",
+          "title": "Harriet Red Chiffon Key Hole Halter Neck Top",
+          "product_path": "/products/harriet-red-chiffon-key-hole-halter-neck-top",
+          "price": 59.99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0077/9327/9033/files/Harriet-Red-Chiffon-Key-Hole-Halter-Neck-Top-20261026-1.jpg?v=1792717521"
+        },
+        {
+          "path": "/img/products/beginning-boutique/vanessa-red-jacquard-satin-racer-top.webp",
+          "title": "Vanessa Red Jacquard Satin Racer Top",
+          "product_path": "/products/vanessa-red-jacquard-satin-racer-top",
+          "price": 59.99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0077/9327/9033/files/Vanessa-Red-Jacquard-Satin-Racer-Top-20261026-1.jpg?v=1792717520"
+        },
+        {
+          "path": "/img/products/beginning-boutique/toni-black-stripe-v-neck-long-sleeve-top.webp",
+          "title": "Toni Black Stripe V Neck Long Sleeve Top",
+          "product_path": "/products/toni-black-stripe-v-neck-long-sleeve-top",
+          "price": 59.99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0077/9327/9033/files/Toni-V-Neck-Long-Sleeve-Top-20261012-1.jpg?v=1791507997"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "belk": {
     "womens-clothing": {
       "status": "no_feed",
@@ -812,6 +992,38 @@
     "hoodies": {
       "status": "error",
       "error": "Command failed: curl -sSL --max-time 25 --max-filesize 15000000 -A StylodexBot/0.1 (+https://www.stylodex.com/how-we-pick) -w \n%{http_code} https://cdn.shopify.com/s/files/1/0616/7900/9967/files/v2_ho",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "big-bud-press": {
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/big-bud-press/hot-dogs-beer-wine-pretzels-pantry-button-up.webp",
+          "title": "Hot Dogs & Beer & Wine & Pretzels Pantry Button-Up",
+          "product_path": "/products/hot-dogs-beer-wine-pretzels-pantry-button-up",
+          "price": 135,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0775/2355/files/ECOMMBBPxWALTSBEERANDHOTDOGPANTRYISAACMBYMIGUEL10-14-260898.png?v=1792547446"
+        },
+        {
+          "path": "/img/products/big-bud-press/pinball-playfield-pantry-button-up.webp",
+          "title": "Pinball Playfield Pantry Button-Up",
+          "product_path": "/products/pinball-playfield-pantry-button-up",
+          "price": 135,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0775/2355/files/ECOMM_BBP_x_WALTS_PINBALL_PRINT_PANTRY_KANDIA_P_BY_MIGUEL_10-14-260380.png?v=1792548226"
+        },
+        {
+          "path": "/img/products/big-bud-press/raglan-tee-pinball-player.webp",
+          "title": "Raglan Tee - Player One",
+          "product_path": "/products/raglan-tee-pinball-player",
+          "price": 68,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0775/2355/files/01FLATSWALTSCOLLECTIONBYDOT10-12-260058.png?v=1792616285"
+        }
+      ],
       "fetched_at": "2026-10-29"
     }
   },
@@ -850,6 +1062,36 @@
   "billabong": {
     "mens-clothing": {
       "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    },
+    "boardshorts": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/billabong/a-i-rising-sun-pro-22-bl000551m-dol.webp",
+          "title": "A.I. Rising Sun Pro 22\" Boardshorts - Dark Olive",
+          "product_path": "/products/a-i-rising-sun-pro-22-bl000551m-dol",
+          "price": 75.95,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0580/9301/1077/files/BL000551M_DOL_OM-F.jpg?v=1789585254"
+        },
+        {
+          "path": "/img/products/billabong/a-i-rising-sun-pro-22-bl000551m-xkkw.webp",
+          "title": "A.I. Rising Sun Pro 22\" Boardshorts - Black/White",
+          "product_path": "/products/a-i-rising-sun-pro-22-bl000551m-xkkw",
+          "price": 75.95,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0580/9301/1077/files/BL000551M_XKKW_OM-F.jpg?v=1780702025"
+        },
+        {
+          "path": "/img/products/billabong/fluid-2k-pro-bl000547m-pht.webp",
+          "title": "Fluid 2K Pro Performance 21\" Boardshorts - Phantom",
+          "product_path": "/products/fluid-2k-pro-bl000547m-pht",
+          "price": 69.95,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0580/9301/1077/files/BL000547M_PHT_OM-F.jpg?v=1780701865"
+        }
+      ],
       "fetched_at": "2026-10-29"
     }
   },
@@ -912,6 +1154,38 @@
           "price": 35,
           "currency": "USD",
           "source_image": "https://cdn.shopify.com/s/files/1/0660/0091/products/thelovers_mockup.jpg?v=1648774726"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "blackmilk": {
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/blackmilk/chromatic-reppin-cotton-giant-tee.webp",
+          "title": "Chromatic Reppin' Cotton Giant Tee",
+          "product_path": "/products/chromatic-reppin-cotton-giant-tee",
+          "price": 79,
+          "currency": "AUD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0881/0935/1193/files/Chromatic-Reppin_-Cotton-Giant-Tee-campaign-1.png?v=1792703847"
+        },
+        {
+          "path": "/img/products/blackmilk/firestarter-baseball-shirt.webp",
+          "title": "FIRESTARTER Baseball Shirt",
+          "product_path": "/products/firestarter-baseball-shirt",
+          "price": 129,
+          "currency": "AUD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0881/0935/1193/files/FIRESTARTER-Baseball-Shirt-Girlband-Skirt-Campaign-2.png?v=1792703756"
+        },
+        {
+          "path": "/img/products/blackmilk/k-da-cu-tee-cotton-baby-tee.webp",
+          "title": "K/DA CU-TEE Cotton Baby Tee",
+          "product_path": "/products/k-da-cu-tee-cotton-baby-tee",
+          "price": 59,
+          "currency": "AUD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0881/0935/1193/files/K_DA-CU-TEE-Cotton-Baby-Tee-Campaign-1.png?v=1792709645"
         }
       ],
       "fetched_at": "2026-10-29"
@@ -1064,6 +1338,20 @@
   },
   "boohoo": {
     "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    },
+    "jeans": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    },
+    "tops": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "boxlunch": {
+    "graphic-tees": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
@@ -1264,6 +1552,12 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "century-21": {
+    "womens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "champion": {
     "hoodies": {
       "status": "ok",
@@ -1364,6 +1658,36 @@
         }
       ],
       "fetched_at": "2026-10-29"
+    },
+    "jeans": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/charlotte-russe/0711-39071217-ripped-washed-jean.webp",
+          "title": "Ripped Washed Jean",
+          "product_path": "/products/0711-39071217-ripped-washed-jean",
+          "price": 20,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0074/5124/6676/files/071139071217-38-0.jpg?v=1776197776"
+        },
+        {
+          "path": "/img/products/charlotte-russe/0711-39072101-low-rise-ultra-wide-jean.webp",
+          "title": "Low Rise Ultra Wide Jean",
+          "product_path": "/products/0711-39072101-low-rise-ultra-wide-jean",
+          "price": 25,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0074/5124/6676/files/071139072101-76-0.jpg?v=1776197823"
+        },
+        {
+          "path": "/img/products/charlotte-russe/0711-39071391-high-rise-ripped-ultra-baggy-jean.webp",
+          "title": "High Rise Ultra Baggy Jean",
+          "product_path": "/products/0711-39071391-high-rise-ripped-ultra-baggy-jean",
+          "price": 20,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0074/5124/6676/files/071139071391-03-0.jpg?v=1776977686"
+        }
+      ],
+      "fetched_at": "2026-10-29"
     }
   },
   "chicos": {
@@ -1379,6 +1703,12 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "christy-dawn": {
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "chrome-hearts": {
     "rings": {
       "status": "no_feed",
@@ -1386,6 +1716,18 @@
     }
   },
   "cider": {
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "citi-trends": {
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "cleobella": {
     "dresses": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
@@ -1629,6 +1971,38 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "criminal-damage": {
+    "jeans": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/criminal-damage/patched-washed-jean.webp",
+          "title": "PATCHED WASHED JEAN",
+          "product_path": "/products/patched-washed-jean",
+          "price": 90,
+          "currency": "GBP",
+          "source_image": "https://cdn.shopify.com/s/files/1/0058/8146/2873/files/PATCHED_WASHED_JEAN.jpg?v=1789737608"
+        },
+        {
+          "path": "/img/products/criminal-damage/laser-print-logo-jean.webp",
+          "title": "LASER PRINT LOGO JEAN",
+          "product_path": "/products/laser-print-logo-jean",
+          "price": 90,
+          "currency": "GBP",
+          "source_image": "https://cdn.shopify.com/s/files/1/0058/8146/2873/files/ChatGPTImageAug27_2026_11_57_28AM.png?v=1787828258"
+        },
+        {
+          "path": "/img/products/criminal-damage/patched-washed-jean-black.webp",
+          "title": "PATCHED WASHED JEAN",
+          "product_path": "/products/patched-washed-jean-black",
+          "price": 90,
+          "currency": "GBP",
+          "source_image": "https://cdn.shopify.com/s/files/1/0058/8146/2873/files/CharcoalWashedCriminalDenimJeans.png?v=1792669224"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "cross-colours": {
     "hoodies": {
       "status": "ok",
@@ -1762,6 +2136,13 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "dangerfield": {
+    "tops": {
+      "status": "no_products",
+      "items": [],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "darc-sport": {
     "tees": {
       "status": "no_products",
@@ -1832,6 +2213,38 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "denim-tears": {
+    "jeans": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/denim-tears/straight-cotton-wreath-denim-pant-selvedge.webp",
+          "title": "Straight Cotton Wreath Denim Pant Selvedge",
+          "product_path": "/products/straight-cotton-wreath-denim-pant-selvedge",
+          "price": 295,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0258/6102/9962/files/StraightSelvedgeCWDenimPant-Front.jpg?v=1776349756"
+        },
+        {
+          "path": "/img/products/denim-tears/straight-denim-pant-light-wash.webp",
+          "title": "Straight Denim Pant Light Wash",
+          "product_path": "/products/straight-denim-pant-light-wash",
+          "price": 210,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0258/6102/9962/files/LightWashStraightLegDenimJeans-Front.jpg?v=1776349779"
+        },
+        {
+          "path": "/img/products/denim-tears/straight-denim-pant-selvedge.webp",
+          "title": "Straight Denim Pant Selvedge",
+          "product_path": "/products/straight-denim-pant-selvedge",
+          "price": 210,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0258/6102/9962/files/SelvedgeStraightLegDenimJeans-Front.jpg?v=1776349860"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "derschutze": {
     "hoodies": {
       "status": "ok",
@@ -1864,6 +2277,38 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "deus-ex-machina": {
+    "boardshorts": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/deus-ex-machina/ricos-boardshort-olive.webp",
+          "title": "Ricos Boardshort - Olive",
+          "product_path": "/products/ricos-boardshort-olive",
+          "price": 99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0909/4166/files/D263MBS558-Ricos_20Boardshort-Olive-1.jpg?v=1785284620"
+        },
+        {
+          "path": "/img/products/deus-ex-machina/ricos-boardshort-mechanic-blue.webp",
+          "title": "Ricos Boardshort - Mechanic Blue",
+          "product_path": "/products/ricos-boardshort-mechanic-blue",
+          "price": 99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0909/4166/files/D263MBS558-Ricos_20Boardshort-Mechanic_20Blue-1.jpg?v=1785284619"
+        },
+        {
+          "path": "/img/products/deus-ex-machina/long-boardshort-glacier-blue.webp",
+          "title": "Long Boardshort - Glacier Blue",
+          "product_path": "/products/long-boardshort-glacier-blue",
+          "price": 99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0909/4166/files/D263MBS522-Long_20Boardshort-Glacier_20Blue-1.jpg?v=1785284501"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "diesel": {
     "jeans": {
       "status": "no_feed",
@@ -1877,6 +2322,38 @@
     },
     "jeans": {
       "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "disturbia": {
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/disturbia/ebon-shaggy-sleeve-knit-jumper.webp",
+          "title": "Ebon Shaggy Sleeve Knit Jumper",
+          "product_path": "/products/ebon-shaggy-sleeve-knit-jumper",
+          "price": 74,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0713/2187/8802/files/KN5705-S_1.jpg?v=1792680391"
+        },
+        {
+          "path": "/img/products/disturbia/disturbia-x-the-witcher-lace-up-oversized-t-shirt.webp",
+          "title": "Disturbia x The Witcher Lace Up Oversized T-Shirt",
+          "product_path": "/products/disturbia-x-the-witcher-lace-up-oversized-t-shirt",
+          "price": 57,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0713/2187/8802/files/TO7625-UK6_1.jpg?v=1791987516"
+        },
+        {
+          "path": "/img/products/disturbia/covet-cotton-blend-witches-knot-cable-knit-sweater-black.webp",
+          "title": "Covet Cotton-Blend Witches Knot Cable Knit Sweater - Black",
+          "product_path": "/products/covet-cotton-blend-witches-knot-cable-knit-sweater-black",
+          "price": 74,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0713/2187/8802/files/KNC94D_1.jpg?v=1787752602"
+        }
+      ],
       "fetched_at": "2026-10-29"
     }
   },
@@ -1980,9 +2457,73 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "dover-street-market": {
+    "womens-clothing": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/dover-street-market/vaquera-women-converse-vx-1-white-vaq12sh02-aw26.webp",
+          "title": "Vaquera - Women's Converse VX-1 Heel - (White)",
+          "product_path": "/products/vaquera-women-converse-vx-1-white-vaq12sh02-aw26",
+          "price": 250,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0491/1471/0168/files/A19133_9Y.jpg?v=1793108292"
+        },
+        {
+          "path": "/img/products/dover-street-market/vaquera-women-converse-vx-1-black-vaq12sh01-aw26.webp",
+          "title": "Vaquera - Women's Converse VX-1 Heel - (Black)",
+          "product_path": "/products/vaquera-women-converse-vx-1-black-vaq12sh01-aw26",
+          "price": 250,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0491/1471/0168/files/A19134_9Y.jpg?v=1793108407"
+        },
+        {
+          "path": "/img/products/dover-street-market/new-balance-super-comp-elite-v6-black-wrcel8ui-aw26.webp",
+          "title": "New Balance - Women's DSM SC Elite v6 Shoes - (Black/Reflective)",
+          "product_path": "/products/new-balance-super-comp-elite-v6-black-wrcel8ui-aw26",
+          "price": 285,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0491/1471/0168/files/DSM_NEW_BALANCE_16000006425335_4672_45118d6a-5991-4e32-8120-540d3d79995f.jpg?v=1792597713"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "draper-james": {
     "dresses": {
       "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "dressbarn": {
+    "dresses": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/dressbarn/manhattan-shift-dress-sky-blue-blooms-plus.webp",
+          "title": "Manhattan Shift Dress - Sky Blue Blooms - Plus",
+          "product_path": "/products/manhattan-shift-dress-sky-blue-blooms-plus",
+          "price": 128,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0281/3837/3173/files/1-11191302-SKY.webp?v=1782943404"
+        },
+        {
+          "path": "/img/products/dressbarn/manhattan-shift-dress-blue-floral-plus.webp",
+          "title": "Manhattan Shift Dress - Blue Floral - Plus",
+          "product_path": "/products/manhattan-shift-dress-blue-floral-plus",
+          "price": 128,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0281/3837/3173/files/1-11191302-BFP.webp?v=1789756131"
+        },
+        {
+          "path": "/img/products/dressbarn/beguiling-border-print-wrap-dress-black-plus.webp",
+          "title": "Beguiling Border Print Wrap Dress - Black - Plus",
+          "product_path": "/products/beguiling-border-print-wrap-dress-black-plus",
+          "price": 128,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0281/3837/3173/files/2-18162203-BBP.webp?v=1781798086"
+        }
+      ],
       "fetched_at": "2026-10-29"
     }
   },
@@ -2169,6 +2710,12 @@
           "source_image": "https://cdn.shopify.com/s/files/1/1995/6887/files/E5012506E_BABYBLUE_1.jpg?v=1763012670"
         }
       ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "empyre": {
+    "jeans": {
+      "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
   },
@@ -2464,6 +3011,12 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "faithfull-the-brand": {
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "farm-rio": {
     "dresses": {
       "status": "ok",
@@ -2576,6 +3129,38 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "florence-marine-x": {
+    "boardshorts": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/florence-marine-x/florence-marine-x-society-membership.webp",
+          "title": "Florence Membership",
+          "product_path": "/products/florence-marine-x-society-membership",
+          "price": 20,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0449/7463/7220/products/Inside-2130-f.jpg?v=1678719955"
+        },
+        {
+          "path": "/img/products/florence-marine-x/cordura--airtex-boardshort.webp",
+          "title": "Cordura® Airtex Boardshort",
+          "product_path": "/products/cordura®-airtex-boardshort",
+          "price": 105,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0449/7463/7220/files/FMBS00058-SYS-A.jpg?v=1791412098"
+        },
+        {
+          "path": "/img/products/florence-marine-x/airtex-2-in-1-boardshort.webp",
+          "title": "Airtex 2-in-1 Boardshort",
+          "product_path": "/products/airtex-2-in-1-boardshort",
+          "price": 119,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0449/7463/7220/files/FMBS00051-STM-A.jpg?v=1785187327"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "foot-locker": {
     "mens-clothing": {
       "status": "no_feed",
@@ -2661,6 +3246,36 @@
     "mens-clothing": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
+    },
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/forever-21/01409115.webp",
+          "title": "Mock Neck Illusion Ribbed Sweater",
+          "product_path": "/products/01409115",
+          "price": 24.99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0702/7847/9906/files/01409115_01_FRONTDETAIL.jpg?v=1792786825"
+        },
+        {
+          "path": "/img/products/forever-21/01409856.webp",
+          "title": "Plunging V-Neck Halter Tank Top",
+          "product_path": "/products/01409856",
+          "price": 32.99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0702/7847/9906/files/01409856_01_Front.jpg?v=1790339530"
+        },
+        {
+          "path": "/img/products/forever-21/01409858.webp",
+          "title": "Floral Lace Cropped Short Sleeve Top",
+          "product_path": "/products/01409858",
+          "price": 29.99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0702/7847/9906/files/01409858_01_FRONTDETAIL.png?v=1792435847"
+        }
+      ],
+      "fetched_at": "2026-10-29"
     }
   },
   "frank-and-oak": {
@@ -2682,6 +3297,36 @@
           "price": 165,
           "currency": "CAD",
           "source_image": "https://cdn.shopify.com/s/files/1/0553/7100/6130/files/2LKN0003FE-BLACK24.jpg?v=1788977399"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    },
+    "tees": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/frank-and-oak/mens-knit-t-shirt-aura-orange-2mkt0028fe-hred.webp",
+          "title": "ESSENTIAL RELAXED TEE - LONG SLEEVE",
+          "product_path": "/products/mens-knit-t-shirt-aura-orange-2mkt0028fe-hred",
+          "price": 55,
+          "currency": "CAD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0553/7100/6130/files/2MKT0028FE-_AURA_ORANGE-3443.jpg?v=1790344134"
+        },
+        {
+          "path": "/img/products/frank-and-oak/mens-knit-t-shirt-black-2mkt0028fe-bla.webp",
+          "title": "ESSENTIAL RELAXED TEE - LONG SLEEVE",
+          "product_path": "/products/mens-knit-t-shirt-black-2mkt0028fe-bla",
+          "price": 55,
+          "currency": "CAD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0553/7100/6130/files/2MKT0028FE_-_BLACK-2842_2.jpg?v=1790344007"
+        },
+        {
+          "path": "/img/products/frank-and-oak/mens-knit-t-shirt-blue-nights-2mkt0031fe-night.webp",
+          "title": "ESSENTIAL RELAXED TEE",
+          "product_path": "/products/mens-knit-t-shirt-blue-nights-2mkt0031fe-night",
+          "price": 45,
+          "currency": "CAD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0553/7100/6130/files/2MKT0031FE_-NAVY-1102.jpg?v=1788280121"
         }
       ],
       "fetched_at": "2026-10-29"
@@ -2749,6 +3394,44 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "fwrd": {
+    "womens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "fye": {
+    "graphic-tees": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/fye/godzilla-great-wave-t-shirt_pid-ckf60wejz000801myd67s3t99.webp",
+          "title": "Godzilla Great Wave T-Shirt",
+          "product_path": "/products/godzilla-great-wave-t-shirt_pid-ckf60wejz000801myd67s3t99",
+          "price": 24.99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0790/7436/1652/files/39956706512e639bf48a7db82beb96d3.jpg?v=1784071873"
+        },
+        {
+          "path": "/img/products/fye/berserk-armor-t-shirt_pid-cm2whexnq000201lp4on4cao5.webp",
+          "title": "Berserk Armor T-Shirt",
+          "product_path": "/products/berserk-armor-t-shirt_pid-cm2whexnq000201lp4on4cao5",
+          "price": 24.99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0790/7436/1652/files/berserk-armor-tshirt.png?v=1730752461"
+        },
+        {
+          "path": "/img/products/fye/ghostface-no-you-t-shirt_pid-cliz6eh50000f01mw56xl13pz.webp",
+          "title": "Ghostface No You T-Shirt",
+          "product_path": "/products/ghostface-no-you-t-shirt_pid-cliz6eh50000f01mw56xl13pz",
+          "price": 24.99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0790/7436/1652/files/0441e875349b2ed998428d17322baaf8.jpg?v=1788391885"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "gabes": {
     "womens-clothing": {
       "status": "no_feed",
@@ -2773,6 +3456,16 @@
       "fetched_at": "2026-10-29"
     },
     "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    },
+    "tops": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "garage": {
+    "sweatpants": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
@@ -2836,6 +3529,38 @@
           "price": 525,
           "currency": "USD",
           "source_image": "https://cdn.shopify.com/s/files/1/0668/4043/files/LONGSHAZAM2ARING-SMOOTH-HERO2.jpg?v=1792020772"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "goodbye-bread": {
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/goodbye-bread/distortion-crop-blazer.webp",
+          "title": "Distortion Crop Blazer",
+          "product_path": "/products/distortion-crop-blazer",
+          "price": 64,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1004/8626/products/IMG_3961.jpg?v=1678963138"
+        },
+        {
+          "path": "/img/products/goodbye-bread/lover-top.webp",
+          "title": "Lover Top",
+          "product_path": "/products/lover-top",
+          "price": 42,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1004/8626/products/gbbhigh_IMG_6625_d9d7ced8-896d-43bb-ba14-c95c1410957a.jpg?v=1674659138"
+        },
+        {
+          "path": "/img/products/goodbye-bread/flail-crop-tee.webp",
+          "title": "Flail Crop Tee",
+          "product_path": "/products/flail-crop-tee",
+          "price": 36,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1004/8626/products/gbbhigh_IMG_0325.jpg?v=1667398781"
         }
       ],
       "fetched_at": "2026-10-29"
@@ -3042,10 +3767,64 @@
         }
       ],
       "fetched_at": "2026-10-29"
+    },
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/honest-basics/cable-jumper.webp",
+          "title": "Cable Jumper",
+          "product_path": "/products/cable-jumper",
+          "price": 49.9,
+          "currency": "EUR",
+          "source_image": "https://cdn.shopify.com/s/files/1/0025/4099/4627/files/HB-20169_CableKnit_Women_Willow_3.jpg?v=1792658830"
+        },
+        {
+          "path": "/img/products/honest-basics/mc-cardigan.webp",
+          "title": "MC Cardigan",
+          "product_path": "/products/mc-cardigan",
+          "price": 39.9,
+          "currency": "EUR",
+          "source_image": "https://cdn.shopify.com/s/files/1/0025/4099/4627/files/HB-20168_MCCardigan_Women_Midnight_5.jpg?v=1792604727"
+        },
+        {
+          "path": "/img/products/honest-basics/polo-knit.webp",
+          "title": "Polo Knit",
+          "product_path": "/products/polo-knit",
+          "price": 29.9,
+          "currency": "EUR",
+          "source_image": "https://cdn.shopify.com/s/files/1/0025/4099/4627/files/HB-20167_PoloKnit_Women_Cloud_3.jpg?v=1792604445"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "hoodrich": {
+    "jeans": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/hoodrich/ritual-denim-black-lava-smoke.webp",
+          "title": "Ritual Jeans - Black/Grey",
+          "product_path": "/products/ritual-denim-black-lava-smoke",
+          "price": 70,
+          "currency": "GBP",
+          "source_image": "https://cdn.shopify.com/s/files/1/1132/9176/files/HoodrichUK2211246094.jpg?v=1746524021"
+        }
+      ],
+      "fetched_at": "2026-10-29"
     }
   },
   "hot-topic": {
     "mens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    },
+    "graphic-tees": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    },
+    "tops": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
@@ -3082,9 +3861,63 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "howler-brothers": {
+    "boardshorts": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/howler-brothers/deep-set-boardshorts-pond-patterns-iron-blue.webp",
+          "title": "Deep Set Boardshorts - Pond Patterns : Iron Blue",
+          "product_path": "/products/deep-set-boardshorts-pond-patterns-iron-blue",
+          "price": 79,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0206/9034/files/F26_Boardshorts_Deep-Set-Boardshorts_Pond-Patterns-Iron-Blue_Flat-Front__Cream.jpg?v=1784219161"
+        },
+        {
+          "path": "/img/products/howler-brothers/deep-set-boardshorts-pond-patterns-mermaid.webp",
+          "title": "Deep Set Boardshorts - Pond Patterns : Mermaid",
+          "product_path": "/products/deep-set-boardshorts-pond-patterns-mermaid",
+          "price": 79,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0206/9034/files/S26_Bottoms_Deep-Set-Boardshorts_Pond-Patterns_Mermaid_Flat-Front_tan.jpg?v=1769618524"
+        },
+        {
+          "path": "/img/products/howler-brothers/bruja-boardshorts-fungi-forage-duck-brown.webp",
+          "title": "Bruja Boardshorts - Fungi Forage : Duck Brown",
+          "product_path": "/products/bruja-boardshorts-fungi-forage-duck-brown",
+          "price": 75,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0206/9034/files/F26_Boardshorts_Bruja-Boardshorts_Fungi-Forage-Duck-Brown_Flat-Front__Cream.jpg?v=1784218822"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "hurley": {
     "mens-clothing": {
       "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    },
+    "boardshorts": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/hurley/hurley-x-keith-haring-phantom-eco-sessions-16-boardshort-hsp26mmbs11876_001-black.webp",
+          "title": "Hurley x Keith Haring Phantom Eco Sessions 16\" Boardshort",
+          "product_path": "/products/hurley-x-keith-haring-phantom-eco-sessions-16-boardshort-hsp26mmbs11876_001-black",
+          "price": 69.95,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0277/3680/1419/files/HSP26MMBS11876_001_04.png?v=1776815558"
+        },
+        {
+          "path": "/img/products/hurley/phantom-naturals-scallop-panel-17-hsp26mmbs07730_435-monsoon.webp",
+          "title": "Phantom Naturals Scallop Panel 17\"",
+          "product_path": "/products/phantom-naturals-scallop-panel-17-hsp26mmbs07730_435-monsoon",
+          "price": 65,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0277/3680/1419/files/HSP26MMBS07730_435_04.png?v=1776809158"
+        }
+      ],
       "fetched_at": "2026-10-29"
     }
   },
@@ -3147,6 +3980,38 @@
           "price": 59,
           "currency": "USD",
           "source_image": "https://cdn.shopify.com/s/files/1/0130/3137/4906/files/GIA18740-INA-TANK-BLACK-15.jpg?v=1792724064"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "icecream": {
+    "jeans": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/icecream/selvedge-running-dog-denim-carpenter-pant-220-16-050-indigo.webp",
+          "title": "Selvedge Running Dog Denim Carpenter Pant",
+          "product_path": "/products/selvedge-running-dog-denim-carpenter-pant-220-16-050-indigo",
+          "price": 250,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0739/3265/files/H25_H2_220-16-050-Indigo_LAY-FRONT_1.png?v=1771361276"
+        },
+        {
+          "path": "/img/products/icecream/cones-_-bones-double-scoop-denim-pants-icdp26269-light-wash-blue.webp",
+          "title": "cones & bones double scoop denim pants",
+          "product_path": "/products/cones-_-bones-double-scoop-denim-pants-icdp26269-light-wash-blue",
+          "price": 180,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0739/3265/files/ICDP26269_LIGHTWASHBLUE_01.png?v=1778010476"
+        },
+        {
+          "path": "/img/products/icecream/triple-scoop-running-dog-denim-pants-icdp26374-indigo.webp",
+          "title": "Triple Scoop Running Dog Denim Pants",
+          "product_path": "/products/triple-scoop-running-dog-denim-pants-icdp26374-indigo",
+          "price": 180,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0739/3265/files/ICDP26374_INDIGO_01.png?v=1790635642"
         }
       ],
       "fetched_at": "2026-10-29"
@@ -3284,6 +4149,10 @@
   },
   "jcpenney": {
     "womens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    },
+    "tops": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
@@ -3541,6 +4410,38 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "katin": {
+    "boardshorts": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/katin/waterman-trunk.webp",
+          "title": "WATERMAN TRUNK",
+          "product_path": "/products/waterman-trunk",
+          "price": 75,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0802/7401/products/Katin-Waterman-Trunk-Black-01.jpg?v=1765581257"
+        },
+        {
+          "path": "/img/products/katin/waterman-trunk-20.webp",
+          "title": "WATERMAN TRUNK 20\"",
+          "product_path": "/products/waterman-trunk-20",
+          "price": 75,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0802/7401/files/katin-fh26-trunks-waterman-trunk-20-camo-ecom-flat-lay-01-front.jpg?v=1783990365"
+        },
+        {
+          "path": "/img/products/katin/track-surf-trunk.webp",
+          "title": "TRACK SURF TRUNK",
+          "product_path": "/products/track-surf-trunk",
+          "price": 75,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0802/7401/files/katin-su26-track-surf-trunk-royal-blue-flat-lay-front.jpg?v=1783709322"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "kendra-scott": {
     "necklaces": {
       "status": "no_feed",
@@ -3583,6 +4484,36 @@
     "graphic-tees": {
       "status": "no_products",
       "items": [],
+      "fetched_at": "2026-10-29"
+    },
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/killstar/lisbeth-corset-top.webp",
+          "title": "Lisbeth Corset Top",
+          "product_path": "/products/lisbeth-corset-top",
+          "price": 65,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1014/6323/files/LisbethCorsetTop-A.jpg?v=1769425354"
+        },
+        {
+          "path": "/img/products/killstar/dead-come-alive-t-shirt.webp",
+          "title": "Dead Come Alive T-Shirt",
+          "product_path": "/products/dead-come-alive-t-shirt",
+          "price": 55,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1014/6323/files/DeadComeAliveT-Shirt-D.jpg?v=1770133510"
+        },
+        {
+          "path": "/img/products/killstar/cause-of-death-t-shirt.webp",
+          "title": "Cause Of Death T-Shirt",
+          "product_path": "/products/cause-of-death-t-shirt",
+          "price": 55,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1014/6323/files/Cause_Of_Death_T-Shirt_-C.jpg?v=1770136492"
+        }
+      ],
       "fetched_at": "2026-10-29"
     }
   },
@@ -3799,6 +4730,36 @@
       "status": "no_products",
       "items": [],
       "fetched_at": "2026-10-29"
+    },
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/lazy-oaf/bear-front-fitted-shirt.webp",
+          "title": "Bear Front Fitted Shirt - Shipping From 30/10",
+          "product_path": "/products/bear-front-fitted-shirt",
+          "price": 92,
+          "currency": "GBP",
+          "source_image": "https://cdn.shopify.com/s/files/1/2017/8131/files/IMG_3031copy_0b6d062e-e7d8-4782-8051-663cb40bcda0.jpg?v=1792511724"
+        },
+        {
+          "path": "/img/products/lazy-oaf/fun-baseball-t-shirt.webp",
+          "title": "Fun Baseball T-Shirt - Shipping From 30/10",
+          "product_path": "/products/fun-baseball-t-shirt",
+          "price": 60,
+          "currency": "GBP",
+          "source_image": "https://cdn.shopify.com/s/files/1/2017/8131/files/261007_LO_OCTOBER_SHOT_31_022.jpg?v=1792505413"
+        },
+        {
+          "path": "/img/products/lazy-oaf/stripey-button-up-cardigan.webp",
+          "title": "Stripey Button Up Cardigan - Shipping From 30/10",
+          "product_path": "/products/stripey-button-up-cardigan",
+          "price": 95,
+          "currency": "GBP",
+          "source_image": "https://cdn.shopify.com/s/files/1/2017/8131/files/IMG_2564copy.jpg?v=1791465649"
+        }
+      ],
+      "fetched_at": "2026-10-29"
     }
   },
   "lele-sadoughi": {
@@ -3973,11 +4934,47 @@
     "dresses": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
+    },
+    "jeans": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
     }
   },
   "lord-and-taylor": {
     "womens-clothing": {
       "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "lrg": {
+    "jeans": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/lrg/creative-life-denim-cargo-grey-wash.webp",
+          "title": "CREATIVE LIFE DENIM CARGO - GREY WASH",
+          "product_path": "/products/creative-life-denim-cargo-grey-wash",
+          "price": 70,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2597/1578/files/CREATIVELIFEDENIMCARGO-GREYWASH_13.jpg?v=1788992862"
+        },
+        {
+          "path": "/img/products/lrg/not-enough-trees-denim-pant-grey-wash.webp",
+          "title": "NOT ENOUGH TREES DENIM PANT - GREY WASH",
+          "product_path": "/products/not-enough-trees-denim-pant-grey-wash",
+          "price": 70,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2597/1578/files/NOTENOUGHTREESDENIMPANT_ELEVATEDWORK_-GREYWASH_10.jpg?v=1788972449"
+        },
+        {
+          "path": "/img/products/lrg/elevated-work-denim-pant-coffee-wash.webp",
+          "title": "ELEVATED WORK DENIM PANT - COFFEE WASH",
+          "product_path": "/products/elevated-work-denim-pant-coffee-wash",
+          "price": 70,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2597/1578/files/ELEVATEDWORKDENIMPANT-COFFEEWASH_8.jpg?v=1788991756"
+        }
+      ],
       "fetched_at": "2026-10-29"
     }
   },
@@ -3987,6 +4984,10 @@
       "fetched_at": "2026-10-29"
     },
     "womens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    },
+    "dresses": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
@@ -4230,6 +5231,12 @@
           "source_image": "https://cdn.shopify.com/s/files/1/1604/7647/files/Womens-Sept-30th-_0060_WMN4783-01MDV5.jpg?v=1793209437"
         }
       ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "margaret-howell": {
+    "tees": {
+      "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
   },
@@ -4550,6 +5557,10 @@
     "dresses": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
+    },
+    "tops": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
     }
   },
   "missoma": {
@@ -4694,6 +5705,36 @@
           "price": 89,
           "currency": "USD",
           "source_image": "https://cdn.shopify.com/s/files/1/0559/0604/2027/files/400287_NVYPS_Cropped_4_1.jpg?v=1793025544"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    },
+    "graphic-tees": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/modcloth/berry-bloom-tee.webp",
+          "title": "Berry Bloom Tee",
+          "product_path": "/products/berry-bloom-tee",
+          "price": 44.6,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0559/0604/2027/files/PGFAB066_020_11.jpg?v=1770940030"
+        },
+        {
+          "path": "/img/products/modcloth/brat-available-in-t-shirt-pullover-hoodie-tank-or-long-sleeve.webp",
+          "title": "BRAT: T-Shirt, Pullover, Hoodie, Tank or Long Sleeve",
+          "product_path": "/products/brat-available-in-t-shirt-pullover-hoodie-tank-or-long-sleeve",
+          "price": 25,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0559/0604/2027/files/tee-brat.jpg?v=1773248357"
+        },
+        {
+          "path": "/img/products/modcloth/fuck-off-cropped-t-shirt.webp",
+          "title": "Fuck Off Cropped T-Shirt",
+          "product_path": "/products/fuck-off-cropped-t-shirt",
+          "price": 26,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0559/0604/2027/files/c-fuckoff.jpg?v=1773248356"
         }
       ],
       "fetched_at": "2026-10-29"
@@ -4931,6 +5972,38 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "nanamica": {
+    "tees": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/nanamica/new-york-ooal-rayon-cotton-long-sleeve-tee-26fw.webp",
+          "title": "OOAL Rayon Cotton Long Sleeve Tee",
+          "product_path": "/products/new-york-ooal-rayon-cotton-long-sleeve-tee-26fw",
+          "price": 250,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0242/6224/6481/files/S26FH001_CH.jpg?v=1779074349"
+        },
+        {
+          "path": "/img/products/nanamica/new-york-ooal-graphic-long-sleeve-tee-1-26fw.webp",
+          "title": "OOAL Graphic Long Sleeve Tee",
+          "product_path": "/products/new-york-ooal-graphic-long-sleeve-tee-1-26fw",
+          "price": 200,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0242/6224/6481/files/S26FT003_Z.jpg?v=1779076098"
+        },
+        {
+          "path": "/img/products/nanamica/new-york-ooal-graphic-tee-1-26fw.webp",
+          "title": "OOAL Graphic Tee",
+          "product_path": "/products/new-york-ooal-graphic-tee-1-26fw",
+          "price": 180,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0242/6224/6481/files/S26FT004_OWP2.jpg?v=1779076208"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "neff-headwear": {
     "mens-clothing": {
       "status": "no_feed",
@@ -5105,6 +6178,16 @@
     "jeans": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
+    },
+    "tops": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "norse-projects": {
+    "tees": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
     }
   },
   "nude-project": {
@@ -5136,6 +6219,12 @@
           "source_image": "https://cdn.shopify.com/s/files/1/0025/3725/9054/files/35front_2.webp?v=1792769244"
         }
       ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "o-mighty": {
+    "tops": {
+      "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
   },
@@ -5176,6 +6265,36 @@
       "status": "no_products",
       "items": [],
       "fetched_at": "2026-10-29"
+    },
+    "jeans": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/obey/obey-studded-boxcar-straight-leg-dm-dark-leopard.webp",
+          "title": "STUDDED BOXCAR DENIM",
+          "product_path": "/products/obey-studded-boxcar-straight-leg-dm-dark-leopard",
+          "price": 105,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0832/5243/files/142010121_DLP_1.png?v=1783379997"
+        },
+        {
+          "path": "/img/products/obey/obey-studded-boxcar-straight-leg-dm-black-rust-wash.webp",
+          "title": "STUDDED BOXCAR DENIM",
+          "product_path": "/products/obey-studded-boxcar-straight-leg-dm-black-rust-wash",
+          "price": 105,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0832/5243/files/142010121_BRU_1.png?v=1783380040"
+        },
+        {
+          "path": "/img/products/obey/obey-nelson-straight-leg-denim-vintage-archive-wren.webp",
+          "title": "NELSON STRAIGHT LEG DENIM",
+          "product_path": "/products/obey-nelson-straight-leg-denim-vintage-archive-wren",
+          "price": 105,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0832/5243/files/142010120_VAW_1.png?v=1783379789"
+        }
+      ],
+      "fetched_at": "2026-10-29"
     }
   },
   "oh-polly": {
@@ -5208,6 +6327,36 @@
         }
       ],
       "fetched_at": "2026-10-29"
+    },
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/oh-polly/neri-modal-tank-top-in-ivory.webp",
+          "title": "Modal Tank Top in Ivory",
+          "product_path": "/products/neri-modal-tank-top-in-ivory",
+          "price": 55,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0588/5755/4081/files/oh-polly-neri-modal-tank-top-in-ivory_16438NeriIvory_2.jpg?v=1782207460"
+        },
+        {
+          "path": "/img/products/oh-polly/talia-satin-corset-top-in-butter.webp",
+          "title": "Satin Corset Top in Butter",
+          "product_path": "/products/talia-satin-corset-top-in-butter",
+          "price": 90,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0588/5755/4081/files/oh-polly-talia-satin-corset-top-in-butter_16478TaliaBUTRYellow_5.jpg?v=1784107239"
+        },
+        {
+          "path": "/img/products/oh-polly/araminta-full-length-lace-up-corset-top-aquamarine.webp",
+          "title": "Satin Lace-Up Corset Top in Aquamarine",
+          "product_path": "/products/araminta-full-length-lace-up-corset-top-aquamarine",
+          "price": 100,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0588/5755/4081/files/oh-polly-araminta-satin-lace-up-corset-top-in-aquamarine_11361ATaliaAquamarine_6.jpg?v=1786960973"
+        }
+      ],
+      "fetched_at": "2026-10-29"
     }
   },
   "old-navy": {
@@ -5225,6 +6374,74 @@
     },
     "womens-clothing": {
       "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    },
+    "tops": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "oneill": {
+    "boardshorts": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/oneill/stoked-black.webp",
+          "title": "Stoked 20\" Boardshorts",
+          "product_path": "/products/stoked-black",
+          "price": 29.99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2034/7683/files/A1046015AF_BLK_8.jpg?v=1786661752"
+        },
+        {
+          "path": "/img/products/oneill/hyperfreak-heat-hawaii-20-navy.webp",
+          "title": "Hyperfreak Heat Hawaii 20\" Boardshorts",
+          "product_path": "/products/hyperfreak-heat-hawaii-20-navy",
+          "price": 58,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2034/7683/files/SP2610627_NVY_8.jpg?v=1792018188"
+        },
+        {
+          "path": "/img/products/oneill/hyperfreak-tech-panel-18-black-2.webp",
+          "title": "Hyperfreak Tech Panel 18\" Boardshorts",
+          "product_path": "/products/hyperfreak-tech-panel-18-black-2",
+          "price": 74,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2034/7683/files/SP2610605_BLK2_8.jpg?v=1780951704"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "organic-basics": {
+    "tees": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/organic-basics/true-heavy-boxy-fit-tee-white.webp",
+          "title": "True Heavy Boxy Fit Tee",
+          "product_path": "/products/true-heavy-boxy-fit-tee-white",
+          "price": 42,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0677/0340/6886/files/qfelbhrzb4ldmhom9uvr.jpg?v=1755256763"
+        },
+        {
+          "path": "/img/products/organic-basics/mens-true-heavy-regular-fit-tee-sandstone.webp",
+          "title": "True Heavy Regular Fit Tee",
+          "product_path": "/products/mens-true-heavy-regular-fit-tee-sandstone",
+          "price": 40,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0677/0340/6886/files/dg_organic_basics-men-organic_cotton-true-regular_fit_tee-sandstone-studio-1.jpg?v=1755250339"
+        },
+        {
+          "path": "/img/products/organic-basics/mens-soft-touch-tee-rich-brown.webp",
+          "title": "Premium Tee",
+          "product_path": "/products/mens-soft-touch-tee-rich-brown",
+          "price": 43,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0677/0340/6886/files/dg-organic-basics_men_soft-touch_tee-rich_brown-studio_1_886ed233-3668-4cc2-b9c1-d0a207892a0d.jpg?v=1759149236"
+        }
+      ],
       "fetched_at": "2026-10-29"
     }
   },
@@ -5782,6 +6999,20 @@
     "dresses": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
+    },
+    "jeans": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    },
+    "tops": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "primark": {
+    "tops": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
     }
   },
   "primitive": {
@@ -5857,6 +7088,38 @@
     "underwear": {
       "status": "no_products",
       "items": [],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "quiksilver": {
+    "boardshorts": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/quiksilver/surfsilk-kaimana-20-qsm15bs029-blk.webp",
+          "title": "Surfsilk Kaimana 20\" Boardshorts - Black",
+          "product_path": "/products/surfsilk-kaimana-20-qsm15bs029-blk",
+          "price": 54,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0687/6856/3337/files/QSM15BS029_BLK_OM-F_c9dba54c-040a-4c74-ab5a-eb05fee77fce.jpg?v=1765824720"
+        },
+        {
+          "path": "/img/products/quiksilver/surfsilk-kaimana-20-qsm15bs029-dkd.webp",
+          "title": "Surfsilk Kaimana 20\" Boardshorts - Dark Denim",
+          "product_path": "/products/surfsilk-kaimana-20-qsm15bs029-dkd",
+          "price": 54,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0687/6856/3337/files/QSM15BS029_DKD_OM-F.jpg?v=1771876182"
+        },
+        {
+          "path": "/img/products/quiksilver/surfsilk-kaimana-20-qsm15bs029-rvb.webp",
+          "title": "Surfsilk Kaimana 20\" Boardshorts - Riviera",
+          "product_path": "/products/surfsilk-kaimana-20-qsm15bs029-rvb",
+          "price": 54,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0687/6856/3337/files/QSM15BS029_RVB_OM-F.jpg?v=1767051397"
+        }
+      ],
       "fetched_at": "2026-10-29"
     }
   },
@@ -5942,6 +7205,38 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "rainbow": {
+    "dresses": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/rainbow/camel-sleeveless-knit-bodycon-mini-dress-3094054267806.webp",
+          "title": "Sleeveless Knit Bodycon Mini Dress",
+          "product_path": "/products/camel-sleeveless-knit-bodycon-mini-dress-3094054267806",
+          "price": 14.99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0268/0854/9559/files/3094054267806021_001.jpg?v=1793243902"
+        },
+        {
+          "path": "/img/products/rainbow/blue-floral-print-beaded-tube-mini-dress-3410069391110.webp",
+          "title": "Floral Print Beaded Tube Mini Dress",
+          "product_path": "/products/blue-floral-print-beaded-tube-mini-dress-3410069391110",
+          "price": 34.97,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0268/0854/9559/files/3410069391110340_001.jpg?v=1793158629"
+        },
+        {
+          "path": "/img/products/rainbow/black-long-sleeve-knit-bodycon-mini-dress-3094054267807.webp",
+          "title": "Long Sleeve Knit Bodycon Mini Dress",
+          "product_path": "/products/black-long-sleeve-knit-bodycon-mini-dress-3094054267807",
+          "price": 16.99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0268/0854/9559/files/3094054267807001_001.jpg?v=1793157675"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "rains": {
     "bags": {
       "status": "ok",
@@ -6003,6 +7298,12 @@
           "source_image": "https://cdn.shopify.com/s/files/1/0239/1371/files/111010132_MAV_2.jpg?v=1780767155"
         }
       ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "red-dress": {
+    "dresses": {
+      "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
   },
@@ -6123,6 +7424,38 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "rip-curl": {
+    "boardshorts": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/rip-curl/mirage-core-20-boardshort-cboch9-black.webp",
+          "title": "Mirage Core 20\" Boardshort",
+          "product_path": "/products/mirage-core-20-boardshort-cboch9-black",
+          "price": 49.95,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0951/2131/0008/files/CBOCH9_0090-2.jpg?v=1782782118"
+        },
+        {
+          "path": "/img/products/rip-curl/mirage-core-20-boardshort-cboch9-navy.webp",
+          "title": "Mirage Core 20\" Boardshort",
+          "product_path": "/products/mirage-core-20-boardshort-cboch9-navy",
+          "price": 49.95,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0951/2131/0008/files/CBOCH9_0049-2.jpg?v=1782782113"
+        },
+        {
+          "path": "/img/products/rip-curl/mirage-core-20-boardshort-dark-red.webp",
+          "title": "Mirage Core 20\" Boardshort",
+          "product_path": "/products/mirage-core-20-boardshort-dark-red",
+          "price": 49.95,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0951/2131/0008/files/CBOCH9_0763-1.jpg?v=1782782123"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "ripndip": {
     "hoodies": {
       "status": "ok",
@@ -6159,6 +7492,38 @@
     "coats-jackets": {
       "status": "no_products",
       "items": [],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "roark": {
+    "boardshorts": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/roark/mens-shorey-boardshorts-washed-black.webp",
+          "title": "Shorey 16\" Trunks - Washed Black",
+          "product_path": "/products/mens-shorey-boardshorts-washed-black",
+          "price": 69,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2304/9839/files/J4A0276.png?v=1773247983"
+        },
+        {
+          "path": "/img/products/roark/mens-shorey-boardshorts-slate.webp",
+          "title": "Shorey 16\" Trunks - Slate",
+          "product_path": "/products/mens-shorey-boardshorts-slate",
+          "price": 69,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2304/9839/files/RB491_SLT_001.png?v=1779874133"
+        },
+        {
+          "path": "/img/products/roark/mens-shorey-boardshorts-stripe-sea-foam.webp",
+          "title": "Shorey 16\" Trunks - Stripe Sea Foam",
+          "product_path": "/products/mens-shorey-boardshorts-stripe-sea-foam",
+          "price": 69,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2304/9839/files/RB491_SRF_001.png?v=1769631998"
+        }
+      ],
       "fetched_at": "2026-10-29"
     }
   },
@@ -6206,9 +7571,73 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "roxy": {
+    "boardshorts": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/roxy/roxy-endless-summer-boardshort-anthracite.webp",
+          "title": "Endless Summer Boardshort",
+          "product_path": "/products/roxy-endless-summer-boardshort-anthracite",
+          "price": 38,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0631/8899/2074/files/ERJBS03078-KVJ0_1.jpg?v=1774430591"
+        },
+        {
+          "path": "/img/products/roxy/roxy-endless-summer-boardshort-mood-indigo.webp",
+          "title": "Endless Summer Boardshort",
+          "product_path": "/products/roxy-endless-summer-boardshort-mood-indigo",
+          "price": 38,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0631/8899/2074/files/ERJBS03078-BSP0_1.jpg?v=1774430401"
+        },
+        {
+          "path": "/img/products/roxy/roxy-to-dye-7-boardshort-mood-indigo.webp",
+          "title": "To Dye 7\" Boardshort",
+          "product_path": "/products/roxy-to-dye-7-boardshort-mood-indigo",
+          "price": 46,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0631/8899/2074/files/ERJBS03039-BSP0_1.jpg?v=1774430353"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "rue21": {
     "dresses": {
       "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "rvca": {
+    "boardshorts": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/rvca/rvca-steady-stripe-boardshort-moody-blue.webp",
+          "title": "Steady Stripe Boardshort",
+          "product_path": "/products/rvca-steady-stripe-boardshort-moody-blue",
+          "price": 70,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0810/1625/8802/files/23A081603_MDY_FL-F.jpg?v=1771970050"
+        },
+        {
+          "path": "/img/products/rvca/rvca-the-cure-trunk-black.webp",
+          "title": "The Cure Boardshort",
+          "product_path": "/products/rvca-the-cure-trunk-black",
+          "price": 70,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0810/1625/8802/files/23A084601_BLK_OM-F_0d85c2e8-c522-4aad-a49c-6b97bb29d8d4.jpg?v=1792098880"
+        },
+        {
+          "path": "/img/products/rvca/rvca-steady-stripe-trunk-vintage-navy.webp",
+          "title": "Steady Stripe Boardshort",
+          "product_path": "/products/rvca-steady-stripe-trunk-vintage-navy",
+          "price": 70,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0810/1625/8802/files/23A081603_VNY_FL-F.jpg?v=1787252572"
+        }
+      ],
       "fetched_at": "2026-10-29"
     }
   },
@@ -6274,6 +7703,36 @@
         }
       ],
       "fetched_at": "2026-10-29"
+    },
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/sabo/ebony-top-flores-scarf.webp",
+          "title": "Ebony Top - Flores Scarf",
+          "product_path": "/products/ebony-top-flores-scarf",
+          "price": 86.58,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0244/9077/0509/files/400b5107-44c4-49cd-a10c-5e04c080c8b2.jpg?v=1792591972"
+        },
+        {
+          "path": "/img/products/sabo/akel-top-fall-flora.webp",
+          "title": "Akel Top - Fall Flora",
+          "product_path": "/products/akel-top-fall-flora",
+          "price": 114.66,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0244/9077/0509/files/b6aec5bd-9145-420b-b85f-3c70260cb2a5.jpg?v=1791484587"
+        },
+        {
+          "path": "/img/products/sabo/tipo-top.webp",
+          "title": "Tipo Top",
+          "product_path": "/products/tipo-top",
+          "price": 86.58,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0244/9077/0509/files/45947559-6661-437d-9840-83dcb665e6ab.jpg?v=1792685712"
+        }
+      ],
+      "fetched_at": "2026-10-29"
     }
   },
   "sail-to-sable": {
@@ -6285,6 +7744,38 @@
   "saks-fifth-avenue": {
     "womens-clothing": {
       "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "salty-crew": {
+    "boardshorts": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/salty-crew/flagship-boatshort-ranger.webp",
+          "title": "Flagship 20\" Boatshort - Ranger",
+          "product_path": "/products/flagship-boatshort-ranger",
+          "price": 69.95,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1033/2029/files/30335200_RNG.jpg?v=1787856864"
+        },
+        {
+          "path": "/img/products/salty-crew/crew-ewaist-boatshort-18-aqua-grey.webp",
+          "title": "Crew 18\" Ewaist Boatshort - Aqua Grey",
+          "product_path": "/products/crew-ewaist-boatshort-18-aqua-grey",
+          "price": 69.95,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1033/2029/files/30335241_AQGRY.jpg?v=1787857019"
+        },
+        {
+          "path": "/img/products/salty-crew/channel-apex-boardshort-navy.webp",
+          "title": "Channel 18\" Apex Boardshort - Navy",
+          "product_path": "/products/channel-apex-boardshort-navy",
+          "price": 69.95,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1033/2029/files/30335254_NVY.jpg?v=1787856989"
+        }
+      ],
       "fetched_at": "2026-10-29"
     }
   },
@@ -6475,6 +7966,10 @@
     "dresses": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
+    },
+    "tops": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
     }
   },
   "sierra": {
@@ -6516,6 +8011,36 @@
           "price": 89,
           "currency": "GBP",
           "source_image": "https://cdn.shopify.com/s/files/1/0225/3151/files/JK345BLK_1.jpg?v=1785835563"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    },
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/sister-jane/poise-jacquard-bow-top.webp",
+          "title": "<b>DREAM</b> Poise Jacquard Bow Top",
+          "product_path": "/products/poise-jacquard-bow-top",
+          "price": 115,
+          "currency": "GBP",
+          "source_image": "https://cdn.shopify.com/s/files/1/0225/3151/files/TOD191TAN_1.jpg?v=1785835770"
+        },
+        {
+          "path": "/img/products/sister-jane/vanity-lace-top.webp",
+          "title": "<b>DREAM</b> Vanity Lace Top",
+          "product_path": "/products/vanity-lace-top",
+          "price": 125,
+          "currency": "GBP",
+          "source_image": "https://cdn.shopify.com/s/files/1/0225/3151/files/BLD213BLK_1.jpg?v=1785835651"
+        },
+        {
+          "path": "/img/products/sister-jane/marble-jacquard-wrap-top.webp",
+          "title": "<b>DREAM</b> Marble Jacquard Wrap Top",
+          "product_path": "/products/marble-jacquard-wrap-top",
+          "price": 115,
+          "currency": "GBP",
+          "source_image": "https://cdn.shopify.com/s/files/1/0225/3151/files/TOD193BLK_1.jpg?v=1785835651"
         }
       ],
       "fetched_at": "2026-10-29"
@@ -6674,6 +8199,12 @@
           "source_image": "https://cdn.shopify.com/s/files/1/0823/4473/files/0005_Rosewood-Bias-Gown-Patchwork.jpg?v=1792469547"
         }
       ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "spencers": {
+    "graphic-tees": {
+      "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
   },
@@ -6912,6 +8443,36 @@
         }
       ],
       "fetched_at": "2026-10-29"
+    },
+    "jeans": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/stussy/116801-new-classic-jean-overdyed-sand.webp",
+          "title": "NEW CLASSIC JEAN OVERDYED",
+          "product_path": "/products/116801-new-classic-jean-overdyed-sand",
+          "price": 160,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0087/6193/3920/files/116801_SAND_3.jpg?v=1789493538"
+        },
+        {
+          "path": "/img/products/stussy/116800-big-ol-jean-overdyed-sand.webp",
+          "title": "BIG OL' JEAN OVERDYED",
+          "product_path": "/products/116800-big-ol-jean-overdyed-sand",
+          "price": 160,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0087/6193/3920/files/116800_SAND_4.jpg?v=1789493509"
+        },
+        {
+          "path": "/img/products/stussy/116809-slim-jean-overdyed-sand.webp",
+          "title": "SLIM JEAN OVERDYED",
+          "product_path": "/products/116809-slim-jean-overdyed-sand",
+          "price": 160,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0087/6193/3920/files/116809_SAND_3.jpg?v=1789493553"
+        }
+      ],
+      "fetched_at": "2026-10-29"
     }
   },
   "sullen": {
@@ -6975,6 +8536,10 @@
       "fetched_at": "2026-10-29"
     },
     "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    },
+    "tops": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
@@ -7073,6 +8638,38 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "the-chivery": {
+    "graphic-tees": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/the-chivery/keep-calm-and-chive-on.webp",
+          "title": "Keep Calm and Chive On Tee",
+          "product_path": "/products/keep-calm-and-chive-on",
+          "price": 28,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0065/0022/files/CT22249-THB-W-CTcopy_98fb0c2e-8f07-49f2-901c-983f964494a9.jpg?v=1764961186"
+        },
+        {
+          "path": "/img/products/the-chivery/irish-keep-calm-and-chive-on-tee.webp",
+          "title": "Irish Keep Calm and Chive On Tee",
+          "product_path": "/products/irish-keep-calm-and-chive-on-tee",
+          "price": 28,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0065/0022/products/CT17016-KLY-IRISH_KEEP_CALM_AND_CHIVE_ON_MENS_copy_1f172954-2525-42a0-9150-d61e2c2df04e.jpg?v=1762525426"
+        },
+        {
+          "path": "/img/products/the-chivery/the-kcco.webp",
+          "title": "The KCCO Tee",
+          "product_path": "/products/the-kcco",
+          "price": 28,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0065/0022/files/THE-KCCO-TEE-MAN-FLAT.jpg?v=1764960752"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "the-couture-club": {
     "hoodies": {
       "status": "ok",
@@ -7100,6 +8697,38 @@
           "price": 95,
           "currency": "GBP",
           "source_image": "https://cdn.shopify.com/s/files/1/0242/6047/6980/files/Charcoal_Grey_and_Yellow_Hoodie_Portrait.png?v=1793098558"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "the-critical-slide-society": {
+    "boardshorts": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/the-critical-slide-society/plain-jane-scribble-trunk.webp",
+          "title": "Plain Jane 17\" Scribble Trunk - Lilac",
+          "product_path": "/products/plain-jane-scribble-trunk",
+          "price": 75,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0116/5092/files/BS26012-PLAINJANELILAC.jpg?v=1786765340"
+        },
+        {
+          "path": "/img/products/the-critical-slide-society/nucleus-16-trunk-24.webp",
+          "title": "Nucleus 16\" Trunk - Black",
+          "product_path": "/products/nucleus-16-trunk-24",
+          "price": 68,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0116/5092/files/BS26003-VBK_-_NUCLEUS_16_TRUNK_1173.jpg?v=1787269896"
+        },
+        {
+          "path": "/img/products/the-critical-slide-society/cahoots-17-boardshort-21.webp",
+          "title": "Cahoots 17\" Boardshort - Phantom",
+          "product_path": "/products/cahoots-17-boardshort-21",
+          "price": 68,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0116/5092/files/BS26001-PHA-CAHOOTS_17_BOARDSHORT_2894.jpg?v=1789396987"
         }
       ],
       "fetched_at": "2026-10-29"
@@ -7233,6 +8862,36 @@
           "price": 75,
           "currency": "GBP",
           "source_image": "https://cdn.shopify.com/s/files/1/0252/4518/8149/files/ragged-priest-icon-dirty-blue-belted-flare-jeans-1.jpg?v=1791364102"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    },
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/the-ragged-priest/afterlife-skeleton-graphic-baby-t-shirt.webp",
+          "title": "Afterlife Skeleton Graphic Baby T-Shirt",
+          "product_path": "/products/afterlife-skeleton-graphic-baby-t-shirt",
+          "price": 35,
+          "currency": "GBP",
+          "source_image": "https://cdn.shopify.com/s/files/1/0252/4518/8149/files/ragged-priest-afterlife-skeleton-graphic-baby-t-shirt-4.jpg?v=1790696006"
+        },
+        {
+          "path": "/img/products/the-ragged-priest/worship-spikey-skull-graphic-baby-t-shirt.webp",
+          "title": "Worship Skull Graphic Baby T-Shirt",
+          "product_path": "/products/worship-spikey-skull-graphic-baby-t-shirt",
+          "price": 35,
+          "currency": "GBP",
+          "source_image": "https://cdn.shopify.com/s/files/1/0252/4518/8149/files/ragged-priest-worship-skull-spikey-graphic-baby-t-shirt-3.jpg?v=1789479177"
+        },
+        {
+          "path": "/img/products/the-ragged-priest/cluster-black-studded-long-sleeve-top.webp",
+          "title": "Cluster Black Pierced Long Sleeve Top",
+          "product_path": "/products/cluster-black-studded-long-sleeve-top",
+          "price": 50,
+          "currency": "GBP",
+          "source_image": "https://cdn.shopify.com/s/files/1/0252/4518/8149/files/ragged-priest-cluster-black-long-sleeve-piercing-eyelet-top-5.jpg?v=1787148910"
         }
       ],
       "fetched_at": "2026-10-29"
@@ -7496,6 +9155,13 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "true-classic": {
+    "jeans": {
+      "status": "no_products",
+      "items": [],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "tuckernuck": {
     "dresses": {
       "status": "no_feed",
@@ -7534,6 +9200,38 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "unif": {
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/unif/wide-tank-two-pack.webp",
+          "title": "Wide Tank Two-Pack",
+          "product_path": "/products/wide-tank-two-pack",
+          "price": 88,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0750/8379/files/UNIF_BLACK_WHITE_2_PACK_2.jpg?v=1774991537"
+        },
+        {
+          "path": "/img/products/unif/kiku-top.webp",
+          "title": "Kiku Top",
+          "product_path": "/products/kiku-top",
+          "price": 68,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0750/8379/files/kiku_top_01.jpg?v=1765911954"
+        },
+        {
+          "path": "/img/products/unif/nexus-top-black.webp",
+          "title": "Nexus Top",
+          "product_path": "/products/nexus-top-black",
+          "price": 92,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0750/8379/files/UNIF_BLACK_NEXUS_TOP_3_fccc1e24-d540-4cf7-83bf-cb8e6d0c7542.jpg?v=1744223350"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "uniqlo": {
     "tees": {
       "status": "no_feed",
@@ -7549,6 +9247,42 @@
     },
     "hoodies": {
       "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    },
+    "tops": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "universal-standard": {
+    "jeans": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/universal-standard/dakota-twisted-leg-jeans-jet-black.webp",
+          "title": "Dakota Twisted Leg Jeans - Jet Black",
+          "product_path": "/products/dakota-twisted-leg-jeans-jet-black",
+          "price": 158,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0838/4441/files/US_JAN25_EDI_SHOT16_005.jpg?v=1734830291"
+        },
+        {
+          "path": "/img/products/universal-standard/olivia-pintuck-wide-leg-jeans-jet-black.webp",
+          "title": "Olivia Pintuck Wide Leg Jeans - Jet Black",
+          "product_path": "/products/olivia-pintuck-wide-leg-jeans-jet-black",
+          "price": 158,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_7_086.jpg?v=1761143812"
+        },
+        {
+          "path": "/img/products/universal-standard/lou-high-rise-barrel-leg-jeans-rizzo-blue.webp",
+          "title": "Lou High Rise Barrel Leg Jeans - Rizzo Blue",
+          "product_path": "/products/lou-high-rise-barrel-leg-jeans-rizzo-blue",
+          "price": 158,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0838/4441/files/SHOT_1_201_fcb4671c-7f71-46bb-8170-d096aa152d38.jpg?v=1761145229"
+        }
+      ],
       "fetched_at": "2026-10-29"
     }
   },
@@ -7585,6 +9319,38 @@
           "price": 69.9,
           "currency": "USD",
           "source_image": "https://cdn.shopify.com/s/files/1/0504/7644/9942/files/UWJ860108L2A_1.jpg?v=1790745405"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "valfre": {
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/valfre/baccara-ringer-tee.webp",
+          "title": "Baccara Ringer Tee",
+          "product_path": "/products/baccara-ringer-tee",
+          "price": 52,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0249/5884/files/Valfre-Baccara-Ringer-1.jpg?v=1758065474"
+        },
+        {
+          "path": "/img/products/valfre/cosmica-leo-tee-copy.webp",
+          "title": "Cósmica Libra Tee",
+          "product_path": "/products/cosmica-leo-tee-copy",
+          "price": 58,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0249/5884/files/Valfre-Zodiac-Tshirt-Libra-01.jpg?v=1787936969"
+        },
+        {
+          "path": "/img/products/valfre/cosmica-scorpio-tee.webp",
+          "title": "Cósmica Scorpio Tee",
+          "product_path": "/products/cosmica-scorpio-tee",
+          "price": 58,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0249/5884/files/Valfre-Zodiac-Tshirt-Scorpio-01.jpg?v=1787937216"
         }
       ],
       "fetched_at": "2026-10-29"
@@ -7667,6 +9433,38 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "vissla": {
+    "boardshorts": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/vissla/m109ebla-lets-go-yago-21-boardshort-pha-phantom-m109ebla.webp",
+          "title": "Let's Go Yago 21\" Boardshort",
+          "product_path": "/products/m109ebla-lets-go-yago-21-boardshort-pha-phantom-m109ebla",
+          "price": 75,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0554/6862/2019/files/M109EBLA-1.jpg?v=1778004130"
+        },
+        {
+          "path": "/img/products/vissla/m109ebla-lets-go-yago-21-boardshort-ste-stealth-m109ebla.webp",
+          "title": "Let's Go Yago 21\" Boardshort",
+          "product_path": "/products/m109ebla-lets-go-yago-21-boardshort-ste-stealth-m109ebla",
+          "price": 75,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0554/6862/2019/files/M109EBLA-1_48c52b72-c869-43c6-a756-94031f96951a.jpg?v=1778004142"
+        },
+        {
+          "path": "/img/products/vissla/m102ecal-caldera-17-5-boardshort-nat-natural-m102ecal.webp",
+          "title": "Caldera 17.5\" Boardshort",
+          "product_path": "/products/m102ecal-caldera-17-5-boardshort-nat-natural-m102ecal",
+          "price": 70,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0554/6862/2019/files/M102ECAL-1_571d3ece-4fd4-4810-9cd3-49469f36528b.jpg?v=1780613453"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "vivienne-westwood": {
     "jewelry": {
       "status": "no_feed",
@@ -7676,6 +9474,36 @@
   "volcom": {
     "mens-clothing": {
       "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    },
+    "boardshorts": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/volcom/volcom-mens-facet-mod-20-silver-blue.webp",
+          "title": "Men's Facet Mod",
+          "product_path": "/products/volcom-mens-facet-mod-20-silver-blue",
+          "price": 75,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0929/9725/5444/files/A0832603_SVB_P_1.jpg?v=1790159098"
+        },
+        {
+          "path": "/img/products/volcom/volcom-mens-lido-print-trunk-16-taro.webp",
+          "title": "Men's Lido Print Trunks",
+          "product_path": "/products/volcom-mens-lido-print-trunk-16-taro",
+          "price": 55,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0929/9725/5444/files/A2512506_TO2_P_1.jpg?v=1790072913"
+        },
+        {
+          "path": "/img/products/volcom/volcom-mens-infuse-scallop-mod-19-blue-moon.webp",
+          "title": "Men's Infuse Scallop Mod",
+          "product_path": "/products/volcom-mens-infuse-scallop-mod-19-blue-moon",
+          "price": 65,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0929/9725/5444/files/A0832600_BMN_P_1.jpg?v=1790159749"
+        }
+      ],
       "fetched_at": "2026-10-29"
     }
   },
@@ -7872,6 +9700,38 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "wildfox": {
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/wildfox/aleyna-crew-top-phantom.webp",
+          "title": "Aleyna Crew Top | Phantom",
+          "product_path": "/products/aleyna-crew-top-phantom",
+          "price": 44.99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0096/9565/8042/files/WF012135_LCQ-1A.png?v=1773265035"
+        },
+        {
+          "path": "/img/products/wildfox/aleyna-crew-top-wax-yellow.webp",
+          "title": "Aleyna Crew Top | Wax Yellow",
+          "product_path": "/products/aleyna-crew-top-wax-yellow",
+          "price": 44.99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0096/9565/8042/files/WF012135_T8T_1.png?v=1775689218"
+        },
+        {
+          "path": "/img/products/wildfox/aleyna-crew-top-gray-blue.webp",
+          "title": "Aleyna Crew Top | Gray Blue",
+          "product_path": "/products/aleyna-crew-top-gray-blue",
+          "price": 44.99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0096/9565/8042/files/WF012135_IG5_1.png?v=1775689786"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "windsor": {
     "dresses": {
       "status": "ok",
@@ -7936,6 +9796,12 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "woman-within": {
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "woolrich": {
     "coats-jackets": {
       "status": "no_feed",
@@ -7975,6 +9841,36 @@
           "price": 35,
           "currency": "GBP",
           "source_image": "https://cdn.shopify.com/s/files/1/0543/2360/9773/files/ethical-sustainable-women_s-organic-square-neck-dress-black-6.jpg?v=1780309565"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    },
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/yes-friends/w-cord-overshirt.webp",
+          "title": "Cord Jacket",
+          "product_path": "/products/w-cord-overshirt",
+          "price": 55,
+          "currency": "GBP",
+          "source_image": "https://cdn.shopify.com/s/files/1/0543/2360/9773/files/ethical-sustainble-women_s-cord-boxy-utility-jacket-dark-olive-3.jpg?v=1790609696"
+        },
+        {
+          "path": "/img/products/yes-friends/womens-classic-heavyweight-t-shirt.webp",
+          "title": "Classic Heavyweight T-shirt",
+          "product_path": "/products/womens-classic-heavyweight-t-shirt",
+          "price": 16,
+          "currency": "GBP",
+          "source_image": "https://cdn.shopify.com/s/files/1/0543/2360/9773/files/ethical-sustainable-women_s-heavyweight-classic-t-shirt-white-4.jpg?v=1788366768"
+        },
+        {
+          "path": "/img/products/yes-friends/cord-wide-leg.webp",
+          "title": "Cord Wide Leg Trousers",
+          "product_path": "/products/cord-wide-leg",
+          "price": 49,
+          "currency": "GBP",
+          "source_image": "https://cdn.shopify.com/s/files/1/0543/2360/9773/files/ethical-sustainable-women_s-cord-wide-leg-trousers-deep-navy-10.jpg?v=1790610240"
         }
       ],
       "fetched_at": "2026-10-29"

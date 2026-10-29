@@ -1,0 +1,48 @@
+{
+  "name": "Craig Green",
+  "website_url": "https://www.craig-green.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Utility and Workwear Menswear",
+  "hq_country": "GB",
+  "founded_year": 2012,
+  "size_range": "XS–XL",
+  "ships_to": [
+    "GB",
+    "US",
+    "CA"
+  ],
+  "returns_days": 21,
+  "prices": [
+    {
+      "category": "pants",
+      "currency": "GBP",
+      "min": 450.0,
+      "max": 475.0,
+      "min_usd": 597.94,
+      "max_usd": 631.16,
+      "fx_date": "2026-10-28",
+      "item_count": 2,
+      "source_url": "https://www.craig-green.com/collections/trousers/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Trousers collection (GBP, no US storefront path), 2 available regular-price: Utility Trouser £450, Worker Trouser £475, both lightweight elasticated wool with an engineered cord belt."
+    }
+  ],
+  "sells_categories": [
+    "pants"
+  ],
+  "sources": [
+    "https://www.craig-green.com/collections/trousers/products.json",
+    "https://www.craig-green.com/policies/shipping-policy",
+    "https://www.craig-green.com/policies/refund-policy",
+    "https://www.craig-green.com/pages/about",
+    "https://www.craig-green.com/"
+  ],
+  "notes": [
+    "Ships from the UK to the UK, selected European destinations, North America and selected international destinations; North America £35, free on orders of £500 and above; international orders ship DDP, so no duties on delivery; North America 3-7 business days (https://www.craig-green.com/policies/shipping-policy).",
+    "Returns and size exchanges within 21 days of delivery; customer pays return shipping unless faulty (https://www.craig-green.com/policies/refund-policy).",
+    "About: founded in London in 2012; menswear language rooted in uniform, utility and workwear (https://www.craig-green.com/pages/about)."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "craig-green"
+}

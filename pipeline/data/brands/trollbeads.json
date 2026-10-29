@@ -1,0 +1,47 @@
+{
+  "name": "Trollbeads",
+  "website_url": "https://www.trollbeads.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Handmade Glass and Silver Beads",
+  "hq_country": "DK",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 149,
+  "returns_days": 30,
+  "materials": [
+    "Sterling silver",
+    "Murano glass"
+  ],
+  "prices": [
+    {
+      "category": "charms",
+      "currency": "USD",
+      "min": 39,
+      "max": 787,
+      "min_usd": 39,
+      "max_usd": 787,
+      "fx_date": null,
+      "item_count": 927,
+      "source_url": "https://www.trollbeads.com/collections/beads/products.json",
+      "checked_at": "2026-10-29",
+      "note": "products.json (USD) beads collection, 951 products: 927 regular-price available, 0 marked down. Classic silver and glass beads from $39 (From the Heart, Silver Bead; Hourglass Bead) to 2 + 2 Bead $787 (retired 2013) and Ruby Bead with Gold Core $430. Vine of Dreams glass bead $49; faceted beads mostly $75."
+    }
+  ],
+  "sells_categories": [
+    "charms"
+  ],
+  "sources": [
+    "https://www.trollbeads.com/collections/beads/products.json",
+    "https://www.trollbeads.com/meta.json",
+    "https://www.trollbeads.com/policies/shipping-policy",
+    "https://www.trollbeads.com/pages/faqs",
+    "https://www.trollbeads.com/pages/craftmanship"
+  ],
+  "notes": [
+    "FAQ: head office in Copenhagen, Denmark; returns within 30 days of delivery from within the US, $6.99 handling fee deducted. 'We have experienced that beads from other brands fit on our chains but not the other way around.' Craftsmanship: each bead is handmade, so unique in size, colour and pattern; most are silver, plus Murano glass.",
+    "Shipping policy: free standard US shipping over $149, else $6.99; also ships to the Caribbean, Mexico, Central and South America ($11.99 under $149). meta.json lists more countries, but the policy names only the Americas, so only US stored."
+  ],
+  "checked_at": "2026-10-29"
+}

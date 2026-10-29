@@ -1,0 +1,54 @@
+{
+  "name": "Ann Demeulemeester",
+  "website_url": "https://anndemeulemeester.com/en-us/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Timeless Avant-Garde Design",
+  "hq_country": "IT",
+  "size_range": "IT 36–56; jeans waists 24–36",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 800,
+  "returns_days": 14,
+  "production_model": "Mostly made in Italy",
+  "prices": [
+    {
+      "category": "pants",
+      "currency": "USD",
+      "min": 635.0,
+      "max": 1950.0,
+      "min_usd": 635.0,
+      "max_usd": 1950.0,
+      "fx_date": null,
+      "item_count": 31,
+      "source_url": "https://anndemeulemeester.com/en-us/collections/man-clothing-trousers/products.json",
+      "checked_at": "2026-10-29",
+      "note": "US market /en-us (USD). Collections man-clothing-trousers, denim-men, denim-women; 31 available regular-price pants (blouson and longjohns excluded): Michael 5-Pockets High Comfort Trousers $635 to Gerry Lounge Pants $1,950; Agdar Pleated Carrot Pants $1,390, Vive 5-Pockets Straight Leg Trousers (women) $750. Descriptions say Made in Italy on all but one (Portugal)."
+    }
+  ],
+  "sells_categories": [
+    "pants"
+  ],
+  "sources": [
+    "https://anndemeulemeester.com/en-us/collections/man-clothing-trousers/products.json",
+    "https://anndemeulemeester.com/en-us/collections/denim-men/products.json",
+    "https://anndemeulemeester.com/en-us/collections/denim-women/products.json",
+    "https://anndemeulemeester.com/en-us/pages/shipment-information",
+    "https://anndemeulemeester.com/en-us/pages/return-policy",
+    "https://anndemeulemeester.com/en-us/pages/about-1",
+    "https://anndemeulemeester.com/en-us/pages/legal-notice",
+    "https://anndemeulemeester.com/en-us/pages/flagship-store"
+  ],
+  "notes": [
+    "Shipping: USA $25 by DHL Express, free over $800 (full-price items); US is served DDP, so duties are included in the price; US customs may need an SSN or EIN (https://anndemeulemeester.com/en-us/pages/shipment-information).",
+    "Returns for refund within 14 days of delivery; US return shipping fee 50€; security tag must be intact (https://anndemeulemeester.com/en-us/pages/return-policy).",
+    "Company: AD Milano S.r.l., Via Savona 97, Milano (legal notice). About page: Ann Demeulemeester is a member of the Antwerp Six; Stefano Gallici creative director since 2023. Boutiques in Paris, Milan and Antwerp (no US store listed).",
+    "known_for from the homepage description: 'timeless elegance and avant-garde designs'."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "ann-demeulemeester"
+}

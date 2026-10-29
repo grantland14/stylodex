@@ -1,0 +1,48 @@
+{
+  "name": "AMIRI",
+  "website_url": "https://amiri.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Los Angeles Luxury Ready-to-Wear",
+  "hq_country": "US",
+  "founded_year": 2014,
+  "size_range": "XS–XXXL; waists 28–40",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 10,
+  "prices": [
+    {
+      "category": "pants",
+      "currency": "USD",
+      "min": 650.0,
+      "max": 4490.0,
+      "min_usd": 650.0,
+      "max_usd": 4490.0,
+      "fx_date": null,
+      "item_count": 76,
+      "source_url": "https://amiri.com/collections/mens-denim/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Collections mens-pants and mens-denim (USD), 76 available regular-price pants and jeans: Amiri Track Pant $650 to All Over Crystal MX1 Jean $4,490; Baggy Jean $750, Vintage Cut Leather Pant $2,390. The MX1 jean has its own collection (mens-denim-mx1)."
+    }
+  ],
+  "sells_categories": [
+    "pants"
+  ],
+  "sources": [
+    "https://amiri.com/collections/mens-pants/products.json",
+    "https://amiri.com/collections/mens-denim/products.json",
+    "https://amiri.com/policies/shipping-policy",
+    "https://amiri.com/policies/refund-policy",
+    "https://amiri.com/pages/about"
+  ],
+  "notes": [
+    "US shipping: complimentary 3-5 day standard, $20 express, $30 rush; international orders by DHL Express (https://amiri.com/policies/shipping-policy).",
+    "Returns: within 10 days of delivery, complimentary domestic return shipping, one exchange shipment paid (https://amiri.com/policies/refund-policy).",
+    "About: Mike Amiri established AMIRI in 2014 in his hometown of L.A. (https://amiri.com/pages/about).",
+    "Tailoring and some pants also come in EU 44–58 (mens-pants feed)."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "amiri"
+}

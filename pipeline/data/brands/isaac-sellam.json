@@ -1,0 +1,50 @@
+{
+  "name": "Isaac Sellam",
+  "website_url": "https://isaacsellam.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Leather Innovation",
+  "hq_country": "FR",
+  "founded_year": 2002,
+  "size_range": "S–XXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "production_model": "Made in France",
+  "prices": [
+    {
+      "category": "pants",
+      "currency": "USD",
+      "min": 448.0,
+      "max": 475.0,
+      "min_usd": 448.0,
+      "max_usd": 475.0,
+      "fx_date": null,
+      "item_count": 5,
+      "source_url": "https://isaacsellam.com/collections/69-man-pants/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "US market (country=US; cart currency USD; EUR store shows €473–€501), 69 man pants collection, 5 available regular-price pants (compare-at equal to price, so not marked down): 4 Pockets Armure / Stripe $448, 6 Pockets Armure $475; drawstring pants with rubber-sheathed cords and the stapled 69 by Isaac Sellam signature. Shortpants and the marked-down 6 Pockets Serge/Gaufre excluded."
+    }
+  ],
+  "sells_categories": [
+    "pants"
+  ],
+  "sources": [
+    "https://isaacsellam.com/collections/69-man-pants/products.json?limit=250&country=US",
+    "https://isaacsellam.com/",
+    "https://isaacsellam.com/pages/the-designer",
+    "https://isaacsellam.com/policies/shipping-policy",
+    "https://isaacsellam.com/policies/refund-policy"
+  ],
+  "notes": [
+    "Homepage: 'Worldwide shipping: we ship everywhere'; meta description: 'Every piece is unique and Made in France' (https://isaacsellam.com/).",
+    "Shipping policy: orders ship within 30 days, longer for made-to-order (up to two months); costs shown at checkout (https://isaacsellam.com/policies/shipping-policy).",
+    "Returns at the customer's expense by request to contact@isaacsellam.com, to 53 rue de Lancry, Paris; sale items final; the 14-day period is stated for EU shipments only, so returns_days is empty (https://isaacsellam.com/policies/refund-policy).",
+    "The designer page: founded Isaac Sellam Experience in 2002; Paris studio dedicated to leather innovation (https://isaacsellam.com/pages/the-designer)."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "isaac-sellam"
+}

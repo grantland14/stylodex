@@ -1,0 +1,47 @@
+{
+  "name": "ROSEN",
+  "website_url": "https://rosen-store.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Made-to-Order Garments",
+  "size_range": "Sizes 1–6, or custom",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 3,
+  "production_model": "Made to order",
+  "prices": [
+    {
+      "category": "pants",
+      "currency": "USD",
+      "min": 269.0,
+      "max": 629.0,
+      "min_usd": 269.0,
+      "max_usd": 629.0,
+      "fx_date": null,
+      "item_count": 25,
+      "source_url": "https://rosen-store.com/collections/bottoms/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Bottoms collection (USD), 25 available regular-price pants: ROSEN-X Kōjin Trousers $269 to ROSEN Nyima Hakama in Wool $629; ROSEN Plato Trousers $329–$349, ROSEN-X Hiten Cargo Pants $399. Every style has a Custom size option."
+    }
+  ],
+  "sells_categories": [
+    "pants"
+  ],
+  "sources": [
+    "https://rosen-store.com/collections/bottoms/products.json",
+    "https://rosen-store.com/pages/faq",
+    "https://rosen-store.com/policies/refund-policy",
+    "https://rosen-store.com/"
+  ],
+  "notes": [
+    "FAQ: garments are made to order, allow 20 working days (up to 40 at peak); ships worldwide by DHL and FedEx at a flat US$38, 3-10 working days; custom orders by email with measurements (https://rosen-store.com/pages/faq).",
+    "Homepage banner: 'Shipping to the United States remains in place. Please email us regarding tariff costs' (https://rosen-store.com/).",
+    "Returns conflict: refund policy says a return request within 3 days of receipt, 15% restocking fee, customer pays shipping (https://rosen-store.com/policies/refund-policy); FAQ says it doesn't accept returns but will fix sizing issues. returns_days 3 from the policy page: human check."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "rosen"
+}

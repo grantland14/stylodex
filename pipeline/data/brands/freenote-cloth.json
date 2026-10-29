@@ -1,0 +1,50 @@
+{
+  "slug": "freenote-cloth",
+  "name": "Freenote Cloth",
+  "website_url": "https://freenotecloth.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Classic Menswear Made in the USA",
+  "hq_country": "US",
+  "size_range": "Waists 29–38",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 7,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 285.0,
+      "max": 325.0,
+      "min_usd": 285.0,
+      "max_usd": 325.0,
+      "fx_date": null,
+      "item_count": 76,
+      "source_url": "https://freenotecloth.com/collections/denim/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "denim collection products.json, 94 products (all type Denim): 5 canvas styles excluded as not denim (e.g. Modesto Buckleback 11 Ounce Natural Rinsed Canvas $350); 13 sold out excluded; none marked down; 76 regular-price jeans $285–$325. Low: Avila Slim Taper 14.50 Ounce Kaihara Denim, Belford Straight 14 Ounce Ecru Denim ($285); high: Belford Straight 11 Ounce Memphis Blue Rinsed, Wilkes Western 15 Ounce Rinsed Denim ($325)."
+    }
+  ],
+  "production_model": "Sewn in the USA",
+  "sources": [
+    "https://freenotecloth.com/meta.json",
+    "https://freenotecloth.com/collections.json?limit=250",
+    "https://freenotecloth.com/collections/denim/products.json?limit=250",
+    "https://freenotecloth.com/pages/shipping-returns",
+    "https://freenotecloth.com/policies/refund-policy"
+  ],
+  "notes": [
+    "Store description and footer: 'a classic menswear collection manufactured exclusively in the United States'; store address San Juan Capistrano, California (meta.json). Product descriptions read 'Sewn in USA'.",
+    "Returns: refund or store credit only if postmarked within 7 days of receipt; 8–30 days exchange or store credit only; customer pays return shipping (https://freenotecloth.com/pages/shipping-returns). returns_days stored as 7 (the refund window).",
+    "Jeans waists (products.json): 29–36, 38. No free-shipping threshold found; left empty.",
+    "Fit families in the denim collection: Avila, Belford, Modesto, Portola, Rios, Trabuco, Wilkes (collections.json)."
+  ],
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "jeans"
+  ]
+}

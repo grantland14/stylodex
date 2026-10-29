@@ -1,0 +1,31 @@
+{
+  "name": "Pandora",
+  "website_url": "https://us.pandora.net/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Charms and Charm Bracelets",
+  "hq_country": "DK",
+  "founded_year": 1982,
+  "us_stores": true,
+  "materials": [
+    "Recycled sterling silver and gold"
+  ],
+  "production_model": "Crafted in its own facilities in Thailand",
+  "sells_categories": [
+    "charms"
+  ],
+  "sources": [
+    "https://stores.pandora.net/en-us/",
+    "https://pandoragroup.com/",
+    "https://pandoragroup.com/about-us/the-world-of-pandora",
+    "https://pandoragroup.com/about-us/craftmanship",
+    "https://pandoragroup.com/investor"
+  ],
+  "notes": [
+    "us.pandora.net (and uk.pandora.net, pandora.net, us.pandora.net/robots.txt) answer 403 to the StylodexBot UA and to WebFetch on 2026-10-29, so no prices, sizes, shipping or returns from the store itself. Status, US stores and what it sells come from Pandora's own corporate site and store locator.",
+    "stores.pandora.net/en-us/: 'Founded in 1982 and headquartered in Copenhagen, Denmark'; jewelry 'made from ... 14k gold, 18K gold-plated sterling silver, sterling silver and Pandora Rose metals'; 'iconic Pandora charms and bracelets'; shop nav Charms, Bracelets, Necklaces, Rings, Earrings, Lab-grown diamonds; US store directory lists stores in nearly every state plus Puerto Rico and Guam.",
+    "pandoragroup.com: sold in more than 100 countries, about 7,000 points of sale incl. over 2,800 concept stores, 2025 revenue DKK 32.5bn; 112M pieces sold. Began in a Copenhagen goldsmith's shop in 1982 as Populair Smykker.",
+    "pandoragroup.com/about-us/craftmanship: crafting facilities in Bangkok, Lamphun and Gemopolis (Thailand), 12,000+ people; new Binh Duong, Vietnam facility expected to begin operations early 2026; 'all Pandora jewellery is crafted using 100% recycled silver and gold' (since August 2024); facility design inspired by 'our signature charm bracelet'."
+  ],
+  "checked_at": "2026-10-29"
+}

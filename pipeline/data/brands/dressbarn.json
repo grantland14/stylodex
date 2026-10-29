@@ -38,20 +38,23 @@
   "production_model": null,
   "sale_pattern": null,
   "sells_categories": [
-    "dresses"
+    "dresses",
+    "jeans"
   ],
   "sources": [
     "https://dressbarn.com/",
     "https://dressbarn.com/collections.json?limit=250",
     "https://dressbarn.com/collections/dresses/products.json?limit=250",
     "https://dressbarn.com/policies/shipping-policy",
-    "https://dressbarn.com/policies/refund-policy"
+    "https://dressbarn.com/policies/refund-policy",
+    "https://dressbarn.com/collections/denim/products.json?limit=250"
   ],
   "notes": [
     "2026-10-29 (rainbow page run): live Shopify store. Title 'Dressbarn | Women’s Clothing | Dresses & Accessories'; collections Dresses (627), Day Dresses (436), Plus Size Women's Dresses (296), Petite Dresses (116), Occasion Dresses (105). Product vendors are outside labels (KIYONNA, White Mark), so kind retailer.",
     "Sizes in the dresses feed: S–XL, XS on 32; 0X–5X; numeric 4–18; 14W–22W; petite 6P.",
     "Shipping policy: ships to the 48 contiguous United States only; standard 5–7 business days; cost shown at checkout, no free-shipping threshold stated.",
-    "Refund policy: most items returnable within 30 days of delivery, as Dressbarn store credit; customer pays return shipping; clearance and Final Sale not returnable."
+    "Refund policy: most items returnable within 30 days of delivery, as Dressbarn store credit; customer pays return shipping; clearance and Final Sale not returnable.",
+    "2026-10-29 (maurices page run, C jeans): 'Denim Jeans' collection feed (handle denim, 37 products, curl, StylodexBot UA): 31 titled jean, vendor 88 International (Westport Signature line, e.g. Westport Signature Straight Leg Jean - Retro Wash, Westport Signature Bootcut 5-Pocket Denim Jean - True Blue), with Plus versions of several styles. Every product marked down ($39.99, compare-at $59.95), so no jeans price row; jeans in sells_categories from this feed."
   ],
   "checked_at": "2026-10-29"
 }

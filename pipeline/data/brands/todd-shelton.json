@@ -1,0 +1,47 @@
+{
+  "slug": "todd-shelton",
+  "name": "Todd Shelton",
+  "website_url": "https://toddshelton.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Jeans Made in New Jersey",
+  "hq_country": "US",
+  "size_range": "Waists 28–40; inseams 26–38",
+  "ships_to": [
+    "US"
+  ],
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 280.0,
+      "max": 320.0,
+      "min_usd": 280.0,
+      "max_usd": 320.0,
+      "fx_date": null,
+      "item_count": 8,
+      "source_url": "https://toddshelton.com/jeans",
+      "checked_at": "2026-10-29",
+      "note": "Jeans page lists 8 jeans: Original 13 (13 oz selvedge; dark, mid, light wash) and Lightweight 11 (11 oz selvedge; three washes) at $320; Classic 12 (12 oz black denim, Black and Charcoal) at $280. No markdowns shown. Product schema AggregateOffer highPrice runs to $400 with paid 'additional adjustment' options, not counted."
+    }
+  ],
+  "production_model": "Made in its own New Jersey factory",
+  "sources": [
+    "https://toddshelton.com/",
+    "https://toddshelton.com/jeans",
+    "https://toddshelton.com/jeans/original-13-selvedge-dark-wash",
+    "https://toddshelton.com/shipping-and-delivery",
+    "https://toddshelton.com/exchanges-and-returns"
+  ],
+  "notes": [
+    "Original 13 product page: all-cotton men's jean 'made in the USA from 13 oz Japanese selvedge denim', fabric from Kuroki mills since 2012, 'made in-house at the Todd Shelton New Jersey factory'; four thigh fits (Lean, Basic, Relaxed, Athletic), standard and high rise; waists 28–40 in one-inch steps (41 and 42 made to order), lengths 26–38 (https://toddshelton.com/jeans/original-13-selvedge-dark-wash).",
+    "Shipping: ships from the Paterson, NJ factory; orders ship in 7 business days; 'We do not currently ship internationally' (https://toddshelton.com/shipping-and-delivery).",
+    "Returns: standard orders free exchanges and refunds within 30 days of each delivery; prepaid label emailed; 'Exchanges are normal, sometimes two' (https://toddshelton.com/exchanges-and-returns).",
+    "Homepage footer 'Made in USA'; image alt 'made in New Jersey USA since 2012' (https://toddshelton.com/)."
+  ],
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "jeans"
+  ]
+}

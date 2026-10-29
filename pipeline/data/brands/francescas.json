@@ -1,0 +1,14 @@
+{
+  "slug": "francescas",
+  "name": "Francesca's",
+  "website_url": "https://www.francescas.com",
+  "status": "unverified",
+  "kind": "brand",
+  "checked_at": "2026-10-29",
+  "sources": [
+    "https://www.francescas.com/"
+  ],
+  "notes": [
+    "2026-10-29 (white-house-black-market page run): https://www.francescas.com/ answered HTTP 423 to a plain request (StylodexBot UA) and HTTP 423 'Locked' to WebFetch. One try each, not worked around. kind brand is provisional. Status, dress prices, sizes, shipping and returns unread: human check. One 'stores like White House Black Market' list (temufinds) names it."
+  ]
+}

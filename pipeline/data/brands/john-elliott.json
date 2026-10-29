@@ -34,6 +34,19 @@
       "source_url": "https://www.johnelliott.com/products.json?limit=250&country=US",
       "checked_at": "2026-10-29",
       "note": "6 regular-price in-stock hoodies and zip hoodies read from the US-market feed (localization=US, country=US; 264 products read, 0 marked down and 0 sold out excluded; kids, crewnecks, knits/sweaters, cashmere, jackets, sets excluded). Low $198: Beach Hoodie 2 / Latte; high $198: Beach Hoodie 2 / Oxford Navy; median $198. Regular = no variant with compare_at_price above price and no sale/markdown tag ('Final Sale' tags without a markdown count as regular). All six are the Beach Hoodie 2 (French terry, made in Peru)."
+    },
+    {
+      "category": "pants",
+      "currency": "USD",
+      "min": 198.0,
+      "max": 698.0,
+      "min_usd": 198.0,
+      "max_usd": 698.0,
+      "fx_date": null,
+      "item_count": 58,
+      "source_url": "https://www.johnelliott.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Store feed (USD), product types Pants, Denim and Sweatpants, 58 available with no markdown: Beach Sweats $198 to Big Jim Selvedge jeans $698; Canopy Cotton Cargo Pants $348. Labels say made in China, Peru, Japan, Mexico or Turkey depending on style."
     }
   ],
   "materials": [],
@@ -48,7 +61,9 @@
     "https://www.johnelliott.com/pages/stores",
     "https://www.johnelliott.com/pages/shipping",
     "https://www.johnelliott.com/policies/refund-policy",
-    "https://www.johnelliott.com/pages/faq"
+    "https://www.johnelliott.com/pages/faq",
+    "https://www.johnelliott.com/products.json?limit=250",
+    "https://www.johnelliott.com/collections/cargo-pants/products.json"
   ],
   "checked_at": "2026-10-29",
   "notes": [
@@ -56,9 +71,13 @@
     "Stores page: West Hollywood (8808 Melrose Avenue) and a New York flagship at 270 Lafayette Street ('third physical location'). us_stores true.",
     "Shipping page: 'JOHN ELLIOTT OFFERS FREE UPS GROUND SHIPPING ON ALL ORDERS TO THE DOMESTIC UNITED STATES' (free_shipping_min_usd 0). FAQ: international orders ship DDU. meta.json ships_to_countries (163) includes US, CA, GB, AU; shop address West Hollywood, California.",
     "Refund policy: refund, store credit or exchange, 14 days from receipt; sale and Nike products excluded; online returns not accepted at the LA store.",
-    "Hoodies: only the Beach Hoodie 2 at regular price, $198 in six colours: 'relaxed, subtly cropped fit... custom knit French terry... Made in Peru... 100% Cotton'. Sizes 0/XS to 6/XXXL."
+    "Hoodies: only the Beach Hoodie 2 at regular price, $198 in six colours: 'relaxed, subtly cropped fit... custom knit French terry... Made in Peru... 100% Cotton'. Sizes 0/XS to 6/XXXL.",
+    "Site banner: free shipping on all domestic orders (https://www.johnelliott.com/).",
+    "Returns: 14 days from receipt to request a return; US refunds have a $7 return label fee deducted; exchanges ship free by UPS Ground; sale and Nike items final (https://www.johnelliott.com/policies/refund-policy).",
+    "About: John Elliott founded the label in 2012; Los Angeles based designer (https://www.johnelliott.com/pages/about-us). Homepage: 'An independent perspective on luxury, with an obsessive focus on construction.'"
   ],
   "sells_categories": [
-    "hoodies"
+    "hoodies",
+    "pants"
   ]
 }

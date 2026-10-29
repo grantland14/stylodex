@@ -1,0 +1,43 @@
+{
+  "name": "Det Blev Sent",
+  "website_url": "https://detblevsent.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Rebellious Contemporary Menswear",
+  "hq_country": "US",
+  "size_range": "Waists 28–34",
+  "ships_to": [
+    "US"
+  ],
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "pants",
+      "currency": "USD",
+      "min": 330.0,
+      "max": 770.0,
+      "min_usd": 330.0,
+      "max_usd": 770.0,
+      "fx_date": null,
+      "item_count": 6,
+      "source_url": "https://detblevsent.com/collections/trousers/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Trousers collection (USD), 6 available regular-price: Waxed Belvidere Jeans $330, Waxed Varet Jeans $375, Waxed Grattan Pants $445 to Crack Waxed Gusset Varet Jeans $770; all 100% cotton, waxed, gusset at the inseam hem on the jeans."
+    }
+  ],
+  "sells_categories": [
+    "pants"
+  ],
+  "sources": [
+    "https://detblevsent.com/collections/trousers/products.json",
+    "https://detblevsent.com/pages/return-policy",
+    "https://detblevsent.com/pages/size-guide",
+    "https://detblevsent.com/"
+  ],
+  "notes": [
+    "Homepage title: 'Contemporary Menswear Fashion Brand | NYC'; description: redefines menswear with 'rebellious expression, refined tailoring, and global edge' (https://detblevsent.com/).",
+    "Returns within 14 days; return address 39 Fayette St #3D, Brooklyn, NY 11206 (https://detblevsent.com/pages/return-policy). ships_to US rests on the USD Brooklyn-based store; no shipping page found."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "det-blev-sent"
+}

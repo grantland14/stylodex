@@ -43,6 +43,19 @@
       "source_url": "https://whitefoxboutique.com/collections/hoodies/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "Hoodies collection feed, 191 products: 162 regular-price in-stock hoodies (25 marked down, 1 sold out). Low: Not Done Yet Zip Up Fitted Hoodie $54.99; high: Anything For Love Boxy Zip Front Hoodie $74.99. Sizes run in pairs, 3XS/XXS to L/XL (a few XL/XXL). Regular price = in stock, no variant with compare_at_price above price; hoodie = title says hoodie/hoody, kids, knit, sets and jackets excluded."
+    },
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 49.99,
+      "max": 179.99,
+      "min_usd": 49.99,
+      "max_usd": 179.99,
+      "fx_date": null,
+      "item_count": 415,
+      "source_url": "https://whitefoxboutique.com/collections/dresses",
+      "checked_at": "2026-10-29",
+      "note": "Full US dresses feed (/collections/dresses/products.json, StylodexBot UA, store 'White Fox Boutique USA', USD): 1,084 products; 415 regular-price in stock (no variant compare_at_price above price, no sale/markdown/clearance tag), product type Dresses, title naming a dress. Low: Daily Reminder Mini Dress $49.99; high: Magic Muse Maxi Dress $179.99. Median $79.99; 354 under $100. All vendor White Fox Boutique."
     }
   ],
   "materials": [],
@@ -66,7 +79,8 @@
     "https://whitefoxboutique.com/blogs/shipping/will-i-be-charged-taxes-and-tariffs",
     "https://whitefoxboutique.com/policies/shipping-policy.json",
     "https://whitefoxboutique.com/policies/refund-policy.json",
-    "https://whitefoxboutique.com/collections/hoodies/products.json?limit=250"
+    "https://whitefoxboutique.com/collections/hoodies/products.json?limit=250",
+    "https://whitefoxboutique.com/collections/dresses"
   ],
   "checked_at": "2026-10-29",
   "notes": [
@@ -79,11 +93,13 @@
     "Free standard shipping threshold: homepage cart config (whitefoxboutique.com, shipping thresholds) min_spend 100, 'Free Standard Shipping', subtitle '*49 states included'. Standard rate under $100 not readable.",
     "'White Fox Boutique is exclusively based online only' (order-enquiries FAQ): no shops, so us_stores false.",
     "Returns (refund-policy.json): store credit only, 'we do not refund for change of mind or incorrect sizing'; 30 days from when the order is placed; customer pays return postage; store credit expires in 12 months; sale items final.",
-    "Hoodies: in the full catalog (6,740 products, collections/all feed) hoodies sit under product type Outerwear: 285 hoodies, 230 at regular price in stock, $54.99–$89.99, most $69.99 (157) or $74.99 (53). Largest product types: Tops 1,773, Dresses 1,117, Swimwear 582, Outerwear 579, Pants 568."
+    "Hoodies: in the full catalog (6,740 products, collections/all feed) hoodies sit under product type Outerwear: 285 hoodies, 230 at regular price in stock, $54.99–$89.99, most $69.99 (157) or $74.99 (53). Largest product types: Tops 1,773, Dresses 1,117, Swimwear 582, Outerwear 579, Pants 568.",
+    "2026-10-29 (stores-like-lucy-in-the-sky run): dresses feed: sizes XXS–XL on almost all 415 regular-price dresses, XXL on 9. Tags: 125 formal-dresses, 95 wedding-guest, 48 homecoming. Sequin dresses from $69.99 (Sunset Siren Sequin Mini Dress Olivine) to $89.99 (Studio Starlet Sequin Mini Dress Wine)."
   ],
   "sells_categories": [
     "tops",
-    "hoodies"
+    "hoodies",
+    "dresses"
   ],
   "us_stores": false
 }

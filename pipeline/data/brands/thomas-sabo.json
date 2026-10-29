@@ -1,0 +1,47 @@
+{
+  "name": "Thomas Sabo",
+  "website_url": "https://www.thomassabo.com/US/en_US/home",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Sterling Silver Charms and Jewelry",
+  "hq_country": "DE",
+  "founded_year": 1984,
+  "ships_to": [
+    "US"
+  ],
+  "returns_days": 30,
+  "materials": [
+    "925 sterling silver"
+  ],
+  "prices": [
+    {
+      "category": "charms",
+      "currency": "USD",
+      "min": 37,
+      "max": 225,
+      "min_usd": 37,
+      "max_usd": 225,
+      "fx_date": null,
+      "item_count": 202,
+      "source_url": "https://www.thomassabo.com/US/en_US/charm-club/by-category/charms-original",
+      "checked_at": "2026-10-29",
+      "note": "Charm Club Original charms, all 7 pages (start=0..288, sz=48): 279 tiles, 77 with a crossed-out old price excluded, 202 regular. Cloverleaf Charm with white zirconia - Original $37 to Charm pendant colourful globe / sun gold plated $225. Silver charm pendant frog $135, Crown Charm - Original $52."
+    }
+  ],
+  "sells_categories": [
+    "charms"
+  ],
+  "sources": [
+    "https://www.thomassabo.com/US/en_US/charm-club/by-category/charms-original",
+    "https://www.thomassabo.com/US/en_US/delivery/faq-02.html",
+    "https://www.thomassabo.com/US/en_US/returns-exchange/faq-03.html",
+    "https://www.thomassabo.com/US/en_US/faq/faq.html",
+    "https://en.wikipedia.org/wiki/Thomas_Sabo"
+  ],
+  "notes": [
+    "Charms page: 'THOMAS SABO silver charms are made of 925 Sterling silver', some plated with 18k yellow or rose gold; charms use a lobster clasp to hook onto Charm Club bracelets or necklaces. Karma Beads are a separate threaded line.",
+    "US store (USD): delivery is carried out from Canada; no delivery to Puerto Rico, American Samoa, Guam or the Virgin Islands. Returns within 30 calendar days of receipt, prepaid label with the RA, shipping charges non-refundable, engraved items final sale.",
+    "Wikipedia: founded 1984 in Lauf an der Pegnitz, Germany by Thomas Sabo."
+  ],
+  "checked_at": "2026-10-29"
+}
