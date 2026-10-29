@@ -1,0 +1,50 @@
+{
+  "name": "Cross Colours",
+  "website_url": "https://crosscolours.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Original 90s Hip Hop Clothing",
+  "hq_country": "US",
+  "founded_year": 1989,
+  "parent_company": null,
+  "size_range": "Hoodies S–3X",
+  "ships_to": [
+    "US",
+    "CA",
+    "AU"
+  ],
+  "free_shipping_min_usd": 200,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 78,
+      "max": 78,
+      "item_count": 5,
+      "source_url": "https://crosscolours.com/collections/sweatshirts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "5 regular-price hoodies of 6 in the Hoodies feed, all $78: Atelier Starmaker Pullover Hoodie (Black, Khaki), Cross Colours Label Logo Side Pocket Hoodie. Sizes S–XL, 2X on 4, 3X on 2. Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final sale, sale-NN, NN% off, saleonsale, Apparel_Sale_). Hoodies only: pullover and zip-up hooded sweatshirts; crewnecks, hooded jackets, vests, knit hats/hoods, kids and sets excluded.",
+      "min_usd": 78,
+      "max_usd": 78,
+      "fx_date": null
+    }
+  ],
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://crosscolours.com/",
+    "https://crosscolours.com/meta.json",
+    "https://crosscolours.com/collections/sweatshirts/products.json?limit=250",
+    "https://crosscolours.com/policies/refund-policy",
+    "https://crosscolours.com/policies/shipping-policy"
+  ],
+  "notes": [
+    "Meta: 'Cross Colours - Clothing Without Prejudice since 1989 - The original Hip Hop clothing brand from the 90s.'",
+    "Banner: 'Free Shipping on Orders in the U.S. Over $200 | Code: FREESHIP200' (needs the code).",
+    "Returns for full credit or exchange within 30 days of shipment, new condition.",
+    "meta.json: Beverly Hills, US, USD; ships to US, CA, AU (not GB)."
+  ],
+  "checked_at": "2026-10-29"
+}

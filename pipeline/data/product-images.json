@@ -277,33 +277,8 @@
   },
   "alex-mill": {
     "jeans": {
-      "status": "ok",
-      "items": [
-        {
-          "path": "/img/products/alex-mill/neil-pant-in-herringbone-espresso.webp",
-          "title": "Neil Pant in Herringbone",
-          "product_path": "/products/neil-pant-in-herringbone-espresso",
-          "price": 195,
-          "currency": "USD",
-          "source_image": "https://cdn.shopify.com/s/files/1/0295/5521/files/WP100-3133-ESPRESSO-24365.jpg?v=1768353361"
-        },
-        {
-          "path": "/img/products/alex-mill/the-perfect-weekday-tote-in-early-lavender.webp",
-          "title": "The Perfect Weekday Tote",
-          "product_path": "/products/the-perfect-weekday-tote-in-early-lavender",
-          "price": 175,
-          "currency": "USD",
-          "source_image": "https://cdn.shopify.com/s/files/1/0295/5521/files/MONO_MA054-2524-EARLY-LAVENDER-WEEKDAY-15571_1_13478321-803c-49fe-97cb-702ba59fb9b5.jpg?v=1788879587"
-        },
-        {
-          "path": "/img/products/alex-mill/the-perfect-weekday-tote-in-deep-purple.webp",
-          "title": "The Perfect Weekday Tote",
-          "product_path": "/products/the-perfect-weekday-tote-in-deep-purple",
-          "price": 175,
-          "currency": "USD",
-          "source_image": "https://cdn.shopify.com/s/files/1/0295/5521/files/MA054-2524-DEEP-PURPLE-WEEKDAY_MONO_bacd98e5-bcd5-4f6f-abde-1ebe0b81ca32.jpg?v=1785334141"
-        }
-      ],
+      "status": "no_products",
+      "items": [],
       "fetched_at": "2026-10-29"
     },
     "sweaters": {
@@ -1105,33 +1080,8 @@
   },
   "daze": {
     "jeans": {
-      "status": "ok",
-      "items": [
-        {
-          "path": "/img/products/daze/far-out-high-rise-wide-leg-stardust.webp",
-          "title": "Far Out High Rise Wide Leg in Stardust",
-          "product_path": "/products/far-out-high-rise-wide-leg-stardust",
-          "price": 118,
-          "currency": "USD",
-          "source_image": "https://cdn.shopify.com/s/files/1/0442/2300/4821/files/D00017191-DC_STARDUST_FAROUT_11084.jpg?v=1792444808"
-        },
-        {
-          "path": "/img/products/daze/far-out-w-seaming-high-rise-wide-leg-make-believe.webp",
-          "title": "Far Out High Rise Wide in Make Believe",
-          "product_path": "/products/far-out-w-seaming-high-rise-wide-leg-make-believe",
-          "price": 108,
-          "currency": "USD",
-          "source_image": "https://cdn.shopify.com/s/files/1/0442/2300/4821/files/D00016364ZZ-MAKEB_10510.jpg?v=1792626001"
-        },
-        {
-          "path": "/img/products/daze/far-out-high-rise-wide-leg-midnight.webp",
-          "title": "Far Out High Rise Wide Leg in Midnight",
-          "product_path": "/products/far-out-high-rise-wide-leg-midnight",
-          "price": 108,
-          "currency": "USD",
-          "source_image": "https://cdn.shopify.com/s/files/1/0442/2300/4821/files/D00017191-DM_MIDNIGHT_11912.jpg?v=1792444675"
-        }
-      ],
+      "status": "no_products",
+      "items": [],
       "fetched_at": "2026-10-29"
     }
   },
@@ -1175,6 +1125,10 @@
   },
   "dillards": {
     "womens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    },
+    "jeans": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
@@ -1638,33 +1592,8 @@
       "fetched_at": "2026-10-29"
     },
     "jeans": {
-      "status": "ok",
-      "items": [
-        {
-          "path": "/img/products/forever-21/01409740.webp",
-          "title": "Striped Barrel Leg Joggers",
-          "product_path": "/products/01409740",
-          "price": 24.99,
-          "currency": "USD",
-          "source_image": "https://cdn.shopify.com/s/files/1/0702/7847/9906/files/01409740_03_FrontFull.png?v=1792452245"
-        },
-        {
-          "path": "/img/products/forever-21/01409569.webp",
-          "title": "Soft Knit Pants",
-          "product_path": "/products/01409569",
-          "price": 29.99,
-          "currency": "USD",
-          "source_image": "https://cdn.shopify.com/s/files/1/0702/7847/9906/files/01409569-02-2_front.png?v=1776437564"
-        },
-        {
-          "path": "/img/products/forever-21/01408638.webp",
-          "title": "Flawless Foldover Flare Leggings",
-          "product_path": "/products/01408638",
-          "price": 29.99,
-          "currency": "USD",
-          "source_image": "https://cdn.shopify.com/s/files/1/0702/7847/9906/files/01408638-01-3_back.jpg?v=1762468489"
-        }
-      ],
+      "status": "no_products",
+      "items": [],
       "fetched_at": "2026-10-29"
     },
     "tees": {
@@ -2300,33 +2229,8 @@
   },
   "jnco": {
     "jeans": {
-      "status": "ok",
-      "items": [
-        {
-          "path": "/img/products/jnco/w101-twin-cannon-26-dark-stone.webp",
-          "title": "W101 Twin Cannon. 26\". Dark Stone.",
-          "product_path": "/products/w101-twin-cannon-26-dark-stone",
-          "price": 140,
-          "currency": "USD",
-          "source_image": "https://cdn.shopify.com/s/files/1/0022/0446/7300/files/JNCO_ECOMM_SEP0281.jpg?v=1789793099"
-        },
-        {
-          "path": "/img/products/jnco/hypnotix-32-jet-black.webp",
-          "title": "Hypnotix. 32\". Jet Black.",
-          "product_path": "/products/hypnotix-32-jet-black",
-          "price": 280,
-          "currency": "USD",
-          "source_image": "https://cdn.shopify.com/s/files/1/0022/0446/7300/files/JNCO_ECOMM_SEP0770.jpg?v=1790096923"
-        },
-        {
-          "path": "/img/products/jnco/hypnotics-32-dark-stone.webp",
-          "title": "Hypnotix. 32\". Dark Stone.",
-          "product_path": "/products/hypnotics-32-dark-stone",
-          "price": 280,
-          "currency": "USD",
-          "source_image": "https://cdn.shopify.com/s/files/1/0022/0446/7300/files/JNCO_ECOMM_SEP4073.jpg?v=1790104431"
-        }
-      ],
+      "status": "no_products",
+      "items": [],
       "fetched_at": "2026-10-29"
     },
     "graphic-tees": {
@@ -2482,17 +2386,8 @@
   },
   "killstar": {
     "graphic-tees": {
-      "status": "ok",
-      "items": [
-        {
-          "path": "/img/products/killstar/black-damask-mini-dress.webp",
-          "title": "Black Damask Mini Dress",
-          "product_path": "/products/black-damask-mini-dress",
-          "price": 105,
-          "currency": "USD",
-          "source_image": "https://cdn.shopify.com/s/files/1/1014/6323/files/BlackDamaskMiniDress97.jpg?v=1767628056"
-        }
-      ],
+      "status": "no_products",
+      "items": [],
       "fetched_at": "2026-10-29"
     }
   },
@@ -3060,6 +2955,12 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "maurices": {
+    "jeans": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "mayamiko": {
     "dresses": {
       "status": "ok",
@@ -3097,28 +2998,28 @@
       "status": "ok",
       "items": [
         {
+          "path": "/img/products/metal-mulisha/side-piece-tee.webp",
+          "title": "SIDE PIECE TEE",
+          "product_path": "/products/side-piece-tee",
+          "price": 30,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0504/7926/7994/files/MMTSS6027_BLK_SIDE-PIECE-TEE_F_web.jpg?v=1793133811"
+        },
+        {
+          "path": "/img/products/metal-mulisha/side-piece-tee-1.webp",
+          "title": "SIDE PIECE TEE",
+          "product_path": "/products/side-piece-tee-1",
+          "price": 30,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0504/7926/7994/files/MMTSS6027_WHT_SIDE-PIECE-TEE_F_web.jpg?v=1793133841"
+        },
+        {
           "path": "/img/products/metal-mulisha/demo-tee.webp",
           "title": "DEMO TEE",
           "product_path": "/products/demo-tee",
           "price": 30,
           "currency": "USD",
           "source_image": "https://cdn.shopify.com/s/files/1/0504/7926/7994/files/MMTSS6055_BLK_DEMO-TEE_F_web.jpg?v=1793133663"
-        },
-        {
-          "path": "/img/products/metal-mulisha/conee-tee-white.webp",
-          "title": "CONEE TEE",
-          "product_path": "/products/conee-tee-white",
-          "price": 28,
-          "currency": "USD",
-          "source_image": "https://cdn.shopify.com/s/files/1/0504/7926/7994/files/MMTSS6031_WHT_CONEE-TEE_F_web.jpg?v=1793133771"
-        },
-        {
-          "path": "/img/products/metal-mulisha/conee-tee-black-red.webp",
-          "title": "CONEE TEE",
-          "product_path": "/products/conee-tee-black-red",
-          "price": 28,
-          "currency": "USD",
-          "source_image": "https://cdn.shopify.com/s/files/1/0504/7926/7994/files/MMTSS6031_BLR_CONEE-TEE_F_web.jpg?v=1793133763"
         }
       ],
       "fetched_at": "2026-10-29"
@@ -3171,22 +3072,6 @@
           "price": 325,
           "currency": "USD",
           "source_image": "https://cdn.shopify.com/s/files/1/1231/1148/files/11370003.jpg?v=1761542682"
-        },
-        {
-          "path": "/img/products/miaou/adidas-megaride-s2-silver-and-orange-1.webp",
-          "title": "ADIDAS MEGARIDE S2",
-          "product_path": "/products/adidas-megaride-s2-silver-and-orange-1",
-          "price": 200,
-          "currency": "USD",
-          "source_image": "https://cdn.shopify.com/s/files/1/1231/1148/files/ADIDAS_MEGARIDE_S2_SILVER_IMAGE-CAMPAIGN_MEDIA-STILL_CROP-CLOSECROP_ANGLE-SIDE.jpg?v=1789402055"
-        },
-        {
-          "path": "/img/products/miaou/adidas-megaride-s2-blue.webp",
-          "title": "ADIDAS MEGARIDE S2",
-          "product_path": "/products/adidas-megaride-s2-blue",
-          "price": 200,
-          "currency": "USD",
-          "source_image": "https://cdn.shopify.com/s/files/1/1231/1148/files/ADIDAS_MEGARIDE_S2_CLEARBLUE_IMAGE-CAMPAIGN_MEDIA-STILL_CROP-CLOSECROP_ANGLE-SIDE.jpg?v=1789168867"
         }
       ],
       "fetched_at": "2026-10-29"
@@ -3606,6 +3491,10 @@
     "womens-clothing": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
+    },
+    "jeans": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
     }
   },
   "nordstrom-rack": {
@@ -3872,6 +3761,10 @@
   },
   "pacsun": {
     "mens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    },
+    "jeans": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
@@ -4966,33 +4859,8 @@
   },
   "sullen": {
     "graphic-tees": {
-      "status": "ok",
-      "items": [
-        {
-          "path": "/img/products/sullen/hodu-reaper-artrist-series-skulls-bones-dark-sulleween-hodu-tee.webp",
-          "title": "Hodu Reaper Premium",
-          "product_path": "/products/hodu-reaper-artrist-series-skulls-bones-dark-sulleween-hodu-tee",
-          "price": 32.5,
-          "currency": "USD",
-          "source_image": "https://cdn.shopify.com/s/files/1/1096/0120/files/HoduReaperTee_5.jpg?v=1792014798"
-        },
-        {
-          "path": "/img/products/sullen/medusa-painting-of-great-battle-against-medusa-matt-jordan-tee.webp",
-          "title": "Medusa Standard",
-          "product_path": "/products/medusa-painting-of-great-battle-against-medusa-matt-jordan-tee",
-          "price": 27.95,
-          "currency": "USD",
-          "source_image": "https://cdn.shopify.com/s/files/1/1096/0120/files/MEDUSA_Lifestyle_2.jpg?v=1786767707"
-        },
-        {
-          "path": "/img/products/sullen/6-swords-painting-by-artist-matt-jordan.webp",
-          "title": "6 Swords Standard",
-          "product_path": "/products/6-swords-painting-by-artist-matt-jordan",
-          "price": 27.95,
-          "currency": "USD",
-          "source_image": "https://cdn.shopify.com/s/files/1/1096/0120/files/6-SWORDS_Lifestyle_1_ec6b0f2e-6d08-467c-bd81-15953099f5a6.jpg?v=1786767708"
-        }
-      ],
+      "status": "no_products",
+      "items": [],
       "fetched_at": "2026-10-29"
     }
   },

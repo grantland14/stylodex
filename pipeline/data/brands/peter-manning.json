@@ -1,0 +1,61 @@
+{
+  "slug": "peter-manning",
+  "name": "Peter Manning NYC",
+  "website_url": "https://petermanningnyc.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Quality Clothes With a Proper Fit",
+  "hq_country": "US",
+  "founded_year": 2013,
+  "parent_company": null,
+  "size_range": "Sizes 1–4XL, for heights 5 ft 1 in to 5 ft 10 in",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": false,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 30,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "USD",
+      "min": 148,
+      "max": 495,
+      "min_usd": 148,
+      "max_usd": 495,
+      "fx_date": null,
+      "item_count": 17,
+      "source_url": "https://petermanningnyc.com/collections/outerwear",
+      "checked_at": "2026-10-29",
+      "note": "products.json of Outerwear: 26 products; 6 vests and 4 marked down (Tech Rain Jacket Black/Blue, Waxed Jacket Olive/Tobacco, compare_at_price above price) excluded; 16–17 regular-price jackets/coats incl. Flannel Jackets. Low: Polartec Fleece Jacket $148 and Flannel Jackets $148; Bomber Jacket $158; Tech Rain Jacket (Red) $158; Milan Car Coat $248; high: Leather Jacket and Goat Suede Jacket $495."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "coats-jackets"
+  ],
+  "sources": [
+    "https://petermanningnyc.com/",
+    "https://petermanningnyc.com/collections/outerwear/products.json",
+    "https://petermanningnyc.com/pages/about",
+    "https://petermanningnyc.com/pages/fit-guide",
+    "https://petermanningnyc.com/pages/shipping-returns",
+    "https://petermanningnyc.com/policies/refund-policy",
+    "https://petermanningnyc.com/pages/fit-shops"
+  ],
+  "notes": [
+    "Homepage meta: 'High quality clothes with a better fit, inseams starting at 25 inches, shirts you can wear untucked, jackets with proper sleeve and body length'. Banner 'Free U.S. Shipping & Returns' (https://petermanningnyc.com/).",
+    "About: established 2013 in Brooklyn, New York; 'our own proprietary size system based on height, weight and body type'; 'up to 12 shirt/jacket sizes and 50 pant sizes' (https://petermanningnyc.com/pages/about).",
+    "Fit guide size table: 1 (5'1\"–5'4\") to 4 (5'7\"–5'10\"), X sizes 2X–4X 'same length as the standard sizes, but just broader', 4XL 5'6\"–5'10\" 180–205 lbs; slim, standard and broad cuts (https://petermanningnyc.com/pages/fit-guide). Outerwear variants run 1–4XL.",
+    "Shipping & returns: US domestic shipping and returns free; ships internationally (customer pays shipping and duties, no free international returns) (https://petermanningnyc.com/pages/shipping-returns). Refund policy: returns and exchanges within 30 days of purchase at no cost; Final Sale non-returnable (https://petermanningnyc.com/policies/refund-policy).",
+    "Fit Shop: 933 Broadway 3rd Floor, New York, NY, open daily 11am–6pm, try and buy with same-day free shipping = us_stores true (https://petermanningnyc.com/pages/fit-shops).",
+    "Homepage title 'Quality Clothes | Proper Fit – Peter Manning' (known_for) (https://petermanningnyc.com/)."
+  ],
+  "checked_at": "2026-10-29"
+}

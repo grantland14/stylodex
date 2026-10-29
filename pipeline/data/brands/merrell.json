@@ -1,0 +1,44 @@
+{
+  "slug": "merrell",
+  "name": "Merrell",
+  "website_url": "https://www.merrell.com/US/en/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Hiking Boots and Trail Shoes",
+  "hq_country": "US",
+  "founded_year": 1981,
+  "parent_company": "Wolverine World Wide",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": null,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "USD",
+      "min": 155,
+      "max": 165,
+      "min_usd": 155,
+      "max_usd": 165,
+      "fx_date": null,
+      "item_count": 2,
+      "source_url": "https://www.merrell.com/US/en/mens-jackets/",
+      "checked_at": "2026-10-29",
+      "note": "Men's Jackets page: 10 products (7 unique); Tengu Sherpa Jacket, Jungle Fleece Full Zip and Rain Shell Jacket marked down (Was prices); Starfall Packable Vest excluded. Regular: Pineforge Packable Jacket $155, Ironvale Lightweight Packable Puffer $165. Lando Raincoat shows $66.99–$195 across colors and wasn't counted (couldn't tell if the low end is a markdown)."
+    }
+  ],
+  "sells_categories": [
+    "coats-jackets"
+  ],
+  "sources": [
+    "https://www.merrell.com/US/en/mens-jackets/",
+    "https://en.wikipedia.org/wiki/Merrell_(company)"
+  ],
+  "notes": [
+    "Men's jackets page banners: 'Free Shipping on orders $75+', 'Free Express Shipping on orders $125+', 'Free returns & exchanges', 'Enjoy extended returns through 1.31.2027'. returns page URL tried (/returns-exchanges/) was 404, so returns_days left empty (https://www.merrell.com/US/en/mens-jackets/).",
+    "Wikipedia: founded 1981 as 'a maker of high-performance hiking boots'; HQ Rockford, Michigan; wholly owned by Wolverine World Wide since 1997; known for hiking boots and the Jungle Moc, also makes apparel (https://en.wikipedia.org/wiki/Merrell_(company))."
+  ],
+  "checked_at": "2026-10-29"
+}

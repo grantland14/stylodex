@@ -5,7 +5,7 @@
   "status": "verified",
   "kind": "brand",
   "known_for": "Comfortable Tunics and Pull-On Pants",
-  "hq_country": null,
+  "hq_country": "US",
   "founded_year": 1984,
   "parent_company": "Newtimes Group",
   "size_range": "XS–XL, petite PXS–PXL, plus 1X–3X",
@@ -22,7 +22,21 @@
     "dresses"
   ],
   "checked_at": "2026-10-29",
-  "prices": [],
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 119.95,
+      "max": 388.0,
+      "min_usd": 119.95,
+      "max_usd": 388.0,
+      "fx_date": null,
+      "item_count": 39,
+      "source_url": "https://www.coldwatercreek.com/xmlsitemap.php?type=products&page=1",
+      "checked_at": "2026-10-29",
+      "note": "The dresses grid is script-rendered, so the range comes from the store's own product pages: the product sitemap's 88 URLs with 'dress' in the name, each fetched once (StylodexBot UA, 2 s apart). 2 swimdresses excluded. All 86 dresses in stock (og:availability instock, purchasable true). 47 marked down (product:price:amount below og:price:standard_amount), excluded. 39 regular: 33 Coldwater Creek label $119.95–$159.95 (All Angles Knit Dress $119.95, New Roads Shirtdress $129.95, Corduroy Shirtdress $129.95, Mixed Print Caftan Dress $139.95, Embroidered TENCEL Shirtdress $144.95, Stretch Velvet Pintuck Dress $149.95, Shadow Bloom Midi Dress $154.95, Scrolled Stretch Velvet Dress $159.95) plus 6 'by Komarov' dresses $298–$388 (an outside label it stocks)."
+    }
+  ],
   "sources": [
     "https://www.coldwatercreek.com/",
     "https://www.coldwatercreek.com/clothing/dresses",
@@ -30,13 +44,21 @@
     "https://www.coldwatercreek.com/shipping/",
     "https://www.coldwatercreek.com/size-charts",
     "https://en.wikipedia.org/wiki/Coldwater_Creek_(clothing_retailer)",
-    "https://en.wikipedia.org/wiki/Soft_Surroundings"
+    "https://en.wikipedia.org/wiki/Soft_Surroundings",
+    "https://www.coldwatercreek.com/xmlsitemap.php?type=products&page=1",
+    "https://www.coldwatercreek.com/our-story",
+    "https://www.coldwatercreek.com/faqs",
+    "https://www.coldwatercreek.com/privacy-policy",
+    "https://www.coldwatercreek.com/terms-of-use",
+    "https://www.coldwatercreek.com/robots.txt"
   ],
   "notes": [
     "2026-10-29 (talbots page run): homepage title 'Coldwater Creek | Women's Clothing | Quality Tunics & Pants XS-3X'; meta 'comfortable tunics, pull-on pants, jeans, and versatile dresses... Misses, Petites & Women's Plus XS-3X'.",
     "Dresses page (/clothing/dresses) is script-rendered (product grid loads from a third-party search service, not read): page text 'Browse sizes XS-3X, including petite and women's options'. No regular dresses price stored; sells_categories from the store's own dresses page.",
     "Size charts: Misses XS (2-4) to XL (18-20); Petites PXS (P2-P4) to PXL (P18-P20); Women's Plus 1X (16W-18W) to 3X (24W-26W); tall only in select pants.",
     "Returns: 'within 60 days of purchase with a valid receipt'; $9.95 processing fee deducted. Shipping: by order value, $9.99 standard up to $50 to $19.99 over $200; 'not able to ship to Canada or other non-U.S. addresses'.",
-    "Wikipedia: founded 1984 by Dennis and Ann Pence in Sandpoint, Idaho; Newtimes Group (Hong Kong) bought its inventory and IP in September 2020; closed its 13 stores in 2020 and is online-only, so us_stores false. Current HQ not stated, hq_country left empty. Soft Surroundings article: Coldwater Creek bought Soft Surroundings on December 7, 2023."
+    "Wikipedia: founded 1984 by Dennis and Ann Pence in Sandpoint, Idaho; Newtimes Group (Hong Kong) bought its inventory and IP in September 2020; closed its 13 stores in 2020 and is online-only, so us_stores false. Current HQ not stated, hq_country left empty. Soft Surroundings article: Coldwater Creek bought Soft Surroundings on December 7, 2023.",
+    "2026-10-29 (coldwater-creek page run): privacy policy and terms name the operator 'Coldwater International LLC', 6426 NW 5th Way, Fort Lauderdale, FL 33309, with affiliate 'Soft Surroundings International, LLC dba Soft Surroundings', so hq_country US. Our Story: 'shaped by the beauty, artistry and independent spirit of Sandpoint, Idaho'; 'Mountain West heritage'; 'Quality fabrics, outstanding construction and livable designs'. FAQ offers catalogs ('Request a Catalog'). Size chart intro: 'Misses, Petites and Women's Plus... sizes 2–26W'.",
+    "2026-10-29 (coldwater-creek page run): live store selling women's clothing today, so verified, not defunct (stores closed in 2020; online and catalog since). Ahrefs top pages (US): /clothing/dresses is the top product-type page (est. 3,741 visits/mo) ahead of /clothing/tunics (1,502) and /clothing/sweaters (860). Stocks some outside labels (Komarov dresses)."
   ]
 }

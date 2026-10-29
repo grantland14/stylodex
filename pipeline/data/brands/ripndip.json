@@ -1,0 +1,54 @@
+{
+  "name": "RIPNDIP",
+  "website_url": "https://ripndip.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Lord Nermal Skate Apparel",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Hoodies S–XXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "us_stores": true,
+  "free_shipping_min_usd": 125,
+  "returns_days": 15,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 75,
+      "max": 140,
+      "item_count": 220,
+      "source_url": "https://ripndip.com/collections/hoodies-1/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "220 regular-price hoodies of 245 in the Hoodies feed. Lakai + Ripndip Zip Up Hoodie $75, Castanza Hoodie $80–$90, Great Wave Of Nerm Hoodie $80, Blonded Hoodie $120, RIPNGEMS Zip Up Hoodie $140. Sizes Small–XXL (XXL on 112, XS on 21). Excluded: Puffin x Ripndip Drinkwear 'hoodies' (can coolers, $25). Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final sale, sale-NN, NN% off, saleonsale, Apparel_Sale_). Hoodies only: pullover and zip-up hooded sweatshirts; crewnecks, hooded jackets, vests, knit hats/hoods, kids and sets excluded.",
+      "min_usd": 75,
+      "max_usd": 140,
+      "fx_date": null
+    }
+  ],
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://ripndip.com/",
+    "https://ripndip.com/meta.json",
+    "https://ripndip.com/collections/hoodies-1/products.json?limit=250",
+    "https://ripndip.com/policies/refund-policy",
+    "https://ripndip.com/policies/shipping-policy",
+    "https://ripndip.com/pages/stores",
+    "https://ripndip.com/pages/ripndip-los-angeles-fairfax"
+  ],
+  "notes": [
+    "Title: 'Ripndip Official - Apparel, Accessories, Skate & Lord Nermal'. Lord Nermal is its cat character.",
+    "Shipping: ships from Los Angeles within 1–3 business days; 'Free standard shipping on US orders over $125'; international through Global-e with local pricing, duties included for some countries.",
+    "Returns: 'Our policy lasts 15 days'; refunds are issued as a gift card or store credit, not to the card ('We do not accept refunds on any items'); instant exchanges.",
+    "Store pages linked from the site: RIPNDIP Los Angeles (Fairfax), Mexico City, Osaka (us_stores true from the Los Angeles store page)."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Lazy Oaf",
+  "website_url": "https://www.lazyoaf.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Irreverent Independent Streetwear",
+  "hq_country": "GB",
+  "founded_year": 2001,
+  "parent_company": null,
+  "size_range": "Hoodies XS–XXXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 200,
+  "returns_days": 28,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "GBP",
+      "min": 78,
+      "max": 90,
+      "item_count": 8,
+      "source_url": "https://www.lazyoaf.com/collections/all/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Store prices in GBP. 8 regular-price hoodies across the 2,353-product catalogue: Lazy Oaf x Peanuts Dog House Hoodie £78, Veg Patch Hoodie £80, Happy Sad Boxy Hoodie £85, Moody Hoodie £85, Peplum Hoodie £85, Lazy Ghoul Hoodie £85, Lazy Oaf Happy Sad Hoodie £85, LO x Daddy Bears Horns Knitted Hoodie £90. Most XS–XXXL. The hoodie collection feeds were near-empty, so the all-products feed was filtered by title (knit hoods typed HAT, hooded tops and scarves excluded). Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final sale, sale-NN, NN% off, saleonsale, Apparel_Sale_). Hoodies only: pullover and zip-up hooded sweatshirts; crewnecks, hooded jackets, vests, knit hats/hoods, kids and sets excluded.",
+      "min_usd": 103.64,
+      "max_usd": 119.59,
+      "fx_date": "2026-10-28"
+    }
+  ],
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://www.lazyoaf.com/",
+    "https://www.lazyoaf.com/meta.json",
+    "https://www.lazyoaf.com/collections/all/products.json?limit=250",
+    "https://www.lazyoaf.com/pages/about",
+    "https://help.lazyoaf.com/en-US/articles/shipping-14748",
+    "https://help.lazyoaf.com/en-US/articles/returns-14751"
+  ],
+  "notes": [
+    "Meta: 'Lazy Oaf create irreverent streetwear clothing for men and women, inspired by youth nostalgia, teenage rebellion and a spirit of non-conformity.' About: 'Founded by Gemma Shiel from a North London Garage in 2001'; started with hand-printed T-shirts sold from a stall in East London.",
+    "Shipping help: 'USA. Spend over $200 and get free shipping on your order.' Duties and taxes are calculated and paid at checkout for orders outside the UK (no charge on delivery).",
+    "Returns help: refund within 28 days of receiving the order (Oaflet items 14 days); exchanges UK only; returns not free: US from $19; returns go to its UK warehouse.",
+    "meta.json: shop country GB, GBP; ships to US, CA, GB, AU."
+  ],
+  "checked_at": "2026-10-29"
+}

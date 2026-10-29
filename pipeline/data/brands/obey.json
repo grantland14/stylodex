@@ -30,6 +30,19 @@
       "source_url": "https://obeyclothing.com/collections/denim-pants/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "23 of 23 products in 'denim-pants' at regular price: Hardwork Denim $94, Classic Baggy Denim and Hardwork Carpenter $98, Boxcar/Nelson/Studded Boxcar/Bigwig Carpenter $105, Bigwig Baggy Denim $114. Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; shorts, jackets and non-denim pants excluded."
+    },
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 79,
+      "max": 125,
+      "item_count": 15,
+      "source_url": "https://obeyclothing.com/collections/men-sweatshirts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "15 regular-price hoods in men's Sweatshirts (68 products, the rest crewnecks), none marked down: Post Zip Hood $79 to Lowercase Pigment Zip Hood $125. Pullover Hoods feed adds Diffuse Hostility Pullover Hood $90 and Doves Pullover Hood $119. Hood sizes S–XXL (XS on 4). Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final sale, sale-NN, NN% off, saleonsale, Apparel_Sale_). Hoodies only: pullover and zip-up hooded sweatshirts; crewnecks, hooded jackets, vests, knit hats/hoods, kids and sets excluded.",
+      "min_usd": 79,
+      "max_usd": 125,
+      "fx_date": null
     }
   ],
   "sources": [
@@ -38,12 +51,18 @@
     "https://obeyclothing.com/pages/faq",
     "https://obeyclothing.com/policies/refund-policy",
     "https://obeyclothing.com/pages/obey-stores",
-    "https://obeyclothing.com/collections/denim-pants/products.json?limit=250"
+    "https://obeyclothing.com/collections/denim-pants/products.json?limit=250",
+    "https://obeyclothing.com/collections/men-sweatshirts/products.json?limit=250",
+    "https://obeyclothing.com/collections/pullover-hood/products.json?limit=250"
   ],
   "notes": [
     "2026-10-29 (jnco run): meta 'The official OBEY Clothing website. A mix of progressive design in apparel and classic streetwear. Based on the design of artist & designer Shepard Fairey.' About: sticker conceived 1989 at RISD; 'Launched in 2001, OBEY Clothing'; influences military apparel, industrial workwear, punk, skateboarding.",
     "FAQ: 'Free US shipping on all orders over $100'; sales tax collected only for California; web returns go to 17462 Von Karman Avenue, Irvine, California (hq_country US from this). Returns within 30 days, new/unworn/unwashed with tags; US portal returns cost $8, deducted from the refund; exchanges for size/colour subject to stock. International buyers use regional stores (UK, Europe, Japan, rest of world); CA/AU not stated, so ships_to records US only.",
     "Stores page lists Paris, Amsterdam, Suwon, Osaka, Harajuku; no US store in the part read, so us_stores left null.",
-    "Jeans: 100% cotton 13.5oz. Bigwig Baggy Denim ($114) 'Baggy fit 20\" leg opening, tapered leg', waists 26–38; Classic Baggy Denim ($98) 18–18.5\" leg opening; Boxcar Straight Leg ($105) relaxed fit, 18\" leg opening."
+    "Jeans: 100% cotton 13.5oz. Bigwig Baggy Denim ($114) 'Baggy fit 20\" leg opening, tapered leg', waists 26–38; Classic Baggy Denim ($98) 18–18.5\" leg opening; Boxcar Straight Leg ($105) relaxed fit, 18\" leg opening.",
+    "2026-10-29 (aelfric-eden run): hoodies sizes S–XXL from the product size options (size_range field holds the jeans waists from another page)."
+  ],
+  "sells_categories": [
+    "hoodies"
   ]
 }

@@ -1,0 +1,66 @@
+{
+  "name": "Aelfric Eden",
+  "website_url": "https://www.aelfriceden.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Boxy Hoodies and Baggy Streetwear",
+  "hq_country": "US",
+  "founded_year": 2014,
+  "parent_company": null,
+  "size_range": "Hoodies XS–XL",
+  "has_plus": false,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 50,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 59.95,
+      "max": 129.95,
+      "item_count": 92,
+      "source_url": "https://www.aelfriceden.com/collections/hoodies/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "92 regular-price hoodies of 159 in the Hoodies feed (64 marked down). Most sit at $69.95–$89.95 (38 at $79.95). Seam Panel Zip Up Hoodie $59.95, Boxy Fleece Pullover Hoodie $69.95, Boxy Spider Cherry Hoodie $69.95, Boxy Script Embroidery Pullover Hoodie $79.95, Boxy Washed Studded Zip Up Hoodie $89.95, Boxy Rhinestone Zip Up Hoodie $109.95; top end is ComplexCon event pieces ([COMPLEXCON] OIAL Tear Away Cordura Hoodie $129.95). Sizes XS–XL on 80 of 92 (one to XXL). Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final sale, sale-NN, NN% off, saleonsale, Apparel_Sale_). Hoodies only: pullover and zip-up hooded sweatshirts; crewnecks, hooded jackets, vests, knit hats/hoods, kids and sets excluded.",
+      "min_usd": 59.95,
+      "max_usd": 129.95,
+      "fx_date": null
+    }
+  ],
+  "sells_categories": [
+    "hoodies"
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": "Most items made to order",
+  "sale_pattern": null,
+  "sources": [
+    "https://www.aelfriceden.com/",
+    "https://www.aelfriceden.com/meta.json",
+    "https://www.aelfriceden.com/collections.json?limit=250",
+    "https://www.aelfriceden.com/collections/best-sellers-4/products.json?limit=250",
+    "https://www.aelfriceden.com/collections/hoodies/products.json?limit=250",
+    "https://www.aelfriceden.com/pages/our-story",
+    "https://www.aelfriceden.com/pages/shipping",
+    "https://www.aelfriceden.com/policies/refund-policy",
+    "https://www.aelfriceden.com/pages/pop-up-store"
+  ],
+  "notes": [
+    "Homepage og:title 'Aelfric Eden Global Street Wear'; meta: 'a Street wear brand rooted in creating a brand with mix of skateboards and visual subcultures. It also aims to bring Asian street fashion into the Western world.' Main nav: NEW IN, TRENDING NOW, HOODIES, BOXY, BAGGY BOTTOMS, ONLY FOR WOMEN (known_for built from the nav).",
+    "Our Story: '2014, Aelfric Eden was founded in San Marino, CA. As an Asian American, the founder...'; timeline: 'In 2014, Aelfric Eden was founded in Los Angeles, CA.' 2021 cute animal series (dinosaurs); 2023 City of Love series star hoodies; 2024 10th anniversary, new logo, Encyclopedia of Style and Vintage Era (70s–90s American subcultures) collections; 2025 ComplexCon 'ORDER IS A LIE' capsule, 'MAKE WAVES NOT RULES', first Asia pop-up in Seoul.",
+    "hq_country US from the founding story (Los Angeles). The Shopify store record (meta.json) gives the shop address as Shenzhen, Guangdong, CN; flagged in the page's human_check.",
+    "Best Sellers feed (864 readable products): the first 60 are 35 hoodies, 9 pants, 5 jeans; whole feed Pants 172, Hoodies 159, Tees 121. Hoodies is C.",
+    "Shipping page: processing 1–3 business days; 'Most of our items are made upon order'; full refund if not received within 45 business days (pre-orders excepted); ships to over 50 countries; duties and taxes are the customer's. Site banner: 'Free Shipping On $50+' (USD store).",
+    "Refund policy: return or exchange within 30 days of delivery; one return or exchange per order; prepaid return label only for U.S. and U.K. orders with Worry-Free Purchase Protection, otherwise the customer pays return shipping; accessories, mystery boxes and final-sale items not returnable.",
+    "Pop-ups only (US pop-up store page, Suwon/Seoul pop-ups); no permanent store found, us_stores left null.",
+    "meta.json ships_to_countries: 39 countries incl. US, CA, GB, AU."
+  ],
+  "checked_at": "2026-10-29"
+}

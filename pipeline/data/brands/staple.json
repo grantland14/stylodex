@@ -1,0 +1,51 @@
+{
+  "name": "STAPLE",
+  "website_url": "https://www.staplepigeon.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Street-Minded Menswear",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Hoodies XS–3XL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 98,
+      "max": 200,
+      "item_count": 42,
+      "source_url": "https://www.staplepigeon.com/collections/sweatshirts-hoodies/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "42 regular-price hoodies of 71 in Sweatshirts & Hoodies (21 marked down, crewnecks excluded). Pigeon Logo Hoodie $98 at the bottom, Denim Pigeon Zip Hoodie $200 at the top. Sizes S–XL on all, 2XL on 38, 3XL on 34, XS on 30. Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final sale, sale-NN, NN% off, saleonsale, Apparel_Sale_). Hoodies only: pullover and zip-up hooded sweatshirts; crewnecks, hooded jackets, vests, knit hats/hoods, kids and sets excluded.",
+      "min_usd": 98,
+      "max_usd": 200,
+      "fx_date": null
+    }
+  ],
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://www.staplepigeon.com/",
+    "https://www.staplepigeon.com/meta.json",
+    "https://www.staplepigeon.com/collections/sweatshirts-hoodies/products.json?limit=250",
+    "https://www.staplepigeon.com/policies/refund-policy",
+    "https://www.staplepigeon.com/policies/shipping-policy"
+  ],
+  "notes": [
+    "Meta: 'STAPLE is a menswear collection distributed globally. Staple mixes street-minded sensibilities with mature sophisticated nods to high-end fashion.' og:title 'STAPLE - Streetwear Clothing Brand Founded by Jeff Staple'. Pigeon logo.",
+    "Shipping: free ground shipping over $150 in the contiguous US.",
+    "Returns: 30-day return window from receipt, unused; no exchanges or store credit.",
+    "meta.json: Englewood Cliffs, US, USD; ships to US, CA, GB, AU."
+  ],
+  "checked_at": "2026-10-29"
+}

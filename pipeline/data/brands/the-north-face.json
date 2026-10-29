@@ -1,0 +1,14 @@
+{
+  "slug": "the-north-face",
+  "name": "The North Face",
+  "website_url": "https://www.thenorthface.com",
+  "status": "unverified",
+  "kind": "brand",
+  "sources": [
+    "https://www.thenorthface.com"
+  ],
+  "notes": [
+    "thenorthface.com men's jackets returned HTTP 403 to the StylodexBot UA and to WebFetch, 2026-10-29. VF Corp's brand page (https://www.vfc.com/brands/the-north-face) says founded 1966, 'High Performance Outdoor Apparel, Footwear, Equipment, Accessories', but names no jackets or US stores, so nothing beyond status-unknown stored. Human check."
+  ],
+  "checked_at": "2026-10-29"
+}

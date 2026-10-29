@@ -33,6 +33,19 @@
       "source_url": "https://www.shopbop.com/clothing-jeans/br/v=1/13377.htm",
       "checked_at": "2026-10-29",
       "note": "Like-for-like item: women's jeans. All 21 pages (offset=0..2000, 2,024 products) of the Jeans category read from the page's embedded product data; 1,015 on-sale items excluded and 63 non-jean items (shorts, skirts, jackets etc., by title) dropped, leaving 946 regular-price jeans from 78 labels. Lowest: Free People Breezy Denim Pull On Jeans $78; highest: Marni Denim Trousers / Rivet Jeans $1,550. Most-stocked labels: MOTHER 70, AGOLDE 63, Citizens of Humanity 52, DL1961 40, rag & bone 40."
+    },
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 75.0,
+      "max": 2590.0,
+      "min_usd": 75.0,
+      "max_usd": 2590.0,
+      "fx_date": null,
+      "item_count": 109,
+      "source_url": "https://www.shopbop.com/clothing-dresses/br/v=1/13351.htm",
+      "checked_at": "2026-10-29",
+      "note": "Dresses page, one plain request (StylodexBot UA): first page of '4654 results', 109 distinct products (94 grid + 15 best-seller carousel), each with a single price and no struck price, so all regular. Low $75, high $2,590; examples Romera Dress $166, Lyon Maxi Dress $189, Nico Fringe Dress (Le Bop) $228, Lizzie Cashmere Sweater Dress $298. First-page sample only."
     }
   ],
   "materials": [],
@@ -44,13 +57,18 @@
     "https://www.shopbop.com/clothing-jeans/br/v=1/13377.htm",
     "https://www.shopbop.com/ci/aboutShopBop/customerservice.html",
     "https://www.shopbop.com/ci/v2/lp/aboutus.html",
-    "https://en.wikipedia.org/wiki/Shopbop"
+    "https://en.wikipedia.org/wiki/Shopbop",
+    "https://www.shopbop.com/clothing-dresses/br/v=1/13351.htm"
   ],
   "notes": [
     "Homepage title: 'Shopbop - Designer Clothing, Shoes, Bags & Accessories'. Sells many designer labels (Designers section).",
     "About page: retailer 'since 1999', 'part of the Amazon.com Inc. group of companies', 'a global online retail destination for style inspiration and discovery'. HQ not stated on site; Wikipedia: Madison, Wisconsin; Amazon acquired it in February 2006.",
     "Customer service page: US 3-Day and 2-Day shipping free with no order minimum; destination list includes Canada, United Kingdom and Australia. Returns: 30 days; free if dropped off within 15 days of delivery, $10 label fee per order for days 16–30.",
-    "Sizes are from the Jeans page filters (denim 22–38; clothing 00, XXS … 24, 3XL). No plus, petite or tall filter, so those flags are left empty."
+    "Sizes are from the Jeans page filters (denim 22–38; clothing 00, XXS … 24, 3XL). No plus, petite or tall filter, so those flags are left empty.",
+    "2026-10-29 (coldwater-creek page run): dresses price added from the dresses page (first page only; see price note)."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "dresses"
+  ]
 }

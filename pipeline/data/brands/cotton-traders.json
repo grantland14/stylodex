@@ -1,0 +1,38 @@
+{
+  "slug": "cotton-traders",
+  "name": "Cotton Traders",
+  "website_url": "https://www.cottontraders.com/us",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Casual Clothing for Women and Men",
+  "hq_country": "GB",
+  "founded_year": 1987,
+  "parent_company": "CorpAcq",
+  "size_range": "US 4–28 (UK 8–32)",
+  "has_plus": true,
+  "ships_to": [
+    "US",
+    "CA",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 60,
+  "sells_categories": [
+    "dresses"
+  ],
+  "checked_at": "2026-10-29",
+  "prices": [],
+  "sources": [
+    "https://www.cottontraders.com/",
+    "https://www.cottontraders.com/us",
+    "https://www.cottontraders.com/us/women/dresses/?sz=200",
+    "https://www.cottontraders.com/us/customer-service/information/delivery-international.html",
+    "https://www.cottontraders.com/us/customer-service/information/returns.html",
+    "https://www.cottontraders.com/us/customer-service/size-chart.html",
+    "https://en.wikipedia.org/wiki/Cotton_Traders"
+  ],
+  "notes": [
+    "2026-10-29 (coldwater-creek page run): US storefront in USD ('$ USD - United States'). Its dresses page lists dresses in its structured data (Metallic Textured V-Neck Tiered Maxi Dress, V-Neck Satin Maxi Dress, Velour Midi Dress) but every price there is 0 and the grid prices load by script (WebFetch saw an empty grid), so no price stored; sells_categories from its own dresses page.",
+    "International delivery page lists the United States, Canada and Australia among destinations; 'All international deliveries are exported from the UK and therefore you may have to pay import duties and taxes'; non-EU delivery aims for 7 working days. Rates $16.95/$22.95/$29.95 listed without saying which applies to the US. Banner 'FREE standard shipping on orders over $89*' not tied to the US, so free_shipping_min_usd left empty. Returns: 'within 60 days'; '$9.95 will be deducted from your refund to cover returns postage to our UK Distribution Centre'. Size chart: UK 8 (US 4) to UK 32 (US 28); no petite or tall. Wikipedia: founded 24 April 1987 by Fran Cotton and Steve Smith; HQ Altrincham, England; CorpAcq majority stake since May 2018."
+  ]
+}

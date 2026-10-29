@@ -1,0 +1,51 @@
+{
+  "name": "P.A.M. (Perks and Mini)",
+  "website_url": "https://perksandmini.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Independent Brand and Creative Studio",
+  "hq_country": "AU",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Hoodies XS–XL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 316.48,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "AUD",
+      "min": 215,
+      "max": 396,
+      "item_count": 6,
+      "source_url": "https://perksandmini.com/collections/all/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Store prices in AUD. P.A.M.'s own hoodies only (the store also sells other labels): MAAP x P.A.M. 4.0 Hoodie A$215, PAM X BoTT Split Hooded Sweat A$241, Celestial Equator Hooded Zip Thru Sweat A$322, Message Board Hooded Zip Thru A$322, Magical Door 2.0 Hooded Zip Thru A$387, PAM Logo Hooded Zip Thru Khaki A$396. Sizes XS–XL, most stop at L or XL. Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final sale, sale-NN, NN% off, saleonsale, Apparel_Sale_). Hoodies only: pullover and zip-up hooded sweatshirts; crewnecks, hooded jackets, vests, knit hats/hoods, kids and sets excluded.",
+      "min_usd": 151.21,
+      "max_usd": 278.5,
+      "fx_date": "2026-10-28"
+    }
+  ],
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://perksandmini.com/",
+    "https://perksandmini.com/meta.json",
+    "https://perksandmini.com/collections/all/products.json?limit=250",
+    "https://perksandmini.com/pages/usa-tariffs",
+    "https://perksandmini.com/policies/refund-policy",
+    "https://perksandmini.com/policies/shipping-policy"
+  ],
+  "notes": [
+    "Meta: 'P.A.M. is an Independent Brand and Creative Studio. P.A.M. Stores Melbourne, Sydney and Online... Showcasing two seasonal P.A.M. collections per year, a selection of international brands, as well as collaborations'.",
+    "Shipping: free worldwide over AUD 450 (about $316 at ECB 2026-10-28); ships DDU, duties paid by the buyer. USA tariffs page: US buyers may be invoiced by DHL for import tariffs plus a brokerage fee after ordering.",
+    "Returns or exchanges within 14 days from the date of purchase."
+  ],
+  "checked_at": "2026-10-29"
+}

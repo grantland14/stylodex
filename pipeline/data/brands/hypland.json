@@ -1,0 +1,52 @@
+{
+  "name": "Hypland",
+  "website_url": "https://hypland.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Licensed Anime and Gaming Apparel",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Hoodies S–3XL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 80,
+      "max": 100,
+      "item_count": 50,
+      "source_url": "https://hypland.com/collections/hoodies/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "50 regular-price hoodies of 64 in the HOODIES feed (14 marked down). Demon Slayer Nezuko Zip Up Hoodie $80, GITS Coding Hoodie $82, Gundam Strike Hoodie $90, Street Fighter Chun Li Hoodie $90, FMAB Edward Zip Up Hoodie $94, Digimon Garurumon Zip Hoodie $100. Licensed series: Gundam, Street Fighter, Yu-Gi-Oh!, Fullmetal Alchemist, Demon Slayer, Ghost in the Shell, Sonic. Sizes S–3XL. Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final sale, sale-NN, NN% off, saleonsale, Apparel_Sale_). Hoodies only: pullover and zip-up hooded sweatshirts; crewnecks, hooded jackets, vests, knit hats/hoods, kids and sets excluded.",
+      "min_usd": 80,
+      "max_usd": 100,
+      "fx_date": null
+    }
+  ],
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://hypland.com/",
+    "https://hypland.com/meta.json",
+    "https://hypland.com/collections/hoodies/products.json?limit=250",
+    "https://hypland.com/pages/faqs",
+    "https://hypland.com/policies/refund-policy",
+    "https://hypland.com/policies/shipping-policy"
+  ],
+  "notes": [
+    "Meta: 'Hypland is a full fledged retail clothing business. Specializing in shirts, outerwear, and accessories.' known_for built from its catalogue, which is licensed anime and game collaborations.",
+    "Returns: full refund for unworn, unwashed garments within 10 days of delivery; after 10 days store credit only; all returns within 30 days; exchanges within 30 days. returns_days 30 is the outer limit.",
+    "Shipping: processed in 2–7 business days, US delivery typically 2–5 business days after shipping; international 5–21 days, duties are the customer's. No free-shipping threshold found.",
+    "meta.json: shop country US, USD, 504 products; ships to US, CA, GB, AU."
+  ],
+  "checked_at": "2026-10-29"
+}

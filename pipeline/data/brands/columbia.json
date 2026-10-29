@@ -1,0 +1,14 @@
+{
+  "slug": "columbia",
+  "name": "Columbia",
+  "website_url": "https://www.columbia.com",
+  "status": "unverified",
+  "kind": "brand",
+  "sources": [
+    "https://www.columbia.com"
+  ],
+  "notes": [
+    "columbia.com men's jackets returned HTTP 403 to the bot UA and WebFetch, 2026-10-29. Columbia Sportswear 10-K (https://www.sec.gov/Archives/edgar/data/1050797/000105079726000028/colm-20251231.htm): HQ Portland, Oregon; founded 1938; 'outdoor apparel, footwear, accessories and equipment'; over 170 US retail stores across its four brands; no jackets named in the read part. Human check."
+  ],
+  "checked_at": "2026-10-29"
+}

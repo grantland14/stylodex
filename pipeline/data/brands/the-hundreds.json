@@ -1,0 +1,50 @@
+{
+  "name": "The Hundreds",
+  "website_url": "https://thehundreds.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Community-Based Streetwear",
+  "hq_country": "US",
+  "founded_year": 2003,
+  "parent_company": null,
+  "size_range": "Hoodies S–XXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 10,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 80,
+      "max": 130,
+      "item_count": 10,
+      "source_url": "https://thehundreds.com/collections/all/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "10 regular-price hoodies in the 789-product catalogue (6 more marked down): FGW Zip-Up Hoodie $80, Jock Pullover Hoodie $80, Quake Zip-Up Hoodie $80, The West Side Pullover Hoodie $80, TH X In4mation Pullover Hoodie $80, Usugrow Culture Zip-Up Hoodie $100, Drew League Pullover Hoodie $109, Rams Pullover Hoodie $130. Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final sale, sale-NN, NN% off, saleonsale, Apparel_Sale_). Hoodies only: pullover and zip-up hooded sweatshirts; crewnecks, hooded jackets, vests, knit hats/hoods, kids and sets excluded.",
+      "min_usd": 80,
+      "max_usd": 130,
+      "fx_date": null
+    }
+  ],
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://thehundreds.com/",
+    "https://thehundreds.com/meta.json",
+    "https://thehundreds.com/collections/all/products.json?limit=250",
+    "https://thehundreds.com/pages/about",
+    "https://thehundreds.com/policies/refund-policy"
+  ],
+  "notes": [
+    "About: 'a community-based streetwear brand and media platform with an emphasis on People Over Product. Founded in 2003 by Bobby Kim (Bobby Hundreds) and Ben Shenassafar (Ben Hundreds)'; apparel 'reminiscent of 90s workwear and Californian subculture tribes'.",
+    "Banner: 'Free Shipping on domestic orders over $100'.",
+    "Refund policy: 'EXCHANGE ONLY - WHEN PURCHASED AT RETAIL PRICE. ALL DISCOUNTED ITEMS ARE FINAL SALE.' Exchange within 10 days of receipt. returns_days 10 = exchange window, no refunds."
+  ],
+  "checked_at": "2026-10-29"
+}

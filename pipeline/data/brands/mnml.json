@@ -30,6 +30,19 @@
       "source_url": "https://mnml.la/collections/denim/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "85 of 252 non-short denim items; mnml marks markdowns with tags (e.g. \"Aged MDs\", \"badge:Sale\") and a 0.00 compare_at, so tagged items were excluded. Titles include 78 baggy, 56 flare, 41 skinny, 27 rave styles; waists 28–42"
+    },
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 28,
+      "max": 118,
+      "min_usd": 28,
+      "max_usd": 118,
+      "fx_date": null,
+      "item_count": 69,
+      "source_url": "https://mnml.la/collections/all/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "69 regular-price hoodies in the 1,571-product catalogue (46 more marked down), all XS–XXXL. Most at $68 (27). Stiff Lounge Zip Up Hoodie $28, Stiff Lounge Hoodie $34–$40, Heavy Every Day Hoodie $58, Full Zip Hoodie $68, DTLA Doodle Zip Up Hoodie $68, Pullover Hoodie $84, Knit Zip Up Hoodie $88, Skeleton Zip Up Hoodie $108, LWH Reversible Hoodie $118. Regular price = no variant with compare_at_price above price and no markdown tag. Hoodies only: pullover and zip-up hooded sweatshirts; crewnecks, hooded jackets, vests, kids and sets excluded."
     }
   ],
   "materials": [],
@@ -45,7 +58,8 @@
     "https://mnml.la/pages/returns-and-exchanges",
     "https://mnml.la/pages/about-us",
     "https://mnml.la/collections/denim/products.json?limit=250&page=2",
-    "https://mnml.la/cart.js"
+    "https://mnml.la/cart.js",
+    "https://mnml.la/collections/all/products.json?limit=250"
   ],
   "notes": [
     "Homepage title: 'Modern Streetwear - mnml Wardrobe Essentials'.",
@@ -53,7 +67,11 @@
     "Shipping: 'All international orders are shipped via DHL'. CA/GB/AU appear in the country selector, but the policy doesn't list destinations, so only US is stored.",
     "Collection pages render few products to WebFetch. The shop page showed a $88 cargo pant (not in the stored range). No size-guide page was found; the size range comes from the collection size filters.",
     "2026-10-29: the old streetwear and denim price rows (truncated pages) were replaced by the jeans row from products.json. Regular price = no variant with compare_at_price above price and no sale/markdown tag; sale items excluded.",
-    "production_model detail: Styles engineered in-house; limited quantities with chosen production partners; sold direct to consumers (About page)"
+    "production_model detail: Styles engineered in-house; limited quantities with chosen production partners; sold direct to consumers (About page)",
+    "2026-10-29 (aelfric-eden run): hoodies XS–XXXL on all 69 regular-price hoodies; free shipping over $50 and 30-day returns confirmed on the refund policy page."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "hoodies"
+  ]
 }

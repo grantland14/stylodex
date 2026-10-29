@@ -8,7 +8,8 @@
     "https://www.llbean.com/llb/shop/506687?page=mens-outerwear"
   ],
   "notes": [
-    "L.L.Bean men's outerwear page returned a web-application-firewall access-denied page to WebFetch, 2026-10-29. One try, no workaround. Human check."
+    "L.L.Bean men's outerwear page returned a web-application-firewall access-denied page to WebFetch, 2026-10-29. One try, no workaround. Human check.",
+    "2026-10-29 (lands-end run): llbean.com men's outerwear answered the StylodexBot UA with 'L.L.Bean: Page Not Available' and a CAPTCHA; not worked around. Still the most-named Lands' End alternative (5 sources). Human check."
   ],
   "checked_at": "2026-10-29"
 }

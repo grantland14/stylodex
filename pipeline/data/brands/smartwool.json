@@ -1,0 +1,59 @@
+{
+  "slug": "smartwool",
+  "name": "Smartwool",
+  "website_url": "https://www.smartwool.com/en-us/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Merino Wool Socks and Layers",
+  "hq_country": "US",
+  "founded_year": 1994,
+  "parent_company": null,
+  "size_range": "XS–XXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 89,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "USD",
+      "min": 190,
+      "max": 375,
+      "min_usd": 190,
+      "max_usd": 375,
+      "fx_date": null,
+      "item_count": 4,
+      "source_url": "https://www.smartwool.com/en-us/collections/mens-jackets-pullovers-and-vests",
+      "checked_at": "2026-10-29",
+      "note": "products.json of Men's Jackets, Pullovers and Vests: 16 products; 6 of product type Jackets, 2 marked down (Anchor Line Shirt Jacket, Second Cut Fleece Jacket). Regular: Men's Active Fleece Jacket $190; Men's Smartloft Hybrid Jacket $225; Men's Winterloft Jacket $350; Men's Winterloft Hooded Jacket $375."
+    }
+  ],
+  "materials": [
+    "Merino wool"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "coats-jackets"
+  ],
+  "sources": [
+    "https://www.smartwool.com/en-us/",
+    "https://www.smartwool.com/en-us/collections/mens-jackets-pullovers-and-vests/products.json",
+    "https://www.smartwool.com/en-us/pages/shipping",
+    "https://www.smartwool.com/en-us/pages/returns",
+    "https://www.smartwool.com/en-us/pages/what-is-smartwool"
+  ],
+  "notes": [
+    "Shipping: free standard shipping on orders of $89+ placed on smartwool.com; $7 Standard 4–7 business days; ships to AK and HI. Region selector lists separate stores for Canada, UK, Australia and others, so only US stored for this store (https://www.smartwool.com/en-us/pages/shipping).",
+    "Returns: 'free returns within 30 days from the date of purchase', items unused, unwashed, unaltered (https://www.smartwool.com/en-us/pages/returns).",
+    "Who we are: 'Founded in 1994 in Steamboat Springs, CO, we were the first outdoor company to create performance Merino wool ski socks' (https://www.smartwool.com/en-us/pages/what-is-smartwool).",
+    "Smartloft Hybrid Jacket: 50% recycled wool insulation, four-way stretch panels, wind-resistant non-PFC DWR front, Merino blend lining. Jackets sized XS–XXL (products.json)."
+  ],
+  "checked_at": "2026-10-29"
+}

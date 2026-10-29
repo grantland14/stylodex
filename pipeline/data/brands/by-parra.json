@@ -1,0 +1,51 @@
+{
+  "name": "by Parra",
+  "website_url": "https://www.byparra.us",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Illustrated Clothing by Artist Parra",
+  "hq_country": "NL",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Hoodies XS–XXL",
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 165,
+      "max": 265,
+      "item_count": 22,
+      "source_url": "https://www.byparra.us/collections/all/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US store (byparra.us). 22 regular-price hooded sweatshirts, none marked down: Circled script logo hooded sweatshirt $165, Crow logo hooded sweatshirt $165, Connected guy hooded sweatshirt $185, Bunch of trees zip hooded sweatshirt $230, A Cross to bear zip hooded sweatshirt $265. Sizes xsmall–xxlarge. Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final sale, sale-NN, NN% off, saleonsale, Apparel_Sale_). Hoodies only: pullover and zip-up hooded sweatshirts; crewnecks, hooded jackets, vests, knit hats/hoods, kids and sets excluded.",
+      "min_usd": 165,
+      "max_usd": 265,
+      "fx_date": null
+    }
+  ],
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://www.byparra.us/",
+    "https://www.byparra.us/meta.json",
+    "https://www.byparra.us/collections/all/products.json?limit=250",
+    "https://www.byparra.us/pages/shipping",
+    "https://www.byparra.us/pages/returns",
+    "https://www.byparra.com/",
+    "https://www.byparra.com/pages/shipping"
+  ],
+  "notes": [
+    "Meta: 'exclusive products from artist Parra from Amsterdam'. The EU store (byparra.com, EUR) directs the Americas to www.byparra.us; the US store's Shopify record is in Austin, US, USD, shipping to US and CA only.",
+    "US shipping: processed in 1–3 business days, USPS 2–8 business days; Canada, Mexico and Latin America by UPS. No free-shipping threshold stated on the US store.",
+    "Returns: within 14 days of receiving the order, unworn and with tags; refund within 8 working days of approval.",
+    "hq_country NL: Parra and The Parra Shop Amsterdam (EU store pages)."
+  ],
+  "checked_at": "2026-10-29"
+}

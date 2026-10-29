@@ -1,0 +1,51 @@
+{
+  "name": "DBTK",
+  "website_url": "https://dbtkco.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Streetwear From Manila",
+  "hq_country": "PH",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Hoodies S–XXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 7,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "PHP",
+      "min": 3300,
+      "max": 4500,
+      "item_count": 7,
+      "source_url": "https://dbtkco.com/collections/all/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Store prices in Philippine pesos. 7 regular-price hoodies: DBTK Diagonal Hoodie ₱3,300, Lush Elementary Hoodie ₱3,300, Shenron Hoodie ₱4,500, Saiyan Duo Hoodie ₱4,500, Capsule Corp Zip Up Hoodie ₱4,500, Villains Hoodie ₱4,500 (Dragon Ball designs at the top). Sizes Small–XX-Large. Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final sale, sale-NN, NN% off, saleonsale, Apparel_Sale_). Hoodies only: pullover and zip-up hooded sweatshirts; crewnecks, hooded jackets, vests, knit hats/hoods, kids and sets excluded.",
+      "min_usd": 51.57,
+      "max_usd": 70.32,
+      "fx_date": "2026-10-28"
+    }
+  ],
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://dbtkco.com/",
+    "https://dbtkco.com/meta.json",
+    "https://dbtkco.com/collections/all/products.json?limit=250",
+    "https://dbtkco.com/pages/brand",
+    "https://dbtkco.com/pages/faqs",
+    "https://dbtkco.com/policies/refund-policy"
+  ],
+  "notes": [
+    "Full name Don't Blame the Kids Apparel Co.; meta: 'the by-product of a vision handled by brothers Emil and Vince Javier.' Brand page: stores in Metro Manila, Clark City (Pampanga, Feb 2024), Greenhills (June 2024), SM North EDSA (Dec 2025).",
+    "meta.json: shop country PH, currency PHP, 146 products; ships_to_countries include US, CA, GB, AU. FAQ covers Philippine couriers (LBC) and 7–14 working days; no US shipping terms published.",
+    "Refund policy: generally only defective or wrong items exchanged (wrong size can be an exception), within 7 days of purchase, customer pays both shipping legs. returns_days 7 = exchange window."
+  ],
+  "checked_at": "2026-10-29"
+}

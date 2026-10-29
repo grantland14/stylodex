@@ -1,0 +1,14 @@
+{
+  "slug": "helly-hansen",
+  "name": "Helly Hansen",
+  "website_url": "https://www.hellyhansen.com",
+  "status": "unverified",
+  "kind": "brand",
+  "sources": [
+    "https://www.hellyhansen.com"
+  ],
+  "notes": [
+    "hellyhansen.com/en_us men's jackets returned HTTP 403 to the bot UA and WebFetch, 2026-10-29. Human check."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "fatface",
+  "name": "FatFace",
+  "website_url": "https://www.fatface.com/us/en",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Casual Clothing for Women and Men",
+  "hq_country": "GB",
+  "founded_year": 1988,
+  "parent_company": "Next plc",
+  "size_range": "XS–4XL; chest 36–50 in short, regular, long",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": true,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": null,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "USD",
+      "min": 132,
+      "max": 344,
+      "min_usd": 132,
+      "max_usd": 344,
+      "fx_date": null,
+      "item_count": 8,
+      "source_url": "https://www.fatface.com/us/en/shop/mens/clothing/coats-and-jackets",
+      "checked_at": "2026-10-29",
+      "note": "US store (USD) Men's Coats & Jackets: 84 results; WebFetch read the first 12, none showing a Was price; 3 gilets/vest and 1 blazer excluded, 8 jackets/coats. Low: Stone Garment Dye Worker 100% Cotton Jacket $132 and Navy Check Zip Through Fleece $132; Light Brown Herringbone Worker Jacket $211; Canvas Jacket in Tan Brown $228; Waterproof Jacket $248; Broadsands Brown Field Jacket $248; high: Pendeen Charcoal Grey Wool Mix Funnel Neck Coat $344. The page's price filter runs to $574, so the top of the range may be higher (human check)."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "coats-jackets"
+  ],
+  "sources": [
+    "https://www.fatface.com/us/en",
+    "https://www.fatface.com/us/en/shop/mens/clothing/coats-and-jackets",
+    "https://en.wikipedia.org/wiki/FatFace"
+  ],
+  "notes": [
+    "fatface.com/us/en is a US storefront: page config territory USA, currency USD; nav Women, Men, knitwear, pyjamas. Shipping help (help.fatface.com) returned 403 to WebFetch, so no free-shipping threshold or return window stored (https://www.fatface.com/us/en).",
+    "Men's Coats & Jackets filters: sizes XS–4XL plus chest 36–50 in S/R/L lengths, size type Tall; styles incl. barn, utility, quilted, raincoat, parka, overcoat (https://www.fatface.com/us/en/shop/mens/clothing/coats-and-jackets).",
+    "Wikipedia: founded 1988 in Méribel, France, by Tim Slade and Jules Leaver; based in England; Next plc agreed to acquire it in October 2023 (97%); cites '20 stores in the US' with no date, so us_stores left empty (https://en.wikipedia.org/wiki/FatFace).",
+    "US homepage meta: 'Discover our full range of women's and men's clothing and accessories' (known_for) (https://www.fatface.com/us/en)."
+  ],
+  "checked_at": "2026-10-29"
+}

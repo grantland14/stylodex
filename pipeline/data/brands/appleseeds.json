@@ -1,0 +1,15 @@
+{
+  "slug": "appleseeds",
+  "name": "Appleseed's",
+  "website_url": "https://www.appleseeds.com",
+  "status": "unverified",
+  "kind": "brand",
+  "checked_at": "2026-10-29",
+  "prices": [],
+  "sources": [
+    "https://www.appleseeds.com/"
+  ],
+  "notes": [
+    "2026-10-29 (coldwater-creek page run): www.appleseeds.com returned HTTP 403 to curl (StylodexBot UA) and WebFetch, one try each. No workaround. Human check: dresses, prices, US shipping, returns."
+  ]
+}

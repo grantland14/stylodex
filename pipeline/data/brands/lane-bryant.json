@@ -1,0 +1,36 @@
+{
+  "slug": "lane-bryant",
+  "name": "Lane Bryant",
+  "website_url": "https://www.lanebryant.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Plus-Size Clothing for Women",
+  "hq_country": "US",
+  "founded_year": 1904,
+  "parent_company": "Knitwell Group",
+  "size_range": "10–40",
+  "has_plus": true,
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": true,
+  "free_shipping_min_usd": null,
+  "returns_days": null,
+  "sells_categories": [
+    "dresses"
+  ],
+  "checked_at": "2026-10-29",
+  "prices": [],
+  "sources": [
+    "https://www.lanebryant.com/",
+    "https://www.lanebryant.com/clothing/dresses",
+    "https://jobs.knitwellgroup.com/about-lane-bryant",
+    "https://www.knitwellgroup.com/",
+    "https://www.lanebryant.com/content/about-us",
+    "https://en.wikipedia.org/wiki/Lane_Bryant"
+  ],
+  "notes": [
+    "2026-10-29 (coldwater-creek page run): homepage meta 'The latest looks in plus size clothing for women... tops, pants, stylish dresses and more in sizes 10 to 40'. Dresses page (one plain request): 36 tiles, 29 show a struck list price next to a sale price ('40% Off' promo) and the other 7 show only promo price ranges, so no regular-price dress was readable: no price stored, sells_categories from the store's own dresses page.",
+    "Knitwell careers page: 'more than 400 stores across the United States', founded 1904 by Lena Bryant; knitwellgroup.com lists Lane Bryant ('The specialty retail leader in women's plus-size apparel'), so parent Knitwell Group. Wikipedia: HQ New Albany, Ohio; Premium Apparel (Sycamore Partners affiliate) since 2021. Site footer 'We Ship Internationally', country list not read, so only US stored. Return-policy page loads by script; returns_days left empty. Promo banner mentions free standard shipping on $75 for rewards members only, so free_shipping_min_usd left empty."
+  ]
+}

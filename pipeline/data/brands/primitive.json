@@ -1,0 +1,50 @@
+{
+  "name": "Primitive",
+  "website_url": "https://primitiveskate.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Skateboarding Apparel",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Hoodies S–XXXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 120,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 77.99,
+      "max": 135,
+      "item_count": 123,
+      "source_url": "https://primitiveskate.com/collections/fleece-nav/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "123 regular-price hoodies of 126 in the Fleece feed (70 typed Hoodie, 53 Boxy Hoodie). Dirty P Hood $77.99, Nuevo Script Hood $77.99, Escape Hw Hood $84.99, Funhouse Hw Hood $89.99, Mosaic Boxy Hood $100, Vida Boxy Hood $125, Scrape Boxy Zip Hood $135. Sizes S–XL on all, XXL on 111, XXXL on 80, some to 4X. Excluded: Collegiate Pull-Over Hood ($30, tagged saleonsale/Apparel_Sale_). Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final sale, sale-NN, NN% off, saleonsale, Apparel_Sale_). Hoodies only: pullover and zip-up hooded sweatshirts; crewnecks, hooded jackets, vests, knit hats/hoods, kids and sets excluded.",
+      "min_usd": 77.99,
+      "max_usd": 135,
+      "fx_date": null
+    }
+  ],
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://primitiveskate.com/",
+    "https://primitiveskate.com/meta.json",
+    "https://primitiveskate.com/collections/fleece-nav/products.json?limit=250",
+    "https://primitiveskate.com/policies/refund-policy",
+    "https://primitiveskate.com/policies/shipping-policy"
+  ],
+  "notes": [
+    "Site title 'Primitive Skateboarding'; team page covers its skate team.",
+    "Banner: 'Free shipping on orders $120+'. Ships from Los Angeles, CA 90220; orders over $100 ship signature-required.",
+    "Returns accepted within 30 days from the shipped date; shipping not refundable."
+  ],
+  "checked_at": "2026-10-29"
+}

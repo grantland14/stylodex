@@ -1,0 +1,68 @@
+{
+  "slug": "lands-end",
+  "name": "Lands' End",
+  "website_url": "https://www.landsend.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Family Clothing and Outerwear",
+  "hq_country": "US",
+  "founded_year": 1963,
+  "parent_company": null,
+  "size_range": "S–4XL in outerwear; Petite to Plus 30",
+  "has_plus": true,
+  "has_petite": true,
+  "has_tall": true,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 99,
+  "returns_days": 90,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "USD",
+      "min": 49.95,
+      "max": 699.95,
+      "min_usd": 49.95,
+      "max_usd": 699.95,
+      "fx_date": null,
+      "item_count": 55,
+      "source_url": "https://www.landsend.com/shop/mens-outerwear/S-xfi-xez-y5b-xec",
+      "checked_at": "2026-10-29",
+      "note": "Men's Outerwear, both listing pages (118 products, page=2&pageQuantity=96), read from the page's embedded product data. Vests, pullovers, hoodies, pants/bibs, a flannel shirt and a blazer excluded: 83 jackets/coats, 55 at regular price (minProductPrice equal to minOriginalPrice), 28 marked down. Most listings also show a lower promotional (code) price, ignored. Low: ThermaCheck 100 Fleece Jacket $49.95 and Rain Jacket $49.95; Classic Squall Jacket $89.95; Canvas Barn Jacket $129.95; Wool Car Coat $299.95; Expedition Waterproof Down Parka $359.95; high: Willis & Geiger Leather Bomber Jacket $699.95 (its own Willis & Geiger line; the next highest is $359.95)."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "coats-jackets"
+  ],
+  "sources": [
+    "https://www.landsend.com/",
+    "https://www.landsend.com/shop/mens-outerwear/S-xfi-xez-y5b-xec",
+    "https://www.landsend.com/shop/mens-outerwear/S-xfi-xez-y5b-xec?page=2&pageQuantity=96",
+    "https://www.landsend.com/products/mens-expedition-waterproof-down-parka/id_368990",
+    "https://www.landsend.com/global_nav/header/pop_globnav_header_freeshipping.html",
+    "https://www.landsend.com/us-returns/",
+    "https://www.landsend.com/about-us",
+    "https://en.wikipedia.org/wiki/Lands%27_End",
+    "https://www.sec.gov/Archives/edgar/data/799288/000119312526126210/le-20260130.htm"
+  ],
+  "notes": [
+    "Homepage title 'Lands' End: Quality Clothing, Swimwear, Outerwear and Footwear'; banners 'Enjoy 50% off your first order', 'up to 70% off sale & clearance'; nav has Women's Petite, Women's Plus, Men's Big & Tall (https://www.landsend.com/).",
+    "About: 'Timeless quality. Trusted service. Since 1963, we've pioneered the creation of beautiful clothing and footwear for all the family'; 'in sizes Petite 8 to Plus 30' (https://www.landsend.com/about-us).",
+    "Free shipping popup: 'Free Shipping to US and Canadian Addresses Every Day on any Order of $99 USD or more'; 4–10 business day delivery; $19.95 upgrade (https://www.landsend.com/global_nav/header/pop_globnav_header_freeshipping.html).",
+    "Returns: 'most returns within 90 days of the shipping date', proof of purchase required, refund to original payment; US return label $8.95 ($6.95 boxless drop-off for a limited time); free return if you take merchandise credit; Canada label $10.95; 'All Other Countries' option (https://www.landsend.com/us-returns/).",
+    "Men's outerwear sizes: Expedition Waterproof Down Parka S 34-36 to 4XL 58-60; outerwear page refinements Men's Tall, Men's Big, Men's Big & Tall, Women's Tall (https://www.landsend.com/products/mens-expedition-waterproof-down-parka/id_368990).",
+    "Product copy: 'If you've ever spent a winter in Wisconsin (where we're headquartered)'; Expedition Parka: 100% waterproof seam-sealed shell, 600 fill power down. Willis & Geiger bomber: 'another product from our Willis & Geiger lineup' (men's outerwear page data).",
+    "10-K for fiscal 2025 (filed 2026-03-26): 'a leading digital retailer of solution-based apparel, swimwear, outerwear'; channels U.S. eCommerce, Europe eCommerce, Outfitters (uniform and logo apparel), Third Party marketplaces, Licensing, Retail ('Company Operated stores, located in the U.S.') = us_stores true; orders fulfilled to about 130 countries outside the US; HQ 5 Lands' End Lane, Dodgeville, Wisconsin; trademarks incl. Willis & Geiger, ThermaCheck, Squall (https://www.sec.gov/Archives/edgar/data/799288/000119312526126210/le-20260130.htm).",
+    "Wikipedia: began as a mail-order yachting supply company in 1963 in Chicago (Gary Comer and partners); HQ Dodgeville, Wisconsin; Nasdaq LE; Sears bought it in 2002 and spun it off in April 2014; 26 domestic stores as of February 2024; 2020 partnership with Kohl's to sell its products in Kohl's stores (https://en.wikipedia.org/wiki/Lands%27_End).",
+    "Store locator (/co/StoreLocator) redirects/renders no store list to the bot UA or WebFetch; us_stores comes from the 10-K.",
+    "ships_to: US and CA from the free-shipping terms; the store also takes orders to other countries (returns page, 10-K), but no named list was readable, so GB and AU left out."
+  ],
+  "checked_at": "2026-10-29"
+}

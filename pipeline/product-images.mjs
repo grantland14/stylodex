@@ -62,7 +62,9 @@ async function productsFor(brandSlug, category) {
   const words = CATEGORY_WORDS[category];
   const exclude = CATEGORY_EXCLUDE[category];
   const usable = products.filter((p) => p.images?.length && regularPrice(p) != null && !(exclude && exclude.test(p.title)));
-  const ranked = [...usable.filter((p) => !words || words.test(p.title)), ...usable.filter((p) => words && !words.test(p.title))];
+  // A category with a word list takes only matching titles: a collection called "jeans" can
+  // hold joggers and leggings, and a wrong photo is worse than none.
+  const ranked = words ? usable.filter((p) => words.test(p.title)) : usable;
 
   const dir = join(ROOT, "public/img/products", brandSlug);
   mkdirSync(dir, { recursive: true });
