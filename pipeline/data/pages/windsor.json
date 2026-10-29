@@ -1,0 +1,786 @@
+{
+  "subject": "Windsor",
+  "slug": "windsor",
+  "url_prefix": "stores",
+  "category": {
+    "slug": "dresses",
+    "name": "Dresses",
+    "why": "C is a product type. Windsor sells its own label (every dress in its feed has vendor 'Windsor'), so kind brand, and dresses are what it is known for: its Our Story timeline says it 'Began focusing on special occasion dresses' in 1957, its homepage title leads with 'Shop Dresses', E! Online says it 'has long been the place to go for stylish dresses for whatever the occasion', and the dresses collection holds 15,105 products. Like-for-like item: dresses, regular price, in stock."
+  },
+  "serp": [
+    {
+      "keyword": "stores like windsor",
+      "position": 1,
+      "url": "https://www.reddit.com/r/blackgirls/comments/1i3ytzh/where_do_yall_shop_for_clothes_shoes_other_than/",
+      "kept": false,
+      "why_dropped": "reddit (AI overview sitelink): WebFetch refuses reddit.com; not read, no workaround tried"
+    },
+    {
+      "keyword": "stores like windsor",
+      "position": 2,
+      "url": "https://us.princesspolly.com/",
+      "kept": false,
+      "why_dropped": "a store's own homepage, not an editorial source (Princess Polly is a candidate via E! Online instead)"
+    },
+    {
+      "keyword": "stores like windsor",
+      "position": 3,
+      "url": "https://www.windsorstore.com/",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "stores like windsor",
+      "position": 5,
+      "url": "https://www.reddit.com/r/findfashion/comments/1ruwgob/any_good_places_to_get_a_prom_dress/",
+      "kept": false,
+      "why_dropped": "reddit: not read, no workaround tried"
+    },
+    {
+      "keyword": "stores like windsor",
+      "position": 5,
+      "url": "https://www.reddit.com/r/fashiongeek/comments/13q3gii/25_clothing_stores_like_windsor_for_stylish/",
+      "kept": false,
+      "why_dropped": "reddit (sitelink): not read, no workaround tried"
+    },
+    {
+      "keyword": "stores like windsor",
+      "position": 6,
+      "url": "https://boliviashome.com/stores-like-windsor/",
+      "kept": true,
+      "note": "read 2026-10-29: Evelyn Edwards, 'Last updated: October 8, 2026'; 12 numbered stores like Windsor"
+    },
+    {
+      "keyword": "stores like windsor",
+      "position": 7,
+      "url": "https://www.facebook.com/fb-answers/stores-like-windsor-for-prom/",
+      "kept": false,
+      "why_dropped": "WebFetch rendered only the word 'Facebook'; no content, no workaround tried"
+    },
+    {
+      "keyword": "stores like windsor",
+      "position": 8,
+      "url": "https://www.bridelulu.com/prom-dress-stores-like-windsor/all/6",
+      "kept": false,
+      "why_dropped": "a dress seller's own product listing ('Shop for Prom Dresses Like Windsor at Bridelulu'); names no other stores"
+    },
+    {
+      "keyword": "stores like windsor",
+      "position": 9,
+      "url": "https://www.annakoo.com/prom-dress-stores-like-windsor/",
+      "kept": false,
+      "why_dropped": "a dress seller's own product listing; names no other stores"
+    },
+    {
+      "keyword": "stores like windsor",
+      "position": 10,
+      "url": "https://similist.com/alternatives/stores-like-windsor/",
+      "kept": false,
+      "why_dropped": "similist.com scraped list (enrich.md §1.2)"
+    },
+    {
+      "keyword": "stores like windsor",
+      "position": 1,
+      "url": "https://www.eonline.com/news/1397031/the-10-best-websites-to-buy-chic-trendy-stylish-prom-dresses-online",
+      "kept": true,
+      "note": "AI overview sitelink; read 2026-10-29: Jenny Lee, E! Online, Mar 11 2024, '10 best websites to buy... prom dresses'. Windsor is #1; the other nine are recommended for the same need (prom dresses) and the FAQ names 'Windsor,' first among shops with 'the trendiest and most stylish collections'. Counted as a co-mention source, weaker than an explicit 'like Windsor' list: see review."
+    },
+    {
+      "keyword": "stores like windsor",
+      "position": 1,
+      "url": "https://www.youtube.com/shorts/K5O5dl7hyKQ",
+      "kept": false,
+      "why_dropped": "video (AI overview sitelink), no editorial text"
+    },
+    {
+      "keyword": "brands like windsor",
+      "position": 5,
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/jf71gx/what_is_the_upscale_version_of_fashion_nova_shein/",
+      "kept": false,
+      "why_dropped": "reddit: not read; also about Fashion Nova/SHEIN, not Windsor"
+    },
+    {
+      "keyword": "brands like windsor",
+      "position": 6,
+      "url": "https://www.tiktok.com/discover/stores-like-windsor",
+      "kept": false,
+      "why_dropped": "TikTok discover page: video aggregation, no editorial text"
+    },
+    {
+      "keyword": "brands like windsor",
+      "position": 7,
+      "url": "https://stylebyemilyhenderson.com/stores-like-madewell-you-should-know",
+      "kept": false,
+      "why_dropped": "about Madewell, not Windsor"
+    },
+    {
+      "keyword": "brands like windsor",
+      "position": 10,
+      "url": "https://www.facebook.com/groups/GrandRapidsInformed/posts/2150077612006646/",
+      "kept": false,
+      "why_dropped": "Facebook group post (discussion); not fetched (login wall)"
+    },
+    {
+      "keyword": "brands like windsor",
+      "position": 10,
+      "url": "https://www.quora.com/What-are-some-websites-that-sell-similar-styles-to-Fashion-Nova-and-House-of-CB",
+      "kept": false,
+      "why_dropped": "about Fashion Nova and House of CB, not Windsor"
+    },
+    {
+      "keyword": "windsor alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs returned no SERP for this keyword (US)"
+    },
+    {
+      "keyword": "similar to windsor",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs returned no SERP for this keyword (US)"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": null,
+      "url": null,
+      "used": false,
+      "why": "enrich.md §1.4b doesn't apply: Windsor sells only its own label through its own stores and site; no multi-brand stockist found."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Lulus",
+      "slug": "lulus",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://boliviashome.com/stores-like-windsor/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eonline.com/news/1397031/the-10-best-websites-to-buy-chic-trendy-stylish-prom-dresses-online"
+        }
+      ]
+    },
+    {
+      "name": "Oh Polly",
+      "slug": "oh-polly",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://boliviashome.com/stores-like-windsor/"
+        }
+      ]
+    },
+    {
+      "name": "Fashion Nova",
+      "slug": "fashion-nova",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://boliviashome.com/stores-like-windsor/"
+        }
+      ]
+    },
+    {
+      "name": "PrettyLittleThing",
+      "slug": "prettylittlething",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://boliviashome.com/stores-like-windsor/"
+        }
+      ]
+    },
+    {
+      "name": "boohoo",
+      "slug": "boohoo",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://boliviashome.com/stores-like-windsor/"
+        }
+      ]
+    },
+    {
+      "name": "ASOS",
+      "slug": "asos",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://boliviashome.com/stores-like-windsor/"
+        }
+      ]
+    },
+    {
+      "name": "SHEIN",
+      "slug": "shein",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://boliviashome.com/stores-like-windsor/"
+        }
+      ]
+    },
+    {
+      "name": "Missguided",
+      "slug": "missguided",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://boliviashome.com/stores-like-windsor/"
+        }
+      ]
+    },
+    {
+      "name": "ROMWE",
+      "slug": "romwe",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://boliviashome.com/stores-like-windsor/"
+        }
+      ]
+    },
+    {
+      "name": "Zara",
+      "slug": "zara",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://boliviashome.com/stores-like-windsor/"
+        }
+      ]
+    },
+    {
+      "name": "H&M",
+      "slug": "h-m",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://boliviashome.com/stores-like-windsor/"
+        }
+      ]
+    },
+    {
+      "name": "Urban Outfitters",
+      "slug": "urban-outfitters",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://boliviashome.com/stores-like-windsor/"
+        }
+      ]
+    },
+    {
+      "name": "Showpo",
+      "slug": "showpo",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eonline.com/news/1397031/the-10-best-websites-to-buy-chic-trendy-stylish-prom-dresses-online"
+        }
+      ]
+    },
+    {
+      "name": "Rent the Runway",
+      "slug": "rent-the-runway",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eonline.com/news/1397031/the-10-best-websites-to-buy-chic-trendy-stylish-prom-dresses-online"
+        }
+      ]
+    },
+    {
+      "name": "Revolve",
+      "slug": "revolve",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eonline.com/news/1397031/the-10-best-websites-to-buy-chic-trendy-stylish-prom-dresses-online"
+        }
+      ]
+    },
+    {
+      "name": "Amazon",
+      "slug": "amazon",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eonline.com/news/1397031/the-10-best-websites-to-buy-chic-trendy-stylish-prom-dresses-online"
+        }
+      ]
+    },
+    {
+      "name": "Free People",
+      "slug": "free-people",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eonline.com/news/1397031/the-10-best-websites-to-buy-chic-trendy-stylish-prom-dresses-online"
+        }
+      ]
+    },
+    {
+      "name": "Princess Polly",
+      "slug": "princess-polly",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eonline.com/news/1397031/the-10-best-websites-to-buy-chic-trendy-stylish-prom-dresses-online"
+        }
+      ]
+    },
+    {
+      "name": "Macy's",
+      "slug": "macys",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eonline.com/news/1397031/the-10-best-websites-to-buy-chic-trendy-stylish-prom-dresses-online"
+        }
+      ]
+    },
+    {
+      "name": "Bloomingdale's",
+      "slug": "bloomingdales",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eonline.com/news/1397031/the-10-best-websites-to-buy-chic-trendy-stylish-prom-dresses-online"
+        }
+      ]
+    },
+    {
+      "name": "ModParty",
+      "slug": "modparty",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Club L London",
+      "slug": "club-l-london",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "TFNC",
+      "slug": "tfnc",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Little Mistress",
+      "slug": "little-mistress",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Quiz Clothing",
+      "slug": "quiz-clothing",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Jarlo",
+      "slug": "jarlo",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Forever Unique",
+      "slug": "forever-unique",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Ax Paris",
+      "slug": "ax-paris",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Chi Chi London",
+      "slug": "chi-chi-london",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Couture Candy",
+      "slug": "couture-candy",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Alyce Paris",
+      "slug": "alyce-paris",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Sabo Skirt",
+      "slug": "sabo-skirt",
+      "in_apart_pool": true,
+      "sources": []
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "result": "15 pool rows for Windsor (id 684a4c37…): ModParty, Club L London, Oh Polly, Boohoo, PrettyLittleThing, TFNC, Little Mistress, Quiz Clothing, Jarlo, Forever Unique, Ax Paris, Chi Chi London, Couture Candy, Alyce Paris, Sabo Skirt. Only Oh Polly, Boohoo and PrettyLittleThing have outside evidence (Bolivia's Home)."
+  },
+  "picks": [
+    {
+      "slug": "princess-polly",
+      "rank": 1,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 49,
+        "max": 119,
+        "min_usd": 49,
+        "max_usd": 119,
+        "fx_date": null,
+        "item_count": 840
+      },
+      "price_relation": "similar",
+      "reason": "Princess Polly sells regular-price dresses at $49–$119 (98% under $100, against Windsor's $14–$199.90), in US 0–12 with Curve to US 20, from US stores and online with free US shipping over $50.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eonline.com/news/1397031/the-10-best-websites-to-buy-chic-trendy-stylish-prom-dresses-online",
+          "note": "#8 of 10 prom-dress sites on the list Windsor tops"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "oh-polly",
+      "rank": 2,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 50,
+        "max": 315,
+        "min_usd": 50,
+        "max_usd": 315,
+        "fx_date": null,
+        "item_count": 729
+      },
+      "price_relation": "similar",
+      "reason": "Oh Polly's US store sells fitted corset, fishtail and gown styles at $50–$315 (median $120 vs Windsor's $64.90), XXS–XXL, with a 7-day refund window and 28 days for store credit.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://boliviashome.com/stores-like-windsor/",
+          "note": "#1: 'specializes in bodycon dresses with edgy designs'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "showpo",
+      "rank": 3,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": null,
+      "price_relation": null,
+      "reason": "Showpo ships dresses from a US warehouse, free over $100, in US 0–16, with maxis such as the Pietra ($99.95) and Alexandria ($199.95) and 30 days to return (refund in the first 7).",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eonline.com/news/1397031/the-10-best-websites-to-buy-chic-trendy-stylish-prom-dresses-online",
+          "note": "#3 of 10 prom-dress sites on the list Windsor tops"
+        }
+      ],
+      "gate_gaps": [
+        "image_url",
+        "price:dresses (too few items rendered)"
+      ]
+    },
+    {
+      "slug": "fashion-nova",
+      "rank": 4,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": null,
+      "price_relation": null,
+      "reason": "Fashion Nova, an LA brand founded in 2006, sells dresses with a dedicated Plus+Curve section and free shipping from $75, the same line as Windsor, to the US, Canada, UK and Australia.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://boliviashome.com/stores-like-windsor/",
+          "note": "#3: 'best known for their trendy designs and plus friendly options'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url",
+        "price:dresses (no regular-price item rendered)"
+      ]
+    },
+    {
+      "slug": "prettylittlething",
+      "rank": 5,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": null,
+      "price_relation": null,
+      "reason": "PrettyLittleThing's US store sells dresses in US 00–24 across petite, tall, shape and plus ranges, shipping for $9.99 to the US and Canada with 21-day returns and a $14.99 return charge.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://boliviashome.com/stores-like-windsor/",
+          "note": "#4: 'specializes in club wear and party wear dresses with bold and trendy aesthetics'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url",
+        "price:dresses (grid loads client-side)"
+      ]
+    },
+    {
+      "slug": "boohoo",
+      "rank": 6,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": null,
+      "price_relation": null,
+      "reason": "boohoo, PrettyLittleThing's sister brand in Boohoo Group, sells dresses on a US 0–26 size chart with petite, tall and plus lines, $10.99 US shipping and 21-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://boliviashome.com/stores-like-windsor/",
+          "note": "#5: 'focuses on fast fashion trendy pieces and affordable everyday clothing'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url",
+        "price:dresses (grid loads client-side)"
+      ]
+    },
+    {
+      "slug": "revolve",
+      "rank": 7,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": null,
+      "price_relation": null,
+      "reason": "Revolve is a multi-brand store whose dresses run from LIONESS ($69) to designer gowns like MAJORELLE's Tracy Gown ($328), with free shipping and returns, 30 days for a refund and 60 for an exchange.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eonline.com/news/1397031/the-10-best-websites-to-buy-chic-trendy-stylish-prom-dresses-online",
+          "note": "#5 of 10 prom-dress sites on the list Windsor tops"
+        }
+      ],
+      "gate_gaps": [
+        "image_url",
+        "price:dresses (16 of 21,498 rendered)"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "lulus",
+      "why": "unverified: lulus.com and investors.lulus.com return HTTP 403 to WebFetch (2026-10-29), one try each, no workaround. 2 sources (Bolivia's Home #2, E! Online #2): the strongest candidate, first in the human-check queue."
+    },
+    {
+      "slug": "macys",
+      "why": "brand file verified from Macy's, Inc. sources (sells_categories womens-clothing), but no official source read confirms dresses (the 10-K says 'Women's Apparel'); macys.com 403. Human check: add 'dresses' if a human confirms the dresses department."
+    },
+    {
+      "slug": "bloomingdales",
+      "why": "same as Macy's: verified for womens-clothing from the parent's sources, dresses not confirmed; bloomingdales.com 403. Human check."
+    },
+    {
+      "slug": "zara",
+      "why": "unverified in its brand file (zara.com 403 to WebFetch, 2026-10-29); not re-tried."
+    },
+    {
+      "slug": "h-m",
+      "why": "unverified in its brand file (www2.hm.com 403 to WebFetch, 2026-10-29); not re-tried."
+    },
+    {
+      "slug": "urban-outfitters",
+      "why": "unverified in its brand file (urbanoutfitters.com 403, 2026-10-29); not re-tried."
+    },
+    {
+      "slug": "free-people",
+      "why": "unverified in its brand file (freepeople.com 403, 2026-10-29); not re-tried."
+    },
+    {
+      "slug": "asos",
+      "why": "unverified: asos.com/us dresses returned HTTP 503 to WebFetch (2026-10-29); no retry, no brand file written."
+    },
+    {
+      "slug": "shein",
+      "why": "unverified: us.shein.com dresses page rendered only a meta description to WebFetch; no listings readable. No brand file written."
+    },
+    {
+      "slug": "romwe",
+      "why": "not picked: us.romwe.com is live with dresses on the homepage, but its dresses category rendered 'No item matched' and no shipping or returns page was read. No brand file written."
+    },
+    {
+      "slug": "missguided",
+      "why": "not picked: missguided.com/market-us dresses page lists third-party labels (AiiRZ, SUMWON, KIZN) beside its own, and 18 of 19 rendered dresses were marked down, so no regular range; shipping and returns not read. No brand file written."
+    },
+    {
+      "slug": "rent-the-runway",
+      "why": "rental model ('Rent For Events', subscription $99 first month), not a store selling dresses like Windsor; prices not comparable."
+    },
+    {
+      "slug": "amazon",
+      "why": "marketplace; out of scope as a store pick."
+    },
+    {
+      "slug": "modparty",
+      "why": "Apart Style pool only, no outside source on this SERP."
+    },
+    {
+      "slug": "club-l-london",
+      "why": "pool only, no outside source."
+    },
+    {
+      "slug": "tfnc",
+      "why": "pool only, no outside source."
+    },
+    {
+      "slug": "little-mistress",
+      "why": "pool only, no outside source."
+    },
+    {
+      "slug": "quiz-clothing",
+      "why": "pool only, no outside source."
+    },
+    {
+      "slug": "jarlo",
+      "why": "pool only, no outside source."
+    },
+    {
+      "slug": "forever-unique",
+      "why": "pool only, no outside source."
+    },
+    {
+      "slug": "ax-paris",
+      "why": "pool only, no outside source."
+    },
+    {
+      "slug": "chi-chi-london",
+      "why": "pool only, no outside source."
+    },
+    {
+      "slug": "couture-candy",
+      "why": "pool only, no outside source."
+    },
+    {
+      "slug": "alyce-paris",
+      "why": "pool only, no outside source."
+    },
+    {
+      "slug": "sabo-skirt",
+      "why": "pool only, no outside source."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "anchor returns_days (30) vs a 14-day refund window on dresses",
+      "url": "https://customerserviceportal.windsorstore.com/hc/en-us/articles/4419062908429-How-to-Start-a-Return",
+      "check": "The help-centre article is 403 to WebFetch. Product JSON-LD says merchantReturnDays 30 (free, by mail), but dress products carry the tag 'HR-refund:14days'. Confirm the window and whether dresses refund only within 14 days; the copy doesn't state Windsor's return window."
+    },
+    {
+      "fact": "Lulus (2 sources)",
+      "url": "https://www.lulus.com/categories/13/dresses.html",
+      "check": "403 to WebFetch. Confirm live, dress price range (regular price), sizes, US shipping and returns; it would rank #1 on this page."
+    },
+    {
+      "fact": "Macy's and Bloomingdale's: dresses",
+      "url": "https://www.macys.com/shop/womens-clothing/dresses?id=5449",
+      "check": "Confirm both sell dresses (and prom dresses) so 'dresses' can join sells_categories; both would then render without a price."
+    },
+    {
+      "fact": "Showpo and Revolve dress prices",
+      "url": "https://www.showpo.com/us/collections/dresses",
+      "check": "Only 30 (Showpo) and 16 (Revolve) dresses render; record a regular-price min/max from the full listing if possible."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": null,
+  "notes": [
+    "7 picks pass enrich.md §3 (verified, sell dresses, ship to the US, 1 outside source each, one checkable reason). Target was 10–15; not padded. Only two editorial pages on the four SERPs name stores alongside Windsor (Bolivia's Home, E! Online); 'windsor alternatives' and 'similar to windsor' returned no SERP. Of 20 sourced candidates, 7 verified, 8 are blocked or unconfirmed (Lulus, Zara, H&M, Urban Outfitters, Free People, ASOS, SHEIN, plus Macy's/Bloomingdale's for dresses), 5 rejected on fit (ROMWE, Missguided, Rent the Runway, Amazon).",
+    "Ranking: all picks are single-source (Lulus, the only 2-source candidate, is unverified), so rank follows price closeness to Windsor's $14–$199.90: Princess Polly and Oh Polly (stored prices) first, then the unpriced picks in the order their source lists them, Revolve last as a multi-brand designer store.",
+    "E! Online is a 'best prom-dress websites' list with Windsor at #1, not a 'stores like Windsor' list. It is kept because it ranks in the AI overview for 'stores like windsor' and recommends the others for the same purpose; Showpo, Princess Polly and Revolve rest on it alone. If a reviewer rules it out, the page drops to 4 picks and goes noindex.",
+    "Prices: the anchor, Princess Polly and Oh Polly from full Shopify products.json feeds (in stock, no variant above compare_at, dress/gown titles only). Showpo, Revolve, Fashion Nova, PrettyLittleThing and boohoo render without a price (sells_categories dresses from their own dresses pages)."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "The dance is three weeks out and your Windsor has the dress you want in every size but yours. Windsor has been the go-to for special-occasion dresses for decades, and most of its dresses cost under $100. The stores below cover the same ground: homecoming minis, prom gowns and wedding-guest maxis. The closest on price come first, then the ones worth it for sizing or a bigger budget.",
+    "bodies": {
+      "princess-polly": "Princess Polly is the closest match on price: nearly every dress sits under $100 and nothing goes past $119. Start with the Kaylanie Strapless Sequin Mini Dress ($69), about what a typical Windsor dress costs.\n\nMinis outnumber maxis more than two to one, so it's strongest for homecoming and parties. The long styles top out with the Sura Strapless Lace Detail Maxi Dress ($119). Core sizes run US 0 to 12, and the Curve line goes to 20, which is further than Windsor's size guide reaches. It also has a few US stores, in Scottsdale, Santa Clara, Boston and Columbus, and shipping is free over $50.\n\nIf you need a floor-length gown with some structure for prom, Oh Polly goes much further.",
+      "oh-polly": "Oh Polly is the step up when the dress matters more than the budget, with fitted corset and fishtail styles and gowns up to $315. The Backless Halterneck Fishtail Gown in Pearl ($85) is a good way in before you pay for embellishment.\n\nIt's a UK label that designs and makes its own garments, and it runs a separate US store priced in dollars. Expect to pay more than at Windsor, though. The middle of its range is around $120, against about $65 at Windsor. Sizes go from XXS to XXL, one size past Windsor's XL.\n\nPlan around the return clock. A refund is only possible within 7 days of delivery. After that it's an exchange (up to 14 days) or store credit (up to 28), so try it on the day it lands.",
+      "showpo": "Showpo is where to look if you usually shop Windsor's formal rail rather than its bargain one. Its long dresses, like the Pietra Maxi Dress ($99.95) and the Alexandria Maxi Dress ($199.95), sit right where Windsor's formal ones do.\n\nIt started in Sydney in 2010, but US orders ship from a US warehouse, free over $100 and $9.95 below that. Sizes run US 0 to 16, a step past Windsor's chart, and there's a Curve section too.\n\nReturns work like Oh Polly's, only with more breathing room. You get 30 days to send something back, but a cash refund only in the first 7. After that it's an exchange or 110% store credit, which is fine if you'll shop there again.",
+      "fashion-nova": "Fashion Nova is the one for curvier going-out dresses, with a whole Plus+Curve section, and its free-shipping line sits at $75, the same as Windsor's. Below that, standard shipping is $6.99.\n\nIt began in 2006 as one LA store and now runs from a Beverly Hills headquarters, shipping to the US, Canada, the UK and Australia. Almost every dress is shown marked down against a \"Comp. Value\". Treat that figure as a reference rather than a regular price, and compare the number you'd actually pay with what the same style costs at Windsor.\n\nFor a size chart that runs to 24 or 26, PrettyLittleThing and boohoo are next.",
+      "prettylittlething": "PrettyLittleThing covers the party side of Windsor and has more fit ranges than anyone else here. Petite runs US 00 to 12, plus goes from 12 to 24, and there are tall and shape ranges as well.\n\nIt's a Manchester label from 2012, now part of Boohoo Group, and the US store ships to the US and Canada for $9.99 an order. There's no free-shipping line listed. The sitewide percentage-off banners carry their own footnote saying discounts may not be based on former prices. So judge the price on the tag, not the percentage.\n\nThe catch is returns. You've got 21 days, but $14.99 comes off every refund parcel, so it suits orders you're fairly sure about.",
+      "boohoo": "boohoo is PrettyLittleThing's sister store and has the longest size chart on this list, running US 0 to 26 with petite, tall and plus lines. If Windsor's XL is where you run out of options, start here.\n\nSince it's in the same group, it plays by the same return rules: 21 days, with $14.99 off each refund parcel. Store credit earns a bonus instead, 20% here against 10% at PrettyLittleThing. Standard US shipping is $10.99, with no extra tariff charges.\n\nThat shipping takes 6 to 8 business days, and that's the real trade-off. For a dance next weekend, Princess Polly's US stores or your nearest Windsor are the safer bet.",
+      "revolve": "Revolve is where to go when Windsor's $200 ceiling is too low, and shipping and returns are free. Its dress page runs from LIONESS (the Original Sin Dress is $69) to designer gowns such as MAJORELLE's Tracy Gown ($328).\n\nIt's a multi-brand store rather than one label, so shop it by brand. LIONESS also turns up at Princess Polly if you'd rather stay under $100. Sizes go from XXS to 4X, and you get 30 days for a refund or 60 for an exchange, the longest window here. That helps when the wedding is two months away.\n\nWatch how fast the prices climb, though. Several of its gowns cost more than any Windsor dress."
+    },
+    "best_for": {
+      "princess-polly": "homecoming minis under $100 with a store to try them in",
+      "oh-polly": "a fitted corset or fishtail gown worth spending more on",
+      "showpo": "long formal dresses shipped from a US warehouse",
+      "fashion-nova": "curvy going-out dresses with free shipping from $75",
+      "prettylittlething": "a party dress in a petite or tall fit",
+      "boohoo": "a party dress up to a US 26",
+      "revolve": "a designer gown with free returns and time to decide"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with your budget. Under $100, Princess Polly is the closest thing to Windsor, and its US stores help when you're short on time. Between $100 and $200, Showpo's maxis and Oh Polly's corset gowns are the step up, but move fast on Oh Polly's 7-day refund window. Past $200, Revolve has the designer labels and the longest return window.\n\nIf size is the problem, go by the chart. boohoo runs to a US 26 and PrettyLittleThing to 24 with petite and tall lines, while Fashion Nova has its own Plus+Curve section. Just factor in the $14.99 return charge at boohoo and PrettyLittleThing before you order three sizes."
+    },
+    "faqs": [
+      {
+        "q": "What is Windsor store?",
+        "a": "Windsor is a US women's fashion chain with more than 350 stores and an online shop. It opened in 1937 as a hosiery and lingerie store and has focused on special occasion dresses since 1957.",
+        "source_query": "what is windsor store"
+      },
+      {
+        "q": "Does Windsor have plus sizes?",
+        "a": "Windsor's size guide runs from XXS to XL (US 00 to 15), and its current dresses stop at XL. For plus sizes, boohoo goes to a US 26, PrettyLittleThing to 24 and Princess Polly's Curve line to 20.",
+        "source_query": "does windsor have plus size in store"
+      },
+      {
+        "q": "Who owns Windsor store?",
+        "a": "The Zekaria family. Windsor has been owned and operated by generations of the family since it opened in 1937.",
+        "source_query": "who owns windsor store"
+      }
+    ]
+  }
+}

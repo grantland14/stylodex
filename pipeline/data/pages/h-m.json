@@ -1,0 +1,1923 @@
+{
+  "subject": "H&M",
+  "slug": "h-m",
+  "url_prefix": "stores",
+  "category": {
+    "slug": "dresses",
+    "name": "Dresses",
+    "why": "H&M sells its own label (kind brand, per run-page.md even on a stores page), and sells many product types; C is the hero line. Ahrefs top pages for www2.hm.com/en_us/ (US, 2026-10-28, recorded in brands/h-m.json notes): the women's maxi dresses page is the highest-traffic product-type page. Women's dresses are also the one product type the readable candidate stores all list. Prices compared: regular-price (non-sale) dresses on each store's own dress page."
+  },
+  "serp": [
+    {
+      "keyword": "stores like h&m",
+      "position": 1,
+      "url": null,
+      "kept": false,
+      "why_dropped": "AI overview, no URL"
+    },
+    {
+      "keyword": "stores like h&m",
+      "position": 1,
+      "url": "https://www.reddit.com/r/malefashionadvice/comments/1g0kj5b/any_good_places_to_shop_instead_of_zara_and_hm/",
+      "kept": false,
+      "why_dropped": "reddit: WebFetch refuses reddit.com; not read, no workaround tried"
+    },
+    {
+      "keyword": "stores like h&m",
+      "position": 1,
+      "url": "https://www.popsugar.com/fashion/stores-like-h-m-49129245",
+      "kept": false,
+      "why_dropped": "AI-overview sitelink (also organic #8): WebFetch can't fetch www.popsugar.com ('unable to fetch'); one try, not read"
+    },
+    {
+      "keyword": "stores like h&m",
+      "position": 1,
+      "url": "https://www.purewow.com/fashion/stores-like-hm",
+      "kept": true,
+      "note": "AI-overview sitelink; read 2026-10-29: Emma Singer, PureWow, Jan 3 2023; 16 stores"
+    },
+    {
+      "keyword": "stores like h&m",
+      "position": 1,
+      "url": "https://www.thredup.com/bg/p/stores-like-zara",
+      "kept": false,
+      "why_dropped": "about Zara alternatives, and a resale marketplace's page"
+    },
+    {
+      "keyword": "stores like h&m",
+      "position": 1,
+      "url": "https://247wallst.com/companies-and-brands/2025/01/30/i-used-to-get-all-my-clothes-from-hm-but-these-10-retailers-are-better/",
+      "kept": true,
+      "note": "AI-overview sitelink (also organic #10); read 2026-10-29: David Beren, 24/7 Wall St., Jan 30 2025; 10 retailers"
+    },
+    {
+      "keyword": "stores like h&m",
+      "position": 1,
+      "url": "https://www.youtube.com/watch?v=wsLV5KrNiH0",
+      "kept": false,
+      "why_dropped": "YouTube video; no readable list"
+    },
+    {
+      "keyword": "stores like h&m",
+      "position": 1,
+      "url": "https://iamandco.com/blogs/articles/stores-like-h-m",
+      "kept": true,
+      "note": "AI-overview sitelink (also organic #3); read 2026-10-29: I AM & CO blog (a stationery/gift shop's blog), no author or date; 10 stores"
+    },
+    {
+      "keyword": "stores like h&m",
+      "position": 1,
+      "url": "https://emmairenecavanagh.com/clothing-stores-like-hm/",
+      "kept": true,
+      "note": "AI-overview sitelink; read 2026-10-29: Emma Irene Cavanagh's blog, dated 'September 20' with no year, no byline; 6 stores"
+    },
+    {
+      "keyword": "stores like h&m",
+      "position": 1,
+      "url": "https://www.instagram.com/reel/DYR_5Y4KYXk/?hl=en",
+      "kept": false,
+      "why_dropped": "Instagram reel; no readable list"
+    },
+    {
+      "keyword": "stores like h&m",
+      "position": 2,
+      "url": "https://www.reddit.com/r/malefashionadvice/comments/1pyg1ao/any_suggestions_that_are_better_than_hm/",
+      "kept": false,
+      "why_dropped": "reddit; not read"
+    },
+    {
+      "keyword": "stores like h&m",
+      "position": 2,
+      "url": "https://www.reddit.com/r/LondonLadies/comments/1gvozkw/brands_other_than_zara_hm_and_uniqlo/",
+      "kept": false,
+      "why_dropped": "reddit sitelink; not read"
+    },
+    {
+      "keyword": "stores like h&m",
+      "position": 4,
+      "url": "https://www.instyle.com/fashion/clothing/best-online-clothing-stores",
+      "kept": false,
+      "why_dropped": "general best-online-stores roundup, not a list of H&M alternatives"
+    },
+    {
+      "keyword": "stores like h&m",
+      "position": 6,
+      "url": "https://www.quora.com/What-are-some-good-alternative-clothing-stores-to-Zara-H-M-and-Forever21",
+      "kept": false,
+      "why_dropped": "Quora discussion; not an editorial list (Quora returned 403 on earlier runs); not read"
+    },
+    {
+      "keyword": "stores like h&m",
+      "position": 7,
+      "url": "https://www.themodestman.com/brands-like-hm/",
+      "kept": true,
+      "note": "read 2026-10-29: TMM Staff, The Modest Man, updated July 15 2026; 13 brands for men"
+    },
+    {
+      "keyword": "stores like h&m",
+      "position": 9,
+      "url": "https://www.quora.com/Whats-another-clothing-store-in-NYC-similar-to-H-M",
+      "kept": false,
+      "why_dropped": "Quora; not read"
+    },
+    {
+      "keyword": "brands like h&m",
+      "position": 1,
+      "url": null,
+      "kept": false,
+      "why_dropped": "AI overview, no URL"
+    },
+    {
+      "keyword": "brands like h&m",
+      "position": 1,
+      "url": "https://www.popsugar.com/fashion/stores-like-h-m-49129245",
+      "kept": false,
+      "why_dropped": "Popsugar: unable to fetch (see above)"
+    },
+    {
+      "keyword": "brands like h&m",
+      "position": 1,
+      "url": "https://iamandco.com/blogs/articles/stores-like-h-m",
+      "kept": true,
+      "note": "same page as above"
+    },
+    {
+      "keyword": "brands like h&m",
+      "position": 2,
+      "url": "https://www.lemon8-app.com/@mimiigrave/7397123887626617349?region=us",
+      "kept": false,
+      "why_dropped": "Lemon8 social post, not an editorial list"
+    },
+    {
+      "keyword": "brands like h&m",
+      "position": 4,
+      "url": "https://www.reddit.com/r/IndianFashionAddicts/comments/1vfy1iz/what_are_your_favorite_alternatives_to_zara_hm/",
+      "kept": false,
+      "why_dropped": "reddit; not read"
+    },
+    {
+      "keyword": "brands like h&m",
+      "position": 5,
+      "url": "https://www.zhihu.com/en/answer/531953328",
+      "kept": false,
+      "why_dropped": "Zara vs H&M quality question, not a list of alternatives"
+    },
+    {
+      "keyword": "brands like h&m",
+      "position": 7,
+      "url": "https://www.lifestyleasia.com/sg/style/fashion/sustainable-fashion-initiatives-hm-zara-uniqlo/",
+      "kept": false,
+      "why_dropped": "about the brands' sustainability initiatives, not alternatives"
+    },
+    {
+      "keyword": "brands like h&m",
+      "position": 8,
+      "url": "https://talk.collegeconfidential.com/t/clothing-brands/531983",
+      "kept": false,
+      "why_dropped": "general forum thread about clothing brands, not H&M alternatives"
+    },
+    {
+      "keyword": "brands like h&m",
+      "position": 9,
+      "url": "https://www.instagram.com/p/DXwU5uEDGd4/",
+      "kept": false,
+      "why_dropped": "Instagram post"
+    },
+    {
+      "keyword": "brands like h&m",
+      "position": 10,
+      "url": "https://www.lemon8-app.com/experience/hm-vs-zara?region=us",
+      "kept": false,
+      "why_dropped": "H&M vs Zara comparison, social post"
+    },
+    {
+      "keyword": "h&m alternatives",
+      "position": 1,
+      "url": null,
+      "kept": false,
+      "why_dropped": "AI overview, no URL"
+    },
+    {
+      "keyword": "h&m alternatives",
+      "position": 1,
+      "url": "https://www.projectcece.com/blog/777/best-ethical-hm-alternatives/",
+      "kept": true,
+      "note": "AI-overview sitelink (also organic #5); read 2026-10-29: Melissa Wijngaarden, Project Cece, Dec 24 2025; 5 ethical brands"
+    },
+    {
+      "keyword": "h&m alternatives",
+      "position": 1,
+      "url": "https://goodonyou.eco/brands-youll-love-more-than-hm/",
+      "kept": true,
+      "note": "AI-overview sitelink (also organic #7); read 2026-10-29: Solene Rauturier, Good On You, Feb 29 2024; 11 brands"
+    },
+    {
+      "keyword": "h&m alternatives",
+      "position": 1,
+      "url": "https://www.instagram.com/popular/hm-alternatives/",
+      "kept": false,
+      "why_dropped": "Instagram tag page"
+    },
+    {
+      "keyword": "h&m alternatives",
+      "position": 2,
+      "url": "https://www.reddit.com/r/malefashionadvice/comments/1pyg1ao/any_suggestions_that_are_better_than_hm/",
+      "kept": false,
+      "why_dropped": "reddit; not read"
+    },
+    {
+      "keyword": "h&m alternatives",
+      "position": 4,
+      "url": "https://www.quora.com/What-are-some-of-the-best-alternatives-to-H-M-and-Zara-in-terms-of-quality-style-price-and-availability",
+      "kept": false,
+      "why_dropped": "Quora; not read"
+    },
+    {
+      "keyword": "h&m alternatives",
+      "position": 6,
+      "url": "https://www.themodestman.com/brands-like-hm/",
+      "kept": true,
+      "note": "same page as above"
+    },
+    {
+      "keyword": "h&m alternatives",
+      "position": 8,
+      "url": "https://www.tiktok.com/@hannahlizzy_/video/7597986761473592606",
+      "kept": false,
+      "why_dropped": "TikTok video"
+    },
+    {
+      "keyword": "h&m alternatives",
+      "position": 9,
+      "url": "https://iamandco.com/blogs/articles/stores-like-h-m",
+      "kept": true,
+      "note": "same page as above"
+    },
+    {
+      "keyword": "similar to h&m",
+      "position": 1,
+      "url": null,
+      "kept": false,
+      "why_dropped": "AI overview, no URL"
+    },
+    {
+      "keyword": "similar to h&m",
+      "position": 1,
+      "url": "https://www.projectcece.com/blog/777/best-ethical-hm-alternatives/",
+      "kept": true,
+      "note": "same page as above"
+    },
+    {
+      "keyword": "similar to h&m",
+      "position": 1,
+      "url": "https://goodonyou.eco/brands-youll-love-more-than-hm/",
+      "kept": true,
+      "note": "same page as above"
+    },
+    {
+      "keyword": "similar to h&m",
+      "position": 2,
+      "url": "https://www.facebook.com/groups/37543266722/posts/10162730241021723/",
+      "kept": false,
+      "why_dropped": "Facebook group post (baby clothes for sale)"
+    },
+    {
+      "keyword": "similar to h&m",
+      "position": 4,
+      "url": "https://www.cliffsnotes.com/study-notes/33129916",
+      "kept": false,
+      "why_dropped": "student strategy paper (Zara vs H&M and Forever 21)"
+    },
+    {
+      "keyword": "similar to h&m",
+      "position": 5,
+      "url": "https://www.fastcompany.com/91061123/france-pulls-the-breaks-on-fast-fashion-companies-like-hm-and-shein-with-potential-penalties",
+      "kept": false,
+      "why_dropped": "news on French fast-fashion law, not alternatives"
+    },
+    {
+      "keyword": "similar to h&m",
+      "position": 6,
+      "url": "https://www.instagram.com/p/DYnr6TMHJk9/",
+      "kept": false,
+      "why_dropped": "Instagram post"
+    },
+    {
+      "keyword": "similar to h&m",
+      "position": 7,
+      "url": "https://daoinsights.com/news/what-do-the-different-fates-of-hms-sub-brands-say-about-chinas-fast-fashion-market/",
+      "kept": false,
+      "why_dropped": "news on H&M sub-brands in China, not alternatives"
+    },
+    {
+      "keyword": "similar to h&m",
+      "position": 8,
+      "url": "https://www.reddit.com/r/malefashionadvice/comments/35smy0/stores_like_hm/",
+      "kept": false,
+      "why_dropped": "reddit; not read"
+    },
+    {
+      "keyword": "similar to h&m",
+      "position": 8,
+      "url": "https://www.quora.com/What-clothing-stores-are-similar-to-H-M-and-Zara",
+      "kept": false,
+      "why_dropped": "Quora; not read"
+    },
+    {
+      "keyword": "similar to h&m",
+      "position": 9,
+      "url": "https://www.reddit.com/r/FragranceStories/comments/1sfyzda/similar_perfume_to_hm_petals/",
+      "kept": false,
+      "why_dropped": "perfume thread"
+    },
+    {
+      "keyword": "similar to h&m",
+      "position": 10,
+      "url": "https://blog.esdes.fr/en/shopping-in-lyon-girls-edition",
+      "kept": false,
+      "why_dropped": "shopping guide to Lyon, not alternatives"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": null,
+      "url": null,
+      "used": false,
+      "why": "enrich.md §1.4b: H&M sells only through its own stores and site; no multi-brand retailer stocking it was found, so no co-stocking evidence."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "ASOS",
+      "slug": "asos",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.purewow.com/fashion/stores-like-hm",
+          "note": "#3: \"Inclusive size range and large selection with a street style aesthetic\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/companies-and-brands/2025/01/30/i-used-to-get-all-my-clothes-from-hm-but-these-10-retailers-are-better/",
+          "note": "\"offers designs and fashion from dozens of big fashion names\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-h-m",
+          "note": "#5: \"an online-only fashion retailer\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.themodestman.com/brands-like-hm/",
+          "note": "#10: \"revered for its edgy streetwear fashion\""
+        }
+      ]
+    },
+    {
+      "name": "& Other Stories",
+      "slug": "other-stories",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.purewow.com/fashion/stores-like-hm",
+          "note": "#13: \"Understated, feminine styles in muted tones\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-h-m",
+          "note": "#7: \"European-inspired designer fashion\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://emmairenecavanagh.com/clothing-stores-like-hm/",
+          "note": "#5: \"if you like the whimsical pieces H&M comes out with you'll love this brand\""
+        }
+      ]
+    },
+    {
+      "name": "COS",
+      "slug": "cos",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.purewow.com/fashion/stores-like-hm",
+          "note": "#14: \"Modern, minimalist clothing in neutral tones\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://emmairenecavanagh.com/clothing-stores-like-hm/",
+          "note": "#6: \"known for their contemporary styles and timeless designs\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.themodestman.com/brands-like-hm/",
+          "note": "#12: \"grand design and innovation\""
+        }
+      ]
+    },
+    {
+      "name": "Mango",
+      "slug": "mango",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.purewow.com/fashion/stores-like-hm",
+          "note": "#2: \"sophisticated, and somehow both on-trend and timeless\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/companies-and-brands/2025/01/30/i-used-to-get-all-my-clothes-from-hm-but-these-10-retailers-are-better/",
+          "note": "\"has its sights on brands like H&M\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-h-m",
+          "note": "#3: \"Mediterranean with a contemporary twist.\""
+        }
+      ]
+    },
+    {
+      "name": "Uniqlo",
+      "slug": "uniqlo",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/companies-and-brands/2025/01/30/i-used-to-get-all-my-clothes-from-hm-but-these-10-retailers-are-better/",
+          "note": "\"a strong balance of high-quality materials\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://emmairenecavanagh.com/clothing-stores-like-hm/",
+          "note": "#2: \"the quality is significantly better\" at a slightly higher price"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.themodestman.com/brands-like-hm/",
+          "note": "#9: \"a favorite retailer for its extensive line of menswear basics\""
+        }
+      ]
+    },
+    {
+      "name": "Urban Outfitters",
+      "slug": "urban-outfitters",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.purewow.com/fashion/stores-like-hm",
+          "note": "#8: \"Young, hip and vintage-inspired trends at budget-friendly prices\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-h-m",
+          "note": "#1: \"carries the trendiest, most Instagramable clothes around\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.themodestman.com/brands-like-hm/",
+          "note": "#11: \"diverse and contemporary\""
+        }
+      ]
+    },
+    {
+      "name": "Afends",
+      "slug": "afends",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.themodestman.com/brands-like-hm/",
+          "note": "#5: \"a leader in the hemp apparel movement\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/brands-youll-love-more-than-hm/",
+          "note": "#6: \"leading the way in hemp fashion\""
+        }
+      ]
+    },
+    {
+      "name": "American Eagle",
+      "slug": "american-eagle",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/companies-and-brands/2025/01/30/i-used-to-get-all-my-clothes-from-hm-but-these-10-retailers-are-better/",
+          "note": "\"some of the most comfortable stretch jeans\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.themodestman.com/brands-like-hm/",
+          "note": "#3: \"relaxed, stylish apparel\""
+        }
+      ]
+    },
+    {
+      "name": "Express",
+      "slug": "express",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.purewow.com/fashion/stores-like-hm",
+          "note": "#12: \"Trendy, affordable styles you can wear from day to night\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/companies-and-brands/2025/01/30/i-used-to-get-all-my-clothes-from-hm-but-these-10-retailers-are-better/",
+          "note": "\"Its styles are both affordable and flattering.\""
+        }
+      ]
+    },
+    {
+      "name": "Forever 21",
+      "slug": "forever-21",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/companies-and-brands/2025/01/30/i-used-to-get-all-my-clothes-from-hm-but-these-10-retailers-are-better/",
+          "note": "\"Forever 21 is no longer just for women.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-h-m",
+          "note": "#4: \"Forever 21 is everything H&M is but amped up to another level.\""
+        }
+      ]
+    },
+    {
+      "name": "Frank And Oak",
+      "slug": "frank-and-oak",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.purewow.com/fashion/stores-like-hm",
+          "note": "#7: \"Sustainable and eco-friendly fashion you can wear every day\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.themodestman.com/brands-like-hm/",
+          "note": "#6: \"modern and minimalist for the fashion-forward man\""
+        }
+      ]
+    },
+    {
+      "name": "Honest Basics",
+      "slug": "honest-basics",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.themodestman.com/brands-like-hm/",
+          "note": "#8: \"on a mission to bring truth back to fashion\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/brands-youll-love-more-than-hm/",
+          "note": "#9: \"a GOTS-certified basics brand based in Germany\""
+        }
+      ]
+    },
+    {
+      "name": "Kotn",
+      "slug": "kotn",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://emmairenecavanagh.com/clothing-stores-like-hm/",
+          "note": "#3: \"A Canadian minimalist sustainable clothing store\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/brands-youll-love-more-than-hm/",
+          "note": "#2: \"Kotn makes stylish ready-to-wear clothing.\""
+        }
+      ]
+    },
+    {
+      "name": "Madewell",
+      "slug": "madewell",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.purewow.com/fashion/stores-like-hm",
+          "note": "#16: \"Down-to-earth designs available in an inclusive range of sizes\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.themodestman.com/brands-like-hm/",
+          "note": "#13: \"laid-back apparel for men\""
+        }
+      ]
+    },
+    {
+      "name": "Nasty Gal",
+      "slug": "nasty-gal",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.purewow.com/fashion/stores-like-hm",
+          "note": "#10: \"Fun and super trendy styles at very low prices\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-h-m",
+          "note": "#10: \"an ultra trendy and affordable clothing brand\""
+        }
+      ]
+    },
+    {
+      "name": "Zara",
+      "slug": "zara",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.purewow.com/fashion/stores-like-hm",
+          "note": "#1: \"Versatile, contemporary styles at affordable prices for women, men and kids\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/companies-and-brands/2025/01/30/i-used-to-get-all-my-clothes-from-hm-but-these-10-retailers-are-better/",
+          "note": "\"the answer to an H&M competitor that does fashion right\""
+        }
+      ]
+    },
+    {
+      "name": "Abercrombie & Fitch",
+      "slug": "abercrombie-fitch",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/companies-and-brands/2025/01/30/i-used-to-get-all-my-clothes-from-hm-but-these-10-retailers-are-better/",
+          "note": "\"apparel that is objectively better quality than H&M\""
+        }
+      ]
+    },
+    {
+      "name": "ABLE",
+      "slug": "able",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/brands-youll-love-more-than-hm/",
+          "note": "#3: \"slow fashion that pays a living wage\""
+        }
+      ]
+    },
+    {
+      "name": "Alohas",
+      "slug": "alohas",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.projectcece.com/blog/777/best-ethical-hm-alternatives/",
+          "note": "#2: mostly shoes, pre-order model"
+        }
+      ]
+    },
+    {
+      "name": "ARKET",
+      "slug": "arket",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://emmairenecavanagh.com/clothing-stores-like-hm/",
+          "note": "#1: \"part of the H&M Group so you can expect similar minimalist fashion pieces\""
+        }
+      ]
+    },
+    {
+      "name": "Artknit Studios",
+      "slug": "artknit-studios",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.themodestman.com/brands-like-hm/",
+          "note": "#1: \"Sourced right from the heart of Milan, Italy\""
+        }
+      ]
+    },
+    {
+      "name": "Banana Republic",
+      "slug": "banana-republic",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.themodestman.com/brands-like-hm/",
+          "note": "#2: \"a slightly older and more professionally oriented audience\""
+        }
+      ]
+    },
+    {
+      "name": "CHNGE",
+      "slug": "chnge",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/brands-youll-love-more-than-hm/",
+          "note": "#5: \"100% organic material\""
+        }
+      ]
+    },
+    {
+      "name": "Everlane",
+      "slug": "everlane",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://emmairenecavanagh.com/clothing-stores-like-hm/",
+          "note": "#4: \"Easily my favourite out of this list.\""
+        }
+      ]
+    },
+    {
+      "name": "Frankie",
+      "slug": "frankie",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/brands-youll-love-more-than-hm/",
+          "note": "#8: \"innovating women’s streetwear\""
+        }
+      ]
+    },
+    {
+      "name": "Free People",
+      "slug": "free-people",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.purewow.com/fashion/stores-like-hm",
+          "note": "#6: \"Trendy, boho-chic styles that are fun and functional\""
+        }
+      ]
+    },
+    {
+      "name": "Gap",
+      "slug": "gap",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/companies-and-brands/2025/01/30/i-used-to-get-all-my-clothes-from-hm-but-these-10-retailers-are-better/",
+          "note": "\"you cannot go wrong with a pair of denim jeans from Gap\""
+        }
+      ]
+    },
+    {
+      "name": "J.Crew",
+      "slug": "j-crew",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.themodestman.com/brands-like-hm/",
+          "note": "#7: \"a prime destination for quality apparel that offers a timeless appeal\""
+        }
+      ]
+    },
+    {
+      "name": "Kaly Ora",
+      "slug": "kaly-ora",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.projectcece.com/blog/777/best-ethical-hm-alternatives/",
+          "note": "#4: swimwear in recycled nylon and polyester"
+        }
+      ]
+    },
+    {
+      "name": "Known Supply",
+      "slug": "known-supply",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/brands-youll-love-more-than-hm/",
+          "note": "#10: \"a US-based, B Corp certified more sustainable fashion brand\""
+        }
+      ]
+    },
+    {
+      "name": "Komodo",
+      "slug": "komodo",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.projectcece.com/blog/777/best-ethical-hm-alternatives/",
+          "note": "#3: \"eco-friendly fabrics like certified organic cotton\""
+        }
+      ]
+    },
+    {
+      "name": "Lucky Brand",
+      "slug": "lucky-brand",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-h-m",
+          "note": "#6: \"grungy, strategically ripped jeans\""
+        }
+      ]
+    },
+    {
+      "name": "Macy’s",
+      "slug": "macys",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/companies-and-brands/2025/01/30/i-used-to-get-all-my-clothes-from-hm-but-these-10-retailers-are-better/",
+          "note": "\"far more in line with H&M pricing\""
+        }
+      ]
+    },
+    {
+      "name": "Miss Selfridge",
+      "slug": "miss-selfridge",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-h-m",
+          "note": "#9: \"softer, more feminine looks\""
+        }
+      ]
+    },
+    {
+      "name": "Mon Col Anvers",
+      "slug": "mon-col-anvers",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.projectcece.com/blog/777/best-ethical-hm-alternatives/",
+          "note": "#1: \"French flair and Scandinavian minimalism\""
+        }
+      ]
+    },
+    {
+      "name": "Oak + Fort",
+      "slug": "oak-fort",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.purewow.com/fashion/stores-like-hm",
+          "note": "#9: \"Streamlined, modern silhouettes and fashion-forward basics\""
+        }
+      ]
+    },
+    {
+      "name": "OMNES",
+      "slug": "omnes",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/brands-youll-love-more-than-hm/",
+          "note": "#4: \"UK-based brand creating high quality womenswear\""
+        }
+      ]
+    },
+    {
+      "name": "Pixie Market",
+      "slug": "pixie-market",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.purewow.com/fashion/stores-like-hm",
+          "note": "#11: \"Fashion-forward staples with a sophisticated edge\""
+        }
+      ]
+    },
+    {
+      "name": "Reformation",
+      "slug": "reformation",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-h-m",
+          "note": "#2: \"simple, boho-inspired designs and their commitment towards sustainability\""
+        }
+      ]
+    },
+    {
+      "name": "Revolve",
+      "slug": "revolve",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.purewow.com/fashion/stores-like-hm",
+          "note": "#4: \"Large selection of high-end, high-profile brands\""
+        }
+      ]
+    },
+    {
+      "name": "Shenty",
+      "slug": "shenty",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.themodestman.com/brands-like-hm/",
+          "note": "#4: \"Launched in 2021\""
+        }
+      ]
+    },
+    {
+      "name": "Spell",
+      "slug": "spell",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/brands-youll-love-more-than-hm/",
+          "note": "#1: \"an Australian fashion brand inspired by far-off places, vintage treasures\""
+        }
+      ]
+    },
+    {
+      "name": "Storets",
+      "slug": "storets",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.purewow.com/fashion/stores-like-hm",
+          "note": "#15: \"the design philosophy emphasizes body positivity and female empowerment\""
+        }
+      ]
+    },
+    {
+      "name": "The Launch",
+      "slug": "the-launch",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.projectcece.com/blog/777/best-ethical-hm-alternatives/",
+          "note": "#5: a new collection monthly"
+        }
+      ]
+    },
+    {
+      "name": "Toad&Co",
+      "slug": "toad-co",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/brands-youll-love-more-than-hm/",
+          "note": "#11: \"a US brand working in a more socially and environmentally minded way\""
+        }
+      ]
+    },
+    {
+      "name": "Topshop",
+      "slug": "topshop",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-h-m",
+          "note": "#8: \"notable for both its jeans and its glam partywear\""
+        }
+      ]
+    },
+    {
+      "name": "Verishop",
+      "slug": "verishop",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.purewow.com/fashion/stores-like-hm",
+          "note": "#5: \"Large selection of designer apparel\""
+        }
+      ]
+    },
+    {
+      "name": "Yes And",
+      "slug": "yes-and",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/brands-youll-love-more-than-hm/",
+          "note": "#7: \"loved for its prints and comfortable jersey basics\""
+        }
+      ]
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "result": "75 related brands for H&M (brand id 502779c7-…). With outside evidence: Gap, American Eagle, Zara, Mango, Pixie Market (marked in_apart_pool). The other 70 (Primark, Gina Tricot, C&A, Reserved, New Look, Shein, Target, Kohl's and others) have no outside source on these SERPs, so they aren't candidates."
+  },
+  "picks": [
+    {
+      "slug": "forever-21",
+      "rank": 1,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 24.99,
+        "max": 24.99,
+        "min_usd": 24.99,
+        "max_usd": 24.99,
+        "fx_date": null,
+        "item_count": 6
+      },
+      "price_relation": null,
+      "reason": "LA label selling regular-price dresses at $24.99, sizes XS–XXL with a plus section, shipping free to US addresses over $50 with 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/companies-and-brands/2025/01/30/i-used-to-get-all-my-clothes-from-hm-but-these-10-retailers-are-better/",
+          "note": "\"Forever 21 is no longer just for women.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-h-m",
+          "note": "#4: \"Forever 21 is everything H&M is but amped up to another level.\""
+        }
+      ],
+      "gate_gaps": [],
+      "named_products": {
+        "source_url": "https://forever21.com/collections/women-dresses/products.json?limit=250",
+        "checked_at": "2026-10-29",
+        "items": [
+          {
+            "title": "Crochet Bow Cami Mini Dress",
+            "price": 24.99,
+            "currency": "USD"
+          },
+          {
+            "title": "Ribbed Knit Mock Neck Midi Dress",
+            "price": 24.99,
+            "currency": "USD"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "afends",
+      "rank": 2,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "AUD",
+        "min": 109.99,
+        "max": 159.99,
+        "min_usd": 77.35,
+        "max_usd": 112.52,
+        "fx_date": "2026-10-28",
+        "item_count": 44
+      },
+      "price_relation": null,
+      "reason": "Byron Bay organic-hemp label with dresses at A$109.99–A$159.99 (about $77–$113), sizes XXXS–XXL, free US shipping over $150 and 30-day refunds on full-price items.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.themodestman.com/brands-like-hm/",
+          "note": "#5: \"a leader in the hemp apparel movement\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/brands-youll-love-more-than-hm/",
+          "note": "#6: \"leading the way in hemp fashion\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ],
+      "named_products": {
+        "source_url": "https://afends.com/collections/womens-dresses/products.json?limit=250",
+        "checked_at": "2026-10-29",
+        "items": [
+          {
+            "title": "AFENDS Elodie - Seersucker Mini Dress",
+            "price": 109.99,
+            "currency": "AUD"
+          },
+          {
+            "title": "AFENDS Helena - Seersucker Maxi Dress",
+            "price": 139.99,
+            "currency": "AUD"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "kotn",
+      "rank": 3,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "CAD",
+        "min": 118.0,
+        "max": 158.0,
+        "min_usd": 84.01,
+        "max_usd": 112.48,
+        "fx_date": "2026-10-28",
+        "item_count": 8
+      },
+      "price_relation": null,
+      "reason": "Canadian brand making Egyptian-cotton dresses in the Nile Delta at CA$118–CA$158 (about $84–$112), covering duties on US orders, with free return labels.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://emmairenecavanagh.com/clothing-stores-like-hm/",
+          "note": "#3: \"A Canadian minimalist sustainable clothing store\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/brands-youll-love-more-than-hm/",
+          "note": "#2: \"Kotn makes stylish ready-to-wear clothing.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ],
+      "named_products": {
+        "source_url": "https://kotn.com/collections/womens-dresses/products.json?limit=250",
+        "checked_at": "2026-10-29",
+        "items": [
+          {
+            "title": "Women's Ghina V-Neck Dress",
+            "price": 118,
+            "currency": "CAD"
+          },
+          {
+            "title": "Women's Samira Wrap Dress",
+            "price": 128,
+            "currency": "CAD"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "frank-and-oak",
+      "rank": 4,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "CAD",
+        "min": 159.0,
+        "max": 165.0,
+        "min_usd": 113.2,
+        "max_usd": 117.47,
+        "fx_date": "2026-10-28",
+        "item_count": 2
+      },
+      "price_relation": null,
+      "reason": "Natural-fiber essentials label with two dresses at CA$159–CA$165 (about $113–$117), shipping to the US with free return shipping.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.purewow.com/fashion/stores-like-hm",
+          "note": "#7: \"Sustainable and eco-friendly fashion you can wear every day\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.themodestman.com/brands-like-hm/",
+          "note": "#6: \"modern and minimalist for the fashion-forward man\""
+        }
+      ],
+      "gate_gaps": [],
+      "named_products": {
+        "source_url": "https://frankandoak.com/collections/womens-dresses/products.json?limit=250",
+        "checked_at": "2026-10-29",
+        "items": [
+          {
+            "title": "City Dress",
+            "price": 159,
+            "currency": "CAD"
+          },
+          {
+            "title": "Polo Sweater Dress",
+            "price": 165,
+            "currency": "CAD"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "madewell",
+      "rank": 5,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 118,
+        "max": 168,
+        "min_usd": 118,
+        "max_usd": 168,
+        "fx_date": null,
+        "item_count": 14
+      },
+      "price_relation": null,
+      "reason": "Own-label dresses at $118–$168 with Petite, Tall and Plus (14W–24W) options across dresses, shipping to the US, Canada, UK and Australia, 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.purewow.com/fashion/stores-like-hm",
+          "note": "#16: \"Down-to-earth designs available in an inclusive range of sizes\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.themodestman.com/brands-like-hm/",
+          "note": "#13: \"laid-back apparel for men\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ],
+      "named_products": {
+        "source_url": "https://www.madewell.com/womens/clothing/dresses",
+        "checked_at": "2026-10-29",
+        "items": [
+          {
+            "title": "Rugby Polo Mini Dress",
+            "price": 118,
+            "currency": "USD"
+          },
+          {
+            "title": "The Chrissy Denim Mini Shirtdress",
+            "price": 138,
+            "currency": "USD"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "american-eagle",
+      "rank": 6,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "US mall brand selling casual knit and sweater dresses (list prices mostly $59.95–$89.95, most marked down), free US shipping over $75 and 60-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/companies-and-brands/2025/01/30/i-used-to-get-all-my-clothes-from-hm-but-these-10-retailers-are-better/",
+          "note": "\"some of the most comfortable stretch jeans\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.themodestman.com/brands-like-hm/",
+          "note": "#3: \"relaxed, stylish apparel\""
+        }
+      ],
+      "gate_gaps": [],
+      "price_note": "No regular-price dress range stored: on https://www.ae.com/us/en/c/women/dresses/cat1320034 (2026-10-29) 29 of 30 rendered listings were marked down 31% (header: 129 items). List prices shown: $59.95–$89.95 on AE styles (e.g. AE Cable Knit Sweater Mini Dress $74.95, AE High Neck Slip Mini Dress $89.95); AE77 Crinkle Lace Slip Cami Dress $148 at full price. Renders via sells_categories=dresses, without a price.",
+      "named_products": {
+        "source_url": "https://www.ae.com/us/en/c/women/dresses/cat1320034",
+        "checked_at": "2026-10-29",
+        "items": [
+          {
+            "title": "AE Cable Knit Sweater Mini Dress (list price)",
+            "price": 74.95,
+            "currency": "USD"
+          },
+          {
+            "title": "AE77 Crinkle Lace Slip Cami Dress",
+            "price": 148,
+            "currency": "USD"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "storets",
+      "rank": 7,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 34.9,
+        "max": 128.9,
+        "min_usd": 34.9,
+        "max_usd": 128.9,
+        "fx_date": null,
+        "item_count": 24
+      },
+      "price_relation": null,
+      "reason": "Own-design dresses at $34.90–$128.90 shipped by DHL from South Korea with US duties paid, sizes S–L including S/M and M/L, free shipping over $200.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.purewow.com/fashion/stores-like-hm",
+          "note": "#15: \"the design philosophy emphasizes body positivity and female empowerment\""
+        }
+      ],
+      "gate_gaps": [],
+      "named_products": {
+        "source_url": "https://storets.com/collections/dresses/products.json?limit=250",
+        "checked_at": "2026-10-29",
+        "items": [
+          {
+            "title": "Alena Knitted Tube Dress",
+            "price": 34.9,
+            "currency": "USD"
+          },
+          {
+            "title": "Lena Striped Shirt Dress",
+            "price": 75.9,
+            "currency": "USD"
+          },
+          {
+            "title": "Luna Tailored Blazer Dress",
+            "price": 128.9,
+            "currency": "USD"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "everlane",
+      "rank": 8,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 58.0,
+        "max": 198.0,
+        "min_usd": 58.0,
+        "max_usd": 198.0,
+        "fx_date": null,
+        "item_count": 26
+      },
+      "price_relation": null,
+      "reason": "Dresses at $58–$198 from audited factories with published costs, sizes XXS–XXXL and 00–16, shipping to the US, Canada, UK and Australia, 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://emmairenecavanagh.com/clothing-stores-like-hm/",
+          "note": "#4: \"Easily my favourite out of this list.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ],
+      "named_products": {
+        "source_url": "https://everlane.com/collections/womens-dresses/products.json?limit=250",
+        "checked_at": "2026-10-29",
+        "items": [
+          {
+            "title": "Weekend Tee Midi Dress",
+            "price": 58,
+            "currency": "USD"
+          },
+          {
+            "title": "Cashmere Polo Midi Dress",
+            "price": 198,
+            "currency": "USD"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "abercrombie-fitch",
+      "rank": 9,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 70,
+        "max": 200,
+        "min_usd": 70,
+        "max_usd": 200,
+        "fx_date": null,
+        "item_count": 86
+      },
+      "price_relation": null,
+      "reason": "Dresses at $70–$200, from YPB activewear minis to cotton lace midis, free shipping over $99 to the US and Canada.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://247wallst.com/companies-and-brands/2025/01/30/i-used-to-get-all-my-clothes-from-hm-but-these-10-retailers-are-better/",
+          "note": "\"apparel that is objectively better quality than H&M\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ],
+      "named_products": {
+        "source_url": "https://www.abercrombie.com/shop/us/womens-dresses-and-jumpsuits",
+        "checked_at": "2026-10-29",
+        "items": [
+          {
+            "title": "100% Cotton Lace-Trim Slash Midi Dress",
+            "price": 200,
+            "currency": "USD"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "oak-fort",
+      "rank": 10,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 78.0,
+        "max": 168.0,
+        "min_usd": 78.0,
+        "max_usd": 168.0,
+        "fx_date": null,
+        "item_count": 8
+      },
+      "price_relation": null,
+      "reason": "Vancouver-founded label with dresses at $78–$168 on its US store, sizes XXS–XL and 0–12, free US shipping over $100, 21-day returns on full-price items.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.purewow.com/fashion/stores-like-hm",
+          "note": "#9: \"Streamlined, modern silhouettes and fashion-forward basics\""
+        }
+      ],
+      "gate_gaps": [],
+      "named_products": {
+        "source_url": "https://oakandfort.com/collections/dresses/products.json?limit=250",
+        "checked_at": "2026-10-29",
+        "items": [
+          {
+            "title": "Off Shoulder Open Back Mini Dress",
+            "price": 78,
+            "currency": "USD"
+          },
+          {
+            "title": "Maxi Dress With Tassel Slit Detail",
+            "price": 168,
+            "currency": "USD"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "pixie-market",
+      "rank": 11,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 82.0,
+        "max": 199.0,
+        "min_usd": 82.0,
+        "max_usd": 199.0,
+        "fx_date": null,
+        "item_count": 11
+      },
+      "price_relation": null,
+      "reason": "NYC shop selling its own PM label, dresses at $82–$199 in XS–L, free US shipping over $100, 20-day returns on full-price items.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.purewow.com/fashion/stores-like-hm",
+          "note": "#11: \"Fashion-forward staples with a sophisticated edge\""
+        }
+      ],
+      "gate_gaps": [],
+      "named_products": {
+        "source_url": "https://pixiemarket.com/collections/dresses/products.json?limit=250",
+        "checked_at": "2026-10-29",
+        "items": [
+          {
+            "title": "Plaid Lace Trim Dress",
+            "price": 82,
+            "currency": "USD"
+          },
+          {
+            "title": "Attica Linen Gold Cuff Dress",
+            "price": 199,
+            "currency": "USD"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "toad-co",
+      "rank": 12,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 92,
+        "max": 188,
+        "min_usd": 92,
+        "max_usd": 188,
+        "fx_date": null,
+        "item_count": 31
+      },
+      "price_relation": null,
+      "reason": "California B Corp working in organic cotton, hemp and TENCEL, dresses at $92–$188 in XS–XL, free shipping over $150 and 90-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/brands-youll-love-more-than-hm/",
+          "note": "#11: \"a US brand working in a more socially and environmentally minded way\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ],
+      "named_products": {
+        "source_url": "https://www.toadandco.com/collections/womens-dresses/products.json?limit=250",
+        "checked_at": "2026-10-29",
+        "items": [
+          {
+            "title": "Rosemarie Dress",
+            "price": 92,
+            "currency": "USD"
+          },
+          {
+            "title": "Alpineglo Sweater Dress",
+            "price": 188,
+            "currency": "USD"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "j-crew",
+      "rank": 13,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 148,
+        "max": 298,
+        "min_usd": 148,
+        "max_usd": 298,
+        "fx_date": null,
+        "item_count": 38
+      },
+      "price_relation": null,
+      "reason": "Classic dresses in tweed, wool blends and cupro at $148–$298, US shipping $7 standard, 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.themodestman.com/brands-like-hm/",
+          "note": "#7: \"a prime destination for quality apparel that offers a timeless appeal\""
+        }
+      ],
+      "gate_gaps": [],
+      "named_products": {
+        "source_url": "https://www.jcrew.com/plp/womens/categories/clothing/dresses-and-jumpsuits",
+        "checked_at": "2026-10-29",
+        "items": [
+          {
+            "title": "Gwyneth slip dress in cupro blend",
+            "price": 148,
+            "currency": "USD"
+          },
+          {
+            "title": "Parc dress in four-season stretch",
+            "price": 198,
+            "currency": "USD"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "spell",
+      "rank": 14,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 230.0,
+        "max": 399.0,
+        "min_usd": 230.0,
+        "max_usd": 399.0,
+        "fx_date": null,
+        "item_count": 34
+      },
+      "price_relation": null,
+      "reason": "Byron Bay boho label with a USD store selling lace and bias-cut dresses at $230–$399, sizes XXS–3XL, free US shipping over $150.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/brands-youll-love-more-than-hm/",
+          "note": "#1: \"an Australian fashion brand inspired by far-off places, vintage treasures\""
+        }
+      ],
+      "gate_gaps": [],
+      "named_products": {
+        "source_url": "https://usa.spell.co/collections/dresses/products.json?limit=250",
+        "checked_at": "2026-10-29",
+        "items": [
+          {
+            "title": "Frances Mini Dress",
+            "price": 230,
+            "currency": "USD"
+          },
+          {
+            "title": "Viola Gown",
+            "price": 330,
+            "currency": "USD"
+          }
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "asos",
+      "why": "marketplace (enrich.md §1 drops marketplaces). 4 sources."
+    },
+    {
+      "slug": "uniqlo",
+      "why": "unverified: uniqlo.com dress URL 404 to WebFetch, HTTP/2 stream error to a plain request (2026-10-29); earlier run got 503. Fast Retailing's page gives only a North America store total (106), no US figure or dresses. 3 sources: human-check queue."
+    },
+    {
+      "slug": "mango",
+      "why": "unverified: shop.mango.com 403 (WebFetch and plain request, 2026-10-29). mangofashiongroup.com doesn't mention the US. 3 sources + Apart pool: human-check queue."
+    },
+    {
+      "slug": "cos",
+      "why": "unverified: cos.com/en-us 403. H&M Group sister brand; hmgroup.com gives no country breakdown. 3 sources: human-check queue."
+    },
+    {
+      "slug": "other-stories",
+      "why": "unverified: stories.com/en-us 403. H&M Group sister brand. 3 sources: human-check queue."
+    },
+    {
+      "slug": "urban-outfitters",
+      "why": "unverified: urbanoutfitters.com 403 (other run, 2026-10-29); urbn.com doesn't say what it sells. Multi-brand retailer. 3 sources: human-check queue."
+    },
+    {
+      "slug": "zara",
+      "why": "unverified: zara.com 403 (2026-10-29); inditex.com Zara page has no product or US facts. 2 sources + Apart pool: human-check queue."
+    },
+    {
+      "slug": "express",
+      "why": "unverified: dresses page serves only the title (product grid client-rendered, no readable prices). 2 sources."
+    },
+    {
+      "slug": "nasty-gal",
+      "why": "off_category: nastygal.com is a 'coming back' placeholder selling nothing (other run, 2026-10-29). 2 sources."
+    },
+    {
+      "slug": "honest-basics",
+      "why": "off_category: catalog has no dresses (other run, 2026-10-29). 2 sources."
+    },
+    {
+      "slug": "gap",
+      "why": "unverified: dresses grid client-rendered ('0 of 0 items'), no readable prices. 1 source + Apart pool."
+    },
+    {
+      "slug": "free-people",
+      "why": "unverified: freepeople.com 403 (other run). 1 source."
+    },
+    {
+      "slug": "reformation",
+      "why": "unverified: thereformation.com 403 (other run). 1 source."
+    },
+    {
+      "slug": "arket",
+      "why": "unverified: arket.com/en-us 403 (2026-10-29). H&M Group sister brand; US availability not confirmed. 1 source."
+    },
+    {
+      "slug": "topshop",
+      "why": "no own US store: redirects to ASOS (other run). 1 source."
+    },
+    {
+      "slug": "miss-selfridge",
+      "why": "no own store: redirects to ASOS (other run). 1 source."
+    },
+    {
+      "slug": "revolve",
+      "why": "multi-brand retailer; dress prices not read (its listing pages render too few products; other run). 1 source. Not checked for dresses this run."
+    },
+    {
+      "slug": "lucky-brand",
+      "why": "verified (other run) but known for jeans, all on sale; dresses not checked (/womens/dresses 404). 1 source."
+    },
+    {
+      "slug": "macys",
+      "why": "department store, 403 to WebFetch on the TJ Maxx run. 1 source."
+    },
+    {
+      "slug": "verishop",
+      "why": "multi-brand designer marketplace; not checked (cap). 1 source."
+    },
+    {
+      "slug": "banana-republic",
+      "why": "not verified: guessed dresses URL 404, not retried (cap). 1 source (menswear list)."
+    },
+    {
+      "slug": "artknit-studios",
+      "why": "menswear knitwear; no dresses. Not checked. 1 source (menswear list)."
+    },
+    {
+      "slug": "shenty",
+      "why": "menswear; not checked. 1 source (menswear list)."
+    },
+    {
+      "slug": "able",
+      "why": "not verified: /collections/dresses/products.json returned no products; not retried (cap). 1 source."
+    },
+    {
+      "slug": "yes-and",
+      "why": "not verified: agent proxy refused the host. 1 source."
+    },
+    {
+      "slug": "known-supply",
+      "why": "not checked (cap); basics brand. 1 source."
+    },
+    {
+      "slug": "omnes",
+      "why": "not checked (cap); UK brand. 1 source."
+    },
+    {
+      "slug": "chnge",
+      "why": "not checked (cap); graphic basics. 1 source."
+    },
+    {
+      "slug": "frankie",
+      "why": "not checked (cap). 1 source."
+    },
+    {
+      "slug": "mon-col-anvers",
+      "why": "not checked (cap). 1 source."
+    },
+    {
+      "slug": "komodo",
+      "why": "not checked (cap). 1 source."
+    },
+    {
+      "slug": "the-launch",
+      "why": "not checked (cap). 1 source."
+    },
+    {
+      "slug": "alohas",
+      "why": "mostly shoes, not dresses. 1 source."
+    },
+    {
+      "slug": "kaly-ora",
+      "why": "swimwear, not dresses. 1 source."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "anchor status / website_url",
+      "url": "https://www2.hm.com/en_us/index.html",
+      "check": "403 to WebFetch and to a plain request with the StylodexBot UA (2026-10-29), one try each. Open the US store; confirm it's live and selling women's dresses."
+    },
+    {
+      "fact": "anchor price range for dresses (USD)",
+      "url": "https://www2.hm.com/en_us/women/products/dresses.html",
+      "check": "Record min/max regular (non-sale) dress prices and item count. This unlocks cheaper/similar/pricier labels for all 14 picks (all null now)."
+    },
+    {
+      "fact": "anchor size_range, has_plus/petite/tall",
+      "url": "https://www2.hm.com/en_us/customer-service/sizeguide.html",
+      "check": "Women's dress size range and Plus / Petite / Tall availability."
+    },
+    {
+      "fact": "anchor ships_to, free_shipping_min_usd, returns_days, us_stores",
+      "url": "https://www2.hm.com/en_us/customer-service/shipping-and-delivery.html",
+      "check": "US shipping and returns terms; store locator for US stores. hmgroup.com gives only regional totals (North & South America 761 stores, 31 Aug 2026)."
+    },
+    {
+      "fact": "anchor known_for",
+      "url": "https://hmgroup.com/brands/hm/",
+      "check": "H&M Group's business idea is 'fashion and quality at the best price in a sustainable way'. Choose a ≤6-word Title Case known_for (e.g. 'Fashion and Quality at the Best Price' is 7 words)."
+    },
+    {
+      "fact": "pick check: Mango, Uniqlo, COS, & Other Stories, Urban Outfitters (3 sources each), Zara (2)",
+      "url": "https://shop.mango.com/us",
+      "check": "All refuse reads. These are the most-recommended H&M alternatives; each verified one would join or replace the single-source picks (Spell, J.Crew, Toad&Co first to go). Need: live, regular dress price range, sizes, US shipping, returns."
+    },
+    {
+      "fact": "evidence quality: I AM & CO",
+      "url": "https://iamandco.com/blogs/articles/stores-like-h-m",
+      "check": "A stationery/gift shop's blog with no author or date (doesn't list itself). Sole source for none of the picks, second source for Forever 21. Confirm it counts."
+    },
+    {
+      "fact": "evidence: Popsugar list",
+      "url": "https://www.popsugar.com/fashion/stores-like-h-m-49129245",
+      "check": "WebFetch can't fetch popsugar.com. Read the 8 stores and add each as serp_comention evidence."
+    },
+    {
+      "fact": "evidence: Reddit threads",
+      "url": "https://www.reddit.com/r/malefashionadvice/comments/1g0kj5b/any_good_places_to_shop_instead_of_zara_and_hm/",
+      "check": "Unfetchable. Read this and /r/malefashionadvice/comments/1pyg1ao/; add brands recommended as H&M alternatives as kind=reddit."
+    },
+    {
+      "fact": "Everlane free_shipping_min_usd",
+      "url": "https://everlane.com",
+      "check": "Brand file stores 75 but its own note says no free-shipping threshold is stated. Not used in copy; correct the field."
+    },
+    {
+      "fact": "American Eagle price",
+      "url": "https://www.ae.com/us/en/c/women/dresses/cat1320034",
+      "check": "Almost every dress was marked down. Re-read after the sale for a regular-price range; renders without a price meanwhile."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": {
+    "source": "ECB reference rates",
+    "fx_date": "2026-10-28",
+    "note": "Kotn and Frank And Oak (CAD) and Afends (AUD) conversions are from their brand files (ECB 2026-10-28): CAD→USD 0.71195, AUD→USD 0.70327. Copy rounds to whole dollars."
+  },
+  "notes": [
+    "14 picks pass enrich.md §3 (verified, sells dresses, ships to the US, ≥1 outside source, one checkable reason). Target 10–15; not padded.",
+    "Ranking: by independent sources (6 picks with 2, 8 with 1). H&M's own prices couldn't be read, so 'closeness of price range' can't be computed; ties are ordered by lowest regular dress price (American Eagle, with no regular range, last in its group).",
+    "The page FAILS lib/gate.ts on the anchor: H&M's store refuses reads (403), so it is unverified with no price, sizes, shipping, returns or image. Every price_relation is null for that reason.",
+    "Evidence: 7 readable editorial pages (PureWow, 24/7 Wall St., I AM & CO, Emma Irene Cavanagh, The Modest Man, Project Cece, Good On You). Popsugar couldn't be fetched; Reddit, Quora, Instagram, TikTok, YouTube and off-topic pages dropped.",
+    "The strongest-sourced alternatives (Mango, Uniqlo, COS, & Other Stories, Urban Outfitters, Zara, ASOS) are all missing: bot walls or marketplace. The picks lean towards smaller online brands as a result; see human_check.",
+    "New brand files this run: toad-co (verified), arket (unverified). Merged: j-crew dresses price, american-eagle sells_categories=dresses."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "You've worn your favorite H&M dress to death and want somewhere new to shop. Maybe price is the draw. Maybe you'd pay a bit more for natural fibers or a longer return window. These are the stores fashion writers keep naming next to H&M, each with its regular dress prices, sizes and US shipping. The most often recommended come first, cheapest first within them.",
+    "bodies": {
+      "forever-21": "Forever 21 is the pick when price is the whole point. Its full-price dresses sit at $24.99, like the Crochet Bow Cami Mini Dress ($24.99) and the Ribbed Knit Mock Neck Midi Dress ($24.99).\n\nIt's an LA label that closed its US stores in 2025 and came back as an online shop, so you can't try anything on first. Most of the dress range carries a markdown too, which pushes prices lower still. But read the tag before you buy: clearance and final-sale pieces can't be returned, and other returns cost $9.99 within 30 days.\n\nSizes run XS to XXL, with a separate plus section, and shipping is free over $50 to US addresses. If you'd pay a little more for tailored pieces, Storets starts at $34.90.",
+      "afends": "Afends is the one to try if you want dresses in natural fibers. It's a Byron Bay label known for organic hemp, and its dresses run from A$109.99 to A$159.99 (about $77 to $113). The seersucker styles are the place to start, like the Elodie Seersucker Mini Dress (A$109.99, about $77) or the longer Helena Seersucker Maxi Dress (A$139.99, about $98).\n\nSizes go from XXXS to XXL, and its XS to XL line up with US 2 to 10, which takes some guesswork out of ordering from Australia.\n\nThe catch is the trip. US shipping is free over $150, otherwise it's $17.50, and standard delivery takes 12 business days or more. Only full-price pieces get a refund, within 30 days. If you want hemp from a US label with a longer return window, Toad&Co gives you 90 days.",
+      "kotn": "Kotn is our pick for simple cotton dresses with a clear story behind them. It's designed in Canada and made from Egyptian cotton in the Nile Delta, and its dresses run CA$118 to CA$158 (about $84 to $112). The Ghina V-Neck Dress (CA$118, about $84) is the easy starting point, and the Samira Wrap Dress (CA$128, about $91) is the dressier one.\n\nKotn pays the duties on US orders, so there's no surprise fee at the door. Return labels are free, but the refund window is short: 15 days, or 30 if you take an exchange or store credit.\n\nSizes stop at XL, and sale pieces are final. If you need a wider size range at a similar price, Everlane goes from XXS to XXXL.",
+      "frank-and-oak": "Frank And Oak suits you if you want one good dress, not a rail to dig through. The range is tiny, just the City Dress (CA$159, about $113) and the Polo Sweater Dress (CA$165, about $117), so it's a quick visit.\n\nIts focus now is craftsmanship, natural fibers and dependable essentials. Prices are in Canadian dollars, so convert before you compare with US stores. Return shipping is free to the US, but you only get 15 days to ask for a label.\n\nAnything bought during a sale event is final, so if you're unsure of the fit, buy at full price. Want more choice in the same price band? Madewell's dresses run $118 to $168.",
+      "madewell": "Madewell is the best bet here if you need petite, tall or plus sizes. It offers all three across its dresses, with plus going from 14W to 24W, and its own dresses run $118 to $168. The Rugby Polo Mini Dress ($118) is the cheapest way in, and The Chrissy Denim Mini Shirtdress ($138) leans on what the brand is best known for, denim.\n\nIt's J.Crew's sister brand. The dress page also carries outside labels at much higher prices, so check the name on the tile before you add to bag.\n\nShipping costs $5 or $7 unless you join its free Insider program. Returns are 30 days, with a free exchange label in the US. For a dressier step up from the same family, J.Crew's dresses start at $148.",
+      "american-eagle": "American Eagle is where to look for casual sweater and knit mini dresses with a long return window. Most styles list between $59.95 and $89.95, like the AE Cable Knit Sweater Mini Dress ($74.95), and the AE77 line goes higher, with the Crinkle Lace Slip Cami Dress at $148.\n\nHere's the useful part. Most of the dress range carries a markdown, so the list price is often not what you pay, and it's worth checking the sale price before you compare it with anything else here.\n\nReturns run 60 days, second only to Toad&Co's on this list, and US shipping is free over $75. Online returns cost $5. If you want the same casual look for less, Forever 21's dresses are $24.99.",
+      "storets": "Storets is the middle ground between Forever 21's prices and the pricier picks, with dresses from $34.90 to $128.90. The Alena Knitted Tube Dress ($34.90) is the cheap basic, the Lena Striped Shirt Dress ($75.90) sits in the middle, and the Luna Tailored Blazer Dress ($128.90) is the kind of tailored piece the brand does best.\n\nIt designs most of what it sells in-house and ships from South Korea by DHL Express. Storets pays the US duties and taxes, which keeps the total predictable. Shipping starts at $14.99 and is free over $200.\n\nSizing is the thing to know. Many pieces come in S/M and M/L instead of single sizes, and the range stops at L. Returns have to be requested within 14 days, you pay the postage, and there are no direct exchanges.",
+      "everlane": "Everlane is the pick if you want to know what you're paying for. It publishes the cost of materials, labor and transport behind its products, and its dresses run $58 to $198. The Weekend Tee Midi Dress ($58) is the everyday option, and the Cashmere Polo Midi Dress ($198) sits at the top.\n\nSizes are wide, XXS to XXXL and 00 to 16, so it fits more people than Kotn or Pixie Market. Returns are 30 days, with a $7 label fee by mail, but free in its own stores.\n\nOne thing to know if ethics is why you're leaving H&M: Shein agreed to buy Everlane in May 2026. If that's a deal-breaker, Toad&Co is a certified B Corporation.",
+      "abercrombie-fitch": "Abercrombie & Fitch covers sporty and dressy in one place, with dresses from $70 to $200. The cheapest ones on its dress page come from YPB, its activewear line, with mini dresses at $70 to $85. For something to wear out, the 100% Cotton Lace-Trim Slash Midi Dress ($200) sits at the top.\n\nIt's an Ohio company that's been around since 1892. It ships to the US and Canada, and shipping is free over $99, which one top-end dress clears on its own.\n\nThe dress page mixes in jumpsuits, so filter if you only want dresses. If you want a similar price band with petite and tall options, Madewell is the closer match.",
+      "oak-fort": "Oak + Fort is the pick for modern, pared-back dresses at mid prices, $78 to $168. The Off Shoulder Open Back Mini Dress ($78) is the cheapest way in, and the Maxi Dress With Tassel Slit Detail ($168) is the statement piece.\n\nIt started with a studio in Vancouver and is woman founded and led, but its US store charges in dollars, so there's nothing to convert. US shipping is free over $100, otherwise it's $7.99.\n\nThe rule to remember is the 20% line. Anything bought at 20% off or more is final sale, while full-price pieces can come back within 21 days (you pay the postage). So if you're unsure of the size, skip the deep discounts. Sizes run XXS to XL and 0 to 12.",
+      "pixie-market": "Pixie Market is the one for dressier linen and satin pieces, from $82 to $199. The Plaid Lace Trim Dress ($82) is the cheapest, and the Attica Linen Gold Cuff Dress ($199), one of its bestsellers, is where the linen styles top out.\n\nIt's a New York shop, open since 2006, selling its own PM label alongside a few sister labels.\n\nSize up if you're unsure. Pixie Market's own advice is that most pieces run small unless they're described as oversized, and sizes stop at L. Full-price items can come back within 20 days, with an $8 fee if you use its label. US shipping is free over $100, otherwise $7.95. If you need a bigger size range, Everlane goes to XXXL.",
+      "toad-co": "Toad&Co is the pick for sustainable dresses with the most forgiving returns on this list. You get 90 days to send something back, and its dresses run $92 to $188. The Rosemarie Dress ($92) is the cheapest, and the Alpineglo Sweater Dress ($188) is the cold-weather one.\n\nIt's a California brand, around since 1996, and a certified B Corporation that works in organic cotton, hemp and TENCEL Lyocell. Shipping is free over $150.\n\nRefunds carry a $7 handling fee, but exchanges and store credit don't, and final-sale pieces can't come back. Sizes run XS to XL. If you want natural fibers with more seersucker and maxi styles, Afends is the Australian alternative.",
+      "j-crew": "J.Crew is the pick for classic dresses in tweed, wool blends and slip styles, from $148 to $298. The Gwyneth slip dress in cupro blend ($148) is the entry point, and the Parc dress in four-season stretch ($198) comes in several prints, from plaid to houndstooth.\n\nIt's Madewell's sister brand, and Madewell is the cheaper side of the family at $118 to $168. Standard shipping is $7, or free for J.Crew Rewards members, and returns are 30 days, with $7.50 taken off if you use the prepaid label.\n\nIt's the priciest pick here after Spell, so it makes most sense for one dress you'll wear a lot rather than a haul.",
+      "spell": "Spell is the splurge on this list, for lace and boho dresses you'd save for an occasion. Its dresses run $230 to $399 on the US store, like the Frances Mini Dress ($230) or the Viola Gown ($330).\n\nIt's a Byron Bay label with a separate US shop that charges in dollars, so there's nothing to convert. Shipping is free over $150, which every dress clears, and full-price styles can be returned within 30 days. Sale styles get store credit only, so buy those only if you're sure.\n\nSizes go from XXS to 3XL, wider than most picks here. If you want a Byron Bay label for less, Afends costs about a third as much."
+    },
+    "best_for": {
+      "forever-21": "full-price dresses for under $25, delivered anywhere in the US",
+      "afends": "natural-fiber dresses in a very wide size range",
+      "kotn": "simple Egyptian cotton dresses with US duties covered",
+      "frank-and-oak": "one natural-fiber dress without digging through a big range",
+      "madewell": "petite, tall and plus sizes in one dress range",
+      "american-eagle": "casual knit minis with a 60-day return window",
+      "storets": "tailored mini dresses with US duties already paid",
+      "everlane": "knowing what your dress cost to make",
+      "abercrombie-fitch": "sporty and dressy dresses from the same store",
+      "oak-fort": "modern mid-price dresses, bought at full price",
+      "pixie-market": "linen and satin dresses, if you size up",
+      "toad-co": "sustainable dresses with 90 days to change your mind",
+      "j-crew": "one classic tweed or wool dress for work",
+      "spell": "a lace dress or gown for a special occasion"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with budget. Under $40, it's Forever 21 or the cheaper end of Storets. Most picks sit between $60 and $200, and that's where Everlane, Oak + Fort and Madewell give you the most choice. J.Crew and Spell are for one dress you'll wear a lot.\n\nThen think about fit. Madewell is the one for petite, tall and plus, and Everlane and Spell have the widest size runs. Pixie Market only works if you're happy to size up.\n\nIf you're leaving H&M for sustainability, compare Toad&Co and Afends first. Toad&Co's 90-day returns make it the safest first order, and Kotn is the pick if you just want plain cotton."
+    },
+    "faqs": [
+      {
+        "q": "What does H&M stand for?",
+        "a": "Hennes & Mauritz. The company's full name is H & M Hennes & Mauritz AB, and its first shop, opened in Sweden in 1947, was simply called Hennes.",
+        "source_query": "what does h&m stand for"
+      },
+      {
+        "q": "Who owns H&M?",
+        "a": "H & M Hennes & Mauritz AB, the Swedish H&M Group. The same group owns COS, & Other Stories, ARKET and Weekday, so those brands are H&M's sister labels.",
+        "source_query": "who owns h&m"
+      },
+      {
+        "q": "Where is H&M from?",
+        "a": "Sweden. H&M opened its first shop in Västerås in 1947 and is headquartered in Stockholm. Its first US store opened on Fifth Avenue in New York in 2000.",
+        "source_query": "where is h&m from"
+      }
+    ]
+  }
+}
