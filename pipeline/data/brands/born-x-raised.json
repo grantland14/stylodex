@@ -1,0 +1,60 @@
+{
+  "slug": "born-x-raised",
+  "name": "Born x Raised",
+  "website_url": "https://bornxraised.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": null,
+  "hq_country": "US",
+  "founded_year": 2013,
+  "parent_company": null,
+  "size_range": "S–3XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 0,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 120.0,
+      "max": 200.0,
+      "min_usd": 120.0,
+      "max_usd": 200.0,
+      "fx_date": null,
+      "item_count": 56,
+      "source_url": "https://bornxraised.com/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "56 regular-price in-stock hoodies and zip hoodies read from the US-market feed (localization=US, country=US; 323 products read, 0 marked down and 5 sold out excluded; kids, crewnecks, knits/sweaters, cashmere, jackets, sets excluded). Low $120: BORN X RAISED + DIABLOS DIABLITO HOODIE: BLACK; high $200: LLORONA ZIP-UP HOODIE: VINTAGE BLACK; median $140. Regular = no variant with compare_at_price above price and no sale/markdown tag ('Final Sale' tags without a markdown count as regular). Most are $140, including 27 NFL team Crest Hoodies."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://bornxraised.com/",
+    "https://bornxraised.com/meta.json",
+    "https://bornxraised.com/products.json?limit=250&country=US",
+    "https://bornxraised.com/policies/shipping-policy",
+    "https://bornxraised.com/policies/refund-policy"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "Meta: 'The official store for BORNXRAISED. Since 2013.' meta.json: shop address Los Angeles, California, US; ships_to_countries 234 incl. US, CA, GB, AU; shipping policy mentions international orders (duties billed on arrival).",
+    "Refund policy: 'All sales are final, no refunds or exchanges are accepted', except damages or production errors within 14 days. returns_days 0.",
+    "Shipping policy: USPS Priority Mail for domestic orders, 3–7 business days once fulfilled; no free-shipping threshold stated.",
+    "Hoodies: 56 regular-price, $120–$200, most at $140, including NFL team Crest Hoodies ($140) and MLB Moneyball Hoodies ($180) under licence, Embroidered Jumbo Script Hoodie $160, Llorona Zip-Up Hoodie $200. Sizes S–3XL. No about page to give positioning, so known_for left empty."
+  ],
+  "sells_categories": [
+    "hoodies"
+  ]
+}

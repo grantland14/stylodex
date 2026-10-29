@@ -1,0 +1,65 @@
+{
+  "slug": "only-ny",
+  "name": "Only NY",
+  "website_url": "https://onlyny.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "New York City Apparel and Goods",
+  "hq_country": "US",
+  "founded_year": 2007,
+  "parent_company": null,
+  "size_range": "S–XXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 104.0,
+      "max": 118.0,
+      "min_usd": 104.0,
+      "max_usd": 118.0,
+      "fx_date": null,
+      "item_count": 9,
+      "source_url": "https://onlyny.com/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "9 regular-price in-stock hoodies and zip hoodies read from the US-market feed (localization=US, country=US; 178 products read, 0 marked down and 0 sold out excluded; kids, crewnecks, knits/sweaters, cashmere, jackets, sets excluded). Low $104: Block Logo Hoodie; high $118: MTA 24 Hour Service Zip Hoodie; median $104. Regular = no variant with compare_at_price above price and no sale/markdown tag ('Final Sale' tags without a markdown count as regular). Midweight 9.5 oz fleece, made in Peru."
+    }
+  ],
+  "materials": [
+    "100% cotton midweight fleece"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://onlyny.com/",
+    "https://onlyny.com/meta.json",
+    "https://onlyny.com/products.json?limit=250&country=US",
+    "https://onlyny.com/pages/about-us",
+    "https://onlyny.com/pages/locations",
+    "https://onlyny.com/pages/shipping-and-returns",
+    "https://onlyny.com/policies/refund-policy",
+    "https://onlyny.com/policies/shipping-policy"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "About: 'Only NY is an independent New York City-based brand driven by the city, outdoors, and arts. Founded in 2007'; city licenses and collaborations with cultural institutions.",
+    "Locations: Lower East Side flagship (opened Nov 2012) and a Greenpoint store (opened Fall 2026). us_stores true.",
+    "Shipping: orders ship from Austin, Texas; international via Global-E; 'currently unable to ship to Europe'. meta.json ships_to_countries 153 incl. US, CA, AU, not GB.",
+    "Returns: eligible items returned or exchanged within 30 days of delivery; customer pays return shipping; sale items final.",
+    "Hoodies: Block Logo Hoodie $104 ('100% cotton, 9.5 oz, midweight brushed back fleece... Made in Peru'), MTA Heritage Logo Hoodie $108 (MTA licence), zip hoodies $114–$118. Sizes S–XXL."
+  ],
+  "sells_categories": [
+    "hoodies"
+  ]
+}

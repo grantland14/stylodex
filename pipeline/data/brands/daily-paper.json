@@ -1,0 +1,62 @@
+{
+  "slug": "daily-paper",
+  "name": "Daily Paper",
+  "website_url": "https://dailypaperclothing.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "African Heritage in Contemporary Fashion",
+  "hq_country": "NL",
+  "founded_year": 2012,
+  "parent_company": null,
+  "size_range": "XS–XXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "AU"
+  ],
+  "free_shipping_min_usd": 500,
+  "returns_days": 14,
+  "us_stores": false,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 135.0,
+      "max": 225.0,
+      "min_usd": 135.0,
+      "max_usd": 225.0,
+      "fx_date": null,
+      "item_count": 30,
+      "source_url": "https://dailypaperclothing.com/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "30 regular-price in-stock hoodies and zip hoodies read from the US-market feed (localization=US, country=US; 292 products read, 0 marked down and 0 sold out excluded; kids, crewnecks, knits/sweaters, cashmere, jackets, sets excluded). Low $135: Black Alias Dias Hoodie; high $225: Olive Green Dias Sherpa Hoodie; median $163. Regular = no variant with compare_at_price above price and no sale/markdown tag ('Final Sale' tags without a markdown count as regular). Prices are the US storefront's USD prices."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://dailypaperclothing.com/",
+    "https://dailypaperclothing.com/meta.json",
+    "https://dailypaperclothing.com/products.json?limit=250&country=US",
+    "https://dailypaperclothing.com/pages/about-us",
+    "https://dailypaperclothing.com/pages/flagship-stores",
+    "https://dailypaperclothing.com/pages/shipping",
+    "https://dailypaperclothing.com/policies/refund-policy"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "About: 'Daily Paper is an Amsterdam-based fashion and lifestyle brand established in 2012 by three childhood friends'; 'Fueled by the rich heritage of African culture wrapped in contemporary designs'; two collections a year, men's and women's.",
+    "Flagship stores page lists Amsterdam (Leidsestraat 27) only, so us_stores false.",
+    "Shipping page: 'Deliveries in United States', 9–12 working days, '$25,00 (Free over $500)'; import duties may apply on international orders. meta.json: shop Amsterdam, NL; ships_to_countries 208 incl. US, CA, AU (GB not listed). US storefront prices in USD (Shopify.currency rate 1.13526; og:price:currency USD).",
+    "Refund policy: returns within 14 days of receipt.",
+    "Hoodies: Black Dias Hoodie $150 ('heavy cotton fabric with a soft brushed inside... relaxed silhouette'), Arch Contrast Stitched Hoodie $150 (cotton French terry), Chess Forum Hoodie $163–$165, zip hoodies up to $225 (Dias Sherpa, washed Alias Dias Zip). Sizes XS–XXL."
+  ],
+  "sells_categories": [
+    "hoodies"
+  ]
+}

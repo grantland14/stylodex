@@ -1,0 +1,59 @@
+{
+  "slug": "aime-leon-dore",
+  "name": "Aimé Leon Dore",
+  "website_url": "https://www.aimeleondore.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Timeless New York Menswear",
+  "hq_country": "US",
+  "founded_year": 2014,
+  "parent_company": null,
+  "size_range": "XS–XXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 10,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 190.0,
+      "max": 300.0,
+      "min_usd": 190.0,
+      "max_usd": 300.0,
+      "fx_date": null,
+      "item_count": 38,
+      "source_url": "https://www.aimeleondore.com/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "38 regular-price in-stock hoodies and zip hoodies read from the US-market feed (localization=US, country=US; 970 products read, 0 marked down and 0 sold out excluded; kids, crewnecks, knits/sweaters, cashmere, jackets, sets excluded). Low $190: Embroidered Logo Hoodie; high $300: Crest Fleece Full-Zip Hoodie; median $225. Regular = no variant with compare_at_price above price and no sale/markdown tag ('Final Sale' tags without a markdown count as regular). Cashmere hoodies ($595, product type Sweaters) and a fur hood excluded."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.aimeleondore.com/",
+    "https://www.aimeleondore.com/meta.json",
+    "https://www.aimeleondore.com/products.json?limit=250&country=US",
+    "https://www.aimeleondore.com/pages/about-us",
+    "https://www.aimeleondore.com/policies/refund-policy"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "About: 'Aimé Leon Dore is from Queens, NY. With a strong focus on simple yet powerful design, we are driven to create timeless work'. Meta: 'Created in 2014, Aimé Leon Dore is a fashion and lifestyle brand based out of New York City.'",
+    "meta.json: shop address New York, NY, US; ships_to_countries 192 incl. US, CA, AU (GB not listed).",
+    "Refund policy: returns within 10 business days of delivery, for store credit only; seasonal-sale items final; initial shipping not refunded. returns_days 10 (business days, store credit).",
+    "Hoodies: Embroidered Logo Hoodie $190 ('Heavy loopback fleece... Drop shoulder fit... 530 GSM, 100% Cotton, Imported'), Crest/Micro Logo/Tonal Logo/Unisphere Hoodies $195, full-zips $250–$300. Cashmere and fur hoods excluded. Stores page rendered empty, so us_stores left null. Free-shipping threshold not stated in the policy."
+  ],
+  "sells_categories": [
+    "hoodies"
+  ]
+}

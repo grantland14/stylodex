@@ -1,0 +1,63 @@
+{
+  "slug": "sporty-and-rich",
+  "name": "Sporty & Rich",
+  "website_url": "https://sportyandrich.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Vintage Sportswear Tied with Luxury",
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 220.0,
+      "max": 255.0,
+      "min_usd": 220.0,
+      "max_usd": 255.0,
+      "fx_date": null,
+      "item_count": 27,
+      "source_url": "https://sportyandrich.com/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "27 regular-price in-stock hoodies and zip hoodies read from the US-market feed (localization=US, country=US; 621 products read, 0 marked down and 0 sold out excluded; kids, crewnecks, knits/sweaters, cashmere, jackets, sets excluded). Low $220: Nautical Embroidered Zip Hoodie - Heather Gray/Navy; high $255: Eliana Serif Logo Zip Hoodie - Heather Gray; median $225. Regular = no variant with compare_at_price above price and no sale/markdown tag ('Final Sale' tags without a markdown count as regular). Cashmere zip hoodies ($370) excluded."
+    }
+  ],
+  "materials": [
+    "100% cotton"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://sportyandrich.com/",
+    "https://sportyandrich.com/meta.json",
+    "https://sportyandrich.com/products.json?limit=250&country=US",
+    "https://sportyandrich.com/pages/about",
+    "https://sportyandrich.com/policies/shipping-policy",
+    "https://sportyandrich.com/policies/refund-policy"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "About: Emily Oberg began 'developing the Sporty & Rich universe and identity— vintage sportswear tied with luxury'; it started as an Instagram mood board, then a print magazine, then apparel; 'She now lives between Los Angeles and Paris— where the Sporty & Rich headquarters are based'. HQ country ambiguous (meta.json shop address Cerritos, California, US), so hq_country left empty.",
+    "Shipping policy: US via UPS, standard 5–7 business days; international via FedEx/DHL, 5–15 business days. meta.json ships_to_countries 179 incl. US, CA, GB, AU. No free-shipping threshold stated.",
+    "Refund policy: returns within 30 days of order receipt, new and unused with tags; Archive and End of Season sale items final.",
+    "Hoodies: Serif Logo Embroidered Hoodie $225 ('Slightly oversized fit, Embroidered logo, Pre-shrunk, 100% Cotton, Made in Portugal'), Elaine hoodies $225, zip hoodies $255; cashmere zip hoodies ($370) excluded. Sizes X-Small to X-Large."
+  ],
+  "sells_categories": [
+    "hoodies"
+  ]
+}

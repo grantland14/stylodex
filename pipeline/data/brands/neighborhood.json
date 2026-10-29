@@ -1,0 +1,59 @@
+{
+  "slug": "neighborhood",
+  "name": "Neighborhood",
+  "website_url": "https://www.neighborhood.jp",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": null,
+  "hq_country": "JP",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "S–XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 0,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 181.0,
+      "max": 292.0,
+      "min_usd": 181.0,
+      "max_usd": 292.0,
+      "fx_date": null,
+      "item_count": 3,
+      "source_url": "https://www.neighborhood.jp/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "3 regular-price in-stock hoodies and zip hoodies read from the US-market feed (localization=US, country=US; 317 products read, 0 marked down and 6 sold out excluded; kids, crewnecks, knits/sweaters, cashmere, jackets, sets excluded). Low $181: PIGMENT SWEAT HOODIE; high $292: SAVAGE SWEAT HOODIE; median $195. Regular = no variant with compare_at_price above price and no sale/markdown tag ('Final Sale' tags without a markdown count as regular). Only three regular-price hoodies in stock."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.neighborhood.jp/",
+    "https://www.neighborhood.jp/meta.json",
+    "https://www.neighborhood.jp/products.json?limit=250&country=US",
+    "https://www.neighborhood.jp/policies/shipping-policy",
+    "https://www.neighborhood.jp/policies/refund-policy"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "meta.json: 'NEIGHBORHOOD ONLINE STORE', shop address Shibuya, Tokyo, JP, currency JPY; US storefront shows USD (Shopify.currency rate 0.0063). Shipping policy: international by FedEx, United States flat $25; country list includes US, Canada, UK, Australia.",
+    "Refund policy (Japanese): returns or exchanges only for damaged or wrong items, reported within 7 days of arrival; no change-of-mind returns. returns_days 0.",
+    "Hoodies (regular price, in stock): Pigment Sweat Hoodie $181 (garment pigment-dyed cotton fleece, embroidered logos), NH x Gimme Five Sweat Hoodie $195, Savage Sweat Hoodie $292 (distressed 'savage' treatment). Sizes S–XL. Six more hoodies sold out."
+  ],
+  "sells_categories": [
+    "hoodies"
+  ]
+}

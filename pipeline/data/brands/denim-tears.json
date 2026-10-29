@@ -31,6 +31,19 @@
       "source_url": "https://denimtears.com/collections/denim-pant/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "9 of 9 products in 'denim-pant' at regular price: plain Straight and Baggy Denim Pants (light wash, Japanese selvedge) $210; Cotton Wreath print versions $295. Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; shorts, jackets and non-denim pants excluded."
+    },
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 178.0,
+      "max": 275.0,
+      "min_usd": 178.0,
+      "max_usd": 275.0,
+      "fx_date": null,
+      "item_count": 11,
+      "source_url": "https://denimtears.com/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "11 regular-price in-stock hoodies and zip hoodies read from the US-market feed (localization=US, country=US; 208 products read, 0 marked down and 3 sold out excluded; kids, crewnecks, knits/sweaters, cashmere, jackets, sets excluded). Low $178: Harlem Festival ADG Stamp Hoodie; high $275: Stüssy Tears Rainbow Trout Sequin Zip Hoodie; median $198. Regular = no variant with compare_at_price above price and no sale/markdown tag ('Final Sale' tags without a markdown count as regular). E.g. ADG Stamp Hoodie $178, Cotton Wreath Hoodie $198 (100% cotton, made in Turkey; Cotton Wreath styles final sale), up to Stüssy Tears Rainbow Trout Sequin Zip Hoodie $275. Hoodie sizes XS–XXL."
     }
   ],
   "sources": [
@@ -39,12 +52,17 @@
     "https://denimtears.com/policies/shipping-policy",
     "https://denimtears.com/policies/refund-policy",
     "https://denimtears.com/collections/denim-pant/products.json?limit=250",
-    "https://en.wikipedia.org/wiki/Tremaine_Emory"
+    "https://en.wikipedia.org/wiki/Tremaine_Emory",
+    "https://denimtears.com/products.json?limit=250&country=US"
   ],
   "notes": [
     "2026-10-29 (jnco run): meta 'Founded in 2019 by designer and aesthete Tremaine Emory, each Denim Tears collection tells a story, revealing what the brand's founder calls the African Diaspora.' About: flagship 'African Diaspora Goods' stores at 176 Spring Street, New York and 3393 Peachtree Rd NE, Atlanta (hq_country US from these; no HQ address stated). Wikipedia (Tremaine Emory): founded Denim Tears in 2019.",
     "Shipping: US flat rate $15 ($22 signature); international DHL Express flat $20 via Global-E (countries not listed, so ships_to records US only). No free-shipping threshold.",
     "Returns: 14 days of receiving the shipment, unworn; all Cotton Wreath items ineligible for return, denim Cotton Wreath products exchange only; $8 deducted unless exchanging; exchanges US only.",
-    "Jeans: 100% cotton 14oz; Baggy Denim Pant Light Wash ($210) 'cut, sewn, and washed in the USA'; selvedge versions use Japanese selvedge denim. Sizes 28x30 to 42x34. US stores exist (New York, Atlanta) but us_stores is left for a store-locator check."
+    "Jeans: 100% cotton 14oz; Baggy Denim Pant Light Wash ($210) 'cut, sewn, and washed in the USA'; selvedge versions use Japanese selvedge denim. Sizes 28x30 to 42x34. US stores exist (New York, Atlanta) but us_stores is left for a store-locator check.",
+    "2026-10-29 (brands-like-madhappy): 11 regular-price hoodies $178–$275 in the whole-store feed (208 products). Cotton Wreath Hoodie: 'Produced in 100% cotton and cut to a regular fit... Made in Turkey. Cotton Wreath styles are final sale and not eligible for return or exchange.' Hoodie sizes XS–XXL."
+  ],
+  "sells_categories": [
+    "hoodies"
   ]
 }

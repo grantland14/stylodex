@@ -34,6 +34,19 @@
       "source_url": "https://www.madhappy.com/collections/sweatshirts/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "59 regular-price in-stock hoodies, crewnecks and zip-ups of 73 in the sweatshirts collection feed (14 sold out, none marked down; sweatpants and shorts dropped). 38 carry a 'Final Sale' tag (licensed Dodgers, Disney, Peanuts etc.) with no markdown, so they count as regular price. Low $150: PUMA Lace Trim Fleece Hoodie; core: Classics Fleece Crewneck $165 (100% cotton heavyweight fleece, made in Los Angeles), Classics Fleece Hoodie $175, Classics Fleece Zip Up $185; high $225: Dodgers and Lakers World Series/Stars hoodies. Median $185."
+    },
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 95.0,
+      "max": 250.0,
+      "min_usd": 95.0,
+      "max_usd": 250.0,
+      "fx_date": null,
+      "item_count": 116,
+      "source_url": "https://www.madhappy.com/collections/hoodies/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "116 regular-price in-stock hoodies and zip hoodies read from the US-market feed (localization=US, country=US; 137 products read, 0 marked down and 0 sold out excluded; kids, crewnecks, knits/sweaters, cashmere, jackets, sets excluded). Low $95: Hanes Pointelle Zip Up; high $250: Yankees All Over Embroidered Fleece Zip Up; median $185. Regular = no variant with compare_at_price above price and no sale/markdown tag ('Final Sale' tags without a markdown count as regular). Core: Classics Fleece Hoodie $175 (21 colourways), Classics Fleece Zip Up $185; licensed MLB/NBA/Disney/Powerpuff hoodies $195–$250; collabs Hanes Pointelle Zip Up $95, Roxy Shrunken Zip Up $145, PUMA Lace Trim Fleece Hoodie $150. Sizes XXS–XXL."
     }
   ],
   "materials": [
@@ -49,7 +62,8 @@
     "https://www.madhappy.com/pages/faq",
     "https://www.madhappy.com/policies/refund-policy",
     "https://www.madhappy.com/collections/sweatshirts/products.json?limit=250",
-    "https://sites.psu.edu/bkginley/2023/09/13/dairy-boy-brand-analysis/"
+    "https://sites.psu.edu/bkginley/2023/09/13/dairy-boy-brand-analysis/",
+    "https://www.madhappy.com/collections/hoodies/products.json?limit=250&country=US"
   ],
   "checked_at": "2026-10-29",
   "notes": [
@@ -58,9 +72,11 @@
     "FAQ: standard US shipping free over $200 ($5 for $150–$200, $8 for $100–$150, $10 under $100); international free over $250 via a partner, flat $15–$20 below. Ships in 3–7 business days. The market selector lists Canada, United Kingdom and Australia.",
     "FAQ returns: refund or store credit within 30 days of purchase, online or in store; $12 fee deducted from domestic refunds, waived for store credit and exchanges; final sale items excluded; international returns $20, no international exchanges.",
     "Product pages: Classics Fleece Crewneck and Hoodie are 100% cotton heavyweight fleece, relaxed unisex fit, made in Los Angeles; Classic Midweight Fleece Crewneck made in Canada; Polar Fleece Hoodie 100% polyester. Sizes XXS–XXL.",
-    "Outside source: https://sites.psu.edu/bkginley/2023/09/13/dairy-boy-brand-analysis/ (student brand analysis, 2023-09-13): 'One brand that I would consider to be their competitor is madhappy', with Madhappy brighter and more abstract, Dairy Boy darker and more neutral."
+    "Outside source: https://sites.psu.edu/bkginley/2023/09/13/dairy-boy-brand-analysis/ (student brand analysis, 2023-09-13): 'One brand that I would consider to be their competitor is madhappy', with Madhappy brighter and more abstract, Dairy Boy darker and more neutral.",
+    "2026-10-29 (brands-like-madhappy, hoodies): Classics Fleece Hoodie product text: 'Relaxed Unisex Fit, Heavyweight Fleece, 99% Cotton / 1% Polyester, Embroidered Madhappy Logo, Made In Los Angeles' (the stored materials say 100% cotton fleece, from the crewneck; the hoodie is 99/1). Hoodies collection: 137 products, 116 regular-price hoodies/zip-ups; 42 carry a 'Final Sale' tag with no compare-at price (licensed and collab pieces)."
   ],
   "sells_categories": [
-    "sweatshirts"
+    "sweatshirts",
+    "hoodies"
   ]
 }

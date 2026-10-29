@@ -1,0 +1,64 @@
+{
+  "slug": "noah",
+  "name": "Noah",
+  "website_url": "https://noahny.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Responsibly Made Menswear",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–XXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 168.0,
+      "max": 228.0,
+      "min_usd": 168.0,
+      "max_usd": 228.0,
+      "fx_date": null,
+      "item_count": 4,
+      "source_url": "https://noahny.com/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "4 regular-price in-stock hoodies and zip hoodies read from the US-market feed (localization=US, country=US; 424 products read, 5 marked down and 3 sold out excluded; kids, crewnecks, knits/sweaters, cashmere, jackets, sets excluded). Low $168: Core Classic Hoodie; high $228: Heavyweight Zip-Up Hoodie; median $183. Regular = no variant with compare_at_price above price and no sale/markdown tag ('Final Sale' tags without a markdown count as regular). Only four regular-price hoodies in stock; five more are marked down."
+    }
+  ],
+  "materials": [
+    "100% cotton brushed-back fleece"
+  ],
+  "certifications": [],
+  "production_model": "Hoodies made in Canada",
+  "sale_pattern": null,
+  "sources": [
+    "https://noahny.com/",
+    "https://noahny.com/meta.json",
+    "https://noahny.com/products.json?limit=250&country=US",
+    "https://noahny.com/pages/about",
+    "https://noahny.com/pages/stores",
+    "https://noahny.com/policies/refund-policy"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "About: 'Noah is an American men's clothing brand founded by Brendon Babenzien and Estelle Bailey-Babenzien, based out of its flagship store on 195 Mulberry St. in Soho, New York City'; 'Our clothes are made in countries, mills and factories where tradition, expertise and human dignity take precedence'; joined 1% for the Planet in 2019. Title: 'Noah: Clothing Made Responsibly'.",
+    "Stores page lists Tokyo, Osaka and Seoul; the About page names the NYC flagship (us_stores true).",
+    "meta.json: shop address New York, NY; ships_to_countries 196 incl. US, CA, GB, AU (Global-E country list agrees).",
+    "Refund policy: full refund or store credit within 14 days of the original shipment date; store credit only from 15 to 30 days; sale items final. returns_days 14.",
+    "Hoodies (regular price, in stock): Core Classic Hoodie $168 and Classic Lightweight Zip-Up $168 (made in Canada, 12 oz / 9 oz brushed-back fleece), Heavyweight Hoodie $198 and Heavyweight Zip-Up $228 ('Made in Canada. 100% cotton, 15.0 oz... A full 25% heavier than our already hefty standard fleece'). Founding year not stated on its pages."
+  ],
+  "sells_categories": [
+    "hoodies"
+  ]
+}

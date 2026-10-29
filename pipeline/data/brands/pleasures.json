@@ -1,0 +1,59 @@
+{
+  "slug": "pleasures",
+  "name": "Pleasures",
+  "website_url": "https://pleasuresnow.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": null,
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "S–XXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": null,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 100.0,
+      "max": 180.0,
+      "min_usd": 100.0,
+      "max_usd": 180.0,
+      "fx_date": null,
+      "item_count": 39,
+      "source_url": "https://pleasuresnow.com/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "39 regular-price in-stock hoodies and zip hoodies read from the US-market feed (localization=US, country=US; 265 products read, 1 marked down and 0 sold out excluded; kids, crewnecks, knits/sweaters, cashmere, jackets, sets excluded). Low $100: NEURAL HOODIE; high $180: KENNEDYS LAYERED HOODIE; median $130. Regular = no variant with compare_at_price above price and no sale/markdown tag ('Final Sale' tags without a markdown count as regular). Crewnecks in the same product type excluded."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://pleasuresnow.com/",
+    "https://pleasuresnow.com/meta.json",
+    "https://pleasuresnow.com/products.json?limit=250&country=US",
+    "https://pleasuresnow.com/policies/shipping-policy",
+    "https://pleasuresnow.com/policies/refund-policy"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "Meta: 'A place to free your mind and be whatever you want. Finding Pleasures in simplicity.' meta.json: shop address Los Angeles, California, US; ships_to_countries 230 incl. US, CA, GB, AU.",
+    "Returns conflict: the refund policy says 'All sales final - no returns or exchanges', while the shipping policy page says eligible items may be returned for store credit within 14 days of delivery. returns_days left empty; don't state a return window in copy.",
+    "Hoodies: 39 regular-price, $100–$180, e.g. Optimism Hoodie $106 ('70% Cotton & 30% Polyester, Boxy fit, Screen print artwork, Made in China'), Onyx Hoodie $135 ('100% Cotton 400 GSM French Terry... Vintage Wash'), Kennedys Layered Hoodie $180. Crewnecks excluded. Sizes S–XXL. No about page, so known_for and founded_year left empty."
+  ],
+  "sells_categories": [
+    "hoodies"
+  ]
+}
