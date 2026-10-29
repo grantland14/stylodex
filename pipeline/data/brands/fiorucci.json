@@ -1,0 +1,50 @@
+{
+  "name": "Fiorucci",
+  "slug": "fiorucci",
+  "website_url": "https://fiorucci.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Angels and All-Over Print Graphics",
+  "founded_year": 1967,
+  "size_range": "IT 36–46; XS–XL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 28,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "GBP",
+      "min": 245.0,
+      "max": 735.0,
+      "min_usd": 325.55,
+      "max_usd": 976.64,
+      "fx_date": "2026-10-28",
+      "item_count": 18,
+      "source_url": "https://fiorucci.com/collections/women-dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "women-dresses products.json: 19 items, all regular price; 1 jumpsuit (Lips Semi-Footed Jumpsuit £280) excluded. Low: Lips Mini Dress £245; high: Double Cupid Maxi Dress £735; median £500. Also Bouquet Angels Velour Mini Dress £365, Polka Dot Mini Dress £510. Store base currency GBP (cart.js)."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://fiorucci.com/",
+    "https://fiorucci.com/meta.json",
+    "https://fiorucci.com/collections/women-dresses/products.json?limit=250",
+    "https://fiorucci.com/pages/faqs",
+    "https://fiorucci.com/pages/returns-exchanges",
+    "https://fiorucci.com/pages/fiorucci-about-us"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-desigual run): About: 'Founded in Milan in 1967'; 'became internationally recognised for merging fashion with art, music and popular culture'; cites Angels, all-over print graphics, denim and collectible accessories (known_for). No HQ named; meta.json city Rugby, GB and FAQ 'All orders are shipped from the UK', so hq_country left empty.",
+    "FAQ: 'Free shipping when you spend $150 or more', $15 under that (US). Duties for the US not stated.",
+    "Returns: 'within 28 days of receiving your order'; via DHL (Royal Mail in the UK); other couriers at the customer's cost.",
+    "Dress sizes in the feed: IT 36–46 on 15 styles, XS–XL on 4. meta.json ships_to_countries 68 incl. US, CA, GB, AU."
+  ]
+}

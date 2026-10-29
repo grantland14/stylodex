@@ -1,0 +1,13 @@
+{
+  "name": "Etro",
+  "slug": "etro",
+  "website_url": "https://www.etro.com/",
+  "status": "unverified",
+  "kind": "brand",
+  "sources": [
+    "https://www.etro.com/en-us/"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-desigual run): www.etro.com/en-us/ returns HTTP 410 to the StylodexBot UA and to WebFetch. Unverified; human check."
+  ]
+}

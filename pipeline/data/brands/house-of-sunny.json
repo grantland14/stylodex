@@ -27,6 +27,19 @@
       "source_url": "https://houseofsunny.com/collections/womens-jackets/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "13 regular-price items of 16 in the collection (1 on sale excluded, 2 non-outerwear or other-vendor excluded). Store currency GBP. Two items typed Tops excluded."
+    },
+    {
+      "category": "dresses",
+      "currency": "GBP",
+      "min": 88.0,
+      "max": 112.0,
+      "min_usd": 116.93,
+      "max_usd": 148.82,
+      "fx_date": "2026-10-28",
+      "item_count": 3,
+      "source_url": "https://houseofsunny.com/collections/womens-dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "womens-dresses products.json: 4 dresses, 3 regular price (1 marked down excluded): Lilac Fur Trim Mini Dress £88, Cherry Fur Hem Strapless Midaxi Dress £100, Gingham Balloon Cami Dress £112. /collections/all has no other dresses. Sizes UK 6–18."
     }
   ],
   "sources": [
@@ -34,12 +47,17 @@
     "https://houseofsunny.com/meta.json",
     "https://houseofsunny.com/pages/shipping-faq",
     "https://houseofsunny.com/pages/returns-exchanges",
-    "https://houseofsunny.com/collections/womens-jackets/products.json?limit=250"
+    "https://houseofsunny.com/collections/womens-jackets/products.json?limit=250",
+    "https://houseofsunny.com/collections/womens-dresses/products.json?limit=250"
   ],
   "notes": [
     "Meta description 'Crafted, conscious and independent.' meta.json London, GB.",
-    "US: FedEx Standard $20, 5–12 working days, free over $300; 'covers all tariffs for USA orders'. Returns within 30 days of delivery; international customers pay return postage."
+    "US: FedEx Standard $20, 5–12 working days, free over $300; 'covers all tariffs for USA orders'. Returns within 30 days of delivery; international customers pay return postage.",
+    "2026-10-29 (brands-like-desigual run): dresses price added; only 3 regular-price dresses, so dresses are a small line next to its knitwear. meta.json ships_to_countries includes US, CA, GB, AU."
   ],
   "checked_at": "2026-10-29",
-  "slug": "house-of-sunny"
+  "slug": "house-of-sunny",
+  "sells_categories": [
+    "dresses"
+  ]
 }

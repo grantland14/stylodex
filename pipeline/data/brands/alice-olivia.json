@@ -1,0 +1,54 @@
+{
+  "name": "ALICE + OLIVIA",
+  "slug": "alice-olivia",
+  "website_url": "https://www.aliceandolivia.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Bold Prints and Feminine Silhouettes",
+  "hq_country": "US",
+  "founded_year": 2002,
+  "size_range": "US 00–14; XS–XL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "us_stores": true,
+  "free_shipping_min_usd": 0,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 295.0,
+      "max": 2195.0,
+      "min_usd": 295.0,
+      "max_usd": 2195.0,
+      "fx_date": null,
+      "item_count": 101,
+      "source_url": "https://www.aliceandolivia.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "101 regular-price dresses of 151 in stock (50 marked down). Low: Delora Midi Dress, Freya Button Down Dress, Harmony Slip Dress $295; high: Eve Embellished Sweetheart Mini Dress $2,195; median $495. Prints: Delora Midi Dress Floral Radiance $395, Velia Embroidered Mini Dress Hibiscus $495, Henrietta Belted Midi Dress Floral Radiance $660. Base currency USD (cart.js)."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://www.aliceandolivia.com/",
+    "https://www.aliceandolivia.com/meta.json",
+    "https://www.aliceandolivia.com/collections/dresses/products.json?limit=250",
+    "https://www.aliceandolivia.com/pages/shipping",
+    "https://www.aliceandolivia.com/pages/returns",
+    "https://www.aliceandolivia.com/pages/about-us",
+    "https://www.aliceandolivia.com/pages/store-locator"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-desigual run): About: 'Founded in 2002'; 'known for its bold prints, statement-making details and feminine silhouettes'; led by CEO and Creative Director Stacey Bendet. meta.json New York, US.",
+    "Shipping page: US ground 'FREE for all orders'; 2-day $25; priority overnight $30; Alaska, Hawaii, Puerto Rico $40.",
+    "Returns: within 14 days of delivery; mail-in $10 restocking fee per order; in-store returns free at US stores; 60%+ off is final sale.",
+    "Store pages (pages.json) for US stores in New York, California, Florida, Texas, Illinois, Massachusetts, Nevada, Georgia, DC and more, so us_stores true.",
+    "Dress sizes in the feed: 0–14 on 140 styles, 00 on 5, XS–XL on 15."
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Gimaguas",
+  "slug": "gimaguas",
+  "website_url": "https://www.gimaguas.com/",
+  "status": "verified",
+  "kind": "brand",
+  "hq_country": "ES",
+  "founded_year": 2018,
+  "size_range": "XS–XL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 15,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "EUR",
+      "min": 79.0,
+      "max": 390.0,
+      "min_usd": 87.95,
+      "max_usd": 434.19,
+      "fx_date": "2026-10-28",
+      "item_count": 97,
+      "source_url": "https://www.gimaguas.com/collections/all/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "collections/all products.json (1,407 products), dresses by title/type, in stock: 97 regular price, 26 marked down excluded. Low: Maura Dress €79; high: City Mini Dress €390; median €129; 96 of 97 at €300 or less. Colour: Amelia Dress multicolor €139, Bomba Maxi Dress checks pink-beige €135, Yasmin Dress pink-white €239. Store currency EUR (meta.json)."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://www.gimaguas.com/",
+    "https://www.gimaguas.com/meta.json",
+    "https://www.gimaguas.com/collections/all/products.json?limit=250",
+    "https://www.gimaguas.com/policies/shipping-policy",
+    "https://www.gimaguas.com/policies/refund-policy"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-desigual run): og:description 'Founded in 2018 by twins Claudia and Sayana Durany'; meta.json Barcelona, ES. No positioning line found, so known_for empty.",
+    "Shipping policy: sent by DHL Express worldwide, World 1–8 business days; cost calculated at checkout; shipments outside the EU 'may imply additional customs taxes and/or fees', paid by the client. meta.json ships_to_countries 86 incl. US, CA, GB, AU.",
+    "Refund policy: '15-day return policy' from delivery; prepaid DHL label in the parcel, return cost deducted from the refund (World €30); exchanges by returning and re-buying.",
+    "Dress sizes in the feed: XS–XL on 124 of 136 dress listings."
+  ]
+}

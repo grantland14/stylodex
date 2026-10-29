@@ -1,0 +1,13 @@
+{
+  "name": "Missoni",
+  "slug": "missoni",
+  "website_url": "https://www.missoni.com/",
+  "status": "unverified",
+  "kind": "brand",
+  "sources": [
+    "https://www.missoni.com/en-us/women/clothing/dresses"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-desigual run): missoni.com/en-us returns HTTP 403 to the StylodexBot UA and to WebFetch (one try each, no workaround). Unverified; human check."
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Desigual",
+  "slug": "desigual",
+  "website_url": "https://www.desigual.com/en_US/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Original Prints",
+  "hq_country": "ES",
+  "founded_year": 1984,
+  "size_range": "US XXS–XL; EU XS–XXL",
+  "has_plus": false,
+  "has_petite": false,
+  "has_tall": false,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 80,
+  "returns_days": 30,
+  "sale_pattern": "Year-round sale and outlet sections",
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 119.0,
+      "max": 699.0,
+      "min_usd": 119.0,
+      "max_usd": 699.0,
+      "fx_date": null,
+      "item_count": 116,
+      "source_url": "https://www.desigual.com/en_US/women/clothing/dresses/",
+      "checked_at": "2026-10-29",
+      "note": "All 160 tiles of the US women's dresses listing (8 pages, ?start=0..140&sz=20; tile JSON price.sales with price.list null = regular). 116 regular-price dresses after dropping 39 marked down (price.list set) and 5 non-dresses (4 jumpsuits, 1 'lace V-neck T-shirt'). Low: vintage printed mini dresses $119; high: Long multiposition Ottolinger dress $699, next Detachable cargo jumpsuit excluded; median $169; 92 of 116 at $199 or less. Lines: 16 M. C. Lacroix dresses $119–$219 (e.g. Dress Designed By mr. christian lacroix $169), 9 Ottolinger collab dresses $199–$699 (Ottolinger Long Dress $199)."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://www.desigual.com/en_US/women/clothing/dresses/",
+    "https://www.desigual.com/en_US/women/dresses/",
+    "https://www.desigual.com/en_US/shopping-guide/",
+    "https://www.desigual.com/en_US/returns/",
+    "https://www.desigual.com/en_US/help-faq/",
+    "https://www.desigual.com/en_US/woman-size-guide/",
+    "https://www.desigual.com/en_US/corporate/about-us/",
+    "https://www.desigual.com/en_CA/women/clothing/dresses/",
+    "https://www.desigual.com/en_AU/women/clothing/dresses/",
+    "https://www.desigual.com/en_GB/women/clothing/dresses/",
+    "https://www.desigual.com/en_US/women/clothing/coats-jackets/",
+    "https://www.desigual.com/en_US/women/clothing/tshirts/",
+    "https://www.desigual.com/en_US/accessories/bags/bags/",
+    "https://www.desigual.com/en_US/women/highlights/best-sellers/"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-desigual run): US store (desigual.com/en_US, Salesforce Commerce Cloud; answers the StylodexBot UA, prices in USD). Shopping guide + FAQ: 'Free shipping when you spend $80 or more'; standard delivery 4–10 working days; delivery point or home; excludes Puerto Rico and APO/FPO. Cost under $80 and duties not stated, so the copy doesn't quote them.",
+    "Returns page: 'You have 30 calendar days to return your purchases from the date you receive your order'; listed under 'Free returns' with home pickup; underwear, swimwear and jewelry only with seal intact; returns from different orders can't be grouped.",
+    "Woman size guide: tops/dresses US XXS–XL (= EU XS–XXL, ES 36–46); pants/skirts/jeans US 6–16. No plus, petite or tall ranges listed.",
+    "About us: 'Thomas Meyer created Desigual in 1984, in the Barcelona neighbourhood of El Raval'; first piece an upcycled jacket; '+215 Stores', 'Present in 107 Countries'. Organization JSON-LD knowsAbout: Vestidos, Estampados, bolsos coloridos; dresses meta: 'Get an original and atypical style'. known_for 'Original Prints' built from these.",
+    "Separate en_CA (CAD), en_AU (AUD) and en_GB (GBP) stores list dresses, so ships_to US, CA, GB, AU. No US store locator found (/en_US/stores/ redirects to /woman/), so us_stores empty.",
+    "Category counts on the US store (unique tiles): bags 256, women's T-shirts 183, dresses 160, coats & jackets 138, jumpers 106, shirts & tops 60. Best-sellers (105): dress is the most common product word, so dresses is the hero line used as C.",
+    "Site sections include /en_US/sale/ and /en_US/outlet/ (sale_pattern)."
+  ]
+}

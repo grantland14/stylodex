@@ -1,0 +1,49 @@
+{
+  "name": "LoveShackFancy",
+  "slug": "loveshackfancy",
+  "website_url": "https://loveshackfancy.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Travel-Inspired Womenswear",
+  "hq_country": "US",
+  "founded_year": 2013,
+  "size_range": "US 00–14; XXS–XXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 175.0,
+      "max": 1995.0,
+      "min_usd": 175.0,
+      "max_usd": 1995.0,
+      "fx_date": null,
+      "item_count": 175,
+      "source_url": "https://loveshackfancy.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "175 regular-price dresses of 179 (4 marked down). Low: Fanatics x LoveShackFancy Varsity Crush Jersey Dress $175; high: Averine Pearl-Embroidered Mesh Gown and Avenel Beaded Lace Gown $1,995; median $495; only 5 at $300 or less. Prints: Solier Patchwork Print Mini Dress $295, Arletta Cotton Bandana Print Mini Dress $395, Maralina Floral Cotton Mini Dress $365. Base currency USD (meta.json)."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://loveshackfancy.com/",
+    "https://loveshackfancy.com/meta.json",
+    "https://loveshackfancy.com/collections/dresses/products.json?limit=250",
+    "https://loveshackfancy.com/policies/shipping-policy",
+    "https://loveshackfancy.com/policies/refund-policy"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-desigual run): meta description 'a New York City-based lifestyle brand founded in 2013 by stylist, designer and creative director Rebecca Hessel Cohen'; title 'Women's lifestyle and travel inspired clothing' (known_for).",
+    "Shipping policy: orders processed in 1–2 business days; ships to a long country list incl. Canada, United Kingdom, Australia; UK prices in GBP with duties included; other markets in USD with duties prepaid at checkout. US shipping cost not stated in the policy. meta.json ships_to_countries has 195 entries incl. US.",
+    "Refund policy: US returns/exchanges within 14 days of delivery; $9 restocking fee on online returns, waived for store credit or in-store returns; final sale not returnable; original shipping non-refundable. Mentions store locations but no locator read, so us_stores empty.",
+    "Dress sizes in the feed: 00–14 on 90 styles and XS–XXL on 88 (XXS on 78)."
+  ]
+}

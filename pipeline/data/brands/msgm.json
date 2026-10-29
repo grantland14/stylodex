@@ -1,0 +1,14 @@
+{
+  "name": "MSGM",
+  "slug": "msgm",
+  "website_url": "https://www.msgm.it/",
+  "status": "unverified",
+  "kind": "brand",
+  "sources": [
+    "https://msgm.it/",
+    "https://www.msgm.it/en-us/"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-desigual run): msgm.it and www.msgm.it/en-us/ return HTTP 404 to the StylodexBot UA and to WebFetch; no official store read. Unverified; human check."
+  ]
+}
