@@ -1,0 +1,62 @@
+{
+  "slug": "chicme",
+  "name": "ChicMe",
+  "website_url": "https://www.chicme.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Womens Fashion Online",
+  "hq_country": null,
+  "founded_year": 2015,
+  "parent_company": null,
+  "size_range": "S–XXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 69,
+  "returns_days": 15,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 22.08,
+      "max": 51.99,
+      "min_usd": 22.08,
+      "max_usd": 51.99,
+      "fx_date": null,
+      "item_count": 12,
+      "source_url": "https://www.chicme.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Full dresses feed (130 products, StylodexBot UA): 117 marked down (compare_at_price above price), 1 sold out, 12 regular-price in stock. Low: Spaghetti Strap U-Neck Casual Maxi Dress Slim Fit Cami Vacation Dress $22.08; high: Bowknot Decor Deep V-Neck Sleeveless Slit Party Dress $51.99; median $39.49. Store currency USD (US storefront). Thin: 12 items."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": "Most dresses shown marked down",
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://www.chicme.com/",
+    "https://www.chicme.com/collections/dresses/products.json?limit=250",
+    "https://www.chicme.com/policies/shipping-policy",
+    "https://www.chicme.com/policies/refund-policy",
+    "https://www.chicme.com/pages/about-us"
+  ],
+  "notes": [
+    "2026-10-29 (stores-like-romwe run): live Shopify store (robots.txt allows collections). Homepage meta description 'Women's Fashion Online Shopping'; region selector lists United States (USD), Canada, United Kingdom, Australia and EU countries; banner 'Free Shipping Over $69', '$10 Off $99+ | $15 Off $129+', 'Buy 4, Pay for 3'.",
+    "2026-10-29 (stores-like-romwe run): Shipping policy: processing 1-7 business days, shipment 'approximately 1 to 20 business days'; tracking by 'International e-packet'; Buy with Prime orders ship through Amazon. No US cost table stated beyond the $69 free-shipping banner.",
+    "2026-10-29 (stores-like-romwe run): Return policy: contact 'within 15 days upon receiving' to start a return; returns at the customer's own cost unless ChicMe erred; beauty, bodysuits, lingerie, swimwear, jewelry and accessories not returnable; original shipping fee non-refundable; return address given by customer service (warehouses in several countries).",
+    "2026-10-29 (stores-like-romwe run): About Us: 'CHICME has been dedicated to bringing unique fashion products to consumers worldwide since 2015.' No HQ or company address stated, so hq_country empty.",
+    "2026-10-29 (stores-like-romwe run): dress size options in the feed: S, M, L, XL on 128-129 of 130, XXL on 24, XS on 1. size_range S-XXL; no plus line confirmed.",
+    "2026-10-29 (stores-like-romwe run): the 12 regular-price in-stock dresses carry product types Slit (4), Mermaid (2), Bodycon, A Line and Dress; titles name vacation, party and evening dresses (e.g. Halter Tie Criss Cross Front Ruched Knit Jacquard Textured Slit Dress $38.99, Foldover Off Shoulder Ruched Cinched Waist Minimalist Evening Dress $49.99)."
+  ],
+  "checked_at": "2026-10-29"
+}

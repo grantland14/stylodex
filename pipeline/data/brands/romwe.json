@@ -10,13 +10,26 @@
     "https://us.romwe.com/Shipping-Info-a-280.html",
     "https://m.romwe.com/us/Free-Shipping-a-471.html",
     "https://m.romwe.com/us/Return-Policy-a-281.html",
-    "https://us.romwe.com/girls?ici=us_tab01"
+    "https://us.romwe.com/girls?ici=us_tab01",
+    "https://us.romwe.com/Women-Clothing-c-909.html",
+    "https://us.romwe.com/Women-Short-Dresses-c-767.html",
+    "https://us.romwe.com/Women-Tops,-Blouses-&-Tee-c-761.html",
+    "https://us.romwe.com/Women-Plus-Clothing-c-769.html",
+    "https://us.romwe.com/Kawaii-Sexy-Romantic-Chiffon-Flowy-Ribbon-Ruffle-Hem-Cami-Short-Dress-For-Women-p-3116613.html",
+    "https://www.sheingroup.com/brands",
+    "https://en.wikipedia.org/wiki/Shein_(company)",
+    "https://www.eco-stylist.com/how-ethical-is-romwe/"
   ],
   "notes": [
     "2026-10-29 (charlotte-russe run): us.romwe.com homepage read by WebFetch: live store with cart and dresses listed at $13.89–$59.89, several 12–43% off. The shipping page guessed (Shipping-Info-a-280.html) returned 404, so US shipping terms are unconfirmed and ships_to stays empty; not a pick until a human reads the US shipping terms. Dresses not stored in sells_categories (no dress listing read).",
     "2026-10-29 (stores-like-boohoo run): US Shipping Information page says 'Shipping to United States': standard $3.99, free over $29.00 (est. Nov 5–13, 2026); economic $3.99, free over $19.00.",
     "2026-10-29 (stores-like-boohoo run): Return Policy (US): 'You have 60 days from the purchase date'; first return label per order free, each extra label $7.99 deducted from the refund; bodysuits, lingerie, swimwear, jewelry, beauty and most accessories not returnable.",
-    "2026-10-29 (stores-like-boohoo run): known_for from the US homepage title 'ROMWE:Alternative Clothing That Defies Definition'. Women's page (/girls) lists dresses in USD (e.g. bodycon mermaid-tail dress $17.89, sequin cowl-neck long dress $59.89), each shown with a 21–22% discount, so no regular-price dresses row; dresses recorded in sells_categories from the store's own page."
+    "2026-10-29 (stores-like-boohoo run): known_for from the US homepage title 'ROMWE:Alternative Clothing That Defies Definition'. Women's page (/girls) lists dresses in USD (e.g. bodycon mermaid-tail dress $17.89, sequin cowl-neck long dress $59.89), each shown with a 21–22% discount, so no regular-price dresses row; dresses recorded in sells_categories from the store's own page.",
+    "2026-10-29 (stores-like-romwe run, C dresses): US listing data read with curl (StylodexBot UA). Women Short Dresses (cat 767, 409 goods): all 117 rendered items show salePrice under retailPrice (12-61% off; retail $12.89-$57.89, sale $5.45-$35.89, e.g. Grunge Plaid Print Knotted Front Lace Trim Dress $8.95 was $17.89). Same on Women Clothing (120 of 120 marked down), Tops, Blouses & Tee (120 of 120) and Plus Clothing (117 of 117). No regular-price dress exists to record, so no dresses price row; a human should decide whether a list price that is always discounted counts (anchor price blocks indexing).",
+    "2026-10-29 (stores-like-romwe run): sizes. A sampled short dress offers 0 (XXS) to 8/10 (L); the Plus Clothing size filter lists 0XL-5XL. size_range XXS-5XL, has_plus true.",
+    "2026-10-29 (stores-like-romwe run): parent. SHEIN Group's own brands page lists ROMWE: 'ROMWE is your go-to for all things alt, from goth, hippie, punk, kawaii, edgy, fairycore, academia and everything in-between.' Wikipedia (Shein article): 'In 2014, Shein acquired Romwe, a Chinese e-commerce retailer'; Shein HQ Singapore. Eco-Stylist (Oct 2026): 'founded in Nanjing, China, on Christmas Eve 2009', 'owned by Shein since 2014'. hq_country CN = where ROMWE was founded and is described as based; the parent group is headquartered in Singapore. The store's own About page renders no text and the sitemap index returned a WAF 403 (one try, not retried).",
+    "2026-10-29 (stores-like-romwe run): the US listing is grouped by style lines in product titles (Goth, Grunge Punk, Kawaii, Hippie, Y2K, Sweetness, Fairycore, ROMWE Avant), matching the parent's alt positioning.",
+    "2026-10-29 (stores-like-romwe run): Women Short Dresses page, 117 unique items: median list (retailPrice) $27.89, median sale price $15.89; 116 of 117 list above $12.99. Retail range $12.89-$57.89. US terms already stored: standard shipping $3.99, free over $29; 60 days from purchase to return, first return label per order free."
   ],
   "checked_at": "2026-10-29",
   "ships_to": [
@@ -27,5 +40,11 @@
   "known_for": "Alternative Clothing",
   "sells_categories": [
     "dresses"
-  ]
+  ],
+  "hq_country": "CN",
+  "founded_year": 2009,
+  "parent_company": "SHEIN Group",
+  "size_range": "XXS–5XL",
+  "has_plus": true,
+  "sale_pattern": "Nearly every item shown marked down"
 }

@@ -42,7 +42,8 @@
     "https://www.6pm.com/filters/jeans/EMjXAeICAQI.zso?t=women+jeans&ot=women+jeans",
     "https://www.6pm.com/c/shipping-and-returns",
     "https://www.6pm.com/c/return-questions",
-    "https://www.6pm.com/c/about-us-1"
+    "https://www.6pm.com/c/about-us-1",
+    "https://www.6pm.com/women-dresses/CKvXARDE1wHAAQHiAgMBAhg.zso"
   ],
   "notes": [
     "Homepage title 'Discount Shoes, Clothing & Accessories | 6pm'; logo alt 'Your Premier Destination for Discount Fashion'; nav Shoes, Clothing, Bags, Accessories, Women's, Men's, Kids', Clearance, Brands.",
@@ -50,7 +51,11 @@
     "Shipping page: 'Spend $100 or more, before tax, for Free Standard Shipping (4-5 Business Days)'; otherwise Standard Shipping $3.95; 'orders may only be shipped to US States and Territories.'",
     "Returns page: 'Returns are accepted within 30 Days from the purchase date'; the customer pays return shipping, outbound shipping isn't refunded; items unworn with original security tag and packaging; no exchanges.",
     "Size range: the listing's size filter isn't in the served data. In-stock sizes on sampled product pages: NYDJ Plus Size Marilyn Straight 20W–26W, KUT from the Kloth Petite Natalie Bootcut 14P–16P, Joe's Jeans Bowie 28–32. 28 plus-named and 123 petite-named jeans in the listing.",
-    "Read with curl (User-Agent StylodexBot), which 6pm serves normally; no challenge."
+    "Read with curl (User-Agent StylodexBot), which 6pm serves normally; no challenge.",
+    "2026-10-29 (stores-like-romwe run, C dresses): Women's Dresses page (curl, StylodexBot UA) lists 1,592 dresses from other labels (e.g. Adrianna Papell, Badgley Mischka, Calvin Klein, DKNY, AllSaints, 7 For All Mankind); of 195 rendered, 194 show percentOff against an originalPrice (e.g. $26.80, 80% off $134.00), selling $14.99-$193.50. No regular-price range, so no dresses price row; dresses in sells_categories from the store's own page."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "dresses"
+  ]
 }
