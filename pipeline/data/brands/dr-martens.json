@@ -1,0 +1,59 @@
+{
+  "slug": "dr-martens",
+  "name": "Dr. Martens",
+  "website_url": "https://www.drmartens.com/us/en/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Air-Cushioned Leather Boots",
+  "hq_country": "GB",
+  "founded_year": 1960,
+  "parent_company": "Dr. Martens plc",
+  "size_range": "US women 5–12, men 6–16",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 50,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "boots",
+      "currency": "USD",
+      "min": 130,
+      "max": 430,
+      "min_usd": 130,
+      "max_usd": 430,
+      "fx_date": null,
+      "item_count": 81,
+      "source_url": "https://www.drmartens.com/us/en/unisex/boots/c/04010000",
+      "checked_at": "2026-10-29",
+      "note": "US store boots category (WebFetch; the bot UA gets a challenge page), all 3 pages, 81 items, none marked down. Low: Combs Tech MK.02 $130 and Hardie II $130; 1460 Smooth Leather Lace Up Boots $180; Jadon Boot Smooth Leather Platforms $210; 2976 and 1460 Vintage Made In England $280; MM6 collabs $320; high: Rick Owens Steel Toe Boots $430."
+    }
+  ],
+  "materials": [
+    "Leather"
+  ],
+  "sells_categories": [
+    "boots"
+  ],
+  "sources": [
+    "https://www.drmartens.com/us/en/",
+    "https://www.drmartens.com/us/en/unisex/boots/c/04010000",
+    "https://www.drmartens.com/us/en/unisex/boots/c/04010000?page=2",
+    "https://www.drmartens.com/us/en/unisex/boots/c/04010000?page=3",
+    "https://www.drmartens.com/us/en/1460-smooth-leather-lace-up-boots-black/p/11822006",
+    "https://www.drmartens.com/us/en/about/size-guide",
+    "https://www.drmartens.com/us/en/terms-conditions",
+    "https://drmartensplc.com/our-business",
+    "https://support.drmartens.com/s/article/what-is-your-us-return-policy?language=en_US"
+  ],
+  "notes": [
+    "drmartens.com serves a bot-challenge page (toadmash) to the StylodexBot UA; not worked around. Store pages read with WebFetch (https://www.drmartens.com/us/en/).",
+    "Boots category: 81 items over 3 pages, $130–$430, no markdowns. Names: 1460 Smooth Leather Lace Up Boots $180, 2976 Chelsea $180, Jadon platforms $210, Combs Tech MK.02 $130, 1460 and 2976 Vintage Made In England $280, Rick Owens Steel Toe Boots $430 (https://www.drmartens.com/us/en/unisex/boots/c/04010000?page=2).",
+    "1460 product page: $180, upper 100% leather, sole 100% PVC, grooved air-cushioned sole; US women's 5–12, men's 6–14 with 15 and 16 listed as notify-me; 'Free shipping on orders $50+' (https://www.drmartens.com/us/en/1460-smooth-leather-lace-up-boots-black/p/11822006).",
+    "Size guide: if between sizes it's better a little bigger than too small, and an insole can take up half a size; men's and unisex styles are wider with a rounder toe, women's narrower (https://www.drmartens.com/us/en/about/size-guide).",
+    "Terms: free shipping on orders of $50 or more to a single US address; prices valid only in the United States (https://www.drmartens.com/us/en/terms-conditions).",
+    "Dr. Martens plc: the first boot was born on 1 April 1960 in Wollaston, England, hence '1460'; HQ 28 Jamestown Rd, Camden, London; registered in England and Wales (https://drmartensplc.com/our-business).",
+    "returns_days 30: the US return-policy article renders client-side (Salesforce) and its old Zendesk URL returns 401. The 30 days from the order date, unworn in original packaging, refunds only (no exchanges) come from the search-index text of support.drmartens.com's 'What is your US return policy?' article, not a page fetch. Human check (https://support.drmartens.com/s/article/what-is-your-us-return-policy?language=en_US)."
+  ],
+  "checked_at": "2026-10-29"
+}

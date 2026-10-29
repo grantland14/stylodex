@@ -1,0 +1,1791 @@
+{
+  "subject": "ModCloth",
+  "slug": "modcloth",
+  "url_prefix": "stores",
+  "category": {
+    "slug": "dresses",
+    "name": "Dresses",
+    "why": "ModCloth is a multi-label store (kind retailer) whose own positioning is vintage-style clothing, and dresses are its centre: its largest collection is vintage-dresses (861 products), the SERP questions and threads ask where to buy 'same dresses from Modcloth' and 'retro dresses', and Ahrefs questions include 'where does modcloth get their dresses'. Dresses are the like-for-like item every pick sells: regular-price (no compare_at markdown), in-stock dresses on each store's own dress collection, read as a US shopper is charged. Using dresses rather than womens-clothing also avoids ModCloth's womens-clothing row, which stores jeans. ModCloth: $49–$329, median $89, 630 dresses."
+  },
+  "checked_at": "2026-10-29",
+  "fx": {
+    "source": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+    "date": "2026-10-28",
+    "per_eur": {
+      "USD": 1.1133,
+      "GBP": 0.83785
+    },
+    "usd_per_gbp": 1.328758
+  },
+  "serp": [
+    {
+      "keyword": "stores like modcloth",
+      "position": 1,
+      "url": "https://www.reddit.com/r/ethicalfashion/comments/1iegj4v/i_figured_out_modcloths_business_model_best/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround"
+    },
+    {
+      "keyword": "stores like modcloth",
+      "position": 1,
+      "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/",
+      "kept": true,
+      "why_dropped": null,
+      "note": "Have Clothes, Will Travel, Lindsey Puls, updated 2024-01-19. 27 stores + bonus + honorable mentions, all framed as ModCloth alternatives."
+    },
+    {
+      "keyword": "stores like modcloth",
+      "position": 1,
+      "url": "https://www.reddit.com/r/TheGirlSurvivalGuide/comments/7ha2d2/alternatives_to_modcloth/",
+      "kept": false,
+      "why_dropped": "unfetchable: reddit"
+    },
+    {
+      "keyword": "stores like modcloth",
+      "position": 2,
+      "url": "https://www.quora.com/Where-can-I-buy-stylish-clothes-at-a-low-price-online",
+      "kept": false,
+      "why_dropped": "general Quora question, not about ModCloth"
+    },
+    {
+      "keyword": "stores like modcloth",
+      "position": 4,
+      "url": "https://www.houzz.com/discussions/6148613/where-are-your-young-adult-daughters-shopping-for-dresses",
+      "kept": false,
+      "why_dropped": "general forum thread, not about ModCloth alternatives"
+    },
+    {
+      "keyword": "stores like modcloth",
+      "position": 5,
+      "url": "https://remedi-cool.com/product/review/15384799131950",
+      "kept": false,
+      "why_dropped": "spam/scraped copy of the HCWT title"
+    },
+    {
+      "keyword": "stores like modcloth",
+      "position": 6,
+      "url": "https://forums.theknot.com/discussion/131676/pretty-dresses",
+      "kept": false,
+      "why_dropped": "general forum thread about dresses, not ModCloth alternatives"
+    },
+    {
+      "keyword": "stores like modcloth",
+      "position": 7,
+      "url": "https://www.phatmass.com/phorum/topic/109606-modest-dresses/",
+      "kept": false,
+      "why_dropped": "modest-dress forum thread, not ModCloth alternatives"
+    },
+    {
+      "keyword": "stores like modcloth",
+      "position": 8,
+      "url": "https://www.quora.com/What-clothing-stores-have-stylish-clothes-for-a-low-price",
+      "kept": false,
+      "why_dropped": "general Quora question"
+    },
+    {
+      "keyword": "stores like modcloth",
+      "position": 9,
+      "url": "https://entruempelung-guenstig.de/?h=15384799051860",
+      "kept": false,
+      "why_dropped": "spam/scraped page"
+    },
+    {
+      "keyword": "stores like modcloth",
+      "position": 10,
+      "url": "https://www.quora.com/What-is-your-favorite-go-to-online-shopping-outlet?no_redirect=1",
+      "kept": false,
+      "why_dropped": "general Quora question"
+    },
+    {
+      "keyword": "brands like modcloth",
+      "position": 1,
+      "url": "https://www.reddit.com/r/SustainableFashion/comments/1op4il2/modcloth_alternatives/",
+      "kept": false,
+      "why_dropped": "unfetchable: reddit (sitelink)"
+    },
+    {
+      "keyword": "brands like modcloth",
+      "position": 2,
+      "url": "https://iamandco.com/blogs/articles/6-stores-like-modcloth",
+      "kept": true,
+      "why_dropped": null,
+      "note": "I AM & CO blog (the site sells stationery and home goods, not clothing), undated, no author. 8 stores framed as stores like ModCloth."
+    },
+    {
+      "keyword": "brands like modcloth",
+      "position": 2,
+      "url": "https://modcloth.com/",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "brands like modcloth",
+      "position": 6,
+      "url": "https://www.rebeccajoneshowe.com/filling-up-your-closet-where-to-shop-now-that-modcloth-has-sold-its-soul/",
+      "kept": true,
+      "why_dropped": null,
+      "note": "Rebecca Jones-Howe blog, 2017 (archive shows Oct-Dec 2017), written when ModCloth was sold to Jet.com/Walmart. 'Modcloth-esque boutiques': read via curl with the bot UA (WebFetch returned an empty body)."
+    },
+    {
+      "keyword": "brands like modcloth",
+      "position": 8,
+      "url": "https://www.pinterest.com/pin/8-stores-like-modcloth-with-cool-retro-style-modernvintage-threads--672866000570504152/",
+      "kept": false,
+      "why_dropped": "Pinterest pin of the I AM & CO article"
+    },
+    {
+      "keyword": "brands like modcloth",
+      "position": 9,
+      "url": "https://stylewise-blog.com/ethical-alternatives-to-modcloth/",
+      "kept": true,
+      "why_dropped": null,
+      "note": "StyleWise Blog, Leah Wise, 2021-08-13, updated 2026-06-08. Ethical alternatives to ModCloth; two secondhand resellers not used."
+    },
+    {
+      "keyword": "brands like modcloth",
+      "position": 10,
+      "url": "https://www.facebook.com/fb-answers/clothing-stores-like-modcloth/",
+      "kept": false,
+      "why_dropped": "WebFetch returned only 'Facebook'; no content readable"
+    },
+    {
+      "keyword": "modcloth alternatives",
+      "position": 2,
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/24l19u/retro_but_not_modcloth/",
+      "kept": false,
+      "why_dropped": "unfetchable: reddit"
+    },
+    {
+      "keyword": "modcloth alternatives",
+      "position": 3,
+      "url": "https://www.reddit.com/r/AskNYC/comments/4d6aom/brick_and_mortar_stores_like_modcloth_in_nyc/",
+      "kept": false,
+      "why_dropped": "unfetchable: reddit"
+    },
+    {
+      "keyword": "modcloth alternatives",
+      "position": 4,
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/18xe3n/what_is_your_favorite_clothing_website/",
+      "kept": false,
+      "why_dropped": "unfetchable: reddit; general"
+    },
+    {
+      "keyword": "modcloth alternatives",
+      "position": 5,
+      "url": "https://www.similarsitesearch.com/sites/modcloth/",
+      "kept": false,
+      "why_dropped": "site-similarity directory (similist-style); dropped"
+    },
+    {
+      "keyword": "modcloth alternatives",
+      "position": 6,
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/znp0x/where_can_i_buy_same_dresses_from_modcloth_for/",
+      "kept": false,
+      "why_dropped": "unfetchable: reddit"
+    },
+    {
+      "keyword": "modcloth alternatives",
+      "position": 8,
+      "url": "https://www.quora.com/How-can-I-start-an-online-clothing-store-like-Forever21-ModCloth-etc",
+      "kept": false,
+      "why_dropped": "about starting a store, not alternatives"
+    },
+    {
+      "keyword": "modcloth alternatives",
+      "position": 9,
+      "url": "https://sunewbenin.com.ng/tag/121440531/",
+      "kept": false,
+      "why_dropped": "spam tag page"
+    },
+    {
+      "keyword": "modcloth alternatives",
+      "position": 10,
+      "url": "https://www.reddit.com/r/Weddingsunder10k/comments/5y88i3/looking_for_alternative_dresses/",
+      "kept": false,
+      "why_dropped": "unfetchable: reddit; not about ModCloth"
+    },
+    {
+      "keyword": "similar to modcloth",
+      "position": 1,
+      "url": "https://storeslikefinder.com/stores-like-modcloth/",
+      "kept": false,
+      "why_dropped": "host doesn't resolve in this session's network (ENOTFOUND); not read"
+    },
+    {
+      "keyword": "similar to modcloth",
+      "position": 1,
+      "url": "https://www.craftfoxes.com/blog/the-10-best-vintage-style-online-stores",
+      "kept": false,
+      "why_dropped": "read 2026-10-29: general vintage-style roundup ('online stores and sites like Modcloth and Unique Vintage') that lists ModCloth itself as #3; merely co-lists stores, so not evidence"
+    },
+    {
+      "keyword": "similar to modcloth",
+      "position": 1,
+      "url": "https://se.pinterest.com/pin/619948704948253987/",
+      "kept": false,
+      "why_dropped": "Pinterest pin of the HCWT article"
+    },
+    {
+      "keyword": "similar to modcloth",
+      "position": 2,
+      "url": "https://www.reddit.com/r/PlusSizeFashion/comments/1iob3wi/for_those_of_us_who_used_to_love_modcloth_where/",
+      "kept": false,
+      "why_dropped": "unfetchable: reddit"
+    },
+    {
+      "keyword": "similar to modcloth",
+      "position": 2,
+      "url": "https://www.reddit.com/r/TallGirls/comments/1jnd0ts/shops_like_modcloth/",
+      "kept": false,
+      "why_dropped": "unfetchable: reddit"
+    },
+    {
+      "keyword": "similar to modcloth",
+      "position": 2,
+      "url": "https://www.reddit.com/r/ethicalfashion/comments/mtw223/ethical_brands_that_have_a_similar_style_to/",
+      "kept": false,
+      "why_dropped": "unfetchable: reddit"
+    },
+    {
+      "keyword": "similar to modcloth",
+      "position": 5,
+      "url": "https://www.pinterest.com/pin/503840277066678588/",
+      "kept": false,
+      "why_dropped": "Pinterest pin of the HCWT Europe article"
+    },
+    {
+      "keyword": "similar to modcloth",
+      "position": 6,
+      "url": "https://www.cbinsights.com/company/modcloth/alternatives-competitors",
+      "kept": false,
+      "why_dropped": "business competitor database, not a shopping recommendation"
+    },
+    {
+      "keyword": "similar to modcloth",
+      "position": 9,
+      "url": "https://www.have-clothes-will-travel.com/?p=40359",
+      "kept": true,
+      "why_dropped": null,
+      "note": "HCWT Europe list, Lindsey Puls, 2024-03-28 (read via ?p=40359). Same site as the US list, so its mentions don't add an independent source."
+    },
+    {
+      "keyword": "(WebSearch) stores like ModCloth vintage inspired dresses alternatives",
+      "position": null,
+      "url": "https://thehudsucker.com/2017/03/20/6-trendy-alternatives-to-modcloth-you-must-check-out-this-spring/",
+      "kept": true,
+      "why_dropped": null,
+      "note": "The Hudsucker, Tania Hussain, 2017-03-20: '6 trendy alternatives to ModCloth'. Mostly Canadian boutiques."
+    },
+    {
+      "keyword": "(WebSearch) stores like ModCloth vintage inspired dresses alternatives",
+      "position": null,
+      "url": "https://www.thefashionspot.com/?p=179885",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch; not read"
+    },
+    {
+      "keyword": "(WebSearch) stores like ModCloth vintage inspired dresses alternatives",
+      "position": null,
+      "url": "https://charlestoncitypaper.com/?p=21878",
+      "kept": false,
+      "why_dropped": "read: 2009 review of ModCloth itself; recommends no alternative"
+    },
+    {
+      "keyword": "(direct) disco directory",
+      "position": null,
+      "url": "https://discobrands.co/brands/modcloth",
+      "kept": true,
+      "why_dropped": null,
+      "note": "Unsigned directory (Ash-approved evidence, never named on the page). 'If you like Modcloth': MinkPink 70%, Damson Madder 68%, Lovestitch 65%, Torrid 63%."
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": "n/a",
+      "url": null,
+      "used": false,
+      "why": "ModCloth is itself the multi-label store; the labels it stocks (Dangerfield, Orchid Bloom, Retrolicious) are what it sells, not alternatives named by outside sources."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Unique Vintage",
+      "slug": "unique-vintage",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/6-stores-like-modcloth"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rebeccajoneshowe.com/filling-up-your-closet-where-to-shop-now-that-modcloth-has-sold-its-soul/"
+        }
+      ]
+    },
+    {
+      "name": "Collectif",
+      "slug": "collectif",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/6-stores-like-modcloth"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/?p=40359"
+        }
+      ]
+    },
+    {
+      "name": "Boden",
+      "slug": "boden",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/6-stores-like-modcloth"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/?p=40359"
+        }
+      ]
+    },
+    {
+      "name": "Alice + Olivia",
+      "slug": "alice-olivia",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/6-stores-like-modcloth"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Ruche",
+      "slug": "ruche",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rebeccajoneshowe.com/filling-up-your-closet-where-to-shop-now-that-modcloth-has-sold-its-soul/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://thehudsucker.com/2017/03/20/6-trendy-alternatives-to-modcloth-you-must-check-out-this-spring/"
+        }
+      ]
+    },
+    {
+      "name": "Chi Chi London",
+      "slug": "chi-chi-london",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/?p=40359"
+        }
+      ]
+    },
+    {
+      "name": "Sister Jane",
+      "slug": "sister-jane",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/?p=40359"
+        }
+      ]
+    },
+    {
+      "name": "Miss Patina",
+      "slug": "miss-patina",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/?p=40359"
+        }
+      ]
+    },
+    {
+      "name": "eShakti",
+      "slug": "eshakti",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/?p=40359"
+        }
+      ]
+    },
+    {
+      "name": "Chicwish",
+      "slug": "chicwish",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/?p=40359"
+        }
+      ]
+    },
+    {
+      "name": "ZAPAKA",
+      "slug": "zapaka",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/?p=40359"
+        }
+      ]
+    },
+    {
+      "name": "ASOS",
+      "slug": "asos",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/?p=40359"
+        }
+      ]
+    },
+    {
+      "name": "& Other Stories",
+      "slug": "other-stories",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/?p=40359"
+        }
+      ]
+    },
+    {
+      "name": "H&M",
+      "slug": "h-m",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/?p=40359"
+        }
+      ]
+    },
+    {
+      "name": "Amazon",
+      "slug": "amazon",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/?p=40359"
+        }
+      ]
+    },
+    {
+      "name": "Lilly Pulitzer",
+      "slug": "lilly-pulitzer",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Rachel Antonoff",
+      "slug": "rachel-antonoff",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Joanie Clothing",
+      "slug": "joanie-clothing",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Princess Highway",
+      "slug": "princess-highway",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Anthropologie",
+      "slug": "anthropologie",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Zappos",
+      "slug": "zappos",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Marchesa Notte",
+      "slug": "marchesa-notte",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Retrolicious",
+      "slug": "retrolicious",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Nordstrom",
+      "slug": "nordstrom",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Review Australia",
+      "slug": "review-australia",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Simple Retro",
+      "slug": "simple-retro",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Hell Bunny",
+      "slug": "hell-bunny",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Lady V London",
+      "slug": "lady-v-london",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Wolf & Badger",
+      "slug": "wolf-badger",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Steady Clothing",
+      "slug": "steady-clothing",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Tatyana Boutique",
+      "slug": "tatyana",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Kelley Hollis Jewelry",
+      "slug": "kelley-hollis",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Nasty Gal",
+      "slug": "nasty-gal",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Frances Valentine",
+      "slug": "frances-valentine",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Adrianna Papell",
+      "slug": "adrianna-papell",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Madewell",
+      "slug": "madewell",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Pixie Market",
+      "slug": "pixie-market",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Clema W",
+      "slug": "clema-w",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Urban Outfitters",
+      "slug": "urban-outfitters",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Free People",
+      "slug": "free-people",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Ted Baker",
+      "slug": "ted-baker",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/?p=40359"
+        }
+      ]
+    },
+    {
+      "name": "Hearts and Found",
+      "slug": "hearts-and-found",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/?p=40359"
+        }
+      ]
+    },
+    {
+      "name": "Voodoo Vixen",
+      "slug": "voodoo-vixen",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/?p=40359"
+        }
+      ]
+    },
+    {
+      "name": "Top Vintage",
+      "slug": "top-vintage",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/?p=40359"
+        }
+      ]
+    },
+    {
+      "name": "Shein",
+      "slug": "shein",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/6-stores-like-modcloth"
+        }
+      ]
+    },
+    {
+      "name": "Playful Promises",
+      "slug": "playful-promises",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/6-stores-like-modcloth"
+        }
+      ]
+    },
+    {
+      "name": "Lindy Bop",
+      "slug": "lindy-bop",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/6-stores-like-modcloth"
+        }
+      ]
+    },
+    {
+      "name": "Rosegal",
+      "slug": "rosegal",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/6-stores-like-modcloth"
+        }
+      ]
+    },
+    {
+      "name": "Blame Betty",
+      "slug": "blame-betty",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rebeccajoneshowe.com/filling-up-your-closet-where-to-shop-now-that-modcloth-has-sold-its-soul/"
+        }
+      ]
+    },
+    {
+      "name": "RoRox Boutique",
+      "slug": "rorox",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rebeccajoneshowe.com/filling-up-your-closet-where-to-shop-now-that-modcloth-has-sold-its-soul/"
+        }
+      ]
+    },
+    {
+      "name": "Atom Retro",
+      "slug": "atom-retro",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rebeccajoneshowe.com/filling-up-your-closet-where-to-shop-now-that-modcloth-has-sold-its-soul/"
+        }
+      ]
+    },
+    {
+      "name": "Joy",
+      "slug": "joy",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rebeccajoneshowe.com/filling-up-your-closet-where-to-shop-now-that-modcloth-has-sold-its-soul/"
+        }
+      ]
+    },
+    {
+      "name": "Plasticland",
+      "slug": "plasticland",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rebeccajoneshowe.com/filling-up-your-closet-where-to-shop-now-that-modcloth-has-sold-its-soul/"
+        }
+      ]
+    },
+    {
+      "name": "SugarDoll Swimwear",
+      "slug": "sugardoll",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rebeccajoneshowe.com/filling-up-your-closet-where-to-shop-now-that-modcloth-has-sold-its-soul/"
+        }
+      ]
+    },
+    {
+      "name": "Shabby Apple",
+      "slug": "shabby-apple",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rebeccajoneshowe.com/filling-up-your-closet-where-to-shop-now-that-modcloth-has-sold-its-soul/"
+        }
+      ]
+    },
+    {
+      "name": "Pinup Girl Clothing",
+      "slug": "pinup-girl-clothing",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rebeccajoneshowe.com/filling-up-your-closet-where-to-shop-now-that-modcloth-has-sold-its-soul/"
+        }
+      ]
+    },
+    {
+      "name": "Mata Traders",
+      "slug": "mata-traders",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://stylewise-blog.com/ethical-alternatives-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "National Picnic",
+      "slug": "national-picnic",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://stylewise-blog.com/ethical-alternatives-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Reformation",
+      "slug": "reformation",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://stylewise-blog.com/ethical-alternatives-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Lisa Says Gah",
+      "slug": "lisa-says-gah",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://stylewise-blog.com/ethical-alternatives-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Big Bud Press",
+      "slug": "big-bud-press",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://stylewise-blog.com/ethical-alternatives-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Thief and Bandit",
+      "slug": "thief-and-bandit",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://stylewise-blog.com/ethical-alternatives-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Fortress Shoes",
+      "slug": "fortress-shoes",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://stylewise-blog.com/ethical-alternatives-to-modcloth/"
+        }
+      ]
+    },
+    {
+      "name": "Boutique 1861",
+      "slug": "boutique-1861",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://thehudsucker.com/2017/03/20/6-trendy-alternatives-to-modcloth-you-must-check-out-this-spring/"
+        }
+      ]
+    },
+    {
+      "name": "Lace Affair",
+      "slug": "lace-affair",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://thehudsucker.com/2017/03/20/6-trendy-alternatives-to-modcloth-you-must-check-out-this-spring/"
+        }
+      ]
+    },
+    {
+      "name": "Dottie Couture",
+      "slug": "dottie-couture",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://thehudsucker.com/2017/03/20/6-trendy-alternatives-to-modcloth-you-must-check-out-this-spring/"
+        }
+      ]
+    },
+    {
+      "name": "Dress 911",
+      "slug": "dress-911",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://thehudsucker.com/2017/03/20/6-trendy-alternatives-to-modcloth-you-must-check-out-this-spring/"
+        }
+      ]
+    },
+    {
+      "name": "Jules Boutique",
+      "slug": "jules-boutique",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://thehudsucker.com/2017/03/20/6-trendy-alternatives-to-modcloth-you-must-check-out-this-spring/"
+        }
+      ]
+    },
+    {
+      "name": "MinkPink",
+      "slug": "minkpink",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://discobrands.co/brands/modcloth"
+        }
+      ]
+    },
+    {
+      "name": "Damson Madder",
+      "slug": "damson-madder",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://discobrands.co/brands/modcloth"
+        }
+      ]
+    },
+    {
+      "name": "Lovestitch",
+      "slug": "lovestitch",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://discobrands.co/brands/modcloth"
+        }
+      ]
+    },
+    {
+      "name": "Torrid",
+      "slug": "torrid",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://discobrands.co/brands/modcloth"
+        }
+      ]
+    }
+  ],
+  "picks": [
+    {
+      "slug": "unique-vintage",
+      "rank": 1,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 58.0,
+        "max": 268.0,
+        "min_usd": 58.0,
+        "max_usd": 268.0,
+        "fx_date": null,
+        "item_count": 370
+      },
+      "price_relation": "similar",
+      "reason": "Unique Vintage's full-price dresses run $58 to $268 with a $110 median, in sizes XS to 5X, mixing its own swing dresses with labels such as Smak Parlour, and US shipping is free over $130.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/",
+          "note": "#1: 'the store most like ModCloth in terms of pricing and style'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/6-stores-like-modcloth",
+          "note": "#2 Unique Vintage: 'still independently owned', strong on 50s and 60s styles"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rebeccajoneshowe.com/filling-up-your-closet-where-to-shop-now-that-modcloth-has-sold-its-soul/",
+          "note": "Unique Vintage: 'they've updated it to be more Modcloth-esque' (2017 post)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "collectif",
+      "rank": 2,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 90.0,
+        "max": 128.0,
+        "min_usd": 90.0,
+        "max_usd": 128.0,
+        "fx_date": null,
+        "item_count": 118
+      },
+      "price_relation": "similar",
+      "reason": "Collectif's full-price swing dresses cost $90 to $128 on its US store, in UK sizes 6 to 26, with US orders under $800 shipped duty paid and free shipping over $100.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/",
+          "note": "#16 Collectif: 'The vintage style and quirky prints are the perfect addition'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/6-stores-like-modcloth",
+          "note": "#7 CollectIf: 'closely aligned with Modcloth as a collaborative partner'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/?p=40359",
+          "note": "same site as #16 (Europe list), #1 Collectif; not counted as independent"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "boden",
+      "rank": 3,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 99.0,
+        "max": 460.0,
+        "min_usd": 99.0,
+        "max_usd": 460.0,
+        "fx_date": null,
+        "item_count": 189
+      },
+      "price_relation": "similar",
+      "reason": "Boden's US store sells full-price dresses from $99 to $460 in XS to XL, with petite and tall collections and a 45-day return window.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/6-stores-like-modcloth",
+          "note": "#5 Boden USA: 'a U.K. retailer that prioritizes fun in fashion'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/?p=40359",
+          "note": "#9 Boden: 'Boden exists to create joy' (Europe list)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "alice-olivia",
+      "rank": 4,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 295.0,
+        "max": 2195.0,
+        "min_usd": 295.0,
+        "max_usd": 2195.0,
+        "fx_date": null,
+        "item_count": 101
+      },
+      "price_relation": "similar",
+      "reason": "Alice + Olivia's full-price dresses start at $295, near ModCloth's top price, with printed midis from $395, free US ground shipping on every order and US stores.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/6-stores-like-modcloth",
+          "note": "#1 Alice & Olivia: 'high-end designer retailer', bold, pricier designer pieces"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/",
+          "note": "honorable mention (listed without description)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "hell-bunny",
+      "rank": 5,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 64.0,
+        "max": 144.0,
+        "min_usd": 64.0,
+        "max_usd": 144.0,
+        "fx_date": null,
+        "item_count": 164
+      },
+      "price_relation": "similar",
+      "reason": "Hell Bunny's full-price dresses cost $64 to $144 on its US store, in sizes XXS to 6XL, from a London label making 1950s shapes in alternative prints since 2003.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/",
+          "note": "#23 Hell Bunny: 'a mix of edginess and adorableness'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "sister-jane",
+      "rank": 6,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 69.0,
+        "max": 255.0,
+        "min_usd": 69.0,
+        "max_usd": 255.0,
+        "fx_date": null,
+        "item_count": 136
+      },
+      "price_relation": "similar",
+      "reason": "Sister Jane's full-price dresses run $69 to $255 with a $105 median, close to ModCloth's $89, but sizes stop at L.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/",
+          "note": "#21 Sister Jane: 'creates unique, vintage-inspired designs'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/?p=40359",
+          "note": "#10 Sister Jane (Europe list, same site)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "chi-chi-london",
+      "rank": 7,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "GBP",
+        "min": 40.0,
+        "max": 120.0,
+        "min_usd": 53.15,
+        "max_usd": 159.45,
+        "fx_date": "2026-10-28",
+        "item_count": 72
+      },
+      "price_relation": "similar",
+      "reason": "Chi Chi London's full-price dresses cost £40 to £120 (about $53 to $159), in UK sizes 4 to 26, with US delivery at £14.99 and prices charged in pounds.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/",
+          "note": "#17 Chi Chi London / Chi Chi Curve: 'specializes in formal dresses that exude vintage glamour'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/?p=40359",
+          "note": "#5 Chi Chi London (Europe list, same site)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "minkpink",
+      "rank": 8,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 109.95,
+        "max": 199.95,
+        "min_usd": 109.95,
+        "max_usd": 199.95,
+        "fx_date": null,
+        "item_count": 105
+      },
+      "price_relation": "similar",
+      "reason": "MinkPink designs its own prints in Sydney, and its full-price dresses cost $109.95 to $199.95 on the US store, in XS to XXL, with US$25 standard shipping.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://discobrands.co/brands/modcloth",
+          "note": "disco directory: 'If you like Modcloth' match list, MinkPink 70%: 'Affordable vintage-inspired prints'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "pinup-girl-clothing",
+      "rank": 9,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 45.14,
+        "max": 236.0,
+        "min_usd": 45.14,
+        "max_usd": 236.0,
+        "fx_date": null,
+        "item_count": 188
+      },
+      "price_relation": "similar",
+      "reason": "Pinup Girl Clothing's full-price dresses run $45.14 to $236 in XS to 5X, with its own made-to-order Pinup Couture line around $158 and free US shipping over $200.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rebeccajoneshowe.com/filling-up-your-closet-where-to-shop-now-that-modcloth-has-sold-its-soul/",
+          "note": "Pinup Girl Clothing: 'They carry mostly 50's-60's-inspired pieces' (2017 post, shops planned)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "mata-traders",
+      "rank": 10,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 134.0,
+        "max": 229.0,
+        "min_usd": 134.0,
+        "max_usd": 229.0,
+        "fx_date": null,
+        "item_count": 25
+      },
+      "price_relation": "similar",
+      "reason": "Mata Traders sells playful printed dresses under a fair trade mission from Chicago, full price $134 to $229 in XS to 3X, with free US shipping over $200.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://stylewise-blog.com/ethical-alternatives-to-modcloth/",
+          "note": "#1 Mata Traders: 'Feminine block printed woven and jersey cotton dresses, skirts, and blouses'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "damson-madder",
+      "rank": 11,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 105.0,
+        "max": 315.0,
+        "min_usd": 105.0,
+        "max_usd": 315.0,
+        "fx_date": null,
+        "item_count": 37
+      },
+      "price_relation": "similar",
+      "reason": "Damson Madder's US store sells full-price dresses from $105 to $315 in US 2 to 16, and it covers all duties and tariffs on US orders.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://discobrands.co/brands/modcloth",
+          "note": "disco directory: 'If you like Modcloth' match list, Damson Madder 68%: 'Quirkier, pricier indie prints'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "thief-and-bandit",
+      "rank": 12,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 164.0,
+        "max": 245.0,
+        "min_usd": 164.0,
+        "max_usd": 245.0,
+        "fx_date": null,
+        "item_count": 23
+      },
+      "price_relation": "similar",
+      "reason": "Thief and Bandit hand-prints and sews each dress to order in Nova Scotia, full price $164 to $245 on its US store, in XXS to 4X, with free North American shipping.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://stylewise-blog.com/ethical-alternatives-to-modcloth/",
+          "note": "#6 Thief & Bandit: 'Screen printed blouses, dresses, skirts, and more in stunning floral and natural motifs'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "rachel-antonoff",
+      "rank": 13,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 248.0,
+        "max": 398.0,
+        "min_usd": 248.0,
+        "max_usd": 398.0,
+        "fx_date": null,
+        "item_count": 26
+      },
+      "price_relation": "similar",
+      "reason": "Rachel Antonoff's full-price novelty-print dresses cost $248 to $398, in XXS to XXL and 1X to 3X, with free shipping over $300.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/",
+          "note": "#3 Rachel Antonoff: 'known for their playful prints, clever details, and retro-chic vibe'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "nordstrom",
+      "rank": 14,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": null,
+      "price_relation": null,
+      "reason": "Nordstrom sells women's dresses in sizes 00 to 28W with petite and plus sections, free US shipping, no time limit on returns and US stores.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/",
+          "note": "#12 Nordstrom: 'many beautiful dresses and skirts to choose from'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "ruche",
+      "why": "2 sources (RJH 2017, Hudsucker 2017). shopruche.com serves only a JavaScript redirect to /lander (a parked-domain page) to the bot UA on 2026-10-29; no store found. Not marked defunct (no brand file written); human check."
+    },
+    {
+      "slug": "retrolicious",
+      "why": "1 source (HCWT #11). retrolicious.com serves a /lander redirect (parked domain). Its dresses are sold through Unique Vintage, Pinup Girl Clothing and ModCloth itself, so it isn't a separate place to shop."
+    },
+    {
+      "slug": "lindy-bop",
+      "why": "1 source (I AM & CO) + Apart Style pool. lindybop.co.uk returns Shopify 'This store is unavailable' (404); lindybop.com serves a /lander redirect. No official store found; not marked defunct."
+    },
+    {
+      "slug": "lovestitch",
+      "why": "disco only. lovestitch.com serves a /lander redirect; WebSearch found no official store (only Walmart, Simon and eBay listings)."
+    },
+    {
+      "slug": "chicwish",
+      "why": "chicwish.com HTTP 403 to the bot UA (2026-10-29). HCWT (both lists): 'a VERY similar style and price point to Modcloth'. Human check."
+    },
+    {
+      "slug": "lilly-pulitzer",
+      "why": "lillypulitzer.com HTTP 403 to the bot UA. 1 source (HCWT #2)."
+    },
+    {
+      "slug": "joanie-clothing",
+      "why": "joanieclothing.com HTTP 403 to the bot UA. 1 source (HCWT #4) + Apart Style pool. Human check."
+    },
+    {
+      "slug": "eshakti",
+      "why": "eshakti.com: connection reset / expired TLS certificate (2026-10-29); not read. 1 site (HCWT, both lists)."
+    },
+    {
+      "slug": "princess-highway",
+      "why": "1 source (HCWT #5) + pool. princesshighway.com.au US market (/en-us) dresses feed: all 274 in-stock dresses are marked down (compare_at above price), so no regular price exists to compare; shipping not checked. Not a pick this run."
+    },
+    {
+      "slug": "steady-clothing",
+      "why": "1 source (HCWT #26) + pool. Live (Anaheim, CA, founded 1994, made in the USA), but its dresses collection has 7 products, only 3 at regular price ($79.99): too thin to stand as a dress pick. No brand file written."
+    },
+    {
+      "slug": "torrid",
+      "why": "disco only; brand file status unverified (other run). Not retried."
+    },
+    {
+      "slug": "anthropologie",
+      "why": "unverified (403 on other runs). 1 source (HCWT #6)."
+    },
+    {
+      "slug": "reformation",
+      "why": "unverified (403 on other runs). 1 source (StyleWise)."
+    },
+    {
+      "slug": "asos",
+      "why": "unverified (other runs). HCWT honorable mention only."
+    },
+    {
+      "slug": "other-stories",
+      "why": "unverified (other runs). HCWT #14."
+    },
+    {
+      "slug": "lisa-says-gah",
+      "why": "verified, but no dresses collection on lisasaysgah.com (collections.json has only beach-dresses and empty dress-name collections), so no like-for-like dresses price. 1 source (StyleWise)."
+    },
+    {
+      "slug": "big-bud-press",
+      "why": "verified, but known for unisex everyday goods; no dresses collection checked; 1 source (StyleWise). Not checked for dresses this run."
+    },
+    {
+      "slug": "zappos",
+      "why": "HCWT #8 recommends it for shoes ('incredible selection of shoes'), not dresses."
+    },
+    {
+      "slug": "amazon",
+      "why": "marketplace. HCWT #10."
+    },
+    {
+      "slug": "wolf-badger",
+      "why": "marketplace of independent designers. HCWT #25."
+    },
+    {
+      "slug": "shein",
+      "why": "unverified marketplace (other runs). I AM & CO #3."
+    },
+    {
+      "slug": "rosegal",
+      "why": "marketplace-style budget site; I AM & CO #8; not checked."
+    },
+    {
+      "slug": "the-kissing-tree-vintage, smockwalker-vintage",
+      "why": "secondhand vintage resellers (StyleWise #7, #8): never a pick (enrich.md §1 4c)."
+    },
+    {
+      "slug": "playful-promises",
+      "why": "lingerie-led (I AM & CO #4, 'U.K. lingerie and clothing brand'); not checked."
+    },
+    {
+      "slug": "fortress-shoes, kelley-hollis, sugardoll",
+      "why": "shoes, jewellery and swimwear only: no dresses."
+    },
+    {
+      "slug": "uk-and-canada-boutiques-2017",
+      "why": "RJH and Hudsucker (both 2017) boutiques Blame Betty, RoRox, Atom Retro, Joy, Plasticland, Shabby Apple, Boutique 1861, Lace Affair, Dottie Couture, Dress 911, Jules Boutique: single 2017 sources, mostly non-US; not checked this run (14 picks already verified)."
+    },
+    {
+      "slug": "remaining-single-mentions",
+      "why": "Marchesa Notte, Review Australia, Miss Patina, ZAPAKA, Simple Retro, Lady V London, Tatyana, Ted Baker, Hearts and Found, Voodoo Vixen, Top Vintage, National Picnic and the HCWT honorable mentions: one source each (several Europe-list only); not checked this run."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "pick check: Chicwish, Joanie Clothing, Lilly Pulitzer (403)",
+      "url": "https://chicwish.com/",
+      "check": "403 to the bot UA. Chicwish is named twice by HCWT as 'a VERY similar style and price point'; confirm US shipping, returns and a regular-price dress range."
+    },
+    {
+      "fact": "Ruche and Lindy Bop: closed or moved?",
+      "url": "https://shopruche.com/",
+      "check": "Both official domains serve parked or unavailable pages. Confirm whether either still trades under another domain before anyone marks them defunct."
+    },
+    {
+      "fact": "Hell Bunny ships_to US",
+      "url": "https://www.hellbunny.com/pages/faqs-delivery",
+      "check": "The delivery FAQ has no USA section; US is stored from its USD US storefront plus 'all other international orders' by DHL. Confirm at checkout and whether duties are added."
+    },
+    {
+      "fact": "evidence quality",
+      "url": "https://www.have-clothes-will-travel.com/15-online-stores-similar-to-modcloth/",
+      "check": "Most picks rest on one Have Clothes, Will Travel list (two posts, same author); two of the other four sources are 2017 blogs. MinkPink and Damson Madder rest on the disco directory alone. Decide whether that is enough to index."
+    },
+    {
+      "fact": "Thief and Bandit returns",
+      "url": "https://thiefandbandit.com/pages/faq",
+      "check": "No return terms found on the FAQ or shipping pages; returns_days is empty."
+    }
+  ],
+  "notes": [
+    "SERP: 4 Ahrefs serp-overview calls (stores like modcloth, brands like modcloth, modcloth alternatives, similar to modcloth). Kept: HCWT (US and Europe lists), I AM & CO, Rebecca Jones-Howe (2017), StyleWise; plus The Hudsucker (2017) from WebSearch and the disco directory. Reddit (7 threads) unfetchable.",
+    "Apart Style pool (read-only SQL on public.brand_relationships, 2026-10-29): 40 rows incl. Collectif (10), Joanie Clothing, Lindy Bop, Sister Jane Korea, Princess Highway, Steady Clothing, Hell Bunny, Unique Vintage, Lady V London; pool is never evidence.",
+    "Order: independent source count (domains; the two HCWT posts count once), then closeness of median dress price to ModCloth's $89. Nordstrom (no price) last.",
+    "Price method: Shopify collection feeds read with the StylodexBot UA. US prices: stores with a US market were read with Shopify's US localization (the country selector's own setting; cart currency confirmed USD). Chi Chi London has no US price list, so GBP is stored with USD at ECB 2026-10-28.",
+    "FAQ: one Ahrefs keywords-explorer-matching-terms call ('modcloth', questions, US). Kept 'is modcloth owned by walmart' (150), 'where does modcloth get their clothes' (70), 'where is modcloth based' (60); 'Is ModCloth still a thing?' from People Also Ask. Skipped 'does modcloth have stores' and 'is modcloth fast fashion' (no stored fact answers them)."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "You've filled a ModCloth cart with swing dresses, then noticed the free shipping line sits at $150 and returns cost $14 an order. Maybe you need a size past 4X, or a cheaper way to get the same retro look. Its full-price dresses run $49 to $329, so that's the yardstick here. The stores recommended most often in its place come first, then the rest, closest in price.",
+    "bodies": {
+      "unique-vintage": "Unique Vintage is the closest swap for ModCloth's swing dresses, and it goes one size further, to 5X. The middle of its range is the Blue & Burgundy Plaid Bonnie Swing Dress ($110), and full-price dresses run from $58 to $268.\n\nLike ModCloth, it mixes a house label with outside ones such as Smak Parlour and Elle Rebel. A dress whose name starts with Unique Vintage is the in-house line, and several of those sit right at $110. It also lets you shop by decade, from the 1920s to the 1990s, which is the quickest way in if you know the era you're after.\n\nFree shipping starts at $130, a little under ModCloth's $150. Returns get 30 days, but they're only free if you opt in to returns cover at checkout. If that's a sticking point, Nordstrom's returns cost nothing.",
+      "collectif": "Collectif is the pick for 1950s swing dresses with prints and pockets, at prices that barely move. Full-price dresses on its US store cost $90 to $128, from the Trixie Red Swing Dress ($90) to the Shana Black Cats Swing Dress ($128).\n\nIt's a London label that started on a Camden Market stall in 2000, and every order leaves its UK warehouse. That usually means a duty bill at the door, but US orders under $800 ship duty paid, so the checkout price is what you pay. Shipping is free over $100, which is $50 less than ModCloth asks.\n\nSizes run UK 6 to 26, and there are no exchanges, so a wrong size means a return and a fresh order. If UK 26 isn't enough, Hell Bunny goes up to 6XL.",
+      "boden": "Boden is where to go when you like ModCloth's color and print but want it in a cleaner shape you can wear to work. The Marcia Jersey Shirt Dress ($149) is typical, and full-price dresses start at $99 with the Briony Jersey Short Dress.\n\nIt's a British label, but the US store charges in dollars, so there's nothing to convert. It also has petite and tall collections, handy if ModCloth's lengths never land right. Returns get 45 days, the longest window here apart from Nordstrom.\n\nThe trade-off is size. Boden stops at XL, while ModCloth reaches 4X. And the top of its range climbs to $460. If you need the bigger sizes, Unique Vintage and Pinup Girl Clothing both go to 5X.",
+      "alice-olivia": "Alice + Olivia is the splurge version of ModCloth's printed party dress. Full-price dresses start at $295, about where ModCloth's range ends, and the Velia Embroidered Mini Dress in Hibiscus ($495) sits right in the middle.\n\nStart with the florals if you're coming from ModCloth. The Delora Midi Dress is the cheapest way in at $295, and its Floral Radiance print costs $395. US ground shipping is free on every order, and it has US stores, where returns are free too.\n\nMail returns cost $10 and the window is only 14 days, so decide fast. Most dresses also stop at a US 14. For a printed dress at a fraction of the price, Collectif or Hell Bunny will do the job.",
+      "hell-bunny": "Hell Bunny is the one for 1950s shapes in alternative prints, and it goes up to 6XL, one size past Unique Vintage. Full-price dresses on its US store run $64 to $144, from the Vixey Dress ($64) to the Siara Dress ($144).\n\nIt's a family-owned London label, going since 2003. The US store prices everything in dollars, and those prices are higher than the UK pound tags, so don't go by a UK price you've seen quoted. Orders leave the UK by DHL and take 10 to 14 working days.\n\nReturns get 30 days but are never free, and there are no exchanges. If you'd rather not wait two weeks, Unique Vintage covers the same decades and ships within the US.",
+      "sister-jane": "Sister Jane is for the romantic, nostalgic side of ModCloth, and its middle price is close too. Full-price dresses run $69 to $255, with the Circe Sequin Lace Maxi Dress from its DREAM line ($255) at the top.\n\nThe cheapest way in is Ghospell, an outside label it stocks next to its own. Its Roxy Cami Mini Dress is $69. The rest of the store is sorted into line names such as Finding Fortunes and Riviera Muse, and prices show in dollars for US shoppers.\n\nSize is where it falls short. Sister Jane stops at L, the narrowest range here by some way, and returns are only 14 days. If you need more room, Hell Bunny covers the same retro ground up to 6XL.",
+      "chi-chi-london": "Chi Chi London is a London dress specialist whose full-price range sits neatly inside ModCloth's. Dresses cost £40 to £120 (about $53 to $159), with the Peplum Embroidered Lace Bodycon Dress in Blue (£120, about $159) at the top.\n\nIt began in 1982 as a family design house in North London, and sizes run UK 4 to 26. Prices stay in pounds even for US shoppers, so your card's conversion and the £14.99 US delivery come on top. Add both before you compare it with a dollar price.\n\nReturns are tight. You get 14 days, and £3.99 comes off every unwanted return. If you'd rather pay in dollars with duties included, Collectif is the better route.",
+      "minkpink": "MinkPink designs every print in-house in Sydney, which is the real difference from ModCloth's rack of outside labels. Full-price dresses run $109.95 to $199.95, from the Pointelle Green Stripe Mini Dress to the Watercolour Floral Ruffle Maxi Dress.\n\nIt sells swimwear too, so a dress and a swimsuit can share one order. But it ships from Australia. US standard shipping is US$25, and US tariffs and duties may be added on delivery, so budget for both before you compare.\n\nSizes stop at XXL, and full-price returns get 21 days at your own cost. If the duty risk puts you off, Damson Madder pays duties on US orders.",
+      "pinup-girl-clothing": "Pinup Girl Clothing is the specialist for 1940s and 50s wiggle and swing dresses, in sizes XS to 5X. Its own Pinup Couture line is the reason to come, like the Jayne Wiggle Dress in Tomato Red Poly Crepe ($158).\n\nKnow the labels before you browse. The cheapest dresses, from $45.14, come from an outside label called Poundton. The house lines, Pinup Couture and Laura Byrnes Design, sit around $158. Those house pieces are made to order, so each one is made for you after you buy.\n\nFree US shipping starts at $200, and returns get 30 days. It's an LA company, going since 1999. If you'd rather keep a retro dress under $130, every full-price dress at Collectif fits.",
+      "mata-traders": "Mata Traders is the ethical pick, with playful printed dresses made under a fair trade mission. The Ellie Mock Neck Swing Dress in Lounge Cats Navy ($134) is the cheapest full-price dress, and the range tops out at $229.\n\nIt's based in Chicago, and local shoppers can collect orders free from its Ravenswood office. Everyone else gets free standard US shipping over $200. Sizes run XS to 3X, and its dress section holds full-price stock only, with markdowns kept in a separate sale section. If pockets matter, it has a whole section of dresses with them.\n\nReturns get 14 days, about half ModCloth's window. If you want a print-led label with more time to decide, Pinup Girl Clothing gives you 30.",
+      "damson-madder": "Damson Madder suits you if gingham and check are what you buy at ModCloth and you want them made more responsibly. Full-price dresses on its US store run $105 to $315, up to the Gisele Midi Dress in Choc Check ($315).\n\nIt's a London label, born in 2020, and in 2025 over 92% of its cotton was organic or recycled. For US orders it pays all duties and tariffs, and exchanges are free, which takes most of the risk out of buying from abroad. The labels show UK sizes, though the US store sells them as 2 to 16.\n\nRefunds cost $20 for the return label, and free shipping starts at $250. So it suits one considered dress better than a haul.",
+      "thief-and-bandit": "Thief and Bandit makes hand-printed dresses, each one printed and sewn to order in a Nova Scotia studio. The Coffee on Black Fox Den Jane Dress ($164) is the cheapest way in, and the Kiki Dress in Black ($245) is the top of the range. The prints come from the founder's own art, with names like Fox Den and Shroomed Bandit.\n\nShipping to the US is free. The catch is the wait. Making a dress takes one to three weeks, then it travels three to seven business days by USPS. Sizes run XXS to 4X.\n\nIt's a small studio, so the dress section is short. If you want far more to choose from, Unique Vintage is the place to scroll.",
+      "rachel-antonoff": "Rachel Antonoff is for the ModCloth fan who'd rather own one designer novelty print than five from a mixed rack. The Lola Dress in Ice Cream Truck ($248) is the starting price, and the Sand Art Knit Dress ($398) is the top.\n\nIt sizes inclusively, from XXS to XXL and 1X to 3X. Free shipping starts at $300, the highest bar on this list, and it ships within the US only.\n\nReturns get 14 days. Plenty of its dresses also sit in a sale section, so check there before paying full price. If you love a print-led dress but not the price, Collectif's Shana Black Cats Swing Dress costs about half as much.",
+      "nordstrom": "Nordstrom is the safe bet when you want to order several dresses and send most of them back. Returns have no time limit and are free by mail or in store, and US shipping is free on almost anything.\n\nIt's a department store, so you're shopping hundreds of labels at once. Petal & Pup is a good place to start for dresses near ModCloth's prices, like the Laurel A-Line Dress ($89). Sizes run 00 to 28W, with petite and plus sections, and there are US stores where you can try things on.\n\nWith tens of thousands of dresses to sift, though, expect more digging than at Unique Vintage or Collectif."
+    },
+    "best_for": {
+      "unique-vintage": "shopping swing dresses by decade, up to a 5X",
+      "collectif": "duty-paid British swing dresses with pockets under $130",
+      "boden": "bright printed workday dresses in petite and tall",
+      "alice-olivia": "one statement printed dress worth spending on",
+      "hell-bunny": "50s shapes in alternative prints, up to 6XL",
+      "sister-jane": "romantic lace and print dresses in smaller sizes",
+      "chi-chi-london": "a London dress inside ModCloth's price range",
+      "minkpink": "in-house prints with swimwear in the same order",
+      "pinup-girl-clothing": "made-to-order wiggle dresses from XS to 5X",
+      "mata-traders": "playful printed dresses from a fair trade label",
+      "damson-madder": "one responsibly made check dress, duties paid",
+      "thief-and-bandit": "hand-printed dresses made to order, shipped free",
+      "rachel-antonoff": "a designer novelty-print dress in inclusive sizes",
+      "nordstrom": "ordering several sizes and returning most for free"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with budget. Under $150, Collectif and Hell Bunny keep their whole full-price range in reach, and Chi Chi London sits close if you don't mind paying in pounds. Around ModCloth's middle, Unique Vintage and Sister Jane are the nearest swaps.\n\nThen check size. Hell Bunny reaches 6XL and Unique Vintage 5X, while Sister Jane stops at L and Boden at XL. If how a dress is made matters most, compare Mata Traders with Damson Madder. For one special piece, Alice + Olivia or Rachel Antonoff is worth the spend. And if you want room to change your mind, Nordstrom's returns never run out."
+    },
+    "faqs": [
+      {
+        "q": "Is ModCloth owned by Walmart?",
+        "a": "Not anymore. Walmart bought ModCloth through Jet.com in 2017 and sold it to Go Global Retail in 2019. Nogin bought it in 2021, then filed for Chapter 11 in 2023, and a 2024 restructuring plan passes it to a new owner.",
+        "source_query": "is modcloth owned by walmart"
+      },
+      {
+        "q": "Where does ModCloth get its clothes?",
+        "a": "It's a multi-label store. Alongside its own collaborations, it stocks outside labels such as Dangerfield, Orchid Bloom and Princess Highway, so the label name on each dress tells you who made it.",
+        "source_query": "where does modcloth get their clothes"
+      },
+      {
+        "q": "Where is ModCloth based?",
+        "a": "ModCloth started in a Pittsburgh dorm room in 2002 and moved to San Francisco around 2009. Its listed headquarters is now Los Angeles.",
+        "source_query": "where is modcloth based"
+      },
+      {
+        "q": "Is ModCloth still a thing?",
+        "a": "Yes. ModCloth still sells online, with full-price dresses from $49 to $329 in sizes XS to 4X. Shipping is free over $150 to the contiguous US.",
+        "source_query": "stores like modcloth",
+        "source": "people_also_ask"
+      }
+    ]
+  }
+}

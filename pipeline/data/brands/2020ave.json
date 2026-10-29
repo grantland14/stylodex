@@ -1,0 +1,31 @@
+{
+  "slug": "2020ave",
+  "name": "2020AVE",
+  "website_url": "https://www.2020ave.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Plus Size Women's Clothing",
+  "hq_country": null,
+  "has_plus": true,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 99,
+  "returns_days": 30,
+  "prices": [],
+  "sells_categories": [],
+  "sources": [
+    "https://www.2020ave.com/",
+    "https://www.2020ave.com/pages/shipping",
+    "https://www.2020ave.com/pages/returns",
+    "https://www.2020ave.com/collections.json?limit=250",
+    "https://www.2020ave.com/collections/curve-sundresses",
+    "https://www.2020ave.com/collections/plus-size-smocked-dresses"
+  ],
+  "notes": [
+    "2026-10-29 (stores-like-boohoo run): live Shopify store, title 'Shop Plus Size Women's Jeans, Tops, and more | 2020AVE'. Shipping: contiguous US ground $7.99 under $99, free at $99+; Canada $15, other international $20. Returns: within 30 days of receiving the order, free USPS label for domestic customers.",
+    "2026-10-29: no dresses on sale today: curve-sundresses and plus-size-smocked-dresses pages say 'Sorry, there are no products in this collection', and the public products.json feeds return no products. dresses left out of sells_categories; a live brand, not a dresses pick."
+  ],
+  "checked_at": "2026-10-29"
+}

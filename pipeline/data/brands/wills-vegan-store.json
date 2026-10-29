@@ -1,0 +1,55 @@
+{
+  "slug": "wills-vegan-store",
+  "name": "Will's Vegan Store",
+  "website_url": "https://www.wills-vegan-store.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Vegan Shoes and Boots",
+  "founded_year": 2012,
+  "size_range": "US 4–14",
+  "ships_to": [
+    "US",
+    "CA",
+    "AU",
+    "NZ"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 365,
+  "prices": [
+    {
+      "category": "boots",
+      "currency": "USD",
+      "min": 80,
+      "max": 243,
+      "min_usd": 80,
+      "max_usd": 243,
+      "fx_date": null,
+      "item_count": 108,
+      "source_url": "https://www.wills-vegan-store.com/collections/vegan-boots/products.json",
+      "checked_at": "2026-10-29",
+      "note": "US storefront (USD) Vegan Boots products.json: 113 products, 108 boots, all regular price. Low: Low Dock Boots $80; Signature Deserts $87; Dock Boots $143; high: Goodyear Welt Chelsea and Chukka Boots $243."
+    }
+  ],
+  "materials": [
+    "Vegan leather",
+    "Vegan suede"
+  ],
+  "production_model": "Made in Portugal",
+  "sells_categories": [
+    "boots"
+  ],
+  "sources": [
+    "https://www.wills-vegan-store.com/collections/vegan-boots/products.json",
+    "https://www.wills-vegan-store.com/policies/refund-policy",
+    "https://www.wills-vegan-store.com/policies/shipping-policy",
+    "https://www.wills-vegan-store.com/pages/about-us",
+    "https://www.wills-vegan-store.com/products/vegan-dock-boots-mens"
+  ],
+  "notes": [
+    "Shipping: free carbon-neutral shipping to the USA, Canada, Australia and New Zealand, no duties or taxes on delivery, no minimum order (https://www.wills-vegan-store.com/policies/shipping-policy).",
+    "Refund policy: free returns and exchanges for 365 days (https://www.wills-vegan-store.com/policies/refund-policy).",
+    "About: founded in 2012; made in a factory in Portugal with vegan leather and suede from Italy (https://www.wills-vegan-store.com/pages/about-us).",
+    "Dock Boots $143: launched 2015, vegan suede or Italian vegan leather with 69% biobased content, made in Portugal, certified carbon neutral (https://www.wills-vegan-store.com/products/vegan-dock-boots-mens)."
+  ],
+  "checked_at": "2026-10-29"
+}

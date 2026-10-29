@@ -1,0 +1,53 @@
+{
+  "slug": "solovair",
+  "name": "NPS Solovair",
+  "website_url": "https://us.nps-solovair.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "British-Made Goodyear-Welted Boots",
+  "hq_country": "GB",
+  "founded_year": 1881,
+  "parent_company": "NPS Shoes",
+  "size_range": "US men 4–15, women 5–16",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "boots",
+      "currency": "USD",
+      "min": 219,
+      "max": 299,
+      "min_usd": 219,
+      "max_usd": 299,
+      "fx_date": null,
+      "item_count": 142,
+      "source_url": "https://us.nps-solovair.com/collections/boots/products.json",
+      "checked_at": "2026-10-29",
+      "note": "US store products.json of BOOTS: 165 products, 156 boots after dropping bundles and accessories, 142 at regular price (14 marked down). Low: Black Vegan Hi-Shine 7 Eye Monkey Boot $219; Black Hi-Shine 8 Eye Derby Boot $239; Black Vegan Hi-Shine 8 Eye Derby Boot $229; high: Black Hi-Shine 20 Eye Zip Derby Boot $299."
+    }
+  ],
+  "materials": [
+    "Leather"
+  ],
+  "production_model": "Handmade in the UK",
+  "sells_categories": [
+    "boots"
+  ],
+  "sources": [
+    "https://us.nps-solovair.com/collections/boots/products.json",
+    "https://us.nps-solovair.com/policies/refund-policy",
+    "https://us.nps-solovair.com/policies/shipping-policy",
+    "https://us.nps-solovair.com/pages/history",
+    "https://us.nps-solovair.com/pages/the-goodyear-welted-method"
+  ],
+  "notes": [
+    "US store (USD). Banner and shipping policy: free standard shipping on footwear orders over $150, duties and tariffs paid by NPS Solovair, dispatched via DHL (https://us.nps-solovair.com/policies/shipping-policy).",
+    "Refund policy: returns form within 30 days of receipt, unworn; a $15.00 DHL Express return charge is deducted from refunds, not from exchanges (https://us.nps-solovair.com/policies/refund-policy).",
+    "History: NPS co-operative in Wollaston; from 1959 NPS made air-cushioned-sole boots for Griggs and for 35 years produced footwear sold as 'Dr Martens by Solovair' under licence; registered the Solovair name in 1994; Goodyear-welted construction used in all footwear; handmade start to finish in the UK; since 1881 (https://us.nps-solovair.com/pages/history).",
+    "Sizes on the boot feed run 4 Mens / 5 Womens to 15 Mens / 16 Womens (https://us.nps-solovair.com/collections/boots/products.json)."
+  ],
+  "checked_at": "2026-10-29"
+}

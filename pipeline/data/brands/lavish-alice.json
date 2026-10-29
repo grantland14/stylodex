@@ -1,0 +1,62 @@
+{
+  "slug": "lavish-alice",
+  "name": "Lavish Alice",
+  "website_url": "https://lavishalice.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Party and Occasion Dresses",
+  "hq_country": "GB",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "UK 6–18",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "GB",
+    "US",
+    "CA",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "GBP",
+      "min": 75,
+      "max": 298,
+      "min_usd": 99.66,
+      "max_usd": 395.97,
+      "fx_date": "2026-10-28",
+      "item_count": 118,
+      "source_url": "https://lavishalice.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Full dresses feed, 141 products: 118 regular-price in stock, 21 marked down, 1 sold out; all vendor Lavish Alice. Store currency GBP (cart.js); no US market (/en-us/ and /us/ paths 404), so US shoppers pay GBP. Low: HONEY Asymmetric Midi Dress in Orange £75; high: SABRINA Embellished Blazer Dress, AURELIA Embellished Mini Dress £298. Median £168. USD at ECB 2026-10-28 (USD 1.1133, GBP 0.83785 per EUR)."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://lavishalice.com/",
+    "https://lavishalice.com/meta.json",
+    "https://lavishalice.com/cart.js",
+    "https://lavishalice.com/collections/dresses/products.json?limit=250",
+    "https://lavishalice.com/policies/shipping-policy",
+    "https://lavishalice.com/pages/returns",
+    "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
+  ],
+  "notes": [
+    "2026-10-29 (stores-like-boohoo run): meta description 'Lavish Alice is the go-to destination for women's clothing perfect for any party, wedding or occasion ... shop our full range of beautiful dresses.' meta.json: Manchester, England, GB, GBP.",
+    "2026-10-29: Shipping policy, US: Standard $10.00 (5–7 business days), Express $18.00 (1–3), Next Day $39.00; no free threshold stated; duties stated as included only for Canada and Australia/NZ.",
+    "2026-10-29: Returns page: submit through the portal within 14 days of receiving the parcel; international return fees vary by location; refunds to original payment method.",
+    "2026-10-29: sizes from the dresses feed: UK 6 to UK 18 on every dress."
+  ],
+  "checked_at": "2026-10-29"
+}

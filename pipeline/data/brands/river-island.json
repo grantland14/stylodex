@@ -1,0 +1,55 @@
+{
+  "slug": "river-island",
+  "name": "River Island",
+  "website_url": "https://www.riverisland.com/us",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "High Street Fashion",
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 28,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 65,
+      "max": 171,
+      "min_usd": 65,
+      "max_usd": 171,
+      "fx_date": null,
+      "item_count": 40,
+      "source_url": "https://www.riverisland.com/us/c/women/dresses",
+      "checked_at": "2026-10-29",
+      "note": "Sample: the first 40 of 348 dresses on the US women's dresses page, in USD, none showing a was-price. Low: Cream Cotton Rib Long Sleeve Midi Dress, Brown Satin Fringe Halter Mini Dress $65; high: Brown Sequin Feather Trim Mini Dress $171. Burgundy Velvet Devore Wrap Mini Dress $110."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.riverisland.com/us",
+    "https://www.riverisland.com/us/c/women/dresses",
+    "https://www.riverisland.com/us/how-can-we-help/delivery",
+    "https://www.riverisland.com/us/how-can-we-help/returns"
+  ],
+  "notes": [
+    "2026-10-29 (stores-like-boohoo run): US storefront (region selector 'United States', /us/ paths, USD prices). Title 'River Island: Fashion Clothing for Women, Men, Boys and Girls'; meta 'Buy online at your favourite high street store.'",
+    "2026-10-29: the delivery page served UK rates only (UK selected, methods 'not currently available'), so US delivery cost and timing are not stored. ships_to US rests on the US storefront and the returns page line 'US returns are subject to a return charge.'",
+    "2026-10-29: Returns: 'Items can be returned within 28 days of delivery or store purchase'; US returns carry a charge shown in the portal; festive gift-card returns until 14 January 2027 for purchases from 22 October."
+  ],
+  "checked_at": "2026-10-29"
+}

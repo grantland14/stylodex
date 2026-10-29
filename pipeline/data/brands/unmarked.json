@@ -1,0 +1,45 @@
+{
+  "slug": "unmarked",
+  "name": "Unmarked",
+  "website_url": "https://www.unmarked.mx/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Made-to-Order Leather Boots",
+  "size_range": "US 4–14",
+  "ships_to": [
+    "US",
+    "MX"
+  ],
+  "free_shipping_min_usd": 500,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "boots",
+      "currency": "USD",
+      "min": 450,
+      "max": 2500,
+      "min_usd": 450,
+      "max_usd": 2500,
+      "fx_date": null,
+      "item_count": 85,
+      "source_url": "https://www.unmarked.mx/collections/boots/products.json",
+      "checked_at": "2026-10-29",
+      "note": "products.json of BOOTS (USD for a US visitor): 92 products, 85 boots, all regular price. Low: SF-01 Boots $450; Chelsea Toro Mini Welt $490; Riot Boots Antique Black Bison $550; high: Durango Boots V4 crocodile $2,500."
+    }
+  ],
+  "sells_categories": [
+    "boots"
+  ],
+  "sources": [
+    "https://www.unmarked.mx/collections/boots/products.json",
+    "https://www.unmarked.mx/policies/refund-policy",
+    "https://www.unmarked.mx/policies/shipping-policy",
+    "https://www.unmarked.mx/products/riot-boots-bison-antique-black"
+  ],
+  "notes": [
+    "Returns: 14 days, unused in original packaging; no exceptions for sizing or fit (https://www.unmarked.mx/policies/refund-policy).",
+    "Banner: free shipping over $500 USD for MX and US; made to order and ready to ship lines; repairs and rebuilds (https://www.unmarked.mx/policies/shipping-policy).",
+    "Riot Boots $550: veg-tanned bison leather, Vibram outsole, Stormwelt construction (https://www.unmarked.mx/products/riot-boots-bison-antique-black)."
+  ],
+  "checked_at": "2026-10-29"
+}

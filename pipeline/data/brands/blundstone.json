@@ -1,0 +1,47 @@
+{
+  "slug": "blundstone",
+  "name": "Blundstone",
+  "website_url": "https://www.blundstone.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Pull-On Chelsea Boots",
+  "hq_country": "AU",
+  "founded_year": 1870,
+  "size_range": "US men 4–14, women 6–16",
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "boots",
+      "currency": "USD",
+      "min": 189.95,
+      "max": 284.95,
+      "min_usd": 189.95,
+      "max_usd": 284.95,
+      "fx_date": null,
+      "item_count": 104,
+      "source_url": "https://www.blundstone.com/collections/all-boots/products.json",
+      "checked_at": "2026-10-29",
+      "note": "US store (USD) All Boots products.json: 104 products, all regular price. Low: Originals #2420/#2421 $189.95; Originals #500 and #510 $209.95; Classics #585 $219.95; high: All-Terrain Thermal $284.95."
+    }
+  ],
+  "sells_categories": [
+    "boots"
+  ],
+  "sources": [
+    "https://www.blundstone.com/collections/all-boots/products.json",
+    "https://www.blundstone.com/pages/our-story",
+    "https://www.blundstone.com/pages/blundstone-shops",
+    "https://www.blundstone.com/pages/size-guides",
+    "https://www.blundstone.com/policies/refund-policy"
+  ],
+  "notes": [
+    "Our story: John Blundstone started making footwear in Hobart, Tasmania, in 1870 (https://www.blundstone.com/pages/our-story).",
+    "US shops: Williamsburg and SoHo (New York), Boston, Seattle, Silver Lake (Los Angeles), Portland (https://www.blundstone.com/pages/blundstone-shops).",
+    "Banner 'FREE SHIPPING FREE RETURNS (Conditions Apply)'; the refund-policy page body is empty and support.blundstone.com returns 403 to the bot UA and WebFetch, so returns_days and a threshold are left empty (https://www.blundstone.com/policies/refund-policy).",
+    "Size guide: the AU/UK size is stamped on the boot; #585 sizes US women's 6–16, US men's 4–14 (https://www.blundstone.com/pages/size-guides)."
+  ],
+  "checked_at": "2026-10-29"
+}

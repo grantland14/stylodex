@@ -4,7 +4,7 @@
   "website_url": "https://us.boohoo.com",
   "status": "verified",
   "kind": "brand",
-  "known_for": "Online Fashion for Women and Men",
+  "known_for": "Online Fashion",
   "hq_country": "GB",
   "founded_year": 2006,
   "parent_company": "Boohoo Group",
@@ -28,7 +28,7 @@
   "materials": [],
   "certifications": [],
   "production_model": null,
-  "sale_pattern": null,
+  "sale_pattern": "Near-constant markdowns, up to 70% off",
   "sources": [
     "https://us.boohoo.com/womens/dresses",
     "https://us.boohoo.com/pages/informational/delivery",
@@ -36,7 +36,12 @@
     "https://us.boohoo.com/pages/informational/size-guide",
     "https://en.wikipedia.org/wiki/Boohoo_Group",
     "https://us.boohoo.com/categories/womens-jeans",
-    "https://us.boohoo.com/womens/tops"
+    "https://us.boohoo.com/womens/tops",
+    "https://us.boohoo.com/",
+    "https://us.boohoo.com/categories/womens-dresses",
+    "https://us.boohoo.com/sitemap/boohoowwus/products-0.xml",
+    "https://us.boohoo.com/sitemap/boohoowwus/products-1.xml",
+    "https://us.boohoo.com/product/boohoo-strappy-denim-mini-dress_hzz51717"
   ],
   "notes": [
     "Dresses page (us.boohoo.com/womens/dresses): live women's dresses category; product grid loads client-side, so no prices rendered (no price row). Banners: 'SPOOKY DISCOUNT - UP TO 20% OFF', '70% OFF ALMOST EVERYTHING*', 'Discounts may not be based on former prices'.",
@@ -46,7 +51,11 @@
     "Wikipedia (Boohoo_Group infobox): founded 2006 by Mahmud Kamani and Carol Kane; HQ Dale Street, Manchester; brands include boohoo, PrettyLittleThing, Karen Millen, Debenhams; trading as Debenhams Group since March 2025, legal name still Boohoo Group.",
     "known_for from the store's own title: 'boohoo | Womens and Mens Clothes | Shop Online Fashion'.",
     "2026-10-29 (cotton-on page run, C jeans): US 'Women's Jeans' category page is live (heading 'Women's Jeans', breadcrumb Womens / Womens Clothing / Jeans, intro 'Find your dream denim fit with boohoo's new women's jeans', links to Plus-Size, Petite, Maternity and Tall Jeans), but the product grid loads client-side, so no prices rendered. Jeans recorded in sells_categories from the store's own category page; no jeans price row.",
-    "2026-10-29 (stores-like-primark run, C tops = women's tops and T-shirts): us.boohoo.com/womens/tops is a live 'Women's Tops' category (heading, filters, banner); the product grid loads client-side, so no prices rendered to WebFetch. tops in sells_categories from the store's own page; no price row."
+    "2026-10-29 (stores-like-primark run, C tops = women's tops and T-shirts): us.boohoo.com/womens/tops is a live 'Women's Tops' category (heading, filters, banner); the product grid loads client-side, so no prices rendered to WebFetch. tops in sells_categories from the store's own page; no price row.",
+    "2026-10-29 (stores-like-boohoo run, C dresses): known_for changed from 'Online Fashion for Women and Men' to 'Online Fashion' (it ends the page title, which can't hold a second 'for'); from the store's own title 'boohoo | Womens and Mens Clothes | Shop Online Fashion'. Meta description: 'Shop boohoo's range of women's and men's clothing ... with 100s of new styles landing every day!' (https://us.boohoo.com/).",
+    "2026-10-29 (stores-like-boohoo run): category grid loads client-side, but each product page carries schema.org Product JSON-LD with the US price (USD) and a StrikethroughPrice when marked down. Random sample (seed 20261029) of 80 boohoo-label dress pages from the US product sitemaps (5,153 '/product/boohoo-' dress URLs of 17,128 dress URLs): all 80 brand 'boohoo'; 54 in stock, and all 54 marked down (selling $11.70–$35.10 against strike prices $39–$117; e.g. Strappy Denim Mini Dress $21, was $52). No regular-price dress found, so no dresses price row: the regular price can't be recorded.",
+    "2026-10-29 (stores-like-boohoo run): the US product sitemaps also list other labels' dresses on us.boohoo.com: SKU prefixes plt (PrettyLittleThing, 5,358 URLs) and Coast-titled URLs (e.g. /product/coast-belted-tiered-satin-maxi-dress_bcc12966), so the store now sells sister labels alongside its own. kind stays brand (own label is the core).",
+    "2026-10-29 (stores-like-boohoo run): sale_pattern from the dresses banner '70% OFF ALMOST EVERYTHING*' (stored note) and the 54-of-54 marked-down sample above."
   ],
   "checked_at": "2026-10-29"
 }

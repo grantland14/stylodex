@@ -1,0 +1,40 @@
+{
+  "slug": "velasca",
+  "name": "Velasca",
+  "website_url": "https://www.velasca.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Italian Shoes and Boots",
+  "ships_to": [
+    "US"
+  ],
+  "prices": [
+    {
+      "category": "boots",
+      "currency": "USD",
+      "min": 340,
+      "max": 870,
+      "min_usd": 340,
+      "max_usd": 870,
+      "fx_date": null,
+      "item_count": 72,
+      "source_url": "https://www.velasca.com/collections/boots-and-ankle-boots/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Boots and Ankle Boots products.json (USD storefront): 72 products, all regular price. Low: Umbrelèe desert boot $340; Fruttiroeu $590; high: Lustrafer $870."
+    }
+  ],
+  "sells_categories": [
+    "boots"
+  ],
+  "sources": [
+    "https://www.velasca.com/collections/boots-and-ankle-boots/products.json",
+    "https://www.velasca.com/pages/shipping-and-return",
+    "https://www.velasca.com/products/fruttiroeu-n"
+  ],
+  "notes": [
+    "Shipping page lists the United States as a delivery destination; returns window not stated in the readable text (https://www.velasca.com/pages/shipping-and-return).",
+    "Fruttiroeu $590: all-black full-grain leather boot on a Vibram rubber sole (https://www.velasca.com/products/fruttiroeu-n).",
+    "Site copy: 'Stories and inspiration, Made in Italy style' (https://www.velasca.com/pages/shipping-and-return)."
+  ],
+  "checked_at": "2026-10-29"
+}

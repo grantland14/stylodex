@@ -1,0 +1,44 @@
+{
+  "slug": "nisolo",
+  "name": "Nisolo",
+  "website_url": "https://nisolo.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Handcrafted Leather Boots and Shoes",
+  "size_range": "US 5–13",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "boots",
+      "currency": "USD",
+      "min": 228,
+      "max": 368,
+      "min_usd": 228,
+      "max_usd": 368,
+      "fx_date": null,
+      "item_count": 27,
+      "source_url": "https://nisolo.com/collections/boots/products.json",
+      "checked_at": "2026-10-29",
+      "note": "products.json of Boots: 37 products, 27 regular-price boots (slip-ons and booties dropped), none marked down. Low: Eva Everyday Chelsea Boot $228; Go-To Lace Lug Boot $248; Go-To Lug Chelsea Boot 2.0 $248; high: Vera and Vida Knee High Boots $368."
+    }
+  ],
+  "sells_categories": [
+    "boots"
+  ],
+  "sources": [
+    "https://nisolo.com/collections/boots/products.json",
+    "https://nisolo.com/policies/refund-policy",
+    "https://nisolo.com/policies/shipping-policy",
+    "https://nisolo.com/products/go-to-lace-lug-boot-black"
+  ],
+  "notes": [
+    "Refund policy: free returns or exchanges within 14 days of delivery, unworn and unaltered; final sale non-refundable (https://nisolo.com/policies/refund-policy).",
+    "Banner: US orders $150+ ship free (https://nisolo.com/policies/shipping-policy).",
+    "Go-To Lace Lug Boot $248: water-resistant suede, cushioned insole, Extralight EVA outsole, contrast welt stitching, speed hooks (https://nisolo.com/products/go-to-lace-lug-boot-black)."
+  ],
+  "checked_at": "2026-10-29"
+}

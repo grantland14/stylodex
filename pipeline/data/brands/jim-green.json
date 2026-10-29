@@ -1,0 +1,47 @@
+{
+  "slug": "jim-green",
+  "name": "Jim Green",
+  "website_url": "https://jimgreenfootwear.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Rugged South African Leather Boots",
+  "hq_country": "ZA",
+  "founded_year": 1992,
+  "size_range": "US 7–14 with half sizes",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 50,
+  "returns_days": 60,
+  "prices": [
+    {
+      "category": "boots",
+      "currency": "USD",
+      "min": 149.99,
+      "max": 319.99,
+      "min_usd": 149.99,
+      "max_usd": 319.99,
+      "fx_date": null,
+      "item_count": 62,
+      "source_url": "https://jimgreenfootwear.com/wp-json/wc/store/v1/products?category=59&per_page=100",
+      "checked_at": "2026-10-29",
+      "note": "WooCommerce Store API, category all (118 products, 2 pages): 62 regular-price boots after dropping vellies/shoes, laces, soles and add-ons; 34 items on sale excluded. Low: Highlander Pro $149.99; Razorback Brown $199.99; AR8 Black $219.99; high: Rugged African Trooper Bronco Brown $319.99."
+    }
+  ],
+  "production_model": "Hand crafted in South Africa",
+  "sells_categories": [
+    "boots"
+  ],
+  "sources": [
+    "https://jimgreenfootwear.com/",
+    "https://jimgreenfootwear.com/wp-json/wc/store/v1/products?category=59&per_page=100",
+    "https://jimgreenfootwear.com/jim-green-usa-shipping-and-returns/",
+    "https://jimgreenfootwear.com/about-us/"
+  ],
+  "notes": [
+    "USA shipping: free standard shipping to the 48 contiguous states on orders of $50+, $30 to Hawaii and Alaska, sent from a warehouse in the USA (https://jimgreenfootwear.com/jim-green-usa-shipping-and-returns/).",
+    "Returns: 60-day window, unworn or defective, return or exchange; $10 restocking fee on returns of sale items (same URL).",
+    "About: began in a back-yard garage in 1992, Midlands Meander, KwaZulu-Natal; hand crafted in South Africa (https://jimgreenfootwear.com/about-us/)."
+  ],
+  "checked_at": "2026-10-29"
+}

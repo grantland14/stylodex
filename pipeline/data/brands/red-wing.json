@@ -5,10 +5,48 @@
   "status": "verified",
   "kind": "brand",
   "sources": [
-    "https://www.redwingshoes.com/heritage/"
+    "https://www.redwingshoes.com/heritage/",
+    "https://www.redwingshoes.com/mens/heritage/?currency=USD",
+    "https://www.redwingshoes.com/womens/heritage/?currency=USD",
+    "https://www.redwingshoes.com/mens/heritage/iron-ranger/iron-ranger-08000.html?currency=USD",
+    "https://www.redwingshoes.com/womens/heritage/clara/clara-03405.html?currency=USD",
+    "https://www.redwingshoes.com/contact-us/returns.html?currency=USD",
+    "https://www.redwingshoes.com/contact-us/shipping.html?currency=USD",
+    "https://www.redwingshoes.com/stores?currency=USD"
   ],
   "notes": [
-    "redwingheritage.com redirects to redwingshoes.com/heritage/. Live, selling Heritage boots (Iron Ranger $359.99, Classic Chelsea $299.99), leather goods and apparel (shirts, hoodies); no jackets or outerwear, so it doesn't sell coats-jackets and is left out of that category (https://www.redwingshoes.com/heritage/)."
+    "redwingheritage.com redirects to redwingshoes.com/heritage/. Live, selling Heritage boots (Iron Ranger $359.99, Classic Chelsea $299.99), leather goods and apparel (shirts, hoodies); no jackets or outerwear, so it doesn't sell coats-jackets and is left out of that category (https://www.redwingshoes.com/heritage/).",
+    "Iron Ranger #8000 and Clara #3405 product pages: Goodyear leather welt, resoleable, Made in USA; repairs at the Red Wing, Minnesota, manufacturing facility; Iron Ranger sizes 6–13 (D), Clara 5–12 (B, D) (https://www.redwingshoes.com/mens/heritage/iron-ranger/iron-ranger-08000.html?currency=USD).",
+    "Returns: online orders back within 30 days of receipt, by mail or at any Red Wing store, free return shipping (https://www.redwingshoes.com/contact-us/returns.html?currency=USD).",
+    "Shipping: free standard shipping over $50 when signed in to an account; guest standard shipping $10 (https://www.redwingshoes.com/contact-us/shipping.html?currency=USD)."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "known_for": "American-Made Heritage Boots",
+  "hq_country": "US",
+  "size_range": "US men 6–13, women 5–12",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 50,
+  "returns_days": 30,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "boots",
+      "currency": "USD",
+      "min": 279.99,
+      "max": 549.99,
+      "min_usd": 279.99,
+      "max_usd": 549.99,
+      "fx_date": null,
+      "item_count": 71,
+      "source_url": "https://www.redwingshoes.com/mens/heritage/?currency=USD",
+      "checked_at": "2026-10-29",
+      "note": "Heritage listings, men's 56 items (42 boots) and women's 33 (29 boots, https://www.redwingshoes.com/womens/heritage/?currency=USD), none marked down. Low: Weekender Chelsea $279.99; Blacksmith $329.99; Iron Ranger $359.99; Women's Heeled Boot (Clara) $359.99; high: Engineer $549.99."
+    }
+  ],
+  "production_model": "Made in the USA",
+  "sells_categories": [
+    "boots"
+  ]
 }

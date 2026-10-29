@@ -1,0 +1,47 @@
+{
+  "slug": "viberg",
+  "name": "Viberg",
+  "website_url": "https://viberg.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Stitchdown Service Boots",
+  "hq_country": "CA",
+  "founded_year": 1931,
+  "size_range": "US 5–13",
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "boots",
+      "currency": "USD",
+      "min": 1300,
+      "max": 2240,
+      "min_usd": 1300,
+      "max_usd": 2240,
+      "fx_date": null,
+      "item_count": 55,
+      "source_url": "https://viberg.com/collections/boots/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Boots products.json (USD): 71 products, 55 boots, all regular price. Low: Service Boot 2030 Color 8 Chromexcel and Service Boot BCT $1,300; high: Service Boot 2030 BCT Shell Cordovan $2,240."
+    }
+  ],
+  "sells_categories": [
+    "boots"
+  ],
+  "sources": [
+    "https://viberg.com/collections/boots/products.json",
+    "https://viberg.com/policies/refund-policy",
+    "https://viberg.com/policies/shipping-policy",
+    "https://viberg.com/products/sb2030-bksc",
+    "https://viberg.com/pages/history-of-service-boot"
+  ],
+  "notes": [
+    "Returns within 14 days of delivery for store credit, less return shipping (https://viberg.com/policies/refund-policy).",
+    "Shipping: US footwear $30 (https://viberg.com/policies/shipping-policy).",
+    "Canadian bootmaker since 1931 (https://viberg.com/pages/history-of-service-boot); the stitchdown Service Boot was first introduced in 1931 (https://viberg.com/products/sb2030-bksc)."
+  ],
+  "checked_at": "2026-10-29"
+}

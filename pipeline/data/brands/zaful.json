@@ -1,0 +1,14 @@
+{
+  "slug": "zaful",
+  "name": "Zaful",
+  "website_url": "https://www.zaful.com",
+  "status": "unverified",
+  "kind": "brand",
+  "sources": [
+    "https://www.zaful.com/"
+  ],
+  "notes": [
+    "2026-10-29 (stores-like-boohoo run): WebFetch of www.zaful.com returned HTTP 403. One try, no workaround; nothing stored."
+  ],
+  "checked_at": "2026-10-29"
+}

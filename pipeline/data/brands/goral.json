@@ -1,0 +1,50 @@
+{
+  "slug": "goral",
+  "name": "GORAL",
+  "website_url": "https://www.goral-shoes.co.uk/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "English-Made Sneakers and Boots",
+  "hq_country": "GB",
+  "founded_year": 1936,
+  "size_range": "US men 7–14",
+  "ships_to": [
+    "US",
+    "GB"
+  ],
+  "free_shipping_min_usd": 400,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "boots",
+      "currency": "USD",
+      "min": 422,
+      "max": 575,
+      "min_usd": 422,
+      "max_usd": 575,
+      "fx_date": null,
+      "item_count": 23,
+      "source_url": "https://www.goral-shoes.co.uk/collections/boots/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Base feed is GBP (£305–£415). US prices read from each product's .js with the store's own US setting (?country=US, Shopify.currency USD): 23 regular-price boots, $422 (Birley Barefoot Chelsea) to $575 (Tuggs Rose Anvil pull-on, pre-order); Sharman Boot Horween Black $490; Baslow Chelsea Boot from £340."
+    }
+  ],
+  "production_model": "Made in England",
+  "sells_categories": [
+    "boots"
+  ],
+  "sources": [
+    "https://www.goral-shoes.co.uk/collections/boots/products.json",
+    "https://www.goral-shoes.co.uk/?country=US",
+    "https://www.goral-shoes.co.uk/policies/shipping-policy",
+    "https://www.goral-shoes.co.uk/policies/refund-policy",
+    "https://www.goral-shoes.co.uk/pages/our-heritage"
+  ],
+  "notes": [
+    "US shipping: free over $400, $20 below; all import duties, taxes and customs prepaid since 1 September 2025 (https://www.goral-shoes.co.uk/policies/shipping-policy).",
+    "Returns: register within 14 days of receiving, unworn in original packaging; custom orders non-refundable; pre-orders exchange only (https://www.goral-shoes.co.uk/policies/refund-policy).",
+    "Heritage: family workshop in Poland in 1936, moved to Sheffield in 2005; Made in England (https://www.goral-shoes.co.uk/pages/our-heritage).",
+    "Sharman sizes UK6/US7 to UK13/US14, men's only (https://www.goral-shoes.co.uk/collections/boots/products.json)."
+  ],
+  "checked_at": "2026-10-29"
+}

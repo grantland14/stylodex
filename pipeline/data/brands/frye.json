@@ -1,0 +1,45 @@
+{
+  "slug": "frye",
+  "name": "Frye",
+  "website_url": "https://www.thefryecompany.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Leather Harness and Western Boots",
+  "size_range": "US men 7–14, women 5–12",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 275,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "boots",
+      "currency": "USD",
+      "min": 188,
+      "max": 498,
+      "min_usd": 188,
+      "max_usd": 498,
+      "fx_date": null,
+      "item_count": 136,
+      "source_url": "https://www.thefryecompany.com/collections/womens-boots/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Women's Boots products.json: 194, 79 regular (115 marked down), $228 (Phoebe Chelsea) to $498 (Andy Braided Tall, Campus 14L); Phoebe Combat $248. Men's Boots (https://www.thefryecompany.com/collections/mens-boots/products.json): 97, 57 regular, $188 (Paul Chukka) to $498 (Harness 12R)."
+    }
+  ],
+  "sells_categories": [
+    "boots"
+  ],
+  "sources": [
+    "https://www.thefryecompany.com/collections/womens-boots/products.json",
+    "https://www.thefryecompany.com/collections/mens-boots/products.json",
+    "https://www.thefryecompany.com/policies/refund-policy",
+    "https://www.thefryecompany.com/policies/shipping-policy",
+    "https://www.thefryecompany.com/products/phoebe-combat-black"
+  ],
+  "notes": [
+    "Returns within 30 days of delivery, unworn in original packaging (https://www.thefryecompany.com/policies/refund-policy).",
+    "Shipping: economy $12 in the 48 contiguous states, free on orders $275+ (https://www.thefryecompany.com/policies/shipping-policy).",
+    "Phoebe Combat $248: leather, cushioned insole, lightweight EVA outsole (https://www.thefryecompany.com/products/phoebe-combat-black)."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -31,6 +31,19 @@
       "source_url": "https://thursdayboots.com/collections/mens-jackets",
       "checked_at": "2026-10-29",
       "note": "products.json of Men's Jackets: 110 products; 99 of a jacket product type, all regular price. Low: Denim Trucker Jacket $120; high: Bronco Shearling Jacket $689."
+    },
+    {
+      "category": "boots",
+      "currency": "USD",
+      "min": 148,
+      "max": 549,
+      "min_usd": 148,
+      "max_usd": 549,
+      "fx_date": null,
+      "item_count": 343,
+      "source_url": "https://thursdayboots.com/collections/boots/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Men's Boots products.json: 189 boots, all regular price, $160 (Scout) to $549 (Builder Shinki Cordovan); Stomper $235, Captain $199, Hero $215. Women's Boots (https://thursdayboots.com/collections/womens-boots/products.json): 154 regular, $148 (Downtown) to $265 (Regent); Rebel $198, Combat $190. Range covers both."
     }
   ],
   "materials": [
@@ -41,17 +54,21 @@
   "production_model": null,
   "sale_pattern": null,
   "sells_categories": [
-    "coats-jackets"
+    "coats-jackets",
+    "boots"
   ],
   "sources": [
     "https://thursdayboots.com/collections/mens-jackets",
     "https://thursdayboots.com/policies/refund-policy",
-    "https://stridewise.com/filson-vs-flint-and-tinder-vs-thursday-jacket/"
+    "https://stridewise.com/filson-vs-flint-and-tinder-vs-thursday-jacket/",
+    "https://thursdayboots.com/collections/boots/products.json",
+    "https://thursdayboots.com/collections/womens-boots/products.json"
   ],
   "notes": [
     "Refund policy: return requests within 30 days of receiving the order, resellable in original packaging; free returns/exchanges on items over $80 in the contiguous US; free shipping on orders $50+ in the contiguous US (https://thursdayboots.com/policies/refund-policy).",
     "Stridewise compares Thursday's Waxed Canvas Field Jacket ($280, 10 oz canvas, made in Portugal) with Filson's Short Lined Cruiser; that jacket wasn't in the jackets feed by that name, so its price isn't used here (https://stridewise.com/filson-vs-flint-and-tinder-vs-thursday-jacket/).",
-    "Jacket sizes S–XXL on 99 listings, XS on 11, 3XL on 3 (https://thursdayboots.com/collections/mens-jackets/products.json)."
+    "Jacket sizes S–XXL on 99 listings, XS on 11, 3XL on 3 (https://thursdayboots.com/collections/mens-jackets/products.json).",
+    "Boots: men's feed sizes 6–16 in Standard, Wide (EE) and Wide (EEE); women's 4–13 (https://thursdayboots.com/collections/boots/products.json, https://thursdayboots.com/collections/womens-boots/products.json). The stored size_range XS–3XL is the jackets range."
   ],
   "checked_at": "2026-10-29"
 }
