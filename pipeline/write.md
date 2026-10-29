@@ -56,5 +56,6 @@ Write `data/pages/{slug}.review.md`:
 - Fact trace: every number and claim in the copy → the brand file field it came from.
 - The Estimated Page Quality and Needs Met lines from Part 9.
 
-Known BLOCKED (publish) item until Ash decides: **G5 byline**. Pages are signed "Stylodex
-Editors" for now; the gate wants a real, named author with a bio.
+**Author: Ash** (decided 2026-10-29). Set `author` to "Ash" on every page. G5 also wants a short
+bio the byline links to; until Ash supplies one, G5 is BLOCKED (publish). Never write the bio
+or any credential ourselves (G4).

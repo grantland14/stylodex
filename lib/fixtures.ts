@@ -57,7 +57,7 @@ export function fixturePage(): BrandsLikePage {
     category: { slug: "denim", name: "Denim" },
     intro: "Placeholder intro. On the live site this says what people go to the anchor brand for, and what the list matches on.",
     faqs: [{ q: "Is this real data?", a: "No. This is fixture data for local development." }],
-    author: "Stylodex Editors",
+    author: "Ash",
     humanEdited: false,
     checkedAt: CHECKED,
     picks: names.map((name, i) => fixturePick(name.toLowerCase().replace(/\s+/g, "-"), name, i + 1)),

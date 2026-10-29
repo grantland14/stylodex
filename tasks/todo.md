@@ -220,6 +220,8 @@ in this repo.
 ## Open questions
 
 1. Full pipeline for which pages: the first ~20, wave 1, or every page?
+- Byline: **Ash** (decided 2026-10-29). Needs a 2–3 sentence bio from Ash for an author page
+  before G5 passes.
 
 ## Review
 
