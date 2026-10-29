@@ -30,6 +30,19 @@
       "source_url": "https://us.motelrocks.com/collections/jeans/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "97 of 141 jeans items at regular price (44 on sale excluded); product types include Roomy (43), Parallel (41), Flared (28) jeans; waists W24–W36, lengths L30–L34"
+    },
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 36,
+      "max": 98,
+      "min_usd": 36,
+      "max_usd": 98,
+      "fx_date": null,
+      "item_count": 454,
+      "source_url": "https://us.motelrocks.com/collections/tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "454 regular-price in-stock tops of 1,385 (447 on sale, 484 sold out). Halterneck tops are the largest type (253). Low: Kindos Halter Top $36; high: Arsenia Off Shoulder Top $98. Sizes XXS–XXL on nearly every top. Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (jackets, bottoms, dresses, sets, knitwear, hoodies, men's) excluded by title/product type."
     }
   ],
   "materials": [],
@@ -43,7 +56,8 @@
     "https://us.motelrocks.com/pages/sizing",
     "https://us.motelrocks.com/pages/returns",
     "https://us.motelrocks.com/collections/jeans/products.json?limit=250",
-    "https://us.motelrocks.com/cart.js"
+    "https://us.motelrocks.com/cart.js",
+    "https://us.motelrocks.com/collections/tops/products.json?limit=250"
   ],
   "notes": [
     "Live. Self-description: 'Vintage & Printed Women's Fashion & Clothes'. The About page doesn't say streetwear, and the word appears only in individual product copy. Off_category under this run's rule.",

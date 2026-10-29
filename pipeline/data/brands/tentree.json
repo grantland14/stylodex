@@ -1,0 +1,40 @@
+{
+  "name": "Tentree",
+  "website_url": "https://www.tentree.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Every Item Plants 10 Trees",
+  "size_range": "S–XXL",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 100,
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 45.0,
+      "max": 45.0,
+      "min_usd": 45.0,
+      "max_usd": 45.0,
+      "fx_date": null,
+      "item_count": 98,
+      "source_url": "https://www.tentree.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Store-wide feed pages 1–6, product type Mens: 164 tee/T-shirt listings, 98 at regular price, 66 marked down only. Every regular-price men's tee is $45 (e.g. Juniper T-Shirt, Getaway T-Shirt, Embroidered Ten T-Shirt), mostly graphic and outdoors themes. Sizes S–XXL."
+    }
+  ],
+  "sources": [
+    "https://www.tentree.com/",
+    "https://www.tentree.com/products.json?limit=250",
+    "https://www.tentree.com/policies/shipping-policy",
+    "https://www.tentree.com/policies/refund-policy"
+  ],
+  "notes": [
+    "Shipping: 'Free U.S. shipping on all orders over $100'; $7.50 under $100. Countries not listed on the page.",
+    "Returns: '$10 Returns (includes shipping label), Free Exchanges'; items 30%+ off are final sale; return window in days not stated on the policy page, so returns_days is empty.",
+    "Homepage: 'Tentree | Sustainable Clothing—Every Item Plants 10 Trees'; mission 'to restore the planet by planting trees and creating Earth-First, sustainably made apparel'."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "tentree"
+}

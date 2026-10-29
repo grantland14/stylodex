@@ -71,7 +71,20 @@
       "item_count": 187,
       "source_url": "https://everlane.com/collections/womens-sweaters/products.json?limit=250",
       "checked_at": "2026-10-29",
-      "note": "products.json: 349 listings in the collection; 135 with compare_at above price (sale) and 17 sold out excluded, 10 non-sweaters excluded; 187 regular-price women's sweaters. Low: Boxy V-Neck Sweater in Everyday Cotton | Canvas ($98); high: Cashmere Fisherman Crew | Black ($218). Cashmere Slim Crew Sweater $148 ('recycled cashmere blend'); highest Cashmere Fisherman Crew $218."
+      "note": "products.json: 349 listings; 135 with compare_at above price (sale) and 17 sold out excluded, 10 non-sweaters excluded; 187 regular-price women's sweaters. Low: Boxy V-Neck Sweater in Everyday Cotton ($98); high: Cashmere Fisherman Crew and The Boxy Turtleneck in Cashmere ($218). Cashmere Slim Crew Sweater $148 (recycled cashmere blend). Size options: XXS–XXL on all 187, XXXL on 3."
+    },
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 34.0,
+      "max": 88.0,
+      "min_usd": 34.0,
+      "max_usd": 88.0,
+      "fx_date": null,
+      "item_count": 33,
+      "source_url": "https://everlane.com/collections/mens-tshirts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Pages 1–2 of the men's tees collection (500 listings, one per colour): 33 at regular price, 333 tee listings marked down only. Excluding fleece pullovers and polos: The Essential Organic Crew and V-Neck Tee $34 (100% OCS-certified organic cotton), Archive Cotton Crew $38, Essential Organic Long-Sleeve Tee $48, Thermal Crew in Cozy Waffle $78, highest Thermal Henley in Cozy Waffle $88. Sizes XS–XXL on nearly all."
     }
   ],
   "materials": [],
@@ -94,7 +107,9 @@
     "https://www.everlane.com/policies/refund-policy",
     "https://everlane.com/collections/womens-sweaters/products.json?limit=250",
     "https://everlane.com/products/womens-cashmere-slim-crew-sweater-black.json",
-    "https://everlane.com/meta.json"
+    "https://everlane.com/meta.json",
+    "https://everlane.com/collections/mens-tshirts/products.json?limit=250",
+    "https://everlane.com/collections/mens-tshirts/products.json?limit=250&page=2"
   ],
   "notes": [
     "About page footer: 'Clean Luxury. Better For You.'; the page also describes 'Radical Transparency' as revealing 'the true costs behind all of our products.'",

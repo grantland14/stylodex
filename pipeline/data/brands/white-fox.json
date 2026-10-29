@@ -1,0 +1,49 @@
+{
+  "slug": "white-fox",
+  "name": "White Fox",
+  "website_url": "https://whitefoxboutique.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Australian Clothes and Accessories",
+  "hq_country": "AU",
+  "size_range": "3XS–XL",
+  "has_plus": false,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 29.99,
+      "max": 99.99,
+      "min_usd": 29.99,
+      "max_usd": 99.99,
+      "fx_date": null,
+      "item_count": 820,
+      "source_url": "https://whitefoxboutique.com/collections/tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "820 regular-price in-stock tops of 1,667 (823 on sale, 24 sold out). Low: Core Strengths Tank Top $29.99; high: First In Line Long Sleeve Top $99.99. Currency USD (cart.js; storefront 'White Fox Boutique US'). Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (jackets, bottoms, dresses, sets, knitwear, hoodies, men's) excluded by title/product type."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://whitefoxboutique.com/",
+    "https://whitefoxboutique.com/collections/tops/products.json?limit=250",
+    "https://whitefoxboutique.com/policies/shipping-policy",
+    "https://whitefoxboutique.com/policies/refund-policy",
+    "https://whitefoxboutique.com/cart.js"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "Meta: 'Shop the latest in clothes, shoes & accessories online from iconic Australian brand White Fox Boutique ... express shipping worldwide.' hq_country AU from that self-description.",
+    "Shipping policy: orders placed before 12 PM US Eastern Monday–Friday dispatch the same day (US dispatch). Threshold not readable (shipping page body didn't load).",
+    "Returns: store credit only, no refunds for change of mind or sizing; 30 days from when the order is placed; sale items final.",
+    "size_range from tops variants: 3XS on 103 tops, XXS–XL on most, XL/XXL on 12."
+  ]
+}

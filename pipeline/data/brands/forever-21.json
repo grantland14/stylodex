@@ -30,6 +30,19 @@
       "source_url": "https://forever21.com/collections/women-dresses/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "Only 6 of 103 dresses carry no markdown (92 have a compare-at price above the selling price or a sale tag, 5 not dresses). All 6 are $24.99. The marked-down dresses sell from $14.98."
+    },
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 7.99,
+      "max": 34.99,
+      "min_usd": 7.99,
+      "max_usd": 34.99,
+      "fx_date": null,
+      "item_count": 10,
+      "source_url": "https://forever21.com/collections/mens-tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Men's tops collection: 21 tee/T-shirt listings, 10 at regular price, 11 marked down only. Lowest 100% Cotton Crew Tee and 100% Cotton V-Neck Tee $7.99; Scoop Cotton Crew Tee $12.99; highest Saint Velour Studded Graphic T-Shirt $34.99. Sizes mostly S–XL, some XS, XXL and XXXL."
     }
   ],
   "materials": [],
@@ -48,7 +61,8 @@
     "https://www.forever21.com/collections/womens-denim/products.json?limit=250",
     "https://www.forever21.com/collections/mens-denim/products.json?limit=250",
     "https://www.forever21.com/collections/women-bottoms/products.json?limit=250",
-    "https://www.forever21.com/collections/womens-plus-size-denim-jeans/products.json?limit=250"
+    "https://www.forever21.com/collections/womens-plus-size-denim-jeans/products.json?limit=250",
+    "https://forever21.com/collections/mens-tops/products.json?limit=250"
   ],
   "notes": [
     "Homepage mission: 'LA-born and style-obsessed, we empower self-expression through standout fashion at unbeatable value.' Slogan 'FASHION IS FOR EVERYONE.' Nav includes Dresses and Plus.",

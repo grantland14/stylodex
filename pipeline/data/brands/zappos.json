@@ -1,0 +1,54 @@
+{
+  "slug": "zappos",
+  "name": "Zappos",
+  "website_url": "https://www.zappos.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Shoes, Sneakers, Boots and Clothing",
+  "hq_country": null,
+  "founded_year": 1999,
+  "parent_company": "Amazon.com, Inc.",
+  "has_plus": true,
+  "has_petite": true,
+  "has_tall": true,
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": null,
+  "free_shipping_min_usd": 0,
+  "returns_days": 60,
+  "prices": [
+    {
+      "category": "womens-clothing",
+      "currency": "USD",
+      "min": 64.95,
+      "max": 395,
+      "min_usd": 64.95,
+      "max_usd": 395,
+      "fx_date": null,
+      "item_count": null,
+      "source_url": "https://www.zappos.com/women-jeans",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: women's jeans. All 17 pages of the 'women jeans' results (1,648 styles) read from the page's embedded product data with curl (StylodexBot UA); 690 not on sale (onSale false, price = originalPrice). The results include some non-jeans (tees, camis, fleece), so non-jeans were dropped by title before taking min/max. Lowest regular jeans: Levi's Classic Straight and Classic Skinny $64.95; highest: AG Mercer Selvage High-Rise Barrel Jeans $395. Labels with most regular-price styles: Paige, KUT from the Kloth, AG, Liverpool Los Angeles, Levi's, NYDJ."
+    }
+  ],
+  "sells_categories": [
+    "womens-clothing"
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.zappos.com/",
+    "https://www.zappos.com/about",
+    "https://www.zappos.com/women-jeans",
+    "https://www.zappos.com/c/shipping-and-returns"
+  ],
+  "notes": [
+    "Homepage title 'Shoes, Sneakers, Boots, & Clothing + FREE SHIPPING | Zappos.com'. About page: founded 1999; Zappos.com LLC is part of Amazon.com, Inc.; 'Consider Zappos your go-to destination for shoes.' HQ not stated.",
+    "Shipping and returns page: free shipping 'ANYWHERE in the United States including US territories and military APO/FPO addresses'; 'Merchandise must be returned within 60 days in new condition'; free returns anywhere in the US. No international destinations stated.",
+    "Women's jeans filters: Specialty Sizes Slim, Petite, Plus, Tall; size values not readable."
+  ],
+  "checked_at": "2026-10-29"
+}

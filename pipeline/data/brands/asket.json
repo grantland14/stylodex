@@ -1,0 +1,49 @@
+{
+  "name": "Asket",
+  "website_url": "https://www.asket.com/en-us",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Permanent Designs, Obsessively Refined",
+  "hq_country": "SE",
+  "founded_year": 2015,
+  "size_range": "XS–XXL in short, regular and long",
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "GB"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 65.0,
+      "max": 95.0,
+      "min_usd": 65.0,
+      "max_usd": 95.0,
+      "fx_date": null,
+      "item_count": 3,
+      "source_url": "https://www.asket.com/en-us/mens/t-shirts",
+      "checked_at": "2026-10-29",
+      "note": "Men's T-shirts page (polos excluded): The T-Shirt $65, The Long Sleeve T-Shirt $95, The Lightweight T-Shirt $95. No sale prices shown. Made in Portugal from custom developed fabrics."
+    }
+  ],
+  "production_model": "Made in Italy and Portugal",
+  "sources": [
+    "https://www.asket.com/us",
+    "https://www.asket.com/en-us/mens/t-shirts",
+    "https://www.asket.com/en-us/size-fit/mens-size-system",
+    "https://www.asket.com/en-us/support/shipping",
+    "https://www.asket.com/en-us/support/returns-exchanges",
+    "https://www.asket.com/en-us/about"
+  ],
+  "notes": [
+    "US store (Location: United States, USD prices) with banners 'Free shipping from 150 USD' and 'All customs and duties included: No fees on delivery'. The shipping page names standard delivery for the EU and UK and doesn't list US rates.",
+    "Returns: postmarked within 30 days of receipt; 10 USD return fee; exchanges free; free returns in Asket stores.",
+    "Size system: tops in XS–XXL and three lengths, Short, Regular and Long (https://www.asket.com/en-us/size-fit/mens-size-system).",
+    "About: based in Stockholm, Sweden, founded 2015; 'Our garments are manufactured exclusively in Italy and Portugal'. Homepage: one permanent collection, lifetime repair and take-back."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "asket"
+}

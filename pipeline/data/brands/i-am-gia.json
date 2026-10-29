@@ -1,0 +1,51 @@
+{
+  "slug": "i-am-gia",
+  "name": "I.AM.GIA",
+  "website_url": "https://iamgia.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Statement Wardrobe Essentials",
+  "hq_country": null,
+  "size_range": "XXS–XL",
+  "has_plus": false,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 49,
+      "max": 179,
+      "min_usd": 49,
+      "max_usd": 179,
+      "fx_date": null,
+      "item_count": 67,
+      "source_url": "https://iamgia.com/collections/tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "67 regular-price tops of 178 (111 on sale). Low: Blare Boob Tube $49 (93% viscose, 7% elastane); high: Buffy Latex Corset $179. Currency USD (cart.js; product page 'United States (USD $)'). Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (jackets, bottoms, dresses, sets, knitwear, hoodies, men's) excluded by title/product type."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://iamgia.com/",
+    "https://iamgia.com/collections/tops/products.json?limit=250",
+    "https://iamgia.com/pages/shipping",
+    "https://iamgia.com/pages/returns",
+    "https://iamgia.com/pages/about-us",
+    "https://iamgia.com/cart.js",
+    "https://iamgia.com/products/yvl-tshirt-white-gia"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "Meta: 'I.AM.GIA delivers a curated collection of statement wardrobe essentials in bold styles and contemporary fabrics'. Storefront labelled 'I.AM.GIA US'. About page gives no HQ or founding year.",
+    "Shipping: 'All orders are shipped from our U.S. warehouse'; shipping page lists Canada, Puerto Rico and the United States; duties and tariffs covered for US orders. No free-shipping threshold amount stated.",
+    "Returns: 30 days from purchase; free return label for store credit; refunds minus a $10 USD label fee."
+  ]
+}

@@ -10,18 +10,52 @@
   "sells_categories": [
     "womens-clothing"
   ],
-  "ships_to": [],
-  "prices": [],
+  "ships_to": [
+    "US"
+  ],
+  "prices": [
+    {
+      "category": "womens-clothing",
+      "currency": "USD",
+      "min": 36,
+      "max": 350,
+      "min_usd": 36,
+      "max_usd": 350,
+      "fx_date": null,
+      "item_count": 1182,
+      "source_url": "https://www.dillards.com/c/women-jeans",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: women's jeans. All 15 pages of Women's Jeans & Denim (1,407 items) read from the page's embedded pricing data with curl (StylodexBot UA); 225 marked-down items excluded (onSpecial / markDown set, or offer below list price), leaving 1,182 regular-price items. Lowest: Celebrity Pink and YMI Jeanswear skinny jeans $36; highest: JOHNNY WAS Embroidered Side Flare Leg High Waisted Stretch Denim Jeans $350."
+    }
+  ],
   "materials": [],
   "certifications": [],
   "sources": [
     "https://www.dillards.com/",
     "https://www.dillards.com/stores",
     "https://www.dillards.com/c/returns",
-    "https://www.sec.gov/Archives/edgar/data/0000028917/000002891726000024/dds-20260813xex99d1.htm"
+    "https://www.sec.gov/Archives/edgar/data/0000028917/000002891726000024/dds-20260813xex99d1.htm",
+    "https://www.dillards.com/c/women-jeans",
+    "https://www.dillards.com/c/faqs-notices-policies",
+    "https://www.dillards.com/c/about-dillards-company-history"
   ],
   "notes": [
-    "2026-10-29: dillards.com homepage readable (© 2026 Dillard's); nav Women, Juniors, Men, Kids, Shoes, Handbags, Accessories, Lingerie, Home, Beauty, Dillard's Exclusive; 'Sale and Clearance' link. Store finder at /stores (search only, no list). /c/returns gives no terms; shipping terms not found. Dillard's Q2 fiscal 2026 release, August 13, 2026 (https://www.sec.gov/Archives/edgar/data/0000028917/000002891726000024/dds-20260813xex99d1.htm): 'The Company operates 272 Dillard's stores, including 28 clearance centers, spanning 30 states ... and an Internet store at dillards.com.' known_for built from that release; clearance-center locations not listed on dillards.com."
+    "2026-10-29: dillards.com homepage readable (© 2026 Dillard's); nav Women, Juniors, Men, Kids, Shoes, Handbags, Accessories, Lingerie, Home, Beauty, Dillard's Exclusive; 'Sale and Clearance' link. Store finder at /stores (search only, no list). /c/returns gives no terms; shipping terms not found. Dillard's Q2 fiscal 2026 release, August 13, 2026 (https://www.sec.gov/Archives/edgar/data/0000028917/000002891726000024/dds-20260813xex99d1.htm): 'The Company operates 272 Dillard's stores, including 28 clearance centers, spanning 30 states ... and an Internet store at dillards.com.' known_for built from that release; clearance-center locations not listed on dillards.com.",
+    "Homepage title 'Dillard's | Clothing, Shoes, Accessories, Cosmetics, Kids, Home'; nav includes Women, Juniors, Men, Shoes, Handbags, Lingerie, Beauty, Dillard's Exclusive.",
+    "Shipping (FAQs page): 'Orders with merchandise totaling $150 and over delivered to addresses in the Continental United States qualify for Free Standard Shipping on non-additional clearance sale days.' Under $150: $9.95 standard; Alaska, Hawaii, US territories $25. A 'Change Country' footer link and a Zonos international script exist, but no destination list was read, so only US stored.",
+    "Returns: 'Items purchased on Dillards.com that are eligible for return can be returned within 30 calendar days from the purchase date.' Holiday extension for Nov 1–Dec 11 purchases.",
+    "Company history page: William Dillard opened his first store in 1938 in Nashville, Arkansas; HQ relocated to Little Rock, Arkansas; 'the chain consists of 272 Dillard's stores including 28 clearance centers spanning 30 states'.",
+    "Jeans size filters: 00/XXS–16/XL and 1X–3X; fit filters Contemporary, Standard, Juniors, Petite, Plus. Brands on page 1 include NYDJ, Levi's, KUT from the Kloth, Good American, Free People, Lauren Ralph Lauren, Gibson & Latimer, Antonio Melani, 7 For All Mankind, Eileen Fisher."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "founded_year": 1938,
+  "parent_company": null,
+  "size_range": "00–16 and 1X–3X; petite and plus",
+  "has_plus": true,
+  "has_petite": true,
+  "has_tall": null,
+  "free_shipping_min_usd": 150,
+  "returns_days": 30,
+  "production_model": null,
+  "sale_pattern": null
 }

@@ -1,0 +1,50 @@
+{
+  "name": "GU",
+  "website_url": "https://www.gu-global.com/us/en/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Low-Priced Fashion From Japan",
+  "hq_country": "JP",
+  "founded_year": 1973,
+  "parent_company": "Fast Retailing",
+  "size_range": "XS–XL",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 79,
+  "returns_days": 30,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 6.9,
+      "max": 29.9,
+      "min_usd": 6.9,
+      "max_usd": 29.9,
+      "fx_date": null,
+      "item_count": 15,
+      "source_url": "https://www.gu-global.com/us/en/men/t-shirts-and-sweats",
+      "checked_at": "2026-10-29",
+      "note": "15 unflagged men's T-shirt listings of 30 visible (15 marked Sale excluded). Lowest Cotton Color Crew Neck T-Shirt Short and Cotton Color V-Neck T-Shirt $6.90; Dry Ponte T-Shirt HalfSlv $14.90; Soft Cotton Crew Neck T-Shirt Long $19.90; highest Cotton Boxy T-Shirt Long and Washed Cotton Boxy T-Shirt Long $29.90. Sizes XS–XL. Includes one $6.90 ribbed tank listed in the T-shirts section."
+    }
+  ],
+  "materials": [
+    "Cotton"
+  ],
+  "sources": [
+    "https://www.gu-global.com/us/en/",
+    "https://www.gu-global.com/us/en/men/t-shirts-and-sweats",
+    "https://www.gu-global.com/us/en/women/t-shirts-and-sweats",
+    "https://www.gu-global.com/us/en/products/E356448-000/00",
+    "https://en.wikipedia.org/wiki/GU_(retailer)"
+  ],
+  "notes": [
+    "Shipping and returns from the Cotton Color Crew Neck T-Shirt product page (https://www.gu-global.com/us/en/products/E356448-000/00): standard shipping $7.99, 'Free shipping for purchases over $79 or for in-store pickup'; returns/exchanges within 30 days including the shipping date; customer pays return shipping; 100% cotton, XS–XL, XS online only.",
+    "us_stores: the GU US product page offers in-store pickup and in-store payment returns. Wikipedia: first permanent global flagship opened in SoHo, Manhattan, 19 September 2024 (after a 2022–2024 pop-up). Fast Retailing's outlet page gives GU only as a worldwide total (481).",
+    "known_for: Wikipedia says GU began as 'a more affordable concept in fashion than Uniqlo'; the US homepage banner reads 'Low prices starting at $5.90'. Wikipedia: founded 1973 (company), HQ Minato, Tokyo; wholly owned by Fast Retailing, Uniqlo's parent.",
+    "faq-us.gu-global.com refused WebFetch (403), not used."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "gu"
+}

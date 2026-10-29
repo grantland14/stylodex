@@ -1,0 +1,31 @@
+{
+  "slug": "neiman-marcus",
+  "name": "Neiman Marcus",
+  "website_url": "https://www.neimanmarcus.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Top Luxury Designers",
+  "hq_country": "US",
+  "founded_year": 1907,
+  "parent_company": "Exemplar Luxury Group",
+  "ships_to": [],
+  "us_stores": true,
+  "prices": [],
+  "sells_categories": [
+    "womens-clothing"
+  ],
+  "sources": [
+    "https://www.neimanmarcus.com/",
+    "https://www.exemplarluxurygroup.com/company",
+    "https://www.exemplarluxurygroup.com/2026-10-21-Neiman-Marcus-Kicks-Off-the-Season-with-Holiday-Fantasy-Unveiling-Extraordinary-2026-Fantasy-Gifts-and-a-Century-of-the-Holiday-Book",
+    "https://www.exemplarluxurygroup.com/2026-09-01-Neiman-Marcus-Unveils-Signature-Style-Fall-Campaign"
+  ],
+  "notes": [
+    "neimanmarcus.com returns HTTP 403 to WebFetch (homepage and women's clothing category). Status, stores and category from the parent's official site (enrich.md §2).",
+    "Exemplar company page: Neiman Marcus offers a curated assortment from the world's top luxury designers; founded 1907; serves customers through stores, digital and remote selling.",
+    "Oct 21 2026 release: Beverly Hills flagship, 'flagship stores like NorthPark and Coral Gables', events expanding 'into key markets nationwide'; gift guides incl. Gifts for Her.",
+    "Sep 1 2026 fall campaign: 'curate wardrobes' with Altuzarra, Givenchy, Ferragamo, Proenza Schouler, Christopher John Rogers, Dries Van Noten, Tom Ford, Toteme, Stella McCartney, Jil Sander, Saint Laurent. The releases don't say 'women's clothing' in so many words (human check).",
+    "No prices, sizes, shipping or returns: the store itself can't be read."
+  ],
+  "checked_at": "2026-10-29"
+}

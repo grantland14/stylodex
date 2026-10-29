@@ -1021,5 +1021,59 @@
     "10 picks pass enrich.md §3 (verified, regular-price tees on its own store, ships to the US, 1 outside source, one checkable reason). All are single-source.",
     "Ranking: all have 1 source, so by distance between tee-range midpoints (anchor $39): Vanquish 1.8, Gymshark 5, Kill Crew 5, Gymreapers 5, Darc 6, Jed North 9, Inaka 11, Ryderwear 18.5, Ten Thousand 36, ASRV 49. Ties broken by disco's order.",
     "Prices: Shopify /collections/{handle}/products.json (Gymshark by WebFetch of its US men's T-Shirts & Tops page). Regular = no compare-at above price and no markdown tag; campaign-eligibility tags without a compare-at price are not markdowns (see human_check). Short-sleeve tees only."
-  ]
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "You know the YoungLA formula: a fitted compression tee for the gym, baggy sweats for after. But its tees stop at XXL and cost $30 to $48, so if you need a bigger size or want to spend less, you'll have to look elsewhere. These ten brands make the same kind of gym tee, and most ship free in the US past a set spend. The closest on price come first.",
+    "bodies": {
+      "vanquish-fitness": "Vanquish Fitness is the closest match on price, and it goes a size bigger, S to XXXL. The Evolve Slim Fit T Shirt (£25, about $33) is the fitted gym tee to start with. For a licensed graphic like YoungLA's Batman and Naruto lines, there are the Tekken oversized tees (£36, about $48).\n\nIt's a London brand and its prices are in pounds, so convert before you compare. The whole tee range works out to about $27 to $48, almost exactly YoungLA's $30 to $48. US orders ship free over $110, a little above YoungLA's $100 bar.\n\nThe catch is the return window: 30 days, half of YoungLA's 60. If you'd rather pay in dollars, Gymshark sits in the same price band.",
+      "gymshark": "Gymshark is the cheaper way into the same gym-tee look, with the Arrival T-Shirt ($22) starting well under YoungLA's $30. Step up to the Power T-Shirt ($36), or go for the Power Washed Oversized Boxy T-Shirt ($40) if you live in YoungLA's oversized fits.\n\nIt started in 2012 in a garage in Birmingham, England, and it now has an office in New York too. Tees run XS to 3XL, one size past YoungLA's top. US orders ship free over $75, which is $25 less than YoungLA asks.\n\nReturns are open for 30 days. One thing to know before a sale: in the US, anything discounted 60% or more is final sale, so buy the size you're sure of.",
+      "kill-crew": "Kill Crew is the pick if you need bigger sizes. Every full-price tee comes in S to 5XL, three sizes past YoungLA's XXL, and most go down to XXS. Prices sit at the upper end of YoungLA's range, $40 to $48.\n\nStart with a Relaxed Fit Lux tee ($46), or the Script T-Shirt ($40) if you'd rather pay less. The fits are split into athletic, relaxed and oversized collections, handy when you're used to YoungLA's fitted-or-baggy choice.\n\nThe brand also gives to suicide-prevention and mental-health programs, and to veterans with PTSD. US orders ship free over $75, and returns stay open for 30 business days, which works out to about six weeks.",
+      "gymreapers": "Gymreapers starts at the same $30 as YoungLA, and the Basic Shirt ($30) is the reason to come here. It comes in 22 colors, so it's the easy way to stock up on plain gym tees. The Axis Raglan Tee ($48) and the Discipline Division Tee ($58) cover the pricier end.\n\nIt's an equipment brand as much as a clothing one. It makes weightlifting belts and knee and elbow sleeves, so you can add a belt to a tee order and clear the $75 free-shipping bar. Every tee goes to 2XL and more than half reach 3XL, but only about a third go to 4XL.\n\nReturns run 30 days, but the refund comes back minus shipping. If you need 4XL or 5XL on every style, Kill Crew has it.",
+      "darc-sport": "Darc Sport releases its gym wear as named yearly collections, from Rather Die Standing in 2022 to For the Sake of Others in 2026. If you like YoungLA's limited releases, it's the same idea. The full-price tee is the Big Wolf Head Premium Oversized Tee ($45), in S to 3XL.\n\nMost of its other tees show a markdown, and the site has a Darc Sunday Sale section, so look there before paying full price. US shipping is free over $150, the highest bar on this list alongside Ten Thousand.\n\nThe catch is returns. Every order is final sale, so there are none at all, against YoungLA's 60 days. If you're unsure of your size, Jed North's 30-day refunds are the safer bet.",
+      "jed-north": "Jed North keeps the lowest ceiling on this list: no full-price tee costs more than $35, and the Tactical Fast-Dry Training T-Shirt is $25. If you buy YoungLA's fitted tees, start with the Titan 2.0 Muscle-Fit T-Shirt ($35).\n\nThe store tells you who it's built for. Next to the tees it sells stringers and posing trunks for bodybuilding shows, plus muscle-fit denim. It's based in Toronto, but it has a warehouse in Houston, Texas, and US orders ship free over $100, the same bar as YoungLA. Sizes run S to 3XL.\n\nReturns get you 30 days and a choice of refund or store credit. For the same muscle-fit idea in a pricier, Australian take, see Ryderwear.",
+      "inaka-power": "Inaka Power is where to look for a cropped gym tee. Its full-price tees are cropped and oversized cuts, like the Day Off Cropped Tee ($50) and the Basics Cropped Tee ($50). That's $2 above YoungLA's priciest tee, in the same S to XXL.\n\nShorts are its bigger line, so it makes most sense if you want gym shorts and a tee in one order. It's based in Sugar Land, Texas, and it ships to the US, Canada, the UK and Australia. It also makes 10mm lifting belts.\n\nThe tee range is small at full price, so you won't find much choice. For a wider choice of oversized tees at YoungLA's prices, Vanquish Fitness has far more.",
+      "ryderwear": "Ryderwear designs every piece to fit a muscular build, for athletes and bodybuilders of any size. Its tees cost $50 to $65, a step above YoungLA. Start with the Element Seamless T-Shirt ($52), or the Pursuit Oversized T-shirt ($65) for the baggier look.\n\nIt's Australian, founded in 2009, and US orders come with customs and duties already paid, so the checkout price is what you pay. Shipping is free over $120. Sizes run XS to 3XL on nearly every tee.\n\nThe trade-off is returns: 30 days, and you get store credit, not your money back. If you want the option of a refund, Jed North gives you the choice.",
+      "ten-thousand": "Ten Thousand makes training shirts, and it charges for them: $62 to $88. The Core Tee ($62) is the cheapest way in. The Interval Shirt ($78) comes in 24 colors, and its Cordura version costs $88.\n\nThe range is small, a handful of styles that mostly come in a long list of colors, so choosing is quick. It's a New York brand and sizes run XS to XXL, the same top size as YoungLA.\n\nUS returns are free for 30 days with a prepaid label. Mail the package within 14 days of starting the return, though, or it won't be accepted. If you want tees named after their fabric, ASRV is the next step up.",
+      "asrv": "ASRV is the priciest pick here, and most of its tees are named after their fabric. The AeroSilver Established Tee ($68) is the entry point, and the Tech Essential Oversized Boxy Tee ($88) is the one for YoungLA's oversized look.\n\nThe number in front of each product name (0660 on the AeroSilver Established Tee) is the product's code. Its size guide uses the same number, so search it before you pick a size. It's based in Vista, California, and it ships worldwide except Russia.\n\nTwo catches. XXL isn't on every style, so check yours before you fall for one. And shipping is priced at checkout, with no free-shipping bar. If $68 is more than you want to spend, Ryderwear's seamless tees start at $52."
+    },
+    "best_for": {
+      "vanquish-fitness": "YoungLA prices with one more size up top",
+      "gymshark": "cheap gym basics with free shipping from $75",
+      "kill-crew": "gym tees in sizes all the way to 5XL",
+      "gymreapers": "stocking up on plain tees and adding a lifting belt",
+      "darc-sport": "a full-price wolf-head tee when you know your size",
+      "jed-north": "muscle-fit tees that never cost more than $35",
+      "inaka-power": "a cropped gym tee in the same order as shorts",
+      "ryderwear": "fitted tees for a big build, with US duties paid",
+      "ten-thousand": "a few pricier training shirts with free US returns",
+      "asrv": "technical-fabric tees when the price isn't the point"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with your size. If XXL is too small, Kill Crew goes all the way to 5XL, while Vanquish Fitness and Ryderwear each go one size past YoungLA.\n\nOn a budget, Jed North never charges more than $35 for a tee, and Gymshark's basics start at $22. Gymreapers is the bulk buy, with a $30 shirt in 22 colors. For the closest match on price and licensed graphics, go to Vanquish.\n\nIf you want training fabrics, ASRV names the fabric on most of its tees and Ten Thousand builds its range around a few training shirts, both at a higher price. And check returns before you pay: Darc Sport takes none and Ryderwear gives store credit only, while YoungLA's own 60 days is the longest here."
+    },
+    "faqs": [
+      {
+        "q": "Who owns YoungLA?",
+        "a": "YoungLA is a private company co-founded by brothers Gurmer and Dashmeet Chopra. Gurmer runs it as CEO.",
+        "source_query": "who owns youngla"
+      },
+      {
+        "q": "When was YoungLA founded?",
+        "a": "In 2014, in Los Angeles, by brothers Gurmer and Dashmeet Chopra. It sells men's and women's gym wear and streetwear.",
+        "source_query": "when was youngla founded"
+      },
+      {
+        "q": "Where does YoungLA ship from?",
+        "a": "From California, where it designs its clothes and fulfils orders. It ships to more than 200 countries, and US orders over $100 ship free.",
+        "source_query": "where does youngla ship from"
+      },
+      {
+        "q": "Does YoungLA do returns?",
+        "a": "Yes, for 60 days from delivery, as long as items are unworn, unwashed and tagged. You can exchange, take store credit, or get a refund minus a return-label fee.",
+        "source_query": "does youngla do returns"
+      }
+    ]
+  }
 }

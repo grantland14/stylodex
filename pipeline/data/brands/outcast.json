@@ -1,0 +1,48 @@
+{
+  "slug": "outcast",
+  "name": "Outcast",
+  "website_url": "https://outcast-clothing.us",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Trend-Led Tops, Dresses and Sets",
+  "hq_country": null,
+  "size_range": "XXS–XL",
+  "has_plus": false,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 130,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 35,
+      "max": 105,
+      "min_usd": 35,
+      "max_usd": 105,
+      "fx_date": null,
+      "item_count": 324,
+      "source_url": "https://outcast-clothing.us/collections/tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "324 regular-price in-stock tops of 456 (99 on sale, 33 sold out). Product types: Crop Top 300, Corset 118, Bodysuit 19, Baby Tee 9. Low: DJ Baby Tee $35; high: Minori Top $105. Currency USD (cart.js). Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (jackets, bottoms, dresses, sets, knitwear, hoodies, men's) excluded by title/product type."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://outcast-clothing.us/",
+    "https://outcast-clothing.us/collections/tops/products.json?limit=250",
+    "https://outcast-clothing.us/policies/shipping-policy",
+    "https://outcast-clothing.us/policies/refund-policy",
+    "https://outcast-clothing.us/cart.js"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "Named 'Outkast' by worthybornedit, which links outcast-clothing.us; the store calls itself 'Outcast USA' (title 'Official Online Store – Outcast USA'). Meta: 'latest fashion trends ... outfits, dresses, tops, sets and more'.",
+    "Free shipping over $130 (site banner on the US store). Returns within 30 days of delivery; USA customers receive store credit (return shipping deducted); no refunds for change of mind or sizing.",
+    "size_range from tops variants. No HQ stated on the pages read."
+  ]
+}

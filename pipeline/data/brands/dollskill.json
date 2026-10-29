@@ -20,7 +20,21 @@
   ],
   "free_shipping_min_usd": 50,
   "returns_days": 30,
-  "prices": [],
+  "prices": [
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 29,
+      "max": 79,
+      "min_usd": 29,
+      "max_usd": 79,
+      "fx_date": null,
+      "item_count": 9,
+      "source_url": "https://www.dollskill.com/collections/tops/products.json?limit=250&sort_by=created-descending",
+      "checked_at": "2026-10-29",
+      "note": "Newest 1,000 products of the tops feed: 844 tops, only 9 regular-price and in stock (363 marked down, 472 sold out). Default-order feed (first 4,000, mostly 2023 listings) gave 11 at $29–$79 after dropping sold-out items. Multi-brand: house labels plus third-party brands. Low: Pastel Pop Criss-Cross Top $29; high: Moto Dickini Top $79. Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (jackets, bottoms, dresses, sets, knitwear, hoodies, men's) excluded by title/product type."
+    }
+  ],
   "materials": [],
   "certifications": [],
   "production_model": null,
@@ -34,7 +48,9 @@
     "https://help.dollskill.com/returns/returns",
     "https://help.dollskill.com/hc/en-us/articles/9236181811991-Size-Guide",
     "https://en.wikipedia.org/wiki/Dolls_Kill",
-    "https://www.dollskill.com/collections/jeans/products.json?limit=250"
+    "https://www.dollskill.com/collections/jeans/products.json?limit=250",
+    "https://www.dollskill.com/collections/tops/products.json?limit=250&sort_by=created-descending",
+    "https://www.dollskill.com/cart.js"
   ],
   "notes": [
     "Retailer: sells third-party labels (Demonia, Ed Hardy, Von Dutch, Koi Footwear...) alongside ®-marked house labels (Club Exx, Current Mood, Widow...).",

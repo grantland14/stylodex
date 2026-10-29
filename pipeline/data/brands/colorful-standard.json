@@ -1,0 +1,46 @@
+{
+  "name": "Colorful Standard",
+  "website_url": "https://colorfulstandard.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Organic Cotton Basics in Many Colors",
+  "size_range": "XS–2XL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 90,
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "EUR",
+      "min": 35.0,
+      "max": 50.0,
+      "min_usd": 38.97,
+      "max_usd": 55.66,
+      "fx_date": "2026-10-28",
+      "item_count": 106,
+      "source_url": "https://colorfulstandard.com/collections/mens-organic-t-shirts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Men's organic T-shirts collection: 113 listings (one per colour), all regular price; excluding tanks and 3-packs, 106 single tees: Classic Organic Tee and Oversized Organic T-Shirt €35, Oversized Organic LS T-Shirt €45, Heavy Organic Boxy Tee €50. 100% organic cotton, made in Portugal. Sizes XS–2XL. USD at ECB 2026-10-28."
+    }
+  ],
+  "materials": [
+    "Organic cotton"
+  ],
+  "production_model": "Made in Portugal",
+  "sources": [
+    "https://colorfulstandard.com/",
+    "https://colorfulstandard.com/collections/mens-organic-t-shirts/products.json?limit=250",
+    "https://colorfulstandard.com/pages/shipping-returns"
+  ],
+  "notes": [
+    "www.colourfulstandard.com redirects (307) to colorfulstandard.com; store defaults to Germany/EUR.",
+    "Shipping (https://colorfulstandard.com/pages/shipping-returns): US standard $15 (FedEx, 2–5 working days), free over $100; express $24; ships to Canada and the UK; Australia not listed. US duties not mentioned.",
+    "Returns: within 90 days of receipt, unused; US return label €4.25 (DHL Express) bought in the portal. Homepage menus include Transparency and Certified B Corporation pages."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "colorful-standard"
+}

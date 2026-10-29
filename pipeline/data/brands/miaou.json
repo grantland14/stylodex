@@ -35,6 +35,19 @@
       "source_url": "https://miaou.com/collections/all/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "5 regular-price jeans: Low Rise Flare (Dark Olive $218, Cold Wash $245), Low Rise Flare Jean (Dark Wash, Black Sand Wash, $245), Element Jean ($325). 2 sale jeans (Ryleigh, Low Rise Flare Vanilla) excluded. Sizes XXS–XL."
+    },
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 78,
+      "max": 395,
+      "min_usd": 78,
+      "max_usd": 395,
+      "fx_date": null,
+      "item_count": 72,
+      "source_url": "https://miaou.com/collections/tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "72 regular-price tops of 72 after exclusions (1 sale item and knit/jacket items excluded). Corsets are the largest type (21 + 5). Low: Lani Top $78; Jinx Tank $88 (100% cotton compressed rib); high: Libra Corset Candy Latex $395. 11 tops also come in 1XL–4XL. Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (jackets, bottoms, dresses, sets, knitwear, hoodies, men's) excluded by title/product type."
     }
   ],
   "sources": [
@@ -44,7 +57,8 @@
     "https://miaou.com/policies/shipping-policy",
     "https://miaou.com/policies/refund-policy",
     "https://miaou.com/pages/about",
-    "https://miaou.com/cart.js"
+    "https://miaou.com/cart.js",
+    "https://miaou.com/collections/tops/products.json?limit=250"
   ],
   "notes": [
     "Homepage meta: 'Born in France and inspired by the Southern California coastline. Shop our iconic corsets, matching sets, dresses, denim and more. Free shipping on purchases over $250 in the U.S.'",

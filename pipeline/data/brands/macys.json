@@ -22,7 +22,13 @@
     "https://www.sec.gov/Archives/edgar/data/794367/000162828026021721/m-20260131.htm"
   ],
   "notes": [
-    "2026-10-29: macys.com returns 403 to WebFetch; no workaround tried. status=verified from Macy's, Inc.'s official site and 10-K (enrich.md §2). macysinc.com Macy's page: 'the latest styles in fashion, beauty, home and beyond'; 'market and private brands'; Macy's Backstage 'Off Price, On trend, Arriving Daily', '300+ Macy's Backstage stores nationwide' as 'store-within-store and free-standing shopping experiences'. Store Count page: Macy's 408 locations (incl. furniture stores and fulfillment-center conversions), Macy's Backstage 4 freestanding, 20 small-format. 10-K (https://www.sec.gov/Archives/edgar/data/794367/000162828026021721/m-20260131.htm): Macy's Backstage is an off-price concept; 2025 sales groups include Women's Apparel ($4,764 million). Prices, sizes, shipping, returns not stored (store unreadable)."
+    "2026-10-29: macys.com returns 403 to WebFetch; no workaround tried. status=verified from Macy's, Inc.'s official site and 10-K (enrich.md §2). macysinc.com Macy's page: 'the latest styles in fashion, beauty, home and beyond'; 'market and private brands'; Macy's Backstage 'Off Price, On trend, Arriving Daily', '300+ Macy's Backstage stores nationwide' as 'store-within-store and free-standing shopping experiences'. Store Count page: Macy's 408 locations (incl. furniture stores and fulfillment-center conversions), Macy's Backstage 4 freestanding, 20 small-format. 10-K (https://www.sec.gov/Archives/edgar/data/794367/000162828026021721/m-20260131.htm): Macy's Backstage is an off-price concept; 2025 sales groups include Women's Apparel ($4,764 million). Prices, sizes, shipping, returns not stored (store unreadable).",
+    "macys.com returns HTTP 403 to WebFetch; l.macys.com 503. Status, stores and category from the parent's official sources (enrich.md §2).",
+    "macysinc.com Macy's page: known for 'the latest styles in fashion, beauty, home and beyond'; market brands and private brands; tagline 'All the Brands, Value, and Inspiration to Own Your Style'; '300+ Macy's Backstage stores nationwide'.",
+    "macysinc.com store count: Macy's 408 locations (incl. furniture and fulfillment conversions), 20 small-format, 4 freestanding Backstage.",
+    "Macy's, Inc. 10-K (filed 2026-03-27): 'apparel and accessories (men's, women's and kids')'; Women's Apparel $4,764M of 2025 net sales; stores across the United States; HQ 151 West 34th Street, New York.",
+    "No prices, sizes, shipping or returns: the store itself can't be read."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "founded_year": null
 }

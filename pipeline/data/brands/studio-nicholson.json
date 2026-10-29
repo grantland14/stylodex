@@ -1,0 +1,45 @@
+{
+  "name": "Studio Nicholson",
+  "website_url": "https://www.studionicholson.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Fabric-First Clothing",
+  "hq_country": "GB",
+  "founded_year": 2010,
+  "size_range": "XS–XXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "AU"
+  ],
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "GBP",
+      "min": 95.0,
+      "max": 110.0,
+      "min_usd": 126.23,
+      "max_usd": 146.16,
+      "fx_date": "2026-10-28",
+      "item_count": 8,
+      "source_url": "https://www.studionicholson.com/collections/mens-t-shirts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Men's T-shirts collection, T-shirts only (jersey tops and polos excluded): Bric T-Shirt and Lay T-Shirt £95, Piu T-Shirt £110. All regular price. Store default currency GBP; USD at ECB 2026-10-28 (GBP 0.83785, USD 1.1133). US checkout prices through Global-E include duties and may differ."
+    }
+  ],
+  "sources": [
+    "https://www.studionicholson.com/",
+    "https://www.studionicholson.com/collections/mens-t-shirts/products.json?limit=250",
+    "https://www.studionicholson.com/pages/shipping-returns",
+    "https://www.studionicholson.com/pages/returns-exchanges",
+    "https://www.studionicholson.com/pages/about"
+  ],
+  "notes": [
+    "Shipping: US free on baskets over $100, else $10 Air Express; 'Duties are included in the prices of our products, tax will be calculated at checkout.' Canada free over CA$500, Australia free over A$500. UK free over £150.",
+    "Returns: within 14 days of receipt; international returns £10, deducted from the refund.",
+    "About: launched 2010 by founder and creative director Nick Wakeman; 'a no-nonsense clothing brand that revolves around a fabric-first approach'; stores in London, Tokyo, Kyoto and Seoul. hq_country GB inferred from the London store and GBP default store; HQ not stated."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "studio-nicholson"
+}

@@ -46,6 +46,19 @@
       "source_url": "https://afends.com/collections/womens-jeans/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "Like-for-like item: women's jeans. womens-jeans products.json: 26 products, none marked down, AUD 139.99–159.99. Low: AFENDS Womens Marsha Denim Slim Flared Jean (washed black) AUD 139.99; high: AFENDS Womens Alyra Low Rise Wide Leg Jean (authentic blue) AUD 159.99. Store currency AUD (cart.js). USD at ECB 2026-10-28."
+    },
+    {
+      "category": "tops",
+      "currency": "AUD",
+      "min": 49.99,
+      "max": 99.99,
+      "min_usd": 35.16,
+      "max_usd": 70.32,
+      "fx_date": "2026-10-28",
+      "item_count": 97,
+      "source_url": "https://afends.com/collections/womens-tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "97 regular-price in-stock women's tops of 236 (115 marked down, 24 sold out; men's items excluded). Low: Basis Rib Halter AUD 49.99; Carmen Baby Tee AUD 69.99; high: Giselle Cupro Sleeveless Top AUD 99.99. Store currency AUD (cart.js). USD at ECB 2026-10-28. Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (jackets, bottoms, dresses, sets, knitwear, hoodies, men's) excluded by title/product type."
     }
   ],
   "materials": [],
@@ -61,7 +74,9 @@
     "https://afends.com/pages/size-guide",
     "https://afends.com/collections.json?limit=250",
     "https://afends.com/collections/womens-jeans/products.json?limit=250",
-    "https://us.afends.com/collections.json?limit=250"
+    "https://us.afends.com/collections.json?limit=250",
+    "https://afends.com/collections/womens-tops/products.json?limit=250",
+    "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
   ],
   "notes": [
     "Homepage title: 'AFENDS Official - Byron Bay Clothing & Fashion Label'; meta: 'an alternative Byron Bay Clothing & Fashion Brand leading the way in Organic Hemp fashion and Mens & Womens Streetwear.'",

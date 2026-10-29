@@ -1,0 +1,51 @@
+{
+  "slug": "revice-denim",
+  "name": "Revice Denim",
+  "website_url": "https://www.revicedenim.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Vintage-Inspired Premium Denim",
+  "hq_country": null,
+  "size_range": "XS–XL",
+  "has_plus": false,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 32,
+      "max": 48,
+      "min_usd": 32,
+      "max_usd": 48,
+      "fx_date": null,
+      "item_count": 24,
+      "source_url": "https://revicedenim.com/collections/tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "24 regular-price in-stock tops of 174 (119 on sale, 31 sold out). Low: Starlet Tank $32 (92% cotton, 8% elastane); high: Devon Tank $48. Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (jackets, bottoms, dresses, sets, knitwear, hoodies, men's) excluded by title/product type."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.revicedenim.com/",
+    "https://revicedenim.com/collections/tops/products.json?limit=250",
+    "https://www.revicedenim.com/pages/shipping",
+    "https://revicedenim.com/policies/refund-policy",
+    "https://revicedenim.com/cart.js"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "Homepage title 'REVICE Denim - Premium Denim Vintage Inspired'; meta 'luxury handmade denim ... Only available on www.revicedenim.com'.",
+    "Shipping page: flat $7.88 in the USA, free over $100 (excl. HI, AK, PR); Canada flat $9.99; '$9.99-$19.95 for most other international orders' (UK/AU not named, so not stored).",
+    "Returns: within 30 days of delivery for exchange or store credit (no cash refund stated); clearance 40%+ and 50–70% off items are final sale.",
+    "size_range from tops variants (XS–XL; XXL on one item). cart.js returned no JSON; prices assumed USD from the US shipping terms and $ display."
+  ]
+}

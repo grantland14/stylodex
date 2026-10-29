@@ -1,0 +1,28 @@
+{
+  "slug": "bergdorf-goodman",
+  "name": "Bergdorf Goodman",
+  "website_url": "https://www.bergdorfgoodman.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Leading and Emerging Designers",
+  "hq_country": "US",
+  "founded_year": 1901,
+  "parent_company": "Exemplar Luxury Group",
+  "ships_to": [],
+  "us_stores": true,
+  "prices": [],
+  "sells_categories": [
+    "womens-clothing"
+  ],
+  "sources": [
+    "https://www.bergdorfgoodman.com/",
+    "https://www.exemplarluxurygroup.com/company",
+    "https://www.exemplarluxurygroup.com/2026-09-10-BERGDORF-GOODMAN-CELEBRATES-125-YEARS-OF-SHAPING-AMERICAN-LUXURY-FASHION"
+  ],
+  "notes": [
+    "bergdorfgoodman.com returns HTTP 403 to WebFetch. Status, store and category from the parent's official site (enrich.md §2).",
+    "Exemplar company page and Sep 10 2026 release: 'A New York landmark since 1901'; 'the iconic store at 5th Avenue and 57th Street'; separate women's and men's stores on Fifth Avenue; BG.com offers 'coveted collections for men and women'; 'leading and emerging designers' (named: Michael Kors Collection, Brunello Cucinelli, Thom Browne, Tom Ford, Akris, Alaïa, Schiaparelli, Manolo Blahnik).",
+    "No prices, sizes, shipping or returns: the store itself can't be read."
+  ],
+  "checked_at": "2026-10-29"
+}

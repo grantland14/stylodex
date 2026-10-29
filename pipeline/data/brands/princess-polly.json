@@ -1,0 +1,52 @@
+{
+  "slug": "princess-polly",
+  "name": "Princess Polly",
+  "website_url": "https://us.princesspolly.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Trend-Led Womenswear",
+  "hq_country": null,
+  "size_range": "US 0–12; Curve US 14–20",
+  "has_plus": true,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 50,
+  "returns_days": 30,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 29,
+      "max": 110,
+      "min_usd": 29,
+      "max_usd": 110,
+      "fx_date": null,
+      "item_count": 913,
+      "source_url": "https://us.princesspolly.com/collections/tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "913 regular-price in-stock tops among the first 4,000 products of the feed (3,684 tops after exclusions; 914 on sale, 1,857 sold out). A newest-first read (sort_by=created-descending, 1,000 products) gave 278 regular tops at $29–$79. Low: Daily Define Tube Top $29 (87% reclaimed polyamide, 13% elastane); high: Overtime Blouse $110. Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (jackets, bottoms, dresses, sets, knitwear, hoodies, men's) excluded by title/product type."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://us.princesspolly.com/",
+    "https://us.princesspolly.com/collections/tops/products.json?limit=250",
+    "https://us.princesspolly.com/policies/shipping-policy",
+    "https://us.princesspolly.com/policies/refund-policy",
+    "https://us.princesspolly.com/pages/store-locator",
+    "https://us.princesspolly.com/products/britni-tube-top-white.js",
+    "https://us.princesspolly.com/products/daily-define-thin-strap-halter-tank-top-black-curve.js"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "Meta: 'the go-to fashion destination for trendsetters worldwide'. known_for paraphrases its own positioning (trend-led women's clothing).",
+    "US shipping: free standard over $50 to the 48 contiguous states, 3–6 business days. Returns: 30 days from delivery for exchange, gift card or refund; final sale excluded.",
+    "Store locator shows US stores in Scottsdale AZ, Santa Clara CA, Boston MA and Columbus OH (state filter also lists FL, NY, PA, TX) plus two in Australia.",
+    "Curve range: e.g. Daily Define Thin Strap Halter Tank Top Black Curve in US 14–20; core range US 0–12. Daily Define fabric: 'lower-impact fabric', 87% reclaimed polyamide."
+  ]
+}

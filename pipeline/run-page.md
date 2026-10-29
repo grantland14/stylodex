@@ -26,7 +26,8 @@ source you fetched, with its URL. Nothing estimated, nothing from memory.
   `python3 -I pipeline/merge_brand.py <slug> <patch.json> [--overwrite field,field]`**, which
   locks the file: put your facts in a patch file (in the scratchpad, not the repo) and merge it.
   Prices replace only your category's entry; other fields fill only if empty unless named in
-  `--overwrite` (use it for corrections, like a wrong `website_url`). Never write a brand file
+  `--overwrite` (use it for corrections, like a wrong `website_url`). `notes` and `sources` are
+  always appended, never replaced: send only your new notes. Never write a brand file
   directly, never delete fields or other categories' prices.
 - Write only your own `pipeline/data/pages/{slug}.json` and `{slug}.review.md`.
 - Don't touch git, the database, Vercel, `public/`, or `pipeline/data/*.json` manifests; the

@@ -33,6 +33,19 @@
       "source_url": "https://frankiecollective.com/collections/dresses/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "12 regular-price dresses of 16 (4 marked down). Mostly reworked sports-team mini dresses made from vintage tees and jerseys, many one size each: Rework Minnesota Twins Mini Dress $90, Rework Dallas Mavericks NBA Mini Dress Tee $89; Vintage Ruched Flounce Dress $80. Store currency USD (cart.js). Most of the store is tops (182 of 250 products by type)."
+    },
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 30,
+      "max": 185,
+      "min_usd": 30,
+      "max_usd": 185,
+      "fx_date": null,
+      "item_count": 407,
+      "source_url": "https://frankiecollective.com/collections/tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "407 regular-price in-stock tops of 438 (31 on sale). Mostly one-of-one vintage and reworked pieces, each listed in a single size. Low: Rework Cycling Tank $30 (upcycled from a vintage cycling jersey); high: Custom Rework Lace Tank $185. Currency USD (cart.js). Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (jackets, bottoms, dresses, sets, knitwear, hoodies, men's) excluded by title/product type."
     }
   ],
   "materials": [],
@@ -45,7 +58,10 @@
     "https://frankiecollective.com/policies/shipping-policy",
     "https://frankiecollective.com/policies/refund-policy",
     "https://frankiecollective.com/pages/sustainable-practices",
-    "https://www.eco-stylist.com/is-cider-fast-fashion-are-they-ethical-and-sustainable/"
+    "https://www.eco-stylist.com/is-cider-fast-fashion-are-they-ethical-and-sustainable/",
+    "https://frankiecollective.com/collections/tops/products.json?limit=250",
+    "https://frankiecollective.com/products/rework-cycling-tank-m-20.js",
+    "https://frankiecollective.com/cart.js"
   ],
   "notes": [
     "Title: 'Frankie Collective | Vintage Finds'. Meta: 'Shop one-of-one hand curated vintage pieces and deadstock collections.'",

@@ -1,0 +1,32 @@
+{
+  "slug": "saks-fifth-avenue",
+  "name": "Saks Fifth Avenue",
+  "website_url": "https://www.saksfifthavenue.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Luxury Fashion",
+  "hq_country": "US",
+  "founded_year": 1924,
+  "parent_company": "Exemplar Luxury Group",
+  "ships_to": [],
+  "us_stores": true,
+  "prices": [],
+  "sells_categories": [
+    "womens-clothing"
+  ],
+  "sources": [
+    "https://www.saksfifthavenue.com/",
+    "https://www.saksglobal.com/",
+    "https://www.exemplarluxurygroup.com/company",
+    "https://www.exemplarluxurygroup.com/news-releases",
+    "https://www.exemplarluxurygroup.com/2026-10-13-Saks-Fifth-Avenue-Unveils-Main-Character-Energy-Holiday-Campaign,-Celebrating-the-Joy-and-Magic-of-the-Season",
+    "https://www.exemplarluxurygroup.com/2026-06-26-Saks-Global-Successfully-Emerges-as-Exemplar-Luxury-Group-Offering-Unrivaled-Customer-Experiences-Across-Neiman-Marcus,-Saks-Fifth-Avenue-and-Bergdorf-Goodman"
+  ],
+  "notes": [
+    "saksfifthavenue.com returns HTTP 403 to WebFetch. saksglobal.com 301-redirects to exemplarluxurygroup.com ('formerly Saks Global'; emerged from chapter 11 as Exemplar Luxury Group, release dated 2026-06-26). Status, stores and category from the parent's official site (enrich.md §2).",
+    "Exemplar company page: Saks Fifth Avenue is 'a leading destination for luxury fashion', founded 1924, 'a portfolio of stores in leading luxury markets'.",
+    "Oct 13 2026 holiday release: New York flagship; 'select Saks locations'; categories incl. Women's Holiday Party Outfits and men's Holiday Dressing, beauty, Holiday Market.",
+    "No prices, sizes, shipping or returns: the store itself can't be read."
+  ],
+  "checked_at": "2026-10-29"
+}

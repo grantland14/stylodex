@@ -1,0 +1,48 @@
+{
+  "slug": "tiger-mist",
+  "name": "Tiger Mist",
+  "website_url": "https://tigermist.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Trending Dresses and Tops",
+  "hq_country": null,
+  "size_range": "XXS–XL",
+  "has_plus": false,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 49,
+      "max": 105,
+      "min_usd": 49,
+      "max_usd": 105,
+      "fx_date": null,
+      "item_count": 56,
+      "source_url": "https://tigermist.com/collections/tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "56 regular-price tops of 239 (183 on sale). Low: Bella Baby Tee $49 (95% rayon, 5% elastane); high: Ember Bandage Top $105. Currency USD (cart.js; product page 'United States (USD $)'). Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (jackets, bottoms, dresses, sets, knitwear, hoodies, men's) excluded by title/product type."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://tigermist.com/",
+    "https://tigermist.com/collections/tops/products.json?limit=250",
+    "https://tigermist.com/policies/shipping-policy",
+    "https://tigermist.com/policies/refund-policy",
+    "https://tigermist.com/products/maura-top-sky",
+    "https://tigermist.com/cart.js"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "Meta: 'Leading online fashion destination for trending dresses, tops, pants & more. Free US shipping for orders over $75.' Shipping policy names 'Tiger Mist (US)'.",
+    "Returns: 30 days for refund or credit note; US customers get a free label for store credit, refunds minus a $10 USD label."
+  ]
+}

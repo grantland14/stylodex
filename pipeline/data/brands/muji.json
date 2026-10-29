@@ -1,0 +1,55 @@
+{
+  "name": "Muji",
+  "website_url": "https://www.muji.us/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "No-Brand Quality Goods",
+  "hq_country": "JP",
+  "founded_year": 1980,
+  "parent_company": "Ryohin Keikaku",
+  "size_range": "XS–XL; some tees to XXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 80,
+  "returns_days": 30,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 14.9,
+      "max": 60.0,
+      "min_usd": 14.9,
+      "max_usd": 60.0,
+      "fx_date": null,
+      "item_count": 36,
+      "source_url": "https://www.muji.us/collections/mens-t-shirts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "All 36 men's T-shirt listings are at regular price (no compare-at). Lowest Jersey Crewneck T-Shirt $14.90; Cotton Jersey Crewneck T-Shirt $19.90 (pre-washed organic cotton jersey); Heavyweight Cotton T-Shirt $29.90; Loopwheel Cotton T-Shirt $40; highest Loopwheel Cotton Long Sleeve T-Shirt $60. Sizes XS–XL on 35 of 36, XXL on 3."
+    }
+  ],
+  "materials": [
+    "Organic cotton"
+  ],
+  "sources": [
+    "https://www.muji.us/",
+    "https://www.muji.us/collections/mens-t-shirts/products.json?limit=250",
+    "https://www.muji.us/pages/shipment",
+    "https://www.muji.us/pages/return-policy",
+    "https://www.muji.us/pages/store-information",
+    "https://en.wikipedia.org/wiki/Muji"
+  ],
+  "notes": [
+    "Shipping (https://www.muji.us/pages/shipment): US standard 7–10 business days, $9 up to $39.99, $15 for $40–$79.99, free from $80 (free from $50 to CA, WA, TX, FL, IL, VA, PA and DC); Alaska and Hawaii +$25. International via Global-E to Canada (Quebec only; other provinces use muji.ca), Mexico and Latin America.",
+    "Returns (https://www.muji.us/pages/return-policy): online orders within 30 days of delivery, free return label for US addresses; innerwear, clearance and soft goods are final sale; no online exchanges.",
+    "Stores (https://www.muji.us/pages/store-information): 15 US stores listed (11 NY, 3 MA, 1 OR), two marked coming soon.",
+    "Wikipedia: founded 1980; HQ Tokyo, Japan; run by Ryohin Keikaku; known for simple, unbranded goods (Mujirushi Ryohin, 'no-brand quality goods').",
+    "ships_to is US only: muji.us ships to Canada only for Quebec (other provinces use muji.ca) and to Mexico and Latin America via Global-E."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "muji"
+}

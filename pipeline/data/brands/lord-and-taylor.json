@@ -1,0 +1,53 @@
+{
+  "slug": "lord-and-taylor",
+  "name": "Lord & Taylor",
+  "website_url": "https://www.lordandtaylor.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Designer Labels and Heritage Collection",
+  "hq_country": "US",
+  "founded_year": 1826,
+  "parent_company": null,
+  "size_range": null,
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": false,
+  "free_shipping_min_usd": 300,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "womens-clothing",
+      "currency": "USD",
+      "min": 234.9,
+      "max": 3165.9,
+      "min_usd": 234.9,
+      "max_usd": 3165.9,
+      "fx_date": null,
+      "item_count": 2473,
+      "source_url": "https://www.lordandtaylor.com/collections/jeans-denim",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: women's jeans. Whole Jeans & Denim collection from the public Shopify endpoint /collections/jeans-denim/products.json (11 pages, 2,662 products); 189 excluded as sale (compare_at above price, or tagged Final Sale), leaving 2,473 regular-price items from 201 labels (most: Gucci, Mother, Haikure, AGOLDE, Balenciaga). Lowest: Sunflower Wide Twist Jeans $234.90; highest: Ermanno Scervino Wide-Leg Crystal Jeans $3,165.90. Median $605.90. The collection is under Clothing (Mens is a separate nav item); 2 titles mention men."
+    }
+  ],
+  "sells_categories": [
+    "womens-clothing"
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.lordandtaylor.com/",
+    "https://www.lordandtaylor.com/pages/about-us",
+    "https://www.lordandtaylor.com/pages/shipping-returns",
+    "https://www.lordandtaylor.com/collections/jeans-denim/products.json"
+  ],
+  "notes": [
+    "Homepage: nav Designers, Heritage Collection, Clothing, Handbags, Accessories, Jewelry, Shoes, Mens, Home, Pre-Loved, Clearance; 'Crafting trends for over 200 years, Lord & Taylor is where legacy meets luxury'; banners 'FREE SHIPPING OVER $300', 'ALL PRICES INCLUDE IMPORT DUTIES'.",
+    "About page: founded 1826 in Lower Manhattan; in 2020 it closed its physical stores and moved to 'a fully digital model'. Current owner not stated.",
+    "Shipping & returns page: ships to the 48 contiguous United States only, no international shipping, no APO/FPO or PO boxes; many vendor partners, 'including most luxury items, ship directly from locations outside the United States'; $10 flat rate under $300. Returns within 14 days of purchase; $24 return label fee deducted; 12% International Return Processing Fee on items shipped from outside the US; duties non-refundable.",
+    "Store runs on Shopify; product tags show partner-feed sources (e.g. link2lux, dresscode)."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Marks & Spencer",
+  "website_url": "https://www.marksandspencer.com/us/",
+  "status": "verified",
+  "kind": "brand",
+  "hq_country": "GB",
+  "size_range": "XS–4XL",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 125,
+  "returns_days": 28,
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 35.99,
+      "max": 68.99,
+      "min_usd": 35.99,
+      "max_usd": 68.99,
+      "fx_date": null,
+      "item_count": 4,
+      "source_url": "https://www.marksandspencer.com/us/l/men/tops-t-shirts-and-polos/",
+      "checked_at": "2026-10-29",
+      "note": "Sample only: the US men's tops page lists 200 T-shirts (459 items) but the text WebFetch reads is truncated; 5 T-shirts visible, none with a was price. Single tees: Pure Cotton Graphic Short Sleeve T-Shirt $35.99, Oversized Pure Cotton Graphic Short Sleeve T-Shirt $39.99, Pure Cotton Striped Long Sleeve T-Shirt $58.99, Autograph Textured Knitted T-Shirt $68.99. Excluded: 7 Pack Pure Cotton Crew Neck T-Shirts $88.99 (a multipack, about $12.71 a tee)."
+    }
+  ],
+  "materials": [
+    "Cotton"
+  ],
+  "sources": [
+    "https://www.marksandspencer.com/us/",
+    "https://www.marksandspencer.com/us/l/men/tops-t-shirts-and-polos/",
+    "https://www.marksandspencer.com/us/help?secId=faq-00-00"
+  ],
+  "notes": [
+    "US store 'Welcome to Marks & Spencer United States', USD prices. Help (https://www.marksandspencer.com/us/help?secId=faq-00-00): standard $12.99 (4–11 working days), free over $125; express $15.99; 'The price you pay at checkout includes all applicable duties.'",
+    "Returns: 28 days (extended Christmas window to 17 January 2027 for items bought from 22 October 2026); $10 fee for tracked postage returns.",
+    "hq_country GB: the help page refers to a UK warehouse; M&S is a British retailer (not otherwise sourced here)."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "marks-spencer"
+}

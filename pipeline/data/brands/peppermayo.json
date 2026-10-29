@@ -1,0 +1,49 @@
+{
+  "slug": "peppermayo",
+  "name": "Peppermayo",
+  "website_url": "https://us.peppermayo.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Standout Everyday Womenswear",
+  "hq_country": null,
+  "size_range": "US 0–18",
+  "has_plus": false,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 99,
+  "returns_days": 21,
+  "prices": [
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 45,
+      "max": 98,
+      "min_usd": 45,
+      "max_usd": 98,
+      "fx_date": null,
+      "item_count": 313,
+      "source_url": "https://us.peppermayo.com/collections/tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "313 regular-price in-stock tops of 314 (none on sale, 1 sold out). Low: Hollywood Baby Tank Top $45; high: Ellington Long Sleeve Top $98. Currency USD (us.peppermayo.com cart.js; peppermayo.com is the AUD store). Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (jackets, bottoms, dresses, sets, knitwear, hoodies, men's) excluded by title/product type."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://us.peppermayo.com/",
+    "https://us.peppermayo.com/collections/tops/products.json?limit=250",
+    "https://us.peppermayo.com/policies/shipping-policy",
+    "https://us.peppermayo.com/policies/refund-policy",
+    "https://us.peppermayo.com/cart.js"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "Meta: 'the go-to ladies wear store for pieces that turn everyday outfits into standout looks'.",
+    "US shipping: standard 2–6 business days, free over $99 ($9.95 under); express free over $250; 'All orders are inclusive of all customs duties and taxes.'",
+    "Returns: store credit or exchange within 21 days of delivery, refund within 14 days; full-price items only.",
+    "size_range from tops variants (US 0–18 on 272 tops; some XS–XL)."
+  ]
+}

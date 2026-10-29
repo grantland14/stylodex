@@ -1,0 +1,31 @@
+{
+  "slug": "bloomingdales",
+  "name": "Bloomingdale's",
+  "website_url": "https://www.bloomingdales.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Luxury Designers and Contemporary Labels",
+  "hq_country": "US",
+  "founded_year": 1872,
+  "parent_company": "Macy's, Inc.",
+  "ships_to": [],
+  "us_stores": true,
+  "prices": [],
+  "sells_categories": [
+    "womens-clothing"
+  ],
+  "sources": [
+    "https://www.bloomingdales.com/",
+    "https://www.macysinc.com/company/bloomingdales/default.aspx",
+    "https://www.macysinc.com/investors/financials/store--count/default.aspx",
+    "https://www.sec.gov/Archives/edgar/data/794367/000162828026021721/m-20260131.htm"
+  ],
+  "notes": [
+    "bloomingdales.com returns HTTP 403 to WebFetch; locations.bloomingdales.com 503. Status, stores and category from the parent's official sources (enrich.md §2).",
+    "macysinc.com Bloomingdale's page: offers 'premium luxury designers to emerging contemporary labels and beloved private labels'; 'Since our debut in 1872'; tagline 'Like No Other Store in the World'; outlets with 'locations from coast to coast'; small-format Bloomie's stores.",
+    "macysinc.com store count (most recent quarter end): Bloomingdale's 32 locations, Bloomingdale's The Outlet 25, Bloomie's 4.",
+    "Macy's, Inc. 10-K (filed 2026-03-27): sells 'apparel and accessories (men's, women's and kids')'; Women's Apparel $4,764M of $21,764M 2025 net sales (company-wide); stores 'principally in densely populated areas across the United States'. HQ 151 West 34th Street, New York.",
+    "No prices, sizes, shipping or returns: the store itself can't be read."
+  ],
+  "checked_at": "2026-10-29"
+}

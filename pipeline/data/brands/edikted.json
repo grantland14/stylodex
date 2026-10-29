@@ -4,9 +4,9 @@
   "website_url": "https://edikted.com",
   "status": "verified",
   "kind": "brand",
-  "known_for": "Gen-Z Online Fashion Brand",
+  "known_for": "Affordable Street-Style Trends",
   "hq_country": "US",
-  "founded_year": null,
+  "founded_year": 2020,
   "parent_company": null,
   "size_range": "XS–XXL",
   "has_plus": false,
@@ -33,7 +33,11 @@
     "https://edikted.com/pages/our-story",
     "https://edikted.com/pages/size-guide",
     "https://edikted.com/collections/jeans/products.json?limit=250",
-    "https://edikted.com/collections/jeans/products.json?limit=250&page=2"
+    "https://edikted.com/collections/jeans/products.json?limit=250&page=2",
+    "https://en.wikipedia.org/wiki/Edikted",
+    "https://edikted.com/pages/stores",
+    "https://edikted.com/collections/tops/products.json?limit=250",
+    "https://edikted.com/collections/best-sellers/products.json?limit=250"
   ],
   "notes": [
     "Our Story: 'Gen-Z-orientated online fashion brand' 'inspired by top streetwear looks, modern-day muses, and runway trends'; 'Headquartered in Los Angeles, California'. No founding year or founders named.",
@@ -41,7 +45,12 @@
     "has_plus is false because the size guide tops out at XXL with no plus range. Petite and Tall collections are linked from the size guide.",
     "Returns carry a $4.90 processing fee; Final Sale is excluded.",
     "2026-10-29: Jeans collection serves 484 products (349 baggy, 456 low-rise by title; sizes XS–XL), and every one has compare_at_price above price, i.e. on sale. No regular-price item, so jeans price stays null. Re-check after the sale.",
-    "production_model detail: 'Try and repeat model': produces controlled amounts of styles at demand, limiting inventory (Our Story)"
+    "production_model detail: 'Try and repeat model': produces controlled amounts of styles at demand, limiting inventory (Our Story)",
+    "2026-10-29 (stores-like-edikted run): known_for corrected from 'Gen-Z Online Fashion Brand' to 'Affordable Street-Style Trends', from the homepage meta: 'online women's fashion brand inspired by the latest street style and runway trends ... fashion-forward pieces at affordable prices'.",
+    "2026-10-29: tops collection feed (first 4,000 products) holds 3,985 tops, every one with compare_at_price above price; homepage banner '50% OFF SITEWIDE ENDS IN:' with a countdown. No regular-price top, so tops price stays null. Re-check after the sale.",
+    "2026-10-29: tops are the largest line (Top, Tank Top, T-Shirt, Corset, Strapless, Crop Top are the top product types) and lead best-sellers (116 of 289 are Top/T-Shirt/Tank Top). Tops sizes run XS–XL; XXL on only 3 items.",
+    "founded_year 2020: Wikipedia ('founded online in 2020' by Dedy Shwartzenberg and Zvika Alon, citing Kveller and Modaes). us_stores: edikted.com/pages/stores lists about 20 US addresses (NY, CA, FL, TX, PA, VA, MN, IL, NJ, NV, TN) plus London Carnaby Street."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "us_stores": true
 }

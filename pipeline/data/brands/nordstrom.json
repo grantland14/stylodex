@@ -1,0 +1,64 @@
+{
+  "slug": "nordstrom",
+  "name": "Nordstrom",
+  "website_url": "https://www.nordstrom.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Fashion, Shoes, Jewelry and Beauty",
+  "hq_country": "US",
+  "founded_year": 1901,
+  "parent_company": null,
+  "size_range": "00–28W, petite and plus; waists 23–36",
+  "has_plus": true,
+  "has_petite": true,
+  "has_tall": true,
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": true,
+  "free_shipping_min_usd": 0,
+  "returns_days": null,
+  "prices": [
+    {
+      "category": "womens-clothing",
+      "currency": "USD",
+      "min": 20,
+      "max": 835,
+      "min_usd": 20,
+      "max_usd": 835,
+      "fx_date": null,
+      "item_count": null,
+      "source_url": "https://www.nordstrom.com/browse/women/clothing/jeans",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: women's jeans (Jeans & Denim listing, 8,472–8,641 items that day, 118 pages). Min from the full listing sorted Price (Low to High): the first 8 items were markdowns ($19.04–$19.99, shown with a previous price); the lowest regular price was Roaman's Comfort Stretch Wide Leg Jean $20. Max is a sample, not a full sort: the High-to-Low sort URL returned an empty page to WebFetch, so max is the highest regular price across page 1 (63 regular, $69.99–$288), page 2 (52 regular, $63.95–$298) and page 118 (23 regular; Burberry Mid-rise Straight Jeans $835). Regular = a single listed price with no previous price."
+    }
+  ],
+  "sells_categories": [
+    "womens-clothing"
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.nordstrom.com/",
+    "https://www.nordstrom.com/browse/women/clothing/jeans",
+    "https://www.nordstrom.com/browse/women/clothing/jeans?sort=PriceLowToHigh",
+    "https://www.nordstrom.com/browse/women/clothing/jeans?page=2",
+    "https://www.nordstrom.com/browse/women/clothing/jeans?page=118",
+    "https://www.nordstrom.com/browse/services/shipping-methods-charges",
+    "https://www.nordstrom.com/browse/customer-service/return-policy",
+    "https://www.nordstrom.com/browse/about",
+    "https://en.wikipedia.org/wiki/Nordstrom"
+  ],
+  "notes": [
+    "Homepage title 'Nordstrom Online & in Store: Shoes, Jewelry, Clothing, Makeup, Dresses'; nav: Holiday Gifts, New & Now, Women, Men, Beauty, Shoes, Accessories, Kids, Designer, Home, Sale, Services; banner 'Celebrating 125, One Brand at a Time'. known_for built from the homepage title.",
+    "About page: 'Since 1901…'; grew from 'a small Seattle shoe shop'; 'more than 350 locations across Nordstrom, Nordstrom Local, and Nordstrom Rack'; 'An incredible eye for what's next in fashion.'",
+    "Shipping page: 'We'll ship almost anything on our site to anywhere in the United States—even Alaska, Hawaii and Puerto Rico—for free.' No minimum stated (stored as 0). No international destinations stated, so only US stored.",
+    "Return policy page: 'There are no time limits for returns or exchanges.' Free returns in store or by mail (prepaid label or QR code at USPS/FedEx); shipping charges not refunded; marketplace items have their own return-by dates; fine jewelry can't be returned by mail. returns_days left null because the schema has no value for 'no time limit' (coordinator decision).",
+    "Jeans size filters: women's 00/XXS–28W+/4X+, petite 00–18+, maternity, waist 23–36; Tall is a Length filter option (has_tall).",
+    "Wikipedia (Nordstrom): founded 1901 in Seattle as Wallin & Nordstrom by John W. Nordstrom and Carl F. Wallin; HQ Seattle; 'upmarket department store chain'; privately held since May 20, 2025 (Nordstrom family 50.1%, El Puerto de Liverpool 49.9%). parent_company left null (no single parent).",
+    "nordstrom.com serves a JavaScript challenge to curl (StylodexBot UA); read only through WebFetch. sort=PriceHighToLow and sort+page combinations returned empty pages; plain ?page=N worked."
+  ],
+  "checked_at": "2026-10-29"
+}

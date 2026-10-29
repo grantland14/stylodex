@@ -4,7 +4,7 @@
   "website_url": "https://www.uniqlo.com/us/en/",
   "status": "verified",
   "kind": "brand",
-  "known_for": null,
+  "known_for": "Simple, High-Quality Everyday Clothing",
   "hq_country": "JP",
   "founded_year": 1974,
   "parent_company": "Fast Retailing",
@@ -15,8 +15,8 @@
   "ships_to": [
     "US"
   ],
-  "free_shipping_min_usd": null,
-  "returns_days": null,
+  "free_shipping_min_usd": 99,
+  "returns_days": 30,
   "prices": [
     {
       "category": "dresses",
@@ -30,20 +30,51 @@
       "source_url": "https://www.uniqlo.com/us/en/women/dresses-and-skirts/dresses",
       "checked_at": "2026-10-29",
       "note": "16 dresses listed: 11 labelled Sale ($19.90–$39.90), 2 'Arriving early Nov' (Souffle Yarn Polo Dress $59.90, AIRism Cotton Mini Dress $29.90), 2 at regular price and purchasable (Knitted Polo Dress, Shirt Dress, both $59.90). Range covers those 2."
+    },
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 9.9,
+      "max": 34.9,
+      "min_usd": 9.9,
+      "max_usd": 34.9,
+      "fx_date": null,
+      "item_count": 23,
+      "source_url": "https://www.uniqlo.com/us/en/men/tops/all-tops",
+      "checked_at": "2026-10-29",
+      "note": "Men's T-shirts read from the all-tops listing (217 tops; the listing text is truncated, so this covers the T-shirts visible to WebFetch, 23 entries). Regular price = no Sale or Limited-Time Offer flag. Lowest DRY Color T-Shirt and DRY V-Neck T-Shirt $9.90; SUPIMA Cotton T-Shirt, Crew Neck T-Shirt, DRY-EX T-Shirt and AIRism Cotton Oversized T-Shirt Half-Sleeve $24.90; AIRism Cotton T-Shirt $14.90; highest HEATTECH Ultra Warm T-Shirt $34.90. Excluded: flagged items (e.g. HEATTECH T-Shirt $14.90 Limited-Time Offer), Rugger Shirt $49.90 (a shirt)."
     }
   ],
-  "materials": [],
+  "materials": [
+    "Supima cotton",
+    "AIRism",
+    "HEATTECH"
+  ],
   "certifications": [],
   "production_model": null,
   "sale_pattern": "Most dresses marked down",
   "sources": [
     "https://www.uniqlo.com/us/en/women/dresses-and-jumpsuits",
     "https://www.uniqlo.com/us/en/women/dresses-and-skirts/dresses",
-    "https://en.wikipedia.org/wiki/Uniqlo"
+    "https://en.wikipedia.org/wiki/Uniqlo",
+    "https://www.uniqlo.com/us/en/",
+    "https://www.uniqlo.com/us/en/men/tops/all-tops",
+    "https://www.uniqlo.com/us/en/men/tops/t-shirts",
+    "https://www.uniqlo.com/us/en/products/E455365-000/00",
+    "https://www.uniqlo.com/us/en/contents/lifewear/",
+    "https://www.fastretailing.com/eng/group/shoplist/",
+    "https://www.fastretailing.com/eng/group/strategy/"
   ],
   "notes": [
     "2026-10-29: the US dresses listing was read by WebFetch (an earlier read of /women/dresses-and-jumpsuits returned 503). Shipping and returns pages not read (FAQ site returned 403 to an earlier run), so free_shipping_min_usd and returns_days stay empty. ships_to US rests on the US storefront (USD, uniqlo.com/us).",
-    "Wikipedia: 'The present Uniqlo Co., Ltd. was established in 1974 as Sun Road Co., Ltd.'; HQ Yamaguchi City, Japan; 'a wholly owned subsidiary of Fast Retailing'; 'In September 2005, Uniqlo entered South Korea, the United States, and Hong Kong.' us_stores true rests on Wikipedia, not a store locator: human check."
+    "Wikipedia: 'The present Uniqlo Co., Ltd. was established in 1974 as Sun Road Co., Ltd.'; HQ Yamaguchi City, Japan; 'a wholly owned subsidiary of Fast Retailing'; 'In September 2005, Uniqlo entered South Korea, the United States, and Hong Kong.' us_stores true rests on Wikipedia, not a store locator: human check.",
+    "2026-10-29: https://www.uniqlo.com/us/en/women/dresses-and-jumpsuits returned HTTP 503 to WebFetch earlier the same day (another page's run); the homepage, men's tops listings and a product page all loaded on retry, so status is verified.",
+    "known_for: LifeWear page (https://www.uniqlo.com/us/en/contents/lifewear/): 'LifeWear is clothing designed to make everyone's life better'; described as simple, high-quality, everyday clothing.",
+    "Shipping and returns from the SUPIMA Cotton T-Shirt product page (https://www.uniqlo.com/us/en/products/E455365-000/00): standard shipping $7.99, 'Free shipping for purchases over $99 or for in-store pickup'; returns within 30 days counted from the shipping date; customer pays return shipping unless the item was wrong; online returns not accepted in stores (except orders paid at the register). faq-us.uniqlo.com refused WebFetch (403), not used.",
+    "SUPIMA Cotton T-Shirt: 100% Supima cotton, unisex in men's sizing XXS–3XL, made in Cambodia and Viet Nam (product page). Its $24.90 price is from the all-tops listing (product page shows no price to WebFetch).",
+    "US stores: Fast Retailing group outlets page lists 86 UNIQLO stores in the USA and 38 in Canada as of August 31, 2026 (https://www.fastretailing.com/eng/group/shoplist/).",
+    "Wikipedia: incorporated 1974 as Sun Road Co., Uniqlo name from 2005; headquartered in Yamaguchi City, Japan; wholly owned by Fast Retailing; first US global flagship in SoHo, November 2006. Sister brand GU is also Fast Retailing.",
+    "ships_to: US store at uniqlo.com/us with USD prices and US shipping terms; CA, GB, AU are served by Uniqlo's separate country stores (not checked as shipping destinations from the US store)."
   ],
   "checked_at": "2026-10-29",
   "us_stores": true
