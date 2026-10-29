@@ -2,14 +2,15 @@
   "slug": "able",
   "name": "ABLE",
   "website_url": "https://ableclothing.com",
-  "status": "off_category",
+  "status": "verified",
   "kind": "brand",
   "sources": [
     "https://ableclothing.com/meta.json",
     "https://ableclothing.com/products.json?limit=250"
   ],
   "notes": [
-    "Store description: 'timeless women's leather bags, jewelry, and apparel'; none of its 98 products is a sweater or cardigan (products.json). Off-category for sweaters."
+    "Store description: 'timeless women's leather bags, jewelry, and apparel'; none of its 98 products is a sweater or cardigan (products.json). Off-category for sweaters.",
+    "Coordinator: status back to verified. off_category had been set for one category miss; status is shared by every page, so the category miss now lives in prices and sells_categories only (enrich.md §2)."
   ],
   "checked_at": "2026-10-29"
 }

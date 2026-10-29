@@ -32,8 +32,12 @@ counts, quotes, which page said what) goes in `notes` with its URL in `sources`.
 `npm run lint:facts` flags violations.
 Write `data/brands/{slug}.json` with the `stylodex.brands` columns:
 - `website_url`: the official store, confirmed by WebFetch (the stored URL is often wrong).
-- `status`: `verified` (live, selling C today) · `defunct` (no findable official presence) ·
-  `off_category` (live but doesn't sell C) · `unverified` (site refuses fetches; human check).
+- `status` is shared by every page, so it never describes one category: `verified` (live and
+  selling fashion or beauty today) · `defunct` (no findable official presence) · `off_category`
+  (live but outside Stylodex's scope altogether, e.g. homeware only) · `unverified` (site
+  refuses fetches; human check). A live brand that doesn't sell C stays `verified`: leave C out
+  of its `prices` and `sells_categories`, record why in `notes`, and the gate drops it from C's
+  pages only.
   If a chain's own site refuses reads, its **parent company's official site** (e.g. tjx.com for
   Marshalls and Sierra, annual reports, store locators) is an official source for status,
   `us_stores` and what it sells. Prices still come only from the store itself; leave them empty

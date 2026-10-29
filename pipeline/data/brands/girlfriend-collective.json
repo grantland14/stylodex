@@ -2,14 +2,15 @@
   "slug": "girlfriend-collective",
   "name": "Girlfriend Collective",
   "website_url": "https://girlfriend.com",
-  "status": "off_category",
+  "status": "verified",
   "kind": "brand",
   "sources": [
     "https://girlfriend.com/meta.json",
     "https://girlfriend.com/products.json?limit=250"
   ],
   "notes": [
-    "Store description: 'makes activewear out of recycled materials'; none of its 165 products is a sweater, cardigan or knit (products.json). Off-category for sweaters."
+    "Store description: 'makes activewear out of recycled materials'; none of its 165 products is a sweater, cardigan or knit (products.json). Off-category for sweaters.",
+    "Coordinator: status back to verified. off_category had been set for one category miss; status is shared by every page, so the category miss now lives in prices and sells_categories only (enrich.md §2)."
   ],
   "checked_at": "2026-10-29"
 }

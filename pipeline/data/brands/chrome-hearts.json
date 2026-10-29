@@ -2,7 +2,7 @@
   "slug": "chrome-hearts",
   "name": "Chrome Hearts",
   "website_url": "https://www.chromehearts.com",
-  "status": "off_category",
+  "status": "verified",
   "kind": "brand",
   "known_for": null,
   "hq_country": null,
@@ -24,7 +24,8 @@
     "https://www.chromehearts.com/"
   ],
   "notes": [
-    "Live official site (© 2026 Chrome Hearts LLC) with an online shop, but its shop categories are Baccarat, Scents and Underwear; no tees sold online."
+    "Live official site (© 2026 Chrome Hearts LLC) with an online shop, but its shop categories are Baccarat, Scents and Underwear; no tees sold online.",
+    "Coordinator: status back to verified. off_category had been set for one category miss; status is shared by every page, so the category miss now lives in prices and sells_categories only (enrich.md §2)."
   ],
   "checked_at": "2026-10-29"
 }
