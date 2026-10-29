@@ -17,11 +17,17 @@ function readJson(path: string): any {
 export interface Media {
   images: Record<string, any>;
   products: Record<string, Record<string, any>>;
+  copy: Record<string, any>;
 }
 
 export function loadMedia(dataDir = DATA): Media {
   const read = (f: string) => (existsSync(join(dataDir, f)) ? readJson(join(dataDir, f)) : {});
-  return { images: read("images.json"), products: read("product-images.json") };
+  const copyDir = join(dataDir, "brand-copy");
+  const copy: Record<string, any> = {};
+  if (existsSync(copyDir)) {
+    for (const f of readdirSync(copyDir).filter((x) => x.endsWith(".json"))) copy[f.replace(/\.json$/, "")] = readJson(join(copyDir, f));
+  }
+  return { images: read("images.json"), products: read("product-images.json"), copy };
 }
 
 function shotsFor(slug: string, media: Media): ProductShot[] {
@@ -39,7 +45,7 @@ function shotsFor(slug: string, media: Media): ProductShot[] {
   );
 }
 
-export function brandFromJson(slug: string, j: any, media: Media = { images: {}, products: {} }): Brand {
+export function brandFromJson(slug: string, j: any, media: Media = { images: {}, products: {}, copy: {} }): Brand {
   return {
     id: `pipeline-${slug}`,
     slug,
@@ -48,6 +54,7 @@ export function brandFromJson(slug: string, j: any, media: Media = { images: {},
     websiteUrl: j.website_url ?? null,
     status: j.status ?? "candidate",
     knownFor: j.known_for ?? null,
+    about: media.copy[slug]?.about ?? null,
     hqCountry: j.hq_country ?? null,
     foundedYear: j.founded_year ?? null,
     parentCompany: j.parent_company ?? null,

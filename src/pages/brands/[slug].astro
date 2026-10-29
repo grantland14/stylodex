@@ -138,6 +138,8 @@ const jsonLd = {
       }
     </header>
 
+    {brand.about && <p class="mt-10 max-w-2xl text-lg leading-relaxed">{brand.about}</p>}
+
     {
       brand.productShots.length > 0 && (
         <section class="mt-12" aria-labelledby="from-the-store">

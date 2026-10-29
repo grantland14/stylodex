@@ -38,6 +38,8 @@ export interface Brand {
   websiteUrl: string | null;
   status: BrandStatus;
   knownFor: string | null;
+  /** 60–100 word summary drafted only from this brand's stored facts (pipeline/write.md). */
+  about: string | null;
   hqCountry: string | null;
   foundedYear: number | null;
   parentCompany: string | null;

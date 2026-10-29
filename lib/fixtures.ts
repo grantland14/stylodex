@@ -13,6 +13,7 @@ export function fixtureBrand(overrides: Partial<Brand> & Pick<Brand, "slug" | "n
     websiteUrl: `https://${overrides.slug}.example.com`,
     status: "verified",
     knownFor: "Durable, Everyday Denim",
+    about: null,
     hqCountry: "US",
     foundedYear: 2010,
     parentCompany: null,

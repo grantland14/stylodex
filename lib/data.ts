@@ -49,6 +49,8 @@ function toBrand(row: any): Brand {
     websiteUrl: row.website_url,
     status: row.status,
     knownFor: row.known_for,
+    // Not in Supabase yet; summaries load from pipeline/data/brand-copy/ (lib/pipeline.ts).
+    about: null,
     hqCountry: row.hq_country,
     foundedYear: row.founded_year,
     parentCompany: row.parent_company,
