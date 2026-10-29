@@ -84,6 +84,13 @@ test("images hosted anywhere but /img/ block indexing", () => {
   assert.match(verdict.reasons[0], /anchor missing: imageUrl/);
 });
 
+test("a brand with no image can still be indexed", () => {
+  const page = fixturePage();
+  page.anchor = fixtureBrand({ slug: page.anchor.slug, name: page.anchor.name, imageUrl: null });
+  const verdict = judgeBrandsLikePage(page, NOW);
+  assert.equal(verdict.indexable, true, verdict.reasons.join("; "));
+});
+
 test("a closed store can anchor a stores-like page when every pick is live", () => {
   const page = fixtureClosedStorePage();
   const verdict = judgeBrandsLikePage(page, NOW);

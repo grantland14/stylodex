@@ -24,9 +24,10 @@ export function missingBrandFacts(brand: Brand, category: string): string[] {
   if (!brand.sizeRange) missing.push("sizeRange");
   if (brand.shipsTo.length === 0) missing.push("shipsTo");
   if (brand.returnsDays == null) missing.push("returnsDays");
-  // Only Stylodex-hosted images (/img/...). A raw storage or third-party URL would
-  // expose the shared Supabase project or hotlink another site's copy.
-  if (!brand.imageUrl?.startsWith("/img/")) missing.push("imageUrl");
+  // An image is optional (many stores publish no share image), but only a Stylodex-hosted
+  // one (/img/...) may show: a raw storage or third-party URL would expose the shared
+  // Supabase project or hotlink another site's copy.
+  if (brand.imageUrl && !brand.imageUrl.startsWith("/img/")) missing.push("imageUrl");
   if (!priceFor(brand, category)) missing.push(`price:${category}`);
   return missing;
 }

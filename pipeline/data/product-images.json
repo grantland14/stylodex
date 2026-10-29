@@ -351,6 +351,10 @@
     "womens-clothing": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
+    },
+    "mens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
     }
   },
   "asket": {
@@ -399,6 +403,12 @@
   },
   "bergdorf-goodman": {
     "womens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "billabong": {
+    "mens-clothing": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
@@ -1021,6 +1031,12 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "foot-locker": {
+    "mens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "forever-21": {
     "dresses": {
       "status": "ok",
@@ -1325,6 +1341,12 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "hot-topic": {
+    "mens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "house-of-sunny": {
     "coats-jackets": {
       "status": "ok",
@@ -1354,6 +1376,12 @@
           "source_image": "https://cdn.shopify.com/s/files/1/0737/8616/3481/files/HOODIE1_e3ef43bd-a200-4c9c-8cbf-1391fb573635.jpg?v=1792759691"
         }
       ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "hurley": {
+    "mens-clothing": {
+      "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
   },
@@ -2501,6 +2529,10 @@
     "jeans": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
+    },
+    "mens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
     }
   },
   "other-uk": {
@@ -2596,6 +2628,12 @@
           "source_image": "https://cdn.shopify.com/s/files/1/2445/4975/files/Outerknown_The_Maker_Overalls_Pale_Vintage_8.jpg?v=1771652525"
         }
       ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "pacsun": {
+    "mens-clothing": {
+      "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
   },
@@ -3071,6 +3109,12 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "skate-warehouse": {
+    "mens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "spell": {
     "dresses": {
       "status": "ok",
@@ -3411,6 +3455,10 @@
     "jeans": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
+    },
+    "mens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
     }
   },
   "tj-maxx": {
@@ -3592,6 +3640,12 @@
           "source_image": "https://cdn.shopify.com/s/files/1/0585/3653/files/VQ_Pokemon_ecomm42703.jpg?v=1790686247"
         }
       ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "vans": {
+    "mens-clothing": {
+      "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
   },
@@ -3795,6 +3849,12 @@
   },
   "zara": {
     "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "zumiez": {
+    "mens-clothing": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
     }

@@ -5,8 +5,13 @@
     "fetched_at": "2026-10-29"
   },
   "abercrombie-fitch": {
-    "status": "no_share_image",
+    "status": "ok",
+    "path": "/img/brands/abercrombie-fitch.webp",
+    "width": 960,
+    "height": 504,
+    "bytes": 7454,
     "source_page": "https://www.abercrombie.com/shop/us",
+    "source_image": "https://img.abercrombie.com/is/image/anf/AnF_Facebook_1200x630.jpg",
     "fetched_at": "2026-10-29"
   },
   "able": {
@@ -533,8 +538,13 @@
     "fetched_at": "2026-10-29"
   },
   "hollister": {
-    "status": "no_share_image",
+    "status": "ok",
+    "path": "/img/brands/hollister.webp",
+    "width": 960,
+    "height": 504,
+    "bytes": 4600,
     "source_page": "https://www.hollisterco.com",
+    "source_image": "https://img.hollisterco.com/is/image/anf/HCo_Facebook_1200x630.jpg",
     "fetched_at": "2026-10-29"
   },
   "honest-basics": {

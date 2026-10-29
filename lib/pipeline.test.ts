@@ -4,7 +4,7 @@ import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { test } from "node:test";
 import { judgeBrandsLikePage } from "./gate";
-import { pipelinePages } from "./pipeline";
+import { brandFromJson, pipelinePages } from "./pipeline";
 
 const NOW = new Date("2026-10-29T00:00:00Z");
 const price = (min: number, max: number) => [
@@ -51,4 +51,14 @@ test("a page with no written copy yet is skipped", () => {
 
 test("a missing data directory yields no pages", () => {
   assert.deepEqual(pipelinePages(join(tmpdir(), "does-not-exist-stylodex")), []);
+});
+
+test("a brand with no share image falls back to its first product photo", () => {
+  const media = {
+    images: { a: { status: "no_share_image" } },
+    products: { a: { jeans: { status: "ok", items: [{ path: "/img/products/a/1.webp", title: "Jean", product_path: "/p", price: "80" }] } } },
+    copy: {},
+  };
+  assert.equal(brandFromJson("a", brand("A", { image_url: null }), media).imageUrl, "/img/products/a/1.webp");
+  assert.equal(brandFromJson("a", brand("A", { image_url: null })).imageUrl, null);
 });
