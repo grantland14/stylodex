@@ -38,7 +38,8 @@
     "https://www.aeropostale.com/customer-service/cs-landing.html?a=Shipping-Methods-and-Cost---id--XLD2ONhAQseIy5J6Bq4M0w",
     "https://www.aeropostale.com/customer-service/cs-landing.html?a=Aeropostale-In-Store-and-Online-Purchase-Return-Policy---id--K7F1Z7VUSGaiUCi4gErIVQ",
     "https://www.aeropostale.com/size-charts/size-charts.html",
-    "https://en.wikipedia.org/wiki/A%C3%A9ropostale_(clothing)"
+    "https://en.wikipedia.org/wiki/A%C3%A9ropostale_(clothing)",
+    "https://www.aeropostale.com/men/graphic-tees/"
   ],
   "notes": [
     "Homepage title: 'Men's and Women's Jeans, Clothes, Hoodies, and Graphic Tees | Aeropostale.'",
@@ -46,7 +47,11 @@
     "Returns: the return-policy article loads by script and its terms were not readable; returns_days left empty. Third-party pages disagree (30 vs 60 days), not used.",
     "Sizes: women's jeans listing filters show 000–20 with S/L length suffixes and XXS–XXL; size chart shows women's bottoms 000 to 18–20 with a Curvy Fit column, men's waist 26–46 (XXL/XXXL web-exclusive).",
     "Wikipedia: founded 1987 (first stores Thousand Oaks, CA and Short Hills, NJ); HQ New York City; currently owned by Catalyst Brands (infobox owner field names Authentic Brands Group); aimed at young adults and teenagers.",
-    "size_range detail: Women's 000–20 with short and long lengths, XXS–XXL; men's waist 26–46"
+    "size_range detail: Women's 000–20 with short and long lengths, XXS–XXL; men's waist 26–46",
+    "2026-10-29 (tillys page run, C mens-clothing = men's tees): https://www.aeropostale.com/guys/graphic-tees/ redirects to /men/graphic-tees/ (read with curl and WebFetch). Men's nav: Graphic Tees, 'Buy 1, Get 2 Free Tees', Jeans (Baggy, Mega Baggy, Super Baggy and more), Hoodies + Sweatshirts, Joggers + Sweatpants. The served grid held no T-shirt tiles (hoodies, sweatpants, polos, jeans), and those tiles show a 'Comp. Value' above a lower price (e.g. A87 Piqué Polo Comp. Value $24.50, $10.00), so no men's tee price is stored. sells_categories mens-clothing rests on the men's graphic tees category and the homepage title."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "mens-clothing"
+  ]
 }

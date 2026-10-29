@@ -23,16 +23,16 @@
   "prices": [
     {
       "category": "jeans",
-      "currency": "AUD",
-      "min": 79,
-      "max": 109,
-      "min_usd": 55.56,
-      "max_usd": 76.66,
-      "fx_date": "2026-10-28",
-      "item_count": 41,
-      "source_url": "https://lionessfashion.com/collections/denim/products.json?limit=250",
+      "currency": "USD",
+      "min": 85,
+      "max": 105,
+      "min_usd": 85,
+      "max_usd": 105,
+      "fx_date": null,
+      "item_count": 40,
+      "source_url": "https://us.lionessfashion.com/collections/denim/products.json?limit=250",
       "checked_at": "2026-10-29",
-      "note": "41 of 45 jeans in the Denim collection at regular price (4 on sale excluded)"
+      "note": "US store (USD, cart.js): 40 of 45 jeans (product type Women's Jeans & Denim, titled Jean, minis/shorts/jackets excluded) at regular price; 5 with compare_at above price excluded. Replaces the AUD entry from the AU store, since US orders are priced and shipped by the US store."
     },
     {
       "category": "tops",
@@ -63,7 +63,8 @@
     "https://us.lionessfashion.com/collections/tops/products.json?limit=250",
     "https://us.lionessfashion.com/policies/shipping-policy",
     "https://us.lionessfashion.com/policies/refund-policy",
-    "https://us.lionessfashion.com/cart.js"
+    "https://us.lionessfashion.com/cart.js",
+    "https://us.lionessfashion.com/collections/denim/products.json?limit=250"
   ],
   "notes": [
     "Shipping page: \"All prices shown on LIONESS are in AUD\"; business based in Sydney, Australia. Its \"Delivery to\" list names Australia, UK, Canada, New Zealand, Europe, Asia and \"Rest of world\", but not the United States, so US is not stored. Free express worldwide shipping \"for qualifying orders\" (no threshold stated).",
@@ -73,7 +74,8 @@
     "A WebSearch for its About page found only third-party profiles; not used.",
     "2026-10-29 (stores-like-edikted run): ships_to corrected to include US. The US store us.lionessfashion.com (USD) states 'Free standard shipping for all US orders from our US warehouse' (meta); its shipping policy: US warehouse standard 2–4 business days free, express $15 or free over $150; AU-warehouse items $8 or free over $95.",
     "US returns: 30 days from delivery; free returns for store credit/exchange; refunds get a free label with a $15 deduction.",
-    "known_for from the US meta: 'Australian fashion label inspired by current luxury trends'."
+    "known_for from the US meta: 'Australian fashion label inspired by current luxury trends'.",
+    "2026-10-29 (brands-like-minga-london run): jeans price switched to the US store's USD prices ($85 Horseshoe Cropped Jean to $105 for most styles, e.g. Cobra Jean, Sloane Jean). The AU store charged A$79–A$109 for the same line. Product photos in product-images.json still come from the AU feed in AUD; re-run product-images.mjs."
   ],
   "checked_at": "2026-10-29"
 }

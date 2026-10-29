@@ -1,0 +1,26 @@
+{
+  "slug": "belk",
+  "name": "Belk",
+  "website_url": "https://www.belk.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Southern Department Store",
+  "hq_country": "US",
+  "founded_year": 1888,
+  "us_stores": true,
+  "sells_categories": [
+    "womens-clothing"
+  ],
+  "sources": [
+    "https://www.belk.com/",
+    "https://newsroom.belk.com/",
+    "https://newsroom.belk.com/2025-11-24-Belk-Opens-Two-New-Doors-in-Florida-and-Texas,-Unveiling-New-Belk-Market-Concept"
+  ],
+  "notes": [
+    "2026-10-29 (macys page run): belk.com, /stores/ and /about-belk/ return HTTP 403 to WebFetch; no workaround. status=verified from Belk's own newsroom (newsroom.belk.com), per enrich.md §2.",
+    "Belk Market release, Nov 24 2025 (https://newsroom.belk.com/2025-11-24-Belk-Opens-Two-New-Doors-in-Florida-and-Texas,-Unveiling-New-Belk-Market-Concept), About Belk: 'Charlotte-based Belk, Inc., a privately-owned department store, opened its first store in 1888'; 'nearly 300 Belk and Belk Outlet locations across 16 Southeastern states and digitally through belk.com and the Belk mobile app'. Belk Market: smaller format with 'top national and private label brands', 'new items across men's, women's and kids' apparel', shoes, handbags, accessories, home decor, fine jewelry.",
+    "Newsroom home: Dallas Wings release (May 19 2026) calls Belk 'a department store chain with nearly 300 stores across 16 states in the Southeast'. Ownership not stated on Belk's own pages, so parent_company left empty. known_for from 'department store' + 'Southeastern states'.",
+    "No prices, sizes, shipping or returns stored (store unreadable)."
+  ],
+  "checked_at": "2026-10-29"
+}

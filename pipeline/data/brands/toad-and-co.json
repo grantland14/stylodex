@@ -34,6 +34,19 @@
       "source_url": "https://toadandco.com/collections/womens-sweaters/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "products.json: 55 listings in the collection; 0 with compare_at above price (sale) and 0 sold out excluded, 5 non-sweaters excluded; 50 regular-price women's sweaters. Low: Wasatch Sweater Vest ($118); high: Merino Heartfelt Hoodie ($240). Sweater dresses excluded; none of the regular items appear in womens-sale-sweaters. Bianca Shaker Crew Sweater $120 (organic and recycled cotton); Peak Merino Crew Sweater $148; Merino Heartfelt Hoodie $240."
+    },
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 125.0,
+      "max": 130.0,
+      "min_usd": 125.0,
+      "max_usd": 130.0,
+      "fx_date": null,
+      "item_count": 18,
+      "source_url": "https://www.toadandco.com/collections/womens-pants",
+      "checked_at": "2026-10-29",
+      "note": "Shopify products.json for collections/womens-pants (80 products), read with curl and the StylodexBot UA. 18 products with 'Jean' in the title, none with compare_at above price: Women's Tamarack Straight Jean / Straight Blue Jean $125, Tamarack Wide Leg Jean / Wide Leg Blue Jean $130, Balsam Cutoff Jean $125 (colours listed as separate products). Tamarack: 'made from durable organic and recycled cotton denim with just the right amount of stretch', high rise; sizes 0-18; 'For best fit, we recommend sizing up on this style.'"
     }
   ],
   "materials": [
@@ -54,13 +67,18 @@
     "https://toadandco.com/policies/refund-policy",
     "https://toadandco.com/collections/womens-sweaters/products.json?limit=250",
     "https://toadandco.com/collections/womens-sale-sweaters/products.json?limit=250",
-    "https://toadandco.com/products/bianca-shaker-crew-sweater-dusk-blue.json"
+    "https://toadandco.com/products/bianca-shaker-crew-sweater-dusk-blue.json",
+    "https://www.toadandco.com/collections/womens-pants/products.json?limit=250"
   ],
   "notes": [
     "Store description: 'At Toad&Co we create eco-friendly clothing, because slow fashion is the future'; address Santa Barbara, CA; ships to 200 countries incl. US, CA, GB, AU (https://toadandco.com/meta.json).",
     "About: 'Since 1996'; 'From our California HQ'; 'We're Officially a Certified B Corporation!'; eco materials listed: Organic Cotton, Hemp, TENCEL Lyocell, Recycled Fibers (https://toadandco.com/pages/about-us).",
     "Shipping page: 'Spend $150 USD more for FREE shipping' / 'FREE shipping will be applied at checkout' (cart message; threshold $150) (https://toadandco.com/policies/shipping-policy).",
-    "Returns: 'We will not be able to accommodate returns for refund after 90 days'; '$7 handling fee'; final sale excluded (https://toadandco.com/policies/refund-policy)."
+    "Returns: 'We will not be able to accommodate returns for refund after 90 days'; '$7 handling fee'; final sale excluded (https://toadandco.com/policies/refund-policy).",
+    "2026-10-29 (gap page run): women's jeans in sizes 0-18 (Tamarack product options); see jeans price note. A second file, toad-co.json, describes the same store (www.toadandco.com): duplicate for the coordinator."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "jeans"
+  ]
 }

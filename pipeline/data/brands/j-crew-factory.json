@@ -1,0 +1,43 @@
+{
+  "slug": "j-crew-factory",
+  "name": "J.Crew Factory",
+  "website_url": "https://factory.jcrew.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Classic J.Crew Style for Less",
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Waists 24–35; petite and tall",
+  "has_plus": null,
+  "has_petite": true,
+  "has_tall": true,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 99,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "jeans"
+  ],
+  "notes": [
+    "2026-10-29 (gap page run): homepage meta description 'Get classic J.Crew style from J.Crew Factory. Buy discount men's clothing, women's clothing, and kids clothing.'",
+    "Women's jeans listing (WebFetch 2026-10-29): page reports 44 items; all 8 tiles read show a markdown (e.g. Lizzie wide-leg jean $79, original $158; Bootcut jean $69, original $138; two listed against a 'comparable value' of $158). No regular-price pair, so no jeans price row; jeans in sells_categories from this page. Fits Classic, Petite, Tall and Curvy; waists 25-35 Classic, Petite 24-34, Tall 24-35; no plus sizes listed.",
+    "Shipping (factory.jcrew.com/help/shipping-handling): Standard $7, Expedited $17, Overnight $25, Saturday $35; 'free standard shipping on qualifying orders over $99'; ships to all 50 states, DC, US territories and APO/FPO/DPO; flat-rate shipping to Canada via ESW.",
+    "Returns (factory.jcrew.com/help/returns-exchanges): 'within 30 days of original purchase'; '$7.50 will be deducted from your refund' with the prepaid label; free exchanges; online purchases can be returned to a Factory store; Factory items 'cannot be returned to J.Crew locations.' us_stores left empty (no store locator read)."
+  ],
+  "sources": [
+    "https://factory.jcrew.com/",
+    "https://factory.jcrew.com/plp/womens/categories/clothing/jeans",
+    "https://factory.jcrew.com/help/shipping-handling",
+    "https://factory.jcrew.com/help/returns-exchanges"
+  ],
+  "checked_at": "2026-10-29"
+}

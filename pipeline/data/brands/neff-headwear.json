@@ -1,0 +1,57 @@
+{
+  "slug": "neff-headwear",
+  "name": "Neff",
+  "website_url": "https://neffheadwear.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Beanies and Graphic T-Shirts",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Tees S–2XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": null,
+  "free_shipping_min_usd": 50,
+  "returns_days": 45,
+  "sells_categories": [
+    "mens-clothing"
+  ],
+  "prices": [
+    {
+      "category": "mens-clothing",
+      "currency": "USD",
+      "min": 17.5,
+      "max": 21.99,
+      "min_usd": 17.5,
+      "max_usd": 21.99,
+      "fx_date": null,
+      "item_count": 98,
+      "source_url": "https://neffheadwear.com/collections/neff-t-shirts",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: men's short-sleeve T-shirts. Whole collection from the public Shopify feed https://neffheadwear.com/collections/neff-t-shirts/products.json?limit=250: 98 products, all type 'T Shirt', all titled Men's NEFF ... T-Shirt, none with a compare-at price. Variant prices: $21.98 on 679 variants, $21.99 on 7, $17.50 on 3 (Men's NEFF Peace Sign Logo Purple T-Shirt, White). Garfield collab tees (Men's NEFF X Garfield Ballin T-Shirt, Surprise T-Shirt) $21.98. Sizes S, M, L, XL, 2XL."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://neffheadwear.com/",
+    "https://neffheadwear.com/collections/neff-t-shirts/products.json?limit=250",
+    "https://neffheadwear.com/pages/about",
+    "https://neffheadwear.com/policies/shipping-policy",
+    "https://neffheadwear.com/policies/refund-policy"
+  ],
+  "notes": [
+    "2026-10-29 (tillys page run): homepage title 'Neff Headwear | Shop Beanies & Graphic T-Shirts' (www.neffheadwear.com redirects to neffheadwear.com); cart drawer on an empty cart: 'You are $50.00 away from free shipping'. known_for from the title.",
+    "About page: 'Neff was the first authentic snow and skate headwear company'; 'Located in Irvine, CA, Neff sells products online and in 45+ countries to select retailers'; anthem 'Forever Fun'. No founding year stated.",
+    "Shipping policy: 3-5 day processing; 'Ground Shipping (Continental US only): 7-10 business days'; Alaska, Hawaii and US territories $15 flat, free over $150; 'AT THIS TIME WE HAVE TEMPORARILY SUSPENDED INTERNATIONAL SHIPPING'.",
+    "Refund policy: 'Return shipping is on us!'; 'Full-price and sale items in original condition, with all tags attached, can be returned for a full refund within 45 days of the delivery date' (another line says 45 days from the purchase date); final sale not returnable; original shipping non-refundable."
+  ],
+  "checked_at": "2026-10-29"
+}

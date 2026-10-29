@@ -64,7 +64,8 @@
     "Sale terms page (timestamped Thu Oct 29 2026): 'Free Standard Shipping and Handling On All Orders Over $99', orders shipped within the U.S. or Canada via Standard Ground.",
     "Returns page rendered only an error ('A required part of this site couldn't load'); a search snippet mentions 30 days but that isn't stored. returns_days empty.",
     "Wikipedia: headquartered in New Albany, Ohio; founded 1892 in Manhattan; NYSE: ANF; YPB (Your Personal Best) is one of its offshoot brands.",
-    "2026-10-29 (hollister run): men's jeans page text says 'our jeans come in sizes 26 to 38'. Women's jeans pages served an error page (one try each, no workaround). The dresses page nav links Women's jeans (Wide Leg & Loose, Bootcut & Flare, Straight & Skinny), so it sells women's jeans too."
+    "2026-10-29 (hollister run): men's jeans page text says 'our jeans come in sizes 26 to 38'. Women's jeans pages served an error page (one try each, no workaround). The dresses page nav links Women's jeans (Wide Leg & Loose, Bootcut & Flare, Straight & Skinny), so it sells women's jeans too.",
+    "2026-10-29 (gap page run): women's jeans page (abercrombie.com/shop/us/womens-jeans) again rendered only 'A required part of this site couldn't load' to WebFetch (one try). The stored jeans price row is men's."
   ],
   "checked_at": "2026-10-29",
   "sells_categories": [

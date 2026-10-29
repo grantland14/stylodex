@@ -28,12 +28,14 @@
     "https://www.tentree.com/",
     "https://www.tentree.com/products.json?limit=250",
     "https://www.tentree.com/policies/shipping-policy",
-    "https://www.tentree.com/policies/refund-policy"
+    "https://www.tentree.com/policies/refund-policy",
+    "https://www.tentree.com/collections/womens-pants/products.json?limit=250"
   ],
   "notes": [
     "Shipping: 'Free U.S. shipping on all orders over $100'; $7.50 under $100. Countries not listed on the page.",
     "Returns: '$10 Returns (includes shipping label), Free Exchanges'; items 30%+ off are final sale; return window in days not stated on the policy page, so returns_days is empty.",
-    "Homepage: 'Tentree | Sustainable Clothing—Every Item Plants 10 Trees'; mission 'to restore the planet by planting trees and creating Earth-First, sustainably made apparel'."
+    "Homepage: 'Tentree | Sustainable Clothing—Every Item Plants 10 Trees'; mission 'to restore the planet by planting trees and creating Earth-First, sustainably made apparel'.",
+    "2026-10-29 (gap page run): collections/womens-pants products.json (66 products): leggings, joggers, sweatpants and pants; no jeans (Denim Crestwood Pant is a pant). jeans not added to sells_categories."
   ],
   "checked_at": "2026-10-29",
   "slug": "tentree"

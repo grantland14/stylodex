@@ -43,6 +43,19 @@
       "source_url": "https://www.uniqlo.com/us/en/men/tops/all-tops",
       "checked_at": "2026-10-29",
       "note": "Men's T-shirts read from the all-tops listing (217 tops; the listing text is truncated, so this covers the T-shirts visible to WebFetch, 23 entries). Regular price = no Sale or Limited-Time Offer flag. Lowest DRY Color T-Shirt and DRY V-Neck T-Shirt $9.90; SUPIMA Cotton T-Shirt, Crew Neck T-Shirt, DRY-EX T-Shirt and AIRism Cotton Oversized T-Shirt Half-Sleeve $24.90; AIRism Cotton T-Shirt $14.90; highest HEATTECH Ultra Warm T-Shirt $34.90. Excluded: flagged items (e.g. HEATTECH T-Shirt $14.90 Limited-Time Offer), Rugger Shirt $49.90 (a shirt)."
+    },
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 49.9,
+      "max": 49.9,
+      "min_usd": 49.9,
+      "max_usd": 49.9,
+      "fx_date": null,
+      "item_count": 7,
+      "source_url": "https://www.uniqlo.com/us/en/women/bottoms/jeans",
+      "checked_at": "2026-10-29",
+      "note": "WebFetch of the women's jeans listing, 2026-10-29: 15 tiles. Kept 7 WOMEN-tagged jeans with no Sale flag, all $49.90: Barrel Jeans (two listings), Baggy Jeans, Baggy Barrel Jeans, EZY Wide Straight Jeans, Baggy Barrel Jeans | Short, Baggy Barrel Jeans | Tall. Excluded: 3 Sale-flagged women's jeans at $29.90 (High Rise Wide, High Rise Wide | Recycled, Wide Straight), EZY Denim Relaxed Pants (pants), and 4 MEN-tagged barrel jeans at $59.90 shown on the same page."
     }
   ],
   "materials": [
@@ -63,7 +76,8 @@
     "https://www.uniqlo.com/us/en/products/E455365-000/00",
     "https://www.uniqlo.com/us/en/contents/lifewear/",
     "https://www.fastretailing.com/eng/group/shoplist/",
-    "https://www.fastretailing.com/eng/group/strategy/"
+    "https://www.fastretailing.com/eng/group/strategy/",
+    "https://www.uniqlo.com/us/en/women/bottoms/jeans"
   ],
   "notes": [
     "2026-10-29: the US dresses listing was read by WebFetch (an earlier read of /women/dresses-and-jumpsuits returned 503). Shipping and returns pages not read (FAQ site returned 403 to an earlier run), so free_shipping_min_usd and returns_days stay empty. ships_to US rests on the US storefront (USD, uniqlo.com/us).",
@@ -74,8 +88,12 @@
     "SUPIMA Cotton T-Shirt: 100% Supima cotton, unisex in men's sizing XXS–3XL, made in Cambodia and Viet Nam (product page). Its $24.90 price is from the all-tops listing (product page shows no price to WebFetch).",
     "US stores: Fast Retailing group outlets page lists 86 UNIQLO stores in the USA and 38 in Canada as of August 31, 2026 (https://www.fastretailing.com/eng/group/shoplist/).",
     "Wikipedia: incorporated 1974 as Sun Road Co., Uniqlo name from 2005; headquartered in Yamaguchi City, Japan; wholly owned by Fast Retailing; first US global flagship in SoHo, November 2006. Sister brand GU is also Fast Retailing.",
-    "ships_to: US store at uniqlo.com/us with USD prices and US shipping terms; CA, GB, AU are served by Uniqlo's separate country stores (not checked as shipping destinations from the US store)."
+    "ships_to: US store at uniqlo.com/us with USD prices and US shipping terms; CA, GB, AU are served by Uniqlo's separate country stores (not checked as shipping destinations from the US store).",
+    "2026-10-29 (gap page run): women's jeans listing loaded to WebFetch (earlier runs got 503). Baggy Barrel Jeans come in separate Short and Tall versions."
   ],
   "checked_at": "2026-10-29",
-  "us_stores": true
+  "us_stores": true,
+  "sells_categories": [
+    "jeans"
+  ]
 }

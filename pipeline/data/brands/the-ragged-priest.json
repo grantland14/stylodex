@@ -56,7 +56,8 @@
     "2026-10-29 re-check for C = jeans: status changed off_category -> verified (the off_category verdict was for the old streetwear category; it sells jeans). Regular price = no variant with compare_at_price above price and no sale/markdown tag; sale items excluded.",
     "Store currency GBP (cart.js). USD at ECB 2026-10-28: USD per GBP = 1.1133/0.83785.",
     "hq_country still null: /pages/about-us and /pages/about returned 404, and no Wikipedia article exists.",
-    "size_range detail: UK 6–22 (US 2–18); denim W24–W38; men XS–XL"
+    "size_range detail: UK 6–22 (US 2–18); denim W24–W38; men XS–XL",
+    "2026-10-29 (brands-like-minga-london run): jeans feed re-read, unchanged: 8 regular-price jeans £70–£80, waists 24–38 (Patch Dalmatian Print Baggy Jeans £70, Loopy Eyelet Super Baggy Jeans £80)."
   ],
   "checked_at": "2026-10-29"
 }

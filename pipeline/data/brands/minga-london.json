@@ -4,19 +4,21 @@
   "website_url": "https://www.mingalondon.com",
   "status": "verified",
   "kind": "brand",
-  "known_for": "For Those Who Embrace Their Weirdness",
+  "known_for": "Statement Denim and Graphic Tops",
   "hq_country": "GB",
   "founded_year": 2014,
   "parent_company": null,
-  "size_range": "XS–XXXL",
+  "size_range": "XS–XXXL (US 0–22); jeans W24–W38",
   "has_plus": null,
   "has_petite": null,
   "has_tall": null,
   "ships_to": [
     "US",
-    "GB"
+    "CA",
+    "GB",
+    "AU"
   ],
-  "free_shipping_min_usd": null,
+  "free_shipping_min_usd": 200,
   "returns_days": 30,
   "prices": [
     {
@@ -27,10 +29,10 @@
       "min_usd": 130,
       "max_usd": 210,
       "fx_date": null,
-      "item_count": 30,
+      "item_count": 33,
       "source_url": "https://us.mingalondon.com/collections/jeans/products.json?limit=250",
       "checked_at": "2026-10-29",
-      "note": "30 of 43 jeans at regular price (13 sale-tagged excluded); baggy, flared and bootcut styles"
+      "note": "33 of 43 jeans at regular price (10 with compare_at above price excluded; 3 carry a 'sale' tag with no markdown and count as regular per enrich.md); baggy, straight, flared and bootcut; waists 24–38"
     }
   ],
   "materials": [],
@@ -45,14 +47,28 @@
     "https://help.mingalondon.com/en-GB/articles/shipping-and-delivery-343908",
     "https://help.mingalondon.com/en-GB/articles/returns-343909",
     "https://us.mingalondon.com/collections/jeans/products.json?limit=250",
-    "https://us.mingalondon.com/cart.js"
+    "https://us.mingalondon.com/cart.js",
+    "https://us.mingalondon.com/",
+    "https://us.mingalondon.com/pages/size-guide",
+    "https://help.mingalondon.com/en-GB/shipping-rates-3222018",
+    "https://www.mingalondon.com/collections/jeans/products.json?limit=250",
+    "https://us.mingalondon.com/collections/most-wanted-rn/products.json?limit=250",
+    "https://us.mingalondon.com/collections/all/products.json?limit=250",
+    "https://www.dollskill.com/collections/minga"
   ],
   "notes": [
     "The US store (us.mingalondon.com) prices in USD; the main site prices in GBP. The women's shop-all showed $79–$160, but that includes accessories, so it isn't stored.",
     "About: 'We create for those who embrace their weirdness!'; an independent brand born in East London in 2014; HQ not stated.",
     "Shipping: the help article names UK, USA and EU orders (customs section) but doesn't list destinations. The US free-shipping threshold is blank in the page text, so it is null.",
     "The size range comes from product sizes on the men's page (S–XXXL, XS–XL). WebSearch suggests the size guide runs XS–XXXL (UK 24–26), but it wasn't fetched, so has_plus is null.",
-    "2026-10-29: old streetwear row dropped (style, not product type); jeans row added. Regular price = no variant with compare_at_price above price and no sale/markdown tag; sale items excluded."
+    "2026-10-29: old streetwear row dropped (style, not product type); jeans row added. Regular price = no variant with compare_at_price above price and no sale/markdown tag; sale items excluded.",
+    "2026-10-29 (brands-like-minga-london run): known_for corrected from the About slogan 'For Those Who Embrace Their Weirdness' (it read 'for For Those…' in titles) to 'Statement Denim and Graphic Tops', from the US homepage meta: 'Independent fashion brand since 2014. Shop statement denim and jeans, graphic tops, bags, accessories and new drops inspired by Y2K, underground music and internet culture. Fast US shipping. Free shipping over $200.'",
+    "2026-10-29: shipping rates table (help.mingalondon.com/en-GB/shipping-rates-3222018, updated 2026-07-21): US by DHL Express, $15 under $100, $9.90 for $100–$200, free over $200, 2–4 business days. Also CA (free over CAD 350), GB, AU (free over AUD 360). Duties: 'If you're ordering from the UK, USA, or any European Union country, customs fees and import duties are already included in your order total.' US homepage banner: 'No duties for US orders'.",
+    "2026-10-29: returns within 30 days of delivery; each return incurs a cost deducted from the refund; no exchanges ('We currently don't offer exchanges').",
+    "2026-10-29: size guide (us.mingalondon.com/pages/size-guide): XS = UK 4–6 / US 0–2, XXXL = UK 24–26 / US 22; jeans waists 24\"–38\". No plus, petite or tall ranges named, so has_plus stays null.",
+    "2026-10-29: US prices sit well above the UK store's for the same jeans: Rift Washed Black Straight Baggy Jeans $130 (US) vs £72 (UK, about $96 at ECB 2026-10-28); Burn Baggy Jeans $190 vs £110 (about $146); Dash Distressed Flared Jeans $210 vs £120 (about $159). UK cart currency GBP, US cart USD.",
+    "2026-10-29: jeans are the largest product type in the US catalog (50 of the 489 products read from /collections/all) and in its Most Wanted collection (15 of 69).",
+    "2026-10-29: Dolls Kill's jeans collection lists 19 products from vendor 'Minga'; its /collections/minga page says 'Minga London graphic tees, knit sweaters, crop tops, and mini skirts here.' None of the 168 Minga products there were in stock."
   ],
   "checked_at": "2026-10-29"
 }

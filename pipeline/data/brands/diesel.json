@@ -1,0 +1,53 @@
+{
+  "slug": "diesel",
+  "name": "Diesel",
+  "website_url": "https://diesel.com/en-us/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": null,
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 15,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 195,
+      "max": 650,
+      "min_usd": 195,
+      "max_usd": 650,
+      "fx_date": null,
+      "item_count": 39,
+      "source_url": "https://diesel.com/en-us/woman/denim/",
+      "checked_at": "2026-10-29",
+      "note": "Partial: the page claims 111 products and WebFetch read 39; none showed a markdown. Bootcut 1969 D-Ebbey from $195, flare 1978 D-Akemi $250–$295, relaxed 1987 D-Khelz to $550, D-Lie and D-Heel $650. Human check for the full range."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://shop.diesel.com/en/womens/denim/",
+    "https://diesel.com/en-us/woman/denim/",
+    "https://diesel.com/en-us/woman/denim/?sz=120",
+    "https://diesel.com/en-us/help/shipping.html",
+    "https://diesel.com/en-us/help/returns.html"
+  ],
+  "notes": [
+    "2026-10-29: shop.diesel.com redirects (301) to diesel.com/en-us/. US women's denim listing read with WebFetch (39 of 111 products).",
+    "2026-10-29: shipping help: UPS Standard unless another option is chosen; in-stock items usually dispatch within 2 working days. The listing page says logged-in members get free standard shipping on all orders; no general threshold stated, so free_shipping_min_usd is null.",
+    "2026-10-29: returns help: 'within 15 days from delivery or from pick up in store'; 'Returns/exchanges are free'; online exchanges for a different size or color.",
+    "known_for, hq_country, founded_year and size_range not taken from a fetched official page this run, so left null."
+  ],
+  "checked_at": "2026-10-29"
+}

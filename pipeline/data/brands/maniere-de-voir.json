@@ -62,7 +62,8 @@
     "2026-10-29 re-check for C = jeans: status off_category -> verified (sells jeans). Refund policy (US store): 14 days from delivery; sale items e-gift card only; returns address Freehold, NJ. First products.json request returned 503; the second returned 200. Regular price = no variant with compare_at_price above price and no sale/markdown tag; sale items excluded.",
     "size_range is from the jeans variants (US 0–12), not a size guide.",
     "size_range detail: Women's jeans US 0–12",
-    "production_model detail: Each piece designed by an in-house design team from sketch to sample (About)"
+    "production_model detail: Each piece designed by an in-house design team from sketch to sample (About)",
+    "2026-10-29 (brands-like-minga-london run): US women's jeans feed re-read, unchanged: 31 regular-price jeans $155–$200, sizes US 0–12."
   ],
   "checked_at": "2026-10-29"
 }

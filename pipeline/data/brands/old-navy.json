@@ -13,7 +13,8 @@
     "gapinc.com Old Navy page: 'Old Navy opened its first store in Colma, California on March 19,1994'; '1200+ stores'; 'fabulous, affordable fashion for everyone'. Wikipedia infobox: HQ San Francisco; founded March 11, 1994; parent Gap Inc.; 1,142 locations (dates differ by 8 days; founded_year 1994 either way).",
     "sale_pattern detail: 274 of the 330 women's jeans colorways read carried an app-only extra 20% off; 56 were marked down (priceType M).",
     "2026-10-29 (zumiez page run, C mens-clothing): homepage nav includes Men; meta: 'Shop men's, women's, women's plus, kids', baby and maternity wear. We also offer big and tall sizes for adults and extended sizes for kids.' Men's product grids load by script, so no men's tee price is stored; sells_categories mens-clothing rests on the homepage nav and meta. Store locator (oldnavy.gap.com/stores) browses stores by US state (Alabama through Wyoming).",
-    "known_for shortened by the coordinator so the page title reads cleanly (was: Affordable Clothing for the Family)."
+    "known_for shortened by the coordinator so the page title reads cleanly (was: Affordable Clothing for the Family).",
+    "2026-10-29 (kohls run, C womens-clothing): women's jeans page title 'Women's Jeans | Old Navy', banner 'Now in sizes 00-30, petite and tall'; women's nav lists Activewear, Tops, Sweaters & Cardigans, Coats & Jackets, Pants, Dresses & Skirts, Swimsuits & Coverups and more, so sells_categories womens-clothing added. No womens-clothing price row added (the jeans row stands)."
   ],
   "sources": [
     "https://oldnavy.gap.com/",
@@ -35,7 +36,8 @@
   "hq_country": "US",
   "sells_categories": [
     "jeans",
-    "mens-clothing"
+    "mens-clothing",
+    "womens-clothing"
   ],
   "founded_year": 1994,
   "has_plus": true,

@@ -33,13 +33,15 @@
     "https://ninetypercent.com/cart.js",
     "https://ninetypercent.com/collections/dresses/products.json?limit=250",
     "https://ninetypercent.com/pages/shipping",
-    "https://ninetypercent.com/pages/about"
+    "https://ninetypercent.com/pages/about",
+    "https://www.ninetypercent.com/products.json?limit=250"
   ],
   "notes": [
     "About: 'Each purchase you make helps us share 90% of our profits between our people and the causes we believe in.' 'Zero wastewater in production.' No HQ or founding year stated, so both are empty.",
     "Shipping: 'We ship to the UK, Europe, the USA and Canada, and most countries worldwide.' US: free standard delivery (4–5 business days) over $150, else $25; express $30. Duties and taxes for the US are calculated and paid at checkout.",
     "Returns: start within 14 days of receiving the order; outside the UK you buy a label in the returns portal; original delivery charges, duties and taxes are not refunded.",
-    "Dress sizes in the feed: 4, 6, 8, 10, 12, 14, 16, 18 on a GBP store, stored as UK 4–18."
+    "Dress sizes in the feed: 4, 6, 8, 10, 12, 14, 16, 18 on a GBP store, stored as UK 4–18.",
+    "2026-10-29 (gap page run): products.json (173 products) has no item titled jean or jeans."
   ],
   "checked_at": "2026-10-29"
 }

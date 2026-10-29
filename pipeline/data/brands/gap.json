@@ -8,10 +8,10 @@
   "hq_country": "US",
   "founded_year": 1969,
   "parent_company": "Gap Inc.",
-  "size_range": null,
+  "size_range": "000–20; petite and tall",
   "has_plus": null,
   "has_petite": true,
-  "has_tall": null,
+  "has_tall": true,
   "ships_to": [
     "US"
   ],
@@ -45,12 +45,18 @@
     "https://www.sec.gov/Archives/edgar/data/39911/000162828026018573/gap-20260131.htm",
     "https://api.gap.com/commerce/search/products/v2/cc?cid=5664&brand=gap&market=us&locale=en_US&pageSize=200&pageNumber=0",
     "https://www.gap.com/customer-service/how-to-return-exchange-items?cid=81264",
-    "https://www.gapinc.com/en-us/about/gap"
+    "https://www.gapinc.com/en-us/about/gap",
+    "https://api.gap.com/commerce/search/products/v2/cc?cid=5664&brand=gap&market=us&locale=en_US&pageSize=200&pageNumber=0&department=136",
+    "https://oldnavy.gap.com/static_content/onesitecategory/components/webAssets/oldnavyprod/customerService/json/returns_faq_092926.json",
+    "https://www.gapinc.com/en-us/about"
   ],
   "notes": [
     "https://www.gap.com/browse/women/dresses?cid=13658 loaded with '0 of 0 items' (product grid didn't render) to WebFetch on 2026-10-29. Status unverified; nothing else stored.",
     "2026-10-29 (hollister run): gap.com women's jeans page loads with fit tiles (Hailey Low Rise Loose, Hailey Extra Baggy, Barrel & Tapered, Baggy, Wide Leg, Loose, Flare & Bootcut, Straight, Slim & Skinny) but the product grid reads '0 of 0 items', so no prices. Store locator (gap.com/stores) lists stores by state (46 states plus Puerto Rico). Gap Inc. 10-K (fiscal year ended Jan 31, 2026): 'Gap is a globally recognized icon of casual American style'; Company-operated stores in the United States, Canada, Japan and Taiwan. hq_country US from the 10-K (a US company with US stores).",
-    "2026-10-29 (old-navy page run): prices via the Gap Inc. product API the jeans page calls (see price note). Returns (gap.com/customer-service/how-to-return-exchange-items?cid=81264): '30 Days to Return or Exchange' from delivery or purchase; Premier 45 days, All-Access Cardmembers 60. Banner: 'Free shipping on all orders $50+' for Gap Good Rewards members (free to join); shared Gap Inc. checkout ships anywhere in the US incl. Puerto Rico (Old Navy cid=3019 terms). gapinc.com/en-us/about/gap: 'We were born in San Francisco in 1969'; 'heritage grounded in denim'. Petite jeans are a separate fit group in the listing."
+    "2026-10-29 (old-navy page run): prices via the Gap Inc. product API the jeans page calls (see price note). Returns (gap.com/customer-service/how-to-return-exchange-items?cid=81264): '30 Days to Return or Exchange' from delivery or purchase; Premier 45 days, All-Access Cardmembers 60. Banner: 'Free shipping on all orders $50+' for Gap Good Rewards members (free to join); shared Gap Inc. checkout ships anywhere in the US incl. Puerto Rico (Old Navy cid=3019 terms). gapinc.com/en-us/about/gap: 'We were born in San Francisco in 1969'; 'heritage grounded in denim'. Petite jeans are a separate fit group in the listing.",
+    "2026-10-29 (gap page run): women's jeans sizes from the size facet of the Gap Inc. product API filtered to Women (cid=5664, department=136): Regular bottoms 000/23 to 20/35 plus 20-22 (2X), with Short, Regular and Long inseams; Tall 00/24 to 20/35; Petite 000/23 to 20/35. has_plus left empty (one 2X size only).",
+    "2026-10-29 (gap page run): Gap Inc. returns FAQ (the JSON the Old Navy returns page loads): returns and exchanges 'can only be made at the brand of purchase (ie, Gap items can't be returned at Gap Factory, Old Navy, Athleta, Banana Republic, or Banana Republic Factory)'; 'if you purchased an item from Gap.com or your local Gap store, it cannot be returned to an Old Navy store.'",
+    "2026-10-29 (gap page run): gapinc.com/en-us/about lists its brands as Old Navy, Gap, Banana Republic and Athleta (footer Brands section)."
   ],
   "checked_at": "2026-10-29",
   "us_stores": true,

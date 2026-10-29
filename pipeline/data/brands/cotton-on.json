@@ -30,6 +30,19 @@
       "source_url": "https://cottonon.com/US/co/women/women-clothing/womens-jeans/",
       "checked_at": "2026-10-29",
       "note": "35 tiles visible of 220 women's jeans the page reports; none show an original or sale price: 26 at $69.99, 9 at $79.99. Styles: low rise straight and wide, mid rise barrel and bootcut, 91 Straight, Curvy Stretch Wide, Petite low rise straight/wide and Petite mid rise bootcut."
+    },
+    {
+      "category": "mens-clothing",
+      "currency": "USD",
+      "min": 7.0,
+      "max": 34.99,
+      "min_usd": 7.0,
+      "max_usd": 34.99,
+      "fx_date": null,
+      "item_count": 6,
+      "source_url": "https://cottonon.com/US/co/men/mens-clothing/mens-tops/mens-short-sleeve-t-shirts/",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: men's short-sleeve T-shirts. Read with curl (StylodexBot UA, ?sz=200): 99 tiles; 40 show only a 'Standard Price' (regular), 59 show a standard price with a lower sale price (e.g. Fitted T-Shirt $29.99 now $20.00), excluded. Long sleeves and the Cropped Fit Muscle ($19.99, sleeveless) excluded. Regular-price short-sleeve styles (6 styles, 10 colour tiles): Easy T-Shirt $7.00; Cropped Fit, Slim Fit, Box Fit and Organic Longline T-Shirt $10.00; Fitted Henley T-Shirt $34.99. 'BUY ONE, GET ONE 50% OFF' promo labels on some tiles are multi-buy promotions, not markdowns."
     }
   ],
   "sources": [
@@ -37,7 +50,8 @@
     "https://cottonon.com/US/co/women/women-clothing/womens-jeans/",
     "https://cottonon.com/US/information-about-returns.html",
     "https://cottonon.com/US/size-guide.html",
-    "https://en.wikipedia.org/wiki/Cotton_On_Group"
+    "https://en.wikipedia.org/wiki/Cotton_On_Group",
+    "https://cottonon.com/US/co/men/mens-clothing/mens-tops/mens-short-sleeve-t-shirts/"
   ],
   "notes": [
     "US store title: 'Women's Men's & Kids Clothing & Accessories | Cotton On USA'. No short positioning line found, so known_for is empty.",
@@ -45,7 +59,11 @@
     "Returns page: 'No expiration on returns!': eligible items can be returned at any time with proof of purchase, in original condition; return shipping free within the country of purchase; original delivery fees not refunded on change-of-mind returns. returns_days left empty because there is no day limit.",
     "Size guide: women's US 0–20 (3XS–5XL). Jeans menu has Petite Jeans and Curvy Fit Jeans; petite tiles say 'Shorter Front Rise & Inseam'; some curvy tiles say 'Gap-proof Waist'.",
     "Wikipedia: Cotton On Group founded 1991 by Nigel Austin, HQ Geelong, Australia, private company.",
-    "size_range detail: Women's US 0–20; Petite and Curvy jeans ranges"
+    "size_range detail: Women's US 0–20; Petite and Curvy jeans ranges",
+    "2026-10-29 (tillys page run, C mens-clothing = men's tees): US store nav has Men > Clothing > Tops > Short Sleeve T-Shirts, so mens-clothing added to sells_categories; 59 of the 99 tiles on that page were marked down."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "mens-clothing"
+  ]
 }

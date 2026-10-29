@@ -1,0 +1,32 @@
+{
+  "slug": "walmart",
+  "name": "Walmart",
+  "website_url": "https://www.walmart.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Everyday Low Prices",
+  "hq_country": "US",
+  "parent_company": "Walmart Inc.",
+  "us_stores": true,
+  "sells_categories": [
+    "womens-clothing"
+  ],
+  "ships_to": [],
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "sources": [
+    "https://www.walmart.com/cp/womens-clothing/133162",
+    "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+    "https://corporate.walmart.com/about"
+  ],
+  "notes": [
+    "2026-10-29 (kohls run): walmart.com women's clothing page serves a 'Robot or human? Activate and hold the button' check to WebFetch; not worked around. status=verified from Walmart Inc.'s own 10-K for the fiscal year ended Jan 31, 2026 (enrich.md §2): 'Walmart U.S. operates 4,611 stores in the U.S., including in all 50 states, Washington D.C. and Puerto Rico'; General merchandise includes 'Fashion (e.g., apparel for adults and children, as well as shoes, jewelry and accessories)'; 'EDLP is our pricing philosophy under which we price items at a low price every day'; 'Substantially all our stores provide same-day pickup and delivery'; operates walmart.com and the Walmart app; principal offices in Bentonville, Arkansas.",
+    "Private brands (10-K, Walmart U.S. segment: 'We also market lines of merchandise under our private brands, including brands such as'): Time and Tru, No Boundaries, Free Assembly, George, Scoop. The 10-K does not say which are apparel. sells_categories womens-clothing rests on 'apparel for adults'. No prices, sizes, shipping or returns: the store can't be read.",
+    "2026-10-29 (macys page run): walmart.com women's clothing returns a 'Robot or human?' check to WebFetch; no workaround. status=verified from Walmart's own 10-K (fiscal year ended Jan 31 2026, filed 2026-03-13), per enrich.md §2.",
+    "10-K (https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm): 'Walmart U.S. ... operates 4,611 stores in the U.S., including in all 50 states, Washington D.C. and Puerto Rico'; a mass merchandiser under 'Walmart' and 'Walmart Neighborhood Market' plus walmart.com; general merchandise includes 'Fashion (e.g., apparel for adults and children, as well as shoes, jewelry and accessories)'; 'Brand name merchandise represents a significant portion'; private brands incl. Free Assembly, George, Joyspun, No Boundaries, Scoop, Time and Tru; licensed 'Sofia Jeans by Sofia Vergara'. Walmart+ gives 'unlimited free shipping on eligible items with no order minimum' (membership). Principal offices Bentonville, Arkansas; discount stores from 1962 (variety stores from 1945).",
+    "known_for is a plain description, not a quoted slogan: corporate.walmart.com/about describes 'a broad assortment of quality items and services'. No prices, sizes, shipping terms or returns stored (store unreadable)."
+  ],
+  "checked_at": "2026-10-29",
+  "founded_year": 1962
+}

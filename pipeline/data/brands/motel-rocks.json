@@ -65,7 +65,8 @@
     "Prices null: New In rendered no products.",
     "2026-10-29 re-check for C = jeans: status off_category -> verified (sells jeans). Regular price = no variant with compare_at_price above price and no sale/markdown tag; sale items excluded.",
     "known_for detail: Vintage & Printed Women's Fashion",
-    "production_model detail: Designed in-house in London; production team in Canggu, Bali (About)"
+    "production_model detail: Designed in-house in London; production team in Canggu, Bali (About)",
+    "2026-10-29 (brands-like-minga-london run): jeans feed re-read, unchanged: 97 of 141 jeans-typed items at regular price, $89–$114 (overalls excluded)."
   ],
   "checked_at": "2026-10-29"
 }

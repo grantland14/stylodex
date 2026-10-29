@@ -56,6 +56,19 @@
       "source_url": "https://forever21.com/collections/women-bottoms/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "women-bottoms feed (154 products, read 2026-10-29 with curl, StylodexBot UA): 4 denim trousers; 2 at regular price (no compare_at): Straight Leg Denim With Drawstring Waist $38, Low Rise Bootcut Denim With Wide Buckle Detail $44. Low Rise Wide Leg Denim With Studs and Flare Denim With Butterfly Appliques are marked down (excluded). Thin range: 2 items."
+    },
+    {
+      "category": "mens-clothing",
+      "currency": "USD",
+      "min": 7.99,
+      "max": 34.99,
+      "min_usd": 7.99,
+      "max_usd": 34.99,
+      "fx_date": null,
+      "item_count": 9,
+      "source_url": "https://www.forever21.com/collections/mens-tops",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: men's short-sleeve T-shirts. Public Shopify feed https://www.forever21.com/collections/mens-tops/products.json?limit=250: 78 products, 21 tees; 9 short-sleeve tees have a variant with no compare-at price above the price (regular price), 11 are marked down on every variant, 1 sleeveless excluded. Min: 100% Cotton Crew Tee, 100% Cotton V-Neck Tee, Cotton-Blend Crew Tee $7.99 (sizes XS–XXXL); Scoop Cotton Crew Tee $12.99; Mineral Wash Regular Fit T-Shirt $19.99; Varsity Logo Graphic T-Shirt $24.99; max: Saint Velour Studded Graphic T-Shirt and Velour Rhinestone Short Sleeve T-Shirt $34.99."
     }
   ],
   "materials": [],
@@ -75,7 +88,8 @@
     "https://www.forever21.com/collections/mens-denim/products.json?limit=250",
     "https://www.forever21.com/collections/women-bottoms/products.json?limit=250",
     "https://www.forever21.com/collections/womens-plus-size-denim-jeans/products.json?limit=250",
-    "https://forever21.com/collections/mens-tops/products.json?limit=250"
+    "https://forever21.com/collections/mens-tops/products.json?limit=250",
+    "https://www.forever21.com/collections/mens-tops/products.json?limit=250"
   ],
   "notes": [
     "Homepage mission: 'LA-born and style-obsessed, we empower self-expression through standout fashion at unbeatable value.' Slogan 'FASHION IS FOR EVERYONE.' Nav includes Dresses and Plus.",
@@ -84,11 +98,13 @@
     "Wikipedia: founded in Los Angeles in 1984; filed Chapter 11 on 17 March 2025 and closed all US stores by 1 May 2025; Authentic Brands Group owns the IP; relaunch announced September 2025 as an online retailer. The page's operator is not named beyond the Brands Online, LLC copyright, so parent_company is empty.",
     "sale_pattern detail: 92 of 103 dresses were marked down on 2026-10-29; clearance and Final Sale items can't be returned.",
     "2026-10-29 (urban-outfitters run, C womens-clothing = women's jeans): no regular-price women's jeans to price. women-bottoms feed: 154 products, 14 jeans/denim, all with a compare-at price above the selling price; womens-denim: 21 products, mostly shorts, tops and jackets, the 4 denim trousers all marked down; womens-plus-size-denim-jeans: 11 products, 3 at full price, all shorts or bikini bottoms. sells_categories womens-clothing rests on the store's own women's bottoms and denim collections; no price row is stored.",
-    "2026-10-29 (hollister run): jeans price from 2 regular-price denim trousers in the women-bottoms feed; most denim there is skirts and shorts."
+    "2026-10-29 (hollister run): jeans price from 2 regular-price denim trousers in the women-bottoms feed; most denim there is skirts and shorts.",
+    "2026-10-29 (tillys page run): collections.json lists mens-tops (120), mens-graphic-tees (15) and mens-sweatshirts-hoodies (12), so mens-clothing added to sells_categories. Basic crew and V-neck tees run XS–XXXL; graphic tees S–XL or S–XXL."
   ],
   "checked_at": "2026-10-29",
   "sells_categories": [
     "womens-clothing",
-    "jeans"
+    "jeans",
+    "mens-clothing"
   ]
 }

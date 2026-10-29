@@ -1,0 +1,65 @@
+{
+  "slug": "volcom",
+  "name": "Volcom",
+  "website_url": "https://www.volcom.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Skate, Surf and Snowboard Apparel",
+  "hq_country": "US",
+  "founded_year": 1991,
+  "parent_company": "Authentic Brands Group",
+  "size_range": "Tops XS–XXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "us_stores": null,
+  "free_shipping_min_usd": 99,
+  "returns_days": 30,
+  "sells_categories": [
+    "mens-clothing"
+  ],
+  "prices": [
+    {
+      "category": "mens-clothing",
+      "currency": "USD",
+      "min": 22.0,
+      "max": 42.0,
+      "min_usd": 22.0,
+      "max_usd": 42.0,
+      "fx_date": null,
+      "item_count": 101,
+      "source_url": "https://www.volcom.com/collections/mens-t-shirts-tanks",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: men's short-sleeve T-shirts. Public Shopify feed https://www.volcom.com/collections/mens-t-shirts-tanks/products.json?limit=250 (pages 1-2 returned 295 products; collections.json says 542, so the feed may not be complete). 256 titled 'Men's ... Short Sleeve Tee': 101 have at least one variant with no compare-at price above the price (regular price), 155 are marked down on every variant (excluded). Long sleeves, tanks, flannels and kids' tees excluded. Min: Men's Workwear Short Sleeve Tee $22.00; next Men's Loops / Blaquedout / Newro Short Sleeve Tee $25.00; max: Men's Pistol Stone Lse Short Sleeve Tee $42.00; Men's Featured Artist Daniel Shepard Walleye Short Sleeve Tee $40.00."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.volcom.com/",
+    "https://www.volcom.com/collections/mens-t-shirts-tanks/products.json?limit=250",
+    "https://www.volcom.com/collections.json?limit=250",
+    "https://www.volcom.com/pages/about",
+    "https://www.volcom.com/pages/shipping-delivery",
+    "https://www.volcom.com/pages/returns-exchanges",
+    "https://www.volcom.com/pages/size-guides",
+    "https://en.wikipedia.org/wiki/Volcom",
+    "https://www.tillys.com/brands/"
+  ],
+  "notes": [
+    "2026-10-29 (tillys page run): About page: 'Volcom was founded in 1991 as America's First Boarding Company and seamlessly combined the cultures of Skateboarding, Surfing, Snowboarding, Music and Art'; tagline 'True To This'; founders Richard Woolcott and Tucker Hall. known_for from that line.",
+    "Shipping & Delivery: 'Standard $9.95 or Free on Orders $99+', 3-7 business days; 'We currently ship to all 50 U.S. states, Puerto Rico, and Canada— all at the same shipping rates'; no APO/FPO or PO boxes.",
+    "Return Policy: 'Unworn items bought on this site can be returned within 30 days of delivery' with a prepaid label; refund as a Volcom gift card is free, refund to the original payment carries a '$7.00 handling fee'; no exchanges; original shipping not refunded.",
+    "Size guide: Men's Tops XS–XXL (chest 32–48 in); Men's Bottoms waist sizes 27 upward to XXXL.",
+    "Wikipedia (Volcom): founded 1991 in Orange County, California by Richard Woolcott and Tucker Hall; HQ Costa Mesa, California; owned by Authentic Brands Group since April 3, 2019 (bought from Kering); its US stores were run by Liberated Brands, which filed Chapter 11 in February 2025 and closed all remaining US locations. us_stores left empty.",
+    "Sale pattern on 2026-10-29: 155 of 256 men's short-sleeve tees in the feed were marked down on every variant.",
+    "Tillys' own brands page (https://www.tillys.com/brands/) lists Volcom among the brands it sells."
+  ],
+  "checked_at": "2026-10-29"
+}

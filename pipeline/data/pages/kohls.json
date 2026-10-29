@@ -1,0 +1,1023 @@
+{
+  "subject": "Kohl's",
+  "slug": "kohls",
+  "url_prefix": "stores",
+  "category": {
+    "slug": "womens-clothing",
+    "name": "Women's Clothing",
+    "why": "Kohl's is a multi-brand department store (kind retailer), so C is the department most of its searches are about: womens-clothing, the usual one per run-page.md. It is also Kohl's biggest line of business: the 10-K's 2025 net sales put Women's ($3,601M) first. Like-for-like item for prices: women's jeans, the item the TJ Maxx and Nordstrom pages use. Kohl's own store refuses WebFetch, so the anchor has no price and every price_relation is null; stores with unreadable prices render without one via sells_categories from an official source."
+  },
+  "checked_at": "2026-10-29",
+  "fx": null,
+  "serp": [
+    {
+      "keyword": "stores like kohls",
+      "position": 1,
+      "url": "https://10best.usatoday.com/awards/best-department-store/",
+      "kept": false,
+      "why_dropped": "AI-overview sitelink (also organic #4): a readers' choice award for department stores, not a list of alternatives to Kohl's; WebFetch also can't fetch 10best.usatoday.com"
+    },
+    {
+      "keyword": "stores like kohls",
+      "position": 1,
+      "url": "https://financebuzz.com/great-kohls-alternatives",
+      "kept": true,
+      "note": "AI-overview sitelink and organic #8. Read 2026-10-29: Roxana Loomes (ed. Amanda Machado), FinanceBuzz, published March 27 2025, updated September 21 2026; 15 numbered alternatives"
+    },
+    {
+      "keyword": "stores like kohls",
+      "position": 1,
+      "url": "https://similist.com/alternatives/stores-like-kohls/",
+      "kept": false,
+      "why_dropped": "similist.com scraped list (enrich.md §1.2); also organic #10"
+    },
+    {
+      "keyword": "stores like kohls",
+      "position": 2,
+      "url": "https://www.kohls.com/",
+      "kept": false,
+      "why_dropped": "anchor's own site (with sitelinks)"
+    },
+    {
+      "keyword": "stores like kohls",
+      "position": 5,
+      "url": "https://www.reddit.com/r/MiddleClassFinance/comments/1fz11nh/what_are_the_stores_of_the_middle_class_or/",
+      "kept": false,
+      "why_dropped": "reddit: WebFetch refuses reddit.com; not read, no workaround (two more reddit sitelinks under it, also not read)"
+    },
+    {
+      "keyword": "stores like kohls",
+      "position": 6,
+      "url": "https://www.kohls.com/stores",
+      "kept": false,
+      "why_dropped": "anchor's own store locator"
+    },
+    {
+      "keyword": "stores like kohls",
+      "position": 7,
+      "url": "https://en.wikipedia.org/wiki/List_of_department_stores_of_the_United_States",
+      "kept": false,
+      "why_dropped": "a directory of department stores, not a recommendation of alternatives"
+    },
+    {
+      "keyword": "stores like kohls",
+      "position": 9,
+      "url": "https://www.quora.com/Which-store-is-more-similar-to-Target-Walmart-or-Kohls-Why",
+      "kept": false,
+      "why_dropped": "quora.com returns HTTP 403 to WebFetch (TJ Maxx run); not retried"
+    },
+    {
+      "keyword": "kohls alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview returned no positions"
+    },
+    {
+      "keyword": "similar to kohls",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview returned no positions"
+    },
+    {
+      "keyword": "brands like kohls",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview returned no positions"
+    },
+    {
+      "keyword": "(WebSearch)",
+      "position": null,
+      "url": "https://aol.com/kohl-closing-27-stores-2025-210051400.html",
+      "kept": true,
+      "note": "found by WebSearch 'stores like Kohl's alternatives list' (three Ahrefs keywords had no SERP). Read 2026-10-29: Josephine Nesbit, GOBankingRates on AOL, March 8 2025; 4 alternatives"
+    },
+    {
+      "keyword": "(WebSearch)",
+      "position": null,
+      "url": "https://savingsgrove.com/blogs/guides/stores-like-kohls",
+      "kept": true,
+      "note": "found by WebSearch. Read 2026-10-29: Mat Caissy, SavingsGrove, February 11 2026; 15 numbered stores (title says 18)"
+    },
+    {
+      "keyword": "(WebSearch)",
+      "position": null,
+      "url": "https://querysprout.com/kohls-competitors/",
+      "kept": true,
+      "note": "found by WebSearch. Read 2026-10-29: Marques Thomas, QuerySprout, dated December 9 2021. Framed as Kohl's competitors with shopper price comparisons; counted as a supporting source only (no pick rests on it alone)"
+    },
+    {
+      "keyword": "(WebSearch)",
+      "position": null,
+      "url": "https://jump.wordstream.com/stores-similar-to-kohls",
+      "kept": false,
+      "why_dropped": "auto-generated keyword page, no editorial list"
+    },
+    {
+      "keyword": "(WebSearch)",
+      "position": null,
+      "url": "https://geo.sig.ai/brands/kohls/alternatives",
+      "kept": false,
+      "why_dropped": "generated brand-alternatives directory, not editorial; not read"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": null,
+      "url": null,
+      "used": false,
+      "why": "enrich.md §1.4b doesn't apply: Kohl's is itself a multi-brand retailer."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Macy's",
+      "slug": "macys",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://financebuzz.com/great-kohls-alternatives"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://aol.com/kohl-closing-27-stores-2025-210051400.html"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://savingsgrove.com/blogs/guides/stores-like-kohls"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://querysprout.com/kohls-competitors/"
+        }
+      ]
+    },
+    {
+      "name": "Target",
+      "slug": "target",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://financebuzz.com/great-kohls-alternatives"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://aol.com/kohl-closing-27-stores-2025-210051400.html"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://savingsgrove.com/blogs/guides/stores-like-kohls"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://querysprout.com/kohls-competitors/"
+        }
+      ]
+    },
+    {
+      "name": "JCPenney",
+      "slug": "jcpenney",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://financebuzz.com/great-kohls-alternatives"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://aol.com/kohl-closing-27-stores-2025-210051400.html"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://querysprout.com/kohls-competitors/"
+        }
+      ]
+    },
+    {
+      "name": "Dillard's",
+      "slug": "dillards",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://financebuzz.com/great-kohls-alternatives"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://savingsgrove.com/blogs/guides/stores-like-kohls"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://querysprout.com/kohls-competitors/"
+        }
+      ]
+    },
+    {
+      "name": "Nordstrom",
+      "slug": "nordstrom",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://financebuzz.com/great-kohls-alternatives"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://savingsgrove.com/blogs/guides/stores-like-kohls"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://querysprout.com/kohls-competitors/"
+        }
+      ]
+    },
+    {
+      "name": "TJ Maxx",
+      "slug": "tj-maxx",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://financebuzz.com/great-kohls-alternatives"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://savingsgrove.com/blogs/guides/stores-like-kohls"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://querysprout.com/kohls-competitors/"
+        }
+      ]
+    },
+    {
+      "name": "Ross Dress for Less",
+      "slug": "ross-dress-for-less",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://financebuzz.com/great-kohls-alternatives"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://savingsgrove.com/blogs/guides/stores-like-kohls"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://querysprout.com/kohls-competitors/"
+        }
+      ]
+    },
+    {
+      "name": "Walmart",
+      "slug": "walmart",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://financebuzz.com/great-kohls-alternatives"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://aol.com/kohl-closing-27-stores-2025-210051400.html"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://savingsgrove.com/blogs/guides/stores-like-kohls"
+        }
+      ]
+    },
+    {
+      "name": "Burlington",
+      "slug": "burlington",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://financebuzz.com/great-kohls-alternatives"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://savingsgrove.com/blogs/guides/stores-like-kohls"
+        }
+      ]
+    },
+    {
+      "name": "Marshalls",
+      "slug": "marshalls",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://financebuzz.com/great-kohls-alternatives"
+        }
+      ]
+    },
+    {
+      "name": "Old Navy",
+      "slug": "old-navy",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://financebuzz.com/great-kohls-alternatives"
+        }
+      ]
+    },
+    {
+      "name": "HomeGoods",
+      "slug": "homegoods",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://financebuzz.com/great-kohls-alternatives"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://savingsgrove.com/blogs/guides/stores-like-kohls"
+        }
+      ]
+    },
+    {
+      "name": "Amazon",
+      "slug": "amazon",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://financebuzz.com/great-kohls-alternatives"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://savingsgrove.com/blogs/guides/stores-like-kohls"
+        }
+      ]
+    },
+    {
+      "name": "Sam's Club",
+      "slug": "sams-club",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://financebuzz.com/great-kohls-alternatives"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://savingsgrove.com/blogs/guides/stores-like-kohls"
+        }
+      ]
+    },
+    {
+      "name": "Costco",
+      "slug": "costco",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://financebuzz.com/great-kohls-alternatives"
+        }
+      ]
+    },
+    {
+      "name": "Belk",
+      "slug": "belk",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://savingsgrove.com/blogs/guides/stores-like-kohls"
+        }
+      ]
+    },
+    {
+      "name": "Express",
+      "slug": "express",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://savingsgrove.com/blogs/guides/stores-like-kohls"
+        }
+      ]
+    },
+    {
+      "name": "Ulta Beauty",
+      "slug": "ulta-beauty",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://savingsgrove.com/blogs/guides/stores-like-kohls"
+        }
+      ]
+    },
+    {
+      "name": "QVC",
+      "slug": "qvc",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://savingsgrove.com/blogs/guides/stores-like-kohls"
+        }
+      ]
+    },
+    {
+      "name": "Gap",
+      "slug": "gap",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://querysprout.com/kohls-competitors/"
+        }
+      ]
+    },
+    {
+      "name": "Bed Bath & Beyond",
+      "slug": "bed-bath-beyond",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://querysprout.com/kohls-competitors/"
+        }
+      ]
+    },
+    {
+      "name": "Neiman Marcus",
+      "slug": "neiman-marcus",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://querysprout.com/kohls-competitors/"
+        }
+      ]
+    },
+    {
+      "name": "Bloomingdale's",
+      "slug": "bloomingdales",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://querysprout.com/kohls-competitors/"
+        }
+      ]
+    },
+    {
+      "name": "Meijer Private Label",
+      "slug": "meijer-private-label",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "New Look",
+      "slug": "new-look",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Maurices",
+      "slug": "maurices",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Cotton On",
+      "slug": "cotton-on",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "H&M",
+      "slug": "h-m",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Forever 21",
+      "slug": "forever-21",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Primark",
+      "slug": "primark",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Macy's Hat Collection",
+      "slug": "macy-s-hat-collection",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Matalan",
+      "slug": "matalan",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Mountain Warehouse",
+      "slug": "mountain-warehouse",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Mothercare",
+      "slug": "mothercare",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Zulily",
+      "slug": "zulily",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "rue21",
+      "slug": "rue21",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Cato Fashions",
+      "slug": "cato-fashions",
+      "in_apart_pool": true,
+      "sources": []
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "result": "17 rows for public.brands 'kohl-s': JCPenney, Target, Old Navy, Meijer Private Label, New Look, Maurices, Cotton On, H&M, Forever 21, Primark, Macy's Hat Collection, Matalan, Mountain Warehouse, Mothercare, Zulily, rue21, Cato Fashions. Pool only, never evidence."
+  },
+  "picks": [
+    {
+      "slug": "macys",
+      "rank": 1,
+      "independent_sources": 4,
+      "single_source": false,
+      "store_type": "department store",
+      "price": null,
+      "price_relation": null,
+      "reason": "Full-line department store selling market and private brands across women's, men's and kids' apparel, with 300+ Macy's Backstage off-price shops inside and beside its stores.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://financebuzz.com/great-kohls-alternatives",
+          "note": "#2: \"often holds major clearance sales events\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://aol.com/kohl-closing-27-stores-2025-210051400.html",
+          "note": "#1: \"Macy's has its own private label brands that are popular.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://savingsgrove.com/blogs/guides/stores-like-kohls",
+          "note": "#2: \"a department store experience similar to Kohl's\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://querysprout.com/kohls-competitors/",
+          "note": "#1 (competitors list)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "jcpenney",
+      "rank": 2,
+      "independent_sources": 3,
+      "single_source": false,
+      "store_type": "department store",
+      "price": null,
+      "price_relation": null,
+      "reason": "Mid-priced department store selling apparel, home, jewelry and beauty under private and national brands in 600+ stores across the US and Puerto Rico, with Liz Claiborne from petite to plus.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://financebuzz.com/great-kohls-alternatives",
+          "note": "#15: \"it's a great substitute for a Kohl's\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://aol.com/kohl-closing-27-stores-2025-210051400.html",
+          "note": "#4: \"a similar mix of clothing, home décor and accessories to Kohl's\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://querysprout.com/kohls-competitors/",
+          "note": "#7: \"sells very similar products\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "dillards",
+      "rank": 3,
+      "independent_sources": 3,
+      "single_source": false,
+      "store_type": "department store",
+      "price": {
+        "min": 36,
+        "max": 350,
+        "currency": "USD",
+        "item": "women's jeans"
+      },
+      "price_relation": null,
+      "reason": "Department store whose regular-price women's jeans run $36 to $350, sizes 00–16 and 1X–3X with petite and plus fits, and whose 272 stores include 28 clearance centers.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://financebuzz.com/great-kohls-alternatives",
+          "note": "#9: \"could be your best replacement for Kohl's\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://savingsgrove.com/blogs/guides/stores-like-kohls",
+          "note": "#5: \"want to trade up in quality\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://querysprout.com/kohls-competitors/",
+          "note": "#9: \"a little pricey\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "nordstrom",
+      "rank": 4,
+      "independent_sources": 3,
+      "single_source": false,
+      "store_type": "department store",
+      "price": {
+        "min": 20,
+        "max": 835,
+        "currency": "USD",
+        "item": "women's jeans (max is a sample)"
+      },
+      "price_relation": null,
+      "reason": "Upmarket department store with regular-price women's jeans from $20, sizes 00 to 28W with petite and tall, free US shipping with no minimum and no time limit on returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://financebuzz.com/great-kohls-alternatives",
+          "note": "#6: \"dedicated customer service\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://savingsgrove.com/blogs/guides/stores-like-kohls",
+          "note": "#9: \"a tier above Kohl's in pricing but appeals to the same shopper\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://querysprout.com/kohls-competitors/",
+          "note": "#2 (competitors list)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "target",
+      "rank": 5,
+      "independent_sources": 4,
+      "single_source": false,
+      "store_type": "discount store",
+      "price": null,
+      "price_relation": null,
+      "reason": "Sells its own labels (Universal Thread, A New Day, Wild Fable) beside national brands like Levi's and Lee, in all 50 states, with 90-day returns and a year for its own brands.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://financebuzz.com/great-kohls-alternatives",
+          "note": "#3: \"similar brands at lower prices, like Levi's\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://aol.com/kohl-closing-27-stores-2025-210051400.html",
+          "note": "#2: \"a range of products similar to Kohl's\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://savingsgrove.com/blogs/guides/stores-like-kohls",
+          "note": "#1: \"one of the closest stores like Kohl's\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://querysprout.com/kohls-competitors/",
+          "note": "#4: \"prices are often lower\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "tj-maxx",
+      "rank": 6,
+      "independent_sources": 3,
+      "single_source": false,
+      "store_type": "off-price",
+      "price": null,
+      "price_relation": null,
+      "reason": "Off-price chain selling brand-name family apparel, beauty and home for less, with The Runway designer department in select stores and an online shop.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://financebuzz.com/great-kohls-alternatives",
+          "note": "#7: \"sells brand-name apparel and home goods at lower prices\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://savingsgrove.com/blogs/guides/stores-like-kohls",
+          "note": "#3: \"the same value-driven shopper Kohl's targets\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://querysprout.com/kohls-competitors/",
+          "note": "#5: \"the prices are much lower\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "ross-dress-for-less",
+      "rank": 7,
+      "independent_sources": 3,
+      "single_source": false,
+      "store_type": "off-price",
+      "price": null,
+      "price_relation": null,
+      "reason": "In-store-only off-price chain selling name-brand and designer apparel, shoes and home for the whole family, in 44 states, DC, Guam and Puerto Rico.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://financebuzz.com/great-kohls-alternatives",
+          "note": "#4: \"you won't miss Kohl's\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://savingsgrove.com/blogs/guides/stores-like-kohls",
+          "note": "#7: \"one of the top off-price alternatives to Kohl's\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://querysprout.com/kohls-competitors/",
+          "note": "#8 (competitors list)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "walmart",
+      "rank": 8,
+      "independent_sources": 3,
+      "single_source": false,
+      "store_type": "discount store",
+      "price": null,
+      "price_relation": null,
+      "reason": "Everyday-low-price chain with 4,611 US stores selling apparel for adults and children, private brands such as Time and Tru, and same-day pickup and delivery from nearly every store.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://financebuzz.com/great-kohls-alternatives",
+          "note": "#13: \"affordable dupes\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://aol.com/kohl-closing-27-stores-2025-210051400.html",
+          "note": "#3: \"Walmart is known for its low prices.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://savingsgrove.com/blogs/guides/stores-like-kohls",
+          "note": "#4: \"one of the closest alternatives to Kohl's\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "burlington",
+      "rank": 9,
+      "independent_sources": 2,
+      "single_source": false,
+      "store_type": "off-price",
+      "price": null,
+      "price_relation": null,
+      "reason": "In-store off-price chain known for coats, selling women's, men's, juniors' and plus clothing, beauty and shoes in 47 states, DC and Puerto Rico.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://financebuzz.com/great-kohls-alternatives",
+          "note": "#1: \"significantly lower prices for branded products\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://savingsgrove.com/blogs/guides/stores-like-kohls",
+          "note": "#6: \"a go-to department store alternative\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "marshalls",
+      "rank": 10,
+      "independent_sources": 1,
+      "single_source": true,
+      "store_type": "off-price",
+      "price": null,
+      "price_relation": null,
+      "reason": "TJ Maxx's sister off-price chain selling the same family apparel, beauty and home, with a full line of footwear and a broader men's department, plus an online shop.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://financebuzz.com/great-kohls-alternatives",
+          "note": "#5: \"offers brand-name items at a discount\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "old-navy",
+      "rank": 11,
+      "independent_sources": 1,
+      "single_source": true,
+      "store_type": "single-brand chain",
+      "price": null,
+      "price_relation": null,
+      "reason": "Gap Inc.'s value brand: regular-price women's jeans from $34.99 to $69.99 in sizes 00 to 30 with petite and tall, free shipping from $50 for rewards members, 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://financebuzz.com/great-kohls-alternatives",
+          "note": "#11: \"you'll be happy with Old Navy's high-quality dupes\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "homegoods",
+      "why": "off_category (TJ Maxx run: TJX calls it an off-price retailer of home fashions); sells no women's clothing."
+    },
+    {
+      "slug": "amazon",
+      "why": "marketplace (enrich.md §1)."
+    },
+    {
+      "slug": "sams-club",
+      "why": "membership warehouse club, not a clothing store type; women's clothing not confirmed from an official source; not verified this run."
+    },
+    {
+      "slug": "costco",
+      "why": "membership warehouse club; 1 source (FinanceBuzz names it for FitBit and Lego, not clothing); not verified."
+    },
+    {
+      "slug": "belk",
+      "why": "1 source (SavingsGrove); belk.com returns HTTP 403 to WebFetch and no official parent source was read, so status can't be set. Re-check: a department store close to Kohl's in type."
+    },
+    {
+      "slug": "express",
+      "why": "1 source (SavingsGrove); single-brand store; brand file unverified (express.com product grid unreadable)."
+    },
+    {
+      "slug": "ulta-beauty",
+      "why": "beauty only: doesn't sell womens-clothing. 1 source."
+    },
+    {
+      "slug": "qvc",
+      "why": "1 source (SavingsGrove); TV and online shopping network, a different store type; not verified."
+    },
+    {
+      "slug": "gap",
+      "why": "1 source, QuerySprout only (competitors framing, counted as supporting only); its brand file carries no womens-clothing category."
+    },
+    {
+      "slug": "bed-bath-beyond",
+      "why": "out of scope: home goods."
+    },
+    {
+      "slug": "neiman-marcus",
+      "why": "1 source, QuerySprout only (competitors framing); luxury tier."
+    },
+    {
+      "slug": "bloomingdales",
+      "why": "1 source, QuerySprout only (competitors framing)."
+    },
+    {
+      "slug": "sears",
+      "why": "named only in SavingsGrove's quick-answer box, not as a listed entry; not counted."
+    },
+    {
+      "slug": "apart-pool",
+      "why": "Meijer Private Label, New Look, Maurices, Cotton On, H&M, Forever 21, Primark, Macy's Hat Collection, Matalan, Mountain Warehouse, Mothercare, Zulily, rue21, Cato Fashions: Apart Style pool only, no outside source names them as alternatives to Kohl's."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "anchor: price, sizes, shipping, returns",
+      "url": "https://www.kohls.com/catalog/womens-clothing.jsp",
+      "check": "kohls.com, its catalog pages and cs.kohls.com return 403 to WebFetch. The gate needs sizeRange, shipsTo, returnsDays and a womens-clothing price. Record women's jeans regular-price min/max (not sale or Kohl's Cash), size range incl. petite/plus, US free-shipping threshold and return days."
+    },
+    {
+      "fact": "parent-sourced picks",
+      "url": "https://corporate.jcpenney.com/about/corporate-information/",
+      "check": "JCPenney (corporate site, jcpenney.com 503), Walmart (10-K, bot check), Macy's, TJ Maxx, Marshalls (parent sites) render from official parent sources only. Open each store to confirm women's clothing is on sale today."
+    },
+    {
+      "fact": "Belk",
+      "url": "https://www.belk.com/",
+      "check": "belk.com returns 403. If a human confirms it's live with US stores and women's clothing, it's a same-type pick with 1 source (SavingsGrove)."
+    },
+    {
+      "fact": "images",
+      "url": "pipeline/images.mjs",
+      "check": "No pick has a /img/ share image yet except those images.mjs already holds; jcpenney and walmart are new brand files."
+    }
+  ],
+  "notes": [
+    "Evidence: Ahrefs had a SERP only for 'stores like kohls' (FinanceBuzz the one kept editorial page); 'kohls alternatives', 'similar to kohls' and 'brands like kohls' returned no positions. GOBankingRates/AOL, SavingsGrove and QuerySprout were found by WebSearch. QuerySprout (2021, competitors framing) is counted as supporting only.",
+    "Ranking: department stores first (same type) by source count, then the stores people shop for the same value by source count (Target 4; TJ Maxx, Ross, Walmart 3; Burlington 2; Marshalls, Old Navy 1).",
+    "Brand files written this run via merge_brand.py from patches in my scratchpad: jcpenney (new), walmart (new), old-navy (sells_categories womens-clothing), kohls (notes). Other picks reuse files verified on 2026-10-29 by the TJ Maxx, Nordstrom and Old Navy runs."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "You know how a Kohl's run goes. A national brand you trust on one rack, and a cheaper store label like Sonoma Goods for Life or Croft & Barrow on the next. If you want that mix somewhere else, these stores are where to go. Department stores come first, since they're the closest match. After them come the discount stores and off-price chains people shop for the same value, and one family-clothing chain for jeans and basics.",
+    "bodies": {
+      "macys": "Macy's is the closest swap for a full Kohl's trip, with women's, men's and kids' clothing next to beauty and home in one store. Like Kohl's, it sells national names beside its own private labels, so you can trade up or down without leaving the building.\n\nThe part worth knowing is Macy's Backstage. It's Macy's own off-price format, run as shops inside Macy's stores and in a few stores of their own, and there are more than 300 of them. So if half the fun of Kohl's is the bargain hunt, look for a Macy's with a Backstage inside and you get both in one stop.\n\nIf you'd rather have the off-price hunt without the department store around it, TJ Maxx is the purer version.",
+      "jcpenney": "JCPenney has much the same mix as Kohl's, selling clothing, home, jewelry and beauty under its own labels and national ones. Its stores run across the US and Puerto Rico, so it's an easy walk-in swap if your nearest Kohl's isn't so near.\n\nStart with Liz Claiborne if you buy workwear. JCPenney carries it from petite to plus sizes, with power blazers and pleated trousers among the pieces, in stores and online at JCPenney.com.\n\nThat petite-to-plus spread is the reason to look here for office clothes. But if what you mostly buy is jeans and weekend basics, Old Navy's own label goes from size 00 to 30 and shows its prices online.",
+      "dillards": "Dillard's is the pick if you want Kohl's breadth with designer denim on the wall. Women's jeans run from $36 for Celebrity Pink and YMI skinny styles to $350 for Johnny Was embroidered flares, and the brands in between include NYDJ, Levi's and Good American.\n\nSizes go from 00 to 16 and 1X to 3X, with petite and plus fits, so you can filter by fit before you pick a brand. Some of its stores are clearance centers, so check which kind is near you before you drive.\n\nThe catch is reach and shipping. Its stores cover 30 states, against Kohl's 49, and free shipping only starts at $150. If you're buying online, Nordstrom ships free with no minimum.",
+      "nordstrom": "Nordstrom is where to go when you want to trade up from Kohl's without losing the range. Women's jeans start at $20 for the Roaman's Comfort Stretch Wide Leg Jean and climb past $800 for designer denim like Burberry, so one store covers both ends.\n\nTwo policies make it easy to try. Shipping is free anywhere in the US with no minimum, and there's no time limit on returns. Jeans sizes run from 00 to 28W, with petite and tall lengths, which goes further up than Dillard's 3X.\n\nIf you like the brands but not the prices, the off-price chains below sell name brands for less, and TJ Maxx keeps a designer section for exactly that.",
+      "target": "Target is the everyday swap for Kohl's, with its own labels and national brands side by side in stores in all 50 states. For jeans, start with Universal Thread's Women's High-Rise Vintage Straight Jeans ($38), then compare Levi's High-Rise Cinch Baggy Jeans ($74.99) on the same page.\n\nThat's the same pairing Kohl's makes with Sonoma next to the names you know. Target's other owned labels include A New Day and Wild Fable, and the national side runs to Lee and Lucky Brand.\n\nReturns are the quiet perk. Most items get 90 days, and Target's own brands get a full year with a receipt, so buying two sizes and returning one is low-risk.",
+      "tj-maxx": "TJ Maxx is the pick if the brand-name bargain is the reason you shop Kohl's. It's an off-price store, so it sells name brands for women, men and kids, plus beauty and home, for less than full-price stores charge.\n\nLook for The Runway, its high-end designer department in select stores. That's what separates it from Marshalls, its sister chain, which puts its space into shoes and menswear instead. TJ Maxx also sells online, which Ross and Burlington don't.\n\nIf shoes are the main errand, Marshalls has the bigger shoe department of the two. And if you know exactly what you want, Target or Old Navy lists it online with a set price.",
+      "ross-dress-for-less": "Ross Dress for Less is the off-price chain for shoppers who'd rather drive than click. It sells name-brand and designer clothing for the whole family, plus shoes and home goods, below what department stores charge.\n\nThere's no online shop at all, so this is a store you walk into. What's on the racks varies by store, which makes it a place to browse rather than to hunt one item. With stores in 44 states, it's far easier to find than Dillard's.\n\nIf coats are on your list, Burlington is the off-price chain built around them. And if you want to check stock from your couch first, TJ Maxx has a website.",
+      "walmart": "Walmart is the budget end of this list, built on everyday low prices rather than sales events. It sells clothing for adults and kids, plus shoes, jewelry and accessories, in stores in all 50 states. So there's no sale calendar to wait for before you shop.\n\nIts private brands include Time and Tru and Free Assembly, and almost every store does same-day pickup and delivery. That's handy when you need something for work or school today rather than next week, and it saves the drive.\n\nThe trade-off is the brand mix. If you shop Kohl's for national labels next to a store brand, Target is the closer match. It puts Levi's on the same page as its own jeans.",
+      "burlington": "Burlington is the off-price store to try when a coat is on the list. Coats are what it's known for, and it also sells women's, men's and juniors' clothing, a separate plus department, beauty and shoes.\n\nLike Ross, it's in-store only. The website points you to a location rather than a checkout. Its stores cover 47 states, DC and Puerto Rico, close to Kohl's own spread, and the store finder lists them state by state.\n\nIf you buy extended sizes, start with that plus department, which gets its own spot on the menu next to Ladies and Juniors. And if you'd rather order your bargains online, TJ Maxx and Marshalls both have websites where Burlington doesn't.",
+      "marshalls": "Marshalls is TJ Maxx's sister store, and the one to choose when shoes or menswear are part of the trip. It sells the same family clothing, beauty and home at off-price, with a full line of footwear for women, men and kids and a bigger men's department.\n\nThe same company runs both chains and sets them up to be shopped together. So if one store's racks look thin, the other is worth the drive. Marshalls also sells online.\n\nIf designer labels matter more to you than shoes, TJ Maxx's Runway department is the better bet. And if you want a store brand at a fixed price, the way Kohl's does Sonoma, look at Target instead.",
+      "old-navy": "Old Navy is the pick if what you buy at Kohl's is mostly jeans and basics for the family. It's one brand rather than a department store. Its women's jeans run from $34.99 for the Curvy Mid-Rise Wow Bootcut to $69.99 for the Old Navy x Altuzarra High-Waisted Baggy Wide-Leg. Most styles sit between $44.99 and $54.99, across the OG, Vintage Slim and Rockstar lines.\n\nSizes are the strong point. Jeans go from 00 to 30, with petite and tall, and the Wow line is the cheapest way in. Rewards members get free shipping from $50, and returns run 30 days.\n\nIf you want other brands in the same cart, Target puts Levi's next to its own jeans."
+    },
+    "best_for": {
+      "macys": "a full department store trip with a bargain corner inside",
+      "jcpenney": "workwear from petite to plus at a department store",
+      "dillards": "designer jeans and plus sizes under one roof",
+      "nordstrom": "trading up, with free shipping and no return deadline",
+      "target": "own-label jeans and Levi's in the same cart",
+      "tj-maxx": "name brands for less, with a designer corner",
+      "ross-dress-for-less": "an in-person bargain hunt for the whole family",
+      "walmart": "everyday basics you can pick up the same day",
+      "burlington": "a winter coat and plus sizes at off-price",
+      "marshalls": "shoes and menswear on an off-price trip",
+      "old-navy": "family jeans from size 00 to 30"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with what you go to Kohl's for. If it's the one-stop department store, Macy's and JCPenney are the closest, and a Macy's with a Backstage inside adds the bargain rack. To trade up, Dillard's adds designer denim, and Nordstrom makes buying online painless with free shipping and no return deadline. If the deal is the whole point, TJ Maxx and Marshalls are the off-price pair, with Ross for in-store hunts and Burlington when you need a coat. For everyday basics, Target pairs its own labels with Levi's, Walmart keeps prices low every day, and Old Navy covers jeans from size 00 to 30."
+    },
+    "faqs": [
+      {
+        "q": "What does Kohl's sell?",
+        "a": "Kohl's sells moderately priced clothing, shoes, accessories, beauty and home goods. Much of it is its own labels, like Sonoma Goods for Life, Croft & Barrow and Apt. 9, sold next to national brands, and its beauty side includes Sephora.",
+        "source_query": "what does kohls sell"
+      },
+      {
+        "q": "Who owns Kohl's?",
+        "a": "Kohl's Corporation owns it. The company runs more than 1,100 Kohl's stores across 49 states, plus kohls.com, and sells its own brands alongside exclusive lines like LC Lauren Conrad and Simply Vera Vera Wang.",
+        "source_query": "who owns kohls"
+      }
+    ]
+  }
+}

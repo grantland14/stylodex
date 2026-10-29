@@ -1,0 +1,56 @@
+{
+  "slug": "ksubi",
+  "name": "Ksubi",
+  "website_url": "https://ksubi.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Distressed Denim and Graphic Tees",
+  "hq_country": "AU",
+  "founded_year": 1999,
+  "parent_company": null,
+  "size_range": "Jeans W22–W34",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 190,
+      "max": 580,
+      "min_usd": 190,
+      "max_usd": 580,
+      "fx_date": null,
+      "item_count": 83,
+      "source_url": "https://ksubi.com/collections/womens-denim/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Women's Denim collection: 83 products, 82 typed female > jeans, none with compare_at above price; fits barrel, low rider, soho, spray on, empire. Store currency USD (cart.js)."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://ksubi.com/collections/womens-denim/products.json?limit=250",
+    "https://ksubi.com/cart.js",
+    "https://ksubi.com/policies/shipping-policy",
+    "https://ksubi.com/policies/refund-policy",
+    "https://ksubi.com/pages/our-story"
+  ],
+  "notes": [
+    "2026-10-29: Our Story: 'Founded in Sydney in 1999'; 'iconic distressed denim, premium graphic tees'; 'OG DENIM SINCE 1999'. known_for built from that line.",
+    "2026-10-29: shipping policy: USA 2–5 business days, free over $150 USD, $12 under. Region selector lists Australia, Canada, New Zealand, United States, United Kingdom, Europe, Asia, China. Customs section: parcels shipped outside Australia may owe duties paid by the recipient.",
+    "2026-10-29: returns within 30 days of receipt; full-price items only, unworn, tags attached.",
+    "2026-10-29: women's jeans waists 22–34 from the Women's Denim feed variants. Cheapest: Hi N Wasted and Spray On styles $190; Barrel Jean and Empire Jean High Rollers $450; Low Rider Kulture Krystal $580."
+  ],
+  "checked_at": "2026-10-29"
+}
