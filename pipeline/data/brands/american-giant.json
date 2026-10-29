@@ -33,9 +33,7 @@
       "note": "Men's and women's Hoodies & Sweatshirts feeds; hoodies = products tagged 'Category: Hoodie' (19). Regular price = in stock, no compare_at above price: 10 (6 marked down, 3 sold out). Low: Women's Thermal Hoodie $98; Men's Classic Full Zip $168 (S–XXL, black also 3X); high: Men's Relaxed Classic Full Zip $175. Women's feed: https://www.american-giant.com/collections/womens-hoodies-sweatshirts/products.json"
     }
   ],
-  "materials": [
-    "Cotton fleece"
-  ],
+  "materials": [],
   "certifications": [],
   "production_model": "Made in the USA",
   "sale_pattern": null,
@@ -52,7 +50,8 @@
     "Store title 'American Made Clothing & Activewear | American Giant'; meta 'Discover American made essentials… Shop durable hoodies, tees, pants'. Store meta: San Francisco, California, US.",
     "Shipping policy: 'free shipping to our customers in the United States on orders over $150'; standard mostly 2–4 business days.",
     "Refund policy: returns within 30 days of purchase, unworn, unwashed, undamaged.",
-    "Hoodie sizes: women's XS–XL, men's S–XXL with 3X on some colors."
+    "Hoodie sizes: women's XS–XL, men's S–XXL with 3X on some colors.",
+    "Correction (comfrt run): materials left empty; no fabric statement was read for its hoodies (product descriptions in the feed are empty)."
   ],
   "sells_categories": [
     "hoodies"

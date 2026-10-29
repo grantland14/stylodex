@@ -1,0 +1,1698 @@
+{
+  "subject": "Loft",
+  "slug": "loft",
+  "url_prefix": "stores",
+  "category": {
+    "slug": "dresses",
+    "name": "Dresses",
+    "why": "Loft sells its own label (kind brand), so C is a product type. No one product dominates: its product sitemap has tops 276 (222 + 54 petite), pants 276 (217 + 59 petite) and dresses 211 (169 + 39 petite + 3 tall), against jeans 100 and sweaters 65. Dresses are the line it leads with: the store title lists Dresses first among product types ('Women's Clothing, Petites, Dresses, Pants, Shirts, Sweaters'), the dresses page is titled 'Casual, Work & Vacation Styles', matching its 'work and play' positioning, and it keeps the page comparable with its sister Ann Taylor's (also dresses). Pants were the close runner-up. Like-for-like item: women's dresses, which every pick sells; prices are each store's regular price for dresses not marked down."
+  },
+  "serp": [
+    {
+      "keyword": "stores like loft",
+      "position": 1,
+      "url": "https://www.reddit.com/r/fashionwomens35/comments/1woehks/so_done_with_loft_alternatives/",
+      "kept": false,
+      "why_dropped": "reddit: WebFetch refuses reddit.com; not read"
+    },
+    {
+      "keyword": "stores like loft",
+      "position": 1,
+      "url": "https://www.thredup.com/bg/p/stores-like-banana-republic",
+      "kept": false,
+      "why_dropped": "secondhand marketplace; article is about Banana Republic (Loft is entry #7, 'an Ann Taylor offshoot'), names no Loft alternatives"
+    },
+    {
+      "keyword": "stores like loft",
+      "position": 1,
+      "url": "https://www.youtube.com/watch?v=4V0BAIc9L_k",
+      "kept": false,
+      "why_dropped": "video (AI overview sitelink), not read"
+    },
+    {
+      "keyword": "stores like loft",
+      "position": 2,
+      "url": "https://www.anntaylor.com/",
+      "kept": false,
+      "why_dropped": "brand homepage (Ann Taylor is a candidate), not an editorial list"
+    },
+    {
+      "keyword": "stores like loft",
+      "position": 3,
+      "url": "https://www.loft.com/",
+      "kept": false,
+      "why_dropped": "anchor's own site"
+    },
+    {
+      "keyword": "stores like loft",
+      "position": 4,
+      "url": "https://www.reddit.com/r/fashionwomens35/comments/1woehks/so_done_with_loft_alternatives/",
+      "kept": false,
+      "why_dropped": "reddit; not read"
+    },
+    {
+      "keyword": "stores like loft",
+      "position": 4,
+      "url": "https://www.reddit.com/r/PetiteFashionAdvice/comments/1g7cpos/help_me_pick_female_business_business_casual_the/",
+      "kept": false,
+      "why_dropped": "reddit sitelink; not read"
+    },
+    {
+      "keyword": "stores like loft",
+      "position": 4,
+      "url": "https://www.reddit.com/r/AskWomenOver30/comments/8s9oux/where_do_you_shop_for_clothing/",
+      "kept": false,
+      "why_dropped": "reddit sitelink; not read"
+    },
+    {
+      "keyword": "stores like loft",
+      "position": 6,
+      "url": "https://pinkchickadee.com/20-stores-like-ann-taylor/",
+      "kept": true,
+      "note": "read: recommends stores as alternatives to Ann Taylor, not to Loft; counts only as evidence for the Ann Taylor pick (it pairs Loft and Ann Taylor directly)"
+    },
+    {
+      "keyword": "stores like loft",
+      "position": 7,
+      "url": "https://www.wardrobeoxygen.com/best-clothing-retailers-women-over-40/",
+      "kept": false,
+      "why_dropped": "read: article body never mentions Loft; only reader comments do"
+    },
+    {
+      "keyword": "stores like loft",
+      "position": 8,
+      "url": "https://corporette.com/the-best-stores-like-ann-taylor/",
+      "kept": true,
+      "note": "read: recommends stores as alternatives to Ann Taylor, not to Loft; counts only as evidence for the Ann Taylor pick (it pairs Loft and Ann Taylor directly)"
+    },
+    {
+      "keyword": "stores like loft",
+      "position": 9,
+      "url": "https://awellstyledlife.com/clothes-for-older-mature-women-best-places-to-shop/",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch and to a plain request with the StylodexBot UA; not read"
+    },
+    {
+      "keyword": "stores like loft",
+      "position": 10,
+      "url": "https://shopping.yahoo.com/style/clothing/article/heres-where-to-shop-if-you-want-the-rich-mom-look-on-a-budget-215728817.html",
+      "kept": true,
+      "note": "read: Loft entry says 'If you like Ann Taylor for dressier styles, think of its sister brand, Loft, as still polished but more casual'; counts only for Ann Taylor (the other stores are co-listed for a look, not named as Loft alternatives)"
+    },
+    {
+      "keyword": "brands like loft",
+      "position": 5,
+      "url": "https://pinkchickadee.com/20-stores-like-ann-taylor/",
+      "kept": true,
+      "note": "same page as 'stores like'"
+    },
+    {
+      "keyword": "brands like loft",
+      "position": 6,
+      "url": "https://www.reddit.com/r/workingmoms/comments/15fxzba/serious_question_where_do_you_buy_clothes/",
+      "kept": false,
+      "why_dropped": "reddit; not read"
+    },
+    {
+      "keyword": "brands like loft",
+      "position": 7,
+      "url": "https://shopping.yahoo.com/style/clothing/article/heres-where-to-shop-if-you-want-the-rich-mom-look-on-a-budget-215728817.html",
+      "kept": true,
+      "note": "same page as 'stores like'"
+    },
+    {
+      "keyword": "brands like loft",
+      "position": 8,
+      "url": "https://corporette.com/professional-clothing-brands/",
+      "kept": false,
+      "why_dropped": "read: groups Loft in 'Bucket 1: Budget Fashion' with Express, H&M, New York & Co., Old Navy, Quince, Target and Zara, a price-tier list of professional clothing brands, not alternatives to Loft; comment 'Loft and The Limited are comparable stores to me' is a reader's. Not counted."
+    },
+    {
+      "keyword": "brands like loft",
+      "position": 9,
+      "url": "https://www.wardrobeoxygen.com/best-clothing-retailers-women-over-40/",
+      "kept": false,
+      "why_dropped": "same page as 'stores like'; no Loft section"
+    },
+    {
+      "keyword": "brands like loft",
+      "position": 10,
+      "url": "https://50isnotold.com/ann-taylor-vs-loft-women-over-50/",
+      "kept": true,
+      "note": "read: an Ann Taylor vs LOFT comparison; recommends no other store; counts only for Ann Taylor"
+    },
+    {
+      "keyword": "loft alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs returned no SERP rows"
+    },
+    {
+      "keyword": "similar to loft",
+      "position": 1,
+      "url": "https://www.bustle.com/articles/2031-7-places-to-shop-once-youre-too-old-for-trendy-stores",
+      "kept": false,
+      "why_dropped": "read (2013): stores for outgrowing trendy shops; none named as Loft alternatives"
+    },
+    {
+      "keyword": "similar to loft",
+      "position": 2,
+      "url": "https://www.wardrobeoxygen.com/2016/01/best-clothing-retailers-women-over-40.html",
+      "kept": false,
+      "why_dropped": "lands on the Wardrobe Oxygen homepage; no Loft content"
+    },
+    {
+      "keyword": "similar to loft",
+      "position": 4,
+      "url": "https://loft.knoji.com/alternatives/",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch and a plain request; templated directory, not read"
+    },
+    {
+      "keyword": "similar to loft",
+      "position": 5,
+      "url": "https://www.buzzfeed.com/jessicamisener/places-to-shop-in-your-late-twenties-and-early-th",
+      "kept": false,
+      "why_dropped": "read: Loft is one entry; New York & Company is framed against Ann Taylor, not Loft"
+    },
+    {
+      "keyword": "similar to loft",
+      "position": 6,
+      "url": "http://www.identifont.com/similar?LI8",
+      "kept": false,
+      "why_dropped": "a font, not the store"
+    },
+    {
+      "keyword": "similar to loft",
+      "position": 7,
+      "url": "https://www.finder.com/sites-like-j-crew",
+      "kept": false,
+      "why_dropped": "read: doesn't mention Loft"
+    },
+    {
+      "keyword": "similar to loft",
+      "position": 8,
+      "url": "https://www.loft.com/",
+      "kept": false,
+      "why_dropped": "anchor's own site"
+    },
+    {
+      "keyword": "similar to loft",
+      "position": 9,
+      "url": "https://www.loft.com/jewelry/catl000023?goToPage=6",
+      "kept": false,
+      "why_dropped": "anchor's own site"
+    },
+    {
+      "keyword": "similar to loft",
+      "position": 10,
+      "url": "https://www.businessinsider.com/loft-is-a-great-place-to-shop",
+      "kept": false,
+      "why_dropped": "read (plain request; WebFetch refused): a column about Loft; names no alternatives"
+    },
+    {
+      "keyword": "stores like loft (WebSearch)",
+      "position": null,
+      "url": "https://fitmommyinheels.com/stores-like-loft/",
+      "kept": true,
+      "note": "Not in the Ahrefs top 10; found by WebSearch. '21 Stores Like Loft For Incredible Workwear', byline Dale P, no date shown; per-store reasoning; affiliate disclosure."
+    },
+    {
+      "keyword": "stores like loft (WebSearch)",
+      "position": null,
+      "url": "https://daneilabright.com/stores-like-loft/",
+      "kept": true,
+      "note": "WebSearch. '20 Chic Stores Like Loft', Daneila Bright, dated Feb 13 2024 / Oct 23 2026; per-store commentary; affiliate disclosure."
+    },
+    {
+      "keyword": "stores like loft (WebSearch)",
+      "position": null,
+      "url": "https://beautymag.com/stores-like-loft/",
+      "kept": true,
+      "note": "WebSearch. '10 Stores Like LOFT', Maya Adivi, updated Oct 22 2021; per-store rationale."
+    },
+    {
+      "keyword": "stores like loft (WebSearch)",
+      "position": null,
+      "url": "https://clothedup.com/stores-like-loft/",
+      "kept": true,
+      "note": "WebSearch. '15 Stores Like LOFT To Elevate Your Wardrobe', Dannica Ramirez, updated Mar 15 2023; per-store style, price and size notes."
+    },
+    {
+      "keyword": "brands like loft (WebSearch)",
+      "position": null,
+      "url": "https://needlestar.com/brands-similar-to-loft/",
+      "kept": true,
+      "note": "WebSearch. NeedleStar 'brands similar to Loft', byline Jane, Oct 23 2026; 17 entries incl. Loft Outlet, Loft Plus and Madewell Men (not counted as independent picks)."
+    },
+    {
+      "keyword": "stores like loft (WebSearch)",
+      "position": null,
+      "url": "https://plaintips.com/stores-like-loft",
+      "kept": true,
+      "note": "WebSearch. Plaintips 'Stores Like Loft', author ip_bilal, undated (footer 2013); short per-store reasoning. Old; kept as one source."
+    },
+    {
+      "keyword": "brands like loft (WebSearch)",
+      "position": null,
+      "url": "https://curvilyfashion.com/2021/04/19/the-2021-plus-size-workwear-guide-loft-alternatives-and-more/",
+      "kept": true,
+      "note": "WebSearch. Curvily '2021 Plus Size Workwear Guide: Loft Alternatives and More', Sarah Chiwaya, Apr 19 2021; plus-size brands as Loft alternatives."
+    },
+    {
+      "keyword": "stores like loft (WebSearch)",
+      "position": null,
+      "url": "https://soxy.com/blogs/stores-like-loft/",
+      "kept": false,
+      "why_dropped": "vendor blog (sock shop) recommending West Elm, Pottery Barn and BaubleBar as Loft alternatives alongside clothing; too generic to count"
+    },
+    {
+      "keyword": "stores like loft (WebSearch)",
+      "position": null,
+      "url": "https://allseasonsstyle.com/stores-like-loft/",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch; not read"
+    },
+    {
+      "keyword": "stores like loft (WebSearch)",
+      "position": null,
+      "url": "https://www.nadamanley.com/2023/01/alternatives-to-your-favorite-stores-new-go-to-stores.html",
+      "kept": false,
+      "why_dropped": "WebFetch returned no content"
+    },
+    {
+      "keyword": "stores like loft (WebSearch)",
+      "position": null,
+      "url": "https://www.instya.com/site/loft.com",
+      "kept": false,
+      "why_dropped": "scraped similar-sites list"
+    },
+    {
+      "keyword": "stores like loft (WebSearch)",
+      "position": null,
+      "url": "https://www.storeslike.com/loft",
+      "kept": false,
+      "why_dropped": "scraped list"
+    },
+    {
+      "keyword": "stores like loft (WebSearch)",
+      "position": null,
+      "url": "https://www.demotin.com/stores-like-loft.html",
+      "kept": false,
+      "why_dropped": "scraped list"
+    },
+    {
+      "keyword": "stores like loft (WebSearch)",
+      "position": null,
+      "url": "https://etechshout.com/stores-like-loft/",
+      "kept": false,
+      "why_dropped": "not read: 10 editorial lists already gave 15 picks"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": null,
+      "url": null,
+      "used": false,
+      "why": "enrich.md §1.4b doesn't apply: Loft sells only through its own stores and site (it stocks other labels, not the reverse)."
+    }
+  ],
+  "disco": {
+    "checked": true,
+    "result": "No discobrands.co page for Loft (/brands/loft 404; site search shows Loft only inside other brands' lists). Nothing counted."
+  },
+  "candidates": [
+    {
+      "name": "Ann Taylor",
+      "slug": "ann-taylor",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://beautymag.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-loft"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://shopping.yahoo.com/style/clothing/article/heres-where-to-shop-if-you-want-the-rich-mom-look-on-a-budget-215728817.html"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://50isnotold.com/ann-taylor-vs-loft-women-over-50/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/20-stores-like-ann-taylor/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        }
+      ]
+    },
+    {
+      "name": "Banana Republic",
+      "slug": "banana-republic",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-loft"
+        }
+      ]
+    },
+    {
+      "name": "Old Navy",
+      "slug": "old-navy",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://beautymag.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-loft/"
+        }
+      ]
+    },
+    {
+      "name": "J.Crew",
+      "slug": "j-crew",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://beautymag.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-loft"
+        }
+      ]
+    },
+    {
+      "name": "Talbots",
+      "slug": "talbots",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://beautymag.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://curvilyfashion.com/2021/04/19/the-2021-plus-size-workwear-guide-loft-alternatives-and-more/"
+        }
+      ]
+    },
+    {
+      "name": "Madewell",
+      "slug": "madewell",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-loft"
+        }
+      ]
+    },
+    {
+      "name": "Gap",
+      "slug": "gap",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://beautymag.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-loft/"
+        }
+      ]
+    },
+    {
+      "name": "Everlane",
+      "slug": "everlane",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://beautymag.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-loft/"
+        }
+      ]
+    },
+    {
+      "name": "Lane Bryant",
+      "slug": "lane-bryant",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://curvilyfashion.com/2021/04/19/the-2021-plus-size-workwear-guide-loft-alternatives-and-more/"
+        }
+      ]
+    },
+    {
+      "name": "Boden",
+      "slug": "boden",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://beautymag.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-loft/"
+        }
+      ]
+    },
+    {
+      "name": "Abercrombie & Fitch",
+      "slug": "abercrombie-fitch",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-loft/"
+        }
+      ]
+    },
+    {
+      "name": "New York & Company",
+      "slug": "new-york-company",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-loft/"
+        }
+      ]
+    },
+    {
+      "name": "J.Jill",
+      "slug": "j-jill",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/"
+        }
+      ]
+    },
+    {
+      "name": "White House Black Market",
+      "slug": "white-house-black-market",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/"
+        }
+      ]
+    },
+    {
+      "name": "Chico's",
+      "slug": "chicos",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/"
+        }
+      ]
+    },
+    {
+      "name": "Eileen Fisher",
+      "slug": "eileen-fisher",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://beautymag.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://curvilyfashion.com/2021/04/19/the-2021-plus-size-workwear-guide-loft-alternatives-and-more/"
+        }
+      ]
+    },
+    {
+      "name": "Express",
+      "slug": "express",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://beautymag.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-loft/"
+        }
+      ]
+    },
+    {
+      "name": "Zara",
+      "slug": "zara",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-loft/"
+        }
+      ]
+    },
+    {
+      "name": "Mango",
+      "slug": "mango",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://beautymag.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-loft/"
+        }
+      ]
+    },
+    {
+      "name": "H&M",
+      "slug": "h-m",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-loft/"
+        }
+      ]
+    },
+    {
+      "name": "ASOS",
+      "slug": "asos",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-loft/"
+        }
+      ]
+    },
+    {
+      "name": "Anthropologie",
+      "slug": "anthropologie",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-loft"
+        }
+      ]
+    },
+    {
+      "name": "Free People",
+      "slug": "free-people",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-loft/"
+        }
+      ]
+    },
+    {
+      "name": "American Eagle Outfitters",
+      "slug": "american-eagle",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-loft/"
+        }
+      ]
+    },
+    {
+      "name": "Universal Standard",
+      "slug": "universal-standard",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-loft/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://curvilyfashion.com/2021/04/19/the-2021-plus-size-workwear-guide-loft-alternatives-and-more/"
+        }
+      ]
+    },
+    {
+      "name": "Aritzia",
+      "slug": "aritzia",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-loft/"
+        }
+      ]
+    },
+    {
+      "name": "The Limited",
+      "slug": "the-limited",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-loft"
+        }
+      ]
+    },
+    {
+      "name": "Bebe",
+      "slug": "bebe",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-loft"
+        }
+      ]
+    },
+    {
+      "name": "Forever 21",
+      "slug": "forever-21",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-loft"
+        }
+      ]
+    },
+    {
+      "name": "Charlotte Russe",
+      "slug": "charlotte-russe",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-loft"
+        }
+      ]
+    },
+    {
+      "name": "Maurices",
+      "slug": "maurices",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-loft"
+        }
+      ]
+    },
+    {
+      "name": "Torrid",
+      "slug": "torrid",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://curvilyfashion.com/2021/04/19/the-2021-plus-size-workwear-guide-loft-alternatives-and-more/"
+        }
+      ]
+    },
+    {
+      "name": "Eloquii",
+      "slug": "eloquii",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://curvilyfashion.com/2021/04/19/the-2021-plus-size-workwear-guide-loft-alternatives-and-more/"
+        }
+      ]
+    },
+    {
+      "name": "Halogen",
+      "slug": "halogen",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://curvilyfashion.com/2021/04/19/the-2021-plus-size-workwear-guide-loft-alternatives-and-more/"
+        }
+      ]
+    },
+    {
+      "name": "NYDJ",
+      "slug": "nydj",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://curvilyfashion.com/2021/04/19/the-2021-plus-size-workwear-guide-loft-alternatives-and-more/"
+        }
+      ]
+    },
+    {
+      "name": "Other single-source plus-size labels (Leota, 1.State, Kiyonna, Foxcroft, Court & Rowe, Vince Camuto, Bobeau, Gibsonlook, Modcloth, Standards & Practices, Bar III, Ulla Popken, Liz Claiborne, Laws of Motion, Pari Passu, Henning, Gravitas, OfMercer, Baacal)",
+      "slug": "others-curvily",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://curvilyfashion.com/2021/04/19/the-2021-plus-size-workwear-guide-loft-alternatives-and-more/"
+        }
+      ]
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "result": "36 rows for loft: J.Crew, Gap, Banana Republic Factory, Madewell, Levi's, Club Monaco, Express, Lands' End, Dockers, L.L.Bean, White House Black Market, M&S Collection, Forever New, Everlane, Buck Mason, Lou & Grey, Halogen, Grace & Glory, Brooke & Lou, Arket, Kin, Petal & Pup, Veronica Maine, Theory, Lark & Ro and others. Those with outside sources here (J.Crew, Gap, Madewell, Express, WHBM, Everlane, Halogen) are flagged in_apart_pool; the rest have no outside evidence on this page."
+  },
+  "picks": [
+    {
+      "slug": "ann-taylor",
+      "rank": 1,
+      "independent_sources": 10,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "Ann Taylor is Loft's Knitwell Group sister for tailored workwear (work dresses, suits, suit dresses) with petite, tall and curvy fits, about 200 stores and free US shipping from $150.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/",
+          "note": "#5: \"While it is pricier than Loft, you might find exactly what you're looking for.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/",
+          "note": "#10: \"Ann Taylor is Loft's polished older sister\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://beautymag.com/stores-like-loft/",
+          "note": "#1: \"The fit is a little more tailored, which is great for a more adult style.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-loft/",
+          "note": "#3: \"a great option for women who are looking for more upscale clothing\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-loft",
+          "note": "#2: \"Ann Taylor specializes in high-end fashion clothing and accessories for women.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://shopping.yahoo.com/style/clothing/article/heres-where-to-shop-if-you-want-the-rich-mom-look-on-a-budget-215728817.html",
+          "note": "\"If you like Ann Taylor for dressier styles, think of its sister brand, Loft, as still polished but more casual.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/",
+          "note": "\"While similar to Ann Taylor's casual style, Loft serves as a more relaxed and trendy aesthetic lifestyle brand\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://50isnotold.com/ann-taylor-vs-loft-women-over-50/",
+          "note": "'Ann Taylor vs LOFT' comparison of the two brands for women over 50"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/20-stores-like-ann-taylor/",
+          "note": "#1 of 20 stores like Ann Taylor: LOFT, 'sister brand to Ann Taylor'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/",
+          "note": "\"Their sister brand Loft is also definitely worth checking!\""
+        }
+      ]
+    },
+    {
+      "slug": "banana-republic",
+      "rank": 2,
+      "independent_sources": 5,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 148.0,
+        "max": 280.0,
+        "min_usd": 148.0,
+        "max_usd": 280.0,
+        "fx_date": null,
+        "item_count": 61
+      },
+      "price_relation": null,
+      "reason": "Banana Republic's regular dresses run $148–$280 (Knit Wrap Midi Dress $198) in sizes 0–20, petite 00–12 and long 4–12, with free shipping from $50 for rewards members.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/",
+          "note": "#4: \"it can be slightly more expensive than Loft\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/",
+          "note": "#1: \"Their blazers, trousers and silky blouses look polished and last for years.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-loft/",
+          "note": "#1: \"chic and stylish clothes for the office\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-loft/",
+          "note": "#1: \"a great option if you're looking for workwear\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-loft",
+          "note": "#1: \"a division of world-famous apparel company Gap Inc.\""
+        }
+      ]
+    },
+    {
+      "slug": "old-navy",
+      "rank": 3,
+      "independent_sources": 5,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 34.99,
+        "max": 59.99,
+        "min_usd": 34.99,
+        "max_usd": 59.99,
+        "fx_date": null,
+        "item_count": 9
+      },
+      "price_relation": null,
+      "reason": "Old Navy's regular dresses run $34.99–$59.99 (Sleeveless Fit & Flare Ponte Mini Dress $39.99) in sizes 00–30 with petite and tall, and free 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/",
+          "note": "#2: \"Old Navy is actually even cheaper than Gap\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/",
+          "note": "#9: \"one of the most affordable stores like Loft\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://beautymag.com/stores-like-loft/",
+          "note": "#8: \"A younger, brighter, more casual option\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-loft/",
+          "note": "#3: \"Old Navy has attire for everyone in the family.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-loft/",
+          "note": "#9: \"casual, comfortable clothes\""
+        }
+      ]
+    },
+    {
+      "slug": "j-crew",
+      "rank": 4,
+      "independent_sources": 5,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 148,
+        "max": 298,
+        "min_usd": 148,
+        "max_usd": 298,
+        "fx_date": null,
+        "item_count": 38
+      },
+      "price_relation": null,
+      "reason": "J.Crew's regular dresses run $148–$298 (Parc dress in four-season stretch $198) in classic, petite and tall fits, with 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/",
+          "note": "#10: \"I love J. Crew for work clothes\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/",
+          "note": "#5: \"J.Crew has that preppy, polished look Loft fans love.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://beautymag.com/stores-like-loft/",
+          "note": "#9: \"J. Crew is usually a little more fitted.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-loft/",
+          "note": "#2: \"a mix of casual and dressy clothes\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-loft",
+          "note": "#4: \"premium quality clothing, footwear and accessories\""
+        }
+      ]
+    },
+    {
+      "slug": "talbots",
+      "rank": 5,
+      "independent_sources": 5,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 99.5,
+        "max": 299.0,
+        "min_usd": 99.5,
+        "max_usd": 299.0,
+        "fx_date": null,
+        "item_count": 48
+      },
+      "price_relation": null,
+      "reason": "Talbots, a Knitwell sister, sells regular dresses at $99.50–$299 (Polished Ponte Sheath Dress $169–$189) in misses 2–18, petite 0–16 and plus 14W–24W, with 400+ US stores.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/",
+          "note": "#3: \"Like Loft, they have casual yet professional workwear\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/",
+          "note": "#3: \"classic workwear... in petite, misses and plus sizes\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://beautymag.com/stores-like-loft/",
+          "note": "#3: \"The designs are simple and classy\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-loft/",
+          "note": "#8: \"a women-led lifestyle fashion brand\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://curvilyfashion.com/2021/04/19/the-2021-plus-size-workwear-guide-loft-alternatives-and-more/",
+          "note": "plus-size Loft alternatives: \"sharp, well-made suits\""
+        }
+      ]
+    },
+    {
+      "slug": "madewell",
+      "rank": 6,
+      "independent_sources": 5,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 118,
+        "max": 168,
+        "min_usd": 118,
+        "max_usd": 168,
+        "fx_date": null,
+        "item_count": 14
+      },
+      "price_relation": null,
+      "reason": "Madewell, J.Crew Group's denim-first brand, sells regular dresses at $118–$168 in standard, petite, tall and plus 14W–24W, and ships to Canada, the UK and Australia.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/",
+          "note": "#12: \"on the more expensive side\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/",
+          "note": "#4: \"Madewell is known for denim, but their trousers are perfect for work too.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-loft/",
+          "note": "#6: \"best known for its super flattering and quality denim\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-loft/",
+          "note": "#4: \"has become very popular in recent years\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-loft",
+          "note": "#8: \"clothing, footwear and accessories for women\""
+        }
+      ]
+    },
+    {
+      "slug": "gap",
+      "rank": 7,
+      "independent_sources": 4,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "Gap sells women's dresses (Organic Cotton Tie-Neck Mini Shift Dress) with bottoms in 000–20 petite and tall, 30-day returns, stores in 46 states and a checkout shared with Old Navy.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/",
+          "note": "#1: \"It's cheaper than Loft\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/",
+          "note": "#7: \"crisp, classic basics at a great price\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://beautymag.com/stores-like-loft/",
+          "note": "#7: \"A wide selection with durable styles\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-loft/",
+          "note": "#9: \"been around since 1969\""
+        }
+      ]
+    },
+    {
+      "slug": "everlane",
+      "rank": 8,
+      "independent_sources": 4,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 58.0,
+        "max": 198.0,
+        "min_usd": 58.0,
+        "max_usd": 198.0,
+        "fx_date": null,
+        "item_count": 26
+      },
+      "price_relation": null,
+      "reason": "Everlane's regular dresses run $58–$198 (Weekend Tee Midi Dress $58, Cashmere Polo Midi Dress $198) in XXS–XXXL, and it publishes its costs.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/",
+          "note": "#9: \"a store that is similar to Loft, albeit more expensive\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/",
+          "note": "#2: \"simple, modern and so easy to wear\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://beautymag.com/stores-like-loft/",
+          "note": "#5: \"their designs are all instant classics\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-loft/",
+          "note": "#4: \"ethical and transparent approaches\""
+        }
+      ]
+    },
+    {
+      "slug": "lane-bryant",
+      "rank": 9,
+      "independent_sources": 4,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "Lane Bryant, Loft's Knitwell plus-size sister, sells dresses in sizes 10–40 with petite and long lengths, and has more than 400 US stores.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/",
+          "note": "#8: \"focuses specifically on plus size style\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/",
+          "note": "#13: \"stylish plus size workwear that actually fits\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-loft/",
+          "note": "#5: \"trendy and chic styles perfect for any occasion\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://curvilyfashion.com/2021/04/19/the-2021-plus-size-workwear-guide-loft-alternatives-and-more/",
+          "note": "plus-size Loft alternatives: \"the longest-running plus size brand\""
+        }
+      ]
+    },
+    {
+      "slug": "boden",
+      "rank": 10,
+      "independent_sources": 4,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 99.0,
+        "max": 460.0,
+        "min_usd": 99.0,
+        "max_usd": 460.0,
+        "fx_date": null,
+        "item_count": 189
+      },
+      "price_relation": null,
+      "reason": "Boden sells printed dresses in joyful colors at $99–$460 regular (Marcia Jersey Shirt Dress $149) from a US store in dollars, with petite and tall collections and 45-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/",
+          "note": "#13: \"classic, traditional styles\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/",
+          "note": "#17: \"fun color and pretty prints to classic shapes\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://beautymag.com/stores-like-loft/",
+          "note": "#10: \"Bold prints with classic cuts\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-loft/",
+          "note": "#15: \"Office and workwear don't need to be boring\""
+        }
+      ]
+    },
+    {
+      "slug": "abercrombie-fitch",
+      "rank": 11,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 70,
+        "max": 200,
+        "min_usd": 70,
+        "max_usd": 200,
+        "fx_date": null,
+        "item_count": 86
+      },
+      "price_relation": null,
+      "reason": "Abercrombie & Fitch's regular dresses run $70–$200, from YPB activewear minis ($70–$85) to the 100% Cotton Lace-Trim Slash Midi Dress ($200), with free shipping over $99.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/",
+          "note": "#19: \"subdued basics, stylish workwear, and comfortable loungewear\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/",
+          "note": "#18: \"some of the best tailored pants right now\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-loft/",
+          "note": "#5: \"casual, comfortable clothes that still look stylish\""
+        }
+      ]
+    },
+    {
+      "slug": "new-york-company",
+      "rank": 12,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "New York & Company sells workwear and night-out dresses online (founded 1918 as Lerner Shops) with free US shipping over $99 and 30-day exchange or store-credit returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/",
+          "note": "#6: \"it's also very affordable\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/",
+          "note": "#16: \"affordable workwear with a trendy twist\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-loft/",
+          "note": "#7: \"multi-functional, trendy, chic, modern, and affordable\""
+        }
+      ]
+    },
+    {
+      "slug": "j-jill",
+      "rank": 13,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 109.0,
+        "max": 149.0,
+        "min_usd": 109.0,
+        "max_usd": 149.0,
+        "fx_date": null,
+        "item_count": 17
+      },
+      "price_relation": null,
+      "reason": "J.Jill's regular dresses run $109–$149 (Wearever Knit Pleat-Back Dress $109) in XS–4X with petite and tall, 60-day returns and 200+ stores.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/",
+          "note": "#16: \"a similar price point to Loft\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/",
+          "note": "#6: \"comfy, relaxed pieces that still look elegant\""
+        }
+      ]
+    },
+    {
+      "slug": "white-house-black-market",
+      "rank": 14,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 140.0,
+        "max": 295.0,
+        "min_usd": 140.0,
+        "max_usd": 295.0,
+        "fx_date": null,
+        "item_count": 75
+      },
+      "price_relation": null,
+      "reason": "White House Black Market, a Knitwell sister, sells black-and-white sheath dresses at $140–$295 regular (Faux Wrap Sheath Dress $150) in 00–18 regular and petite, with 60-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/",
+          "note": "#17: \"some pops of (subdued) color\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/",
+          "note": "#8: \"pleated wide leg pants instantly elevate any outfit\""
+        }
+      ]
+    },
+    {
+      "slug": "chicos",
+      "rank": 15,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 109.5,
+        "max": 189.5,
+        "min_usd": 109.5,
+        "max_usd": 189.5,
+        "fx_date": null,
+        "item_count": 15
+      },
+      "price_relation": null,
+      "reason": "Chico's, a Knitwell sister, sells regular dresses at $109.50–$189.50 (Travelers Classic Dress $109.50) in its own sizes 000–4 (US 0–22) with 60-day returns and 500+ boutiques.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fitmommyinheels.com/stores-like-loft/",
+          "note": "#14: \"everything from tailored workwear to comfortable activewear\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://daneilabright.com/stores-like-loft/",
+          "note": "#11: \"travel friendly knits and pretty prints\""
+        }
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "eileen-fisher",
+      "why": "5 sources, but unverified: eileenfisher.com closed the connection to a plain request (HTTP/2 error, then empty reply) and returned 503 to WebFetch. Human check."
+    },
+    {
+      "slug": "express",
+      "why": "4 sources; brand file already unverified (dresses page is a script shell)."
+    },
+    {
+      "slug": "zara",
+      "why": "4 sources; brand file unverified (403)."
+    },
+    {
+      "slug": "mango",
+      "why": "4 sources; brand file unverified (403)."
+    },
+    {
+      "slug": "h-m",
+      "why": "3 sources; brand file unverified (403)."
+    },
+    {
+      "slug": "asos",
+      "why": "3 sources; marketplace-style multi-brand retailer, brand file unverified."
+    },
+    {
+      "slug": "anthropologie",
+      "why": "3 sources; anthropologie.com HTTP 403 to the bot UA (one try). Brand file written as unverified."
+    },
+    {
+      "slug": "universal-standard",
+      "why": "2 sources (NeedleStar, Curvily); not checked: 15 picks reached with better-sourced stores."
+    },
+    {
+      "slug": "loft-outlet-loft-plus-madewell-men",
+      "why": "NeedleStar entries that are Loft's own lines or a men's line; not independent alternatives."
+    },
+    {
+      "slug": "others",
+      "why": "Single-source names (Free People, American Eagle, Aritzia, The Limited, Bebe, Forever 21, Charlotte Russe, Maurices, Torrid, Eloquii, Halogen, NYDJ and the other Curvily plus-size labels) not verified: the 15-pick cap was reached with better-sourced stores."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "anchor dresses price: Loft",
+      "url": "https://www.loft.com/clothing/dresses/catl000013/",
+      "check": "Sitewide '50% off everything' and 'All dresses $44!': every LOFT-label dress shows a struck regular price except two Sneak Preview petite Versa styles ($120, $150), too few to stand for the range, so no price is stored. Re-read when the promotion ends; until then the page can't index (anchor missing price:dresses)."
+    },
+    {
+      "fact": "pick check: Eileen Fisher",
+      "url": "https://www.eileenfisher.com/women/dresses/",
+      "check": "Refused plain requests and WebFetch (503). 5 sources: would rank in the top 7 if verified."
+    },
+    {
+      "fact": "Lane Bryant returns",
+      "url": "https://www.lanebryant.com/customer-service",
+      "check": "Return policy loads from a robots-disallowed path; returns days not stored."
+    },
+    {
+      "fact": "Ann Taylor dress prices, sizes, returns",
+      "url": "https://www.anntaylor.com/clothing/dresses/cata000012/",
+      "check": "Bot challenge (see ann-taylor page). Pick renders without a price."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": null,
+  "notes": [
+    "Evidence: 7 'stores like Loft' editorial lists (5 from WebSearch, as the damson-madder run did, because the Ahrefs top 10 for the four keywords held only Ann Taylor lists that never name alternatives to Loft) plus 5 SERP pages that pair Loft and Ann Taylor directly (counted for Ann Taylor only). Ahrefs serp-overview: 4 calls, 'loft alternatives' empty.",
+    "Ranking: independent sources, then best list position (Loft's dress price is unreadable, so price closeness can't break ties): Ann Taylor 10; Banana Republic (#1 on four lists), Old Navy (#2), J.Crew (#2), Talbots (#3), Madewell (#4) at 5; Gap (#1 Fit Mommy), Everlane (#2), Lane Bryant (#5), Boden (#10) at 4; Abercrombie & Fitch (#5), New York & Company (#6) at 3; J.Jill (#6), White House Black Market (#8), Chico's (#11) at 2.",
+    "Five picks are Loft's Knitwell Group sisters (Ann Taylor, Talbots, Lane Bryant, White House Black Market, Chico's; knitwellgroup.com lists eight brands). The copy says so where it helps the reader.",
+    "Renders without a price (sells_categories from each store's own dresses page): Ann Taylor (bot challenge), Gap and New York & Company (every dress marked down), Lane Bryant (every dress on promotion). price_relation is null on every pick: the gate needs both prices and Loft's is unreadable.",
+    "Reused same-day brand files: J.Crew, Banana Republic, Old Navy, Talbots, Madewell, Everlane, Boden, Abercrombie & Fitch, J.Jill, WHBM (dresses prices from the ann-taylor run), Chico's and Lane Bryant (talbots and coldwater-creek runs). This run: Loft (ships_to corrected to US, CA, GB, AU; free shipping $99; full dresses read), new New York & Company, Gap dresses (sells_categories), Chico's full-grid note, Eileen Fisher and Anthropologie as unverified."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "You only went in for one easy dress for work, and Loft's rack in your size is down to prints you'd never wear. Or you like what it sells and want to see who else does it before you spend. These are the stores most often named as Loft alternatives, including several of its own sister brands, with what each does best and its regular dress prices where the store shows them.",
+    "bodies": {
+      "ann-taylor": "Ann Taylor is Loft's dressier sister, and it's where to go when the dress has to look like workwear. Both belong to Knitwell Group, but Ann Taylor's own pitch is timeless, tailored style for the office.\n\nSo the shelves lean to suits and suit dresses, a step more formal than Loft's easy prints. Like Loft, it cuts petite, tall and curvy, so a fit you already know has a version here. It has about 200 stores, and standard US shipping is free from $150, against $99 at Loft.\n\nOne catch if you shop both: a Loft order bought online can't be returned at an Ann Taylor store. And if you need plus sizes with your tailoring, Talbots goes further.",
+      "banana-republic": "Banana Republic is the step up in fabric, and its regular-price dresses run from $148 to $280. The Knit Wrap Midi Dress ($198) is the easy office pick, and the Lightweight Cashmere Turtleneck Mini Dress ($280) shows where the money goes.\n\nThe store sells itself on cashmere, leather and linen, so that's what you're paying for. Sizes run 0 to 20, with petite from 00 to 12 and long from 4 to 12, so the lengths Loft covers are here too. Shipping is free from $50 for rewards members.\n\nIts bag is shared with Old Navy and Gap, which makes it easy to mix price points in one order. If $148 is more than you'd spend on a work dress, Talbots and J.Jill both start lower.",
+      "old-navy": "Old Navy is the budget pick, with regular dress prices from $34.99 to $59.99, the lowest on this page. The Sleeveless Fit & Flare Ponte Mini Dress ($39.99) is the office-friendly one. At the top sits The Occasion by Old Navy Long-Sleeve Tie-Front Maxi Dress ($59.99).\n\nThe size range is the other reason to come here. It goes from 00 to 30, with petite and tall, which reaches well past Loft's 18 and XXL. Returns are free within 30 days, by prepaid label or in store, and rewards members ship free from $50.\n\nThe cheapest pieces are jersey and ponte minis. For a dress with more structure for meetings, Talbots or Ann Taylor is the better bet.",
+      "j-crew": "J.Crew is the pick for office dresses in petite and tall as well as classic sizes, and its regular-price dresses run from $148 to $298. Start with the Parc dress in four-season stretch ($198), and the name tells you it's meant to work in any month.\n\nThose three fits mean Loft's petite and tall shoppers aren't left out. Returns run 30 days, with $7.50 taken off if you use its prepaid label. Standard shipping is $7, or free for J.Crew Rewards members.\n\nPlenty of the range is slip dresses, like the Natasha slip dress ($178), and they suit dinner more than a desk. If you'd rather keep things casual, Madewell is the more relaxed brand in the same J.Crew Group family.",
+      "talbots": "Talbots is another Knitwell sister, and it's the one to try if you want plus sizes in classic shapes. Its regular-price dresses run from $99.50 to $299, and the Polished Ponte Sheath Dress ($169 to $189) is the one to start with.\n\nPrices change with the size type, which is why many styles show a range. Misses go from 2 to 18, petite from 0 to 16 and plus from 14W to 24W, so it goes past Loft's top size. There's no tall line, though, and Loft has one.\n\nReturns run 30 days, with $9.95 off for the prepaid label, and standard shipping is a flat $8.95. With more than 400 US stores, it's easy to try the fit in person.",
+      "madewell": "Madewell is J.Crew's denim-first sister, and its own dresses run from $118 to $168, a tighter band than J.Crew's. It suits you if what you buy at Loft is mostly jeans, tees and easy layers, with the odd dress.\n\nSizes cover standard, petite, tall and plus from 14W to 24W across denim, tops and dresses. Availability varies by style, so check the dress you want comes in your size before you fall for it. Returns are 30 days, with a free US exchange label.\n\nShipping is free for signed-in Insider members and $5 or $7 otherwise. Like Loft, it ships to Canada, the UK and Australia. For more work-ready dresses in a similar price band, Chico's is the closer match.",
+      "gap": "Gap is Old Navy and Banana Republic's sister in Gap Inc., and its dresses include easy cotton styles like the Organic Cotton Tie-Neck Mini Shift Dress. Gap Inc. calls it an icon of casual American style, and it started in San Francisco in 1969 with denim at its heart.\n\nBottoms run from 000 to 20, with petite and tall, so it starts smaller than Loft's 00. Returns get 30 days, stretching to 45 for Premier members and 60 for cardmembers. Rewards members ship free from $50, and stores are spread across 46 states.\n\nOne thing to know about the shared checkout with Old Navy and Banana Republic: returns still go back to Gap itself. A Gap dress can't be taken to an Old Navy store.",
+      "everlane": "Everlane is the minimal option, and it calls its approach clean luxury. Its regular-price dresses run from $58 to $198. The Weekend Tee Midi Dress ($58) is the easy start, and the Cashmere Polo Midi Dress ($198) is the one to save for.\n\nMost of the dresses are minis, and the fabrics include stretch linen, cashmere and cotton silk voile. Sizes run from XXS to XXXL. It also publishes what each piece costs to make, which is useful if you like to know where the price goes.\n\nReturns get 30 days, with a $7 label fee by mail or free in its stores. It ships to Canada, the UK and Australia. If you want prints over plain colors, Boden is the one to try.",
+      "lane-bryant": "Lane Bryant is the Loft sister to know if an 18 is too small, because its sizes start at 10 and run to 40. It's the plus-size brand in the Knitwell family, and Lena Bryant founded it in 1904.\n\nDresses come in petite and long lengths as well as regular, from 10/12 up to 38/40. Lena is the dress name to look for, as in the Lena Long-Sleeve Surplice-Neck Midi Dress. With more than 400 US stores, you can try the sizes on before you buy.\n\nFor plus workwear in tailored shapes, Talbots' 14W to 24W range is the other option. Old Navy reaches a 30 too, with dresses from $34.99.",
+      "boden": "Boden is the pick if Loft's prints are what you love, and it pushes them further, with its own promise of timeless British style in joyful colors. Regular-price dresses run from $99 to $460, and the Marcia Jersey Shirt Dress ($149) is the easy one to start with.\n\nIt's a British brand, but its US store prices everything in dollars and is run from Pittston, Pennsylvania. Returns get 45 days, longer than Loft's 30, and there are petite and tall collections.\n\nThe catch is the size ceiling. Sizes stop at XL, so if you need more room with your color, Lane Bryant or Talbots is the better place to look. And at $460 for the Jacquard Boat Neck Dress, the top of the range adds up fast.",
+      "abercrombie-fitch": "Abercrombie & Fitch covers casual dresses, with regular prices from $70 to $200. The low end is its YPB activewear line, with mini dresses from $70 to $85, and the 100% Cotton Lace-Trim Slash Midi Dress ($200) sits at the top.\n\nYPB is activewear, so those minis are for weekends and workouts more than the office. Standard shipping is free on orders over $99, the same line as Loft, and it ships to Canada too.\n\nIt's an old name, founded in Manhattan in 1892 and now based in New Albany, Ohio. For a more classic work dress at a similar price, J.Jill or Chico's suits better, and both give 60 days to return.",
+      "new-york-company": "New York & Company now sells online first, and its work and going-out dresses each have a shop of their own, Workwear Dresses and Night Out Dresses. It started in 1918 as Lerner Shops.\n\nTwo things to know before you order. Its own label runs large, so you may want to size down. And returns get store credit or an exchange within 30 days, with $7.99 taken off, so there's no money back.\n\nShipping is free over $99, as at Loft, but it only ships within the US. Most orders arrive in two to five days. Most dresses come in small to large, so above that, Lane Bryant or Old Navy covers far more sizes.",
+      "j-jill": "J.Jill is where to go for relaxed, comfortable dresses that still look put together, with regular prices from $109 to $149. The Wearever Knit Pleat-Back Dress ($109) is the easy one, and the Faux-Suede Shirtdress ($149) is the dressier choice.\n\nThe band is narrow, so there's little gap in price between the easy dresses and the dressier ones. Sizes run from XS to 4X, with petite and tall, and returns get 60 days, double Loft's 30. The prepaid label costs $8.95.\n\nShipping is free from $150, or $9.95 below that, and it ships to Canada. It began in 1959 as one shop in the Berkshires and now has more than 200 stores. If you want more polish, White House Black Market is the sharper option.",
+      "white-house-black-market": "White House Black Market is the Knitwell sister for sheath dresses, with regular prices from $140 to $295. The Faux Wrap Sheath Dress ($150) is the one to start with, and the Knit Crepe Belted Sheath Dress ($170) is close behind.\n\nThe look is polished black and white with pops of color and pattern, so pieces work together easily if you're building a work wardrobe. Sizes run 00 to 18 and XXS to XL, in regular and petite. Petite styles ship and return free.\n\nReturns get 60 days, with $7 off for mail returns, and standard shipping is $8.95. Skip it if you need plus sizes. Lane Bryant and Talbots go much higher.",
+      "chicos": "Chico's is the Knitwell sister for comfortable dresses in a wider size range than Loft's, with regular prices from $109.50 to $189.50. The Travelers Classic Dress ($109.50) is the one to start with, and the Ponte Godet Long-Sleeve Dress ($129.50) suits the office.\n\nIts sizes are its own, so learn the scale first. Chico's 000 to 4 maps to US 0 to 22, with petite from 000P to 4P. That means a Chico's 2 is a US 12.\n\nReturns get 60 days, with a $7 fee for mailed returns, and standard shipping is $8.95. It has more than 500 boutiques across the US. Above a US 22, Lane Bryant is the one to turn to, since its sizes run to 40."
+    },
+    "best_for": {
+      "ann-taylor": "a tailored work dress from Loft's own family",
+      "banana-republic": "cashmere and linen when you want to spend more",
+      "old-navy": "easy dresses under $60 in sizes up to 30",
+      "j-crew": "office dresses in classic, petite and tall fits",
+      "talbots": "classic sheath dresses in petite and plus sizes",
+      "madewell": "a relaxed dress from J.Crew's denim-first sister",
+      "gap": "casual cotton dresses in the same bag as Old Navy",
+      "everlane": "plain, minimal dresses from XXS to XXXL",
+      "lane-bryant": "dresses in sizes 10 to 40, petite and long",
+      "boden": "bright prints with 45 days to send them back",
+      "abercrombie-fitch": "casual minis and midis from $70",
+      "new-york-company": "workwear and night-out dresses shipped free over $99",
+      "j-jill": "comfortable dresses up to 4X with 60-day returns",
+      "white-house-black-market": "black-and-white sheath dresses for the office",
+      "chicos": "relaxed dresses up to a US 22 with 60-day returns"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with what Loft isn't giving you. If it's a dressier work dress, Ann Taylor and White House Black Market are the polished end, and Talbots adds plus sizes in the same Knitwell family. If it's price, Old Navy has the lowest prices on this page, and its bag is shared with Gap and Banana Republic.\n\nFor sizes past 18, Lane Bryant runs to 40 and Old Navy to 30. If petite and tall lengths matter, J.Crew and Old Navy cover both. For prints and color, Boden is the obvious step, and for plain, simple pieces, Everlane is the opposite."
+    },
+    "faqs": [
+      {
+        "q": "Are Ann Taylor and LOFT the same?",
+        "a": "No, they're separate brands with their own stores, but they're sisters in the Knitwell Group. Ann Taylor dates from 1954 and focuses on tailored workwear. Loft, founded in 1998, sells easier everyday clothes for work and play.",
+        "source_query": "similar to loft",
+        "source": "people_also_ask"
+      },
+      {
+        "q": "What other stores are like the Loft?",
+        "a": "Ann Taylor is the closest, as Loft's dressier sister. Banana Republic, J.Crew, Talbots and Madewell come next, with Old Navy for lower prices and Lane Bryant for sizes up to 40.",
+        "source_query": "stores like loft",
+        "source": "people_also_ask"
+      }
+    ]
+  }
+}

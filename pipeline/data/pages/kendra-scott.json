@@ -1,0 +1,1188 @@
+{
+  "subject": "Kendra Scott",
+  "slug": "kendra-scott",
+  "url_prefix": "brands",
+  "category": {
+    "slug": "necklaces",
+    "name": "Necklaces",
+    "why": "C is a product type. Kendra Scott sells necklaces, earrings, bracelets and rings in similar numbers, so C is its hero line: the Elisa pendant necklace leads the bestseller sort ($70), and the SERP for 'similar to kendra scott' is mostly Elisa and other pendant-necklace look-alikes. 475 necklaces on its US store. Prices compare each store's regular-price necklace collection."
+  },
+  "serp": [
+    {
+      "keyword": "brands like kendra scott",
+      "position": 1,
+      "url": null,
+      "kept": false,
+      "why_dropped": "AI overview, no URL"
+    },
+    {
+      "keyword": "brands like kendra scott",
+      "position": 2,
+      "url": "https://www.kendrascott.com/",
+      "kept": false,
+      "why_dropped": "anchor's own site"
+    },
+    {
+      "keyword": "brands like kendra scott",
+      "position": 4,
+      "url": "https://www.nordstrom.com/brands-list/women/jewelry",
+      "kept": false,
+      "why_dropped": "retailer brand index, not an editorial list; Nordstrom used as co-stocking instead"
+    },
+    {
+      "keyword": "brands like kendra scott",
+      "position": 5,
+      "url": "https://www.reddit.com/r/bitcheswithtaste/comments/1fe48xa/bwt_what_are_the_coolest_jewelry_brands_youd/",
+      "kept": false,
+      "why_dropped": "reddit refuses WebFetch; not read, no workaround (sitelinks r/jewelry 'kendra scott esque jewlery' and 'Kendra Scott alternatives?' also skipped)"
+    },
+    {
+      "keyword": "brands like kendra scott",
+      "position": 6,
+      "url": "https://www.thezoereport.com/fashion/brands-like-kendra-scott-making-colorful-affordable-jewelry",
+      "kept": true,
+      "why_dropped": null,
+      "note": "8 brands as alternatives; updated Feb 20, 2024"
+    },
+    {
+      "keyword": "brands like kendra scott",
+      "position": 7,
+      "url": "https://www.glamour.com/story/best-jewelry-brands",
+      "kept": false,
+      "why_dropped": "WebFetch refused (unable to fetch www.glamour.com)"
+    },
+    {
+      "keyword": "brands like kendra scott",
+      "position": 8,
+      "url": "https://www.quora.com/What-are-good-jewelry-brands-in-the-USA",
+      "kept": false,
+      "why_dropped": "general jewelry question, not about Kendra Scott alternatives"
+    },
+    {
+      "keyword": "brands like kendra scott",
+      "position": 9,
+      "url": "https://www.youtube.com/watch?v=IkeYj63Mvhg",
+      "kept": false,
+      "why_dropped": "video ('10 Jewelry Brands You Should NEVER Buy'), not readable"
+    },
+    {
+      "keyword": "brands like kendra scott",
+      "position": 10,
+      "url": "https://www.kendrascott.com/shop/exclusive-jewellery-brands.html",
+      "kept": false,
+      "why_dropped": "anchor's own domain"
+    },
+    {
+      "keyword": "stores like kendra scott",
+      "position": 1,
+      "url": "https://ajluxe.com/blogs/jewelry-guide/kendra-scott-alternatives",
+      "kept": false,
+      "why_dropped": "HTTP 404 to WebFetch and to the bot UA (AI-overview sitelink and #4 organic); AJ Luxe is also a competing jewelry seller"
+    },
+    {
+      "keyword": "stores like kendra scott",
+      "position": 1,
+      "url": "https://shesheshow.com/my-top-5-favorite-jewelry-brands/",
+      "kept": false,
+      "why_dropped": "read: lists Kendra Scott among five favorites, recommends none as an alternative"
+    },
+    {
+      "keyword": "stores like kendra scott",
+      "position": 1,
+      "url": "https://abcnews.com/GMA/Shop/affordable-jewelry-brands/story?id=117745807",
+      "kept": false,
+      "why_dropped": "read: groups Kendra Scott with Monica Vinader and Ana Luisa as affordable brands, no alternatives named"
+    },
+    {
+      "keyword": "stores like kendra scott",
+      "position": 2,
+      "url": "https://www.kendrascott.com/",
+      "kept": false,
+      "why_dropped": "anchor's own site"
+    },
+    {
+      "keyword": "stores like kendra scott",
+      "position": 6,
+      "url": "https://kendrascott-production.mobify-storefront.com/",
+      "kept": false,
+      "why_dropped": "anchor's own storefront host"
+    },
+    {
+      "keyword": "stores like kendra scott",
+      "position": 7,
+      "url": "https://www.reddit.com/r/bitcheswithtaste/comments/1fe48xa/bwt_what_are_the_coolest_jewelry_brands_youd/",
+      "kept": false,
+      "why_dropped": "reddit refuses WebFetch (sitelinks r/jewelry, r/femalefashionadvice also skipped)"
+    },
+    {
+      "keyword": "stores like kendra scott",
+      "position": 8,
+      "url": "https://www.glamour.com/story/best-jewelry-brands",
+      "kept": false,
+      "why_dropped": "WebFetch refused"
+    },
+    {
+      "keyword": "stores like kendra scott",
+      "position": 9,
+      "url": "https://www.nordstrom.com/browse/women/jewelry",
+      "kept": false,
+      "why_dropped": "retailer category page; used as co-stocking evidence (co_stocking)"
+    },
+    {
+      "keyword": "stores like kendra scott",
+      "position": 10,
+      "url": "https://www.thezoereport.com/fashion/brands-like-kendra-scott-making-colorful-affordable-jewelry",
+      "kept": true,
+      "why_dropped": null,
+      "note": "same page as 'brands like' #6"
+    },
+    {
+      "keyword": "kendra scott alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs returned no US SERP rows"
+    },
+    {
+      "keyword": "similar to kendra scott",
+      "position": 1,
+      "url": null,
+      "kept": false,
+      "why_dropped": "AI overview; sitelinks are kendrascott.com pages"
+    },
+    {
+      "keyword": "similar to kendra scott",
+      "position": 2,
+      "url": "https://www.tiktok.com/discover/kendra-scott-look-alike",
+      "kept": false,
+      "why_dropped": "TikTok discover page, unreadable"
+    },
+    {
+      "keyword": "similar to kendra scott",
+      "position": 4,
+      "url": "https://www.lemon8-app.com/experience/top-kendra-scott-jewelry-collections-loved-by-customers?region=us",
+      "kept": false,
+      "why_dropped": "post about Kendra Scott favorites, not alternatives"
+    },
+    {
+      "keyword": "similar to kendra scott",
+      "position": 5,
+      "url": "https://readystudygoacademy.com/?n=37116187011340",
+      "kept": false,
+      "why_dropped": "spam pages selling look-alike pendants (positions 5, 6, 9, 10)"
+    },
+    {
+      "keyword": "similar to kendra scott",
+      "position": 7,
+      "url": "https://www.tiktok.com/@sharktankabc/video/7433469993783676202",
+      "kept": false,
+      "why_dropped": "TikTok video about Kendra Scott"
+    },
+    {
+      "keyword": "similar to kendra scott",
+      "position": 8,
+      "url": "https://www.lemon8-app.com/experience/kendra-scott-jewelry-quality-and-durability-review?region=us",
+      "kept": false,
+      "why_dropped": "post about working at Kendra Scott, not alternatives"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": "Nordstrom",
+      "url": "https://www.nordstrom.com/browse/women/jewelry",
+      "used": true,
+      "why": "Kendra Scott's FAQ lists Nordstrom among about 19 authorized online retail partners, and Nordstrom's women's jewelry brand filter lists Kendra Scott. Fashion-jewelry brands in that filter count as co_stocked. The filter is the whole jewelry department (fine and designer houses too), so only brands at fashion-jewelry prices were taken forward."
+    },
+    {
+      "retailer": "Anthropologie",
+      "url": "https://www.anthropologie.com/jewelry",
+      "used": false,
+      "why": "Authorized partner per Kendra Scott's FAQ, but anthropologie.com returns HTTP 403 to WebFetch; not read."
+    },
+    {
+      "retailer": "Dillard's",
+      "url": "https://www.dillards.com/",
+      "used": false,
+      "why": "Authorized partner per Kendra Scott's FAQ; guessed category URLs 404'd and the store wasn't explored further."
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "result": "Kendra Scott has about 70 pool rows, incl. BaubleBar, Alex and Ani, Stella & Dot, Ettika, Uncommon James, Mejuri, Gorjana, Anna Beck, Chan Luu, Jenny Bird, Shashi, Kate Spade, Pandora and many off-topic rows (pet wear, eyewear, party goods). Pool rows count only with outside evidence."
+  },
+  "candidates": [
+    {
+      "name": "Chan Luu",
+      "slug": "chan-luu",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.thezoereport.com/fashion/brands-like-kendra-scott-making-colorful-affordable-jewelry",
+          "note": "#6: known for beaded wrap bracelets, with delicate earrings and necklaces; Poppy Red Enamel Bead Necklace $75 (2024 price)"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=chan-luu) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ]
+    },
+    {
+      "name": "Ettika",
+      "slug": "ettika",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.thezoereport.com/fashion/brands-like-kendra-scott-making-colorful-affordable-jewelry",
+          "note": "#7: mixes metals with pops of color at low cost"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=ettika) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ]
+    },
+    {
+      "name": "Nadri",
+      "slug": "nadri",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=nadri) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ]
+    },
+    {
+      "name": "Jennifer Zeuner",
+      "slug": "jennifer-zeuner",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=jennifer-zeuner) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ]
+    },
+    {
+      "name": "Missoma",
+      "slug": "missoma",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=missoma) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ]
+    },
+    {
+      "name": "Anna Beck",
+      "slug": "anna-beck",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=anna-beck) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ]
+    },
+    {
+      "name": "Sterling Forever",
+      "slug": "sterling-forever",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=sterling-forever (second half of the filter list, read at offset 100000)) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ]
+    },
+    {
+      "name": "BaubleBar",
+      "slug": "baublebar",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=baublebar) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ]
+    },
+    {
+      "name": "TAI",
+      "slug": "tai",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.thezoereport.com/fashion/brands-like-kendra-scott-making-colorful-affordable-jewelry",
+          "note": "#8: minimalist, smaller pieces that still add color; Stone Monogram Pendant $80"
+        }
+      ]
+    },
+    {
+      "name": "Brinker & Eliza",
+      "slug": "brinker-eliza",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.thezoereport.com/fashion/brands-like-kendra-scott-making-colorful-affordable-jewelry",
+          "note": "#5: colorful, unique designs from a mother-and-daughter duo; Mischief Managed Charm Necklace $278"
+        }
+      ]
+    },
+    {
+      "name": "Lele Sadoughi",
+      "slug": "lele-sadoughi",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=lele-sadoughi) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ]
+    },
+    {
+      "name": "Yam",
+      "slug": "yam",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.thezoereport.com/fashion/brands-like-kendra-scott-making-colorful-affordable-jewelry",
+          "note": "#1: created by Morgan Thomas in honor of her late mother; True Fortune Necklace $80 (links yamnyc.com)"
+        }
+      ]
+    },
+    {
+      "name": "Melinda Maria",
+      "slug": "melinda-maria",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=melinda-maria) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ]
+    },
+    {
+      "name": "Stella & Dot",
+      "slug": "stella-dot",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=stella-dot (second half of the filter list)) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ]
+    },
+    {
+      "name": "Adornmonde",
+      "slug": "adornmonde",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.thezoereport.com/fashion/brands-like-kendra-scott-making-colorful-affordable-jewelry",
+          "note": "#4: sold only through its own website; Manon Butterfly Charm Necklace $144"
+        }
+      ]
+    },
+    {
+      "name": "Alex and Ani",
+      "slug": "alex-and-ani",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=alex-and-ani) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ]
+    },
+    {
+      "name": "8 Other Reasons",
+      "slug": "8-other-reasons",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.thezoereport.com/fashion/brands-like-kendra-scott-making-colorful-affordable-jewelry",
+          "note": "#3: bold and delicate styles at lower price points"
+        }
+      ]
+    },
+    {
+      "name": "Above Average Studio",
+      "slug": "above-average-studio",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.thezoereport.com/fashion/brands-like-kendra-scott-making-colorful-affordable-jewelry",
+          "note": "#2: Canada-based, handmade, sleek designs under $105"
+        }
+      ]
+    },
+    {
+      "name": "Monica Vinader",
+      "slug": "monica-vinader",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=monica-vinader) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ]
+    },
+    {
+      "name": "Mejuri",
+      "slug": "mejuri",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=mejuri) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ]
+    },
+    {
+      "name": "Jenny Bird",
+      "slug": "jenny-bird",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=jenny-bird) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ]
+    },
+    {
+      "name": "Ana Luisa",
+      "slug": "ana-luisa",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=ana-luisa) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ]
+    },
+    {
+      "name": "Madewell",
+      "slug": "madewell",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=madewell) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ]
+    },
+    {
+      "name": "Kate Spade New York",
+      "slug": "kate-spade",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=kate-spade-new-york) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ]
+    },
+    {
+      "name": "Shashi",
+      "slug": "shashi",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=shashi) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ]
+    },
+    {
+      "name": "Zoë Chicco",
+      "slug": "zoe-chicco",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=zoë-chicco) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ]
+    },
+    {
+      "name": "Gorjana",
+      "slug": "gorjana",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Uncommon James",
+      "slug": "uncommon-james",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Pandora",
+      "slug": "pandora",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Bling Jewelry",
+      "slug": "bling-jewelry",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "GlitzyRocks",
+      "slug": "glitzyrocks",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Lovisa",
+      "slug": "lovisa",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Astrid & Miyu",
+      "slug": "astrid-miyu",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Sorrelli",
+      "slug": "sorrelli",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Stoney Clover Lane",
+      "slug": "stoney-clover-lane",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Pura Vida",
+      "slug": "pura-vida",
+      "in_apart_pool": true,
+      "sources": []
+    }
+  ],
+  "picks": [
+    {
+      "slug": "chan-luu",
+      "rank": 1,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 175.0,
+        "max": 1200.0,
+        "min_usd": 175.0,
+        "max_usd": 1200.0,
+        "fx_date": null,
+        "item_count": 154
+      },
+      "price_relation": "similar",
+      "reason": "Los Angeles label (1996) selling gemstone necklaces such as the Camille Necklace Turquoise ($275), some in 18k gold plated sterling silver; $175–$1,200 against Kendra Scott's $50–$5,695.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.thezoereport.com/fashion/brands-like-kendra-scott-making-colorful-affordable-jewelry",
+          "note": "#6: known for beaded wrap bracelets, with delicate earrings and necklaces; Poppy Red Enamel Bead Necklace $75 (2024 price)"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=chan-luu) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "ettika",
+      "rank": 2,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 40.0,
+        "max": 250.0,
+        "min_usd": 40.0,
+        "max_usd": 250.0,
+        "fx_date": null,
+        "item_count": 231
+      },
+      "price_relation": "similar",
+      "reason": "Los Angeles plated jewelry, nickel and lead free, with most necklaces under $100: Desert Bloom Marquise Cord Necklace in Turquoise $60 vs the $70 Elisa; $40–$250.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.thezoereport.com/fashion/brands-like-kendra-scott-making-colorful-affordable-jewelry",
+          "note": "#7: mixes metals with pops of color at low cost"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=ettika) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "nadri",
+      "rank": 3,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 55.0,
+        "max": 5699.0,
+        "min_usd": 55.0,
+        "max_usd": 5699.0,
+        "fx_date": null,
+        "item_count": 212
+      },
+      "price_relation": "similar",
+      "reason": "Owns its factory and makes CZ necklaces in plated brass or sterling plus 14k gold with diamonds, $55–$5,699, almost exactly Kendra Scott's $50–$5,695.",
+      "evidence": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=nadri) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "jennifer-zeuner",
+      "rank": 4,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 77.0,
+        "max": 5100.0,
+        "min_usd": 77.0,
+        "max_usd": 5100.0,
+        "fx_date": null,
+        "item_count": 199
+      },
+      "price_relation": "similar",
+      "reason": "Layering pendants such as the Inga letter-charm necklace ($185) in 18k gold plated silver or sterling silver; $77–$5,100, inside Kendra Scott's range.",
+      "evidence": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=jennifer-zeuner) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "missoma",
+      "rank": 5,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 85.0,
+        "max": 9989.0,
+        "min_usd": 85.0,
+        "max_usd": 9989.0,
+        "fx_date": null,
+        "item_count": 315
+      },
+      "price_relation": "similar",
+      "reason": "London demi-fine brand in recycled 18k gold vermeil on silver, US prices with duties included and 90-day returns; Lucy Williams Malachite Choker $140; $85–$9,989.",
+      "evidence": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=missoma) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "anna-beck",
+      "rank": 6,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 65.0,
+        "max": 585.0,
+        "min_usd": 65.0,
+        "max_usd": 585.0,
+        "fx_date": null,
+        "item_count": 59
+      },
+      "price_relation": "similar",
+      "reason": "Handmade in Bali in 18k gold plated sterling silver, with turquoise and jade bead necklaces such as the Turquoise Beaded Necklace ($195); $65–$585.",
+      "evidence": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=anna-beck) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "sterling-forever",
+      "rank": 7,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 40.0,
+        "max": 434.0,
+        "min_usd": 40.0,
+        "max_usd": 434.0,
+        "fx_date": null,
+        "item_count": 144
+      },
+      "price_relation": "similar",
+      "reason": "CZ pendant necklaces from $40 (Jamie CZ Evil Eye) to $434 with a lifetime guarantee and 60-day returns, double Kendra Scott's 30.",
+      "evidence": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=sterling-forever (second half of the filter list, read at offset 100000)) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "baublebar",
+      "rank": 8,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 28.0,
+        "max": 560.0,
+        "min_usd": 28.0,
+        "max_usd": 560.0,
+        "fx_date": null,
+        "item_count": 368
+      },
+      "price_relation": "similar",
+      "reason": "New York trend jewelry with most necklaces under $100 and semi-precious pendants like the Chase Semi-Precious Pendant Necklace ($48); $28–$560.",
+      "evidence": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=baublebar) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "tai",
+      "rank": 9,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 25.0,
+        "max": 525.0,
+        "min_usd": 25.0,
+        "max_usd": 525.0,
+        "fx_date": null,
+        "item_count": 308
+      },
+      "price_relation": "similar",
+      "reason": "Small pendants with opal and CZ, most under $100: Opal Glow Monogram Necklace $55, Hamsa Necklace with CZ and Opal Accents $65; $25–$525.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.thezoereport.com/fashion/brands-like-kendra-scott-making-colorful-affordable-jewelry",
+          "note": "#8: minimalist, smaller pieces that still add color; Stone Monogram Pendant $80"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "brinker-eliza",
+      "rank": 10,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 98.0,
+        "max": 448.0,
+        "min_usd": 98.0,
+        "max_usd": 448.0,
+        "fx_date": null,
+        "item_count": 214
+      },
+      "price_relation": "similar",
+      "reason": "Mother-daughter studio making charm necklaces by hand to order in 24k antique gold plated brass; The Best Is Yet To Come Necklace $98; $98–$448.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.thezoereport.com/fashion/brands-like-kendra-scott-making-colorful-affordable-jewelry",
+          "note": "#5: colorful, unique designs from a mother-and-daughter duo; Mischief Managed Charm Necklace $278"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "lele-sadoughi",
+      "rank": 11,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 95.0,
+        "max": 385.0,
+        "min_usd": 95.0,
+        "max_usd": 385.0,
+        "fx_date": null,
+        "item_count": 70
+      },
+      "price_relation": "similar",
+      "reason": "Statement collars and bolos with malachite, turquoise and pearl: Malachite Baroque Collar Necklace $125, Turquoise Ruffle Heart Bolo $150; $95–$385.",
+      "evidence": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=lele-sadoughi) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "yam",
+      "rank": 12,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 60.0,
+        "max": 225.0,
+        "min_usd": 60.0,
+        "max_usd": 225.0,
+        "fx_date": null,
+        "item_count": 15
+      },
+      "price_relation": "similar",
+      "reason": "Queens studio of designer Morgan Thomas making chokers by hand to order; Gold Sun Choker $60, Bonar Pearl Choker $180; $60–$225.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.thezoereport.com/fashion/brands-like-kendra-scott-making-colorful-affordable-jewelry",
+          "note": "#1: created by Morgan Thomas in honor of her late mother; True Fortune Necklace $80 (links yamnyc.com)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "melinda-maria",
+      "rank": 13,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 75.0,
+        "max": 250.0,
+        "min_usd": 75.0,
+        "max_usd": 250.0,
+        "fx_date": null,
+        "item_count": 216
+      },
+      "price_relation": "similar",
+      "reason": "Heavy gold plating with hand-set stones and a lifetime guarantee, every necklace $75–$250; She's a Boss Pendant Necklace in Blue Opal $115.",
+      "evidence": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=melinda-maria) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "stella-dot",
+      "rank": 14,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 19.99,
+        "max": 225.0,
+        "min_usd": 19.99,
+        "max_usd": 225.0,
+        "fx_date": null,
+        "item_count": 54
+      },
+      "price_relation": "similar",
+      "reason": "Gemstone necklaces like the Kate Gemstone Necklace in Blue ($70, same as the Elisa) and Ava Paperclip in turquoise ($55); $19.99–$225.",
+      "evidence": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.nordstrom.com/browse/women/jewelry",
+          "note": "Nordstrom women's jewelry brand filter lists this brand (filterByBrand=stella-dot (second half of the filter list)) alongside Kendra Scott (filterByBrand=kendra-scott); Kendra Scott's FAQ names Nordstrom an authorized online retail partner."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "adornmonde",
+      "rank": 15,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 342.0,
+        "max": 606.0,
+        "min_usd": 342.0,
+        "max_usd": 606.0,
+        "fx_date": null,
+        "item_count": 24
+      },
+      "price_relation": "similar",
+      "reason": "Every necklace in 14k solid gold, $342–$606, such as the Knoxx round diamond necklace ($382) with a lab-grown diamond; free US shipping.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.thezoereport.com/fashion/brands-like-kendra-scott-making-colorful-affordable-jewelry",
+          "note": "#4: sold only through its own website; Manon Butterfly Charm Necklace $144"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "alex-and-ani",
+      "why": "Verified (co_stocked at Nordstrom, $34–$98 regular necklaces, 133 of 375 marked down). Ranks 16th on price closeness (|ln| distance 4.45), so it falls past the 15-pick cap. Strong fit on aesthetics; first in line if a pick drops."
+    },
+    {
+      "slug": "above-average-studio",
+      "why": "Verified (The Zoe Report). Necklaces CA$50–CA$130 (about $36–$93), ships to the US by Canada Post, but all sales are final. Ranks 17th on price closeness (4.46), past the cap."
+    },
+    {
+      "slug": "8-other-reasons",
+      "why": "Verified (The Zoe Report). Necklaces $27–$122, free US shipping, 7-day returns. Ranks 18th on price closeness (4.46), past the cap."
+    },
+    {
+      "slug": "monica-vinader",
+      "why": "co_stocked (Nordstrom). monicavinader.com returns HTTP 403 to the bot UA; not verified, no workaround."
+    },
+    {
+      "slug": "mejuri",
+      "why": "co_stocked (Nordstrom), Apart pool. Not a Shopify feed (products.json 404); not verified this run (verify cap, lower priority)."
+    },
+    {
+      "slug": "jenny-bird",
+      "why": "co_stocked (Nordstrom), Apart pool. products.json 404; not verified this run."
+    },
+    {
+      "slug": "ana-luisa",
+      "why": "co_stocked (Nordstrom). products.json 404; not verified this run."
+    },
+    {
+      "slug": "madewell",
+      "why": "co_stocked (Nordstrom). Clothing-led store; not verified this run."
+    },
+    {
+      "slug": "kate-spade",
+      "why": "co_stocked (Nordstrom), Apart pool. Handbag-led; not verified this run."
+    },
+    {
+      "slug": "shashi",
+      "why": "co_stocked (Nordstrom), Apart pool. www.shashijewelry.com: proxy CONNECT 502; not read, no workaround."
+    },
+    {
+      "slug": "zoe-chicco",
+      "why": "co_stocked (Nordstrom). Fine-jewelry-led; not verified this run."
+    },
+    {
+      "slug": "gorjana",
+      "why": "Apart pool only. Not in Nordstrom's brand filter and named by no SERP page, so no outside evidence. (Necklaces $58–$5,615 on its store.)"
+    },
+    {
+      "slug": "uncommon-james",
+      "why": "Apart pool only; no outside source."
+    },
+    {
+      "slug": "pandora",
+      "why": "Apart pool only; not in Nordstrom's brand filter; no outside source."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "category C = necklaces",
+      "url": "https://www.kendrascott.com/jewelry/necklaces/",
+      "check": "Confirm necklaces (Elisa hero line) over all jewelry. Title reads 'for Colorful Stone Pendant Necklaces'."
+    },
+    {
+      "fact": "evidence is thin",
+      "url": "https://www.thezoereport.com/fashion/brands-like-kendra-scott-making-colorful-affordable-jewelry",
+      "check": "Only one readable editorial page (The Zoe Report, 2024). 9 picks rest only on Nordstrom's whole-department jewelry brand filter; confirm that counts as co-stocking for fashion jewelry."
+    },
+    {
+      "fact": "anchor us_stores",
+      "url": "https://www.kendrascott.com/stores",
+      "check": "Store locator returns no list to fetches (Maps API error), so us_stores is null. The FAQ mentions in-store returns; confirm and set true if wanted."
+    },
+    {
+      "fact": "rank order",
+      "url": "https://www.kendrascott.com/jewelry/necklaces/?sort=price-high-to-low&offset=0",
+      "check": "Price-closeness ranking is pulled by Kendra Scott's $5,695 lab-diamond top end, so fine-jewelry ranges (Nadri, Jennifer Zeuner, Missoma) rank high and Alex and Ani falls to 16th, past the cap. Consider swapping Alex and Ani for Adornmonde."
+    },
+    {
+      "fact": "conflicting policy pages",
+      "url": "https://taijewelry.com/policies/refund-policy",
+      "check": "TAI returns 10 days (policy) vs 30 (FAQ); Stella & Dot 30 vs 21 vs 15; Jennifer Zeuner free shipping $100 vs $250 (stored null). Copy uses TAI 10 and Stella 30."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": {
+    "source": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+    "date": "2026-10-28",
+    "per_eur": {
+      "USD": 1.1133,
+      "CAD": 1.5638
+    }
+  },
+  "notes": [
+    "15 picks (cap) from 18 verified candidates. Ranked by independent sources (Chan Luu and Ettika have 2: The Zoe Report + Nordstrom), then price-range closeness to Kendra Scott's $50–$5,695 (sum of |ln| distance of min and max).",
+    "All picks are price_relation 'similar' (each overlaps $50–$5,695).",
+    "Ahrefs: 'kendra scott alternatives' returned no positions. AJ Luxe's '14 Best Kendra Scott Alternatives' (AI-overview and #4 for 'stores like kendra scott') returns 404 to both WebFetch and the bot UA. Glamour refused WebFetch. GMA and SheShe Show mention Kendra Scott but recommend nothing as an alternative to it."
+  ],
+  "people_also_ask": [
+    "What is comparable to Kendra Scott?",
+    "What jewelry is Gen Z wearing?",
+    "Is Kendra Scott considered high end?",
+    "What is Kendra Scott a dupe for?",
+    "Where can I buy Kendra Scott dupes?",
+    "Which is better quality, Pandora or Kendra Scott?",
+    "Is there Kendra Scott Dupes?",
+    "What is the trendiest jewelry right now?",
+    "Is Kendra Scott still trendy?"
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "Your Elisa pendant goes with everything, and now the gold is starting to wear thin. That's the trade with Kendra Scott's fashion pieces, which are plated over brass. If you want the same colorful stones at a lower price, or with silver or solid gold underneath, these 15 brands make them. The ones named alongside Kendra Scott most often come first.",
+    "bodies": {
+      "chan-luu": "Chan Luu is the pick if you like Kendra Scott's colored stones but want natural gemstones instead. The Camille Necklace Turquoise ($275) pairs turquoise with a bright citrine accent, and the Diana Necklace Multi ($390) mixes iolite, garnet, peridot and quartz.\n\nIt's a Los Angeles label founded in 1996, and it builds its pieces on traditional handwork. The Diana Necklace White Pearl ($350) is 18k gold plated sterling silver, so there's silver under the gold rather than brass. That's where the money goes. Nothing starts under $175, which makes it a real step up from the $70 Elisa.\n\nUS orders over $200 ship free by FedEx 2-Day. Returns close 15 days after shipping, half Kendra Scott's window. If you want gemstone beads for less, Anna Beck starts at $65.",
+      "ettika": "Ettika is the closest match on everyday prices. Most of its necklaces start under $100, and the Desert Bloom Marquise Cord Necklace in Turquoise ($60) costs less than an Elisa.\n\nIt's designed in Los Angeles, and like Kendra Scott it's plated jewelry, with 18k gold, rhodium or silver over zinc, steel or brass. Every piece is nickel free and lead free, which helps if nickel bothers your skin. Start with the cord necklaces. The Marquise Crystal Cord Necklace is $40, and pearl chokers top out the range at $250.\n\nThe catch is the return window. You get 14 days, and free US shipping only kicks in at $110, above Kendra Scott's $85. If you'd rather have a month to decide, BaubleBar gives you 30 days at similar prices.",
+      "nadri": "Nadri covers almost exactly Kendra Scott's price range, from the Large Cross CZ Pendant Necklace ($55) to an 18-karat gold chain at $5,699. Its specialty is cubic zirconia set to pass for diamond.\n\nStart with the CZ Cross Pendant Necklace ($65), its best seller, or the Chloe Pear Drop Y Necklace ($68). Nadri owns its factory and works in plated brass, plated sterling silver and 14-karat gold with real diamonds, so one shop covers everyday pieces and fine jewelry.\n\nExpect clear sparkle more than turquoise or opal, though. US shipping is free from $75, and refunds close at 14 days, or 30 for store credit. For colored stones on gold plating, Melinda Maria is the better fit.",
+      "jennifer-zeuner": "Jennifer Zeuner is where to go for small pendants made to wear in layers. The Inga Necklace ($185) hangs a half-inch letter charm on a delicate chain, in 18k gold plated silver or plain sterling silver.\n\nJennifer started designing in 2005, and the look is simple with a spiritual twist. It costs more than Kendra Scott day to day. Very little starts under $100, and the Hollis Necklace, a heart pendant in gold-plated brass, is $154. So pick the silver versions if plating wearing off brass is what sent you looking.\n\nReturns run 14 days for a full refund, and sale or personalized pieces are final. If you want an initial pendant for less, TAI's Opal Glow Monogram Necklace is $55.",
+      "missoma": "Missoma is the way to trade up. It's a London demi-fine brand working in recycled 18k gold vermeil, and its US store prices in dollars with import duties already paid. The Lucy Williams Malachite Choker ($140) is the one to start with if you like Kendra Scott's green stones.\n\nVermeil here means gold over silver, the same build as Kendra Scott's own vermeil line, rather than plated brass. Prices start at $85 for a gold-plated rope chain and climb into solid gold, up to a diamond tennis necklace at $9,989. The December Birthstone Pendant Necklace ($179) sits in between.\n\nShipping is free over $150, and you get 90 days to return, the longest here. Each US return costs $7.95, though. For gold over silver with more turquoise, Anna Beck is the one to look at.",
+      "anna-beck": "Anna Beck is our pick for turquoise. Its necklaces are handmade in Bali in 18k gold plated over solid sterling silver, so there's real silver under the gold instead of brass.\n\nBecky Hosmer started the brand on a trip to Bali in 2003, and its signature is a gold pendant with Balinese dotting. Start with the Turquoise Beaded Necklace ($195), which hangs that pendant from turquoise beads and can be engraved on the back. The Namaste Necklace ($385) pairs a turquoise pendant with pink tourmaline or apatite beads.\n\nFree US shipping needs $250, the highest threshold here, and returns are 30 days, like Kendra Scott's. For turquoise at Kendra Scott prices, Ettika's turquoise cord necklace is $60.",
+      "sterling-forever": "Sterling Forever is worth a look for CZ pendants on a budget, and it gives you the most time to change your mind after Missoma. The Jamie CZ Evil Eye Pendant Necklace is $40, and the Calder Aquamarine CZ & Herringbone Pendant Necklace is $136.\n\nIt started in 2005 with a 15-year-old selling his mother's old jewelry, and it still aims at accessible prices. Plenty of the range starts under $100, and nothing passes $434. Every purchase comes with a lifetime guarantee. For a tennis necklace, the Helene Bezel Carribean Blue Opal Tennis Necklace is $290.\n\nReturns run 60 days, double Kendra Scott's. Free shipping needs $200, though, and below that it's $5.95. If it's blue opal you want, Melinda Maria has pendants from $115.",
+      "baublebar": "BaubleBar has the deepest range under $100 on this list. Most of its necklaces start there, and the Chase Semi-Precious Pendant Necklace ($48) costs less than a Mini Elisa ($55).\n\nIt's a New York brand built on trend-forward jewelry. Look for the semi-precious beads, like the Mini Jane Semi-Precious Beaded Necklace in Lapis ($68), and the personalized pieces, like the 14K Gold Birthstone Charm Necklace ($80). There's no BaubleBar store to walk into. But Nordstrom stocks both brands, so you can compare them side by side.\n\nUS shipping is free from $75, and returns run 30 days from the shipping date. If you want the same prices with more turquoise, Ettika is the better match.",
+      "tai": "TAI makes small pendants with a bit of color, and most of the range starts under $100. The Opal Glow Monogram Necklace ($55) and the Hamsa Necklace with CZ and Opal Accents ($65) are the ones to start with.\n\nCrescent moons and hamsas show up across the pendants, like the Nightmood Crescent Pendant Necklace ($70). If you're building a layered look, chains start low, with the Paperclip Charm Chain Necklace at $25. At the other end, a 4mm CZ tennis necklace tops out the range at $525.\n\nUS shipping is free over $100. The return window is short, though, at 10 days from delivery, so decide fast. If you need longer, Sterling Forever gives you 60 days on similar CZ pieces.",
+      "brinker-eliza": "Brinker & Eliza is for the more-is-more side of Kendra Scott, where one pendant is never enough. It's a mother and daughter team that makes every piece by hand, to order, mostly in 24k antique gold plated brass.\n\nThe Best Is Yet To Come Necklace ($98) is the entry point, a heart medallion on a gold-plated chain. Go bigger with the Mermaid Parade Necklace ($398), a chunky chain hung with semi-precious and gold-plated charms. Most pieces sit well above Kendra Scott's everyday prices, with the top at $448.\n\nBecause it's made to order, allow up to 10 business days before anything ships. Returns close at 15 days, and personalized pieces are final. For charm necklaces closer to $30, BaubleBar's start at $28.",
+      "lele-sadoughi": "Lele Sadoughi does statement necklaces, like collars and bolos that make a single Elisa look quiet. The Malachite Baroque Collar Necklace ($125) and the Turquoise Ruffle Heart Bolo Necklace ($150) carry the green and blue stones you'd find at Kendra Scott, just bigger.\n\nThe shop also sells headbands, hair clips and bags, so the necklace edit is small. It runs from the Baroque Pearl Collar Necklace ($95) to $385. Pearls run through it too, from the Three Strand Pearl Necklace ($225) to the Corfu Pearl Necklace ($295).\n\nUS orders ship free over $75. Full-price pieces get 14 days for a refund or 21 for store credit, and sale is final. If you'd like a month to decide, Melinda Maria gives you 30 days.",
+      "yam": "Yam's chokers are handmade to order by designer Morgan Thomas, who runs the brand out of Queens, New York. The Gold Sun Choker ($60) costs less than an Elisa, and the Posy Chain Choker is $145.\n\nThomas started the line as an ode to her late mother, who introduced her to jewelry making as a child. Most of the necklaces are chokers, so measure your neck before you buy. Pearls show up too, as in the Bonar Pearl Choker ($180).\n\nPlan ahead. Production takes about eight days before anything ships, and returns are for exchange or store credit only, within 10 days of delivery. If you want the option of a refund, Ettika and BaubleBar both offer one.",
+      "melinda-maria": "Melinda Maria keeps every necklace between $75 and $250, roughly the band most of Kendra Scott's sit in. The She's a Boss Pendant Necklace in Blue Opal ($115) is the one to start with, and Blue Opal is a whole collection here.\n\nThe pieces use heavy gold plating made to look like 14k gold, with stones set and polished by hand and a protective coating for hypoallergenic wear. Every piece also carries Melinda's Lifetime Guarantee, which counts for more on plated jewelry than on solid gold.\n\nFree US shipping starts at $75, and returns run 30 days, just like Kendra Scott. The catch is the ceiling. If you want real gold or diamonds later, Missoma and Nadri go much further.",
+      "stella-dot": "Stella & Dot sells gemstone necklaces for Elisa money, and the Kate Gemstone Necklace in Blue costs exactly $70. The Ava Paperclip Necklace comes in turquoise, rose quartz or mother of pearl for $55.\n\nMost of its necklaces sit under $100, and the cheapest is the Power Stone Pendant Adjustable Necklace at $19.99. Brand Ambassadors sell it too, but the online store sells to anyone. Tennis necklaces sit at the top, with the Naomie Tennis Necklace at $225.\n\nFree shipping in the continental US starts at $100, and you get 30 days to return. The range is the smallest of the lower-priced picks, so if you don't see your stone, BaubleBar has far more to choose from.",
+      "adornmonde": "Adornmonde is the solid-gold pick. Every necklace is 14k gold, from the Atticus micro bow necklace ($342) to the Luca heart diamond necklace ($606), so there's no plating to wear away.\n\nIt's an earring brand first, built around jewelry you can wear around the clock, and the necklace range is short. The Knoxx round diamond necklace ($382) uses a single round lab-grown diamond. It's all nickel free and lead free, so it suits sensitive skin.\n\nUS shipping is free on every order, and international orders over $320 ship free too. Returns close at 14 days, and anything bought in a sale is final. If you want gold over silver for less, Missoma's vermeil Malachite Choker is $140."
+    },
+    "best_for": {
+      "chan-luu": "natural gemstone necklaces with silver under the gold",
+      "ettika": "turquoise and crystal at Kendra Scott prices",
+      "nadri": "diamond-look sparkle from $55 up to real gold",
+      "jennifer-zeuner": "letter and heart pendants made for layering",
+      "missoma": "demi-fine vermeil with US duties already paid",
+      "anna-beck": "turquoise and jade on gold-plated sterling silver",
+      "sterling-forever": "CZ pendants with 60 days to change your mind",
+      "baublebar": "spending less than a Mini Elisa on a stone pendant",
+      "tai": "monogram and opal pendants under $100",
+      "brinker-eliza": "piled-on charm necklaces made by hand to order",
+      "lele-sadoughi": "a malachite or turquoise statement collar",
+      "yam": "handmade chokers made to order in Queens",
+      "melinda-maria": "blue opal pendants with a lifetime guarantee",
+      "stella-dot": "gemstone pendants for the price of an Elisa",
+      "adornmonde": "solid gold necklaces with nothing to wear off"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with your budget. Under $100, BaubleBar and TAI have the most to choose from, and Ettika is the closest to an Elisa on price. Between $100 and $250, Melinda Maria keeps everything in that band, and Lele Sadoughi does the bigger statement collars. If plated brass is the problem, change what's underneath. Anna Beck and Chan Luu put gold over sterling silver, Missoma uses vermeil, and Adornmonde is solid gold. Nadri and Missoma are the two that go all the way up to real diamonds. And if returns matter most, Missoma gives you 90 days and Sterling Forever 60, while TAI and Yam give you 10."
+    },
+    "faqs": [
+      {
+        "q": "Is Kendra Scott real gold?",
+        "a": "Mostly not. Its fashion jewelry is 14k gold or rhodium plated over brass. The vermeil line is 18k gold over sterling silver, and a smaller fine line is 14k gold, some of it with diamonds.",
+        "source_query": "is kendra scott real gold"
+      },
+      {
+        "q": "How much is a Kendra Scott necklace?",
+        "a": "Most cost between $50 and $250. The Elisa Gold Pendant Necklace is $70 and the Mini Elisa is $55, while 14k gold pieces with lab-grown diamonds reach $5,695.",
+        "source_query": "how much is a kendra scott necklace"
+      },
+      {
+        "q": "Does Kendra Scott tarnish?",
+        "a": "The plating can fade with wear, because the fashion pieces are gold or rhodium plated over brass. If that's your worry, look at gold over sterling silver, like Anna Beck, or solid gold, like Adornmonde.",
+        "source_query": "does kendra scott tarnish"
+      },
+      {
+        "q": "Where can I buy Kendra Scott jewelry?",
+        "a": "At kendrascott.com, which ships free over $85, at Kendra Scott stores, and at authorized retailers including Nordstrom, Dillard's, Macy's and Anthropologie. Buy from a retailer and its return policy applies instead of Kendra Scott's 30 days.",
+        "source_query": "where can i buy kendra scott jewelry"
+      }
+    ]
+  }
+}

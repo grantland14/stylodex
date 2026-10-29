@@ -1,0 +1,1200 @@
+{
+ "subject": "Akira",
+ "slug": "akira",
+ "url_prefix": "stores",
+ "category": {
+  "slug": "dresses",
+  "name": "Dresses",
+  "why": "C is a product type. Akira sells mostly its own label (vendor AKIRA on 12,993 of the first 14,999 products in its feed, plus its Azalea Wang and AKIRA GOLD lines), so kind brand. Ahrefs top pages put its thigh-high-boots collection first by traffic, but the editorial lists that name alternatives frame Akira by its dresses ('13 Stores Like Akira To Buy Best Dresses & Cute Crop Tops'; viraltalky: 'really breathtaking sexy dresses'), its own meta description leads with 'sexy dresses', and every candidate is a clothing store. Prices compare each store's regular-price dresses; For Love & Lemons, Dolls Kill, Fashion Nova, Revolve and Nordstrom render without a price via sells_categories (grids that render no prices, or too few full-price items to stand for a range)."
+ },
+ "anchor_status": {
+  "status": "verified",
+  "how": "shopakira.com is a live Shopify store (dresses feed 5,430 products, 733 full-price in-stock dresses) and its About page says it has over 40 stores in over 18 states. Not defunct."
+ },
+ "serp": [
+  {
+   "keyword": "stores like akira",
+   "position": 1,
+   "url": "https://iamandco.com/blogs/articles/stores-like-nasty-gal",
+   "kept": false,
+   "why_dropped": "read 2026-10-29: a 'stores like Nasty Gal' list (I AM & CO, a retailer blog) that names Akira as #4 alternative to Nasty Gal; it recommends no store as an alternative to Akira"
+  },
+  {
+   "keyword": "stores like akira",
+   "position": 1,
+   "url": "https://www.facebook.com/groups/513132967895056/posts/852054324002917/",
+   "kept": false,
+   "why_dropped": "read 2026-10-29: post asks for stores besides Fashion Nova, SHEIN and Amazon; no comments rendered and Akira not named"
+  },
+  {
+   "keyword": "stores like akira",
+   "position": 2,
+   "url": "https://www.reddit.com/r/style/comments/1nzkloj/where_are_the_ladies_in_their_early_30s_getting/",
+   "kept": false,
+   "why_dropped": "reddit: refuses WebFetch, not read, no workaround (plus 2 reddit sitelinks)"
+  },
+  {
+   "keyword": "stores like akira",
+   "position": 4,
+   "url": "https://www.lemon8-app.com/experience/where-to-buy-clothes-online-not-shin?region=us",
+   "kept": false,
+   "why_dropped": "read 2026-10-29: Shein alternatives page; never mentions Akira"
+  },
+  {
+   "keyword": "stores like akira",
+   "position": 5,
+   "url": "https://www.facebook.com/groups/441427038218626/posts/645293734498621/",
+   "kept": false,
+   "why_dropped": "Facebook group post about cheaper fashion items; social thread, not an alternatives list"
+  },
+  {
+   "keyword": "stores like akira",
+   "position": 6,
+   "url": "https://www.yelp.com/search?find_desc=Teen+Clothing+Stores&find_loc=King+of+Prussia%2C+PA+19406",
+   "kept": false,
+   "why_dropped": "local directory search page"
+  },
+  {
+   "keyword": "stores like akira",
+   "position": 7,
+   "url": "https://www.quora.com/Which-clothing-store-for-men-has-the-best-deals",
+   "kept": false,
+   "why_dropped": "off topic (men's deals)"
+  },
+  {
+   "keyword": "stores like akira",
+   "position": 8,
+   "url": "https://www.resetera.com/threads/anime-is-cool-now-guys-are-you-wearing-anime-fits.1067169/page-3",
+   "kept": false,
+   "why_dropped": "off topic (Akira the film)"
+  },
+  {
+   "keyword": "stores like akira",
+   "position": 9,
+   "url": "https://www.facebook.com/april.campbell.3726/videos/time-will-revealfashiononabudget-akira-cititrends-shein-fashion-nova-outfits-fas/1707994907147582/",
+   "kept": false,
+   "why_dropped": "social video"
+  },
+  {
+   "keyword": "stores like akira",
+   "position": 10,
+   "url": "https://forums.thefashionspot.com/threads/shopping-in-sydney.31273/page-2",
+   "kept": false,
+   "why_dropped": "off topic (Sydney shopping thread)"
+  },
+  {
+   "keyword": "brands like akira",
+   "position": 1,
+   "url": "https://www.similarweb.com/website/shopakira.com/competitors/",
+   "kept": false,
+   "why_dropped": "automated traffic-competitor list, no editorial content"
+  },
+  {
+   "keyword": "brands like akira",
+   "position": 2,
+   "url": "https://www.reddit.com/r/findfashion/comments/1vgdxd1/can_someone_put_me_on_brands_that_make_similar/",
+   "kept": false,
+   "why_dropped": "reddit: refuses WebFetch, not read (plus streetwear/cyberpunk sitelinks about Akira the film)"
+  },
+  {
+   "keyword": "brands like akira",
+   "position": 4,
+   "url": "https://www.lemon8-app.com/@kayyfevver/7592029305689997837?region=us",
+   "kept": false,
+   "why_dropped": "read 2026-10-29: lists ShopAkira, EDGE, Windsor, Missguided and PrettyLittleThing together as affordable stores that aren't Shein or Temu; none presented as an alternative to Akira, so not counted"
+  },
+  {
+   "keyword": "brands like akira",
+   "position": 5,
+   "url": "https://www.tiktok.com/discover/sites-like-akira",
+   "kept": false,
+   "why_dropped": "TikTok discover page rendered no text to WebFetch"
+  },
+  {
+   "keyword": "brands like akira",
+   "position": 6,
+   "url": "https://www.quora.com/What-are-the-best-streetwear-hoodies-for-men-in-New-York",
+   "kept": false,
+   "why_dropped": "off topic"
+  },
+  {
+   "keyword": "brands like akira",
+   "position": 7,
+   "url": "https://www.youtube.com/watch?v=AawKOmLiPKM",
+   "kept": false,
+   "why_dropped": "try-on haul video, not a list of alternatives"
+  },
+  {
+   "keyword": "brands like akira",
+   "position": 9,
+   "url": "https://www.lemon8-app.com/@tonisha_page/7461445575377781294?region=us",
+   "kept": false,
+   "why_dropped": "outfit ideas from Akira, not alternatives"
+  },
+  {
+   "keyword": "brands like akira",
+   "position": 10,
+   "url": "https://www.wildbloomfamilies.com/akira-style-savings-review-guide",
+   "kept": false,
+   "why_dropped": "read 2026-10-29: Akira savings guide; recommends no other store"
+  },
+  {
+   "keyword": "akira alternatives",
+   "position": null,
+   "url": null,
+   "kept": false,
+   "why_dropped": "Ahrefs serp-overview returned no positions"
+  },
+  {
+   "keyword": "similar to akira",
+   "position": null,
+   "url": null,
+   "kept": false,
+   "why_dropped": "Ahrefs serp-overview returned no positions"
+  },
+  {
+   "keyword": "WebSearch: stores like Akira clothing",
+   "position": null,
+   "url": "https://etechshout.com/stores-like-akira/",
+   "kept": true,
+   "note": "read 2026-10-29: '13 Stores Like Akira To Buy Best Dresses & Cute Crop Tops', eTechShout Editor, January 10, 2024; 13 stores"
+  },
+  {
+   "keyword": "WebSearch: akira stores like / sites like",
+   "position": null,
+   "url": "https://plaintips.com/stores-like-akira",
+   "kept": true,
+   "note": "read 2026-10-29: 'Stores Like Akira', author ip_bilal, no date; 10 stores"
+  },
+  {
+   "keyword": "WebSearch: akira stores like / sites like",
+   "position": null,
+   "url": "https://viraltalky.com/stores-like-akira/",
+   "kept": true,
+   "note": "read 2026-10-29: '25 Top Stores like Akira', ViralTalky, May 22, 2023; numbered 1–19 and 23–25, plus FAQ naming similar shops"
+  },
+  {
+   "keyword": "WebSearch: stores like Akira clothing",
+   "position": null,
+   "url": "https://www.msdressly.com/blogs/reviews/stores-like-akira-near-me",
+   "kept": true,
+   "note": "read 2026-10-29: MsDressly (a retailer's own blog, promotes itself), updated October 2026; names Revolve, ASOS, Nordstrom and Macy's. MsDressly itself not a candidate (self-promotion)"
+  },
+  {
+   "keyword": "WebSearch",
+   "position": null,
+   "url": "https://www.msdressly.com/blogs/reviews/stores-like-akira",
+   "kept": false,
+   "why_dropped": "read 2026-10-29: names only MsDressly's own products"
+  },
+  {
+   "keyword": "WebSearch",
+   "position": null,
+   "url": "https://zlaaatan.com/stores-like-akira/",
+   "kept": false,
+   "why_dropped": "parked domain (redirects to /lander)"
+  },
+  {
+   "keyword": "WebSearch",
+   "position": null,
+   "url": "https://www.storeslike.com/akira",
+   "kept": false,
+   "why_dropped": "templated store-list directory, no editorial content"
+  },
+  {
+   "keyword": "WebSearch",
+   "position": null,
+   "url": "https://www.instya.com/site/shopakira.com",
+   "kept": false,
+   "why_dropped": "automated similar-sites directory"
+  },
+  {
+   "keyword": "WebSearch",
+   "position": null,
+   "url": "https://storessimilarto.com/stores-similar-to-akira",
+   "kept": false,
+   "why_dropped": "automated similar-stores directory"
+  },
+  {
+   "keyword": "WebSearch",
+   "position": null,
+   "url": "https://similargenerator.com/stores-like/akira",
+   "kept": false,
+   "why_dropped": "automated directory"
+  },
+  {
+   "keyword": "WebSearch",
+   "position": null,
+   "url": "https://www.sitelike.org/similar/shopakira.com/",
+   "kept": false,
+   "why_dropped": "automated similar-sites directory"
+  },
+  {
+   "keyword": "WebSearch",
+   "position": null,
+   "url": "https://similarsites.com/site/shopakira.com",
+   "kept": false,
+   "why_dropped": "automated similar-sites directory"
+  },
+  {
+   "keyword": "WebSearch",
+   "position": null,
+   "url": "https://99storeslike.com/alternative-stores-and-shops-like/shopakira",
+   "kept": false,
+   "why_dropped": "scraped directory"
+  },
+  {
+   "keyword": "WebSearch",
+   "position": null,
+   "url": "https://www.alibaba.com/blog/stores-like-akira-the-rise-of-edgy-fashion-brands-on-alibabacom.html",
+   "kept": false,
+   "why_dropped": "marketplace blog"
+  },
+  {
+   "keyword": "WebSearch",
+   "position": null,
+   "url": "https://www.discobrands.co/brands/akira",
+   "kept": false,
+   "why_dropped": "disco directory has no Akira page (404; site search found none)"
+  }
+ ],
+ "co_stocking": [
+  {
+   "retailer": null,
+   "url": null,
+   "used": false,
+   "why": "enrich.md §1.4b doesn't apply: Akira sells its own labels through its own stores and site; its About page mentions wholesale, but no multi-brand stockist was found."
+  }
+ ],
+ "candidates": [
+  {
+   "name": "Venus",
+   "slug": "venus",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://etechshout.com/stores-like-akira/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-akira"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/"
+    }
+   ]
+  },
+  {
+   "name": "AMI Clubwear",
+   "slug": "amiclubwear",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://etechshout.com/stores-like-akira/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-akira"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/"
+    }
+   ]
+  },
+  {
+   "name": "Lulus",
+   "slug": "lulus",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://etechshout.com/stores-like-akira/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-akira"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/"
+    }
+   ]
+  },
+  {
+   "name": "Tobi",
+   "slug": "tobi",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://etechshout.com/stores-like-akira/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-akira"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/"
+    }
+   ]
+  },
+  {
+   "name": "Pink Ice",
+   "slug": "pink-ice",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://etechshout.com/stores-like-akira/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-akira"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/"
+    }
+   ]
+  },
+  {
+   "name": "Dolls Kill",
+   "slug": "dollskill",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://etechshout.com/stores-like-akira/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-akira"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/"
+    }
+   ]
+  },
+  {
+   "name": "SABO (Sabo Skirt)",
+   "slug": "sabo",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://etechshout.com/stores-like-akira/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-akira"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/"
+    }
+   ]
+  },
+  {
+   "name": "GoJane",
+   "slug": "gojane",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://etechshout.com/stores-like-akira/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-akira"
+    }
+   ]
+  },
+  {
+   "name": "Wet Seal",
+   "slug": "wet-seal",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://etechshout.com/stores-like-akira/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-akira"
+    }
+   ]
+  },
+  {
+   "name": "For Love & Lemons",
+   "slug": "for-love-lemons",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://etechshout.com/stores-like-akira/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/"
+    }
+   ]
+  },
+  {
+   "name": "Windsor",
+   "slug": "windsor",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://etechshout.com/stores-like-akira/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/"
+    }
+   ]
+  },
+  {
+   "name": "Nasty Gal",
+   "slug": "nasty-gal",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://etechshout.com/stores-like-akira/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/"
+    }
+   ]
+  },
+  {
+   "name": "ASOS",
+   "slug": "asos",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://www.msdressly.com/blogs/reviews/stores-like-akira-near-me"
+    }
+   ]
+  },
+  {
+   "name": "Topshop",
+   "slug": "topshop",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://etechshout.com/stores-like-akira/"
+    }
+   ]
+  },
+  {
+   "name": "Princess Polly",
+   "slug": "princess-polly",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/"
+    }
+   ]
+  },
+  {
+   "name": "Pink Lily",
+   "slug": "pink-lily",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/"
+    }
+   ]
+  },
+  {
+   "name": "Tiger Mist",
+   "slug": "tiger-mist",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/"
+    }
+   ]
+  },
+  {
+   "name": "Forever 21",
+   "slug": "forever-21",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/"
+    }
+   ]
+  },
+  {
+   "name": "Fashion Nova",
+   "slug": "fashion-nova",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/"
+    }
+   ]
+  },
+  {
+   "name": "SHEIN",
+   "slug": "shein",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/"
+    }
+   ]
+  },
+  {
+   "name": "Madewell",
+   "slug": "madewell",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/"
+    }
+   ]
+  },
+  {
+   "name": "Revolve",
+   "slug": "revolve",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.msdressly.com/blogs/reviews/stores-like-akira-near-me"
+    }
+   ]
+  },
+  {
+   "name": "Nordstrom",
+   "slug": "nordstrom",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.msdressly.com/blogs/reviews/stores-like-akira-near-me"
+    }
+   ]
+  },
+  {
+   "name": "Macy's",
+   "slug": "macys",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.msdressly.com/blogs/reviews/stores-like-akira-near-me"
+    }
+   ]
+  },
+  {
+   "name": "Ruche",
+   "slug": "ruche",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-akira"
+    }
+   ]
+  },
+  {
+   "name": "Hello Molly",
+   "slug": "hello-molly",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/"
+    }
+   ]
+  },
+  {
+   "name": "Rosegal",
+   "slug": "rosegal",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/"
+    }
+   ]
+  },
+  {
+   "name": "CHOiES",
+   "slug": "choies",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/"
+    }
+   ]
+  },
+  {
+   "name": "STELLY",
+   "slug": "stelly",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/"
+    }
+   ]
+  },
+  {
+   "name": "ZAFUL",
+   "slug": "zaful",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/"
+    }
+   ]
+  }
+ ],
+ "candidate_pool": {
+  "source": "public.brand_relationships (Apart Style, read-only)",
+  "result": "No Akira row in public.brands (name/slug ilike '%akira%' finds only KiraKira, a different brand), so the pool is empty."
+ },
+ "picks": [
+  {
+   "slug": "venus",
+   "rank": 1,
+   "independent_sources": 3,
+   "single_source": false,
+   "price": {
+    "currency": "USD",
+    "min": 39,
+    "max": 168,
+    "min_usd": 39,
+    "max_usd": 168,
+    "fx_date": null,
+    "item_count": 162
+   },
+   "price_relation": "similar",
+   "reason": "Full-price dresses at $39–$168 (159 of 162 under $100) against Akira's $29.90–$299.90, in sizes 2–24 with some petite styles, shipped across the US with 30-day returns.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://etechshout.com/stores-like-akira/",
+     "note": "#1: 'Offering a variety of clothing and swimwear styles'"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-akira",
+     "note": "#1: 'Venus can be a great alternative to Akira to buy dresses, tops…'"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/",
+     "note": "#2: 'a promising American-based online and catalog fashion brand'"
+    }
+   ]
+  },
+  {
+   "slug": "sabo",
+   "rank": 2,
+   "independent_sources": 3,
+   "single_source": false,
+   "price": {
+    "currency": "USD",
+    "min": 67.86,
+    "max": 416.52,
+    "min_usd": 67.86,
+    "max_usd": 416.52,
+    "fx_date": null,
+    "item_count": 294
+   },
+   "price_relation": "similar",
+   "reason": "Brisbane label with in-house dresses at $67.86–$416.52 on a US-dollar store, duties included, free US shipping over $175, sizes 2XS–3XL (US 0–14).",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://etechshout.com/stores-like-akira/",
+     "note": "#9 (as Sabo Skirt): 'A mid-size women's clothing brand'"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-akira",
+     "note": "#10 (as Sabo Skirt), section heading"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/",
+     "note": "#24 (as Sabo Skirt): 'yet another Australian-based fashion brand'"
+    }
+   ]
+  },
+  {
+   "slug": "pink-ice",
+   "rank": 3,
+   "independent_sources": 3,
+   "single_source": false,
+   "price": {
+    "currency": "USD",
+    "min": 17.99,
+    "max": 89.99,
+    "min_usd": 17.99,
+    "max_usd": 89.99,
+    "fx_date": null,
+    "item_count": 68
+   },
+   "price_relation": "similar",
+   "reason": "LA online boutique with every full-price dress at $17.99–$89.99, below most of Akira's range, free US shipping over $50 and 30-day refunds to the original payment.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://etechshout.com/stores-like-akira/",
+     "note": "#5: 'there will only be a limited amount of each colorway made'"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-akira",
+     "note": "#5: 'a very good and cost-effective alternative to Akira Clothing'"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/",
+     "note": "#9: 'modern women's fashion and juniors clothes'"
+    }
+   ]
+  },
+  {
+   "slug": "amiclubwear",
+   "rank": 4,
+   "independent_sources": 3,
+   "single_source": false,
+   "price": {
+    "currency": "USD",
+    "min": 11.5,
+    "max": 125.99,
+    "min_usd": 11.5,
+    "max_usd": 125.99,
+    "fx_date": null,
+    "item_count": 2106
+   },
+   "price_relation": "similar",
+   "reason": "LA clubwear shop with full-price dresses at $11.50–$125.99, mostly the Flying Tomato label, in S–3X like Akira's top size, with 30-day returns for store credit.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://etechshout.com/stores-like-akira/",
+     "note": "#2: 'dresses, intimates, swimsuits, and costumes'"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-akira",
+     "note": "#2: 'the hottest and cheapest, United states based fashion retailer'"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/",
+     "note": "#5: 'shop for club dresses and outfits'"
+    }
+   ]
+  },
+  {
+   "slug": "dollskill",
+   "rank": 5,
+   "independent_sources": 3,
+   "single_source": false,
+   "price": null,
+   "price_relation": null,
+   "reason": "Stocks bold going-out dresses from house labels such as Widow and Club Exx, in women's XXS–3X, with free US shipping over $50 and returns as gift cards only.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://etechshout.com/stores-like-akira/",
+     "note": "#7: 'Los Angeles-based retailer Dolls Kill'"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-akira",
+     "note": "#8: 'extremely popular in teenage girls'"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/",
+     "note": "#16: 'a globally famous online fashion label'"
+    }
+   ]
+  },
+  {
+   "slug": "windsor",
+   "rank": 6,
+   "independent_sources": 2,
+   "single_source": false,
+   "price": {
+    "currency": "USD",
+    "min": 14,
+    "max": 199.9,
+    "min_usd": 14,
+    "max_usd": 199.9,
+    "fx_date": null,
+    "item_count": 1367
+   },
+   "price_relation": "similar",
+   "reason": "Special-occasion dress chain with 350+ stores and full-price dresses at $14–$199.90, the same $75 free-shipping line and 30-day returns as Akira, sizes XXS–XL.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://etechshout.com/stores-like-akira/",
+     "note": "#11: 'dresses, shoes, jackets, and accessories of Windsor appeal to fashion lovers'"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/",
+     "note": "#23: 'a designer of women's clothing and fashion accessories'"
+    }
+   ]
+  },
+  {
+   "slug": "for-love-lemons",
+   "rank": 7,
+   "independent_sources": 2,
+   "single_source": false,
+   "price": null,
+   "price_relation": null,
+   "reason": "Designer dress label founded 2010 with minis like the Abby Mini Dress at $239, near Akira's top price, sizes XXS–XL, free US shipping over $250, 21-day returns.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://etechshout.com/stores-like-akira/",
+     "note": "#10: 'romantic designs that feature lace accents and embroidery details'"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/",
+     "note": "#15: 'its selection of vibrant muse'"
+    }
+   ]
+  },
+  {
+   "slug": "princess-polly",
+   "rank": 8,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 49,
+    "max": 119,
+    "min_usd": 49,
+    "max_usd": 119,
+    "fx_date": null,
+    "item_count": 840
+   },
+   "price_relation": "similar",
+   "reason": "Full-price dresses at $49–$119 (98% under $100), US 0–12 plus Curve to US 20, free US shipping over $50, and US stores in Arizona, California, Massachusetts and Ohio.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/",
+     "note": "FAQ: 'Princess Polly, Pink Lily, Pink Ice, Tobi, CHOiES, and Sabo Skirt are a few of the promising shops like Akira.'"
+    }
+   ]
+  },
+  {
+   "slug": "pink-lily",
+   "rank": 9,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 38,
+    "max": 78,
+    "min_usd": 38,
+    "max_usd": 78,
+    "fx_date": null,
+    "item_count": 91
+   },
+   "price_relation": "similar",
+   "reason": "Kentucky boutique with every full-price dress at $38–$78, mostly minis and florals in XS–XL, free US shipping over $79 and free store-credit returns within 30 days.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/",
+     "note": "#12: 'premium collections from its fashion boutique'; also named in the FAQ"
+    }
+   ]
+  },
+  {
+   "slug": "tiger-mist",
+   "rank": 10,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 69,
+    "max": 139,
+    "min_usd": 69,
+    "max_usd": 139,
+    "fx_date": null,
+    "item_count": 117
+   },
+   "price_relation": "similar",
+   "reason": "US-dollar store selling mostly mini dresses at $69–$139 full price, XXS–XL, free US shipping over $75 like Akira, and 30-day returns.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/",
+     "note": "#25: 'Yet again, we have Tiger Mist on this list'; also named in the FAQ"
+    }
+   ]
+  },
+  {
+   "slug": "forever-21",
+   "rank": 11,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 24.99,
+    "max": 24.99,
+    "min_usd": 24.99,
+    "max_usd": 24.99,
+    "fx_date": null,
+    "item_count": 6
+   },
+   "price_relation": "cheaper",
+   "reason": "LA-born store with full-price dresses at $24.99, below Akira's $29.90 floor, in XS–XXL plus a plus section, free US shipping over $50 and 30-day refunds.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/",
+     "note": "#7: 'a multinational fast fashion brand'"
+    }
+   ]
+  },
+  {
+   "slug": "fashion-nova",
+   "rank": 12,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": null,
+   "price_relation": null,
+   "reason": "LA going-out label with a dedicated Plus+Curve section, dresses shown against a Comp. Value, and free shipping over $75, the same line as Akira's.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-akira/",
+     "note": "#4: 'another favorite American fast fashion title'"
+    }
+   ]
+  },
+  {
+   "slug": "revolve",
+   "rank": 13,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": null,
+   "price_relation": null,
+   "reason": "Multi-brand designer store with free shipping and returns, 30 days for a refund, XXS–4X, and dresses from LIONESS at $69 to gowns past Akira's $299.90 top.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.msdressly.com/blogs/reviews/stores-like-akira-near-me",
+     "note": "'Revolve for boutique night-out energy'"
+    }
+   ]
+  },
+  {
+   "slug": "nordstrom",
+   "rank": 14,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": null,
+   "price_relation": null,
+   "reason": "Department store with 350+ locations, free US shipping, no time limit on returns, and dresses such as the Petal & Pup Laurel A-Line Dress at $89 in sizes 00–28W.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.msdressly.com/blogs/reviews/stores-like-akira-near-me",
+     "note": "'Nordstrom or Macy's for department-store variety'"
+    }
+   ]
+  }
+ ],
+ "rejected": [
+  {
+   "slug": "lulus",
+   "why": "3 sources (etechshout, plaintips, viraltalky), but www.lulus.com returns HTTP 403 (curl today, and curl and WebFetch in the charlotte-russe run); unverified, no workaround."
+  },
+  {
+   "slug": "tobi",
+   "why": "3 sources, but tobi.com says 'Tobi is no longer operating'; status defunct."
+  },
+  {
+   "slug": "gojane",
+   "why": "2 sources; www.gojane.com TLS connection failed today (and a 503/error page in the charlotte-russe run); unverified."
+  },
+  {
+   "slug": "wet-seal",
+   "why": "2 sources; wetseal.com serves a 404 'This store is unavailable' page and no other official site was found; unverified, human check."
+  },
+  {
+   "slug": "nasty-gal",
+   "why": "2 sources; nastygal.com is a 'Coming Soon' placeholder with no products (status off_category in the shared file)."
+  },
+  {
+   "slug": "asos",
+   "why": "2 sources (viraltalky, msdressly); www.asos.com/us refused a scripted request (HTTP/2 stream reset) and WebFetch got 503; unverified."
+  },
+  {
+   "slug": "topshop",
+   "why": "1 source; us.topshop.com redirects to ASOS (no own US store), status unverified in the shared file."
+  },
+  {
+   "slug": "shein",
+   "why": "1 source; us.shein.com sends dresses to a bot check (shared file, earlier run); unverified marketplace."
+  },
+  {
+   "slug": "macys",
+   "why": "1 source (msdressly, as 'Nordstrom or Macy's'); macys.com returns 403, and the parent's official sources confirm women's apparel but not dresses, so it can't pass on a dresses page."
+  },
+  {
+   "slug": "madewell",
+   "why": "1 source (viraltalky #17). Verified with dresses at $118–$168, but its stored dress range rests on 14 items and it's a denim and everyday store, not a going-out one; left out rather than stretch the list."
+  },
+  {
+   "slug": "ruche",
+   "why": "1 source (plaintips #6, for accessories); shopruche.com redirects to a parked /lander page. Not checked further."
+  },
+  {
+   "slug": "hello-molly",
+   "why": "1 source (viraltalky #19); hellomolly.com returned HTTP 429 and us.hellomolly.com a proxy 502. Not verified, no workaround."
+  },
+  {
+   "slug": "rosegal",
+   "why": "1 source (viraltalky #10); not verified this run (beyond the 25-candidate cap, most-sourced first)."
+  },
+  {
+   "slug": "choies",
+   "why": "1 source (viraltalky #11 and FAQ); not verified this run (beyond the cap)."
+  },
+  {
+   "slug": "stelly",
+   "why": "1 source (viraltalky #14); not verified this run (beyond the cap)."
+  },
+  {
+   "slug": "zaful",
+   "why": "1 source (viraltalky #18); not verified this run (beyond the cap)."
+  },
+  {
+   "slug": "edge / missguided / prettylittlething",
+   "why": "Named beside Akira on a Lemon8 post of affordable stores, but not as alternatives to Akira, so no source counts."
+  }
+ ],
+ "human_check": [
+  {
+   "fact": "Akira ships_to GB",
+   "url": "https://shopakira.com/policies/shipping-policy",
+   "check": "The shipping policy's country list names Canada and Australia but not the United Kingdom, while meta.json ships_to_countries includes GB. GB left out; confirm."
+  },
+  {
+   "fact": "Lulus, ASOS, GoJane",
+   "url": "https://www.lulus.com/",
+   "check": "Each refuses or fails a plain fetch. Lulus has 3 sources and ASOS 2; either would likely be a pick if a human records dress prices, US shipping and returns."
+  },
+  {
+   "fact": "Wet Seal",
+   "url": "https://wetseal.com/",
+   "check": "Store unavailable page; find the current official site before calling it defunct."
+  },
+  {
+   "fact": "Venus free-shipping minimum",
+   "url": "https://www.venus.com/pages/shipping",
+   "check": "Banner says free over $99 (limited time), table says free ground over $150. Left empty."
+  },
+  {
+   "fact": "Small price samples",
+   "url": "https://forever21.com/collections/women-dresses/products.json?limit=250",
+   "check": "Forever 21's $24.99 dress price rests on 6 full-price dresses (most are marked down). Dolls Kill, For Love & Lemons, Fashion Nova, Revolve and Nordstrom render without a price."
+  }
+ ],
+ "checked_at": "2026-10-29",
+ "fx": null,
+ "notes": [
+  "Evidence: Ahrefs SERPs for 'stores like akira' and 'brands like akira' (US) held no readable editorial list naming alternatives to Akira (Reddit, Facebook, Lemon8, TikTok, YouTube, a Nasty Gal list, Similarweb); 'akira alternatives' and 'similar to akira' returned no positions. WebSearch found four readable lists that do: etechshout (Jan 2024, 13 stores), plaintips (undated, 10), viraltalky (May 2023, numbered list plus FAQ) and MsDressly (a retailer blog, Oct 2026, 4 named stores). Automated directories, a parked domain and a marketplace blog dropped. No disco directory page for Akira.",
+  "Ranking: independent sources (3, then 2, then 1), then closeness of each store's full-price dress range to Akira's $29.90–$299.90 (sum of |log min ratio| + |log max ratio|); stores without a price row last in their group. 14 picks.",
+  "Prices: Shopify collection feeds read with the StylodexBot UA. Regular price = in stock, no variant with compare_at_price above price, no markdown/clearance tag ('final sale' alone is not a markdown). Titles must name a dress or gown. All USD (SABO and Tiger Mist from their US stores), so no fx. AMI Clubwear, Windsor, Princess Polly and Forever 21 dress prices reused from today's earlier runs unchanged.",
+  "Ahrefs: 4 serp-overview calls, 1 site-explorer-top-pages call (category choice), 1 keywords-explorer-matching-terms call (FAQ questions, terms=questions). FAQ uses 'is akira legit' and 'what does akira mean'; 'is akira fast fashion', 'is akira a good brand', 'is akira clothes a bad brand' and 'is akira black owned' skipped (verdicts or no stored fact), as was the PAA 'Is Akira clothing high quality?'."
+ ],
+ "author": "Ash",
+ "copy": {
+  "intro": "The Akira dress you wanted for Saturday just sold out in your size, or the nearest Akira is a state away. It started as one Chicago boutique in 2002 and now has more than 40 stores, with dresses from $29.90 to $299.90 and most under $100. Every store here sells dresses to US shoppers. The ones named most often next to Akira come first, then the closest on price.",
+  "bodies": {
+   "venus": "Venus is the closest match on price. Its full-price dresses run from $39 to $168, and nearly all of them cost under $100. Start with the Velvet Cowl Neck Midi Dress ($79), a little under what a typical Akira dress costs.\n\nIt began in 1982 as a swimwear label in Jacksonville, Florida, and swim still leads its homepage. The dress edits are named for vacations and wedding guests, and that's where it's strongest. Sizes run 2 to 24 rather than letters, and some dresses come in petite.\n\nReturns cost you, though. You get 30 days, but a $9 fee comes off your refund unless you paid for its Checkout+ add-on, and it only ships within the US. For louder going-out pieces, Dolls Kill is the better call.",
+   "sabo": "SABO is the step up from Akira on price, with full-price dresses from $67.86 to $416.52. The Dimmi Dress ($74.88) is one of the cheapest ways in. Most of its dresses cost more than a typical Akira one, and the top of the range is Zaco, a second label sold on the same site.\n\nIt's a Brisbane label founded in 2011, and its own pieces are designed in-house. The US store prices in dollars with duties already included, so there's nothing extra to pay when the box arrives. Shipping is free over $175. Sizes run 2XS to 3XL, which works out to US 0 to 14.\n\nReturns are the trade-off. You have 14 days from delivery to post them back, and the $20 return label comes out of your refund. If you want longer to decide, Windsor gives you 30 days.",
+   "pink-ice": "Pink Ice is the cheaper way into the same look, and no full-price dress on the site goes past $89.99. The Rachel Ribbed Mini Dress ($17.99) costs less than Akira's cheapest dress, and the Palm Beach Maxi Dress ($39.99) is a fair middle pick.\n\nIt's a Los Angeles online boutique that stocks other labels. Look at the label names before you buy: Love Stitch and Flying Tomato make more than half of its dresses. AMI Clubwear sells Flying Tomato too, so compare the two if a style turns up at both. US shipping is free over $50, and refunds go back to how you paid within 30 days of shipping.\n\nDresses stop at Large, though, a long way short of Akira's 3X. Venus and AMI Clubwear go much further.",
+   "amiclubwear": "AMI Clubwear covers Akira's club-night side, and its dress prices start lower than anywhere else here. Full-price dresses run from $11.50 to $125.99, and the Tempting Me Print Mini Dress ($64) is an easy place to start.\n\nIt's a Los Angeles shop, and most of its dresses come from Flying Tomato, the same label Pink Ice carries. Sizes go S to 3X, which matches Akira's top size. Free standard shipping to the lower 48 states needs the code FREESHIP at checkout.\n\nThe catch is getting money back. Returns within 30 days of receipt are for store credit only, and you pay the postage. If a refund to your card matters, Pink Ice or Venus are the safer bets.",
+   "dollskill": "Dolls Kill suits the bolder end of Akira, with its own house labels like Widow and Club Exx sold next to brands it stocks. The Club Exx Sensory Escapade Bodycon Dress ($59) is a good example of the going-out side.\n\nMost of its dresses carry a markdown, so start on the sale rail rather than the new arrivals. Women's sizes run XXS to 3X, the same top size as Akira, and US shipping is free over $50. It's been selling since 2011 out of San Francisco.\n\nEvery return comes back as a gift card, never a refund. AMI Clubwear only gives store credit too, so if you want your money back, Tiger Mist or Pink Ice are better.",
+   "windsor": "Windsor is the pick if you'd rather try a dress on in a store, with more than 350 of them. Full-price dresses run from $14 to $199.90, and the Naya Lace-Up High Slit Sequin Column Dress ($79.90) shows the formal side it's known for.\n\nLike Akira, it ships free over $75 and gives you 30 days to return. It's been focused on special-occasion dresses since 1957, so it's the stop for homecoming and prom.\n\nIt falls short on size. Dresses stop at XL, a US 15, where Akira goes to 3X. For a bigger size with a store to visit, Princess Polly runs to a US 20 in its Curve line.",
+   "for-love-lemons": "For Love & Lemons is the splurge, for when the dress is the whole point of the night. The Abby Mini Dress ($239) costs about what Akira's priciest minis do, and its maxi dresses go higher. The range runs from minis to full gowns, like the Morrigan Gown.\n\nLaura Hall and Gillian Rose Kern founded it in 2010, and it sells itself on flattering cuts and detail work. Sizes run XXS to XL, and US shipping is free over $250, which one dress here nearly covers.\n\nBut returns are tight. You get 21 days from when the order ships, and a flat $10 fee for US returns. If you want designer dresses with free returns, Revolve is the better fit.",
+   "princess-polly": "Princess Polly is the closest thing to Akira's under-$100 dresses. Full-price dresses run from $49 to $119, and nearly all of them come in under $100. The Celena Mini Dress ($58) is a good one to start with.\n\nIt started online on Australia's Gold Coast in 2010 and now has US stores in Arizona, California, Massachusetts and Ohio, so some of you can try before you buy. Core sizes run US 0 to 12, and the Curve line goes from 14 to 20. Shipping is free over $50, a lower bar than Akira's $75, and you get 30 days to return for a refund, exchange or gift card.\n\nCurve stops at a US 20, though, and Akira's 3X is a 26 to 28. Venus goes to a 24.",
+   "pink-lily": "Pink Lily is the one for everyday dresses at Akira's lower prices. Every full-price dress sits between $38 and $78. The Garden Gypsy Multi Floral Mini Dress ($58) lands right in the middle.\n\nIt's a Bowling Green, Kentucky boutique started by Tori Gerbig, and it mixes its own designs with labels like Maize and Tailoria. Florals and minis make up a lot of it, with a few sweater and tee dresses. Shipping is free over $79. Returns within 30 days of shipping are free if you take store credit, and a refund costs $7.95.\n\nSizes stop at XL, and the mix is more daytime than Akira's. For a night-out dress at a similar price, Princess Polly or Pink Ice fit better.",
+   "tiger-mist": "Tiger Mist is a good match for the minis Akira does well, and most of its dresses are exactly that. Full-price dresses run from $69 to $139. The Midori Metallic Bandage Mini Dress ($105) is the party pick, and the Cleo Mini Dress ($79) is the simpler one. The Sasha Crochet Mini Dress ($139) is where the range tops out.\n\nIts US store prices in dollars and ships free over $75, the same line as Akira. Returns run 30 days. Take store credit and the label is free, or take a refund and $10 comes off.\n\nSizes go XXS to XL, so skip it if you need a plus size. AMI Clubwear has club minis up to 3X.",
+   "forever-21": "Forever 21 is the cheapest pick, with full-price dresses at $24.99, under Akira's $29.90 floor. The Satin Lace Cutout Mini Dress ($24.99) is one of them, and the one price across the rail makes budgeting easy.\n\nIt's LA-born and closed its US stores in 2025, so it's online only now. Sizes run XS to XXL, with a plus section on top. US shipping is free over $50, and you can return within 30 days for a refund, minus a $9.99 return fee.\n\nThe full-price rail is small, though. Most of its dresses are marked down, and clearance and final-sale items can't go back. Check whether a dress is final sale before you buy.",
+   "fashion-nova": "Fashion Nova is the one to try if you shop Akira's extended sizes, because it has a whole Plus+Curve section. That suits anyone who usually lands in Akira's 1X to 3X. It started in 2006 as one Los Angeles store and is based in Beverly Hills now.\n\nMost dresses show a sale price beside a higher Comp. Value. So judge each one by the price you'd pay, not the discount, and compare it with Akira's typical $89.90.\n\nShipping is free over $75, the same as Akira, and it also ships to Canada, the UK and Australia. If you'd rather see the clothes first, Windsor and Princess Polly have stores.",
+   "revolve": "Revolve is the designer end of this list, for when you want a brand name on the dress. Its dress page runs from the LIONESS Original Sin Dress ($69) to gowns like the MAJORELLE Tracy Gown ($328), past Akira's $299.90 top. The LIONESS Stars Align Mini Dress ($79) is another easy entry.\n\nShipping and returns are free. You get 30 days for a refund and 60 for an exchange. Sizes run XXS to 4X, US 00 to 24/26.\n\nIt stocks a lot of labels, so start with LIONESS if you want Akira-style minis at Akira prices. For one designer label you can buy direct, For Love & Lemons is the alternative.",
+   "nordstrom": "Nordstrom is the department-store route, and the easiest on returns. Shipping is free across the US with no minimum, and there's no time limit on returns. The Petal & Pup Laurel A-Line Dress ($89) and the Baltic Børn Veronica Velvet Maxi Dress ($65) sit in Akira's price range. ASTR the Label's Abrianna Lace Trim Satin Midi Dress ($138) is a step up.\n\nIt carries labels like Adrianna Papell and Dress the Population, so it's a good bet for wedding-guest and cocktail dresses. With more than 350 locations across Nordstrom, Nordstrom Local and Nordstrom Rack, you can usually try a dress on before you commit.\n\nFor club minis, though, it's not the obvious first stop. AMI Clubwear or Dolls Kill are closer to that."
+  },
+  "best_for": {
+   "venus": "a going-out dress in sizes up to 24",
+   "sabo": "an in-house designer dress with US duties already paid",
+   "pink-ice": "Akira-style dresses for under $90, refunded to your card",
+   "amiclubwear": "cheap club minis up to a 3X",
+   "dollskill": "bold house-label party dresses if store credit is fine",
+   "windsor": "homecoming or prom dresses you can try on in store",
+   "for-love-lemons": "one special dress worth spending $200-plus on",
+   "princess-polly": "minis under $100 with free shipping from $50",
+   "pink-lily": "casual florals and minis under $80",
+   "tiger-mist": "party minis at Akira prices with the same free-shipping line",
+   "forever-21": "a full-price dress for under $25",
+   "fashion-nova": "extended-size going-out dresses with free shipping from $75",
+   "revolve": "a designer dress with free returns and time to decide",
+   "nordstrom": "a wedding-guest dress with no deadline to return it"
+  },
+  "closing": {
+   "heading": "How to choose",
+   "body": "Start with your budget. Under $90, Pink Ice and Pink Lily keep everything below that line, and Forever 21 goes under $25. Around Akira's typical $90, Venus and Princess Polly are the closest match. If you're spending more, SABO and For Love & Lemons are the step up, and Revolve has the designer labels.\n\nThen check your size. AMI Clubwear and Dolls Kill both reach Akira's 3X, and Venus goes to a 24. Want to try it on first? Windsor and Nordstrom have the most stores. And if getting your money back matters, skip AMI Clubwear and Dolls Kill, which only give store credit or gift cards."
+  },
+  "faqs": [
+   {
+    "q": "Is Akira legit?",
+    "a": "Yes. It's a Chicago company that opened its first boutique in 2002 and now has more than 40 stores in over 18 states. Online orders can go back within 30 days of the order date.",
+    "source_query": "is akira legit"
+   },
+   {
+    "q": "What does the name Akira mean?",
+    "a": "For the store, it's co-founder Erikka Wang's first name spelled backwards, with a few letters switched around.",
+    "source_query": "what does akira mean"
+   }
+  ]
+ }
+}

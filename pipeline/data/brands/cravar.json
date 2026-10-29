@@ -41,7 +41,7 @@
     "Waxed twill"
   ],
   "certifications": [],
-  "production_model": "Made in Indonesia",
+  "production_model": null,
   "sale_pattern": "Discounted purchases are final sale",
   "sells_categories": [
     "bags"
@@ -54,7 +54,8 @@
   ],
   "notes": [
     "About/FAQ: 'We are based in Jakarta, Indonesia'; first collection on Kickstarter in 2013; full grain, vegetable tanned leather developed with a tannery partner in Jogjakarta; solid brass hardware handmade by a family company in Jogjakarta; YKK zips. 'Shipping cost is included in our prices', import tax and customs fees are not; US shipments are subject to duties since the de minimis exemption ended on August 29, 2025. Returns: 10 days after delivery, unused, by postal service only, return shipping paid by the customer; discounted and personalised items final (https://www.cravar.com/pages/about). Store meta: Jakarta Selatan, USD, ships to 234 countries incl. US, CA, GB, AU (https://www.cravar.com/meta.json).",
-    "free_shipping_min_usd left empty: Cravar includes shipping in its prices rather than setting a threshold, and the profile template would render 0 as Over $0 (https://www.cravar.com/pages/about)."
+    "free_shipping_min_usd left empty: Cravar includes shipping in its prices rather than setting a threshold, and the profile template would render 0 as Over $0 (https://www.cravar.com/pages/about).",
+    "production_model left empty: Cravar says it is based in Jakarta and sources leather and brass in Jogjakarta, but doesn't state where the bags are sewn (https://www.cravar.com/pages/about)."
   ],
   "checked_at": "2026-10-29"
 }

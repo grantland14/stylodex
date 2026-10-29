@@ -4,7 +4,7 @@
   "website_url": "https://www.loft.com",
   "status": "verified",
   "kind": "brand",
-  "known_for": "Everyday Fashion for Work and Play",
+  "known_for": "Easy, Stylish Everyday Fashion",
   "hq_country": "US",
   "founded_year": 1998,
   "parent_company": "Knitwell Group",
@@ -42,7 +42,8 @@
     "2026-10-29 (loft page run): all 1,029 listings of the dresses category read with plain requests (StylodexBot UA, sz=96, 11 pages). Banners 'All dresses $44!' and '50% off everything + free shipping!'. Every LOFT-label dress shows a struck regular price except two Sneak Preview styles: Petite LOFT Versa Crepe Drape Strappy Mini Dress $120 and Petite LOFT Versa Crepe Drape Sleeveless Blazer Dress $150. The other unmarked tiles are third-party labels (Astr The Label, Olivia By Livro, En Saison, Lilla P, Rebecca Taylor, French Connection, English Factory, Greylin), Haven Well Within and Lou & Grey sleepwear. Two Sneak Preview petite styles don't represent the range, so no dresses price is stored; re-read after the promotion.",
     "2026-10-29 (loft page run): customer service 'Shipping and Processing Fees': orders of $99 or less ship at a flat $8.95; standard shipping free on orders of $99 after discounts. 'LOFT.COM can ship orders to all locations within the United States and Puerto Rico, as well as internationally' (via ESW); the international return-fee table lists Canada, Mexico, France, Germany, United Kingdom, Australia and others at $25–$35, so ships_to corrected to US, CA, GB, AU. International orders can't be returned to US or Canadian stores.",
     "2026-10-29 (loft page run): product sitemap (2,152 URLs) by category: tops 222 + petite tops 54, pants 217 + petite pants 59, dresses 169 + petite dresses 39 + tall dresses 3, jeans 100, sweaters 65. Knitwell careers page: 'A destination for optimistic and versatile style since its founding in 1998', 'just over 500 stores', 'mood-boosting prints, playful designs, and feel-good fits'. knitwellgroup.com names eight brands: Ann Taylor, Chico's, Haven Well Within, Lane Bryant, LOFT, Soma, Talbots and White House Black Market.",
-    "2026-10-29 (loft page run): customer service return policy: online purchases may be returned by mail or at any LOFT store (except Swim, Brands We Love and Intimates by Haven Well Within); 'we cannot accept online purchase returns at Ann Taylor, LOFT Outlet or Ann Taylor Factory store locations'; 'MERCHANDISE PURCHASED AT A LOFT STORE may only be returned to a LOFT store'."
+    "2026-10-29 (loft page run): customer service return policy: online purchases may be returned by mail or at any LOFT store (except Swim, Brands We Love and Intimates by Haven Well Within); 'we cannot accept online purchase returns at Ann Taylor, LOFT Outlet or Ann Taylor Factory store locations'; 'MERCHANDISE PURCHASED AT A LOFT STORE may only be returned to a LOFT store'.",
+    "2026-10-29 (loft page run): known_for shortened from 'Everyday Fashion for Work and Play' so the page title has one 'for' (lint rule for anchors); both come from the Knitwell tagline 'Easy, stylish, everyday fashion for work and play'."
   ],
   "free_shipping_min_usd": 99
 }

@@ -1,0 +1,955 @@
+{
+  "subject": "Spencer's",
+  "slug": "spencers",
+  "url_prefix": "stores",
+  "category": {
+    "slug": "graphic-tees",
+    "name": "Graphic Tees",
+    "why": "Spencer's is a multi-brand store (kind retailer) whose own positioning leads with graphic tees: its store locator's text opens on 'personality-packed graphic t shirts' and its main navigation has a Graphic Tees department (music and band, horror, funny, movie, anime, plus-size). Its other departments (body jewelry, gag gifts, adult products, decor) aren't product types every alternative sells, and the kept lists mix pop-culture chains, novelty shops and alternative clothing stores, which all sell graphic tees. So C is graphic-tees, a product type, and the like-for-like item is a short-sleeve graphic T-shirt at regular (non-markdown) price, from each store's own tee listing."
+  },
+  "serp": [
+    {
+      "keyword": "stores like spencer's",
+      "position": 1,
+      "url": "https://camcatbooks.com/discover-the-ultimate-alternatives-to-spencers-exploring-stores-similar-to-spencers",
+      "kept": true,
+      "note": "AI-overview sitelink (Ahrefs US snapshot 2026-09-29). Read 2026-10-29: 'Discover the Ultimate Alternatives to Spencer's', byline Elena Petrova, date shown as today's date (likely generated); 16 stores in prose. The same text is copied on hijacked domains (mojo.iimu.ac.in, new.kiwiirc.com), which are not counted. Weak source: it names Patagonia, Opening Ceremony and ThinkGeek. Counted once."
+    },
+    {
+      "keyword": "stores like spencer's",
+      "position": 1,
+      "url": "https://www.storeslike.com/spencers",
+      "kept": true,
+      "note": "AI-overview sitelink. Read 2026-10-29: '6 Stores Like Spencer's', no author or date, affiliate 'Shop at' buttons, a one-line description per store. Templated, but a curated 6-store list with descriptions rather than a scraped 100-store directory; counted and flagged in human_check (the zumiez run dropped storeslike.com/similar/Zumiez, a different scraped format)."
+    },
+    {
+      "keyword": "stores like spencer's",
+      "position": 2,
+      "url": "https://www.quora.com/Which-stores-are-the-best-for-teenage-girls-clothing?no_redirect=1",
+      "kept": false,
+      "why_dropped": "about teen girls' clothing stores in general, not Spencer's alternatives"
+    },
+    {
+      "keyword": "stores like spencer's",
+      "position": 4,
+      "url": "https://boards.straightdope.com/t/stores-you-go-to-often-but-never-buy-anything-from/605086?page=2",
+      "kept": false,
+      "why_dropped": "forum thread about stores people browse without buying, not a list of alternatives"
+    },
+    {
+      "keyword": "stores like spencer's",
+      "position": 5,
+      "url": "https://podcasts.apple.com/us/podcast/mall-talk-with-paige-weldon-and-emily-faye/id1430015764",
+      "kept": false,
+      "why_dropped": "podcast page, not a list of alternatives"
+    },
+    {
+      "keyword": "stores like spencer's",
+      "position": 6,
+      "url": "https://www.reddit.com/r/scene/comments/1gnhzpn/where_do_you_shop/",
+      "kept": false,
+      "why_dropped": "reddit: WebFetch refuses reddit.com; not read, no workaround (also r/nostalgia mall-stores thread)"
+    },
+    {
+      "keyword": "stores like spencer's",
+      "position": 6,
+      "url": "https://www.facebook.com/groups/1624257187672486/posts/7489897434441736/?tl=id_ID",
+      "kept": false,
+      "why_dropped": "Facebook group post (nostalgia), login wall; not read"
+    },
+    {
+      "keyword": "stores like spencer's",
+      "position": 7,
+      "url": "https://steamcommunity.com/discussions/forum/12/528398719805622530/?l=czech&ctp=2",
+      "kept": false,
+      "why_dropped": "forum thread about Hot Topic, not Spencer's alternatives"
+    },
+    {
+      "keyword": "stores like spencer's",
+      "position": 8,
+      "url": "https://www.yelp.com/search?find_desc=Spencer%27s&find_loc=Bangor%2C+ME+04401",
+      "kept": false,
+      "why_dropped": "local directory search results"
+    },
+    {
+      "keyword": "stores like spencer's",
+      "position": 9,
+      "url": "https://www.spencerstv.com/blog/spencers-appliance-stores",
+      "kept": false,
+      "why_dropped": "a different Spencer's (appliance store)"
+    },
+    {
+      "keyword": "stores like spencer's",
+      "position": 10,
+      "url": "https://www.honestbrandreviews.com/comparison/similar-stores-to-tillys/",
+      "kept": false,
+      "why_dropped": "about Tillys alternatives, not Spencer's"
+    },
+    {
+      "keyword": "stores like spencers",
+      "position": 1,
+      "url": "https://www.have-clothes-will-travel.com/stores-like-hot-topic-for-alternative-fashion/",
+      "kept": false,
+      "why_dropped": "AI-overview sitelink about Hot Topic alternatives, not Spencer's"
+    },
+    {
+      "keyword": "stores like spencers",
+      "position": 1,
+      "url": "https://247wallst.com/special-report/2024/01/25/19-stores-like-hot-topic-best-alternatives-and-affordable-options/",
+      "kept": false,
+      "why_dropped": "AI-overview sitelink about Hot Topic alternatives, not Spencer's"
+    },
+    {
+      "keyword": "stores like spencers",
+      "position": 1,
+      "url": "https://www.reddit.com/r/Georgia/comments/1trbf72/what_are_good_stores_to_find_hippiewhimisgoth/",
+      "kept": false,
+      "why_dropped": "reddit; not read (and about hippie/whimsigoth clothes)"
+    },
+    {
+      "keyword": "stores like spencers",
+      "position": 2,
+      "url": "https://www.cbinsights.com/company/spencer-gifts/alternatives-competitors",
+      "kept": false,
+      "why_dropped": "automated competitor-data page (Bling Glamour, Etsy, Chop Shop, Trashy.com, XinaBox…), no editorial recommendation"
+    },
+    {
+      "keyword": "stores like spencers",
+      "position": 4,
+      "url": "https://www.pinterest.com/pin/spencers--5418462026277551/",
+      "kept": false,
+      "why_dropped": "Pinterest pin"
+    },
+    {
+      "keyword": "stores like spencers",
+      "position": 5,
+      "url": "https://zeldauniverse.net/forums/index.php?thread/48596-favorite-stores/&postID=976939",
+      "kept": false,
+      "why_dropped": "forum 'favorite stores' thread, not alternatives to Spencer's"
+    },
+    {
+      "keyword": "stores like spencers",
+      "position": 6,
+      "url": "https://www.quora.com/Which-stores-offer-good-quality-stylish-clothes-at-affordable-prices",
+      "kept": false,
+      "why_dropped": "general affordable-clothes question, not Spencer's"
+    },
+    {
+      "keyword": "stores like spencers",
+      "position": 7,
+      "url": "https://www.fanverse.org/threads/favorite-places-to-go-shopping.580285/post-30596027",
+      "kept": false,
+      "why_dropped": "forum 'favorite places to shop' thread"
+    },
+    {
+      "keyword": "stores like spencers",
+      "position": 8,
+      "url": "https://www.instagram.com/p/DRdFjL4gT30/",
+      "kept": false,
+      "why_dropped": "Instagram post"
+    },
+    {
+      "keyword": "stores like spencers",
+      "position": 9,
+      "url": "https://www.pokebeach.com/forums/threads/the-clothes-thread.84108/",
+      "kept": false,
+      "why_dropped": "forum clothes thread"
+    },
+    {
+      "keyword": "stores like spencers",
+      "position": 10,
+      "url": "https://everskies.com/club/emo-scene-fairies/forums/introsss/hello-scene-kids-first-post-54818936?reply_page=0",
+      "kept": false,
+      "why_dropped": "forum intro post"
+    },
+    {
+      "keyword": "spencers alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview (US) returned no positions: no SERP data"
+    },
+    {
+      "keyword": "similar to spencers",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview (US) returned no positions: no SERP data"
+    },
+    {
+      "keyword": "brands like spencers",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "not called: the 4-call Ahrefs budget went to 'stores like spencer's' and 'stores like spencers' (two spellings, both with data) plus the two keywords above; this is a stores page"
+    },
+    {
+      "keyword": "web_search",
+      "position": null,
+      "url": "https://greenlitcontent.com/resources/top-stores-like-spencers",
+      "kept": true,
+      "source": "web_search",
+      "note": "Not in the Ahrefs top 10; found by WebSearch ('stores like Spencer's gifts', 2026-10-29). '10 Awesome Stores Like Spencer's for Alternative Fashion, Edgy Gifts & Pop Culture Finds', first-person, no author or date shown (page images dated April 2026). Flagged in human_check."
+    },
+    {
+      "keyword": "web_search",
+      "position": null,
+      "url": "https://www.honestbrandreviews.com/comparison/top-stores-like-spencers/",
+      "kept": true,
+      "source": "web_search",
+      "note": "Not in the Ahrefs top 10; found by WebSearch ('storesimi stores like spencer's', 2026-10-29) as ?p=144262, canonical confirmed with curl. 'Top 6 Stores Like Spencer's: Unique Alternatives for Your Shopping Needs', Staff HBR, June 16, 2023. Flagged in human_check."
+    },
+    {
+      "keyword": "web_search",
+      "position": null,
+      "url": "https://expertbeacon.com/top-stores-like-spencers/",
+      "kept": false,
+      "source": "web_search",
+      "why_dropped": "HTTP 403 to WebFetch; not read"
+    },
+    {
+      "keyword": "web_search",
+      "position": null,
+      "url": "https://action-monitor.mocc.cuhk.edu.hk/news/stores-like-spencers",
+      "kept": false,
+      "source": "web_search",
+      "why_dropped": "spam copy on a hijacked university domain (also careers.prodigaltech.com, winning.travisperkins.co.uk, blog.wordpress.arktimes.com, app.stateofjs.com, gcoos-mdv.gcoos.org copies); not counted"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": null,
+      "url": null,
+      "used": false,
+      "why": "enrich.md §1.4b doesn't apply: Spencer's is itself a multi-brand retailer, not a brand stocked by one."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Hot Topic",
+      "slug": "hot-topic",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://camcatbooks.com/discover-the-ultimate-alternatives-to-spencers-exploring-stores-similar-to-spencers",
+          "note": "#1: \"A pioneer in the realm of pop culture retail\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://greenlitcontent.com/resources/top-stores-like-spencers",
+          "note": "#1: \"Hot Topic is a one-stop-shop for all things alternative.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.storeslike.com/spencers",
+          "note": "#4: \"Music and pop culture inspired fashion & accessories.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/top-stores-like-spencers/",
+          "note": "own section: \"a popular retail chain that caters to alternative and pop culture enthusiasts\""
+        }
+      ]
+    },
+    {
+      "name": "BoxLunch",
+      "slug": "boxlunch",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://greenlitcontent.com/resources/top-stores-like-spencers",
+          "note": "#2: \"Box Lunch is my go-to for the BEST pop culture and fandom merchandise.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/top-stores-like-spencers/",
+          "note": "own section: \"combines the love for pop culture with a commitment to social responsibility\""
+        }
+      ]
+    },
+    {
+      "name": "Dolls Kill",
+      "slug": "dollskill",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://greenlitcontent.com/resources/top-stores-like-spencers",
+          "note": "#3: \"Dolls Kill is your fashion bestie.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/top-stores-like-spencers/",
+          "note": "Types of Stores: \"Some popular alternative clothing stores include Hot Topic, Dolls Kill, and Killstar.\""
+        }
+      ]
+    },
+    {
+      "name": "Killstar",
+      "slug": "killstar",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://greenlitcontent.com/resources/top-stores-like-spencers",
+          "note": "#9: \"Killstar is ultimate goals for luxury goth fashion.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/top-stores-like-spencers/",
+          "note": "Types of Stores: \"Some popular alternative clothing stores include Hot Topic, Dolls Kill, and Killstar.\""
+        }
+      ]
+    },
+    {
+      "name": "Archie McPhee",
+      "slug": "archie-mcphee",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://greenlitcontent.com/resources/top-stores-like-spencers",
+          "note": "#5: \"For the ultimate in weird, wacky gifts and novelties, Archie McPhee is undefeated.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/top-stores-like-spencers/",
+          "note": "Types of Stores: \"Some popular novelty gift stores include Spencer's (of course!), Archie McPhee, and Perpetual Kid.\""
+        }
+      ]
+    },
+    {
+      "name": "FYE",
+      "slug": "fye",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/top-stores-like-spencers/",
+          "note": "Types of Stores: \"Some popular pop culture stores include BoxLunch, FYE, and ThinkGeek.\""
+        }
+      ]
+    },
+    {
+      "name": "The Chivery",
+      "slug": "the-chivery",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.storeslike.com/spencers",
+          "note": "#2: \"Authentic pop culture apparel, comedic graphic tees, nostalgic t-shirts, cool gadgets, one-of-a-kind gifts and more.\""
+        }
+      ]
+    },
+    {
+      "name": "ModCloth",
+      "slug": "modcloth",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://greenlitcontent.com/resources/top-stores-like-spencers",
+          "note": "#7: \"If you want to incorporate retro vibes into your alt look, Modcloth is the GOAT.\""
+        }
+      ]
+    },
+    {
+      "name": "AKIRA",
+      "slug": "akira",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://camcatbooks.com/discover-the-ultimate-alternatives-to-spencers-exploring-stores-similar-to-spencers",
+          "note": "#5: \"This Japanese-inspired boutique boasts a carefully curated selection of high-quality clothing\" (the description doesn't match AKIRA's own pages; name match only, see human_check)"
+        }
+      ]
+    },
+    {
+      "name": "Perpetual Kid",
+      "slug": "perpetual-kid",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/top-stores-like-spencers/",
+          "note": "Types of Stores: \"Some popular novelty gift stores include Spencer's (of course!), Archie McPhee, and Perpetual Kid.\""
+        }
+      ]
+    },
+    {
+      "name": "Newbury Comics",
+      "slug": "newbury-comics",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://greenlitcontent.com/resources/top-stores-like-spencers",
+          "note": "#4: \"Newbury Comics is a New England icon and a must-visit if you're in the area.\""
+        }
+      ]
+    },
+    {
+      "name": "Life's Little Ironies",
+      "slug": "lifes-little-ironies",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://greenlitcontent.com/resources/top-stores-like-spencers",
+          "note": "#6: \"my favorite little indie shop for snarky graphic tees and home decor\""
+        }
+      ]
+    },
+    {
+      "name": "Crazy Dog T-Shirts",
+      "slug": "crazy-dog-t-shirts",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.storeslike.com/spencers",
+          "note": "#1: \"Specializing in both custom t-shirts and novelty funny tees\""
+        }
+      ]
+    },
+    {
+      "name": "Design By Humans",
+      "slug": "design-by-humans",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.storeslike.com/spencers",
+          "note": "#3: \"Cool graphic tees by a community of creative independent artists from around the globe.\""
+        }
+      ]
+    },
+    {
+      "name": "Blue Banana",
+      "slug": "blue-banana",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.storeslike.com/spencers",
+          "note": "#5: \"Blue Banana is the home of essential alternative & emo clothing.\""
+        }
+      ]
+    },
+    {
+      "name": "Urban Outfitters",
+      "slug": "urban-outfitters",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://camcatbooks.com/discover-the-ultimate-alternatives-to-spencers-exploring-stores-similar-to-spencers",
+          "note": "#9: \"This trendy retailer incorporates international fashion and design elements into its collections\""
+        }
+      ]
+    },
+    {
+      "name": "Funko Shop",
+      "slug": "funko",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://camcatbooks.com/discover-the-ultimate-alternatives-to-spencers-exploring-stores-similar-to-spencers",
+          "note": "#8: \"This pop culture emporium specializes in exclusive Funko POP! figures\""
+        }
+      ]
+    },
+    {
+      "name": "ThinkGeek",
+      "slug": "thinkgeek",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://camcatbooks.com/discover-the-ultimate-alternatives-to-spencers-exploring-stores-similar-to-spencers",
+          "note": "#7: \"A haven for sci-fi and comic book fans\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/top-stores-like-spencers/",
+          "note": "own section: \"an online retailer catering to the geek and gaming community\""
+        }
+      ]
+    },
+    {
+      "name": "Forever 21",
+      "slug": "forever-21",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/top-stores-like-spencers/",
+          "note": "intro only: \"From Forever 21 to Hot Topic, there are plenty of options\""
+        }
+      ]
+    },
+    {
+      "name": "Etsy",
+      "slug": "etsy",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://greenlitcontent.com/resources/top-stores-like-spencers",
+          "note": "#10"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/top-stores-like-spencers/",
+          "note": "Online Options"
+        }
+      ]
+    },
+    {
+      "name": "Amazon",
+      "slug": "amazon",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.storeslike.com/spencers",
+          "note": "#6"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/top-stores-like-spencers/",
+          "note": "Online Options"
+        }
+      ]
+    },
+    {
+      "name": "Redbubble",
+      "slug": "redbubble",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://greenlitcontent.com/resources/top-stores-like-spencers",
+          "note": "#8"
+        }
+      ]
+    },
+    {
+      "name": "ASOS",
+      "slug": "asos",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://camcatbooks.com/discover-the-ultimate-alternatives-to-spencers-exploring-stores-similar-to-spencers",
+          "note": "#10"
+        }
+      ]
+    },
+    {
+      "name": "Other camcatbooks-only names",
+      "slug": null,
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://camcatbooks.com/discover-the-ultimate-alternatives-to-spencers-exploring-stores-similar-to-spencers",
+          "note": "The Black Market, Frank and Oak, UncommonGoods, The Velvet Underground, Opening Ceremony, Opening Ceremony Lab, Love The World, Patagonia, Arcana, The Mysterious Package Company"
+        }
+      ]
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "result": "Spencer's (public.brands id db14f64e-…, slug spencer-s) has 20 pool rows: EMP, Hot Topic, Rave Wonderland, Gothicana by EMP, HADES, King Ice, Young & Reckless, Sullen Clothing, Tokyo Otaku Mode, Vitaly, Menace Jewelry, Urban Outfitters Vintage, Dolls Kill, UNIF, Tattoo Junkie, Disturbia, Tripp NYC, Hellstar, Design By Humans, Thrasher. Only Hot Topic, Dolls Kill and Design By Humans also have outside sources."
+  },
+  "picks": [
+    {
+      "slug": "hot-topic",
+      "rank": 1,
+      "independent_sources": 4,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 12.99,
+        "max": 50.9,
+        "min_usd": 12.99,
+        "max_usd": 50.9,
+        "fx_date": null,
+        "item_count": 221
+      },
+      "price_relation": null,
+      "reason": "Hot Topic is a pop-culture mall chain whose licensed music, anime and wrestling tees run $12.99–$50.90 in XS–5XL with tall sizes, free US shipping over $75 and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://camcatbooks.com/discover-the-ultimate-alternatives-to-spencers-exploring-stores-similar-to-spencers",
+          "note": "#1: \"A pioneer in the realm of pop culture retail\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://greenlitcontent.com/resources/top-stores-like-spencers",
+          "note": "#1: \"Hot Topic is a one-stop-shop for all things alternative.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.storeslike.com/spencers",
+          "note": "#4: \"Music and pop culture inspired fashion & accessories.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/top-stores-like-spencers/",
+          "note": "own section: \"a popular retail chain that caters to alternative and pop culture enthusiasts\""
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "boxlunch",
+      "rank": 2,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 20.9,
+        "max": 69.08,
+        "min_usd": 20.9,
+        "max_usd": 69.08,
+        "fx_date": null,
+        "item_count": 147
+      },
+      "price_relation": null,
+      "reason": "BoxLunch sells fandom tees and gifts, nearly all tees under $40 in XS–5XL plus Big & Tall, and helps provide a Feeding America meal for every $10 spent; free US shipping over $75.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://greenlitcontent.com/resources/top-stores-like-spencers",
+          "note": "#2: \"Box Lunch is my go-to for the BEST pop culture and fandom merchandise.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/top-stores-like-spencers/",
+          "note": "own section: \"combines the love for pop culture with a commitment to social responsibility\""
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "fye",
+      "rank": 3,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 19.99,
+        "max": 29.99,
+        "min_usd": 19.99,
+        "max_usd": 29.99,
+        "fx_date": null,
+        "item_count": 121
+      },
+      "price_relation": null,
+      "reason": "FYE is a US pop-culture and entertainment chain whose licensed graphic tees all sit between $19.99 and $29.99, sold next to Funko Pops, Pokémon cards and music, with 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/top-stores-like-spencers/",
+          "note": "Types of Stores: \"Some popular pop culture stores include BoxLunch, FYE, and ThinkGeek.\""
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "archie-mcphee",
+      "rank": 4,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 19.95,
+        "max": 19.95,
+        "min_usd": 19.95,
+        "max_usd": 19.95,
+        "fx_date": null,
+        "item_count": 5
+      },
+      "price_relation": null,
+      "reason": "Archie McPhee is a Seattle novelty and gag-gift shop (since 1983) with its own $19.95 tees like the Rubber Chicken Museum T-Shirt, free US shipping from $50 and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://greenlitcontent.com/resources/top-stores-like-spencers",
+          "note": "#5: \"For the ultimate in weird, wacky gifts and novelties, Archie McPhee is undefeated.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/top-stores-like-spencers/",
+          "note": "Types of Stores: \"Some popular novelty gift stores include Spencer's (of course!), Archie McPhee, and Perpetual Kid.\""
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "killstar",
+      "rank": 5,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 50,
+        "max": 60,
+        "min_usd": 50,
+        "max_usd": 60,
+        "fx_date": null,
+        "item_count": 9
+      },
+      "price_relation": null,
+      "reason": "Killstar makes occult, gothic graphic tees in 100% cotton jersey at $50–$60, sized XS–4XL, from a US store with free shipping over $175 and 14-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://greenlitcontent.com/resources/top-stores-like-spencers",
+          "note": "#9: \"Killstar is ultimate goals for luxury goth fashion.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.honestbrandreviews.com/comparison/top-stores-like-spencers/",
+          "note": "Types of Stores: \"Some popular alternative clothing stores include Hot Topic, Dolls Kill, and Killstar.\""
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "the-chivery",
+      "rank": 6,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 28,
+        "max": 38,
+        "min_usd": 28,
+        "max_usd": 38,
+        "fx_date": null,
+        "item_count": 1224
+      },
+      "price_relation": null,
+      "reason": "The Chivery, theCHIVE's official store, sells made-to-order funny tees, most at $28, in Small–3XL (some to 5XL), with free contiguous-US shipping over $125 and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.storeslike.com/spencers",
+          "note": "#2: \"Authentic pop culture apparel, comedic graphic tees, nostalgic t-shirts, cool gadgets, one-of-a-kind gifts and more.\""
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "modcloth",
+      "rank": 7,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 25,
+        "max": 37,
+        "min_usd": 25,
+        "max_usd": 37,
+        "fx_date": null,
+        "item_count": 55
+      },
+      "price_relation": null,
+      "reason": "ModCloth is a vintage-style clothing store selling small-label graphic tees (Poe quote, black cats) at $25–$37 in XS–4XL, with 30-day returns and free US shipping over $150.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://greenlitcontent.com/resources/top-stores-like-spencers",
+          "note": "#7: \"If you want to incorporate retro vibes into your alt look, Modcloth is the GOAT.\""
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "akira",
+      "rank": 8,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 29.9,
+        "max": 79.9,
+        "min_usd": 29.9,
+        "max_usd": 79.9,
+        "fx_date": null,
+        "item_count": 45
+      },
+      "price_relation": null,
+      "reason": "AKIRA is a Chicago fashion label with stores in over 18 states whose slogan graphic tees (Your Future Stepmom, Dump Him) run $29.90–$79.90 in S–1X; free US shipping from $75.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://camcatbooks.com/discover-the-ultimate-alternatives-to-spencers-exploring-stores-similar-to-spencers",
+          "note": "#5: \"This Japanese-inspired boutique boasts a carefully curated selection of high-quality clothing\" (the description doesn't match AKIRA's own pages; name match only, see human_check)"
+        }
+      ],
+      "gate_gaps": []
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "dollskill",
+      "why": "verified (brand file) and 2 sources, but no graphic-tees price: the graphic-tees collection feed (1,000 products read, default and created-descending order) has no in-stock tee at regular price (386 sold out, 4 marked down), and the collection page renders no prices to WebFetch. Left out of graphic-tees; its tops price is untouched. Re-check if the feed refreshes."
+    },
+    {
+      "slug": "urban-outfitters",
+      "why": "verified in its brand file but still no US shipping or US-store fact: urbanoutfitters.com/help/shipping-information returned 403 to WebFetch, as on earlier runs. Fails the US-availability rule. 1 source (camcatbooks)."
+    },
+    {
+      "slug": "newbury-comics",
+      "why": "verified live (newburycomics.com Shopify feed, 13,933 products) but it's a record store online: only 6 products of type T-Shirts, all its own logo merch, 1 in stock ($16.99 Toothface Logo Black T-Shirt). No graphic-tee range and no specific reason a Spencer's shopper would choose it online. Not written to a brand file."
+    },
+    {
+      "slug": "blue-banana",
+      "why": "UK store (bluebanana.com redirects /en_US/ to /en_GB/); its delivery page covers UK delivery only and states no US shipping, and no US stores. Fails the US-availability rule. Not written to a brand file."
+    },
+    {
+      "slug": "funko",
+      "why": "funko.com is a Pop! figure store; no tee or apparel category in its navigation. Doesn't sell graphic tees. 1 source (camcatbooks). Not written to a brand file."
+    },
+    {
+      "slug": "thinkgeek",
+      "why": "thinkgeek.com redirects to gamestop.com/collectibles (403 to curl): no standalone store. Not a pick."
+    },
+    {
+      "slug": "perpetual-kid",
+      "why": "unverified: perpetualkid.com failed TLS to curl and returned 503 to WebFetch, one try each. 1 source (HBR)."
+    },
+    {
+      "slug": "lifes-little-ironies",
+      "why": "unverified: lifeslittleironies.com is outside this session's allowed network (proxy 502, WebFetch ENOTFOUND); not tried further. 1 source (Greenlit)."
+    },
+    {
+      "slug": "design-by-humans",
+      "why": "unverified: designbyhumans.com is outside this session's allowed network (proxy 502, WebFetch ENOTFOUND). 1 source (storeslike) and in the Apart Style pool."
+    },
+    {
+      "slug": "crazy-dog-t-shirts",
+      "why": "unverified: crazydogtshirts.com returned 403 to curl and to WebFetch. 1 source (storeslike)."
+    },
+    {
+      "slug": "forever-21",
+      "why": "only named in HBR's intro sentence, not recommended as an alternative; the zumiez run also found its tees mostly marked down. Not counted."
+    },
+    {
+      "slug": "etsy / amazon / redbubble / asos",
+      "why": "marketplaces; enrich.md §1 drops marketplaces."
+    },
+    {
+      "slug": "patagonia / frank-and-oak / opening-ceremony / uncommongoods / black-market / velvet-underground / arcana / love-the-world / mysterious-package-company",
+      "why": "named only by camcatbooks, a weak list whose text appears on hijacked domains. Outdoor, menswear-basics, designer and gift-catalogue stores with no specific reason a Spencer's graphic-tee shopper would choose them; 'The Black Market', 'The Velvet Underground' and 'Arcana' can't be matched to an identifiable store. Not padded in."
+    },
+    {
+      "slug": "pool-only",
+      "why": "Apart Style pool brands with no outside source for Spencer's: EMP, Rave Wonderland, Gothicana by EMP, HADES, King Ice, Young & Reckless, Sullen Clothing, Tokyo Otaku Mode, Vitaly, Menace Jewelry, Urban Outfitters Vintage, UNIF, Tattoo Junkie, Disturbia, Tripp NYC, Hellstar, Thrasher (Dolls Kill and Design By Humans have sources, see above)."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "Spencer's own store data (blocks indexing)",
+      "url": "https://www.spencersonline.com/",
+      "check": "www.spencersonline.com resets curl (HTTP/2 INTERNAL_ERROR) and returns 503 to WebFetch; only stores.spencersonline.com loads. In a browser record: regular-price graphic tee min/max (Graphic Tees department, exclude Clearance and $10 T Shirts), the tee size run, ships_to (US/CA?), free-shipping threshold (the SHIP20 banner is a code), and the returns window. Then add price_relation labels to the picks (all null now)."
+    },
+    {
+      "fact": "Two sources found by WebSearch, outside the Ahrefs top 10",
+      "url": "https://greenlitcontent.com/resources/top-stores-like-spencers",
+      "check": "Greenlit Content (https://greenlitcontent.com/resources/top-stores-like-spencers) and Honest Brand Reviews (https://www.honestbrandreviews.com/comparison/top-stores-like-spencers/) are counted as evidence. Confirm both are acceptable editorial lists. Without them, BoxLunch, Killstar and Archie McPhee drop to 1 source and ModCloth to 0."
+    },
+    {
+      "fact": "storeslike.com counted",
+      "url": "https://www.storeslike.com/spencers",
+      "check": "Templated affiliate list with one-line descriptions (the zumiez run dropped a different storeslike.com page as scraped). It is The Chivery's only source; decide whether it counts."
+    },
+    {
+      "fact": "camcatbooks is weak and is AKIRA's only source",
+      "url": "https://camcatbooks.com/discover-the-ultimate-alternatives-to-spencers-exploring-stores-similar-to-spencers",
+      "check": "Its text is copied on hijacked domains, its date is today's date, and its 'Akira' blurb ('Japanese-inspired boutique') doesn't match AKIRA's own description (Chicago women's fashion label). Decide whether AKIRA stays; the page keeps 7 picks without it."
+    },
+    {
+      "fact": "Hot Topic ownership",
+      "url": "https://en.wikipedia.org/wiki/Spencer_Gifts",
+      "check": "Spencer Spirit Holdings' deal to buy Hot Topic was pending. The FAQ says 'has announced a deal'; update it (and Hot Topic's parent_company) when the deal closes."
+    },
+    {
+      "fact": "Perpetual Kid, Life's Little Ironies, Design By Humans, Crazy Dog",
+      "url": "https://www.perpetualkid.com/",
+      "check": "Unreachable from this session (TLS/503, network policy, 403). Each has 1 source; verify status, graphic tees and US shipping to grow the page toward 10."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": null,
+  "notes": [
+    "8 picks pass enrich.md §3 (verified, sell graphic tees with a stored price, ship to the US, ≥1 outside source, one checkable reason). Target 10–15; not padded: the other named stores are marketplaces, unreachable, outside the US, without tees, or named only by the weak camcatbooks list (see rejected).",
+    "Order: pop-culture chains first (Hot Topic 4 sources, BoxLunch 2, FYE 1), then the novelty shop Archie McPhee (2), then tee labels and clothing stores by sources (Killstar 2, The Chivery 1, ModCloth 1, AKIRA 1). No price closeness: the anchor has no price.",
+    "Category graphic-tees: see category.why. All price_relation labels are null because Spencer's own prices are unreadable (gate rule: no label without both prices).",
+    "Anchor verified from its own store locator (stores.spencersonline.com) and Wikipedia; the main store refused every read, so the anchor lacks price, size_range, ships_to and returns_days: the page is noindex until a human records them (human_check row 1).",
+    "Ahrefs: 4 serp-overview calls ('stores like spencer's', 'stores like spencers', 'spencers alternatives', 'similar to spencers'; the last two returned no rows) and 1 keywords-explorer-matching-terms call. Two editorial lists added by WebSearch because only two editorial-looking pages were in the top 10.",
+    "Brand files written through merge_brand.py from patches in the scratchpad spencers/patches/: spencers (new), boxlunch (new), fye (new), the-chivery (new), archie-mcphee (new), hot-topic (graphic-tees price), modcloth (graphic-tees price), akira (graphic-tees price). Killstar reused unchanged.",
+    "Rule updates applied mid-run (coordinator): no discobrands page exists for Spencer's; no secondhand or thrift shop among the picks (FYE's used-media buyback is a side service, it sells new merch); FAQ includes one People also ask question."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "You want a band tee or a ridiculous birthday gift, and the nearest Spencer's is two malls away. Spencer's is known for graphic tees and gag gifts, and these stores cover the same ground. Pop-culture chains come first, then a novelty shop and the smaller labels for funny and gothic tees. Every one sells graphic tees, so a tee price sits next to each pick.",
+    "bodies": {
+      "hot-topic": "Hot Topic is the closest thing to another Spencer's: a mall chain built on licensed pop culture, music and anime tees. Prices start at the InuYasha Yellow & White T-Shirt ($12.99) and top out with the WWE John Cena Wrestlemania 23 Garment-Dyed T-Shirt ($50.90).\n\nBand tees like the Misfits Crimson Ghost Heavyweight T-Shirt ($39.90) sit in between. Sizes run XS to 5XL, with tall sizes too, and BoxLunch is the only other pick here with a tall range. Free shipping starts at $75. Pre-order merch sent to your home costs $1.99 more per item, so ship those to a store and the surcharge goes away.\n\nIt's mostly clothes and fandom merch, though. For the gag-gift side of a Spencer's trip, Archie McPhee is the better stop.",
+      "boxlunch": "BoxLunch is the gift-shop take on the same fandoms, with a charity hook built in. For every $10 you spend, it helps provide a meal through Feeding America, so a birthday present does a bit of extra work.\n\nTees start at $20.90, with Disney birthday tees like the Lilo & Stitch Angel Birthday T-Shirt, and nearly all of them stay under $40. The Wicked: For Good Glinda & Elphaba Icons Garment-Dyed T-Shirt ($36.90) is near the top. Sizes go XS to 5XL, plus Big & Tall up to 4XL.\n\nShipping and returns work like Hot Topic's: free shipping over $75, 30 days to return, and $1.99 extra on each pre-order item. If band tees are the goal rather than Disney and anime, start with Hot Topic's Misfits and Bad Bunny tees instead.",
+      "fye": "FYE is the budget pick for pop-culture tees, with every regular-price tee between $19.99 and $29.99. It's an entertainment chain with stores around the US, so the tees sit next to Funko Pop! figures, Pokémon cards, music and movies.\n\nStart with its licensed tees, like the Back To The Future Racing T-Shirt ($19.99) or the Solo Leveling Jinwoo T-Shirt ($19.99). It also stocks Riot Society, whose Scarface The World is Yours T-Shirt is $26.99.\n\nThe catch is sizes and shipping. Tees stop at 2X, and standard shipping is $4.25 plus $3.75 per pound, so even one tee pays postage. Orders ship only to US addresses and a few territories. If you need bigger sizes, Hot Topic and BoxLunch both go to 5XL.",
+      "archie-mcphee": "Archie McPhee is the pick for the gag-gift half of Spencer's. It's a novelty shop that set up in Seattle in 1983, and it sells funny gifts and toys, from Bigfoot to rubber chickens.\n\nThe tee range is small, and that's worth knowing before you go. It makes its own, like the Rubber Chicken Museum T-Shirt and the Retro Bigfoot T-Shirt, and every one is $19.95 in S to XXL. So come for the gift and add a tee, not the other way round.\n\nFree shipping starts at $50, the lowest threshold here, but it doesn't ship outside the US. New, unopened items can go back within 30 days. If a big wall of funny tees is what you're after, The Chivery has far more.",
+      "killstar": "Killstar is where to go for the gothic, occult side of Spencer's horror tees, and you'll pay more for it. Its tees run $50 to $60: the Blind Mind tee is $50 and its boxy T-shirts are $60, all in 100% cotton jersey.\n\nThe label calls its style total trash occult couture, so expect occult and horror graphics rather than jokes. Sizes run XS to 4XL. The US store ships free once you pass $175, which is three tees or more, and returns get 14 days, the shortest window on this list.\n\nIf the price is the problem, Hot Topic's tees top out about where Killstar's start. For black cats and Poe quotes at half the price, ModCloth's tees start at $25.",
+      "the-chivery": "The Chivery is the store for Spencer's-style funny tees. It's the official shop of theCHIVE. Most of its tees cost $28, like the Keep Calm and Chive On Tee and The KCCO Tee.\n\nThe useful thing to know is that most shirts are made to order. Allow 7 to 10 business days before anything ships, so it's not the place for a gift you need by the weekend. Sizes run Small to 3XL on nearly every tee, and some go to 5XL.\n\nFree shipping needs $125, and only within the contiguous US. Its William Murray Golf tees, like Scuba Steve, are the priciest at $38. If you want a tee for under $28, FYE's start at $19.99.",
+      "modcloth": "ModCloth is the pick if you like Spencer's spooky tees but want a vintage-style take. It's a clothing store, and its graphic tees come from small labels like Witchwood Bags and Self-Care Shirts. A Dream Within A Dream Poe Quote: T-Shirt and the Black Cats T-Shirt are both $25.\n\nGraphic tees run $25 to $37, and the $25 ones go from XS to 4XL. That matches Killstar's range at half the price, and it's far wider than AKIRA's. Free shipping needs $150, though. Returns get 30 days, with a $14 fee unless you bought its Checkout+ option.\n\nThere are no gag gifts here. Pair it with Archie McPhee if the trip was really about presents.",
+      "akira": "AKIRA is for the snarky slogan tees Spencer's does, in a going-out wardrobe. It's a Chicago label with stores in over 18 states, mostly selling its own dresses, shoes and coats. Its graphic tees lean on jokes: the Your Future Stepmom Graphic Tee ($29.90) and the Dump Him Tee ($39.90).\n\nTees run $29.90 to $79.90, and the top end is embellished, like the First Row Interstellar Rhinestone Tee. Graphic tees come in S to 1X only, the narrowest run here, even though its clothing goes to 3X.\n\nUS shipping is free from $75, but sale items don't count toward it. Returns get 30 days, with a $10 fee if you use its prepaid label. For bigger sizes in a joke tee, The Chivery goes to 5XL."
+    },
+    "best_for": {
+      "hot-topic": "band and anime tees in sizes up to 5XL or tall",
+      "boxlunch": "a fandom gift that also helps fund a meal",
+      "fye": "licensed tees under $30 alongside Funko and Pokémon",
+      "archie-mcphee": "a gag gift first, with a $19.95 tee on the side",
+      "killstar": "occult horror tees when you'll pay $50 or more",
+      "the-chivery": "funny tees you can wait a week or two for",
+      "modcloth": "spooky vintage-style tees in sizes up to 4XL",
+      "akira": "a slogan tee from a store that also sells the outfit"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with what the trip was for. For fandom and band tees, Hot Topic starts lowest, at $12.99, and goes to 5XL, and BoxLunch covers the same fandoms with a meal donated for every $10. On a tight budget, FYE keeps every tee under $30, and Archie McPhee's are $19.95 if a gag gift is the real errand. For a joke on a shirt, The Chivery has the deepest range, as long as you can wait for made-to-order. Goth shoppers should look at Killstar, or ModCloth to spend half as much. AKIRA suits a slogan tee for a night out, in sizes up to 1X."
+    },
+    "faqs": [
+      {
+        "q": "Did Spencer's buy Hot Topic?",
+        "a": "Its parent company has announced a deal to. Spencer Spirit Holdings agreed to buy Hot Topic from Sycamore Partners, pending regulatory approval, and Hot Topic is set to keep running as its own company under its own name.",
+        "source_query": "did spencers buy hot topic"
+      },
+      {
+        "q": "What does Spencer's sell?",
+        "a": "Graphic tees are its main clothing line, from music and horror tees to funny and plus-size ones. It also sells backpacks, body jewelry, novelty and gag gifts, room decor, Halloween costumes and adult products.",
+        "source_query": "what does spencers sell"
+      },
+      {
+        "q": "How many Spencer's stores are there?",
+        "a": "Over 630 across the United States and Canada. Most are in malls, and it's now opening in outlet centers too.",
+        "source_query": "how many spencers stores are there"
+      },
+      {
+        "q": "Is Hot Topic like Spencer's?",
+        "a": "Close. Both are mall chains built on pop-culture graphic tees, but Hot Topic is mostly clothing and fandom merch, while Spencer's adds gag gifts, body jewelry and adult products. Hot Topic's tees run $12.99 to $50.90.",
+        "source_query": "Is Hot Topic like Spencer's?",
+        "source": "people_also_ask"
+      }
+    ]
+  }
+}
