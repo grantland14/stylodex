@@ -148,7 +148,7 @@ if (page.faqs.length > 0) {
               picks.map((pick) => (
                 <tr class="border-b border-rule align-top">
                   <td class="py-3 pr-4 font-medium text-ink">
-                    <a href={`#${pick.brand.slug}`} class="no-underline hover:underline">
+                    <a href={shopHref(pick)} target="_blank" rel="sponsored nofollow noopener" class="text-link">
                       {pick.brand.name}
                     </a>
                   </td>
