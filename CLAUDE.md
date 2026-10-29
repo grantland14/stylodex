@@ -29,7 +29,8 @@ site-wide; see `tasks/todo.md` for the plan and why.
 - **Never change a page's `url_prefix` once it is indexed.** Each subject is built at one prefix
   only; the other prefixes 404, so a changed prefix loses the ranking URL.
 - **Astro, static first.** Pages are prerendered from Supabase at build time and ship no
-  JavaScript. Only `/go/` and `/img/` run on the server (`prerender = false`). Framework-free logic
+  JavaScript, except the brand search box (`src/components/BrandSearch.astro`, reads the
+  build-time `/search.json`; the form still works without it). Only `/go/` and `/img/` run on the server (`prerender = false`). Framework-free logic
   lives in `lib/` and is unit-tested; `src/` is templates only. No CMS: content lives in Supabase.
 - Local dev without a database: `STYLODEX_FIXTURES=1 npm run dev` (placeholder brands, noindex,
   `robots.txt` disallows all).

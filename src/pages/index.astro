@@ -1,5 +1,14 @@
 ---
+import BrandSearch from "../components/BrandSearch.astro";
 import Base from "../layouts/Base.astro";
+import { loadCatalog } from "@/lib/catalog";
+
+const { lists, brands } = await loadCatalog();
+// Popular searches: the lists we have, most picks first.
+const popular = [...lists].sort((a, b) => b.picks - a.picks).slice(0, 8);
+// Brands with a photo first, so the grid reads as a lookbook.
+const featuredBrands = [...brands].sort((a, b) => Number(!!b.productShots.length) - Number(!!a.productShots.length)).slice(0, 8);
+const brandImage = (b: (typeof brands)[number]) => b.productShots[0]?.imageUrl ?? b.imageUrl;
 
 const CHECKS = [
   { title: "Live and selling", body: "Every brand on a list is checked against its own store. Closed or off-category brands drop out." },
@@ -9,17 +18,103 @@ const CHECKS = [
 ---
 
 <Base
-  description="Verified alternatives to fashion and beauty brands and stores, with real prices, sizes and shipping for each."
+  description="Find brands like the ones you already love. Alternatives to fashion and beauty brands and stores, with real prices, sizes and shipping for each."
   canonical="/"
 >
-  <section class="mx-auto max-w-6xl px-4 pb-16 pt-14 md:pt-20">
-    <h1 class="max-w-2xl text-4xl font-normal leading-[1.1] tracking-tight md:text-5xl">
-      Find brands like the ones you already love
-    </h1>
-    <p class="mt-6 max-w-xl text-lg leading-relaxed">
-      Verified alternatives to the brands and stores you know, with real prices, sizes and shipping for each one.
+  <section class="mx-auto max-w-3xl px-4 pb-10 pt-14 text-center md:pt-24">
+    <h1 class="text-4xl font-normal leading-[1.1] tracking-tight md:text-6xl">Find brands like the ones you already love</h1>
+    <p class="mx-auto mt-5 max-w-xl text-lg leading-relaxed text-muted">
+      Type a brand or store. We'll show you alternatives with real prices, sizes and shipping for each one.
     </p>
+    <div class="mx-auto mt-8 max-w-2xl">
+      <BrandSearch />
+    </div>
+    {
+      popular.length > 0 && (
+        <div class="mt-6">
+          <p class="eyebrow">Popular searches</p>
+          <ul class="mt-3 flex flex-wrap justify-center gap-2">
+            {popular.map((l, i) => (
+              <li>
+                <a href={l.path} class:list={["chip no-underline hover:underline", ["bg-butter", "bg-mint", "bg-sky", "bg-rose"][i % 4]]}>
+                  {l.anchorName}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )
+    }
   </section>
+
+  <section class="mx-auto grid max-w-5xl grid-cols-3 border-y border-rule text-center">
+    <div class="px-4 py-6">
+      <p class="font-serif text-3xl text-accent">{brands.length}</p>
+      <p class="mt-1 text-sm text-muted">brands checked</p>
+    </div>
+    <div class="border-x border-rule px-4 py-6">
+      <p class="font-serif text-3xl text-accent">{lists.length}</p>
+      <p class="mt-1 text-sm text-muted">lists of alternatives</p>
+    </div>
+    <div class="px-4 py-6">
+      <p class="font-serif text-3xl text-accent">US</p>
+      <p class="mt-1 text-sm text-muted">shipping on every pick</p>
+    </div>
+  </section>
+
+  {
+    lists.length > 0 && (
+      <section class="mx-auto max-w-6xl px-4 py-14">
+        <div class="flex items-baseline justify-between">
+          <h2 class="font-serif text-3xl">Lists of alternatives</h2>
+          <a href="/brands" class="text-link text-sm">
+            All brands
+          </a>
+        </div>
+        <ul class="mt-8 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+          {lists.map((l) => (
+            <li>
+              <a href={l.path} class="group block no-underline">
+                <div class="grid grid-cols-3 gap-1 bg-soft">
+                  {l.shots.length > 0
+                    ? l.shots.map((s) => <img src={s.imageUrl} alt="" width="600" height="750" loading="lazy" class="aspect-[4/5] w-full object-cover" />)
+                    : <div class="col-span-3 aspect-[12/5]" />}
+                </div>
+                <p class="eyebrow mt-4 text-accent">{l.category}</p>
+                <h3 class="mt-1 text-xl font-medium tracking-tight text-ink group-hover:underline">{l.title}</h3>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )
+  }
+
+  {
+    featuredBrands.length > 0 && (
+      <section class="border-t border-rule">
+        <div class="mx-auto max-w-6xl px-4 py-14">
+          <h2 class="font-serif text-3xl">Brands we've checked</h2>
+          <ul class="mt-8 grid grid-cols-2 gap-6 md:grid-cols-4">
+            {featuredBrands.map((b) => (
+              <li>
+                <a href={`/brands/${b.slug}`} class="group block no-underline">
+                  {brandImage(b) ? (
+                    <img src={brandImage(b)} alt="" width="600" height="750" loading="lazy" class="aspect-[4/5] w-full bg-soft object-cover" />
+                  ) : (
+                    <div class="flex aspect-[4/5] items-center justify-center bg-soft font-serif text-3xl text-muted">{b.name[0]}</div>
+                  )}
+                  <p class="mt-3 font-medium text-ink group-hover:underline">{b.name}</p>
+                  {b.knownFor && <p class="mt-0.5 text-sm text-muted">{b.knownFor}</p>}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </section>
+    )
+  }
+
   <section class="border-t border-rule">
     <div class="mx-auto max-w-6xl px-4 py-14">
       <h2 class="font-serif text-3xl">How every list is checked</h2>
