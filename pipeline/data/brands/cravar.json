@@ -1,0 +1,60 @@
+{
+  "slug": "cravar",
+  "name": "Cravar",
+  "website_url": "https://www.cravar.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Vegetable-Tanned Leather Bags",
+  "hq_country": "ID",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Slim totes to large backpacks",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 10,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "bags",
+      "currency": "USD",
+      "min": 160.0,
+      "max": 525.0,
+      "min_usd": 160.0,
+      "max_usd": 525.0,
+      "fx_date": null,
+      "item_count": 168,
+      "source_url": "https://www.cravar.com/collections/bags/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Bags collection products.json (USD), 216 listings: 0 marked down, 6 sold out excluded, 42 duffels, briefcases, portfolios, pouches and cases excluded; 168 regular-price totes, bucket bags, messengers, camera bags and backpacks, median $325. Low: D.S. S, F.C. 7 (waxed twill) and Slim Tote (waxed twill) $160; Bucket Bag and Slim Tote (leather) $225; Work Tote $240; high: Urbanpack L $525. Like-for-like: carry bags at regular price, in stock (reusable/shopping bags, totes, shoulder and crossbody bags, belt/hip bags, backpacks); luggage, duffels and weekenders, pouches, organisers, wallets, straps, charms, lunch boxes excluded."
+    }
+  ],
+  "materials": [
+    "Full-grain vegetable-tanned leather",
+    "Waxed twill"
+  ],
+  "certifications": [],
+  "production_model": "Made in Indonesia",
+  "sale_pattern": "Discounted purchases are final sale",
+  "sells_categories": [
+    "bags"
+  ],
+  "sources": [
+    "https://www.cravar.com/meta.json",
+    "https://www.cravar.com/collections/bags/products.json?limit=250",
+    "https://www.cravar.com/pages/about",
+    "https://www.cravar.com/policies/refund-policy"
+  ],
+  "notes": [
+    "About/FAQ: 'We are based in Jakarta, Indonesia'; first collection on Kickstarter in 2013; full grain, vegetable tanned leather developed with a tannery partner in Jogjakarta; solid brass hardware handmade by a family company in Jogjakarta; YKK zips. 'Shipping cost is included in our prices', import tax and customs fees are not; US shipments are subject to duties since the de minimis exemption ended on August 29, 2025. Returns: 10 days after delivery, unused, by postal service only, return shipping paid by the customer; discounted and personalised items final (https://www.cravar.com/pages/about). Store meta: Jakarta Selatan, USD, ships to 234 countries incl. US, CA, GB, AU (https://www.cravar.com/meta.json).",
+    "free_shipping_min_usd left empty: Cravar includes shipping in its prices rather than setting a threshold, and the profile template would render 0 as Over $0 (https://www.cravar.com/pages/about)."
+  ],
+  "checked_at": "2026-10-29"
+}

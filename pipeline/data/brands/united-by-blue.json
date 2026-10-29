@@ -1,0 +1,14 @@
+{
+  "slug": "united-by-blue",
+  "name": "United by Blue",
+  "website_url": "https://unitedbyblue.com",
+  "status": "unverified",
+  "kind": "brand",
+  "sources": [
+    "https://unitedbyblue.com/meta.json"
+  ],
+  "notes": [
+    "unitedbyblue.com returned HTTP 403 with a 'Just a moment...' bot challenge to the StylodexBot UA, 2026-10-29. One try, no workaround. Human check."
+  ],
+  "checked_at": "2026-10-29"
+}

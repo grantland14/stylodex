@@ -4,7 +4,7 @@
   "status": "verified",
   "kind": "brand",
   "known_for": "Boxy Hoodies and Baggy Streetwear",
-  "hq_country": "US",
+  "hq_country": "CN",
   "founded_year": 2014,
   "parent_company": null,
   "size_range": "Hoodies XS–XL",
@@ -60,7 +60,8 @@
     "Shipping page: processing 1–3 business days; 'Most of our items are made upon order'; full refund if not received within 45 business days (pre-orders excepted); ships to over 50 countries; duties and taxes are the customer's. Site banner: 'Free Shipping On $50+' (USD store).",
     "Refund policy: return or exchange within 30 days of delivery; one return or exchange per order; prepaid return label only for U.S. and U.K. orders with Worry-Free Purchase Protection, otherwise the customer pays return shipping; accessories, mystery boxes and final-sale items not returnable.",
     "Pop-ups only (US pop-up store page, Suwon/Seoul pop-ups); no permanent store found, us_stores left null.",
-    "meta.json ships_to_countries: 39 countries incl. US, CA, GB, AU."
+    "meta.json ships_to_countries: 39 countries incl. US, CA, GB, AU.",
+    "Coordinator: hq_country set to CN from the store's own business record (Shenzhen); the Los Angeles founding story is the brand's own account, and the page FAQ already gives the Shenzhen address."
   ],
   "checked_at": "2026-10-29"
 }
