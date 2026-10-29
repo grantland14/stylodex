@@ -1,0 +1,44 @@
+{
+  "slug": "sweaty-betty",
+  "name": "Sweaty Betty",
+  "website_url": "https://www.sweatybetty.com/us",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Workout Clothes and Leggings",
+  "hq_country": "GB",
+  "founded_year": 1998,
+  "parent_company": "Wolverine World Wide",
+  "size_range": "XXS–4XL (US 2–18)",
+  "has_plus": null,
+  "ships_to": [
+    "US"
+  ],
+  "returns_days": 45,
+  "checked_at": "2026-10-29",
+  "prices": [
+    {
+      "category": "leggings",
+      "currency": "USD",
+      "min": 98.0,
+      "max": 168.0,
+      "min_usd": 98.0,
+      "max_usd": 168.0,
+      "fx_date": null,
+      "item_count": 24,
+      "source_url": "https://www.sweatybetty.com/us/shop/bottoms/leggings",
+      "checked_at": "2026-10-29",
+      "note": "US store (/us/, USD), Leggings category (130 products, 'Showing 24 of 130'); the first 24 read from the page's own product data (ItemList offers and search hits, priceCurrency USD). All Day Leggings and All Day 7/8 $98; Power Workout Leggings, Power 7/8, Power UltraSculpt High Waist, Super Soft 7/8 Yoga $134; Runner's High Power 7/8 $138; Winter Power Workout Leggings $144; high Therma Run Leggings $168. The listing data carries no list or compare-at price, so no markdown showed; range covers the first 24 only."
+    }
+  ],
+  "sells_categories": [
+    "leggings"
+  ],
+  "sources": [
+    "https://www.sweatybetty.com/us/",
+    "https://www.sweatybetty.com/us/shop/bottoms/leggings",
+    "https://en.wikipedia.org/wiki/Sweaty_Betty"
+  ],
+  "notes": [
+    "2026-10-29 (athleta page run): US store homepage title 'Workout Clothes | Activewear | Sweaty Betty'; leggings page title 'Leggings for Gym, Run & Yoga | Sports Leggings'. Store copy: '45-day free returns across 150 countries'. Leggings size filter: XXS (US 2), XS (US 4), S (US 6), M (US 8), L (US 10), XL (US 12), XXL (US 14), 3XL (US 16), 4XL (US 18). Footer links 'US + Canada Shops' and 'London Shops'; us_stores left empty (store list not read). US free-shipping threshold not readable (delivery page truncated), left empty. Wikipedia infobox: founded 1998 (one boutique in London's Notting Hill), HQ London, England, parent Wolverine World Wide."
+  ]
+}

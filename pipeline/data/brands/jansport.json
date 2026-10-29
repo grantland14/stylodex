@@ -1,0 +1,49 @@
+{
+  "slug": "jansport",
+  "name": "JanSport",
+  "website_url": "https://www.jansport.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Durable Backpacks and Bags",
+  "hq_country": "US",
+  "founded_year": 1967,
+  "size_range": "Waist packs to full-size backpacks",
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 50,
+  "returns_days": 30,
+  "sources": [
+    "https://www.jansport.com/en-us/meta.json",
+    "https://www.jansport.com/collections/all-bags/products.json?limit=250",
+    "https://www.jansport.com/collections/all-backpacks/products.json?limit=250",
+    "https://www.jansport.com/en-us/pages/shipping-and-billing",
+    "https://www.jansport.com/en-us/pages/returns",
+    "https://www.jansport.com/en-us/pages/about-us"
+  ],
+  "notes": [
+    "Store meta: JanSport US, Denver, Colorado, USD, ships to US and CA (https://www.jansport.com/en-us/meta.json). About: 'since 1967'; 'From undyed fabrics to recycled zipper tape' (https://www.jansport.com/en-us/pages/about-us).",
+    "Free shipping on U.S. orders $50+; returns within 30 days of purchase if not damaged, altered or used; lifetime warranty: 'if your pack ever breaks down, simply return it to our warranty center. We'll fix it and if we can't we'll replace it' (https://www.jansport.com/en-us/pages/returns, https://www.jansport.com/en-us/pages/shipping-and-billing).",
+    "Named: SuperBreak Plus $45 (internal laptop sleeve, side water bottle pocket), Half Pint Mini Backpack $27, Everyday Large Tote $55 (15-inch padded laptop sleeve), Legacy Pack $175, Swing Waistpack $20."
+  ],
+  "prices": [
+    {
+      "category": "bags",
+      "currency": "USD",
+      "min": 20.0,
+      "max": 175.0,
+      "min_usd": 20.0,
+      "max_usd": 175.0,
+      "fx_date": null,
+      "item_count": 65,
+      "source_url": "https://www.jansport.com/collections/all-bags/products.json?limit=250 + https://www.jansport.com/collections/all-backpacks/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "https://www.jansport.com/collections/all-bags/products.json feed, 128 listings: 0 marked down and 7 sold out excluded, 56 out-of-scope items excluded; 65 regular-price bags, median $55. Low / mid / high: Swing Waistpack $20; SuperBreak® Plus FX $55; Legacy Pack $175. Like-for-like: carry bags at regular price, in stock (totes, shoulder and crossbody bags, satchels, hobos, belt/hip bags, backpacks); luggage, duffels and weekenders, lunch bags, diaper/baby bags, pouches, wallets, wristlets, cosmetic cases, straps, charms, coolers, pet and kids' items excluded."
+    }
+  ],
+  "sells_categories": [
+    "bags"
+  ],
+  "checked_at": "2026-10-29"
+}

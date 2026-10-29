@@ -1,0 +1,50 @@
+{
+  "slug": "rebecca-minkoff",
+  "name": "Rebecca Minkoff",
+  "website_url": "https://www.rebeccaminkoff.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Accessible Luxury Leather Handbags",
+  "hq_country": "US",
+  "size_range": "Clutches to large hobos",
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "returns_days": 30,
+  "materials": [
+    "Leather",
+    "Suede"
+  ],
+  "sources": [
+    "https://rebeccaminkoff.com/meta.json",
+    "https://www.rebeccaminkoff.com/collections/handbags/products.json?limit=250",
+    "https://www.rebeccaminkoff.com/policies/shipping-policy",
+    "https://www.rebeccaminkoff.com/policies/refund-policy",
+    "https://www.rebeccaminkoff.com/pages/about"
+  ],
+  "notes": [
+    "Store meta: Los Angeles, California, USD, ships to US, CA and one more (https://rebeccaminkoff.com/meta.json). About: 'An industry leader in accessible luxury handbags'; 'Rich leathers and suedes, bohemian-inspired prints' (https://www.rebeccaminkoff.com/pages/about).",
+    "Free returns on all U.S. orders with the included FedEx label, within 30 days of delivery; final-sale items not returnable (https://www.rebeccaminkoff.com/policies/refund-policy). No domestic free-shipping threshold stated (international free over $300) (https://www.rebeccaminkoff.com/policies/shipping-policy).",
+    "Named: Megan Shoulder Bag $228 (100% genuine leather suede, signature dog-clip detail, 10 x 6 x 2.5 in.), Darren Shoulder Bag $378 (suede leather), Torin Minaudiere Clutch $138, Billie Hobo With Fringe $428. 44 of 137 listings marked down excluded."
+  ],
+  "prices": [
+    {
+      "category": "bags",
+      "currency": "USD",
+      "min": 138.0,
+      "max": 428.0,
+      "min_usd": 138.0,
+      "max_usd": 428.0,
+      "fx_date": null,
+      "item_count": 82,
+      "source_url": "https://www.rebeccaminkoff.com/collections/handbags/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "https://www.rebeccaminkoff.com/collections/handbags/products.json feed, 137 listings: 44 marked down and 0 sold out excluded, 11 out-of-scope items excluded; 82 regular-price bags, median $313. Low / mid / high: Torin Minaudiere Clutch $138; Delancey Hobo $328; Darren Signature Carryall $428. Like-for-like: carry bags at regular price, in stock (totes, shoulder and crossbody bags, satchels, hobos, belt/hip bags, backpacks); luggage, duffels and weekenders, lunch bags, diaper/baby bags, pouches, wallets, wristlets, cosmetic cases, straps, charms, coolers, pet and kids' items excluded."
+    }
+  ],
+  "sells_categories": [
+    "bags"
+  ],
+  "checked_at": "2026-10-29"
+}

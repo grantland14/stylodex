@@ -31,6 +31,19 @@
       "source_url": "https://www.aloyoga.com/collections/womens-sweatshirts-hoodies/products.json",
       "checked_at": "2026-10-29",
       "note": "Women's (22) and men's (11) Sweatshirts & Hoodies collection feeds, titles containing 'hood': 33 regular-price (no variant with compare_at_price above price) of 120 hoodies; 177 marked down. Low: Marl Sweater Rewind Full Zip Hoodie $168 (cotton blend, midweight). Cashmere Plush Waffle Full Zip Hoodie $348; high: Wool Cashmere New Class Full Zip Hoodie and Wool Cashmere Ribbed Noble Full Zip Hoodie $398. Men's feed: https://www.aloyoga.com/collections/mens-sweatshirts-hoodies/products.json"
+    },
+    {
+      "category": "leggings",
+      "currency": "USD",
+      "min": 118.0,
+      "max": 298.0,
+      "min_usd": 118.0,
+      "max_usd": 298.0,
+      "fx_date": null,
+      "item_count": 13,
+      "source_url": "https://www.aloyoga.com/collections/womens-leggings/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Shopify collection feed /collections/womens-leggings (306 products; 39 non-legging titles; 254 marked down with compare_at_price above price): 13 regular-price leggings. Low High-Waist Airbrush Legging (Frosted Pearl) $118; Airbrush and Airlift High-Waist 7/8 styles and ALO Softsculpt High-Waist 7/8 $134; Airbrush High-Waist Flare and Airlift Devoted Stirrup $138; Softsculpt Foldover Flare $144; Airlift Line Up Mirage 7/8 $168; high Cashmere High-Waist Eternity Legging $298."
     }
   ],
   "materials": [],
@@ -43,7 +56,8 @@
     "https://www.aloyoga.com/collections/womens-sweatshirts-hoodies/products.json",
     "https://www.aloyoga.com/collections/mens-sweatshirts-hoodies/products.json",
     "https://www.aloyoga.com/policies/refund-policy",
-    "https://www.aloyoga.com/pages/shipping-info"
+    "https://www.aloyoga.com/pages/shipping-info",
+    "https://www.aloyoga.com/collections/womens-leggings/products.json"
   ],
   "checked_at": "2026-10-29",
   "notes": [
@@ -51,9 +65,11 @@
     "Shipping info: 'We offer free shipping on all U.S. orders, and free shipping on international orders over $75 USD'; the country list renders client-side, so ships_to records US only.",
     "Refund policy: exchange, store credit or refund within 30 days of purchase; 'Returns are free of charge'; Final Sale and Exchange Only items excepted.",
     "Most of its hoodies were marked down on 2026-10-29 (177 of 210 hoodie listings across both feeds); the regular-price ones left are the cashmere and sweater-knit lines, which is why the range starts at $168.",
-    "Hoodie sizes XXS–2XL from the size options in both feeds."
+    "Hoodie sizes XXS–2XL from the size options in both feeds.",
+    "2026-10-29 (athleta page run): store meta describes 'yoga pants, workout tights, leggings, capris & lounge for women & men'; collections include Airbrush, Airlift, Softsculpt and Alosoft leggings. Most women's leggings were marked down (254 of 267 legging listings); the 13 at regular price were mostly new colors. Legging sizes in the feed: XXS, XS, S, M, L."
   ],
   "sells_categories": [
-    "hoodies"
+    "hoodies",
+    "leggings"
   ]
 }

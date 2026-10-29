@@ -1,0 +1,44 @@
+{
+  "slug": "outdoor-voices",
+  "name": "Outdoor Voices",
+  "website_url": "https://www.outdoorvoices.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Recreational Activewear",
+  "hq_country": "US",
+  "size_range": "XS–XL",
+  "has_plus": false,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 30,
+  "checked_at": "2026-10-29",
+  "prices": [
+    {
+      "category": "leggings",
+      "currency": "USD",
+      "min": 88.0,
+      "max": 128.0,
+      "min_usd": 88.0,
+      "max_usd": 128.0,
+      "fx_date": null,
+      "item_count": 4,
+      "source_url": "https://www.outdoorvoices.com/collections/leggings/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Shopify collection feed /collections/leggings, Women's Leggings (20 products; 3 non-legging titles; 13 with a compare_at_price above price excluded): 4 regular-price leggings. Puddle Legging (Grass) $88; TechSweat Core 7/8 Legging $118 (Mineral Blue) and $128 (Darkbay Polka Dot, Forest). Range covers few items because most leggings were marked down."
+    }
+  ],
+  "sells_categories": [
+    "leggings"
+  ],
+  "sources": [
+    "https://www.outdoorvoices.com/meta.json",
+    "https://www.outdoorvoices.com/collections/leggings/products.json",
+    "https://www.outdoorvoices.com/policies/refund-policy",
+    "https://www.outdoorvoices.com/policies/shipping-policy"
+  ],
+  "notes": [
+    "2026-10-29 (athleta page run): store meta Bay Shore, New York, US; description 'Shop activewear, athletic apparel & workout clothes designed for recreation ... Free shipping $100+.' Banner 'Free Shipping on orders over $100 in the U.S.'; menus for Women and Men. Refund policy: 'Orders may be returned within 30 days of purchase'; final sale excluded; only purchases from outdoorvoices.com; unworn with tags. Legging sizes in the feed: XS–XL (some in two inseam lengths)."
+  ]
+}

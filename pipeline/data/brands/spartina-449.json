@@ -1,0 +1,56 @@
+{
+  "slug": "spartina-449",
+  "name": "Spartina 449",
+  "website_url": "https://spartina449.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Lowcountry Linen and Leather Handbags",
+  "hq_country": "US",
+  "founded_year": 2009,
+  "size_range": "Phone crossbodies to box totes",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 30,
+  "us_stores": true,
+  "materials": [
+    "Linen",
+    "Leather"
+  ],
+  "sources": [
+    "https://spartina449.com/meta.json",
+    "https://spartina449.com/products.json?limit=250",
+    "https://spartina449.com/policies/shipping-policy",
+    "https://spartina449.com/policies/refund-policy",
+    "https://spartina449.com/pages/our-story",
+    "https://spartina449.com/pages/location-spartina449-stores"
+  ],
+  "notes": [
+    "Store meta: Bluffton, South Carolina, USD, ships to 33 countries incl. US, CA, GB, AU (https://spartina449.com/meta.json). Story: began in 2009, founder Kay Stanley on Daufuskie Island, 'how linen and leather could marry with colorful patterns and timeless island stories' (https://spartina449.com/pages/our-story). Stores page: 'a Hilton Head Island based women's handbag and accessory company', lists its own stores (Savannah, Sarasota, St. Augustine and more) (https://spartina449.com/pages/location-spartina449-stores).",
+    "Free standard U.S. shipping on orders of $150 or more, contiguous US (https://spartina449.com/policies/shipping-policy). Returns within 30 days of receipt, $9.95 deducted when using its label; international orders not returnable (https://spartina449.com/policies/refund-policy).",
+    "Named: Market Tote Sea Islands $78 and other Greetings From Market Totes ('best-selling tote', laminated cotton, cotton-webbed straps), Sea Foam Carry All Tote Mermaid $58, Dune Satchel $178, Siren leather line to $398. Whole-store feed filtered to product type Handbags (363 listings): 159 sold out, 76 marked down excluded."
+  ],
+  "prices": [
+    {
+      "category": "bags",
+      "currency": "USD",
+      "min": 58.0,
+      "max": 398.0,
+      "min_usd": 58.0,
+      "max_usd": 398.0,
+      "fx_date": null,
+      "item_count": 109,
+      "source_url": "https://spartina449.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "https://spartina449.com/products.json feed, 3698 listings: 76 marked down and 159 sold out excluded, 3354 out-of-scope items excluded; 109 regular-price bags, median $128. Low / mid / high: Sea Foam Carry All Tote Mermaid $58; Great Lakes Tote $128; Siren Eden Drawstring Black Croc $398. Like-for-like: carry bags at regular price, in stock (totes, shoulder and crossbody bags, satchels, hobos, belt/hip bags, backpacks); luggage, duffels and weekenders, lunch bags, diaper/baby bags, pouches, wallets, wristlets, cosmetic cases, straps, charms, coolers, pet and kids' items excluded."
+    }
+  ],
+  "sells_categories": [
+    "bags"
+  ],
+  "checked_at": "2026-10-29"
+}

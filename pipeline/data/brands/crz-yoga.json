@@ -1,0 +1,45 @@
+{
+  "slug": "crz-yoga",
+  "name": "CRZ YOGA",
+  "website_url": "https://crzyoga.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Everyday Activewear",
+  "hq_country": "HK",
+  "size_range": "XXS–4X",
+  "has_plus": true,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 30,
+  "checked_at": "2026-10-29",
+  "prices": [
+    {
+      "category": "leggings",
+      "currency": "USD",
+      "min": 26.0,
+      "max": 40.0,
+      "min_usd": 26.0,
+      "max_usd": 40.0,
+      "fx_date": null,
+      "item_count": 66,
+      "source_url": "https://crzyoga.com/collections/leggings/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Shopify collection feed /collections/leggings (86 products; 5 non-legging titles; 15 with a compare_at_price above price excluded): 66 regular-price leggings. Low Secretsculpt Minor No Front Seam Legging 25\" $26; Butterluxe Yoga Origin Legging 21'' and Butterluxe Pocket Legging 21'' $28; Butterluxe High Rise Mini Flare Legging $38; high Butterbreeze Workout Pocket Legging 25'' $40. 'Hot Sale' product-type tags with no compare-at price counted as regular."
+    }
+  ],
+  "sells_categories": [
+    "leggings"
+  ],
+  "sources": [
+    "https://crzyoga.com/meta.json",
+    "https://crzyoga.com/collections/leggings/products.json",
+    "https://crzyoga.com/policies/refund-policy",
+    "https://crzyoga.com/policies/shipping-policy"
+  ],
+  "notes": [
+    "2026-10-29 (athleta page run): store 'CRZ YOGA US', meta Kowloon Bay, Kowloon, HK, currency USD; 'Shop our women's, men's, girls' apparel. Free Shipping. Your Daily Activewear.' Shipping policy: 'Free shipping', 'Delivery in 3–5 business days'; banner offers Buy with Prime. Refund policy: 'a 30-day return policy ... 30 days after receiving your item'; unworn with tags, bulk and final sale excluded. Leggings come in several inseams (19\" to 33\"). Sizes in the feed: XXS–XXL plus 1X–4X.",
+    "2026-10-29 (athleta page run): refund policy: 'To start a return, you can contact us at support@crzyoga.com'; returns accepted 'within 30 days of receiving your product for a full refund', in original condition, unworn, unwashed, with tag, in the original plastic bag packaging."
+  ]
+}

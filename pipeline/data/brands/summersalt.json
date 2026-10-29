@@ -1,0 +1,44 @@
+{
+  "slug": "summersalt",
+  "name": "Summersalt",
+  "website_url": "https://www.summersalt.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Flattering Swimwear",
+  "hq_country": "US",
+  "size_range": "2–22 (XS–2X)",
+  "has_plus": true,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 200,
+  "returns_days": 21,
+  "checked_at": "2026-10-29",
+  "prices": [
+    {
+      "category": "leggings",
+      "currency": "USD",
+      "min": 65.0,
+      "max": 95.0,
+      "min_usd": 65.0,
+      "max_usd": 95.0,
+      "fx_date": null,
+      "item_count": 19,
+      "source_url": "https://www.summersalt.com/collections/clothing-pants-leggings/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Shopify collection feed /collections/clothing-pants-leggings (92 products; 73 non-legging titles such as pants and joggers; none marked down): 19 regular-price leggings. $65: The Do-It-All High Rise 7/8 Leggings, The Do-It-All High Rise Full Length Leggings, The Colorblock High-Rise Full-Length Leggings; Do-It-All 3/4 $75; The Coziest High Rise Full Length Leggings and The Everyday Seamed Legging Pant $80; high The Cross-Waist Straight-Leg Leggings $95."
+    }
+  ],
+  "sells_categories": [
+    "leggings"
+  ],
+  "sources": [
+    "https://www.summersalt.com/meta.json",
+    "https://www.summersalt.com/collections/clothing-pants-leggings/products.json",
+    "https://www.summersalt.com/policies/refund-policy",
+    "https://www.summersalt.com/policies/shipping-policy"
+  ],
+  "notes": [
+    "2026-10-29 (athleta page run): store meta Clayton, Missouri, US; 'Flattering swimwear designed to fit you'; menus also cover Lounge & Active, Pants, Leggings & Joggers. Banner 'Free Shipping on Orders $200+'. Returns: exchanges, store credit or refunds 'within 21 days of the order's delivery date'; mail-in refunds carry an $8 handling fee per label (waived for exchange or store credit). Legging sizes in the feed: 2–22 and XS, SM, MD, LG, XL, 1X, 2X."
+  ]
+}

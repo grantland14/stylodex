@@ -6,11 +6,42 @@
   "kind": "brand",
   "sources": [
     "https://girlfriend.com/meta.json",
-    "https://girlfriend.com/products.json?limit=250"
+    "https://girlfriend.com/products.json?limit=250",
+    "https://girlfriend.com/collections/leggings/products.json",
+    "https://girlfriend.com/policies/refund-policy",
+    "https://girlfriend.com/policies/shipping-policy"
   ],
   "notes": [
     "Store description: 'makes activewear out of recycled materials'; none of its 165 products is a sweater, cardigan or knit (products.json). Off-category for sweaters.",
-    "Coordinator: status back to verified. off_category had been set for one category miss; status is shared by every page, so the category miss now lives in prices and sells_categories only (enrich.md §2)."
+    "Coordinator: status back to verified. off_category had been set for one category miss; status is shared by every page, so the category miss now lives in prices and sells_categories only (enrich.md §2).",
+    "2026-10-29 (athleta page run): store meta Seattle, Washington, US; description 'makes activewear out of recycled materials'. Banner: 'FREE SHIPPING ON ORDERS $100+' and 'Hassle free returns & exchanges within 30 days for U.S. customers'. Refund policy: 'unworn, unwashed items with the tags still attached within 30 days of their ship date'; prepaid return labels. Legging sizes from the feed's size options: XXS, XS, S, M, L, XL, XXL, XXXL, 4XL, 5XL, 6XL."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "known_for": "Activewear From Recycled Materials",
+  "hq_country": "US",
+  "size_range": "XXS–6XL",
+  "has_plus": true,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "leggings",
+      "currency": "USD",
+      "min": 108.0,
+      "max": 128.0,
+      "min_usd": 108.0,
+      "max_usd": 128.0,
+      "fx_date": null,
+      "item_count": 25,
+      "source_url": "https://girlfriend.com/collections/leggings/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Shopify collection feed /collections/leggings (34 products; 4 non-legging titles; 4 with a compare_at_price above price excluded; 1 sold out excluded): 25 in-stock regular-price leggings. $108: Compressive High-Rise Legging, Compressive Foldover Legging, Compressive Drawstring Pocket Legging, FLOAT Ultralight Legging; $118 Compressive Pocket Legging; high Luxe Legging (Kona, Laguna) $128."
+    }
+  ],
+  "sells_categories": [
+    "leggings"
+  ]
 }

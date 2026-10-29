@@ -1,0 +1,46 @@
+{
+  "slug": "bagsmart",
+  "name": "BAGSMART",
+  "website_url": "https://www.bagsmart.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Travel Bags and Organizers",
+  "hq_country": "US",
+  "size_range": "Sling bags to 26L daypacks",
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "returns_days": 30,
+  "sources": [
+    "https://bagsmart.com/meta.json",
+    "https://www.bagsmart.com/collections/bags/products.json?limit=250",
+    "https://www.bagsmart.com/collections/backpacks/products.json?limit=250",
+    "https://www.bagsmart.com/policies/shipping-policy",
+    "https://www.bagsmart.com/policies/refund-policy"
+  ],
+  "notes": [
+    "Store meta: Dover, Delaware, USD, ships to 56 countries incl. US, CA; 'Discover travel accessories by BAGSMART' (https://bagsmart.com/meta.json). Policy pages show a 'Free US shipping' banner but no stated terms, so no threshold recorded (https://www.bagsmart.com/policies/shipping-policy).",
+    "30-day 'Love-It-or-Leave-It Guarantee'; customer pays return shipping for unwanted items (https://www.bagsmart.com/policies/refund-policy).",
+    "Named: Paz 23L Tote $69.99 ('slightly padded with quilted detail', 10 compartments), Coast Sling Bag $36.99 (water-bottle crossbody that packs flat), Faro Daypack 26 $74.99, Moss Backpack $89.99. Duffels, packing cubes, toiletry, pet, diaper and kids' bags excluded."
+  ],
+  "prices": [
+    {
+      "category": "bags",
+      "currency": "USD",
+      "min": 36.99,
+      "max": 89.99,
+      "min_usd": 36.99,
+      "max_usd": 89.99,
+      "fx_date": null,
+      "item_count": 15,
+      "source_url": "https://www.bagsmart.com/collections/bags/products.json?limit=250 + https://www.bagsmart.com/collections/backpacks/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "https://www.bagsmart.com/collections/bags/products.json feed, 59 listings: 8 marked down and 2 sold out excluded, 34 out-of-scope items excluded; 15 regular-price bags, median $64.99. Low / mid / high: Coast Sling Bag $36.99; REIKI Large Hobo Bag $64.99; Moss Backpack $89.99. Like-for-like: carry bags at regular price, in stock (totes, shoulder and crossbody bags, satchels, hobos, belt/hip bags, backpacks); luggage, duffels and weekenders, lunch bags, diaper/baby bags, pouches, wallets, wristlets, cosmetic cases, straps, charms, coolers, pet and kids' items excluded."
+    }
+  ],
+  "sells_categories": [
+    "bags"
+  ],
+  "checked_at": "2026-10-29"
+}

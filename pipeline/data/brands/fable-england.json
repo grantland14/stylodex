@@ -1,0 +1,49 @@
+{
+  "slug": "fable-england",
+  "name": "Fable England",
+  "website_url": "https://www.fableengland.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Story-Printed Bags and Accessories",
+  "hq_country": "GB",
+  "size_range": "Clutches to medium backpacks",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 80,
+  "returns_days": 30,
+  "sources": [
+    "https://fableengland.com/meta.json",
+    "https://www.fableengland.com/en-us/collections/handbags/products.json?limit=250",
+    "https://www.fableengland.com/policies/shipping-policy",
+    "https://www.fableengland.com/policies/refund-policy",
+    "https://www.fableengland.com/pages/about-us"
+  ],
+  "notes": [
+    "Store meta: London, England, GBP base, ships to 212 countries incl. US, CA, GB, AU; 'Fable England weaves narratives into prints & hand-painted jewellery' (https://fableengland.com/meta.json). The US market (/en-us) prices in USD with its own US price list (e.g. Edith Niva Print Tote Bag £48 on the UK feed, $84 on the US feed), so the US feed is used (https://www.fableengland.com/en-us/collections/handbags/products.json?limit=250).",
+    "USA delivery: $8.95 standard under $80, free on orders $80 and over, 2–7 business days (https://www.fableengland.com/policies/shipping-policy). 'Easy returns 30 days' for the US store, with a USA returns route (https://www.fableengland.com/policies/refund-policy).",
+    "About: began when the founder found a 1940s bee-print scarf at a vintage fair; the bee became its emblem (https://www.fableengland.com/pages/about-us). Named: Green Into the Woods Grab Tote $84 (forest print with fox, doe and owl), Into the Woods Tote Bag $122 ('Our bestselling Tote', printed scarf on the handle, bee plaque), Laura Small Backpack $110, Charlotte Sunflower Top Handle Bag $158."
+  ],
+  "prices": [
+    {
+      "category": "bags",
+      "currency": "USD",
+      "min": 84.0,
+      "max": 158.0,
+      "min_usd": 84.0,
+      "max_usd": 158.0,
+      "fx_date": null,
+      "item_count": 71,
+      "source_url": "https://www.fableengland.com/en-us/collections/handbags/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "https://www.fableengland.com/en-us/collections/handbags/products.json feed, 95 listings: 2 marked down and 15 sold out excluded, 7 out-of-scope items excluded; 71 regular-price bags, median $110. Low / mid / high: Green Into the Woods Grab Tote $84; Tan Classic Satchel $110; Charlotte Sunflower Top Handle Bag $158. Like-for-like: carry bags at regular price, in stock (totes, shoulder and crossbody bags, satchels, hobos, belt/hip bags, backpacks); luggage, duffels and weekenders, lunch bags, diaper/baby bags, pouches, wallets, wristlets, cosmetic cases, straps, charms, coolers, pet and kids' items excluded."
+    }
+  ],
+  "sells_categories": [
+    "bags"
+  ],
+  "checked_at": "2026-10-29"
+}

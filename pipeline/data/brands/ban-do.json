@@ -1,0 +1,49 @@
+{
+  "slug": "ban-do",
+  "name": "ban.do",
+  "website_url": "https://www.bando.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Playful Gifts and Accessories",
+  "hq_country": "US",
+  "founded_year": 2008,
+  "size_range": "Standard and large totes",
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": 30,
+  "sources": [
+    "https://bando.com/meta.json",
+    "https://www.bando.com/collections/bags/products.json?limit=250",
+    "https://www.bando.com/policies/shipping-policy",
+    "https://www.bando.com/policies/refund-policy",
+    "https://www.bando.com/pages/about-us"
+  ],
+  "notes": [
+    "Store meta: Bowling Green, Kentucky, USD, ships to US and CA; 'ban.do curates and creates products that are meant to make you smile' (https://bando.com/meta.json). About: 'In 2008 we created ban.do' (https://www.bando.com/pages/about-us).",
+    "Its bags collection is mostly other labels (243 of 301 listings are Baggu, plus Free People and others): only vendor 'ban.do' items counted, Baggu collaborations excluded, leaving 9 regular-price own-label bags.",
+    "Free standard shipping in the contiguous USA on orders $75+ (https://www.bando.com/policies/shipping-policy). Returns within 30 days unless final sale, $5.95 fee deducted (https://www.bando.com/policies/refund-policy).",
+    "Named: Quilted Tote - Blue Scandinavian Floral $29.95 ('Quilted exterior cotton material', quilted nylon interior, 15 x 17 x 4 in.), Quilted Tote - Pink Tile Floral $29.95, Canvas Tote Bag - Library Card $20.95 (cotton canvas), Rattan Market Bag - Fruit Tiles $45.95."
+  ],
+  "prices": [
+    {
+      "category": "bags",
+      "currency": "USD",
+      "min": 20.95,
+      "max": 45.95,
+      "min_usd": 20.95,
+      "max_usd": 45.95,
+      "fx_date": null,
+      "item_count": 9,
+      "source_url": "https://www.bando.com/collections/bags/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "https://www.bando.com/collections/bags/products.json feed, 301 listings: 4 marked down and 0 sold out excluded, 288 out-of-scope items excluded; 9 regular-price bags, median $29.95. Low / mid / high: Canvas Tote Bag - Library Card $20.95; Quilted Tote - Blue Scandinavian Floral $29.95; Rattan Market Bag - Fruit Tiles $45.95. Like-for-like: carry bags at regular price, in stock (totes, shoulder and crossbody bags, satchels, hobos, belt/hip bags, backpacks); luggage, duffels and weekenders, lunch bags, diaper/baby bags, pouches, wallets, wristlets, cosmetic cases, straps, charms, coolers, pet and kids' items excluded."
+    }
+  ],
+  "sells_categories": [
+    "bags"
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -65,7 +65,9 @@
     "https://api.gap.com/commerce/search/products/v2/cc?cid=13658&brand=gap&market=us&locale=en_US&pageSize=200&pageNumber=0",
     "https://www.gap.com/browse/women/shirts-and-tops?cid=34608",
     "https://www.gap.com/browse/women/t-shirts-and-tanks?cid=17076",
-    "https://api.gap.com/commerce/search/products/v2/cc?cid=34608&brand=gap&market=us&locale=en_US&pageSize=200&pageNumber=0"
+    "https://api.gap.com/commerce/search/products/v2/cc?cid=34608&brand=gap&market=us&locale=en_US&pageSize=200&pageNumber=0",
+    "https://www.gap.com/browse/women/gapfit-leggings-and-joggers?cid=1005439",
+    "https://api.gap.com/commerce/search/products/v2/cc?cid=1005439&brand=gap&market=us&locale=en_US&pageSize=200&pageNumber=0"
   ],
   "notes": [
     "https://www.gap.com/browse/women/dresses?cid=13658 loaded with '0 of 0 items' (product grid didn't render) to WebFetch on 2026-10-29. Status unverified; nothing else stored.",
@@ -74,13 +76,15 @@
     "2026-10-29 (gap page run): women's jeans sizes from the size facet of the Gap Inc. product API filtered to Women (cid=5664, department=136): Regular bottoms 000/23 to 20/35 plus 20-22 (2X), with Short, Regular and Long inseams; Tall 00/24 to 20/35; Petite 000/23 to 20/35. has_plus left empty (one 2X size only).",
     "2026-10-29 (gap page run): Gap Inc. returns FAQ (the JSON the Old Navy returns page loads): returns and exchanges 'can only be made at the brand of purchase (ie, Gap items can't be returned at Gap Factory, Old Navy, Athleta, Banana Republic, or Banana Republic Factory)'; 'if you purchased an item from Gap.com or your local Gap store, it cannot be returned to an Old Navy store.'",
     "2026-10-29 (gap page run): gapinc.com/en-us/about lists its brands as Old Navy, Gap, Banana Republic and Athleta (footer Brands section).",
-    "2026-10-29 (loft page run): Gap Inc. product API for gap.com women's dresses (cid 13658, 3 pages, StylodexBot UA): 164 dress styles (e.g. Organic Cotton Tie-Neck Mini Shift Dress, regular $89.95), all typed 'petite dresses' in webProductType; every colorway is priceType M (markdown) or P (promo below regularPrice, '50% off: price as marked'), so no regular-price dress: no dresses price stored. sells_categories dresses from its own dresses category."
+    "2026-10-29 (loft page run): Gap Inc. product API for gap.com women's dresses (cid 13658, 3 pages, StylodexBot UA): 164 dress styles (e.g. Organic Cotton Tie-Neck Mini Shift Dress, regular $89.95), all typed 'petite dresses' in webProductType; every colorway is priceType M (markdown) or P (promo below regularPrice, '50% off: price as marked'), so no regular-price dress: no dresses price stored. sells_categories dresses from its own dresses category.",
+    "2026-10-29 (athleta page run): GapFit Leggings & Joggers (cid 1005439) via the Gap Inc. product API: 8 styles (e.g. GapFit High Rise Power 7/8 Leggings, Sky High Rise Power Flare Leggings), every colorway priceType M (markdown), so no regular-price leggings: no leggings price stored. sells_categories leggings from its own category."
   ],
   "checked_at": "2026-10-29",
   "us_stores": true,
   "sells_categories": [
     "jeans",
     "dresses",
-    "tops"
+    "tops",
+    "leggings"
   ]
 }

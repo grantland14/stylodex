@@ -31,6 +31,19 @@
       "source_url": "https://www.nike.com/w/womens-hoodies-pullovers-6riveznik1",
       "checked_at": "2026-10-29",
       "note": "WebFetch of the Hoodies & Sweatshirts listing (the URL served the men's grid: 24 of 1,889 items shown). Hoodies only (crews, quarter-zips and jackets dropped): 16 at full price, 3 marked down (e.g. Solo Swoosh Pullover Hoodie $57.97 was $95) excluded. Low: Nike Solo Fleece Men's Pullover Hoodie $75; Sportswear Club Fleece Hoodie $80; Tech Fleece Pullover Hoodie $145; Tech Fleece Full-Zip Hoodie $155; high: Nike Tech Boreas Therma-FIT Full-Zip Hoodie $195. Three hoodies also showed 'See Price in Bag'."
+    },
+    {
+      "category": "leggings",
+      "currency": "USD",
+      "min": 55.0,
+      "max": 118.0,
+      "min_usd": 55.0,
+      "max_usd": 118.0,
+      "fx_date": null,
+      "item_count": 10,
+      "source_url": "https://www.nike.com/w/womens-tights-leggings-29sh2z5e1x6",
+      "checked_at": "2026-10-29",
+      "note": "WebFetch of the US Women's Leggings listing (130 items, 20 visible): 10 at full price, 10 marked down excluded (e.g. Nike One High-Waisted Full-Length Stirrup $52.97 was $75). Low Sportswear Chill Jersey High-Waisted Capri Leggings $55; Nike Pro Mid-Rise Full-Length $60; Nike One Seamless Front Full-Length and One 7/8 with Pockets $65; Nike Pro Seamless 7/8 $70; Nike One High-Waisted Flared $75; NikeSKIMS Weightless V-Panel $84; Nike Universa High-Waisted Full-Length and 7/8 $115; high NikeSKIMS Matte High-Waisted 26\" $118. Range covers the visible 20 only."
     }
   ],
   "materials": [
@@ -43,16 +56,19 @@
     "https://www.nike.com/w/womens-hoodies-pullovers-6riveznik1",
     "https://www.nike.com/t/solo-fleece-mens-pullover-hoodie-QLmGTaBW",
     "https://www.nike.com/help/a/returns-policy",
-    "https://en.wikipedia.org/wiki/Nike,_Inc."
+    "https://en.wikipedia.org/wiki/Nike,_Inc.",
+    "https://www.nike.com/w/womens-tights-leggings-29sh2z5e1x6"
   ],
   "checked_at": "2026-10-29",
   "notes": [
     "Solo Fleece Men's Pullover Hoodie page: $75, no markdown; sizes XS, S–XXL with Tall versions, 3XL, 3XL Tall, 4XL; '82% cotton/18% polyester' midweight fleece, brushed inside; 'Loose fit: roomy and relaxed'. Same page: 'Free standard shipping on orders $50+' tied to Nike Members, so free_shipping_min_usd is left empty.",
     "Returns policy: 'We give you 60 days to try out your Nike purchase'; 'Returns are free for Nike Members.'",
     "Wikipedia infobox: Nike World Headquarters, Washington County, Oregon, U.S. (near Beaverton); founded January 25, 1964.",
-    "ships_to US rests on the US storefront (USD). nike.com/ca and nike.com/gb are separate regional stores."
+    "ships_to US rests on the US storefront (USD). nike.com/ca and nike.com/gb are separate regional stores.",
+    "2026-10-29 (athleta page run): Women's Leggings listing (US site, USD), 130 items; half of the 20 visible were marked down."
   ],
   "sells_categories": [
-    "hoodies"
+    "hoodies",
+    "leggings"
   ]
 }

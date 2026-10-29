@@ -29,6 +29,19 @@
       "min_usd": 22,
       "max_usd": 46,
       "fx_date": null
+    },
+    {
+      "category": "leggings",
+      "currency": "USD",
+      "min": 38.0,
+      "max": 64.0,
+      "min_usd": 38.0,
+      "max_usd": 64.0,
+      "fx_date": null,
+      "item_count": 59,
+      "source_url": "https://www.gymshark.com/collections/leggings/womens",
+      "checked_at": "2026-10-29",
+      "note": "WebFetch of the US women's Leggings listing ('Viewing 1 - 60 of 341 products', US$): 59 at regular price, 1 marked down excluded (Poise Seamless Leggings, Cherry Purple, $30 was $50). Low Everyday Seamless Leggings and Everyday Seamless Flared $38; Training Straight Leg $42; Whitney High-Rise and Mid-Rise $54; Edge $56; SoftSense High-Rise and Mid-Rise $58; Adapt Solid, Edge Dipped, Relay Seamless Mid-Rise, CottonMove Flared, Soft Sculpt $60; SoftSense Straight Leg and Flared $62; high Edge Dipped Flared and Lift Seamless 2.0 Mid-Rise $64. Range covers the first 60 only."
     }
   ],
   "materials": [],
@@ -39,14 +52,19 @@
     "https://www.gymshark.com/collections/t-shirts-tops/mens",
     "https://www.gymshark.com/pages/about-us",
     "https://support.gymshark.com/en-US/article/returns-policy",
-    "https://support.gymshark.com/en-US/article/delivery-information"
+    "https://support.gymshark.com/en-US/article/delivery-information",
+    "https://www.gymshark.com/collections/leggings/womens"
   ],
   "notes": [
     "About: 'Our legacy began in 2012, from a garage in Birmingham, UK'; founder Ben Francis (Founder & CEO); offices in Solihull, UK and New York, US; it 'create[s] the tools that help everyone become their personal best' (sportswear, content, community).",
     "US delivery: standard $5, free over $75; express $15. Delivery page also covers Canada, UK, Australia, NZ, Europe.",
     "US returns: within 30 days of delivery; items with a final discount of 60% or more are Final Sale in the US and Canada.",
     "Sizes from the men's T-Shirts & Tops size filter: XS, S, M, L, XL, XXL, 3XL.",
-    "Not a Shopify public store (meta.json 404); facts read by WebFetch only."
+    "Not a Shopify public store (meta.json 404); facts read by WebFetch only.",
+    "2026-10-29 (athleta page run): women's leggings size filter XXS, XS, S, M, L, XL, XXL (the stored size_range is the men's tees range)."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "leggings"
+  ]
 }

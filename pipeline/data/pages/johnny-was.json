@@ -1,0 +1,982 @@
+{
+  "subject": "Johnny Was",
+  "slug": "johnny-was",
+  "url_prefix": "brands",
+  "category": {
+    "slug": "dresses",
+    "name": "Dresses",
+    "why": "C is a product type. Johnny Was' Google sitelinks are Clothing, New, Dresses and Tops, and dresses is the line every outside source compares (NeedleStar and bestunder250 talk about flowy and maxi dresses). Its embroidery sits mostly in tops ('Embroidered Tops' is its own nav category; no visible dress is described as embroidered), but tops have no shared price row and the Zara and Desigual pages already price Johnny Was on dresses. Prices compare regular-price dresses on each brand's own US-facing store."
+  },
+  "checked_at": "2026-10-29",
+  "fx": null,
+  "serp": [
+    {
+      "keyword": "brands like johnny was",
+      "position": 1,
+      "url": null,
+      "kept": false,
+      "why_dropped": "AI overview, no URL"
+    },
+    {
+      "keyword": "brands like johnny was",
+      "position": 1,
+      "url": "https://www.reddit.com/r/fashionwomens35/comments/1dcrv2t/need_adult_boho_recommendations/",
+      "kept": false,
+      "why_dropped": "Reddit (AI overview sitelink, also organic #4); Reddit refuses WebFetch, not read, no workaround"
+    },
+    {
+      "keyword": "brands like johnny was",
+      "position": 1,
+      "url": "https://www.johnnywas.com/",
+      "kept": false,
+      "why_dropped": "the anchor's own site (AI overview sitelink, organic #2 with sitelinks Clothing, New, Dresses, Tops)"
+    },
+    {
+      "keyword": "brands like johnny was",
+      "position": 1,
+      "url": "https://www.quora.com/What-are-the-best-bohemian-style-fashion-brands",
+      "kept": false,
+      "why_dropped": "Quora, HTTP 403 to WebFetch; a general boho-brands question anyway"
+    },
+    {
+      "keyword": "brands like johnny was",
+      "position": 4,
+      "url": "https://www.reddit.com/r/findfashion/comments/11pl52g/johnny_was_boho_vibes_but_for_eveningwedding_i/",
+      "kept": false,
+      "why_dropped": "Reddit sitelink, not read"
+    },
+    {
+      "keyword": "brands like johnny was",
+      "position": 4,
+      "url": "https://www.reddit.com/r/findfashion/comments/1tlvmdk/best_high_quality_clothing_brands_with_free/",
+      "kept": false,
+      "why_dropped": "Reddit sitelink (also discussion #7), not read"
+    },
+    {
+      "keyword": "brands like johnny was",
+      "position": 5,
+      "url": "https://www.etsy.com/market/johnny_was_dupe",
+      "kept": false,
+      "why_dropped": "marketplace"
+    },
+    {
+      "keyword": "brands like johnny was",
+      "position": 6,
+      "url": "https://backdoorgallery.org/blog/best-bohemian-clothing-brands",
+      "kept": false,
+      "why_dropped": "read with WebFetch: a general '12 Best Bohemian Clothing Brands' list (2023) that never mentions Johnny Was, so nothing is framed as an alternative to it"
+    },
+    {
+      "keyword": "brands like johnny was",
+      "position": 7,
+      "url": "https://www.facebook.com/groups/fairywitchcottagecorevibes/posts/1004023831321368/",
+      "kept": false,
+      "why_dropped": "Facebook group post about boho brands in general; not read"
+    },
+    {
+      "keyword": "brands like johnny was",
+      "position": 8,
+      "url": "https://www.apartstyle.com/post/brands-like-johnny-was",
+      "kept": false,
+      "why_dropped": "apartstyle.com never counts"
+    },
+    {
+      "keyword": "brands like johnny was",
+      "position": 9,
+      "url": "https://iamandco.com/blogs/articles/stores-like-free-people",
+      "kept": false,
+      "why_dropped": "read with WebFetch: alternatives to Free People; never mentions Johnny Was"
+    },
+    {
+      "keyword": "brands like johnny was",
+      "position": 10,
+      "url": "https://www.vogue.com.au/shopping/boho-fashion-brands/news-story/5af64fb51b8258422401f6625240af0c",
+      "kept": false,
+      "why_dropped": "WebFetch refused (unable to fetch); a general boho-brands list by its title"
+    },
+    {
+      "keyword": "brands like johnny was",
+      "position": 11,
+      "url": "https://www.whowhatwear.com/fashion/trends/best-boho-fashion-brands",
+      "kept": false,
+      "why_dropped": "WebFetch returned only the title (truncated); general boho list by its title"
+    },
+    {
+      "keyword": "stores like johnny was",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview returned no rows"
+    },
+    {
+      "keyword": "johnny was alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview returned no rows"
+    },
+    {
+      "keyword": "similar to johnny was",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview returned no rows"
+    }
+  ],
+  "web_search": [
+    {
+      "query": "brands like Johnny Was (disco directory)",
+      "url": "https://www.discobrands.co/brands/johnny-was",
+      "kept": true,
+      "note": "disco brand page for Johnny Was (unsigned; 'Facts checked August 2026'). 'If you like Johnny Was': Camilla 88%, Misa Los Angeles 82%, LoveShackFancy 74%, Rixo 71%, each with a 'What changes' line. Counted as one editorial source; never named, linked, quoted or used as wording on the page."
+    },
+    {
+      "query": "brands similar to Johnny Was boho clothing list",
+      "url": "https://needlestar.com/brands-similar-to-johnny-was/",
+      "kept": true,
+      "note": "NeedleStar '17 Brands Similar to Johnny Was: My Personal Favorite Picks!' (byline Jane, dated Oct 23, 2026). 15 entries: Free People, Spell & The Gypsy Collective, Anthropologie, Jen's Pirate Booty, Lucky Brand, Sundance, Show Me Your Mumu, 'Johnny Was LA' (the anchor itself), Zara, Reformation, Asos, Lovestitch, The Jetset Diaries, Cleobella, Nasty Gal. Same site the Desigual page flagged as reading AI-written. See human_check."
+    },
+    {
+      "query": "brands similar to Johnny Was boho clothing list",
+      "url": "https://bestunder250.com/clothes-like-johnny-was/",
+      "kept": true,
+      "note": "bestunder250 'Clothes Like Johnny Was (10 Clothes Brands Similar To Johnny Was)', Allan Wilson, dated January 26, 2024 / April 23, 2022: Free People, Anthropologie, Spell & The Gypsy Collective, For Love & Lemons, Desigual, Mango, Zara, Sundance, Boho Chic, Raga."
+    },
+    {
+      "query": "\"Johnny Was\" alternatives embroidered boho brands similar",
+      "url": "https://reviewed.com/style/content/johnny-review-colorful-prints-embroidery-worth-it",
+      "kept": false,
+      "note": "Reviewed (Liv Birdsall, July 26, 2023), a Johnny Was review: 'I wouldn't say that anything is superior quality compared to more affordable brands like Abercrombie & Fitch or Lulus', linking a cheaper comparable A&F skirt. Not counted: it compares quality and points to a skirt, it doesn't recommend either brand as a Johnny Was-style dress alternative. See human_check."
+    },
+    {
+      "query": "\"Johnny Was\" alternatives embroidered boho brands similar",
+      "url": "https://expertbeacon.com/johnny-was-clothing-review/",
+      "kept": false,
+      "note": "HTTP 403 to WebFetch; not read. Search snippet compares Johnny Was with Anthropologie and Free People."
+    },
+    {
+      "query": "\"like Johnny Was\" brands dresses embroidered",
+      "url": "https://mythriftlife.com/best-brands-to-thrift-for-embroidered-styles/",
+      "kept": false,
+      "note": "read: a thrift guide that lists Johnny Was among embroidered brands; names no brand as an alternative to it."
+    },
+    {
+      "query": "\"like Johnny Was\" brands dresses embroidered",
+      "url": "https://www.beyondstyle.us/brand/Johnny-Was/",
+      "kept": false,
+      "note": "unsigned brand directory with a 'Similar Brands' block; only the disco directory has Ash's OK among unsigned directories, so not read or counted."
+    },
+    {
+      "query": "Johnny Was dupes cheaper alternatives",
+      "url": "https://johnnywas.knoji.com/alternatives/",
+      "kept": false,
+      "note": "scraped alternatives list (Knoji) with no editorial content; dropped like similist-style lists. Instya and Similarweb competitor pages dropped for the same reason."
+    },
+    {
+      "query": "\"if you like Johnny Was\" OR \"if you love Johnny Was\" OR \"fans of Johnny Was\"",
+      "url": "https://www.goodreads.com/author_blog_posts/19465184-guess-who-my-new-favorite-boho-designer-is",
+      "kept": false,
+      "note": "read: an author's blog post about Johnny Was; names no alternative."
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": "Nordstrom",
+      "url": "https://www.nordstrom.com/brands/johnny-was--10893",
+      "used": false,
+      "why": "empty page to WebFetch; no Johnny Was listing read"
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "result": "public.brands 'Johnny Was' (slug johnny-was): 56 related brands (The Bohemian, Magnolia Pearl, Sara Gabriel, Boho Bella, Madeira, Free People 10; Sundance, Ulla Johnson, Anthropologie, Antik Batik and others 9; Spell & The Gypsy Collective, Faithfull the Brand 8; For Love & Lemons, Show Me Your Mumu, Isabel Marant, Joie 7; ...). With outside evidence of their own: Spell, For Love & Lemons, Show Me Your Mumu (picks) and Free People, Anthropologie, Sundance (unverified)."
+  },
+  "candidates": [
+    {
+      "name": "Free People",
+      "slug": "free-people",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-johnny-was/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/clothes-like-johnny-was/"
+        }
+      ]
+    },
+    {
+      "name": "Anthropologie",
+      "slug": "anthropologie",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-johnny-was/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/clothes-like-johnny-was/"
+        }
+      ]
+    },
+    {
+      "name": "Spell",
+      "slug": "spell",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-johnny-was/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/clothes-like-johnny-was/"
+        }
+      ]
+    },
+    {
+      "name": "Sundance",
+      "slug": "sundance",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-johnny-was/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/clothes-like-johnny-was/"
+        }
+      ]
+    },
+    {
+      "name": "Zara",
+      "slug": "zara",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-johnny-was/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/clothes-like-johnny-was/"
+        }
+      ]
+    },
+    {
+      "name": "Camilla",
+      "slug": "camilla",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "editorial",
+          "url": "https://www.discobrands.co/brands/johnny-was"
+        }
+      ]
+    },
+    {
+      "name": "MISA Los Angeles",
+      "slug": "misa-los-angeles",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "editorial",
+          "url": "https://www.discobrands.co/brands/johnny-was"
+        }
+      ]
+    },
+    {
+      "name": "LoveShackFancy",
+      "slug": "loveshackfancy",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "editorial",
+          "url": "https://www.discobrands.co/brands/johnny-was"
+        }
+      ]
+    },
+    {
+      "name": "RIXO",
+      "slug": "rixo",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "editorial",
+          "url": "https://www.discobrands.co/brands/johnny-was"
+        }
+      ]
+    },
+    {
+      "name": "Jen's Pirate Booty",
+      "slug": "jens-pirate-booty",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-johnny-was/"
+        }
+      ]
+    },
+    {
+      "name": "Lucky Brand",
+      "slug": "lucky-brand",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-johnny-was/"
+        }
+      ]
+    },
+    {
+      "name": "Show Me Your Mumu",
+      "slug": "show-me-your-mumu",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-johnny-was/"
+        }
+      ]
+    },
+    {
+      "name": "Reformation",
+      "slug": "reformation",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-johnny-was/"
+        }
+      ]
+    },
+    {
+      "name": "ASOS",
+      "slug": "asos",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-johnny-was/"
+        }
+      ]
+    },
+    {
+      "name": "Lovestitch",
+      "slug": "lovestitch",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-johnny-was/"
+        }
+      ]
+    },
+    {
+      "name": "The Jetset Diaries",
+      "slug": "the-jetset-diaries",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-johnny-was/"
+        }
+      ]
+    },
+    {
+      "name": "Cleobella",
+      "slug": "cleobella",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-johnny-was/"
+        }
+      ]
+    },
+    {
+      "name": "Nasty Gal",
+      "slug": "nasty-gal",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-johnny-was/"
+        }
+      ]
+    },
+    {
+      "name": "For Love & Lemons",
+      "slug": "for-love-lemons",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/clothes-like-johnny-was/"
+        }
+      ]
+    },
+    {
+      "name": "Desigual",
+      "slug": "desigual",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/clothes-like-johnny-was/"
+        }
+      ]
+    },
+    {
+      "name": "Mango",
+      "slug": "mango",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/clothes-like-johnny-was/"
+        }
+      ]
+    },
+    {
+      "name": "Boho Chic",
+      "slug": "boho-chic",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/clothes-like-johnny-was/"
+        }
+      ]
+    },
+    {
+      "name": "RAGA",
+      "slug": "raga",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/clothes-like-johnny-was/"
+        }
+      ]
+    },
+    {
+      "name": "Abercrombie & Fitch",
+      "slug": "abercrombie-fitch",
+      "in_apart_pool": false,
+      "sources": []
+    },
+    {
+      "name": "Lulus",
+      "slug": "lulus",
+      "in_apart_pool": false,
+      "sources": []
+    },
+    {
+      "name": "Ulla Johnson",
+      "slug": "ulla-johnson",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Magnolia Pearl",
+      "slug": "magnolia-pearl",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Faithfull the Brand",
+      "slug": "faithfull-the-brand",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Isabel Marant",
+      "slug": "isabel-marant",
+      "in_apart_pool": true,
+      "sources": []
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "free-people",
+      "why": "2 sources (NeedleStar, bestunder250) + Apart pool, but freepeople.com returned HTTP 403 to WebFetch on earlier runs today; brand file unverified, not re-tried. Human check."
+    },
+    {
+      "slug": "anthropologie",
+      "why": "2 sources + Apart pool; anthropologie.com 403 to the bot UA on earlier runs today; unverified, not re-tried."
+    },
+    {
+      "slug": "sundance",
+      "why": "2 sources + Apart pool; sundancecatalog.com served HTTP 503 to WebFetch and an 'Error. Page cannot be displayed' body to the StylodexBot UA. New brand file, status unverified. Human check."
+    },
+    {
+      "slug": "zara",
+      "why": "2 sources; zara.com/us 403 to WebFetch on earlier runs today; unverified, not re-tried."
+    },
+    {
+      "slug": "reformation",
+      "why": "1 source; thereformation.com 403 earlier today; unverified."
+    },
+    {
+      "slug": "mango",
+      "why": "1 source; shop.mango.com 403 earlier today; unverified."
+    },
+    {
+      "slug": "asos",
+      "why": "1 source; a multi-brand retailer whose US store refused reads earlier today (stream reset, 503); unverified."
+    },
+    {
+      "slug": "nasty-gal",
+      "why": "1 source; nastygal.com is a coming-soon placeholder selling nothing (brand file status off_category, set by another run)."
+    },
+    {
+      "slug": "the-jetset-diaries",
+      "why": "1 source; thejetsetdiaries.com, www. and .com.au all failed to connect and search found no official store (only ASOS, Zappos, eBay listings). No brand file written."
+    },
+    {
+      "slug": "boho-chic",
+      "why": "1 source (bestunder250 'Boho Chic'); www.bohochic.com refused by the egress proxy, and the name is too generic to identify a brand. No brand file written."
+    },
+    {
+      "slug": "abercrombie-fitch",
+      "why": "Only the Reviewed quality comparison (not counted as recommending it as an alternative). Brand file verified with dresses, so it could become a pick if that source is accepted. See human_check."
+    },
+    {
+      "slug": "lulus",
+      "why": "Only the Reviewed comparison (not counted); lulus.com 403 earlier today, unverified."
+    },
+    {
+      "slug": "ulla-johnson / magnolia-pearl / faithfull-the-brand / isabel-marant / other pool brands",
+      "why": "Apart Style pool only (sources: []); no outside source names them as alternatives to Johnny Was."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "NeedleStar carries 6 of 13 picks",
+      "url": "https://needlestar.com/brands-similar-to-johnny-was/",
+      "check": "Cleobella, Jen's Pirate Booty, Lucky Brand, Show Me Your Mumu and Lovestitch rest on it alone (Spell also has bestunder250). The heading says 17 brands, the list has 15, it lists 'Johnny Was LA' as an alternative to Johnny Was, the byline is 'Jane' and the date is days old. The Desigual page flagged the same site as reading AI-written. Confirm it's acceptable evidence."
+    },
+    {
+      "fact": "disco carries 4 picks",
+      "url": "https://www.discobrands.co/brands/johnny-was",
+      "check": "Camilla, MISA Los Angeles, LoveShackFancy and RIXO rest on the disco directory alone. It's counted per Ash's OK and never cited."
+    },
+    {
+      "fact": "Reviewed not counted",
+      "url": "https://reviewed.com/style/content/johnny-review-colorful-prints-embroidery-worth-it",
+      "check": "The review calls Abercrombie & Fitch and Lulus 'more affordable brands' of no lower quality and links a comparable A&F skirt. Not counted as recommending them as Johnny Was alternatives. If it should count, Abercrombie & Fitch (verified, dresses $70–$200, cheaper-overlapping 'similar') becomes a pick; Lulus is unverified."
+    },
+    {
+      "fact": "MISA returns_days = 3",
+      "url": "https://www.misalosangeles.com/pages/shipping-returns",
+      "check": "MISA's window is 3 business days to initiate a return; returns_days is a plain number, so the chip may read as 3 calendar days."
+    },
+    {
+      "fact": "Lucky Brand has no dress price",
+      "url": "https://www.luckybrand.com/women/clothing/dresses",
+      "check": "Every dress shown on its dresses page was marked down (altard-state run, today), so it renders without a price and price label; the copy names dresses without prices. Its size_range is jeans waists, which the chip will show on a dresses page."
+    },
+    {
+      "fact": "Rixo dresses price in USD",
+      "url": "https://rixolondon.com/en-us/collections/dresses/products.json?limit=250",
+      "check": "New dresses row from the US market feed ($285–$2,175). The GBP base store lists the same styles about a third lower (Sandrine £195 vs $295); the US price is what a US shopper pays, duties included per its shipping notes."
+    }
+  ],
+  "notes": [
+    "13 picks pass enrich.md §3 (target 10–15, not padded). Spell has 2 independent sources (NeedleStar, bestunder250); the other 12 have 1 each. Ranked by sources, then price-range closeness to Johnny Was' $198–$498 (sum of |ln| distance of min and max, field price_distance); For Love & Lemons and Lucky Brand have no stored range and come last.",
+    "Only 'brands like johnny was' returned SERP rows; the other three keywords returned none. No ranking page frames alternatives to Johnny Was except the anchor's own site, Reddit (not read) and Apart Style (never counts), so all counted sources came from WebSearch and the disco directory.",
+    "Anchor: verified. Dress row ($198–$498, checked today by an earlier run) re-confirmed against a fresh read of the dresses page (13 visible, $230–$498, none marked down), so it was kept. parent_company Oxford Industries added from oxfordinc.com. us_stores empty (store locator returned no results), so the copy never claims Johnny Was stores.",
+    "Price labels: 12 'similar' (each overlaps $198–$498), Lovestitch 'cheaper' ($48–$106), For Love & Lemons and Lucky Brand none.",
+    "New brand files this run: camilla, misa-los-angeles, show-me-your-mumu, raga (official store shopraga.com; ragadesigns.com is for sale), lovestitch (shoplovestitch.com; lovestitch.com is for sale), sundance (unverified). Rixo gained a dresses row. Johnny Was gained parent_company and notes."
+  ],
+  "picks": [
+    {
+      "slug": "spell",
+      "rank": 1,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 230.0,
+        "max": 399.0,
+        "min_usd": 230.0,
+        "max_usd": 399.0,
+        "fx_date": null,
+        "item_count": 34
+      },
+      "price_relation": "similar",
+      "price_distance": 0.371,
+      "reason": "Byron Bay boho label whose US-store dresses ($230 to $399) all sit inside Johnny Was' $198 to $498, many in lace and bias cuts, sizes XXS to 3XL, free US shipping over $150.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-johnny-was/",
+          "note": "NeedleStar #2 (Spell & The Gypsy Collective): flowy dresses, vintage-inspired prints, romantic details."
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/clothes-like-johnny-was/",
+          "note": "bestunder250 #3: called Johnny Was' Aussie cousin; coastal, ethical manufacturing, bridal line."
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "cleobella",
+      "rank": 2,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 238,
+        "max": 428,
+        "min_usd": 238,
+        "max_usd": 428,
+        "fx_date": null,
+        "item_count": 31
+      },
+      "price_relation": "similar",
+      "price_distance": 0.335,
+      "reason": "California label whose dresses ($238 to $428) are handmade with artisans in Bali, almost the same band as Johnny Was' $198 to $498, with a flagship store in Sunset Beach.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-johnny-was/",
+          "note": "NeedleStar #14: a sustainable fashion brand with unique prints and embroidery."
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "misa-los-angeles",
+      "rank": 3,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 325.0,
+        "max": 525.0,
+        "min_usd": 325.0,
+        "max_usd": 525.0,
+        "fx_date": null,
+        "item_count": 67
+      },
+      "price_relation": "similar",
+      "price_distance": 0.548,
+      "reason": "Los Angeles label that designs and makes everything in its own studio, with occasion dresses from $325 to $525 overlapping the top of Johnny Was' range.",
+      "evidence": [
+        {
+          "kind": "editorial",
+          "url": "https://www.discobrands.co/brands/johnny-was",
+          "note": "disco 'If you like Johnny Was' #2, 82% match (never cited)."
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "show-me-your-mumu",
+      "rank": 4,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 120.0,
+        "max": 438.0,
+        "min_usd": 120.0,
+        "max_usd": 438.0,
+        "fx_date": null,
+        "item_count": 276
+      },
+      "price_relation": "similar",
+      "price_distance": 0.629,
+      "reason": "LA label with guest, bridesmaid and bride sections; dresses $120 to $438 with a $198 typical price, embroidered styles like the Stephanie Dress ($298), sizes to XXL and a few to 4X.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-johnny-was/",
+          "note": "NeedleStar #7: bold prints and bright colors."
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "desigual",
+      "rank": 5,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 119.0,
+        "max": 699.0,
+        "min_usd": 119.0,
+        "max_usd": 699.0,
+        "fx_date": null,
+        "item_count": 116
+      },
+      "price_relation": "similar",
+      "price_distance": 0.848,
+      "reason": "Barcelona print label whose US dresses run $119 to $699 with a $169 typical price, below Johnny Was' $198 floor, plus free US shipping over $80 and free 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/clothes-like-johnny-was/",
+          "note": "bestunder250 #5: 'the wild card', playful designs, global influences, unexpected color combos."
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "jens-pirate-booty",
+      "rank": 6,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 110.0,
+        "max": 375.0,
+        "min_usd": 110.0,
+        "max_usd": 375.0,
+        "fx_date": null,
+        "item_count": 48
+      },
+      "price_relation": "similar",
+      "price_distance": 0.871,
+      "reason": "Westlake Village, California boho label selling kaftans and kimonos, with dresses from $110 to $375 (typical $238), starting and ending below Johnny Was' $198 to $498.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-johnny-was/",
+          "note": "NeedleStar #4: distinctly beachy vibe."
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "raga",
+      "rank": 7,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 120.0,
+        "max": 298.0,
+        "min_usd": 120.0,
+        "max_usd": 298.0,
+        "fx_date": null,
+        "item_count": 104
+      },
+      "price_relation": "similar",
+      "price_distance": 1.014,
+      "reason": "LA bohemian label founded in 2012 that blends Indian heritage with Los Angeles, with dresses from $120 to $298 including the Nisha Embroidered Maxi Dress ($270) and free US shipping over $50.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/clothes-like-johnny-was/",
+          "note": "bestunder250 #10: 'the edgy wingman', boho with a modern edge."
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "loveshackfancy",
+      "rank": 8,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 175.0,
+        "max": 1995.0,
+        "min_usd": 175.0,
+        "max_usd": 1995.0,
+        "fx_date": null,
+        "item_count": 175
+      },
+      "price_relation": "similar",
+      "price_distance": 1.511,
+      "reason": "New York travel-inspired label with printed cotton dresses such as the Solier Patchwork Print Mini Dress ($295), but a $495 typical dress, at the top of Johnny Was' range.",
+      "evidence": [
+        {
+          "kind": "editorial",
+          "url": "https://www.discobrands.co/brands/johnny-was",
+          "note": "disco 'If you like Johnny Was' #3, 74% match (never cited)."
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "rixo",
+      "rank": 9,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 285.0,
+        "max": 2175.0,
+        "min_usd": 285.0,
+        "max_usd": 2175.0,
+        "fx_date": null,
+        "item_count": 182
+      },
+      "price_relation": "similar",
+      "price_distance": 1.838,
+      "reason": "London vintage-inspired label with embroidered dresses like the Edina in Pansy Embroidery ($395), US prices with duties included from $285, and sizes XXS to 6XL.",
+      "evidence": [
+        {
+          "kind": "editorial",
+          "url": "https://www.discobrands.co/brands/johnny-was",
+          "note": "disco 'If you like Johnny Was' #4, 71% match (never cited)."
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "camilla",
+      "rank": 10,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 299.0,
+        "max": 3700.0,
+        "min_usd": 299.0,
+        "max_usd": 3700.0,
+        "fx_date": null,
+        "item_count": 289
+      },
+      "price_relation": "similar",
+      "price_distance": 2.418,
+      "reason": "Australian designer label known for silk kaftans, with its own named prints on dresses from $299 to $3,700 (typical $849) shipped to the US with duties included.",
+      "evidence": [
+        {
+          "kind": "editorial",
+          "url": "https://www.discobrands.co/brands/johnny-was",
+          "note": "disco 'If you like Johnny Was' #1, 88% match (never cited)."
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "lovestitch",
+      "rank": 11,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 48.0,
+        "max": 106.0,
+        "min_usd": 48.0,
+        "max_usd": 106.0,
+        "fx_date": null,
+        "item_count": 447
+      },
+      "price_relation": "cheaper",
+      "price_distance": 2.964,
+      "reason": "Downtown Los Angeles label built on easy maxi dresses, every regular-price dress between $48 and $106, below Johnny Was' cheapest $198 dress, with free shipping over $150.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-johnny-was/",
+          "note": "NeedleStar #12: affordable bohemian-inspired clothing with a relaxed, beachy vibe."
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "for-love-lemons",
+      "rank": 12,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": null,
+      "price_relation": null,
+      "price_distance": null,
+      "reason": "Lace and party label from 2010 with dresses such as the Abby Mini Dress ($239) and Bailey Maxi Dress ($689), sizes XXS to XL and free US shipping over $250.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/clothes-like-johnny-was/",
+          "note": "bestunder250 #4: lace-focused, sensual and flirty designs, strongest for evening wear."
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "lucky-brand",
+      "rank": 13,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": null,
+      "price_relation": null,
+      "price_distance": null,
+      "reason": "Americana denim label with printed tiered and peasant dresses, US stores that take online returns, a 60-day return window and free US shipping over $85.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-johnny-was/",
+          "note": "NeedleStar #5: a bit more casual, with plenty of boho-inspired pieces."
+        }
+      ],
+      "gate_gaps": []
+    }
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "You've found the Johnny Was maxi you want, and it's $498. Its dresses start at $198, so it helps to know who else sells that vintage, California kind of dress. Here are 13 labels that sell boho and print-led dresses to US shoppers. They're listed roughly by how close their prices come to Johnny Was, with the cheaper and pricier routes after.",
+    "bodies": {
+      "spell": "Start with Spell if you want Johnny Was prices without Johnny Was shapes. Every dress on its US store costs between $230 and $399, from the Frances Mini Dress ($230) to the Whimsy Garden Lace Gown Dress ($399).\n\nIt's a Byron Bay boho label, and the range leans on lace and bias cuts rather than the ruched and peasant styles Johnny Was sells. Sizes run XXS to 3XL, close to Johnny Was' 3X. US orders over $150 ship free, and full-price pieces can go back within 30 days.\n\nThe catch is the sale section. Sale pieces only come back as store credit, so be certain of the size before you buy one. If handwork matters more to you than lace, Cleobella is the better fit.",
+      "cleobella": "Cleobella is the pick if the craft is what draws you to Johnny Was. Its dresses are handmade with artisans in Bali, and the Meadow Mini Dress ($248) sits near the bottom of a $238 to $428 range.\n\nThat range lands almost exactly on Johnny Was' own, so you're comparing like with like. It's a California label, and its flagship shop is in Sunset Beach, handy if you'd rather see a dress before buying. For a print, look at the Aphrodite Ankle Dress in Blue Florabella ($398). Sizes go XS to XL.\n\nReturns are tighter. You get 16 days, refunds on free-shipped orders lose $12, and sale pieces are final. Spell gives full-price styles 30 days.",
+      "misa-los-angeles": "MISA Los Angeles is where to look when you need a dress for an event. Its regular-price dresses start at $325 for the Kiana Dress and stop at $525, a narrower band that sits on the upper half of Johnny Was' range.\n\nEvery piece is designed, made and shipped from its own Los Angeles studio. The Lalisa Dress ($410), with its sequin embellishment, shows the dressier side, and a typical dress costs the same $410. But sizes stop at XL, where Johnny Was goes to 3X with petites.\n\nThe return terms matter here. You get 3 business days after delivery to start one, store credit is the default, and only a first order gets a full refund. Show Me Your Mumu allows 30 days.",
+      "show-me-your-mumu": "Show Me Your Mumu is the cheaper way into a wedding-guest or party dress. Regular-price dresses run from $120 to $438, and a typical one costs $198, which is where Johnny Was starts. The Lisa Maxi Dress ($198) comes in satins and a blue cottage floral.\n\nIt's an LA label with whole sections for guests, bridesmaids and brides. For the embroidery Johnny Was puts on its tops, try the Stephanie Dress in 3D Floral Embroidery ($298). Most dresses go XXS to XXL, and a few reach 4X.\n\nShipping is free once you make an account and $6.99 as a guest. Returns get 30 days, but a refund costs $8, while exchanges and store credit are free.",
+      "desigual": "Desigual is the one for prints at a lower price. Its US store charges $119 to $699 for dresses, but the typical one costs $169, under Johnny Was' cheapest.\n\nThe Barcelona label's dresses designed by Christian Lacroix are a good place to begin, at $119 to $219. Shipping is free over $80, against $125 at Johnny Was, and both give you 30 days of free returns.\n\nSizes are where it falls short. Desigual stops at a US XL. If you wear a 1X or above, stay with Johnny Was, which goes to 3X with petites, or try Show Me Your Mumu, which takes a few styles to 4X.",
+      "jens-pirate-booty": "Jen's Pirate Booty suits the beachier side of Johnny Was. It's a Westlake Village, California label that sells kaftans and kimonos next to its dresses, which range from the Countryside Mini Dress ($110) to the Rosalea Gown ($375).\n\nA typical dress costs $238, so it starts lower than Johnny Was and tops out lower too. Domestic shipping is free from $200, and it also ships to Canada and Australia. Sizes are XS to XL on most styles, with some XXS.\n\nReturns are strict. You have 14 days, a $10 restocking fee comes out of every refund, and you cover the return shipping. If that puts you off, RAGA allows 30 days and costs about the same.",
+      "raga": "RAGA is where to go for an embroidered maxi under $300. The Nisha Embroidered Maxi Dress ($270) is the one to look at, and every dress it sells costs between $120 and $298.\n\nKrishan Chaudry started it with his family in 2012, and the collections blend his Indian heritage with his Los Angeles home. The Ujala Smocked Maxi Dress ($220) shows the typical price, a little under half of Johnny Was' top end. Orders over $50 ship free, and there's a 30-day return window.\n\nTwo things to know. Orders go to US addresses only, and you pay to send returns back. Sizes stop at XL, so Show Me Your Mumu or Spell are better past that.",
+      "loveshackfancy": "LoveShackFancy is for the cotton print dress you plan a trip around, but budget for it. Dresses run $175 to $1,995, and a typical one costs $495, right at the top of Johnny Was' range.\n\nOnly a handful cost $300 or less, the Solier Patchwork Print Mini Dress ($295) among them, so treat it as a label for one special dress rather than several. The prints are mostly on cotton minis. It's a New York brand from 2013 that frames its clothes around travel, with numeric sizes 00 to 14 and letter sizes up to XXL.\n\nReturns take 14 days and online refunds carry a $9 fee. Choose store credit or return in person and the fee goes away.",
+      "rixo": "RIXO is the London option, and its US prices already include duties. Dresses start at $285 and a typical one is $485, so it sits at the top of Johnny Was' range, while the silk jacquard Clementine reaches $2,175.\n\nJohnny Was saves its embroidery mostly for tops, so if you want it in a dress, look here. Try the Susana in Blossom Cutwork Embroidery ($315) or the Edina in Pansy Embroidery ($395). Sizes run UK 6 to 26, or XXS to 6XL, the widest range on this list, with petite lengths on some styles.\n\nDelivery costs $25 on every US order, though, and returns get 14 days with a $5 fee.",
+      "camilla": "Camilla is the splurge. Camilla Franks' Australian label is known for designer silk kaftans, and its US store's dresses run from $299 to $3,700, with a typical one at $849.\n\nEvery dress name ends with its print, like Matadora Flora or Torero Libertine, which lets you follow one print across several shapes. Many are 100% silk, while Johnny Was' silk dresses blend it with viscose. The Drape Jersey Mini Dress ($449) is one of the cheaper ways in.\n\nOrders ship from Australia with duties included, but shipping is $25 unless you spend $800. Returns get 14 days, with no exchanges. For a printed dress under $300, RIXO and Show Me Your Mumu cost far less.",
+      "lovestitch": "Lovestitch gets you the long, easy boho dress for a fraction of Johnny Was prices. Every regular-price dress costs between $48 and $106, from the Weekend Mila Maxi Dress ($48) to the Mona Jacquard Maxi Dress ($106).\n\nIt's designed in downtown Los Angeles and built around maxi dresses, so it's the place to try a shape before you spend $300 on one. Shipping is free over $150, or $9.95 below that, so two or three dresses get you there. Returns get 30 days, and a prepaid return label costs $7.\n\nCheck the sizes first. Most styles come in S to L, with XS and XL on fewer, and anything discounted by 40% or more can't be returned.",
+      "for-love-lemons": "For Love & Lemons is the choice when the plan is a night out. Its lace minis and gowns cover a wide spread, from the Abby Mini Dress ($239) inside Johnny Was' range to the Bailey Maxi Dress ($689) well above it.\n\nTwo friends founded it in 2010, and it puts the emphasis on flattering cuts and detail. Sizes run XXS to XL. US shipping is $10, or free over $250.\n\nWatch the returns clock. It runs 21 days from when your order ships, not when it arrives, US returns cost $10, and worn items take a 25% restocking fee. For a dressier piece with easier returns, Show Me Your Mumu is the alternative.",
+      "lucky-brand": "Lucky Brand is the casual, Americana take on boho, and you can return online orders at its US stores. Its dresses include printed tiers and peasant shapes. The Ruffle Peasant Mini Dress is a shorter take on the style of Johnny Was' Makayla Peasant Maxi Dress ($498), and you can try it on in a store.\n\nIt's a denim label first, so treat the dresses as a side line rather than the main event. Returns get 60 days from purchase, the longest window here, and shipping is free over $85.\n\nIf you'd rather shop a dress-first label with a store you can visit, Cleobella has its flagship in Sunset Beach, California."
+    },
+    "best_for": {
+      "spell": "lace and bias-cut dresses at Johnny Was prices",
+      "cleobella": "handmade dresses priced just like Johnny Was",
+      "misa-los-angeles": "an event dress made start to finish in LA",
+      "show-me-your-mumu": "wedding-guest dresses for less, with a few to 4X",
+      "desigual": "printed dresses under $200 with free 30-day returns",
+      "jens-pirate-booty": "beachy boho dresses that top out under $400",
+      "raga": "an embroidered maxi under $300 with cheap US shipping",
+      "loveshackfancy": "one cotton print mini for a trip",
+      "rixo": "embroidered dresses with US duties already paid",
+      "camilla": "one silk statement dress for a big occasion",
+      "lovestitch": "boho maxis for under $110",
+      "for-love-lemons": "lace minis and gowns for a night out",
+      "lucky-brand": "a peasant dress you can return in a US store"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with what you like about Johnny Was. For the same prices, Spell and Cleobella sit inside its $198 to $498, and Cleobella's dresses are handmade in Bali. For embroidery in a dress, go to RIXO or RAGA. On a tighter budget, Lovestitch keeps every maxi under $110 and Desigual's typical dress is $169. For a wedding or a party, Show Me Your Mumu and For Love & Lemons have the dressier shapes, and Camilla is the splurge. If you need sizes past 3X, RIXO goes to 6XL. And if returns worry you, Lucky Brand gives you 60 days, while MISA gives you three business days."
+    },
+    "faqs": [
+      {
+        "q": "Who owns Johnny Was?",
+        "a": "Oxford Industries, an Atlanta company that owns a group of American lifestyle labels. Johnny Was is its brand for women's clothing that mixes vintage, boho and California style.",
+        "source_query": "who owns johnny was"
+      },
+      {
+        "q": "Is Johnny Was a luxury brand?",
+        "a": "Its prices are premium rather than designer. Dresses cost $198 to $498 on its own store, while Camilla, on this list, charges up to $3,700. Spell and Cleobella sell dresses at much the same prices as Johnny Was.",
+        "source_query": "is johnny was a luxury brand"
+      },
+      {
+        "q": "What is Johnny Was?",
+        "a": "A Southern California women's clothing label with a vintage-inspired style, owned by Oxford Industries. Its dresses cost $198 to $498 and come in XXS to 3X, with petite sizes too.",
+        "source_query": "what is johnny was"
+      }
+    ]
+  }
+}

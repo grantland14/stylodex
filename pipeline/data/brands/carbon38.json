@@ -1,0 +1,43 @@
+{
+  "slug": "carbon38",
+  "name": "Carbon38",
+  "website_url": "https://www.carbon38.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "High-Fashion Activewear",
+  "hq_country": "US",
+  "size_range": "XXS–XXL",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 199,
+  "returns_days": 30,
+  "checked_at": "2026-10-29",
+  "prices": [
+    {
+      "category": "leggings",
+      "currency": "USD",
+      "min": 108.0,
+      "max": 128.0,
+      "min_usd": 108.0,
+      "max_usd": 128.0,
+      "fx_date": null,
+      "item_count": 58,
+      "source_url": "https://www.carbon38.com/collections/leggings/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Shopify collection feed /collections/leggings (100 products, all vendor CARBON38, its own label; 2 non-legging titles; 36 with a compare_at_price above price excluded; 4 sold out excluded): 58 in-stock regular-price leggings. $108: High Rise Legging in Melt, High Rise Capri Legging in Melt, High Rise Full-Length Legging in Diamond Compression; high Split Front Legging in Melt $128. (Toile Legging $128 and Laser Cut Legging in Diamond Compression $148 were sold out.)"
+    }
+  ],
+  "sells_categories": [
+    "leggings"
+  ],
+  "sources": [
+    "https://www.carbon38.com/meta.json",
+    "https://www.carbon38.com/collections/leggings/products.json",
+    "https://www.carbon38.com/policies/refund-policy",
+    "https://www.carbon38.com/policies/shipping-policy"
+  ],
+  "notes": [
+    "2026-10-29 (athleta page run): store meta Culver City, California, US; 'high-fashion activewear and women's ready-to-wear at Carbon38. We bring fashion to function across our curated collection of global activewear brands.' Banner 'FREE SHIPPING ON ALL ORDERS OVER $199'; international orders through Global-e. Refund policy: '30 days from your order date to request a return', unworn with tags; final sale excluded. kind retailer: it curates other brands, though its leggings collection read was all its own CARBON38 label. Sizes in the leggings feed: XXS–XXL."
+  ]
+}

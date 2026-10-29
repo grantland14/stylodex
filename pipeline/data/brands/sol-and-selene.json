@@ -1,0 +1,52 @@
+{
+  "slug": "sol-and-selene",
+  "name": "Sol and Selene",
+  "website_url": "https://www.solandselene.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Lightweight Everyday Bags",
+  "hq_country": "US",
+  "size_range": "Sling backpacks to large totes",
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 30,
+  "materials": [
+    "Neoprene",
+    "Nylon"
+  ],
+  "sources": [
+    "https://solandselene.com/meta.json",
+    "https://www.solandselene.com/collections/handbags/products.json?limit=250",
+    "https://www.solandselene.com/collections/backpacks/products.json?limit=250",
+    "https://www.solandselene.com/policies/shipping-policy",
+    "https://www.solandselene.com/policies/refund-policy",
+    "https://www.solandselene.com/pages/about-us"
+  ],
+  "notes": [
+    "Store meta: Commerce, California, USD, ships to US, CA and one more (https://solandselene.com/meta.json). About: 'a Los Angeles-designed women's bags and accessories brand specializing in lightweight, functional bags made for everyday life' (https://www.solandselene.com/pages/about-us).",
+    "Free shipping via FedEx Home Delivery on all purchases in the continental U.S. (https://www.solandselene.com/policies/shipping-policy). Returns within 30 days minus a $4.99 return shipping fee; one free exchange per order (https://www.solandselene.com/policies/refund-policy).",
+    "Named: Sky's The Limit - Medium Tote $150 (woven neoprene, wear as crossbody or on the arm), Dreamer Tote $120 ('durable nylon with a quilted design'), Beyond The Horizon Sling Backpack $80, Zenith Zen Tote $250."
+  ],
+  "prices": [
+    {
+      "category": "bags",
+      "currency": "USD",
+      "min": 80.0,
+      "max": 250.0,
+      "min_usd": 80.0,
+      "max_usd": 250.0,
+      "fx_date": null,
+      "item_count": 23,
+      "source_url": "https://www.solandselene.com/collections/handbags/products.json?limit=250 + https://www.solandselene.com/collections/backpacks/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "https://www.solandselene.com/collections/handbags/products.json feed, 24 listings: 1 marked down and 0 sold out excluded, 0 out-of-scope items excluded; 23 regular-price bags, median $150. Low / mid / high: Beyond The Horizon - Woven Neoprene Sling Backpack $80; Dare to Dream - Large Woven Denim Hobo $150; Solstice - Large Tote $250. Like-for-like: carry bags at regular price, in stock (totes, shoulder and crossbody bags, satchels, hobos, belt/hip bags, backpacks); luggage, duffels and weekenders, lunch bags, diaper/baby bags, pouches, wallets, wristlets, cosmetic cases, straps, charms, coolers, pet and kids' items excluded."
+    }
+  ],
+  "sells_categories": [
+    "bags"
+  ],
+  "checked_at": "2026-10-29"
+}

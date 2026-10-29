@@ -1,0 +1,67 @@
+{
+  "slug": "athleta",
+  "name": "Athleta",
+  "website_url": "https://athleta.gap.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Yoga and Technical Athletic Clothing",
+  "hq_country": "US",
+  "founded_year": 1998,
+  "parent_company": "Gap Inc.",
+  "size_range": "00–26 (XXS–3X); petite and tall",
+  "has_plus": true,
+  "has_petite": true,
+  "has_tall": true,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 50,
+  "returns_days": 30,
+  "us_stores": true,
+  "certifications": [
+    "Certified B Corp"
+  ],
+  "materials": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "leggings"
+  ],
+  "prices": [
+    {
+      "category": "leggings",
+      "currency": "USD",
+      "min": 89.0,
+      "max": 129.0,
+      "min_usd": 89.0,
+      "max_usd": 129.0,
+      "fx_date": null,
+      "item_count": 13,
+      "source_url": "https://athleta.gap.com/browse/bottoms/leggings?cid=1059481",
+      "checked_at": "2026-10-29",
+      "note": "Gap Inc. product API the leggings page calls (commerceProductsSearchUrl in the page source; cid 1059481, brand at, market us, 1 page, StylodexBot UA): 24 styles, 168 colorways. Leggings only (titles with 'Legging'; flare, bootcut, wide-leg and straight pants and the capri dropped). Regular = regularPrice of in-stock colorways with priceType R, or P without a markdown, clearance, final-sale or 'price as marked' flag; priceType M (the API's 'Clearance') excluded. 13 legging styles qualify: $89 (Elation Ultra High Rise Legging and 7/8, Salutation High Rise Legging, Salutation Pintuck High Rise 7/8, Transcend Zero 7/8, Elation Surface Novelty Legging); Transcend High Rise Stirrup Legging $99; Salutation Stash High Rise Legging and 7/8 $109; Salutation Stash Double Up Lift and Headlands Hybrid Cargo Legging $119; Rainier Legging $119-$129; Altitude Edge Stash Legging $129. Pacesetter 7/8 and PowerMove Smooth Rise had only marked-down colorways. Kept items carried a 'Cardmember Exclusive: 40% Off' flag (card offer, no markdown)."
+    }
+  ],
+  "sources": [
+    "https://athleta.gap.com/",
+    "https://athleta.gap.com/browse/bottoms/leggings?cid=1059481",
+    "https://api.gap.com/commerce/search/products/v2/cc?cid=1059481&brand=at&market=us&locale=en_US&pageSize=200&pageNumber=0",
+    "https://athleta.gap.com/customerService/info.do?cid=79311",
+    "https://athleta.gap.com/customerService/info.do?cid=44959",
+    "https://athleta.gap.com/stores",
+    "https://www.gapinc.com/en-us/about/athleta",
+    "https://www.gapinc.com/en-us/about",
+    "https://www.sec.gov/Archives/edgar/data/39911/000162828026018573/gap-20260131.htm",
+    "https://en.wikipedia.org/wiki/Athleta_(athleisure_brand)",
+    "https://oldnavy.gap.com/static_content/onesitecategory/components/webAssets/oldnavyprod/customerService/json/returns_faq_092926.json"
+  ],
+  "notes": [
+    "2026-10-29 (athleta page run): homepage title 'Shop Athleta for Women's Yoga Clothing, Technical Athletic Clothing, and Athleisure'; meta: 'Athleta designs clothing that integrates performance and technical features for active women and girls'. Search suggestions lead with 'Leggings'; the Bottoms menu has Leggings, a Leggings Guide and a Take the Leggings Quiz page, so C = leggings.",
+    "Sizes from the size facet of the Gap Inc. product API for women's leggings (cid 1059481): Regular 00 (XXS/XS) to 18 (XL) plus 16-18 (1X), 20-22 (2X), 24-26 (3X); Tall 0-18; Petite 00-14. has_plus true from 1X-3X.",
+    "Shipping (homepage shipping modal text): 'Free shipping for all Core and Premier Members' orders of $50 or more'; All-Access Cardmembers free on $35+; members' orders under $50 ship for $7.50; 'Qualifying items ship for $9.50 for all nonmember orders'. free_shipping_min_usd 50 is the rewards-member threshold (Encore membership). athleta.gapcanada.ca is a separate Canadian store, so ships_to records US.",
+    "Returns (cid=79311): '30 Days to Return or Exchange' from delivery (online) or purchase (store); free mail returns for Encore Members, 'A $6 return fee applies to returns by mail from nonmembers'; Premier up to 45 days, All-Access Cardmembers up to 60 (merchandise return card after 30); 'Give-it-a-Workout Guarantee' within 30 days of delivery; final sale excluded. Gap Inc. returns FAQ: returns 'can only be made at the brand of purchase'.",
+    "Store locator (athleta.gap.com/stores) lists stores in 44 states plus DC. gapinc.com/en-us/about/athleta: 'Athleta was founded in 1998 to put women first'; certified B Corp in 2018; over 250 stores in the US and Canada; first store Mill Valley, California, 2011. Gap Inc. 10-K (FY ended Jan 31, 2026): 'Athleta is a premium performance lifestyle brand'; 'Founded in 1998 and acquired by Gap Inc. in 2008'; certified B Corp; principal executive offices Two Folsom Street, San Francisco. Wikipedia: Gap Inc. acquired Athleta in 2008.",
+    "Fabric names from the leggings API facet: Powervita, Supersonic, VitaFree, PowerMove."
+  ]
+}

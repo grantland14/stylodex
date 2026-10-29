@@ -1,0 +1,14 @@
+{
+  "slug": "kate-spade",
+  "name": "Kate Spade New York",
+  "website_url": "https://www.katespade.com",
+  "status": "unverified",
+  "kind": "brand",
+  "checked_at": "2026-10-29",
+  "sources": [
+    "https://www.katespade.com/"
+  ],
+  "notes": [
+    "Unverified: katespade.com returned HTTP 403 (Access Denied) to WebFetch and to the StylodexBot UA on the homepage, /meta.json and /shop/handbags/view-all, 2026-10-29. Not worked around; needs a human check for status, prices, shipping and returns."
+  ]
+}

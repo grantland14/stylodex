@@ -1,0 +1,53 @@
+{
+  "slug": "dooney-bourke",
+  "name": "Dooney & Bourke",
+  "website_url": "https://www.dooney.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "American Leather Handbags",
+  "hq_country": "US",
+  "founded_year": 1975,
+  "size_range": "Small crossbodies to large totes",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "materials": [
+    "Leather"
+  ],
+  "sources": [
+    "https://dooney.com/meta.json",
+    "https://www.dooney.com/collections/bags/products.json?limit=250",
+    "https://www.dooney.com/policies/shipping-policy",
+    "https://www.dooney.com/policies/refund-policy",
+    "https://www.dooney.com/pages/about-us"
+  ],
+  "notes": [
+    "Store meta: Norwalk, Connecticut, USD, ships to 188 countries incl. US, CA, GB, AU; 'Crafting iconic American handbags since 1975' (https://dooney.com/meta.json). About: 'Our journey began in 1975 through the bold vision and creative passion of Peter Dooney'; Heritage Collection 'crafted from rich Italian leather and featuring the Dooney & Bourke duck logo' (https://www.dooney.com/pages/about-us).",
+    "US standard shipping $10.50 ($14.50 AK/HI), no free-shipping threshold stated (https://www.dooney.com/policies/shipping-policy). Full refund within 30 days, $10 flat-rate return fee on domestic orders (https://www.dooney.com/policies/refund-policy).",
+    "Named: Canvas Carryall 50 $75 (the only regular-price bag under $138), Pebble Grain Luna Hobo $218, NFL, MLB and collegiate team bags from $188; high end Alto (Italian leather line) up to $850. 512 of 1,072 feed listings marked down on 2026-10-29."
+  ],
+  "prices": [
+    {
+      "category": "bags",
+      "currency": "USD",
+      "min": 75.0,
+      "max": 850.0,
+      "min_usd": 75.0,
+      "max_usd": 850.0,
+      "fx_date": null,
+      "item_count": 455,
+      "source_url": "https://www.dooney.com/collections/bags/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "https://www.dooney.com/collections/bags/products.json feed, 1072 listings: 512 marked down and 57 sold out excluded, 48 out-of-scope items excluded; 455 regular-price bags, median $278. Low / mid / high: Canvas Carryall 50 $75; NFL Eagles Front Zip Crossbody $278; Oncour Twist Full Up Two $850. Like-for-like: carry bags at regular price, in stock (totes, shoulder and crossbody bags, satchels, hobos, belt/hip bags, backpacks); luggage, duffels and weekenders, lunch bags, diaper/baby bags, pouches, wallets, wristlets, cosmetic cases, straps, charms, coolers, pet and kids' items excluded."
+    }
+  ],
+  "sells_categories": [
+    "bags"
+  ],
+  "checked_at": "2026-10-29"
+}

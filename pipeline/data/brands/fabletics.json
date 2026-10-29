@@ -1,0 +1,15 @@
+{
+  "slug": "fabletics",
+  "name": "Fabletics",
+  "website_url": "https://www.fabletics.com",
+  "kind": "brand",
+  "checked_at": "2026-10-29",
+  "sources": [
+    "https://www.fabletics.com/",
+    "https://www.fabletics.com/womens/leggings",
+    "https://www.fabletics.com/womens/bottoms/leggings"
+  ],
+  "notes": [
+    "2026-10-29 (athleta page run): homepage readable (membership: 'skip by the 5th of every month to avoid a $69.95 charge'; leggings promoted '2 FOR $24'); /womens/leggings 403 to curl and 404 to WebFetch; /womens/bottoms/leggings shows 341 items but the product grid didn't render, so no regular (non-member) prices. Status left for a human check."
+  ]
+}

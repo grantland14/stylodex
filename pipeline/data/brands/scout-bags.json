@@ -1,0 +1,46 @@
+{
+  "slug": "scout-bags",
+  "name": "SCOUT",
+  "website_url": "https://scoutbags.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Patterned Totes in Durable Fabric",
+  "hq_country": "US",
+  "size_range": "Small totes to XX-large zip totes",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 99,
+  "returns_days": 30,
+  "sources": [
+    "https://scoutbags.com/meta.json",
+    "https://scoutbags.com/collections/bags/products.json?limit=250",
+    "https://scoutbags.com/policies/shipping-policy",
+    "https://scoutbags.com/policies/refund-policy",
+    "https://scoutbags.com/pages/the-scout-story"
+  ],
+  "notes": [
+    "Store meta: SCOUT Bags, Washington, DC, USD, ships to the US only; 'SCOUT Bags are designed for life. Featuring collectable patterns, our life-proof fabrics are always durable, never dull' (https://scoutbags.com/meta.json). Sold by 'hundreds of independent retailers nationwide' plus Destination Stores (https://scoutbags.com/pages/the-scout-story); not its own stores, so us_stores left empty.",
+    "Free shipping on orders $99+ (https://scoutbags.com/policies/shipping-policy). Returns postmarked within 30 days of delivery, unused with hang tags; $3 per item restocking fee at Return Bar locations (https://scoutbags.com/policies/refund-policy).",
+    "Named: Original Deano Tote Large $55 ('OUR BEST-SELLING BAG SINCE 2004', open-top tote), Original Deano Tote Small $39, Uptown Pocket Tote $49 (four large outside pockets, 16 x 12 x 5.5 in.), Bagette Market Tote $35 ('holds 2x as much as typical grocery bags'), Miss Manors Tote $99."
+  ],
+  "prices": [
+    {
+      "category": "bags",
+      "currency": "USD",
+      "min": 35.0,
+      "max": 99.0,
+      "min_usd": 35.0,
+      "max_usd": 99.0,
+      "fx_date": null,
+      "item_count": 13,
+      "source_url": "https://scoutbags.com/collections/bags/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "https://scoutbags.com/collections/bags/products.json feed, 33 listings: 5 marked down and 0 sold out excluded, 15 out-of-scope items excluded; 13 regular-price bags, median $65. Low / mid / high: Bagette Market Tote $35; Rocket Pocket Tote $65; Miss Manors Tote $99. Like-for-like: carry bags at regular price, in stock (totes, shoulder and crossbody bags, satchels, hobos, belt/hip bags, backpacks); luggage, duffels and weekenders, lunch bags, diaper/baby bags, pouches, wallets, wristlets, cosmetic cases, straps, charms, coolers, pet and kids' items excluded."
+    }
+  ],
+  "sells_categories": [
+    "bags"
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,604 @@
+{
+ "subject": "Club L London",
+ "slug": "club-l-london",
+ "url_prefix": "stores",
+ "category": {
+  "slug": "dresses",
+  "name": "Dresses",
+  "why": "C is a product type. Club L London sells only its own label (every dress vendor in its feeds is Club L London), so kind brand. Dresses are what it sells: 2,830 of the US store's 3,834 published products are dresses, and the store description leads with 'glamorous dresses, fishtail sequin maxi dresses, figure-flattering bodycon midi dresses, strapless bandeau gowns'. Like-for-like item: dresses at regular price, in USD as a US shopper is charged (the US store, clubllondon.us, includes customs and duties)."
+ },
+ "serp": [
+  {
+   "keyword": "stores like club l london",
+   "position": 1,
+   "url": null,
+   "kept": false,
+   "why_dropped": "AI overview: Ahrefs returns no text, only sitelinks (ASOS's Club L page, Rare London's homepage); a generated answer, not an editorial source"
+  },
+  {
+   "keyword": "stores like club l london",
+   "position": 2,
+   "url": "https://clubllondon.us/",
+   "kept": false,
+   "why_dropped": "the anchor's own site"
+  },
+  {
+   "keyword": "stores like club l london",
+   "position": 3,
+   "url": "https://www.asos.com/us/women/a-to-z-of-brands/club-l/cat/?cid=20667",
+   "kept": false,
+   "why_dropped": "marketplace brand page for Club L only; HTTP 503 to WebFetch (one try)"
+  },
+  {
+   "keyword": "stores like club l london",
+   "position": 4,
+   "url": "https://www.reddit.com/r/LondonLadies/comments/1bocy7s/id_love_to_know_your_favourite_brandswebsites_for/",
+   "kept": false,
+   "why_dropped": "reddit: WebFetch refuses reddit.com; not read, no workaround tried"
+  },
+  {
+   "keyword": "stores like club l london",
+   "position": 4,
+   "url": "https://www.reddit.com/r/femalefashionadvice/comments/1aqwmq/whats_your_favorite_hidden_gem_store/",
+   "kept": false,
+   "why_dropped": "reddit (sitelink): not read, no workaround tried"
+  },
+  {
+   "keyword": "stores like club l london",
+   "position": 4,
+   "url": "https://www.reddit.com/r/findfashion/comments/1u0rvfh/club_l_london_dupe/",
+   "kept": false,
+   "why_dropped": "reddit (sitelink): not read, no workaround tried. The most on-topic page on the SERP; a human reading it could add sources"
+  },
+  {
+   "keyword": "stores like club l london",
+   "position": 5,
+   "url": "https://clubllondon.us/collections/all-dresses",
+   "kept": false,
+   "why_dropped": "the anchor's own site"
+  },
+  {
+   "keyword": "stores like club l london",
+   "position": 6,
+   "url": "https://www.tiktok.com/discover/shops-like-club-l-london",
+   "kept": false,
+   "why_dropped": "WebFetch rendered only the title; curl (StylodexBot UA) got a script shell with no video text. No content, no workaround"
+  },
+  {
+   "keyword": "stores like club l london",
+   "position": 7,
+   "url": "https://rarelondon.com/",
+   "kept": false,
+   "why_dropped": "a store's own homepage, not an editorial source; Rare London has no outside source recommending it as a Club L alternative"
+  },
+  {
+   "keyword": "stores like club l london",
+   "position": 8,
+   "url": "https://www.elle.com/uk/fashion/what-to-wear/g46407760/dress-brands/",
+   "kept": false,
+   "why_dropped": "WebFetch refused (unable to fetch www.elle.com). A general '25 best dress brands' roundup in any case, which wouldn't count unless it recommends brands as alternatives to Club L"
+  },
+  {
+   "keyword": "stores like club l london",
+   "position": 9,
+   "url": "https://www.wardrobeoxygen.com/best-clothing-retailers-women-over-40/",
+   "kept": false,
+   "why_dropped": "read: general 'best retailers for women over 40' guide; Club L is not mentioned in the first 100,000 characters"
+  },
+  {
+   "keyword": "stores like club l london",
+   "position": 10,
+   "url": "https://www.glamourmagazine.co.uk/article/best-online-clothing-stores",
+   "kept": false,
+   "why_dropped": "WebFetch refused (unable to fetch). A general '29 best online clothing stores' roundup, which wouldn't count as an alternatives source"
+  },
+  {
+   "keyword": "brands like club l london",
+   "position": null,
+   "url": null,
+   "kept": false,
+   "why_dropped": "Ahrefs returned no SERP for this keyword (US)"
+  },
+  {
+   "keyword": "club l london alternatives",
+   "position": null,
+   "url": null,
+   "kept": false,
+   "why_dropped": "Ahrefs returned no SERP for this keyword (US)"
+  },
+  {
+   "keyword": "similar to club l london",
+   "position": null,
+   "url": null,
+   "kept": false,
+   "why_dropped": "Ahrefs returned no SERP for this keyword (US)"
+  },
+  {
+   "keyword": "WebSearch",
+   "position": null,
+   "url": "https://www.discobrands.co/brands/club-l",
+   "kept": true,
+   "note": "read with curl (StylodexBot UA): disco brand profile 'Club L — Brand Profile | disco', '4 brands like Club L' under 'If you like Club L': Meshki (90% match), House of CB (86%), BEC + BRIDGE (74%), Orseund Iris (70%). Unsigned directory: counts as evidence, never named, linked or quoted on the page, and none of its wording used in any fact field (Ash, 2026-10-29)."
+  },
+  {
+   "keyword": "WebSearch",
+   "position": null,
+   "url": "https://www.similarsitesearch.com/sites/club-l-london/",
+   "kept": false,
+   "why_dropped": "auto-generated similar-sites template ('Report inaccuracy | Discontinued?', duplicated entry, blank 'last checked'); a similist-style scraped list (enrich.md §1.2). Named PrettyLittleThing, boohoo, ASOS, Missguided, Missy Empire, Lipsy London"
+  },
+  {
+   "keyword": "WebSearch",
+   "position": null,
+   "url": "https://www.instya.com/site/clubllondon.com",
+   "kept": false,
+   "why_dropped": "automated similar-sites list with popularity scores and partner labels, no byline; scraped list"
+  },
+  {
+   "keyword": "WebSearch",
+   "position": null,
+   "url": "https://www.tscentral.com/info/club-l",
+   "kept": false,
+   "why_dropped": "automated directory ('ranked as the most famous Women's Clothing company on this website'), no byline; scraped list. Named TFNC, John Zack, Chi Chi London, AX Paris and others"
+  },
+  {
+   "keyword": "WebSearch",
+   "position": null,
+   "url": "https://clubllondon.knoji.com/alternatives/",
+   "kept": false,
+   "why_dropped": "HTTP 403 to WebFetch; a promo-code site in any case"
+  },
+  {
+   "keyword": "WebSearch",
+   "position": null,
+   "url": "https://www.similarweb.com/website/clubllondon.com/competitors/",
+   "kept": false,
+   "why_dropped": "traffic-overlap tool, not a recommendation"
+  },
+  {
+   "keyword": "WebSearch",
+   "position": null,
+   "url": "https://tracxn.com/d/companies/club-l-london/__BHUTAUmLyACmeFfHvunwr4I0E9gc38Vw2nfrVk17RWw",
+   "kept": false,
+   "why_dropped": "business-competitor database, not a shopping recommendation"
+  },
+  {
+   "keyword": "WebSearch",
+   "position": null,
+   "url": "https://thingtesting.com/brands/club-l-london",
+   "kept": false,
+   "why_dropped": "unsigned brand directory without Ash's OK (only the disco directory has it); not read"
+  },
+  {
+   "keyword": "WebSearch",
+   "position": null,
+   "url": "https://www.hirestreetuk.com/collections/rent-club-london",
+   "kept": false,
+   "why_dropped": "rental marketplace's own collection page; marketplaces are dropped (enrich.md §1.2)"
+  },
+  {
+   "keyword": "WebSearch",
+   "position": null,
+   "url": "https://www.apartstyle.com/post/brands-like-club-l-london",
+   "kept": false,
+   "why_dropped": "apartstyle.com never counts as a source and was not read"
+  },
+  {
+   "keyword": "WebSearch",
+   "position": null,
+   "url": "https://www.tiktok.com/discover/brands-similar-to-club-l",
+   "kept": false,
+   "why_dropped": "TikTok: no readable content (same as above)"
+  }
+ ],
+ "co_stocking": [
+  {
+   "retailer": "ASOS",
+   "url": "https://www.asos.com/us/women/a-to-z-of-brands/club-l/cat/?cid=20667",
+   "used": false,
+   "why": "HTTP 503 to WebFetch (one try); ASOS's dress department holds thousands of brands, too broad to count."
+  },
+  {
+   "retailer": "Next",
+   "url": "https://www.next.co.uk/shop/gender-women-category-dresses/brand-clubllondon-use-partywear",
+   "used": false,
+   "why": "seen in search results as a Club L stockist; not read. Next's dress department holds hundreds of brands, too broad to count as evidence, and it recommends nothing as an alternative to Club L."
+  }
+ ],
+ "candidates": [
+  {
+   "name": "Meshki",
+   "slug": "meshki",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/brands/club-l",
+     "note": "#1 under 'If you like Club L', 90% match"
+    }
+   ]
+  },
+  {
+   "name": "House of CB",
+   "slug": "house-of-cb",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/brands/club-l",
+     "note": "#2, 86% match"
+    }
+   ]
+  },
+  {
+   "name": "BEC + BRIDGE",
+   "slug": "bec-bridge",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/brands/club-l",
+     "note": "#3, 74% match"
+    }
+   ]
+  },
+  {
+   "name": "Orseund Iris",
+   "slug": "orseund-iris",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/brands/club-l",
+     "note": "#4, 70% match"
+    }
+   ]
+  },
+  {
+   "name": "ModParty",
+   "slug": "modparty",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Little Mistress",
+   "slug": "little-mistress",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Windsor",
+   "slug": "windsor",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Chi Chi London",
+   "slug": "chi-chi-london",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Oh Polly",
+   "slug": "oh-polly",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "TFNC",
+   "slug": "tfnc",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Maya Deluxe",
+   "slug": "maya-deluxe",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Jarlo",
+   "slug": "jarlo",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Coast",
+   "slug": "coast",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Forever Unique",
+   "slug": "forever-unique",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Oasis",
+   "slug": "oasis",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Couture Candy",
+   "slug": "couture-candy",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Sabo Skirt",
+   "slug": "sabo-skirt",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Roman",
+   "slug": "roman",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Keepsake The Label",
+   "slug": "keepsake-the-label",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Blame Betty",
+   "slug": "blame-betty",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "By Malina",
+   "slug": "by-malina",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Jolie Moi",
+   "slug": "jolie-moi",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Sherri Hill",
+   "slug": "sherri-hill",
+   "in_apart_pool": true,
+   "sources": []
+  }
+ ],
+ "candidate_pool": {
+  "source": "public.brand_relationships (Apart Style, read-only)",
+  "result": "20 pool rows for Club L London: ModParty, Little Mistress, Windsor, Chi Chi London, Oh Polly, TFNC, Maya Deluxe, Jarlo, Coast, Forever Unique, Oasis, Couture Candy, Sabo Skirt, Roman, Keepsake The Label, House of CB, Blame Betty, By Malina, Jolie Moi, Sherri Hill. Only House of CB has outside evidence (the disco directory)."
+ },
+ "picks": [
+  {
+   "slug": "house-of-cb",
+   "rank": 1,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 195.0,
+    "max": 269.0,
+    "min_usd": 195.0,
+    "max_usd": 269.0,
+    "fx_date": null,
+    "item_count": 31
+   },
+   "price_relation": "similar",
+   "reason": "House of CB designs its dresses in London and sells them at $195–$269 regular price, against Club L's $60–$650 (median $160), with free standard US delivery, 28-day returns and a store on Melrose Avenue in West Hollywood.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/brands/club-l",
+     "note": "#2 of 4 brands like Club L (86% match)"
+    }
+   ],
+   "gate_gaps": [
+    "image_url (coordinator)",
+    "size_range empty (size guide loads by script)",
+    "price from a 31-dress sample, not the full range"
+   ]
+  },
+  {
+   "slug": "bec-bridge",
+   "rank": 2,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 260.0,
+    "max": 680.0,
+    "min_usd": 260.0,
+    "max_usd": 680.0,
+    "fx_date": null,
+    "item_count": 289
+   },
+   "price_relation": "similar",
+   "reason": "BEC + BRIDGE produces its party dresses in Sydney and its US store sells them at $260–$680 (median $380), overlapping the top of Club L's range, in the same US 0–16 sizes, shipping free on US orders over $250.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/brands/club-l",
+     "note": "#3 of 4 brands like Club L (74% match)"
+    }
+   ],
+   "gate_gaps": [
+    "image_url (coordinator)"
+   ]
+  },
+  {
+   "slug": "orseund-iris",
+   "rank": 3,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 395.0,
+    "max": 3400.0,
+    "min_usd": 395.0,
+    "max_usd": 3400.0,
+    "fx_date": null,
+    "item_count": 6
+   },
+   "price_relation": "similar",
+   "reason": "Orseund Iris designs and makes many of its pieces in New York, with regular-price dresses from $395 to $3,400, some in silk jersey or wool with silk chiffon, sized XXS–XL, and 14-day returns on full-price items.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/brands/club-l",
+     "note": "#4 of 4 brands like Club L (70% match)"
+    }
+   ],
+   "gate_gaps": [
+    "image_url (coordinator)"
+   ]
+  }
+ ],
+ "rejected": [
+  {
+   "slug": "meshki",
+   "why": "unverified: www.meshki.us returns HTTP 403 to WebFetch (2026-10-29, this run) and to curl and WebFetch on the Lucy in the Sky run. One try, no workaround. Has 1 source (disco #1, 90% match): first in the human-check queue; it would rank #1 or #2 here."
+  },
+  {
+   "slug": "modparty",
+   "why": "Apart Style pool only: no outside source recommends it as an alternative to Club L London (scraped lists like tscentral, which names Chi Chi London and TFNC, don't count). Not verified."
+  },
+  {
+   "slug": "little-mistress",
+   "why": "Apart Style pool only: no outside source recommends it as an alternative to Club L London (scraped lists like tscentral, which names Chi Chi London and TFNC, don't count). Not verified."
+  },
+  {
+   "slug": "windsor",
+   "why": "Apart Style pool only: no outside source recommends it as an alternative to Club L London (scraped lists like tscentral, which names Chi Chi London and TFNC, don't count). Not verified."
+  },
+  {
+   "slug": "chi-chi-london",
+   "why": "Apart Style pool only: no outside source recommends it as an alternative to Club L London (scraped lists like tscentral, which names Chi Chi London and TFNC, don't count). Not verified."
+  },
+  {
+   "slug": "oh-polly",
+   "why": "Apart Style pool only: no outside source recommends it as an alternative to Club L London (scraped lists like tscentral, which names Chi Chi London and TFNC, don't count). Not verified."
+  },
+  {
+   "slug": "tfnc",
+   "why": "Apart Style pool only: no outside source recommends it as an alternative to Club L London (scraped lists like tscentral, which names Chi Chi London and TFNC, don't count). Not verified."
+  },
+  {
+   "slug": "maya-deluxe",
+   "why": "Apart Style pool only: no outside source recommends it as an alternative to Club L London (scraped lists like tscentral, which names Chi Chi London and TFNC, don't count). Not verified."
+  },
+  {
+   "slug": "jarlo",
+   "why": "Apart Style pool only: no outside source recommends it as an alternative to Club L London (scraped lists like tscentral, which names Chi Chi London and TFNC, don't count). Not verified."
+  },
+  {
+   "slug": "coast",
+   "why": "Apart Style pool only: no outside source recommends it as an alternative to Club L London (scraped lists like tscentral, which names Chi Chi London and TFNC, don't count). Not verified."
+  },
+  {
+   "slug": "forever-unique",
+   "why": "Apart Style pool only: no outside source recommends it as an alternative to Club L London (scraped lists like tscentral, which names Chi Chi London and TFNC, don't count). Not verified."
+  },
+  {
+   "slug": "oasis",
+   "why": "Apart Style pool only: no outside source recommends it as an alternative to Club L London (scraped lists like tscentral, which names Chi Chi London and TFNC, don't count). Not verified."
+  },
+  {
+   "slug": "couture-candy",
+   "why": "Apart Style pool only: no outside source recommends it as an alternative to Club L London (scraped lists like tscentral, which names Chi Chi London and TFNC, don't count). Not verified."
+  },
+  {
+   "slug": "sabo-skirt",
+   "why": "Apart Style pool only: no outside source recommends it as an alternative to Club L London (scraped lists like tscentral, which names Chi Chi London and TFNC, don't count). Not verified."
+  },
+  {
+   "slug": "roman",
+   "why": "Apart Style pool only: no outside source recommends it as an alternative to Club L London (scraped lists like tscentral, which names Chi Chi London and TFNC, don't count). Not verified."
+  },
+  {
+   "slug": "keepsake-the-label",
+   "why": "Apart Style pool only: no outside source recommends it as an alternative to Club L London (scraped lists like tscentral, which names Chi Chi London and TFNC, don't count). Not verified."
+  },
+  {
+   "slug": "blame-betty",
+   "why": "Apart Style pool only: no outside source recommends it as an alternative to Club L London (scraped lists like tscentral, which names Chi Chi London and TFNC, don't count). Not verified."
+  },
+  {
+   "slug": "by-malina",
+   "why": "Apart Style pool only: no outside source recommends it as an alternative to Club L London (scraped lists like tscentral, which names Chi Chi London and TFNC, don't count). Not verified."
+  },
+  {
+   "slug": "jolie-moi",
+   "why": "Apart Style pool only: no outside source recommends it as an alternative to Club L London (scraped lists like tscentral, which names Chi Chi London and TFNC, don't count). Not verified."
+  },
+  {
+   "slug": "sherri-hill",
+   "why": "Apart Style pool only: no outside source recommends it as an alternative to Club L London (scraped lists like tscentral, which names Chi Chi London and TFNC, don't count). Not verified."
+  }
+ ],
+ "human_check": [
+  {
+   "fact": "Meshki (1 source)",
+   "url": "https://www.meshki.us/collections/dresses",
+   "check": "403 to WebFetch and curl. Confirm live, US dress prices (regular price), sizes, US shipping and returns; it would be a pick here."
+  },
+  {
+   "fact": "Reddit thread 'Club l london dupe' (r/findfashion)",
+   "url": "https://www.reddit.com/r/findfashion/comments/1u0rvfh/club_l_london_dupe/",
+   "check": "Not readable by WebFetch. Read it and record any store it recommends as a Club L alternative; with two more verified picks the page reaches the 6-pick floor."
+  },
+  {
+   "fact": "House of CB dress price and sizes",
+   "url": "https://app.houseofcb.com/dresses",
+   "check": "Price is from the 31 dresses the page rendered ($195–$269); the size guide loads by script, so size_range is empty. Record the full regular-price range and the size span if readable."
+  }
+ ],
+ "checked_at": "2026-10-29",
+ "fx": null,
+ "notes": [
+  "3 picks pass enrich.md §3 (verified, sell dresses, ship to the US, 1 outside source each, one checkable reason). Target was 10–15, 6 is the floor: not padded. The page is below the floor and renders noindex.",
+  "Evidence is thin: one SERP ('stores like club l london') and three empty ones. The only page on it that recommends stores as Club L alternatives is a Reddit thread (unreadable). Elle UK, Glamour UK and Wardrobe Oxygen are general roundups (two unreadable, one doesn't mention Club L), which don't count. Extra web searches found only scraped similar-site lists (similarsitesearch, instya, tscentral), TikTok shells, promo and competitor databases, and the disco directory, which is the sole source.",
+  "Co-stocking (enrich.md §1.4b) not used. Club L is stocked by ASOS (US brand page HTTP 503) and Next (UK), but their dress departments hold hundreds of brands, too broad to be evidence (the Selkie run's ruling), and a retailer page doesn't recommend anything as an alternative to Club L.",
+  "Ranking: every pick is single-source, so rank follows price closeness to Club L's $60–$650 (median $160): House of CB ($195–$269), BEC + BRIDGE ($260–$680), Orseund Iris ($395–$3,400). This is also the directory's order.",
+  "Prices: the anchor from the full US Shopify feed (2,181 regular-price in-stock dresses, USD, duties included); BEC + BRIDGE and Orseund Iris from full feeds on earlier runs today; House of CB from a 31-dress rendered sample (earlier run today). All reused unchanged; no other page's price overwritten."
+ ],
+ "author": "Ash",
+ "copy": {
+  "intro": "You've found the Club L dress for the wedding, then the size you need sells out, or you'd rather not pay a label fee to send it back. So you want the same fitted, dressed-up look from another label. These three sit closest to Club L London for evening and occasion dresses, sorted from the nearest price to the furthest. Fair warning: none of them is cheaper.",
+  "bodies": {
+   "house-of-cb": "House of CB comes closest if you liked Club L for its fitted evening dresses and don't mind paying more. Everything is designed in London, and its dresses run $195 to $269, so even the cheapest costs more than a typical Club L dress at $160. Look at the Thalina wine draped halter maxi ($255) for a wedding, or the Magdalena black strapless midi ($269) for a party.\n\nThe buying side is where it beats Club L for US shoppers. Standard US delivery is free, with 28 days to return rather than 14. You can also shop in person at its West Hollywood store or in a few Nordstrom branches, which helps when you're between sizes.\n\nOne catch: sale items refund only to a gift card, so those 28 days are worth most at full price.",
+   "bec-bridge": "BEC + BRIDGE is the pick if you shop Club L's dressier end, the long sequin and fishtail maxis, and you're happy to spend more. The label produces in Sydney, and its US store prices dresses from $260 to $680. That overlaps the top of Club L's range, where its embellished maxis reach $650.\n\nThe cowl-neck maxis, such as the Mirabelle or the Mabel ($380 each), sit right at the middle of the range. It sizes from US 0 to 16, the same span Club L's dresses cover, so you won't lose a size by switching. Orders over $250 ship free to the US, and that's every dress in the shop.\n\nThe trade-off is returns. Refunds have a 14-day window, like Club L, but the return postage and any duties are on you. House of CB gives you longer to change your mind.",
+   "orseund-iris": "Orseund Iris only makes sense if Club L's top-end gowns are already your budget, not its $160 dresses. The Brooklyn label designs and makes many of its pieces in New York, and its cheapest dress is the Off-Season Knitted Raglan Mini ($395).\n\nKnit is the thread to follow here. The La Bohemia Knit Halter Dress ($555) is the one to try if you want an evening dress that isn't satin or sequins. The Night Out Maxi Dress ($3,400) is the splurge. The range is a small edit, not a big catalogue, so it suits one dress for one big night. A Williamsburg showroom opens Thursday to Sunday if you'd rather see it first.\n\nSizes go XXS to XL. Full-price pieces can come back within 14 days, minus a $15 restocking fee in the US, so it's a risky place to guess. BEC + BRIDGE gets you a dressy maxi for under $400."
+  },
+  "best_for": {
+   "house-of-cb": "a fitted evening dress with free US delivery and 28-day returns",
+   "bec-bridge": "a long cowl-neck or sequin dress that ships free",
+   "orseund-iris": "spending on one silk statement dress instead of three"
+  },
+  "closing": {
+   "heading": "How to choose",
+   "body": "Decide what drew you to Club L first. If it was the fitted evening dresses and you'd pay more for an easier return, go to House of CB: free US delivery and 28 days to send it back. If you were shopping Club L's long sequin maxis anyway, BEC + BRIDGE covers that price band in the same US 0 to 16 sizes, and every dress ships free. Orseund Iris is for one dress you'll keep, at $395 and up, with knits as its strong suit. And if price was the whole point, none of these comes close to Club L's $60 and $80 dresses, so Club L itself is still the cheapest place for the look."
+  },
+  "faqs": [
+   {
+    "q": "Where is Club L London based?",
+    "a": "Club L London is based in Manchester, England. US shoppers buy from its separate US store, which charges in dollars and includes customs and duties at checkout.",
+    "source_query": "where is club l london based"
+   },
+   {
+    "q": "What is Club L London's premium shipping?",
+    "a": "Premium is Club L's 2 to 3 working day US delivery, at $18. Standard costs $10 and takes 5 to 7 working days, and Next Day is $39 if you order before 11.30am ET, Monday to Thursday.",
+    "source_query": "what is premium shipping club l london"
+   },
+   {
+    "q": "What is Club L London's return policy?",
+    "a": "You have 14 days from delivery to register a return, and the items must reach Club L within 28 days. Refunds go to your original payment, minus a return label fee on US orders, and there are no exchanges.",
+    "source_query": "what is club l london return policy"
+   }
+  ]
+ }
+}

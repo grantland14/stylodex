@@ -1,0 +1,14 @@
+{
+  "slug": "lululemon",
+  "name": "lululemon",
+  "website_url": "https://shop.lululemon.com",
+  "status": "unverified",
+  "kind": "brand",
+  "checked_at": "2026-10-29",
+  "sources": [
+    "https://shop.lululemon.com/c/womens-leggings/n14uwkz1z0xcmlz8s"
+  ],
+  "notes": [
+    "2026-10-29 (athleta page run): women's leggings page answered HTTP 503 to WebFetch and the connection was reset for curl (StylodexBot UA); not read, no workaround. 5 sources on the Athleta page (most-named alternative): human check."
+  ]
+}

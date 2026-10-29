@@ -1,0 +1,14 @@
+{
+  "slug": "vuori",
+  "name": "Vuori",
+  "website_url": "https://vuoriclothing.com",
+  "kind": "brand",
+  "checked_at": "2026-10-29",
+  "sources": [
+    "https://vuori.com/collections/womens-leggings",
+    "https://vuoriclothing.com/collections/womens-leggings"
+  ],
+  "notes": [
+    "2026-10-29 (athleta page run): vuori.com redirects to vuoriclothing.com; the women's leggings page (title 'Women's Soft Performance, Workout & Everyday Leggings', banner 'Free Standard Shipping With Orders Over $75') renders products client-side, so no prices read; not a Shopify public store (meta.json 404). Status left for a human check."
+  ]
+}

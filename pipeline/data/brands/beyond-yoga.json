@@ -1,0 +1,44 @@
+{
+  "slug": "beyond-yoga",
+  "name": "Beyond Yoga",
+  "website_url": "https://beyondyoga.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Buttery-Soft Leggings and Sets",
+  "hq_country": "US",
+  "size_range": "XXS–4X",
+  "has_plus": true,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 30,
+  "checked_at": "2026-10-29",
+  "prices": [
+    {
+      "category": "leggings",
+      "currency": "USD",
+      "min": 94.0,
+      "max": 128.0,
+      "min_usd": 94.0,
+      "max_usd": 128.0,
+      "fx_date": null,
+      "item_count": 99,
+      "source_url": "https://beyondyoga.com/collections/leggings/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Shopify collection feed /collections/leggings (119 products; 19 non-legging titles; 1 marked down): 99 regular-price leggings. Low Spacedye Pedal Pusher High Waisted Legging $94; Spacedye It's A Tie Legging and glowzone High Waisted Midi Legging $118; high Spacedye You're A Gem High Waisted Midi Legging $128."
+    }
+  ],
+  "sells_categories": [
+    "leggings"
+  ],
+  "sources": [
+    "https://beyondyoga.com/meta.json",
+    "https://beyondyoga.com/collections/leggings/products.json",
+    "https://beyondyoga.com/policies/refund-policy",
+    "https://beyondyoga.com/policies/shipping-policy"
+  ],
+  "notes": [
+    "2026-10-29 (athleta page run): store meta Culver City, California, US; 'Premium activewear and outfits for men and women ... Buttery-soft leggings, joggers, tees and sets'. Banner 'Always Free Shipping + Returns In The U.S.'; shipping policy: 'We ship anywhere in the United States, including Alaska, Hawaii, Puerto Rico'; Free Standard Shipping 3-5 business days. Return policy: 'Returns must be initiated within 30 days of purchase'; price adjustments on full-price items within 14 days. Legging sizes in the feed: XXS–XXL plus 1X–4X; it has a 'Leggings with Plus Size' collection."
+  ]
+}

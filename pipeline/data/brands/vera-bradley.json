@@ -1,0 +1,56 @@
+{
+  "slug": "vera-bradley",
+  "name": "Vera Bradley",
+  "website_url": "https://verabradley.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Patterned Bags and Backpacks",
+  "hq_country": "US",
+  "founded_year": 1982,
+  "size_range": "Mini crossbodies to XL backpacks",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 99,
+  "returns_days": 45,
+  "us_stores": true,
+  "materials": [
+    "Cotton",
+    "Featherweight fabric",
+    "Leather"
+  ],
+  "sources": [
+    "https://verabradley.com/meta.json",
+    "https://verabradley.com/collections/bags/products.json?limit=250",
+    "https://verabradley.com/policies/shipping-policy",
+    "https://verabradley.com/policies/refund-policy",
+    "https://verabradley.com/pages/about-us",
+    "https://stores.verabradley.com"
+  ],
+  "notes": [
+    "Store meta: Roanoke, Indiana, USD, ships_to_countries US only; description 'Shop bags, backpacks and travel from Vera Bradley. In exclusive patterns, our colorful products add organization and style wherever you carry them.' (https://verabradley.com/meta.json). international.verabradley.com serves non-US orders (https://verabradley.com/policies/shipping-policy).",
+    "About: 'turned essentials into statements since 1982'; more than $40 million raised for breast cancer research since 1993 (https://verabradley.com/pages/about-us). Store locator: 'brand retail stores, outlet stores, and specialty retail store locations all across the United States' (https://stores.verabradley.com).",
+    "Free shipping on orders of $99 or more (site banner and https://verabradley.com/policies/shipping-policy). Returns: unused, within 45 days of purchase, by mail or at Vera Bradley Brand and Outlet stores; a $6 fee is deducted when using its return label (https://verabradley.com/policies/refund-policy).",
+    "Materials from the bags feed tags (material:...): of 281 regular-price carry bags, 171 Premium Cotton and 21 Cotton (192 cotton, $25–$200, median $95), 44 Featherweight, 10 Denim, 8 Corduroy, 8 Leather ($125–$270), 7 Performance Twill (https://verabradley.com/collections/bags/products.json?limit=250).",
+    "Backpacks in the same feed: 101 regular-price, $49 (Disney Outlet Essential Sling Backpack) to $210 (XL Bancroft Backpack), median $145. Named: Original Zip Hipster $80 (three zippered compartments, Premium Cotton), Bancroft Backpack $135, Original Vera Tote $135 in Premium Cotton and $270 in leather, Small Original Vera Tote $115, Mini Hathaway Tote $75, Vera Bradley Foundation Woodlark Tote $25 (100% of net proceeds to the Vera Bradley Foundation for Breast Cancer). 433 of 965 feed listings showed a markdown on 2026-10-29."
+  ],
+  "prices": [
+    {
+      "category": "bags",
+      "currency": "USD",
+      "min": 25.0,
+      "max": 270.0,
+      "min_usd": 25.0,
+      "max_usd": 270.0,
+      "fx_date": null,
+      "item_count": 281,
+      "source_url": "https://verabradley.com/collections/bags/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "https://verabradley.com/collections/bags/products.json feed, 965 listings: 433 marked down and 32 sold out excluded, 219 out-of-scope items excluded; 281 regular-price bags, median $110. Low / mid / high: Vera Bradley Foundation Woodlark Tote $25; Disney Becker Camera Bag Crossbody $110; Original Vera Tote $270. Outlet-labelled items with no markdown counted as regular price. Like-for-like: carry bags at regular price, in stock (totes, shoulder and crossbody bags, satchels, hobos, belt/hip bags, backpacks); luggage, duffels and weekenders, lunch bags, diaper/baby bags, pouches, wallets, wristlets, cosmetic cases, straps, charms, coolers, pet and kids' items excluded."
+    }
+  ],
+  "sells_categories": [
+    "bags"
+  ],
+  "checked_at": "2026-10-29"
+}
