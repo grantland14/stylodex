@@ -1,0 +1,1665 @@
+{
+  "subject": "Nordstrom",
+  "slug": "nordstrom",
+  "url_prefix": "stores",
+  "category": {
+    "slug": "womens-clothing",
+    "name": "Women's Clothing",
+    "why": "Nordstrom is a multi-brand department store (kind retailer), so C is the department most of its 'stores like' searches are about: the readable lists are mostly women's fashion (Have Clothes Will Travel, BrandShopper, HuffPost, ReviewsXP; Effortless Gent is the one men's list), and Ahrefs ranks nordstrom.com/browse/women for 'stores like nordstrom'. Like-for-like item for prices: women's jeans, which Nordstrom (Jeans & Denim), Dillard's, Shopbop, Nordstrom Rack, Zappos and Lord & Taylor each list as their own category. Prices are each store's regular listed price; markdowns, compare-at and 'comparable value' figures are excluded."
+  },
+  "checked_at": "2026-10-29",
+  "fx": null,
+  "serp": [
+    {
+      "keyword": "stores like nordstrom",
+      "position": 1,
+      "url": "https://www.neimanmarcus.com/",
+      "kept": false,
+      "why_dropped": "AI-overview sitelink; a store's homepage, not a list"
+    },
+    {
+      "keyword": "stores like nordstrom",
+      "position": 1,
+      "url": "https://www.purewow.com/fashion/stores-like-nordstrom-rack",
+      "kept": false,
+      "why_dropped": "AI-overview sitelink; about Nordstrom Rack alternatives, not Nordstrom"
+    },
+    {
+      "keyword": "stores like nordstrom",
+      "position": 1,
+      "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/",
+      "kept": true,
+      "note": "AI-overview sitelink; read: Lindsey Puls, Have Clothes Will Travel, updated Nov 19 2023; 21 numbered stores + 2 bonus + honorable mentions (no reasons, not counted)"
+    },
+    {
+      "keyword": "stores like nordstrom",
+      "position": 1,
+      "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/",
+      "kept": true,
+      "note": "AI-overview sitelink (also #5 for 'brands like nordstrom'); read: BrandShopper blog, no author, 'Last updated 18 August 2026'; 21 stores. Low quality (Barneys listed twice, internal contradictions), kept as a weak editorial source"
+    },
+    {
+      "keyword": "stores like nordstrom",
+      "position": 1,
+      "url": "https://www.whowhatwear.com/online-clothing-stores-like-nordstrom",
+      "kept": false,
+      "why_dropped": "AI-overview sitelink; WebFetch returned only the title ('The 5 Best Online Stores Like Nordstrom'), list not readable (2 tries)"
+    },
+    {
+      "keyword": "stores like nordstrom",
+      "position": 1,
+      "url": "https://www.popsugar.com/fashion/stores-like-nordstrom-49167787",
+      "kept": false,
+      "why_dropped": "AI-overview sitelink; WebFetch can't fetch popsugar.com"
+    },
+    {
+      "keyword": "stores like nordstrom",
+      "position": 1,
+      "url": "https://www.instyle.com/fashion/clothing/best-online-clothing-stores",
+      "kept": false,
+      "why_dropped": "AI-overview sitelink (and #9); a general best-online-stores list, not alternatives to Nordstrom; not read"
+    },
+    {
+      "keyword": "stores like nordstrom",
+      "position": 1,
+      "url": "https://www.quora.com/What-are-the-best-online-outlet-stores-comparable-to-Nordstroms-Rack-for-mens-clothing",
+      "kept": false,
+      "why_dropped": "Quora; about Nordstrom Rack; not read"
+    },
+    {
+      "keyword": "stores like nordstrom",
+      "position": 1,
+      "url": "https://effortlessgent.com/stores-like-nordstrom-rack/",
+      "kept": false,
+      "why_dropped": "about Nordstrom Rack alternatives"
+    },
+    {
+      "keyword": "stores like nordstrom",
+      "position": 1,
+      "url": "https://www.yahoo.com/lifestyle/15-stores-nordstrom-rack-fashionistas-120000094.html",
+      "kept": false,
+      "why_dropped": "about Nordstrom Rack alternatives"
+    },
+    {
+      "keyword": "stores like nordstrom",
+      "position": 2,
+      "url": "https://www.pinterest.com/pin/397442735869020824/",
+      "kept": false,
+      "why_dropped": "Pinterest pin of the Have Clothes Will Travel article (already kept)"
+    },
+    {
+      "keyword": "stores like nordstrom",
+      "position": 4,
+      "url": "https://www.nordstromrack.com/brands",
+      "kept": false,
+      "why_dropped": "Nordstrom's own sister site"
+    },
+    {
+      "keyword": "stores like nordstrom",
+      "position": 5,
+      "url": "https://www.quora.com/What-department-store-would-you-shop-at-Saks-Fifth-Avenue-Neiman-Marcus-Nordstrom-Macy-s-Bloomingdale-s-or-Barneys",
+      "kept": false,
+      "why_dropped": "Quora; tj-maxx run found quora.com returns 403 to WebFetch; not read"
+    },
+    {
+      "keyword": "stores like nordstrom",
+      "position": 6,
+      "url": "https://bstrategyhub.com/nordstrom-competitors-and-alternatives/",
+      "kept": false,
+      "why_dropped": "business competitor analysis, not shopping alternatives (same rule as marketbeat on the TJ Maxx page); not read"
+    },
+    {
+      "keyword": "stores like nordstrom",
+      "position": 7,
+      "url": "https://www.reddit.com/r/fashionwomens35/comments/1ns4c3h/where_do_people_shop_online_these_days/",
+      "kept": false,
+      "why_dropped": "reddit; WebFetch refuses reddit.com; not read, no workaround"
+    },
+    {
+      "keyword": "stores like nordstrom",
+      "position": 8,
+      "url": "https://styleyouroccasion.com/stores-like-neiman-marcus/",
+      "kept": false,
+      "why_dropped": "about Neiman Marcus alternatives"
+    },
+    {
+      "keyword": "stores like nordstrom",
+      "position": 10,
+      "url": "https://www.pinterest.com/pin/20-stores-similar-to-nordstrom-that-are-equally-stylish--476396466849647052/",
+      "kept": false,
+      "why_dropped": "Pinterest pin, no readable list"
+    },
+    {
+      "keyword": "stores like nordstrom",
+      "position": 11,
+      "url": "https://www.nordstrom.com/browse/women",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "nordstrom alternatives",
+      "position": 1,
+      "url": "https://www.investopedia.com/ask/answers/052215/who-are-nordstroms-jwn-main-competitors.asp",
+      "kept": false,
+      "why_dropped": "featured snippet; stock-market competitors, not shopping alternatives"
+    },
+    {
+      "keyword": "nordstrom alternatives",
+      "position": 3,
+      "url": "https://www.huffpost.com/entry/stores-similar-to-nordstrom-for-designers-for-cheap_l_5f036df9c5b6ca97092233cb",
+      "kept": true,
+      "note": "read: Ambar Pardilla, HuffPost, July 10 2020; 7 stores"
+    },
+    {
+      "keyword": "nordstrom alternatives",
+      "position": 4,
+      "url": "https://www.nordstrom.com/brands/alternative--6538",
+      "kept": false,
+      "why_dropped": "the anchor's own page (a brand called Alternative)"
+    },
+    {
+      "keyword": "nordstrom alternatives",
+      "position": 5,
+      "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/",
+      "kept": true,
+      "note": "same article as above"
+    },
+    {
+      "keyword": "nordstrom alternatives",
+      "position": 6,
+      "url": "https://www.reviewsxp.com/blog/stores-like-nordstrom/",
+      "kept": true,
+      "note": "read: Anjali Lakhi, ReviewsXP, undated ('2024' in title); 13 stores, 5 of them ultra-low-price own-label sites"
+    },
+    {
+      "keyword": "nordstrom alternatives",
+      "position": 7,
+      "url": "https://www.irreverentgent.com/stores-like-nordstrom-rack/",
+      "kept": false,
+      "why_dropped": "about Nordstrom Rack alternatives"
+    },
+    {
+      "keyword": "nordstrom alternatives",
+      "position": 8,
+      "url": "https://effortlessgent.com/stores-like-nordstrom/",
+      "kept": true,
+      "note": "read: Team EG, Effortless Gent, Oct 7 2021 (updated Nov 3 2021); men's list, 12 entries, only Bloomingdale's and Saks are stores (the rest are single brands)"
+    },
+    {
+      "keyword": "nordstrom alternatives",
+      "position": 9,
+      "url": "https://donegood.co/blogs/news/alternatives-to-nordstrom",
+      "kept": false,
+      "why_dropped": "WebFetch received DoneGood's homepage, not the article; not readable"
+    },
+    {
+      "keyword": "nordstrom alternatives",
+      "position": 10,
+      "url": "https://www.nordstromrack.com/brands/alternative",
+      "kept": false,
+      "why_dropped": "Nordstrom Rack page (brand called Alternative)"
+    },
+    {
+      "keyword": "similar to nordstrom",
+      "position": 1,
+      "url": "https://www.reddit.com/r/malefashionadvice/comments/x02vg/are_there_other_stores_similar_to_nordstrom_rack/",
+      "kept": false,
+      "why_dropped": "reddit; not read"
+    },
+    {
+      "keyword": "similar to nordstrom",
+      "position": 3,
+      "url": "https://www.nordstrom.com/brands-list",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "similar to nordstrom",
+      "position": 4,
+      "url": "https://www.nordstromrack.com/",
+      "kept": false,
+      "why_dropped": "Nordstrom's own sister site"
+    },
+    {
+      "keyword": "similar to nordstrom",
+      "position": 5,
+      "url": "https://10best.usatoday.com/awards/best-department-store/",
+      "kept": false,
+      "why_dropped": "reader-vote ranking of department stores, not alternatives to Nordstrom; not read"
+    },
+    {
+      "keyword": "similar to nordstrom",
+      "position": 6,
+      "url": "https://effortlessgent.com/stores-like-nordstrom/",
+      "kept": true,
+      "note": "same article as above"
+    },
+    {
+      "keyword": "similar to nordstrom",
+      "position": 7,
+      "url": "https://www.pinterest.com/pin/397442735869020824/",
+      "kept": false,
+      "why_dropped": "Pinterest pin"
+    },
+    {
+      "keyword": "similar to nordstrom",
+      "position": 8,
+      "url": "https://www.purewow.com/fashion/stores-like-nordstrom-rack",
+      "kept": false,
+      "why_dropped": "about Nordstrom Rack alternatives"
+    },
+    {
+      "keyword": "similar to nordstrom",
+      "position": 9,
+      "url": "https://www.facebook.com/haveclotheswilltravel/posts/wondering-what-other-stores-out-there-are-like-nordstrom-this-post-is-my-list-of/3264861223643699/",
+      "kept": false,
+      "why_dropped": "Facebook post linking the Have Clothes Will Travel article"
+    },
+    {
+      "keyword": "similar to nordstrom",
+      "position": 10,
+      "url": "https://www.investopedia.com/ask/answers/052215/who-are-nordstroms-jwn-main-competitors.asp",
+      "kept": false,
+      "why_dropped": "stock-market competitors"
+    },
+    {
+      "keyword": "brands like nordstrom",
+      "position": 1,
+      "url": "https://www.nordstrom.com/brands-list",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "brands like nordstrom",
+      "position": 3,
+      "url": "https://www.reddit.com/r/malefashionadvice/comments/x02vg/are_there_other_stores_similar_to_nordstrom_rack/",
+      "kept": false,
+      "why_dropped": "reddit; not read"
+    },
+    {
+      "keyword": "brands like nordstrom",
+      "position": 4,
+      "url": "https://www.nordstrom.com/",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "brands like nordstrom",
+      "position": 5,
+      "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/",
+      "kept": true,
+      "note": "same article as above"
+    },
+    {
+      "keyword": "brands like nordstrom",
+      "position": 6,
+      "url": "https://www.consainsights.com/company-profile/nordstrom/competitors",
+      "kept": false,
+      "why_dropped": "business competitor profile; not read"
+    },
+    {
+      "keyword": "brands like nordstrom",
+      "position": 7,
+      "url": "https://www.nordstromrack.com/brands",
+      "kept": false,
+      "why_dropped": "Nordstrom's own sister site"
+    },
+    {
+      "keyword": "brands like nordstrom",
+      "position": 8,
+      "url": "https://www.facebook.com/fb-answers/nordstrom-like-stores/?locale=he_IL",
+      "kept": false,
+      "why_dropped": "Facebook AI answers page, not editorial"
+    },
+    {
+      "keyword": "brands like nordstrom",
+      "position": 9,
+      "url": "https://10best.usatoday.com/awards/best-department-store/",
+      "kept": false,
+      "why_dropped": "reader-vote ranking of department stores"
+    },
+    {
+      "keyword": "brands like nordstrom",
+      "position": 10,
+      "url": "https://effortlessgent.com/stores-like-nordstrom/",
+      "kept": true,
+      "note": "same article as above"
+    },
+    {
+      "keyword": "nordstrom alternatives",
+      "position": 50,
+      "url": "https://plaintips.com/stores-like-nordstrom",
+      "kept": false,
+      "why_dropped": "outside the top 10 (read anyway: no author or date; 10 entries, all single brands except Urban Outfitters; no pick depends on it)"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": null,
+      "url": null,
+      "used": false,
+      "why": "enrich.md §1.4b doesn't apply: Nordstrom is itself a multi-brand retailer."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Bloomingdale's",
+      "slug": "bloomingdales",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.huffpost.com/entry/stores-similar-to-nordstrom-for-designers-for-cheap_l_5f036df9c5b6ca97092233cb"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-nordstrom/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.reviewsxp.com/blog/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Saks Fifth Avenue",
+      "slug": "saks-fifth-avenue",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Macy's",
+      "slug": "macys",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.reviewsxp.com/blog/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Revolve",
+      "slug": "revolve",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.reviewsxp.com/blog/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Net-a-Porter",
+      "slug": "net-a-porter",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.reviewsxp.com/blog/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "ASOS",
+      "slug": "asos",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.reviewsxp.com/blog/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Topshop",
+      "slug": "topshop",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.reviewsxp.com/blog/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Anthropologie",
+      "slug": "anthropologie",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.reviewsxp.com/blog/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Neiman Marcus",
+      "slug": "neiman-marcus",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Shopbop",
+      "slug": "shopbop",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.huffpost.com/entry/stores-similar-to-nordstrom-for-designers-for-cheap_l_5f036df9c5b6ca97092233cb"
+        }
+      ]
+    },
+    {
+      "name": "Nordstrom Rack",
+      "slug": "nordstrom-rack",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Saks OFF 5TH",
+      "slug": "saks-off-5th",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.huffpost.com/entry/stores-similar-to-nordstrom-for-designers-for-cheap_l_5f036df9c5b6ca97092233cb"
+        }
+      ]
+    },
+    {
+      "name": "Zappos",
+      "slug": "zappos",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.huffpost.com/entry/stores-similar-to-nordstrom-for-designers-for-cheap_l_5f036df9c5b6ca97092233cb"
+        }
+      ]
+    },
+    {
+      "name": "Dillard's",
+      "slug": "dillards",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Lord & Taylor",
+      "slug": "lord-and-taylor",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Barneys New York",
+      "slug": "barneys-new-york",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Bergdorf Goodman",
+      "slug": "bergdorf-goodman",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Harvey Nichols",
+      "slug": "harvey-nichols",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Selfridges",
+      "slug": "selfridges",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Harrods",
+      "slug": "harrods",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Moda Operandi",
+      "slug": "moda-operandi",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Ssense",
+      "slug": "ssense",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Mytheresa",
+      "slug": "mytheresa",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Farfetch",
+      "slug": "farfetch",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "24S",
+      "slug": "24s",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "IFCHIC",
+      "slug": "ifchic",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Boden",
+      "slug": "boden",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "What Goes Around Comes Around",
+      "slug": "what-goes-around-comes-around",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Intermix",
+      "slug": "intermix",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.huffpost.com/entry/stores-similar-to-nordstrom-for-designers-for-cheap_l_5f036df9c5b6ca97092233cb"
+        }
+      ]
+    },
+    {
+      "name": "The Outnet",
+      "slug": "the-outnet",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.huffpost.com/entry/stores-similar-to-nordstrom-for-designers-for-cheap_l_5f036df9c5b6ca97092233cb"
+        }
+      ]
+    },
+    {
+      "name": "Verishop",
+      "slug": "verishop",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.huffpost.com/entry/stores-similar-to-nordstrom-for-designers-for-cheap_l_5f036df9c5b6ca97092233cb"
+        }
+      ]
+    },
+    {
+      "name": "Zara",
+      "slug": "zara",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "H&M",
+      "slug": "h-m",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Uniqlo",
+      "slug": "uniqlo",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Madewell",
+      "slug": "madewell",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Free People",
+      "slug": "free-people",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Everlane",
+      "slug": "everlane",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Urban Outfitters",
+      "slug": "urban-outfitters",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Banana Republic",
+      "slug": "banana-republic",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Shein",
+      "slug": "shein",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.reviewsxp.com/blog/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Romwe",
+      "slug": "romwe",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.reviewsxp.com/blog/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Zaful",
+      "slug": "zaful",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.reviewsxp.com/blog/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Chic Me",
+      "slug": "chic-me",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.reviewsxp.com/blog/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Rosegal",
+      "slug": "rosegal",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.reviewsxp.com/blog/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Dresslily",
+      "slug": "dresslily",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.reviewsxp.com/blog/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Ralph Lauren",
+      "slug": "ralph-lauren",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Todd Snyder",
+      "slug": "todd-snyder",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Reiss",
+      "slug": "reiss",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "J.Crew",
+      "slug": "j-crew",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Bonobos",
+      "slug": "bonobos",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Club Monaco",
+      "slug": "club-monaco",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Ben Sherman",
+      "slug": "ben-sherman",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Paul Smith",
+      "slug": "paul-smith",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Topman",
+      "slug": "topman",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-nordstrom/"
+        }
+      ]
+    },
+    {
+      "name": "Holt Renfrew",
+      "slug": "holt-renfrew",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Sephora",
+      "slug": "sephora",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Ulta Beauty",
+      "slug": "ulta-beauty",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Fenwick",
+      "slug": "fenwick",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Simons",
+      "slug": "simons",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Violet Grey",
+      "slug": "violet-grey-beauty",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Journelle",
+      "slug": "journelle",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Cult Beauty",
+      "slug": "cult-beauty",
+      "in_apart_pool": true,
+      "sources": []
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "result": "14 rows for public.brands 'nordstrom': Bergdorf Goodman, Harvey Nichols, Saks Fifth Avenue, Neiman Marcus, Selfridges, Holt Renfrew, Sephora, Ulta Beauty, REVOLVE, Fenwick, Simons, Violet Grey, Journelle, Cult Beauty. Pool only, never evidence."
+  },
+  "picks": [
+    {
+      "slug": "bloomingdales",
+      "rank": 1,
+      "independent_sources": 5,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "Bloomingdale's is a full-line department store owned by Macy's, Inc. that carries premium luxury designers, emerging contemporary labels and private labels, with 32 full-line stores and 25 Bloomingdale's The Outlet stores in the US.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/",
+          "note": "#1: \"incredibly similar to Nordstrom\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/",
+          "note": "#1"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.huffpost.com/entry/stores-similar-to-nordstrom-for-designers-for-cheap_l_5f036df9c5b6ca97092233cb",
+          "note": "#1: \"probably your best option if you're over Nordstrom\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-nordstrom/",
+          "note": "#1: \"a direct competitor of Nordstrom\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.reviewsxp.com/blog/stores-like-nordstrom/",
+          "note": "#7: \"The price point is pretty similar to Nordstrom\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "saks-fifth-avenue",
+      "rank": 2,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "Saks Fifth Avenue, founded 1924 and now part of Exemplar Luxury Group with Neiman Marcus and Bergdorf Goodman, is a luxury fashion department store with a New York flagship and stores in leading luxury markets.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/",
+          "note": "#2: \"has more designer options than Bloomingdales does\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/",
+          "note": "#2"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-nordstrom/",
+          "note": "#2: \"feels even more luxurious and high-end\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "macys",
+      "rank": 3,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "Macy's sells fashion, beauty and home from outside and private brands at 408 locations, with Macy's Backstage off-price sections inside many stores, and belongs to Macy's, Inc. alongside Bloomingdale's.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/",
+          "note": "#4: \"more affordable than the previous stores mentioned\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/",
+          "note": "#8"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.reviewsxp.com/blog/stores-like-nordstrom/",
+          "note": "#6: \"The price point is also lower than Nordstrom\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "neiman-marcus",
+      "rank": 4,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "Neiman Marcus, in luxury retail since 1907, sells top luxury designers such as Saint Laurent, Givenchy and Proenza Schouler from flagships in Beverly Hills, NorthPark and Coral Gables.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/",
+          "note": "#3: \"carries many top designers\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/",
+          "note": "#3"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "dillards",
+      "rank": 5,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 36,
+        "max": 350,
+        "min_usd": 36,
+        "max_usd": 350,
+        "fx_date": null,
+        "item_count": 1182
+      },
+      "price_relation": "similar",
+      "reason": "Dillard's sells regular-price women's jeans at $36–$350 from NYDJ, Levi's and KUT from the Kloth in sizes 00–16 and 1X–3X, from 272 stores in 30 states, with free shipping over $150 and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/",
+          "note": "#9: \"combines traditional styles with contemporary fashion\""
+        }
+      ],
+      "products_named": [
+        {
+          "name": "NYDJ Marilyn Stretch Denim High Rise Straight Leg Lift & Tuck Technology Jeans",
+          "price": 129,
+          "url": "https://www.dillards.com/c/women-jeans",
+          "note": "regular price (no list/markdown pricing) in the listing's embedded data"
+        },
+        {
+          "name": "JOHNNY WAS Embroidered Side Flare Leg High Waisted Stretch Denim Jeans",
+          "price": 350,
+          "url": "https://www.dillards.com/c/women-jeans"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "bergdorf-goodman",
+      "rank": 6,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": null,
+      "price_relation": null,
+      "reason": "Bergdorf Goodman is a single New York department store at Fifth Avenue and 57th Street, open since 1901, with women's and men's stores and BG.com, selling leading and emerging designers such as Akris and Alaïa.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/",
+          "note": "#20 (second #20): \"luxury department store based on Fifth Avenue\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "lord-and-taylor",
+      "rank": 7,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 234.9,
+        "max": 3165.9,
+        "min_usd": 234.9,
+        "max_usd": 3165.9,
+        "fx_date": null,
+        "item_count": 2473
+      },
+      "price_relation": "similar",
+      "reason": "Lord & Taylor, founded 1826 and online-only since 2020, sells designer women's jeans at $234.90–$3,165.90 (Gucci, MOTHER, AGOLDE), ships to the 48 contiguous states, free over $300, with 14-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/",
+          "note": "#10: \"a sophisticated combination of classic and modern fashion\""
+        }
+      ],
+      "products_named": [
+        {
+          "name": "Sunflower Wide Twist Jeans",
+          "price": 234.9,
+          "url": "https://www.lordandtaylor.com/collections/jeans-denim/products.json"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "revolve",
+      "rank": 8,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "Revolve sells designer women's denim (AGOLDE, FRAME, Citizens of Humanity) in sizes XXS–4X with denim waists 24–48, with free US shipping and returns, 30 days for a refund or 60 for an exchange.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/",
+          "note": "#10: \"The price point on average is similar to Nordstrom\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/",
+          "note": "#6"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.reviewsxp.com/blog/stores-like-nordstrom/",
+          "note": "#10: \"appealing to a younger audience\""
+        }
+      ],
+      "products_named": [
+        {
+          "name": "AGOLDE 90's Pinch Waist Jeans",
+          "price": 208,
+          "url": "https://www.revolve.com/denim/br/2664ce/",
+          "note": "one of 16 items rendered on the Denim page, none on sale (WebFetch)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "shopbop",
+      "rank": 9,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 78,
+        "max": 1550,
+        "min_usd": 78,
+        "max_usd": 1550,
+        "fx_date": null,
+        "item_count": 946
+      },
+      "price_relation": "similar",
+      "reason": "Shopbop, part of Amazon since 2006, sells regular-price women's jeans at $78–$1,550 from 78 labels, with free US shipping and no minimum, and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/",
+          "note": "#11: \"carries tons of different styles and designers\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.huffpost.com/entry/stores-similar-to-nordstrom-for-designers-for-cheap_l_5f036df9c5b6ca97092233cb",
+          "note": "#4: designer items, free two-day shipping for Prime members"
+        }
+      ],
+      "products_named": [
+        {
+          "name": "Free People Breezy Denim Pull On Jeans",
+          "price": 78,
+          "url": "https://www.shopbop.com/",
+          "note": "from shopbop.json price note"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "nordstrom-rack",
+      "rank": 10,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 15.38,
+        "max": 419.97,
+        "min_usd": 15.38,
+        "max_usd": 419.97,
+        "fx_date": null,
+        "item_count": 119
+      },
+      "price_relation": "similar",
+      "reason": "Nordstrom Rack is Nordstrom's off-price chain, selling brand-name women's jeans (MANGO, Levi's, Madewell, Akris) below a listed comparable value in sizes 00–28W, with online returns accepted free at any Nordstrom store.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/",
+          "note": "bonus pick: \"discount version of Nordstrom\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/",
+          "note": "#7"
+        }
+      ],
+      "products_named": [
+        {
+          "name": "MANGO Claudia Waxed Crop Slim Fit Jeans",
+          "price": 15.38,
+          "comparable": 69.99
+        },
+        {
+          "name": "Akris Finnian High Waist Wide Leg Jeans",
+          "price": 419.97,
+          "comparable": 995
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "zappos",
+      "rank": 11,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 64.95,
+        "max": 395,
+        "min_usd": 64.95,
+        "max_usd": 395,
+        "fx_date": null,
+        "item_count": null
+      },
+      "price_relation": "similar",
+      "reason": "Zappos, part of Amazon, sells shoes plus regular-price women's jeans at $64.95–$395 (Levi's, Paige, AG, NYDJ) with petite, plus and tall filters, free US shipping and free 60-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/",
+          "note": "#12: \"incredible selection of shoes and impeccable customer service\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.huffpost.com/entry/stores-similar-to-nordstrom-for-designers-for-cheap_l_5f036df9c5b6ca97092233cb",
+          "note": "#7: its Style Room carries pricier designer items"
+        }
+      ],
+      "products_named": [
+        {
+          "name": "Levi's Classic Straight",
+          "price": 64.95,
+          "url": "https://www.zappos.com/women-jeans"
+        },
+        {
+          "name": "AG Mercer Selvage High-Rise Barrel Jeans in Nightfall",
+          "price": 395,
+          "url": "https://www.zappos.com/women-jeans"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "net-a-porter",
+      "why": "unverified: net-a-porter.com/en-us returns HTTP 403 to WebFetch. 3 sources; online luxury multi-brand store, first in the human-check queue."
+    },
+    {
+      "slug": "asos",
+      "why": "unverified: asos.com/us women's jeans returned HTTP 503 to WebFetch. 3 sources. Also a mostly own-label fast-fashion store, a weaker fit for Nordstrom shoppers."
+    },
+    {
+      "slug": "topshop",
+      "why": "single-brand label (kind brand), not a multi-brand store; brand file unverified. 3 sources."
+    },
+    {
+      "slug": "anthropologie",
+      "why": "not checked: a single-banner lifestyle store (Urban Outfitters, Inc.), not a department store; 2 sources. Coordinator could add it if own-label chains count."
+    },
+    {
+      "slug": "saks-off-5th",
+      "why": "saksoff5th.com is shutting down ('select physical retail locations remain open'); its store locator renders no list and Exemplar's page gives '12 stores' with no locations, so us_stores is unconfirmed. 2 sources. Mentioned in the Saks body as context only."
+    },
+    {
+      "slug": "barneys-new-york",
+      "why": "barneys.com HTTP 503; listed by one low-quality source. Not verified; not pursued (store closed per the source's own framing is unconfirmed)."
+    },
+    {
+      "slug": "harvey-nichols",
+      "why": "unverified: harveynichols.com HTTP 503. 1 source + Apart pool."
+    },
+    {
+      "slug": "selfridges",
+      "why": "unverified: selfridges.com/US HTTP 403. 1 source + Apart pool."
+    },
+    {
+      "slug": "harrods",
+      "why": "unverified: harrods.com/en-us HTTP 403. 1 source."
+    },
+    {
+      "slug": "ssense",
+      "why": "unverified: ssense.com HTTP 403. 1 source."
+    },
+    {
+      "slug": "mytheresa",
+      "why": "unverified: the US jeans page returned only its title to WebFetch. 1 source."
+    },
+    {
+      "slug": "farfetch",
+      "why": "marketplace (boutiques and brands), not a store; dropped per enrich.md. 1 source."
+    },
+    {
+      "slug": "moda-operandi",
+      "why": "not checked: 1 source; runway pre-order model, a different way of shopping."
+    },
+    {
+      "slug": "24s",
+      "why": "not checked: 1 source; Paris-based online store."
+    },
+    {
+      "slug": "ifchic",
+      "why": "not checked: 1 source."
+    },
+    {
+      "slug": "the-outnet",
+      "why": "not verified beyond a live homepage ('Luxury Fashion Up To 70% Off'); 1 source. Candidate for a later wave."
+    },
+    {
+      "slug": "intermix",
+      "why": "live Shopify store but its jeans collection returns 0 products and the homepage banner reads 'Final Sale on All Products'; not a pick. 1 source."
+    },
+    {
+      "slug": "verishop",
+      "why": "defunct as a store: verishop.com is a password page reading 'Website launching soon'."
+    },
+    {
+      "slug": "what-goes-around-comes-around",
+      "why": "resale store; different store type. 1 source (bonus pick)."
+    },
+    {
+      "slug": "boden",
+      "why": "single-brand label, not a multi-brand store. 1 source."
+    },
+    {
+      "slug": "single-brand labels",
+      "why": "Zara, H&M, Uniqlo, Madewell, Free People, Everlane, Banana Republic, Ralph Lauren, Todd Snyder, Reiss, J.Crew, Bonobos, Club Monaco, Ben Sherman, Paul Smith, Topman: own-label brands, not stores like Nordstrom (run-page.md retailer rules)."
+    },
+    {
+      "slug": "ultra-low-price own-label sites",
+      "why": "Shein, Romwe, Zaful, Chic Me, Rosegal, Dresslily (all ReviewsXP only): own-label fast-fashion sites, a different store type."
+    },
+    {
+      "slug": "urban-outfitters",
+      "why": "multi-brand but a youth lifestyle chain, different store type; 1 source; brand file unverified (403)."
+    },
+    {
+      "slug": "apart pool (no outside source)",
+      "why": "Holt Renfrew, Simons, Fenwick (non-US department stores), Sephora, Ulta Beauty, Violet Grey, Cult Beauty (beauty), Journelle (lingerie): no outside source names them as Nordstrom alternatives."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "anchor returns_days",
+      "url": "https://www.nordstrom.com/browse/customer-service/return-policy",
+      "check": "Policy: 'There are no time limits for returns or exchanges.' The schema has no value for 'no limit', so returns_days is null and the gate reports 'anchor missing: returnsDays'. Decide how to store unlimited returns (schema/gate change with tests), then fill it."
+    },
+    {
+      "fact": "anchor max jeans price",
+      "url": "https://www.nordstrom.com/browse/women/clothing/jeans",
+      "check": "Sort Price (High to Low) in a browser; replace the $835 sampled max (Burberry, page 118) with the true max regular price. Min $20 came from a full low-to-high sort."
+    },
+    {
+      "fact": "pick checks: Bloomingdale's, Macy's, Saks Fifth Avenue, Neiman Marcus, Bergdorf Goodman",
+      "url": "https://www.bloomingdales.com/",
+      "check": "All five return 403 to WebFetch, so they render without prices, sizes, shipping or returns (verified from parent-company sites). In a browser: women's jeans regular-price min/max, size range, US shipping threshold, return days."
+    },
+    {
+      "fact": "Neiman Marcus sells women's clothing",
+      "url": "https://www.exemplarluxurygroup.com/2026-09-01-Neiman-Marcus-Unveils-Signature-Style-Fall-Campaign",
+      "check": "Parent releases name womenswear houses (Altuzarra, Proenza Schouler, Toteme) and Gifts for Her but never say 'women's clothing'; confirm on neimanmarcus.com."
+    },
+    {
+      "fact": "Revolve jeans price range",
+      "url": "https://www.revolve.com/denim/br/2664ce/",
+      "check": "Already queued by an earlier run: sort by price in a browser to fill a womens-clothing price row."
+    },
+    {
+      "fact": "Net-a-Porter (3 sources)",
+      "url": "https://www.net-a-porter.com/en-us/",
+      "check": "403. If readable: women's jeans range, sizes, US shipping, returns. Would be pick 12."
+    },
+    {
+      "fact": "Lord & Taylor evidence",
+      "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/",
+      "check": "Its only source is the weakest kept page (anonymous, templated). Keep or drop is an editorial call."
+    }
+  ],
+  "notes": [
+    "11 picks pass enrich.md §3 (verified, sells women's clothing, ships to the US or has US stores, >=1 outside source, one checkable reason). Department stores first (Bloomingdale's, Saks, Macy's, Neiman Marcus, Dillard's, Bergdorf Goodman, Lord & Taylor), then multi-brand stores shopped for the same reasons (Revolve, Shopbop, Nordstrom Rack, Zappos); within each group by source count.",
+    "Five department stores (Bloomingdale's, Macy's, Saks, Neiman Marcus, Bergdorf) refuse WebFetch (403), so status, US stores and category come from their parents' official sites (macysinc.com + Macy's 10-K; exemplarluxurygroup.com, formerly Saks Global). They render without a price; price_relation null.",
+    "Priced picks are all 'similar' to the anchor's $20–$835 women's jeans range (ranges overlap).",
+    "Anchor: verified via WebFetch (nordstrom.com serves curl a JS challenge). Gate still reports returnsDays missing (no time limit policy) and imageUrl (coordinator).",
+    "Nordstrom's jeans listing also showed: Madewell The Straight Super Stretch Jeans $148, MOTHER Lil' Kick It $248, Levi's Wedgie High Waist Bootcut $110, Nordstrom (own label) High Waist Straight Leg Jeans $129 on page 1 (regular). Used in the intro.",
+    "Two brand files (dillards, macys) were created by another agent at the same time; merge_brand.py kept their fields and added mine where empty (Dillard's known_for stays 'Department Store With Clearance Centers').",
+    "Evidence: 5 editorial pages read (Have Clothes Will Travel, BrandShopper, HuffPost, Effortless Gent, ReviewsXP) + PlainTips (outside top 10, unused). Who What Wear and PopSugar couldn't be read; Reddit/Quora not read."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "You like how Nordstrom lists Levi's, Madewell and MOTHER jeans right next to Burberry, then ships it all free and never rushes your returns. But maybe the nearest store is a drive, or you want to see what the same money buys elsewhere. These are the stores that work the same way. Department stores come first, then the online shops people use for the same reasons, each with a note on who it suits best.",
+    "bodies": {
+      "bloomingdales": "Bloomingdale's is the closest thing to Nordstrom you'll find. It runs the same spread, from big luxury designers down to newer contemporary labels and its own private labels, and it's been doing it since 1872.\n\nThe part worth knowing is the outlet side. Bloomingdale's The Outlet does the job Nordstrom Rack does for Nordstrom, with 25 outlet stores from coast to coast next to the 32 full-line ones. So if your habit is to browse Nordstrom and then hunt the same labels at Rack, you can run the exact same routine here.\n\nThe catch is reach. Next to Nordstrom's 350-plus locations, that's a small footprint, so there's a fair chance the nearest one is a trip. Macy's, its sister store, is much easier to find.",
+      "saks-fifth-avenue": "Saks Fifth Avenue is our pick if the designer floor is your favorite part of Nordstrom. Luxury fashion is the whole point here, sold since 1924 from a New York flagship and stores in the big luxury markets.\n\nIt helps to know the family tree. Saks, Neiman Marcus and Bergdorf Goodman are now one company, Exemplar Luxury Group, which was called Saks Global until it came out of a restructuring. So the three are siblings, and the real choice is which designers you're after and which store is nearest.\n\nWhat Saks doesn't have anymore is an outlet you can shop online. The Saks OFF 5TH website has shut down, though some of its stores are still open. If you want the Nordstrom-then-Rack routine, Bloomingdale's does it better.",
+      "macys": "Macy's is the easiest store on this list to get to, with more than 400 locations. It covers fashion, beauty and home. And like Nordstrom, it mixes outside brands with its own private labels, so names you know sit next to house brands.\n\nLook for Macy's Backstage. It's Macy's off-price shop, tucked inside many of its stores and in a few standalone ones, which makes it the closest thing to a Nordstrom Rack without a second trip. One store, two price levels.\n\nMacy's belongs to Macy's, Inc., the same company as Bloomingdale's. If the designer end of Nordstrom is what you're after, Bloomingdale's is the step up, since that's where the premium luxury labels sit.",
+      "neiman-marcus": "Neiman Marcus goes further into luxury than Nordstrom does. Its fall edit runs through Saint Laurent, Givenchy, Proenza Schouler and Toteme, and it's been in luxury retail since 1907, with flagships in Beverly Hills, NorthPark and Coral Gables.\n\nThe holiday season is when it's most itself. Its Holiday Book has been going for a century, and that's where the Fantasy Gifts appear, from a Verdura cuff to an electric wake boat. Even if you never buy one, it tells you exactly what kind of store this is.\n\nDon't come here for outlet prices, though. Last Call, its old outlet site, now just sends you to Neiman's own sale section. For brand names for less, Nordstrom Rack or Bloomingdale's The Outlet will do far more for you.",
+      "dillards": "Dillard's covers the same middle ground as Nordstrom's denim wall, minus the very top end. Regular-price jeans run from $36 to $350, and NYDJ, Levi's, KUT from the Kloth and Free People do most of the work. NYDJ's Marilyn high-rise straight jeans ($129) are a typical buy.\n\nIt started in Arkansas in 1938 and now has 272 stores in 30 states. Of those, 28 are clearance centers, which are worth a detour if you live near one. Sizes go from 00 to 16 plus 1X to 3X, with petite and plus fits.\n\nThe trade-off is the fine print. Shipping is free only from $150 (it's $9.95 below that), and you get 30 days to return. Nordstrom ships everything free with no deadline, so Dillard's suits planned, bigger orders more than impulse buys.",
+      "bergdorf-goodman": "Bergdorf Goodman is Nordstrom's designer floor turned all the way up. It's one New York landmark at Fifth Avenue and 57th Street, open since 1901, with a women's store and a men's store on Fifth Avenue.\n\nThe racks run from the leading names to emerging designers. Akris, Alaïa and Schiaparelli are all part of the mix, and outside New York you'd shop it through BG.com. It's the place for a single special piece rather than a weekly browse.\n\nIt's a sister store to Saks and Neiman Marcus. Not near Manhattan? Neiman Marcus has flagships in Beverly Hills and Coral Gables, and Saks has stores in the other big luxury markets.",
+      "lord-and-taylor": "Lord & Taylor is the oldest name here, founded in Lower Manhattan in 1826, but it's a different business now. It closed its stores in 2020 and sells online only, and much of its designer stock ships from partners outside the US.\n\nYou can see that in the prices. Regular-price jeans start at $234.90, for Sunflower's Wide Twist Jeans, and climb past $3,000, with Gucci, MOTHER, AGOLDE and Balenciaga among the most-stocked labels. It sits well above Nordstrom on denim, so treat it as the designer end of this list.\n\nRead the returns before you order. You get 14 days, a $24 label fee comes off your refund, and items shipped from abroad lose another 12%. Shipping is free over $300. If easy returns matter, Revolve or Shopbop are the safer bet.",
+      "revolve": "Revolve is the online stand-in for Nordstrom's contemporary denim. It's built around labels like AGOLDE, FRAME and Citizens of Humanity, and the AGOLDE 90's Pinch Waist Jeans ($208) are a good place to start.\n\nSizes run XXS to 4X, or US 00 to 24–26, and denim waists go from 24 to 48 inches. That's a lot wider than Nordstrom's 23 to 36, so it's the better bet if you've run out of waist sizes there. US shipping and returns are both free.\n\nThe one difference from Nordstrom is the clock. You get 30 days for a refund or 60 for an exchange, where Nordstrom sets no deadline at all. If you'd rather browse a wider price range, Shopbop's jeans go from $78 to $1,550.",
+      "shopbop": "Shopbop is the store for comparing designer denim side by side. Regular-price jeans run from $78, for Free People's Breezy Denim Pull On Jeans, up to $1,550 for Marni, and MOTHER and AGOLDE have the deepest ranges.\n\nIt's been selling online since 1999 and has been part of Amazon since 2006. US shipping is free with no minimum, just like Nordstrom. Returns are free if you drop them off within 15 days of delivery, then $10 per order up to day 30, so it pays to decide quickly.\n\nSizes go from 00 to 24, with denim waists from 22 to 38. There's no petite or plus filter, though, so if you rely on those at Nordstrom, Nordstrom Rack or Dillard's will suit you better.",
+      "nordstrom-rack": "Nordstrom Rack is Nordstrom's own off-price chain, and it's where to go when you love the brands but not the full price. It began in 1973 as a clearance outlet in the basement of the downtown Seattle Nordstrom.\n\nThe denim makes the case. MANGO's Claudia Waxed Crop Slim Fit Jeans are $15.38 against a $69.99 comparable value, and Akris's Finnian wide-leg jeans are $419.97 against $995. Levi's, Madewell, FRAME and Citizens of Humanity are all in there, in sizes 00 to 28W with petite and plus.\n\nThe handy part is the returns. Online Rack orders go back free to any Nordstrom or Rack store, within 40 days. Shipping is free over $89, and it only ships to US addresses.",
+      "zappos": "Zappos makes sense if you think of Nordstrom the way it started, as a Seattle shoe shop. Zappos calls itself the go-to destination for shoes, but it carries women's jeans too, from Levi's Classic Straight ($64.95) to AG's Mercer Selvage High-Rise Barrel Jeans ($395).\n\nPaige, KUT from the Kloth, AG and NYDJ fill most of its full-price denim, and there are petite, plus and tall filters. Shipping is free anywhere in the US, territories and APO/FPO addresses included, and returns are free for 60 days.\n\nIt's part of Amazon, like Shopbop. So if you want a deeper designer edit, Shopbop is the better sibling. Zappos wins when the shoes come first and the jeans are an add-on."
+    },
+    "best_for": {
+      "bloomingdales": "the Nordstrom-then-Rack routine under another name",
+      "saks-fifth-avenue": "luxury designers with a famous New York flagship",
+      "macys": "everyday brands and an off-price corner in one trip",
+      "neiman-marcus": "top designer houses and the holiday Fantasy Gifts",
+      "dillards": "brand-name jeans in sizes up to 3X",
+      "bergdorf-goodman": "one special designer piece from Fifth Avenue",
+      "lord-and-taylor": "Gucci and Balenciaga denim, if 14-day returns suit you",
+      "revolve": "designer jeans with waists up to 48 inches",
+      "shopbop": "comparing dozens of denim labels with free US shipping",
+      "nordstrom-rack": "Nordstrom's brands for less, with returns at any Nordstrom",
+      "zappos": "shoes first, with denim basics in the same order"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with what you shop Nordstrom for. If it's the whole department store, Bloomingdale's is the nearest match, and Macy's is the one most likely to be down the road. For the designer floor, go to Saks, Neiman Marcus or, in New York, Bergdorf Goodman. If you want brand-name jeans in petite and plus sizes, Dillard's and Nordstrom Rack cover it, and Rack's online returns go back to any Nordstrom. Online, Revolve and Shopbop are the easy calls for designer denim with free US shipping, and Revolve has the widest waist range. Zappos is for when the shoes matter most. Lord & Taylor has the rarest designer stock, but only 14 days to change your mind."
+    },
+    "faqs": [
+      {
+        "q": "How many days do you have to return something to Nordstrom?",
+        "a": "There's no time limit. Nordstrom takes returns and exchanges free in store or by mail, though it won't refund the original shipping charges, and items from marketplace sellers have their own return-by dates.",
+        "source_query": "nordstrom return policy how many days"
+      },
+      {
+        "q": "Who owns Nordstrom?",
+        "a": "The Nordstrom family owns 50.1% and Mexico's El Puerto de Liverpool owns 49.9%. The company went private in 2025, when its shares left the New York Stock Exchange.",
+        "source_query": "who owns nordstrom"
+      },
+      {
+        "q": "What is the difference between Nordstrom and Nordstrom Rack?",
+        "a": "Nordstrom Rack is Nordstrom's off-price chain. It sells brand-name pieces below a listed comparable value, charges for shipping under $89 and gives you 40 days to return online orders. Nordstrom ships everything free and sets no return deadline.",
+        "source_query": "what is the difference between nordstrom and nordstrom rack"
+      },
+      {
+        "q": "Is Nordstrom expensive?",
+        "a": "It covers a wide range. Regular-price women's jeans there run from $20, for Roaman's, to $835, for Burberry, with Levi's, Madewell and MOTHER in between.",
+        "source_query": "is nordstrom expensive"
+      }
+    ]
+  }
+}
