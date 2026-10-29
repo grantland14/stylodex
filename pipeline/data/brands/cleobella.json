@@ -1,0 +1,54 @@
+{
+  "slug": "cleobella",
+  "name": "Cleobella",
+  "website_url": "https://cleobella.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Ethically Handmade Boho Dresses",
+  "hq_country": "US",
+  "size_range": "XS–XL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "us_stores": true,
+  "free_shipping_min_usd": 200,
+  "returns_days": 16,
+  "production_model": "Handmade with artisans in Bali",
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 238,
+      "max": 428,
+      "min_usd": 238,
+      "max_usd": 428,
+      "fx_date": null,
+      "item_count": 31,
+      "source_url": "https://cleobella.com/collections/dresses",
+      "checked_at": "2026-10-29",
+      "note": "Shopify feed /collections/dresses/products.json (StylodexBot UA), 119 products; 87 marked down (compare_at above price) excluded, 1 out of stock; 31 regular-price in-stock dresses, $238 (Tatiana Mini Dress) to $428 (Clea Maxi Dress | Chant Des Fleur); median $288. Named: Meadow Mini Dress $248, Aphrodite Ankle Dress | Blue Florabella $398."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://cleobella.com/",
+    "https://cleobella.com/meta.json",
+    "https://cleobella.com/collections/dresses",
+    "https://cleobella.com/pages/our-story",
+    "https://cleobella.com/policies/shipping-policy",
+    "https://cleobella.com/policies/refund-policy"
+  ],
+  "notes": [
+    "meta.json (2026-10-29): Huntington Beach, California, US; USD; 'Our designs, which preserve traditional heritage techniques, are ethically handmade by independent artisans around the world'; ships_to_countries '*' (rest of world) plus CA and US, so GB and AU included.",
+    "Our Story (2026-10-29): 'Globally Inspired, Ethically Handmade'; founders Angela and Jim (a year of travel from 2006 led to the brand; founding year not stated); 'headquarters in California, a flagship store in Sunset Beach and production in Bali'. us_stores true.",
+    "Cart banner on policy pages: 'Add $200 in the cart and receive FREE shipping'.",
+    "Refund policy: returns within 16 days of fulfillment (unless final sale); $12 shipping/restocking fee deducted when the order shipped free and you take a refund; exchanges or store credit at no charge; all sale merchandise final.",
+    "Sizes from dress variants: XS, S, M, L, XL on all 31."
+  ],
+  "checked_at": "2026-10-29"
+}

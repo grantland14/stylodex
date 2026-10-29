@@ -1,0 +1,52 @@
+{
+  "slug": "red-dress",
+  "name": "Red Dress",
+  "website_url": "https://www.reddress.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Timeless Boutique Dresses",
+  "hq_country": "US",
+  "founded_year": 2005,
+  "size_range": "XS–XL",
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 46,
+      "max": 378,
+      "min_usd": 46,
+      "max_usd": 378,
+      "fx_date": null,
+      "item_count": 529,
+      "source_url": "https://www.reddress.com/collections/all-dresses",
+      "checked_at": "2026-10-29",
+      "note": "Shopify feed /collections/all-dresses/products.json (3 pages, StylodexBot UA), 531 products, none marked down, all in stock; 529 typed Dresses (1 top, 1 romper dropped). $46 (Everyday Route Medium Indigo Denim Mini Dress) to $378 (Anna Cate Bennett Obscura Navy Multi Strapless Midi Dress); median $86; 345 of 529 under $100. Own Red Dress label 251 dresses, $46–$186, median $82; other labels incl. Entro 133, Prosperina 29, MINKPINK 23, ASTR The Label 21, Z Supply 16. Named: Could Stay Here Forever Butter Yellow Multi Floral Maxi Dress $62, Blooming in Watercolor Ivory Multi Floral Tie Strap Midi Dress $54."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://www.reddress.com/",
+    "https://www.reddress.com/meta.json",
+    "https://www.reddress.com/collections/all-dresses",
+    "https://www.reddress.com/pages/about-us",
+    "https://www.reddress.com/policies/shipping-policy",
+    "https://www.reddress.com/policies/refund-policy"
+  ],
+  "notes": [
+    "www.reddressboutique.com redirects to www.reddress.com. meta.json (2026-10-29): Athens, Georgia, US; USD; 'Red Dress Boutique, online women's clothing since 2005. Timeless dresses, tops, shoes and accessories, well beyond red dresses. Free US shipping over $150.' ships_to_countries CA, MX, US.",
+    "About Us: founded 2005 by Diana Best in Athens, Georgia, as a single shop on Baxter Street; online since 2009; Shark Tank Season 6 (2014), Mark Cuban invested; Diana bought the company back in 2019. Diana designs Prosperina and Paradisa, sold in 270+ boutiques. Current store not confirmed, so us_stores left empty.",
+    "kind retailer: dresses feed mixes its own label with Entro, Prosperina, MINKPINK, ASTR The Label, Z Supply and others; nav 'Brands We Love'.",
+    "Shipping policy: free standard shipping over $150 within the continental US; $8.95 under; standard 5–8 business days; ships from Athens, GA.",
+    "Returns: unworn items within 30 days of fulfillment for exchange or store credit only, no refunds to the original payment; $7.20 fee deducted for store-credit returns, exchanges free; Final Sale and 30%-off-code items not returnable.",
+    "Sizes from dress variants: S, M, L on all; XS on 202, XL on 31."
+  ],
+  "checked_at": "2026-10-29"
+}

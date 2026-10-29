@@ -1,0 +1,60 @@
+{
+  "slug": "christy-dawn",
+  "name": "Christy Dawn",
+  "website_url": "https://christydawn.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Farm-to-Closet Dresses",
+  "hq_country": "US",
+  "size_range": "XS–XXL",
+  "has_plus": false,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "us_stores": true,
+  "free_shipping_min_usd": 500,
+  "returns_days": 7,
+  "production_model": "Made in Los Angeles and Mexico",
+  "materials": [
+    "Regenerative cotton",
+    "Organic cotton",
+    "Deadstock fabric"
+  ],
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 198,
+      "max": 628,
+      "min_usd": 198,
+      "max_usd": 628,
+      "fx_date": null,
+      "item_count": 124,
+      "source_url": "https://christydawn.com/collections/dresses",
+      "checked_at": "2026-10-29",
+      "note": "Shopify feed /collections/dresses/products.json (StylodexBot UA), 133 products; none marked down (no compare_at above price); 2 out of stock; 7 non-dresses dropped (slips, a skirt slip; titles without 'Dress'). 124 regular-price in-stock dresses, $198 (The Dawn Dress, The Bowie Dress) to $628 (The Ornella Dress | Macadamia Jacquard); median $348. 67 of 124 product descriptions mention regenerative cotton, 7 deadstock. Named: The Dawn Dress | Alabaster $248, The Bernice Dress | Natural Regenerative Pointelle $228."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://christydawn.com/",
+    "https://christydawn.com/meta.json",
+    "https://christydawn.com/collections/dresses",
+    "https://christydawn.com/pages/faq",
+    "https://christydawn.com/policies/shipping-policy",
+    "https://christydawn.com/policies/refund-policy"
+  ],
+  "notes": [
+    "meta.json (2026-10-29): Los Angeles, California, US; currency USD; description 'Christy Dawn is committed to regeneration… Christy Dawn dresses invite you to join the Regenerative Revolution'; ships_to_countries ~240 incl. US, CA, GB, AU.",
+    "Homepage (2026-10-29): 'Our L.A. Store 13028 San Vicente Blvd, Unit 102 Los Angeles, CA 90049'; Farm-to-Closet values (regenerative farming, living wage). us_stores true.",
+    "FAQ: 'Our production centers are located in Los Angeles and Mexico'; uses leftover fabric ('deadstock'); knitting ateliers in Peru. Domestic shipping free over $500 USD, flat $12 under; international free over $400. Flower rewards tier gets free shipping over $300.",
+    "Refund policy: domestic returns through the portal within 7 days of receiving the package, for refund or store credit; free label for store credit, $12 handling fee deducted from refunds; items bought with sale codes are final; tags must be attached.",
+    "Sizes from dress variants: XS–XL on all, XXL on 78 of 124, XXS on one. has_plus false (no plus range stated)."
+  ],
+  "checked_at": "2026-10-29"
+}

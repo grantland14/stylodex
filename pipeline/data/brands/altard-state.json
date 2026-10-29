@@ -1,0 +1,27 @@
+{
+  "slug": "altard-state",
+  "name": "Altar'd State",
+  "website_url": "https://www.altardstate.com",
+  "status": "unverified",
+  "kind": "brand",
+  "hq_country": "US",
+  "founded_year": 2009,
+  "sources": [
+    "https://www.altardstate.com/",
+    "https://www.altardstate.com/as/clothing/dresses/",
+    "https://www.wagmag.com/finding-a-higher-purpose-in-retail/",
+    "https://mspmag.com/shop-and-style/ali-shops/shopping-with-a-higher-purpose-at-altar-d-state/",
+    "https://eastside-online.org/community/altard-state-brings-style-and-charity-to-the-promenade-in-marlton/",
+    "https://www.mannpublications.com/fashionmannuscript/2021/09/08/altard-state-introduces-arula-a-brand-for-mid-size-and-plus-size-fashion/"
+  ],
+  "notes": [
+    "2026-10-29 (altard-state page run): every altardstate.com URL tried returned HTTP 403, both to a plain request with the StylodexBot UA (/, /products.json, /robots.txt, /as/clothing/dresses/) and to WebFetch (/, /as/clothing/dresses/, /who-we-are.html, /help/?page=store-locator, /as/customer-service/shipping-information/). No retry beyond that, no workaround. Status unverified; prices, sizes, shipping, returns, US stores and known_for need a human check (pages/altard-state.json human_check).",
+    "Ahrefs top pages for altardstate.com (US, 2026-10-28 data): homepage first, then /as/clothing/dresses/wedding-guest-dresses/ (top keyword 'wedding guest dresses'), /who-we-are.html, /as/clothing/matching-sets/, /as/clothing/, /as/trend-shop/the-denim-edit/denim-dresses/, /as/clothing/dresses/. Dresses are the category its search traffic is about. Not fetched by us (bot wall).",
+    "WAG Magazine, Olivia D'Amelio, 2019-09-01 (https://www.wagmag.com/finding-a-higher-purpose-in-retail/): founded in 2009 in Knoxville, Tennessee, by Aaron Walters and Brian Mason; boho-style fashion, accessories, home decor and gifts; 119 stores / 'over 100 boutiques' at the time.",
+    "Mpls.St.Paul Magazine, Allison Kaplan, 2016-11-10: 'Like Anthropologie, women's apparel is interspersed with pillows, blankets, bath products and other gifts and home goods'; boho clothing that 'skews younger and less expensive' than Anthropologie and Free People; bible verses on many home items.",
+    "Eastside (Cherry Hill East student paper), Sophia Sitnick, 2018-04-10: 'Prices at Altar'd State are comparable to competitors, such as Anthropologie and Francesca's'; it gives back to the community.",
+    "Sister brand Arula (formerly A'Beautiful Soul), sizes 10–24, per Mann Publications 2021-09-08. On 2026-10-29 arula.com and www.arula.com redirect to altardstate.com (curl, StylodexBot UA), so Arula has no separate store to verify.",
+    "disco directory brand page (https://www.discobrands.co/brands/altar-d-state, fetched 2026-10-29, unsigned; never cited on the page) calls it the flagship brand of Knoxville-based Stand Out For Good, Inc., with sister labels Arula and Vow'd Weddings. Not an official source, so parent_company is left empty."
+  ],
+  "checked_at": "2026-10-29"
+}

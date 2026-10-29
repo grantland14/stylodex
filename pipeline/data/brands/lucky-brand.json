@@ -11,7 +11,8 @@
     "Women's jeans (https://www.luckybrand.com/women/jeans, 2026-10-29): 130 items, 31 rendered, all marked down from a 'Comp. Value' (mostly 30%: e.g. The Baggy $69.30 vs $99; Embellished Baggy Wide Leg $104.30 vs $149); comp values $89.50–$149. Cuts include Lil Maggie Flare, Sweet Boot, Sweet Straight, Stevie Wide Leg, High Rise Curvy Flare. No full-price jeans, so no price row; sells_categories from this page.",
     "Shipping page: 'Free Ground Shipping on all US orders over $85+'. International countries not listed (ships_to US only). Returns window not readable on the returns/FAQ pages (links only), so returns_days stays empty.",
     "Store locator (luckybrand.com/stores): 4 US stores near the default search, in Kennewick and Tulalip (Washington) and Tigard and Woodburn (Oregon); full list on stores.luckybrand.com. us_stores true.",
-    "2026-10-29 (hollister run): women's jeans re-read: 'Showing 36 of 130', all marked down (The Baggy $69.30, comp $99; Mid Rise Sweet Boot $62.65, comp $89.50). Filters: waist 24–35 plus XS–2XL, inseam 27–34; fit names Lil Maggie, Sweet, Easy Rider, Stevie and more; an 'Extended Sizes' shop covers 33–35 and 2XL. No petite or plus filter."
+    "2026-10-29 (hollister run): women's jeans re-read: 'Showing 36 of 130', all marked down (The Baggy $69.30, comp $99; Mid Rise Sweet Boot $62.65, comp $89.50). Filters: waist 24–35 plus XS–2XL, inseam 27–34; fit names Lil Maggie, Sweet, Easy Rider, Stevie and more; an 'Extended Sizes' shop covers 33–35 and 2XL. No petite or plus filter.",
+    "2026-10-29 (altard-state page run, C dresses): women's dresses page (WebFetch) says 'Showing 36 of 45'; 32 of the 36 were dresses (4 skirts), every one marked down from a 'Comp. Value' (30–50% off or 'Extra 25% Off Sale'; comp values $99–$199), e.g. Border Print Tiered Maxi Dress $139.30 vs $199, Ruffle Peasant Mini Dress $104.30 vs $149. Sells dresses (sells_categories), but no regular-price dress, so no dresses price row."
   ],
   "sources": [
     "https://www.luckybrand.com/",
@@ -20,7 +21,8 @@
     "https://www.luckybrand.com/women/jeans",
     "https://www.luckybrand.com/shipping-info.html",
     "https://www.luckybrand.com/stores",
-    "https://www.luckybrand.com/our-story.html"
+    "https://www.luckybrand.com/our-story.html",
+    "https://www.luckybrand.com/women/clothing/dresses"
   ],
   "checked_at": "2026-10-29",
   "known_for": "Premium Denim and Americana",
@@ -32,7 +34,8 @@
   "us_stores": true,
   "sells_categories": [
     "womens-clothing",
-    "jeans"
+    "jeans",
+    "dresses"
   ],
   "size_range": "Waists 24–35; inseams 27–34"
 }

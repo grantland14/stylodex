@@ -1,0 +1,14 @@
+{
+  "slug": "baltic-born",
+  "name": "Baltic Born",
+  "website_url": "https://balticborn.com",
+  "status": "unverified",
+  "kind": "brand",
+  "sources": [
+    "https://balticborn.com/"
+  ],
+  "notes": [
+    "2026-10-29 (altard-state page run): balticborn.com returned HTTP 403 to a plain request (StylodexBot UA) and to WebFetch, one try each. No workaround. Status unverified; human check. (Nordstrom's dresses listing carried a Baltic Born Veronica Velvet Maxi Dress at $65 on 2026-10-29, per nordstrom.json notes; that's Nordstrom's price, not Baltic Born's.)"
+  ],
+  "checked_at": "2026-10-29"
+}

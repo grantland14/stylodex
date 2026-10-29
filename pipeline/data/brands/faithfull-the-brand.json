@@ -1,0 +1,53 @@
+{
+  "slug": "faithfull-the-brand",
+  "name": "Faithfull the Brand",
+  "website_url": "https://faithfullthebrand.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Summer Dresses and Resort Wear",
+  "hq_country": "AU",
+  "size_range": "XS–XXL",
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 300,
+  "returns_days": 7,
+  "certifications": [
+    "B Corp"
+  ],
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 180,
+      "max": 430,
+      "min_usd": 180,
+      "max_usd": 430,
+      "fx_date": null,
+      "item_count": 117,
+      "source_url": "https://faithfullthebrand.com/collections/dresses-maxis",
+      "checked_at": "2026-10-29",
+      "note": "Shopify feed /collections/dresses-maxis/products.json (international store, USD, StylodexBot UA), 231 products; 112 marked down excluded, 2 out of stock; 117 regular-price in-stock dresses (42 mini, 39 midi, 36 maxi), $180 (Jean Mini Dress White) to $430 (Lupita Maxi Dress Lagunera Paisley, Adalee Midi Dress); median $290. 22 of 117 descriptions mention linen. Named: Sant Roc Maxi Dress Black Milk $230, Laia Maxi Dress Lilac $270."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://faithfullthebrand.com/",
+    "https://faithfullthebrand.com/meta.json",
+    "https://faithfullthebrand.com/collections/dresses-maxis",
+    "https://faithfullthebrand.com/pages/about",
+    "https://faithfullthebrand.com/policies/shipping-policy",
+    "https://faithfullthebrand.com/policies/refund-policy"
+  ],
+  "notes": [
+    "meta.json (2026-10-29): store 'Faithfull the Brand', Sydney, New South Wales, AU; currency USD (faithfull-the-brand-international); description 'Evoking a sense of summer in your every day… free, fast shipping on orders over $300. B Corp Certified.' ships_to_countries: US, CA, MX and other Americas (this store). known_for built from that line.",
+    "Shipping policy: US domestic free standard over $300; standard 3–8 business days $15; express $30; orders ship from a warehouse in Riverside, California.",
+    "Refund policy: full-price items returnable within 7 days of delivery for refund or store credit worth 105%; final sale items not returnable.",
+    "About page: 'pure, timeless designs and traditional Balinese craftsmanship' (collection text); production_model left empty (no plain statement of where it's made).",
+    "Sizes from dress variants: XS–XXL on all 117, XXS on 29."
+  ],
+  "checked_at": "2026-10-29"
+}
