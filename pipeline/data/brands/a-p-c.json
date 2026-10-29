@@ -8,7 +8,7 @@
   "hq_country": "FR",
   "founded_year": null,
   "parent_company": null,
-  "size_range": "Mini bags to large totes",
+  "size_range": "XXS–3XL",
   "has_plus": null,
   "has_petite": null,
   "has_tall": null,
@@ -32,6 +32,19 @@
       "source_url": "https://www.apc-us.com/collections/women-bags/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "US store women's bags products.json, 143 listings: 0 marked down, 18 sold out excluded; 125 regular-price bags, median $550. Low: Laure Tote Bag $145 (Japanese denim); Jade Tote Bag $190 (cotton or denim, 40 x 25 x 14 cm); Diane Shopping Bag $215 (water-repellent cotton poplin); Recuperation Shopping Bag $345; high: Grace Bag $895. Like-for-like: carry bags at regular price, in stock (reusable/shopping bags, totes, shoulder and crossbody bags, belt/hip bags, backpacks); luggage, duffels and weekenders, pouches, organisers, wallets, straps, charms, lunch boxes excluded."
+    },
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 85.0,
+      "max": 330.0,
+      "min_usd": 85.0,
+      "max_usd": 330.0,
+      "fx_date": null,
+      "item_count": 44,
+      "source_url": "https://www.apc-us.com/collections/men-t-shirts-polos/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Men's T-shirts & polos collection: 56 listings, 12 polos and non-tees excluded, 44 tees, none marked down. Low A.P.C. x Brain Dead In A Daze T-shirt $85 (collab); A.P.C. Autumn 26 T-Shirt $125; Ollie T-shirt $150 (organic cotton, straight fit); Standard Rue Madame T-shirt $185 (100% organic cotton, 'A.P.C. Rue Madame' embroidered over the heart); high Logo T-Shirt $330. Sizes XXS–3XL across the collection."
     }
   ],
   "materials": [],
@@ -45,11 +58,14 @@
     "https://www.apc-us.com/meta.json",
     "https://www.apc-us.com/collections/women-bags/products.json?limit=250",
     "https://www.apc-us.com/policies/shipping-policy",
-    "https://www.apc-us.com/policies/refund-policy"
+    "https://www.apc-us.com/policies/refund-policy",
+    "https://www.apc-us.com/collections/men-t-shirts-polos/products.json?limit=250",
+    "https://www.apc-us.com/"
   ],
   "notes": [
     "US store meta: A.P.C., New York, USD (https://www.apc-us.com/meta.json). Shipping: delivers within the United States and Canada only, with store pick-up as an option; sales in France, Japan or the EU go through other country sites (https://www.apc-us.com/policies/shipping-policy). Product copy: Recuperation Shopping Bag carries the 'A.P.C. rue madame Paris' logo (products.json). hq_country FR from the Paris-addressed brand and its French country site; no About page read.",
-    "Returns: 14 days from receipt for full-price and eligible sale items; every return label carries a $10 restock fee; returns in store possible (https://www.apc-us.com/policies/refund-policy). us_stores true: shipping policy offers 'store pick-up' at its stores."
+    "Returns: 14 days from receipt for full-price and eligible sale items; every return label carries a $10 restock fee; returns in store possible (https://www.apc-us.com/policies/refund-policy). us_stores true: shipping policy offers 'store pick-up' at its stores.",
+    "size_range corrected 2026-10-29 (stores-like-muji page) from 'Mini bags to large totes' (bag sizes) to men's tee sizes XXS–3XL from https://www.apc-us.com/collections/men-t-shirts-polos/products.json?limit=250. Homepage title: 'Designer Clothes, Fashion Clothes & Luxury Clothing | A.P.C.'"
   ],
   "checked_at": "2026-10-29"
 }

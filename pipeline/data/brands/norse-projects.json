@@ -1,0 +1,55 @@
+{
+  "name": "Norse Projects",
+  "slug": "norse-projects",
+  "website_url": "https://norseprojects.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Minimal yet Distinctive Basics",
+  "hq_country": "DK",
+  "founded_year": 2004,
+  "parent_company": null,
+  "size_range": "XS–XXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "GB"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 90.0,
+      "max": 215.0,
+      "min_usd": 90.0,
+      "max_usd": 215.0,
+      "fx_date": null,
+      "item_count": 34,
+      "source_url": "https://norseprojects.com/collections/t-shirts",
+      "checked_at": "2026-10-29",
+      "note": "T-shirts collection with the United States market selected (USD): 34 products, none marked down (the DKK products.json feed shows no compare-at prices either: DKK 500–1,200). Low Norse Standard T-shirt $90 (midweight organic cotton, crafted in Portugal); Norse Standard Heavy Loose T-shirt $100; Elmelunde Soft Compact Cotton T-shirt $110 (organic heavyweight jersey, garment dyed); Nordborg Cotton Crepe T-shirt $145; high Stevns Cotton Hemp Military Rib LS T-shirt $215. Sizes XS–XXL."
+    }
+  ],
+  "materials": [
+    "Organic cotton"
+  ],
+  "certifications": [],
+  "sources": [
+    "https://norseprojects.com/",
+    "https://norseprojects.com/collections/t-shirts",
+    "https://www.norseprojects.com/collections/t-shirts/products.json?limit=250",
+    "https://norseprojects.com/pages/faq",
+    "https://norseprojects.com/pages/brand",
+    "https://en.wikipedia.org/wiki/Norse_Projects"
+  ],
+  "notes": [
+    "Country selector (2026-10-29) lists Denmark, Norway, Europe, Switzerland, United Kingdom, United States and Rest of the World; selecting US shows USD prices (https://norseprojects.com/collections/t-shirts). ships_to US and GB from that selector.",
+    "FAQ (https://norseprojects.com/pages/faq): 14-day cooling-off period from receipt to return; outside the EU prices exclude the 20% Danish VAT and the buyer is responsible for local import taxes; no P.O. Boxes.",
+    "Brand page: 'Since 2004, Norse Projects has drawn upon its Scandinavian roots... while minimal yet distinctive basics extend a seasonal...' Wikipedia: Danish clothing brand, founded 2004, HQ Copenhagen."
+  ],
+  "checked_at": "2026-10-29"
+}

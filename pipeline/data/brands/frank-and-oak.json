@@ -31,6 +31,19 @@
       "source_url": "https://frankandoak.com/collections/womens-dresses/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "Only 2 dresses in the collection, both regular price: City Dress and Polo Sweater Dress. Vendor field reads 'ThreadC'. Store base currency CAD (cart.js); converted at ECB 2026-10-28."
+    },
+    {
+      "category": "tees",
+      "currency": "CAD",
+      "min": 35.0,
+      "max": 79.0,
+      "min_usd": 24.92,
+      "max_usd": 56.24,
+      "fx_date": "2026-10-28",
+      "item_count": 16,
+      "source_url": "https://frankandoak.com/collections/mens-tees/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Men's tees collection: 20 listings, 2 marked down and 2 Essential Ribbed Tank (CAD 30) excluded; 16 regular-price. Low Essential Slim Tee CAD 35 (some colours CAD 39; 100% cotton, 180gsm); Essential Oversized Tee CAD 39; Essential Relaxed Tee CAD 45; Essential Relaxed Tee - Long Sleeve CAD 55; high The Waffle Henley CAD 79. Sizes XS–XXL. The store charges CAD even with the US selected (collection page reads 'Regular price $55.00 CAD'); converted at ECB 2026-10-28 (USD 1.1133, CAD 1.5638 per EUR)."
     }
   ],
   "materials": [],
@@ -44,13 +57,17 @@
     "https://frankandoak.com/policies/shipping-policy",
     "https://frankandoak.com/policies/refund-policy",
     "https://frankandoak.com/pages/our-story",
-    "https://frankandoak.com/pages/shipping"
+    "https://frankandoak.com/pages/shipping",
+    "https://frankandoak.com/collections/mens-tees/products.json?limit=250",
+    "https://frankandoak.com/collections/mens-tees",
+    "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
   ],
   "notes": [
     "Homepage title 'Frank And Oak | Essential Clothing Designed for Better Living'; meta: 'Frank And Oak returns with clarity and intention: focused on craftsmanship, natural fibers, and the dependable essentials that defined us from day one.'",
     "Our Story and Shipping pages render no text to WebFetch; HQ and founding year not stored (Wikipedia URL 404).",
     "Shipping policy: free standard shipping over $99, else $10; currency not stated, so free_shipping_min_usd is empty. Refund policy: free return shipping within Canada and the US; 15 days from shipping to request a label for a refund. ships_to CA, US from the refund policy.",
-    "sale_pattern detail: All purchases made during sale events since April 2, 2025 are final sale."
+    "sale_pattern detail: All purchases made during sale events since April 2, 2025 are final sale.",
+    "Men's tees (2026-10-29): collection page banner 'Free Shipping On Orders Over $99'; prices shown in CAD with the US selected (https://frankandoak.com/collections/mens-tees)."
   ],
   "checked_at": "2026-10-29"
 }

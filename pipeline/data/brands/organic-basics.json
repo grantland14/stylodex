@@ -18,15 +18,47 @@
       "source_url": "https://us.organicbasics.com/collections/womens-knitwear/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "products.json: 86 listings in the collection; 39 with compare_at above price (sale) and 0 sold out excluded, 45 non-sweaters excluded; 2 regular-price women's sweaters. Low: True Knit Sweater ($83); high: True Knit Sweater ($83). Only one regular-price sweater style (True Knit Sweater $83, two colors); the rest of the knitwear is marked down."
+    },
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 35.0,
+      "max": 43.0,
+      "min_usd": 35.0,
+      "max_usd": 43.0,
+      "fx_date": null,
+      "item_count": 20,
+      "source_url": "https://us.organicbasics.com/collections/mens-t-shirts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Men's T-shirts collection: 144 listings; multipacks, bundles and tanks excluded, 41 single tees in stock, 21 marked down excluded; 20 regular-price single tees. Low True Regular Fit Tee $35 ('smooth, mid-weight organic cotton'); True Boxy Fit Tee $37; True Heavy Regular Fit Tee $40; True Heavy Boxy Fit Tee $42 ('100% organic cotton'); high Premium Tee $43. Sizes XXS–3XL across the collection."
     }
   ],
   "sources": [
     "https://us.organicbasics.com/meta.json",
     "https://organicbasics.com/meta.json",
-    "https://us.organicbasics.com/collections/womens-knitwear/products.json?limit=250"
+    "https://us.organicbasics.com/collections/womens-knitwear/products.json?limit=250",
+    "https://us.organicbasics.com/",
+    "https://us.organicbasics.com/collections/mens-t-shirts/products.json?limit=250",
+    "https://us.organicbasics.com/policies/shipping-policy",
+    "https://us.organicbasics.com/pages/faq"
   ],
   "notes": [
-    "US store us.organicbasics.com (USD); EU store organicbasics.com ships to CA, GB, AU but not US. Store description: 'Certified B Corp from Copenhagen' (meta.json)."
+    "US store us.organicbasics.com (USD); EU store organicbasics.com ships to CA, GB, AU but not US. Store description: 'Certified B Corp from Copenhagen' (meta.json).",
+    "US store (2026-10-29): homepage title 'Cotton Underwear & Everyday Essentials'; meta 'Certified B Corp from Copenhagen. Underwear, activewear and everyday essentials, made with organic cotton, TENCEL Lyocell and other fibers.' Orders ship from its US warehouse (shipping policy); HQ address Struenseegade 15A, Copenhagen, Denmark.",
+    "Returns (https://us.organicbasics.com/pages/faq): refund, exchange or store credit within 30 days of receiving the parcel (60 days for November and December orders); exchanges free, refunds have the return shipping fee deducted; Final Sale items not returnable. No US free-shipping threshold shown (placeholder text), so free_shipping_min_usd stays empty."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "known_for": "Organic Cotton Everyday Essentials",
+  "size_range": "XXS–3XL",
+  "ships_to": [
+    "US"
+  ],
+  "returns_days": 30,
+  "materials": [
+    "Organic cotton",
+    "TENCEL Lyocell"
+  ],
+  "certifications": [
+    "Certified B Corp"
+  ]
 }

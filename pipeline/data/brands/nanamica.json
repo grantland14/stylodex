@@ -1,0 +1,56 @@
+{
+  "name": "nanamica",
+  "slug": "nanamica",
+  "website_url": "https://us.nanamica.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Standard Wear for the Current Age",
+  "hq_country": "JP",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XXS–XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 200,
+  "returns_days": 14,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 90.0,
+      "max": 250.0,
+      "min_usd": 90.0,
+      "max_usd": 250.0,
+      "fx_date": null,
+      "item_count": 17,
+      "source_url": "https://us.nanamica.com/collections/polos-tees/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Polos & tees collection, US store: 21 listings, 2 polos plus a camisole and a tank excluded; 17 tees, none marked down. Low nanamica Loopwheel COOLMAX Jersey Tee $90 (50/50 cotton and COOLMAX, knitted on a loopwheel machine, nanamica logo embroidered); COOLMAX Jersey Pocket Tee $120 ('signature short sleeve T-shirt', organic cotton and COOLMAX EcoMade); OOAL Pocket Tee $150; high OOAL Rayon Cotton Long Sleeve Tee $250. Sizes XXS–XL plus women's 0–1."
+    }
+  ],
+  "materials": [
+    "Organic cotton",
+    "COOLMAX",
+    "GORE-TEX"
+  ],
+  "certifications": [],
+  "sources": [
+    "https://us.nanamica.com/",
+    "https://us.nanamica.com/collections/polos-tees/products.json?limit=250",
+    "https://us.nanamica.com/policies/shipping-policy",
+    "https://us.nanamica.com/policies/refund-policy",
+    "https://us.nanamica.com/pages/about"
+  ],
+  "notes": [
+    "US store run by nanamica USA inc. (nanamica NEW YORK). Shipping policy: ships to the 50 US states and Canada (no US territories, PO boxes or APO/FPO); UPS Ground free from $200, $10 below; store pick-up at nanamica NEW YORK same day.",
+    "Refund policy: no returns or exchanges after 14 days of delivery; discounted items final sale; returns need email authorization first.",
+    "About page: 'Taking UTILITY and SPORTS as key words, nanamica mixes fashion and functionality at a high level to offer standard wear for the current age with neutral design'; founder Eiichiro Homma; makes THE NORTH FACE Purple Label with Goldwin in Japan; co-develops Cotton GORE-TEX with Gore Japan. Store list: Daikanyama, Kyoto, Kobe, Fukuoka and New York, so hq_country JP."
+  ],
+  "checked_at": "2026-10-29"
+}

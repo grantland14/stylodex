@@ -3,7 +3,7 @@
   "website_url": "https://www.muji.us/",
   "status": "verified",
   "kind": "brand",
-  "known_for": "Simple, Unbranded Goods",
+  "known_for": "Minimalist Japanese Basics",
   "hq_country": "JP",
   "founded_year": 1980,
   "parent_company": "Ryohin Keikaku",
@@ -55,7 +55,9 @@
     "https://www.muji.us/pages/return-policy",
     "https://www.muji.us/pages/store-information",
     "https://en.wikipedia.org/wiki/Muji",
-    "https://www.muji.us/collections/bags/products.json?limit=250"
+    "https://www.muji.us/collections/bags/products.json?limit=250",
+    "https://www.muji.us/collections/apparel",
+    "https://www.muji.us/collections/womens-t-shirts/products.json?limit=250"
   ],
   "notes": [
     "Shipping (https://www.muji.us/pages/shipment): US standard 7–10 business days, $9 up to $39.99, $15 for $40–$79.99, free from $80 (free from $50 to CA, WA, TX, FL, IL, VA, PA and DC); Alaska and Hawaii +$25. International via Global-E to Canada (Quebec only; other provinces use muji.ca), Mexico and Latin America.",
@@ -64,7 +66,10 @@
     "Wikipedia: founded 1980; HQ Tokyo, Japan; run by Ryohin Keikaku; known for simple, unbranded goods (Mujirushi Ryohin, 'no-brand quality goods').",
     "ships_to is US only: muji.us ships to Canada only for Quebec (other provinces use muji.ca) and to Mexico and Latin America via Global-E.",
     "Wikipedia: founded 1980; HQ Tokyo, Japan; run by Ryohin Keikaku; known for simple, unbranded goods (run by Ryohin Keikaku, doing business as Mujirushi Ryōhin).",
-    "Bags (2026-10-29): Jute Bag Medium 'The perfect bag for holding groceries or running errands', folds down thinly; Cotton My Bag XL 'Use and reuse this cotton bag'; Water Repellent Shoulder Bag 'Made using recycled polyester, it has a water repellent finish' (https://www.muji.us/collections/bags/products.json?limit=250)."
+    "Bags (2026-10-29): Jute Bag Medium 'The perfect bag for holding groceries or running errands', folds down thinly; Cotton My Bag XL 'Use and reuse this cotton bag'; Water Repellent Shoulder Bag 'Made using recycled polyester, it has a water repellent finish' (https://www.muji.us/collections/bags/products.json?limit=250).",
+    "known_for corrected (2026-10-29, stores-like-muji page) from 'Simple, Unbranded Goods' to 'Minimalist Japanese Basics' so the title is about clothing: muji.us apparel page meta reads 'Shop sustainable fashion designed with casual, minimalist Japanese style in mind at MUJI! Made from natural materials for comfort and versatility everyday.' (https://www.muji.us/collections/apparel). The site menu lists T-Shirts under Best Sellers.",
+    "Women's T-shirts (2026-10-29, https://www.muji.us/collections/womens-t-shirts/products.json?limit=250): 45 listings, 31 regular price in stock, $14.90 (Women's Jersey Crew Neck Short Sleeve T-Shirt) to $39.90 (Heavyweight Cotton Boatneck and Waffle tees); men's T-shirt feed re-read the same day: 35 regular-price, $14.90 Jersey Crewneck T-Shirt to $60 Loopwheel Cotton Long Sleeve T-Shirt.",
+    "Loopwheel Cotton T-Shirt ($40): organic cotton jersey knitted on a traditional loopwheel machine, bottom to top (product copy, https://www.muji.us/collections/mens-t-shirts/products.json?limit=250)."
   ],
   "checked_at": "2026-10-29",
   "slug": "muji",

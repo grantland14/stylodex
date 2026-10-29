@@ -1,0 +1,55 @@
+{
+  "name": "Margaret Howell",
+  "slug": "margaret-howell",
+  "website_url": "https://www.margarethowell.co.uk",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Contemporary British Design",
+  "hq_country": "GB",
+  "founded_year": 1970,
+  "parent_company": null,
+  "size_range": "XS–XXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "GB",
+    "CA",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 28,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 125.0,
+      "max": 190.0,
+      "min_usd": 125.0,
+      "max_usd": 190.0,
+      "fx_date": null,
+      "item_count": 8,
+      "source_url": "https://www.margarethowell.co.uk/collections/men-jersey",
+      "checked_at": "2026-10-29",
+      "note": "Men's jersey with the United States (USD) market selected: 10 styles, MHL. Jersey Shirt ($265) and MHL. High Neck Sweatshirt ($295) excluded; 8 tees. Low MHL. Simple T Shirt in cotton linen jersey $125 (relaxed, boxy cut, garment dyed); MHL. Flatlock Crew Neck Top $145; MHL. Long Sleeve Crew Neck Top $155; MHL. Guernsey and Smock Neck T Shirts $175; high mainline Short Sleeve T Shirt in cotton or fine cotton jersey $190. None marked down (GBP feed has no compare-at prices; GBP 80–125). Sizes XS–XX."
+    }
+  ],
+  "materials": [
+    "Cotton linen jersey"
+  ],
+  "certifications": [],
+  "sources": [
+    "https://www.margarethowell.co.uk/",
+    "https://www.margarethowell.co.uk/collections/men-jersey",
+    "https://www.margarethowell.co.uk/collections/men-jersey/products.json?limit=250",
+    "https://www.margarethowell.co.uk/pages/customerservice",
+    "https://www.margarethowell.co.uk/pages/about-margaret-howell"
+  ],
+  "notes": [
+    "Customer service (https://www.margarethowell.co.uk/pages/customerservice): international orders through Global-e; 'All orders to the United States are shipped inclusive of duties and tax. State taxes will be shown at time of purchase'; refunds for unworn items returned within 28 days of receipt; UK free delivery over £250. Market selector lists United Kingdom (GBP), United States (USD), Canada (CAD) and Australia (AUD) among others.",
+    "Two lines: Margaret Howell mainline and MHL. (product titles). Site meta: 'Contemporary British design since 1970. View the Margaret Howell and MHL. collections for men and women.' (known_for and founded_year from this). HQ London (UK site, +44 20 phone line)."
+  ],
+  "checked_at": "2026-10-29"
+}
