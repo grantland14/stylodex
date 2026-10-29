@@ -1,0 +1,61 @@
+{
+  "name": "Mirror Palais",
+  "website_url": "https://www.mirrorpalais.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Dreamy, Nostalgic Dresses",
+  "hq_country": "US",
+  "founded_year": 2019,
+  "size_range": "XXS–XXL",
+  "has_plus": false,
+  "has_petite": true,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 14,
+  "production_model": "Designed in NYC, made in the US, China and India",
+  "sale_pattern": "Archive and sample sales",
+  "sells_categories": [
+    "dresses"
+  ],
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 395.0,
+      "max": 5995.0,
+      "min_usd": 395.0,
+      "max_usd": 5995.0,
+      "fx_date": null,
+      "item_count": 75,
+      "source_url": "https://www.mirrorpalais.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "products.json serves 131 published items in the dresses collection (collections.json says 412); 75 are regular-price dresses and gowns (no compare_at above price). Excluded: 33 'Sample' and 'Muslin Sample' items (Archive Sale 2026, final sale), 1 marked-down dress, skirts, tops, bustiers, bikinis, a gift card and a $0 Custom Order. Items tagged 'Summer Sale 2026' with no markdown are counted as regular price. Low: Lady Di A-Line Dress in Noir $395; top: Cascading Ruffle Gown in Pearl $5,995. Median $995. Many $595 pieces: Classic Supermodel Dress, La Piscine Mini Dress, Maria Micro Mini Dress. Plunging Back Cowl Dress $1,495 (made to order)."
+    }
+  ],
+  "sources": [
+    "https://www.mirrorpalais.com/meta.json",
+    "https://www.mirrorpalais.com/pages/about",
+    "https://www.mirrorpalais.com/pages/size-guide",
+    "https://www.mirrorpalais.com/pages/shipping",
+    "https://www.mirrorpalais.com/policies/shipping-policy",
+    "https://www.mirrorpalais.com/pages/returns-policy",
+    "https://www.mirrorpalais.com/pages/stockists",
+    "https://www.mirrorpalais.com/collections.json?limit=250",
+    "https://www.mirrorpalais.com/collections/dresses/products.json?limit=250"
+  ],
+  "notes": [
+    "About: 'Queens-born Marcelo Gaia founded Mirror Palais in 2019, after working for almost a decade as a stylist, with the mission to create dreamy, nostalgic pieces'; 'many items are made from vintage fabrics leading to limited launches and made-to-order exclusives'; 'Every garment is designed in New York'. Homepage title: 'Silk Dresses, Corsets & Romantic Womenswear'. known_for built from 'dreamy, nostalgic pieces' and its dresses (412 of 762 items in Shop All are in Dresses).",
+    "meta.json: shop address New York, US; currency USD; ships_to_countries includes '*', US, CA, GB, AU.",
+    "Size guide: XXS (bust 29-30, waist 22-23 in) to XXL (bust 45-46, waist 38-39 in). Product size options label XXS as 'XXS (PETITE)', so has_petite true; no plus range past XXL.",
+    "Product pages: Lady Di A-Line Dress and Classic Supermodel Dress 'made in New York City, USA'; Maria Dress and Plunging Back Cowl Dress 'made in Shenzhen, China'; La Piscine Mini Dress 'made in Mumbai, India'; Diamond Dust Mini Dress 'made in New Delhi, India'. Many sizes are pre-order or made-to-order (Plunging Back Cowl: 'expected to ship within 3-4 months').",
+    "Shipping page: in-stock pieces ship in 5 to 10 business days (processing 10 to 15 business days); made-to-order pieces 'could take 3 to 6 months'; pre-order times per product. US orders UPS Ground, 1-5 business days, cost shown at checkout (no free-shipping threshold stated). International via DHL Express; recipient pays import fees. 24-hour cancellation window, 'No refunds, no exceptions past the 24-hour cancellation window'. In-person try-ons for in-stock pieces at its NYC office by appointment.",
+    "Returns policy: 'We do not offer refunds for returned items. No Exceptions.' Store credit or limited exchanges for unworn garments within 14 days of receipt; customer pays return shipping; sale items and custom pieces final sale. returns_days 14 is for store credit or exchange only.",
+    "Stockists page: FWRD, Moda Operandi, REVOLVE online; Desordre boutiques in Australia. No US store of its own (NYC office try-ons by appointment), so us_stores left empty.",
+    "Collections include Archive Sale 2026, Sample Sale, Last Chance Sale: sale_pattern 'Archive and sample sales'."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "House of CB",
+  "website_url": "https://www.houseofcb.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Signature Bodycon Dresses",
+  "hq_country": "GB",
+  "founded_year": 2010,
+  "ships_to": [
+    "US",
+    "GB",
+    "AU",
+    "CA"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 28,
+  "us_stores": true,
+  "sells_categories": [
+    "dresses"
+  ],
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 195.0,
+      "max": 269.0,
+      "min_usd": 195.0,
+      "max_usd": 269.0,
+      "fx_date": null,
+      "item_count": 31,
+      "source_url": "https://app.houseofcb.com/dresses",
+      "checked_at": "2026-10-29",
+      "note": "Sample: the 31 dresses the dresses page rendered to WebFetch, in USD, none with a crossed-out price. Low: Keeya, Sancha, Lorenza, Neri, Noya $195; top: Magdalena black strapless midi and Serafina white openwork mini $269. Akaia champagne waterfall maxi $255; Thalina wine draped halter maxi $255. The full range was not readable (grid loads by script)."
+    }
+  ],
+  "sources": [
+    "https://www.houseofcb.com/",
+    "https://www.houseofcb.com/about-us",
+    "https://app.houseofcb.com/dresses",
+    "https://app.houseofcb.com/returns",
+    "https://app.houseofcb.com/deliveries",
+    "https://app.houseofcb.com/stores",
+    "https://app.houseofcb.com/imogen-scarlet-red-hip-drape-maxi-dress"
+  ],
+  "notes": [
+    "www.houseofcb.com redirects to app.houseofcb.com. Title: 'House of CB | Womenswear designed in London.' About: 'stores both in the UK and the US… all our pieces are in-house designed in London.' Footer: Sirens Design Limited, London, United Kingdom.",
+    "Returns page (embedded FAQ text): 'USA delivery info: We offer a free standard delivery service'; 'All USA orders take around 2-3 working days'; excludes Alaska, Guam, Hawaii, Northern Mariana Islands, Virgin Islands. Banner: 'Free delivery to UK, USA, Australia & more'.",
+    "Returns: 'All orders should be returned within 28 days of being received'; return depots in the UK, USA, Australia, Canada and Spain; refunds for full-priced items to the original payment; shipping costs not refunded; sale items refunded to a gift card only.",
+    "Stores page data: own store 'Los Angeles Melrose', 8448 Melrose Ave, West Hollywood, CA (isStore true), plus Nordstrom concessions (NYC, Century City, Miami, Las Vegas). us_stores true.",
+    "size_range left empty: the size guide loads by script. Imogen hip drape maxi dress product page offers XS, S, M, L, L+ ($239, 68% viscose 32% nylon).",
+    "About: 'The brand has evolved from the signature bodycon dresses to gorgeous statement pieces'; 'Opening online in May 2010 from the bedroom of our then 17 year old founder, Conna Walker'; 'a plethora of stand alone stores both in the UK and the US'. Postal address on the About page is in Hong Kong (not for returns); hq_country GB from 'designed in London' and the London company footer."
+  ],
+  "checked_at": "2026-10-29"
+}

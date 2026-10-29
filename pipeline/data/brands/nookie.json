@@ -1,0 +1,55 @@
+{
+  "name": "Nookie",
+  "website_url": "https://nookie.com.au",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Effortlessly Sexy Gowns and Dresses",
+  "hq_country": "AU",
+  "size_range": "XXS–XXL",
+  "has_plus": false,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 14,
+  "sells_categories": [
+    "dresses"
+  ],
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 220.0,
+      "max": 780.0,
+      "min_usd": 220.0,
+      "max_usd": 780.0,
+      "fx_date": null,
+      "item_count": 451,
+      "source_url": "https://nookie.com.au/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US-market prices. products.json lists 468 dresses in AUD (451 regular price, AU$199–AU$649). US prices read from each edge product's .js?country=US (USD, no compare_at): Bailey Mini $220 (AU$199) is the lowest; Fame Gown $780 (AU$649) the highest. Mischief Shirt Dress is AU$159 but marked down in the US market ($170 from $385), so excluded. Middle items not each re-read in USD: Valerie Cowl Gown $420 (AU$379), Lene Lace LS Mini $330 (AU$299)."
+    }
+  ],
+  "sources": [
+    "https://nookie.com.au/meta.json",
+    "https://nookie.com.au/",
+    "https://nookie.com.au/policies/shipping-policy",
+    "https://nookie.com.au/policies/refund-policy",
+    "https://nookie.com.au/collections/dresses/products.json?limit=250",
+    "https://nookie.com.au/products/bailey-mini-black.js?country=US",
+    "https://nookie.com.au/products/fame-gown-black.js?country=US",
+    "https://nookie.com.au/products/mischief-shirt-dress-hot-pink.js?country=US",
+    "https://nookie.com.au/products/valerie-cowl-gown-ivory.js?country=US",
+    "https://nookie.com.au/products/lene-lace-ls-mini-black.js?country=US"
+  ],
+  "notes": [
+    "Homepage meta: 'Nookie creates effortlessly sexy clothing and swimwear that embodies femininity.' Dresses collection holds 1,644 items (collections.json); products.json serves 468, mostly Gown (161), Mini Dress (129), Maxi Dress (111).",
+    "meta.json: shop address Chippendale, New South Wales, AU; currency AUD; ships_to includes US, CA, GB, AU.",
+    "Shipping policy: 'Free International DHL Express Shipping for orders over $300 to USA & Canada' (currency not stated, so free_shipping_min_usd left empty); North America 2-5 business days; international orders may incur customs or import duty fees, paid by the customer.",
+    "Refund policy: returns lodged and posted within 14 days of delivery; full-price refund less a $40 USD return fee for international orders, or a free Nookie Voucher; exchanges for Australian orders only; Archive and Warehouse Sale final sale.",
+    "Size options across the dresses collection: XXS to XXL."
+  ],
+  "checked_at": "2026-10-29"
+}

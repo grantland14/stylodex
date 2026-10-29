@@ -1,0 +1,52 @@
+{
+  "name": "Orseund Iris",
+  "website_url": "https://orseundiris.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Timeless, Season-Less Dresses and Knits",
+  "hq_country": "US",
+  "size_range": "XXS–XL",
+  "has_plus": false,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 14,
+  "production_model": "Many designs made in New York",
+  "sells_categories": [
+    "dresses"
+  ],
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 395.0,
+      "max": 3400.0,
+      "min_usd": 395.0,
+      "max_usd": 3400.0,
+      "fx_date": null,
+      "item_count": 6,
+      "source_url": "https://orseundiris.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "The dresses collection holds 6 products (collections.json says 11), all regular price: Off-Season Knitted Raglan Mini Dress $395, Little Darling Slip $525 (silk jersey), La Bohemia Knit Halter Dress $555, Le Cinéma Bustier Dress $995 (wool bodice, silk chiffon halter), Night Out Maxi Dress $3,400."
+    }
+  ],
+  "sources": [
+    "https://orseundiris.com/meta.json",
+    "https://orseundiris.com/",
+    "https://orseundiris.com/pages/faqs",
+    "https://orseundiris.com/pages/come-shop-with-us",
+    "https://orseundiris.com/policies/refund-policy",
+    "https://orseundiris.com/collections/dresses/products.json?limit=250"
+  ],
+  "notes": [
+    "Homepage meta: 'Timeless dresses, knitwear, tops & chic staples for modern women… season-less fashion'. FAQ: 'proudly design and manufacture many designs in New York'; no made-to-order or customisation.",
+    "meta.json: shop address Brooklyn, New York, US; currency USD; ships_to includes US, CA, GB, AU. FAQ: US via FedEx 2 Day or FedEx Ground; international UPS Expedited; costs not stated.",
+    "Come shop with us: Williamsburg showroom, 190 N 10th St, Studio 303, Brooklyn; open studio Thursday–Sunday, private appointments Monday–Wednesday ($25 deposit). us_stores left empty (a studio showroom, not a store locator).",
+    "Refund policy: return or exchange requests within 14 days of delivery for full-priced items; $15 restocking fee on domestic returns; initial shipping non-refundable; sale items final.",
+    "Size options across the dresses collection: XXS to XL."
+  ],
+  "checked_at": "2026-10-29"
+}

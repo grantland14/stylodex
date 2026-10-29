@@ -1,0 +1,56 @@
+{
+  "name": "Nana Jacqueline",
+  "website_url": "https://nanajacqueline.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Bow, Lace and Corset Occasion Dresses",
+  "hq_country": "US",
+  "size_range": "XS–XL",
+  "has_plus": false,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 14,
+  "us_stores": true,
+  "production_model": "Designed in LA, made in China",
+  "materials": [
+    "Mulberry silk"
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 225.0,
+      "max": 2300.0,
+      "min_usd": 225.0,
+      "max_usd": 2300.0,
+      "fx_date": null,
+      "item_count": 247,
+      "source_url": "https://nanajacqueline.com/collections/dresses-1/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "dresses-1 collection (898 items in collections.json; products.json serves 385): 247 regular price, 138 marked down (excluded). Low: Shirley Dress (Off white) $225; top: Mirelle Lace Maxi Dress $2,300. Median $455. Naomi Lace Satin Mini Dress $400; Emeline Corset White Dress $480; Kate Bow Dress $460."
+    }
+  ],
+  "sources": [
+    "https://nanajacqueline.com/meta.json",
+    "https://nanajacqueline.com/",
+    "https://nanajacqueline.com/pages/faq",
+    "https://nanajacqueline.com/policies/shipping-policy",
+    "https://nanajacqueline.com/policies/refund-policy",
+    "https://nanajacqueline.com/collections/dresses-1/products.json?limit=250"
+  ],
+  "notes": [
+    "FAQ: founded by Nana Li and Jacqueline Zhang; 'headquartered in West Hollywood, Los Angeles'; 'operates a flagship store at 158 N Robertson Blvd'; 'Real mulberry silk is used across many styles'; 'designed in Los Angeles and produced with skilled manufacturing partners in China'; small batches.",
+    "FAQ sizing: 'currently carries sizes XS through XL'; 'sizing runs approximately one to two sizes smaller than standard US sizing. An NJ size S fits closest to a US XS or XXS.'",
+    "meta.json: shop address West Hollywood, California, US; currency USD; ships_to includes US, CA, GB, AU.",
+    "Refund policy: returns and exchanges within 14 days of delivery; 'U.S. orders include free return shipping'; no restocking fee; final sale excluded. Shipping policy: processed in 1-3 business days, delivery 2-9 business days, no expedited option; US shipping cost not stated.",
+    "known_for built from homepage 'designer dresses… statement pieces' and the bows, lace and corset bodices that recur in its dress names."
+  ],
+  "checked_at": "2026-10-29"
+}
