@@ -233,6 +233,12 @@ in this repo.
 1. Full pipeline for which pages: the first ~20, wave 1, or every page?
 - Byline: **Ash** (decided 2026-10-29), bio supplied by Ash, author page at `/authors/ash`,
   linked from every byline and named in Article JSON-LD. G5 passes.
+- Apart Style's `brand_relationships` lists stay **candidates only**, never copied as picks:
+  they include off-category noise (hats, phone cases, homeware) and would be a visible footprint
+  (Ash asked, 2026-10-29).
+- Search demand ("X vs Y" volume) is **not** outside evidence for a pick (Ash, 2026-10-29).
+- No "unlimited returns" value: `returns_days` stays a number of days, so a store with no
+  return limit (Nordstrom) leaves it empty and its page stays noindex (Ash, 2026-10-29).
 
 ## Review
 
