@@ -1,0 +1,14 @@
+{
+  "slug": "eileen-fisher",
+  "name": "Eileen Fisher",
+  "website_url": "https://www.eileenfisher.com",
+  "status": "unverified",
+  "kind": "brand",
+  "sources": [
+    "https://www.eileenfisher.com/",
+    "https://www.eileenfisher.com/women/dresses/"
+  ],
+  "notes": [
+    "2026-10-29 (loft page run): https://www.eileenfisher.com/ closed the connection to a plain request with the StylodexBot UA (HTTP/2 INTERNAL_ERROR, then an empty reply over HTTP/1.1), and WebFetch of /women/dresses/ returned HTTP 503. One try each, no workaround. Status unverified; human check for live status, dress prices, sizes, shipping and returns. Five 'stores like Loft' lists name it."
+  ]
+}

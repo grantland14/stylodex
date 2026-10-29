@@ -4,7 +4,7 @@
   "website_url": "https://jnco.com",
   "status": "verified",
   "kind": "brand",
-  "known_for": "The Original Wide-Leg Jeans Since 1985",
+  "known_for": "Wide-Leg Jeans",
   "hq_country": "US",
   "founded_year": 1985,
   "parent_company": null,
@@ -69,7 +69,8 @@
     "Waist 24–44 (women) / 26–44 (men); leg openings 20\"–50\" (collection filters).",
     "Prices are null: collection pages list product names but no prices to WebFetch.",
     "2026-10-29: jeans price added from products.json. Regular price = no variant with compare_at_price above price and no sale/markdown tag; sale items excluded.",
-    "2026-10-29 (affliction run): graphic-tees price added from /collections/tees/products.json; size options S, M, L, XL, XXL (all 33), XXXL (32). Other fields unchanged from the jeans run of the same day."
+    "2026-10-29 (affliction run): graphic-tees price added from /collections/tees/products.json; size options S, M, L, XL, XXL (all 33), XXXL (32). Other fields unchanged from the jeans run of the same day.",
+    "Coordinator: known_for shortened from the homepage title (The Original Wide-Leg Jeans Since 1985) so page titles read cleanly."
   ],
   "checked_at": "2026-10-29"
 }

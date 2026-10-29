@@ -1,0 +1,35 @@
+{
+  "slug": "new-york-company",
+  "name": "New York & Company",
+  "website_url": "https://www.nyandcompany.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Affordable Workwear and Going-Out Clothes",
+  "hq_country": "US",
+  "founded_year": 1918,
+  "size_range": "XS–XL; most dresses S–L",
+  "has_plus": false,
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": false,
+  "free_shipping_min_usd": 99,
+  "returns_days": 30,
+  "sells_categories": [
+    "dresses"
+  ],
+  "checked_at": "2026-10-29",
+  "prices": [],
+  "sources": [
+    "https://www.nyandcompany.com/",
+    "https://www.nyandcompany.com/collections/dresses/products.json",
+    "https://www.nyandcompany.com/policies/refund-policy",
+    "https://www.nyandcompany.com/policies/shipping-policy",
+    "https://www.nyandcompany.com/pages/about-us"
+  ],
+  "notes": [
+    "2026-10-29 (loft page run): Shopify collection feed /collections/dresses/products.json (StylodexBot UA): 259 dresses, every one with compare_at_price above price (e.g. Long Sleeve Mock Neck A Line Sweater Mini Dress $44.99, was $88), so no regular-price dress: no price stored, sells_categories from its own dresses collection. Size options across the 259: Small/Medium 259, Large 258, XLarge 8, XSmall 2. Nav: 'Polished & Professional', Workwear Dresses, Night Out Dresses.",
+    "About Us FAQ: headquartered in New York City; 'Originally founded in 1918 (as Lerner Shops)... the brand has transitioned to a digital-first model'; 'At this time we ship within the United States only'; 'If you spend over $99, shipping is always free'; most orders deliver in 2–5 days; New York & Company styles 'tend to run large'. No store locator (/pages/store-locator 404), so us_stores false. Footer: © 2026 BHSK ECOMM INC.",
+    "Refund policy: 'Returns are accepted for store credit or exchanges within 30 days of delivery'; '$7.99 return shipping fee'; final sale and select promotional styles non-returnable. No cash refunds are described. known_for drafted from its own nav (Polished & Professional, Night Out)."
+  ]
+}
