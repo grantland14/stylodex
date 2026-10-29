@@ -1,0 +1,60 @@
+{
+  "slug": "skims",
+  "name": "SKIMS",
+  "website_url": "https://skims.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Shapewear, Loungewear and Basics",
+  "hq_country": "US",
+  "founded_year": 2019,
+  "parent_company": null,
+  "size_range": "XXS–4X",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 88.0,
+      "max": 148.0,
+      "min_usd": 88.0,
+      "max_usd": 148.0,
+      "fx_date": null,
+      "item_count": 17,
+      "source_url": "https://skims.com/collections/hoodies",
+      "checked_at": "2026-10-29",
+      "note": "WebFetch of the Women's Sweatshirts & Hoodies listing (skims.com/collections/hoodies): 17 hoodies visible, none marked down. Low: Cotton Fleece Logo Cropped Hoodie $88; most Cotton Fleece Hoodie / Logo Hoodie / Zip Up Hoodie $98; Sweater Knit Cable Zip Up Hoodie $128; high: Ludovic de Saint Sernin x SKIMS Cotton Fleece Hoodie $148. Listing truncated ('View More Products'), so the range covers those 17."
+    }
+  ],
+  "materials": [
+    "Cotton fleece"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://skims.com/",
+    "https://skims.com/collections/hoodies",
+    "https://skims.com/products/cotton-fleece-hoodie-light-heather-grey",
+    "https://skims.com/pages/returns",
+    "https://skims.com/pages/shipping",
+    "https://en.wikipedia.org/wiki/Skims"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "Cotton Fleece Hoodie (Light Heather Grey) product page: $98, sizes XXS, XS, S, M, L, XL, 2X, 3X, 4X; '70% Cotton / 30% Polyester'; 'plush, cloud-like fleece… embossed logo on the left sleeve'.",
+    "Returns page (U.S.): 'You can make a return within 30 days of placing your order for a store credit or refund.' Final Sale and collab items excluded. Banner: 'Join SKIMS Rewards for Free Returns'.",
+    "Shipping page banner: 'Free Shipping on Domestic Orders $75+'; the site has an International help page, but no country list was read, so ships_to records US only.",
+    "Wikipedia infobox: headquartered in Los Angeles, California, US; founded June 2019 by Kim Kardashian and Jens Grede (no citation on the HQ line). Store nav: Bras & Underwear, Shapewear, Lounge, Pajamas, Swim, Mens; known_for from those."
+  ],
+  "sells_categories": [
+    "hoodies"
+  ]
+}

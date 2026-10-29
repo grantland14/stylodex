@@ -1,0 +1,48 @@
+{
+  "name": "Melinda Maria",
+  "website_url": "https://www.melindamaria.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Affordable Luxury Fashion Jewelry",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": 30,
+  "materials": [
+    "Heavy gold plating",
+    "Hand-set stones"
+  ],
+  "prices": [
+    {
+      "category": "necklaces",
+      "currency": "USD",
+      "min": 75.0,
+      "max": 250.0,
+      "min_usd": 75.0,
+      "max_usd": 250.0,
+      "fx_date": null,
+      "item_count": 216,
+      "source_url": "https://www.melindamaria.com/collections/handcrafted-necklace/products.json",
+      "checked_at": "2026-10-29",
+      "note": "products.json (USD), necklace titles, available, regular price only (0 marked down and 4 sold out excluded; extenders/clasps excluded): Samantha Chain Necklace 3mm - Silver $75 to The Maven Tennis Necklace 3mm - Gold|Blue Opal $250; 40 of 216 start under $100, median $135. She's a Boss Pendant (Blue Opal) $115."
+    }
+  ],
+  "sells_categories": [
+    "necklaces"
+  ],
+  "sources": [
+    "https://www.melindamaria.com/collections/handcrafted-necklace/products.json",
+    "https://www.melindamaria.com/pages/about",
+    "https://www.melindamaria.com/pages/design-quality-and-craftsmanship",
+    "https://www.melindamaria.com/policies/shipping-policy",
+    "https://www.melindamaria.com/policies/refund-policy"
+  ],
+  "notes": [
+    "About: 'price does not define luxury'; Melinda's Lifetime Guarantee. Design page: heavy gold plating formulated to emulate 14k gold; stones hand-set and hand-polished; protective E-coat for hypoallergenic wear.",
+    "Shipping: standard free over $75; international free over $200 (countries not named, US only stored). Returns: unworn within 30 days of delivery; sale final; international returns at customer's expense.",
+    "Necklaces: Samantha Chain 3mm $75, Life's A Ball Pearl Pendant $95, She's a Boss Pendant Necklace Gold Blue Opal $115, The Maven Tennis Necklace 3mm $250 (top)."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "melinda-maria"
+}

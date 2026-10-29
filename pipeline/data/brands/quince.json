@@ -58,6 +58,19 @@
       "source_url": "https://www.quince.com/shop/women/bags-&-leather-goods",
       "checked_at": "2026-10-29",
       "note": "Women's Bags & Leather Goods page (330 items) read sorted both ways (?sortBy=PRICE_LOW_TO_HIGH / PRICE_HIGH_TO_LOW) and default; no sale prices shown. Bags only (straps, card cases, luggage tags, toiletry bags, weekenders excluded). Low: Revive Nylon Belt Bag ($26); high: Clement Large Shoulder Bag ($198). Sloane Handwoven Mini Shoulder Bag $120, Hudson Suede Tote $174, Hudson Satchel $188."
+    },
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 44.9,
+      "max": 119.9,
+      "min_usd": 44.9,
+      "max_usd": 119.9,
+      "fx_date": null,
+      "item_count": 6,
+      "source_url": "https://www.quince.com/shop/women/sweatshirts",
+      "checked_at": "2026-10-29",
+      "note": "WebFetch of the women's sweatshirts listing (147 items; about 30 visible): 6 hoodies, none marked down. Low: Flowknit Full-Zip Hoodie $44.90; high: Mongolian Cashmere Full-Zip Hoodie $119.90 (four colors). Range covers those 6."
     }
   ],
   "materials": [
@@ -81,7 +94,8 @@
     "https://www.quince.com/women/dresses",
     "https://www.quince.com/shop/women/bags-&-leather-goods",
     "https://www.quince.com/shop/women/bags-&-leather-goods?sortBy=PRICE_LOW_TO_HIGH",
-    "https://www.quince.com/shop/women/bags-&-leather-goods?sortBy=PRICE_HIGH_TO_LOW"
+    "https://www.quince.com/shop/women/bags-&-leather-goods?sortBy=PRICE_HIGH_TO_LOW",
+    "https://www.quince.com/shop/women/sweatshirts"
   ],
   "notes": [
     "Homepage title: 'High Quality Essentials, Radically Low Prices'; banner 'High-quality essentials at radical prices' and 'Free shipping & easy returns for 365 days'. First category tiles: Sweaters, Bags, Cashmere, Jewelry; '$50 Cashmere' promo at the top (https://www.quince.com/).",
@@ -90,11 +104,13 @@
     "Mongolian Cashmere Crewneck Sweater: '100% Grade A Mongolian Cashmere', '12-gauge jersey knit'; sizes XS–XL, with 1X–3X on a separate extended listing (https://www.quince.com/women/cashmere/cashmere-crewneck-sweater?color=heather-grey).",
     "Wikipedia: San Francisco; founded 2019 as Last Brand, renamed Quince June 2020 (infobox says 2018); founders Sid Gupta, Sourabh Mahajan, Becky Mortimer, Zunu Mittal; markets a 'manufacturer-to-consumer' model. Lawsuits listed: Williams-Sonoma (Nov 2025, comparison ads), Tapestry/Coach (Apr 2025, trade dress), Yeti and Deckers/UGG IP disputes (https://en.wikipedia.org/wiki/Quince_(company)).",
     "Dresses page (https://www.quince.com/women/dresses, 2026-10-29): 16 dresses shown, $59.90–$159.90, incl. washable silk slip dresses $114.90 and cotton cashmere ribbed midi dresses $59.90–$77. Named as a Tuckernuck alternative by The Pink Chickadee and TeriLyn Adams.",
-    "Handbags (2026-10-29): Women's Bags & Leather Goods page lists 330 items incl. Hudson Suede Tote $174, Sloane Handwoven Mini Shoulder Bag $120, Clement Large Shoulder Bag $198 (https://www.quince.com/shop/women/bags-&-leather-goods)."
+    "Handbags (2026-10-29): Women's Bags & Leather Goods page lists 330 items incl. Hudson Suede Tote $174, Sloane Handwoven Mini Shoulder Bag $120, Clement Large Shoulder Bag $198 (https://www.quince.com/shop/women/bags-&-leather-goods).",
+    "2026-10-29 (comfrt run): women's sweatshirts page lists Mongolian Cashmere Full-Zip Hoodie $119.90 (Best seller badge) and Flowknit Full-Zip Hoodie $44.90; no strikethrough prices."
   ],
   "checked_at": "2026-10-29",
   "sells_categories": [
     "dresses",
-    "handbags"
+    "handbags",
+    "hoodies"
   ]
 }

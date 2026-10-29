@@ -1,0 +1,60 @@
+{
+  "slug": "american-giant",
+  "name": "American Giant",
+  "website_url": "https://www.american-giant.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "American-Made Hoodies and Basics",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–3X",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 98.0,
+      "max": 175.0,
+      "min_usd": 98.0,
+      "max_usd": 175.0,
+      "fx_date": null,
+      "item_count": 10,
+      "source_url": "https://www.american-giant.com/collections/mens-hoodies-sweatshirts/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Men's and women's Hoodies & Sweatshirts feeds; hoodies = products tagged 'Category: Hoodie' (19). Regular price = in stock, no compare_at above price: 10 (6 marked down, 3 sold out). Low: Women's Thermal Hoodie $98; Men's Classic Full Zip $168 (S–XXL, black also 3X); high: Men's Relaxed Classic Full Zip $175. Women's feed: https://www.american-giant.com/collections/womens-hoodies-sweatshirts/products.json"
+    }
+  ],
+  "materials": [
+    "Cotton fleece"
+  ],
+  "certifications": [],
+  "production_model": "Made in the USA",
+  "sale_pattern": null,
+  "sources": [
+    "https://www.american-giant.com/",
+    "https://www.american-giant.com/meta.json",
+    "https://www.american-giant.com/collections/mens-hoodies-sweatshirts/products.json",
+    "https://www.american-giant.com/collections/womens-hoodies-sweatshirts/products.json",
+    "https://www.american-giant.com/policies/shipping-policy",
+    "https://www.american-giant.com/policies/refund-policy"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "Store title 'American Made Clothing & Activewear | American Giant'; meta 'Discover American made essentials… Shop durable hoodies, tees, pants'. Store meta: San Francisco, California, US.",
+    "Shipping policy: 'free shipping to our customers in the United States on orders over $150'; standard mostly 2–4 business days.",
+    "Refund policy: returns within 30 days of purchase, unworn, unwashed, undamaged.",
+    "Hoodie sizes: women's XS–XL, men's S–XXL with 3X on some colors."
+  ],
+  "sells_categories": [
+    "hoodies"
+  ]
+}

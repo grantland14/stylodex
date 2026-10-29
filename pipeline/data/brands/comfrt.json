@@ -1,0 +1,59 @@
+{
+  "slug": "comfrt",
+  "name": "Comfrt",
+  "website_url": "https://comfrt.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Oversized, Slightly Weighted Hoodies",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–3X",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 99,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [],
+  "materials": [
+    "CloudTouch heavyweight fleece"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": "Every hoodie listed below its list price",
+  "sources": [
+    "https://comfrt.com/",
+    "https://comfrt.com/meta.json",
+    "https://comfrt.com/collections/hoodies/products.json?limit=250",
+    "https://comfrt.com/products.json?limit=250&page=1",
+    "https://comfrt.com/policies/refund-policy",
+    "https://comfrt.com/content/shipping-policy",
+    "https://comfrt.com/content/fit-guides",
+    "https://comfrt.com/content/terms-of-service",
+    "https://comfrt.com/content/mindset",
+    "https://comfrt.com/content/patents",
+    "https://comfrt.com/pages/faq"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "Store title 'Comfrt | Feel-Good Clothing & Home | Wear The Feeling'; meta 'Buttery soft hoodies, cozy blankets, and loungewear'. Footer disclaimer: 'We just make really comfy slightly weighted hoodies!' and anxiety claims 'have not been proven or studied in clinical trials'. known_for from these.",
+    "hq_country US: Shopify store meta (comfrt.com/meta.json) gives Miami, Florida, US; terms of service name Comfrt LLC and US governing law; orders processed by 11am PT.",
+    "Prices: NO regular-price hoodies. All 45 products in /collections/hoodies/products.json (2026-10-29) carry compare_at_price above price on every variant (e.g. Signature Hoodie $39 vs $120 list, Minimalist Hoodie – Mega $39–$59 vs $120, Airplane Mode Travel Hoodie $59 vs $140, Weighted Hoodie $75 vs $170). Selling prices run $35–$75, list prices $100–$170. Across the whole 399-product catalog only 21 items have no markdown (socks, keychains, tank 3-packs, pre-orders, gift card), none of them hoodies. So prices.hoodies is left empty (enrich.md: regular = not marked down); human check.",
+    "Fit guide (/content/fit-guides): two hoodie fits, Oversized ('roomy through chest and shoulders, dropped shoulder') and Mega ('a step beyond oversized… even more room through chest, shoulders, and arms, deeper dropped shoulder').",
+    "Fabric: hoodies are CloudTouch Heavyweight Fleece, described as 'slightly weighted' (Minimalist Hoodie – Mega product copy). Weighted Hoodie is 5 lbs. Airplane Mode Travel Hoodie has a built-in eye mask and eight pockets. Comfrt states 'Over 20 million hoodies sold'.",
+    "Sizes: hoodies XS–3X (Cloud Zip Hoodie – Mega also XXS), from the size option on all 45 hoodie products.",
+    "Refund policy: returns within 30 days of delivery for exchange or store credit only; 'Refunds: Not offered at this time'; no return shipping fee on domestic returns; Final Sale items not returnable.",
+    "Shipping policy (/content/shipping-policy): 'We ship worldwide!' with rates for USA, UK, EU, Canada, Australia, Rest of World. US standard $9.95, free on $99+, 3–6 business days; Express $15.95.",
+    "Patents page lists pending US design and utility applications (hoodie with eye mask, support cushions)."
+  ],
+  "sells_categories": [
+    "hoodies"
+  ]
+}

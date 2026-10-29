@@ -1,0 +1,59 @@
+{
+  "slug": "alo-yoga",
+  "name": "Alo Yoga",
+  "website_url": "https://www.aloyoga.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Yoga Clothes From Studio to Street",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XXS–2XL",
+  "has_plus": false,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 168.0,
+      "max": 398.0,
+      "min_usd": 168.0,
+      "max_usd": 398.0,
+      "fx_date": null,
+      "item_count": 33,
+      "source_url": "https://www.aloyoga.com/collections/womens-sweatshirts-hoodies/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Women's (22) and men's (11) Sweatshirts & Hoodies collection feeds, titles containing 'hood': 33 regular-price (no variant with compare_at_price above price) of 120 hoodies; 177 marked down. Low: Marl Sweater Rewind Full Zip Hoodie $168 (cotton blend, midweight). Cashmere Plush Waffle Full Zip Hoodie $348; high: Wool Cashmere New Class Full Zip Hoodie and Wool Cashmere Ribbed Noble Full Zip Hoodie $398. Men's feed: https://www.aloyoga.com/collections/mens-sweatshirts-hoodies/products.json"
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.aloyoga.com/",
+    "https://www.aloyoga.com/meta.json",
+    "https://www.aloyoga.com/collections/womens-sweatshirts-hoodies/products.json",
+    "https://www.aloyoga.com/collections/mens-sweatshirts-hoodies/products.json",
+    "https://www.aloyoga.com/policies/refund-policy",
+    "https://www.aloyoga.com/pages/shipping-info"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "Store title 'ALO | Yoga leggings, clothes, and accessories for studio to street'. Store meta: Alo Yoga, Beverly Hills, California, US.",
+    "Shipping info: 'We offer free shipping on all U.S. orders, and free shipping on international orders over $75 USD'; the country list renders client-side, so ships_to records US only.",
+    "Refund policy: exchange, store credit or refund within 30 days of purchase; 'Returns are free of charge'; Final Sale and Exchange Only items excepted.",
+    "Most of its hoodies were marked down on 2026-10-29 (177 of 210 hoodie listings across both feeds); the regular-price ones left are the cashmere and sweater-knit lines, which is why the range starts at $168.",
+    "Hoodie sizes XXS–2XL from the size options in both feeds."
+  ],
+  "sells_categories": [
+    "hoodies"
+  ]
+}

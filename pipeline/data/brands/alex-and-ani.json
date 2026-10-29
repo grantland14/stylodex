@@ -1,0 +1,42 @@
+{
+  "name": "Alex and Ani",
+  "website_url": "https://www.alexandani.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Symbolic Charm and Pendant Jewelry",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 85,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "necklaces",
+      "currency": "USD",
+      "min": 34.0,
+      "max": 98.0,
+      "min_usd": 34.0,
+      "max_usd": 98.0,
+      "fx_date": null,
+      "item_count": 242,
+      "source_url": "https://www.alexandani.com/collections/necklaces/products.json",
+      "checked_at": "2026-10-29",
+      "note": "products.json (USD), necklace titles, available, regular price only (133 marked down and 0 sold out excluded; extenders/clasps excluded): Happy Camper Corded Necklace $34 to Star of David Heart Necklace, 14kt Gold Plated $98; 242 of 242 start under $100, median $48. "
+    }
+  ],
+  "sells_categories": [
+    "necklaces"
+  ],
+  "sources": [
+    "https://www.alexandani.com/collections/necklaces/products.json",
+    "https://www.alexandani.com/policies/shipping-policy",
+    "https://www.alexandani.com/policies/refund-policy",
+    "https://www.alexandani.com/"
+  ],
+  "notes": [
+    "Homepage banner: free shipping on continental US orders $85+. Ships internationally (5–17 business days; countries not named, US only stored); international sales final. Returns: within 30 days of delivery, $5 handling fee deducted; final sale, clearance and engraved excluded.",
+    "Necklaces: 133 of 375 marked down (excluded). Regular: Happy Camper Corded Necklace $34 to Star of David Heart Necklace 14kt Gold Plated $98; November Balance Butterfly Birthstone Pendant $38."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "alex-and-ani"
+}

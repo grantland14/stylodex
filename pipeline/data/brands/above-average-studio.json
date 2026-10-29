@@ -1,0 +1,42 @@
+{
+  "name": "Above Average Studio",
+  "website_url": "https://aboveaveragestudio.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Handmade Gemstone Jewelry",
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 0,
+  "prices": [
+    {
+      "category": "necklaces",
+      "currency": "CAD",
+      "min": 50.0,
+      "max": 130.0,
+      "min_usd": 35.6,
+      "max_usd": 92.55,
+      "fx_date": "2026-10-28",
+      "item_count": 37,
+      "source_url": "https://aboveaveragestudio.com/collections/necklaces/products.json",
+      "checked_at": "2026-10-29",
+      "note": "products.json (store currency CAD per cart.js), available, regular price only (1 marked down, 6 sold out excluded): Ball Chain Necklace CA$50 to Cosmic Heart Necklace CZ Silver CA$130. USD at ECB 2026-10-28 (USD 1.1133, CAD 1.5638 per EUR)."
+    }
+  ],
+  "sells_categories": [
+    "necklaces"
+  ],
+  "sources": [
+    "https://aboveaveragestudio.com/collections/necklaces/products.json",
+    "https://aboveaveragestudio.com/policies/shipping-policy",
+    "https://aboveaveragestudio.com/policies/refund-policy"
+  ],
+  "notes": [
+    "Shipping: US orders go by Canada Post then USPS, 5–15 business days; ships internationally; free shipping over $150 after discounts (currency not stated, so not stored as USD). Returns: all sales final (returns_days 0); defective pieces replaced.",
+    "WebFetch could not resolve www.aboveaveragestudio.com; the bare domain aboveaveragestudio.com (linked from The Zoe Report) is live."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "above-average-studio"
+}

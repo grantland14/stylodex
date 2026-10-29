@@ -1,0 +1,48 @@
+{
+  "name": "8 Other Reasons",
+  "website_url": "https://www.8otherreasons.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Statement Accessories With Edge",
+  "hq_country": "AU",
+  "founded_year": 2010,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 7,
+  "prices": [
+    {
+      "category": "necklaces",
+      "currency": "USD",
+      "min": 27.0,
+      "max": 122.0,
+      "min_usd": 27.0,
+      "max_usd": 122.0,
+      "fx_date": null,
+      "item_count": 46,
+      "source_url": "https://www.8otherreasons.com/collections/necklaces-1/products.json",
+      "checked_at": "2026-10-29",
+      "note": "products.json (USD), necklace titles, available, regular price only (1 marked down and 1 sold out excluded; extenders/clasps excluded): Eternal Cross Pendant Necklace $27 to Summer Salt Seashell Necklace $122; 43 of 46 start under $100, median $52. "
+    }
+  ],
+  "sells_categories": [
+    "necklaces"
+  ],
+  "sources": [
+    "https://www.8otherreasons.com/collections/necklaces-1/products.json",
+    "https://www.8otherreasons.com/pages/about",
+    "https://www.8otherreasons.com/pages/shipping-returns",
+    "https://www.8otherreasons.com/policies/refund-policy"
+  ],
+  "notes": [
+    "About: founded in Australia, led by designer Charles Lichaa; a cult accessories line from 2010.",
+    "Shipping and returns page: free standard shipping on all US orders; ships worldwide. Returns: email within 7 days of receiving the order; earrings and sale items final.",
+    "Necklaces (necklaces-1 collection): Eternal Cross Pendant $27 to Summer Salt Seashell Necklace $122."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "8-other-reasons"
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "champion",
+  "name": "Champion",
+  "website_url": "https://www.champion.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Classic Hoodies and Sweatshirts",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–3XL",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 22.5,
+      "max": 175.0,
+      "min_usd": 22.5,
+      "max_usd": 175.0,
+      "fx_date": null,
+      "item_count": 42,
+      "source_url": "https://www.champion.com/collections/hoodies/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Shopify hoodies feed: 82 products, 42 regular-price (no variant with compare_at_price above price), 40 marked down. Low: Jersey Sleeveless Hoodie, C Logo $22.50; Powerblend Hoodie, C Logo $37.50; Fleece Hoodie, Satin Applique $41.25; Reverse Weave Small C Hooded Sweatshirt $65; Reverse Weave Hoodie Sweatshirt $70; high: Men's and Women's Knitted Hooded Sweatshirt $175."
+    }
+  ],
+  "materials": [
+    "Reverse Weave fleece",
+    "Powerblend fleece"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.champion.com/",
+    "https://www.champion.com/meta.json",
+    "https://www.champion.com/collections/hoodies/products.json",
+    "https://www.champion.com/pages/shipping-delivery",
+    "https://www.champion.com/policies/refund-policy",
+    "https://www.champion.com/products/champion-essentials-reverse-weave-hoodie-sweatshirt-black"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "Store meta: Champion, Houston, Texas, US; description 'Shop classic hoodies, sweatshirts, joggers, and performance gear'.",
+    "Reverse Weave Hoodie Sweatshirt ($70): 'Reverse Weave® heavyweight fleece that's cut on the cross-grain to reduce shrinkage', loose fit, drop shoulders. Powerblend Hoodie ($37.50): midweight fleece, 'warm without the weight', double-lined hood.",
+    "Shipping & Delivery: 'We currently ship to the 48 contiguous states'; no Puerto Rico or APO/FPO. Cart banner: 'Spend $75.00 USD more for free shipping'.",
+    "Refund policy: unworn returns within 30 days of delivery; customer pays return shipping; original shipping not refunded.",
+    "Hoodie sizes XS–3XL across the feed (most XS–2XL)."
+  ],
+  "sells_categories": [
+    "hoodies"
+  ]
+}

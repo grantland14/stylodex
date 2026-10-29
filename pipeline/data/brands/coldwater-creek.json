@@ -4,7 +4,7 @@
   "website_url": "https://www.coldwatercreek.com",
   "status": "verified",
   "kind": "brand",
-  "known_for": "Comfortable Tunics and Pull-On Pants",
+  "known_for": "Classic Womenswear",
   "hq_country": "US",
   "founded_year": 1984,
   "parent_company": "Newtimes Group",
@@ -59,6 +59,7 @@
     "Returns: 'within 60 days of purchase with a valid receipt'; $9.95 processing fee deducted. Shipping: by order value, $9.99 standard up to $50 to $19.99 over $200; 'not able to ship to Canada or other non-U.S. addresses'.",
     "Wikipedia: founded 1984 by Dennis and Ann Pence in Sandpoint, Idaho; Newtimes Group (Hong Kong) bought its inventory and IP in September 2020; closed its 13 stores in 2020 and is online-only, so us_stores false. Current HQ not stated, hq_country left empty. Soft Surroundings article: Coldwater Creek bought Soft Surroundings on December 7, 2023.",
     "2026-10-29 (coldwater-creek page run): privacy policy and terms name the operator 'Coldwater International LLC', 6426 NW 5th Way, Fort Lauderdale, FL 33309, with affiliate 'Soft Surroundings International, LLC dba Soft Surroundings', so hq_country US. Our Story: 'shaped by the beauty, artistry and independent spirit of Sandpoint, Idaho'; 'Mountain West heritage'; 'Quality fabrics, outstanding construction and livable designs'. FAQ offers catalogs ('Request a Catalog'). Size chart intro: 'Misses, Petites and Women's Plus... sizes 2–26W'.",
-    "2026-10-29 (coldwater-creek page run): live store selling women's clothing today, so verified, not defunct (stores closed in 2020; online and catalog since). Ahrefs top pages (US): /clothing/dresses is the top product-type page (est. 3,741 visits/mo) ahead of /clothing/tunics (1,502) and /clothing/sweaters (860). Stocks some outside labels (Komarov dresses)."
+    "2026-10-29 (coldwater-creek page run): live store selling women's clothing today, so verified, not defunct (stores closed in 2020; online and catalog since). Ahrefs top pages (US): /clothing/dresses is the top product-type page (est. 3,741 visits/mo) ahead of /clothing/tunics (1,502) and /clothing/sweaters (860). Stocks some outside labels (Komarov dresses).",
+    "Coordinator: known_for set to Classic Womenswear (was Comfortable Tunics and Pull-On Pants), which reads oddly in a dresses page title."
   ]
 }

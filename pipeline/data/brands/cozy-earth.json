@@ -1,0 +1,61 @@
+{
+  "slug": "cozy-earth",
+  "name": "Cozy Earth",
+  "website_url": "https://cozyearth.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Luxury Bedding and Loungewear",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–3XL",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 88.0,
+      "max": 138.0,
+      "min_usd": 88.0,
+      "max_usd": 138.0,
+      "fx_date": null,
+      "item_count": 12,
+      "source_url": "https://cozyearth.com/collections/womens-hoodies-sweatshirts/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Women's and men's Hoodies & Sweatshirts feeds, titles containing 'Hoodie': 12, none with compare_at_price. Low: Men's Lightweight Performance Hoodie $88; Women's and Men's Brushed Bamboo Hoodie $98; Versa Hoodie $104; CityScape Hoodie $118; high: Men's StretchTech Hoodie $138. Men's feed: https://cozyearth.com/collections/mens-hoodies-sweatshirts/products.json"
+    }
+  ],
+  "materials": [
+    "Bamboo viscose"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://cozyearth.com/",
+    "https://cozyearth.com/meta.json",
+    "https://cozyearth.com/collections/womens-hoodies-sweatshirts/products.json",
+    "https://cozyearth.com/collections/mens-hoodies-sweatshirts/products.json",
+    "https://cozyearth.com/policies/shipping-policy",
+    "https://cozyearth.com/policies/refund-policy"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "Store title 'Life-Changing Luxury Bedding and Loungewear | Cozy Earth'. Store meta: Lehi, Utah, US.",
+    "Women's Brushed Bamboo Hoodie ($98): 'breathable bamboo viscose', relaxed, 'enhanced weave ensures it lasts longer and doesn't pill'; sizes XS–XXXL. Men's StretchTech Hoodie ($138): stretchy double-knit, three-piece hood.",
+    "Shipping policy: US orders over $100 ship free; 'Cozy Earth provides worldwide shipping to our customers outside of the US' (no country list), so ships_to records US only.",
+    "Refund policy: 100 days for bedding, 'All other products have a 30 day return policy'; refunds to the original payment method.",
+    "Hoodie sizes: women's XS–XL/XXL (Brushed Bamboo to XXXL), men's S–XXXL."
+  ],
+  "sells_categories": [
+    "hoodies"
+  ]
+}

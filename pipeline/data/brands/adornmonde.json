@@ -1,0 +1,52 @@
+{
+  "name": "Adornmonde",
+  "website_url": "https://www.adornmonde.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Solid Gold Earrings for Everyday Wear",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 14,
+  "materials": [
+    "14k solid gold",
+    "Lab-grown diamonds"
+  ],
+  "prices": [
+    {
+      "category": "necklaces",
+      "currency": "USD",
+      "min": 342.0,
+      "max": 606.0,
+      "min_usd": 342.0,
+      "max_usd": 606.0,
+      "fx_date": null,
+      "item_count": 24,
+      "source_url": "https://www.adornmonde.com/collections/necklaces/products.json",
+      "checked_at": "2026-10-29",
+      "note": "products.json (USD), necklace titles, available, regular price only (0 marked down and 1 sold out excluded; extenders/clasps excluded): Atticus micro bow necklace $342 to Luca heart diamond necklace $606; 0 of 24 start under $100, median $432. Knoxx round diamond $382."
+    }
+  ],
+  "sells_categories": [
+    "necklaces"
+  ],
+  "sources": [
+    "https://www.adornmonde.com/collections/necklaces/products.json",
+    "https://www.adornmonde.com/pages/about-us",
+    "https://www.adornmonde.com/pages/our-materials",
+    "https://www.adornmonde.com/policies/shipping-policy",
+    "https://www.adornmonde.com/pages/international",
+    "https://www.adornmonde.com/policies/refund-policy"
+  ],
+  "notes": [
+    "About: 'LAZY GIRL JEWELRY'; founder Niki Allworth; every piece crafted in solid gold or sterling silver, made for 24/7 wear; earring-led. Materials: 14k gold fine jewelry, lab-grown diamonds, nickel- and lead-free.",
+    "Shipping: free standard shipping within the US (5–7 business days), express $19.99; international express free over $320; country list includes Australia, United Kingdom, Canada. Returns: 14 days from receipt; sale-period orders final.",
+    "Necklaces (all 14k solid gold): Atticus micro bow $342, Brulee crystal heart $352, Knoxx round diamond (lab diamond) $382, Luca heart diamond up to $606."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "adornmonde"
+}
