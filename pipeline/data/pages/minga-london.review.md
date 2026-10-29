@@ -103,7 +103,7 @@ Skipped because no stored fact answers them:
 | G12 | PASS | Prices were read today, and the "Last checked" line covers dates. |
 | G13 | PASS | The ranking pages are a 15-item list with one-line blurbs (worthybornedit) and a 4-brand profile. This page has 12 verified picks with real prices and US terms. |
 | G14 | PASS | Affiliate links go through `/go/`. Nothing implies testing, and the criteria are on the method page. |
-| G15 | PASS | The page reads as a whole and the picks point to each other. It isn't a near-duplicate of the Jaded London page: different anchor price story, and 7 different picks. |
+| G15 | PASS | The page reads as a whole and the picks point to each other. It isn't a near-duplicate of the Jaded London page: different anchor price story, 4 picks not on it, and bodies written fresh. But 8 picks are shared with the Jaded page, so a human should read the two side by side. |
 
 **Estimated Page Quality:** High. The strongest reason is the verified US prices and terms per pick, including the anchor's own US/UK price gap.
 **Estimated Needs Met:** Highly Meets. It would be better with Jaded London verified (3 sources), since many searchers expect it on the list.
