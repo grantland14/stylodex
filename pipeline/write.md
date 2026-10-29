@@ -17,6 +17,8 @@ the sentence goes; it is never filled from memory or from what other sites say.
 
 ## Voice
 - American English. Plain, specific, friendly; a knowledgeable friend, not a brochure.
+- Write like a person recommending shops, not a researcher reporting findings: state facts
+  plainly ("its jeans run $72–$98"), never "we found", "on the day we checked", "per its site".
 - Second person is fine ("if you buy Jaded for its cargos…"). **No first-person experience**: we
   have not worn, tried or tested anything, so never imply it (G4, G14). "We checked each brand's
   store on {date}" is true and allowed.
@@ -25,13 +27,14 @@ the sentence goes; it is never filled from memory or from what other sites say.
 - Brand names exactly as the brand writes them.
 - Numbers as stored: "$48–$56", "£40–£95", "30-day returns", "free US shipping over $80".
 
-## Intro (80–120 words)
-- First sentence answers the search: what Jaded London is known for, then that this list matches
-  on {category} and style, from brands that ship to the US.
-- Say what the picks were checked for (live store, same product line, outside recommendation,
-  prices from each store on the checked date). No preamble, no history lesson.
-- If the anchor is closed (`defunct`), say when and how we know, then what its shoppers went
-  there for.
+## Intro (40–70 words, two or three sentences)
+- What the anchor is known for, then what this list offers the reader: what the picks have in
+  common and the price spread ("from $72 at mnml to $350 at JNCO").
+- **Never narrate our process in copy** (Ash, 2026-10-29): no "we checked…", "Stylodex found…",
+  dates, "X describes it as…" attribution chains, or explaining what we couldn't verify. The
+  "How we pick" box and the "Last checked" line already say that. Unverifiable facts are left
+  out, not explained.
+- If the anchor is closed (`defunct`), say so plainly, then what its shoppers went there for.
 
 ## Each pick (80–150 words)
 1. Why it's on the list: the stored `reason`, said naturally, with the fact that makes it true.

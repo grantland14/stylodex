@@ -8,7 +8,7 @@ import ProductStrip from "../components/ProductStrip.astro";
 import Base from "../layouts/Base.astro";
 import { authorByName } from "@/lib/authors";
 import { listAlternativesPages } from "@/lib/data";
-import { evidenceLine, longDate, priceRange, priceWithUsd, shipsTo, sizes } from "@/lib/format";
+import { longDate, priceRange, priceWithUsd, shipsTo, sizes } from "@/lib/format";
 import { brandsLikeTitle, judgeBrandsLikePage, priceFor, type PageVerdict } from "@/lib/gate";
 import { alternativesPath } from "@/lib/paths";
 import type { BrandsLikePage, SimilarPick } from "@/lib/types";
@@ -185,9 +185,6 @@ if (page.faqs.length > 0) {
                 </div>
               )}
               <p class="mt-5 leading-relaxed">{pick.pair.body}</p>
-              {evidenceLine(pick.pair.evidence) && (
-                <p class="mt-3 text-xs text-muted">Also recommended alongside {page.anchor.name} by: {evidenceLine(pick.pair.evidence)}</p>
-              )}
               <div class="mt-6 flex flex-wrap gap-3">
                 <a href={shopHref(pick)} target="_blank" rel="sponsored nofollow noopener" class="btn-solid">
                   Shop {pick.brand.name} <ArrowUpRight />
