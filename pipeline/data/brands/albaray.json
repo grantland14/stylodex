@@ -1,0 +1,44 @@
+{
+  "name": "Albaray",
+  "website_url": "https://www.albaray.co.uk",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Sustainable Womenswear",
+  "hq_country": "GB",
+  "size_range": "UK 8–18",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 28,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "GBP",
+      "min": 89.0,
+      "max": 350.0,
+      "min_usd": 118.26,
+      "max_usd": 465.07,
+      "fx_date": "2026-10-28",
+      "item_count": 13,
+      "source_url": "https://www.albaray.co.uk/collections/outerwear/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "13 regular-price items of 13 in the collection (0 on sale excluded, 0 non-outerwear or other-vendor excluded). Store currency GBP; international checkout via Global-E."
+    }
+  ],
+  "sources": [
+    "https://www.albaray.co.uk/",
+    "https://www.albaray.co.uk/meta.json",
+    "https://www.albaray.co.uk/pages/delivery",
+    "https://www.albaray.co.uk/pages/returns",
+    "https://www.albaray.co.uk/collections/outerwear/products.json?limit=250"
+  ],
+  "notes": [
+    "Title 'Sustainable Women's Clothing – Dresses, Denim & Knitwear | Albaray'. meta.json Chelmsford, GB.",
+    "International: ships via Global-E, 'All local Taxes and Duties will be included in the final price in Checkout'; cost shown at checkout. International returns 28 days (another section says 30), return shipping free but a handling fee is deducted; no exchanges."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "albaray"
+}

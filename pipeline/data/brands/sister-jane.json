@@ -1,0 +1,45 @@
+{
+  "name": "Sister Jane",
+  "website_url": "https://sisterjane.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Romantic, Nostalgic London Womenswear",
+  "hq_country": "GB",
+  "size_range": "XXS–L",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "GBP",
+      "min": 89.0,
+      "max": 215.0,
+      "min_usd": 118.26,
+      "max_usd": 285.68,
+      "fx_date": "2026-10-28",
+      "item_count": 13,
+      "source_url": "https://sisterjane.com/collections/jackets/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "13 regular-price items of 102 in the collection (31 on sale excluded, 58 non-outerwear or other-vendor excluded). Store currency GBP (no US market). Women's jackets only: vendors starting 'Menswear' and Ghospell lines excluded. Includes DREAM line pieces (£175–£215)."
+    }
+  ],
+  "sources": [
+    "https://sisterjane.com/",
+    "https://sisterjane.com/meta.json",
+    "https://sisterjane.com/policies/shipping-policy",
+    "https://sisterjane.com/policies/refund-policy",
+    "https://sisterjane.com/pages/delivery",
+    "https://sisterjane.com/collections/jackets/products.json?limit=250"
+  ],
+  "notes": [
+    "Self-description: 'an elevated London label with romance and nostalgia at heart'. meta.json London, GB.",
+    "International buyers pay original shipping, all import duties and return shipping; US costs shown only at checkout. Returns within 14 days of receipt."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "sister-jane"
+}

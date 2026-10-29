@@ -1,0 +1,44 @@
+{
+  "name": "GANNI",
+  "website_url": "https://www.ganni.com/us/home",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Bold Printed Womenswear",
+  "hq_country": "DK",
+  "size_range": "EU 32–50; XS–4XL",
+  "has_plus": true,
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": true,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "USD",
+      "min": 180,
+      "max": 995,
+      "min_usd": 180,
+      "max_usd": 995,
+      "fx_date": null,
+      "item_count": 17,
+      "source_url": "https://www.ganni.com/us/coats-and-jackets/",
+      "checked_at": "2026-10-29",
+      "note": "First page only: 24 of 79 products rendered to WebFetch, 7 marked sale (-40%/-50%, final sale) excluded; 17 regular-price items $180–$995 (Define Ruffle-Trim Jacket in Leopard $180, Poncho in 10K Waterproof Shell $440, Trench Coat in Double Cotton $995). The full range may be wider."
+    }
+  ],
+  "sources": [
+    "https://www.ganni.com/us/home",
+    "https://www.ganni.com/us/coats-and-jackets/",
+    "https://www.ganni.com/us/help-and-information/delivery.html",
+    "https://www.ganni.com/us/help-and-information/returns.html",
+    "https://www.ganni.com/us/about-us.html"
+  ],
+  "notes": [
+    "About page: GANNI A/S, Bremerholm 4, 1069 Copenhagen K. Coats page title 'GANNI Printed Coats & Jackets – Wool, Nylon & Puffers'; copy 'Bold, confident and made to be worn your way'.",
+    "US delivery: UPS Access Point pickup free; Ground $5; prices exclude taxes and duties. Returns 14 days with a pre-paid label; final sale items can't be returned; US customers can exchange at a US GANNI store.",
+    "Size filter on the coats page: XS–4XL and EU 32–50 (also US 0–14)."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "ganni"
+}

@@ -6,13 +6,24 @@
   "kind": "brand",
   "notes": [
     "2026-10-29: store live (title 'Old Navy | Affordable Clothing for Women, Men, Kids & Baby'); women's jeans page (cid=85729) says jeans come in 'sizes 00-30, petite and tall' with a 'Jeans from $25' link, but the product grid loads by script ('0 of 0 items'), so no item prices were readable. No jeans price row.",
-    "2026-10-29 (hollister run): women's jeans page: 'Now in sizes 00-30, petite and tall', 'Jeans from $25' link, Rockstar Super Skinny Jeans named as a bestseller; grid '0 of 0 items', so no price row. Store locator lists stores in 49 states, DC and Puerto Rico. Homepage title 'Old Navy | Affordable Clothing for Women, Men, Kids & Baby'. Gap Inc. 10-K: 'a North American value apparel brand that makes on-trend fashion accessible to everyone'. Shipping terms page not readable (error page; banner says free shipping on $50+ for rewards members), so ships_to stays empty."
+    "2026-10-29 (hollister run): women's jeans page: 'Now in sizes 00-30, petite and tall', 'Jeans from $25' link, Rockstar Super Skinny Jeans named as a bestseller; grid '0 of 0 items', so no price row. Store locator lists stores in 49 states, DC and Puerto Rico. Homepage title 'Old Navy | Affordable Clothing for Women, Men, Kids & Baby'. Gap Inc. 10-K: 'a North American value apparel brand that makes on-trend fashion accessible to everyone'. Shipping terms page not readable (error page; banner says free shipping on $50+ for rewards members), so ships_to stays empty.",
+    "2026-10-29 (old-navy page run): jeans page banner 'Famous jeans since '94. Now in sizes 00-30, petite and tall.' Size facets from the product API: Regular 00 (XXS/XS) to 30 (4X) with Short, Regular and Long inseams; Tall 2-18; Petite 0-18.",
+    "Shipping (cid=3019 'Everyday Free Shipping'): 'Free shipping on all Rewards Members' orders of $50 or more'; members' orders under $50 ship for $7; 'Qualifying items ship for $9 for all nonmember orders'; valid for orders 'shipped anywhere in the U.S. (including Puerto Rico)'; 'one combined shopping bag for Old Navy, Athleta, Gap, and Banana Republic'. free_shipping_min_usd 50 is the rewards-member threshold (membership is free to join).",
+    "Returns (how_to_return_or_exchange and returns_faq JSON the returns page loads): '30 Days to Return or Exchange', from delivery (online) or purchase (store); Premier members up to 45 days, All-Access Cardmembers up to 60 days (merchandise credit after 30); holiday purchases Oct 15-Dec 24 returnable through Jan 15; 'Free returns on all orders' by prepaid UPS label or in store; final sale items excluded.",
+    "gapinc.com Old Navy page: 'Old Navy opened its first store in Colma, California on March 19,1994'; '1200+ stores'; 'fabulous, affordable fashion for everyone'. Wikipedia infobox: HQ San Francisco; founded March 11, 1994; parent Gap Inc.; 1,142 locations (dates differ by 8 days; founded_year 1994 either way).",
+    "sale_pattern detail: 274 of the 330 women's jeans colorways read carried an app-only extra 20% off; 56 were marked down (priceType M)."
   ],
   "sources": [
     "https://oldnavy.gap.com/",
     "https://oldnavy.gap.com/browse/women/jeans?cid=85729",
     "https://oldnavy.gap.com/stores",
-    "https://www.sec.gov/Archives/edgar/data/39911/000162828026018573/gap-20260131.htm"
+    "https://www.sec.gov/Archives/edgar/data/39911/000162828026018573/gap-20260131.htm",
+    "https://api.gap.com/commerce/search/products/v2/cc?cid=85729&brand=on&market=us&locale=en_US&pageSize=200&pageNumber=0",
+    "https://oldnavy.gap.com/customerService/info.do?cid=3019",
+    "https://oldnavy.gap.com/static_content/onesitecategory/components/webAssets/oldnavyprod/customerService/json/how_to_return_or_exchange_092926.json",
+    "https://oldnavy.gap.com/static_content/onesitecategory/components/webAssets/oldnavyprod/customerService/json/returns_faq_092926.json",
+    "https://www.gapinc.com/en-us/about/old-navy",
+    "https://en.wikipedia.org/wiki/Old_Navy"
   ],
   "checked_at": "2026-10-29",
   "known_for": "Affordable Clothing for the Family",
@@ -22,5 +33,30 @@
   "hq_country": "US",
   "sells_categories": [
     "jeans"
+  ],
+  "founded_year": 1994,
+  "has_plus": true,
+  "has_petite": true,
+  "has_tall": true,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 50,
+  "returns_days": 30,
+  "sale_pattern": "Frequent promotions and app-only extras",
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 34.99,
+      "max": 69.99,
+      "min_usd": 34.99,
+      "max_usd": 69.99,
+      "fx_date": null,
+      "item_count": 41,
+      "source_url": "https://oldnavy.gap.com/browse/women/jeans?cid=85729",
+      "checked_at": "2026-10-29",
+      "note": "Gap Inc. product API that the category page itself calls (commerceProductsSearchUrl in the page source), read with curl and the StylodexBot UA. Women's jeans only (shorts, overalls, skirts, jackets, shirts, pants and capris excluded). Price = the store's regularPrice for colorways not marked down: priceType R, or P (a temporary promotion) without a markdown flag; priceType M and colorways flagged 'price as marked', clearance or final sale excluded. Women's jeans cid=85729, brand=on, pages 0-2 (72 styles, 410 colorways). 41 jeans styles qualify: $34.99 (Curvy Mid-Rise Wow Bootcut, Curvy High-Waisted Wow Wide-Leg) to $69.99 (Old Navy x Altuzarra High-Waisted Baggy Wide-Leg and Straight Leg). Most at $44.99-$54.99 (OG, Vintage Slim, Rockstar, Baggy Barrel lines); the Wow line sits at $34.99-$39.99. Promo flags on kept items: 'App Exclusive Extra 20% Off', 'Hot Deal + App Exclusive Extra 20% Off'."
+    }
   ]
 }

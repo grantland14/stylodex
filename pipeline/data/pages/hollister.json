@@ -1,0 +1,2015 @@
+{
+  "subject": "Hollister",
+  "slug": "hollister",
+  "url_prefix": "stores",
+  "category": {
+    "slug": "jeans",
+    "name": "Jeans",
+    "why": "C is a product type. Hollister is a single-label store (kind brand) selling teen clothing across categories; jeans is the line it is compared on most: the outside lists recommend alternatives for their denim (American Eagle 'high-quality denim jeans', Buckle 'known mainly for its jeans selection', Lucky Brand 'premium denim'), A&F's 2022 earnings call talks about 'the Hollister denim business' (https://www.sec.gov/Archives/edgar/data/1018840/000101884022000058/anf-usq_transcriptx2022x.htm), and its own store has a women's jeans collection (https://www.hollisterco.com/shop/us/womens-jeans, unreadable). Jeans is also the like-for-like item every verified pick sells. Prices are women's jeans except Abercrombie & Fitch, whose women's pages wouldn't load (men's jeans used). The anchor's own jeans range couldn't be read (human_check), so every price_relation is null."
+  },
+  "serp": [
+    {
+      "keyword": "stores like hollister",
+      "position": 1,
+      "url": "https://iamandco.com/blogs/articles/stores-like-hollister",
+      "kept": true,
+      "note": "AI-overview sitelink and #4 organic; read 2026-10-29"
+    },
+    {
+      "keyword": "stores like hollister",
+      "position": 1,
+      "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/",
+      "kept": true,
+      "note": "AI-overview sitelink and #6 organic; read 2026-10-29"
+    },
+    {
+      "keyword": "stores like hollister",
+      "position": 1,
+      "url": "https://styleyouroccasion.com/stores-like-hollister/",
+      "kept": true,
+      "note": "AI-overview sitelink; read 2026-10-29"
+    },
+    {
+      "keyword": "stores like hollister",
+      "position": 1,
+      "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/",
+      "kept": true,
+      "note": "AI-overview sitelink; read 2026-10-29"
+    },
+    {
+      "keyword": "stores like hollister",
+      "position": 1,
+      "url": "https://www.reddit.com/r/HollisterCO/comments/1uqcj81/any_cheaper_alternatives_to_hollister_with_same/",
+      "kept": false,
+      "why_dropped": "reddit: WebFetch refuses reddit.com; not read, no workaround"
+    },
+    {
+      "keyword": "stores like hollister",
+      "position": 1,
+      "url": "https://www.facebook.com/fb-answers/shops-similar-to-abercrombie-and-fitch/?locale=cs_CZ",
+      "kept": false,
+      "why_dropped": "Facebook answers page about Abercrombie & Fitch, not Hollister"
+    },
+    {
+      "keyword": "stores like hollister",
+      "position": 1,
+      "url": "https://shop.tiktok.com/us/k/cheaper-alternative-to-hollister",
+      "kept": false,
+      "why_dropped": "marketplace search page"
+    },
+    {
+      "keyword": "stores like hollister",
+      "position": 1,
+      "url": "https://www.sopicks.com/blog/brands-like-abercrombie-fitch",
+      "kept": false,
+      "why_dropped": "about Abercrombie & Fitch alternatives, not Hollister (also #10 organic)"
+    },
+    {
+      "keyword": "stores like hollister",
+      "position": 1,
+      "url": "https://www.quora.com/What-are-high-quality-clothing-brands-similar-to-Hollister-but-low-price-in-local-malls-in-California",
+      "kept": false,
+      "why_dropped": "Quora: HTTP 403 to WebFetch (a sibling Quora URL tried once)"
+    },
+    {
+      "keyword": "stores like hollister",
+      "position": 2,
+      "url": "https://www.reddit.com/r/malefashionadvice/comments/k8v0e/brands_like_ae_af_hollister/",
+      "kept": false,
+      "why_dropped": "reddit; not read"
+    },
+    {
+      "keyword": "stores like hollister",
+      "position": 2,
+      "url": "https://www.reddit.com/r/BuyFromEU/comments/1lgwcmt/clothing_that_is_simulair_to_brands_like/",
+      "kept": false,
+      "why_dropped": "reddit sitelink; not read"
+    },
+    {
+      "keyword": "stores like hollister",
+      "position": 2,
+      "url": "https://www.reddit.com/r/HollisterCO/comments/1nui6k9/stores_like_hollister/",
+      "kept": false,
+      "why_dropped": "reddit sitelink; not read"
+    },
+    {
+      "keyword": "stores like hollister",
+      "position": 5,
+      "url": "https://www.quora.com/What-are-some-stores-similar-to-Hollister-How-do-they-compare-in-terms-of-quality-and-price",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch"
+    },
+    {
+      "keyword": "stores like hollister",
+      "position": 7,
+      "url": "https://corporate.abercrombie.com/about-us/our-brands/hollister/",
+      "kept": false,
+      "why_dropped": "the anchor's parent company page (used for anchor facts, not as evidence)"
+    },
+    {
+      "keyword": "stores like hollister",
+      "position": 8,
+      "url": "https://www.have-clothes-will-travel.com/web-stories/15-stores-like-hollister-for-casual-cool-clothes/",
+      "kept": false,
+      "why_dropped": "web-story copy of the Have Clothes Will Travel article already kept"
+    },
+    {
+      "keyword": "stores like hollister",
+      "position": 9,
+      "url": "https://www.lemon8-app.com/@itsena5/7537154980046717495?region=us",
+      "kept": true,
+      "note": "Lemon8 creator post; read 2026-10-29"
+    },
+    {
+      "keyword": "brands like hollister",
+      "position": 1,
+      "url": "https://www.reddit.com/r/mensfashion/comments/1epodxm/similar_to_abercrombie/",
+      "kept": false,
+      "why_dropped": "reddit; about Abercrombie; not read"
+    },
+    {
+      "keyword": "brands like hollister",
+      "position": 1,
+      "url": "https://corporate.abercrombie.com/about-us/our-brands/",
+      "kept": false,
+      "why_dropped": "anchor's parent company page"
+    },
+    {
+      "keyword": "brands like hollister",
+      "position": 2,
+      "url": "https://www.reddit.com/r/preppy/comments/1dg1y04/what_brands_are_there_today_i_used_to_be_a/",
+      "kept": false,
+      "why_dropped": "reddit sitelink; not read"
+    },
+    {
+      "keyword": "brands like hollister",
+      "position": 5,
+      "url": "https://iamandco.com/blogs/articles/stores-like-hollister",
+      "kept": true,
+      "note": "same page as above"
+    },
+    {
+      "keyword": "brands like hollister",
+      "position": 6,
+      "url": "https://www.quora.com/How-does-American-Eagle-compare-to-other-brands-like-Hollister-and-Abercrombie-Fitch",
+      "kept": false,
+      "why_dropped": "Quora; 403 to WebFetch on this domain"
+    },
+    {
+      "keyword": "brands like hollister",
+      "position": 6,
+      "url": "https://www.facebook.com/groups/204486930758046/posts/1300635634476498/",
+      "kept": false,
+      "why_dropped": "Facebook group post; login wall"
+    },
+    {
+      "keyword": "brands like hollister",
+      "position": 7,
+      "url": "https://www.hollisterco.com/shop/us",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "brands like hollister",
+      "position": 8,
+      "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/",
+      "kept": true,
+      "note": "same page as above"
+    },
+    {
+      "keyword": "brands like hollister",
+      "position": 9,
+      "url": "https://similist.com/alternatives/stores-like-hollister/",
+      "kept": false,
+      "why_dropped": "scraped list with no editorial content (enrich.md §1.2)"
+    },
+    {
+      "keyword": "brands like hollister",
+      "position": 10,
+      "url": "https://www.youtube.com/watch?v=Qu66TepTzVQ",
+      "kept": false,
+      "why_dropped": "YouTube video; no readable list"
+    },
+    {
+      "keyword": "hollister alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview returned no positions for this keyword (US)"
+    },
+    {
+      "keyword": "similar to hollister",
+      "position": 1,
+      "url": "https://www.discobrands.co/blogs/20-brands-like-hollister",
+      "kept": true,
+      "note": "featured snippet; read 2026-10-29"
+    },
+    {
+      "keyword": "similar to hollister",
+      "position": 3,
+      "url": "https://fortunategoods.com/blogs/articles/stores-like-hollister",
+      "kept": false,
+      "why_dropped": "WebFetch returned an empty page; same title as the I AM & CO article, likely a syndicated copy"
+    },
+    {
+      "keyword": "similar to hollister",
+      "position": 4,
+      "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/",
+      "kept": true,
+      "note": "same page as above"
+    },
+    {
+      "keyword": "similar to hollister",
+      "position": 5,
+      "url": "https://goodonyou.eco/alternatives-to-hollister/",
+      "kept": true,
+      "note": "read 2026-10-29: sustainable brands, mostly small online labels"
+    },
+    {
+      "keyword": "similar to hollister",
+      "position": 6,
+      "url": "https://styleyouroccasion.com/stores-like-hollister/",
+      "kept": true,
+      "note": "same page as above"
+    },
+    {
+      "keyword": "similar to hollister",
+      "position": 7,
+      "url": "https://coolspotters.com/12-brands-like-hollister/",
+      "kept": true,
+      "note": "read 2026-10-29"
+    },
+    {
+      "keyword": "similar to hollister",
+      "position": 8,
+      "url": "https://hollister.knoji.com/alternatives/",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch"
+    },
+    {
+      "keyword": "similar to hollister",
+      "position": 9,
+      "url": "https://clothedup.com/stores-like-hollister/",
+      "kept": true,
+      "note": "read 2026-10-29"
+    },
+    {
+      "keyword": "similar to hollister",
+      "position": 10,
+      "url": "https://www.similarweb.com/website/hollisterco.com/competitors/",
+      "kept": false,
+      "why_dropped": "traffic-competitor tool, not shopping alternatives"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": "ASOS",
+      "url": "https://www.asos.com/us/hollister/hollister-high-rise-distressed-baggy-jeans-in-medium-blue/prd/207895834",
+      "used": false,
+      "why": "ASOS stocks Hollister jeans (hollister brand-file note) but answers 'browser not supported'; no category page read."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Abercrombie & Fitch",
+      "slug": "abercrombie-fitch",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/20-brands-like-hollister"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://coolspotters.com/12-brands-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lemon8-app.com/@itsena5/7537154980046717495?region=us"
+        }
+      ]
+    },
+    {
+      "name": "American Eagle",
+      "slug": "american-eagle",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-hollister"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/20-brands-like-hollister"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lemon8-app.com/@itsena5/7537154980046717495?region=us"
+        }
+      ]
+    },
+    {
+      "name": "Urban Outfitters",
+      "slug": "urban-outfitters",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-hollister"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/20-brands-like-hollister"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://coolspotters.com/12-brands-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "PacSun",
+      "slug": "pacsun",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-hollister"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/20-brands-like-hollister"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "Aeropostale",
+      "slug": "aeropostale",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://coolspotters.com/12-brands-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "Forever 21",
+      "slug": "forever-21",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-hollister"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/20-brands-like-hollister"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://coolspotters.com/12-brands-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "Lucky Brand",
+      "slug": "lucky-brand",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-hollister"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "ASOS",
+      "slug": "asos",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-hollister"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://coolspotters.com/12-brands-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "Levi's",
+      "slug": "levis",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://coolspotters.com/12-brands-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "Nasty Gal",
+      "slug": "nasty-gal",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-hollister"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://coolspotters.com/12-brands-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "Madewell",
+      "slug": "madewell",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "Gap",
+      "slug": "gap",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://coolspotters.com/12-brands-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "Old Navy",
+      "slug": "old-navy",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://coolspotters.com/12-brands-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "H&M",
+      "slug": "h-m",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://coolspotters.com/12-brands-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "Everlane",
+      "slug": "everlane",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-hollister"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://coolspotters.com/12-brands-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "Shein",
+      "slug": "shein",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lemon8-app.com/@itsena5/7537154980046717495?region=us"
+        }
+      ]
+    },
+    {
+      "name": "Rue21",
+      "slug": "rue21",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "J.Crew",
+      "slug": "j-crew",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "Cotton On",
+      "slug": "cotton-on",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "Buckle",
+      "slug": "buckle",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "Billabong",
+      "slug": "billabong",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/20-brands-like-hollister"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "American Apparel",
+      "slug": "american-apparel",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-hollister"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "Wildfox",
+      "slug": "wildfox",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-hollister"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "J Brand",
+      "slug": "j-brand",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-hollister"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/"
+        }
+      ]
+    },
+    {
+      "name": "Superdry",
+      "slug": "superdry",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/20-brands-like-hollister"
+        }
+      ]
+    },
+    {
+      "name": "Tillys",
+      "slug": "tillys",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/"
+        }
+      ]
+    },
+    {
+      "name": "Zara",
+      "slug": "zara",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/"
+        }
+      ]
+    },
+    {
+      "name": "Lululemon",
+      "slug": "lululemon",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/"
+        }
+      ]
+    },
+    {
+      "name": "Target",
+      "slug": "target",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/"
+        }
+      ]
+    },
+    {
+      "name": "AG Jeans",
+      "slug": "ag-jeans",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/"
+        }
+      ]
+    },
+    {
+      "name": "Bershka",
+      "slug": "bershka",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/"
+        }
+      ]
+    },
+    {
+      "name": "Pull & Bear",
+      "slug": "pull-and-bear",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/"
+        }
+      ]
+    },
+    {
+      "name": "Uniqlo",
+      "slug": "uniqlo",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/"
+        }
+      ]
+    },
+    {
+      "name": "Miss Selfridge",
+      "slug": "miss-selfridge",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-hollister"
+        }
+      ]
+    },
+    {
+      "name": "Aritzia",
+      "slug": "aritzia",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "Romwe",
+      "slug": "romwe",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "Jack Wills",
+      "slug": "jack-wills",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://coolspotters.com/12-brands-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "Garage",
+      "slug": "garage",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lemon8-app.com/@itsena5/7537154980046717495?region=us"
+        }
+      ]
+    },
+    {
+      "name": "Amazon",
+      "slug": "amazon",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lemon8-app.com/@itsena5/7537154980046717495?region=us"
+        }
+      ]
+    },
+    {
+      "name": "Roxy",
+      "slug": "roxy",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "Summersalt",
+      "slug": "summersalt",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "Lulus",
+      "slug": "lulus",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "& Other Stories",
+      "slug": "other-stories",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "Hurley",
+      "slug": "hurley",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/20-brands-like-hollister"
+        }
+      ]
+    },
+    {
+      "name": "Maui and Sons",
+      "slug": "maui-and-sons",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/20-brands-like-hollister"
+        }
+      ]
+    },
+    {
+      "name": "Reef",
+      "slug": "reef",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/20-brands-like-hollister"
+        }
+      ]
+    },
+    {
+      "name": "Quiksilver",
+      "slug": "quiksilver",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/20-brands-like-hollister"
+        }
+      ]
+    },
+    {
+      "name": "Katin",
+      "slug": "katin",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/20-brands-like-hollister"
+        }
+      ]
+    },
+    {
+      "name": "Ripndip",
+      "slug": "ripndip",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/20-brands-like-hollister"
+        }
+      ]
+    },
+    {
+      "name": "Salty Crew",
+      "slug": "salty-crew",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/20-brands-like-hollister"
+        }
+      ]
+    },
+    {
+      "name": "Vans",
+      "slug": "vans",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/20-brands-like-hollister"
+        }
+      ]
+    },
+    {
+      "name": "Rip Curl",
+      "slug": "rip-curl",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/20-brands-like-hollister"
+        }
+      ]
+    },
+    {
+      "name": "Phyne",
+      "slug": "phyne",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-to-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "unspun",
+      "slug": "unspun",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-to-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "Dedicated",
+      "slug": "dedicated",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-to-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "Afends",
+      "slug": "afends",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-to-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "Outerknown",
+      "slug": "outerknown",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-to-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "MUD Jeans",
+      "slug": "mud-jeans",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-to-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "The Common Good Company",
+      "slug": "the-common-good-company",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-to-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "Kotn",
+      "slug": "kotn",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-to-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "Toad&Co",
+      "slug": "toad-and-co",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-to-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "B Sides",
+      "slug": "b-sides",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-to-hollister/"
+        }
+      ]
+    },
+    {
+      "name": "O'Neill",
+      "slug": "o-neill",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Brandy Melville",
+      "slug": "brandy-melville",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Sperry",
+      "slug": "sperry",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Cupshe",
+      "slug": "cupshe",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Southern Tide",
+      "slug": "southern-tide",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Vineyard Vines",
+      "slug": "vineyard-vines",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Marine Layer",
+      "slug": "marine-layer",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Tropical Sun",
+      "slug": "tropical-sun",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Aussie",
+      "slug": "aussie",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Stüssy",
+      "slug": "stussy",
+      "in_apart_pool": true,
+      "sources": []
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "brand_id": "5205bfd2-7be1-4c00-bcfc-aab583ea0488 (Hollister Co.)",
+    "result": "17 rows: american-eagle, o-neill, roxy, aeropostale, brandy-melville, hurley, sperry, cupshe, southern-tide, vineyard-vines, marine-layer, salty-crew, tropical-sun, aussie, superdry, stussy, pacsun. American Eagle, Aeropostale, PacSun, Superdry, Roxy, Hurley and Salty Crew also have outside sources."
+  },
+  "picks": [
+    {
+      "slug": "abercrombie-fitch",
+      "rank": 1,
+      "independent_sources": 7,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 80,
+        "max": 110,
+        "min_usd": 80,
+        "max_usd": 110,
+        "fx_date": null,
+        "item_count": 64
+      },
+      "price_relation": null,
+      "reason": "Abercrombie & Fitch Co. owns both brands; its men's jeans run $80–$110 in waists 26–38 and US orders ship free over $99.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/",
+          "note": "#2: 'feels more grown-up than Hollister'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-hollister/",
+          "note": "#1: 'the brand most like Hollister'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/",
+          "note": "#1: 'the store most like Hollister'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/20-brands-like-hollister",
+          "note": "#2: 'Grown-up parent label, cleaner and less logo-loud'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://coolspotters.com/12-brands-like-hollister/",
+          "note": "#4"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-hollister/",
+          "note": "#2: 'similar styles to Hollister but just a little more polished'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lemon8-app.com/@itsena5/7537154980046717495?region=us",
+          "note": "#2: 'a slightly more polished option'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "american-eagle",
+      "rank": 2,
+      "independent_sources": 7,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "American Eagle sells women's jeans in Classic and Curvy fits, ships across the US free over $75 and takes returns for 60 days.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-hollister",
+          "note": "#9"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/",
+          "note": "#1: 'High-quality denim jeans for everyday comfort'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-hollister/",
+          "note": "#2"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/",
+          "note": "#3: similar classic, casual style and price point"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/20-brands-like-hollister",
+          "note": "#1: 'target young adults with casual and trendy clothing'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-hollister/",
+          "note": "#1: 'Known for its awesome denim, laid-back styles'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lemon8-app.com/@itsena5/7537154980046717495?region=us",
+          "note": "#1: for Hollister fans who like denim and cozy hoodies"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "aeropostale",
+      "rank": 3,
+      "independent_sources": 5,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 64.95,
+        "max": 69.95,
+        "min_usd": 64.95,
+        "max_usd": 69.95,
+        "fx_date": null,
+        "item_count": 33
+      },
+      "price_relation": null,
+      "reason": "Aeropostale's women's jeans are $64.95–$69.95 in sizes 000–20 with short and long lengths, men's waists to 46, free US shipping over $25.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/",
+          "note": "#11: 'trendy clothes at low prices'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-hollister/",
+          "note": "#5: 'prices are very similar to what you'll find at Hollister'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/",
+          "note": "#2: 'typically cheaper than Hollister's'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://coolspotters.com/12-brands-like-hollister/",
+          "note": "#1"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-hollister/",
+          "note": "#4"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "forever-21",
+      "rank": 4,
+      "independent_sources": 5,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 38,
+        "max": 44,
+        "min_usd": 38,
+        "max_usd": 44,
+        "fx_date": null,
+        "item_count": 2
+      },
+      "price_relation": null,
+      "reason": "Forever 21's regular-price denim trousers are $38–$44; it ships to all 50 states, free over $50, with 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-hollister",
+          "note": "#8: 'for fans of stores like Hollister who are on a budget'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/",
+          "note": "honorable mention"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/",
+          "note": "#6: 'cheaper than Hollister's prices'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/20-brands-like-hollister",
+          "note": "#13: budget option"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://coolspotters.com/12-brands-like-hollister/",
+          "note": "#8"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "lucky-brand",
+      "rank": 5,
+      "independent_sources": 5,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "Lucky Brand is rooted in premium denim since 1990, with jeans in waists 24–35 and inseams 27–34, US stores and free US shipping over $85.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-hollister",
+          "note": "#1"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/",
+          "note": "#9: 'a California-inspired look'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-hollister/",
+          "note": "#10: 'very similar to Hollister', vintage-inspired jeans"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/",
+          "note": "#8: California jeans and dresses"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-hollister/",
+          "note": "#14: 'known for its premium denim'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "levis",
+      "rank": 6,
+      "independent_sources": 4,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "Levi Strauss & Co., founded 1853 in San Francisco, designs jeans and casual wear and runs its own stores across the US.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/",
+          "note": "honorable mention: 'famous for denim'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-hollister/",
+          "note": "#11"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/",
+          "note": "#14: known worldwide for denim"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://coolspotters.com/12-brands-like-hollister/",
+          "note": "#12"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "gap",
+      "rank": 7,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 79.95,
+        "max": 99.95,
+        "min_usd": 79.95,
+        "max_usd": 99.95,
+        "fx_date": null,
+        "item_count": 40
+      },
+      "price_relation": null,
+      "reason": "Gap (Gap Inc.) sells women's jeans in named fits from Hailey Low Rise Loose to barrel and flare, with stores across 46 US states.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-hollister/",
+          "note": "#6: 'a similar store to Hollister in many ways'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/",
+          "note": "#13: denim and logo hoodies"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://coolspotters.com/12-brands-like-hollister/",
+          "note": "#2"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "old-navy",
+      "rank": 8,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 34.99,
+        "max": 69.99,
+        "min_usd": 34.99,
+        "max_usd": 69.99,
+        "fx_date": null,
+        "item_count": 41
+      },
+      "price_relation": null,
+      "reason": "Old Navy, Gap Inc.'s value brand, sells women's jeans in sizes 00–30 with petite and tall lengths, with stores in 49 states.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-hollister/",
+          "note": "#8: 'a comparable price point'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/",
+          "note": "honorable mention"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://coolspotters.com/12-brands-like-hollister/",
+          "note": "#5"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "madewell",
+      "rank": 9,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 148,
+        "max": 198,
+        "min_usd": 148,
+        "max_usd": 198,
+        "fx_date": null,
+        "item_count": 48
+      },
+      "price_relation": null,
+      "reason": "Madewell calls itself a premium denim brand: women's jeans $148–$198 in Petite, Tall and Plus 14W–24W, with Denim Atelier fit and hemming services.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/",
+          "note": "#7"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-hollister/",
+          "note": "#4: 'incredible-quality jeans'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/",
+          "note": "#15: especially denim"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "everlane",
+      "rank": 10,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 88,
+        "max": 148,
+        "min_usd": 88,
+        "max_usd": 148,
+        "fx_date": null,
+        "item_count": 69
+      },
+      "price_relation": null,
+      "reason": "Everlane publishes its product costs; regular-price women's jeans run $88–$148 in sizes 00–16, shipping to the US with 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-hollister",
+          "note": "#12: 'ethical, eco-friendly clothing and denim'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/",
+          "note": "honorable mention"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://coolspotters.com/12-brands-like-hollister/",
+          "note": "#6"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "buckle",
+      "rank": 11,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "Buckle's 440 stores in 42 US states sell denim as more than 40% of sales, mixing Levi's and Miss Me with its own BKE label. Buckle Black and Ace High are its other house labels, and about half of sales are brand-name, so both sides of the rack are well stocked.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/",
+          "note": "#5: 'known mainly for its jeans selection', similar prices"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-hollister/",
+          "note": "#16"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "j-crew",
+      "rank": 12,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 148,
+        "max": 198,
+        "min_usd": 148,
+        "max_usd": 198,
+        "fx_date": null,
+        "item_count": 9
+      },
+      "price_relation": null,
+      "reason": "J.Crew's women's jeans are $148–$198 in waists 23–37, most styles in Classic, Petite and Tall, with 30-day US returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://styleyouroccasion.com/stores-like-hollister/",
+          "note": "#7: 'an upscale version of The Gap and Hollister alike'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/",
+          "note": "honorable mention"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "cotton-on",
+      "rank": 13,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 69.99,
+        "max": 79.99,
+        "min_usd": 69.99,
+        "max_usd": 79.99,
+        "fx_date": null,
+        "item_count": 35
+      },
+      "price_relation": null,
+      "reason": "Cotton On sells women's jeans at $69.99–$79.99 in US 0–20 with Petite and Curvy ranges, and its returns have no time limit.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/",
+          "note": "honorable mention: 'basics with a youthful vibe'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://clothedup.com/stores-like-hollister/",
+          "note": "#13"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "tillys",
+      "rank": 14,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 49.99,
+        "max": 109.99,
+        "min_usd": 49.99,
+        "max_usd": 109.99,
+        "fx_date": null,
+        "item_count": 12
+      },
+      "price_relation": null,
+      "reason": "Tillys sells its own RSQ jeans ($49.99–$54.99) beside Levi's and Miss Me, $49.99–$109.99, in juniors 0–13 and waists 23–33, free US shipping over $70.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://knitwear.io/top-15-brands-like-hollister-for-casual-wear-2026/",
+          "note": "#13: 'a mix of skate, surf, and street styles'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "superdry",
+      "rank": 15,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 74.95,
+        "max": 109.95,
+        "min_usd": 74.95,
+        "max_usd": 109.95,
+        "fx_date": null,
+        "item_count": 22
+      },
+      "price_relation": null,
+      "reason": "Superdry's US store sells full-price women's jeans at $74.95–$109.95 in waists 24–34, most of them organic cotton.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/20-brands-like-hollister",
+          "note": "#15: 'pairing vintage Americana with Japanese-style graphics'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "urban-outfitters",
+      "why": "7 sources, but urbanoutfitters.com refuses WebFetch (403). URBN's 10-K (fiscal year ended Jan 31, 2026) confirms the brand is live (253 stores, 177 in North America) but names no jeans and gives no US-only store count or US shipping, so neither the category nor US availability can be stored. Human check: first in the queue."
+    },
+    {
+      "slug": "pacsun",
+      "why": "unverified: pacsun.com 403 (earlier run); 6 sources. Human check: second in the queue."
+    },
+    {
+      "slug": "asos",
+      "why": "5 sources, but asos.com answers 'browser not supported' (hollister brand-file note); an online multi-brand retailer, not a walk-in store. Not verified."
+    },
+    {
+      "slug": "nasty-gal",
+      "why": "off_category: nastygal.com is a 'Coming Soon' placeholder selling nothing (brand file, 2026-10-29)."
+    },
+    {
+      "slug": "h-m",
+      "why": "unverified: www2.hm.com 403 to WebFetch (brand file); 3 sources."
+    },
+    {
+      "slug": "shein",
+      "why": "marketplace with third-party sellers (enrich.md §1.2 drops marketplaces); 3 sources. Not checked."
+    },
+    {
+      "slug": "rue21",
+      "why": "unverified: rue21's Shopify jeans collection returns 0 products (brand file); 2 sources."
+    },
+    {
+      "slug": "billabong",
+      "why": "off_category: no jeans collection (brand file)."
+    },
+    {
+      "slug": "american-apparel",
+      "why": "off_category: site is wholesale blanks only (brand file)."
+    },
+    {
+      "slug": "wildfox",
+      "why": "off_category: no jeans or denim collection (brand file)."
+    },
+    {
+      "slug": "j-brand",
+      "why": "defunct (brand file)."
+    },
+    {
+      "slug": "garage",
+      "why": "1 source (Lemon8 post); garageclothing.com/us/ HTTP 403 to WebFetch. Not verified."
+    },
+    {
+      "slug": "zara",
+      "why": "1 source (honorable mention); unverified in brand file. Not re-checked: 15 picks already."
+    },
+    {
+      "slug": "single-source-others",
+      "why": "Lululemon, Target, AG Jeans, Bershka, Pull & Bear, Uniqlo, Miss Selfridge, Aritzia, Romwe, Jack Wills, Amazon, Roxy, Summersalt, Lulus, & Other Stories, the nine surf/skate labels from Disco and the ten Good On You sustainable brands: one source each, mostly single-label brands or marketplaces rather than stores; not checked because 15 picks (the gate's maximum) already pass."
+    },
+    {
+      "slug": "apart-pool",
+      "why": "O'Neill, Brandy Melville, Sperry, Cupshe, Southern Tide, Vineyard Vines, Marine Layer, Tropical Sun, Aussie, Stüssy: pool only, no outside source."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "anchor status / website_url",
+      "url": "https://www.hollisterco.com/shop/us",
+      "check": "Every hollisterco.com URL serves a 'Client Challenge' page to WebFetch. Open the store and confirm it is live and selling jeans."
+    },
+    {
+      "fact": "anchor price range for jeans (USD)",
+      "url": "https://www.hollisterco.com/shop/us/womens-jeans",
+      "check": "Record min/max regular-price women's jeans (no sale prices) and item count. This unlocks cheaper/similar/pricier labels for the 8 priced picks."
+    },
+    {
+      "fact": "anchor size_range (+ has_plus, has_petite, has_tall), ships_to, free_shipping_min_usd, returns_days, known_for",
+      "url": "https://www.hollisterco.com/shop/us/help/shipping-information",
+      "check": "Size guide, shipping and returns pages, US terms; known_for from the store's own positioning (SERP title says 'Teen Clothing')."
+    },
+    {
+      "fact": "pick check: Urban Outfitters (7 sources)",
+      "url": "https://www.urbanoutfitters.com/womens-jeans",
+      "check": "403 to WebFetch. Confirm US shipping or US stores and women's jeans regular-price range."
+    },
+    {
+      "fact": "pick check: PacSun (6 sources)",
+      "url": "https://www.pacsun.com/womens/jeans/",
+      "check": "403. Confirm jeans range, sizes, US shipping, returns."
+    },
+    {
+      "fact": "Forever 21 jeans range is 2 items",
+      "url": "https://forever21.com/collections/women-bottoms/products.json?limit=250",
+      "check": "Only 2 denim trousers were at regular price; re-check after markdowns end."
+    },
+    {
+      "fact": "American Eagle, Lucky Brand: all jeans marked down",
+      "url": "https://www.ae.com/us/en/c/women/bottoms/jeans/cat6430042",
+      "check": "Re-read when full-price jeans are back to store a price row (Lucky: https://www.luckybrand.com/women/jeans)."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": {
+    "note": "Every price is in USD from the store's own US listing; no conversion needed, fx_date null on all."
+  },
+  "notes": [
+    "15 picks pass enrich.md §3 (verified, sell jeans, ship to the US or have US stores, ≥1 outside source, one checkable reason). 15 is the gate maximum; target was 10–15.",
+    "8 picks carry a jeans price; 7 render without one (American Eagle and Lucky Brand: every jean marked down; Levi's, Gap, Old Navy, Buckle: listings don't render to WebFetch, status/US stores from official parent or locator pages).",
+    "Evidence: 9 readable pages (8 editorial lists + 1 Lemon8 post). Reddit, Quora (403), Facebook, TikTok Shop, Knoji (403), Similist and Similarweb dropped. 'hollister alternatives' returned no SERP in Ahrefs.",
+    "The page FAILS lib/gate.ts until a human checks the anchor: hollisterco.com serves a Client Challenge page, so Hollister has no status, price, sizes, shipping or returns. No /img/ images yet (coordinator).",
+    "New brand files: buckle, tillys. Status changed to verified via the parent-company rule: levis (levistrauss.com + US locator), gap (gap.com jeans page + store locator + Gap Inc. 10-K)."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "You've got a pair of Hollister jeans you practically live in, and now you want the next pair from somewhere else. Maybe cheaper, maybe a little more grown-up, maybe in more sizes. These are the stores people put next to Hollister most often, starting with its own sister brand. Every one sells jeans, and every one sells to the US, online or in a store you can walk into.",
+    "bodies": {
+      "abercrombie-fitch": "Abercrombie & Fitch is the closest thing to Hollister you'll find, because it's the same company. Abercrombie & Fitch Co. owns both, and both are based in New Albany, Ohio. Its men's jeans run from $80 to $110, and the Relaxed Straight Jean ($80) is the one to start with.\n\nIt reads a little more polished and grown-up, and the fit names tell you the leg before you click, like 90s Straight or the Baggy Jean ($90). Men's waists run 26 to 38. Women's jeans are here too, in wide-leg, flare and straight cuts. US orders ship free over $99, and it ships to Canada as well.\n\nIf $80 is more than you want to spend on a pair, Aeropostale keeps its jeans under $70.",
+      "american-eagle": "American Eagle is the pick if you want easy, casual denim and some breathing room to send it back. Returns stay open for 60 days, twice the 30 you get at Madewell or J.Crew.\n\nIts women's jeans come in Classic and Curvy fits, so there's a second cut to try if the usual one never sits right. The names spell out the rise and the leg, like the AE Lowest Rise Extra Baggy Jean, so you can shop by shape without opening every page. Shipping is free over $75, and mail returns cost $5 unless you're a Real Rewards Level 3 member or cardholder.\n\nIt ships to US addresses only. If you're ordering to Canada, Abercrombie & Fitch is the one that does.",
+      "aeropostale": "Aeropostale is the budget pick, with almost every pair of women's jeans at $64.95. The embellished styles, with rhinestone hearts or lace flowers, are $69.95. It's been selling to teens and young adults since 1987, and Catalyst Brands owns it now.\n\nThe size range is the real reason to look. Women's go from 000 to 20 with short and long lengths, and men's waists run 26 to 46, well past Abercrombie's 38. Shipping is free over $25, the lowest bar on this list, so a single pair ships free.\n\nThe cuts lean low-rise and baggy, from super low-rise wide legs to flares. If you want a higher waist, J.Crew's high-waisted styles cost more but come in Petite and Tall.",
+      "forever-21": "Forever 21 is the cheapest way into a new pair here, with full-price denim at $38 and $44. The Straight Leg Denim With Drawstring Waist ($38) is the easy one, and the Low Rise Bootcut Denim With Wide Buckle Detail ($44) is the louder one.\n\nIt calls its jeans denim, and most of what sits under that word is skirts and shorts. So look for the trouser styles before you scroll. It's online only now, after closing its US stores in 2025, and it ships to all 50 states, free over $50.\n\nReturns get 30 days but cost $9.99, and clearance can't go back at all. If you're unsure about the fit, buy the full-price pair.",
+      "lucky-brand": "Lucky Brand is where to go when the jeans are the whole point. It's rooted in premium denim and Americana, and it's been at it since 1990, a decade before Hollister opened its first store.\n\nShop it by fit name, because that's how the range is built. Lil Maggie is the ultra-low-rise flare, and Sweet comes in boot and straight legs. Waists run 24 to 35 with inseams from 27 to 34, so shorter and longer legs both get a real choice. There are Lucky Brand stores in the US, and online orders ship free over $85.\n\nThere's no petite or plus range, though. If you need either, Madewell covers both.",
+      "levis": "Levi's is the denim you'll keep seeing on other stores' racks, so it's worth knowing where to get it straight from the source. The company goes back to 1853 in San Francisco, it designs jeans and casual wear for men, women and kids, and it runs its own stores across the US.\n\nTillys and Buckle both stock Levi's, so you can hold a Levi's pair up against their own labels in one trip. At Tillys, the Levi's Superlow Loose jeans are $74.99, next to RSQ pairs at $54.99.\n\nGo to a Levi's store for the brand on its own. Go to Buckle if you'd like it on the same rack as Wrangler and Miss Me.",
+      "gap": "Gap is the classic American pick, a step away from Hollister's beach-shack stores toward plain, casual American style. Its jeans are sorted by shape, from the Hailey Low Rise Loose and Hailey Extra Baggy to barrel, flare and slim cuts, so it's easy to land on the leg you already like.\n\nThere are Gap stores in 46 states. That matters for jeans, because trying two sizes in a fitting room beats mailing one back. It sells online too, so once you know your size you can reorder from home.\n\nGap Inc. also owns Old Navy, and the two make a good pair. Use Gap for the named fits, and Old Navy when the price comes first.",
+      "old-navy": "Old Navy is the value end of the Gap family, and it has the widest size run on this list. Women's jeans go from 00 to 30, with petite and tall lengths, which goes past every other store here. That fits a store that dresses women, men, kids and babies under one roof.\n\nThe Rockstar Super Skinny is one of its bestsellers, but most people come for the sizing. Stores are in 49 states plus DC and Puerto Rico, so you can try a few sizes in person before you commit.\n\nIf you want the family's named fits instead, Gap is the sister store. If you want premium denim with plus sizes, Madewell's 14W to 24W is the other route.",
+      "madewell": "Madewell is the step up, for when you want jeans that cost more and come with more help. It calls itself a premium denim brand, and most of its women's jeans sit at $148, with a few up to $198.\n\nIts Denim Atelier offers one-on-one fit and tailoring, and Insiders get free in-store hemming. That's a big deal if you're always between lengths. Sizing also goes further than J.Crew's, with Plus from 14W to 24W on top of Petite and Tall.\n\nShipping is only free once you sign up as an Insider, and returns close after 30 days. J.Crew, its sister company, sits at the same price if you'd rather shop there.",
+      "everlane": "Everlane is for when you want to know what you're paying for. It publishes the cost of materials, labor and transport behind what it sells, and its regular-price women's jeans run from $88 to $148.\n\nStart with The Way-High Curve Jean ($88). It's sold in 27-inch and 29-inch inseams, so shorter legs aren't stuck paying for a hem. Sizes go from 00 to 16, and returns run 30 days, free in a store or $7 for a mail label. It also works with factories it audits for wages, hours and environment.\n\nIt ships to the US, Canada, the UK and Australia. If you want that price band with hands-on fit help, Madewell starts higher but hems for its Insiders.",
+      "buckle": "Buckle is the store for people who shop for jeans first and everything else second. Denim is more than 40% of what it sells, and the racks mix names like Levi's and Miss Me with its own BKE label. Buckle Black and Ace High are its other house labels, and about half of sales are brand-name, so both sides of the rack are well stocked.\n\nThat means you can try a branded pair and a BKE pair in the same fitting room, which a single-label store like Hollister can't offer. It's aimed at 15 to 30-year-olds.\n\nWith stores in 42 states, it works best as a walk-in stop. For the same multi-brand idea with free shipping over $70, Tillys is the closer match.",
+      "j-crew": "J.Crew is the upscale version of the Hollister look, with women's jeans from $148 to $198. The Zoe barrel and the slim-wide styles sit at $158, right in the middle. The western straight with metallic studs is the statement pair, from $148 to $198.\n\nWaists run 23 to 37, and most styles come in Classic, Petite and Tall, so you can get a pair that fits without a tailor. US returns are open for 30 days, with $7.50 taken off if you use the prepaid label.\n\nIt shares a parent with Madewell, at the same prices. Pick Madewell if you need plus sizes. Pick J.Crew if you want Petite and Tall cuts across most of the range.",
+      "cotton-on": "Cotton On is the cheap-and-cheerful pick from Australia, with women's jeans at $69.99 or $79.99. The Cotton On Group dates to 1991 and is based in Geelong. Start with the 91 Straight, or the Curvy Stretch Wide if waist gaps are your usual problem, since some of its curvy styles are cut with a gap-proof waist.\n\nThe return policy is the reason to try it. There's no time limit on returns, and sending them back is free within the US, so a pair that doesn't fit isn't a gamble. Sizes go from US 0 to 20, with separate Petite and Curvy ranges.\n\nDelivery is free on orders of $75 or more. For jeans under $70, Aeropostale is the closer swap.",
+      "tillys": "Tillys is the Southern California chain to try when you want surf-and-skate jeans with brand choice. Its own RSQ jeans run $49.99 to $54.99, and the RSQ Low Rise Baggy Jeans ($54.99) are the obvious starting point.\n\nRSQ is its best-selling brand, and it sits on the same rack as Levi's and Miss Me, so you can trade up to a Levi's Premium 501 '90s Loose ($109.99) without leaving the store. Juniors sizes run 0 to 13, plus waists 23 to 33. Shipping is free over $70, and there are stores in 33 states.\n\nThe sizes stop earlier than most stores here. If you need more range, Old Navy and Aeropostale go much further.",
+      "superdry": "Superdry is the British option, for jeans with a bit more fabric behind the price. It started in 2003 and is based in Cheltenham, England. Its full-price women's jeans run from $74.95 to $109.95, most of them organic cotton, and the Mid Rise Baggy Jeans ($74.95) are the cheapest way in.\n\nThe organic cotton skinny and wide-leg styles are the $109.95 ones, so that's where the extra money goes. The Mid Rise Baggy comes in five colors, so it's an easy one to buy twice. Its US store charges in dollars, so there's no conversion to work out. Waists run 24 to 34.\n\nIf you need a wider size range or a lower price, Aeropostale covers both."
+    },
+    "best_for": {
+      "abercrombie-fitch": "the Hollister look in a more grown-up cut",
+      "american-eagle": "jeans you might send back, with 60 days to decide",
+      "aeropostale": "one flat price and sizes from 000 to 20",
+      "forever-21": "a new pair of jeans for under $45",
+      "lucky-brand": "picking jeans by fit name, with inseams from 27 to 34",
+      "levis": "buying the denim other stores stock, straight from the source",
+      "gap": "trying named fits in a store near you",
+      "old-navy": "jeans in sizes 00 to 30, petite or tall",
+      "madewell": "premium jeans with hemming and fit help",
+      "everlane": "knowing what your jeans cost to make",
+      "buckle": "comparing big denim brands on one rack",
+      "j-crew": "upscale jeans in petite and tall lengths",
+      "cotton-on": "jeans you can send back with no deadline",
+      "tillys": "own-brand baggy jeans under $55 next to Levi's",
+      "superdry": "organic cotton jeans from a British label"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with what's pulling you away from Hollister. If it's the price, Forever 21 has the cheapest pairs here, and Aeropostale keeps nearly everything at $64.95. If it's the fit, go where the sizes are: Old Navy runs 00 to 30, and Madewell adds plus sizes with free hemming for Insiders. If you just want the same look a little more polished, Abercrombie & Fitch is the same company. And if you'd like to compare brands side by side, Buckle and Tillys put Levi's next to their own labels. Not sure about the fit at all? American Eagle's 60 days and Cotton On's no-deadline returns make it cheap to be wrong."
+    },
+    "faqs": [
+      {
+        "q": "Who owns Hollister?",
+        "a": "Abercrombie & Fitch Co., the same company behind Abercrombie & Fitch and abercrombie kids. Gilly Hicks sits under the Hollister brand family, and Hollister is based in New Albany, Ohio.",
+        "source_query": "who owns hollister"
+      },
+      {
+        "q": "Is Hollister closing?",
+        "a": "No. Abercrombie & Fitch Co. ran 523 Hollister stores at the end of January 2026, more than its Abercrombie stores, and it sells the brand online too.",
+        "source_query": "is hollister closing"
+      },
+      {
+        "q": "Where is Hollister, California?",
+        "a": "Hollister's California story is made up. The 1922 founding and John Hollister Sr. are a backstory Abercrombie & Fitch created. The first store opened in 2000 in Columbus, Ohio.",
+        "source_query": "where is hollister california"
+      }
+    ]
+  }
+}

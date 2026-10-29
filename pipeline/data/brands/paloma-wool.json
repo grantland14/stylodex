@@ -1,0 +1,43 @@
+{
+  "name": "Paloma Wool",
+  "website_url": "https://palomawool.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Barcelona Clothing and Photography Project",
+  "hq_country": "ES",
+  "size_range": "XXS–XL (EU 32–44)",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 15,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "EUR",
+      "min": 130.0,
+      "max": 2500.0,
+      "min_usd": 144.73,
+      "max_usd": 2783.25,
+      "fx_date": "2026-10-28",
+      "item_count": 46,
+      "source_url": "https://palomawool.com/collections/jackets/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "46 regular-price items of 46 in the collection (0 on sale excluded, 0 non-outerwear or other-vendor excluded). Store currency EUR (cart). Includes leather jackets up to €2,500. Products are numbered (e.g. 'no 3085 / Tryo')."
+    }
+  ],
+  "sources": [
+    "https://palomawool.com/",
+    "https://palomawool.com/meta.json",
+    "https://palomawool.com/pages/shipping-and-returns",
+    "https://palomawool.com/collections/jackets/products.json?limit=250"
+  ],
+  "notes": [
+    "Meta: 'Paloma Wool is my name and the name of this project. A project on photography, clothing and other experiments. From Barcelona.' meta.json Barcelona, ES.",
+    "Returns 15 days from delivery, return fee deducted (US amount not stated). US shipping rates not listed on the page; US in the store's ship-to list."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "paloma-wool"
+}

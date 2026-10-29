@@ -1,0 +1,45 @@
+{
+  "name": "House of Sunny",
+  "website_url": "https://houseofsunny.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Crafted, Conscious Independent Fashion",
+  "hq_country": "GB",
+  "size_range": "UK 6–18; XS–3XL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 300,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "GBP",
+      "min": 120.0,
+      "max": 215.0,
+      "min_usd": 159.45,
+      "max_usd": 285.68,
+      "fx_date": "2026-10-28",
+      "item_count": 13,
+      "source_url": "https://houseofsunny.com/collections/womens-jackets/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "13 regular-price items of 16 in the collection (1 on sale excluded, 2 non-outerwear or other-vendor excluded). Store currency GBP. Two items typed Tops excluded."
+    }
+  ],
+  "sources": [
+    "https://houseofsunny.com/",
+    "https://houseofsunny.com/meta.json",
+    "https://houseofsunny.com/pages/shipping-faq",
+    "https://houseofsunny.com/pages/returns-exchanges",
+    "https://houseofsunny.com/collections/womens-jackets/products.json?limit=250"
+  ],
+  "notes": [
+    "Meta description 'Crafted, conscious and independent.' meta.json London, GB.",
+    "US: FedEx Standard $20, 5–12 working days, free over $300; 'covers all tariffs for USA orders'. Returns within 30 days of delivery; international customers pay return postage."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "house-of-sunny"
+}

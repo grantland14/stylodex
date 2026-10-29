@@ -25,6 +25,19 @@
       "source_url": "https://colorfulstandard.com/collections/mens-organic-t-shirts/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "Men's organic T-shirts collection: 113 listings (one per colour), all regular price; excluding tanks and 3-packs, 106 single tees: Classic Organic Tee and Oversized Organic T-Shirt €35, Oversized Organic LS T-Shirt €45, Heavy Organic Boxy Tee €50. 100% organic cotton, made in Portugal. Sizes XS–2XL. USD at ECB 2026-10-28."
+    },
+    {
+      "category": "coats-jackets",
+      "currency": "USD",
+      "min": 145.0,
+      "max": 145.0,
+      "min_usd": 145.0,
+      "max_usd": 145.0,
+      "fx_date": null,
+      "item_count": 22,
+      "source_url": "https://colorfulstandard.com/en-us/collections/womens-organic-workwear-jackets/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "22 regular-price items of 22 in the collection (0 on sale excluded, 0 non-outerwear or other-vendor excluded). US market (/en-us). All 22 are one style, the Organic Workwear Jacket, in 22 colours at $145."
     }
   ],
   "materials": [
@@ -34,13 +47,23 @@
   "sources": [
     "https://colorfulstandard.com/",
     "https://colorfulstandard.com/collections/mens-organic-t-shirts/products.json?limit=250",
-    "https://colorfulstandard.com/pages/shipping-returns"
+    "https://colorfulstandard.com/pages/shipping-returns",
+    "https://colorfulstandard.com/en-us",
+    "https://colorfulstandard.com/meta.json",
+    "https://colorfulstandard.com/en-us/pages/shipping-returns",
+    "https://colorfulstandard.com/en-us/collections/womens-organic-workwear-jackets/products.json?limit=250"
   ],
   "notes": [
     "www.colourfulstandard.com redirects (307) to colorfulstandard.com; store defaults to Germany/EUR.",
     "Shipping (https://colorfulstandard.com/pages/shipping-returns): US standard $15 (FedEx, 2–5 working days), free over $100; express $24; ships to Canada and the UK; Australia not listed. US duties not mentioned.",
-    "Returns: within 90 days of receipt, unused; US return label €4.25 (DHL Express) bought in the portal. Homepage menus include Transparency and Certified B Corporation pages."
+    "Returns: within 90 days of receipt, unused; US return label €4.25 (DHL Express) bought in the portal. Homepage menus include Transparency and Certified B Corporation pages.",
+    "Meta: 'B Corp certified apparel and accessory brand offering high quality organic cotton and recycled merino wool essentials, made in Portugal.' meta.json Copenhagen, DK.",
+    "US: FedEx Standard $15, free over $100. Returns 90 days from receipt; return label bought through the portal (€4.25)."
   ],
   "checked_at": "2026-10-29",
-  "slug": "colorful-standard"
+  "slug": "colorful-standard",
+  "hq_country": "DK",
+  "certifications": [
+    "B Corp"
+  ]
 }

@@ -1,0 +1,48 @@
+{
+  "name": "RIXO",
+  "website_url": "https://rixolondon.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Vintage-Inspired Collections",
+  "hq_country": "GB",
+  "size_range": "UK 6–26 (XXS–6XL)",
+  "has_plus": true,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "us_stores": true,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "USD",
+      "min": 365.0,
+      "max": 1980.0,
+      "min_usd": 365.0,
+      "max_usd": 1980.0,
+      "fx_date": null,
+      "item_count": 49,
+      "source_url": "https://rixolondon.com/en-us/collections/outerwear/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "49 regular-price items of 52 in the collection (2 on sale excluded, 1 non-outerwear or other-vendor excluded). US market (/en-us). Sizes run to 3XL/UK20 on most coats, 6XL/UK26 on 8."
+    }
+  ],
+  "sources": [
+    "https://rixolondon.com/en-us",
+    "https://rixolondon.com/meta.json",
+    "https://rixolondon.com/en-us/policies/shipping-policy",
+    "https://rixolondon.com/en-us/pages/delivery",
+    "https://rixolondon.com/en-us/pages/returns",
+    "https://rixolondon.com/en-us/policies/refund-policy",
+    "https://rixolondon.com/en-us/collections/outerwear/products.json?limit=250"
+  ],
+  "notes": [
+    "Title: 'RIXO's Official Online Store – Shop Vintage-Inspired Collections'. meta.json: Hammersmith, GB; four London stores.",
+    "US: standard delivery $25 on all orders, duties included, taxes at checkout. Returns within 14 days of delivery, $5 processing fee, DHL drop-off; US sale and Archive items are final sale. Online orders can't be returned to its New York store (so it has a New York store)."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "rixo"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Nobody's Child",
+  "website_url": "https://www.nobodyschild.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Womenswear and Occasionwear",
+  "hq_country": "GB",
+  "size_range": "UK 4–18 (XS–XL)",
+  "has_petite": true,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 250,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "USD",
+      "min": 142.0,
+      "max": 766.0,
+      "min_usd": 142.0,
+      "max_usd": 766.0,
+      "fx_date": null,
+      "item_count": 38,
+      "source_url": "https://www.nobodyschild.com/en-us/collections/coats-jackets/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "38 regular-price items of 100 in the collection (62 on sale excluded, 0 non-outerwear or other-vendor excluded). US market (/en-us). 31 of 100 coats & jackets offer a Petite length option."
+    }
+  ],
+  "sources": [
+    "https://www.nobodyschild.com/en-us",
+    "https://www.nobodyschild.com/meta.json",
+    "https://www.nobodyschild.com/en-us/pages/delivery",
+    "https://www.nobodyschild.com/en-us/pages/returns",
+    "https://www.nobodyschild.com/en-us/collections/coats-jackets/products.json?limit=250"
+  ],
+  "notes": [
+    "Title 'Women's Clothing & Occasionwear | Nobody's Child'. meta.json London, GB.",
+    "US: Standard $19.95, free over $250, 'We cover all duties & taxes on orders to the US'. International returns: full price 30 days, sale 14 days; customer pays return postage plus a £4 returns fee; no exchanges for international customers."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "nobodys-child"
+}

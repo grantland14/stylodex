@@ -6,16 +6,32 @@
   "kind": "brand",
   "known_for": "Casual American Style",
   "hq_country": "US",
-  "founded_year": null,
+  "founded_year": 1969,
   "parent_company": "Gap Inc.",
   "size_range": null,
   "has_plus": null,
-  "has_petite": null,
+  "has_petite": true,
   "has_tall": null,
-  "ships_to": [],
-  "free_shipping_min_usd": null,
-  "returns_days": null,
-  "prices": [],
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 50,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 79.95,
+      "max": 99.95,
+      "min_usd": 79.95,
+      "max_usd": 99.95,
+      "fx_date": null,
+      "item_count": 40,
+      "source_url": "https://www.gap.com/browse/women/jeans?cid=5664",
+      "checked_at": "2026-10-29",
+      "note": "Gap Inc. product API that the category page itself calls (commerceProductsSearchUrl in the page source), read with curl and the StylodexBot UA. Women's jeans only (shorts, overalls, skirts, jackets, shirts, pants and capris excluded). Price = the store's regularPrice for colorways not marked down: priceType R, or P (a temporary promotion) without a markdown flag; priceType M and colorways flagged 'price as marked', clearance or final sale excluded. Women's jeans cid=5664, brand=gap, pages 0-6 (webProductType 'womens jeans' and 'petite jeans' kept, men's dropped). 40 styles: $79.95 (Curvy High Rise Stride Wide-Leg Ankle, High Rise Cheeky Straight) to $99.95 (some Low Rise '90s Loose and Long & Lean washes); 38 colorway prices at $89.95 (e.g. High Rise '70s Flare, The Hailey Extra Baggy Jean). Kept items carried a '60% off: limited time' promo flag."
+    }
+  ],
   "materials": [],
   "certifications": [],
   "production_model": null,
@@ -26,11 +42,15 @@
     "https://www.gap.com/browse/women/jeans?cid=5664",
     "https://www.gap.com/browse/category.do?cid=5664",
     "https://www.gap.com/stores",
-    "https://www.sec.gov/Archives/edgar/data/39911/000162828026018573/gap-20260131.htm"
+    "https://www.sec.gov/Archives/edgar/data/39911/000162828026018573/gap-20260131.htm",
+    "https://api.gap.com/commerce/search/products/v2/cc?cid=5664&brand=gap&market=us&locale=en_US&pageSize=200&pageNumber=0",
+    "https://www.gap.com/customer-service/how-to-return-exchange-items?cid=81264",
+    "https://www.gapinc.com/en-us/about/gap"
   ],
   "notes": [
     "https://www.gap.com/browse/women/dresses?cid=13658 loaded with '0 of 0 items' (product grid didn't render) to WebFetch on 2026-10-29. Status unverified; nothing else stored.",
-    "2026-10-29 (hollister run): gap.com women's jeans page loads with fit tiles (Hailey Low Rise Loose, Hailey Extra Baggy, Barrel & Tapered, Baggy, Wide Leg, Loose, Flare & Bootcut, Straight, Slim & Skinny) but the product grid reads '0 of 0 items', so no prices. Store locator (gap.com/stores) lists stores by state (46 states plus Puerto Rico). Gap Inc. 10-K (fiscal year ended Jan 31, 2026): 'Gap is a globally recognized icon of casual American style'; Company-operated stores in the United States, Canada, Japan and Taiwan. hq_country US from the 10-K (a US company with US stores)."
+    "2026-10-29 (hollister run): gap.com women's jeans page loads with fit tiles (Hailey Low Rise Loose, Hailey Extra Baggy, Barrel & Tapered, Baggy, Wide Leg, Loose, Flare & Bootcut, Straight, Slim & Skinny) but the product grid reads '0 of 0 items', so no prices. Store locator (gap.com/stores) lists stores by state (46 states plus Puerto Rico). Gap Inc. 10-K (fiscal year ended Jan 31, 2026): 'Gap is a globally recognized icon of casual American style'; Company-operated stores in the United States, Canada, Japan and Taiwan. hq_country US from the 10-K (a US company with US stores).",
+    "2026-10-29 (old-navy page run): prices via the Gap Inc. product API the jeans page calls (see price note). Returns (gap.com/customer-service/how-to-return-exchange-items?cid=81264): '30 Days to Return or Exchange' from delivery or purchase; Premier 45 days, All-Access Cardmembers 60. Banner: 'Free shipping on all orders $50+' for Gap Good Rewards members (free to join); shared Gap Inc. checkout ships anywhere in the US incl. Puerto Rico (Old Navy cid=3019 terms). gapinc.com/en-us/about/gap: 'We were born in San Francisco in 1969'; 'heritage grounded in denim'. Petite jeans are a separate fit group in the listing."
   ],
   "checked_at": "2026-10-29",
   "us_stores": true,

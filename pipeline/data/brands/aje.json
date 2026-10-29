@@ -1,0 +1,43 @@
+{
+  "name": "Aje",
+  "website_url": "https://ajeworld.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Elevated Essentials and Occasion Pieces",
+  "hq_country": "AU",
+  "size_range": "4–16; XXS–XL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB"
+  ],
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "USD",
+      "min": 329.0,
+      "max": 1649.0,
+      "min_usd": 329.0,
+      "max_usd": 1649.0,
+      "fx_date": null,
+      "item_count": 40,
+      "source_url": "https://ajeworld.com/collections/jackets/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "40 regular-price items of 40 in the collection (0 on sale excluded, 0 non-outerwear or other-vendor excluded). International store, USD. Tags 'x-markdown:no'; no compare-at prices."
+    }
+  ],
+  "sources": [
+    "https://ajeworld.com/",
+    "https://ajeworld.com/meta.json",
+    "https://ajeworld.com/pages/shipping",
+    "https://ajeworld.com/pages/returns-policy",
+    "https://ajeworld.com/collections/jackets/products.json?limit=250"
+  ],
+  "notes": [
+    "Meta: 'Aje is all about effortless style, with elevated everyday essentials and statement occasion pieces.' meta.json Redfern, AU.",
+    "US: standard shipping free on all orders (3–5 business days, from the US warehouse or Australia); express $25; 'All duties are included in the product price.' Returns 14 days, $50 US returns processing fee; sale items store credit only."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "aje"
+}
