@@ -1096,6 +1096,11 @@
       "fact": "A-COLD-WALL* and Paloma Wool US shipping cost",
       "url": "https://a-cold-wall.com/policies/refund-policy",
       "check": "Neither states US shipping rates on its policy pages; copy is silent on cost."
+    },
+    {
+      "fact": "title wording",
+      "url": "https://www.manieredevoir.com/pages/about-us",
+      "check": "Title renders '14 Brands Like Manière De Voir for Bridging High Fashion And High Street' from the shared known_for (set by an earlier run, from the About page's 'bridge the gap between high fashion and the high street'). It's within the rules but reads stiffly; left unchanged because known_for is shared with the Jaded London and Named Collective pages."
     }
   ],
   "checked_at": "2026-10-29",
