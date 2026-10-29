@@ -1,0 +1,58 @@
+{
+  "slug": "ashley-stewart",
+  "name": "Ashley Stewart",
+  "website_url": "https://www.ashleystewart.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Plus Size Clothing in Sizes 10–36",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "10–36",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 44.5,
+      "max": 79.5,
+      "min_usd": 44.5,
+      "max_usd": 79.5,
+      "fx_date": null,
+      "item_count": 73,
+      "source_url": "https://www.ashleystewart.com/collections/clothing-dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Public Shopify feed (101 products; 74 titled dress, jumpsuits excluded): 73 with a variant at no markdown, 1 marked down. Low Square Neck Bodycon Tank Dress $44.50; A Line Ponte Dress $59.50; high Ribbed Embellished A Line Dress, Snake Print Denim Cargo Dress, Stripe Paneled Sweater Dress $79.50. Sizes 10, 12, 14/16 to 34/36."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://www.ashleystewart.com/",
+    "https://www.ashleystewart.com/collections.json?limit=250",
+    "https://www.ashleystewart.com/collections/clothing-dresses/products.json?limit=250",
+    "https://www.ashleystewart.com/policies/shipping-policy",
+    "https://www.ashleystewart.com/policies/refund-policy",
+    "https://www.ashleystewart.com/pages/store-locator"
+  ],
+  "notes": [
+    "2026-10-29 (rainbow page run): live Shopify store. Title 'Plus Size Clothing, Sizes 10-36 | Ashley Stewart'; meta 'trendy plus size dresses, jeans, tops'. known_for and size_range from the title. Dress vendor is Ashley Stewart throughout, so kind brand.",
+    "Shipping policy (updated Oct 8, 2026): flat rates, economy $9.95 (3–7 business days) and standard $12.95 to the 48 contiguous states and DC; $19.95 to Alaska, Hawaii, Puerto Rico and Guam; no standing free-shipping threshold (promotions only).",
+    "Refund policy: free returns in store and by mail within 30 days of purchase or ship date; dresses must keep their 'Do Not Remove' tag; sizes 28 and up are online exclusives returned by mail; international sales final.",
+    "Store locator: 74 stores across 21 states (Birmingham, Chicago, Brooklyn, Houston, Miami among them)."
+  ],
+  "checked_at": "2026-10-29"
+}

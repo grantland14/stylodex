@@ -20,7 +20,8 @@
   "free_shipping_min_usd": 99,
   "returns_days": 30,
   "sells_categories": [
-    "mens-clothing"
+    "mens-clothing",
+    "boardshorts"
   ],
   "prices": [
     {
@@ -35,6 +36,19 @@
       "source_url": "https://www.volcom.com/collections/mens-t-shirts-tanks",
       "checked_at": "2026-10-29",
       "note": "Like-for-like item: men's short-sleeve T-shirts. Public Shopify feed https://www.volcom.com/collections/mens-t-shirts-tanks/products.json?limit=250 (pages 1-2 returned 295 products; collections.json says 542, so the feed may not be complete). 256 titled 'Men's ... Short Sleeve Tee': 101 have at least one variant with no compare-at price above the price (regular price), 155 are marked down on every variant (excluded). Long sleeves, tanks, flannels and kids' tees excluded. Min: Men's Workwear Short Sleeve Tee $22.00; next Men's Loops / Blaquedout / Newro Short Sleeve Tee $25.00; max: Men's Pistol Stone Lse Short Sleeve Tee $42.00; Men's Featured Artist Daniel Shepard Walleye Short Sleeve Tee $40.00."
+    },
+    {
+      "category": "boardshorts",
+      "currency": "USD",
+      "min": 55.0,
+      "max": 75.0,
+      "min_usd": 55.0,
+      "max_usd": 75.0,
+      "fx_date": null,
+      "item_count": 25,
+      "source_url": "https://www.volcom.com/collections/mens-boardshorts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: men's boardshorts (fixed-waist boardshorts and volleys the store files as boardshorts). Whole collection from the public Shopify feed https://www.volcom.com/collections/mens-boardshorts/products.json?limit=250: 93 products, 50 kept as adult boardshorts, 25 with a compare-at price above the price (markdowns, excluded), 25 at regular price. Min: Men's Lido Solid Mod $55.00; max: Men's Yewster Loose Stoney $75.00. Type 'Boardshorts' only (43 elastic 'Trunks' excluded). Lido Solid Mod ($55): 20\" outseam, Cinch Fly closure; Barnacle Stoney ($70): 19\", hemp and REPREVE recycled blend. Waists 28–40 on all 25, 42 on 6, 44 on 2."
     }
   ],
   "materials": [],
@@ -50,7 +64,9 @@
     "https://www.volcom.com/pages/returns-exchanges",
     "https://www.volcom.com/pages/size-guides",
     "https://en.wikipedia.org/wiki/Volcom",
-    "https://www.tillys.com/brands/"
+    "https://www.tillys.com/brands/",
+    "https://www.volcom.com/collections/mens-boardshorts/products.json?limit=250",
+    "https://www.volcom.com/products/volcom-mens-lido-solid-mod-20-blue-moon.json"
   ],
   "notes": [
     "2026-10-29 (tillys page run): About page: 'Volcom was founded in 1991 as America's First Boarding Company and seamlessly combined the cultures of Skateboarding, Surfing, Snowboarding, Music and Art'; tagline 'True To This'; founders Richard Woolcott and Tucker Hall. known_for from that line.",
@@ -59,7 +75,8 @@
     "Size guide: Men's Tops XS–XXL (chest 32–48 in); Men's Bottoms waist sizes 27 upward to XXXL.",
     "Wikipedia (Volcom): founded 1991 in Orange County, California by Richard Woolcott and Tucker Hall; HQ Costa Mesa, California; owned by Authentic Brands Group since April 3, 2019 (bought from Kering); its US stores were run by Liberated Brands, which filed Chapter 11 in February 2025 and closed all remaining US locations. us_stores left empty.",
     "Sale pattern on 2026-10-29: 155 of 256 men's short-sleeve tees in the feed were marked down on every variant.",
-    "Tillys' own brands page (https://www.tillys.com/brands/) lists Volcom among the brands it sells."
+    "Tillys' own brands page (https://www.tillys.com/brands/) lists Volcom among the brands it sells.",
+    "2026-10-29 (billabong page run): boardshorts from /collections/mens-boardshorts; descriptions read from the store's product JSON."
   ],
   "checked_at": "2026-10-29"
 }

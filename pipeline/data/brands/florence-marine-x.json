@@ -1,0 +1,47 @@
+{
+  "name": "Florence Marine X",
+  "website_url": "https://www.florencemarinex.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Utilitarian Surf Equipment",
+  "hq_country": "US",
+  "size_range": "Waists 24–48",
+  "ships_to": [
+    "US",
+    "CA",
+    "MX"
+  ],
+  "free_shipping_min_usd": 125,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "boardshorts",
+      "currency": "USD",
+      "min": 75.0,
+      "max": 119.0,
+      "min_usd": 75.0,
+      "max_usd": 119.0,
+      "fx_date": null,
+      "item_count": 7,
+      "source_url": "https://www.florencemarinex.com/collections/boardshorts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: men's boardshorts (fixed-waist boardshorts and volleys the store files as boardshorts). Whole collection from the public Shopify feed https://www.florencemarinex.com/collections/boardshorts/products.json?limit=250: 18 products, 8 kept as adult boardshorts, 1 with a compare-at price above the price (markdowns, excluded), 7 at regular price. Min: Standard Issue Boardshort $75.00; max: Airtex 2-in-1 Boardshort $119.00. Standard Issue Boardshort ($75): 18.5\" outseam, CORDLOC drawcord, side zip pocket. Cordura Airtex Boardshort ($105): Cordura yarns, Airtex side panels. Waists 24–38 on all 7, 40–44 on 3, 48 on 1."
+    }
+  ],
+  "sells_categories": [
+    "boardshorts"
+  ],
+  "notes": [
+    "Homepage meta: 'Utilitarian equipment for modern sport conditions. North Shore Tested boardshorts... Founded and inspired by Olympian surfer, 3X World Champion & innovator John John Florence.' known_for from that line.",
+    "About page: 'Founded in partnership with 3X World Champion surfer and 2X Olympian, John Florence'; R&D on 'Hawaii's North Shore of Oahu' (hq_country US from that; no HQ city stated).",
+    "Shipping & returns policy: free shipping on all US orders over $125; US returns within 30 days, free for members and $7.00 for non-members; international shipping to Canada and Mexico for $20 (no returns on international orders)."
+  ],
+  "sources": [
+    "https://www.florencemarinex.com/",
+    "https://www.florencemarinex.com/collections/boardshorts/products.json?limit=250",
+    "https://www.florencemarinex.com/policies/shipping-policy",
+    "https://www.florencemarinex.com/pages/about"
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "florence-marine-x"
+}

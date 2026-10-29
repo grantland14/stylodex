@@ -1,0 +1,42 @@
+{
+  "slug": "citi-trends",
+  "name": "Citi Trends",
+  "website_url": "https://cititrends.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Apparel and Home Trends for Less",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Juniors, missy and plus sizes",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "us_stores": true,
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "dresses",
+    "womens-clothing"
+  ],
+  "sources": [
+    "https://cititrends.com/",
+    "https://cititrends.com/about-us/",
+    "https://cititrends.com/refund/",
+    "https://www.sec.gov/Archives/edgar/data/1318484/000155837024005294/ctrn-20240203x10k.htm",
+    "https://www.sec.gov/Archives/edgar/data/1318484/000110465926043813/ctrn-20260131x10k.htm"
+  ],
+  "notes": [
+    "2026-10-29 (rainbow page run): cititrends.com is a brand site with a store finder and no online shop. Title 'CITITRENDS - Apparel & Home Trends For Way Less Spend'; meta 'Shop the trends and hot brands at one of 600+ stores for men’s, ladies, kids, home décor & more. Up to 50% less than the others.' known_for from that title.",
+    "About Us: 'a leading off-price retailer of Apparel, Accessories and Home with a differentiated focus on the Black consumer'; HQ Savannah, Georgia; 'nearly 600 neighborhood-based stores across 33 states'. 10-K filed 2026-04-15: 590 stores in 33 states as of January 31, 2026; Women's division 27% of sales, 'apparel for juniors, missy and plus size'; mix of 'privately developed brands and nationally recognized labels' (so kind retailer).",
+    "Sells dresses: 10-K filed 2024-04-18 (FY2023): 'Our stores include a wide assortment of sportswear, dresses, outerwear, intimate apparel…'. The 2026 10-K's Women's line lists sportswear, outerwear, sleepwear, lingerie and scrubs without naming dresses. No online prices (store only).",
+    "Refund and Exchange Policy: refund or exchange within 30 days of purchase with receipt and original tag; no refunds on clearance, undergarments, worn or altered items. SEC files fetched with the StylodexBot UA only (no contact email sent)."
+  ],
+  "checked_at": "2026-10-29"
+}

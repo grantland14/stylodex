@@ -1,0 +1,40 @@
+{
+  "slug": "avenue",
+  "name": "Avenue",
+  "website_url": "https://www.avenue.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Plus Size Women’s Outfitter",
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "14–32",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 60,
+  "us_stores": null,
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://www.avenue.com/",
+    "https://www.avenue.com/av/dresses/",
+    "https://www.avenue.com/help-page?cid=av-custservice-returns"
+  ],
+  "notes": [
+    "2026-10-29 (rainbow page run, WebFetch): live store. Homepage 'Avenue is Your Best Plus Size Women's Outfitter'; title 'Shop Women's Clothing in Plus Sizes 14 - 32' (a banner says Sizes 14-36). Shipping To: United States. Free shipping only as a FullBeauty credit-card offer ($75 minimum).",
+    "Dresses page (https://www.avenue.com/av/dresses/): 'Plus Size Dresses', 752 items; 15 priced tiles rendered, 14 marked down (e.g. Lucia Plisse Maxi Dress $99.99, was $139.95). One at a single price: Stretch Cotton T-Shirt Maxi Dress $29.99. Too few regular-price items for a range, so no price row; dresses in sells_categories from this page.",
+    "Returns: within 60 days of ship date; free as an e-gift card, $10.99 deducted for a refund to the original payment via Happy Returns or prepaid label."
+  ],
+  "checked_at": "2026-10-29"
+}

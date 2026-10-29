@@ -1,0 +1,48 @@
+{
+  "name": "Salty Crew",
+  "website_url": "https://www.salty-crew.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Surf and Fishing Gear",
+  "hq_country": "US",
+  "founded_year": 2013,
+  "size_range": "Waists 28–44",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "boardshorts",
+      "currency": "USD",
+      "min": 59.95,
+      "max": 69.95,
+      "min_usd": 59.95,
+      "max_usd": 69.95,
+      "fx_date": null,
+      "item_count": 32,
+      "source_url": "https://www.salty-crew.com/collections/boardshorts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: men's boardshorts (fixed-waist boardshorts and volleys the store files as boardshorts). Whole collection from the public Shopify feed https://www.salty-crew.com/collections/boardshorts/products.json?limit=250: 60 products, 60 kept as adult boardshorts, 28 with a compare-at price above the price (markdowns, excluded), 32 at regular price. Min: Crew 19\" Boardshort - Dark Grey $59.95; max: Whaler Volley 18\" - Bone $69.95. Crew 19\" Boardshort ($59.95): 37% recycled polyester, straight leg, anti-rash interior thread. Whaler and Flagship boatshorts/volleys up to $69.95. Waists 28–38 on 18, 40–44 on 7; S–XXL on 14 volleys."
+    }
+  ],
+  "sells_categories": [
+    "boardshorts"
+  ],
+  "notes": [
+    "Homepage title 'SALTY CREW | GEAR MATTERS'; meta 'When the surf is pumping or the fish are biting and nothing else matters...GEAR MATTERS.' known_for from the meta.",
+    "Shipping policy: free UPS Ground on orders $100+ within the continental US; 2–4 business days processing. No other countries stated; ships_to US.",
+    "Refund policy: refund, exchange or store credit 'within 30 days of your purchase'; $7.50 restocking fee deducted from refunds.",
+    "Salty Crew EU site, Our Story: 'Salty Crew was founded in San Diego in 2013', 'dreamt up by two brothers'."
+  ],
+  "sources": [
+    "https://www.salty-crew.com/",
+    "https://www.salty-crew.com/collections/boardshorts/products.json?limit=250",
+    "https://www.salty-crew.com/policies/shipping-policy",
+    "https://www.salty-crew.com/policies/refund-policy",
+    "https://salty-crew.eu/pages/our-story"
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "salty-crew"
+}

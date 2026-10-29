@@ -51,7 +51,8 @@
     "https://www.sec.gov/Archives/edgar/data/0000028917/000002891726000024/dds-20260813xex99d1.htm",
     "https://www.dillards.com/c/women-jeans",
     "https://www.dillards.com/c/faqs-notices-policies",
-    "https://www.dillards.com/c/about-dillards-company-history"
+    "https://www.dillards.com/c/about-dillards-company-history",
+    "https://styleblueprint.com/everyday/secret-discount-stores/"
   ],
   "notes": [
     "2026-10-29: dillards.com homepage readable (© 2026 Dillard's); nav Women, Juniors, Men, Kids, Shoes, Handbags, Accessories, Lingerie, Home, Beauty, Dillard's Exclusive; 'Sale and Clearance' link. Store finder at /stores (search only, no list). /c/returns gives no terms; shipping terms not found. Dillard's Q2 fiscal 2026 release, August 13, 2026 (https://www.sec.gov/Archives/edgar/data/0000028917/000002891726000024/dds-20260813xex99d1.htm): 'The Company operates 272 Dillard's stores, including 28 clearance centers, spanning 30 states ... and an Internet store at dillards.com.' known_for built from that release; clearance-center locations not listed on dillards.com.",
@@ -60,7 +61,8 @@
     "Returns: 'Items purchased on Dillards.com that are eligible for return can be returned within 30 calendar days from the purchase date.' Holiday extension for Nov 1–Dec 11 purchases.",
     "Company history page: William Dillard opened his first store in 1938 in Nashville, Arkansas; HQ relocated to Little Rock, Arkansas; 'the chain consists of 272 Dillard's stores including 28 clearance centers spanning 30 states'.",
     "Jeans size filters: 00/XXS–16/XL and 1X–3X; fit filters Contemporary, Standard, Juniors, Petite, Plus. Brands on page 1 include NYDJ, Levi's, KUT from the Kloth, Good American, Free People, Lauren Ralph Lauren, Gibson & Latimer, Antonio Melani, 7 For All Mankind, Eileen Fisher.",
-    "2026-10-29 (buckle page run): jeans price row added from the existing womens-clothing row, which was read from the store's own women's jeans listing (https://www.dillards.com/c/women-jeans), same date; jeans added to sells_categories."
+    "2026-10-29 (buckle page run): jeans price row added from the existing womens-clothing row, which was read from the store's own women's jeans listing (https://www.dillards.com/c/women-jeans), same date; jeans added to sells_categories.",
+    "2026-10-29 (stores-like-dillards page run): StyleBlueprint, '8 \"Secret\" Discount Stores in the South' (Zoe Yarborough, Oct 2, 2025, https://styleblueprint.com/everyday/secret-discount-stores/): Dillard's Clearance Centers are called '\"Dirty Dillard's,\" as savvy bargain hunters lovingly call them'; 'These are the after-party of Dillard's: overstock, off-season, returns'. Used only for the FAQ 'what is dirty dillards'; the article is not evidence for any pick."
   ],
   "checked_at": "2026-10-29",
   "founded_year": 1938,

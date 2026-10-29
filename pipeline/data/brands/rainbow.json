@@ -1,0 +1,69 @@
+{
+  "slug": "rainbow",
+  "name": "Rainbow",
+  "website_url": "https://www.rainbowshops.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Affordable Plus Size & Women’s Fashion",
+  "hq_country": "US",
+  "founded_year": 1935,
+  "parent_company": null,
+  "size_range": "XS–XL and plus 1X–4X",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "PR",
+    "VI"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": 30,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 7.99,
+      "max": 39.97,
+      "min_usd": 7.99,
+      "max_usd": 39.97,
+      "fx_date": null,
+      "item_count": 183,
+      "source_url": "https://www.rainbowshops.com/collections/womens-dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Public Shopify feed, 3 pages (704 dresses), read with curl and the StylodexBot UA. 183 have a variant with no compare_at_price above the price (regular price), 521 are marked down on every variant. Low: Solid Mini Tube Dress $7.99 (vendor Ambiance); Acid Wash Graphic T-Shirt Dress $9.97 (Rainbow Shops). High: Tiger Print Strapless Cutout Mini Dress with Lace Trim $39.97; Long Sleeve Layered Look Sweater Dress $34.99. Most common regular price $19.97 (49 items). Sizes S–XL (XL on 536 of 704). Plus feed /collections/plus-size-dresses (206 dresses): 49 regular, $12.99 (Plus Size Floral Tie Waist Belted Midi Shirt Dress) to $29.97 (Plus Size Ribbed Knit Sweater Midi Dress), sizes 1X–3X with 4X on 18. Vendors of regular-price dresses: Rainbow Shops 69, Almost Famous 33, Iris 23, Blâshe 21, Madden Girl 13, Ambiance 11, Haute Monde 11."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": "Most dresses marked down, frequent fixed-price sales",
+  "sells_categories": [
+    "dresses",
+    "womens-clothing"
+  ],
+  "sources": [
+    "https://www.rainbowshops.com/",
+    "https://www.rainbowshops.com/collections.json?limit=250",
+    "https://www.rainbowshops.com/collections/womens-dresses/products.json?limit=250",
+    "https://www.rainbowshops.com/collections/plus-size-dresses/products.json?limit=250",
+    "https://www.rainbowshops.com/policies/shipping-policy",
+    "https://www.rainbowshops.com/policies/refund-policy",
+    "https://www.rainbowshops.com/pages/faq",
+    "https://www.rainbowshops.com/pages/size-chart",
+    "https://stores.rainbowshops.com/",
+    "https://en.wikipedia.org/wiki/Rainbow_Shops"
+  ],
+  "notes": [
+    "2026-10-29 (rainbow page run): trading. rainbowshops.com is a live Shopify store; homepage title 'Rainbow Shops | Affordable Plus Size & Women’s Fashion', meta 'affordable plus size and women’s clothing in sizes XS to 4X. New arrivals daily. Free shipping on $75 and easy in-store returns.' Collections updated 2026-10-29. known_for from that title.",
+    "Store locator (stores.rainbowshops.com) and FAQ: 'Rainbow began in Brooklyn in 1935 and operates more than 800 stores across the United States, Puerto Rico, and the U.S. Virgin Islands.' Locator lists stores by state and territory (Alabama to the Virgin Islands) and departments Womens, Kids, Womens Shoes, School Uniforms, Plus Size.",
+    "Wikipedia (Rainbow_Shops): founded 1935 in New York City by Irving Arthur Swarzman; HQ East New York, Brooklyn; privately held, owned by the Chehebar family (CEO Joseph Chehebar); infobox about 1,300 stores incl. sister chains 5-7-9 and Marianne. The store's own 800+ count is newer. parent_company left empty: no named parent company.",
+    "Shipping policy: free ship-to-store over $15; free home shipping over $75 to the continental US and APO/FPO, over $99 to Alaska, Hawaii, Puerto Rico and USVI. The policy says orders under $75 pay $7.99, but its table lists Continental US standard at $9.99 (3–7 days); premium $13.99, expedited $24.99, one-day $29.99. No international shipping listed.",
+    "Refund policy: online purchases returnable within 30 days of the ship date, by mail ($9.99 label deducted, or free with the $1.99 Package Protection + Free Returns add-on) or free at any Rainbow store. Final sale: intimates, swimwear, earrings, costumes, items marked Final Sale. In-store purchases can't be returned online.",
+    "Size chart page: women's dresses-and-tops table XS–XL; bottoms XS–XL with numeric 0–16; plus tables 1X–4X; also girls, boys, toddler and baby.",
+    "Kind retailer: about two thirds of the dress feed is the house label (vendor Rainbow Shops, 454 of 704); the rest are outside labels (Iris, Almost Famous, Blâshe, Haute Monde, Ambiance, Madden Girl). Category C dresses: Google's sitelinks for 'stores like rainbow' show Tops and Dresses; Ahrefs top pages put /collections/womens-dresses (top keyword 'rainbow dress', 4,100/month) and /collections/pink-dresses among its leading product-type pages. Bodysuits pages draw more traffic but on generic 'bodysuit' searches.",
+    "sale_pattern detail: 521 of 704 dresses carry a markdown; the site runs fixed-price sale collections ($3, $5, $7, $10 and $15 sales)."
+  ],
+  "checked_at": "2026-10-29"
+}

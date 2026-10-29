@@ -1,0 +1,50 @@
+{
+  "name": "O'Neill",
+  "website_url": "https://us.oneill.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Boardshorts and Clothing",
+  "hq_country": "US",
+  "founded_year": 1952,
+  "parent_company": "Sisco Textiles",
+  "size_range": "Waists 28–44",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "boardshorts",
+      "currency": "USD",
+      "min": 29.99,
+      "max": 98.0,
+      "min_usd": 29.99,
+      "max_usd": 98.0,
+      "fx_date": null,
+      "item_count": 42,
+      "source_url": "https://us.oneill.com/collections/mens-boardshorts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: men's boardshorts (fixed-waist boardshorts and volleys the store files as boardshorts). Whole collection from the public Shopify feed https://us.oneill.com/collections/mens-boardshorts/products.json?limit=250: 82 products, 68 kept as adult boardshorts, 26 with a compare-at price above the price (markdowns, excluded), 42 at regular price. Min: Stoked 20\" Boardshorts $29.99; max: Hyperfreak Tech V 20\" Boardshorts $98.00. Hyperfreak Tech V 20\" ($98): 45% recycled polyester, Hyperdry DWR, welded seams. Stoked 20\" ($29.99, no compare-at price): 90% polyester, 10% elastane. Hyperfreak Heat styles $58. Waists 30–40 on all 42, 28–33 on 39, 42–44 on 15."
+    }
+  ],
+  "sells_categories": [
+    "boardshorts"
+  ],
+  "notes": [
+    "oneill.com redirected the scripted request to eu.oneill.com; the official US store is us.oneill.com (title 'O'Neill Boardshorts & Clothing Official US Store'; meta 'featuring the world famous O'Neill Hyperfreak and Superfreak Board Shorts'). known_for from the title.",
+    "US shipping policy: contiguous US Standard Ground $9.99 (5–12 business days); 'O'Neill Rewards Members Receive Free Standard Shipping Over $115' (free sign-up); no free shipping to HI/AK/PR. free_shipping_min_usd left empty because the threshold is members-only.",
+    "US refund policy: 'Returns must be started within 30 days from the date of shipping'; '$6.99' return handling fee; size exchanges only.",
+    "About Jack O'Neill page: 'Jack O'Neill opens the first surf shop in 1952 off The Great Highway, San Francisco' and later invents the neoprene wetsuit. Wikipedia (O'Neill_(brand)): owner Sisco Textiles N.V., infobox HQ Luxembourg; History: the US clothing business (La Jolla Group license since 1993) is 'now headquartered in Irvine, California'. hq_country US from that line."
+  ],
+  "sources": [
+    "https://us.oneill.com/",
+    "https://us.oneill.com/collections/mens-boardshorts/products.json?limit=250",
+    "https://us.oneill.com/policies/shipping-policy",
+    "https://us.oneill.com/policies/refund-policy",
+    "https://us.oneill.com/pages/about-jack-oneill",
+    "https://en.wikipedia.org/wiki/O'Neill_(brand)"
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "oneill"
+}

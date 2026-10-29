@@ -1,0 +1,57 @@
+{
+  "slug": "dressbarn",
+  "name": "Dressbarn",
+  "website_url": "https://dressbarn.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Women’s Dresses and Accessories",
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–XL, 4–18 and plus 0X–5X",
+  "has_plus": true,
+  "has_petite": true,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 74.95,
+      "max": 388.0,
+      "min_usd": 74.95,
+      "max_usd": 388.0,
+      "fx_date": null,
+      "item_count": 79,
+      "source_url": "https://dressbarn.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Public Shopify feed (230 products; 191 titled dress, jumpsuits and rompers excluded): 79 with a variant at no markdown, 112 marked down on every variant. Low Women's Tweed Fit & Flare Dress $74.95, Tweed Fit and Flare Dress - Plus $78.95, Essential Wrap Dress - Plus $89.95; high Pretty Petals Mesh Cocktail Dress $388 and Wildflower Embroidered Dress $278. Vendors include KIYONNA and White Mark."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://dressbarn.com/",
+    "https://dressbarn.com/collections.json?limit=250",
+    "https://dressbarn.com/collections/dresses/products.json?limit=250",
+    "https://dressbarn.com/policies/shipping-policy",
+    "https://dressbarn.com/policies/refund-policy"
+  ],
+  "notes": [
+    "2026-10-29 (rainbow page run): live Shopify store. Title 'Dressbarn | Women’s Clothing | Dresses & Accessories'; collections Dresses (627), Day Dresses (436), Plus Size Women's Dresses (296), Petite Dresses (116), Occasion Dresses (105). Product vendors are outside labels (KIYONNA, White Mark), so kind retailer.",
+    "Sizes in the dresses feed: S–XL, XS on 32; 0X–5X; numeric 4–18; 14W–22W; petite 6P.",
+    "Shipping policy: ships to the 48 contiguous United States only; standard 5–7 business days; cost shown at checkout, no free-shipping threshold stated.",
+    "Refund policy: most items returnable within 30 days of delivery, as Dressbarn store credit; customer pays return shipping; clearance and Final Sale not returnable."
+  ],
+  "checked_at": "2026-10-29"
+}

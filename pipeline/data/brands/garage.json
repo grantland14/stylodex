@@ -1,0 +1,28 @@
+{
+  "slug": "garage",
+  "name": "Garage",
+  "website_url": "https://www.garageclothing.com/us/",
+  "status": "verified",
+  "kind": "brand",
+  "hq_country": "CA",
+  "founded_year": 1975,
+  "parent_company": "Groupe Dynamite",
+  "us_stores": true,
+  "sources": [
+    "https://www.garageclothing.com/us/",
+    "https://groupedynamite.com/",
+    "https://groupedynamite.com/about-us/",
+    "https://investors.groupedynamite.com/",
+    "https://investors.groupedynamite.com/2026-09-10-GROUPE-DYNAMITE-REPORTS-STRONG-SECOND-QUARTER-FISCAL-2026-RESULTS-AS-BRAND-HEAT-AND-TOP-TIER-LOCATIONS-CONTINUE-TO-DRIVE-GROWTH",
+    "https://investors.groupedynamite.com/image/09.09.26_GDI_Q2-26_Investor_Presentation_FINAL.pdf",
+    "https://en.wikipedia.org/wiki/Garage_(clothing_retailer)"
+  ],
+  "notes": [
+    "2026-10-29 (garage page run): garageclothing.com refuses automated reads. curl with the StylodexBot UA got HTTP 403 on /us/, /, /ca/, /robots.txt, /us/help/, /us/sitemap.xml and /us/products.json; WebFetch of /us/ got 403. Not worked around. So known_for, size_range, ships_to, returns_days, free shipping and prices are empty (store-only facts).",
+    "Status verified from the parent company's official sites (enrich.md §2): groupedynamite.com links www.garageclothing.com/ca/ and says GDI 'operates retail stores and digital experiences under two complementary and spirited banners: Garage and Dynamite', founded in Montreal, 'Since 1975'. investors.groupedynamite.com (TSX: GRGD): 'we operate across Canada and the United States, and more recently expanded into the United Kingdom'.",
+    "us_stores: Q2 fiscal 2026 release (Sep 10 2026): 'Opening of 7 new stores: 6 in the United States and 1 in the United Kingdom, both under the GARAGE banner' and 'Renovation or relocation of stores: ... 3 in the United States, both under the GARAGE banner'. Investor presentation slide 19 (store count as of Aug 1 2026): 307 stores, US 141 stores across 41 states, Canada 163, UK 3; the chart reads as 238 GARAGE (96 Canada, 139 US, 3 UK) and 69 DYNAMITE, but the split is a chart reading, not stated in text.",
+    "Wikipedia (Garage (clothing retailer)): founded in Montreal in 1975 as a Groupe Dynamite subsidiary; 'primarily targeting young women'; areas served Canada, United Kingdom, United States. The disco directory profile (discobrands.co/brands/garage, facts checked October 2026) also gives founded 1975 and says most pieces cost about $30 to $90 (not a store price; not used).",
+    "Ahrefs top pages for www.garageclothing.com/us/ (US, 2026-10-28): sweatpants category page has the most traffic (11,186; top keyword 'sweatpants'), then sweatsuits (6,839) and hoodies-sweatshirts (6,160), going-out tops (4,789)."
+  ],
+  "checked_at": "2026-10-29"
+}

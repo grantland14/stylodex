@@ -1,0 +1,512 @@
+{
+  "subject": "Garage",
+  "slug": "garage",
+  "url_prefix": "stores",
+  "category": {
+    "slug": "sweatpants",
+    "name": "Sweatpants",
+    "why": "Garage sells its own label, so kind brand and C is a product type. Ahrefs top pages for www.garageclothing.com/us/ (US, 2026-10-28) put the sweatpants category first by traffic (11,186, top keyword 'sweatpants'), ahead of sweatsuits (6,839), hoodies-sweatshirts (6,160) and going-out tops (4,789); its UltraFleece cargo sweatpants page is the top product page. Prices would compare each store's regular-price sweatpants, but no Garage price could be read (403)."
+  },
+  "anchor_status": {
+    "status": "verified",
+    "how": "garageclothing.com refuses automated reads (HTTP 403 to curl with the StylodexBot UA and to WebFetch). Status and us_stores come from the parent company's official sites (enrich.md §2): groupedynamite.com links the store, and the Q2 fiscal 2026 release (Sep 10 2026) reports 6 new GARAGE stores in the United States. Every store-only fact (known_for, sizes, shipping, returns, prices) is empty, so the anchor fails missingAnchorFacts."
+  },
+  "serp": [
+    {
+      "keyword": "stores like garage",
+      "position": 1,
+      "url": "https://www.reddit.com/r/garageclothing/comments/1r3v7l4/similar_stores/",
+      "kept": false,
+      "why_dropped": "reddit (AI-overview sitelink and organic #2): WebFetch refuses reddit.com; not read, not worked around"
+    },
+    {
+      "keyword": "stores like garage",
+      "position": 1,
+      "url": "https://www.reddit.com/r/bitcheswithtaste/comments/1ewsh9k/what_brands_sell_cool_clothing_anymore/",
+      "kept": false,
+      "why_dropped": "reddit; general thread, not about Garage alternatives; not read"
+    },
+    {
+      "keyword": "stores like garage",
+      "position": 1,
+      "url": "https://www.facebook.com/fb-answers/stores-like-garage-at-other-malls/?locale=mk_MK",
+      "kept": false,
+      "why_dropped": "Facebook answers page: WebFetch returned only the word 'Facebook'; nothing readable"
+    },
+    {
+      "keyword": "stores like garage",
+      "position": 2,
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/d4p5gl/trying_to_find_better_quality_stores/",
+      "kept": false,
+      "why_dropped": "reddit sitelink; not read"
+    },
+    {
+      "keyword": "stores like garage",
+      "position": 2,
+      "url": "https://www.reddit.com/r/garageclothing/comments/1tlg2hv/does_anybody_know_where_to_shop_to_find_good/",
+      "kept": false,
+      "why_dropped": "reddit (going-out tops similar to Garage); not read"
+    },
+    {
+      "keyword": "stores like garage",
+      "position": 4,
+      "url": "https://www.quora.com/What-are-some-affordable-and-unique-clothing-options-available-at-thrift-stores-Where-do-you-usually-shop-for-stylish-and-budget-friendly-clothes",
+      "kept": false,
+      "why_dropped": "quora; about thrift stores, not Garage alternatives"
+    },
+    {
+      "keyword": "stores like garage",
+      "position": 5,
+      "url": "https://www.tiktok.com/discover/stores-similar-to-garage",
+      "kept": false,
+      "why_dropped": "TikTok discover page: WebFetch returned only the page title; social aggregation, no readable list"
+    },
+    {
+      "keyword": "stores like garage",
+      "position": 7,
+      "url": "https://www.garageclothing.com/us/",
+      "kept": false,
+      "why_dropped": "the anchor's own site (also 403)"
+    },
+    {
+      "keyword": "stores like garage",
+      "position": 8,
+      "url": "https://similist.com/alternatives/stores-like-garage/",
+      "kept": false,
+      "why_dropped": "similist: scraped list"
+    },
+    {
+      "keyword": "stores like garage",
+      "position": 9,
+      "url": "https://www.similarweb.com/website/garageclothing.com/competitors/",
+      "kept": false,
+      "why_dropped": "traffic-overlap tool output, not an editorial recommendation"
+    },
+    {
+      "keyword": "stores like garage",
+      "position": 10,
+      "url": "https://www.dynamiteclothing.com/ca/",
+      "kept": false,
+      "why_dropped": "the sister banner's own site"
+    },
+    {
+      "keyword": "brands like garage",
+      "position": 1,
+      "url": "https://www.similarweb.com/website/garageclothing.com/competitors/",
+      "kept": false,
+      "why_dropped": "traffic tool (AI-overview sitelink)"
+    },
+    {
+      "keyword": "brands like garage",
+      "position": 2,
+      "url": "https://www.lemon8-app.com/experience/websites-for-clothes?region=us",
+      "kept": false,
+      "why_dropped": "read 2026-10-29: a creator's go-to clothing sites; names Garage as a favourite but recommends nothing as an alternative to it"
+    },
+    {
+      "keyword": "brands like garage",
+      "position": 4,
+      "url": "https://www.reddit.com/r/BuyItForLife/comments/4bfdyk/bifl_request_good_garage_attire/",
+      "kept": false,
+      "why_dropped": "off-topic (garage workwear); reddit"
+    },
+    {
+      "keyword": "brands like garage",
+      "position": 5,
+      "url": "https://www.facebook.com/61556258790097/videos/some-stores-i-could-not-live-without-aritzia-edikted-white-fox-boutique-boutine-/1750065462574292/",
+      "kept": false,
+      "why_dropped": "Facebook video; not readable as text, and a favourite-stores list rather than Garage alternatives"
+    },
+    {
+      "keyword": "brands like garage",
+      "position": 6,
+      "url": "https://www.instagram.com/reel/DWegZdVMUhb/",
+      "kept": false,
+      "why_dropped": "off-topic (Nottingham streetwear shop reel)"
+    },
+    {
+      "keyword": "brands like garage",
+      "position": 7,
+      "url": "https://www.containerstore.com/s/garage-and-shelving/Adhesive/1f",
+      "kept": false,
+      "why_dropped": "off-topic (garage storage)"
+    },
+    {
+      "keyword": "brands like garage",
+      "position": 8,
+      "url": "https://www.reddit.com/r/GranTurismo7/comments/1r8naya/what_is_the_most_common_car_brand_in_yalls_garage/",
+      "kept": false,
+      "why_dropped": "off-topic (cars)"
+    },
+    {
+      "keyword": "brands like garage",
+      "position": 9,
+      "url": "https://www.instagram.com/popular/garage-clothing-marketing/",
+      "kept": false,
+      "why_dropped": "social aggregation page"
+    },
+    {
+      "keyword": "brands like garage",
+      "position": 10,
+      "url": "https://www.expertise.com/home-improvement/garage-doors/missouri/springfield",
+      "kept": false,
+      "why_dropped": "off-topic (garage doors)"
+    },
+    {
+      "keyword": "garage alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "all 10 results are about car garages (reddit r/cars, carports, sheds); no clothing result"
+    },
+    {
+      "keyword": "similar to garage",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs returned no SERP for this keyword"
+    },
+    {
+      "keyword": "(WebSearch) stores like garage clothing",
+      "position": null,
+      "url": "https://www.collegefashion.net/shopping/clothing-stores-for-teens/",
+      "kept": true,
+      "note": "found by WebSearch; read 2026-10-29: Demi, College Fashion, published Apr 13 2022, updated Feb 9 2024; a teen-store list that says \"Garage's sister store, Dynamite, is a bit more elevated and luxe compared to Garage.\" The only outside sentence found that points from Garage to another store."
+    },
+    {
+      "keyword": "(WebSearch) stores like garage clothing",
+      "position": null,
+      "url": "https://www.theindustry.fashion/cult-north-american-brand-garage-heads-to-london-for-its-uk-debut/",
+      "kept": false,
+      "why_dropped": "read 2026-10-29 (Chloe Burney, Nov 10 2025): says Garage targets 'the same Gen Z shoppers who frequent brands like Bershka, Pull&Bear and Urban Outfitters' in the UK. Competitor framing in a news story, not a recommendation of alternatives; not counted"
+    },
+    {
+      "keyword": "(WebSearch) stores like garage clothing",
+      "position": null,
+      "url": "https://www.storeslike.com/garage",
+      "kept": false,
+      "why_dropped": "templated store-list directory, no author or editorial content (dropped the same way on charlotte-russe and buckle)"
+    },
+    {
+      "keyword": "(WebSearch) stores like garage clothing",
+      "position": null,
+      "url": "https://www.instya.com/site/garageclothing.com",
+      "kept": false,
+      "why_dropped": "scraped similar-sites list"
+    },
+    {
+      "keyword": "(WebSearch) stores like garage clothing",
+      "position": null,
+      "url": "https://www.similarsitesearch.com/sites/garage-clothing/",
+      "kept": false,
+      "why_dropped": "scraped similar-sites list"
+    },
+    {
+      "keyword": "(WebSearch) stores like garage clothing",
+      "position": null,
+      "url": "https://www.owler.com/company/garageclothing/competitors",
+      "kept": false,
+      "why_dropped": "automated competitor data"
+    },
+    {
+      "keyword": "(WebSearch) stores like garage clothing",
+      "position": null,
+      "url": "https://www.semrush.com/website/garageclothing.com/competitors/",
+      "kept": false,
+      "why_dropped": "automated traffic-competitor data"
+    },
+    {
+      "keyword": "(WebSearch) stores like garage clothing",
+      "position": null,
+      "url": "https://garageclothing.knoji.com/alternatives/",
+      "kept": false,
+      "why_dropped": "auto-generated alternatives list (dropped the same way on talbots)"
+    },
+    {
+      "keyword": "(WebSearch) stores like garage clothing",
+      "position": null,
+      "url": "https://www.garde-robe.com/blog-posts/garage-clothing",
+      "kept": false,
+      "why_dropped": "read 2026-10-29: a wishlist brand page; its 'More brands' list is alphabetical, not alternatives"
+    },
+    {
+      "keyword": "(WebSearch) stores like garage clothing",
+      "position": null,
+      "url": "https://www.theteenmagazine.com/trendy-and-affordable-where-teens-shop-beyond-brandy-melville",
+      "kept": false,
+      "why_dropped": "Brandy Melville alternatives that name Garage; not alternatives to Garage"
+    },
+    {
+      "keyword": "(disco directory)",
+      "position": null,
+      "url": "https://www.discobrands.co/brands/garage",
+      "kept": false,
+      "why_dropped": "read 2026-10-29: the disco profile says it has no ranked alternatives for Garage yet; no Garage list in its sitemap (6,227 URLs)"
+    },
+    {
+      "keyword": "(WebSearch) stores like garage clothing",
+      "position": null,
+      "url": "https://www.apartstyle.com/post/brands-like-garage-clothing",
+      "kept": false,
+      "why_dropped": "apartstyle.com never counts (README)"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": null,
+      "url": null,
+      "used": false,
+      "why": "Garage sells only its own label through its own stores and site; no multi-brand retailer category page stocking it was found (Lyst lists its products as an aggregator, not a stockist)."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Dynamite",
+      "slug": "dynamite",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.collegefashion.net/shopping/clothing-stores-for-teens/"
+        }
+      ]
+    },
+    {
+      "name": "Shein",
+      "slug": "shein",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Pixie Market",
+      "slug": "pixie-market",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "rue21",
+      "slug": "rue21",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Urban Planet",
+      "slug": "urban-planet",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Loungewear by Urban Outfitters",
+      "slug": "loungewear-by-urban-outfitters",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Aeropostale",
+      "slug": "aeropostale",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Angel Blue",
+      "slug": "angel-blue",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "BDG",
+      "slug": "bdg",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Justice",
+      "slug": "justice",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Notations",
+      "slug": "notations",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "PacSun",
+      "slug": "pacsun",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Happy Wear Co.",
+      "slug": "happy-wear-co",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "YesStyle",
+      "slug": "yesstyle",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "66girls",
+      "slug": "66girls",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Missguided",
+      "slug": "missguided",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Princess Polly",
+      "slug": "princess-polly",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "BDG",
+      "slug": "bdg-by-urban-outfitters",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Cider",
+      "slug": "cider",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Forever 21",
+      "slug": "forever-21",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Hyperland Kids",
+      "slug": "hyperland-kids",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Jessica Simpson",
+      "slug": "jessica-simpson",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Merry Go Round",
+      "slug": "merry-go-round",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "PINK by Victoria's Secret",
+      "slug": "pink-by-victoria-s-secret",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "ROMWE",
+      "slug": "romwe",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Tees.com",
+      "slug": "tees-com",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Tobi",
+      "slug": "tobi",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "ZAFUL",
+      "slug": "zaful",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Urban Classics",
+      "slug": "urban-classics",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Southern Fried Chics",
+      "slug": "southern-fried-chics",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Aéropostale",
+      "slug": "a-ropostale",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Cotton On",
+      "slug": "cotton-on",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Quiz Clothing",
+      "slug": "quiz-clothing",
+      "in_apart_pool": true,
+      "sources": []
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "result": "32 rows for garage: Shein, Pixie Market, rue21, Urban Planet, Loungewear by Urban Outfitters, Aeropostale, Angel Blue, BDG, Justice, Notations, PacSun, Happy Wear Co., YesStyle, 66girls, Missguided, Princess Polly, BDG (bdg-by-urban-outfitters), Cider, Forever 21, Hyperland Kids, Jessica Simpson, Merry Go Round, PINK by Victoria's Secret, ROMWE, Tees.com, Tobi, ZAFUL, Urban Classics, Southern Fried Chics, Aéropostale, Cotton On, Quiz Clothing. None has an outside source naming it as an alternative to Garage, so none was checked."
+  },
+  "picks": [],
+  "rejected": [
+    {
+      "slug": "dynamite",
+      "why": "1 source (College Fashion: 'Garage's sister store, Dynamite, is a bit more elevated'). Status verified from groupedynamite.com, but dynamiteclothing.com/us/ returns 403, so no sweatpants price, no ships_to, and us_stores not stated in text. Can't pass the gate. Also the same parent company as the anchor."
+    },
+    {
+      "slug": "(Apart Style pool, no outside source)",
+      "why": "Shein, Urban Planet, rue21, Aeropostale, PacSun, Princess Polly, Cider, Forever 21, Cotton On, Missguided and 22 others: in public.brand_relationships only; no fetched outside page recommends them as alternatives to Garage."
+    },
+    {
+      "slug": "(not counted: competitor data)",
+      "why": "Similarweb, Semrush, Owler, Instya and SimilarSiteSearch name Edikted, Dynamite, Aritzia, Hollister, Princess Polly, Cotton On and others from traffic overlap or scraping. Not editorial recommendations (dropped the same way on coldwater-creek, aelfric-eden, zumiez, talbots)."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "Reddit threads",
+      "url": "https://www.reddit.com/r/garageclothing/comments/1r3v7l4/similar_stores/",
+      "check": "r/garageclothing 'similar stores?' ranks #1-2 for 'stores like garage', and '.../1tlg2hv/' asks for going-out tops similar to Garage. WebFetch refuses reddit.com. These are the main outside evidence for this keyword; a human read would supply the candidate list."
+    },
+    {
+      "fact": "Garage store facts",
+      "url": "https://www.garageclothing.com/us/",
+      "check": "The store returns 403 to the bot UA and WebFetch. Record known_for, size range, US shipping and returns, and regular-price sweatpants (the /us/g/clothing/sweatsuits/sweatpants/ page) to complete the anchor."
+    },
+    {
+      "fact": "Dynamite US stores and prices",
+      "url": "https://www.dynamiteclothing.com/us/",
+      "check": "Also 403. Its store locator would settle us_stores (the investor chart suggests 2 US stores)."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": null,
+  "notes": [
+    "No page copy written: zero picks pass enrich.md §3, so there is nothing to write bodies for, and a page with no copy.intro is not built (lib/pipeline.ts pageFromJson). Not padded.",
+    "Evidence: the 'stores like garage' SERP is Reddit, Facebook, TikTok, similist and Similarweb; 'brands like garage' is mostly off-topic; 'garage alternatives' is about car garages; 'similar to garage' has no SERP. WebSearch (8 queries) found one editorial sentence (College Fashion, Dynamite) and no editorial 'stores like Garage' list. The disco directory has a Garage profile but no alternatives.",
+    "Ahrefs: 4 serp-overview calls, 2 site-explorer-top-pages calls (category choice; the first used the non-www host and returned 1 row). No keywords-explorer call (no copy written).",
+    "No secondhand or thrift shops among the candidates."
+  ],
+  "author": "Ash"
+}

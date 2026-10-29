@@ -1,0 +1,40 @@
+{
+  "slug": "woman-within",
+  "name": "Woman Within",
+  "website_url": "https://www.womanwithin.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Comfortable Casual Plus Size Clothing",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": "FullBeauty Brands",
+  "size_range": "12W–44W and S–8X",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 60,
+  "us_stores": null,
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://www.womanwithin.com/",
+    "https://www.womanwithin.com/w/dresses/",
+    "https://www.womanwithin.com/help-page?cid=ww-custservice-returns"
+  ],
+  "notes": [
+    "2026-10-29 (rainbow page run, WebFetch): live store. Homepage 'Comfortable & Casual Plus Size Clothing for Women', 'sizes 12W to 44W or S to 8X'; meta 'Colorful, comfortable basics at low prices for plus size women.' Footer: 'WOMAN WITHIN® is a registered trademark of FullBeauty Brands Operations, LLC.' Free standard shipping only via a credit-card code ($75 minimum, up to 4 times a year).",
+    "Dresses page (https://www.womanwithin.com/w/dresses/): 558 items; every rendered tile marked down (e.g. Thermal Knit A-Line Dress $44.39, was $73.99), so no regular-price range; dresses in sells_categories from this page.",
+    "Returns: 60 days from ship date (US); free as an e-gift card, $10.99 deducted for a refund to the original payment; mail returns go to FullBeauty Brands, Indianapolis, IN (hq_country US)."
+  ],
+  "checked_at": "2026-10-29"
+}

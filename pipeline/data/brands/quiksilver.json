@@ -1,0 +1,52 @@
+{
+  "name": "Quiksilver",
+  "website_url": "https://www.quiksilver.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Surf and Snowboard Clothing",
+  "hq_country": "US",
+  "founded_year": 1969,
+  "parent_company": "Authentic Brands Group",
+  "size_range": "Waists 28–44",
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 125,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "boardshorts",
+      "currency": "USD",
+      "min": 54.0,
+      "max": 118.0,
+      "min_usd": 54.0,
+      "max_usd": 118.0,
+      "fx_date": null,
+      "item_count": 50,
+      "source_url": "https://www.quiksilver.com/collections/mens-clothing-boardshorts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: men's boardshorts (fixed-waist boardshorts and volleys the store files as boardshorts). Whole collection from the public Shopify feed https://www.quiksilver.com/collections/mens-clothing-boardshorts/products.json?limit=250: 111 products, 78 kept as adult boardshorts, 28 with a compare-at price above the price (markdowns, excluded), 50 at regular price. Min: Surfsilk Kaimana 20\" Boardshorts - Black $54.00; max: FAHERTY X QUIKSILVER BOARDSHORT - TREE FROG $118.00. Surfsilk Kaimana 20\" fabric: 53% partially recycled REPREVE polyester, 35% partially recycled polyester, 12% spandex. Waists 28–40 on all 50, 42 on 45, 44 on 43."
+    }
+  ],
+  "sells_categories": [
+    "boardshorts"
+  ],
+  "notes": [
+    "Homepage title 'Quiksilver | Surf & Snowboard Clothing'; meta 'Created by surfers since 1969'. known_for from the title.",
+    "Shipping page: Free Ground Shipping over $125 for the contiguous US; Standard 5–7 business days $10.00; Hawaii/Alaska $25.00; Canada Economy $58.00 CAD; no P.O. boxes or APO/FPO; wetsuits excluded from free shipping.",
+    "Refund policy: '30 day Return Period' from the original ship date (45 days for Nov 18–Dec 25 orders); '$7.50 restocking fee applied to all returns & exchanges'; exchanges and prepaid labels US only. Same terms, wording and store layout as billabong.com.",
+    "Wikipedia (Quiksilver): founded 1969 in Torquay, Victoria by Alan Green and John Law; now based in Huntington Beach, California; Authentic Brands Group bought Boardriders in 2023; after the 2025 Liberated Brands bankruptcy the North American men's license went to O5 Apparel."
+  ],
+  "sources": [
+    "https://www.quiksilver.com/",
+    "https://www.quiksilver.com/collections/mens-clothing-boardshorts/products.json?limit=250",
+    "https://www.quiksilver.com/pages/shipping",
+    "https://www.quiksilver.com/policies/refund-policy",
+    "https://www.quiksilver.com/pages/quiksilver-history",
+    "https://en.wikipedia.org/wiki/Quiksilver",
+    "https://www.quiksilver.com/products/surfsilk-kaimana-20-qsm15bs029-blk.json"
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "quiksilver"
+}

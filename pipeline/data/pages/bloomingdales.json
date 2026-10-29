@@ -1,0 +1,1136 @@
+{
+ "subject": "Bloomingdale's",
+ "slug": "bloomingdales",
+ "url_prefix": "stores",
+ "category": {
+  "slug": "womens-clothing",
+  "name": "Women's Clothing",
+  "why": "Bloomingdale's is a multi-brand department store (kind retailer), so C is the department most of its 'stores like' searches are about, the usual womens-clothing per run-page.md. The kept lists are general and mostly women's fashion lists (ClothedUp, The Zoe Report, ViralTalky, BestChinaProducts; Effortless Gent is the men's one), and Women's Apparel is its own sales line in the Macy's, Inc. 10-K. Like-for-like item for prices: women's jeans, as on the Nordstrom and Macy's pages. Bloomingdale's own price is unreadable (403), so every price_relation is null; stores without readable ranges render without a price via sells_categories."
+ },
+ "checked_at": "2026-10-29",
+ "fx": null,
+ "serp": [
+  {
+   "keyword": "stores like bloomingdales",
+   "position": 1,
+   "url": "https://effortlessgent.com/stores-like-bloomingdales/",
+   "kept": true,
+   "note": "AI-overview sitelink (also #6 organic); read: Team EG, published Dec 9 2021, updated Aug 17 2023; 12 numbered stores, men's-leaning list"
+  },
+  {
+   "keyword": "stores like bloomingdales",
+   "position": 1,
+   "url": "https://similist.com/alternatives/stores-like-bloomingdales/",
+   "kept": false,
+   "why_dropped": "similist.com-style scraped list"
+  },
+  {
+   "keyword": "stores like bloomingdales",
+   "position": 1,
+   "url": "https://www.reddit.com/r/FrugalFemaleFashion/comments/nkrqd6/difference_between_nordstrom_bloomingdales_and/",
+   "kept": false,
+   "why_dropped": "reddit; WebFetch refuses reddit.com; not read (also #5 organic, and sitelinks r/LawBitchesWithTaste, r/malefashionadvice)"
+  },
+  {
+   "keyword": "stores like bloomingdales",
+   "position": 1,
+   "url": "https://www.quora.com/What-department-store-would-you-shop-at-Saks-Fifth-Avenue-Neiman-Marcus-Nordstrom-Macy-s-Bloomingdale-s-or-Barneys",
+   "kept": false,
+   "why_dropped": "AI-overview sitelink; quora.com returns 403 to WebFetch (Macy's page)"
+  },
+  {
+   "keyword": "stores like bloomingdales",
+   "position": 1,
+   "url": "https://www.youtube.com/watch?v=4MY3BZ-ixGs",
+   "kept": false,
+   "why_dropped": "video ranking of department stores, not a readable list"
+  },
+  {
+   "keyword": "stores like bloomingdales",
+   "position": 1,
+   "url": "https://www.have-clothes-will-travel.com/stores-like-nordstrom/",
+   "kept": false,
+   "why_dropped": "AI-overview sitelink; alternatives to Nordstrom, not Bloomingdale's"
+  },
+  {
+   "keyword": "stores like bloomingdales",
+   "position": 1,
+   "url": "https://www.bergdorfgoodman.com/",
+   "kept": false,
+   "why_dropped": "a store's homepage (also #4 organic); Bergdorf is a candidate on its own evidence"
+  },
+  {
+   "keyword": "stores like bloomingdales",
+   "position": 2,
+   "url": "https://www.bloomingdales.com/",
+   "kept": false,
+   "why_dropped": "the anchor's own site (also #9 designers page)"
+  },
+  {
+   "keyword": "stores like bloomingdales",
+   "position": 7,
+   "url": "https://10best.usatoday.com/awards/best-department-store/",
+   "kept": false,
+   "why_dropped": "reader-vote ranking, not alternatives (same call as the Nordstrom and Macy's pages)"
+  },
+  {
+   "keyword": "stores like bloomingdales",
+   "position": 8,
+   "url": "https://brandshoppernet.wordpress.com/2024/12/08/21-stores-like-nordstrom/",
+   "kept": false,
+   "why_dropped": "alternatives to Nordstrom, not Bloomingdale's"
+  },
+  {
+   "keyword": "stores like bloomingdales",
+   "position": 10,
+   "url": "https://styleyouroccasion.com/stores-like-neiman-marcus/",
+   "kept": false,
+   "why_dropped": "alternatives to Neiman Marcus, not Bloomingdale's"
+  },
+  {
+   "keyword": "brands like bloomingdales",
+   "position": null,
+   "url": null,
+   "kept": false,
+   "why_dropped": "Ahrefs serp-overview returned no rows"
+  },
+  {
+   "keyword": "bloomingdales alternatives",
+   "position": null,
+   "url": null,
+   "kept": false,
+   "why_dropped": "Ahrefs serp-overview returned no rows"
+  },
+  {
+   "keyword": "similar to bloomingdales",
+   "position": null,
+   "url": null,
+   "kept": false,
+   "why_dropped": "Ahrefs serp-overview returned no rows"
+  },
+  {
+   "keyword": "(WebSearch) stores like bloomingdale's",
+   "position": null,
+   "url": "https://viraltalky.com/stores-like-bloomingdales/",
+   "kept": true,
+   "note": "found by WebSearch; read: ViralTalky, Jan 7 2023, updated Jan 11 2023; 6 stores with a section each. Weak, anonymous"
+  },
+  {
+   "keyword": "(WebSearch) stores like bloomingdale's",
+   "position": null,
+   "url": "https://bestchinaproducts.com/stores-like-bloomingdales/",
+   "kept": true,
+   "note": "found by WebSearch; read: Lena Vos, Oct 5 2026; 10 stores with a paragraph each (notes Barneys closed 2019). Odd host name; kept as a weak editorial source"
+  },
+  {
+   "keyword": "(WebSearch) bloomingdale's vs nordstrom vs saks",
+   "position": null,
+   "url": "https://www.shopback.com/blog/fashion/nordstrom-vs-bloomingdales-vs-saks-us-2026-workwear",
+   "kept": true,
+   "note": "found by WebSearch; read: Mirabelle Chew, Fashion Editor, ShopBack, Aug 20 2026; head-to-head of Nordstrom, Bloomingdale's and Saks for workwear ('Nordstrom for breadth, Bloomingdale's for designer labels, Saks for suiting'). Counted for Nordstrom and Saks only; its value-tier, pre-owned and off-price mentions are not alternatives to Bloomingdale's"
+  },
+  {
+   "keyword": "(WebSearch) stores similar to bloomingdales",
+   "position": null,
+   "url": "https://www.thezoereport.com/p/6-stores-like-bloomingdales-that-will-have-every-area-of-your-wardrobe-covered-20509523",
+   "kept": true,
+   "note": "found by WebSearch; read: Ashley Kiely, The Zoe Report, updated Feb 20 2024 (orig. Jan 16 2020); 6 stores"
+  },
+  {
+   "keyword": "(WebSearch) stores similar to bloomingdales",
+   "position": null,
+   "url": "https://clothedup.com/stores-like-bloomingdales/",
+   "kept": true,
+   "note": "found by WebSearch; read: Dannica Ramirez, ClothedUp, Jan 31 2023; 10 stores with a section each"
+  },
+  {
+   "keyword": "(WebSearch)",
+   "position": null,
+   "url": "https://www.similarsitesearch.com/sites/bloomingdales/",
+   "kept": false,
+   "why_dropped": "scraped similar-sites list (also instya.com, similarstores.com, similarweb, cbinsights, owler, ahrefs competitors, jump.wordstream.com)"
+  },
+  {
+   "keyword": "(WebSearch)",
+   "position": null,
+   "url": "https://www.irreverentgent.com/stores-like-bloomingdales/",
+   "kept": false,
+   "why_dropped": "HTTP 404"
+  },
+  {
+   "keyword": "(WebSearch) site:discobrands.co bloomingdales",
+   "position": null,
+   "url": null,
+   "kept": false,
+   "why_dropped": "no disco directory page for Bloomingdale's found"
+  }
+ ],
+ "co_stocking": [
+  {
+   "retailer": null,
+   "url": null,
+   "used": false,
+   "why": "enrich.md §1.4b doesn't apply: Bloomingdale's is itself a multi-brand retailer."
+  }
+ ],
+ "candidates": [
+  {
+   "name": "Nordstrom",
+   "slug": "nordstrom",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://effortlessgent.com/stores-like-bloomingdales/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-bloomingdales/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://bestchinaproducts.com/stores-like-bloomingdales/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://www.shopback.com/blog/fashion/nordstrom-vs-bloomingdales-vs-saks-us-2026-workwear"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://clothedup.com/stores-like-bloomingdales/"
+    }
+   ]
+  },
+  {
+   "name": "Saks Fifth Avenue",
+   "slug": "saks-fifth-avenue",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://effortlessgent.com/stores-like-bloomingdales/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-bloomingdales/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://bestchinaproducts.com/stores-like-bloomingdales/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://www.shopback.com/blog/fashion/nordstrom-vs-bloomingdales-vs-saks-us-2026-workwear"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://clothedup.com/stores-like-bloomingdales/"
+    }
+   ]
+  },
+  {
+   "name": "Neiman Marcus",
+   "slug": "neiman-marcus",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-bloomingdales/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://bestchinaproducts.com/stores-like-bloomingdales/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://clothedup.com/stores-like-bloomingdales/"
+    }
+   ]
+  },
+  {
+   "name": "Bergdorf Goodman",
+   "slug": "bergdorf-goodman",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://effortlessgent.com/stores-like-bloomingdales/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://bestchinaproducts.com/stores-like-bloomingdales/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://clothedup.com/stores-like-bloomingdales/"
+    }
+   ]
+  },
+  {
+   "name": "Macy's",
+   "slug": "macys",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-bloomingdales/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://bestchinaproducts.com/stores-like-bloomingdales/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://clothedup.com/stores-like-bloomingdales/"
+    }
+   ]
+  },
+  {
+   "name": "Verishop",
+   "slug": "verishop",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://effortlessgent.com/stores-like-bloomingdales/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://bestchinaproducts.com/stores-like-bloomingdales/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://clothedup.com/stores-like-bloomingdales/"
+    }
+   ]
+  },
+  {
+   "name": "Shopbop",
+   "slug": "shopbop",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://bestchinaproducts.com/stores-like-bloomingdales/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://clothedup.com/stores-like-bloomingdales/"
+    }
+   ]
+  },
+  {
+   "name": "Farfetch",
+   "slug": "farfetch",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://effortlessgent.com/stores-like-bloomingdales/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://clothedup.com/stores-like-bloomingdales/"
+    }
+   ]
+  },
+  {
+   "name": "Harrods",
+   "slug": "harrods",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://effortlessgent.com/stores-like-bloomingdales/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://clothedup.com/stores-like-bloomingdales/"
+    }
+   ]
+  },
+  {
+   "name": "Barneys New York",
+   "slug": "barneys-new-york",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://effortlessgent.com/stores-like-bloomingdales/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-bloomingdales/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://bestchinaproducts.com/stores-like-bloomingdales/"
+    }
+   ]
+  },
+  {
+   "name": "Revolve",
+   "slug": "revolve",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-bloomingdales/"
+    }
+   ]
+  },
+  {
+   "name": "Lord & Taylor",
+   "slug": "lord-and-taylor",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://bestchinaproducts.com/stores-like-bloomingdales/"
+    }
+   ]
+  },
+  {
+   "name": "Century 21",
+   "slug": "century-21",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://bestchinaproducts.com/stores-like-bloomingdales/"
+    }
+   ]
+  },
+  {
+   "name": "Dover Street Market",
+   "slug": "dover-street-market",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.thezoereport.com/p/6-stores-like-bloomingdales-that-will-have-every-area-of-your-wardrobe-covered-20509523"
+    }
+   ]
+  },
+  {
+   "name": "FWRD",
+   "slug": "fwrd",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.thezoereport.com/p/6-stores-like-bloomingdales-that-will-have-every-area-of-your-wardrobe-covered-20509523"
+    }
+   ]
+  },
+  {
+   "name": "Intermix",
+   "slug": "intermix",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.thezoereport.com/p/6-stores-like-bloomingdales-that-will-have-every-area-of-your-wardrobe-covered-20509523"
+    }
+   ]
+  },
+  {
+   "name": "The Dreslyn",
+   "slug": "the-dreslyn",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.thezoereport.com/p/6-stores-like-bloomingdales-that-will-have-every-area-of-your-wardrobe-covered-20509523"
+    }
+   ]
+  },
+  {
+   "name": "W Concept",
+   "slug": "w-concept",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.thezoereport.com/p/6-stores-like-bloomingdales-that-will-have-every-area-of-your-wardrobe-covered-20509523"
+    }
+   ]
+  },
+  {
+   "name": "Need Supply",
+   "slug": "need-supply",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.thezoereport.com/p/6-stores-like-bloomingdales-that-will-have-every-area-of-your-wardrobe-covered-20509523"
+    }
+   ]
+  },
+  {
+   "name": "Ssense",
+   "slug": "ssense",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://effortlessgent.com/stores-like-bloomingdales/"
+    }
+   ]
+  },
+  {
+   "name": "Harvey Nichols",
+   "slug": "harvey-nichols",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://effortlessgent.com/stores-like-bloomingdales/"
+    }
+   ]
+  },
+  {
+   "name": "Mr Porter",
+   "slug": "mr-porter",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://effortlessgent.com/stores-like-bloomingdales/"
+    }
+   ]
+  },
+  {
+   "name": "Boden",
+   "slug": "boden",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://effortlessgent.com/stores-like-bloomingdales/"
+    }
+   ]
+  },
+  {
+   "name": "Reiss",
+   "slug": "reiss",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://effortlessgent.com/stores-like-bloomingdales/"
+    }
+   ]
+  },
+  {
+   "name": "Rent the Runway",
+   "slug": "rent-the-runway",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://clothedup.com/stores-like-bloomingdales/"
+    }
+   ]
+  },
+  {
+   "name": "Madewell",
+   "slug": "madewell",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "RE/DONE",
+   "slug": "re-done",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "A.L.C.",
+   "slug": "a-l-c",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Sézane",
+   "slug": "s-zane",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Arket",
+   "slug": "arket",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Cuyana",
+   "slug": "cuyana",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Rothy's",
+   "slug": "rothy-s",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Veja",
+   "slug": "vejas",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Kotn",
+   "slug": "kotn",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Uniqlo",
+   "slug": "uniqlo",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "The Fold",
+   "slug": "the-fold",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Everlane",
+   "slug": "everlane",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Quince",
+   "slug": "quince",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Gilt Groupe",
+   "slug": "gilt-groupe",
+   "in_apart_pool": true,
+   "sources": []
+  }
+ ],
+ "candidate_pool": {
+  "source": "public.brand_relationships (Apart Style, read-only)",
+  "result": "16 rows for public.brands 'bloomingdale-s': Madewell, RE/DONE, A.L.C., Sézane, Arket, Cuyana, Rothy's, Veja, Kotn, REVOLVE, Uniqlo, The Fold, Everlane, Quince, Neiman Marcus, Gilt Groupe. Revolve and Neiman Marcus are also outside-sourced (picks); the rest have no outside source. Pool only, never evidence."
+ },
+ "picks": [
+  {
+   "slug": "nordstrom",
+   "rank": 1,
+   "independent_sources": 5,
+   "single_source": false,
+   "store_type": "department store",
+   "price": null,
+   "price_relation": null,
+   "reason": "Nordstrom sells regular-price women's jeans from $20 to $835 in sizes 00–28W with petite and plus, ships free anywhere in the US and sets no time limit on returns.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://effortlessgent.com/stores-like-bloomingdales/",
+     "note": "#4: \"free shipping & free returns in the United States\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-bloomingdales/",
+     "note": "#1: \"a reputation for excellent customer service\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://bestchinaproducts.com/stores-like-bloomingdales/",
+     "note": "#1: \"a leading luxury department store\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://www.shopback.com/blog/fashion/nordstrom-vs-bloomingdales-vs-saks-us-2026-workwear",
+     "note": "head-to-head: \"Nordstrom for breadth\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://clothedup.com/stores-like-bloomingdales/",
+     "note": "#1: \"One of the OG fashion retailers\""
+    }
+   ],
+   "products_named": [
+    {
+     "name": "Madewell The Straight Super Stretch Jeans",
+     "price": 148,
+     "url": "https://www.nordstrom.com/browse/women/clothing/jeans",
+     "note": "from macys.json pick products_named (regular price)"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "saks-fifth-avenue",
+   "rank": 2,
+   "independent_sources": 5,
+   "single_source": false,
+   "store_type": "department store",
+   "price": null,
+   "price_relation": null,
+   "reason": "Saks Fifth Avenue is a luxury-fashion department store founded in 1924, with a New York flagship and stores in leading luxury markets, now part of Exemplar Luxury Group.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://effortlessgent.com/stores-like-bloomingdales/",
+     "note": "#1: \"famous for its broad selection of world-famous designer labels\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-bloomingdales/",
+     "note": "#2: \"known for its upscale atmosphere\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://bestchinaproducts.com/stores-like-bloomingdales/",
+     "note": "#3: \"a bastion of sophistication and luxury\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://www.shopback.com/blog/fashion/nordstrom-vs-bloomingdales-vs-saks-us-2026-workwear",
+     "note": "head-to-head: \"Saks for suiting\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://clothedup.com/stores-like-bloomingdales/",
+     "note": "#4: \"access to its many luxury brands and designers\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "neiman-marcus",
+   "rank": 3,
+   "independent_sources": 3,
+   "single_source": false,
+   "store_type": "department store",
+   "price": null,
+   "price_relation": null,
+   "reason": "Neiman Marcus has sold a curated assortment from the top luxury designers since 1907, through flagships such as Beverly Hills, its website and remote selling.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-bloomingdales/",
+     "note": "#5: \"wide variety of high-end clothing, accessories\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://bestchinaproducts.com/stores-like-bloomingdales/",
+     "note": "#2: \"a symbol of opulence and sophistication\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://clothedup.com/stores-like-bloomingdales/",
+     "note": "#2: \"Another veteran in the world of retail fashion\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "bergdorf-goodman",
+   "rank": 4,
+   "independent_sources": 3,
+   "single_source": false,
+   "store_type": "department store",
+   "price": null,
+   "price_relation": null,
+   "reason": "Bergdorf Goodman is a single New York store at Fifth Avenue and 57th Street since 1901, carrying leading and emerging designers in store and on BG.com.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://effortlessgent.com/stores-like-bloomingdales/",
+     "note": "#11: \"a premier destination for designer collections\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://bestchinaproducts.com/stores-like-bloomingdales/",
+     "note": "#5: \"high-end fashion and accessories\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://clothedup.com/stores-like-bloomingdales/",
+     "note": "#10: \"style, service, and modern luxury\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "macys",
+   "rank": 5,
+   "independent_sources": 3,
+   "single_source": false,
+   "store_type": "department store",
+   "price": null,
+   "price_relation": null,
+   "reason": "Macy's is Bloomingdale's sister store under Macy's, Inc., with 408 locations, fashion, beauty and home, house labels like Charter Club and 300-plus Backstage off-price shops.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-bloomingdales/",
+     "note": "#4: \"a wide range of products at various price points\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://bestchinaproducts.com/stores-like-bloomingdales/",
+     "note": "#6: \"a mix of high-end and affordable fashion\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://clothedup.com/stores-like-bloomingdales/",
+     "note": "#3: \"a one-stop shop\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "shopbop",
+   "rank": 6,
+   "independent_sources": 2,
+   "single_source": false,
+   "store_type": "online multi-brand store",
+   "price": null,
+   "price_relation": null,
+   "reason": "Shopbop sells 946 regular-price women's jeans from $78 to $1,550, ships free in the US with no minimum and also ships to Canada, the UK and Australia.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://bestchinaproducts.com/stores-like-bloomingdales/",
+     "note": "#10: \"an online retailer specializing in luxury fashion for women\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://clothedup.com/stores-like-bloomingdales/",
+     "note": "#7: online global retailer, emerging to luxury brands"
+    }
+   ],
+   "products_named": [
+    {
+     "name": "Free People Breezy Denim Pull On Jeans",
+     "price": 78,
+     "url": "https://www.shopbop.com/clothing-jeans/br/v=1/13377.htm",
+     "note": "shopbop.json price note (regular price)"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "century-21",
+   "rank": 7,
+   "independent_sources": 1,
+   "single_source": true,
+   "store_type": "off-price department store",
+   "price": null,
+   "price_relation": null,
+   "reason": "Century 21 is a family-owned off-price store in Lower Manhattan since 1961, selling designer labels at up to 65% off MSRP, with hundreds of women's brands in store only.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://bestchinaproducts.com/stores-like-bloomingdales/",
+     "note": "#8: \"discounted designer merchandise\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "lord-and-taylor",
+   "rank": 8,
+   "independent_sources": 1,
+   "single_source": true,
+   "store_type": "online department store",
+   "price": null,
+   "price_relation": null,
+   "reason": "Lord & Taylor, founded in 1826 and online-only since 2020, sells regular-price women's jeans from $234.90 to $3,165.90, with 14-day returns and delivery to the 48 contiguous states.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://bestchinaproducts.com/stores-like-bloomingdales/",
+     "note": "#7: \"one of the oldest luxury department stores in the United States\""
+    }
+   ],
+   "products_named": [
+    {
+     "name": "Sunflower Wide Twist Jeans",
+     "price": 234.9,
+     "url": "https://www.lordandtaylor.com/collections/jeans-denim/products.json",
+     "note": "lord-and-taylor.json price note (regular price)"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "dover-street-market",
+   "rank": 9,
+   "independent_sources": 1,
+   "single_source": true,
+   "store_type": "multi-brand designer store",
+   "price": null,
+   "price_relation": null,
+   "reason": "Dover Street Market is a Comme des Garçons-led designer store with New York and Los Angeles stores and a US e-shop selling regular-price women's jeans from $358 to $4,220.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.thezoereport.com/p/6-stores-like-bloomingdales-that-will-have-every-area-of-your-wardrobe-covered-20509523",
+     "note": "#1: \"a curated edit of uber-cool designer clothing\""
+    }
+   ],
+   "products_named": [
+    {
+     "name": "Marc Jacobs Women's Wide Leg Jean",
+     "price": 358,
+     "url": "https://shop-us.doverstreetmarket.com/collections/womens/products.json?limit=250"
+    },
+    {
+     "name": "The Row Women's Dinni Jean",
+     "price": 990,
+     "url": "https://shop-us.doverstreetmarket.com/collections/womens/products.json?limit=250"
+    },
+    {
+     "name": "Versace Women's Embroidered Straight Jeans",
+     "price": 4220,
+     "url": "https://shop-us.doverstreetmarket.com/collections/womens/products.json?limit=250"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "fwrd",
+   "rank": 10,
+   "independent_sources": 1,
+   "single_source": true,
+   "store_type": "online multi-brand store",
+   "price": null,
+   "price_relation": null,
+   "reason": "FWRD is Revolve Group's online luxury store, selling designer women's jeans such as KHAITE's Danielle Straight Leg ($620), with free two-day US shipping and 30-day returns.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.thezoereport.com/p/6-stores-like-bloomingdales-that-will-have-every-area-of-your-wardrobe-covered-20509523",
+     "note": "#5: \"designer closet staples to the newest trends\""
+    }
+   ],
+   "products_named": [
+    {
+     "name": "GRLFRND Bella Low Rise Boyfriend",
+     "price": 235,
+     "url": "https://www.fwrd.com/category-denim/2664ce/",
+     "note": "regular price on the rendered page"
+    },
+    {
+     "name": "KHAITE Danielle Straight Leg",
+     "price": 620,
+     "url": "https://www.fwrd.com/category-denim/2664ce/",
+     "note": "regular price on the rendered page"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "revolve",
+   "rank": 11,
+   "independent_sources": 1,
+   "single_source": true,
+   "store_type": "online multi-brand store",
+   "price": null,
+   "price_relation": null,
+   "reason": "Revolve sells designer denim from AGOLDE and FRAME in sizes XXS–4X with waists 24–48, with free US shipping and returns, 30 days for a refund or 60 for an exchange.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://viraltalky.com/stores-like-bloomingdales/",
+     "note": "#3: \"known for its trendy, fashionable products\""
+    }
+   ],
+   "products_named": [
+    {
+     "name": "AGOLDE 90's Pinch Waist Jeans",
+     "price": 208,
+     "url": "https://www.revolve.com/jeans/br/2664ce/",
+     "note": "from nordstrom.json pick products_named (regular price)"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  }
+ ],
+ "rejected": [
+  {
+   "slug": "verishop",
+   "why": "3 sources, but verishop.com still redirects to a password page (verishop.com/password, title 'Verishop'); not a live store (same as the Nordstrom page)."
+  },
+  {
+   "slug": "farfetch",
+   "why": "marketplace (boutiques and brands), not a store; farfetch.com also 403 to the bot UA. 2 sources. Same call as the Nordstrom page."
+  },
+  {
+   "slug": "harrods",
+   "why": "unverified: harrods.com/en-us HTTP 403. 2 sources; London store."
+  },
+  {
+   "slug": "barneys-new-york",
+   "why": "3 sources, but BestChinaProducts itself says it ceased operations in 2019 and Effortless Gent lists 'Barneys at Saks'; barneys.com timed out. Not a live store; not pursued."
+  },
+  {
+   "slug": "intermix",
+   "why": "live Shopify store, but the homepage banner still reads 'Final Sale on All Products' (same as the Nordstrom page); not a pick. 1 source."
+  },
+  {
+   "slug": "the-dreslyn",
+   "why": "thedreslyn.com 301-redirects to an unrelated .id domain; no store. 1 source."
+  },
+  {
+   "slug": "w-concept",
+   "why": "unverified: WebFetch 403; curl gets a JavaScript app with women's categories but no readable shipping or returns terms, so US availability can't be stored. 1 source."
+  },
+  {
+   "slug": "need-supply",
+   "why": "defunct: needsupply.com shows only 'Need Supply Co.' and '1996-2020'. 1 source."
+  },
+  {
+   "slug": "ssense",
+   "why": "unverified: ssense.com HTTP 403 (bot challenge). 1 source (men's list)."
+  },
+  {
+   "slug": "harvey-nichols",
+   "why": "unverified: harveynichols.com bot challenge / timeout. 1 source."
+  },
+  {
+   "slug": "mr-porter",
+   "why": "menswear-only store (doesn't sell women's clothing); mrporter.com 403. 1 source."
+  },
+  {
+   "slug": "boden",
+   "why": "single-brand label, not a multi-brand store (same call as the Nordstrom page). 1 source."
+  },
+  {
+   "slug": "reiss",
+   "why": "single-brand label, not a multi-brand store. 1 source."
+  },
+  {
+   "slug": "rent-the-runway",
+   "why": "rental model, not a store selling new stock (same call as the Windsor page). 1 source."
+  },
+  {
+   "slug": "apart-pool-single-brands",
+   "why": "Madewell, RE/DONE, A.L.C., Sézane, Arket, Cuyana, Rothy's, Veja, Kotn, Uniqlo, The Fold, Everlane, Quince, Gilt Groupe: Apart Style pool only, no outside source naming them as an alternative to Bloomingdale's."
+  }
+ ],
+ "human_check": [
+  {
+   "fact": "anchor sizes, shipping, returns, women's jeans price range",
+   "url": "https://www.bloomingdales.com/shop/womens-apparel/jeans-denim?id=1003253",
+   "check": "bloomingdales.com (homepage, women's jeans, customer-service return article) returns 403 to WebFetch and the bot UA. In a browser: regular-price min/max for women's jeans, size range (petite/plus), free-shipping threshold, US/international shipping, return window. Until then the gate reports 'anchor missing: sizeRange, shipsTo, returnsDays, price:womens-clothing' and the page can't index."
+  },
+  {
+   "fact": "evidence mostly from WebSearch, not the Ahrefs SERP",
+   "url": "https://effortlessgent.com/stores-like-bloomingdales/",
+   "check": "Only 'stores like bloomingdales' returned Ahrefs rows; its one readable editorial list was Effortless Gent. The other five lists (ViralTalky, BestChinaProducts, ShopBack, The Zoe Report, ClothedUp) were found with WebSearch, as on the Macy's page. Confirm acceptable, or re-run Ahrefs with the apostrophe spellings."
+  },
+  {
+   "fact": "weak sources",
+   "url": "https://bestchinaproducts.com/stores-like-bloomingdales/",
+   "check": "BestChinaProducts (odd host for a fashion list) and ViralTalky (anonymous) are low-quality. BestChinaProducts is the only source for Century 21 and Lord & Taylor; ViralTalky the only one for Revolve. Editorial call whether they count."
+  },
+  {
+   "fact": "ShopBack counted as evidence",
+   "url": "https://www.shopback.com/blog/fashion/nordstrom-vs-bloomingdales-vs-saks-us-2026-workwear",
+   "check": "A three-way comparison (Nordstrom vs Bloomingdale's vs Saks for workwear) rather than a 'stores like' list; counted for Nordstrom and Saks only. Neither pick depends on it."
+  },
+  {
+   "fact": "stores that refuse reads: Bloomingdale's, Saks, Neiman Marcus, Bergdorf Goodman, Macy's",
+   "url": "https://www.saksfifthavenue.com/",
+   "check": "Verified from parent sources on earlier pages; render without prices. Neiman 'sells women's clothing' is still the open check from the Nordstrom page."
+  }
+ ],
+ "notes": [
+  "11 picks pass enrich.md §3 (verified, sells women's clothing, ships to the US or has US stores, >=1 outside source, one checkable reason). Ranked by source count; ties within 3 sources by store type (department stores first), and the single-source picks with department stores first (Century 21, Lord & Taylor), then the multi-brand designer stores (Dover Street Market, FWRD, Revolve). Anchor price unreadable, so every price_relation is null and there's no price-closeness tiebreak.",
+  "Evidence: 6 editorial pages read (Effortless Gent from the Ahrefs SERP; ViralTalky, BestChinaProducts, ShopBack, The Zoe Report, ClothedUp from WebSearch). Only 'stores like bloomingdales' returned Ahrefs rows; the other three keywords returned none.",
+  "New brand files this run: fwrd, dover-street-market, century-21. Anchor bloomingdales got a 403 note. Reused unchanged: nordstrom, saks-fifth-avenue, neiman-marcus, bergdorf-goodman, macys, shopbop, revolve, lord-and-taylor.",
+  "Copy facts not in brand files: Madewell The Straight Super Stretch $148 (macys.json pick products_named, from the Nordstrom jeans page); AGOLDE 90's Pinch Waist $208 (nordstrom.json products_named); Saks OFF 5TH shutting (saks-off-5th.json); Last Call redirect (neiman-marcus-last-call.json); Bloomingdale's 'upscale, premium contemporary-to-luxury' and Macy's private labels and ~150 planned closures (macys.json notes, Macy's, Inc. 10-K); Bloomie's 4 and Outlet 25 (bloomingdales.json notes)."
+ ],
+ "author": "Ash",
+ "copy": {
+  "intro": "You like how Bloomingdale's carries the big luxury designers and newer contemporary labels in one store. But the nearest of its 32 stores might be a long drive, or you want to see who else stocks the same mix. These stores do. Department stores come first, then the off-price and online shops people use for the same reasons, each with a note on who it suits.",
+  "bodies": {
+   "nordstrom": "Nordstrom is the closest match if you like how Bloomingdale's puts contemporary labels and designers under one roof. It does the same with women's jeans, from $20 up to $835, and Madewell's The Straight Super Stretch ($148) sits right in the middle.\n\nTwo things make it easy to buy from home. Shipping is free anywhere in the US with no minimum, and there's no time limit on returns. Sizes run from 00 to 28W, with petite and plus, so it's a good first stop if you need either.\n\nIt's also easier to find, with more than 350 locations across Nordstrom, Nordstrom Local and Nordstrom Rack. Rack is the off-price side, the same job The Outlet does for Bloomingdale's.",
+   "saks-fifth-avenue": "Saks Fifth Avenue is the pick if the luxury end of Bloomingdale's is where you spend most of your time. Luxury fashion is the whole business here, sold since 1924 from a New York flagship and stores in the big luxury markets.\n\nThat's the main difference. Bloomingdale's runs from contemporary labels up to luxury, with its own private labels in the mix, while Saks stays at the top of that range. If you mostly buy denim labels like MOTHER and AGOLDE, Shopbop or Revolve will suit you better.\n\nSaks now belongs to Exemplar Luxury Group, the company formerly called Saks Global, alongside Neiman Marcus and Bergdorf Goodman. Its outlet website, Saks OFF 5TH, is shutting down, though some OFF 5TH stores remain open.",
+   "neiman-marcus": "Neiman Marcus is our pick if you mostly shop Bloomingdale's designer labels, because its assortment is built from the top luxury houses. It's been at it since 1907, and its fall campaign runs through Altuzarra and Dries Van Noten.\n\nYou don't need a store nearby to shop it. Besides its stores, Neiman sells online and through remote selling, and the stores include flagships like Beverly Hills and NorthPark.\n\nIt no longer runs a separate outlet of its own. Last Call, the old outlet site, now sends you to Neiman's own sale section. If outlet shopping is half the reason you like Bloomingdale's, Century 21 is the off-price designer stop on this list.",
+   "bergdorf-goodman": "Bergdorf Goodman is the New York choice for designer labels. It's been a landmark at Fifth Avenue and 57th Street since 1901, with a women's store and a men's store on Fifth Avenue.\n\nThe mix runs from leading names like Brunello Cucinelli and Michael Kors Collection to emerging designers. Outside New York, BG.com carries collections for women and men, so Manhattan isn't the only way in. Its 125th year brings anniversary exclusives from Akris and Roger Vivier.\n\nIt's a single store, where Bloomingdale's has 32. So if you'd rather try the same kind of designers somewhere closer to home, Neiman Marcus, its sister under Exemplar Luxury Group, has flagships in other cities.",
+   "macys": "Macy's is Bloomingdale's sister store and the easiest one on this list to reach, with 408 locations to Bloomingdale's 32. Both belong to Macy's, Inc., which runs Bloomingdale's as its upscale, contemporary-to-luxury store.\n\nMacy's covers fashion, beauty and home, mixing outside brands with house labels such as Charter Club and I-N-C. Then there's Backstage, its off-price shop. More than 300 Backstage shops sit inside Macy's stores or stand on their own, so full price and markdowns can be one trip.\n\nCheck your nearest store before you plan a visit. Macy's, Inc. plans to close about 150 locations under its Bold New Chapter strategy. If yours is one of them, Nordstrom ships free across the US, so it's the easy backup.",
+   "shopbop": "Shopbop is the online pick if denim is what you buy most. Its regular-price jeans start at $78, for Free People's Breezy Denim Pull On Jeans, and MOTHER has more styles than any other label.\n\nIt's been part of Amazon since 2006, and it ships to Canada, the UK and Australia as well as the US, where shipping is free with no minimum. Sizes go from 00 to 24, with denim waists from 22 to 38.\n\nMove quickly on returns. They're free if you drop them off within 15 days of delivery, then $10 per order up to day 30. Nordstrom's no-deadline policy is kinder if you like to think it over.",
+   "century-21": "Century 21 is the off-price stop for designer labels, at up to 65% off their list price. It's one store, at 22 Cortlandt Street in Lower Manhattan, and it's been family-owned since cousins Al and Sonny Gindi started it in 1961.\n\nIts women's racks cover hundreds of labels, from FRAME and AGOLDE denim to Theory and Vince, and the big names run up to Gucci and Prada. New stock arrives daily in limited drops, so it rewards a regular visit more than a planned one.\n\nIt doesn't sell online. Returns happen in store within 30 days, with your receipt and a government-issued ID. If you can't get to Manhattan, Bloomingdale's own The Outlet has 25 stores coast to coast.",
+   "lord-and-taylor": "Lord & Taylor is the old Manhattan department store, founded in 1826, that now sells designer labels online only. It closed its stores in 2020. Regular-price jeans start at $234.90, for Sunflower's Wide Twist Jeans, and go past $3,000.\n\nGucci and Balenciaga are among its most-stocked denim labels, so it sits at the designer end of this list. Prices include import duties, which helps, because many of its partners ship from outside the US.\n\nThe fine print is strict. It delivers only to the 48 contiguous states, and returns close after 14 days, with a $24 label fee off your refund. If flexible returns matter, FWRD gives you 30 days and a free label.",
+   "dover-street-market": "Dover Street Market is for the far end of designer fashion, and it's built around Comme des Garçons. Its US e-shop runs out of DSM New York, and women's jeans start at $358, for Marc Jacobs' Wide Leg Jean.\n\nThe denim tells you what kind of store it is. The Row's Dinni Jean costs $990, and the top of the range is a pair of embroidered Versace jeans at $4,220. Past Comme des Garçons, the women's labels include Simone Rocha and Miu Miu.\n\nIt has US stores in New York and Los Angeles. Online, ground shipping is free over $125, and you get 14 days to send things back. That's half of Shopbop's 30, so decide fast.",
+   "fwrd": "FWRD is the luxury online store to try if you'd rather shop Bloomingdale's designer floor from the sofa. It belongs to Revolve Group, and its jeans run from GRLFRND's Bella Low Rise Boyfriend ($235) up to KHAITE's Danielle Straight Leg ($620) and beyond.\n\nThink of it as Revolve's designer-side sister. Revolve is the place for AGOLDE and FRAME, while FWRD reaches from couture houses to new names. US orders ship free in two days.\n\nReturns are easy, with 30 days for a refund or exchange and a free prepaid label on US orders. The sizes are narrower than Revolve's, though, stopping at XXL with waists up to 34. If you need bigger sizes, Revolve goes up to 4X.",
+   "revolve": "Revolve is the pick for designer denim in big waist sizes, from 24 all the way to 48 inches. It's built around labels like AGOLDE and FRAME, and the AGOLDE 90's Pinch Waist Jeans ($208) are an easy first pair.\n\nSizes run XXS to 4X. That's a wider range than Shopbop's or FWRD's, and it covers US 00 to 24–26. Shipping and returns are both free in the US, and it's been selling since 2003.\n\nYou get 30 days for a refund or 60 for an exchange, so it's the better bet if you often swap sizes. For pricier designer denim, FWRD is its sister site, with KHAITE and Isabel Marant on the rack."
+  },
+  "best_for": {
+   "nordstrom": "contemporary and designer jeans with no return deadline",
+   "saks-fifth-avenue": "luxury labels without the contemporary racks in between",
+   "neiman-marcus": "designer pieces from the big houses, shopped remotely",
+   "bergdorf-goodman": "designer labels from a Fifth Avenue landmark",
+   "macys": "brand names and house labels close to home",
+   "shopbop": "comparing designer denim online with free US shipping",
+   "century-21": "designer markdowns on a Lower Manhattan trip",
+   "lord-and-taylor": "Gucci and Balenciaga denim you're sure you'll keep",
+   "dover-street-market": "Comme des Garçons and The Row, in store or online",
+   "fwrd": "luxury jeans with free two-day US shipping",
+   "revolve": "AGOLDE and FRAME jeans in waists up to 48"
+  },
+  "closing": {
+   "heading": "How to choose",
+   "body": "Start with which half of Bloomingdale's you shop. For the whole department store, Nordstrom is the nearest match and the easiest to shop from home, while Macy's is the sister store most likely to be close by. For the designer floor, Saks and Neiman Marcus are the luxury stores to check, and Bergdorf Goodman is the New York splurge.\n\nIf you'd rather buy online, Shopbop and Revolve handle designer denim, with Revolve going up to a 48 waist, and FWRD is the step up to luxury. Dover Street Market is for Comme des Garçons fans. For markdowns, Century 21 is worth a Lower Manhattan trip, and Lord & Taylor suits designer buys you won't send back."
+  },
+  "faqs": [
+   {
+    "q": "Is Bloomingdale's owned by Macy's?",
+    "a": "Yes. Bloomingdale's belongs to Macy's, Inc., headquartered at 151 West 34th Street in New York. The same company runs Bloomingdale's The Outlet, the small Bloomie's stores and Macy's itself.",
+    "source_query": "is bloomingdales owned by macy's"
+   },
+   {
+    "q": "Is Bloomingdale's still in business?",
+    "a": "Yes. Macy's, Inc. counts 32 Bloomingdale's stores, 25 Bloomingdale's The Outlet stores and four small-format Bloomie's.",
+    "source_query": "is bloomingdales still in business"
+   },
+   {
+    "q": "Is Bloomingdale's high end?",
+    "a": "Yes, it's Macy's, Inc.'s upscale store. It runs from premium luxury designers to emerging contemporary labels and its own private labels, so big names share the floor with newer ones.",
+    "source_query": "is bloomingdales high end"
+   },
+   {
+    "q": "When was Bloomingdale's founded?",
+    "a": "Bloomingdale's dates its debut to 1872. Its tagline is still \"Like No Other Store in the World.\"",
+    "source_query": "when was bloomingdales founded"
+   }
+  ]
+ }
+}

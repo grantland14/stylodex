@@ -1,0 +1,50 @@
+{
+  "name": "Roxy",
+  "website_url": "https://www.roxy.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Surf, Snow and Fashion for Women",
+  "hq_country": "US",
+  "founded_year": 1990,
+  "parent_company": "Authentic Brands Group",
+  "size_range": "XS–XXL",
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 99,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "boardshorts",
+      "currency": "USD",
+      "min": 38.0,
+      "max": 48.0,
+      "min_usd": 38.0,
+      "max_usd": 48.0,
+      "fx_date": null,
+      "item_count": 7,
+      "source_url": "https://www.roxy.com/collections/boardshorts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: men's boardshorts (fixed-waist boardshorts and volleys the store files as boardshorts). Whole collection from the public Shopify feed https://www.roxy.com/collections/boardshorts/products.json?limit=250: 19 products, 13 kept as adult boardshorts, 6 with a compare-at price above the price (markdowns, excluded), 7 at regular price. Min: Endless Summer Boardshort $38.00; max: No Bad Waves $48.00. Women's boardshorts (Roxy sells women's only); bikini bottoms and plain shorts in the collection excluded. Endless Summer Boardshort ($38): 2\" inseam, fold-over waist, 4-way stretch. To Dye 7\" $46. XS–XXL on all 7."
+    }
+  ],
+  "sells_categories": [
+    "boardshorts"
+  ],
+  "notes": [
+    "Homepage title 'ROXY® | Surf, Snowboard & Fashion for Women & Girls'. known_for from the title.",
+    "Shipping policy table: Standard $7.99, free on orders $99+; Standard Canada $9.99, free on orders $125+; ships throughout the United States and Canada; no Puerto Rico, P.O. boxes or APO/FPO/DPO.",
+    "Refund policy: 'Roxy accepts returns of unworn merchandise with tags attached within 30 days of delivery'; customers pay return shipping.",
+    "Wikipedia (Quiksilver): Roxy launched in 1990 as Quiksilver's sister brand for young women; owned by Boardriders, which Authentic Brands Group bought in 2023; Roxy's US retail stores closed when Liberated Brands liquidated in 2025 (us_stores left empty)."
+  ],
+  "sources": [
+    "https://www.roxy.com/",
+    "https://www.roxy.com/collections/boardshorts/products.json?limit=250",
+    "https://www.roxy.com/policies/shipping-policy",
+    "https://www.roxy.com/policies/refund-policy",
+    "https://en.wikipedia.org/wiki/Quiksilver"
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "roxy"
+}

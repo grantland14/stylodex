@@ -1,0 +1,613 @@
+{
+  "subject": "Darc Sport",
+  "slug": "darc-sport",
+  "url_prefix": "brands",
+  "category": {
+    "slug": "tees",
+    "name": "Tees",
+    "why": "Tees are Darc Sport's largest product line: products.json (read 2026-10-29, 929 products) has product types 'Tee' (116) and 'She Tee' (118), ahead of shorts (71 men's, 82 women's) and hoodies (64 men's, 43 women's). Hoodies have no regular-price items at all. Same scope as the YoungLA page, which shares most picks: men's short-sleeve tees including muscle and oversized cuts; long-sleeve, tanks, stringers, polos, button-ups and jerseys excluded on every brand."
+  },
+  "serp": [
+    {
+      "keyword": "brands like darc sport",
+      "position": 1,
+      "url": "https://www.reddit.com/r/workout/comments/1o5ln25/gym_clothing_brands_that_look_sick_other_than/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "brands like darc sport",
+      "position": 1,
+      "url": "https://www.reddit.com/r/GYM/comments/pbqw44/good_gym_clothes_brands/",
+      "kept": false,
+      "why_dropped": "sitelink; general gym-brands thread, and WebFetch refuses reddit.com; not read"
+    },
+    {
+      "keyword": "brands like darc sport",
+      "position": 1,
+      "url": "https://www.reddit.com/r/GYM/comments/1x412ko/what_is_your_favorite_gym_brand_and_why/",
+      "kept": false,
+      "why_dropped": "sitelink; general favourite-brand thread, and WebFetch refuses reddit.com; not read"
+    },
+    {
+      "keyword": "brands like darc sport",
+      "position": 1,
+      "url": "https://www.google.com/search?q=brands+like+darc+sport+site:www.reddit.com",
+      "kept": false,
+      "why_dropped": "Google 'more results' sitelink, not a page"
+    },
+    {
+      "keyword": "brands like darc sport",
+      "position": 2,
+      "url": null,
+      "kept": false,
+      "why_dropped": "People Also Ask questions, no URL ('Is Darc Sport clothing good quality?', 'What are some clothing brands similar to Represent?', 'What type of shirt is Gymshark?', 'What are Gen Z wearing to the gym?'); none answerable from stored facts or on topic"
+    },
+    {
+      "keyword": "brands like darc sport",
+      "position": 3,
+      "url": "https://www.lemon8-app.com/experience/trendy-workout-clothes-from-darcsport?region=us",
+      "kept": false,
+      "why_dropped": "read: AI-overview page 'sourced from Lemon8 posts' about Darc Sport's own products; names no alternative brand"
+    },
+    {
+      "keyword": "brands like darc sport",
+      "position": 4,
+      "url": "https://www.facebook.com/groups/238620256823178/posts/1589985245019999/",
+      "kept": false,
+      "why_dropped": "Facebook group post (social, login), not read; general 'best gym brand' question"
+    },
+    {
+      "keyword": "brands like darc sport",
+      "position": 4,
+      "url": "https://www.facebook.com/groups/238620256823178/posts/1753786268639895/",
+      "kept": false,
+      "why_dropped": "Facebook sitelink (social, login), not read"
+    },
+    {
+      "keyword": "brands like darc sport",
+      "position": 4,
+      "url": "https://www.facebook.com/groups/238620256823178/posts/1602896170395573/",
+      "kept": false,
+      "why_dropped": "Facebook sitelink (social, login), not read"
+    },
+    {
+      "keyword": "brands like darc sport",
+      "position": 5,
+      "url": "https://www.tiktok.com/discover/similar-to-darc-sport",
+      "kept": false,
+      "why_dropped": "TikTok discover page (social), not read"
+    },
+    {
+      "keyword": "brands like darc sport",
+      "position": 6,
+      "url": "https://www.lemon8-app.com/experience/top-gym-clothing-brands?region=us",
+      "kept": false,
+      "why_dropped": "read: general 'best gym clothing brands' roundup, no byline; Darc Sport is grouped under one heading with Kill Crew and AYBL but no brand is recommended as an alternative to it"
+    },
+    {
+      "keyword": "brands like darc sport",
+      "position": 7,
+      "url": "https://www.facebook.com/groups/MauiAthletics/permalink/1327601847676046/",
+      "kept": false,
+      "why_dropped": "Facebook group post (social, login), not read"
+    },
+    {
+      "keyword": "brands like darc sport",
+      "position": 8,
+      "url": "https://wellworthy.com/brands-like-gymshark/",
+      "kept": false,
+      "why_dropped": "alternatives to Gymshark, not to Darc Sport"
+    },
+    {
+      "keyword": "brands like darc sport",
+      "position": 9,
+      "url": "https://www.lemon8-app.com/@kaylahyoungfit/7220141892636656134?region=us",
+      "kept": false,
+      "why_dropped": "read: creator's list of favourite gym brands with Darc Sport at #1; no brand framed as an alternative to it"
+    },
+    {
+      "keyword": "brands like darc sport",
+      "position": 10,
+      "url": "https://www.youtube.com/watch?v=EfCs7YefVvE",
+      "kept": false,
+      "why_dropped": "YouTube video about gym shorts (video), not read"
+    },
+    {
+      "keyword": "stores like darc sport",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview (US, 2026-10-29) returned no positions: no SERP data"
+    },
+    {
+      "keyword": "darc sport alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview (US, 2026-10-29) returned no positions: no SERP data"
+    },
+    {
+      "keyword": "similar to darc sport",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview (US, 2026-10-29) returned no positions: no SERP data"
+    },
+    {
+      "keyword": "brands like Darc Sport (web search, outside the Ahrefs top 10)",
+      "position": 1,
+      "url": "https://www.discobrands.co/blogs/7-brands-like-darc-sport",
+      "kept": true,
+      "why_dropped": null,
+      "note": "disco (discobrands.co), an independent brand directory; 'Reviewed by Dante Phillips, October 2026'; affiliate shop links. 9 brands (title says 7). Its brand page https://www.discobrands.co/brands/darc-sport lists the same 9 under 'brands like Darc Sport'; counted once."
+    },
+    {
+      "keyword": "brands like Darc Sport (web search)",
+      "position": null,
+      "url": "https://thingtesting.com/brands/darc-sport-athletics",
+      "kept": false,
+      "why_dropped": "read: 'Alternatives' tab with no brands listed"
+    },
+    {
+      "keyword": "brands like Darc Sport (web search)",
+      "position": null,
+      "url": "https://review.co-wheels.org.uk/star-base/darc-sport-causes-and-consequences-explained-1767648895",
+      "kept": false,
+      "why_dropped": "spam page on an unrelated domain (HTTP 404 on fetch); the same pattern repeats on vpn.bailiwickexpress.com, chat.unitedworkers.org.au, teleprompter.autocue.com, hrm.cmhlp.org; not editorial, no brands taken (the search summary's Raised By Wolves mention came from these)"
+    },
+    {
+      "keyword": "brands like Darc Sport (web search)",
+      "position": null,
+      "url": "https://www.apartstyle.com/author/ash-read?page=299",
+      "kept": false,
+      "why_dropped": "apartstyle.com never counts"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": null,
+      "url": "https://darcsport.com/",
+      "used": false,
+      "why": "No multi-brand retailer stocking Darc Sport turned up in the SERP or web search; it sells through its own store (darcsport.com). No co-stocking evidence."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "YoungLA",
+      "slug": "youngla",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/7-brands-like-darc-sport",
+          "note": "#1: \"Oversized hoodies and bodybuilding-cut tees arrive in monthly drops, built for lifters who wear their gym clothes out.\""
+        }
+      ]
+    },
+    {
+      "name": "Kill Crew",
+      "slug": "kill-crew",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/7-brands-like-darc-sport",
+          "note": "#2: \"Oversized graphic hoodies and gym-to-street staples carry the same loud, wear-it-anywhere lifting look.\""
+        }
+      ]
+    },
+    {
+      "name": "Vanquish Fitness",
+      "slug": "vanquish-fitness",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/7-brands-like-darc-sport",
+          "note": "#3: \"Oversized hoodies, stringer vests and joggers are made for bodybuilders and worn by a bodybuilding following.\""
+        }
+      ]
+    },
+    {
+      "name": "Alphalete",
+      "slug": "alphalete",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/7-brands-like-darc-sport",
+          "note": "#4: \"Hoodies and fitted training basics make up a creator-led gym wardrobe that crosses over into casual wear.\""
+        }
+      ]
+    },
+    {
+      "name": "Inaka Power",
+      "slug": "inaka-power",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/7-brands-like-darc-sport",
+          "note": "#5: \"Graphic training shorts, tees and fleece land in timed drops, the same drop-chasing gym habit.\""
+        }
+      ]
+    },
+    {
+      "name": "Gymshark",
+      "slug": "gymshark",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/7-brands-like-darc-sport",
+          "note": "#6: \"Its crest-branded oversized hoodie ranges give the same roomy, logo-forward fleece look alongside training gear.\""
+        }
+      ]
+    },
+    {
+      "name": "Gymreapers",
+      "slug": "gymreapers",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/7-brands-like-darc-sport",
+          "note": "#7: \"Lifting apparel built around oversized, crest-heavy hoodies speaks directly to the strength-training crowd.\""
+        }
+      ]
+    },
+    {
+      "name": "Ten Thousand",
+      "slug": "ten-thousand",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/7-brands-like-darc-sport",
+          "note": "#8: \"It covers the same training shorts, tops and joggers a lifter reaches for, aimed at hard gym sessions.\" (shop link goes to urbancred.com, a stockist)"
+        }
+      ]
+    },
+    {
+      "name": "ASRV",
+      "slug": "asrv",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/7-brands-like-darc-sport",
+          "note": "#9: \"Training tees, shorts and hoodies cover the same gym wardrobe, upgraded through fabric rather than artwork.\""
+        }
+      ]
+    },
+    {
+      "name": "Civil Regime",
+      "slug": "civil-regime",
+      "in_apart_pool": false,
+      "sources": []
+    }
+  ],
+  "picks": [
+    {
+      "slug": "kill-crew",
+      "rank": 1,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 40,
+        "max": 48,
+        "min_usd": 40,
+        "max_usd": 48,
+        "fx_date": null,
+        "item_count": 192
+      },
+      "price_relation": "similar",
+      "reason": "Kill Crew's full-price men's tees cost $40 to $48, either side of Darc Sport's $45, and every one comes in S to 5XL, with 30-business-day returns against Darc Sport's final sale.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/7-brands-like-darc-sport",
+          "note": "#2: \"Oversized graphic hoodies and gym-to-street staples carry the same loud, wear-it-anywhere lifting look.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "gymreapers",
+      "rank": 2,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 30,
+        "max": 58,
+        "min_usd": 30,
+        "max_usd": 58,
+        "fx_date": null,
+        "item_count": 127
+      },
+      "price_relation": "similar",
+      "reason": "Gymreapers sells skull-graphic lifting tees from $30 (Core Skull Shirt) to $58, from S to 2XL with many to 4XL, plus lifting belts and sleeves, and takes returns for 30 days.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/7-brands-like-darc-sport",
+          "note": "#7: \"Lifting apparel built around oversized, crest-heavy hoodies speaks directly to the strength-training crowd.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "inaka-power",
+      "rank": 3,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 50,
+        "max": 50,
+        "min_usd": 50,
+        "max_usd": 50,
+        "fx_date": null,
+        "item_count": 5
+      },
+      "price_relation": "pricier",
+      "reason": "Inaka Power's full-price tees are cropped and oversized cuts at $50, including a camo Off the Grid Cropped Tee, from a Sugar Land, Texas gym label whose main line is shorts.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/7-brands-like-darc-sport",
+          "note": "#5: \"Graphic training shorts, tees and fleece land in timed drops, the same drop-chasing gym habit.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "youngla",
+      "rank": 4,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 30,
+        "max": 48,
+        "min_usd": 30,
+        "max_usd": 48,
+        "fx_date": null,
+        "item_count": 92
+      },
+      "price_relation": "similar",
+      "reason": "YoungLA, a Los Angeles gym label that releases in limited quantities, sells men's tees at $30 to $48 in S to XXL, with free US shipping over $100 and 60-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/7-brands-like-darc-sport",
+          "note": "#1: \"Oversized hoodies and bodybuilding-cut tees arrive in monthly drops, built for lifters who wear their gym clothes out.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "vanquish-fitness",
+      "rank": 5,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "GBP",
+        "min": 20,
+        "max": 36,
+        "min_usd": 26.58,
+        "max_usd": 47.84,
+        "fx_date": "2026-10-28",
+        "item_count": 60
+      },
+      "price_relation": "similar",
+      "reason": "Vanquish Fitness, from London, prices its tees at £20 to £36 (about $27 to $48) in S to XXXL, Darc Sport's top size, with free US shipping over $110 and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/7-brands-like-darc-sport",
+          "note": "#3: \"Oversized hoodies, stringer vests and joggers are made for bodybuilders and worn by a bodybuilding following.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "gymshark",
+      "rank": 6,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 22,
+        "max": 46,
+        "min_usd": 22,
+        "max_usd": 46,
+        "fx_date": null,
+        "item_count": 36
+      },
+      "price_relation": "similar",
+      "reason": "Gymshark's US store sells men's tees from $22 (Crest T-Shirt) to $46 in XS to 3XL, with free US shipping over $75 and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/7-brands-like-darc-sport",
+          "note": "#6: \"Its crest-branded oversized hoodie ranges give the same roomy, logo-forward fleece look alongside training gear.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "ten-thousand",
+      "rank": 7,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 62,
+        "max": 88,
+        "min_usd": 62,
+        "max_usd": 88,
+        "fx_date": null,
+        "item_count": 8
+      },
+      "price_relation": "pricier",
+      "reason": "Ten Thousand, a New York training brand, sells a few short-sleeve training shirts at $62 to $88 in XS to XXL, with free shipping and free returns on US orders over $150.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/7-brands-like-darc-sport",
+          "note": "#8: \"It covers the same training shorts, tops and joggers a lifter reaches for, aimed at hard gym sessions.\" (shop link goes to urbancred.com, a stockist)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "asrv",
+      "rank": 8,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 68,
+        "max": 108,
+        "min_usd": 68,
+        "max_usd": 108,
+        "fx_date": null,
+        "item_count": 123
+      },
+      "price_relation": "pricier",
+      "reason": "ASRV's gym tees cost $68 to $108 and are sold by named fabric (AeroSilver, Supima, Tech-Waffle), in XS to XL with XXL on most, from Vista, California.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/7-brands-like-darc-sport",
+          "note": "#9: \"Training tees, shorts and hoodies cover the same gym wardrobe, upgraded through fabric rather than artwork.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "alphalete",
+      "why": "unverified: alphaleteathletics.com answered HTTP 403 to WebFetch again (2026-10-29), as it did to curl and WebFetch on the YoungLA run; not read, no workaround. 1 source (disco #4); would be a 9th pick after a human check."
+    },
+    {
+      "slug": "civil-regime",
+      "why": "no readable outside source recommends it as an alternative to Darc Sport. Shares Darc Sport's Torrance, CA store address per the YoungLA run; a sister label, not an alternative. No brand file."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "anchor price",
+      "url": "https://darcsport.com/products.json?limit=250",
+      "check": "923 of 929 products carry a compare-at markdown; only 5 short-sleeve tees, one design (Big Wolf Head), sell at a regular $45. The anchor tee price is a single point, so every pick's similar/pricier label is measured against $45. Keep $45, or treat the compare-at prices ($40-$75 on tees) as the list price? Rule says no."
+    },
+    {
+      "fact": "pick check: Alphalete",
+      "url": "https://alphaleteathletics.com/collections/mens-tops",
+      "check": "403 to WebFetch. Confirm store, regular-price men's tee range, sizes, shipping, returns; 1 source (disco #4); would be a 9th pick."
+    },
+    {
+      "fact": "evidence: Reddit threads",
+      "url": "https://www.reddit.com/r/workout/comments/1o5ln25/gym_clothing_brands_that_look_sick_other_than/",
+      "check": "Unfetchable. Read it and add any brand recommended as a Darc Sport alternative as kind=reddit evidence. Every pick rests on one source (disco), and the page has 8 picks, below the 10-15 target."
+    },
+    {
+      "fact": "Darc Sport known_for",
+      "url": "https://shop.darcsport.com/pages/our-story",
+      "check": "'Gym Apparel in Yearly Collections' (title: '8 Brands Like Darc Sport for Gym Apparel in Yearly Collections'). Our Story lists collections by year but no positioning line. Confirm wording."
+    },
+    {
+      "fact": "Ten Thousand free-shipping bar",
+      "url": "https://www.tenthousand.cc/pages/shipping-returns",
+      "check": "Policy pages say free shipping and free returns over $150 (stored); homepage meta says over $100. Copy uses $150 (same bar as Darc Sport, free returns past $150). Confirm."
+    },
+    {
+      "fact": "Inaka Power returns and shipping",
+      "url": "https://inakapower.com/pages/shipping-policies",
+      "check": "Still empty (placeholder policy page). Copy says nothing about its returns or free-shipping bar."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": {
+    "source": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+    "date": "2026-10-28",
+    "per_eur": {
+      "USD": 1.1133,
+      "GBP": 0.83785
+    },
+    "note": "Only Vanquish Fitness prices in GBP; its stored min_usd/max_usd use this rate (£1 = $1.32876), from the shared brand file."
+  },
+  "notes": [
+    "Anchor: verified. Tees $45 (5 regular-price short-sleeve tees, all Big Wolf Head); 923 of 929 products marked down on 2026-10-29. missingAnchorFacts leaves only image_url.",
+    "Evidence: one editorial page (disco) names 9 brands; it ranks outside the Ahrefs top 10 and was found by web search. Ahrefs returned SERP rows for 1 of 4 keywords (all 4 calls used). Lemon8 pages read; none frames a brand as an alternative. Reddit, Facebook, TikTok not read. No Apart Style pool rows for Darc Sport (public.brands has no Darc Sport row).",
+    "Brand files reused from the YoungLA run (all checked 2026-10-29). Only the darc-sport file was patched (price note, notes, sources).",
+    "8 picks pass enrich.md §3; all single-source, so ranked by distance between tee-range midpoints and Darc Sport's $45: Kill Crew 1, Gymreapers 1, Inaka Power 5, YoungLA 6, Vanquish 7.8, Gymshark 11, Ten Thousand 30, ASRV 43. Kill Crew before Gymreapers by disco's order.",
+    "8 is below the 10-15 target: no other outside source names an alternative. Not padded."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "You've found the wolf-head tee you want, then read Darc Sport's policy. Every order is final sale. If the size is off, it's yours anyway. So if you'd rather buy gym tees you can send back, or you need a size past 3XL, these eight brands make the same kind of lifting wear. Most give you at least 30 days for returns, and the closest to Darc Sport's $45 tee come first.",
+    "bodies": {
+      "kill-crew": "Kill Crew is the nearest match on price and the one to pick if 3XL isn't big enough. Its full-price tees cost $40 to $48, right around Darc Sport's $45, and every one is sold in S to 5XL. The Relaxed Fit Inner Demons Tour T-Shirt ($46) is a good first order.\n\nThe tees are sorted into cuts, athletic fit through oversized, plus a heavyweight Lux line. So shop by shape first, then by print. You get 30 business days to return, and free US shipping from $75, half of Darc Sport's $150 bar.\n\nWhere it falls short is the low end. Nothing at full price drops below $40, so for cheaper tees go to Gymreapers or Gymshark.",
+      "gymreapers": "Gymreapers is the skull-graphic answer to Darc Sport's wolf heads, and it starts lower. The Core Skull Shirt ($30) costs $15 less than Darc Sport's full-price tee, and the Skull Graphic Tees ($38) still come in under it.\n\nAt the top end, the Discipline Division Tee is $58, so there's choice either side of $45. It also sells lifting gear, like belts and elbow sleeves, so you can buy kit and tees in one order. Orders over $75 ship free in the US.\n\nCheck the size list on each style. Every tee reaches 2XL, but 3XL and 4XL come and go by design, where Darc Sport's full-price tees all go to 3XL. Returns last 30 days, with shipping taken off the refund.",
+      "inaka-power": "Inaka Power is the one for cropped gym tees, at close to Darc Sport's price. Its full-price tees are all $50. The camo Off the Grid Cropped Tee ($50) is the nearest thing to Darc Sport's Big Wolf Head tee in All Of Us Camo.\n\nShorts are its main line, so it's worth a look when you want training shorts and a tee from one brand. It comes out of Sugar Land, Texas.\n\nLike Darc Sport, it keeps very few tees at full price, so the choice is small. Sizes also stop at XXL, one below Darc Sport's 3XL. If you need more room, Kill Crew goes up to 5XL.",
+      "youngla": "YoungLA is the easiest swap if returns are what put you off Darc Sport. It's a Los Angeles gym label that releases in limited quantities, and its tees cost $30 to $48. The Immortal Club Tees ($36) are a cheaper start than any full-price Darc Sport tee.\n\nIf you want something tighter than Darc Sport's oversized cut, try its compression tees, like the Warrior Compression Tees ($42). And you get 60 days to send things back, the longest window on this list. It also has a flagship store at Westfield Topanga in Canoga Park, California.\n\nSizes stop at XXL, a size under Darc Sport. Free US shipping starts at $100. For 3XL at similar prices, Vanquish Fitness is the better fit.",
+      "vanquish-fitness": "Vanquish Fitness matches Darc Sport's size range for less. Its tees run S to XXXL, and the Strength Regime Oversized T Shirt (£32, about $43) is the closest to Darc Sport's $45 oversized tee.\n\nIt's a London brand that prices in pounds, so the dollar figure moves with the exchange rate. The cheapest way in is the Origin Black Gold Slim Fit Performance T Shirt (£20, about $27), a fitted cut if Darc Sport's oversized shape isn't what you're after.\n\nFree US shipping starts at $110, and orders go by FedEx in four to six working days. You get 30 days to return them, and that window is what sets it apart from Darc Sport. If you'd rather pay in dollars, Kill Crew prices its tees at about the same level.",
+      "gymshark": "Gymshark is where to buy plain training tees at half Darc Sport's price. The Crest T-Shirt ($22) is the cheapest full-price tee on this list, which matters when you're buying several. The Power Washed Oversized Boxy T-Shirt ($40) is its take on the roomy cut.\n\nSizes run XS to 3XL, so it reaches Darc Sport's top size and goes one smaller at the bottom. US orders ship free over $75 and you have 30 days to return, though deep-discount buys at 60% off or more can't go back in the US.\n\nGymshark is British, from Birmingham, and dates back to 2012. If you want a graphic as loud as a wolf head, Gymreapers' skull tees are closer than these basics.",
+      "ten-thousand": "Ten Thousand is the step up in price, with training shirts at $62 to $88. The Core Tee ($62) is the way in, and the Session Shirt and Tactical Shirt are $78 each.\n\nIts free-shipping bar is the same $150 as Darc Sport's. But spend that and US returns are free too, with a prepaid label, which is the opposite of Darc Sport's final sale. It's a New York brand, and the return window is 30 days.\n\nThe range is a handful of plain styles in many colors, so it isn't the place for prints. Sizes stop at XXL. For more choice at the same kind of price, ASRV has far more styles.",
+      "asrv": "ASRV is the most expensive pick, and the fabric is in the name of most of its tees, AeroSilver and Supima among them. A Supima Oversized tee ($78) is the one to compare with Darc Sport's $45 oversized tee. The AeroSilver Established Tee and the Seamless Training Tee are the cheapest, at $68 each.\n\nAt the very top, the SUPIMA Ice-Skin Reversible Tee is $108. Returns are open for 30 days, but you won't get the original shipping back. And there's no free-shipping bar, so the delivery cost shows up at checkout.\n\nIf you need 3XL, skip it. XS to XL is on every style and XXL on most, but nothing goes bigger. Kill Crew and Vanquish Fitness cover those sizes."
+    },
+    "best_for": {
+      "kill-crew": "a size past 3XL at Darc Sport's price",
+      "gymreapers": "skull graphics and a lifting belt in one order",
+      "inaka-power": "a cropped camo tee near Darc Sport's price",
+      "youngla": "the same LA gym look with 60 days to return it",
+      "vanquish-fitness": "Darc Sport's sizes for less, priced in pounds",
+      "gymshark": "four plain gym tees for the price of two",
+      "ten-thousand": "plain training shirts you can return free past $150",
+      "asrv": "named performance fabrics when price comes second"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with how sure you are of your size. If you're not, YoungLA's 60 days is the safest bet, and most of the others give you 30. For anything past 3XL, Kill Crew is the only pick that goes to 5XL on every tee.\n\nOn price, Gymshark and Gymreapers both start under $35, while Kill Crew sits right around Darc Sport's $45. For a cropped cut, go to Inaka Power.\n\nAnd if you'd rather pay for fabric than for graphics, Ten Thousand and ASRV both start above $60. Of the two, Ten Thousand is the one that adds free returns once your order passes $150."
+    },
+    "faqs": [
+      {
+        "q": "Who owns Darc Sport?",
+        "a": "Civil Clothing Inc. It sells Darc Sport's gym wear through its own online store at darcsport.com.",
+        "source_query": "who owns darc sport"
+      },
+      {
+        "q": "Does Darc Sport do returns?",
+        "a": "No. Every Darc Sport order is final sale, so it doesn't accept returns. If something's wrong with your order, you have 7 days to tell it.",
+        "source_query": "does darc sport do returns"
+      },
+      {
+        "q": "Where is Darc Sport located?",
+        "a": "In Torrance, California. It ships to 56 countries, including Canada, the UK and Australia, but international orders ship with duties unpaid, so expect to pay them on delivery.",
+        "source_query": "where is darc sport located"
+      }
+    ]
+  }
+}

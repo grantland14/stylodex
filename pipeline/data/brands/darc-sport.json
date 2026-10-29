@@ -25,7 +25,7 @@
       "item_count": 5,
       "source_url": "https://darcsport.com/products.json?limit=250",
       "checked_at": "2026-10-29",
-      "note": "Whole store (929 products, 4 pages): only 5 short-sleeve tees at regular price, all one design, Big Wolf Head ($45: Premium Oversized Tee in 3 colors, Grunge Raw Hem Box Cut Tommy Muscle Tee). 196 products (75 of 112 in Men's Tees) carry a compare-at price above price, i.e. marked down; the site runs a 'DARC SUNDAY SALE' section. Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final, DiscountApplied, sale-NN, NN%, on-sale, sale, flash-sale, further reductions); campaign-eligibility tags with no compare-at price (e.g. '10th-anniversary-sale', 'cp:SeptEOSSale', 'DISCOUNT') are not treated as markdowns. Short-sleeve tees only: long-sleeve, tanks, stringers, polos, button-ups, jerseys, sweaters, packs and box sets excluded.",
+      "note": "Re-read for the darc-sport page (whole store, products.json pages 1-4, 929 products): 923 products carry a compare-at price above price (store-wide markdown, e.g. Premium Oversized Tees $35 vs $50, Premium Classic Tees $31.50 vs $45). Only 6 products have no markdown: 5 short-sleeve tees, all $45 and all one design, Big Wolf Head (Premium Oversized Tee in Black, Light Athletic Gray, All Of Us Camo; Grunge Raw Hem Box Cut Tommy Muscle Tee in Cream, Slate Gray), sizes S-3XL, plus one long-sleeve tee (excluded). Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final, DiscountApplied, sale-NN, NN%, on-sale, sale, flash-sale, further reductions); campaign-eligibility tags with no compare-at price (e.g. '10th-anniversary-sale') are not treated as markdowns. The 'SALEMENS'/'SALESHE' tags appear only on items that also carry a compare-at markdown. Short-sleeve tees only: long-sleeve, tanks, stringers, polos, button-ups, jerseys, sweaters, packs and box sets excluded.",
       "min_usd": 45,
       "max_usd": 45,
       "fx_date": null
@@ -46,7 +46,10 @@
     "https://darcsport.com/policies/shipping-policy",
     "https://shop.darcsport.com/pages/our-story",
     "https://shop.darcsport.com/pages/this-is-darc-sport-2026",
-    "https://darcsport.com/collections/all-hoodies/products.json?limit=250"
+    "https://darcsport.com/collections/all-hoodies/products.json?limit=250",
+    "https://darcsport.com/products.json?limit=250&page=2",
+    "https://darcsport.com/products.json?limit=250&page=3",
+    "https://darcsport.com/products.json?limit=250&page=4"
   ],
   "notes": [
     "Policy page: 'ALL ORDERS ARE FINAL SALE. WE DO NOT ACCEPT RETURNS ON ANY ORDERS'; notify within 7 days of issues. returns_days stored as 0 (no returns).",
@@ -54,7 +57,8 @@
     "meta.json ships_to 56 countries incl. US, CA, GB, AU; international ships DDU.",
     "known_for built from the yearly-collection structure on Our Story; homepage gives only the slogan 'Never F*ckin Give Up'. In human_check.",
     "WebFetch of the refund policy got HTTP 429 once; the policy text was read from the earlier honest-UA fetch.",
-    "2026-10-29 (scuffers page, hoodies): all 55 hoodies served by darcsport.com/collections/all-hoodies carry a compare-at price above price (e.g. Darc Emblem Pierce Hoodie $45.50 vs $65), so no regular-price hoodie range; no hoodies price stored. A source (worthybornedit) links shop.darcsportathletics.com, a separate store not confirmed as Darc Sport's official one; not used."
+    "2026-10-29 (scuffers page, hoodies): all 55 hoodies served by darcsport.com/collections/all-hoodies carry a compare-at price above price (e.g. Darc Emblem Pierce Hoodie $45.50 vs $65), so no regular-price hoodie range; no hoodies price stored. A source (worthybornedit) links shop.darcsportathletics.com, a separate store not confirmed as Darc Sport's official one; not used.",
+    "2026-10-29 (darc-sport page): products.json re-read: 923 of 929 products marked down (compare-at above price), so the regular-price tee range is the 5 Big Wolf Head tees at $45. Product types: Tee 116 and She Tee 118 are the two largest, ahead of shorts (71 men's, 82 women's) and hoodies (64 men's, 43 women's). Our Story page re-read: collections listed by year 2022-2026 (e.g. Rather Die Standing 2022, Bushido 2024 and 2025, For the Sake of Others 2026, plus Von Dutch and Harley-Davidson 2026), banner 'FREE US SHIPPING ON ORDERS OVER $150'."
   ],
   "checked_at": "2026-10-29"
 }

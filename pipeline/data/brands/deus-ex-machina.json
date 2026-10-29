@@ -1,0 +1,49 @@
+{
+  "name": "Deus Ex Machina",
+  "website_url": "https://deuscustoms.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Moto, Surf and Apparel",
+  "hq_country": "AU",
+  "founded_year": 2006,
+  "size_range": "Waists 28–38",
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "boardshorts",
+      "currency": "USD",
+      "min": 99.0,
+      "max": 129.0,
+      "min_usd": 99.0,
+      "max_usd": 129.0,
+      "fx_date": null,
+      "item_count": 8,
+      "source_url": "https://deuscustoms.com/collections/boardshorts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: men's boardshorts (fixed-waist boardshorts and volleys the store files as boardshorts). Whole collection from the public Shopify feed https://deuscustoms.com/collections/boardshorts/products.json?limit=250: 22 products, 22 kept as adult boardshorts, 14 with a compare-at price above the price (markdowns, excluded), 8 at regular price. Min: Aerial Boardshort - Grape Gradient $99.00; max: Ricos BoardShort - Black $129.00. Deus Ex Machina USA store. Aerial Boardshort ($99): regular fit, drawcord, back patch pockets. Ricos Boardshort $99–$129. Waists 28–38 on all 8."
+    }
+  ],
+  "sells_categories": [
+    "boardshorts"
+  ],
+  "notes": [
+    "Homepage title 'Deus Ex Machina USA - The Emporium of Post Modern Activities'; meta 'Shop moto, surf, apparel & accessories online now'. known_for from the meta.",
+    "Shipping page: 'Free shipping on all USA orders over $75', 48 contiguous states, 3–7 days; Hawaii/Alaska/US territories $20 flat; 'Canada & International Shipping' International Economy 7–20 business days. (Homepage meta still says $120; the shipping page and site banner say $75.)",
+    "Refund policy: unused items in original packaging 'within 30 days of your purchase'; returns at the customer's expense; sale items final.",
+    "About page: Deus ex Machina 'roared into Australia's cultural consciousness in 2006' with custom motorcycles; showroom/cafe/headquarters in Sydney."
+  ],
+  "sources": [
+    "https://deuscustoms.com/",
+    "https://deuscustoms.com/collections/boardshorts/products.json?limit=250",
+    "https://deuscustoms.com/pages/shipping",
+    "https://deuscustoms.com/policies/refund-policy",
+    "https://deuscustoms.com/pages/about"
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "deus-ex-machina"
+}

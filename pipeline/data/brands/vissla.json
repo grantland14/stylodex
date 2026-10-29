@@ -1,0 +1,48 @@
+{
+  "name": "Vissla",
+  "website_url": "https://www.vissla.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Boardshorts, Wetsuits and Surf Tees",
+  "hq_country": "US",
+  "size_range": "Waists 28–44",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 125,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "boardshorts",
+      "currency": "USD",
+      "min": 60.0,
+      "max": 85.0,
+      "min_usd": 60.0,
+      "max_usd": 85.0,
+      "fx_date": null,
+      "item_count": 99,
+      "source_url": "https://www.vissla.com/collections/boardshorts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: men's boardshorts (fixed-waist boardshorts and volleys the store files as boardshorts). Whole collection from the public Shopify feed https://www.vissla.com/collections/boardshorts/products.json?limit=250: 99 products, 99 kept as adult boardshorts, 0 with a compare-at price above the price (markdowns, excluded), 99 at regular price. Min: Breakers 16.5\" Ecolastic $60.00; max: High Seas 3.0 18.5\" Boardshort $85.00. No markdowns in the feed. Ecolastic styles $60–$65 (Breakers 16.5\" Ecolastic: elastic waist, '36% polyester from coconut, 34% recycled polyester, 20% cotton, 10% spandex'). High Seas 3.0 18.5\" Boardshort $85. Waists 28–38 on 71–74 items, 40–44 on 1–2; S–XXL on ~25 elastic styles."
+    }
+  ],
+  "sells_categories": [
+    "boardshorts"
+  ],
+  "notes": [
+    "Homepage meta: 'If you're looking for the best selection of boardshorts, wetsuits, surf tees, surfboards, or surf accessories we've got you covered.' known_for from that line.",
+    "Shipping policy page: 'Free shipping on US orders over $125'; orders ship in 1–2 business days; regional stores for Australia, New Zealand, Europe, Brazil and the UK. Only US shipping is stated, so ships_to is US.",
+    "Refund policy: unused products within 30 days of purchase; return shipping deducted; worn wetsuits not returnable.",
+    "About page footer address: 18B Journey, Aliso Viejo, CA 92656 (hq_country US). Lush Palm: founder Paul Naude, former head of Billabong US operations (third-party; not used for copy)."
+  ],
+  "sources": [
+    "https://www.vissla.com/",
+    "https://www.vissla.com/collections/boardshorts/products.json?limit=250",
+    "https://www.vissla.com/policies/shipping-policy",
+    "https://www.vissla.com/policies/refund-policy",
+    "https://www.vissla.com/pages/about",
+    "https://www.vissla.com/products/m1301bre-breakers-16-5-ecolastic-alo-aloe-m1301bre.json"
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "vissla"
+}

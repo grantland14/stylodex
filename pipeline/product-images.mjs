@@ -37,9 +37,25 @@ async function fetchBuffer(url) {
 const CATEGORY_WORDS = {
   jeans: /\bjeans?\b|\bdenim\b(?!.*\b(skirt|jacket|shorts?|vest|dress|top|shirt)\b)/i,
   "graphic-tees": /\b(tee|t-shirt|shirt)\b/i,
+  tees: /\b(tee|t-shirt)\b/i,
+  hoodies: /\b(hoodie|hoody|hooded|zip[- ]?up)\b/i,
+  sweatshirts: /\b(sweatshirt|crew ?neck|crew)\b/i,
+  sweaters: /\b(sweater|cardigan|jumper|pullover|knit)\b/i,
+  dresses: /\b(dress|gown|mini|midi|maxi)\b/i,
+  "coats-jackets": /\b(coat|jacket|parka|anorak|cruiser|blazer|puffer|trench)\b/i,
+  necklaces: /\b(necklace|pendant|chain|choker)\b/i,
+  rings: /\bring\b/i,
+  jewelry: /\b(necklace|pendant|ring|earrings?|bracelet|choker|chain)\b/i,
+  handbags: /\b(bag|tote|clutch|crossbody|purse|satchel|hobo|shoulder)\b/i,
+  bags: /\b(bag|tote|clutch|crossbody|purse|backpack|pouch)\b/i,
+  underwear: /\b(boxer|brief|trunk|thong|bralette|bikini|underwear)\b/i,
 };
 /** Products that can't be in a category even when the collection includes them. */
-const CATEGORY_EXCLUDE = { jeans: /\b(skirt|jacket|shorts?|vest|dress)\b/i };
+const CATEGORY_EXCLUDE = {
+  jeans: /\b(skirt|jacket|shorts?|vest|dress)\b/i,
+  dresses: /\b(skirt|top|shorts?|pants?)\b/i,
+  hoodies: /\b(dress|pants?|shorts?)\b/i,
+};
 
 function regularPrice(product) {
   const v = product.variants?.find((x) => x.price != null);

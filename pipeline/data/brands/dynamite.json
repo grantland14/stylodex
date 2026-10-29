@@ -1,0 +1,21 @@
+{
+  "slug": "dynamite",
+  "name": "Dynamite",
+  "website_url": "https://www.dynamiteclothing.com/",
+  "status": "verified",
+  "kind": "brand",
+  "hq_country": "CA",
+  "parent_company": "Groupe Dynamite",
+  "sources": [
+    "https://www.dynamiteclothing.com/us/",
+    "https://groupedynamite.com/",
+    "https://investors.groupedynamite.com/2026-09-10-GROUPE-DYNAMITE-REPORTS-STRONG-SECOND-QUARTER-FISCAL-2026-RESULTS-AS-BRAND-HEAT-AND-TOP-TIER-LOCATIONS-CONTINUE-TO-DRIVE-GROWTH",
+    "https://investors.groupedynamite.com/image/09.09.26_GDI_Q2-26_Investor_Presentation_FINAL.pdf"
+  ],
+  "notes": [
+    "2026-10-29 (garage page run): dynamiteclothing.com/us/ returned HTTP 403 to curl with the StylodexBot UA; not worked around. No store facts (prices, sizes, shipping, returns) recorded.",
+    "Status verified from the parent's official sites: groupedynamite.com links www.dynamiteclothing.com and says GDI operates 'retail stores and digital experiences under two complementary and spirited banners: Garage and Dynamite'. Q2 fiscal 2026 release (Sep 10 2026) lists '7 store closures: 6 in Canada, including 4 under the GARAGE banner and 2 under the DYNAMITE banner, and 1 in the United States under the DYNAMITE banner'.",
+    "us_stores left empty: the investor presentation's store chart (slide 19, as of Aug 1 2026) appears to show 69 DYNAMITE stores with 2 in the US, but that is a chart reading, not stated in text. Needs a check of its own store locator."
+  ],
+  "checked_at": "2026-10-29"
+}

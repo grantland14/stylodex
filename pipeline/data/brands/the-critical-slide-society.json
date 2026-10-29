@@ -1,0 +1,47 @@
+{
+  "name": "The Critical Slide Society",
+  "website_url": "https://www.thecriticalslidesociety.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Independent Surf and Coastal Wear",
+  "hq_country": "AU",
+  "size_range": "Waists 28–38",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 7,
+  "prices": [
+    {
+      "category": "boardshorts",
+      "currency": "USD",
+      "min": 68.0,
+      "max": 75.0,
+      "min_usd": 68.0,
+      "max_usd": 75.0,
+      "fx_date": null,
+      "item_count": 52,
+      "source_url": "https://www.thecriticalslidesociety.com/en-us/collections/boardshorts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: men's boardshorts (fixed-waist boardshorts and volleys the store files as boardshorts). Whole collection from the public Shopify feed https://www.thecriticalslidesociety.com/en-us/collections/boardshorts/products.json?limit=250: 53 products, 53 kept as adult boardshorts, 1 with a compare-at price above the price (markdowns, excluded), 52 at regular price. Min: Cahoots 17\" Boardshort - Boulder $68.00; max: Yin Yang 17\" Trunk - Terracotta $75.00. Read from the US market (/en-us), which charges USD (cart.js currency USD); the root store charges AUD. Cahoots 17\" ($68): fixed waist, 4-way stretch poly/spandex, 17\" leg 'drops right on the knee'. Waists 28–38 (even sizes) on all 52."
+    }
+  ],
+  "sells_categories": [
+    "boardshorts"
+  ],
+  "notes": [
+    "Homepage meta: 'Independent Surf and Coastal Wear Born in Bondi. Designed Locally, Worn Globally. Voted Best Boardshort Three Years Running.' known_for from that line; shipping policy: 'a proud Bondi based brand' (hq_country AU).",
+    "Shipping policy: 'WE SHIP TO MOST COUNTRIES!'; the US storefront (/en-us) prices in USD and its cart shows 'Spend $100 for free shipping'. ships_to US from the US market.",
+    "Refund policy: unworn items with tags 'up to 7 days after receiving your order'; no refunds on sale items unless faulty; no returns on goods shipped to Europe."
+  ],
+  "sources": [
+    "https://www.thecriticalslidesociety.com/",
+    "https://www.thecriticalslidesociety.com/en-us/collections/boardshorts/products.json?limit=250",
+    "https://www.thecriticalslidesociety.com/en-us/cart.js",
+    "https://www.thecriticalslidesociety.com/en-us/policies/shipping-policy",
+    "https://www.thecriticalslidesociety.com/policies/shipping-policy",
+    "https://www.thecriticalslidesociety.com/policies/refund-policy"
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "the-critical-slide-society"
+}

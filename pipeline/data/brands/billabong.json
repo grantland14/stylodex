@@ -9,7 +9,8 @@
     "2026-10-29 (zumiez page run): status changed from off_category to verified. The earlier off_category was category-specific (no jeans); the store is live and sells men's T-shirts (homepage title 'Billabong: Surf, Swim & Lifestyle Clothing', nav Men's > T-Shirts & Tanks). known_for from that title.",
     "Shipping page: 'Free Ground Shipping for all orders over $125 and Flat-Rate shipping on all other orders for the contiguous US' (Standard 5–7 business days $10.00 under $125); Hawaii/Alaska $25.00; Canada Economy $58.00 CAD; no P.O. boxes or APO/FPO; wetsuits excluded from free shipping.",
     "Refund policy: '30 day Return Period' from the original ship date (45 days for orders placed Nov 18–Dec 25); '$7.50 restocking fee applied to all returns & exchanges'; online orders can't be returned at retail/outlet stores; exchanges and prepaid labels for US customers only.",
-    "Wikipedia (Billabong_(clothing)): founded November 6, 1973 in Gold Coast, Queensland by Gordon and Rena Merchant; HQ Burleigh Heads, Queensland; parent Boardriders, which Authentic Brands Group bought (finalized September 2023)."
+    "Wikipedia (Billabong_(clothing)): founded November 6, 1973 in Gold Coast, Queensland by Gordon and Rena Merchant; HQ Burleigh Heads, Queensland; parent Boardriders, which Authentic Brands Group bought (finalized September 2023).",
+    "2026-10-29 (billabong page run): boardshorts from /collections/mens-clothing-boardshorts (149 'Mens - Boardshort'). Descriptions: A.I. Rising Sun Pro 22\" ($75.95) 'partially recycled 4-way stretch polyester', fixed waist; All Day Stripe Pro 20\" ($55.95) fixed waist, side leg pocket. Pro boardshorts at $55.95–$75.95; regular-price waists 28–40 (one style to 44)."
   ],
   "sources": [
     "https://www.billabong.com/",
@@ -18,7 +19,9 @@
     "https://www.billabong.com/collections/mens-clothing-t-shirts/products.json?limit=250&page=2",
     "https://www.billabong.com/pages/shipping",
     "https://www.billabong.com/policies/refund-policy",
-    "https://en.wikipedia.org/wiki/Billabong_(clothing)"
+    "https://en.wikipedia.org/wiki/Billabong_(clothing)",
+    "https://www.billabong.com/collections/mens-clothing-boardshorts/products.json?limit=250",
+    "https://www.billabong.com/products/a-i-rising-sun-pro-22-bl000551m-heu.json"
   ],
   "checked_at": "2026-10-29",
   "known_for": "Surf, Swim and Lifestyle Clothing",
@@ -33,7 +36,8 @@
   "free_shipping_min_usd": 125,
   "returns_days": 30,
   "sells_categories": [
-    "mens-clothing"
+    "mens-clothing",
+    "boardshorts"
   ],
   "prices": [
     {
@@ -48,6 +52,19 @@
       "source_url": "https://www.billabong.com/collections/mens-clothing-t-shirts",
       "checked_at": "2026-10-29",
       "note": "Like-for-like item: men's T-shirts. Whole collection from the public Shopify feed /collections/mens-clothing-t-shirts/products.json?limit=250, pages 1–2 (432 products): 373 of type 'Mens - Tee' after dropping long sleeves and tanks, 221 of them with a compare-at price above the price (markdowns, excluded), 152 at regular price. Min: Hollow Premium and Mainstay Premium Short Sleeve Knit T-Shirts $29.95; max: Blueprint Crewneck T-Shirt $49.95. Sizes S–XXL on all 400 sized tees (a few XS and one 3XL)."
+    },
+    {
+      "category": "boardshorts",
+      "currency": "USD",
+      "min": 55.95,
+      "max": 75.95,
+      "min_usd": 55.95,
+      "max_usd": 75.95,
+      "fx_date": null,
+      "item_count": 89,
+      "source_url": "https://www.billabong.com/collections/mens-clothing-boardshorts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: men's boardshorts (fixed-waist boardshorts and volleys the store files as boardshorts). Whole collection from the public Shopify feed https://www.billabong.com/collections/mens-clothing-boardshorts/products.json?limit=250: 213 products, 150 kept as adult boardshorts, 61 with a compare-at price above the price (markdowns, excluded), 89 at regular price. Min: All Day Stripe Pro 20\" Boardshorts - Sunset Ocean Multi - Sunset Ocean $55.95; max: Andy Irons Rising Sun Pro 22\" Boardshorts - Heritage Blue $75.95. Swim trunks (elastic laybacks, type 'Mens - Swim Trunk') excluded. Waists 28–40 on 85 of the regular-price boardshorts."
     }
   ]
 }

@@ -1,0 +1,49 @@
+{
+  "name": "Howler Brothers",
+  "website_url": "https://howlerbros.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Design-Driven Outdoor Apparel",
+  "hq_country": "US",
+  "size_range": "Waists 28–40",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 59,
+  "returns_days": 45,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "boardshorts",
+      "currency": "USD",
+      "min": 69.0,
+      "max": 89.0,
+      "min_usd": 69.0,
+      "max_usd": 89.0,
+      "fx_date": null,
+      "item_count": 17,
+      "source_url": "https://howlerbros.com/collections/mens-boardshorts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: men's boardshorts (fixed-waist boardshorts and volleys the store files as boardshorts). Whole collection from the public Shopify feed https://howlerbros.com/collections/mens-boardshorts/products.json?limit=250: 23 products, 23 kept as adult boardshorts, 6 with a compare-at price above the price (markdowns, excluded), 17 at regular price. Min: Del Este Performance Boardshorts 17\" - Fortune Teller : Antique Black $69.00; max: Texas Longhorns Bruja Boardshorts - Forty Acres : Burnt Orange $89.00. Deep Set Boardshorts ($79): volley style with a built-in mesh compression liner. Bruja Boardshorts $75. Waists 28–40 on 9 fixed-waist styles; S–XXL on 8 volleys."
+    }
+  ],
+  "sells_categories": [
+    "boardshorts"
+  ],
+  "notes": [
+    "Homepage meta: 'Design-driven, Austin, Texas based outdoor apparel company... Best fly fishing shirts. Best board shorts.' About page: designs everything in Austin, Texas; mixes surfing, fly fishing and western wear. known_for from the meta.",
+    "Shipping policy and help center: 'Free Shipping On Orders Over $59'; rates at checkout. Refund policy: 'all international sales are final', so it sells abroad, but no destinations are listed; ships_to US.",
+    "Refund policy: returns or exchanges 'within 45 days of the original purchase date'; $7 restocking fee on refunds to the original payment (none for store credit); exchanges ship free to US addresses.",
+    "Help center lists two Austin, TX stores: South Congress Outpost (1333 S Congress Ave) and Howler Hacienda (1009 West Lynn Street). us_stores true."
+  ],
+  "sources": [
+    "https://howlerbros.com/",
+    "https://howlerbros.com/collections/mens-boardshorts/products.json?limit=250",
+    "https://howlerbros.com/policies/shipping-policy",
+    "https://howlerbros.com/policies/refund-policy",
+    "https://howlerbros.com/pages/help-center",
+    "https://howlerbros.com/pages/about-howler-brothers"
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "howler-brothers"
+}

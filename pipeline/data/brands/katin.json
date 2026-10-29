@@ -1,0 +1,47 @@
+{
+  "name": "Katin",
+  "website_url": "https://katinusa.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Surf Apparel and Surf Trunks",
+  "hq_country": "US",
+  "founded_year": 1954,
+  "size_range": "Waists 29–42",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "boardshorts",
+      "currency": "USD",
+      "min": 75.0,
+      "max": 79.0,
+      "min_usd": 75.0,
+      "max_usd": 79.0,
+      "fx_date": null,
+      "item_count": 8,
+      "source_url": "https://katinusa.com/collections/trunks-1/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: men's boardshorts (fixed-waist boardshorts and volleys the store files as boardshorts). Whole collection from the public Shopify feed https://katinusa.com/collections/trunks-1/products.json?limit=250: 12 products, 8 kept as adult boardshorts, 0 with a compare-at price above the price (markdowns, excluded), 8 at regular price. Min: BANNER SURF TRUNK $75.00; max: OTG ARCHER SURF TRUNK $79.00. Katin sells its boardshorts as 'surf trunks' (product type Trunks, collection 'trunks'); hybrid trunks excluded. No markdowns. Waterman Trunk ($75) 'traces back to the original surf trunk sewn by Walter Katin in the 1950s' and comes with a banana boat float keychain. Waists 29–40 on all 8, 42 on 2."
+    }
+  ],
+  "sells_categories": [
+    "boardshorts"
+  ],
+  "notes": [
+    "katin.com and www.katin.com failed at the proxy (502); the official store is katinusa.com (title 'Katin USA: Quality Surf Apparel & Men's Trunks Since 1954'; meta 'Born in Surfside, CA in 1954'). known_for from the title.",
+    "Shipping policy: domestic orders ship from California; free standard shipping on orders of $75 or more in the continental US; international orders through BorderGuru (destinations shown at checkout, none listed), so ships_to is US.",
+    "Refund policy: returns and exchanges 'within 30 days of purchase'; $8.00 return shipping fee deducted."
+  ],
+  "sources": [
+    "https://katinusa.com/",
+    "https://katinusa.com/collections/trunks-1/products.json?limit=250",
+    "https://katinusa.com/policies/shipping-policy",
+    "https://katinusa.com/policies/refund-policy",
+    "https://katinusa.com/products/waterman-trunk.json"
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "katin"
+}

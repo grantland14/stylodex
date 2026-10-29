@@ -19,7 +19,8 @@
   "free_shipping_min_usd": 99,
   "returns_days": 30,
   "sells_categories": [
-    "mens-clothing"
+    "mens-clothing",
+    "boardshorts"
   ],
   "prices": [
     {
@@ -34,6 +35,19 @@
       "source_url": "https://www.hurley.com/collections/mens-t-shirts",
       "checked_at": "2026-10-29",
       "note": "Like-for-like item: men's T-shirts. Whole collection from the public Shopify feed https://www.hurley.com/collections/mens-t-shirts/products.json?limit=250: 80 products (type Mens_Tops_T-Shirts), none with a compare-at price above the price. Min: Icon Tee Short Sleeve $25.00; max: H2O Dri Slub Short Sleeve $55.00; Hurley x Mikey DeTemple Heritage Stripe Short Sleeve $39.95. Sizes XS–XXL (XS on 79 of 80)."
+    },
+    {
+      "category": "boardshorts",
+      "currency": "USD",
+      "min": 49.95,
+      "max": 69.95,
+      "min_usd": 49.95,
+      "max_usd": 69.95,
+      "fx_date": null,
+      "item_count": 29,
+      "source_url": "https://www.hurley.com/collections/mens-boardshorts-2/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: men's boardshorts (fixed-waist boardshorts and volleys the store files as boardshorts). Whole collection from the public Shopify feed https://www.hurley.com/collections/mens-boardshorts-2/products.json?limit=250: 108 products, 108 kept as adult boardshorts, 79 with a compare-at price above the price (markdowns, excluded), 29 at regular price. Min: Cannonball Volley 17\" $49.95; max: Hurley x Keith Haring Phantom Eco Sessions 16\" Boardshort $69.95. Phantom Eco and Phantom Naturals lines; Cannonball Volley 17\" ($49.95): 4-way stretch with DWR, 40% ocean-bound REPREVE. 79 of 108 marked down. Waists 26–40 on 20 fixed-waist styles; XS–XXL on 9 volleys."
     }
   ],
   "materials": [],
@@ -45,13 +59,16 @@
     "https://www.hurley.com/collections/mens-t-shirts/products.json?limit=250",
     "https://www.hurley.com/policies/shipping-policy",
     "https://www.hurley.com/policies/refund-policy",
-    "https://en.wikipedia.org/wiki/Hurley_International"
+    "https://en.wikipedia.org/wiki/Hurley_International",
+    "https://www.hurley.com/collections/mens-boardshorts-2/products.json?limit=250",
+    "https://www.hurley.com/products/cannonball-volley-17-hsp26mmbs08405-armored-navy-combo.json"
   ],
   "notes": [
     "2026-10-29 (zumiez page run): homepage title 'Hurley | Boardshorts, Swimwear & Beach Apparel'; meta 'Surf, skate, and streetwear inspired by beach culture... inspired by Southern California living.' known_for from the meta line.",
     "Shipping policy: 'U.S. SHIPPING POLICY'; Ground 3–6 business days $10.00; 'free standard shipping on orders of $99.00 or more (before tax) within the 48 contiguous U.S. states'; wetsuits and gear excluded; country selector says orders ship only to the chosen country.",
     "Refund policy: 'you can return it within 30 days of shipment'; no exchanges; online purchases can't be returned in-store; '$5.00 per item fee' with the prepaid label, $4.50 per item at FedEx/AfterShip drop-off; final sale not returnable. Contact address Hurley.US@unitedlegwear.com.",
-    "Wikipedia (Hurley_International): founded 1979 by Bob Hurley (Hurley Surfboards//International Pro Designs) in Southern California; HQ Costa Mesa, California; Nike sold it to Bluestar Alliance LLC (announced October 29, 2019)."
+    "Wikipedia (Hurley_International): founded 1979 by Bob Hurley (Hurley Surfboards//International Pro Designs) in Southern California; HQ Costa Mesa, California; Nike sold it to Bluestar Alliance LLC (announced October 29, 2019).",
+    "2026-10-29 (billabong page run): homepage title 'Hurley | Boardshorts, Swimwear & Beach Apparel'; boardshorts from /collections/mens-boardshorts-2 (type Mens_Bottoms_Boardshorts)."
   ],
   "checked_at": "2026-10-29"
 }

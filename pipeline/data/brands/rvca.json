@@ -1,0 +1,49 @@
+{
+  "name": "RVCA",
+  "website_url": "https://rvca.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Artist-Driven Apparel",
+  "hq_country": "US",
+  "founded_year": 2001,
+  "parent_company": "Authentic Brands Group",
+  "size_range": "Waists 28–38",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 99,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "boardshorts",
+      "currency": "USD",
+      "min": 60.0,
+      "max": 90.0,
+      "min_usd": 60.0,
+      "max_usd": 90.0,
+      "fx_date": null,
+      "item_count": 25,
+      "source_url": "https://rvca.com/collections/mens-boardshorts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: men's boardshorts (fixed-waist boardshorts and volleys the store files as boardshorts). Whole collection from the public Shopify feed https://rvca.com/collections/mens-boardshorts/products.json?limit=250: 30 products, 30 kept as adult boardshorts, 5 with a compare-at price above the price (markdowns, excluded), 25 at regular price. Min: VA LG Boardshort $60.00; max: Anderson 2 18\" Boardshort $90.00. VA Solid Boardshort ($65): 94% recycled polyester / 6% elastane, 19\" outseam, triple-needle stitching. Waists 28–38 on all 25 regular items, 40 on 3."
+    }
+  ],
+  "sells_categories": [
+    "boardshorts"
+  ],
+  "notes": [
+    "Homepage meta: 'A global lifestyle brand with a heritage in artist driven apparel and accessories.' known_for from that line.",
+    "Shipping policy: free on orders $99+; ships to all 50 US states incl. Alaska, Hawaii and Puerto Rico; no P.O. boxes or APO/FPO/DPO.",
+    "Refund policy: 'RVCA accepts returns of unworn merchandise with tags attached within 30 days of delivery'; a return shipping fee is deducted from the refund.",
+    "Wikipedia (RVCA): founded 2001 by Pat Tenore and Conan Hayes; Orange County, California; owned by Authentic Brands Group."
+  ],
+  "sources": [
+    "https://rvca.com/",
+    "https://rvca.com/collections/mens-boardshorts/products.json?limit=250",
+    "https://rvca.com/policies/shipping-policy",
+    "https://rvca.com/policies/refund-policy",
+    "https://en.wikipedia.org/wiki/RVCA"
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "rvca"
+}
