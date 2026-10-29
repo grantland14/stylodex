@@ -1,0 +1,48 @@
+{
+  "slug": "misa-los-angeles",
+  "name": "MISA Los Angeles",
+  "website_url": "https://www.misalosangeles.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Ready-to-Wear for Every Occasion",
+  "hq_country": "US",
+  "size_range": "XXS–XL",
+  "ships_to": [
+    "US"
+  ],
+  "returns_days": 3,
+  "production_model": "Made in its Los Angeles studio",
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 325.0,
+      "max": 525.0,
+      "min_usd": 325.0,
+      "max_usd": 525.0,
+      "fx_date": null,
+      "item_count": 67,
+      "source_url": "https://www.misalosangeles.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Shopify feed: 223 dresses, 155 marked down (compare_at above price), 1 out of stock, 67 regular-price in stock. Low: Kiana Dress (Abstract Blur) $325; Elodie, Maxine, Sandy Dress $345; median $410 (Janice, Lalisa North Star Sequin Embellishment, Leka Desert Rose); high: Anabella Dress (Tiled Flora Satin) $525."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://www.misalosangeles.com/",
+    "https://www.misalosangeles.com/meta.json",
+    "https://www.misalosangeles.com/collections/dresses/products.json?limit=250",
+    "https://www.misalosangeles.com/policies/shipping-policy",
+    "https://www.misalosangeles.com/policies/refund-policy",
+    "https://www.misalosangeles.com/pages/shipping-returns"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-johnny-was run): meta.json: Los Angeles, California, US; currency USD; description 'featuring ready to wear and accessories for every occasion' (known_for); ships_to_countries '*' plus US (only US stored).",
+    "Shipping policy: domestic orders by UPS, standard orders ship within 2 business days from its Los Angeles warehouse; international customers pay local duties and taxes; no P.O. boxes. US shipping cost and free-shipping threshold not stated.",
+    "Shipping & Returns page: 'MISA Los Angeles is a fully vertical brand. Every piece is designed, developed, produced, and fulfilled under one roof in our Los Angeles studio' (production_model). Returns must be initiated within 3 business days of delivery (returns_days 3 = business days); store credit is the default, a full refund only on a first purchase; customer pays return shipping; 40%+ off and accessories final sale.",
+    "Dress sizes from feed: XXS–XL on all 67 regular-price dresses."
+  ],
+  "checked_at": "2026-10-29"
+}

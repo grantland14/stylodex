@@ -1,0 +1,14 @@
+{
+  "slug": "sundance",
+  "name": "Sundance",
+  "website_url": "https://www.sundancecatalog.com",
+  "status": "unverified",
+  "kind": "brand",
+  "sources": [
+    "https://www.sundancecatalog.com/"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-johnny-was run): www.sundancecatalog.com refused WebFetch (HTTP 503) and served only 'Error. Page cannot be displayed. Please contact your service provider' to the StylodexBot UA (one try each, no workaround). Status unverified; a human must confirm dress prices, US shipping and returns."
+  ],
+  "checked_at": "2026-10-29"
+}

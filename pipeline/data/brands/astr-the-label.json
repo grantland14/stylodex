@@ -1,0 +1,56 @@
+{
+  "slug": "astr-the-label",
+  "name": "ASTR the Label",
+  "website_url": "https://astrthelabel.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Trending Dresses and Occasion Wear",
+  "hq_country": "US",
+  "founded_year": 2012,
+  "parent_company": null,
+  "size_range": "XS–XL; 1X–3X on a few",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": null,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 54.0,
+      "max": 228.0,
+      "min_usd": 54.0,
+      "max_usd": 228.0,
+      "fx_date": null,
+      "item_count": 159,
+      "source_url": "https://astrthelabel.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Full dresses feed (3 pages), 658 products: 227 sold out, 272 marked down, 159 regular-price in stock. Low: Ruched Long Sleeve Dress $54; Ginevra Chiffon Cape Mini Dress $99; high: Ashley 3D Floral Maxi Dress $228; Paulette Satin Slip Dress and Sinclair Asymmetric Satin Halter Maxi Dress $198. Median $158; 19 under $100. Of the 159, 49 mention satin, 38 lace, 67 maxi. Sizes XS–XL on nearly all; 1X–3X on 41 products, 2 of them regular-price in stock (Blythe Floral Plisse Midi Dress $164, Revery Floral Long Sleeve Maxi Dress $178). Store currency USD."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://astrthelabel.com/meta.json",
+    "https://astrthelabel.com/collections/dresses/products.json?limit=250",
+    "https://astrthelabel.com/pages.json?limit=250"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-sabo run): meta.json shop 'ASTR the Label', Vernon, California, US, USD, ships to most countries incl. US, CA, GB, AU; description 'Shop ASTR The Label for trending women's dresses, tops, and occasion wear. Free shipping on orders $75+. Discover new arrivals weekly.' The dresses feed and pages.json read fine with the StylodexBot UA.",
+    "About page body (pages.json): 'the trend inspired LA based brand'; 'Since their establishment in 2012'; 'effortless yet refined pieces that reflect the modern young woman'.",
+    "Shipping, returns and policy pages (astrthelabel.com/pages/shipping, /pages/returns, /policies/*) return HTTP 403 to curl (StylodexBot UA) and to WebFetch; no workaround. returns_days left empty; free shipping over $75 comes from the store's own meta description. Human check: US shipping cost and return window."
+  ]
+}

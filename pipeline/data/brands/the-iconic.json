@@ -1,0 +1,13 @@
+{
+  "slug": "the-iconic",
+  "name": "THE ICONIC",
+  "website_url": "https://www.theiconic.com.au",
+  "status": "unverified",
+  "kind": "retailer",
+  "sources": [
+    "https://www.theiconic.com.au/"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-sabo run): www.theiconic.com.au returns HTTP 403 to curl (StylodexBot UA), one try, no workaround. Not verified; US shipping unknown. Human check."
+  ]
+}

@@ -21,10 +21,12 @@
   "production_model": null,
   "sale_pattern": null,
   "sources": [
-    "https://www.thereformation.com/dresses"
+    "https://www.thereformation.com/dresses",
+    "https://www.thereformation.com/"
   ],
   "notes": [
-    "https://www.thereformation.com/dresses returned HTTP 403 to WebFetch on 2026-10-29. Status unverified; nothing else stored."
+    "https://www.thereformation.com/dresses returned HTTP 403 to WebFetch on 2026-10-29. Status unverified; nothing else stored.",
+    "2026-10-29 (brands-like-sabo run): www.thereformation.com returned HTTP 403 to curl (StylodexBot UA), one try, no workaround. Still unverified."
   ],
   "checked_at": "2026-10-29"
 }

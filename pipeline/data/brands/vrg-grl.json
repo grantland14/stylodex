@@ -1,0 +1,66 @@
+{
+  "slug": "vrg-grl",
+  "name": "VRG GRL",
+  "website_url": "https://www.vrggrl.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Designed in Australia, Worn Worldwide",
+  "hq_country": "AU",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "AU 4–16",
+  "has_plus": false,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 140.66,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "AUD",
+      "min": 49.0,
+      "max": 289.0,
+      "min_usd": 34.46,
+      "max_usd": 203.25,
+      "fx_date": "2026-10-28",
+      "item_count": 104,
+      "source_url": "https://www.vrggrl.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Store currency AUD (Shopify.currency active AUD; no en-us market, only en-nz, en-gb, en-ca; ?currency=USD returns the same AUD price; us.vrggrl.com is a password page), so US shoppers pay AUD. Shipping page quotes US rates in AUD. Dresses feed 104 products, all in stock, none marked down. Low: Carrie Mini Slip Dress A$49, Carrie Midi Slip Dress A$59; high: Fleur Sheer Maxi Dress A$289, Ivette Sequin Midi Dress A$249. Median A$169. 53 maxi, 36 mini, 19 midi by title; 30 mention print. Examples: Aftersun Linen Mini Dress A$155, Luci Sheer Maxi Dress Millefleur A$229. Sizes AU 4–16 (6–14 on all). USD at ECB 2026-10-28 (USD 1.1133, AUD 1.5830 per EUR)."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "materials": [],
+  "certifications": [
+    "B Corp"
+  ],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.vrggrl.com/meta.json",
+    "https://www.vrggrl.com/collections/dresses/products.json?limit=250",
+    "https://www.vrggrl.com/pages/shipping-delivery",
+    "https://www.vrggrl.com/pages/returns",
+    "https://www.vrggrl.com/pages/sizing",
+    "https://www.vrggrl.com/pages/about-us",
+    "https://www.vrggrl.com/pages/b-corp-faqs",
+    "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-sabo run): meta.json shop 'VRG GRL', Newstead, Queensland, AU, AUD; ships to most countries incl. US, CA, GB, AU; description 'Clothes you won’t see on every second person, because you're not every second person. Designed in Australia. Worn worldwide.' known_for paraphrases that line.",
+    "About page (WebFetch): 'Founded by Daniella and Natalia at just 17 and 19 years old', sisters; first store opened in Brisbane; designs 'dreamed up in-house'; hand-painted prints and bold colour. No founding year or manufacturing location given.",
+    "Shipping page: USA standard A$18 under A$200, free over A$200 (5–10 business days); express A$30 under A$300, A$15 over (2–5 days); dispatch within 24–48 hours; 'unless duties have been prepaid, payable import taxes and duties are the responsibility of the customer'. free_shipping_min_usd = A$200 at ECB 2026-10-28.",
+    "Returns page, USA: 'We gladly accept returns that are requested within 30 days of the order date'; '$15 USD for the cost of the return shipping' deducted from the refund (or own carrier); Refundid instant refund if lodged within 14 days; no exchanges (return for store credit and re-buy); no returns on sale, final sale, clearance, accessories, jewellery, intimates, vintage.",
+    "Sizing page: 'all sizes are in AUS sizes'; models generally wear a size 8. B Corp FAQs: 'VRG GRL scored 81.4 points on the B Impact Assessment' (minimum 80); B Corp logo in footer.",
+    "2026-10-29 (brands-like-sabo run): known_for set to its own tagline (Designed in Australia. Worn worldwide.); the earlier wording held an apostrophe that lint:facts reads as a quote."
+  ]
+}

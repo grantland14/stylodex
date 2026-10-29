@@ -1,0 +1,49 @@
+{
+  "slug": "raga",
+  "name": "RAGA",
+  "website_url": "https://shopraga.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Colorful Bohemian Clothing",
+  "hq_country": "US",
+  "founded_year": 2012,
+  "size_range": "XS–XL",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 50,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 120.0,
+      "max": 298.0,
+      "min_usd": 120.0,
+      "max_usd": 298.0,
+      "fx_date": null,
+      "item_count": 104,
+      "source_url": "https://shopraga.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Shopify feed: 104 dresses, none marked down, all in stock. Low: Bagulaa Drawstring Maxi $120; several at $135 (Afire Love Wrap Dress, Blue Dream Maxi Wrap Dress); median $220 (Ujala Smocked Maxi Dress, Sashi Midi Halter Dress); high: Anahita L/S Button Dress and Naya Midi Dress $298. Nisha Embroidered Maxi Dress $270."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://shopraga.com/",
+    "https://shopraga.com/meta.json",
+    "https://shopraga.com/collections/dresses/products.json?limit=250",
+    "https://shopraga.com/policies/refund-policy",
+    "https://shopraga.com/pages/about-us",
+    "https://ragadesigns.com/"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-johnny-was run): ragadesigns.com is a domain-for-sale page, not the brand. The official store is shopraga.com (meta.json name RAGA, Los Angeles, California, US, USD, myshopify shop-raga-la; ships_to_countries US only). Meta: 'colorful and beautifully bohemian clothing. A vintage-inspired lifestyle brand carefully crafted for the wild and free. Free U.S. Shipping on orders over $50.'",
+    "About us: Krishan Chaudry launched RAGA with his family in 2012; collections 'blend the worlds of his Indian heritage and Los Angeles home'; tagline 'BORN IN INDIA, RAISED IN VENICE BEACH'; address 922 West Venice Blvd, Los Angeles. Where it's made not stated.",
+    "Returns (refund policy): 30 days from receipt for a refund to the original payment, or store credit or exchange; customer pays return shipping; sale, gifted and special orders not returnable.",
+    "Dress sizes from feed: XS on 98, S–L on 87 (plus Small/Medium/Large on 11), XL on 56."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -11,7 +11,8 @@
   ],
   "notes": [
     "2026-10-29 (charlotte-russe run): www.lulus.com and its dresses page returned HTTP 403 to curl and WebFetch (one try each). No workaround. A human must confirm dress prices, US shipping and returns.",
-    "2026-10-29 (stores-like-akira run): www.lulus.com returned HTTP 403 to curl (StylodexBot UA), one try, no workaround. Still unverified."
+    "2026-10-29 (stores-like-akira run): www.lulus.com returned HTTP 403 to curl (StylodexBot UA), one try, no workaround. Still unverified.",
+    "2026-10-29 (brands-like-sabo run): www.lulus.com returned HTTP 403 to curl (StylodexBot UA), one try, no workaround. Still unverified."
   ],
   "checked_at": "2026-10-29"
 }

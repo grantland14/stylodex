@@ -7,10 +7,12 @@
   "prices": [],
   "sells_categories": [],
   "sources": [
-    "https://www.hellomolly.com/collections/dresses"
+    "https://www.hellomolly.com/collections/dresses",
+    "https://www.hellomolly.com/"
   ],
   "notes": [
-    "2026-10-29 (stores-like-lucy-in-the-sky run): www.hellomolly.com returns HTTP 429 to curl (StylodexBot UA) and to WebFetch; /collections/dresses/products.json returns 403. Not verified, no workaround; website_url not confirmed."
+    "2026-10-29 (stores-like-lucy-in-the-sky run): www.hellomolly.com returns HTTP 429 to curl (StylodexBot UA) and to WebFetch; /collections/dresses/products.json returns 403. Not verified, no workaround; website_url not confirmed.",
+    "2026-10-29 (brands-like-sabo run): www.hellomolly.com returned HTTP 429 to curl (StylodexBot UA), one try, no workaround. Still unverified."
   ],
   "checked_at": "2026-10-29"
 }

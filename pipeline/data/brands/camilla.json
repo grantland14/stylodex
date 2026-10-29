@@ -1,0 +1,50 @@
+{
+  "slug": "camilla",
+  "name": "Camilla",
+  "website_url": "https://camilla.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Designer Silk Kaftans",
+  "hq_country": "AU",
+  "size_range": "XXS–XXL; some styles to 4XL",
+  "has_plus": null,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 800,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 299.0,
+      "max": 3700.0,
+      "min_usd": 299.0,
+      "max_usd": 3700.0,
+      "fx_date": null,
+      "item_count": 289,
+      "source_url": "https://camilla.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US store (meta.json name 'Camilla eBoutique (US)', currency USD). Shopify feed, 2 pages, 289 dresses, none marked down, all in stock. Low: Tube Beach Midi Dress A Wink To The Wild $299; then Square Neck Beach Maxi Dress $399, Drape Jersey Mini Dress $449; median $849; high: Velvet Plunge Neck Draped Shoulder Dress Call Me A Carriage $3,700. Gowns $3,000–$3,500."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://camilla.com/",
+    "https://camilla.com/meta.json",
+    "https://camilla.com/collections/dresses/products.json?limit=250",
+    "https://camilla.com/policies/shipping-policy",
+    "https://camilla.com/pages/shipping-information",
+    "https://camilla.com/policies/refund-policy"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-johnny-was run): homepage title 'CAMILLA - The Official US Online Store Of Designer Camilla Franks'; meta 'Designer silk kaftans, luxury dresses & more' (known_for). meta.json: Alexandria, New South Wales, AU; currency USD; ships_to_countries 8 entries incl. US and CA.",
+    "Shipping (policies/shipping-policy): 'Free Delivery On Orders Over $800'; 'Standard Shipping $25 for all orders under $800'; sent from its Australian warehouse, 4–10 business days. Shipping information page: all international shipments DDP, 'Any shipping fees, customs or sales tax ... is calculated and included in the price at checkout'; US tracking temporarily delayed after tariff changes.",
+    "Returns (policies/refund-policy): refund within 14 days of the delivery date; no exchanges; final sale not returnable. Banner says 'Free Returns'.",
+    "Dress sizes from feed variants: XXS–XXL on most styles, 3XL on 26 and 4XL on 2 (first 250 products). Dress names end in the print name (e.g. Matadora Flora, Torero Libertine); descriptions call prints exclusive and limited edition and say silhouettes are designed by in-house artisans. 119 of the first 250 descriptions say 100% silk."
+  ],
+  "checked_at": "2026-10-29"
+}

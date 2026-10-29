@@ -26,6 +26,19 @@
       "source_url": "https://us.peppermayo.com/collections/tops/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "313 regular-price in-stock tops of 314 (none on sale, 1 sold out). Low: Hollywood Baby Tank Top $45; high: Ellington Long Sleeve Top $98. Currency USD (us.peppermayo.com cart.js; peppermayo.com is the AUD store). Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (jackets, bottoms, dresses, sets, knitwear, hoodies, men's) excluded by title/product type."
+    },
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 68.0,
+      "max": 150.0,
+      "min_usd": 68.0,
+      "max_usd": 150.0,
+      "fx_date": null,
+      "item_count": 829,
+      "source_url": "https://us.peppermayo.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US store (us.peppermayo.com, cart.js currency USD). Full dresses feed 832 products (408 maxi, 364 mini, 57 midi by product type): 3 sold out, none marked down, 829 regular-price in stock. Low: Lavelle Knit Mini Dress - Black and Side Effects Mesh Maxi Dress - Black Orchid $68; high: Lanaila Maxi Dress - Yellow and Orelli Shell Sequin Knit Maxi Dress - Ivory $150; Celandine Beaded Maxi Dress $143. Median $98. Sizes US 0–18 on about 804 dresses. Vendor 'Peppermayo Exclusive'."
     }
   ],
   "materials": [],
@@ -37,13 +50,19 @@
     "https://us.peppermayo.com/collections/tops/products.json?limit=250",
     "https://us.peppermayo.com/policies/shipping-policy",
     "https://us.peppermayo.com/policies/refund-policy",
-    "https://us.peppermayo.com/cart.js"
+    "https://us.peppermayo.com/cart.js",
+    "https://us.peppermayo.com/meta.json",
+    "https://us.peppermayo.com/collections/dresses/products.json?limit=250"
   ],
   "checked_at": "2026-10-29",
   "notes": [
     "Meta: 'the go-to ladies wear store for pieces that turn everyday outfits into standout looks'.",
     "US shipping: standard 2–6 business days, free over $99 ($9.95 under); express free over $250; 'All orders are inclusive of all customs duties and taxes.'",
     "Returns: store credit or exchange within 21 days of delivery, refund within 14 days; full-price items only.",
-    "size_range from tops variants (US 0–18 on 272 tops; some XS–XL)."
+    "size_range from tops variants (US 0–18 on 272 tops; some XS–XL).",
+    "2026-10-29 (brands-like-sabo run): dresses price added from the US dresses feed; meta.json 'Peppermayo US', Compton, California, USD, ships_to_countries US."
+  ],
+  "sells_categories": [
+    "dresses"
   ]
 }

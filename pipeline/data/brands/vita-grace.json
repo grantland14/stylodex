@@ -1,0 +1,60 @@
+{
+  "slug": "vita-grace",
+  "name": "Vita Grace",
+  "website_url": "https://www.vitagrace.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Affordable Luxury Womenswear",
+  "hq_country": "AE",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–L",
+  "has_plus": false,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 600,
+  "returns_days": 7,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 111.0,
+      "max": 262.0,
+      "min_usd": 111.0,
+      "max_usd": 262.0,
+      "fx_date": null,
+      "item_count": 58,
+      "source_url": "https://www.vitagrace.com/collections/dresses/products.json?limit=250&currency=USD",
+      "checked_at": "2026-10-29",
+      "note": "US-dollar prices the store presents (currency=USD; base currency AED, where the same dresses are AED 400–950). Dresses feed 66 products: 8 sold out, none marked down, 58 regular-price in stock. Low: Erika Button Down Dress, Issey Contrast Linen Dress, Jackie Stripe Tie Waist Shirt Dress $111; high: Tula Elegant Resort Denim Dress $262; Yasmin Lace 70s Icon Dress, Tillie Volume Sleeve Embroidered Dress $221. Median about $193. 15 of the 58 name linen in title or description, 23 cotton. Sizes XS, S, M, L (XS on 62 of 66)."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": "Made in its own atelier in the UAE",
+  "sale_pattern": null,
+  "sources": [
+    "https://www.vitagrace.com/meta.json",
+    "https://www.vitagrace.com/collections/dresses/products.json?limit=250",
+    "https://www.vitagrace.com/collections/dresses/products.json?limit=250&currency=USD",
+    "https://www.vitagrace.com/pages/shipping",
+    "https://www.vitagrace.com/pages/returns",
+    "https://www.vitagrace.com/pages/vita-grace-world"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-sabo run): meta.json shop 'VITA GRACE', Dubai, AE, currency AED, myshopify vitagrace-international; ships to most countries incl. US, CA, GB, AU; description 'An online fashion boutique where you will find a carefully curated collection of clothing & accessories. Our aim is to offer affordable luxury where style is synonymous with comfort.' Outside lists call it a UK retailer; its own site says Dubai. hq_country AE.",
+    "Shipping page (pages/shipping): USA 'USD $25.00 | 3-5 days transit time with DHL', 'FREE SHIPPING for orders USD $600+', '(NO ADDITIONAL TARIFFS)'; orders usually ship within 2 working days; some items have longer dispatch times; all deliveries must be signed for; no PO boxes.",
+    "Returns page: 'You have 7 days from the day of receiving your order to register your return', then dispatch within 7 days; returns go to its UAE warehouse by tracked DHL; international customs taxes not refunded; reduced-price items not returnable; bodysuits and swimwear not returnable.",
+    "Vita Grace World page: designs 'created within our own Vita Grace atelier by skilled tailors and pattern masters, working side by side with our design team in the UAE'; 'lower volumes with frequent newness'; 'mainly we only manufacture to your requirements'; ships worldwide from its own Dubai distribution hub."
+  ]
+}

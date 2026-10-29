@@ -28,6 +28,19 @@
       "source_url": "https://rixolondon.com/en-us/collections/outerwear/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "49 regular-price items of 52 in the collection (2 on sale excluded, 1 non-outerwear or other-vendor excluded). US market (/en-us). Sizes run to 3XL/UK20 on most coats, 6XL/UK26 on 8."
+    },
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 285.0,
+      "max": 2175.0,
+      "min_usd": 285.0,
+      "max_usd": 2175.0,
+      "fx_date": null,
+      "item_count": 182,
+      "source_url": "https://rixolondon.com/en-us/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US market feed (/en-us/, Shopify.currency active USD; product pages priceCurrency USD), 202 dresses, none marked down, 20 out of stock, 182 regular-price in stock. Low: Eleanora - Pearl $285; Sandrine (several jacquards and Mini Dot Navy) $295; median $485 (Avalyn, Maura, Niara); high: Clementine (Daisy Jacquard Champagne, Rose Bud Silk Jacquard) $2,175. Embroidered dresses include Edina - Pansy Embroidery White $395, Susana - Blossom Cutwork Embroidery Navy $315, Aprilia - Gracie Embroidery Black $545. The GBP base feed lists the same styles from £195 (e.g. Sandrine £195 vs $295)."
     }
   ],
   "sources": [
@@ -37,12 +50,18 @@
     "https://rixolondon.com/en-us/pages/delivery",
     "https://rixolondon.com/en-us/pages/returns",
     "https://rixolondon.com/en-us/policies/refund-policy",
-    "https://rixolondon.com/en-us/collections/outerwear/products.json?limit=250"
+    "https://rixolondon.com/en-us/collections/outerwear/products.json?limit=250",
+    "https://rixolondon.com/en-us/collections/dresses/products.json?limit=250",
+    "https://rixolondon.com/en-us/products/sandrine-mini-dot-navy"
   ],
   "notes": [
     "Title: 'RIXO's Official Online Store – Shop Vintage-Inspired Collections'. meta.json: Hammersmith, GB; four London stores.",
-    "US: standard delivery $25 on all orders, duties included, taxes at checkout. Returns within 14 days of delivery, $5 processing fee, DHL drop-off; US sale and Archive items are final sale. Online orders can't be returned to its New York store (so it has a New York store)."
+    "US: standard delivery $25 on all orders, duties included, taxes at checkout. Returns within 14 days of delivery, $5 processing fee, DHL drop-off; US sale and Archive items are final sale. Online orders can't be returned to its New York store (so it has a New York store).",
+    "2026-10-29 (brands-like-johnny-was run): dresses row added from the US market feed in USD (what a US shopper is charged). Dress size options XXS/UK6 to 6XL/UK26, with Petite and Regular lengths on some styles."
   ],
   "checked_at": "2026-10-29",
-  "slug": "rixo"
+  "slug": "rixo",
+  "sells_categories": [
+    "dresses"
+  ]
 }

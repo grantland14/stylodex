@@ -1,0 +1,49 @@
+{
+  "slug": "show-me-your-mumu",
+  "name": "Show Me Your Mumu",
+  "website_url": "https://showmeyourmumu.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Womenswear and Bridesmaid Dresses",
+  "hq_country": "US",
+  "size_range": "XXS–XXL; some styles 1X–4X",
+  "has_plus": true,
+  "ships_to": [
+    "US",
+    "CA",
+    "AU"
+  ],
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 120.0,
+      "max": 438.0,
+      "min_usd": 120.0,
+      "max_usd": 438.0,
+      "fx_date": null,
+      "item_count": 276,
+      "source_url": "https://showmeyourmumu.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Shopify feed, 4 pages, 835 products: 456 marked down, 47 out of stock, 56 not dresses; 276 regular-price in-stock dresses. Low: Clubhouse Dress ~ Pink Palms $120; Celine Mini Dress $138; median $198 (Lisa Maxi Dress in several satins and Cottage Floral Blue); high: Lets Go Mini Dress ~ Martini Beaded Sequins $438. Embroidered: Stephanie Dress ~ 3D Floral Embroidery $298, Steph Mini Dress ~ Beachfront Embroidery $248, Ciao Mini Dress ~ White Eyelet Embroidery $228."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://showmeyourmumu.com/",
+    "https://showmeyourmumu.com/meta.json",
+    "https://showmeyourmumu.com/collections/dresses/products.json?limit=250",
+    "https://showmeyourmumu.com/policies/shipping-policy",
+    "https://showmeyourmumu.com/policies/refund-policy"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-johnny-was run): homepage title 'Women's Clothing & Bridesmaids: $10 Off – Show Me Your Mumu' (known_for); menu has Dresses, Guest, Bridesmaids Dresses, Bride, Weddings. meta.json: Los Angeles, California, US; USD; 183 ship-to countries incl. US, CA, AU (GB not listed). Store locator linked but not read, so us_stores empty.",
+    "Shipping: free domestic shipping for customers who create an account; guest checkout $6.99 (USPS, 2–7 business days); FedEx Ground $10.99; ships from Los Angeles; international flat $29.99, duties unpaid, international orders final sale.",
+    "Returns (refund policy): within 30 days of delivery for a refund minus an $8 return fee, exchange or gift card; exchanges always free; store credit or exchange waives the fee; Final Sale items not returnable; domestic returns only.",
+    "Dress sizes from feed: XS–XXL on nearly all 276, XXS on 142, 1X–3X on 17 and 4X on 7."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -35,7 +35,8 @@
     "https://www.johnnywas.com/shipping.html",
     "https://www.johnnywas.com/returns-and-exchanges.html",
     "https://www.johnnywas.com/size-guide.html",
-    "https://www.johnnywas.com/stores?showMap=true&horizontalView=true&isForm=true"
+    "https://www.johnnywas.com/stores?showMap=true&horizontalView=true&isForm=true",
+    "https://www.oxfordinc.com/brands/"
   ],
   "notes": [
     "Homepage title 'Johnny Was | Chic Clothing & Vintage-Inspired Style'; 'an international women's lifestyle brand based in sunny Southern California' (hq_country US).",
@@ -43,7 +44,10 @@
     "Returns: full-price or standard-markdown items within 30 days of delivery; US mail and in-store returns free; items bought at 50%+ off are final sale.",
     "Size guide (dresses): XXS–XXL plus 1X–3X; numeric 2–26; petite PXS–PXXL.",
     "Store locator returned no results (map not configured), so us_stores is empty.",
-    "Other dresses: Diovanna Ruched Maxi Dress $298, Aurorya Midi Dress $248, Janelle V-Neck Ruched Dress $230."
+    "Other dresses: Diovanna Ruched Maxi Dress $298, Aurorya Midi Dress $248, Janelle V-Neck Ruched Dress $230.",
+    "2026-10-29 (brands-like-johnny-was run): Oxford Industries brands page lists Johnny Was among the lifestyle brands it owns: 'Johnny Was designs women's clothing that unites vintage and boho chic with California dreaming'; 'first embodied in its original Santa Monica store' (https://www.oxfordinc.com/brands/). Oxford HQ Atlanta, Georgia.",
+    "2026-10-29 (brands-like-johnny-was run): dresses page re-read (WebFetch): '64 results'; 13 visible, none marked down, $230–$498 (Veronyca Sequin Midi Slip Dress $398, Diovanna Ruched Maxi Dress $298, Toto Bias Maxi Dress $498, The Janie Favorite Midi Dress $248, Simonie Midi Dress $348), consistent with the stored $198–$498 row, so the price row is kept. No visible dress is named or described as embroidered; 'Embroidered Tops' and embroidered outerwear are separate nav categories. Silk blends named: Toto Bias Maxi 75% viscose 25% silk; Davidii Shirred Mini and Makayla Peasant Maxi 65% viscose 35% silk."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "parent_company": "Oxford Industries"
 }
