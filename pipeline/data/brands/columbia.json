@@ -2,13 +2,25 @@
   "slug": "columbia",
   "name": "Columbia",
   "website_url": "https://www.columbia.com",
-  "status": "unverified",
+  "status": "verified",
   "kind": "brand",
   "sources": [
-    "https://www.columbia.com"
+    "https://www.columbia.com",
+    "https://investor.columbia.com/",
+    "https://investor.columbia.com/sec-filings/annual-reports/content/0001050797-26-000028/colm-20251231.htm",
+    "https://investor.columbia.com/sec-filings/all-sec-filings/content/0001050797-26-000136/colm-20260630.htm"
   ],
   "notes": [
-    "columbia.com men's jackets returned HTTP 403 to the bot UA and WebFetch, 2026-10-29. Columbia Sportswear 10-K (https://www.sec.gov/Archives/edgar/data/1050797/000105079726000028/colm-20251231.htm): HQ Portland, Oregon; founded 1938; 'outdoor apparel, footwear, accessories and equipment'; over 170 US retail stores across its four brands; no jackets named in the read part. Human check."
+    "columbia.com men's jackets returned HTTP 403 to the bot UA and WebFetch, 2026-10-29. Columbia Sportswear 10-K (https://www.sec.gov/Archives/edgar/data/1050797/000105079726000028/colm-20251231.htm): HQ Portland, Oregon; founded 1938; 'outdoor apparel, footwear, accessories and equipment'; over 170 US retail stores across its four brands; no jackets named in the read part. Human check.",
+    "2026-10-29 (Sierra page run): columbia.com still refuses reads, so status, us_stores and coats-jackets come from the company's own investor site (enrich.md parent-company rule). 2025 10-K (https://investor.columbia.com/sec-filings/annual-reports/content/0001050797-26-000028/colm-20251231.htm): 'Founded in 1938 in Portland, Oregon'; 'Our Columbia brand offers authentic, high-value outdoor apparel, footwear, accessories and equipment products suited for hiking, trail running, snow sports, and fishing and hunting'; risk factors name 'our outerwear and cold weather footwear products'; DTC channel 'includes a network of branded, outlet, temporary clearance and employee retail stores'; 'As of December 31, 2025, our U.S. DTC brick-and-mortar business operated 173 retail stores and 8 temporary clearance locations'. Q2 2026 10-Q (https://investor.columbia.com/sec-filings/all-sec-filings/content/0001050797-26-000136/colm-20260630.htm): 'As of June 30, 2026, our U.S. business operated 169 retail stores'. Store counts are company-wide (Columbia, SOREL, Mountain Hardwear, prAna), not Columbia-brand only. No prices, sizes or shipping terms read: human check on columbia.com."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "known_for": "Outdoor Apparel and Footwear",
+  "hq_country": "US",
+  "founded_year": 1938,
+  "parent_company": "Columbia Sportswear Company",
+  "us_stores": true,
+  "sells_categories": [
+    "coats-jackets"
+  ]
 }

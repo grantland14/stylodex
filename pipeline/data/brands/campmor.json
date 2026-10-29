@@ -1,0 +1,14 @@
+{
+  "slug": "campmor",
+  "name": "Campmor",
+  "website_url": "https://www.campmor.com",
+  "status": "unverified",
+  "kind": "retailer",
+  "sources": [
+    "https://www.campmor.com/"
+  ],
+  "notes": [
+    "2026-10-29 (Sierra page run): campmor.com serves a Cloudflare 'Attention Required!' block to the StylodexBot UA and 403 to WebFetch; not worked around. Human check."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -3,9 +3,9 @@
   "website_url": "https://derschutze.com",
   "status": "verified",
   "kind": "brand",
-  "known_for": "Hamburg-Based Clothing Brand",
+  "known_for": "Embroidered Denim and Hoodies",
   "hq_country": "DE",
-  "size_range": "S–XXL, some XS",
+  "size_range": "S–XXL, some XS; waists 26–36",
   "ships_to": [
     "US",
     "CA",
@@ -27,10 +27,24 @@
       "source_url": "https://derschutze.com/collections/tops/products.json?limit=250&country=US",
       "checked_at": "2026-10-29",
       "note": "US market prices (country=US; base EUR, e.g. riot hoodie €98 = $117). Hoodies and zip-ups in the tops collection, kids and knit zips excluded: 42, all regular price. Regular = no variant with compare_at_price above price; tags without a compare-at price are not markdowns."
+    },
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 117,
+      "max": 208,
+      "min_usd": 117,
+      "max_usd": 208,
+      "fx_date": null,
+      "item_count": 46,
+      "source_url": "https://derschutze.com/collections/pants/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "US market prices (country=US; product page Shopify.currency active USD, rate 1.17 on EUR base, e.g. 'awakening v2' denim €109 = $131). Denim trousers in the pants collection, men's and WMNS: 50 listed, 4 sold out, 46 regular-price in stock, none marked down (no variant with compare_at_price above price). Most at $137 (21); low 'awakening' Denim blue $117; high 'blossom v2' patchwork Denim $208."
     }
   ],
   "sells_categories": [
-    "hoodies"
+    "hoodies",
+    "jeans"
   ],
   "sources": [
     "https://derschutze.com/",
@@ -39,13 +53,19 @@
     "https://derschutze.com/policies/shipping-policy",
     "https://derschutze.com/policies/refund-policy",
     "https://derschutze.com/pages/the-story-behind-derschutze",
-    "https://derschutze.com/pages/physical-stores"
+    "https://derschutze.com/pages/physical-stores",
+    "https://derschutze.com/collections/pants/products.json?limit=250&country=US",
+    "https://derschutze.com/products/awakening-v2-denim?country=US",
+    "https://derschutze.com/products.json?limit=250&page=1&country=US"
   ],
   "notes": [
     "Homepage meta description: 'clothing brand based in Hamburg'. Story page: founded by Yusuf Arif Yücel, a German designer with Turkish roots who grew up in East Hamburg (no year on the page).",
     "Stores page: London (27 Peter St), New York (22 Spring St, NY 10012), Berlin. US store, so us_stores true.",
     "Shipping to the US: €23.99 flat (may rise up to €10 by cart volume); no free-shipping threshold stated. Returns: 14 days after receipt.",
-    "Hoodie descriptions mostly 480gsm (16) or 460gsm (9); e.g. 'won' Hoodie black $106 (480gsm, 80/20 preshrunk cotton, made in Türkiye), 'riot' Hoodie black $117. Sizes small–xxlarge on all 42, xsmall on 14."
+    "Hoodie descriptions mostly 480gsm (16) or 460gsm (9); e.g. 'won' Hoodie black $106 (480gsm, 80/20 preshrunk cotton, made in Türkiye), 'riot' Hoodie black $117. Sizes small–xxlarge on all 42, xsmall on 14.",
+    "2026-10-29 (derschutze page run): whole catalogue (/products.json, 750 products, 3 pages): jeans are the largest product type by title (about 125 denim trousers, against 51 hoodies and 37 zips); pants collection holds 50 current denim trousers. known_for corrected from the homepage meta description ('clothing brand based in Hamburg') to the brand's own positioning: story page 'Through detailed artwork, embroidery, and craftsmanship…' and product copy 'embroidery on front and back'.",
+    "2026-10-29 (derschutze page run): jeans copy mostly '14,5oz denim / 100% cotton' (26 of 50 listings state 14.5oz; others 11–15oz), 'embroidery on front and back', fits baggy (16), straight (9), wide (4), bootcut (3). Men's waists 26–36 (most 28–36); WMNS styles sized W32–W44. Examples: 'hellboy' black raw Denim $137, 'yakuza' raw Denim black $148, 'lotus v2' indigo Denim $160, 'blossom v2' patchwork Denim black $208, 'awakening' Denim blue $117.",
+    "2026-10-29 (derschutze page run): shipping policy: 'Releases are always Mondays 18 CEST/CET'; US shipping €23.99 (about $26.71 at ECB 1.1133, 2026-10-28), may rise up to €10 by cart volume; release weeks can add up to 6 business days of processing. Refund policy: 14 days after receiving to request a return. Stores page: New York store at 22 Spring St, NY 10012."
   ],
   "checked_at": "2026-10-29"
 }

@@ -1,0 +1,14 @@
+{
+  "slug": "backcountry",
+  "name": "Backcountry",
+  "website_url": "https://www.backcountry.com",
+  "status": "unverified",
+  "kind": "retailer",
+  "sources": [
+    "https://www.backcountry.com/"
+  ],
+  "notes": [
+    "2026-10-29 (Sierra page run): backcountry.com returns a CloudFront 403 ('The request could not be satisfied') to the StylodexBot UA and an empty page to WebFetch; no parent-company source found for status or US shipping. Human check."
+  ],
+  "checked_at": "2026-10-29"
+}

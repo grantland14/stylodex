@@ -1,0 +1,25 @@
+{
+  "name": "Calvin Klein",
+  "website_url": "https://www.calvinklein.us",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Underwear, Jeans and Apparel",
+  "founded_year": 1968,
+  "parent_company": "PVH Corp.",
+  "us_stores": true,
+  "sells_categories": [
+    "jeans"
+  ],
+  "sources": [
+    "https://www.calvinklein.us/en/men/apparel/jeans",
+    "https://stores.calvinklein.us/",
+    "https://www.sec.gov/Archives/edgar/data/78239/000007823926000021/pvh-20260201.htm",
+    "https://www.pvh.com/brands/calvin-klein"
+  ],
+  "notes": [
+    "2026-10-29 (derschutze page run): calvinklein.us (home, robots.txt, men's jeans) and pvh.com answer 403 to curl (StylodexBot UA) and WebFetch; no workaround, no prices. Status verified from official sources (enrich.md §2): its own US store locator and the parent's 10-K.",
+    "PVH Corp. 10-K (fiscal year ended 1 Feb 2026, filed 2026-03-31, EDGAR): 'Calvin Klein is one of the world's leading global fashion lifestyle brands, founded in New York in 1968'; 'Across underwear, jeans, apparel, accessories, home and fragrance…'; brands include Calvin Klein Jeans; products 'principally consist of men's and women's sportswear, jeanswear, underwear, swimwear, footwear and accessories'.",
+    "stores.calvinklein.us ('Our Stores, United States of America'): 114 locations listed across 30 states plus Guam and Puerto Rico (CA 24, FL 18, TX 8 the most)."
+  ],
+  "checked_at": "2026-10-29"
+}

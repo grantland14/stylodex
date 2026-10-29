@@ -1,0 +1,560 @@
+{
+ "subject": "Sierra",
+ "slug": "sierra",
+ "url_prefix": "stores",
+ "category": {
+  "slug": "coats-jackets",
+  "name": "Coats & Jackets",
+  "why": "Sierra is a multi-brand off-price store (kind retailer). TJX's 10-K describes it as 'a leading off-price retailer of brand name active and outdoor apparel, footwear, and gear (including sporting goods, snow and water sport, camping, fishing)', and the one outside list that names alternatives frames them for 'outerwear, fleece, coats' and 'weatherproofed outerwear'. So C is the outdoor department's like-for-like item, jackets, rather than womens-clothing (whose shared prices mean women's jeans, which no outdoor source compares). Stored coats-jackets prices for the picks are men's jackets (the same basis the Filson, Eddie Bauer and Lands' End pages used). Sierra's own jackets can't be read (sierra.com serves TJX's error page) and tjx.com doesn't name jackets, so the anchor has no coats-jackets price or sells_categories entry and every price_relation is null."
+ },
+ "serp": [
+  {
+   "keyword": "stores like sierra",
+   "position": 1,
+   "url": "https://www.steepandcheap.com/",
+   "kept": false,
+   "why_dropped": "a store's own homepage, not a list; Steep & Cheap is a candidate store but steepandcheap.com returns CloudFront 403 to the bot UA, and no qualifying source names it"
+  },
+  {
+   "keyword": "stores like sierra",
+   "position": 2,
+   "url": "https://www.reddit.com/r/CampingGear/comments/11uusjh/are_there_any_websites_that_are_like_what_sierra/",
+   "kept": false,
+   "why_dropped": "reddit: WebFetch refuses reddit.com; not read, no workaround tried"
+  },
+  {
+   "keyword": "stores like sierra",
+   "position": 2,
+   "url": "https://www.reddit.com/r/CampingandHiking/comments/1kt31d/looking_for_the_best_of_the_best_discount_gear/",
+   "kept": false,
+   "why_dropped": "reddit sitelink; not read"
+  },
+  {
+   "keyword": "stores like sierra",
+   "position": 2,
+   "url": "https://www.reddit.com/r/CampingandHiking/comments/16yju04/cheaper_outdoor_gear/",
+   "kept": false,
+   "why_dropped": "reddit sitelink; not read"
+  },
+  {
+   "keyword": "stores like sierra",
+   "position": 3,
+   "url": "https://bearfoottheory.com/where-to-buy-discounted-outdoor-gear/",
+   "kept": false,
+   "why_dropped": "read 2026-10-29 (Kristen Bor, Jan 8 2023): a general discount-gear roundup that lists Sierra Trading Post as one of 15 places; recommends nothing as an alternative to Sierra, so no store gets evidence from it"
+  },
+  {
+   "keyword": "stores like sierra",
+   "position": 4,
+   "url": "https://www.sierra.com/",
+   "kept": false,
+   "why_dropped": "the anchor's own site"
+  },
+  {
+   "keyword": "stores like sierra",
+   "position": 7,
+   "url": "https://www.facebook.com/groups/455632648316853/posts/1853345975212173/",
+   "kept": false,
+   "why_dropped": "Facebook group post; login wall"
+  },
+  {
+   "keyword": "stores like sierra",
+   "position": 8,
+   "url": "https://backpackinglight.com/forums/topic/2920/",
+   "kept": false,
+   "why_dropped": "general 'list of discount and closeout stores' thread, not alternatives to Sierra; not counted"
+  },
+  {
+   "keyword": "stores like sierra",
+   "position": 9,
+   "url": "https://247wallst.com/retail/2025/01/23/i-used-to-only-shop-at-rei-but-these-10-outdoor-retailers-are-better/",
+   "kept": false,
+   "why_dropped": "about alternatives to REI, not to Sierra"
+  },
+  {
+   "keyword": "stores like sierra",
+   "position": 10,
+   "url": "https://backpackers.com/gear/best/outdoor-gear-stores/",
+   "kept": false,
+   "why_dropped": "general outdoor-store guide; HTTP 403 to WebFetch"
+  },
+  {
+   "keyword": "stores like sierra trading post",
+   "position": 1,
+   "url": "https://www.reddit.com/r/BuyItForLife/comments/1f068x0/is_there_a_site_that_is_the_equivalent_of_the_old/",
+   "kept": false,
+   "why_dropped": "AI-overview sitelink; reddit; not read"
+  },
+  {
+   "keyword": "stores like sierra trading post",
+   "position": 2,
+   "url": "https://forums.paddling.com/t/your-favorite-online-gear-stores/29944?page=2",
+   "kept": false,
+   "why_dropped": "307 to tollbit.paddling.com (paid bot access); not read, no workaround. A general favourite-stores thread in any case"
+  },
+  {
+   "keyword": "stores like sierra trading post",
+   "position": 3,
+   "url": "https://www.vftt.org/threads/100-guarantee-stores.4026/",
+   "kept": false,
+   "why_dropped": "HTTP 403 to WebFetch; about satisfaction-guarantee stores"
+  },
+  {
+   "keyword": "stores like sierra trading post",
+   "position": 4,
+   "url": "https://backpackinglight.com/forums/topic/63858/",
+   "kept": false,
+   "why_dropped": "read: a 2012 thread on replacing clothes after weight loss; posters name Sierra Trading Post, Campmor and REI side by side as places with deals, not as alternatives to Sierra"
+  },
+  {
+   "keyword": "stores like sierra trading post",
+   "position": 5,
+   "url": "https://forums.paddling.com/t/big-outdoor-outfitters/17682",
+   "kept": false,
+   "why_dropped": "tollbit-gated paddling forum; not read"
+  },
+  {
+   "keyword": "stores like sierra trading post",
+   "position": 6,
+   "url": "https://www.backcountrypost.com/threads/outdoor-clothing-fit.4274",
+   "kept": false,
+   "why_dropped": "about clothing fit, not alternatives"
+  },
+  {
+   "keyword": "stores like sierra trading post",
+   "position": 7,
+   "url": "https://www.facebook.com/groups/skitheeast/posts/10162250277595718/",
+   "kept": false,
+   "why_dropped": "Facebook group post about secondhand ski wear"
+  },
+  {
+   "keyword": "stores like sierra trading post",
+   "position": 8,
+   "url": "https://www.indeed.com/cmp/Sierra-Trading-Post/reviews?fcountry=US&floc=Burlington%2C+VT",
+   "kept": false,
+   "why_dropped": "employee reviews"
+  },
+  {
+   "keyword": "stores like sierra trading post",
+   "position": 9,
+   "url": "https://leadiq.com/c/gk-sierra/5a1d99652300005c00882262",
+   "kept": false,
+   "why_dropped": "company-data profile"
+  },
+  {
+   "keyword": "stores like sierra trading post",
+   "position": 10,
+   "url": "https://www.linkedin.com/in/nicole-hamby-2640408a",
+   "kept": false,
+   "why_dropped": "LinkedIn profile"
+  },
+  {
+   "keyword": "sierra trading post alternatives",
+   "position": null,
+   "url": null,
+   "kept": false,
+   "why_dropped": "Ahrefs serp-overview returned no positions"
+  },
+  {
+   "keyword": "similar to sierra trading post",
+   "position": 1,
+   "url": "https://plaintips.com/stores-like-sierra-trading-post",
+   "kept": true,
+   "note": "read 2026-10-29: PlainTips.com, '10 Stores Like Sierra To Find The HOTTEST Deals On Outdoor Sporting Goods' (author slug rehangillani, no date shown); intro: 'I'm going to share some of the best alternatives to Sierra Trading Post'; 10 numbered stores. A mass 'alternatives' site with some outdated facts (e.g. '950 Sierra Trading Post stores'), but its list is explicitly alternatives to Sierra"
+  },
+  {
+   "keyword": "similar to sierra trading post",
+   "position": 2,
+   "url": "https://www.instya.com/site/sierratradingpost.com",
+   "kept": false,
+   "why_dropped": "read: templated similar-sites directory, no byline or date, lists unrelated menswear sites (Fields Menswear, Long Tie Store)"
+  },
+  {
+   "keyword": "similar to sierra trading post",
+   "position": 3,
+   "url": "https://tworoamingsouls.com/8-best-websites-to-buy-discounted-outdoor-gear/",
+   "kept": false,
+   "why_dropped": "read (Emily Junda, updated Jan 4 2026): general roundup listing Sierra Trading Post among 20 discount sites; no store recommended as an alternative to Sierra"
+  },
+  {
+   "keyword": "similar to sierra trading post",
+   "position": 4,
+   "url": "https://www.sortoflegal.com/15-places-to-find-discounted-hiking-camping-and-other-outdoor-gear/",
+   "kept": false,
+   "why_dropped": "read (Jul 18 2021): general roundup; compares Sierra to TJ Maxx ('like the TJ Maxx of outdoor clothing and gear') but presents MooseJaw, Sportsman's Warehouse and BackCountry as REI alternatives, not Sierra alternatives"
+  },
+  {
+   "keyword": "similar to sierra trading post",
+   "position": 5,
+   "url": "https://sierratradingpost.knoji.com/alternatives/",
+   "kept": false,
+   "why_dropped": "HTTP 403 to WebFetch and to the bot UA (sierra.knoji.com/alternatives/ too); not read"
+  },
+  {
+   "keyword": "similar to sierra trading post",
+   "position": 7,
+   "url": "https://www.zippia.com/sierra-trading-post-careers-38380/competitors/",
+   "kept": false,
+   "why_dropped": "employer competitors, not shopping alternatives"
+  },
+  {
+   "keyword": "similar to sierra trading post",
+   "position": 8,
+   "url": "https://backpackers.com/outdoor-guides/guide-to-online-outdoor-gear-stores/",
+   "kept": false,
+   "why_dropped": "HTTP 403 to WebFetch"
+  },
+  {
+   "keyword": "similar to sierra trading post",
+   "position": 9,
+   "url": "https://bearfoottheory.com/where-to-buy-discounted-outdoor-gear/",
+   "kept": false,
+   "why_dropped": "same general roundup as above"
+  },
+  {
+   "keyword": "similar to sierra trading post",
+   "position": 10,
+   "url": "https://www.switchbacktravel.com/best-sites-buy-outdoor-gear",
+   "kept": false,
+   "why_dropped": "read (updated Aug 26 2024): general guide; contrasts Sierra with REI Outlet and CampSaver ('Sierra is decidedly less performance-oriented') but recommends no store as an alternative to Sierra"
+  },
+  {
+   "keyword": "(WebSearch) sites like sierra trading post",
+   "position": null,
+   "url": "https://www.tentside.com/stores-like-sierra-trading-post/",
+   "kept": false,
+   "why_dropped": "title 'Stores Like Sierra Trading Post and Steep and Cheap', but WebFetch got HTTP 429 and the bot UA a Vercel Security Checkpoint; not worked around. Re-read by a human: likely qualifying evidence"
+  },
+  {
+   "keyword": "(WebSearch) sites like sierra trading post",
+   "position": null,
+   "url": "https://www.similarsitesearch.com/sites/sierra-trading-post/",
+   "kept": false,
+   "why_dropped": "read: generated similar-sites directory ('13 sites like Macy's' links, 'Discontinued?' buttons, the same boilerplate pro line on every entry: 'competitive prices, loyalty programs, free shipping offers'). Treated like a scraped list (enrich.md §1.2); its names (Macy's, REI, Backcountry, Sportsman's Warehouse, LL Bean, Campmor, Kohl's) not counted"
+  },
+  {
+   "keyword": "(WebSearch) stores like sierra",
+   "position": null,
+   "url": "https://www.phillymag.com/be-well-philly/2019/03/11/sierra-outdoor-gear/",
+   "kept": false,
+   "why_dropped": "a Sierra store opening piece: the store 'looked like a combination of Dick's Sporting Goods and T.J. Maxx'. Describes Sierra; recommends no alternative"
+  },
+  {
+   "keyword": "(directory) disco",
+   "position": null,
+   "url": "https://www.discobrands.co/sitemap.xml",
+   "kept": false,
+   "why_dropped": "no Sierra page in the disco directory's sitemap (6,227 URLs); /brands/sierra and /blogs/*-like-sierra* 404"
+  }
+ ],
+ "co_stocking": [
+  {
+   "retailer": null,
+   "url": null,
+   "used": false,
+   "why": "enrich.md §1.4b doesn't apply: Sierra is itself a multi-brand retailer, not a brand stocked by one."
+  }
+ ],
+ "candidate_pool": {
+  "source": "public.brand_relationships (Apart Style, read-only)",
+  "result": "not queried this run: Sierra is a retailer and pool rows carry no outside evidence, so they could not become picks; the one qualifying source already names every candidate checked"
+ },
+ "candidates": [
+  {
+   "name": "Backcountry",
+   "slug": "backcountry",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-sierra-trading-post"
+    }
+   ]
+  },
+  {
+   "name": "Campmor",
+   "slug": "campmor",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-sierra-trading-post"
+    }
+   ]
+  },
+  {
+   "name": "Moosejaw",
+   "slug": "moosejaw",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-sierra-trading-post"
+    }
+   ]
+  },
+  {
+   "name": "LL Bean",
+   "slug": "ll-bean",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-sierra-trading-post"
+    }
+   ]
+  },
+  {
+   "name": "The North Face",
+   "slug": "the-north-face",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-sierra-trading-post"
+    }
+   ]
+  },
+  {
+   "name": "Columbia",
+   "slug": "columbia",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-sierra-trading-post"
+    }
+   ]
+  },
+  {
+   "name": "Patagonia",
+   "slug": "patagonia",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-sierra-trading-post"
+    }
+   ]
+  },
+  {
+   "name": "Eddie Bauer",
+   "slug": "eddie-bauer",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-sierra-trading-post"
+    }
+   ]
+  },
+  {
+   "name": "Dick's Sporting Goods",
+   "slug": "dicks-sporting-goods",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-sierra-trading-post"
+    }
+   ]
+  },
+  {
+   "name": "Orvis",
+   "slug": "orvis",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-sierra-trading-post"
+    }
+   ]
+  }
+ ],
+ "picks": [
+  {
+   "slug": "columbia",
+   "rank": 1,
+   "independent_sources": 1,
+   "single_source": true,
+   "store_type": "brand stores and outlets",
+   "price": null,
+   "price_relation": null,
+   "reason": "Outdoor apparel and outerwear brand whose company runs outlet and temporary clearance stores among its 169 US stores.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-sierra-trading-post",
+     "note": "#6: 'Columbia Sportswear can be a great alternative to any of the stores in this category'"
+    }
+   ],
+   "gate_gaps": [
+    "image_url",
+    "price (columbia.com refuses reads)"
+   ]
+  },
+  {
+   "slug": "orvis",
+   "rank": 2,
+   "independent_sources": 1,
+   "single_source": true,
+   "store_type": "brand stores",
+   "price": {
+    "currency": "USD",
+    "min": 119,
+    "max": 449,
+    "min_usd": 119,
+    "max_usd": 449,
+    "fx_date": null,
+    "item_count": 16
+   },
+   "price_relation": null,
+   "reason": "Men's jackets from $119 to $449 with Barbour stocked beside its own label, US stores, and $6 standard shipping with no minimum.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-sierra-trading-post",
+     "note": "#10: 'another similar store like Sierra Trading Post'"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "eddie-bauer",
+   "rank": 3,
+   "independent_sources": 1,
+   "single_source": true,
+   "store_type": "brand (online only)",
+   "price": {
+    "currency": "USD",
+    "min": 109,
+    "max": 499,
+    "min_usd": 109,
+    "max_usd": 499,
+    "fx_date": null,
+    "item_count": 25
+   },
+   "price_relation": null,
+   "reason": "Men's down and waterproof jackets from $109 to $499, sold online only, with free US shipping over $99 and 30-day returns.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-sierra-trading-post",
+     "note": "#8: 'One Of The Best Outerwear Brands' (in a list introduced as 'the best alternatives to Sierra Trading Post')"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  }
+ ],
+ "rejected": [
+  {
+   "slug": "backcountry",
+   "why": "unverified: backcountry.com CloudFront 403 to the bot UA, empty page to WebFetch; no parent-company source for status or US shipping. 1 source. Human check."
+  },
+  {
+   "slug": "campmor",
+   "why": "unverified: Cloudflare block to the bot UA, 403 to WebFetch. 1 source."
+  },
+  {
+   "slug": "moosejaw",
+   "why": "unverified (site 403); Retail Dive (Feb 2025) reports its last stores closed in fiscal 2024 and its site leads to Public Lands. Not a pick either way. 1 source."
+  },
+  {
+   "slug": "dicks-sporting-goods",
+   "why": "verified from its own 10-K and Q2 2026 release (721 DICK'S stores, 'sports equipment, apparel, footwear and accessories'), but no official source names jackets or outerwear and dickssportinggoods.com returns 403, so it doesn't sell coats-jackets on the record. 1 source. Human check: the outerwear department."
+  },
+  {
+   "slug": "the-north-face",
+   "why": "unverified: thenorthface.com 403 (Lands' End run). VF's FY2026 annual report confirms outerwear and 286 VF-operated stores, but the store count is global and no US shipping was readable, so the US-availability rule can't be met. 1 source."
+  },
+  {
+   "slug": "patagonia",
+   "why": "unverified: jackets page still serves 'System maintenance is in progress' to the bot UA. 1 source."
+  },
+  {
+   "slug": "ll-bean",
+   "why": "unverified: WAF denial page to WebFetch. 1 source."
+  },
+  {
+   "slug": "(store types named only in general roundups)",
+   "why": "REI Outlet, Steep & Cheap, CampSaver, Evo, The Clymb, Sportsman's Warehouse and others appear in general discount-gear roundups that list Sierra alongside them; none of those pages recommends them as alternatives to Sierra, so they have no evidence (run rule). Secondhand sites (REI Used, Worn Wear, GearTrade) are out regardless."
+  },
+  {
+   "slug": "(TJX sister stores)",
+   "why": "TJ Maxx and Marshalls are compared with Sierra (sortoflegal, Philadelphia magazine) but no read source recommends them as alternatives to Sierra; mentioned only in the closing as fact (TJX owns all three)."
+  }
+ ],
+ "human_check": [
+  {
+   "fact": "anchor: price, sizes, shipping, returns, jackets",
+   "url": "https://www.sierra.com/",
+   "check": "sierra.com serves TJX's 'Something went wrong' page to the bot UA and WebFetch. Record men's jackets regular-price min/max (not 'Compare At'), size range, US shipping threshold and return days; add coats-jackets to sells_categories if jackets are sold."
+  },
+  {
+   "fact": "more evidence",
+   "url": "https://www.tentside.com/stores-like-sierra-trading-post/",
+   "check": "A 'Stores Like Sierra Trading Post' article behind a Vercel checkpoint; Knoji's alternatives page (403) and the Reddit threads on the SERP are the other unread candidates. Each store they name as an alternative to Sierra is new evidence."
+  },
+  {
+   "fact": "Columbia jackets and prices",
+   "url": "https://www.columbia.com/",
+   "check": "Columbia is verified from its 10-K/10-Q (outerwear, 169 US stores company-wide). Read the men's jackets regular-price range, sizes and returns on columbia.com."
+  },
+  {
+   "fact": "Backcountry, Campmor, Dick's outerwear",
+   "url": "https://www.backcountry.com/",
+   "check": "Each refuses reads. Status, US shipping and a men's jackets range would let them pass."
+  },
+  {
+   "fact": "images",
+   "url": "pipeline/images.mjs",
+   "check": "No /img/ images for the anchor or the three picks."
+  }
+ ],
+ "checked_at": "2026-10-29",
+ "fx": null,
+ "notes": [
+  "Run 2026-10-29. Only one read source (PlainTips) recommends stores as alternatives to Sierra; the other readable pages are general discount-gear roundups that list Sierra alongside others, which don't count (run rule). All four multi-brand stores PlainTips names refuse reads or have closed, so the three picks are single-brand outdoor labels, and the page has 3 renderable picks: below the 6-pick floor, so it stays noindex. Not padded.",
+  "Ahrefs serp-overview: 4 calls (stores like sierra, stores like sierra trading post, sierra trading post alternatives (empty), similar to sierra trading post). 'brands like sierra' wasn't called: 'Sierra' alone is ambiguous and the Trading Post variants carry the store intent. WebSearch used for 'sites like', 'alternatives to' and 'places like' variants.",
+  "Ranking: all three picks have one source; Columbia first as the only one with outlet and clearance stores (closest to off-price), then Orvis (the source calls it 'similar store like Sierra Trading Post', and it stocks Barbour too), then Eddie Bauer (online only)."
+ ],
+ "author": "Ash",
+ "copy": {
+  "intro": "You went to Sierra for a name-brand winter jacket at an off-price tag, and your size wasn't on the rack. So where else do you look? These are the stores outside lists name as alternatives to Sierra for outdoor jackets. None of them runs Sierra's off-price model, so the one with outlet and clearance stores comes first, and each entry says what it does better.",
+  "bodies": {
+   "columbia": "Columbia is the closest you'll get to Sierra's bargain side, because the company behind it runs outlet and temporary clearance stores as well as full-price ones. Columbia Sportswear has 169 stores in the US, so there's a fair chance of one within a drive.\n\nIt's a single brand, not a store full of labels. What you get is Columbia's own outdoor clothing, made for hiking, trail running, snow sports and fishing and hunting, with outerwear among its lines. That narrows the hunt: one brand's sizing and one look, instead of Sierra's mix.\n\nIf the mix of labels is what you'll miss, Orvis is the pick that stocks another brand next to its own.",
+   "orvis": "Orvis is the pick if Sierra's fishing side is what brings you in. It's a Vermont company dating to 1856, best known for fly fishing and field clothing. Its men's jackets run from the R65 Sweater Fleece Jacket ($119) to the PRO ToughShell Jacket ($449).\n\nStart with the 1856 Field Coat ($198): cotton canvas outside, a plaid flannel lining and a corduroy collar, in S to XXL. It's also the only pick here selling someone else's jackets, with Barbour beside its own. That makes it the nearest thing to Sierra's mix of brands.\n\nStandard shipping is $6 with no minimum, and there are Orvis stores in the US. The trade-off is price. These are full-price jackets, so for a markdown hunt, Columbia's outlets are the better bet.",
+   "eddie-bauer": "Eddie Bauer is where to go for a down jacket you're happy to buy online. The Cirruslite Down Jacket ($129) is the lighter way in, and the Superior Down Waterproof Hooded Parka ($349) is the waterproof, hooded step up.\n\nIt's online only now. Its last North American stores closed in April 2026, so unlike Sierra or Orvis, there's nowhere to try a parka on first. So the returns matter: 30 days from delivery, or 45 for orders placed November 18 to December 25. A prepaid US label costs $3.50.\n\nShipping is free on US orders over $99. Most of its jackets go up to XXL and about half reach 3XL, so check the size before you order. If you'd rather walk into a shop, Columbia has far more of them."
+  },
+  "best_for": {
+   "columbia": "an outdoor jacket from one brand's outlet or clearance store",
+   "orvis": "fishing-trip jackets with a Barbour on the next rail",
+   "eddie-bauer": "ordering a down parka online with time to send it back"
+  },
+  "closing": {
+   "heading": "How to choose",
+   "body": "Start with what you liked about Sierra. If it was a known name at a lower price, Columbia fits best, since its company runs outlet and clearance stores alongside the full-price ones. If it was the fishing gear, Orvis covers that ground, and it's the only pick here with a second brand, Barbour, next to its own.\n\nBuying down for a hard winter and fine with ordering unseen? Eddie Bauer's men's jackets run from $109 to $499, with free US shipping over $99 and a 30-day return window. Want the off-price hunt across many labels instead? Sierra's TJX sister chains, TJ Maxx and Marshalls, work the same way for clothes beyond the outdoors."
+  },
+  "faqs": [
+   {
+    "q": "What is Sierra Trading Post?",
+    "a": "It's the old name of Sierra, an off-price chain selling brand-name active and outdoor clothing, shoes and gear for the whole family, plus home and pet. It has 145 US stores and sells online at sierra.com.",
+    "source_query": "what is sierra trading post"
+   },
+   {
+    "q": "Who owns Sierra Trading Post?",
+    "a": "The TJX Companies, the owner of TJ Maxx and Marshalls. TJX bought it in 2012 and renamed it Sierra in 2018.",
+    "source_query": "who owns sierra trading post"
+   },
+   {
+    "q": "Is Sierra the same as Sierra Trading Post?",
+    "a": "Yes. Sierra Trading Post became Sierra in 2018, six years after TJX bought it. It's the same off-price outdoor chain, now trading under the shorter name.",
+    "source_query": "is sierra the same as sierra trading post"
+   }
+  ]
+ }
+}

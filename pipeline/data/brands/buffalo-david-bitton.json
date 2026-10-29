@@ -1,0 +1,32 @@
+{
+  "name": "Buffalo David Bitton",
+  "website_url": "https://www.buffalojeans.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Jeans and Sportswear",
+  "size_range": "Waists 27–44",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 99,
+  "returns_days": 30,
+  "sells_categories": [
+    "jeans"
+  ],
+  "sources": [
+    "https://www.buffalojeans.com/",
+    "https://www.buffalojeans.com/meta.json",
+    "https://www.buffalojeans.com/collections.json?limit=250",
+    "https://www.buffalojeans.com/collections/mens-jeans/products.json?limit=250&country=US",
+    "https://www.buffalojeans.com/collections/jeans/products.json?limit=250&country=US",
+    "https://www.buffalojeans.com/policies/shipping-policy",
+    "https://www.buffalojeans.com/policies/refund-policy"
+  ],
+  "notes": [
+    "2026-10-29 (derschutze page run): no jeans price stored. Public Shopify feed: mens-jeans 90 products and jeans 162 products, every one marked down (compare_at above price, e.g. Driven Men's Relaxed Straight Jeans $49.98 vs $71.41; Matt Men's Loose Fit Jeans $83.30 vs $119.00; tags include EXTRA30), so no regular-price item. jeans in sells_categories from its own jeans collections.",
+    "meta.json: name Buffalo Jeans, store city New York, country US; description 'Shop Buffalo David Bitton Jeans and Sportswear for Men and Women… iconic mens jeans like the Straight SIX, Slim ASH, Skinny MAX, or womens jeans Alexa or Skylar.' Operator named in policies: Centric Denim USA LLC.",
+    "Shipping policy: free UPS Ground on orders $99+ after reductions, otherwise $8.95; 'International shipping is not available at this time' (US only). Refund policy: unworn, unwashed returns within 30 days of delivery; shipping charges not refunded; FINAL SALE clearance items not returnable.",
+    "Men's jeans waists 27–44 (variant options), lengths 30/32 and more."
+  ],
+  "checked_at": "2026-10-29"
+}

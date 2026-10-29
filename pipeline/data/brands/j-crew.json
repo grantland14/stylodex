@@ -77,7 +77,8 @@
     "size_range detail: Women's jeans waist 23–37, Classic, Petite and Tall",
     "parent_company detail: J.Crew Group (Anchorage Capital Group and Leonard Green & Partners)",
     "Men's shirts listing: Heavyweight chamois workshirt in Japanese cotton $168 (best seller badge, 4.86 from 138 reviews); Brushed cotton flannel workshirt $128 (https://www.jcrew.com/plp/mens/categories/clothing/shirts).",
-    "2026-10-29 (chicos page run): the women's clothing nav lists Shirts & Tops and Tees & Tanks; both pages render products by script (no product data in a plain request or WebFetch, only subcategory tiles Button-up, Cropped, Statement, Sleeveless shirts), so no tops price; sells_categories tops from the store's own nav and tops page."
+    "2026-10-29 (chicos page run): the women's clothing nav lists Shirts & Tops and Tees & Tanks; both pages render products by script (no product data in a plain request or WebFetch, only subcategory tiles Button-up, Cropped, Statement, Sleeveless shirts), so no tops price; sells_categories tops from the store's own nav and tops page.",
+    "2026-10-29 (chicos page run): Tees & Tanks page links filters by sleeve length (Long Sleeve, Short Sleeve, Sleeveless) and a Turtleneck neckline filter."
   ],
   "checked_at": "2026-10-29",
   "sells_categories": [

@@ -5,10 +5,12 @@
   "status": "unverified",
   "kind": "brand",
   "sources": [
-    "https://www.thenorthface.com"
+    "https://www.thenorthface.com",
+    "https://d1io3yog0oux5.cloudfront.net/_4040fa27fe5737aba526425b963be650/vfc/db/409/136587/annual_report/Annual+Report+2026+%28FINAL%29.pdf"
   ],
   "notes": [
-    "thenorthface.com men's jackets returned HTTP 403 to the StylodexBot UA and to WebFetch, 2026-10-29. VF Corp's brand page (https://www.vfc.com/brands/the-north-face) says founded 1966, 'High Performance Outdoor Apparel, Footwear, Equipment, Accessories', but names no jackets or US stores, so nothing beyond status-unknown stored. Human check."
+    "thenorthface.com men's jackets returned HTTP 403 to the StylodexBot UA and to WebFetch, 2026-10-29. VF Corp's brand page (https://www.vfc.com/brands/the-north-face) says founded 1966, 'High Performance Outdoor Apparel, Footwear, Equipment, Accessories', but names no jackets or US stores, so nothing beyond status-unknown stored. Human check.",
+    "2026-10-29 (Sierra page run): VF Fiscal 2026 Annual Report (https://d1io3yog0oux5.cloudfront.net/_4040fa27fe5737aba526425b963be650/vfc/db/409/136587/annual_report/Annual+Report+2026+%28FINAL%29.pdf): 'The North Face® brand features performance and performance-inspired apparel, outerwear, sportswear and footwear for men, women and children'; sold through specialty outdoor and premium sporting goods stores, department stores, '286 VF-operated stores' and thenorthface.com. Store count is global with no US split and no US shipping terms were readable, so status, us_stores and ships_to stay unset. Human check."
   ],
   "checked_at": "2026-10-29"
 }

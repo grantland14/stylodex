@@ -1,0 +1,15 @@
+{
+  "slug": "moosejaw",
+  "name": "Moosejaw",
+  "website_url": "https://www.moosejaw.com",
+  "status": "unverified",
+  "kind": "retailer",
+  "sources": [
+    "https://www.moosejaw.com/",
+    "https://www.retaildive.com/news/dicks-closes-stores-moosejaw-public-lands/740059"
+  ],
+  "notes": [
+    "2026-10-29 (Sierra page run): moosejaw.com returns 403 'Site Unavailable' to the StylodexBot UA and to WebFetch. Retail Dive (Cara Salpini, Feb 13 2025, https://www.retaildive.com/news/dicks-closes-stores-moosejaw-public-lands/740059): Moosejaw 'appears to have shuttered its remaining three stores'; its website 'now leads to Public Lands'; Dick's 10-Q 'closed the brand's remaining locations during the 2024 fiscal year'. A news report, not an official source, so status stays unverified rather than defunct. Human check."
+  ],
+  "checked_at": "2026-10-29"
+}

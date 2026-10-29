@@ -1,0 +1,47 @@
+{
+  "name": "Victorious",
+  "website_url": "https://www.victorioususa.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Baggy Denim Jeans",
+  "hq_country": "US",
+  "size_range": "Waists 28–44; some S–5XL",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 14,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 29.99,
+      "max": 49.99,
+      "min_usd": 29.99,
+      "max_usd": 49.99,
+      "fx_date": null,
+      "item_count": 22,
+      "source_url": "https://www.victorioususa.com/collections/denim-jeans/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "Public Shopify feed, StylodexBot UA. denim-jeans collection: 26 products, none marked down; 3-pack bundle ($89.99), denim joggers and shorts excluded, 22 single pairs $29.99–$49.99 (most $34.99, 10; $49.99, 9). Low: Essential Denim Skinny Jeans $29.99; ATLAS Essential Baggy Denim Jeans $34.99 (13oz 100% cotton, fixed 32in inseam); high: TYPHONE Ultra Baggy Y2K Denim Jeans, Workman Carpenter Denim Jeans $49.99."
+    }
+  ],
+  "sells_categories": [
+    "jeans"
+  ],
+  "sources": [
+    "https://www.victorioususa.com/",
+    "https://www.victorioususa.com/meta.json",
+    "https://www.victorioususa.com/collections.json?limit=250",
+    "https://www.victorioususa.com/collections/denim-jeans/products.json?limit=250&country=US",
+    "https://www.victorioususa.com/policies/shipping-policy",
+    "https://www.victorioususa.com/policies/refund-policy"
+  ],
+  "notes": [
+    "Homepage title 'Victorious USA | Men's Denim Jeans & Apparel'; meta description: 'men's denim brand built for everyday wear. Baggy jeans, carpenter jeans, denim shorts & jackets… Free delivery & 14-day returns.' meta.json: store city Los Angeles, country US, ships_to_countries US only (hq_country from this).",
+    "Shipping policy: 'Free shipping on domestic order only', USPS, US arrival 3–7 days. Refund policy: 'Our policy lasts 14 days'; buyer pays return postage; unworn, tags attached.",
+    "Sizes (feed options): waists 28–44 on most jeans (W26 on one), some styles S–5XL; most inseams 30 or 32. Men's only."
+  ],
+  "checked_at": "2026-10-29"
+}

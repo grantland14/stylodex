@@ -1,0 +1,26 @@
+{
+  "name": "G-Star RAW",
+  "website_url": "https://www.g-star.com/en_us",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Denim Jeans",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 200,
+  "returns_days": 30,
+  "us_stores": true,
+  "sells_categories": [
+    "jeans"
+  ],
+  "sources": [
+    "https://www.g-star.com/en_us/shop/men/jeans",
+    "https://www.g-star.com/en_us/customer-service",
+    "https://www.g-star.com/robots.txt"
+  ],
+  "notes": [
+    "2026-10-29 (derschutze page run): g-star.com/en_us/shop/men/jeans loads (title 'Men's Jeans | Denim Jeans | G-STAR® US') with Men and Women Jeans sections and jeans fit links (3301, Loose, Straight, Tapered, Slim, Skinny, Bootcut) but no product grid in the served HTML or to WebFetch; the product API path (*/api/v1/*) is disallowed by robots.txt, so no prices stored. jeans in sells_categories from its own jeans category.",
+    "Customer service page (WebFetch): 'Standard shipping is free for orders over $200; for orders under $200, a shipping fee of $7.00 applies.' 'All G-STAR purchases have a 30-day return policy'; returns in the country of purchase, or to a G-Star store or outlet. Store pickup at G-Star stores King of Prussia, Garden State Plaza, Pentagon City and Melrose, so us_stores true."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "DKNY",
+  "website_url": "https://www.dkny.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Clothing, Shoes and Bags",
+  "size_range": "Waists 24–32",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 99,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 79,
+      "max": 129,
+      "min_usd": 79,
+      "max_usd": 129,
+      "fx_date": null,
+      "item_count": 4,
+      "source_url": "https://www.dkny.com/collections/all-denim/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "Public Shopify feed, StylodexBot UA. all-denim collection: 34 products; 16 jeans after excluding shorts, skirts, jackets, vests, shirts and tops; 12 marked down (compare_at above price), 4 regular-price: Mid-Rise Modern Straight Leg Jean $79, High-Rise Relaxed Flare Jean $99, High-Rise Wide Leg Trouser Jean $99, Mid-Rise Rhinestud Relaxed Straight Jean $129. All women's (product type Women's Apparel); the dkny-jeans collection (273) is also all women's."
+    }
+  ],
+  "sells_categories": [
+    "jeans"
+  ],
+  "sources": [
+    "https://www.dkny.com/",
+    "https://www.dkny.com/meta.json",
+    "https://www.dkny.com/collections.json?limit=250",
+    "https://www.dkny.com/collections/all-denim/products.json?limit=250&country=US",
+    "https://www.dkny.com/collections/dkny-jeans/products.json?limit=250&country=US",
+    "https://www.dkny.com/policies/shipping-policy",
+    "https://www.dkny.com/policies/refund-policy"
+  ],
+  "notes": [
+    "Homepage title 'DKNY | Friends & Family Event - 40% Off with Code FRIEND40'; meta description 'Shop the latest clothing, shoes, bags, and accessories from DKNY.' meta.json ships_to_countries includes AU, CA, GB, US.",
+    "Own store sells women's jeans only (no men's jeans in any denim collection). Jeans fabric: 99% cotton 1% spandex on three of the four regular-price styles; the Rhinestud style is 98% cotton 2% spandex. Waists 24–32.",
+    "Shipping policy: free standard ground shipping to the 48 contiguous states on orders of $99+. Refund policy: refunds within 30 days of delivery; $6 deducted if the DKNY return label is used; final sale not returnable."
+  ],
+  "checked_at": "2026-10-29"
+}

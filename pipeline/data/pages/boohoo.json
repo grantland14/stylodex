@@ -1,0 +1,1812 @@
+{
+  "subject": "boohoo",
+  "slug": "boohoo",
+  "url_prefix": "stores",
+  "category": {
+    "slug": "dresses",
+    "name": "Dresses",
+    "why": "boohoo sells its own label (every sampled dress page names brand 'boohoo'), so kind brand and C is a product type. Dresses: Google's sitelinks for 'brands like boohoo' on us.boohoo.com are Womens, NEW IN and Dresses; its US product sitemaps hold 5,153 boohoo-label dress URLs; and the outside lists compare dress and going-out stores. Like-for-like item: women's dresses at regular price, as a US shopper is charged. boohoo itself has no regular-price dress to record (all 54 in-stock dresses in an 80-page sample were marked down), so the page shows no price labels; stores whose dress prices don't render or are all marked down (PrettyLittleThing, Missguided, Fashion Nova, Romwe, Showpo) render without a price via sells_categories."
+  },
+  "anchor_status": {
+    "status": "verified",
+    "how": "us.boohoo.com is live and selling (US dresses category, product pages with USD prices and stock, read 2026-10-29). Not defunct."
+  },
+  "serp": [
+    {
+      "keyword": "stores like boohoo",
+      "position": 1,
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/jf71gx/what_is_the_upscale_version_of_fashion_nova_shein/",
+      "kept": false,
+      "why_dropped": "Reddit refuses WebFetch; skipped, not worked around"
+    },
+    {
+      "keyword": "stores like boohoo",
+      "position": 1,
+      "url": "https://iamandco.com/blogs/articles/stores-like-boohoo",
+      "kept": true,
+      "note": "AI-overview sitelink and organic; read 2026-10-29, undated, no author; 10 stores"
+    },
+    {
+      "keyword": "stores like boohoo",
+      "position": 2,
+      "url": "https://www.quora.com/Which-online-shopping-sites-offer-the-best-deals-on-girls-fashion",
+      "kept": false,
+      "why_dropped": "a general deals question, not about boohoo alternatives"
+    },
+    {
+      "keyword": "stores like boohoo",
+      "position": 4,
+      "url": "https://www.reddit.com/r/Bangkok/comments/15st5w5/online_equivalents_of_zalandoasosbooztboohoo/",
+      "kept": false,
+      "why_dropped": "Reddit; and about shopping in Thailand"
+    },
+    {
+      "keyword": "stores like boohoo",
+      "position": 5,
+      "url": "https://glowing.com/community/topic/6690181/clothes",
+      "kept": false,
+      "why_dropped": "a pregnancy-community clothes thread, not about boohoo alternatives"
+    },
+    {
+      "keyword": "stores like boohoo",
+      "position": 6,
+      "url": "https://www.thestudentroom.co.uk/showthread.php?t=3793127",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch; not read"
+    },
+    {
+      "keyword": "stores like boohoo",
+      "position": 7,
+      "url": "https://www.quora.com/What-are-some-good-online-clothing-stores-I-have-a-cottage-core-soft-style-but-can-t-find-any-good-dresses",
+      "kept": false,
+      "why_dropped": "a cottagecore question, not about boohoo"
+    },
+    {
+      "keyword": "stores like boohoo",
+      "position": 8,
+      "url": "https://readystudygoacademy.com/?n=11660210041340",
+      "kept": false,
+      "why_dropped": "unrelated or spam page (education domain with a shopping title)"
+    },
+    {
+      "keyword": "stores like boohoo",
+      "position": 9,
+      "url": "https://www.linkedin.com/posts/georgia-wright-3441a3161_can-debenhams-rebrand-save-boohoo-group-activity-7305256804056256512-NAmv",
+      "kept": false,
+      "why_dropped": "business commentary, no alternatives"
+    },
+    {
+      "keyword": "stores like boohoo",
+      "position": 10,
+      "url": "https://www.reviewcollections.com/boohoo/",
+      "kept": false,
+      "why_dropped": "a review aggregator about boohoo itself"
+    },
+    {
+      "keyword": "brands like boohoo",
+      "position": 1,
+      "url": "https://us.boohoo.com/pages/womens",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "brands like boohoo",
+      "position": 1,
+      "url": "https://www.asos.com/us/",
+      "kept": false,
+      "why_dropped": "a store's homepage, not an editorial list"
+    },
+    {
+      "keyword": "brands like boohoo",
+      "position": 1,
+      "url": "https://iamandco.com/blogs/articles/stores-like-boohoo",
+      "kept": true,
+      "note": "same page as above"
+    },
+    {
+      "keyword": "brands like boohoo",
+      "position": 2,
+      "url": "https://us.boohoo.com/",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "brands like boohoo",
+      "position": 5,
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/jf71gx/what_is_the_upscale_version_of_fashion_nova_shein/",
+      "kept": false,
+      "why_dropped": "Reddit; skipped"
+    },
+    {
+      "keyword": "brands like boohoo",
+      "position": 6,
+      "url": "https://www.reddit.com/r/mensfashion/comments/1g4v1qp/looking_for_affordable_clothing_websites_similar/",
+      "kept": false,
+      "why_dropped": "Reddit, and about boohooMAN"
+    },
+    {
+      "keyword": "brands like boohoo",
+      "position": 6,
+      "url": "https://www.facebook.com/groups/441427038218626/posts/655736370121024/",
+      "kept": false,
+      "why_dropped": "Facebook group post (login wall); about Fashion Nova and Shein"
+    },
+    {
+      "keyword": "brands like boohoo",
+      "position": 6,
+      "url": "https://www.quora.com/What-are-some-cheap-clothes-websites-like-Boohoo",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch; not read"
+    },
+    {
+      "keyword": "brands like boohoo",
+      "position": 8,
+      "url": "https://www.facebook.com/groups/441427038218626/posts/667650985596229/",
+      "kept": false,
+      "why_dropped": "Facebook group post (login wall)"
+    },
+    {
+      "keyword": "brands like boohoo",
+      "position": 9,
+      "url": "https://www.boohooman.com/us/",
+      "kept": false,
+      "why_dropped": "the anchor group's own men's site"
+    },
+    {
+      "keyword": "brands like boohoo",
+      "position": 10,
+      "url": "https://us.boohoo.com/categories/womens-plus-size",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "boohoo alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs returned no SERP rows for this keyword"
+    },
+    {
+      "keyword": "similar to boohoo",
+      "position": 1,
+      "url": "https://www.thegoodwebguide.co.uk/article/fashion/shops-like-boohoo/21418",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch; not read"
+    },
+    {
+      "keyword": "similar to boohoo",
+      "position": 2,
+      "url": "https://www.asos.com/us/",
+      "kept": false,
+      "why_dropped": "a store's homepage"
+    },
+    {
+      "keyword": "similar to boohoo",
+      "position": 4,
+      "url": "https://us.boohoo.com/",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "similar to boohoo",
+      "position": 5,
+      "url": "https://www.reddit.com/r/blackgirls/comments/1i3ytzh/where_do_yall_shop_for_clothes_shoes_other_than/",
+      "kept": false,
+      "why_dropped": "Reddit; skipped"
+    },
+    {
+      "keyword": "similar to boohoo",
+      "position": 7,
+      "url": "https://www.quora.com/What-are-the-best-cheap-online-clothing-stores-for-trendy-fashion",
+      "kept": false,
+      "why_dropped": "Quora refuses WebFetch (403 on the boohoo thread); not read"
+    },
+    {
+      "keyword": "similar to boohoo",
+      "position": 8,
+      "url": "https://www.daysliketoday.com/my-master-list-of-affordable-online-stores-to-shop-at-part-1/",
+      "kept": true,
+      "note": "read 2026-10-29: a general 28-store list; counted only for the three entries that compare a store to boohoo directly (Missguided 'SUPER similar to Boohoo', Nasty Gal and PrettyLittleThing 'very similar to ... Boohoo')"
+    },
+    {
+      "keyword": "similar to boohoo",
+      "position": 10,
+      "url": "https://goodonyou.eco/alternatives-to-boohoo/",
+      "kept": true,
+      "note": "read 2026-10-29: Solene Rauturier, 3 Nov 2022; 9 more sustainable alternatives to boohoo"
+    }
+  ],
+  "web_search": [
+    {
+      "query": "stores like boohoo",
+      "url": "https://www.wholesale7.net/blog/best-stores-like-boohoo/",
+      "kept": true,
+      "note": "Anastasia, 2022-08-22; 19 stores, #1 is Wholesale7 itself (self-promotion, not a candidate). Entries 2–11 repeat iamandco's list in the same order, so the two count as one independent source."
+    },
+    {
+      "query": "stores like boohoo",
+      "url": "https://soxy.com/blogs/stores-like-boohoo/",
+      "kept": true,
+      "note": "Josie Costigan, 'Mar 01', no year; 10 stores"
+    },
+    {
+      "query": "stores like boohoo",
+      "url": "https://www.techtricksworld.com/sites-like-boohoo/",
+      "kept": true,
+      "note": "Baishaly Roy, 2020-09-04; 10 stores"
+    },
+    {
+      "query": "stores like boohoo",
+      "url": "https://www.society19.com/uk/online-shops-like-boohoo-for-cute-and-cheap-clothes/",
+      "kept": true,
+      "note": "Erin Mahoney, 2026-06-30; 10 stores, nine shared with techtricksworld, so the two count as one independent source"
+    },
+    {
+      "query": "stores like boohoo",
+      "url": "https://www.discobrands.co/blogs/14-brands-like-boohoo-man",
+      "kept": false,
+      "why_dropped": "about boohooMAN (menswear), a different brand; no disco page for boohoo itself (brands-like-boohoo 404)"
+    },
+    {
+      "query": "stores like boohoo",
+      "url": "https://storessimilarto.com/stores-similar-to-boohoo",
+      "kept": true,
+      "note": "Nwose Onyinye, undated; 10 stores in the main list (the later how-to section not counted). Amazon is a marketplace, not a candidate."
+    },
+    {
+      "query": "stores like boohoo",
+      "url": "https://www.similarweb.com/website/boohoo.com/competitors/",
+      "kept": false,
+      "why_dropped": "traffic-overlap tool, no editorial recommendation"
+    },
+    {
+      "query": "sites like boohoo cheap clothing alternatives list",
+      "url": "https://www.similarsitesearch.com/sites/boohoo/",
+      "kept": false,
+      "why_dropped": "scraped similar-sites list"
+    },
+    {
+      "query": "sites like boohoo cheap clothing alternatives list",
+      "url": "https://joingerald.com/blog/boohoo-similar-shops",
+      "kept": true,
+      "note": "Jessica Smith, 2025-05-28, reviewed by the Gerald Editorial Team; 6 stores"
+    },
+    {
+      "query": "sites like boohoo cheap clothing alternatives list",
+      "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/",
+      "kept": true,
+      "note": "Avery Ingram, updated 2024-06-01; 24 brands. Signs of template or AI generation (identical Pros/Cons blocks, Amazon search boxes, prompt-like alt text). Counted, but no pick rests on it alone; see human_check."
+    },
+    {
+      "query": "sites like boohoo cheap clothing alternatives list",
+      "url": "https://fashionsoulintl.com/blog/shops-like-boohoo-where-to-find-fashion-on-a-budget/",
+      "kept": true,
+      "note": "Fashion Soul International, 2025-10-09; 5 stores; a clothing manufacturer's blog, does not list itself"
+    },
+    {
+      "query": "sites like boohoo cheap clothing alternatives list",
+      "url": "https://whenwomeninspire.com/2021/12/20/online-stores-budget-friendly-clothes/",
+      "kept": true,
+      "note": "Christy Birmingham-Reyes, 2021-12-20; 4 stores"
+    },
+    {
+      "query": "discobrands boohoo / site:discobrands.co brands like boohoo dresses",
+      "url": null,
+      "kept": false,
+      "why_dropped": "no disco directory page for boohoo (women's) exists; only boohooMAN"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": null,
+      "url": null,
+      "used": false,
+      "why": "boohoo sells through its own sites; its US site now also carries sister labels (PrettyLittleThing, Coast), which are group stock, not co-stocking evidence."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "PrettyLittleThing",
+      "slug": "prettylittlething",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-boohoo"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wholesale7.net/blog/best-stores-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.society19.com/uk/online-shops-like-boohoo-for-cute-and-cheap-clothes/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://whenwomeninspire.com/2021/12/20/online-stores-budget-friendly-clothes/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://joingerald.com/blog/boohoo-similar-shops"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://fashionsoulintl.com/blog/shops-like-boohoo-where-to-find-fashion-on-a-budget/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://storessimilarto.com/stores-similar-to-boohoo"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.daysliketoday.com/my-master-list-of-affordable-online-stores-to-shop-at-part-1/"
+        }
+      ]
+    },
+    {
+      "name": "Missguided",
+      "slug": "missguided",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-boohoo"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wholesale7.net/blog/best-stores-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.techtricksworld.com/sites-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.society19.com/uk/online-shops-like-boohoo-for-cute-and-cheap-clothes/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://joingerald.com/blog/boohoo-similar-shops"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://fashionsoulintl.com/blog/shops-like-boohoo-where-to-find-fashion-on-a-budget/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://storessimilarto.com/stores-similar-to-boohoo"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.daysliketoday.com/my-master-list-of-affordable-online-stores-to-shop-at-part-1/"
+        }
+      ]
+    },
+    {
+      "name": "Shein",
+      "slug": "shein",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wholesale7.net/blog/best-stores-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.techtricksworld.com/sites-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.society19.com/uk/online-shops-like-boohoo-for-cute-and-cheap-clothes/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://joingerald.com/blog/boohoo-similar-shops"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://fashionsoulintl.com/blog/shops-like-boohoo-where-to-find-fashion-on-a-budget/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://storessimilarto.com/stores-similar-to-boohoo"
+        }
+      ]
+    },
+    {
+      "name": "Nasty Gal",
+      "slug": "nasty-gal",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-boohoo"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wholesale7.net/blog/best-stores-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.techtricksworld.com/sites-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.society19.com/uk/online-shops-like-boohoo-for-cute-and-cheap-clothes/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://joingerald.com/blog/boohoo-similar-shops"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.daysliketoday.com/my-master-list-of-affordable-online-stores-to-shop-at-part-1/"
+        }
+      ]
+    },
+    {
+      "name": "ASOS",
+      "slug": "asos",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wholesale7.net/blog/best-stores-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://whenwomeninspire.com/2021/12/20/online-stores-budget-friendly-clothes/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://joingerald.com/blog/boohoo-similar-shops"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://fashionsoulintl.com/blog/shops-like-boohoo-where-to-find-fashion-on-a-budget/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://storessimilarto.com/stores-similar-to-boohoo"
+        }
+      ]
+    },
+    {
+      "name": "Forever 21",
+      "slug": "forever-21",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-boohoo"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wholesale7.net/blog/best-stores-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://storessimilarto.com/stores-similar-to-boohoo"
+        }
+      ]
+    },
+    {
+      "name": "Fashion Nova",
+      "slug": "fashion-nova",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wholesale7.net/blog/best-stores-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://joingerald.com/blog/boohoo-similar-shops"
+        }
+      ]
+    },
+    {
+      "name": "Express",
+      "slug": "express",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-boohoo"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wholesale7.net/blog/best-stores-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "Tiger Mist",
+      "slug": "tiger-mist",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wholesale7.net/blog/best-stores-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.techtricksworld.com/sites-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.society19.com/uk/online-shops-like-boohoo-for-cute-and-cheap-clothes/"
+        }
+      ]
+    },
+    {
+      "name": "Amaroso",
+      "slug": null,
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wholesale7.net/blog/best-stores-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.techtricksworld.com/sites-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.society19.com/uk/online-shops-like-boohoo-for-cute-and-cheap-clothes/"
+        }
+      ]
+    },
+    {
+      "name": "Miss Pap",
+      "slug": "misspap",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wholesale7.net/blog/best-stores-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.techtricksworld.com/sites-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.society19.com/uk/online-shops-like-boohoo-for-cute-and-cheap-clothes/"
+        }
+      ]
+    },
+    {
+      "name": "Romwe",
+      "slug": "romwe",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.techtricksworld.com/sites-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://fashionsoulintl.com/blog/shops-like-boohoo-where-to-find-fashion-on-a-budget/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://storessimilarto.com/stores-similar-to-boohoo"
+        }
+      ]
+    },
+    {
+      "name": "Topshop",
+      "slug": "topshop",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-boohoo"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wholesale7.net/blog/best-stores-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "2020AVE",
+      "slug": "2020ave",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-boohoo"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wholesale7.net/blog/best-stores-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "American Apparel",
+      "slug": "american-apparel",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-boohoo"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wholesale7.net/blog/best-stores-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "Urban Outfitters",
+      "slug": "urban-outfitters",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wholesale7.net/blog/best-stores-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://storessimilarto.com/stores-similar-to-boohoo"
+        }
+      ]
+    },
+    {
+      "name": "Zaful",
+      "slug": "zaful",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wholesale7.net/blog/best-stores-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "Lulus",
+      "slug": "lulus",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "H&M",
+      "slug": "h-m",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://storessimilarto.com/stores-similar-to-boohoo"
+        }
+      ]
+    },
+    {
+      "name": "Zara",
+      "slug": "zara",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://storessimilarto.com/stores-similar-to-boohoo"
+        }
+      ]
+    },
+    {
+      "name": "Princess Polly",
+      "slug": "princess-polly",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://whenwomeninspire.com/2021/12/20/online-stores-budget-friendly-clothes/"
+        }
+      ]
+    },
+    {
+      "name": "Showpo",
+      "slug": "showpo",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-boohoo"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wholesale7.net/blog/best-stores-like-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "bebe",
+      "slug": "bebe",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-boohoo"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wholesale7.net/blog/best-stores-like-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "Be Jealous",
+      "slug": null,
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.techtricksworld.com/sites-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.society19.com/uk/online-shops-like-boohoo-for-cute-and-cheap-clothes/"
+        }
+      ]
+    },
+    {
+      "name": "Lavish Alice",
+      "slug": "lavish-alice",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.techtricksworld.com/sites-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.society19.com/uk/online-shops-like-boohoo-for-cute-and-cheap-clothes/"
+        }
+      ]
+    },
+    {
+      "name": "NA-KD",
+      "slug": "na-kd",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.techtricksworld.com/sites-like-boohoo/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.society19.com/uk/online-shops-like-boohoo-for-cute-and-cheap-clothes/"
+        }
+      ]
+    },
+    {
+      "name": "River Island",
+      "slug": "river-island",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "American Eagle",
+      "slug": "american-eagle",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "Pacsun",
+      "slug": "pacsun",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "Mango",
+      "slug": "mango",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "Revolve",
+      "slug": "revolve",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "Uniqlo",
+      "slug": "uniqlo",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "Bershka",
+      "slug": "bershka",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "New Look",
+      "slug": "new-look",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "White Fox",
+      "slug": "white-fox",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "Abercrombie & Fitch",
+      "slug": "abercrombie-fitch",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "Shop Style Shark",
+      "slug": "shop-style-shark",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://whenwomeninspire.com/2021/12/20/online-stores-budget-friendly-clothes/"
+        }
+      ]
+    },
+    {
+      "name": "CHNGE",
+      "slug": null,
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-to-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "WAWWA",
+      "slug": null,
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-to-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "Fanfare",
+      "slug": null,
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-to-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "Frankie Collective",
+      "slug": "frankie-collective",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-to-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "Afends",
+      "slug": "afends",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-to-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "Plant Faced Clothing",
+      "slug": null,
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-to-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "Spell",
+      "slug": "spell",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-to-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "STANLEY/STELLA",
+      "slug": null,
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-to-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "Whimsy + Row",
+      "slug": null,
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/alternatives-to-boohoo/"
+        }
+      ]
+    },
+    {
+      "name": "A'GACI",
+      "slug": "a-gaci",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Ami Clubwear",
+      "slug": "amiclubwear",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "BoohooMAN",
+      "slug": "boohooman",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Charlotte Russe",
+      "slug": "charlotte-russe",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Cider",
+      "slug": "cider",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "COLLUSION",
+      "slug": "collusion",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Glassons",
+      "slug": "glassons",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Hot Topic",
+      "slug": "hot-topic",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "In The Style",
+      "slug": "in-the-style",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "King Ice",
+      "slug": "king-ice",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Menace Jewelry",
+      "slug": "menace-jewelry",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Miss Selfridge",
+      "slug": "miss-selfridge",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Missy Empire",
+      "slug": "missy-empire",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "ModParty",
+      "slug": "modparty",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Public Desire",
+      "slug": "public-desire",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "StalkBuyLove",
+      "slug": null,
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Stradivarius",
+      "slug": "stradivarius",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Stylenanda",
+      "slug": "stylenanda",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Temu",
+      "slug": "temu",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Torrid",
+      "slug": "torrid",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Windsor",
+      "slug": "windsor",
+      "in_apart_pool": true,
+      "sources": []
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "result": "31 rows for boohoo: A'GACI, Ami Clubwear, BoohooMAN, Charlotte Russe, Cider, COLLUSION, Fashion Nova, Forever 21, Glassons, Hot Topic, In The Style, King Ice, Menace Jewelry, Miss Selfridge, Missguided, Misspap, Missy Empire, ModParty, Nasty Gal, PrettyLittleThing, Princess Polly, Public Desire, River Island, ROMWE, Shein, StalkBuyLove, Stradivarius, Stylenanda, Temu, Torrid, Windsor. Only those with an outside source were checked."
+  },
+  "picks": [
+    {
+      "slug": "prettylittlething",
+      "rank": 1,
+      "independent_sources": 9,
+      "single_source": false,
+      "store_type": "fast-fashion",
+      "price_relation": null,
+      "reason": "Boohoo Group's Manchester sister store with dresses in US 00–24 split into petite, tall, shape and plus ranges, $9.99 US shipping and 21-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-boohoo",
+          "note": "#5: \"another fast-fashion brand out of the U.K.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wholesale7.net/blog/best-stores-like-boohoo/",
+          "note": "#6: \"PLT is a UK-based store\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-boohoo/",
+          "note": "#1: \"another UK-based online shopping site founded in 2012\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.society19.com/uk/online-shops-like-boohoo-for-cute-and-cheap-clothes/",
+          "note": "#4: \"for trendy, street style looks\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/",
+          "note": "#2: \"another great option if you love Boohoo\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://whenwomeninspire.com/2021/12/20/online-stores-budget-friendly-clothes/",
+          "note": "#3: \"trendy and affordable fashion\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://joingerald.com/blog/boohoo-similar-shops",
+          "note": "#2: \"both part of the Boohoo Group like Boohoo itself\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://fashionsoulintl.com/blog/shops-like-boohoo-where-to-find-fashion-on-a-budget/",
+          "note": "#1: \"PrettyLittleThing is your answer!\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://storessimilarto.com/stores-similar-to-boohoo",
+          "note": "#2"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.daysliketoday.com/my-master-list-of-affordable-online-stores-to-shop-at-part-1/",
+          "note": "\"very similar to Missguided and Boohoo\""
+        }
+      ]
+    },
+    {
+      "slug": "missguided",
+      "rank": 2,
+      "independent_sources": 7,
+      "single_source": false,
+      "store_type": "fast-fashion",
+      "price_relation": null,
+      "reason": "US storefront for trend-led going-out dresses with free shipping over $67.49 ($4.49 under) and 30-day returns from delivery.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-boohoo",
+          "note": "#3: \"one of the first retail brands to offer curvy styles that were still very much on-trend\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wholesale7.net/blog/best-stores-like-boohoo/",
+          "note": "#4: \"affordable and current fashion\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.techtricksworld.com/sites-like-boohoo/",
+          "note": "#2: \"the best BooHoo alternative\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.society19.com/uk/online-shops-like-boohoo-for-cute-and-cheap-clothes/",
+          "note": "#1: \"always one step ahead of the trends\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/",
+          "note": "#3: \"bold, confident styles similar to Boohoo's range\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://joingerald.com/blog/boohoo-similar-shops",
+          "note": "#4: \"another strong contender\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://fashionsoulintl.com/blog/shops-like-boohoo-where-to-find-fashion-on-a-budget/",
+          "note": "#5: \"a must-shop\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://storessimilarto.com/stores-similar-to-boohoo",
+          "note": "#5"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.daysliketoday.com/my-master-list-of-affordable-online-stores-to-shop-at-part-1/",
+          "note": "\"SUPER similar to Boohoo\""
+        }
+      ]
+    },
+    {
+      "slug": "forever-21",
+      "rank": 3,
+      "independent_sources": 4,
+      "single_source": false,
+      "store_type": "fast-fashion",
+      "price_relation": null,
+      "reason": "LA-born online store whose full-price dresses are all $24.99, XS–XXL plus a plus section, free US shipping over $50 and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-boohoo",
+          "note": "#1: \"No list of stores like Boohoo would be complete without Forever 21.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wholesale7.net/blog/best-stores-like-boohoo/",
+          "note": "#2: \"firmly established in the affordable fashion category\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-boohoo/",
+          "note": "#7: \"doesn't limit itself to one type of style\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/",
+          "note": "#9: \"affordable, trendy clothing similar to Boohoo\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://storessimilarto.com/stores-similar-to-boohoo",
+          "note": "#8"
+        }
+      ]
+    },
+    {
+      "slug": "fashion-nova",
+      "rank": 4,
+      "independent_sources": 4,
+      "single_source": false,
+      "store_type": "fast-fashion",
+      "price_relation": null,
+      "reason": "LA fast-fashion store with a PLUS+CURVE section and going-out dresses, US shipping $6.99 under $75 and free above, three to seven business days.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wholesale7.net/blog/best-stores-like-boohoo/",
+          "note": "#19: \"many Instagrammers wear its clothes\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-boohoo/",
+          "note": "#8: \"can be considered Boohoo on steroids\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/",
+          "note": "#23: \"glamorous, budget-friendly clothing similar to Boohoo\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://joingerald.com/blog/boohoo-similar-shops",
+          "note": "#5: \"a massive following\""
+        }
+      ]
+    },
+    {
+      "slug": "romwe",
+      "rank": 5,
+      "independent_sources": 3,
+      "single_source": false,
+      "store_type": "fast-fashion",
+      "price_relation": null,
+      "reason": "US store for alternative-style dresses with free standard shipping over $29 and 60 days to return from purchase, first label free.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.techtricksworld.com/sites-like-boohoo/",
+          "note": "#10: \"houses stylish and casual dresses\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://fashionsoulintl.com/blog/shops-like-boohoo-where-to-find-fashion-on-a-budget/",
+          "note": "#4: \"keep you stylish for less\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://storessimilarto.com/stores-similar-to-boohoo",
+          "note": "#6: very low prices on casual tops and dresses"
+        }
+      ]
+    },
+    {
+      "slug": "tiger-mist",
+      "rank": 6,
+      "independent_sources": 2,
+      "single_source": false,
+      "store_type": "online boutique",
+      "price_relation": null,
+      "reason": "Own-label going-out dresses at $69–$139 full price on a US store, sizes XXS–XL, free US shipping over $75 and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wholesale7.net/blog/best-stores-like-boohoo/",
+          "note": "#16: \"clothes to suit the things you do every day\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.techtricksworld.com/sites-like-boohoo/",
+          "note": "#4: \"one of the best BooHoo alternatives\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.society19.com/uk/online-shops-like-boohoo-for-cute-and-cheap-clothes/",
+          "note": "#5: \"quickly gaining momentum\""
+        }
+      ]
+    },
+    {
+      "slug": "princess-polly",
+      "rank": 7,
+      "independent_sources": 2,
+      "single_source": false,
+      "store_type": "online boutique",
+      "price_relation": null,
+      "reason": "Trend-led dresses at $49–$119 full price, US 0–12 plus Curve 14–20, free US shipping over $50, 30-day returns and US stores.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/",
+          "note": "#11: \"another excellent alternative to Boohoo\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://whenwomeninspire.com/2021/12/20/online-stores-budget-friendly-clothes/",
+          "note": "#4: \"an Australian-based online fashion retailer\""
+        }
+      ]
+    },
+    {
+      "slug": "showpo",
+      "rank": 8,
+      "independent_sources": 1,
+      "single_source": true,
+      "store_type": "online boutique",
+      "price_relation": null,
+      "reason": "Sydney dress label shipping from a US warehouse, free over $100 ($9.95 under), US 0–16 with a Curve section and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-boohoo",
+          "note": "#6: \"a seriously pretty style destination\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wholesale7.net/blog/best-stores-like-boohoo/",
+          "note": "#7: \"you can buy its products no matter where you are from\""
+        }
+      ]
+    },
+    {
+      "slug": "na-kd",
+      "rank": 9,
+      "independent_sources": 1,
+      "single_source": true,
+      "store_type": "online boutique",
+      "price_relation": null,
+      "reason": "Scandinavian womenswear with full-price dresses at $49.95–$99.95 on a US site, a flat duty fee at checkout and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.techtricksworld.com/sites-like-boohoo/",
+          "note": "#9: \"growing in leaps and bounds\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.society19.com/uk/online-shops-like-boohoo-for-cute-and-cheap-clothes/",
+          "note": "#10: \"prices are super reasonable just like boohoo\""
+        }
+      ]
+    },
+    {
+      "slug": "lavish-alice",
+      "rank": 10,
+      "independent_sources": 1,
+      "single_source": true,
+      "store_type": "occasion",
+      "price_relation": null,
+      "reason": "Manchester occasion-dress label priced in pounds (£75–£298, about $100–$396), UK 6–18, $10 standard US shipping and 14-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.techtricksworld.com/sites-like-boohoo/",
+          "note": "#8: \"unbeatable collection of office and formal wear\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.society19.com/uk/online-shops-like-boohoo-for-cute-and-cheap-clothes/",
+          "note": "#9: \"a great online boutique to check out for formal wear\""
+        }
+      ]
+    },
+    {
+      "slug": "bebe",
+      "rank": 11,
+      "independent_sources": 1,
+      "single_source": true,
+      "store_type": "occasion",
+      "price_relation": null,
+      "reason": "Occasion and cocktail dresses at $139–$189 full price with most marked down, XXS–XXL, free US shipping over $150 and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://iamandco.com/blogs/articles/stores-like-boohoo",
+          "note": "#9: \"a long legacy for being the cutest place for party wear\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wholesale7.net/blog/best-stores-like-boohoo/",
+          "note": "#10: \"famous for its beautiful dresses\""
+        }
+      ]
+    },
+    {
+      "slug": "river-island",
+      "rank": 12,
+      "independent_sources": 1,
+      "single_source": true,
+      "store_type": "high street",
+      "price_relation": null,
+      "reason": "High-street chain with a US dollar storefront, full-price party dresses from $65 to $171 and 28-day returns with a US return charge.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://soxy.com/blogs/stores-like-boohoo/",
+          "note": "#9: \"a respected 60 years of fashion retailing experience\""
+        }
+      ]
+    },
+    {
+      "slug": "shop-style-shark",
+      "rank": 13,
+      "independent_sources": 1,
+      "single_source": true,
+      "store_type": "online boutique",
+      "price_relation": null,
+      "reason": "Full-price dresses from $29 to $180, most under $100, shipped from overseas to the US with 14-day returns and S–L on most styles.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://whenwomeninspire.com/2021/12/20/online-stores-budget-friendly-clothes/",
+          "note": "#1: \"one of the most popular emerging online fashion retailers\""
+        }
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "shein",
+      "why": "8 sources, but status unverified in its brand file (bot check); not worked around."
+    },
+    {
+      "slug": "nasty-gal",
+      "why": "8 sources, but nastygal.com is a 'Coming Soon' placeholder selling nothing (brand file, today)."
+    },
+    {
+      "slug": "asos",
+      "why": "6 sources; unverified (US site refuses scripted requests and returned 503 to WebFetch, brand file). Also a multi-brand store."
+    },
+    {
+      "slug": "express",
+      "why": "4 sources; unverified (dresses page renders no products to WebFetch, brand file)."
+    },
+    {
+      "slug": "amaroso",
+      "why": "3 sources (B, D, E); www.amaroso.com doesn't connect. Not marked defunct: the stored-domain guess may be wrong (see human_check)."
+    },
+    {
+      "slug": "misspap",
+      "why": "3 sources; live store in GBP, but its delivery page names only UK, Northern Ireland and Ireland, so no US delivery to stand on."
+    },
+    {
+      "slug": "topshop",
+      "why": "3 sources; no own US store, sold only through ASOS (brand file)."
+    },
+    {
+      "slug": "2020ave",
+      "why": "3 sources (two near-identical); live plus-size store but its dress collections are empty today, so it doesn't sell dresses."
+    },
+    {
+      "slug": "american-apparel",
+      "why": "3 sources; off_category today (wholesale blanks site, brand file)."
+    },
+    {
+      "slug": "urban-outfitters",
+      "why": "3 sources; multi-brand store verified for womens-clothing only, no ships_to or dresses source (brand file)."
+    },
+    {
+      "slug": "zaful",
+      "why": "2 sources; www.zaful.com returned 403 to WebFetch; unverified."
+    },
+    {
+      "slug": "lulus",
+      "why": "2 sources; unverified (refuses WebFetch, brand file)."
+    },
+    {
+      "slug": "h-m",
+      "why": "2 sources; unverified (403, brand file)."
+    },
+    {
+      "slug": "zara",
+      "why": "2 sources; unverified (brand file)."
+    },
+    {
+      "slug": "be-jealous",
+      "why": "2 sources (D, E, one cluster); bejealous.com answers HTTP 402 (store unavailable). Not marked defunct without a search for its current site."
+    },
+    {
+      "slug": "white-fox",
+      "why": "Only source is checkcharm (template-generated); left out in favour of picks with editorial sources. Verified with dresses if a re-run wants it."
+    },
+    {
+      "slug": "revolve, american-eagle, pacsun, uniqlo, abercrombie-fitch",
+      "why": "Only source is checkcharm (template-generated) and each is a different store type; left out."
+    },
+    {
+      "slug": "mango, bershka, new-look",
+      "why": "Only source is checkcharm, and each is unverified in its brand file."
+    },
+    {
+      "slug": "frankie-collective, afends, spell",
+      "why": "Good On You's sustainable alternatives: verified elsewhere but a different reason to shop (organic, hemp, reworked vintage) at higher prices; Afends' dresses entry is in AUD though the site has a US/USD setting. Left out."
+    },
+    {
+      "slug": "chnge, wawwa, fanfare, plant-faced-clothing, stanley-stella, whimsy-row",
+      "why": "Good On You only; not checked (sustainable basics labels, a different reason to shop)."
+    },
+    {
+      "slug": "wholesale7",
+      "why": "Lists itself #1 on its own page; self-promotion, not a candidate."
+    },
+    {
+      "slug": "boohooman",
+      "why": "Same group, men's store; not an alternative and no outside source for it here."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "boohoo dresses price (anchor)",
+      "url": "https://us.boohoo.com/categories/womens-dresses",
+      "check": "Not indexable until the anchor has a dresses price. Every in-stock boohoo-label dress in an 80-page sample (54 in stock) was marked down ($11.70–$35.10 against strike prices $39–$117), so there is no regular price to record. Decide whether a store that is always marked down can anchor a page (a gate or policy call). If a regular-price dresses row is ever added, it also sets labels on the six dress pages where boohoo is a pick with price_relation null (charlotte-russe, lucy-in-the-sky, rainbow, sabo, white-house-black-market, windsor): each needs its boohoo label set in the same change, or boohoo drops from them."
+    },
+    {
+      "fact": "bebe dresses price may have replaced a concurrent entry",
+      "url": "https://www.bebe.com/collections/dresses/products.json?limit=250",
+      "check": "bebe.json didn't exist when this run checked, but the boston-proper run created it before this run's merge, so this run's dresses entry ($139–$189, 49 regular of 351 in stock, full feed) may have replaced one written minutes earlier. If boston-proper's page labels bebe's price, re-run the gate there."
+    },
+    {
+      "fact": "checkcharm.com as evidence",
+      "url": "https://www.checkcharm.com/reviews/brands-like-boohoo/",
+      "check": "Looks template or AI-generated. Counted as a source for PrettyLittleThing, Missguided, Forever 21, Fashion Nova and Princess Polly, never alone; Princess Polly's other source is whenwomeninspire. Confirm it should count."
+    },
+    {
+      "fact": "Amaroso and Be Jealous official sites",
+      "url": "https://www.amaroso.com/",
+      "check": "amaroso.com doesn't connect and bejealous.com answers 402. Find their current official sites before calling either defunct (3 and 2 sources)."
+    },
+    {
+      "fact": "River Island US delivery terms",
+      "url": "https://www.riverisland.com/us/how-can-we-help/delivery",
+      "check": "The delivery page served UK rates only; ships_to US rests on the US storefront and US returns terms. Record US delivery cost and timing. Its dress range is the first 40 of 348."
+    },
+    {
+      "fact": "Misspap US delivery",
+      "url": "https://www.misspap.com/pages/informational/delivery",
+      "check": "3 sources; would be a pick if it delivers to the US. The delivery page names UK and Ireland only."
+    },
+    {
+      "fact": "Reddit, Quora and The Student Room threads",
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/jf71gx/what_is_the_upscale_version_of_fashion_nova_shein/",
+      "check": "Refuse WebFetch; unread."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": {
+    "date": "2026-10-28",
+    "source": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+    "USD_per_EUR": 1.1133,
+    "GBP_per_EUR": 0.83785,
+    "used_for": [
+      "lavish-alice"
+    ]
+  },
+  "notes": [
+    "Evidence: Ahrefs SERPs for the four keywords gave three keepable editorial pages (iamandco, daysliketoday, goodonyou); 'boohoo alternatives' had no SERP rows. Two WebSearch queries added 8 more editorial lists (field web_search). Independent sources collapse near-identical lists: iamandco + wholesale7, techtricksworld + society19. No disco directory page exists for boohoo.",
+    "Ranking: independent source count, then raw count; price closeness can't be used because boohoo has no regular-price dresses row. 13 picks, all price_relation null (anchor has no price, so a label would fail the gate).",
+    "boohoo known_for changed to 'Online Fashion' (merge --overwrite known_for): the old value 'Online Fashion for Women and Men' put a second 'for' in the title.",
+    "Brand files written through merge_brand.py from patches in the run's scratchpad: boohoo (notes, sources, sale_pattern, known_for), romwe (ships_to, returns, free shipping, known_for, dresses), bebe, lavish-alice, shop-style-shark, river-island, 2020ave, misspap, zaful.",
+    "Ahrefs: 4 serp-overview calls, 1 keywords-explorer-matching-terms call (FAQ questions)."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "The boohoo dress you want is 70% off again. Now you're working out what it really costs once $10.99 shipping and a $14.99 charge for any return come into it. That's usually when people start looking around. So here are the stores selling the same fast-moving dresses to the US, closest match first. A few dressier labels come at the end, for when one night out isn't the plan.",
+    "bodies": {
+      "prettylittlething": "PrettyLittleThing is the nearest thing to boohoo because it's family. Both sit in the same Manchester-based group, and PLT dresses now turn up on boohoo's own US site next to Coast.\n\nWhere it pulls ahead is fit. Its size guide splits into petite (US 00 to 12), tall (0 to 14), shape (0 to 16) and plus (12 to 24), with maternity on top. So if a standard cut never sits right on you, start in the range built for your height rather than hemming or hoping. US delivery is a flat $9.99, a dollar under boohoo's.\n\nThe catch is that the rest of the deal barely changes. You still get 21 days to return, $14.99 still comes off each refund, and the 70% off banners work the same way, so compare what you'd pay, not the percentage. If returns are what's pushing you away, Romwe's first label is free.",
+      "missguided": "Missguided is the pick if it's boohoo's going-out dresses you're after but its shipping you're not. Standard US delivery is free over $67.49 and $4.49 below that, where boohoo charges $10.99 on every order.\n\nThe store works more like a small mall now. Its own dresses share the listings with other labels such as AiiRZ and SUMWON WOMEN, and the house pieces have MISSGUIDED in capitals at the front of the name. Most dresses carry a markdown, so the crossed-out figure isn't much of a guide.\n\nReturns stretch to 30 days from delivery, longer than boohoo's 21, but the postage is yours. Bodysuits, swimwear and anything from clearance are final, so buy those only in a size you already know.",
+      "forever-21": "Forever 21 is where to go for boohoo-style trend dresses at one simple full price: $24.99, like the Ribbed Knit Mock Neck Midi Dress ($24.99). Orders over $50 ship free, and it ships to all 50 states and nowhere else.\n\nThat flat price is the useful part. Most dresses are marked down below it, so you'll often pay less, but clearance and Final Sale pieces can't go back. Sizes run XS to XXL with a separate plus section, which covers a lot less ground than boohoo's US 0 to 26.\n\nIt's online only since its US stores closed in 2025. Returns take 30 days and cost $9.99 to send, still cheaper than boohoo's $14.99. For a fuller size spread, PrettyLittleThing is the better bet.",
+      "fashion-nova": "Fashion Nova is the one for boohoo's night-out dresses with a curvier fit in mind, since it has a whole PLUS+CURVE section rather than a few extended sizes. It started as one LA store in 2006 and is still run from Beverly Hills.\n\nThe thing to know is how it shows prices. Nearly every dress sits at a sale price under a higher Comp. Value, so the lower number is the one to compare with boohoo. Shipping is $6.99 under $75 and free above it, with three to seven business days quoted for delivery. That's a shorter window on paper than boohoo's six to eight.\n\nIf what you want is a full-price dress that isn't always on promotion, Tiger Mist and Princess Polly both sell plenty of dresses at full price.",
+      "romwe": "Romwe has the lowest free-shipping bar here and the longest returns. Standard US delivery is free over $29, and you get 60 days from purchase to send something back, nearly three times boohoo's 21.\n\nIt calls itself alternative clothing, and the dress section shows it: more goth and Y2K than boohoo's party edit, from bodycon mermaid-tail minis to sequin cowl-neck long dresses. Prices come with a percentage off rather than a crossed-out original, so the figure at checkout is the only one that counts.\n\nThe first return label on each order is free, and every extra one costs $7.99. So send everything back in one parcel. Bodysuits, swimwear and jewelry are final, which matters if you're building a whole outfit from one order.",
+      "tiger-mist": "Tiger Mist is the step up for a full-price going-out dress, with minis and maxis from $69 to $139 like the Bria Mini Dress ($89). It runs a separate US store priced in dollars, and orders over $75 ship free.\n\nMost of the range sits under $100, so it's a modest jump rather than a splurge. Sizes are the narrow part: XXS to XL, with no plus range. That's a long way from boohoo's 26.\n\nReturns run 30 days. US shoppers get a free label if they take store credit, while a cash refund costs $10 for the label. So it suits a dress you're fairly sure of. If you need more than an XL at a similar price, Princess Polly's Curve range goes to a US 20.",
+      "princess-polly": "Princess Polly is the pick if you like boohoo's trend-led dresses but want to try them on first. It has US stores in Scottsdale, Santa Clara, Boston and Columbus, and full-price dresses online run $49 to $119, like the Celena Mini Dress ($58).\n\nAlmost all of it stays under $100, and free US shipping starts at $50, so most single dresses clear the bar. Core sizes are US 0 to 12 with a Curve range from 14 to 20. That reaches further than Tiger Mist but stops well short of boohoo.\n\nYou get 30 days from delivery for a refund, an exchange or a gift card, with final-sale pieces the exception. It's also a certified B Corp, if how a store is run matters to you.",
+      "showpo": "Showpo is the dress-led pick that ships from a US warehouse rather than from overseas. Standard US delivery is free over $100 and $9.95 under, with a US-only express option.\n\nIt started in Sydney in 2010 and still leads with dresses, like the Pietra Maxi Dress ($99.95). Sizes run US 0 to 16, and there's a Curve section on top. Some items still ship from Australia, so check the product page if timing matters.\n\nThe returns policy rewards a quick decision. You get 30 days to send something back, but cash refunds only apply in the first seven. After that it's an exchange or 110% store credit, and sale pieces are credit only. Missguided's 30 days are simpler if you tend to sit on a parcel.",
+      "na-kd": "NA-KD is the Scandinavian take on boohoo's dress rail, with full-price dresses that run from $49.95 to $99.95. The Wide Sleeve Mini Dress ($49.95) sits at the bottom, a Sequin Batwing Maxi Dress at the top.\n\nNothing crosses $100, so the budget is easy to plan. Long styles aren't priced up much either: the Lace Maxi Dress is $59.95. But US orders now carry a non-refundable duty fee at checkout, so check the total before you pay.\n\nReturns run 30 days from delivery, with a fee taken off the refund. If you want the same price band with more going-out styles and US stores to walk into, Princess Polly covers it.",
+      "lavish-alice": "Lavish Alice is the dressier step away from boohoo, a Manchester label built around party, wedding and occasion dresses. Prices are in pounds, from the HONEY Asymmetric Midi Dress (£75, about $100) up to embellished blazer dresses at £298 (about $396).\n\nThere's no US price setting, so add the $10 standard US shipping and the conversion before you compare. Sizes run UK 6 to 18 on every dress.\n\nReturns are short at 14 days from delivery, and international return fees vary by country. So this is for one dress for a date you already know, not a try-on haul. If you'd rather pay in dollars for an occasion dress, bebe is the closer fit.",
+      "bebe": "bebe is the pick for cocktail and occasion dresses in dollars, with full-price midis and maxis from $139 to $189, like the Lace Cap Sleeve Midi Dress ($139). Its menu splits dresses by bodycon, cocktail, night-out and special occasion, which makes it quick to narrow down.\n\nMost of its dresses are marked down, so the sale rail is where most of the choice sits. Just know that sale styles are final. Shipping is free over $150 within the 48 contiguous states and $9.49 under.\n\nYou can start a return within 30 days of the order shipping, but a refund only applies for the first 21. After that it's store credit, and there's a $12 return fee unless you paid for Checkout+. Sizes run XXS to XXL.",
+      "river-island": "River Island is the high-street pick, with a US storefront in dollars and full-price party dresses from $65 to $171. The Brown Satin Fringe Halter Mini Dress ($65) is at the low end, a sequin feather-trim mini at the top.\n\nMost dresses sit between $100 and $160, with a lot of velvet, satin and sequin. The Burgundy Velvet Devore Wrap Mini Dress ($110) is a fair guide to the middle. So it's a store for a planned outfit rather than a cheap add to the basket.\n\nReturns run 28 days from delivery, and US returns carry a charge you'll see when you start one. If you'd rather shop a label that only does occasion dresses, Lavish Alice is the specialist, priced in pounds.",
+      "shop-style-shark": "Shop Style Shark is the budget pick for simple full-price maxis and minis, from the High Slit Cut Maxi Dress ($29) to a denim maxi at $180. Most of it sits under $100.\n\nThe trade-off is time. Orders can take up to 10 business days to process, then ship from overseas with up to 14 days in transit. That's a lot slower than boohoo's six to eight business days, so don't order for a weekend.\n\nReturns must be postmarked within 14 days of delivery, and shipping isn't refunded. Sizes mostly run S to L, with only a few XS and XL. For a wider size range at a low full price, Forever 21 goes to XXL plus a plus section."
+    },
+    "best_for": {
+      "prettylittlething": "petite, tall or plus fits on boohoo's own terms",
+      "missguided": "going-out dresses with cheaper US shipping than boohoo",
+      "forever-21": "trend dresses at one flat full price",
+      "fashion-nova": "night-out dresses cut for curves",
+      "romwe": "trying lots of styles with 60 days to return",
+      "tiger-mist": "a full-price going-out mini under $100",
+      "princess-polly": "trying the look on in a US store first",
+      "showpo": "dresses shipped from a US warehouse, free over $100",
+      "na-kd": "contemporary dresses that all stay under $100",
+      "lavish-alice": "one statement dress for a wedding or event",
+      "bebe": "cocktail dresses bought off the sale rail",
+      "river-island": "high-street party dresses priced in dollars",
+      "shop-style-shark": "cheap maxis when you can wait for delivery"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with what bothers you about boohoo. If it's the returns, Romwe gives you 60 days and a free first label, and Missguided gives you 30. If it's fit, PrettyLittleThing splits into petite, tall and plus, and Fashion Nova has a whole curve section. For a low price you can trust without a markdown, Forever 21 keeps full-price dresses at $24.99 and Shop Style Shark starts at $29, though it's slow to arrive. Step up to Tiger Mist or NA-KD for a going-out dress under about $100, or Princess Polly if you'd like to try it on in a US store. And for a wedding or a big night, set bebe and River Island in dollars against Lavish Alice in pounds."
+    },
+    "faqs": [
+      {
+        "q": "Is boohoo legit?",
+        "a": "Yes. It's a Manchester store owned by Boohoo Group, which now trades as Debenhams Group, with a US site priced in dollars. Expect $10.99 standard shipping and 21 days to return.",
+        "source_query": "is boohoo legit"
+      },
+      {
+        "q": "Where is boohoo located?",
+        "a": "boohoo is based in Manchester, England, and was founded in 2006. US orders come through us.boohoo.com, with no extra tariff charges added at delivery.",
+        "source_query": "where is boohoo located"
+      },
+      {
+        "q": "How long does boohoo take to ship?",
+        "a": "Standard US shipping takes six to eight business days and costs $10.99. If you need a dress sooner, Showpo ships most orders from a US warehouse.",
+        "source_query": "how long does boohoo take to ship"
+      },
+      {
+        "q": "What is boohoo's return policy?",
+        "a": "You have 21 days from receiving your order to send it back, and $14.99 per parcel comes off the refund. Taking store credit instead adds a 20% bonus.",
+        "source_query": "what is boohoo return policy"
+      }
+    ]
+  }
+}

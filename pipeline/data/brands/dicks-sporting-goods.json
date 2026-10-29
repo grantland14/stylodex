@@ -1,0 +1,23 @@
+{
+  "slug": "dicks-sporting-goods",
+  "name": "DICK'S Sporting Goods",
+  "website_url": "https://www.dickssportinggoods.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Sports Equipment and Apparel",
+  "hq_country": "US",
+  "founded_year": 1948,
+  "parent_company": "DICK'S Sporting Goods, Inc.",
+  "us_stores": true,
+  "ships_to": [],
+  "prices": [],
+  "sources": [
+    "https://www.dickssportinggoods.com/",
+    "https://investors.dicks.com/",
+    "https://s205.q4cdn.com/510074553/files/doc_financials/2025/ar/DKS_AR_2025.pdf",
+    "https://s205.q4cdn.com/510074553/files/doc_financials/2026/q2/2Q26_DKS_Press-Release.pdf"
+  ],
+  "notes": [
+    "2026-10-29 (Sierra page run): dickssportinggoods.com returns 403 'Site Unavailable' to the StylodexBot UA and to WebFetch. Status and us_stores from the company's own investor site. 2025 Annual Report on Form 10-K (https://s205.q4cdn.com/510074553/files/doc_financials/2025/ar/DKS_AR_2025.pdf): 'a leading global sports retailer offering an extensive assortment of authentic, high-quality sports equipment, apparel, footwear and accessories'; banners DICK'S Sporting Goods, Golf Galaxy, Public Lands and Going Going Gone! 'all located across the United States'; HQ 345 Court Street, Coraopolis, PA; founded 1948 in Binghamton, New York; fiscal 2025 ending stores: 721 DICK'S-banner stores; Going Going Gone! stores consolidate clearance inventory 'to better serve our value athletes'. Q2 2026 release (https://s205.q4cdn.com/510074553/files/doc_financials/2026/q2/2Q26_DKS_Press-Release.pdf): 3,104 store locations across the DICK'S and Foot Locker Businesses as of August 1, 2026. Neither names jackets or outerwear, so coats-jackets is not in sells_categories."
+  ]
+}

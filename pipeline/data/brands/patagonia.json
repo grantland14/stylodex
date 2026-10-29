@@ -10,7 +10,8 @@
   "notes": [
     "patagonia.com men's jackets pages served a 'System maintenance is in progress' notice to WebFetch twice, 2026-10-29; no products readable. Re-check.",
     "2026-10-29 (lands-end run): patagonia.com/shop/mens/jackets-vests still serves 'System maintenance is in progress' to WebFetch. Re-check.",
-    "2026-10-29 (eddie-bauer page run): /shop/mens/jackets-vests again served 'System maintenance is in progress' to the StylodexBot UA."
+    "2026-10-29 (eddie-bauer page run): /shop/mens/jackets-vests again served 'System maintenance is in progress' to the StylodexBot UA.",
+    "2026-10-29 (Sierra page run): patagonia.com/shop/mens/jackets-vests still serves 'System maintenance is in progress' to the StylodexBot UA. Not retried further."
   ],
   "checked_at": "2026-10-29"
 }
