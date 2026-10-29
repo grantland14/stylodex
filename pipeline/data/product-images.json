@@ -19,6 +19,10 @@
     "jeans": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
+    },
+    "mens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
     }
   },
   "afends": {
@@ -357,6 +361,25 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "amiclubwear": {
+    "dresses": {
+      "status": "no_products",
+      "items": [],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "ann-taylor": {
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "ashley-williams": {
+    "jewelry": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "asket": {
     "tees": {
       "status": "no_feed",
@@ -395,8 +418,80 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "avara": {
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "aviator-nation": {
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/aviator-nation/logo-vneck-jersey-boyfriend-tee-kelly-green-white.webp",
+          "title": "LOGO V-NECK JERSEY BOYFRIEND TEE - KELLY GREEN // WHITE",
+          "product_path": "/products/logo-vneck-jersey-boyfriend-tee-kelly-green-white",
+          "price": 89,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1149/5724/files/WTCVJL-KGRWHT_0Z9A0753.jpg?v=1786999416"
+        },
+        {
+          "path": "/img/products/aviator-nation/logo-vneck-jersey-boyfriend-tee-red-white.webp",
+          "title": "LOGO V-NECK JERSEY BOYFRIEND TEE - RED // WHITE",
+          "product_path": "/products/logo-vneck-jersey-boyfriend-tee-red-white",
+          "price": 89,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1149/5724/files/WTCVJL-REDWHT_0Z9A0746_1.jpg?v=1787013048"
+        },
+        {
+          "path": "/img/products/aviator-nation/logo-vneck-jersey-boyfriend-tee-orange-vintage-white.webp",
+          "title": "LOGO V-NECK JERSEY BOYFRIEND TEE - ORANGE // VINTAGE WHITE",
+          "product_path": "/products/logo-vneck-jersey-boyfriend-tee-orange-vintage-white",
+          "price": 89,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1149/5724/files/WTCVJL-ORGVWHT_0Z9A0737.jpg?v=1786999357"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "banana-republic": {
     "jeans": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    },
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "barbour": {
+    "coats-jackets": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "bardot": {
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "bea-bongiasca": {
+    "jewelry": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "belk": {
+    "womens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "belstaff": {
+    "coats-jackets": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
@@ -404,6 +499,38 @@
   "bergdorf-goodman": {
     "womens-clothing": {
       "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "bill-wall-leather": {
+    "rings": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/bill-wall-leather/bwl-malibu-cross-ring.webp",
+          "title": "BWL Malibu Cross Ring",
+          "product_path": "/products/bwl-malibu-cross-ring",
+          "price": 802,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0835/4567/files/R456_a.jpg?v=1708660735"
+        },
+        {
+          "path": "/img/products/bill-wall-leather/bwl-malibu-cross-with-18k-gold-cross-in-center.webp",
+          "title": "BWL Malibu Cross with 18K Gold Cross in Center",
+          "product_path": "/products/bwl-malibu-cross-with-18k-gold-cross-in-center",
+          "price": 1217,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0835/4567/files/R456C_a.jpg?v=1709165296"
+        },
+        {
+          "path": "/img/products/bill-wall-leather/graffiti-dome-ring.webp",
+          "title": "Graffiti Dome Ring",
+          "product_path": "/products/graffiti-dome-ring",
+          "price": 951,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0835/4567/files/R445_01.jpg?v=1709074042"
+        }
+      ],
       "fetched_at": "2026-10-29"
     }
   },
@@ -457,6 +584,38 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "bn3th": {
+    "underwear": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/bn3th/classic-boxer-brief-black.webp",
+          "title": "Classic Icon Boxer Brief: Black",
+          "product_path": "/products/classic-boxer-brief-black",
+          "price": 32,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2345/0597/files/BN3TH_Classic-Icon-Boxer-Brief_M111057-028_Black_01_Front_1x1_bt66ob_410c20c3-efbe-4aca-9e63-9adcecebdf26.jpg?v=1783373307"
+        },
+        {
+          "path": "/img/products/bn3th/pro-boxer-brief-black.webp",
+          "title": "Pro Flex Boxer Brief: Black",
+          "product_path": "/products/pro-boxer-brief-black",
+          "price": 26,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2345/0597/files/SS25-PRO-FLEX-BOXER-BRIEF-BLACK-M121035-028-FRONT_8f907591-efb9-4b46-952a-210dab32ea13.jpg?v=1765388979"
+        },
+        {
+          "path": "/img/products/bn3th/classic-boxer-brief-navy.webp",
+          "title": "Classic Icon Boxer Brief: Navy",
+          "product_path": "/products/classic-boxer-brief-navy",
+          "price": 32,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2345/0597/files/BN3TH_Classic-Icon-Boxer-Brief_M111057-089_Navy_01_FRONT_1X1_p5lasz.jpg?v=1783373743"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "boden": {
     "sweaters": {
       "status": "ok",
@@ -484,6 +643,36 @@
           "price": 199,
           "currency": "USD",
           "source_image": "https://cdn.shopify.com/s/files/1/0680/4619/2892/files/26wwin_k1362_pin_w01.jpg?v=1789565180"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    },
+    "dresses": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/boden/women-ruffle-velvet-jumpsuit-black-d1840blk.webp",
+          "title": "Ruffle Velvet Jumpsuit-Black",
+          "product_path": "/products/women-ruffle-velvet-jumpsuit-black-d1840blk",
+          "price": 199,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0680/4619/2892/files/26wwin_d1840_blk_m01_819fc22d-51e3-42f6-ba22-79e6ba95def7.jpg?v=1789741025"
+        },
+        {
+          "path": "/img/products/boden/women-mya-ruched-velvet-midi-dress-black-d1847blk.webp",
+          "title": "Mya Ruched Velvet Midi Dress-Black",
+          "product_path": "/products/women-mya-ruched-velvet-midi-dress-black-d1847blk",
+          "price": 199,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0680/4619/2892/files/26wwin_d1847_blk_m01_77291abf-bf3a-40d4-bfe9-27e5896d8d68.jpg?v=1787754663"
+        },
+        {
+          "path": "/img/products/boden/women-honor-short-velvet-dress-dark-purple-d1851blu.webp",
+          "title": "Honor Short Velvet Dress-Dark Purple",
+          "product_path": "/products/women-honor-short-velvet-dress-dark-purple-d1851blu",
+          "price": 149,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0680/4619/2892/files/26waut_d1851_blu_w01.jpg?v=1789565229"
         }
       ],
       "fetched_at": "2026-10-29"
@@ -524,6 +713,12 @@
           "source_image": "https://cdn.shopify.com/s/files/1/0455/9827/7796/files/MSS026-YR87SA100000.jpg?v=1782251655"
         }
       ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "brooks-brothers": {
+    "dresses": {
+      "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
   },
@@ -577,9 +772,155 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "cabana-life": {
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "cariloha": {
+    "underwear": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/cariloha/bamboo-boxer-briefs-deep-sea.webp",
+          "title": "Bamboo Boxer Briefs - Deep Sea",
+          "product_path": "/products/bamboo-boxer-briefs-deep-sea",
+          "price": 22,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0694/8470/7919/files/Deep_Sea1__50215.1790952868.1280.1280.jpg?v=1790953450"
+        },
+        {
+          "path": "/img/products/cariloha/bamboo-boxer-briefs-honu-blue.webp",
+          "title": "Bamboo Boxer Briefs - Honu Blue",
+          "product_path": "/products/bamboo-boxer-briefs-honu-blue",
+          "price": 22,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0694/8470/7919/files/Honolulu_Blue1__25579.1790953053.1280.1280.jpg?v=1790953461"
+        },
+        {
+          "path": "/img/products/cariloha/bamboo-boxer-briefs-graphite-heather.webp",
+          "title": "Bamboo Boxer Briefs - Graphite Heather",
+          "product_path": "/products/bamboo-boxer-briefs-graphite-heather",
+          "price": 22,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0694/8470/7919/files/bc-7164-image-9122-20260909.jpg?v=1788990459"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "charles-keith": {
+    "handbags": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "charlotte-russe": {
+    "dresses": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/charlotte-russe/0732-03533850-printed-scoop-neck-mini-dress.webp",
+          "title": "Printed Scoop Neck Mini Dress",
+          "product_path": "/products/0732-03533850-printed-scoop-neck-mini-dress",
+          "price": 12.99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0074/5124/6676/files/073203533850_02_0.jpg?v=1778087563"
+        },
+        {
+          "path": "/img/products/charlotte-russe/0730-48283788-dolman-eyelet-mini-dress.webp",
+          "title": "Dolman Eyelet Mini Dress",
+          "product_path": "/products/0730-48283788-dolman-eyelet-mini-dress",
+          "price": 10,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0074/5124/6676/files/073048283788-31-0.jpg?v=1776197784"
+        },
+        {
+          "path": "/img/products/charlotte-russe/0730-48283790-eyelet-halter-mini-dress.webp",
+          "title": "Grommet Halter Mini Dress",
+          "product_path": "/products/0730-48283790-eyelet-halter-mini-dress",
+          "price": 10,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0074/5124/6676/files/073048283790-31-0.jpg?v=1776197787"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "chopova-lowena": {
+    "jewelry": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/chopova-lowena/loft-flocked-mesh-top.webp",
+          "title": "Loft Flocked Mesh Top",
+          "product_path": "/products/loft-flocked-mesh-top",
+          "price": 347,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0562/9535/8669/files/2489-1.jpg?v=1791893873"
+        },
+        {
+          "path": "/img/products/chopova-lowena/aw26-mini-sofia-bag-black.webp",
+          "title": "Mini Sofia Bag Black",
+          "product_path": "/products/aw26-mini-sofia-bag-black",
+          "price": 1353,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0562/9535/8669/files/AW26-6910.jpg?v=1784642720"
+        },
+        {
+          "path": "/img/products/chopova-lowena/lockhart-midi-carabiner-skirt.webp",
+          "title": "Lockhart Midi Carabiner Skirt",
+          "product_path": "/products/lockhart-midi-carabiner-skirt",
+          "price": 1414,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0562/9535/8669/files/AW26-3419.jpg?v=1783512590"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "chrome-hearts": {
+    "rings": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "cider": {
     "dresses": {
       "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "clocks-and-colours": {
+    "rings": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/clocks-and-colours/cc1313-p-seco-second-chances.webp",
+          "title": "Second Chances",
+          "product_path": "/products/cc1313-p-seco-second-chances",
+          "price": 109,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0581/4489/files/SECONDCHANCESxSteel-CC-1.png?v=1792435130"
+        },
+        {
+          "path": "/img/products/clocks-and-colours/cc1267-r-vanq-vanquished.webp",
+          "title": "Vanquished",
+          "product_path": "/products/cc1267-r-vanq-vanquished",
+          "price": 99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0581/4489/files/VANQUISHEDxSteel-CC-2.png?v=1792436552"
+        },
+        {
+          "path": "/img/products/clocks-and-colours/cc1264-r-hypn-hypnotic.webp",
+          "title": "Hypnotic",
+          "product_path": "/products/cc1264-r-hypn-hypnotic",
+          "price": 99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0581/4489/files/HypnoticxSteel-CC-1.png?v=1792167308"
+        }
+      ],
       "fetched_at": "2026-10-29"
     }
   },
@@ -677,8 +1018,18 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "completedworks": {
+    "jewelry": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "cotton-on": {
     "jeans": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    },
+    "mens-clothing": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
@@ -710,6 +1061,36 @@
           "price": 280,
           "currency": "USD",
           "source_image": "https://cdn.shopify.com/s/files/1/0320/4907/0220/files/liu_burg8.png?v=1786095928"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    },
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/damson-madder/scottie-ls-tee-olive-stripe.webp",
+          "title": "Scottie Long Sleeve Tee - Olive Stripe",
+          "product_path": "/products/scottie-ls-tee-olive-stripe",
+          "price": 105,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0320/4907/0220/files/SCOTTIE_LS_TEE_-_OLIVE_STRIPE_051.jpg?v=1790345729"
+        },
+        {
+          "path": "/img/products/damson-madder/nelly-top-tourmaline-check.webp",
+          "title": "Nelly Top - Tourmaline Check",
+          "product_path": "/products/nelly-top-tourmaline-check",
+          "price": 160,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0320/4907/0220/files/NELLYTOP-TOURMALINECHECK_LOWENTROUSER-TOURMALINECHECK_083.jpg?v=1790345677"
+        },
+        {
+          "path": "/img/products/damson-madder/rayanna-dbl-layer-top-black-grey.webp",
+          "title": "Rayanna Double Layer Top - Black/Grey",
+          "product_path": "/products/rayanna-dbl-layer-top-black-grey",
+          "price": 115,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0320/4907/0220/files/RAYANNALAYERTOP-BLACK_GREY_MARATROUSER-GREYHERRINGBONE_LORELAI-ROSEBUDSTRIPE_039.jpg?v=1790346075"
         }
       ],
       "fetched_at": "2026-10-29"
@@ -754,6 +1135,44 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "demellier": {
+    "handbags": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/demellier/taylor-hill-x-the-large-siena-bucket-burgundy-croc-effect.webp",
+          "title": "Taylor Hill x The Large Siena Bucket",
+          "product_path": "/products/taylor-hill-x-the-large-siena-bucket-burgundy-croc-effect",
+          "price": 515,
+          "currency": "GBP",
+          "source_image": "https://cdn.shopify.com/s/files/1/0591/4535/5438/files/The_Large_Siena_Bucket_Burgundy_CrocEffect_1_ca789043-fc26-44f6-a871-880924ecaa94.jpg?v=1791200593"
+        },
+        {
+          "path": "/img/products/demellier/rebecca-donaldson-x-the-stockholm-shoulder-dark-sage-fine-grain-ecru-stitching.webp",
+          "title": "Rebecca Donaldson x The Stockholm Shoulder",
+          "product_path": "/products/rebecca-donaldson-x-the-stockholm-shoulder-dark-sage-fine-grain-ecru-stitching",
+          "price": 450,
+          "currency": "GBP",
+          "source_image": "https://cdn.shopify.com/s/files/1/0591/4535/5438/files/TheStockholmShoulder_Fern_FineGrain_1.jpg?v=1786967349"
+        },
+        {
+          "path": "/img/products/demellier/lena-mahfouf-x-the-new-york-fern-suede.webp",
+          "title": "Lena Mahfouf x The New York",
+          "product_path": "/products/lena-mahfouf-x-the-new-york-fern-suede",
+          "price": 550,
+          "currency": "GBP",
+          "source_image": "https://cdn.shopify.com/s/files/1/0591/4535/5438/files/The_NewYork_DarkSage_Suede_1.jpg?v=1786967233"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "diesel": {
+    "jeans": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "dillards": {
     "womens-clothing": {
       "status": "no_feed",
@@ -792,6 +1211,50 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "draper-james": {
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "dressed-in-lala": {
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/dressed-in-lala/mesh-burnout-dragon-top-in-dangerous-woman.webp",
+          "title": "Mesh Burnout Dragon Top in Dangerous Woman *RESTOCKED*",
+          "product_path": "/products/mesh-burnout-dragon-top-in-dangerous-woman",
+          "price": 64,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1515/2922/files/mesh-burnout-dragon-top-in-dangerous-woman-575495.jpg?v=1727526618"
+        },
+        {
+          "path": "/img/products/dressed-in-lala/oversized-sweater-vest-in-hear-me-roar.webp",
+          "title": "Oversized Sweater Vest in Hear Me Roar",
+          "product_path": "/products/oversized-sweater-vest-in-hear-me-roar",
+          "price": 98,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1515/2922/files/oversized-sweater-vest-in-hear-me-roar-552992.jpg?v=1735967257"
+        },
+        {
+          "path": "/img/products/dressed-in-lala/sticks-and-stones-oversized-tiger-tee.webp",
+          "title": "Sticks and Stones Oversized Tiger Tee",
+          "product_path": "/products/sticks-and-stones-oversized-tiger-tee",
+          "price": 72,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1515/2922/files/sticks-and-stones-oversized-tiger-tee-930201.jpg?v=1742406585"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "duluth-trading": {
+    "coats-jackets": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "ed-hardy": {
     "graphic-tees": {
       "status": "ok",
@@ -824,6 +1287,12 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "eddie-bauer": {
+    "coats-jackets": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "edikted": {
     "jeans": {
       "status": "no_feed",
@@ -831,6 +1300,70 @@
     },
     "tops": {
       "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "elliatt": {
+    "dresses": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/elliatt/laurel-sleeveless-maxi-dress-in-red.webp",
+          "title": "Laurel Sleeveless Maxi Dress In Red",
+          "product_path": "/products/laurel-sleeveless-maxi-dress-in-red",
+          "price": 245,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1995/6887/files/E8042418_RED_1_524ddcc6-60f5-487a-a4e6-b7096e99a127.jpg?v=1753238500"
+        },
+        {
+          "path": "/img/products/elliatt/elysia-tiered-gown-in-black-green-floral.webp",
+          "title": "Elysia Tiered Gown in Black & Green Floral",
+          "product_path": "/products/elysia-tiered-gown-in-black-green-floral",
+          "price": 368,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1995/6887/files/EC4112513_GREENBLACK_1.jpg?v=1753684368"
+        },
+        {
+          "path": "/img/products/elliatt/buttercup-embroidered-maxi-dress-in-blue.webp",
+          "title": "Buttercup Embroidered Maxi Dress In Blue",
+          "product_path": "/products/buttercup-embroidered-maxi-dress-in-blue",
+          "price": 348,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1995/6887/files/E5012506E_BABYBLUE_1.jpg?v=1763012670"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "ester-manas": {
+    "dresses": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/ester-manas/white-floral-lace-spaghetti-easy-dress.webp",
+          "title": "White Floral Lace Spaghetti Easy Dress",
+          "product_path": "/products/white-floral-lace-spaghetti-easy-dress",
+          "price": 280,
+          "currency": "EUR",
+          "source_image": "https://cdn.shopify.com/s/files/1/0708/5837/5436/files/WhiteFloralLaceEasyDress_B_cfaa8f22-c782-4148-9445-6abeec95369d.jpg?v=1784904393"
+        },
+        {
+          "path": "/img/products/ester-manas/feline-spaghetti-easy-dress.webp",
+          "title": "Feline Spaghetti Easy Dress",
+          "product_path": "/products/feline-spaghetti-easy-dress",
+          "price": 280,
+          "currency": "EUR",
+          "source_image": "https://cdn.shopify.com/s/files/1/0708/5837/5436/files/FelineSpaghettiEasyDress_A.jpg?v=1784903468"
+        },
+        {
+          "path": "/img/products/ester-manas/lilac-white-striped-spaghetti-easy-dress.webp",
+          "title": "Lilac & White Striped Spaghetti Easy Dress",
+          "product_path": "/products/lilac-white-striped-spaghetti-easy-dress",
+          "price": 280,
+          "currency": "EUR",
+          "source_image": "https://cdn.shopify.com/s/files/1/0708/5837/5436/files/LilacWhiteStripeEasyDress_A.jpg?v=1784903582"
+        }
+      ],
       "fetched_at": "2026-10-29"
     }
   },
@@ -1023,10 +1556,46 @@
         }
       ],
       "fetched_at": "2026-10-29"
+    },
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/farm-rio/camafeu-vermelho-moscato-long-sleeve-blouse.webp",
+          "title": "Camafeu Long Sleeve Blouse",
+          "product_path": "/products/camafeu-vermelho-moscato-long-sleeve-blouse",
+          "price": 230,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0077/6673/6963/files/farm-rio-camafeu-long-sleeve-blouse_377867.jpg?v=1792721455"
+        },
+        {
+          "path": "/img/products/farm-rio/burgundy-twill-heart-shirt.webp",
+          "title": "Heart Twill Shirt",
+          "product_path": "/products/burgundy-twill-heart-shirt",
+          "price": 298,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0077/6673/6963/files/farm-rio-heart-twill-shirt_377907.jpg?v=1792721363"
+        },
+        {
+          "path": "/img/products/farm-rio/mystical-paradise-beige-long-sleeved-blouse.webp",
+          "title": "Mystical Paradise Long Sleeve Blouse",
+          "product_path": "/products/mystical-paradise-beige-long-sleeved-blouse",
+          "price": 198,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0077/6673/6963/files/farm-rio-mystical-paradise-long-sleeve-blouse_373252.jpg?v=1792721218"
+        }
+      ],
+      "fetched_at": "2026-10-29"
     }
   },
   "fashion-nova": {
     "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "filson": {
+    "coats-jackets": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
@@ -1131,6 +1700,10 @@
     "womens-clothing": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
+    },
+    "mens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
     }
   },
   "frank-and-oak": {
@@ -1225,6 +1798,12 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "gaboratory": {
+    "rings": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "ganni": {
     "coats-jackets": {
       "status": "no_feed",
@@ -1234,6 +1813,70 @@
   "gap": {
     "jeans": {
       "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "georgia-kemball": {
+    "jewelry": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/georgia-kemball/big-pin-on-its-own.webp",
+          "title": "Big Pin - On It's Own",
+          "product_path": "/products/big-pin-on-its-own",
+          "price": 200,
+          "currency": "GBP",
+          "source_image": "https://cdn.shopify.com/s/files/1/0682/4394/7838/files/IMG_4109.jpg?v=1784709372"
+        },
+        {
+          "path": "/img/products/georgia-kemball/agate-pendant.webp",
+          "title": "Agate Pendant",
+          "product_path": "/products/agate-pendant",
+          "price": 270,
+          "currency": "GBP",
+          "source_image": "https://cdn.shopify.com/s/files/1/0682/4394/7838/files/IMG_92322.jpg?v=1764169995"
+        },
+        {
+          "path": "/img/products/georgia-kemball/bone-pendant.webp",
+          "title": "Bone Pendant",
+          "product_path": "/products/bone-pendant",
+          "price": 220,
+          "currency": "GBP",
+          "source_image": "https://cdn.shopify.com/s/files/1/0682/4394/7838/files/IMG_9273_32b08efd-4df4-4216-ae54-4776463a97f9.jpg?v=1764242869"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "good-art-hlywd": {
+    "rings": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/good-art-hlywd/fancy-pods-pro-a-goosebumps.webp",
+          "title": "Fancy Pods Pro - A Goosebumps",
+          "product_path": "/products/fancy-pods-pro-a-goosebumps",
+          "price": 1825,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0668/4043/files/FANCYPODSPRO-GEN3-AGOOSEBUMPS-CLOSEUPPIECES.jpg?v=1792026683"
+        },
+        {
+          "path": "/img/products/good-art-hlywd/soft-release-concave-smooth.webp",
+          "title": "Soft Release - Concave - Smooth",
+          "product_path": "/products/soft-release-concave-smooth",
+          "price": 245,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0668/4043/files/SOFTRELEASE-CONCAVE-SMOOTH3AGOOSEBUMPS-HERO.jpg?v=1792026453"
+        },
+        {
+          "path": "/img/products/good-art-hlywd/soft-release-concave-rosette.webp",
+          "title": "Soft Release - Concave - Rosette",
+          "product_path": "/products/soft-release-concave-rosette",
+          "price": 245,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0668/4043/files/SOFTRELEASE-CONCAVE-ROSETTE2ADESERTSESSION-HERO.jpg?v=1792026242"
+        }
+      ],
       "fetched_at": "2026-10-29"
     }
   },
@@ -1300,6 +1943,50 @@
           "source_image": "https://cdn.shopify.com/s/files/1/0272/1500/3781/files/Ruffle-Wrap-Dress-Monstera-Organic-Dress.jpg?v=1782236446"
         }
       ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "hard-jewelry": {
+    "rings": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/hard-jewelry/back-2-skull-mini-rings.webp",
+          "title": "MINI RINGS",
+          "product_path": "/products/back-2-skull-mini-rings",
+          "price": 26.95,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2112/2869/files/evergrn26-all-mini-rings-r1000.webp?v=1792514310"
+        },
+        {
+          "path": "/img/products/hard-jewelry/birthstone-rings.webp",
+          "title": "BIRTHSTONE RINGS",
+          "product_path": "/products/birthstone-rings",
+          "price": 54.95,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2112/2869/files/birthstone-rings-r9999.jpg?v=1738840126"
+        },
+        {
+          "path": "/img/products/hard-jewelry/centipede-ring.webp",
+          "title": "CENTIPEDE RING",
+          "product_path": "/products/centipede-ring",
+          "price": 39.95,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2112/2869/files/b2s25-slv-centipede-ring-r11111.webp?v=1757102070"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "hill-house-home": {
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "hobbs": {
+    "dresses": {
+      "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
   },
@@ -1491,8 +2178,26 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "j-crew-factory": {
+    "jeans": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "j-jill": {
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "jaded-london": {
     "jeans": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "jcpenney": {
+    "womens-clothing": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
@@ -1556,6 +2261,38 @@
           "price": 395,
           "currency": "USD",
           "source_image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-fisherman-sweater-oatmeal-1.jpg?v=1786394366"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "jens-pirate-booty": {
+    "dresses": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/jens-pirate-booty/senorita-bonita-maxi-dress.webp",
+          "title": "Senorita Bonita Maxi Dress",
+          "product_path": "/products/senorita-bonita-maxi-dress",
+          "price": 285,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0075/7652/files/jens-pirate-booty-senorita-bonita-maxi-dress-natural-cotton-gauze-1-7.jpg?v=1755731681"
+        },
+        {
+          "path": "/img/products/jens-pirate-booty/dominga-dress.webp",
+          "title": "Dominga Dress",
+          "product_path": "/products/dominga-dress",
+          "price": 285,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0075/7652/files/jens-pirate-booty-dominga-dress-natural-gauze-14.jpg?v=1752676008"
+        },
+        {
+          "path": "/img/products/jens-pirate-booty/grecian-margarita-maxi-dress.webp",
+          "title": "Grecian Margarita Maxi Dress",
+          "product_path": "/products/grecian-margarita-maxi-dress",
+          "price": 285,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0075/7652/files/jens-pirate-booty-grecian-margarita-maxi-dress-natural-gauze-2.jpg?v=1775689346"
         }
       ],
       "fetched_at": "2026-10-29"
@@ -1625,6 +2362,88 @@
   },
   "johnny-was": {
     "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "jude-connally": {
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "junk-food": {
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/junk-food/indianapolis-colts-throwback-helmet-flea-market-tee.webp",
+          "title": "Indianapolis Colts Throwback Helmet Flea Market Tee",
+          "product_path": "/products/indianapolis-colts-throwback-helmet-flea-market-tee",
+          "price": 48,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2259/9249/files/12UXNFL6380_White_1_57054530-5e19-496d-824e-5b678bd6ab63.jpg?v=1792426162"
+        },
+        {
+          "path": "/img/products/junk-food/tennessee-titans-throwback-helmet-flea-market-tee.webp",
+          "title": "Tennessee Titans Throwback Helmet Flea Market Tee",
+          "product_path": "/products/tennessee-titans-throwback-helmet-flea-market-tee",
+          "price": 48,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2259/9249/files/12UXNFL7120_WHITE_1_d46ed572-c1c2-48d2-ae48-27cd4916982d.jpg?v=1789660562"
+        },
+        {
+          "path": "/img/products/junk-food/san-francisco-49ers-heroic-tee.webp",
+          "title": "San Francisco 49ers Heroic Tee",
+          "product_path": "/products/san-francisco-49ers-heroic-tee",
+          "price": 48,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2259/9249/files/12UXNFL6651_RED_1_3b80fa79-9843-43bf-9540-19f2f9ecc0f8.jpg?v=1789660559"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "justfab": {
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "jw-pei": {
+    "handbags": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/jw-pei/rowan-faux-suede-quilted-chain-bucket-bag-dark-brown.webp",
+          "title": "Rowan Faux Suede Quilted Chain Bucket Bag - Dark Brown",
+          "product_path": "/products/rowan-faux-suede-quilted-chain-bucket-bag-dark-brown",
+          "price": 159,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0150/6292/5412/files/pj0p7f7j8rf.jpg?v=1792131915"
+        },
+        {
+          "path": "/img/products/jw-pei/rowan-weaving-ruched-drawstring-chain-bucket-bag-dark-cherry.webp",
+          "title": "Rowan Weaving Ruched Drawstring Chain Bucket Bag - Dark Cherry",
+          "product_path": "/products/rowan-weaving-ruched-drawstring-chain-bucket-bag-dark-cherry",
+          "price": 189,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0150/6292/5412/files/1784273723282-vhziui7t0x.jpg?v=1784280801"
+        },
+        {
+          "path": "/img/products/jw-pei/hana-medium-weave-texture-tote-bag-black.webp",
+          "title": "Hana Medium Weave Texture Tote Bag - Black",
+          "product_path": "/products/hana-medium-weave-texture-tote-bag-black",
+          "price": 149,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0150/6292/5412/files/JH306B04-12-FRONT1.jpg?v=1752235451"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "kakadu-australia": {
+    "coats-jackets": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
@@ -1777,6 +2596,70 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "ksubi": {
+    "jeans": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/ksubi/pin-up-jean-noir.webp",
+          "title": "PIN UP JEAN NOIR",
+          "product_path": "/products/pin-up-jean-noir",
+          "price": 240,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/JEAN-PINUP-NOIR_1557.jpg?v=1792537059"
+        },
+        {
+          "path": "/img/products/ksubi/empire-jean-noir.webp",
+          "title": "EMPIRE JEAN NOIR",
+          "product_path": "/products/empire-jean-noir",
+          "price": 240,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/EMPIREJEANNOIR_1148.jpg?v=1792537096"
+        },
+        {
+          "path": "/img/products/ksubi/dropout-jean-stone.webp",
+          "title": "DROPOUT JEAN STONE TAN",
+          "product_path": "/products/dropout-jean-stone",
+          "price": 260,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0516/4538/2842/files/JEANS_DROPOUTJEANSTONETAN_750.jpg?v=1786943738"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "lauren-moshi": {
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/lauren-moshi/croft-lucky-cat.webp",
+          "title": "Croft Lucky Cat",
+          "product_path": "/products/croft-lucky-cat",
+          "price": 121,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0475/9653/products/2213-CTT-14424-WHT-01.jpg?v=1645213871"
+        },
+        {
+          "path": "/img/products/lauren-moshi/mckinley-lucky-cat.webp",
+          "title": "McKinley Lucky Cat",
+          "product_path": "/products/mckinley-lucky-cat",
+          "price": 163,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0475/9653/products/2158-THR-14421-BLK-02.jpg?v=1643832489"
+        },
+        {
+          "path": "/img/products/lauren-moshi/mckinley-x-butterfly-daisy.webp",
+          "title": "McKinley X Butterfly Daisy",
+          "product_path": "/products/mckinley-x-butterfly-daisy",
+          "price": 163,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0475/9653/files/2158-THR-X15921-BLK-05.jpg?v=1775867364"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "levis": {
     "jeans": {
       "status": "no_feed",
@@ -1791,25 +2674,25 @@
           "path": "/img/products/lioness/sloane-jean-pitch.webp",
           "title": "SLOANE JEAN - PITCH",
           "product_path": "/products/sloane-jean-pitch",
-          "price": 99,
-          "currency": "AUD",
-          "source_image": "https://cdn.shopify.com/s/files/1/0262/1292/5522/files/IMG_0808.jpg?v=1793061349"
+          "price": 105,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0810/3467/4409/files/IMG_0808.jpg?v=1793061375"
         },
         {
           "path": "/img/products/lioness/sloane-jean-vanilla.webp",
           "title": "SLOANE JEAN - VANILLA",
           "product_path": "/products/sloane-jean-vanilla",
-          "price": 99,
-          "currency": "AUD",
-          "source_image": "https://cdn.shopify.com/s/files/1/0262/1292/5522/files/LB1107-1-2610-VANILLA-_6.jpg?v=1793149813"
+          "price": 105,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0810/3467/4409/files/LB1107-1-2610-VANILLA-_6.jpg?v=1793153027"
         },
         {
           "path": "/img/products/lioness/cobra-jean-indigo.webp",
           "title": "COBRA JEAN - INDIGO",
           "product_path": "/products/cobra-jean-indigo",
-          "price": 99,
-          "currency": "AUD",
-          "source_image": "https://cdn.shopify.com/s/files/1/0262/1292/5522/files/2026_09_02_LIONESS_ECOMM_OCT---RESHOOTS_OCTOBER_309.jpg?v=1791426451"
+          "price": 105,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0810/3467/4409/files/2026_09_02_LIONESS_ECOMM_OCT---RESHOOTS_OCTOBER_309.jpg?v=1791954521"
         }
       ],
       "fetched_at": "2026-10-29"
@@ -1840,6 +2723,36 @@
           "price": 70,
           "currency": "USD",
           "source_image": "https://cdn.shopify.com/s/files/1/0810/3467/4409/files/WhatsApp-Image-2026-10-21-at-12.44.11-_3.jpg?v=1793060876"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    },
+    "dresses": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/lioness/afterglow-mini-dress-vanilla.webp",
+          "title": "AFTERGLOW MINI DRESS - VANILLA",
+          "product_path": "/products/afterglow-mini-dress-vanilla",
+          "price": 85,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0810/3467/4409/files/LD1284-1-2610-VANILLA-_4.jpg?v=1792996424"
+        },
+        {
+          "path": "/img/products/lioness/animal-instinct-maxi-nero.webp",
+          "title": "ANIMAL INSTINCT MAXI - NERO",
+          "product_path": "/products/animal-instinct-maxi-nero",
+          "price": 90,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0810/3467/4409/files/IMG_8104.jpg?v=1793061095"
+        },
+        {
+          "path": "/img/products/lioness/shadow-mini-dress-monochrome-muse.webp",
+          "title": "SHADOW MINI DRESS - MONOCHROME MUSE",
+          "product_path": "/products/shadow-mini-dress-monochrome-muse",
+          "price": 70,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0810/3467/4409/files/LD1277-2610-MONOCHROME-MUSE-_3.jpg?v=1792998933"
         }
       ],
       "fetched_at": "2026-10-29"
@@ -1874,6 +2787,18 @@
           "source_image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_olson_trench_black_dot_1.jpg?v=1789422336"
         }
       ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "loewe": {
+    "handbags": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "loft": {
+    "dresses": {
+      "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
   },
@@ -1925,6 +2850,76 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "lucy-in-the-sky": {
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "m-m-lafleur": {
+    "dresses": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/m-m-lafleur/valencia-dark-forest.webp",
+          "title": "Valencia Power Dress - Flex Suiting :: Dark Forest",
+          "product_path": "/products/valencia-dark-forest",
+          "price": 379,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0558/0449/4019/files/4_Valencia_Dress_Dark_Forest_Flex_Suiting_01023.jpg?v=1793034018"
+        },
+        {
+          "path": "/img/products/m-m-lafleur/farren-dark-forest.webp",
+          "title": "Farren Swing Dress - Flex Suiting :: Dark Forest",
+          "product_path": "/products/farren-dark-forest",
+          "price": 329,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0558/0449/4019/files/5_Farren_Dress_Dark_Forest_Flex_Suiting_06129.jpg?v=1793222028"
+        },
+        {
+          "path": "/img/products/m-m-lafleur/lancia-black-topstitch.webp",
+          "title": "Lancia Travel Dress - Everyday Crepe with Topstitch :: Black",
+          "product_path": "/products/lancia-black-topstitch",
+          "price": 329,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0558/0449/4019/files/84_Lancia_Dress_Black_Everyday_Crepe_w-Topstitch_09389.jpg?v=1793120052"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "mack-weldon": {
+    "underwear": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/mack-weldon/airknitx-boxer-brief.webp",
+          "title": "AIRKNITˣ Boxer Brief",
+          "product_path": "/products/airknitx-boxer-brief",
+          "price": 34,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0078/6825/2273/files/M0DB01-CH_Front_b38303eb-32ee-4f12-b2af-18380ba2359b.png?v=1765214990"
+        },
+        {
+          "path": "/img/products/mack-weldon/18-hour-jersey-boxer-briefs.webp",
+          "title": "18-Hour Jersey Boxer Brief",
+          "product_path": "/products/18-hour-jersey-boxer-briefs",
+          "price": 30,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0078/6825/2273/files/18HR-Boxer-Brief_Deep-Sea-Heather-_M03B01-DPSH.png?v=1767974578"
+        },
+        {
+          "path": "/img/products/mack-weldon/airknitx-cotton-boxer-brief-with-fly.webp",
+          "title": "AIRKNITˣ Cotton Boxer Brief - With Fly",
+          "product_path": "/products/airknitx-cotton-boxer-brief-with-fly",
+          "price": 34,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0078/6825/2273/files/AIRKNITx-Cotton-Boxer-Brief-with-Fly_Total-Eclipse_M0DB19-TE.png?v=1785244698"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "macys": {
     "womens-clothing": {
       "status": "no_feed",
@@ -1941,6 +2936,44 @@
       "fetched_at": "2026-10-29"
     },
     "jeans": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "maggy-london": {
+    "dresses": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/maggy-london/cinna-satin-ruched-maxi-dress-y10645.webp",
+          "title": "Cinna Satin Ruched Maxi Dress",
+          "product_path": "/products/cinna-satin-ruched-maxi-dress-y10645",
+          "price": 198,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0276/5828/9263/files/qUURGHfpH6MpLI582jMb9E-boEhjmsIGSGvVppNhB30.jpg?v=1793258136"
+        },
+        {
+          "path": "/img/products/maggy-london/freyda-satin-flutter-sleeve-maxi-dress-y10624.webp",
+          "title": "Freyda Satin Flutter Sleeve Maxi Dress",
+          "product_path": "/products/freyda-satin-flutter-sleeve-maxi-dress-y10624",
+          "price": 178,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0276/5828/9263/files/5RoI1pHn2XQIWtM1MBPy3WWXbF_WYyJM0Dy2uGwlmsM.jpg?v=1793258130"
+        },
+        {
+          "path": "/img/products/maggy-london/kaylee-velvet-sheath-dress-with-sparkle-trim-t10754.webp",
+          "title": "Kaylee Velvet Sheath Dress with Sparkle Trim",
+          "product_path": "/products/kaylee-velvet-sheath-dress-with-sparkle-trim-t10754",
+          "price": 128,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0276/5828/9263/files/CHR2o9K9vJCdXi_wrFZqOIStW9asyKxK7GAH-rQWwr4.jpg?v=1793258118"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "mahi-gold": {
+    "dresses": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
@@ -1985,6 +3018,12 @@
   },
   "marshalls": {
     "womens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "mary-square": {
+    "dresses": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
@@ -2085,6 +3124,12 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "meundies": {
+    "underwear": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "miaou": {
     "tops": {
       "status": "ok",
@@ -2144,6 +3189,76 @@
           "source_image": "https://cdn.shopify.com/s/files/1/1231/1148/files/ADIDAS_MEGARIDE_S2_CLEARBLUE_IMAGE-CAMPAIGN_MEDIA-STILL_CROP-CLOSECROP_ANGLE-SIDE.jpg?v=1789168867"
         }
       ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "minga-london": {
+    "jeans": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/minga-london/rift-black-paint-splatter-straight-baggy-jeans.webp",
+          "title": "Rift Black Paint Splatter Straight Baggy Jeans",
+          "product_path": "/products/rift-black-paint-splatter-straight-baggy-jeans",
+          "price": 150,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0530/0577/9130/files/26_08_11_mingalondon_33892_c-copy.jpg?v=1787828130"
+        },
+        {
+          "path": "/img/products/minga-london/aura-beaded-embroidery-flared-jeans.webp",
+          "title": "Aura Beaded Embroidery Flared Jeans",
+          "product_path": "/products/aura-beaded-embroidery-flared-jeans",
+          "price": 210,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0530/0577/9130/files/26_09_23_mingalondon_40335_c.webp?v=1791979693"
+        },
+        {
+          "path": "/img/products/minga-london/riot-bootcut-jeans.webp",
+          "title": "Riot Studded Bootcut Jeans",
+          "product_path": "/products/riot-bootcut-jeans",
+          "price": 180,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0530/0577/9130/files/riot-bootcut-jeans-1.jpg?v=1783693927"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "minus33": {
+    "underwear": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/minus33/acadian-mens-lightweight-wool-boxer-brief.webp",
+          "title": "Lightweight Men's Boxer Brief - 100% Merino Wool",
+          "product_path": "/products/acadian-mens-lightweight-wool-boxer-brief",
+          "price": 44.99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0289/3129/3321/files/merino_wool_boxer_briefs_702BK-e.jpg?v=1766507957"
+        },
+        {
+          "path": "/img/products/minus33/woolverino-mens-micro-weight-boxer-briefs.webp",
+          "title": "Microweight Men's Wool Boxer Briefs - Woolverino",
+          "product_path": "/products/woolverino-mens-micro-weight-boxer-briefs",
+          "price": 44.99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0289/3129/3321/files/merino_wool_boxer_briefs_702BK-e.jpg?v=1766507957"
+        },
+        {
+          "path": "/img/products/minus33/micro-weight-mens-pouch-boxer-briefs-woolverino.webp",
+          "title": "Men's Merino Wool Pouch Boxer Briefs - Microweight",
+          "product_path": "/products/micro-weight-mens-pouch-boxer-briefs-woolverino",
+          "price": 44.99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0289/3129/3321/files/Merino_Wool_Underwear_Pouch_Boxer_Briefs_TAN499.png?v=1782496731"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "missguided": {
+    "dresses": {
+      "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
   },
@@ -2208,6 +3323,42 @@
           "source_image": "https://cdn.shopify.com/s/files/1/0559/0604/2027/files/PGFAC233_420_16.jpg?v=1787865932"
         }
       ],
+      "fetched_at": "2026-10-29"
+    },
+    "dresses": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/modcloth/rustic-elegance-casual-dress-navy-plaid.webp",
+          "title": "Rustic Elegance Casual Dress with Pockets",
+          "product_path": "/products/rustic-elegance-casual-dress-navy-plaid",
+          "price": 119,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0559/0604/2027/files/400205_NVYPL_CROPPED_6_4.jpg?v=1788571797"
+        },
+        {
+          "path": "/img/products/modcloth/lottie-black-lace-collar-fit-and-flare-dress-pockets.webp",
+          "title": "The Lottie Lace Collar Fit & Flare Dress",
+          "product_path": "/products/lottie-black-lace-collar-fit-and-flare-dress-pockets",
+          "price": 94,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0559/0604/2027/files/400304_BLK_Cropped_6_1.jpg?v=1791485749"
+        },
+        {
+          "path": "/img/products/modcloth/paisley-floral-velvet-midi-dress-pockets.webp",
+          "title": "Garden Party Tapestry Midi Dress",
+          "product_path": "/products/paisley-floral-velvet-midi-dress-pockets",
+          "price": 89,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0559/0604/2027/files/400287_NVYPS_Cropped_4_1.jpg?v=1793025544"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "monies": {
+    "jewelry": {
+      "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
   },
@@ -2340,6 +3491,12 @@
           "source_image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Signature-Cashmere-Cropped-Pant-with-Pintucks---Black_010.jpg?v=1764461277"
         }
       ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "neff-headwear": {
+    "mens-clothing": {
+      "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
   },
@@ -2533,6 +3690,52 @@
     "mens-clothing": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
+    },
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    },
+    "womens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "orvis": {
+    "coats-jackets": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "oss": {
+    "rings": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/oss/acuario-diamond-ring-1.webp",
+          "title": "ACUARIO DIAMOND RING",
+          "product_path": "/products/acuario-diamond-ring-1",
+          "price": 450,
+          "currency": "EUR",
+          "source_image": "https://cdn.shopify.com/s/files/1/0012/9584/3376/products/IMG_9949.jpg?v=1775156231"
+        },
+        {
+          "path": "/img/products/oss/acuario-diamond-ring.webp",
+          "title": "MALIN DIAMOND RING",
+          "product_path": "/products/acuario-diamond-ring",
+          "price": 355,
+          "currency": "EUR",
+          "source_image": "https://cdn.shopify.com/s/files/1/0012/9584/3376/products/IMG_8613.jpg?v=1663174916"
+        },
+        {
+          "path": "/img/products/oss/cosmo-ring-copy.webp",
+          "title": "ELEVEN RING",
+          "product_path": "/products/cosmo-ring-copy",
+          "price": 270,
+          "currency": "EUR",
+          "source_image": "https://cdn.shopify.com/s/files/1/0012/9584/3376/files/IMG_3703.jpg?v=1775156178"
+        }
+      ],
+      "fetched_at": "2026-10-29"
     }
   },
   "other-uk": {
@@ -2564,6 +3767,12 @@
           "source_image": "https://cdn.shopify.com/s/files/1/2136/5971/files/Ripped-Knee-O32-Flared-Jens-Jet-Black-yFront.jpg?v=1788882541"
         }
       ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "outback-trading": {
+    "coats-jackets": {
+      "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
   },
@@ -2629,11 +3838,73 @@
         }
       ],
       "fetched_at": "2026-10-29"
+    },
+    "jeans": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/outerknown/the-traveler-straight-jean-worn-indigo.webp",
+          "title": "The Traveler Straight Jean",
+          "product_path": "/products/the-traveler-straight-jean-worn-indigo",
+          "price": 168,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2445/4975/files/Outerknown_SEA_JEANS_The_Traveler_Straight_Jean_Worn_Indigo_2.jpg?v=1771636495"
+        },
+        {
+          "path": "/img/products/outerknown/the-traveler-straight-jean-indigo-vintage.webp",
+          "title": "The Traveler Straight Jean",
+          "product_path": "/products/the-traveler-straight-jean-indigo-vintage",
+          "price": 168,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2445/4975/files/Outerknown_SEA_JEANS_The_Traveler_Straight_Jean_Indigo_Vintage_2.jpg?v=1771972856"
+        },
+        {
+          "path": "/img/products/outerknown/the-traveler-straight-jean-pale-vintage.webp",
+          "title": "The Traveler Straight Jean",
+          "product_path": "/products/the-traveler-straight-jean-pale-vintage",
+          "price": 168,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2445/4975/files/Outerknown_Traveler_Straight_Jean_Pale_Vintage_3.jpg?v=1771636477"
+        }
+      ],
+      "fetched_at": "2026-10-29"
     }
   },
   "pacsun": {
     "mens-clothing": {
       "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "pair-of-thieves": {
+    "underwear": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/pair-of-thieves/4-way-stretch-every-day-kit-performance-stretch-boxer-briefs-black-underwear-3-pack.webp",
+          "title": "4-Way Stretch Performance Stretch Boxer Briefs (3-Pack)",
+          "product_path": "/products/4-way-stretch-every-day-kit-performance-stretch-boxer-briefs-black-underwear-3-pack",
+          "price": 14.99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0015/8099/0516/files/107617-9920-LD-WMT_copy_18_2.jpg?v=1779233838"
+        },
+        {
+          "path": "/img/products/pair-of-thieves/superfit-pouch-boxer-briefs-black-navy-underwear-2-pack.webp",
+          "title": "SuperFit Pouch Boxer Briefs (2-Pack)",
+          "product_path": "/products/superfit-pouch-boxer-briefs-black-navy-underwear-2-pack",
+          "price": 26.99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0015/8099/0516/files/107434-0057-FM_1.jpg?v=1772646445"
+        },
+        {
+          "path": "/img/products/pair-of-thieves/superiair-boxer-briefs-assorted-underwear-3-pack-107219-9999.webp",
+          "title": "Superiair Boxer Briefs (3-Pack)",
+          "product_path": "/products/superiair-boxer-briefs-assorted-underwear-3-pack-107219-9999",
+          "price": 19.99,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0015/8099/0516/files/107615-0001-LD-WMT_copy_1.jpg?v=1778881456"
+        }
+      ],
       "fetched_at": "2026-10-29"
     }
   },
@@ -2669,6 +3940,76 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "parks-project": {
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/parks-project/naturalist-club-boxy-tank.webp",
+          "title": "Naturalist Club Boxy Tank",
+          "product_path": "/products/naturalist-club-boxy-tank",
+          "price": 36,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0871/5492/files/PP003002_DUVLT_NaturalistClubTank_001.jpg?v=1775494748"
+        },
+        {
+          "path": "/img/products/parks-project/womens-flora-in-national-parks-boxy-quarter-zip.webp",
+          "title": "Women's Flora in National Parks Boxy Quarter Zip",
+          "product_path": "/products/womens-flora-in-national-parks-boxy-quarter-zip",
+          "price": 85,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0871/5492/files/PP110023_RAWNAT_WomensFlorainNationalParksBoxyQuarterZip_0011_86b786a9-1ef5-4720-95f1-844deab386a0.png?v=1793134916"
+        },
+        {
+          "path": "/img/products/parks-project/womens-wild-parks-puffer-vest.webp",
+          "title": "Women's Wild Parks Puffer Vest",
+          "product_path": "/products/womens-wild-parks-puffer-vest",
+          "price": 130,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0871/5492/files/PP112006_MLT_WomensWildParksPufferVest_0011_fe14a2d7-97d9-47ed-a056-b0d83698b4a7.png?v=1793135105"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "parts-of-four": {
+    "rings": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/parts-of-four/2616-3-ma-sap.webp",
+          "title": "Crescent Base Ring (Extended, Mega Pavé, 15mm, Red Songea Sapphire, MA+RSSAP)",
+          "product_path": "/products/2616-3-ma-sap",
+          "price": 1100,
+          "currency": "EUR",
+          "source_image": "https://cdn.shopify.com/s/files/1/0947/8200/files/DSC06672-Edit-2_800a5cfc-9fbb-4499-a560-a134c77d7a0a.jpg?v=1781839614"
+        },
+        {
+          "path": "/img/products/parts-of-four/sistema-ring-fuse-fancy-setting-black-hex-diamond-0-5-ct-9mm-pa10kw-blkdia.webp",
+          "title": "Sistema Ring (Fuse, Fancy Setting, Black Hex Diamond, 0.5 CT, 9mm, PA10KW+BLKDIA)",
+          "product_path": "/products/sistema-ring-fuse-fancy-setting-black-hex-diamond-0-5-ct-9mm-pa10kw-blkdia",
+          "price": 3400,
+          "currency": "EUR",
+          "source_image": "https://cdn.shopify.com/s/files/1/0947/8200/files/DSC04957-Edit-2_40049755-73cd-4b82-8620-c6ba9fec8aee.jpg?v=1777694476"
+        },
+        {
+          "path": "/img/products/parts-of-four/2601-2-da.webp",
+          "title": "Sistema Ring (Raster, 17mm, DA)",
+          "product_path": "/products/2601-2-da",
+          "price": 640,
+          "currency": "EUR",
+          "source_image": "https://cdn.shopify.com/s/files/1/0947/8200/files/DSC06349-Edit_9ab7fc8f-8750-48fa-9ee3-122e0b5c792b.jpg?v=1781158056"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "pendleton": {
+    "coats-jackets": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "peppermayo": {
     "tops": {
       "status": "ok",
@@ -2698,6 +4039,42 @@
           "source_image": "https://cdn.shopify.com/s/files/1/0506/5886/9443/files/NoellaLongSleeveTopBlackCampaign1_c242e65f-464e-4571-8bc8-7f8bbd8bd562.jpg?v=1793055991"
         }
       ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "petal-and-pup": {
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/petal-and-pup/paolina-lace-tee-black.webp",
+          "title": "Paolina Lace Tee - Black",
+          "product_path": "/products/paolina-lace-tee-black",
+          "price": 59,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0266/8855/3034/files/tops-paolina-lace-tee-black-1241404190.jpg?v=1792427875"
+        },
+        {
+          "path": "/img/products/petal-and-pup/tulla-graphic-tee-white.webp",
+          "title": "Tulla Graphic Tee - White",
+          "product_path": "/products/tulla-graphic-tee-white",
+          "price": 55,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0266/8855/3034/files/tops-tulla-graphic-tee-white-1241403815.jpg?v=1792428308"
+        },
+        {
+          "path": "/img/products/petal-and-pup/noah-gathered-knit-top-chocolate.webp",
+          "title": "Noah Gathered Knit Top - Chocolate",
+          "product_path": "/products/noah-gathered-knit-top-chocolate",
+          "price": 59,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0266/8855/3034/files/tops-noah-gathered-knit-top-chocolate-1241404192.jpg?v=1792427690"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    },
+    "dresses": {
+      "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
   },
@@ -2760,6 +4137,38 @@
           "price": 145,
           "currency": "USD",
           "source_image": "https://cdn.shopify.com/s/files/1/2037/5461/files/black-funnel-neck-button-front-belted-maxi-dress.jpg?v=1775655905"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "polene": {
+    "handbags": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/polene/cyme-felted-anthracite-black.webp",
+          "title": "Cyme - Felted Anthracite Black",
+          "product_path": "/products/cyme-felted-anthracite-black",
+          "price": 750,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0009/5063/2505/files/packshot-front_cyme-feutre-noir_3bb0ad69-29cd-424a-a131-c7998feea242.png?v=1791820552"
+        },
+        {
+          "path": "/img/products/polene/cyme-mini-felted-anthracite-black.webp",
+          "title": "Cyme Mini - Felted Anthracite Black",
+          "product_path": "/products/cyme-mini-felted-anthracite-black",
+          "price": 660,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0009/5063/2505/files/packshot-front_cyme-mini-feutre-noir_5e97f4ba-f804-45c0-9df6-c375317f4bfa.png?v=1791820561"
+        },
+        {
+          "path": "/img/products/polene/cyme-felted-ebony.webp",
+          "title": "Cyme - Felted Ebony",
+          "product_path": "/products/cyme-felted-ebony",
+          "price": 750,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0009/5063/2505/files/packshot-front_cyme-feutre-ebene_1fcc77f9-15bb-4e64-9a80-f183f942b824.png?v=1791820552"
         }
       ],
       "fetched_at": "2026-10-29"
@@ -2833,9 +4242,81 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "psd": {
+    "underwear": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/psd/navy-sld-5i-navy.webp",
+          "title": "Solids - Navy",
+          "product_path": "/products/navy-sld-5i-navy",
+          "price": 24,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1044/2132/files/324180197-NVY_1.webp?v=1790961132"
+        },
+        {
+          "path": "/img/products/psd/midnight-tropics-6pk-multi.webp",
+          "title": "6 Pack - Midnight Tropics",
+          "product_path": "/products/midnight-tropics-6pk-multi",
+          "price": 112,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1044/2132/files/426180289-MUL_1.webp?v=1790271326"
+        },
+        {
+          "path": "/img/products/psd/tropic-volt-3pk-multi.webp",
+          "title": "3 Pack - Tropic Volt",
+          "product_path": "/products/tropic-volt-3pk-multi",
+          "price": 62,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/1044/2132/files/426180278-MUL_1.webp?v=1790271325"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "quince": {
     "sweaters": {
       "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    },
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    },
+    "handbags": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "rachel-antonoff": {
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/rachel-antonoff/lillian-turtleneck-butts-here.webp",
+          "title": "LILLIAN TURTLENECK BUTTS HERE",
+          "product_path": "/products/lillian-turtleneck-butts-here",
+          "price": 188,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0867/4488/files/LILLIAN-BUTTSHERE-8.jpg?v=1786041857"
+        },
+        {
+          "path": "/img/products/rachel-antonoff/lillian-turtleneck-ski-town-map.webp",
+          "title": "LILLIAN TURTLENECK SKI TOWN MAP",
+          "product_path": "/products/lillian-turtleneck-ski-town-map",
+          "price": 188,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0867/4488/files/LILLIAN-SKITOWN-8.jpg?v=1786042574"
+        },
+        {
+          "path": "/img/products/rachel-antonoff/eloise-top-purr-paisley.webp",
+          "title": "ELOISE TOP PURR PAISLEY",
+          "product_path": "/products/eloise-top-purr-paisley",
+          "price": 198,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0867/4488/files/ELOISE-3.jpg?v=1784647804"
+        }
+      ],
       "fetched_at": "2026-10-29"
     }
   },
@@ -2908,6 +4389,44 @@
       "status": "no_feed",
       "fetched_at": "2026-10-29"
     },
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "rick-owens": {
+    "jewelry": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/rick-owens/du02f6252rnp59.webp",
+          "title": "DU02F6252_RNP_59 | WALRUS T",
+          "product_path": "/products/du02f6252rnp59",
+          "price": 390,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0655/9278/7001/files/m_495079_DU02F6252_RNP_59_01.jpg?v=1793180606"
+        },
+        {
+          "path": "/img/products/rick-owens/ru02f4373te09.webp",
+          "title": "RU02F4373_TE_09 | BASKET SWINGERS",
+          "product_path": "/products/ru02f4373te09",
+          "price": 805,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0655/9278/7001/files/m_674636_RU02F4373_TE_09_01.jpg?v=1793270874"
+        },
+        {
+          "path": "/img/products/rick-owens/ro02f5795lcd39.webp",
+          "title": "RO02F5795_LCD_39 | COLLARED MAC BOMBER",
+          "product_path": "/products/ro02f5795lcd39",
+          "price": 6155,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0655/9278/7001/files/RO02F5795_LCD_39_01.jpg?v=1789664446"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "rihoas": {
     "dresses": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
@@ -2989,6 +4508,12 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "rue21": {
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "ryderwear": {
     "tees": {
       "status": "ok",
@@ -3018,6 +4543,12 @@
           "source_image": "https://cdn.shopify.com/s/files/1/2678/2686/files/pursuit-oversized-t-shirt-khaki-clothing-ryderwear-268723.jpg?v=1787141953"
         }
       ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "sail-to-sable": {
+    "dresses": {
+      "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
   },
@@ -3059,6 +4590,108 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "saxx": {
+    "underwear": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/saxx/sxpp3j_msa.webp",
+          "title": "Non-Stop Stretch Cotton (3 Pack)",
+          "product_path": "/products/sxpp3j_msa",
+          "price": 73,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2404/2903/files/SXPP3J-MSA_1form_f_fa26_4-5.png?v=1780943752"
+        },
+        {
+          "path": "/img/products/saxx/sxpp3j_awb.webp",
+          "title": "Non-Stop Stretch Cotton (3 Pack)",
+          "product_path": "/products/sxpp3j_awb",
+          "price": 73,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2404/2903/files/SXPP3J-AWB_1form_f_sp26_4-5_28e98f99-71c0-4098-b708-e49a0b095eb1.png?v=1765234624"
+        },
+        {
+          "path": "/img/products/saxx/26s14bb_pcb.webp",
+          "title": "Smooth Flex Light Compression",
+          "product_path": "/products/26s14bb_pcb",
+          "price": 40,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2404/2903/files/26s14bb-pcb_1form_f_sp26_4-5_f81bc3e9-cdb4-417f-a43d-0caaee234ba6.png?v=1767650570"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "schott-nyc": {
+    "coats-jackets": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "selfie-leslie": {
+    "dresses": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/selfie-leslie/cheer-twist-halterneck-maxi-dress-chocolate.webp",
+          "title": "Cheer Twist Halterneck Maxi Dress Chocolate",
+          "product_path": "/products/cheer-twist-halterneck-maxi-dress-chocolate",
+          "price": 89,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0414/2622/3270/files/64666J03_20CHOCOLATE-1.jpg?v=1745454983"
+        },
+        {
+          "path": "/img/products/selfie-leslie/doe-tied-bust-frill-mini-dress-floral-yellow.webp",
+          "title": "Doe Tied Bust Frill Mini Dress Floral Yellow",
+          "product_path": "/products/doe-tied-bust-frill-mini-dress-floral-yellow",
+          "price": 89,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0414/2622/3270/files/SR1015J08_20YELLOW-1.jpg?v=1745454985"
+        },
+        {
+          "path": "/img/products/selfie-leslie/mirella-smocked-bodice-maxi-dress-mocha.webp",
+          "title": "Mirella Smocked Bodice Maxi Dress Mocha",
+          "product_path": "/products/mirella-smocked-bodice-maxi-dress-mocha",
+          "price": 89,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0414/2622/3270/files/SLLD1444_20MOCHA-1.jpg?v=1745454985"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "selkie": {
+    "dresses": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/selkie/the-apothecary-orchestra-gown.webp",
+          "title": "The Apothecary Orchestra Gown",
+          "product_path": "/products/the-apothecary-orchestra-gown",
+          "price": 805,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2413/8101/files/1LITTLEHAUNTING49.jpg?v=1792609794"
+        },
+        {
+          "path": "/img/products/selkie/the-apothecary-rosaline-dress.webp",
+          "title": "The Apothecary Rosaline Dress",
+          "product_path": "/products/the-apothecary-rosaline-dress",
+          "price": 363,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2413/8101/files/1LITTLEHAUNTING114.jpg?v=1792609874"
+        },
+        {
+          "path": "/img/products/selkie/the-caviar-gossamer-corset-1.webp",
+          "title": "The Caviar Gossamer Gown",
+          "product_path": "/products/the-caviar-gossamer-corset-1",
+          "price": 559,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/2413/8101/files/1LITTLEHAUNTING85.jpg?v=1792610000"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "shopbop": {
     "womens-clothing": {
       "status": "no_feed",
@@ -3073,6 +4706,12 @@
   },
   "sierra": {
     "womens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "simone-rocha": {
+    "jewelry": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
@@ -3115,6 +4754,82 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "solange-azagury-partridge": {
+    "jewelry": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "songmont": {
+    "handbags": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/songmont/small-gather-lattice-bag-set-ebony.webp",
+          "title": "Small Gather Lattice Bag Set",
+          "product_path": "/products/small-gather-lattice-bag-set-ebony",
+          "price": 599,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0538/1295/3279/files/3_4_Logo_d6e160fc-cca8-4b5e-a97b-86c946bb7421.jpg?v=1786364046"
+        },
+        {
+          "path": "/img/products/songmont/small-gather-lattice-bag-set-cloud.webp",
+          "title": "Small Gather Lattice Bag Set",
+          "product_path": "/products/small-gather-lattice-bag-set-cloud",
+          "price": 599,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0538/1295/3279/files/3_4_Logo_0482e76d-829e-4c41-978c-28f0e331f3f8.jpg?v=1788349445"
+        },
+        {
+          "path": "/img/products/songmont/medium-gather-bag-set-ebony.webp",
+          "title": "Medium Gather Bag Set",
+          "product_path": "/products/medium-gather-bag-set-ebony",
+          "price": 579,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0538/1295/3279/files/medium-gather-bag-set-ebony-1.jpg?v=1758540555"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "sophie-buhai": {
+    "jewelry": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/sophie-buhai/large-shell-ring.webp",
+          "title": "Large Shell Ring",
+          "product_path": "/products/large-shell-ring",
+          "price": 850,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0661/3761/products/R1_93210006_FINAL_CROP.jpg?v=1721857190"
+        },
+        {
+          "path": "/img/products/sophie-buhai/small-spear-pendant-in-onyx.webp",
+          "title": "Small Spear Pendant in Onyx",
+          "product_path": "/products/small-spear-pendant-in-onyx",
+          "price": 625,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0661/3761/files/20240605_Lightwork_SophieBuhai_R25_SmallSpearPendant_Onyx_0137_FINAL_86f5e286-f687-4482-be7f-568684e5516c.jpg?v=1740075664"
+        },
+        {
+          "path": "/img/products/sophie-buhai/large-reversible-hammered-hoops.webp",
+          "title": "XL Reversible Hammered Hoops",
+          "product_path": "/products/large-reversible-hammered-hoops",
+          "price": 795,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0661/3761/files/E7_09930009R_2x3_WEB.jpg?v=1782430888"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "southern-tide": {
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "spell": {
     "dresses": {
       "status": "ok",
@@ -3142,6 +4857,38 @@
           "price": 295,
           "currency": "USD",
           "source_image": "https://cdn.shopify.com/s/files/1/0823/4473/files/0005_Rosewood-Bias-Gown-Patchwork.jpg?v=1792469547"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "spiritual-gangster": {
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/spiritual-gangster/swtp018-blk-reece-top.webp",
+          "title": "EuphoriaLift Reece Bra Top",
+          "product_path": "/products/swtp018-blk-reece-top",
+          "price": 98,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0199/1340/files/SWTP018_BLK_94457_a7581409-9a7e-4bb0-8654-0874340e728c.jpg?v=1790110612"
+        },
+        {
+          "path": "/img/products/spiritual-gangster/swtk017lua-dhg-lunar-spirit-tank.webp",
+          "title": "HeatherLight Lunar Spirit Crop Tank",
+          "product_path": "/products/swtk017lua-dhg-lunar-spirit-tank",
+          "price": 48,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0199/1340/files/SWTK017LUA-DHG_125494_5440f6dc-f7f8-4e08-a9f8-57abfb623dac.jpg?v=1790111284"
+        },
+        {
+          "path": "/img/products/spiritual-gangster/swhd015lua-dhg-lunar-maya-hoodie.webp",
+          "title": "HeatherLight Maya Hoodie",
+          "product_path": "/products/swhd015lua-dhg-lunar-maya-hoodie",
+          "price": 78,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0199/1340/files/SWHD015LUA-DHG_125589_4d81ee64-f2f6-4d90-af91-ffc7a83fbcad.jpg?v=1790110573"
         }
       ],
       "fetched_at": "2026-10-29"
@@ -3176,6 +4923,12 @@
           "source_image": "https://cdn.shopify.com/s/files/1/0024/0274/6421/files/09_07_23.png?v=1788574415"
         }
       ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "strathberry": {
+    "handbags": {
+      "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
   },
@@ -3249,12 +5002,28 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "talbots": {
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "target": {
     "jeans": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
     },
     "womens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    },
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "taylor-stitch": {
+    "coats-jackets": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
@@ -3323,6 +5092,38 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "the-great-frog": {
+    "rings": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/the-great-frog/soaring-eagle-ring.webp",
+          "title": "Soaring Eagle Ring",
+          "product_path": "/products/soaring-eagle-ring",
+          "price": 270,
+          "currency": "GBP",
+          "source_image": "https://cdn.shopify.com/s/files/1/0923/4494/2919/files/SoaringEagleRing_1.jpg?v=1763486896"
+        },
+        {
+          "path": "/img/products/the-great-frog/smallest-evil-skull-ring.webp",
+          "title": "Smallest Evil Skull Ring",
+          "product_path": "/products/smallest-evil-skull-ring",
+          "price": 180,
+          "currency": "GBP",
+          "source_image": "https://cdn.shopify.com/s/files/1/0923/4494/2919/files/SmallestEvilSkullRingSilver_1.jpg?v=1763487011"
+        },
+        {
+          "path": "/img/products/the-great-frog/small-feather-setting-ring.webp",
+          "title": "Small Feather Setting Ring",
+          "product_path": "/products/small-feather-setting-ring",
+          "price": 520,
+          "currency": "GBP",
+          "source_image": "https://cdn.shopify.com/s/files/1/0923/4494/2919/files/SMALL_FEATHER_RING_GARNET_FACETED_1.jpg?v=1767965765"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "the-kript": {
     "tops": {
       "status": "ok",
@@ -3350,6 +5151,36 @@
           "price": 90,
           "currency": "USD",
           "source_image": "https://cdn.shopify.com/s/files/1/0733/3881/4615/files/onyx-top-muse-capri-11.jpg?v=1788421710"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    },
+    "jeans": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/the-kript/sable-jeans.webp",
+          "title": "Sable Jeans",
+          "product_path": "/products/sable-jeans",
+          "price": 97,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0733/3881/4615/files/FIORATOPSABLEJEANS_20_-2.jpg?v=1790096592"
+        },
+        {
+          "path": "/img/products/the-kript/nexus-jeans.webp",
+          "title": "Nexus Jeans",
+          "product_path": "/products/nexus-jeans",
+          "price": 96,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0733/3881/4615/files/NEXUSJEANSFLATLAY0.jpg?v=1790095948"
+        },
+        {
+          "path": "/img/products/the-kript/randy-jeans.webp",
+          "title": "Randy Jeans",
+          "product_path": "/products/randy-jeans",
+          "price": 93,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0733/3881/4615/files/KALITOP_RANDYJEANS_21.jpg?v=1790100241"
         }
       ],
       "fetched_at": "2026-10-29"
@@ -3416,6 +5247,12 @@
           "source_image": "https://cdn.shopify.com/s/files/1/0578/8001/8989/files/WDR00335_2.jpg?v=1786616503"
         }
       ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "thursday-boot-co": {
+    "coats-jackets": {
+      "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
   },
@@ -3497,6 +5334,52 @@
         }
       ],
       "fetched_at": "2026-10-29"
+    },
+    "jeans": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    },
+    "dresses": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/toad-and-co/rosalinda-dress-burgundy-print.webp",
+          "title": "Rosalinda Dress",
+          "product_path": "/products/rosalinda-dress-burgundy-print",
+          "price": 98,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0253/4801/4128/files/T1771712-Burgundy_Print-1.jpg?v=1782496513"
+        },
+        {
+          "path": "/img/products/toad-and-co/freesia-long-sleeve-wrap-dress-cilantro-ditsy-print.webp",
+          "title": "Freesia Long Sleeve Wrap Dress",
+          "product_path": "/products/freesia-long-sleeve-wrap-dress-cilantro-ditsy-print",
+          "price": 110,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0253/4801/4128/files/T1000007-Cilantro_Ditsy_Print-3.jpg?v=1782496501"
+        },
+        {
+          "path": "/img/products/toad-and-co/scouter-corduroy-shirt-dress-ink-leaf-print.webp",
+          "title": "Scouter Corduroy Shirt Dress",
+          "product_path": "/products/scouter-corduroy-shirt-dress-ink-leaf-print",
+          "price": 125,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0253/4801/4128/files/T1781408-Ink_Leaf_Print-1.jpg?v=1782496513"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "tom-beckbe": {
+    "coats-jackets": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "tom-wood": {
+    "jewelry": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
     }
   },
   "tripp-nyc": {
@@ -3531,12 +5414,54 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "tuckernuck": {
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "tyler-mcgillivary": {
+    "tops": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/tyler-mcgillivary/arlo-cami-olive.webp",
+          "title": "Arlo Cami -  Olive and Pink",
+          "product_path": "/products/arlo-cami-olive",
+          "price": 125,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0338/7057/7709/files/GreenArloCamiFlat-Updated_nohem.jpg?v=1792417345"
+        },
+        {
+          "path": "/img/products/tyler-mcgillivary/arlo-cami-pink.webp",
+          "title": "Arlo Cami - Pink and Red",
+          "product_path": "/products/arlo-cami-pink",
+          "price": 125,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0338/7057/7709/files/RedArloCami-Updated_noflat.jpg?v=1792417222"
+        },
+        {
+          "path": "/img/products/tyler-mcgillivary/arlo-cami-blue.webp",
+          "title": "Arlo Cami - Blue",
+          "product_path": "/products/arlo-cami-blue",
+          "price": 125,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0338/7057/7709/files/BlueArloCamiFlat-updated_nohem.jpg?v=1792417297"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "uniqlo": {
     "tees": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
     },
     "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    },
+    "jeans": {
       "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
@@ -3649,6 +5574,56 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "vivienne-westwood": {
+    "jewelry": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "volcom": {
+    "mens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "walmart": {
+    "womens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "werkstatt-munchen": {
+    "rings": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/werkstatt-munchen/ring-embrace-wound.webp",
+          "title": "ring embrace wound",
+          "product_path": "/products/ring-embrace-wound",
+          "price": 225,
+          "currency": "EUR",
+          "source_image": "https://cdn.shopify.com/s/files/1/0990/7732/5138/files/werkstatt-munchen-m1734-ring-embrace-wound-silver-01_solID_6EB880F2B1D49B935E057F4768CFF778_4098f.jpg?v=1779174886"
+        },
+        {
+          "path": "/img/products/werkstatt-munchen/ring-forever-forged.webp",
+          "title": "ring forever forged",
+          "product_path": "/products/ring-forever-forged",
+          "price": 450,
+          "currency": "EUR",
+          "source_image": "https://cdn.shopify.com/s/files/1/0990/7732/5138/files/werkstatt-munchen-m1402-ring-forever-forged-silver-01_solID_D997B1A594DD11D5C58883856945D1A6_4100f.jpg?v=1779174780"
+        },
+        {
+          "path": "/img/products/werkstatt-munchen/ring-chains.webp",
+          "title": "ring chains",
+          "product_path": "/products/ring-chains",
+          "price": 315,
+          "currency": "EUR",
+          "source_image": "https://cdn.shopify.com/s/files/1/0990/7732/5138/files/werkstatt-munchen-m1324-ring-chains-silver-01_solID_2F64DD6F23BFA4E3F5E7369ED426B8CF_4095f.jpg?v=1779174778"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "west-coast-choppers": {
     "graphic-tees": {
       "status": "ok",
@@ -3713,6 +5688,12 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "white-house-black-market": {
+    "dresses": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "windsor": {
     "dresses": {
       "status": "ok",
@@ -3742,6 +5723,44 @@
           "source_image": "https://cdn.shopify.com/s/files/1/0070/8853/7651/files/05002-8966_1_BLACK-2_VeronaOffTheShoulderBowBackVelvetFormalDress.webp?v=1731351940"
         }
       ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "witch-bitch-thrift": {
+    "dresses": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/witch-bitch-thrift/3x-urban-rose-black-long-sleeve-dress-with-sheer-mesh-skirt-and-slit-in-skirt.webp",
+          "title": "3X Urban Rose black long-sleeve dress with sheer mesh skirt, and slit in skirt",
+          "product_path": "/products/3x-urban-rose-black-long-sleeve-dress-with-sheer-mesh-skirt-and-slit-in-skirt",
+          "price": 21,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0516/2700/0007/files/Photoroom_20261023_154917.jpg?v=1792858806"
+        },
+        {
+          "path": "/img/products/witch-bitch-thrift/2x-merokeety-mauve-knit-dress-with-buttons-on-front-and-faux-pockets.webp",
+          "title": "2X Merokeety mauve knit dress with buttons on front, and faux pockets",
+          "product_path": "/products/2x-merokeety-mauve-knit-dress-with-buttons-on-front-and-faux-pockets",
+          "price": 25,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0516/2700/0007/files/Photoroom_20261023_145140_23e29d9f-4a29-4651-aef0-86b36f16e99b.jpg?v=1792855012"
+        },
+        {
+          "path": "/img/products/witch-bitch-thrift/1x-vivienne-westwood-designer-gold-striped-dress-with-wrap-around-slouched-design.webp",
+          "title": "1X Vivienne Westwood designer gold striped dress with wrap-around slouched design",
+          "product_path": "/products/1x-vivienne-westwood-designer-gold-striped-dress-with-wrap-around-slouched-design",
+          "price": 70,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0516/2700/0007/files/Photoroom_20261022_175437.jpg?v=1792773352"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "woolrich": {
+    "coats-jackets": {
+      "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
   },
