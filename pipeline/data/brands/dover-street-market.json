@@ -1,0 +1,54 @@
+{
+  "slug": "dover-street-market",
+  "name": "Dover Street Market",
+  "website_url": "https://shop-us.doverstreetmarket.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Comme des Garçons and Designer Labels",
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": true,
+  "free_shipping_min_usd": 125,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "womens-clothing",
+      "currency": "USD",
+      "min": 358.0,
+      "max": 4220.0,
+      "min_usd": 358.0,
+      "max_usd": 4220.0,
+      "fx_date": null,
+      "item_count": 16,
+      "source_url": "https://shop-us.doverstreetmarket.com/collections/womens/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item women's jeans. Shopify products.json for the DSMNY E-SHOP 'womens' collection (USD), 6 pages, 1,310 listings; 16 women's jeans (product_type Trousers with Jean/Jeans/Denim Pants in the title), none marked down (no compare_at above price), none sold out. Low: Marc Jacobs Women's Wide Leg Jean $358; high: Versace Women's Embroidered Straight Jeans $4,220. Also Eckhaus Latta Cam Jean $395, The Row Dinni Jean $990, Maison Margiela Distressed Jeans $1,720."
+    }
+  ],
+  "sells_categories": [
+    "womens-clothing"
+  ],
+  "sources": [
+    "https://www.doverstreetmarket.com/",
+    "https://newyork.doverstreetmarket.com/",
+    "https://losangeles.doverstreetmarket.com/",
+    "https://shop-us.doverstreetmarket.com/",
+    "https://shop-us.doverstreetmarket.com/policies/shipping-policy",
+    "https://shop-us.doverstreetmarket.com/policies/refund-policy",
+    "https://shop-us.doverstreetmarket.com/collections/womens/products.json?limit=250"
+  ],
+  "notes": [
+    "2026-10-29 (bloomingdales page run): doverstreetmarket.com links stores in London, Ginza, New York, Los Angeles, Singapore and Beijing, and e-shops. DSM New York and DSM Los Angeles sites (titles 'Dover Street Market New York', 'Dover Street Market Los Angeles') both link the US e-shop shop-us.doverstreetmarket.com ('DSMNY E-SHOP', prices in USD). Footer: 'DOVER STREET MARKET INTERNATIONAL (DSMI) LTD.' HQ and founding year not stated.",
+    "2026-10-29: DSMNY E-SHOP nav leads with Comme des Garçons (CDG lines incl. CDG Play, Junya Watanabe), then Men, Women (labels incl. The Row, Simone Rocha, Miu Miu, Prada, Maison Margiela, Rick Owens, Sacai, Marc Jacobs), Sneakers, Jewelry. known_for from that nav.",
+    "2026-10-29: Shipping policy (US e-shop): FedEx; Ground $10, free over $125 (1-5 business days); Express $15; Overnight $30. International: Europe $30, Rest of World $40, free over $250; duties added at checkout (no country list, so only US stored). Refund policy: returns within 14 days of receipt; return rate domestic FREE, international $35; returns after 14 days not accepted; US size exchanges through the returns portal."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "fwrd",
+  "name": "FWRD",
+  "website_url": "https://www.fwrd.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Premier Luxury Fashion",
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": "Revolve Group",
+  "size_range": "XXS–XXL/0X; waists 23–34",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": false,
+  "free_shipping_min_usd": 0,
+  "returns_days": 30,
+  "prices": [],
+  "sells_categories": [
+    "womens-clothing"
+  ],
+  "sources": [
+    "https://www.fwrd.com/",
+    "https://www.fwrd.com/fw/content/customercare/shippingreturns/",
+    "https://www.fwrd.com/fw/content/customercare/aboutus/",
+    "https://www.fwrd.com/category-clothing/3699fc/?navsrc=main",
+    "https://www.fwrd.com/category-denim/2664ce/"
+  ],
+  "notes": [
+    "2026-10-29 (bloomingdales page run): homepage title 'FWRD: The Online Destination for Premier Luxury Fashion'; footer 'Eminent, Inc. (a Revolve Group company)'. About page: 'Translating the traditional brick-and-mortar boutique into a singular online shopping experience'; designer fashion 'from iconic maisons de couture to the latest emerging talents'. HQ and founding year not stated on site. Read via WebFetch (curl with the bot UA timed out).",
+    "2026-10-29: Shipping & Returns page: free 2-day shipping on all US orders, overnight $20; free express/priority shipping on international orders (no country list, so only US stored). Returns: 30 days for a full refund or exchange, unworn with tags; domestic orders ship with a free prepaid return label.",
+    "2026-10-29: Women's Clothing page (21,503 items) size filters XXS (0) to XXL/0X (14-16), bottoms 23-34. No plus/petite/tall labels.",
+    "2026-10-29: women's Denim page reports 1,909 items; 16 rendered to WebFetch, 15 at regular price (aligrace Off-duty Jean marked down $468 to $431, excluded). Regular-price jeans among them: GRLFRND Bella Low Rise Boyfriend $235, Still Here Sport Straight Leg $325, Helsa The 1970s Jean $378, KHAITE Danielle Straight Leg $620, KHAITE Karo Straight Leg $820, Isabel Marant Daya Long Straight Leg $890. No price row: 16 of 1,909 can't stand for the range. sells_categories womens-clothing from the store's own Women's Clothing and Denim pages."
+  ],
+  "checked_at": "2026-10-29"
+}

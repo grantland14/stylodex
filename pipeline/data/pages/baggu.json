@@ -1,0 +1,1161 @@
+{
+  "subject": "Baggu",
+  "slug": "baggu",
+  "url_prefix": "brands",
+  "category": {
+    "slug": "bags",
+    "name": "Bags",
+    "why": "(new slug; no existing page uses it, so the coordinator needs a stylodex.categories row: name Bags, vertical fashion). Not handbags: Baggu began in 2007 'making durable reusable shopping bags' (https://baggu.com/design-and-materials) and its hero products are the reusable Standard/Baby/Big Baggu and nylon Crescent, Cloud and shoulder bags, which a handbags definition (Polène page) would split. Like-for-like set: carry bags at regular price, in stock (reusable/shopping bags, totes, shoulder and crossbody bags, belt/hip bags, backpacks); luggage, duffels, weekenders, pouches, organisers, wallets, straps and lunch boxes excluded. All bags prices are new 'bags' entries; no other category's prices were touched."
+  },
+  "serp": [
+    {
+      "keyword": "brands like baggu",
+      "position": 1,
+      "url": "https://info.charm.io/en/blog/5-brands-like-baggu",
+      "kept": true,
+      "why_kept": "AI overview sitelink, also organic #5: read. 5 brands named as brands like Baggu (GOT BAG, TWELVElittle, Sans Beast, STATE Bags, Rad Revolution), published March 6, 2025. A vendor blog with a templated feel, but it names each brand as a Baggu alternative; kept as on the Ann Taylor and Selkie pages"
+    },
+    {
+      "keyword": "brands like baggu",
+      "position": 1,
+      "url": "https://thingtesting.com/brands/baggu/similar",
+      "kept": false,
+      "why_dropped": "AI overview sitelink, also organic #3: read; the 'BAGGU alternatives' section is empty, no brands listed"
+    },
+    {
+      "keyword": "brands like baggu",
+      "position": 2,
+      "url": "https://www.reddit.com/r/HerOneBag/comments/14lklo0/brands_similar_to_baggu/",
+      "kept": false,
+      "why_dropped": "reddit thread: WebFetch refuses reddit.com; not read, no workaround"
+    },
+    {
+      "keyword": "brands like baggu",
+      "position": 2,
+      "url": "https://www.reddit.com/r/BAGGU/comments/1rm563g/alternatives_to_baggu/",
+      "kept": false,
+      "why_dropped": "reddit thread: WebFetch refuses reddit.com; not read, no workaround"
+    },
+    {
+      "keyword": "brands like baggu",
+      "position": 2,
+      "url": "https://www.reddit.com/r/BAGGU/comments/1fwg2u8/tried_a_few_baggu_alternatives/",
+      "kept": false,
+      "why_dropped": "reddit thread: WebFetch refuses reddit.com; not read, no workaround"
+    },
+    {
+      "keyword": "brands like baggu",
+      "position": 6,
+      "url": "https://stylecaster.com/fashion/shopping-guides/1810000/baggu-crescent-bag-lookalike/",
+      "kept": false,
+      "why_dropped": "307 redirect to tollbit.stylecaster.com (a paid bot-access gate); not followed, no workaround. Title says the lookalike is an Amazon listing, a marketplace in any case"
+    },
+    {
+      "keyword": "brands like baggu",
+      "position": 7,
+      "url": "https://www.cntraveler.com/gallery/weve-traveled-all-over-the-world-with-baggu-bags-these-are-our-favorites",
+      "kept": false,
+      "why_dropped": "WebFetch can't fetch cntraveler.com; read once with the StylodexBot UA (HTTP 200): a gallery of Baggu's own bags (January 9, 2026), names no alternative brands"
+    },
+    {
+      "keyword": "brands like baggu",
+      "position": 8,
+      "url": "https://www.tiktok.com/discover/asian-brands-similar-to-baggu",
+      "kept": false,
+      "why_dropped": "TikTok discover page: WebFetch returned only the page title, no brands readable"
+    },
+    {
+      "keyword": "brands like baggu",
+      "position": 9,
+      "url": "https://baggu.com/",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "brands like baggu",
+      "position": 10,
+      "url": "https://www.instagram.com/popular/bags-similar-to-baggu/",
+      "kept": false,
+      "why_dropped": "Instagram tag page, no editorial content readable"
+    },
+    {
+      "keyword": "brands like baggu",
+      "position": 11,
+      "url": "https://www.cbinsights.com/company/baggu/alternatives-competitors",
+      "kept": false,
+      "why_dropped": "read: an automated business-database listing of competitors (For Days, Returnity, Cuyana, Rezip, Apolis and others), templated, no author or editorial framing as shopping alternatives"
+    },
+    {
+      "keyword": "stores like baggu",
+      "position": 1,
+      "url": "https://www.reddit.com/r/HerOneBag/comments/14lklo0/brands_similar_to_baggu/",
+      "kept": false,
+      "why_dropped": "reddit thread: WebFetch refuses reddit.com; not read, no workaround (same three threads as above)"
+    },
+    {
+      "keyword": "stores like baggu",
+      "position": 2,
+      "url": "https://info.charm.io/en/blog/5-brands-like-baggu",
+      "kept": true,
+      "why_kept": "same page as 'brands like baggu' #5"
+    },
+    {
+      "keyword": "stores like baggu",
+      "position": 5,
+      "url": "https://www.tiktok.com/@claireisaur/video/7246531777127255339",
+      "kept": false,
+      "why_dropped": "TikTok video, no readable editorial text"
+    },
+    {
+      "keyword": "stores like baggu",
+      "position": 6,
+      "url": "https://stylecaster.com/fashion/shopping-guides/1810000/baggu-crescent-bag-lookalike/",
+      "kept": false,
+      "why_dropped": "see above (tollbit gate)"
+    },
+    {
+      "keyword": "stores like baggu",
+      "position": 7,
+      "url": "https://thingtesting.com/brands/baggu/similar",
+      "kept": false,
+      "why_dropped": "see above (empty list)"
+    },
+    {
+      "keyword": "stores like baggu",
+      "position": 8,
+      "url": "https://www.nytimes.com/wirecutter/reviews/baggu-uniqlo-crescent-bag-review/",
+      "kept": false,
+      "why_dropped": "WebFetch can't fetch nytimes.com and the StylodexBot UA gets HTTP 403; not read. Its title compares Baggu and Uniqlo crescent bags; Uniqlo not counted from a title alone"
+    },
+    {
+      "keyword": "stores like baggu",
+      "position": 9,
+      "url": "https://www.instagram.com/popular/bags-similar-to-baggu/",
+      "kept": false,
+      "why_dropped": "see above"
+    },
+    {
+      "keyword": "stores like baggu",
+      "position": 10,
+      "url": "https://www.tiktok.com/discover/baggu-shoulder-bag-alternatives",
+      "kept": false,
+      "why_dropped": "TikTok discover page, same as the other TikTok page: nothing readable"
+    },
+    {
+      "keyword": "baggu alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview returned no positions (US)"
+    },
+    {
+      "keyword": "similar to baggu",
+      "position": 1,
+      "url": "https://www.reddit.com/r/BAGGU/comments/1rm563g/alternatives_to_baggu/",
+      "kept": false,
+      "why_dropped": "reddit thread: WebFetch refuses reddit.com; not read, no workaround"
+    },
+    {
+      "keyword": "similar to baggu",
+      "position": 1,
+      "url": "https://www.nytimes.com/wirecutter/reviews/baggu-uniqlo-crescent-bag-review/",
+      "kept": false,
+      "why_dropped": "AI overview sitelink, also organic #6: not readable (see above)"
+    },
+    {
+      "keyword": "similar to baggu",
+      "position": 3,
+      "url": "https://www.instagram.com/popular/bags-similar-to-baggu/",
+      "kept": false,
+      "why_dropped": "see above"
+    },
+    {
+      "keyword": "similar to baggu",
+      "position": 4,
+      "url": "https://stylecaster.com/fashion/shopping-guides/1810000/baggu-crescent-bag-lookalike/",
+      "kept": false,
+      "why_dropped": "see above"
+    },
+    {
+      "keyword": "similar to baggu",
+      "position": 7,
+      "url": "https://thingtesting.com/brands/baggu/similar",
+      "kept": false,
+      "why_dropped": "see above"
+    },
+    {
+      "keyword": "similar to baggu",
+      "position": 9,
+      "url": "https://info.charm.io/en/blog/5-brands-like-baggu",
+      "kept": true,
+      "why_kept": "same page as 'brands like baggu' #5"
+    },
+    {
+      "keyword": "similar to baggu",
+      "position": 10,
+      "url": "https://www.reddit.com/r/handbags/comments/1wctrg7/seeking_a_nicer_baggu_alternative_no_leather/",
+      "kept": false,
+      "why_dropped": "reddit thread: WebFetch refuses reddit.com; not read, no workaround (also r/ManyBaggers and r/BAGGU news results at #10)"
+    },
+    {
+      "keyword": "similar to baggu",
+      "position": 11,
+      "url": "https://www.etsy.com/market/baggu_bag_dupe",
+      "kept": false,
+      "why_dropped": "marketplace search page"
+    },
+    {
+      "keyword": null,
+      "position": null,
+      "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+      "kept": true,
+      "why_kept": "Not on the four SERPs: the unsigned disco directory, counted as evidence per enrich.md §1 (Ash, 2026-10-29), never cited on the page. Linked from disco's Baggu profile (https://www.discobrands.co/brands/baggu). Read: 22 'brands like Baggu' ranked by brand similarity, updated Jul 2026"
+    },
+    {
+      "keyword": null,
+      "position": null,
+      "url": "https://www.discobrands.co/alternatives/bags-like-baggu",
+      "kept": true,
+      "why_kept": "Disco's 'bags like Baggu' page (linked from https://www.discobrands.co/brands/baggu): read, 12 bag brands. Same directory as the list above, so a brand on both counts as one independent source"
+    },
+    {
+      "keyword": null,
+      "position": null,
+      "url": "https://www.discobrands.co/brands/baggu",
+      "kept": false,
+      "why_dropped": "Disco's Baggu profile names BaubleBar, Quay Australia and Swatch as similar (costume jewellery, eyewear, watches): none sells bags, so none is a candidate"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": "Shopbop",
+      "url": "https://www.shopbop.com/bags/br/v=1/13505.htm",
+      "used": false,
+      "why": "Shopbop stocks BAGGU (https://www.shopbop.com/baggu/br/v=1/30825.htm: Crescent, Cloud, Bowler, Loaf and reusable bags), but its matching Bags category holds 2,481 items across luxury and contemporary designers, and its subcategories (totes, shoulder, cross-body) are just as broad: too wide to count as evidence (same call as the Selkie page on Revolve)."
+    },
+    {
+      "retailer": "Nordstrom, Urban Outfitters, REI, Anthropologie, Free People, MoMA Design Store, Target, Zappos, Madewell",
+      "url": null,
+      "used": false,
+      "why": "Checked once each for a Baggu brand page with the StylodexBot UA: Urban Outfitters, REI, Anthropologie, Free People, Huckberry, SSENSE and MoMA returned 403; Nordstrom and Target rendered no products (client-side); Zappos and Madewell search showed no Baggu products. Baggu's FAQ says it is stocked at 'hundreds of retailers' but publishes no stockist list."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "GOT BAG",
+      "slug": "got-bag",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://info.charm.io/en/blog/5-brands-like-baggu",
+          "note": "#1 of 5: 'creating the world's first backpacks made from ocean plastic'"
+        }
+      ]
+    },
+    {
+      "name": "TWELVElittle",
+      "slug": "twelvelittle",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://info.charm.io/en/blog/5-brands-like-baggu",
+          "note": "#2 of 5: diaper bags"
+        }
+      ]
+    },
+    {
+      "name": "Sans Beast",
+      "slug": "sans-beast",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://info.charm.io/en/blog/5-brands-like-baggu",
+          "note": "#3 of 5: 'a luxury vegan bag brand'"
+        }
+      ]
+    },
+    {
+      "name": "STATE Bags",
+      "slug": "state-bags",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://info.charm.io/en/blog/5-brands-like-baggu",
+          "note": "#4 of 5: every purchase helps children in need across the U.S."
+        }
+      ]
+    },
+    {
+      "name": "Rad Revolution",
+      "slug": "rad-revolution",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://info.charm.io/en/blog/5-brands-like-baggu",
+          "note": "#5 of 5: 'multi-functional, gender-neutral bags designed for modern life'"
+        }
+      ]
+    },
+    {
+      "name": "Topo Designs",
+      "slug": "topo-designs",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#4 of 22: Denver outdoor and travel brand making colorblocked nylon backpacks"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/bags-like-baggu",
+          "note": "#1 of 12"
+        }
+      ]
+    },
+    {
+      "name": "Rains",
+      "slug": "rains",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#6 of 22: Danish label making minimalist waterproof jackets, bags and accessories"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/bags-like-baggu",
+          "note": "#2 of 12"
+        }
+      ]
+    },
+    {
+      "name": "Herschel Supply Co.",
+      "slug": "herschel-supply-co",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#16 of 22: Vancouver bag label known for the Little America backpack"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/bags-like-baggu",
+          "note": "#4 of 12"
+        }
+      ]
+    },
+    {
+      "name": "Patagonia",
+      "slug": "patagonia",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#14 of 22"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/bags-like-baggu",
+          "note": "#3 of 12"
+        }
+      ]
+    },
+    {
+      "name": "L.L.Bean",
+      "slug": "ll-bean",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#21 of 22"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/bags-like-baggu",
+          "note": "#5 of 12: Boat and Tote bags"
+        }
+      ]
+    },
+    {
+      "name": "Everlane",
+      "slug": "everlane",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#2 of 22: direct-to-consumer basics label known for transparent pricing"
+        }
+      ]
+    },
+    {
+      "name": "Muji",
+      "slug": "muji",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#8 of 22: Japanese no-brand retailer"
+        }
+      ]
+    },
+    {
+      "name": "Uniqlo",
+      "slug": "uniqlo",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#10 of 22: Fast Retailing's Japanese mass-market label"
+        }
+      ]
+    },
+    {
+      "name": "Madewell",
+      "slug": "madewell",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#19 of 22: American denim-led casualwear brand"
+        }
+      ]
+    },
+    {
+      "name": "Fjallraven",
+      "slug": "fjallraven",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#18 of 22"
+        }
+      ]
+    },
+    {
+      "name": "United by Blue",
+      "slug": "united-by-blue",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#22 of 22: Philadelphia B Corp making bags and outdoor apparel"
+        }
+      ]
+    },
+    {
+      "name": "CÔTE&CIEL",
+      "slug": "cote-ciel",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#17 of 22: Paris bag label making sculptural backpacks"
+        }
+      ]
+    },
+    {
+      "name": "FREITAG",
+      "slug": "freitag",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/bags-like-baggu",
+          "note": "#6 of 12"
+        }
+      ]
+    },
+    {
+      "name": "A.P.C.",
+      "slug": "a-p-c",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/bags-like-baggu",
+          "note": "#7 of 12: Paris label founded in 1987"
+        }
+      ]
+    },
+    {
+      "name": "Porter",
+      "slug": "porter",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/bags-like-baggu",
+          "note": "#8 of 12: Yoshida & Co.'s flagship Japanese label"
+        }
+      ]
+    },
+    {
+      "name": "Bottega Veneta",
+      "slug": "bottega-veneta",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/bags-like-baggu",
+          "note": "#9 of 12"
+        }
+      ]
+    },
+    {
+      "name": "LEMAIRE",
+      "slug": "lemaire",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/bags-like-baggu",
+          "note": "#10 of 12"
+        }
+      ]
+    },
+    {
+      "name": "Billykirk",
+      "slug": "billykirk",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/bags-like-baggu",
+          "note": "#11 of 12: US-made leather and waxed-canvas bags"
+        }
+      ]
+    },
+    {
+      "name": "Cravar",
+      "slug": "cravar",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/bags-like-baggu",
+          "note": "#12 of 12: Indonesian vegetable-tanned leather goods"
+        }
+      ]
+    },
+    {
+      "name": "mnmlst",
+      "slug": "mnmlst",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#1 of 22"
+        }
+      ]
+    },
+    {
+      "name": "ECCO.kollektive",
+      "slug": "ecco-kollektive",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#3 of 22"
+        }
+      ]
+    },
+    {
+      "name": "Named Collective",
+      "slug": "named-collective",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#5 of 22"
+        }
+      ]
+    },
+    {
+      "name": "Vetta",
+      "slug": "vetta",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#7 of 22: defunct, second-hand only"
+        }
+      ]
+    },
+    {
+      "name": "All Caps Studio",
+      "slug": "all-caps-studio",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#9 of 22"
+        }
+      ]
+    },
+    {
+      "name": "Damson Madder",
+      "slug": "damson-madder",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#11 of 22"
+        }
+      ]
+    },
+    {
+      "name": "Pact",
+      "slug": "pact",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#12 of 22"
+        }
+      ]
+    },
+    {
+      "name": "Skin",
+      "slug": "skin",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#13 of 22"
+        }
+      ]
+    },
+    {
+      "name": "CP Slippers",
+      "slug": "cp-slippers",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#15 of 22"
+        }
+      ]
+    },
+    {
+      "name": "Slowtide",
+      "slug": "slowtide",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#20 of 22"
+        }
+      ]
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "result": "48 pool rows for baggu: LeSportsac, Himawari, Flying Tiger Copenhagen, Daiso Japan, Rothy's, Matt & Nat, Tote & Carry, Reisenthel, The Sak, Arcade Belts, Everlane, Paravel, State Bags, Cotopaxi, Blueberry Pet, Chillouts Petwear, Skinit, Dingbats*eco, Everest, JuJuBe, Kipling, Petit Collage, Polly Pocket x Kipling, Sakroots, Sunski, Toes on the Nose, JW PEI, Goodr, The Daily Edited, Urbanista, Sea Bags, Le Bon Shoppe, TOMS, Meri Meri, Reformation, Podium, BARK, Armedangels, BoxLunch, Casetify, Red Dingo, EarthHero, Rains, Rilakkuma, Dogo, Earthies, Rilakkuma Official Store, Fabelab. STATE Bags, Rains and Everlane have outside evidence of their own (Charm.io, disco); the rest have none and aren't candidates."
+  },
+  "picks": [
+    {
+      "slug": "topo-designs",
+      "rank": 1,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 39.0,
+        "max": 199.0,
+        "min_usd": 39.0,
+        "max_usd": 199.0,
+        "fx_date": null,
+        "item_count": 51
+      },
+      "price_relation": "similar",
+      "reason": "Topo Designs sells belt bags, shoulder bags, hip packs and backpacks at $39–$199 (median $59 against Baggu's $58), uses recycled nylons, and backs its gear with a lifetime warranty against defects.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#4 of 22: Denver outdoor and travel brand making colorblocked nylon backpacks"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/bags-like-baggu",
+          "note": "#1 of 12"
+        }
+      ]
+    },
+    {
+      "slug": "rad-revolution",
+      "rank": 2,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 40.0,
+        "max": 155.0,
+        "min_usd": 40.0,
+        "max_usd": 155.0,
+        "fx_date": null,
+        "item_count": 11
+      },
+      "price_relation": "similar",
+      "reason": "Rad Revolution, a Washington state label, sells nylon cloud bags and backpacks at $40–$155 (median $55), such as the Mega Cloud ($68), with free US shipping over $75 and 30-day returns for shop credit.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://info.charm.io/en/blog/5-brands-like-baggu",
+          "note": "#5 of 5: 'multi-functional, gender-neutral bags designed for modern life'"
+        }
+      ]
+    },
+    {
+      "slug": "got-bag",
+      "rank": 3,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 35.0,
+        "max": 99.0,
+        "min_usd": 35.0,
+        "max_usd": 99.0,
+        "fx_date": null,
+        "item_count": 9
+      },
+      "price_relation": "similar",
+      "reason": "GOT BAG makes slings and totes at $35–$99 from recycled primary materials, including ocean-bound plastic from its Indonesian clean-up, is GRS certified, and ships US orders free over $75.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://info.charm.io/en/blog/5-brands-like-baggu",
+          "note": "#1 of 5: 'creating the world's first backpacks made from ocean plastic'"
+        }
+      ]
+    },
+    {
+      "slug": "herschel-supply-co",
+      "rank": 4,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 40.0,
+        "max": 200.0,
+        "min_usd": 40.0,
+        "max_usd": 200.0,
+        "fx_date": null,
+        "item_count": 60
+      },
+      "price_relation": "similar",
+      "reason": "Herschel sells hip packs, crossbodies, totes and backpacks at $40–$200, from the $45 Heritage Crossbody Twill to the $140 Little America Backpack, with a limited lifetime warranty on bags and free US shipping over $75.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#16 of 22: Vancouver bag label known for the Little America backpack"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/bags-like-baggu",
+          "note": "#4 of 12"
+        }
+      ]
+    },
+    {
+      "slug": "muji",
+      "rank": 5,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 2.0,
+        "max": 119.9,
+        "min_usd": 2.0,
+        "max_usd": 119.9,
+        "fx_date": null,
+        "item_count": 47
+      },
+      "price_relation": "similar",
+      "reason": "Muji sells reusable jute and cotton shopping bags from $2 and a recycled-polyester Water Repellent Shoulder Bag at $24.90 (median $19.90), with US stores and free shipping over $80.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#8 of 22: Japanese no-brand retailer"
+        }
+      ]
+    },
+    {
+      "slug": "state-bags",
+      "rank": 6,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 98.0,
+        "max": 198.0,
+        "min_usd": 98.0,
+        "max_usd": 198.0,
+        "fx_date": null,
+        "item_count": 42
+      },
+      "price_relation": "similar",
+      "reason": "STATE Bags sells partly recycled kids' backpacks and adult totes at $98–$198 from Brooklyn, and gives a share of every bag's proceeds to American children and families in need.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://info.charm.io/en/blog/5-brands-like-baggu",
+          "note": "#4 of 5: every purchase helps children in need across the U.S."
+        }
+      ]
+    },
+    {
+      "slug": "rains",
+      "rank": 7,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 65.0,
+        "max": 225.0,
+        "min_usd": 65.0,
+        "max_usd": 225.0,
+        "fx_date": null,
+        "item_count": 51
+      },
+      "price_relation": "similar",
+      "reason": "Rains makes waterproof totes, bum bags and backpacks at $65–$225 in its US dollar store, from the Bum Bag Micro ($65) to the Tote Bag Micro ($80) and up, with free US shipping over $129.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#6 of 22: Danish label making minimalist waterproof jackets, bags and accessories"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/bags-like-baggu",
+          "note": "#2 of 12"
+        }
+      ]
+    },
+    {
+      "slug": "madewell",
+      "rank": 8,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 118.0,
+        "max": 298.0,
+        "min_usd": 118.0,
+        "max_usd": 298.0,
+        "fx_date": null,
+        "item_count": 15
+      },
+      "price_relation": "similar",
+      "reason": "Madewell sells structured shoulder bags and shopper totes at $118–$298 at regular price, such as The Maren Shoulder Bag ($128) and The Shopper Tote ($198), with 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#19 of 22: American denim-led casualwear brand"
+        }
+      ]
+    },
+    {
+      "slug": "everlane",
+      "rank": 9,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 98.0,
+        "max": 350.0,
+        "min_usd": 98.0,
+        "max_usd": 350.0,
+        "fx_date": null,
+        "item_count": 26
+      },
+      "price_relation": "similar",
+      "reason": "Everlane sells backpacks and canvas totes at $98–$350, from The ReNew Transit Backpack ($98) with a 15-inch laptop pocket to the Canvas Lug Tote ($228), and ships US orders free over $75.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/13-brands-like-baggu",
+          "note": "#2 of 22: direct-to-consumer basics label known for transparent pricing"
+        }
+      ]
+    },
+    {
+      "slug": "sans-beast",
+      "rank": 10,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "AUD",
+        "min": 79.0,
+        "max": 449.0,
+        "min_usd": 55.56,
+        "max_usd": 315.77,
+        "fx_date": "2026-10-28",
+        "item_count": 46
+      },
+      "price_relation": "similar",
+      "reason": "Australian label Sans Beast sells animal-free bags at AU$79–AU$449 (about $56–$316), from a 16oz cotton-canvas tote to vegan handbags in recycled and bio-based materials, and ships to the US.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://info.charm.io/en/blog/5-brands-like-baggu",
+          "note": "#3 of 5: 'a luxury vegan bag brand'"
+        }
+      ]
+    },
+    {
+      "slug": "cravar",
+      "rank": 11,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 160.0,
+        "max": 525.0,
+        "min_usd": 160.0,
+        "max_usd": 525.0,
+        "fx_date": null,
+        "item_count": 168
+      },
+      "price_relation": "similar",
+      "reason": "Jakarta-based Cravar sells full-grain vegetable-tanned leather and waxed-twill totes and backpacks at $160–$525, with leather from a Jogjakarta tannery and shipping included in the price.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/bags-like-baggu",
+          "note": "#12 of 12: Indonesian vegetable-tanned leather goods"
+        }
+      ]
+    },
+    {
+      "slug": "a-p-c",
+      "rank": 12,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 145.0,
+        "max": 895.0,
+        "min_usd": 145.0,
+        "max_usd": 895.0,
+        "fx_date": null,
+        "item_count": 125
+      },
+      "price_relation": "similar",
+      "reason": "A.P.C. sells denim and cotton totes and shopping bags at $145–$895 in its US store, such as the Japanese-denim Laure Tote Bag ($145) and the water-repellent Diane Shopping Bag ($215).",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/alternatives/bags-like-baggu",
+          "note": "#7 of 12: Paris label founded in 1987"
+        }
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "twelvelittle",
+      "why": "live (twelvelittle.com, Farmers Branch, Texas; diaper bags), but every one of its 23 bag listings in https://twelvelittle.com/products.json?limit=250 is sold out, so there's no regular-price, in-stock bag price. Not picked; no brand file written. 1 source (Charm.io #2)."
+    },
+    {
+      "slug": "patagonia",
+      "why": "unverified (existing brand file): https://www.patagonia.com/shop/luggage-and-bags served a 'down for maintenance' page to WebFetch again, 2026-10-29. 1 source (disco, both pages)."
+    },
+    {
+      "slug": "ll-bean",
+      "why": "unverified (existing brand file: WAF access-denied to WebFetch earlier today); not retried. 1 source (disco, both pages)."
+    },
+    {
+      "slug": "fjallraven",
+      "why": "unverified (existing brand file: 403 to WebFetch earlier today); not retried. 1 source (disco)."
+    },
+    {
+      "slug": "united-by-blue",
+      "why": "unverified: unitedbyblue.com returned a 403 bot challenge to the StylodexBot UA, one try, no workaround (brand file written). 1 source (disco)."
+    },
+    {
+      "slug": "uniqlo",
+      "why": "verified (existing file, US stores), but its bags listings returned HTTP 404 (https://www.uniqlo.com/us/en/women/accessories/bags) and 503 (accessories page, search) to WebFetch, and curl fails on HTTP/2. No bags price or official 'sells bags' fact stored, so the gate would drop it. Human check."
+    },
+    {
+      "slug": "freitag",
+      "why": "not a Shopify store (meta.json 404) and https://www.freitag.ch/en_US/shop/bags returned 404 to WebFetch; no prices read. Not verified."
+    },
+    {
+      "slug": "porter",
+      "why": "www.yoshidaporter.com unreachable (proxy CONNECT 502), one try. Not verified."
+    },
+    {
+      "slug": "cote-ciel",
+      "why": "cote-et-ciel.com unreachable (proxy CONNECT 502), one try; disco links it only via END. Not verified."
+    },
+    {
+      "slug": "billykirk",
+      "why": "verified live (billykirk.com, Jersey City, USD), but only 2 of its 96 bag listings are in stock at regular price ($275–$335) in https://www.billykirk.com/products.json?limit=250: too thin a range to compare. Not picked; no brand file written."
+    },
+    {
+      "slug": "bottega-veneta",
+      "why": "luxury house linked by disco only through SSENSE; not verified (25-candidate cap, far above Baggu's $14–$190)."
+    },
+    {
+      "slug": "lemaire",
+      "why": "as Bottega Veneta: linked only via SSENSE, not verified."
+    },
+    {
+      "slug": "mnmlst",
+      "why": "mnmlst.in sells watches and eyewear and ships to India only (https://www.mnmlst.in/meta.json): no bags, not available in the US."
+    },
+    {
+      "slug": "slowtide",
+      "why": "towel and beach-goods brand (slowtide.co products.json: 17 of 402 listings are tote bags); outside a bags page's like-for-like set, not checked further."
+    },
+    {
+      "slug": "vetta",
+      "why": "defunct US womenswear label, second-hand only (Grailed): never a pick (enrich.md §4c)."
+    },
+    {
+      "slug": "other-disco",
+      "why": "mnmlst, ECCO.kollektive (no shop), Named Collective (hoodies), All Caps Studio, Damson Madder (womenswear), Pact (basics), Skin (lingerie), CP Slippers: disco lists them by brand similarity, not as bag brands; none checked as a bags pick."
+    },
+    {
+      "slug": "apart-pool",
+      "why": "45 of 48 Apart Style pool brands (LeSportsac, Kipling, The Sak, Paravel, Cotopaxi, JW PEI and others) have no readable outside source naming them as a Baggu alternative. Not picks."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "Uniqlo as a pick",
+      "url": "https://www.uniqlo.com/us/en/",
+      "check": "Disco lists Uniqlo (#10) and Wirecutter's unreadable review compares the Uniqlo and Baggu crescent bags. If a human can read Uniqlo's US bags listing (Round Mini Shoulder Bag etc.), add a bags price to uniqlo.json and it becomes a 13th pick."
+    },
+    {
+      "fact": "Sans Beast US shipping cost",
+      "url": "https://sansbeast.com/policies/shipping-policy",
+      "check": "Shopify zones list the US, but the shipping page states only free AU/NZ shipping over AU$249. Confirm US rates or a threshold."
+    },
+    {
+      "fact": "Madewell full bags range",
+      "url": "https://www.madewell.com/womens/accessories/bags",
+      "check": "Range $118–$298 covers the 15 priced tiles WebFetch rendered of 64 products. Confirm nothing in the full listing sits outside it at regular price."
+    },
+    {
+      "fact": "Baggu bag count",
+      "url": "https://baggu.com/collections/bags",
+      "check": "Baggu's headless store has no products.json; the $14–$190 range comes from product cards on 11 collection pages (33 regular-price bag families). Confirm no regular-price bag sits outside it (e.g. collab items)."
+    },
+    {
+      "fact": "Reddit and Wirecutter",
+      "url": "https://www.reddit.com/r/BAGGU/comments/1rm563g/alternatives_to_baggu/",
+      "check": "Three Reddit threads and Wirecutter's Baggu vs Uniqlo review rank for all keywords but can't be read by us. A human read could add sources (and likely Uniqlo)."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": {
+    "source": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+    "date": "2026-10-28",
+    "per_eur": {
+      "USD": 1.1133,
+      "AUD": 1.583
+    },
+    "usd_per_aud": 0.703285
+  },
+  "notes": [
+    "12 picks pass enrich.md §3 (verified, sell bags at regular price, ship to the US, 1 independent outside source each, one checkable reason). Target 10–15, not padded. Evidence: Charm.io (5 brands) from the SERP, plus the disco directory (22 brands like Baggu + 12 bags like Baggu, one source between them) under Ash's 2026-10-29 rule. Disco is never named, linked or quoted in the copy. 'baggu alternatives' returned no SERP; Reddit, Wirecutter, Stylecaster (tollbit), TikTok and Instagram couldn't be read.",
+    "Category: bags (new slug; no existing page uses it, so the coordinator needs a stylodex.categories row: name Bags, vertical fashion). Not handbags: Baggu began in 2007 'making durable reusable shopping bags' (https://baggu.com/design-and-materials) and its hero products are the reusable Standard/Baby/Big Baggu and nylon Crescent, Cloud and shoulder bags, which a handbags definition (Polène page) would split. Like-for-like set: carry bags at regular price, in stock (reusable/shopping bags, totes, shoulder and crossbody bags, belt/hip bags, backpacks); luggage, duffels, weekenders, pouches, organisers, wallets, straps and lunch boxes excluded. All bags prices are new 'bags' entries; no other category's prices were touched.",
+    "Ranking: every pick is single-source, so rank follows how close each brand's median regular bag price sits to Baggu's $58: Topo Designs $59, Rad Revolution $55, GOT BAG $49, Herschel $90, Muji $19.90, STATE $123, Rains $150, Madewell $198 (15 tiles), Everlane $228, Sans Beast about $238, Cravar $325, A.P.C. $550. Every range overlaps Baggu's $14–$190, so every price_relation is 'similar'.",
+    "Baggu facts used in copy: Baby Baggu $14, Standard Baggu $16, Small/Medium Nylon Crescent Bag $52/$56, Nylon Shoulder Bag $62, Everyday Cloud Bag $68, Medium Recycled Leather Flat Crescent $138, Recycled Leather Shoulder Bag $190, median $58; free US shipping over $50; 30-day returns with a $4.95 restocking fee on most returns (https://baggu.com/collections/bags and sibling collections, https://baggu.com/faq). FAQ facts: https://baggu.com/faq, https://baggu.com/stores, https://baggu.com/design-and-materials, https://en.wikipedia.org/wiki/Baggu.",
+    "Conversions in copy (ECB 2026-10-28: 1.1133 USD, 1.5830 AUD per EUR, so 0.703285 USD per AUD): Sans Beast AU$79 ≈ $56, AU$199 ≈ $140, AU$329 ≈ $231, AU$449 ≈ $316.",
+    "Product images: STATE's price feed is the whole store (https://statebags.com/products.json), so product-images.mjs may pick non-bags (lunch boxes); GOT BAG's bags collection excludes its backpacks by design. Worth a look when images run.",
+    "Requests used the StylodexBot UA only; no personal details sent. Refusals were not retried or worked around (Urban Outfitters, REI, Anthropologie, Free People, Huckberry, SSENSE, MoMA, United by Blue, Wirecutter 403; Stylecaster tollbit redirect not followed; Patagonia maintenance). Ahrefs: 4 serp-overview calls, 1 keywords-explorer-matching-terms call. Supabase: 2 read-only SELECTs (columns of public.brand_relationships, the baggu pool)."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "Your Medium Nylon Crescent Bag ($56) goes everywhere with you, and now you'd like one that isn't the same bag half the train is carrying. Or you want the same idea in canvas or leather. These brands sell nylon, canvas and leather bags at Baggu's prices and above, sorted with the closest typical price first.",
+    "bodies": {
+      "topo-designs": "Topo Designs is the closest match on price and on fabric. Its typical bag costs $59, a dollar more than Baggu's, and it uses recycled nylons too. Start with the Mini Shoulder Bag ($49), which costs a few dollars less than a Small Nylon Crescent Bag ($52).\n\nThe difference is the brief. Topo began in 2008 with packs sewn in a Fort Collins basement, so the range leans outdoors, with hip packs and backpacks ahead of totes. The Mini Shoulder Bag's strap threads through loops on the back, so it doubles as a fanny pack. Gear also carries a lifetime warranty against defects.\n\nFree US shipping starts at $100, double Baggu's $50. If it's the soft, puffy nylon you're after, Rad Revolution is closer.",
+      "rad-revolution": "Rad Revolution is the pick if it's Baggu's Cloud Bag you love. Its own nylon cloud bags include the Baby Cloud ($60) and the Mega Cloud ($68), the same price as Baggu's Everyday Cloud Bag ($68).\n\nIt's a small Washington state label that started out making gender-neutral baby gear for moms, and that shows in the details. The Mega Cloud has water-bottle pockets on the sides and a buckle strap that clips over a stroller. Its typical bag costs $55, just under Baggu's, and US shipping is free over $75.\n\nThe catch is returns. Unused bags can go back within 30 days, but only for shop credit, never a refund. If you want your money back as an option, Topo Designs and GOT BAG both refund.",
+      "got-bag": "GOT BAG is where to go if the recycled fabric is half the reason you bought Baggu. Every product uses recycled main materials, including plastic waste from coastal regions gathered by its own clean-up in Indonesia. The Sling Bag ($45) is the everyday one, a compact crossbody in water-repellent fabric.\n\nIts bags run from $35 to $99, and the Tote Bag Large ($84) is the one to hold up against a Baggu tote. Backpacks sit in a separate line and cost more, from $105 to $199. It's a German brand, but the US store ships from Oregon and Las Vegas, free over $75.\n\nThere's no online exchange, though. You return within 30 days and order again, while Herschel does exchanges for free.",
+      "herschel-supply-co": "Herschel is the pick for a classic backpack, and its small bags cost less than a Crescent. The Herschel Heritage Crossbody Twill ($45) and the Herschel Classic Large Tote Twill ($50) both come in under a Medium Nylon Crescent Bag ($56).\n\nThe Little America Backpack ($140) is its signature. If you'd rather stay in nylon, the Nylon Herschel Heritage Tote ($100) is the slouchy one, with organizer pockets and a sleeve that slides over a suitcase handle. Bags carry a limited lifetime warranty, and this Vancouver brand ships US orders free over $75.\n\nReturns run 30 days minus a $5 fee, close to Baggu's own $4.95 restocking charge. The typical bag costs $90, so it gets pricier once you move past the crossbodies. For something cheaper, look at Muji.",
+      "muji": "Muji is the cheapest way to do what the Standard Baggu ($16) does. Its Jute Bag Medium ($4) is made for groceries and errands and folds down thin, and the Cotton My Bag XL ($7.90) is meant to be used again and again.\n\nFor a daily bag, start with the Water Repellent Shoulder Bag ($24.90). It's recycled polyester with a water-repellent finish, at well under half the price of Baggu's Nylon Shoulder Bag ($62). Its typical bag costs $19.90, the lowest here, so two of them still cost less than one Medium Crescent.\n\nThe trade-off is that Muji keeps to simple, unbranded goods, so the bags are plain by design. You can walk into a US store, and online orders ship free over $80.",
+      "state-bags": "STATE Bags is the pick for a school bag that does some good. It gives a share of every bag's proceeds to American children and families in need. The Kane Backpack ($98) is its best-selling kids' backpack, sized for kindergarten to third grade.\n\nFor yourself, the Graham Tote ($128) has a padded laptop sleeve and a detachable strap, and the Luna Mini Crossbody ($98) is 90% recycled materials. It's a Brooklyn brand, and nothing here starts under $98, so you're paying about double Baggu's typical price.\n\nShipping is free only over $200, so a single backpack pays $11.50 for economy delivery. Returns run 30 days with a $5 fee. If the backpack is for you rather than a kid, Topo Designs costs less.",
+      "rains": "Rains is the pick if your bag has to cope with real rain. The Danish brand makes its bags from waterproof fabric, and the Tote Bag Micro ($80) is designed for shopping, commutes and the office.\n\nStart with the Bum Bag Micro ($65), a smaller take on its signature bum bag that holds a card, keys and a phone. The US store charges in dollars and ships to all 50 states, free over $129, so a single tote still pays for shipping.\n\nPrice is the catch. Its typical bag costs $150, more than double Baggu's, and returns sent on its label come with a fee. If water-repellent is enough, Muji's shoulder bag costs $24.90.",
+      "madewell": "Madewell is the step up for a shoulder bag or shopper tote in the $120 to $300 range. The Shopper Tote ($198) is the one to start with, close to what Baggu charges for its Recycled Leather Shoulder Bag ($190).\n\nIts bags run from $118 to $298 at regular price, and the smaller shapes come in well under that. The Maren Shoulder Bag ($128) costs less than Baggu's Medium Recycled Leather Flat Crescent ($138), and the Ellis Small Shopper Tote ($148) is the smaller cut of the Ellis Shopper Tote ($218). Returns run 30 days, and it ships to the US, Canada, the UK and Australia.\n\nIf you want the same budget in a backpack or a canvas tote instead, Everlane is the closer fit.",
+      "everlane": "Everlane is the pick for a commute bag. The ReNew Transit Backpack ($98) has a 15-inch laptop pocket on the outside and a strap that slides over a rolling suitcase, so it's built for offices and airports.\n\nIts canvas totes are the other line to look at. The Canvas Mini Lug Tote ($168) comes with a long strap for shoulder or crossbody wear, and the full-size Canvas Lug Tote costs $228. US orders ship free over $75, and returns run 30 days.\n\nThe catch is price. Its typical bag costs $228, about four times Baggu's $58. For a twill tote at $50, Herschel's Classic Large Tote is the cheaper route.",
+      "sans-beast": "Sans Beast is the vegan-handbag pick, from an Australian label whose name means without beast. Its Xtra Overflow Tote (AU$79, about $56) is heavy 16oz cotton canvas and costs about what a Medium Nylon Crescent Bag does.\n\nPast that tote, it's a handbag brand. The Mini Sanctuary (AU$199, about $140) is a structured crossbody sized for a phone and small essentials. The Cute-ility Handbag (AU$329, about $231) is a slouchy shoulder bag with side patch pockets. Instead of leather, it uses recycled synthetics and bio-based fabrics.\n\nRead the returns before you buy. You have 7 days from delivery to ask, the shortest window here, and you pay to post it back to Australia. Prices are in Australian dollars, so convert before you compare.",
+      "cravar": "Cravar is the pick for a full-grain leather or waxed-twill bag from a small maker. The Slim Tote in waxed twill ($160) is the cheapest way in, a little above Baggu's Medium Recycled Leather Flat Crescent ($138).\n\nThe Jakarta brand developed its vegetable-tanned leather with a tannery in Jogjakarta, and its brass hardware is handmade by a family firm in the same city. Its bags run from $160 to $525, across totes, bucket bags and backpacks. Shipping is built into the price. But US orders now pay import duties on delivery, and those aren't included.\n\nReturns are the hard part. You get 10 days, and the bag has to go back by post at your cost. If easy returns matter more, Madewell gives you 30 days.",
+      "a-p-c": "A.P.C. is the designer take on the shopping bag. The Diane Shopping Bag ($215) is water-repellent cotton poplin with the logo printed on the front, and the Laure Tote Bag ($145) is cut from Japanese denim.\n\nThose two totes are the entry point, and the Jade Tote Bag ($190) sits between them in cotton or denim, at the same price as Baggu's most expensive bag. The rest of its bags go up to $895, and the typical one costs $550, so this is the far end of the list on price. If you like Baggu's denim Crescent bags, the Laure Tote is the one to look at.\n\nIt delivers only to the US and Canada. Returns run 14 days, and every prepaid return label costs $10."
+    },
+    "best_for": {
+      "topo-designs": "a nylon crossbody at Baggu's price with a lifetime warranty",
+      "rad-revolution": "a puffy nylon bag that clips onto a stroller",
+      "got-bag": "a recycled sling or tote for under $100",
+      "herschel-supply-co": "a $45 crossbody now and a classic backpack later",
+      "muji": "reusable grocery bags for a few dollars each",
+      "state-bags": "a kids' school backpack that gives something back",
+      "rains": "a waterproof tote or bum bag for rainy commutes",
+      "madewell": "a shopper tote for just under $200",
+      "everlane": "a laptop backpack for commutes and flights",
+      "sans-beast": "a vegan handbag with no animal products in it",
+      "cravar": "a vegetable-tanned leather tote from a small maker",
+      "a-p-c": "a designer denim or cotton shopping tote"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with what you'll spend. Under $30, Muji covers the grocery-bag job Baggu started with. Around Baggu's own prices, Topo Designs and Rad Revolution are the closest matches, and GOT BAG adds recycled ocean plastic for a little more. Herschel is the easy middle if you want a backpack too.\n\nIf it's for school or work, STATE Bags and Everlane's ReNew Transit Backpack are built for it, and Rains is the one for rain. For a nicer tote, Madewell and A.P.C. sit at the top, with Cravar between them for full-grain leather.\n\nCheck returns before you commit. Sans Beast gives you 7 days and Rad Revolution refunds only in credit, while most of the others give you 30."
+    },
+    "faqs": [
+      {
+        "q": "Where can you buy Baggu?",
+        "a": "On baggu.com, in its own stores in New York, Brooklyn, Chicago, Los Angeles, Portland and San Francisco, and at hundreds of other retailers in the US and abroad. Its only official websites are baggu.com and baggu.jp.",
+        "source_query": "where to buy baggu"
+      },
+      {
+        "q": "Where are Baggu bags made?",
+        "a": "In China, Cambodia and Vietnam. Baggu has long-standing manufacturing partners in China and added factories in Cambodia and Vietnam, and an independent third party audits them every year.",
+        "source_query": "where are baggu bags made"
+      },
+      {
+        "q": "Is Baggu sustainable?",
+        "a": "Since spring 2022 its ripstop nylon bags, reusable ones included, have been 100% recycled nylon. Heavyweight nylon is 59% recycled, denim and canvas are 65% recycled cotton, and it never burns or landfills unsold stock.",
+        "source_query": "is baggu sustainable"
+      },
+      {
+        "q": "When was Baggu founded?",
+        "a": "In 2007, by Emily Sugihara, her mother Joan Hall Sugihara and Ellen Vanderlaan. It launched with an $8 reusable shopping bag.",
+        "source_query": "when was baggu founded"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "century-21",
+  "name": "Century 21",
+  "website_url": "https://c21stores.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Off-Price Designer Fashion",
+  "hq_country": "US",
+  "founded_year": 1961,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [],
+  "us_stores": true,
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "prices": [],
+  "sells_categories": [
+    "womens-clothing"
+  ],
+  "sources": [
+    "https://c21stores.com/",
+    "https://c21stores.com/pages/about-us",
+    "https://c21stores.com/pages/returns",
+    "https://c21stores.com/pages/brands"
+  ],
+  "notes": [
+    "2026-10-29 (bloomingdales page run): homepage title 'Century 21 NYC Department Store | Exclusive Designer Deals'; 'NEW YORK'S ORIGINAL OFF-PRICE DESTINATION'; 'Fall Designer. Never Full Price.'; designer brands 'up to 65% off MSRP'; 'Limited drops', 'New inventory arrives daily'; one store at 22 Cortlandt St, Manhattan; 'Family-owned for 60+ years'.",
+    "2026-10-29: About page: 'the original off-price fashion destination'; founded in 1961 by cousins Al and Sonny Gindi, started as a small boutique in Lower Manhattan; NYC flagship; 'up to 65% off every day'; clothing, accessories, shoes and home décor; 'Shop in-store'.",
+    "2026-10-29: Returns page (updated September 24, 2026): returns and exchanges in store within 30 days of purchase with original receipt and government-issued ID; 'There is no mail-in option, because the store does not sell online.' Final sale, vintage, opened beauty not returnable. Store hours Mon-Sat 9 AM-9 PM, Sun 11 AM-8 PM; across from the World Trade Center.",
+    "2026-10-29: Brands page directory lists 1,684 brands, 542 tagged Women's (others Men's 520, Women's Shoes 305, Kids, Handbags, Beauty, Home), including AGOLDE, FRAME, THE ROW, THEORY and VINCE. sells_categories womens-clothing from that directory. No online prices: the store doesn't sell online (Shopify catalog is empty), so no price row; ships_to empty."
+  ],
+  "checked_at": "2026-10-29"
+}
