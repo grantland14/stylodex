@@ -48,14 +48,18 @@ On its own this is thin data. Enrichment (Phase 1) is what makes the site worth 
 - [x] **No CMS** (Ash, 2026-10-28): content lives in Supabase and comes from the pipeline. If people
       start editing often, add a small protected `/admin` over the same tables (not Sanity, which
       Apart Style uses)
-- [ ] On the first Vercel deploy, confirm `/brands-like-x` serves 200 with no trailing slash and
-      `/brands-like-x/` 308s to it (the adapter builds `x/index.html` folders)
+- [x] First Vercel deploy checked 2026-10-29: `/brands-like-x` 200, `/brands-like-x/` 308 to it,
+      wrong prefix 404, `/go/` stays on the brand's host, `/img/` rejects traversal, noindex +
+      `robots.txt` disallow in fixture mode
 - [x] Migration tested on a throwaway Postgres 16 (coexists with `public.brands`; anon reads verified rows only; only service_role writes clicks)
 - [x] Applied `supabase/migrations/00001_schema.sql` to the Apart Style project as `stylodex_00001_schema` (2026-10-28; Apart Style tables unchanged: 6,011 brands, 150,594 relationships)
 - [x] Exposed `stylodex` via the Data API (`00002_expose_stylodex_schema.sql`; overrides the dashboard setting, see the file)
 - [x] Created public storage bucket `stylodex-images` (5 MB, jpeg/webp/png)
 - [ ] Re-host brand images into it (Apart Style's `brand-images` URLs are never used)
-- [ ] New Vercel project, framework Astro (env vars from `.env.example`)
+- [x] Vercel project `ashs-projects-8f76f8b6/stylodex` (Astro, Node 24.x), created by Ash 2026-10-29.
+      Not connected to GitHub (Ash doesn't sign in to Vercel with GitHub), so deploys go through the
+      CLI: `vercel deploy` (preview) / `vercel deploy --prod`. `STYLODEX_FIXTURES=1` set for preview
+      and production until real data is loaded.
 - [ ] Search Console + analytics on the new domain only
 - [ ] Skimlinks: apply once wave 1 is live (needs real content to be approved), then set `SKIMLINKS_SITE_ID`
       and confirm the `go.skimresources.com` link format against the Skimlinks Hub docs
