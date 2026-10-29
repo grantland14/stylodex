@@ -1,0 +1,52 @@
+{
+  "slug": "hill-house-home",
+  "name": "Hill House Home",
+  "website_url": "https://www.hillhousehome.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "The Nap Dress",
+  "hq_country": null,
+  "founded_year": 2016,
+  "size_range": "XXXS–4XL; numeric 00–16",
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 250,
+  "returns_days": 15,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 128,
+      "max": 498,
+      "min_usd": 128,
+      "max_usd": 498,
+      "fx_date": null,
+      "item_count": 146,
+      "source_url": "https://www.hillhousehome.com/collections/all-dresses",
+      "checked_at": "2026-10-29",
+      "note": "Shopify feed /collections/all-dresses/products.json, 329 products; 168 marked down excluded; 146 regular-price in stock titled as dresses. Lowest The Athena Nap Dress - Navy Cotton $128; highest The Alberta Dress - Midnight Flocked Brocade $498; median $248. Named: The Ellie Nap Dress $178, The Cosima Mini Nap Dress $218. Hill House Home is also one of the outside labels Tuckernuck stocks (17 in stock in Tuckernuck's dresses feed, 2026-10-29)."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://www.hillhousehome.com/",
+    "https://www.hillhousehome.com/pages/about-us",
+    "https://www.hillhousehome.com/policies/shipping-policy",
+    "https://www.hillhousehome.com/policies/refund-policy",
+    "https://www.hillhousehome.com/collections/all-dresses"
+  ],
+  "notes": [
+    "Homepage meta: 'a digital-first lifestyle brand… Since launching with bedding in 2016, Hill House Home has extended its collections to offer bath, baby, accessories and apparel, including their widely beloved Nap Dress®.' Cart: free shipping at $250.",
+    "About (https://www.hillhousehome.com/pages/about-us): founder and CEO Nell Diamond, 'happy things for happy places'; she lives in New York City. HQ country not stated, left empty.",
+    "Shipping policy: ships from New Jersey; international flat fee Canada $50 CAD, rest of world $50 incl. duties.",
+    "Refund policy: returns within 15 days of delivery; $12 handling fee unless Checkout+ ($3.79) was bought; monogrammed items final sale.",
+    "Sizes from feed options: XXXS–XXXXL and 00–16 across styles."
+  ],
+  "checked_at": "2026-10-29",
+  "materials": [],
+  "certifications": []
+}

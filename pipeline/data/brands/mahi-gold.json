@@ -1,0 +1,52 @@
+{
+  "slug": "mahi-gold",
+  "name": "Mahi Gold",
+  "website_url": "https://www.mahigold.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Beach Dresses and Resort Wear",
+  "hq_country": null,
+  "founded_year": 2008,
+  "size_range": "XXS–XL",
+  "production_model": "Made in the USA whenever possible",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 15,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 175,
+      "max": 278,
+      "min_usd": 175,
+      "max_usd": 278,
+      "fx_date": null,
+      "item_count": 148,
+      "source_url": "https://www.mahigold.com/collections/womens-dresses",
+      "checked_at": "2026-10-29",
+      "note": "Shopify feed /collections/womens-dresses/products.json, 148 products, all product_type Dress; none marked down; all 148 in stock. Lowest Annie Dress in Hydrangea Walk in Regatta $175; highest Audrey in June Blooms Regatta $278. Named: Bimini Dress $190, Charleston Dress $195."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://www.mahigold.com/",
+    "https://www.mahigold.com/pages/about",
+    "https://www.mahigold.com/pages/shipping",
+    "https://www.mahigold.com/policies/refund-policy",
+    "https://www.mahigold.com/collections/womens-dresses"
+  ],
+  "notes": [
+    "Homepage title 'Women's Beach Dresses and Resort Wear | Mahi Gold'; meta 'signature print MahiGold beach dresses… Packable Styles… Nautically Inspired Prints'.",
+    "About (https://www.mahigold.com/pages/about): roots in Chatham, 'a small coastal town'; first trunk show 4th of July weekend 2008; founder Becky; 'Made in the USA whenever possible'; 'coastal-inspired apparel'. hq_country US from the Chatham roots and flagship store.",
+    "Shipping page: US Standard free over $150, $8 under; 2-Day $20, Next Day $40; ships outside the US by email request only, so ships_to is US.",
+    "Refund policy: full-price returns within 15 days of delivery for a full refund, $8 handling charge per order; exchanges free; store credit or exchange up to 30 days.",
+    "Sizes from feed options: XXS–XL."
+  ],
+  "checked_at": "2026-10-29",
+  "materials": [],
+  "certifications": []
+}

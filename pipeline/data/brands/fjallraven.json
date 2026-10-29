@@ -1,0 +1,14 @@
+{
+  "slug": "fjallraven",
+  "name": "Fjällräven",
+  "website_url": "https://www.fjallraven.com/us/en-us",
+  "status": "unverified",
+  "kind": "brand",
+  "sources": [
+    "https://www.fjallraven.com/us/en-us"
+  ],
+  "notes": [
+    "fjallraven.com/us/en-us returned HTTP 403 to WebFetch, 2026-10-29. One try, no workaround. Human check."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,1230 @@
+{
+ "subject": "Macy's",
+ "slug": "macys",
+ "url_prefix": "stores",
+ "category": {
+  "slug": "womens-clothing",
+  "name": "Women's Clothing",
+  "why": "Macy's is a multi-brand department store (kind retailer), so C is the department most of its 'stores like' searches are about, the usual womens-clothing per run-page.md. Women's Apparel is its own sales line in the Macy's, Inc. 10-K ($4,764M of 2025 net sales), and the kept lists are general department-store lists aimed mainly at women's and family shopping (Irreverent Gent is a men's list naming the same stores). Like-for-like item for prices: women's jeans, as on the Nordstrom page (Nordstrom, Dillard's, Nordstrom Rack and Target list them as a category). Macy's own price is unreadable (403), so every price_relation is null; store-only chains and unreadable stores render without a price via sells_categories from an official source."
+ },
+ "checked_at": "2026-10-29",
+ "fx": null,
+ "serp": [
+  {
+   "keyword": "stores like macys",
+   "position": 1,
+   "url": "https://10best.usatoday.com/awards/best-department-store/",
+   "kept": false,
+   "why_dropped": "AI-overview sitelink (also #7); reader-vote ranking of department stores, not alternatives to Macy's (same call as the Nordstrom page); WebFetch can't fetch 10best.usatoday.com"
+  },
+  {
+   "keyword": "stores like macys",
+   "position": 1,
+   "url": "https://en.wikipedia.org/wiki/List_of_department_stores_of_the_United_States",
+   "kept": false,
+   "why_dropped": "AI-overview sitelink (also #4); a reference list, not a recommendation"
+  },
+  {
+   "keyword": "stores like macys",
+   "position": 1,
+   "url": "https://www.quora.com/How-does-Macys-compare-to-other-department-stores",
+   "kept": false,
+   "why_dropped": "AI-overview sitelink; quora.com returns HTTP 403 to WebFetch"
+  },
+  {
+   "keyword": "stores like macys",
+   "position": 2,
+   "url": "https://www.bloomingdales.com/",
+   "kept": false,
+   "why_dropped": "a store's homepage, not a list (Bloomingdale's is a candidate on its own evidence)"
+  },
+  {
+   "keyword": "stores like macys",
+   "position": 5,
+   "url": "https://www.reddit.com/r/MiddleClassFinance/comments/1fz11nh/what_are_the_stores_of_the_middle_class_or/",
+   "kept": false,
+   "why_dropped": "reddit; WebFetch refuses reddit.com; not read (sitelinks r/waterloo and r/femalefashionadvice likewise)"
+  },
+  {
+   "keyword": "stores like macys",
+   "position": 6,
+   "url": "https://www.macys.com/",
+   "kept": false,
+   "why_dropped": "the anchor's own site"
+  },
+  {
+   "keyword": "stores like macys",
+   "position": 8,
+   "url": "https://www.yelp.com/search?find_desc=Department+Stores&find_loc=New+York%2C+NY",
+   "kept": false,
+   "why_dropped": "local directory, not editorial"
+  },
+  {
+   "keyword": "stores like macys",
+   "position": 9,
+   "url": "https://www.tripadvisor.com/Attractions-g191-Activities-c26-t138-United_States.html",
+   "kept": false,
+   "why_dropped": "tourist attraction ranking, not alternatives"
+  },
+  {
+   "keyword": "stores like macys",
+   "position": 10,
+   "url": "https://www.youtube.com/watch?v=4MY3BZ-ixGs",
+   "kept": false,
+   "why_dropped": "video carousel; not readable as text (two more videos likewise)"
+  },
+  {
+   "keyword": "similar to macys",
+   "position": 1,
+   "url": "http://www.storeslike.com/similar/Macy's",
+   "kept": false,
+   "why_dropped": "scraped similar-sites list, no editorial content"
+  },
+  {
+   "keyword": "similar to macys",
+   "position": 2,
+   "url": "http://www.shopsleuth.com/stores-like/macys/",
+   "kept": false,
+   "why_dropped": "scraped similar-sites list"
+  },
+  {
+   "keyword": "similar to macys",
+   "position": 3,
+   "url": "https://odir.us/like/macys.com",
+   "kept": false,
+   "why_dropped": "scraped similar-sites list"
+  },
+  {
+   "keyword": "similar to macys",
+   "position": 4,
+   "url": "http://www.99storeslike.com/alternative-stores-and-shops-like/macys",
+   "kept": false,
+   "why_dropped": "scraped similar-sites list"
+  },
+  {
+   "keyword": "similar to macys",
+   "position": 5,
+   "url": "http://www.moreofit.com/similar-to/www.macys.com/Top_10_Sites_Like_Macys/",
+   "kept": false,
+   "why_dropped": "scraped similar-sites list (2016)"
+  },
+  {
+   "keyword": "similar to macys",
+   "position": 6,
+   "url": "http://www.similarsitesearch.com/alternatives-to/macys.com",
+   "kept": false,
+   "why_dropped": "scraped similar-sites list"
+  },
+  {
+   "keyword": "similar to macys",
+   "position": 7,
+   "url": "http://www.siteslike.com/similar/macys.com",
+   "kept": false,
+   "why_dropped": "scraped similar-sites list"
+  },
+  {
+   "keyword": "similar to macys",
+   "position": 8,
+   "url": "https://www.tripadvisor.com/ShowTopic-g186338-i17-k2331503-Shopping_in_London_Anything_Like_a_Macys_or_Gap-London_England.html",
+   "kept": false,
+   "why_dropped": "forum thread about London stores, not US alternatives"
+  },
+  {
+   "keyword": "similar to macys",
+   "position": 9,
+   "url": "https://www.quora.com/How-is-Harrods-in-London-similar-to-Macys-in-New-York",
+   "kept": false,
+   "why_dropped": "Quora (403); about Harrods"
+  },
+  {
+   "keyword": "similar to macys",
+   "position": 10,
+   "url": "http://ask.metafilter.com/207988/Mens-fitted-shirts-similar-to-Macys-INC",
+   "kept": false,
+   "why_dropped": "about shirts similar to Macy's INC label, not stores"
+  },
+  {
+   "keyword": "macys alternatives",
+   "position": null,
+   "url": null,
+   "kept": false,
+   "why_dropped": "Ahrefs serp-overview returned no positions for this spelling"
+  },
+  {
+   "keyword": "brands like macys",
+   "position": null,
+   "url": null,
+   "kept": false,
+   "why_dropped": "Ahrefs serp-overview returned no positions for this spelling"
+  },
+  {
+   "keyword": "(web search, outside the Ahrefs top 10)",
+   "position": null,
+   "url": "https://www.irreverentgent.com/stores-like-macys/",
+   "kept": true,
+   "note": "found by WebSearch because the four Ahrefs SERPs held no readable editorial list. Read: Dave Bowden, Irreverent Gent, 'The 17 Best Department Stores Like Macy's for Stylish Men's Clothes', published Feb 8 2022, updated June 18 2026; 18 entries (incl. Macy's Backstage, Dillard's Clearance Center)"
+  },
+  {
+   "keyword": "(web search, outside the Ahrefs top 10)",
+   "position": null,
+   "url": "https://savingsays.com/blog/stores-similar-to-macys",
+   "kept": true,
+   "note": "read: SavingSays, '15 Stores Similar to Macy's for Affordable Style', no author, Oct 27 2025 (updated Aug 2026); 15 stores. WebSearch surfaced a staging copy (savingsays-com-product.on-forge.com); the canonical savingsays.com page was read and is the one cited. Coupon site, weak editorial source"
+  },
+  {
+   "keyword": "(web search, outside the Ahrefs top 10)",
+   "position": null,
+   "url": "https://www.aol.com/macy-closing-over-60-stores-170109243.html",
+   "kept": true,
+   "note": "read: J. Arky, GOBankingRates (republished on AOL), 'Macy's Is Closing Over 60 Stores in 2025: 5 Great Alternatives To Shop', Apr 10 2025; 4 stores + a category"
+  },
+  {
+   "keyword": "(web search, outside the Ahrefs top 10)",
+   "position": null,
+   "url": "https://www.aol.com/macy-raising-prices-due-tariffs-120142963.html",
+   "kept": true,
+   "note": "read: Jordan Rosenfeld, GOBankingRates (republished on AOL), 'Macy's Is Raising Prices Due to Tariffs: 7 Alternatives To Shop and Save Money', Jun 4 2025; 5 stores + Poshmark and eBay. Same publisher as GB1, different author and article"
+  },
+  {
+   "keyword": "(web search)",
+   "position": null,
+   "url": "https://bstrategyhub.com/macys-competitors-alternatives/",
+   "kept": false,
+   "why_dropped": "business competitor analysis, not shopping alternatives (same rule as the Nordstrom page); not read"
+  },
+  {
+   "keyword": "(web search)",
+   "position": null,
+   "url": "https://www.cbinsights.com/company/macys/alternatives-competitors",
+   "kept": false,
+   "why_dropped": "business competitor database; not read"
+  },
+  {
+   "keyword": "(web search)",
+   "position": null,
+   "url": "https://www.apartstyle.com/post/brands-like-macys",
+   "kept": false,
+   "why_dropped": "apartstyle.com never counts as a source"
+  },
+  {
+   "keyword": "(web search)",
+   "position": null,
+   "url": "https://geo.sig.ai/brands/macys/alternatives",
+   "kept": false,
+   "why_dropped": "auto-generated alternatives page; not read"
+  }
+ ],
+ "co_stocking": [
+  {
+   "retailer": null,
+   "url": null,
+   "used": false,
+   "why": "enrich.md §1.4b doesn't apply: Macy's is itself a multi-brand retailer."
+  }
+ ],
+ "candidates": [
+  {
+   "name": "Kohl's",
+   "slug": "kohls",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://www.aol.com/macy-closing-over-60-stores-170109243.html"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://www.aol.com/macy-raising-prices-due-tariffs-120142963.html"
+    }
+   ]
+  },
+  {
+   "name": "Nordstrom",
+   "slug": "nordstrom",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://www.aol.com/macy-closing-over-60-stores-170109243.html"
+    }
+   ]
+  },
+  {
+   "name": "Dillard's",
+   "slug": "dillards",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://www.aol.com/macy-closing-over-60-stores-170109243.html"
+    }
+   ]
+  },
+  {
+   "name": "JCPenney",
+   "slug": "jcpenney",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys"
+    }
+   ]
+  },
+  {
+   "name": "Bloomingdale's",
+   "slug": "bloomingdales",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys"
+    }
+   ]
+  },
+  {
+   "name": "Belk",
+   "slug": "belk",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys"
+    }
+   ]
+  },
+  {
+   "name": "Neiman Marcus",
+   "slug": "neiman-marcus",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys"
+    }
+   ]
+  },
+  {
+   "name": "Target",
+   "slug": "target",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://www.aol.com/macy-closing-over-60-stores-170109243.html"
+    }
+   ]
+  },
+  {
+   "name": "TJ Maxx",
+   "slug": "tj-maxx",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://www.aol.com/macy-raising-prices-due-tariffs-120142963.html"
+    }
+   ]
+  },
+  {
+   "name": "Nordstrom Rack",
+   "slug": "nordstrom-rack",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://www.aol.com/macy-raising-prices-due-tariffs-120142963.html"
+    }
+   ]
+  },
+  {
+   "name": "Marshalls",
+   "slug": "marshalls",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys"
+    }
+   ]
+  },
+  {
+   "name": "Burlington",
+   "slug": "burlington",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://www.aol.com/macy-raising-prices-due-tariffs-120142963.html"
+    }
+   ]
+  },
+  {
+   "name": "Walmart",
+   "slug": "walmart",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys"
+    }
+   ]
+  },
+  {
+   "name": "Ross Dress for Less",
+   "slug": "ross-dress-for-less",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.aol.com/macy-raising-prices-due-tariffs-120142963.html"
+    }
+   ]
+  },
+  {
+   "name": "Bloomingdale's Outlet",
+   "slug": "bloomingdales-outlet",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/"
+    }
+   ]
+  },
+  {
+   "name": "Saks Fifth Avenue",
+   "slug": "saks-fifth-avenue",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/"
+    }
+   ]
+  },
+  {
+   "name": "Saks OFF 5TH",
+   "slug": "saks-off-5th",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys"
+    }
+   ]
+  },
+  {
+   "name": "Stein Mart",
+   "slug": "stein-mart",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/"
+    }
+   ]
+  },
+  {
+   "name": "Lord & Taylor",
+   "slug": "lord-and-taylor",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys"
+    }
+   ]
+  },
+  {
+   "name": "Macy's Backstage",
+   "slug": "macys-backstage",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/"
+    }
+   ]
+  },
+  {
+   "name": "Dillard's Clearance Center",
+   "slug": "dillards-clearance-center",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/"
+    }
+   ]
+  },
+  {
+   "name": "Poshmark",
+   "slug": "poshmark",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.aol.com/macy-raising-prices-due-tariffs-120142963.html"
+    }
+   ]
+  },
+  {
+   "name": "eBay",
+   "slug": "ebay",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.aol.com/macy-raising-prices-due-tariffs-120142963.html"
+    }
+   ]
+  },
+  {
+   "name": "Old Navy",
+   "slug": "old-navy",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Gap",
+   "slug": "gap",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Uniqlo",
+   "slug": "uniqlo",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "H&M",
+   "slug": "h-m",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Lands' End",
+   "slug": "lands-end",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "L.L.Bean",
+   "slug": "l-l-bean",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Banana Republic Factory",
+   "slug": "banana-republic-factory",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Croft & Barrow",
+   "slug": "croft-and-barrow",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Joe Fresh",
+   "slug": "joe-fresh",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Nautica",
+   "slug": "nautica",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Levi's",
+   "slug": "levis",
+   "in_apart_pool": true,
+   "sources": []
+  }
+ ],
+ "candidate_pool": {
+  "source": "public.brand_relationships (Apart Style, read-only)",
+  "result": "No row for the Macy's store in public.brands; four Macy's private-label rows exist (Macy's (Alfani & Club Room), Macy's (Charter Club & Alfani), Macy's Hat Collection, Macy's Hotel Collection). Their pool stores: JCPenney, Kohl's, Target (also outside-sourced, so picks); the rest are single-brand labels or home brands (Van Heusen, Lands' End, L.L.Bean, Gap, Old Navy, Uniqlo, H&M, Nautica, Levi's, Hotel Collection's bedding brands...). Pool only, never evidence."
+ },
+ "picks": [
+  {
+   "slug": "kohls",
+   "rank": 1,
+   "independent_sources": 4,
+   "single_source": false,
+   "store_type": "department store",
+   "price": null,
+   "price_relation": null,
+   "reason": "Kohl's sells moderately priced own-label and national-brand clothing, shoes, beauty (including Sephora) and home in 1,153 stores across 49 states, with exclusives such as LC Lauren Conrad.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/",
+     "note": "#1: \"a one-stop-shop shop for just about everything\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys",
+     "note": "#4: \"one of the most popular stores similar to Macy's for value-driven shoppers\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://www.aol.com/macy-closing-over-60-stores-170109243.html",
+     "note": "#2: \"an excellent alternative for shoppers on a budget\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://www.aol.com/macy-raising-prices-due-tariffs-120142963.html",
+     "note": "#4: clearance sales and Kohl's Cash"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "nordstrom",
+   "rank": 2,
+   "independent_sources": 3,
+   "single_source": false,
+   "store_type": "department store",
+   "price": null,
+   "price_relation": null,
+   "reason": "Nordstrom sells regular-price women's jeans from $20 to $835 (Levi's, Madewell, MOTHER) in sizes 00–28W, with free US shipping and no time limit on returns.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/",
+     "note": "#2: \"one of the best known major retailers in the United States\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys",
+     "note": "#1: \"one of the closest competitors of Macy's\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://www.aol.com/macy-closing-over-60-stores-170109243.html",
+     "note": "#1: \"has long been considered one of the premier department stores\""
+    }
+   ],
+   "products_named": [
+    {
+     "name": "Levi's Wedgie High Waist Bootcut Jeans",
+     "price": 110,
+     "url": "https://www.nordstrom.com/browse/women/clothing/jeans",
+     "note": "from nordstrom.json page notes (regular price, page 1)"
+    },
+    {
+     "name": "Madewell The Straight Super Stretch Jeans",
+     "price": 148,
+     "url": "https://www.nordstrom.com/browse/women/clothing/jeans"
+    },
+    {
+     "name": "MOTHER Lil' Kick It Jeans",
+     "price": 248,
+     "url": "https://www.nordstrom.com/browse/women/clothing/jeans"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "dillards",
+   "rank": 3,
+   "independent_sources": 3,
+   "single_source": false,
+   "store_type": "department store",
+   "price": null,
+   "price_relation": null,
+   "reason": "Dillard's sells regular-price women's jeans at $36–$350 from NYDJ, Levi's and 7 For All Mankind in sizes 00–16 and 1X–3X, from 272 stores (28 clearance centers) in 30 states.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/",
+     "note": "#3: \"a wide range of fashion and accessories for men, women and kids\" (#15 Dillard's Clearance Center folded in)"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys",
+     "note": "#3: \"often attract similar shoppers\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://www.aol.com/macy-closing-over-60-stores-170109243.html",
+     "note": "#3: a \"reasonable alternative\" for shoppers who like department stores"
+    }
+   ],
+   "products_named": [
+    {
+     "name": "NYDJ Marilyn Stretch Denim High Rise Straight Leg Lift & Tuck Technology Jeans",
+     "price": 129,
+     "url": "https://www.dillards.com/c/women-jeans",
+     "note": "from the Nordstrom page's products_named (regular price)"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "jcpenney",
+   "rank": 4,
+   "independent_sources": 2,
+   "single_source": false,
+   "store_type": "department store",
+   "price": null,
+   "price_relation": null,
+   "reason": "JCPenney sells fashion, apparel, home, beauty and jewelry from national and private brands in more than 600 stores across the US and Puerto Rico, including a women's Marilyn Monroe collection from $44.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/",
+     "note": "#9: \"A national department store known for lower prices\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys",
+     "note": "#5: \"has long been one of Macy's biggest competitors\""
+    }
+   ],
+   "products_named": [
+    {
+     "name": "High-Rise Vintage Slim Jeans (Marilyn Monroe collection)",
+     "price": 54,
+     "url": "https://corporate.jcpenney.com/2026/10/01/jcpenney-puts-marilyn-monroes-legendary-style-within-everyones-reach/",
+     "note": "launch price from JCPenney's own corporate site; jcpenney.com unreadable (503)"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "bloomingdales",
+   "rank": 5,
+   "independent_sources": 2,
+   "single_source": false,
+   "store_type": "department store",
+   "price": null,
+   "price_relation": null,
+   "reason": "Bloomingdale's is Macy's, Inc.'s upscale store, carrying premium luxury designers, contemporary labels and private labels, with 32 full-line stores and 25 Bloomingdale's The Outlet stores in the US.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/",
+     "note": "#4: \"designer fashion, accessories, and a wide range of home decor\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys",
+     "note": "#2: \"Often considered Macy's upscale sibling\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "belk",
+   "rank": 6,
+   "independent_sources": 2,
+   "single_source": false,
+   "store_type": "department store",
+   "price": null,
+   "price_relation": null,
+   "reason": "Belk is a Charlotte department store dating to 1888 with nearly 300 Belk and Belk Outlet locations across 16 Southeastern states, selling national and private-label women's, men's and kids' apparel.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/",
+     "note": "#7: \"frequently offer online coupons and deals\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys",
+     "note": "#8: \"mirrors Macy's balance of affordability and style\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "neiman-marcus",
+   "rank": 7,
+   "independent_sources": 2,
+   "single_source": false,
+   "store_type": "department store",
+   "price": null,
+   "price_relation": null,
+   "reason": "Neiman Marcus, founded 1907, sells the world's top luxury designers (Saint Laurent, Givenchy, Toteme) from flagships in Beverly Hills, NorthPark and Coral Gables, and is now part of Exemplar Luxury Group.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/",
+     "note": "#6: \"a wider range of designer clothes and other high-quality products\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys",
+     "note": "#13: \"offers luxury fashion at reduced prices\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "target",
+   "rank": 8,
+   "independent_sources": 3,
+   "single_source": false,
+   "store_type": "mass merchant",
+   "price": null,
+   "price_relation": null,
+   "reason": "Target sells its own labels (Universal Thread, A New Day) next to Levi's and Lee in more than 2,000 stores in all 50 states, with women's jeans at $28–$74.99 and a year to return its own brands.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/",
+     "note": "#10: prices are \"significantly better\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys",
+     "note": "#9: \"competes with Macy's in lifestyle and apparel\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://www.aol.com/macy-closing-over-60-stores-170109243.html",
+     "note": "#4: \"becoming more and more relevant in the fashion space\""
+    }
+   ],
+   "products_named": [
+    {
+     "name": "Women's High-Rise Vintage Straight Jeans - Universal Thread",
+     "price": 38,
+     "url": "https://www.target.com/c/women-s-clothing/-/N-5xtd3",
+     "note": "regular price, from target.json notes"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "tj-maxx",
+   "rank": 9,
+   "independent_sources": 3,
+   "single_source": false,
+   "store_type": "off-price",
+   "price": null,
+   "price_relation": null,
+   "reason": "TJ Maxx sells off-price brand-name family apparel, beauty, jewelry and home in 1,348 US stores, with a high-end designer department, The Runway, in select stores.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/",
+     "note": "#16: \"low prices on a wide range of general merchandise\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys",
+     "note": "#11: \"a treasure-hunt experience with discounted name-brand products\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://www.aol.com/macy-raising-prices-due-tariffs-120142963.html",
+     "note": "#1: \"it resells merchandise that other stores couldn't move\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "nordstrom-rack",
+   "rank": 10,
+   "independent_sources": 3,
+   "single_source": false,
+   "store_type": "off-price",
+   "price": null,
+   "price_relation": null,
+   "reason": "Nordstrom Rack, Nordstrom's off-price chain, sells women's jeans from $15.38 to $419.97 online and in stores, with free shipping over $89 and online orders returnable free at any Nordstrom or Rack store.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/",
+     "note": "#12: \"the Nordstrom equivalent of Macy's backstage\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys",
+     "note": "#6: \"provides designer goods at discounted rates\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://www.aol.com/macy-raising-prices-due-tariffs-120142963.html",
+     "note": "#5: \"sells overflow merchandise\" from Nordstrom"
+    }
+   ],
+   "products_named": [
+    {
+     "name": "MANGO Claudia Waxed Crop Slim Fit Jeans",
+     "price": 15.38,
+     "url": "https://www.nordstromrack.com/shop/women/clothing/jeans",
+     "note": "from the Nordstrom page's products_named"
+    },
+    {
+     "name": "Akris Finnian High Waist Wide Leg Jeans",
+     "price": 419.97,
+     "url": "https://www.nordstromrack.com/shop/women/clothing/jeans"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "marshalls",
+   "rank": 11,
+   "independent_sources": 2,
+   "single_source": false,
+   "store_type": "off-price",
+   "price": null,
+   "price_relation": null,
+   "reason": "Marshalls, TJX's other off-price chain, sells family apparel, beauty and home in 1,255 US stores, with a full line of footwear and a broader men's department than TJ Maxx.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/",
+     "note": "#17: \"a lot of variety both in terms of the brands and types of merchandise\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys",
+     "note": "#12: \"a slightly broader focus on footwear and home décor\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "burlington",
+   "rank": 12,
+   "independent_sources": 2,
+   "single_source": false,
+   "store_type": "off-price",
+   "price": null,
+   "price_relation": null,
+   "reason": "Burlington sells women's, plus, juniors' and kids' clothing and coats at up to 60% off other retailers' prices in 1,287 stores across 47 states, DC and Puerto Rico, in store only.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys",
+     "note": "#15: \"one of Macy's most direct competitors in the discount fashion market\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://www.aol.com/macy-raising-prices-due-tariffs-120142963.html",
+     "note": "#3: \"excess inventory or off-season, driving down prices\""
+    }
+   ],
+   "products_named": [
+    {
+     "name": "Ladies Dress (in-store example)",
+     "price": 19.99,
+     "url": "https://www.burlington.com/",
+     "note": "homepage in-store example price, from burlington.json notes"
+    },
+    {
+     "name": "Plus Faux Fur Coat (in-store example)",
+     "price": 69.99,
+     "url": "https://www.burlington.com/"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "walmart",
+   "rank": 13,
+   "independent_sources": 2,
+   "single_source": false,
+   "store_type": "mass merchant",
+   "price": null,
+   "price_relation": null,
+   "reason": "Walmart sells apparel, shoes and jewelry for adults and children, including its own Time and Tru and Free Assembly labels, in 4,611 US stores across all 50 states, DC and Puerto Rico.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/",
+     "note": "#18: \"some of the best deals on everything\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://savingsays.com/blog/stores-similar-to-macys",
+     "note": "#10: \"attract similar shoppers looking for budget-friendly alternatives\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "ross-dress-for-less",
+   "rank": 14,
+   "independent_sources": 1,
+   "single_source": true,
+   "store_type": "off-price",
+   "price": null,
+   "price_relation": null,
+   "reason": "Ross sells name-brand and designer apparel, shoes and home at 20% to 60% off department and specialty store regular prices in 1,952 stores across 44 states, DC, Guam and Puerto Rico.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.aol.com/macy-raising-prices-due-tariffs-120142963.html",
+     "note": "#2: \"find clothing for affordable prices\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "bloomingdales-outlet",
+   "rank": 15,
+   "independent_sources": 1,
+   "single_source": true,
+   "store_type": "off-price",
+   "price": null,
+   "price_relation": null,
+   "reason": "Bloomingdale's The Outlet is Macy's, Inc.'s off-price chain for Bloomingdale's names in clothing, accessories and home, with 25 stores from coast to coast.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.irreverentgent.com/stores-like-macys/",
+     "note": "#14: \"its own chain of discount department stores\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  }
+ ],
+ "rejected": [
+  {
+   "slug": "saks-fifth-avenue",
+   "why": "verified store but 1 source (Irreverent Gent) and a luxury step beyond Neiman Marcus for this page; Neiman (2 sources) covers the luxury slot. Candidate 16 if the cap rises."
+  },
+  {
+   "slug": "saks-off-5th",
+   "why": "brand file unverified: saksoff5th.com is shutting down ('select physical retail locations remain open'), stores unconfirmed. 2 sources."
+  },
+  {
+   "slug": "lord-and-taylor",
+   "why": "1 source (SavingSays, weak); online-only luxury store with $234.90+ jeans, a different shopper from Macy's. Verified file exists if wanted."
+  },
+  {
+   "slug": "stein-mart",
+   "why": "1 source, which itself says Stein Mart now 'focuses exclusively on online sales' after closing its stores; not checked."
+  },
+  {
+   "slug": "macys-backstage",
+   "why": "part of the anchor (Macy's own off-price concept); covered in the copy and FAQ."
+  },
+  {
+   "slug": "dillards-clearance-center",
+   "why": "part of Dillard's; folded into the Dillard's pick."
+  },
+  {
+   "slug": "poshmark, ebay",
+   "why": "marketplaces (resale and auctions), not stores; dropped per enrich.md."
+  },
+  {
+   "slug": "apart pool (no outside source)",
+   "why": "Old Navy, Gap, Uniqlo, H&M, Lands' End, L.L.Bean, Banana Republic Factory, Croft & Barrow, Joe Fresh, Nautica, Levi's and the rest: single-brand labels or private labels, not stores like Macy's, and no outside source names them."
+  }
+ ],
+ "human_check": [
+  {
+   "fact": "anchor sizes, shipping, returns, women's jeans price range",
+   "url": "https://www.macys.com/shop/womens-clothing/womens-jeans?id=3111",
+   "check": "macys.com returns 403 to WebFetch and customerservice-macys.com didn't resolve. In a browser: regular-price min/max for women's jeans, size range (petite/plus), free-shipping threshold, US/international shipping, return window. Until then the gate reports 'anchor missing: sizeRange, shipsTo, returnsDays, price:womens-clothing' and the page can't index."
+  },
+  {
+   "fact": "evidence came from WebSearch, not the Ahrefs SERP",
+   "url": "https://www.irreverentgent.com/stores-like-macys/",
+   "check": "The four Ahrefs SERPs ('stores like macys', 'similar to macys'; 'macys alternatives' and 'brands like macys' returned no rows) had no readable editorial list, so the four kept lists were found with WebSearch. Confirm this is acceptable, or re-run Ahrefs with the apostrophe spellings (\"macy's alternatives\", \"brands like macy's\")."
+  },
+  {
+   "fact": "stores that refuse reads: Kohl's, JCPenney, Belk, Walmart, Bloomingdale's, Bloomingdale's Outlet, Neiman Marcus, TJ Maxx, Marshalls",
+   "url": "https://www.kohls.com/",
+   "check": "All verified from official parent or corporate sources (SEC filings, corporate newsrooms) and render without prices. In a browser: women's jeans regular-price range, sizes, shipping, returns."
+  },
+  {
+   "fact": "Neiman Marcus sells women's clothing",
+   "url": "https://www.exemplarluxurygroup.com/2026-09-01-Neiman-Marcus-Unveils-Signature-Style-Fall-Campaign",
+   "check": "Still open from the Nordstrom page: the parent's releases name womenswear houses but not 'women's clothing' in so many words."
+  },
+  {
+   "fact": "SavingSays quality",
+   "url": "https://savingsays.com/blog/stores-similar-to-macys",
+   "check": "Anonymous coupon-site list; it supports 13 picks alongside other sources but is the only list for none of them. Editorial call whether it counts."
+  }
+ ],
+ "notes": [
+  "15 picks pass enrich.md §3 (verified, sells women's clothing, ships to the US or has US stores, >=1 outside source, one checkable reason). Department stores first (Kohl's, Nordstrom, Dillard's, JCPenney, Bloomingdale's, Belk, Neiman Marcus), then chains shopped for the same reason (Target, TJ Maxx, Nordstrom Rack, Marshalls, Burlington, Walmart, Ross, Bloomingdale's Outlet); within each group by source count. Anchor price unreadable, so no price-closeness tiebreak.",
+  "Evidence: 4 editorial pages read (Irreverent Gent, SavingSays, two GOBankingRates articles on AOL), all found by WebSearch because the Ahrefs top 10s were scraped similar-sites lists, reader votes, reference lists, Reddit/Quora (unreadable) and store homepages. The two GOBankingRates articles are counted separately (different authors and lists); counting them as one publisher changes only Kohl's (4 to 3), not the order.",
+  "New brand files this run: jcpenney (corporate.jcpenney.com), belk (newsroom.belk.com), walmart (Walmart 10-K). Macy's anchor got 10-K notes (private labels, ~150 planned closures). Reused unchanged: nordstrom, kohls, dillards, bloomingdales, neiman-marcus, target, tj-maxx, nordstrom-rack, marshalls, burlington, ross-dress-for-less, bloomingdales-outlet.",
+  "Copy facts not in brand files: Nordstrom Rack and Dillard's named products come from the Nordstrom page's products_named (nordstrom.json); Nordstrom's Levi's/Madewell/MOTHER prices from nordstrom.json page notes; Last Call redirect from neiman-marcus-last-call.json."
+ ],
+ "author": "Ash",
+ "copy": {
+  "intro": "Maybe your nearest Macy's is one of the roughly 150 it plans to close. Or maybe you just want to see where else national brands and house labels share a rack. Either way, these stores do Macy's job. Department stores come first, then the off-price and big-box chains people turn to for the same reason, each with a note on who it suits.",
+  "bodies": {
+   "kohls": "Kohl's is where we'd look first if Macy's prices are the reason you're leaving. It sells moderately priced clothes, shoes, beauty and home, which covers most of a Macy's trip.\n\nThe label setup will feel familiar. Where Macy's has Charter Club and Style & Co., Kohl's has Sonoma Goods for Life, Apt. 9 and Croft & Barrow, and it prices them under the national brands on the same floor. LC Lauren Conrad and Simply Vera Vera Wang are only sold here.\n\nIt's easy to reach, with 1,153 stores in 49 states, and it sells Sephora beauty, so the makeup run comes along too. What it doesn't do is designer. For that, Bloomingdale's or Nordstrom are the step up.",
+   "nordstrom": "Nordstrom is the closest match if you liked Macy's for its brand names and want more of them. Women's jeans run from $20 to $835, with Levi's Wedgie High Waist Bootcut ($110) and Madewell's The Straight Super Stretch ($148) near the middle.\n\nTwo policies make it easy to shop from home. Shipping is free anywhere in the US with no minimum, and returns have no time limit. So a store that's a long drive away is less of a problem here. Sizes run 00 to 28W, with petite and plus.\n\nIf MOTHER's Lil' Kick It ($248) is more than you'd spend, Nordstrom Rack is the same company's off-price chain, with jeans from $15.38.",
+   "dillards": "Dillard's covers the same floors Macy's does: women's, juniors, shoes, lingerie, beauty and home. Women's jeans run $36 to $350, and NYDJ's Marilyn high-rise straight jeans ($129) sit near the middle.\n\nThe label mix is worth a look. Levi's, NYDJ, Lauren Ralph Lauren and 7 For All Mankind share the denim racks, and Dillard's Exclusive has a section of its own. Then there's the clearance side. Twenty-eight of its 272 stores are clearance centers, which do the job Backstage does at Macy's.\n\nThe catch is reach. Dillard's trades in 30 states, so outside them it's an online order. Free shipping starts at $150 ($9.95 below that), and returns get 30 days.",
+   "jcpenney": "JCPenney is the Macy's swap when you want one store for the whole family's clothes, home and beauty. It has more than 600 stores across the US and Puerto Rico, and it runs salon, portrait and optical services too.\n\nStart with its women's Marilyn Monroe collection, sold only at JCPenney, in stores and online. Pieces start at $44, and the High-Rise Vintage Slim Jeans are $54. Around it you'll find Liz Claiborne, a.n.a. and St. John's Bay next to Levi's and Nike.\n\nJCPenney is now part of Catalyst Brands, alongside Brooks Brothers, Lucky Brand and Nautica. If there's no JCPenney near you, Kohl's has more than 1,100 stores and a similar mix of own labels and national brands.",
+   "bloomingdales": "Bloomingdale's is Macy's own step up. Both belong to Macy's, Inc., and Bloomingdale's is the group's upscale store, running from premium luxury designers to newer contemporary labels and its own private labels.\n\nThe useful part is the outlet side. Bloomingdale's The Outlet has 25 stores coast to coast, next to 32 full-line Bloomingdale's. So you can shop it the way you'd use Macy's and Backstage, with full price at one and markdowns at the other.\n\nReach is the trade-off. Thirty-two full-line stores is a small fraction of Macy's 400-plus, so the nearest one may be a long way off. If you'd rather order designer labels from home, Nordstrom ships free with no minimum.",
+   "belk": "Belk is the Southeast's answer to Macy's. It's a Charlotte department store that opened its first shop in 1888. Today it has nearly 300 Belk and Belk Outlet locations across 16 Southeastern states. That count includes the Outlet stores, so there's a markdown option in the same family.\n\nThe mix is close to Macy's too. National brands sit next to Belk's private labels across women's, men's and kids' clothes, with shoes, handbags and fine jewelry alongside. Its newer Belk Market stores fit the same mix into a smaller format.\n\nOutside those 16 states, you're shopping belk.com or the Belk app. If there's no Belk near you, Dillard's covers 30 states with a similar spread of departments, and Kohl's reaches 49.",
+   "neiman-marcus": "Neiman Marcus is the jump from Macy's to full luxury. It was founded in 1907, it has flagships in Beverly Hills, NorthPark and Coral Gables, and its fall edit runs through Saint Laurent, Givenchy and Toteme.\n\nIf you remember Last Call, its old outlet, lastcall.com now sends you to Neiman Marcus's own sale section. That's where its markdowns are, and the nearest thing it has to a Backstage. It also sells online and through remote selling, so you don't need a flagship nearby.\n\nNeiman, Saks Fifth Avenue and Bergdorf Goodman are one company now, Exemplar Luxury Group. Treat this as the special-occasion stop. For designer labels mixed with everyday ones, Nordstrom covers both ends.",
+   "target": "Target is the pick for everyday basics close to home, with more than 2,000 stores in all 50 states. Women's jeans run $28 to $74.99, and Universal Thread's High-Rise Vintage Straight Jeans ($38) are the place to start.\n\nTarget sells its own labels, more than 45 of them, including A New Day, Universal Thread and Wild Fable. Levi's, Lee and Lucky Brand sit alongside, so you can still buy a brand name.\n\nReturns are the quiet perk. Target's own brands can come back for a year with a receipt, and most other items get 90 days. If you want a beauty counter and a shoe department in the same trip, Kohl's is closer to Macy's.",
+   "tj-maxx": "TJ Maxx is the off-price way to keep buying brand names. It sells family clothing, shoes, beauty, jewelry and home at what TJX puts at 20% to 60% under full-price retailers' regular prices.\n\nLook for The Runway, its high-end designer department. It's only in select stores, so check before you make a trip for it. With 1,348 stores, TJ Maxx has more doors than Kohl's, which makes it one of the easiest picks here to reach.\n\nIf you're shopping for shoes or for men, Marshalls is the same company's other chain and has bigger departments for both. For off-price you can order online and return in store, Nordstrom Rack is the one.",
+   "nordstrom-rack": "Nordstrom Rack is Nordstrom's own off-price chain, so it plays the part Backstage plays for Macy's. Women's jeans start at $15.38 for MANGO's Claudia Waxed Crop Slim Fit and reach $419.97 for Akris's Finnian wide-leg pair. In between are Levi's, Madewell, FRAME and Citizens of Humanity.\n\nIt's also a full online store. Shipping is free over $89, and online orders can go back within 40 days. Better still, you can return them free at any Nordstrom or Rack store. Sizes run 00 to 28W, with petite and plus.\n\nIt only ships to US addresses. And if you'd rather browse racks in person, TJ Maxx and Marshalls each have far more stores.",
+   "marshalls": "Marshalls is the off-price pick for shoes and menswear. It has a full line of footwear for women, men and kids, and a broader men's department than TJ Maxx. That makes it the better of the two for a family shoe run.\n\nThe two are sisters. TJX bought Marshalls in 1995 and paired it with TJ Maxx. So the rest of the mix is familiar: family clothing, beauty, accessories and home, across 1,255 stores in the US and Puerto Rico. Its website, marshalls.com, lets you browse before you drive.\n\nIf the household shop is the point, this is the TJX store we'd start at. For designer labels, TJ Maxx's Runway section or Bloomingdale's Outlet are the better bets.",
+   "burlington": "Burlington is the off-price stop for coats and plus sizes, since each has a department of its own. Its in-store deals show a ladies' dress at $19.99 and a Plus Faux Fur Coat at $69.99.\n\nThe pitch is brands at up to 60% off other retailers' prices. There are 1,287 stores across 47 states, DC and Puerto Rico, and Juniors, Kids and Baby get their own sections too. That makes it a decent one-trip option for a family.\n\nThere's no online shop, so this is an in-person visit. Ross is the other walk-in chain here and has even more stores. If you want off-price with home delivery, Nordstrom Rack is the one that ships.",
+   "walmart": "Walmart is the pick when the closest store matters most. It has 4,611 US stores, in all 50 states, DC and Puerto Rico, and its fashion aisles cover clothing for adults and kids, plus shoes, jewelry and accessories.\n\nThe labels to know are its own. Time and Tru, Free Assembly, Joyspun and No Boundaries are Walmart brands, and Sofia Jeans by Sofia Vergara is a licensed line sold there. Brand-name goods make up a big share of what it sells overall too.\n\nClothes are one aisle among groceries and electronics, so this is a basics run rather than a browse. Walmart+ members get free shipping on eligible items with no minimum. For national labels at off-price, TJ Maxx or Ross suit better.",
+   "ross-dress-for-less": "Ross is the off-price chain with the most stores here, 1,952 across 44 states, DC, Guam and Puerto Rico. Its pitch is aimed right at department-store shoppers. It sells name brands and designer labels at 20% to 60% off department and specialty store regular prices, every day.\n\nThat covers clothes, shoes, accessories and home for the whole family. Items vary by store, which is part of the hunt. Its website lists stores, not stock, so the only way to see what's in is to go.\n\nThere's no online shop. Ross also runs dd's DISCOUNTS, 376 stores in 23 states with more moderately priced stock. If you'd rather shop from the sofa, Nordstrom Rack is the off-price option that ships.",
+   "bloomingdales-outlet": "Bloomingdale's Outlet is the designer-leaning cousin of Macy's Backstage, and it's run by the same parent, Macy's, Inc. Its stores bring together the best names in clothing, accessories and home, for less. And while most Backstage shops sit inside Macy's stores, the Outlets are stores of their own.\n\nBloomingdale's itself runs from premium luxury designers to newer contemporary labels, and that's the range its outlets draw on. There are only 25 of them, scattered across the country, so check the map before you count on one.\n\nPair it with Nordstrom Rack if you can, since both sit at the designer end of off-price. If there's no Outlet near you, Rack's website ships anywhere in the US, free over $89."
+  },
+  "best_for": {
+   "kohls": "moderately priced own labels plus Sephora in one stop",
+   "nordstrom": "brand-name jeans with free shipping and no return deadline",
+   "dillards": "a full department store if you live in its 30 states",
+   "jcpenney": "the whole family's clothes, plus salon and optical, in one trip",
+   "bloomingdales": "a step up in designers without leaving the Macy's family",
+   "belk": "a hometown department store anywhere in the Southeast",
+   "neiman-marcus": "special-occasion pieces from the big luxury houses",
+   "target": "own-label basics and jeans under $40, with a year to return",
+   "tj-maxx": "brand names at off-price, with a designer section in some stores",
+   "nordstrom-rack": "off-price brands you can order online and return in store",
+   "marshalls": "off-price shoes and menswear for the whole household",
+   "burlington": "coats, plus sizes and kids' clothes in one walk-in trip",
+   "walmart": "grabbing basics on the same trip as the groceries",
+   "ross-dress-for-less": "walk-in bargains below department-store regular prices",
+   "bloomingdales-outlet": "Bloomingdale's markdowns if an outlet is near you"
+  },
+  "closing": {
+   "heading": "How to choose",
+   "body": "Start with what you used Macy's for. If it was everyday brand names and house labels, Kohl's and JCPenney are the closest swaps, with Dillard's or Belk if you live in their states. If you want a step up, Bloomingdale's is the same family, and Nordstrom is the easiest to shop from home. Neiman Marcus is for the special-occasion splurge.\n\nIf Backstage was your favorite floor, go off-price. Nordstrom Rack is the one that ships and takes returns in store. TJ Maxx and Marshalls each have over 1,200 stores to try, while Ross and Burlington are in-store only. And for plain basics close to home, Target or Walmart will do."
+  },
+  "faqs": [
+   {
+    "q": "Is Macy's closing?",
+    "a": "Some stores, not the chain. Macy's, Inc. plans to close about 150 store locations under its Bold New Chapter strategy, and Macy's still has 408 locations, counting its furniture stores.",
+    "source_query": "is macys closing"
+   },
+   {
+    "q": "What is Macy's Backstage?",
+    "a": "It's Macy's off-price store. There are more than 300 nationwide, nearly all of them sections inside regular Macy's stores, plus four that stand on their own.",
+    "source_query": "what is macys backstage"
+   },
+   {
+    "q": "Who owns Macy's?",
+    "a": "Macy's, Inc., headquartered at 151 West 34th Street in New York. The same company owns Bloomingdale's and Bloomingdale's The Outlet.",
+    "source_query": "who owns macys"
+   }
+  ]
+ }
+}

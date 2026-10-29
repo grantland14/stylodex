@@ -1,0 +1,57 @@
+{
+  "slug": "amiclubwear",
+  "name": "AMIClubwear",
+  "website_url": "https://amiclubwear.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Sexy Clubwear Dresses for Women",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "S–3X",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 11.5,
+      "max": 125.99,
+      "min_usd": 11.5,
+      "max_usd": 125.99,
+      "fx_date": null,
+      "item_count": 2106,
+      "source_url": "https://amiclubwear.com/collections/cocktail-dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "cocktail-dresses collection (2,680 products, the same set as bodycon-dresses and club-dresses): 2,106 in stock with no compare_at markdown, 542 marked down, 32 not titled dress. Low Cami Heavy Rib Mini Dress $11.50; high MABLE Sweetheart Neckline Floral Printed Midi Dress $125.99; median $74. Vendors Flying Tomato (1,413) and KandyKouture (688). Sizes mostly S/M/L; 1X–3X on about 165."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://amiclubwear.com/",
+    "https://amiclubwear.com/pages/about-us",
+    "https://amiclubwear.com/collections.json?limit=250",
+    "https://amiclubwear.com/collections/cocktail-dresses/products.json?limit=250",
+    "https://amiclubwear.com/policies/shipping-policy",
+    "https://amiclubwear.com/policies/refund-policy"
+  ],
+  "notes": [
+    "Homepage title 'AMIClubwear | Clubwear, Sexy Clubwear, Clubwear Dresses For Women'; meta 'Shop Women's sexy clubwear for cheap prices online'. About Us: 'an incorporated women's clothing shop based out of ... Los Angeles'; Yang Yang 'famous for first creating the word clubwear in the late 90's' is CEO, founder and sole owner; buyers pick styles from designer showrooms, so kind retailer.",
+    "Shipping policy: about 2 business days processing; 2nd Day Air, Ground (5–7 business days), USPS Priority for APO/FPO; 'Free Standard Shipping (for deliveries to US 48 continental states) with the use of coupon code FREESHIP'; international shipping offered (countries not read, so only US stored). No minimum stated, so free_shipping_min_usd empty.",
+    "Refund policy: '30 days return policy (from the date of receipt) for store credit only'; return shipping paid by the customer."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "mary-square",
+  "name": "Mary Square",
+  "website_url": "https://marysquare.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Apparel, Pajamas and Gifts",
+  "hq_country": "US",
+  "size_range": "XS–XL; plus 1X–2X",
+  "ships_to": [
+    "US"
+  ],
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 55,
+      "max": 132,
+      "min_usd": 55,
+      "max_usd": 132,
+      "fx_date": null,
+      "item_count": 56,
+      "source_url": "https://marysquare.com/collections/dresses",
+      "checked_at": "2026-10-29",
+      "note": "Shopify feed /collections/dresses/products.json, 114 products; 58 marked down excluded; 56 regular-price in stock. Lowest Carolina T-Shirt Dress $55; highest Eleanor Embroidered Dress $132; median $90. Named: Cameron Dress $90."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://marysquare.com/",
+    "https://marysquare.com/pages/our-story",
+    "https://marysquare.com/policies/shipping-policy",
+    "https://marysquare.com/policies/refund-policy",
+    "https://marysquare.com/collections/dresses"
+  ],
+  "notes": [
+    "Homepage title 'Women's Apparel, Pajamas & Gifts | Mary Square'; meta 'a lifestyle brand dedicated to inspiring women to celebrate each day'. Our Story: women-owned, founded by Kelly Shiley.",
+    "Shipping policy: ships from its warehouse in Butner, NC; orders take 7–10 days. No international shipping stated, so ships_to is US. Free-shipping threshold not found.",
+    "Refund policy: returns of unworn items with tags; refunds carry a $7.95 handling fee; store credit gets an extra $5; exchanges offered. Return window in days not stated, left empty.",
+    "Sizes from feed options: XS–XL, 1X–2X."
+  ],
+  "checked_at": "2026-10-29",
+  "materials": [],
+  "certifications": []
+}

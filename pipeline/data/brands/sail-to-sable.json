@@ -1,0 +1,49 @@
+{
+  "slug": "sail-to-sable",
+  "name": "Sail to Sable",
+  "website_url": "https://sailtosable.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Chic Meets Preppy",
+  "hq_country": null,
+  "size_range": "XXS–XXXL",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 500,
+  "returns_days": 15,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 168,
+      "max": 288,
+      "min_usd": 168,
+      "max_usd": 288,
+      "fx_date": null,
+      "item_count": 40,
+      "source_url": "https://sailtosable.com/collections/dresses",
+      "checked_at": "2026-10-29",
+      "note": "Shopify feed /collections/dresses/products.json, 177 products; 132 marked down excluded; 40 regular-price in stock titled as dresses. Lowest Blue Sunset Stripe Dress $168; highest The Lucy Tweed Bow Front Dress $288; median $238; common points $198 and $248. Named: Brown & White Gingham Embroidered Shirt Dress $188, Red Plaid Long Sleeve Tunic Flare Dress $198."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://sailtosable.com/",
+    "https://sailtosable.com/pages/returns-and-shippings",
+    "https://sailtosable.com/policies/shipping-policy",
+    "https://sailtosable.com/policies/refund-policy",
+    "https://sailtosable.com/collections/dresses"
+  ],
+  "notes": [
+    "Homepage title 'Sail to Sable - A lifestyle brand for all women of size and age'; meta 'a collection of chic meets preppy'; founder Jennifer (Jen) Stocker. HQ not stated; ships from a warehouse in New Jersey.",
+    "Banner and returns page: 'free shipping on orders $500+ always'. International shipping not stated, so ships_to is US only.",
+    "Refund policy: full-price items within 15 days of delivery for a full refund or exchange; within 30 days for merchandise credit or exchange; SALE section and monogrammed items final.",
+    "Sizes from feed options: XXS–XXXL."
+  ],
+  "checked_at": "2026-10-29",
+  "materials": [],
+  "certifications": []
+}

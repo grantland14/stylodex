@@ -1423,16 +1423,6 @@
     "source_image": "https://www.toadandco.com/cdn/shop/files/F26_Toad_Co_Road_T1241411_T1001125_T2000072_T2241915-SHoskins-03956.jpg?v=1785736642",
     "fetched_at": "2026-10-29"
   },
-  "toad-co": {
-    "status": "ok",
-    "path": "/img/brands/toad-co.webp",
-    "width": 960,
-    "height": 640,
-    "bytes": 168542,
-    "source_page": "https://www.toadandco.com",
-    "source_image": "https://www.toadandco.com/cdn/shop/files/F26_Toad_Co_Road_T1241411_T1001125_T2000072_T2241915-SHoskins-03956.jpg?v=1785736642",
-    "fetched_at": "2026-10-29"
-  },
   "topshop": {
     "status": "error",
     "error": "Command failed: curl -sSL --max-time 25 --max-filesize 10000000 -A StylodexBot/0.1 (+https://www.stylodex.com/how-we-pick) -w \n%{http_code} %{content_type} https://www.asos.com/us/topshop/\ncurl: (92) ",

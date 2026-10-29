@@ -1,0 +1,65 @@
+{
+  "slug": "filson",
+  "name": "Filson",
+  "website_url": "https://www.filson.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Waxed Canvas and Wool Outerwear",
+  "hq_country": "US",
+  "founded_year": 1897,
+  "parent_company": null,
+  "size_range": "XS–3XL; some jackets in Long",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": true,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 99,
+  "returns_days": 30,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "USD",
+      "min": 199,
+      "max": 1199,
+      "min_usd": 199,
+      "max_usd": 1199,
+      "fx_date": null,
+      "item_count": 103,
+      "source_url": "https://www.filson.com/collections/outerwear",
+      "checked_at": "2026-10-29",
+      "note": "Men's Outerwear collection via /collections/outerwear/products.json: 189 products, 13 vests excluded; 103 jackets/coats at regular price (58 marked down via compare_at_price). Low: Canvas Outfitter Jacket $199 and Dry Wax Short Cruiser Jacket $199; Lined Tin Cloth Cruiser Jacket $429; Mackinaw Wool Cruiser Jacket $599; high: Lined Mackinaw Wool Packer Coat $1,199."
+    }
+  ],
+  "materials": [
+    "Oil-finish Tin Cloth",
+    "Mackinaw wool"
+  ],
+  "certifications": [],
+  "production_model": "Some outerwear made in the USA",
+  "sale_pattern": null,
+  "sells_categories": [
+    "coats-jackets"
+  ],
+  "sources": [
+    "https://www.filson.com/",
+    "https://www.filson.com/collections/outerwear",
+    "https://www.filson.com/collections/outerwear/products.json",
+    "https://www.filson.com/pages/customer-care",
+    "https://www.filson.com/pages/shipping",
+    "https://www.filson.com/pages/about-us",
+    "https://www.filson.com/collections/best-sellers"
+  ],
+  "notes": [
+    "Homepage: 'The Original Outfitter since 1897', 'Unfailing Goods', banner 'Free Shipping over $99'. Men's outerwear subnav: Waxed Jackets, Wool Jackets, Insulated Jackets, Jac-Shirts, Vests (https://www.filson.com/).",
+    "Customer care: free economy shipping on US orders over $99; returns within 30 days of delivery (Filson Credit free, refund to card has an $8 fee, in-store returns free); lifetime guarantee against defects in materials and manufacturing; repairs via repairs.filson.com with an $8 assessment fee (https://www.filson.com/pages/customer-care).",
+    "Shipping page: Canada standard $37 / expedited $51; 'Filson does not accept orders from' a list that includes the United Kingdom; Australia not named, only 'All Other locations' $69, so AU left out of ships_to (https://www.filson.com/pages/shipping).",
+    "About: founded 1897 to outfit prospectors for the Alaska Gold Rush; C.C. Filson's original store on Seattle's First Avenue; headquarters and flagship store in the Star Manufacturing building, SODO, Seattle; 'Skilled employees can be seen sewing our Unfailing Goods through the First Avenue windows'. No parent company named, copyright 'C.C. Filson Co'. Flagship store = us_stores true; the Our Stores locator did not render a list (https://www.filson.com/pages/about-us, https://www.filson.com/pages/our-stores).",
+    "Outerwear products.json size options: XS–3XL on most styles; M Long–2XL Long on 6 styles. 'Made in USA' appears in 14 of 189 outerwear listings' text (https://www.filson.com/collections/outerwear/products.json).",
+    "Best-sellers collection (23 items, none marked down) spans tees ($55) to the Denim Tacoma Jacket ($299) and Dryden Backpack ($279), so bags are a big line too; outerwear is the largest product type Filson sells (https://www.filson.com/collections/best-sellers)."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "jude-connally",
+  "name": "Jude Connally",
+  "website_url": "https://judeconnally.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "American-Made Clothing for Women",
+  "hq_country": "US",
+  "size_range": "XS–XXL",
+  "production_model": "Made in the USA",
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "us_stores": true,
+  "free_shipping_min_usd": 0,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 160,
+      "max": 298,
+      "min_usd": 160,
+      "max_usd": 298,
+      "fx_date": null,
+      "item_count": 137,
+      "source_url": "https://judeconnally.com/collections/womens-dresses",
+      "checked_at": "2026-10-29",
+      "note": "Shopify feed /collections/womens-dresses/products.json, 236 products; 99 marked down excluded; 137 regular-price in stock. Lowest Mirabella Dress - Cotton Voile $160; highest Kitty Dress - Gilded Jude Cloth $298; median $248. Named: Alexia Dress - Jude Cloth $198, Maggie Dress - Jude Cloth $258."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://judeconnally.com/",
+    "https://judeconnally.com/pages/the-jc-story",
+    "https://judeconnally.com/policies/shipping-policy",
+    "https://judeconnally.com/policies/refund-policy",
+    "https://judeconnally.com/collections/womens-dresses"
+  ],
+  "notes": [
+    "Homepage title 'American Made Women's Clothing | Signature Fabrics | Jude Connally'; meta 'effortlessly chic, well-designed, American-made women's clothing'. Its signature fabric is Jude Cloth (product names).",
+    "Shipping policy: US Standard free; Two Business Day $20; Next Day $35; Canada via Two Day or Next Day at the same rates; international $50 plus tax and duties.",
+    "Refund policy: returns or exchanges within 14 days of delivery; prepaid return label $8.00; retail store in Westfield, NJ; final sale items not returnable.",
+    "Sizes from feed options: XS–XXL."
+  ],
+  "checked_at": "2026-10-29",
+  "materials": [],
+  "certifications": []
+}

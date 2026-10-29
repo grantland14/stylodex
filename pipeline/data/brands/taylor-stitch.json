@@ -1,0 +1,60 @@
+{
+  "slug": "taylor-stitch",
+  "name": "Taylor Stitch",
+  "website_url": "https://www.taylorstitch.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Responsibly Built Menswear",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–XXL; chest 36–46",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 21,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "USD",
+      "min": 188,
+      "max": 1248,
+      "min_usd": 188,
+      "max_usd": 1248,
+      "fx_date": null,
+      "item_count": 37,
+      "source_url": "https://www.taylorstitch.com/collections/mens-outerwear",
+      "checked_at": "2026-10-29",
+      "note": "products.json of Men's Outerwear: 42 products; 37 of product type Outerwear at regular price, none marked down (canvas Shop Shirts excluded). Low: Maritime Shirt Jacket in Moleskin Twill $188; Drover Jacket in Bourbon Suede $798; high: Moto Jacket in Steerhide $1,248."
+    }
+  ],
+  "materials": [
+    "Waxed canvas",
+    "Steerhide",
+    "Moleskin"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": "Last Call items are final sale",
+  "sells_categories": [
+    "coats-jackets"
+  ],
+  "sources": [
+    "https://www.taylorstitch.com/collections/mens-outerwear",
+    "https://www.taylorstitch.com/policies/refund-policy",
+    "https://www.taylorstitch.com/policies/shipping-policy",
+    "https://www.taylorstitch.com/pages/about"
+  ],
+  "notes": [
+    "Refund policy: returns within 21 days of receipt, unworn and unwashed; free return shipping in the continental US; 'Last Call items cannot be accepted for a return'; banner 'Free Shipping & Returns On Every Domestic Order' (https://www.taylorstitch.com/policies/refund-policy).",
+    "Shipping policy: domestic in-stock orders ship free by ground; 'There is no free shipping available for international orders'; countries not listed (https://www.taylorstitch.com/policies/shipping-policy). free_shipping_min_usd 0 = free on every US order.",
+    "About: 'Constructed to perfection and responsibly built for the long haul'; stores at 383 Valencia St and 2030 Chestnut St, San Francisco, and 315 E Pine St, Seattle; factories 'around the world' (https://www.taylorstitch.com/pages/about).",
+    "Outerwear sizes XS-36 to XXL-46; 'Made in USA' in 4 of 42 listings (https://www.taylorstitch.com/collections/mens-outerwear/products.json)."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -2,15 +2,31 @@
   "slug": "rue21",
   "name": "rue21",
   "website_url": "https://www.rue21.com",
-  "status": "unverified",
+  "status": "verified",
   "kind": "brand",
   "notes": [
-    "2026-10-29: Shopify collections.json lists denim-jeans_shop-all-jeans (119 products) but its products.json and the collection page return 0 products; /collections/womens-jeans 404. Store's jeans could not be read; no price."
+    "2026-10-29: Shopify collections.json lists denim-jeans_shop-all-jeans (119 products) but its products.json and the collection page return 0 products; /collections/womens-jeans 404. Store's jeans could not be read; no price.",
+    "2026-10-29 (charlotte-russe run): rue21.com is now a lookbook and store locator with no online shop (nav: Home, Lookbook, Store Locator). Meta description: 'Shop Rue21 for the latest women's and men's fashion at better prices than ever!'. Status set to verified: live and selling clothing in stores (enrich.md §2); the earlier unverified came from an unreadable jeans feed, not a dead site.",
+    "Store directory (rue21.com/tools/locations/directory): 'United States (121)' across 40 states, most in Georgia (12), Texas (11), Florida (8), North and South Carolina (7 each).",
+    "Wikipedia: third Chapter 11 on 1 May 2024, all 540 stores closed; YM Inc. bought its assets on 29 June 2024 and reopened stores; YM also owns Charlotte Russe and Urban Planet; sells women's and men's casual apparel. hq_country CA and parent from YM Inc. (Toronto).",
+    "Exchange policy: unworn items with receipt within 14 days for an exchange or gift card; 'Sorry, we do not offer refunds.' Clearance, intimates and pierced jewelry final sale. returns_days left empty because there are no refunds.",
+    "Sells dresses: the store's own product feed lists 'Striped Ribbed Off Shoulder Maxi Dress' (product type Womens Dresses, vendor Stitches, $16, out of stock online); collections.json lists a 'cr_-10-or-less-womens_dresses' collection (78 products, none published). No online price range, so no dresses price row."
   ],
   "sources": [
     "https://www.rue21.com/",
     "https://www.rue21.com/collections.json?limit=250",
-    "https://www.rue21.com/collections/denim-jeans_shop-all-jeans"
+    "https://www.rue21.com/collections/denim-jeans_shop-all-jeans",
+    "https://rue21.com/",
+    "https://rue21.com/tools/locations/directory",
+    "https://rue21.com/pages/exchange-policy",
+    "https://rue21.com/products.json?limit=5",
+    "https://en.wikipedia.org/wiki/Rue21"
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "known_for": "Fashion at Better Prices",
+  "parent_company": "YM Inc.",
+  "us_stores": true,
+  "sells_categories": [
+    "dresses"
+  ]
 }

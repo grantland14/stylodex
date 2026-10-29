@@ -1,0 +1,14 @@
+{
+  "slug": "ll-bean",
+  "name": "L.L.Bean",
+  "website_url": "https://www.llbean.com",
+  "status": "unverified",
+  "kind": "brand",
+  "sources": [
+    "https://www.llbean.com/llb/shop/506687?page=mens-outerwear"
+  ],
+  "notes": [
+    "L.L.Bean men's outerwear page returned a web-application-firewall access-denied page to WebFetch, 2026-10-29. One try, no workaround. Human check."
+  ],
+  "checked_at": "2026-10-29"
+}

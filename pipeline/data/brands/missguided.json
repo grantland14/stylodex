@@ -1,0 +1,43 @@
+{
+  "slug": "missguided",
+  "name": "Missguided",
+  "website_url": "https://www.missguided.com/market-us",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Style for the Extraordinary",
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 67.49,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [],
+  "sells_categories": [
+    "dresses"
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": "Most dresses shown marked down",
+  "sources": [
+    "https://www.missguided.com/market-us",
+    "https://www.missguided.com/market-us/page/shipping",
+    "https://www.missguided.com/market-us/page/return",
+    "https://www.missguided.com/market-us/category/Women-Dresses-12716"
+  ],
+  "notes": [
+    "2026-10-29: missguided.com redirects to /market-us, a live US storefront (nav: New In, Brands, Bestsellers, Dresses, Tops, Co-ords, Bottoms, SALE). Page title text: 'Shop the latest trends at Missguided. Style for the extraordinary.' Footer: '© MISSGUIDED-ALL RIGHTS RESERVED', no company name.",
+    "kind retailer: dress listings include other labels' names in the titles (AiiRZ, SUMWON WOMEN) next to MISSGUIDED, and the nav has a Brands section.",
+    "Shipping Info (United States): standard free over $67.49, $4.49 under; express $9.99 on all orders.",
+    "Return Policy: request a return within 30 days of delivery; returns at the customer's own cost; bodysuits, lingerie, swimwear, jewelry, clearance and final sale not returnable.",
+    "Dresses category (Women-Dresses-12716): 'total' 5,672 goods; of the 20 rendered, 19 show a sales_price under the original_price (e.g. MISSGUIDED Lace Bodycon Mini Dress With Corset Detail $25.31, was $28.13) and 1 is at full price (AiiRZ lace bodycon mini $8.27). Too thin for a regular-price range, so none is stored."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "justfab",
+  "name": "JustFab",
+  "website_url": "https://www.justfab.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Fashion Shoes, Bags and Clothing",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 49,
+  "returns_days": 60,
+  "us_stores": null,
+  "prices": [],
+  "sells_categories": [
+    "dresses"
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": "Paid VIP membership pricing",
+  "sources": [
+    "https://www.justfab.com/",
+    "https://www.justfab.com/shop/clothing/dresses",
+    "https://www.justfab.com/policy/shipping"
+  ],
+  "notes": [
+    "2026-10-29: live US store (United States and Canada selectors). Menus: Shoes (boots, pumps, flats), Clothing (Dresses, Tops, Pants & Leggings, Skirts, Jackets, Activewear, Swim), Bags & Accessories. Footer '© 2026 JustFab LLC or its Affiliates', so hq_country US.",
+    "Membership (homepage via WebFetch): VIP costs $49.95 per month with a VIP credit; skip the month between the 1st and 5th; cancel anytime; 'Your First Order - Up to 75% Off Sitewide' for VIPs.",
+    "Shipping & Returns page: VIP orders free to the 48 contiguous states at $70+ ($4.95 under); non-VIP free at $49+; Alaska/Hawaii $9, APO/FPO $9, Canada $9.95. Returns and exchanges 'within 60 days from the date of shipment', new and unused. Some dresses carry a $9 fee (wording cut off).",
+    "Dresses page (/shop/clothing/dresses) renders no prices to a plain fetch apart from a 'Dresses Sale - $20' banner, so no price row."
+  ],
+  "checked_at": "2026-10-29"
+}

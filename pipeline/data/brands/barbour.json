@@ -1,0 +1,60 @@
+{
+  "slug": "barbour",
+  "name": "Barbour",
+  "website_url": "https://www.barbour.com/us",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Waxed Cotton Country Jackets",
+  "hq_country": "GB",
+  "founded_year": 1894,
+  "parent_company": null,
+  "size_range": "Chest 30–52 on the Bedale",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "USD",
+      "min": 265,
+      "max": 1040,
+      "min_usd": 265,
+      "max_usd": 1040,
+      "fx_date": null,
+      "item_count": 23,
+      "source_url": "https://www.barbour.com/us/mens/mens-jackets",
+      "checked_at": "2026-10-29",
+      "note": "US men's jackets page reports 214 results; WebFetch read the first 24 (23 priced), none marked down. Low: Heritage Liddesdale Quilted Jacket $265; Ashby Waxed Jacket $415; high: Barbour x Norbit Ripstop Waxed Jacket $1,040. Waxed jackets page (68 results, 22 read): Ashby $415, Bedale $425, Beaufort $450. Truncated listing; range covers the items read only."
+    }
+  ],
+  "materials": [
+    "6oz waxed cotton"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "coats-jackets"
+  ],
+  "sources": [
+    "https://www.barbour.com/us",
+    "https://www.barbour.com/us/mens/mens-jackets",
+    "https://www.barbour.com/us/mens/mens-jackets/mens-waxed-jackets",
+    "https://www.barbour.com/us/bedale%C2%AE-waxed-jacket-MWX0018BE51.html",
+    "https://www.barbour.com/us/returns-refunds.html",
+    "https://en.wikipedia.org/wiki/J._Barbour_and_Sons"
+  ],
+  "notes": [
+    "US store (Ship to United States, USD). Tagline: 'Rooted in Heritage. Inspired by the Land. Reimagined for Today.' Free ground shipping on orders over $100 (https://www.barbour.com/us).",
+    "Bedale Waxed Jacket: $425, not marked down, 'mediumweight 6oz waxed cotton', sizes 30–52 even, Regular fit, 'Sponge clean only' (https://www.barbour.com/us/bedale%C2%AE-waxed-jacket-MWX0018BE51.html).",
+    "Returns: within 30 days of delivery, unworn with tags; one free return label; online orders can't be returned to stores; express shipping $20 (https://www.barbour.com/us/returns-refunds.html).",
+    "Wikipedia: founded 1894 in South Shields by John Barbour; HQ Simonside, South Shields; privately held, family-led; known for waxed cotton jackets incl. the Beaufort (1983) (https://en.wikipedia.org/wiki/J._Barbour_and_Sons)."
+  ],
+  "checked_at": "2026-10-29"
+}

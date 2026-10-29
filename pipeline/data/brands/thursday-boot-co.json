@@ -1,0 +1,57 @@
+{
+  "slug": "thursday-boot-co",
+  "name": "Thursday Boot Company",
+  "website_url": "https://thursdayboots.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Boots and Leather Jackets",
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–3XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 50,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "USD",
+      "min": 120,
+      "max": 689,
+      "min_usd": 120,
+      "max_usd": 689,
+      "fx_date": null,
+      "item_count": 99,
+      "source_url": "https://thursdayboots.com/collections/mens-jackets",
+      "checked_at": "2026-10-29",
+      "note": "products.json of Men's Jackets: 110 products; 99 of a jacket product type, all regular price. Low: Denim Trucker Jacket $120; high: Bronco Shearling Jacket $689."
+    }
+  ],
+  "materials": [
+    "Leather",
+    "Shearling"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "coats-jackets"
+  ],
+  "sources": [
+    "https://thursdayboots.com/collections/mens-jackets",
+    "https://thursdayboots.com/policies/refund-policy",
+    "https://stridewise.com/filson-vs-flint-and-tinder-vs-thursday-jacket/"
+  ],
+  "notes": [
+    "Refund policy: return requests within 30 days of receiving the order, resellable in original packaging; free returns/exchanges on items over $80 in the contiguous US; free shipping on orders $50+ in the contiguous US (https://thursdayboots.com/policies/refund-policy).",
+    "Stridewise compares Thursday's Waxed Canvas Field Jacket ($280, 10 oz canvas, made in Portugal) with Filson's Short Lined Cruiser; that jacket wasn't in the jackets feed by that name, so its price isn't used here (https://stridewise.com/filson-vs-flint-and-tinder-vs-thursday-jacket/).",
+    "Jacket sizes S–XXL on 99 listings, XS on 11, 3XL on 3 (https://thursdayboots.com/collections/mens-jackets/products.json)."
+  ],
+  "checked_at": "2026-10-29"
+}

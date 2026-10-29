@@ -1,0 +1,61 @@
+{
+  "slug": "schott-nyc",
+  "name": "Schott NYC",
+  "website_url": "https://www.schottnyc.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Leather Motorcycle Jackets",
+  "hq_country": "US",
+  "founded_year": 1913,
+  "parent_company": null,
+  "size_range": "XS–6XL; chest 32–54 on some",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "USD",
+      "min": 145,
+      "max": 1995,
+      "min_usd": 145,
+      "max_usd": 1995,
+      "fx_date": null,
+      "item_count": 117,
+      "source_url": "https://www.schottnyc.com/collections/mens-outerwear",
+      "checked_at": "2026-10-29",
+      "note": "products.json of Men's Outerwear (35 products, 28 regular, 0 marked down) and Men's Leather Jackets (93 products, 89 regular, 0 marked down). Low: 7515 Wool-Blend Chore Jacket $145; 8438 Waxed Cotton Country Jacket $275; A2SM A-2 Leather Flight Jacket $735; high: 257S Classic B-3 Sheepskin Bomber $1,690–$1,995 by size."
+    }
+  ],
+  "materials": [
+    "Horsehide",
+    "Cowhide",
+    "Melton wool"
+  ],
+  "certifications": [],
+  "production_model": "Much of it made in the USA",
+  "sale_pattern": null,
+  "sells_categories": [
+    "coats-jackets"
+  ],
+  "sources": [
+    "https://www.schottnyc.com/collections/mens-outerwear",
+    "https://www.schottnyc.com/collections/mens-leather-jackets",
+    "https://www.schottnyc.com/policies/shipping-policy",
+    "https://www.schottnyc.com/policies/refund-policy",
+    "https://en.wikipedia.org/wiki/Schott_NYC"
+  ],
+  "notes": [
+    "Shipping policy: 'Free shipping for all orders over $100 within the continental USA & APO'; ships internationally via FedEx, countries not listed (https://www.schottnyc.com/policies/shipping-policy).",
+    "Refund policy: returns and exchanges within 30 days from shipping, unworn with tags; first US exchange label free; US refunds deduct a $9.95 label (https://www.schottnyc.com/policies/refund-policy).",
+    "Leather jacket sizes: S–2XL on most, XS–6XL across the range, chest 32–54 on 16 styles; 'Made in USA' in 16 of 93 leather listings (https://www.schottnyc.com/collections/mens-leather-jackets/products.json).",
+    "Wikipedia: founded 1913 in New York City by Irving and Jack Schott; still owned by the Schott family; 'still manufacture[s] much of their clothing in the United States'; Perfecto designed 1928 (https://en.wikipedia.org/wiki/Schott_NYC)."
+  ],
+  "checked_at": "2026-10-29"
+}

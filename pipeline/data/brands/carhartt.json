@@ -1,0 +1,14 @@
+{
+  "slug": "carhartt",
+  "name": "Carhartt",
+  "website_url": "https://www.carhartt.com",
+  "status": "unverified",
+  "kind": "brand",
+  "sources": [
+    "https://www.carhartt.com/c/men-outerwear"
+  ],
+  "notes": [
+    "carhartt.com/c/men-outerwear returned HTTP 403 to WebFetch (and to curl for products.json), 2026-10-29. One try, no workaround. Human check."
+  ],
+  "checked_at": "2026-10-29"
+}

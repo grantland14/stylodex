@@ -1,0 +1,51 @@
+{
+  "slug": "draper-james",
+  "name": "Draper James",
+  "website_url": "https://draperjames.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Southern-Inspired Style",
+  "hq_country": "US",
+  "size_range": "XS–XXL, 0–14 and plus 1X–3X, 16X–24X",
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": true,
+  "free_shipping_min_usd": 150,
+  "returns_days": 20,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 98,
+      "max": 188,
+      "min_usd": 98,
+      "max_usd": 188,
+      "fx_date": null,
+      "item_count": 21,
+      "source_url": "https://draperjames.com/collections/dresses",
+      "checked_at": "2026-10-29",
+      "note": "Shopify feed /collections/dresses/products.json, 117 products; 95 marked down excluded; 21 regular-price in stock. Lowest Camden Dress $98; highest Hollie Midi Dress in Twilight Blooms $188; median $158. Named: Layla Mini Dress in Windsor Foulard $158."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://draperjames.com/",
+    "https://draperjames.com/pages/store-locator",
+    "https://draperjames.com/policies/shipping-policy",
+    "https://draperjames.com/policies/refund-policy",
+    "https://draperjames.com/collections/dresses"
+  ],
+  "notes": [
+    "Homepage title 'Draper James | Southern-Inspired Style'; meta: 'Shop Reese Witherspoon's collection of dresses, tops, and more'.",
+    "Store locator: 2608 12th Avenue South, Nashville, TN and Nashville International Airport (BNA).",
+    "Shipping policy: US only ('Draper James currently does not ship internationally'); Standard $8.95 up to $149.99, free at $150+; 2-day $19.95.",
+    "Refund policy: returns and exchanges within 20 days of receiving the order; $6.95 per mailed return label; free at Happy Returns bars or a Draper James store; exchanges free; sale prices ending .98 are final.",
+    "Sizes from feed options: XS–XXL, 0–14, 1X–3X and 16X–24X."
+  ],
+  "checked_at": "2026-10-29",
+  "materials": [],
+  "certifications": []
+}

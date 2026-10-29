@@ -1,0 +1,52 @@
+{
+  "slug": "rihoas",
+  "name": "RIHOAS",
+  "website_url": "https://www.rihoas.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Boutique Dresses With Retro Charm",
+  "hq_country": null,
+  "size_range": "XS–XL; US 0–8",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 69,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 30,
+      "max": 66,
+      "min_usd": 30,
+      "max_usd": 66,
+      "fx_date": null,
+      "item_count": 447,
+      "source_url": "https://www.rihoas.com/collections/dresses",
+      "checked_at": "2026-10-29",
+      "note": "Shopify feed /collections/dresses/products.json, 536 products; 89 marked down excluded; 447 regular-price in stock. Lowest Wine Red Boat Neck Mesh Mini Dress $30; highest Women's Green Embroidery Mesh Slip Maxi Dress $66; median $47. Named: Wine Red A-Line Sweater Dress $39, Blue Floral Ruched Slip Midi Dress $39."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://www.rihoas.com/",
+    "https://www.rihoas.com/pages/about-us",
+    "https://www.rihoas.com/policies/shipping-policy",
+    "https://www.rihoas.com/policies/refund-policy",
+    "https://www.rihoas.com/collections/dresses"
+  ],
+  "notes": [
+    "Homepage title 'Elegant With Retro Charm - Women's Boutique Dresses Online | RIHOAS'; meta 'Free standard shipping on orders over $69'. About: 'Wear Romance, Embrace Elegance'; no address or HQ stated, left empty.",
+    "Shipping policy: free over $69; US standard 7–12 days $4.99, express 4–7 days $22.99; ships to Canada, UK, Australia and much of Europe.",
+    "Refund policy: request a return within 14 days of receipt; customer pays return shipping unless the item is faulty; final sale and some promo items not returnable.",
+    "Sizes from feed options: XS–XL and US 0–8."
+  ],
+  "checked_at": "2026-10-29",
+  "materials": [],
+  "certifications": []
+}

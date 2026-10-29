@@ -1,0 +1,60 @@
+{
+  "slug": "outback-trading",
+  "name": "Outback Trading Company",
+  "website_url": "https://www.outbacktrading.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Oilskin Dusters and Jackets",
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–4XL; some in Tall",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": true,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "USD",
+      "min": 54,
+      "max": 289.99,
+      "min_usd": 54,
+      "max_usd": 289.99,
+      "fx_date": null,
+      "item_count": 45,
+      "source_url": "https://www.outbacktrading.com/collections/mens-coats-jackets",
+      "checked_at": "2026-10-29",
+      "note": "products.json of Men's Coats & Jackets: 67 products; coats, jackets and dusters kept; 45 at regular price, 19 marked down. Low: Cowboy Brush Jacket - Tall $54 (no markdown shown on its page; the regular-length version is $119.99); Hudson Shirt Jacket $109.99; Pathfinder Jacket $279.99; high: Stockman Duster Coat $289.99."
+    }
+  ],
+  "materials": [
+    "Oilskin cotton"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "coats-jackets"
+  ],
+  "sources": [
+    "https://www.outbacktrading.com/collections/mens-coats-jackets",
+    "https://www.outbacktrading.com/products/6509t-bks-cowboy-brush-jacket-tall",
+    "https://www.outbacktrading.com/pages/returns",
+    "https://www.outbacktrading.com/pages/shipping",
+    "https://www.outbacktrading.com/pages/about-us"
+  ],
+  "notes": [
+    "Returns: 30 days from delivery, unworn with tags, via the Returns Portal (https://www.outbacktrading.com/pages/returns).",
+    "Shipping: free economy shipping over $150 after discounts, continental US; Canadian orders via USPS Priority International, buyer pays duties (https://www.outbacktrading.com/pages/shipping).",
+    "About: founder Wilson King brought oilskin dusters from Australia to the US; tagline 'Outperform. Outlast. outback.'; no HQ or founding year stated (https://www.outbacktrading.com/pages/about-us).",
+    "Sizes SM–3XL on most jackets, XS and 4XL on a few, Tall versions (40L–50L) on some (https://www.outbacktrading.com/collections/mens-coats-jackets/products.json)."
+  ],
+  "checked_at": "2026-10-29"
+}

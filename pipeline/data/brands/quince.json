@@ -32,6 +32,19 @@
       "source_url": "https://www.quince.com/shop/women/sweaters",
       "checked_at": "2026-10-29",
       "note": "Women's sweaters page reports 401 listings (colorway cards). Read sorted both ways (?sortBy=PRICE_LOW_TO_HIGH / PRICE_HIGH_TO_LOW, first 30 cards each) and the default sort. No sale or compare-at prices shown (the product page's 'originally $148' is Quince's comparison figure, not a past price). Low: Lightweight Cotton Cashmere Crew Sweater $29.90 (some sizes $34.90). High: 100% Vicuña Crewneck Sweater $1,000, a single outlier; next highest Luxe Baby Cashmere Quarter Zip Sweater and Cable Cardigan $249.90. Mongolian Cashmere Crewneck Sweater $50 ($55 some sizes)."
+    },
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 59.9,
+      "max": 159.9,
+      "min_usd": 59.9,
+      "max_usd": 159.9,
+      "fx_date": null,
+      "item_count": 16,
+      "source_url": "https://www.quince.com/women/dresses",
+      "checked_at": "2026-10-29",
+      "note": "WebFetch of the women's dresses page showed 16 dresses (page states 533 items across the wider category incl. skirts); none marked down. Lowest Atlas Navy Lightweight Cotton Cashmere Ribbed Sleeveless Midi Dress $59.90; highest Circular Contrast 100% Silk Jersey Midi Wrap Dress $159.90; Stratus Blue 100% Washable Silk Maxi Slip Dress $114.90; several Tencel Modal knit dresses $60. Range covers the 16 shown only."
     }
   ],
   "materials": [
@@ -51,14 +64,19 @@
     "https://www.quince.com/women/cashmere/cashmere-crewneck-sweater?color=heather-grey",
     "https://www.quince.com/about",
     "https://www.quince.com/shipping-returns",
-    "https://en.wikipedia.org/wiki/Quince_(company)"
+    "https://en.wikipedia.org/wiki/Quince_(company)",
+    "https://www.quince.com/women/dresses"
   ],
   "notes": [
     "Homepage title: 'High Quality Essentials, Radically Low Prices'; banner 'High-quality essentials at radical prices' and 'Free shipping & easy returns for 365 days'. First category tiles: Sweaters, Bags, Cashmere, Jewelry; '$50 Cashmere' promo at the top (https://www.quince.com/).",
     "About: 'factory-direct model that cuts out the supply-chain middlemen and reduces costs'; avoids 'sourcing agents, warehousing, wholesaling, distribution and storefront retail'; eco-friendly materials 'whenever possible' incl. cashmere, alpaca wool, organic cotton, organic linen, 100% recycled polyester; partners only with factories who 'meet or exceed global guidelines for workplace safety and equitable wages' (https://www.quince.com/about).",
     "Shipping & returns: 'Standard shipping is always free.' 'Most items can be returned for free for a full refund or exchange within 365 days of delivery date.' Exceptions: gold bars, caviar and wine, engagement rings (60 days), furniture (30 days, 15% restocking), rugs/mirrors/made-to-order ($35), wall art, final sale. 'Quince currently ships within Canada and the United States' (https://www.quince.com/shipping-returns).",
     "Mongolian Cashmere Crewneck Sweater: '100% Grade A Mongolian Cashmere', '12-gauge jersey knit'; sizes XS–XL, with 1X–3X on a separate extended listing (https://www.quince.com/women/cashmere/cashmere-crewneck-sweater?color=heather-grey).",
-    "Wikipedia: San Francisco; founded 2019 as Last Brand, renamed Quince June 2020 (infobox says 2018); founders Sid Gupta, Sourabh Mahajan, Becky Mortimer, Zunu Mittal; markets a 'manufacturer-to-consumer' model. Lawsuits listed: Williams-Sonoma (Nov 2025, comparison ads), Tapestry/Coach (Apr 2025, trade dress), Yeti and Deckers/UGG IP disputes (https://en.wikipedia.org/wiki/Quince_(company))."
+    "Wikipedia: San Francisco; founded 2019 as Last Brand, renamed Quince June 2020 (infobox says 2018); founders Sid Gupta, Sourabh Mahajan, Becky Mortimer, Zunu Mittal; markets a 'manufacturer-to-consumer' model. Lawsuits listed: Williams-Sonoma (Nov 2025, comparison ads), Tapestry/Coach (Apr 2025, trade dress), Yeti and Deckers/UGG IP disputes (https://en.wikipedia.org/wiki/Quince_(company)).",
+    "Dresses page (https://www.quince.com/women/dresses, 2026-10-29): 16 dresses shown, $59.90–$159.90, incl. washable silk slip dresses $114.90 and cotton cashmere ribbed midi dresses $59.90–$77. Named as a Tuckernuck alternative by The Pink Chickadee and TeriLyn Adams."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "dresses"
+  ]
 }

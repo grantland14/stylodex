@@ -1,0 +1,59 @@
+{
+  "slug": "orvis",
+  "name": "Orvis",
+  "website_url": "https://www.orvis.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Fly Fishing and Field Clothing",
+  "hq_country": "US",
+  "founded_year": 1856,
+  "parent_company": null,
+  "size_range": "S–XXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": null,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "USD",
+      "min": 119,
+      "max": 449,
+      "min_usd": 119,
+      "max_usd": 449,
+      "fx_date": null,
+      "item_count": 16,
+      "source_url": "https://www.orvis.com/men/jackets-vests/jackets",
+      "checked_at": "2026-10-29",
+      "note": "Men's jackets page: 16 Orvis-brand jackets, none marked down (17 Barbour-branded jackets also sold there, excluded). Low: R65 Sweater Fleece Jacket $119; 1856 Field Coat $198; high: PRO ToughShell Jacket and PRO Fishing Jacket $449."
+    }
+  ],
+  "materials": [
+    "Cotton canvas"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "coats-jackets"
+  ],
+  "sources": [
+    "https://www.orvis.com/",
+    "https://www.orvis.com/men/jackets-vests/jackets",
+    "https://www.orvis.com/product/mens-1856-field-coat/3L5N.html",
+    "https://www.orvis.com/returns-exchanges.html",
+    "https://en.wikipedia.org/wiki/Orvis"
+  ],
+  "notes": [
+    "Homepage: '$6 Standard Shipping—No Minimum' to a single US address; 'Live The Legend'; '100% Customer Satisfaction' (https://www.orvis.com/).",
+    "1856 Field Coat: $198, not marked down, 100% cotton canvas exterior, plaid flannel lining, corduroy collar, S–XXL (chest 34–52), 'Imported' (https://www.orvis.com/product/mens-1856-field-coat/3L5N.html).",
+    "Returns page gives no day count: Great Catch Guarantee, '100% customer satisfaction has been our commitment since 1856'; mail-in prepaid label $6.95 deducted; refers to retail locations (https://www.orvis.com/returns-exchanges.html). returns_days left empty.",
+    "Wikipedia: founded 1856 in Manchester, Vermont, by Charles F. Orvis; HQ Manchester, VT; owned by the Perkins family since 1965; US retail stores (count differs in the article: 64 or 40) (https://en.wikipedia.org/wiki/Orvis)."
+  ],
+  "checked_at": "2026-10-29"
+}

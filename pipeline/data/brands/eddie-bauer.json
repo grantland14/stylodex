@@ -1,0 +1,57 @@
+{
+  "slug": "eddie-bauer",
+  "name": "Eddie Bauer",
+  "website_url": "https://www.eddiebauer.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Outdoor Clothing and Outerwear",
+  "hq_country": "US",
+  "founded_year": 1920,
+  "parent_company": "O5 Group",
+  "size_range": "S–3XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 99,
+  "returns_days": 30,
+  "us_stores": false,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "USD",
+      "min": 109,
+      "max": 499,
+      "min_usd": 109,
+      "max_usd": 499,
+      "fx_date": null,
+      "item_count": 25,
+      "source_url": "https://www.eddiebauer.com/collections/mens-outerwear",
+      "checked_at": "2026-10-29",
+      "note": "products.json of Men's Outerwear: 71 products; jackets, parkas, coats and bombers kept (vests and pants excluded); 25 at regular price. Low: Packable Rainfoil Jacket $109; Cirruslite Down Jacket $129; Superior Down Waterproof Hooded Parka $349; high: Leather Bomber and Superior Arctic Down Parka $499."
+    }
+  ],
+  "materials": [
+    "Goose down"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "coats-jackets"
+  ],
+  "sources": [
+    "https://www.eddiebauer.com/collections/mens-outerwear",
+    "https://www.eddiebauer.com/policies/refund-policy",
+    "https://www.eddiebauer.com/policies/shipping-policy",
+    "https://en.wikipedia.org/wiki/Eddie_Bauer"
+  ],
+  "notes": [
+    "Refund policy: 30 days from delivery (45 for Nov 18–Dec 25 orders); US $3.50 prepaid return fee or $10 restocking fee; banner 'FREE SHIPPING $99+ | US ONLY'; Canada has a separate site (https://www.eddiebauer.com/policies/refund-policy).",
+    "Wikipedia: founded 1920 in Seattle by Eddie Bauer; HQ New York City; owner O5 Group (2026–); the last North American retail stores closed April 30, 2026 after a February 2026 Chapter 11 filing, so us_stores false (https://en.wikipedia.org/wiki/Eddie_Bauer).",
+    "Outerwear sizes S–XXL on most, 3XL on about half (https://www.eddiebauer.com/collections/mens-outerwear/products.json)."
+  ],
+  "checked_at": "2026-10-29"
+}

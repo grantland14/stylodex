@@ -1,0 +1,15 @@
+{
+  "slug": "shein",
+  "name": "Shein",
+  "website_url": "https://us.shein.com",
+  "status": "unverified",
+  "kind": "marketplace",
+  "prices": [],
+  "sources": [
+    "https://us.shein.com/Women-Dresses-c-1727.html"
+  ],
+  "notes": [
+    "2026-10-29 (charlotte-russe run): the US dresses page redirects to /risk/action/limit (a bot check) for curl, and WebFetch got only the meta description. Not worked around."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "cabana-life",
+  "name": "Cabana Life",
+  "website_url": "https://www.cabanalife.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Sun Protective Clothing and Beachwear",
+  "hq_country": null,
+  "size_range": "XS–XL; plus 1X–3X",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 195,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 74,
+      "max": 170,
+      "min_usd": 74,
+      "max_usd": 170,
+      "fx_date": null,
+      "item_count": 74,
+      "source_url": "https://www.cabanalife.com/collections/dresses-tunics",
+      "checked_at": "2026-10-29",
+      "note": "Shopify feed /collections/dresses-tunics/products.json, 156 products; 80 marked down excluded; 74 regular-price in stock titled as dresses. Lowest Aqua Cabana Life Hoodie Dress $74; highest Legacy Convertible Maxi Dress $170; median $138. Named: White Leaf Textured Shift Dress $112, Delray Short Sleeve Shift Dress $116."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://www.cabanalife.com/",
+    "https://www.cabanalife.com/pages/shipping",
+    "https://www.cabanalife.com/policies/refund-policy",
+    "https://www.cabanalife.com/collections/dresses-tunics"
+  ],
+  "notes": [
+    "Homepage title 'Sun Protective Clothing & Beachwear | UPF Clothing | Cabanalife'; meta 'stylish sun protective clothing and swimwear with 50+ UV protection'; badge 'Always UPF50+'. Store currency USD, country US.",
+    "Shipping page: 'Free Shipping On Orders $195+'; rest of the page not read, so ships_to is US only.",
+    "Refund policy: returns and exchanges within 30 days for items bought on the website; Final Sale not returnable.",
+    "Sizes from feed options: XS–XL, 1X–3X."
+  ],
+  "checked_at": "2026-10-29",
+  "materials": [],
+  "certifications": []
+}

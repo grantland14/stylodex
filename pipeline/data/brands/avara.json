@@ -1,0 +1,55 @@
+{
+  "slug": "avara",
+  "name": "Avara",
+  "website_url": "https://shopavara.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Cute Dresses, Tops and Shoes",
+  "hq_country": "US",
+  "founded_year": 2018,
+  "size_range": "XXS–XXXL",
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "us_stores": true,
+  "free_shipping_min_usd": 100,
+  "returns_days": 21,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 68,
+      "max": 138,
+      "min_usd": 68,
+      "max_usd": 138,
+      "fx_date": null,
+      "item_count": 218,
+      "source_url": "https://shopavara.com/collections/dresses",
+      "checked_at": "2026-10-29",
+      "note": "Shopify feed /collections/dresses/products.json, 424 products; 200 marked down excluded; 221 regular-price in stock, 218 titled as dresses (rompers dropped). Lowest Black Drawstring Waist Short Dress $68; highest Bristol Chambray Belted Maxi Dress $138; median $98; common points $88 and $98. Labels: English Factory 49, Fate 42, SugarLips 23, Entro 21, Fore Collection 21. Named: Brown Knit Pleated Midi Dress (Entro) $78, Dark Denim Midi Dress (Flying Tomato) $88."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://shopavara.com/",
+    "https://shopavara.com/pages/about",
+    "https://shopavara.com/pages/store-locator",
+    "https://shopavara.com/policies/shipping-policy",
+    "https://shopavara.com/policies/refund-policy",
+    "https://shopavara.com/collections/dresses"
+  ],
+  "notes": [
+    "avara.com is an unrelated pharmaceutical manufacturer; the boutique is shopavara.com (homepage title 'Women's Clothing - Tops, Dresses, Shoes & Accessories'; meta 'Shop Avara for cute women's clothing – trendy dresses, tops, shoes, and accessories').",
+    "kind retailer: its dresses feed carries outside labels (English Factory, Fate, SugarLips, Entro, Fore Collection, Current Air, Flying Tomato).",
+    "About (https://shopavara.com/pages/about): founded in 2018 by Emily Wickard after 20 years in finance. Store locator: one flagship, 4239 W. Lovers Ln, Dallas, TX 75209.",
+    "Shipping policy: Standard 5–7 business days $5 under $100, free over $100; 2-day $22; overnight $45. Refund policy mentions returns from Canada, so ships_to includes CA.",
+    "Refund policy: returns within 21 days of delivery for a refund; $6.95 fee per return label; free in-store returns at the flagship; free exchanges within 21 days; anything bought on sale is final.",
+    "Sizes from feed options: XX-Small to XXX-Large."
+  ],
+  "checked_at": "2026-10-29",
+  "materials": [],
+  "certifications": []
+}

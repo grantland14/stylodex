@@ -3499,38 +3499,6 @@
       "fetched_at": "2026-10-29"
     }
   },
-  "toad-co": {
-    "dresses": {
-      "status": "ok",
-      "items": [
-        {
-          "path": "/img/products/toad-co/rosalinda-dress-burgundy-print.webp",
-          "title": "Rosalinda Dress",
-          "product_path": "/products/rosalinda-dress-burgundy-print",
-          "price": 98,
-          "currency": "USD",
-          "source_image": "https://cdn.shopify.com/s/files/1/0253/4801/4128/files/T1771712-Burgundy_Print-1.jpg?v=1782496513"
-        },
-        {
-          "path": "/img/products/toad-co/freesia-long-sleeve-wrap-dress-cilantro-ditsy-print.webp",
-          "title": "Freesia Long Sleeve Wrap Dress",
-          "product_path": "/products/freesia-long-sleeve-wrap-dress-cilantro-ditsy-print",
-          "price": 110,
-          "currency": "USD",
-          "source_image": "https://cdn.shopify.com/s/files/1/0253/4801/4128/files/T1000007-Cilantro_Ditsy_Print-3.jpg?v=1782496501"
-        },
-        {
-          "path": "/img/products/toad-co/scouter-corduroy-shirt-dress-ink-leaf-print.webp",
-          "title": "Scouter Corduroy Shirt Dress",
-          "product_path": "/products/scouter-corduroy-shirt-dress-ink-leaf-print",
-          "price": 125,
-          "currency": "USD",
-          "source_image": "https://cdn.shopify.com/s/files/1/0253/4801/4128/files/T1781408-Ink_Leaf_Print-1.jpg?v=1782496513"
-        }
-      ],
-      "fetched_at": "2026-10-29"
-    }
-  },
   "tripp-nyc": {
     "jeans": {
       "status": "ok",

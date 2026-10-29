@@ -1,0 +1,1700 @@
+{
+  "subject": "Gap",
+  "slug": "gap",
+  "url_prefix": "stores",
+  "category": {
+    "slug": "jeans",
+    "name": "Jeans",
+    "why": "Gap sells its own label (kind brand), so C is a product type. Gap Inc. describes the brand's 'heritage grounded in denim' (gapinc.com), jeans are the category with a stored regular-price range, and the old-navy page uses the same C, so prices compare across both. Like-for-like item: women's jeans, the line Gap's price row and most picks' rows cover. Exceptions noted in the page: Abercrombie & Fitch's stored row is men's jeans (women's pages unreadable), Outerknown's row includes unisex jeans (its one women's jean is $168, inside the row). Prices are each store's regular price, not marked down."
+  },
+  "serp": [
+    {
+      "keyword": "stores like gap",
+      "position": 1,
+      "url": "https://www.reddit.com/r/capsulewardrobe/comments/1ceyx6a/guilty_pleasure_stores/",
+      "kept": false,
+      "why_dropped": "reddit (AI-overview sitelink): WebFetch refuses reddit.com; not read"
+    },
+    {
+      "keyword": "stores like gap",
+      "position": 1,
+      "url": "https://similist.com/alternatives/stores-like-gap/",
+      "kept": false,
+      "why_dropped": "similist.com: scraped list, excluded by enrich.md §1.2"
+    },
+    {
+      "keyword": "stores like gap",
+      "position": 1,
+      "url": "https://effortlessgent.com/stores-like-gap/",
+      "kept": true,
+      "note": "Team EG, Effortless Gent, Oct 12 2021; 12 stores, menswear angle. Also ranks #1 sitelink for 'brands like gap' and #3 for 'gap alternatives'"
+    },
+    {
+      "keyword": "stores like gap",
+      "position": 2,
+      "url": "https://www.lemon8-app.com/experience/best-online-clothing-stores-for-tall-women?region=us",
+      "kept": false,
+      "why_dropped": "stores for tall women, not Gap alternatives"
+    },
+    {
+      "keyword": "stores like gap",
+      "position": 4,
+      "url": "https://talk.collegeconfidential.com/t/dressing-young-2025/3682874?page=98",
+      "kept": false,
+      "why_dropped": "general forum thread, not about Gap alternatives"
+    },
+    {
+      "keyword": "stores like gap",
+      "position": 5,
+      "url": "https://fortune.com/2015/07/24/gap-jcrew-abercrombie/",
+      "kept": false,
+      "why_dropped": "2015 business news, not a list of alternatives"
+    },
+    {
+      "keyword": "stores like gap",
+      "position": 6,
+      "url": "https://www.quora.com/How-have-fast-fashion-retailers-influenced-traditional-retailers-like-Gap-and-J-Crew",
+      "kept": false,
+      "why_dropped": "Quora business question, not alternatives"
+    },
+    {
+      "keyword": "stores like gap",
+      "position": 7,
+      "url": "https://www.facebook.com/23ABCBakersfield/posts/shoppers-love-outlet-stores-for-designer-names-at-lower-prices-than-similar-mall/1384482693789166/",
+      "kept": false,
+      "why_dropped": "Facebook post (social), about outlet stores"
+    },
+    {
+      "keyword": "stores like gap",
+      "position": 8,
+      "url": "https://www.styleforum.net/threads/tell-me-what-you-think-about-gap.65124/page-2",
+      "kept": false,
+      "why_dropped": "forum thread about Gap itself, not alternatives"
+    },
+    {
+      "keyword": "stores like gap",
+      "position": 9,
+      "url": "https://www.apartstyle.com/post/brands-like-gap",
+      "kept": false,
+      "why_dropped": "apartstyle.com never counts"
+    },
+    {
+      "keyword": "stores like gap",
+      "position": 10,
+      "url": "https://www.reddit.com/r/ireland/comments/ob6p2w/gap_to_close_all_stores_in_ireland_and_uk_by_end/",
+      "kept": false,
+      "why_dropped": "reddit; news thread, not alternatives"
+    },
+    {
+      "keyword": "brands like gap",
+      "position": 1,
+      "url": "https://www.reddit.com/r/malefashionadvice/comments/1s2bj8m/more_shops_like_uniqlo_and_gap/",
+      "kept": false,
+      "why_dropped": "reddit: WebFetch refuses reddit.com; not read (human_check)"
+    },
+    {
+      "keyword": "brands like gap",
+      "position": 2,
+      "url": "https://www.thecommons.earth/blog/5-gap-alternatives-for-conscious-shoppers",
+      "kept": true,
+      "note": "Naman Bajaj, The Commons, Oct 9 2024; 5 sustainable alternatives"
+    },
+    {
+      "keyword": "brands like gap",
+      "position": 4,
+      "url": "https://www.quora.com/What-is-a-good-designer-brand-similar-to-Gap",
+      "kept": false,
+      "why_dropped": "Quora: HTTP 403 to WebFetch; not read"
+    },
+    {
+      "keyword": "brands like gap",
+      "position": 5,
+      "url": "https://www.reddit.com/r/frugalmalefashion/comments/rgdaf/any_brands_similar_to_gap/",
+      "kept": false,
+      "why_dropped": "reddit; not read (human_check)"
+    },
+    {
+      "keyword": "brands like gap",
+      "position": 5,
+      "url": "https://www.reddit.com/r/BuyFromEU/comments/1k43m8u/clothing_alternatives_for_gap_levis_tommy_hilfiger/",
+      "kept": false,
+      "why_dropped": "reddit sitelink; EU-made alternatives; not read"
+    },
+    {
+      "keyword": "brands like gap",
+      "position": 6,
+      "url": "https://www.facebook.com/groups/2369529857/posts/10159443896864858/",
+      "kept": false,
+      "why_dropped": "Facebook group post (social, login)"
+    },
+    {
+      "keyword": "brands like gap",
+      "position": 7,
+      "url": "https://www.facebook.com/fb-answers/clothing-brands-like-gap/?locale=tr_TR",
+      "kept": false,
+      "why_dropped": "Facebook answers page (social); same at #9 (zh_TW)"
+    },
+    {
+      "keyword": "brands like gap",
+      "position": 8,
+      "url": "https://www.glamour.com/gallery/best-cheap-online-clothing-stores-women",
+      "kept": false,
+      "why_dropped": "general list of cheap online stores, not Gap alternatives"
+    },
+    {
+      "keyword": "brands like gap",
+      "position": 10,
+      "url": "https://theadultman.com/fashion-and-style/gap-vs-banana-republic-vs-j-crew/",
+      "kept": true,
+      "note": "William Barton, The Adult Man, updated Apr 4 2024; Gap vs Banana Republic vs J.Crew comparison. Counted for Banana Republic only ('I would choose Banana Republic over GAP and J.Crew every time'); its J.Crew line ('For basics like tees and jeans, GAP is stronger') isn't a recommendation"
+    },
+    {
+      "keyword": "gap alternatives",
+      "position": 1,
+      "url": "https://www.discobrands.co/blogs/24-brands-like-gap",
+      "kept": true,
+      "note": "disco brand directory, no author, updated Jul 2026; 21 brands, about half with a short similarity reason (human_check, as on the old-navy page)"
+    },
+    {
+      "keyword": "gap alternatives",
+      "position": 4,
+      "url": "https://www.panaprium.com/blogs/i/gap-alternatives",
+      "kept": true,
+      "note": "Alex Assoune, Panaprium, Apr 1 2024; 15 ethical alternatives"
+    },
+    {
+      "keyword": "gap alternatives",
+      "position": 5,
+      "url": "https://www.reddit.com/r/TillSverige/comments/jzo6tl/the_gap_store_alternatives/",
+      "kept": false,
+      "why_dropped": "reddit; Sweden, not US; not read"
+    },
+    {
+      "keyword": "gap alternatives",
+      "position": 6,
+      "url": "https://www.tiktok.com/@zagua999/video/7291013829520117025",
+      "kept": false,
+      "why_dropped": "TikTok video; Yeezy Gap jacket dupes"
+    },
+    {
+      "keyword": "gap alternatives",
+      "position": 6,
+      "url": "https://www.youtube.com/watch?v=VoS7Cu0LRO4",
+      "kept": false,
+      "why_dropped": "YouTube video; Yeezy Gap hoodie dupes"
+    },
+    {
+      "keyword": "gap alternatives",
+      "position": 7,
+      "url": "https://donegood.co/blogs/news/9-ethical-sustainable-alternatives-to-gap",
+      "kept": false,
+      "why_dropped": "WebFetch got the DoneGood homepage (now a carbon-insights site); the article no longer loads"
+    },
+    {
+      "keyword": "gap alternatives",
+      "position": 8,
+      "url": "https://gap.knoji.com/alternatives/",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch; not read"
+    },
+    {
+      "keyword": "gap alternatives",
+      "position": 9,
+      "url": "https://www.cbinsights.com/company/gap/alternatives-competitors",
+      "kept": false,
+      "why_dropped": "business competitor database"
+    },
+    {
+      "keyword": "gap alternatives",
+      "position": 10,
+      "url": "https://www.marketbeat.com/stocks/NYSE/GPS/competitors-and-alternatives/",
+      "kept": false,
+      "why_dropped": "stock competitor page"
+    },
+    {
+      "keyword": "similar to gap",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs returned no SERP rows"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": null,
+      "url": null,
+      "used": false,
+      "why": "enrich.md §1.4b doesn't apply: Gap sells through its own stores and site (Gap Inc. 10-K: company-operated stores)."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Banana Republic",
+      "slug": "banana-republic",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-gap/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://theadultman.com/fashion-and-style/gap-vs-banana-republic-vs-j-crew/"
+        }
+      ]
+    },
+    {
+      "name": "Everlane",
+      "slug": "everlane",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-gap/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.panaprium.com/blogs/i/gap-alternatives"
+        }
+      ]
+    },
+    {
+      "name": "Levi's",
+      "slug": "levis",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-gap/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.thecommons.earth/blog/5-gap-alternatives-for-conscious-shoppers"
+        }
+      ]
+    },
+    {
+      "name": "Old Navy",
+      "slug": "old-navy",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-gap/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap"
+        }
+      ]
+    },
+    {
+      "name": "Uniqlo",
+      "slug": "uniqlo",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-gap/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap"
+        }
+      ]
+    },
+    {
+      "name": "Abercrombie & Fitch",
+      "slug": "abercrombie-fitch",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-gap/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap"
+        }
+      ]
+    },
+    {
+      "name": "Tentree",
+      "slug": "tentree",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.thecommons.earth/blog/5-gap-alternatives-for-conscious-shoppers"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.panaprium.com/blogs/i/gap-alternatives"
+        }
+      ]
+    },
+    {
+      "name": "H&M",
+      "slug": "h-m",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-gap/"
+        }
+      ]
+    },
+    {
+      "name": "J.Crew Factory",
+      "slug": "j-crew-factory",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-gap/"
+        }
+      ]
+    },
+    {
+      "name": "Madewell",
+      "slug": "madewell",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-gap/"
+        }
+      ]
+    },
+    {
+      "name": "Amazon Goodthreads",
+      "slug": "goodthreads",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-gap/"
+        }
+      ]
+    },
+    {
+      "name": "Flint and Tinder",
+      "slug": "flint-and-tinder",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-gap/"
+        }
+      ]
+    },
+    {
+      "name": "Buck Mason",
+      "slug": "buck-mason",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-gap/"
+        }
+      ]
+    },
+    {
+      "name": "J.Crew",
+      "slug": "j-crew",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap"
+        }
+      ]
+    },
+    {
+      "name": "Wrangler",
+      "slug": "wrangler",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap"
+        }
+      ]
+    },
+    {
+      "name": "Taylor Stitch",
+      "slug": "taylor-stitch",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap"
+        }
+      ]
+    },
+    {
+      "name": "American Eagle",
+      "slug": "american-eagle",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap"
+        }
+      ]
+    },
+    {
+      "name": "Tommy Hilfiger",
+      "slug": "tommy-hilfiger",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap"
+        }
+      ]
+    },
+    {
+      "name": "Nautica",
+      "slug": "nautica",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap"
+        }
+      ]
+    },
+    {
+      "name": "Urban Outfitters",
+      "slug": "urban-outfitters",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap"
+        }
+      ]
+    },
+    {
+      "name": "Grayers",
+      "slug": "grayers",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap"
+        }
+      ]
+    },
+    {
+      "name": "Armor-Lux",
+      "slug": "armor-lux",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap"
+        }
+      ]
+    },
+    {
+      "name": "Ben Sherman",
+      "slug": "ben-sherman",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap"
+        }
+      ]
+    },
+    {
+      "name": "Fred Perry",
+      "slug": "fred-perry",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap"
+        }
+      ]
+    },
+    {
+      "name": "Sebago",
+      "slug": "sebago",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap"
+        }
+      ]
+    },
+    {
+      "name": "Spier & Mackay",
+      "slug": "spier-mackay",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap"
+        }
+      ]
+    },
+    {
+      "name": "Redpath",
+      "slug": "redpath",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap"
+        }
+      ]
+    },
+    {
+      "name": "Cole Haan",
+      "slug": "cole-haan",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap"
+        }
+      ]
+    },
+    {
+      "name": "Colorful Standard",
+      "slug": "colorful-standard",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.thecommons.earth/blog/5-gap-alternatives-for-conscious-shoppers"
+        }
+      ]
+    },
+    {
+      "name": "CHNGE",
+      "slug": "chnge",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.thecommons.earth/blog/5-gap-alternatives-for-conscious-shoppers"
+        }
+      ]
+    },
+    {
+      "name": "Tea Rewear",
+      "slug": "tea-rewear",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.thecommons.earth/blog/5-gap-alternatives-for-conscious-shoppers"
+        }
+      ]
+    },
+    {
+      "name": "ABLE",
+      "slug": "able",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.panaprium.com/blogs/i/gap-alternatives"
+        }
+      ]
+    },
+    {
+      "name": "Etsy",
+      "slug": "etsy",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.panaprium.com/blogs/i/gap-alternatives"
+        }
+      ]
+    },
+    {
+      "name": "Made Trade",
+      "slug": "made-trade",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.panaprium.com/blogs/i/gap-alternatives"
+        }
+      ]
+    },
+    {
+      "name": "Outerknown",
+      "slug": "outerknown",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.panaprium.com/blogs/i/gap-alternatives"
+        }
+      ]
+    },
+    {
+      "name": "Amour Vert",
+      "slug": "amour-vert",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.panaprium.com/blogs/i/gap-alternatives"
+        }
+      ]
+    },
+    {
+      "name": "Reformation",
+      "slug": "reformation",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.panaprium.com/blogs/i/gap-alternatives"
+        }
+      ]
+    },
+    {
+      "name": "La Maison Simons",
+      "slug": "la-maison-simons",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.panaprium.com/blogs/i/gap-alternatives"
+        }
+      ]
+    },
+    {
+      "name": "Summersalt",
+      "slug": "summersalt",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.panaprium.com/blogs/i/gap-alternatives"
+        }
+      ]
+    },
+    {
+      "name": "Christy Dawn",
+      "slug": "christy-dawn",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.panaprium.com/blogs/i/gap-alternatives"
+        }
+      ]
+    },
+    {
+      "name": "Thought",
+      "slug": "thought",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.panaprium.com/blogs/i/gap-alternatives"
+        }
+      ]
+    },
+    {
+      "name": "Toad&Co",
+      "slug": "toad-and-co",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.panaprium.com/blogs/i/gap-alternatives"
+        }
+      ]
+    },
+    {
+      "name": "Ninety Percent",
+      "slug": "ninety-percent",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.panaprium.com/blogs/i/gap-alternatives"
+        }
+      ]
+    },
+    {
+      "name": "Encircled",
+      "slug": "encircled",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.panaprium.com/blogs/i/gap-alternatives"
+        }
+      ]
+    },
+    {
+      "name": "oshkosh-b-gosh",
+      "slug": "oshkosh-b-gosh",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "macy-s-charter-club-alfani",
+      "slug": "macy-s-charter-club-alfani",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "target-s-goodfellow-co",
+      "slug": "target-s-goodfellow-co",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "loft",
+      "slug": "loft",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "joe-fresh",
+      "slug": "joe-fresh",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "contemporary-classics-by-banana-republic-factory",
+      "slug": "contemporary-classics-by-banana-republic-factory",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "united-colors-of-benetton",
+      "slug": "united-colors-of-benetton",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "jcpenney",
+      "slug": "jcpenney",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "croft-barrow",
+      "slug": "croft-barrow",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "z-supply",
+      "slug": "z-supply",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "target-s-universal-thread",
+      "slug": "target-s-universal-thread",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "dockers",
+      "slug": "dockers",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "draper-s-damon-s",
+      "slug": "draper-s-damon-s",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "m-s-collection-marks-spencer",
+      "slug": "m-s-collection-marks-spencer",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "target-s-a-new-day-wild-fable",
+      "slug": "target-s-a-new-day-wild-fable",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "ann-taylor-loft",
+      "slug": "ann-taylor-loft",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "target",
+      "slug": "target",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "goodfellow-co",
+      "slug": "goodfellow-co",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "hotouch",
+      "slug": "hotouch",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "reserved",
+      "slug": "reserved",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "apt-9",
+      "slug": "apt-9",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "bonds",
+      "slug": "bonds",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "cat-jack",
+      "slug": "cat-jack",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "distinctive-apparel",
+      "slug": "distinctive-apparel",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "j-crew-crewcuts",
+      "slug": "j-crew-crewcuts",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "target-s-wild-fable",
+      "slug": "target-s-wild-fable",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "a-new-day",
+      "slug": "a-new-day",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "cotton-on",
+      "slug": "cotton-on",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "f-f",
+      "slug": "f-f",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "gina-tricot",
+      "slug": "gina-tricot",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "hanes",
+      "slug": "hanes",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "hats-com",
+      "slug": "hats-com",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "kirkland-signature-costco",
+      "slug": "kirkland-signature-costco",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "kmart-australia-sleepwear",
+      "slug": "kmart-australia-sleepwear",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "macy-s-alfani-club-room",
+      "slug": "macy-s-alfani-club-room",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "maidenform",
+      "slug": "maidenform",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "sam-s-club-member-s-mark",
+      "slug": "sam-s-club-member-s-mark",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "mossimo-supply-co",
+      "slug": "mossimo-supply-co",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "peacocks",
+      "slug": "peacocks",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "aeropostale",
+      "slug": "aeropostale",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "stars-stripes-co",
+      "slug": "stars-stripes-co",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "the-children-s-place",
+      "slug": "the-children-s-place",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "wild-fable",
+      "slug": "wild-fable",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "matalan",
+      "slug": "matalan",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "maurices",
+      "slug": "maurices",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "meijer-private-label",
+      "slug": "meijer-private-label",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "brandy-melville",
+      "slug": "brandy-melville",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "bke-jeans",
+      "slug": "bke-jeans",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "c-a",
+      "slug": "c-a",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "guess",
+      "slug": "guess",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "joules",
+      "slug": "joules",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "judy-blue",
+      "slug": "judy-blue",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "carter-s",
+      "slug": "carter-s",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "arrow",
+      "slug": "arrow",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "bars-stripes",
+      "slug": "bars-stripes",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "fruit-of-the-loom",
+      "slug": "fruit-of-the-loom",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "loungewear-by-urban-outfitters",
+      "slug": "loungewear-by-urban-outfitters",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "jack-jones",
+      "slug": "jack-jones",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "gu",
+      "slug": "gu",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "b-c-collection",
+      "slug": "b-c-collection",
+      "in_apart_pool": true,
+      "sources": []
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "result": "66 rows for gap; outside sources also name Old Navy, H&M, Uniqlo, American Eagle, J.Crew and Nautica; the other 60 have sources: []"
+  },
+  "picks": [
+    {
+      "slug": "everlane",
+      "rank": 1,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 88,
+        "max": 148,
+        "min_usd": 88,
+        "max_usd": 148,
+        "fx_date": null,
+        "item_count": 69
+      },
+      "price_relation": "similar",
+      "reason": "Everlane sells women's jeans from $88 (The Way-High Curve Jean, in 27 and 29 inch inseams) to $148, overlapping Gap's $79.95–$99.95, and publishes the cost of materials, labor and transport behind its products.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-gap/",
+          "note": "#9: \"Price points are slightly higher than GAP, but when you consider the quality of materials and the construction\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap",
+          "note": "#21: \"Covers the same casual wardrobe staples as Gap\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.panaprium.com/blogs/i/gap-alternatives",
+          "note": "#5: \"Everlane is widely known for its radical transparency.\""
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "banana-republic",
+      "rank": 2,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 120.0,
+        "max": 148.0,
+        "min_usd": 120.0,
+        "max_usd": 148.0,
+        "fx_date": null,
+        "item_count": 10
+      },
+      "price_relation": "pricier",
+      "reason": "Banana Republic is Gap Inc.'s dressier label: regular women's jeans at $120–$148 (most $130), sizes 0–20 with petite 00–12 and long 4–12, and the same shared Gap Inc. shopping bag and $50 rewards free-shipping bar.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-gap/",
+          "note": "#8: \"the GAP alternative for the traveler, the doer, the constantly on-the-move adventurer\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap",
+          "note": "#3: \"modern classics with a similar casual yet sophisticated appeal as Gap\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://theadultman.com/fashion-and-style/gap-vs-banana-republic-vs-j-crew/",
+          "note": "\"If you have the budget, then I would choose Banana Republic over GAP and J.Crew every time\""
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "levis",
+      "rank": 3,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "Levi's is the San Francisco jeans company founded in 1853 (Gap started in the same city in 1969), making jeans and casual wear for men, women and kids, with US stores in 40 states to try fits in person.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-gap/",
+          "note": "#7: \"They carry all of the classic staples, like basic tees and relaxed button-down shirts\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap",
+          "note": "#5: \"heritage style, relaxed silhouette, and a strong focus on denim, similar to Gap\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.thecommons.earth/blog/5-gap-alternatives-for-conscious-shoppers",
+          "note": "#2, as Levi's SecondHand (Levi's own resale program): \"a fantastic option for both style and price\""
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "abercrombie-fitch",
+      "rank": 4,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 80,
+        "max": 110,
+        "min_usd": 80,
+        "max_usd": 110,
+        "fx_date": null,
+        "item_count": 64
+      },
+      "price_relation": "similar",
+      "reason": "Abercrombie & Fitch's regular men's jeans run $80–$110 (90s Straight and Relaxed Straight at $80), on top of Gap's $79.95–$99.95, with women's jeans grouped by leg shape and free US shipping over $99.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-gap/",
+          "note": "#4: \"Like GAP, Abercrombie & Fitch also carries the essentials.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap",
+          "note": "#13, 'What changes': \"Younger marketing, slightly higher price, less khaki heritage\""
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "old-navy",
+      "rank": 5,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 34.99,
+        "max": 69.99,
+        "min_usd": 34.99,
+        "max_usd": 69.99,
+        "fx_date": null,
+        "item_count": 41
+      },
+      "price_relation": "cheaper",
+      "reason": "Old Navy is Gap's lower-priced Gap Inc. sibling: regular women's jeans at $34.99–$69.99 (most $44.99–$54.99), sizes 00–30 with petite and tall, and one shared online shopping bag with Gap.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-gap/",
+          "note": "#1: \"a mainstay when it comes to style essentials that don't dent the wallet\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap",
+          "note": "#1, 'What changes': \"Cheaper fabrics, more family/value focus, less fashion-led\""
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "uniqlo",
+      "rank": 6,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 49.9,
+        "max": 49.9,
+        "min_usd": 49.9,
+        "max_usd": 49.9,
+        "fx_date": null,
+        "item_count": 7
+      },
+      "price_relation": "cheaper",
+      "reason": "Uniqlo's regular women's jeans are all $49.90, about $30 under Gap's lowest regular pair, with Baggy Barrel Jeans in separate Short and Tall versions and 86 US stores.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-gap/",
+          "note": "#3: \"much of the same casual, modern comfort that GAP does\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap",
+          "note": "#2, 'What changes': \"Less logo-driven, Japanese fit, no Americana denim heritage\""
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "toad-and-co",
+      "rank": 7,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 125.0,
+        "max": 130.0,
+        "min_usd": 125.0,
+        "max_usd": 130.0,
+        "fx_date": null,
+        "item_count": 18
+      },
+      "price_relation": "pricier",
+      "reason": "Toad&Co's Tamarack women's jeans ($125 straight, $130 wide leg) are cut from organic and recycled cotton denim in sizes 0–18, from a certified B Corp with 90-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.panaprium.com/blogs/i/gap-alternatives",
+          "note": "#13: \"The label creates stylish and affordable alternatives to Gap.\""
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "j-crew",
+      "rank": 8,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 148,
+        "max": 198,
+        "min_usd": 148,
+        "max_usd": 198,
+        "fx_date": null,
+        "item_count": 9
+      },
+      "price_relation": "pricier",
+      "reason": "J.Crew sells most women's jeans in Classic, Petite and Tall with waists 23–37, at $148–$198 regular (barrel and slim-wide styles $158), a step above Gap's $79.95–$99.95.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap",
+          "note": "#4: \"J. Crew shares a preppy and classic style aesthetic similar to Gap.\""
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "madewell",
+      "rank": 9,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 148,
+        "max": 198,
+        "min_usd": 148,
+        "max_usd": 198,
+        "fx_date": null,
+        "item_count": 48
+      },
+      "price_relation": "pricier",
+      "reason": "Madewell is a denim-first store (its story 'begins with denim') with women's jeans mostly at $148, petite, tall, curvy and plus 14W–24W fits, and free in-store hemming for Insiders.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-gap/",
+          "note": "#6: \"one of the best, affordable men's brands for those who appreciate GAP's enduring aesthetic\""
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "outerknown",
+      "rank": 10,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 168,
+        "max": 198,
+        "min_usd": 168,
+        "max_usd": 198,
+        "fx_date": null,
+        "item_count": 19
+      },
+      "price_relation": "pricier",
+      "reason": "Outerknown's women's Scout Straight Jean is $168 (unisex jeans $168–$198), with 98% preferred fibers, a Fair Labor Association–accredited compliance program and free 30-day returns on full-price items.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.panaprium.com/blogs/i/gap-alternatives",
+          "note": "#6: \"It makes stylish apparel with the most planet-friendly fibers.\""
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "american-eagle",
+      "rank": 11,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": null,
+      "price_relation": null,
+      "reason": "American Eagle is a jeans-led store (its homepage title leads with jeans) offering Curvy Fit versions of several cuts and 60-day returns, twice Gap's 30.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/24-brands-like-gap",
+          "note": "#14, listed without a similarity reason; description: \"known for affordable young-adult denim and casual basics\""
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "j-crew-factory",
+      "rank": 12,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": null,
+      "price_relation": null,
+      "reason": "J.Crew Factory sells classic J.Crew style at discount prices, with women's jeans in Classic, Petite, Tall and Curvy fits (waists 24–35), US shipping free over $99 and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-gap/",
+          "note": "#5 J.Crew Factory: \"like GAP, offers it at an affordable price point\""
+        }
+      ],
+      "gate_gaps": []
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "tentree",
+      "why": "verified, but collections/womens-pants products.json (66 items) has no jeans (leggings, joggers, sweatpants, pants); fails 'sells jeans'. 2 sources."
+    },
+    {
+      "slug": "h-m",
+      "why": "unverified: www2.hm.com 403 to WebFetch and curl (brand-file notes, earlier runs); not retried, no workaround. 1 source + Apart pool."
+    },
+    {
+      "slug": "wrangler",
+      "why": "wrangler.com/shop/womens-jeans HTTP 403 to curl (StylodexBot UA), 2026-10-29; no brand file written. 1 source (disco, with a reason)."
+    },
+    {
+      "slug": "tommy-hilfiger",
+      "why": "usa.tommy.com women's jeans HTTP 403 to curl; not read. 1 source (disco, no reason)."
+    },
+    {
+      "slug": "reformation",
+      "why": "unverified: thereformation.com/jeans HTTP 403 to curl (and dresses 403 earlier). 1 source."
+    },
+    {
+      "slug": "urban-outfitters",
+      "why": "multi-brand store; urbanoutfitters.com 403s, ships_to empty, no jeans evidence (brand file). 1 source (disco, no reason)."
+    },
+    {
+      "slug": "able",
+      "why": "verified, but products.json (98 items) has no jeans, only a denim jacket. 1 source."
+    },
+    {
+      "slug": "ninety-percent",
+      "why": "verified, but products.json (173 items) has no jeans. 1 source."
+    },
+    {
+      "slug": "christy-dawn",
+      "why": "collections/denim products.json holds one item, The Salma Pant | Denim (a pant); no jeans, no brand file written. 1 source."
+    },
+    {
+      "slug": "thought",
+      "why": "wearethought.com is Thought Clothing UK: meta.json ships_to_countries ['GB'], prices in GBP; no US shipping. 1 source."
+    },
+    {
+      "slug": "taylor-stitch",
+      "why": "taylorstitch.com/collections/womens/products.json is empty (menswear store); no women's jeans. 1 source."
+    },
+    {
+      "slug": "amour-vert",
+      "why": "amourvert.com/collections/denim 301-redirects to a different domain (amourvert.co); not followed or verified. 1 source."
+    },
+    {
+      "slug": "colorful-standard",
+      "why": "verified; products.json (first 250) has no jeans or denim. 1 source."
+    },
+    {
+      "slug": "buck-mason",
+      "why": "men's list only; no women's denim collection (old-navy run, 404). 1 source."
+    },
+    {
+      "slug": "flint-and-tinder",
+      "why": "Huckberry's house label (sold through Huckberry, a multi-brand store), menswear; not verified. 1 source, men's list."
+    },
+    {
+      "slug": "goodthreads",
+      "why": "Amazon's own label, sold only through Amazon (marketplace); out of scope."
+    },
+    {
+      "slug": "etsy",
+      "why": "marketplace; out of scope."
+    },
+    {
+      "slug": "made-trade",
+      "why": "multi-brand marketplace-style store; out of scope for a jeans comparison."
+    },
+    {
+      "slug": "nautica",
+      "why": "not verified this run: 1 directory source with no reason; menswear-led (disco: 'nautical-coded basics')."
+    },
+    {
+      "slug": "grayers",
+      "why": "not verified this run: men's shirtmaker per the source; 1 directory source."
+    },
+    {
+      "slug": "armor-lux",
+      "why": "not verified this run: French knitwear label, 1 directory source."
+    },
+    {
+      "slug": "ben-sherman",
+      "why": "not verified this run: menswear, 1 directory source."
+    },
+    {
+      "slug": "fred-perry",
+      "why": "not verified this run: polo-led menswear, 1 directory source."
+    },
+    {
+      "slug": "sebago",
+      "why": "footwear (disco: 'handsewn penny loafers'); not jeans."
+    },
+    {
+      "slug": "cole-haan",
+      "why": "footwear (disco: 'dress shoes'); not jeans."
+    },
+    {
+      "slug": "redpath",
+      "why": "Canberra footwear retailer (disco); not jeans, not US."
+    },
+    {
+      "slug": "spier-mackay",
+      "why": "tailoring (disco: 'classic tailoring'); not verified this run."
+    },
+    {
+      "slug": "chnge",
+      "why": "not verified this run: tees and sweats label, 1 source."
+    },
+    {
+      "slug": "tea-rewear",
+      "why": "not verified this run: 1 source."
+    },
+    {
+      "slug": "la-maison-simons",
+      "why": "Canadian multi-brand department store; not verified this run. 1 source."
+    },
+    {
+      "slug": "summersalt",
+      "why": "swimwear-led; not verified this run. 1 source."
+    },
+    {
+      "slug": "encircled",
+      "why": "Canadian basics label; not verified this run. 1 source."
+    },
+    {
+      "slug": "(Apart Style pool, 60 brands)",
+      "why": "pool only (sources: []); no outside source names them as Gap alternatives: Target, Universal Thread, Wild Fable, LOFT, Joe Fresh, Banana Republic Factory, Benetton, JCPenney, Dockers, Aeropostale, Cotton On, GU and the rest listed in candidates."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "pick price: Abercrombie & Fitch",
+      "url": "https://www.abercrombie.com/shop/us/womens-jeans",
+      "check": "The stored jeans row ($80–$110) is men's; women's jeans pages render 'A required part of this site couldn't load' to WebFetch. Read the women's regular-price range so the like-for-like holds (the body says 'men's'). Price label 'similar' rests on the men's row."
+    },
+    {
+      "fact": "pick check: H&M",
+      "url": "https://www2.hm.com/en_us/women/products/jeans.html",
+      "check": "403 to WebFetch and curl. Effortless Gent names it and it's in the Apart pool. Would be a pick once verified."
+    },
+    {
+      "fact": "pick check: Wrangler, Tommy Hilfiger",
+      "url": "https://www.wrangler.com/shop/womens-jeans",
+      "check": "Both 403 to curl. disco names them (Wrangler with a reason). Confirm live, regular-price women's jeans, US shipping."
+    },
+    {
+      "fact": "evidence quality: disco",
+      "url": "https://www.discobrands.co/blogs/24-brands-like-gap",
+      "check": "Same directory as on the old-navy page: no author, about half its entries have no similarity reason, and it labels Levi's 'More premium' while its FAQ lists Levi's as cheaper. Counted for Everlane, BR, Levi's, Old Navy, Uniqlo, A&F, J.Crew, AE. Without it: J.Crew and American Eagle have no source and drop."
+    },
+    {
+      "fact": "evidence: Levi's SecondHand",
+      "url": "https://www.thecommons.earth/blog/5-gap-alternatives-for-conscious-shoppers",
+      "check": "The Commons recommends Levi's SecondHand, Levi's own resale program, counted as a Levi's source. Without it Levi's has 2 sources and ranks after Uniqlo."
+    },
+    {
+      "fact": "evidence: The Adult Man",
+      "url": "https://theadultman.com/fashion-and-style/gap-vs-banana-republic-vs-j-crew/",
+      "check": "Gap vs BR vs J.Crew comparison ('I Tested the Mall Brands'); counted for Banana Republic only. Confirm a comparison counts as 'recommends as an alternative'."
+    },
+    {
+      "fact": "price method: Gap Inc. brands",
+      "url": "https://api.gap.com/commerce/search/products/v2/cc?cid=5664&brand=gap&market=us&locale=en_US&pageSize=200&pageNumber=0",
+      "check": "Same as the old-navy page: regularPrice for colorways not marked down; items carrying a temporary promo kept at regular price. Confirm."
+    },
+    {
+      "fact": "J.Crew Factory: no regular prices",
+      "url": "https://factory.jcrew.com/plp/womens/categories/clothing/jeans",
+      "check": "Every tile shows a markdown or a 'comparable value', so it renders without a price. New brand file j-crew-factory.json (no image yet; hq_country, parent_company and us_stores left empty: no source read)."
+    },
+    {
+      "fact": "duplicate brand file: Toad&Co",
+      "url": "https://www.toadandco.com/",
+      "check": "toad-and-co.json and toad-co.json describe the same store; pages use both slugs (and urban-outfitters uses 'toadandco'). This page uses toad-and-co (has the image). Merge."
+    },
+    {
+      "fact": "FAQ source",
+      "url": "https://app.ahrefs.com/keywords-explorer",
+      "check": "keywords-explorer-matching-terms for 'gap' (questions) returned mostly gap insurance, anion gap and gap year; only 'can you return gap to old navy' fit. Two FAQs come from People Also Ask questions in the Ahrefs serp-overview for 'brands like gap' ('What are the four gap brands?', 'Is Gap luxury clothing?'). Confirm PAA questions are acceptable."
+    },
+    {
+      "fact": "SERP coverage",
+      "url": "https://www.reddit.com/r/malefashionadvice/comments/1s2bj8m/more_shops_like_uniqlo_and_gap/",
+      "check": "Reddit threads (r/malefashionadvice 'More shops like Uniqlo and Gap?', r/frugalmalefashion 'Any brands similar to GAP?', r/capsulewardrobe) and Knoji (403) are unread: add brands as kind=reddit if read."
+    },
+    {
+      "fact": "free_shipping_min_usd for Gap Inc. brands",
+      "url": "https://oldnavy.gap.com/customerService/info.do?cid=3019",
+      "check": "$50 applies to rewards members (free to join); nonmembers pay $9. Same as old-navy page."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": null,
+  "notes": [
+    "12 picks pass enrich.md §3 (verified, sell jeans, ship to the US or have US stores, ≥1 outside source, one checkable reason). Never padded: H&M, Wrangler, Tommy Hilfiger and Reformation are blocked (403); Tentree, ABLE, Ninety Percent, Christy Dawn, Colorful Standard sell no jeans; Thought ships to GB only.",
+    "Ranking: independent sources, then distance between price midpoints (Gap $89.95). 3 sources: Everlane (28.05), Banana Republic (44.05), Levi's (no price). 2: Abercrombie & Fitch (5.05, men's row), Old Navy (37.46), Uniqlo (40.05). 1: Toad&Co (37.55), J.Crew (83.05), Madewell (83.05), Outerknown (93.05), American Eagle and J.Crew Factory (no price).",
+    "Evidence: 4 editorial pages (Effortless Gent, The Commons, Panaprium, The Adult Man) + disco directory (human_check). Ahrefs serp-overview: 4 calls, 'similar to gap' empty.",
+    "Anchor: Gap verified; this run added size_range (000–20; petite and tall) and has_tall from the product API size facet, plus the Gap Inc. brand list and cross-brand returns rule. No share image (images.json no_share_image), which the gate allows."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "You know your size in Gap jeans and you like the easy, classic look of the basics. Now you want a second store to check, either to pay less or to trade up to something dressier. These 12 all sell women's jeans in the US, from $34.99 at Old Navy to $198 at J.Crew and Madewell. The closest matches come first.",
+    "bodies": {
+      "everlane": "Everlane is the closest match on price, and the one to pick if you'd like to know what your jeans cost to make. The Way-High Curve Jean ($88) comes in under most of Gap's $89.95 pairs, and the Baggy Barrel-Leg Jean ($128) is where the range climbs.\n\nIt publishes the cost of materials, labor and transport behind its products, so you can see where the money goes. The Way-High Curve also comes in 27-inch and 29-inch inseams, which saves a trip to the tailor if you're shorter.\n\nThe catch is the small fees. Standard shipping is $8 and mail returns cost $7, though returns in its stores are free. Most styles stop at a 33 waist, with 34 and 35 on a few, so if you wear Gap's top sizes, stay with Gap or go to Old Navy.",
+      "banana-republic": "Banana Republic is Gap's dressier sibling, and the move if you want the same checkout with a more polished pair. The Icon Classic Wide-Leg Jean ($130) is typical, and the High-Rise 90S Straight Jean ($120) is the cheapest way in.\n\nBecause both belong to Gap Inc., a Gap pair and a Banana Republic pair go in one shopping bag, and rewards members get free shipping over $50 at both. Sizes run 0 to 20, with petite from 00 and long lengths from 4. It started in 1978 as a travel outfitter and still leads with cashmere and linen, so denim is a side line here.\n\nOne thing to know before you mix brands in an order. Store returns go back only to the brand you bought from, so Banana Republic jeans can't go back to a Gap store.",
+      "levis": "Levi's is the pick if denim is the reason you shop Gap. It's the older San Francisco jeans company, founded there in 1853, a long way ahead of Gap's start in the same city in 1969. Today it makes jeans and casual wear for men, women and kids, so like Gap it covers the basics around the denim too.\n\nThe practical route here is a store. Levi's has US stores in 40 states, so you can try a few cuts back to back instead of ordering three sizes and sending two back.\n\nIf you'd rather shop online at a price you can compare, Everlane and Abercrombie & Fitch sit closest to Gap's $89.95.",
+      "abercrombie-fitch": "Abercrombie & Fitch lands almost exactly on Gap's prices. Its men's jeans start at $80 for the 90s Straight and Relaxed Straight and top out at $110 for the Relaxed Workwear Jean, against Gap's $79.95 to $99.95.\n\nFor women, the jeans are grouped by leg shape, from wide and loose through bootcut and flare to straight and skinny, which makes it quick to shop by silhouette. Men's waists run 26 to 38. It goes back to 1892 in Manhattan and is now based in Ohio.\n\nThe trade-off is shipping. It's free only over $99, roughly double Gap's $50 bar for rewards members. If one pair is all you need, Gap or Old Navy gets you there for less.",
+      "old-navy": "Old Navy is how you pay less without leaving Gap Inc. Most of its women's jeans sit between $44.99 and $54.99, and the Wow line starts at $34.99, less than half Gap's cheapest regular pair.\n\nThe two share one online shopping bag, so a Gap pair and an Old Navy pair can go in a single order, with free shipping over $50 for rewards members. Old Navy also goes much further on size. It runs from 00 to 30 with petite and tall, where Gap stops at a 20 plus one 2X.\n\nThe catch is in-store returns. Each brand takes back only its own items, so Old Navy jeans have to go back to an Old Navy store.",
+      "uniqlo": "Uniqlo is the pick for simple jeans at one flat price. Its regular women's jeans are $49.90 across the board, from the Barrel Jeans to the EZY Wide Straight Jeans, about $30 under Gap's lowest.\n\nStart with the Baggy Barrel Jeans ($49.90) if length is your problem, because they come in separate Short and Tall versions. That's the job Gap's petite and tall sections do, for less money.\n\nBut the terms are stricter than Gap's. Free shipping starts at $99, though in-store pickup is free, and online orders can't be returned in a store, so you'll pay return postage unless the item was wrong. With 86 US stores, buying in person sidesteps both.",
+      "toad-and-co": "Toad&Co is the one for lower-impact denim at a price a step above Gap. The Tamarack Straight Jean ($125) and Tamarack Wide Leg Jean ($130) are cut from organic and recycled cotton denim with a little stretch.\n\nIt's a California brand and a certified B Corp, and the Tamarack runs from size 0 to 18. Toad&Co itself suggests sizing up on the straight style, so start a size bigger than your Gap pair. Returns get 90 days, three times Gap's window, though refunds carry a $7 handling fee.\n\nFree shipping doesn't start until $150, though. If you want a cleaner materials story closer to Gap's price, Everlane starts at $88.",
+      "j-crew": "J.Crew is the step up for the same classic look, and the pick if petite or tall lengths are why you shop Gap. Most of its jeans come in Classic, Petite and Tall, with waists from 23 to 37, and the barrel and slim-wide styles are $158.\n\nExpect $148 to $198, so even the cheapest pair costs more than Gap's priciest. Standard shipping is $7, and it's free for J.Crew Rewards members on qualifying orders.\n\nReturns run 30 days, but $7.50 comes off your refund if you use the prepaid label. If you like the fits and not the price, J.Crew Factory offers the same Classic, Petite and Tall split at discount prices.",
+      "madewell": "Madewell is the jeans-first store on this list, a brand whose story begins with denim. Most of its jeans are $148, about $58 more than a typical Gap pair, with a few at $158 to $198.\n\nThe useful part is the fit help. Insiders get free hemming in its stores, so a pair that's right everywhere but the length is an easy fix. Fits cover petite, tall, curvy and plus sizes from 14W to 24W.\n\nShipping is the sticking point. It's free only for signed-in Insiders, and everyone else pays $5 or $7 with no order minimum that unlocks it. Returns get 30 days, the same as Gap.",
+      "outerknown": "Outerknown is for paying more for a jean with a clear fiber story. Its one women's jean, The Scout Straight Jean ($168), sits next to unisex cuts like the Beachcomber Relaxed Jean ($168) and the Craftsman Jean ($198).\n\n98% of its fibers count as preferred fibers, and the Fair Labor Association accredited its compliance program in 2015. Full-price returns are free within 30 days, and US shipping is free over $125.\n\nChoice is the limit. With a single women's style, it only works if a straight leg is what you want. Most of its denim is men's and unisex, so read the size chart on those cuts. For straight and wide legs at a lower price, Toad&Co starts at $125.",
+      "american-eagle": "American Eagle is the pick if you want a jeans-led mall store with a long return window. Its homepage leads with jeans, and several cuts come in a Curvy Fit, like the AE Curvy High-Waisted Stovepipe Jean.\n\nReturns run 60 days, twice Gap's 30, which gives you longer to decide on a fit. That matters most if you're trying a Curvy cut for the first time. Online returns cost $5 unless you're a Real Rewards Level 3 member or cardholder.\n\nFree shipping starts higher, though, at $75 against Gap's $50 for rewards members, and orders below that pay $7.95. It works best when you're buying two pairs at once.",
+      "j-crew-factory": "J.Crew Factory is the discount route to J.Crew's fits, and the answer if you want Gap's petite and tall choice on a tighter budget. Its women's jeans come in Classic, Petite and Tall, plus a Curvy section, with waists from 25 to 35 and petite from 24. That's the same regular, petite and tall split Gap uses, so your usual length carries over.\n\nShipping is $7, or free over $99. Returns get 30 days, with $7.50 off for the prepaid label, and online orders can go back to a Factory store. Just not a J.Crew one, since the two take returns separately.\n\nNo plus sizes are listed. If you need them, Madewell or Old Navy is the better fit."
+    },
+    "best_for": {
+      "everlane": "knowing what your jeans cost to make, at Gap money",
+      "banana-republic": "a dressier pair in the same Gap Inc. checkout",
+      "levis": "trying on jeans in person at a denim company from 1853",
+      "abercrombie-fitch": "men's jeans at almost exactly Gap's prices",
+      "old-navy": "jeans under $55 in sizes up to 30",
+      "uniqlo": "one flat price, with separate short and tall lengths",
+      "toad-and-co": "organic and recycled cotton denim with 90 days to return",
+      "j-crew": "petite or tall jeans when you're happy to pay more",
+      "madewell": "free hemming and plus sizes from a jeans-first store",
+      "outerknown": "one straight-leg jean with a clear fiber story",
+      "american-eagle": "curvy-fit jeans with a 60-day return window",
+      "j-crew-factory": "petite and tall J.Crew fits at discount prices"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "If you like Gap and only want to pay less, Old Navy is the easy move, with the same checkout and sizes up to 30. Uniqlo is the other one, at $49.90 a pair. For the same money as Gap, Everlane and Abercrombie & Fitch sit closest. To trade up, Banana Republic keeps you inside Gap Inc., while J.Crew and Madewell cost more but help with length, through petite and tall cuts or free hemming. J.Crew Factory is the cheaper way into those J.Crew fits. For lower-impact denim, start with Toad&Co, then Outerknown. American Eagle wins on returns, and Levi's is the one to try on in a store."
+    },
+    "faqs": [
+      {
+        "q": "Can you return Gap items to Old Navy?",
+        "a": "No. Gap Inc. takes in-store returns and exchanges only at the brand you bought from, so jeans from Gap.com or a Gap store can't go back to an Old Navy store.",
+        "source_query": "can you return gap to old navy"
+      },
+      {
+        "q": "What are the four Gap brands?",
+        "a": "Gap Inc. owns Old Navy, Gap, Banana Republic and Athleta. Online, all four share one shopping bag, so you can buy from them in a single order.",
+        "source_query": "what are the four gap brands (People Also Ask on 'brands like gap', Ahrefs serp-overview)"
+      },
+      {
+        "q": "Is Gap luxury clothing?",
+        "a": "No. Gap Inc. calls it a brand of casual American style, and most of its regular women's jeans are $89.95. Banana Republic is the company's dressier label, with jeans from $120.",
+        "source_query": "is gap luxury clothing (People Also Ask on 'brands like gap', Ahrefs serp-overview)"
+      }
+    ]
+  }
+}

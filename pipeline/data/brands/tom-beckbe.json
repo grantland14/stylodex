@@ -1,0 +1,56 @@
+{
+  "slug": "tom-beckbe",
+  "name": "Tom Beckbe",
+  "website_url": "https://www.tombeckbe.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "American Sporting Outerwear",
+  "hq_country": "US",
+  "founded_year": 2015,
+  "parent_company": null,
+  "size_range": "S–XXL; Tall M–XXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": true,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 95,
+  "returns_days": 30,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "USD",
+      "min": 295,
+      "max": 595,
+      "min_usd": 295,
+      "max_usd": 595,
+      "fx_date": null,
+      "item_count": 22,
+      "source_url": "https://www.tombeckbe.com/collections/mens-jackets-coats",
+      "checked_at": "2026-10-29",
+      "note": "products.json of Men's Jackets & Coats: 28 products; 22 of product type Outerwear at regular price, none marked down. Low: Burgess Quilted Jacket $295; Chatom Jacket $375; Tensaw Jacket in Mossy Oak $525; high: Fowler Jacket $595."
+    }
+  ],
+  "materials": [
+    "Waxed cotton"
+  ],
+  "certifications": [],
+  "production_model": "Tensaw Jacket cut and sewn in the USA",
+  "sale_pattern": null,
+  "sells_categories": [
+    "coats-jackets"
+  ],
+  "sources": [
+    "https://www.tombeckbe.com/collections/mens-jackets-coats",
+    "https://www.tombeckbe.com/policies/refund-policy",
+    "https://www.tombeckbe.com/pages/about"
+  ],
+  "notes": [
+    "Refund policy: full refund 0–30 days, store credit 31–45 days, exchanges within 45 days; banner 'Free Shipping on Orders Over $95 + Easy Returns' (https://www.tombeckbe.com/policies/refund-policy).",
+    "About: founded 2015 by Radcliff and Mary Menge in Birmingham, Alabama; 'Inspired by the outdoors and the American sporting tradition'; stores in Mountain Brook AL, Atlanta, Franklin TN, Oxford MS, Tuscaloosa AL, Middleburg VA; Tensaw Jacket is the flagship and 'every Tensaw Jacket ever produced has been cut and sewn in the United States'; jacket fabric from a mill in Dundee, Scotland (https://www.tombeckbe.com/pages/about).",
+    "Sizes Small–XXL on 26 of 28, Medium Tall–XXL Tall on 19 (https://www.tombeckbe.com/collections/mens-jackets-coats/products.json)."
+  ],
+  "checked_at": "2026-10-29"
+}

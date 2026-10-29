@@ -1,0 +1,15 @@
+{
+  "slug": "love-culture",
+  "name": "Love Culture",
+  "website_url": "https://www.loveculture.com",
+  "status": "unverified",
+  "kind": "brand",
+  "prices": [],
+  "sources": [
+    "https://www.loveculture.com/"
+  ],
+  "notes": [
+    "2026-10-29 (charlotte-russe run): www.loveculture.com did not resolve (DNS EAI_AGAIN for WebFetch, proxy 502 for curl). Per lessons, a failed URL means re-check the record, not dead brand; a WebSearch found no current official site. Human check needed."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "tuckernuck",
+  "name": "Tuckernuck",
+  "website_url": "https://tnuck.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Colorful, Classic Dresses",
+  "hq_country": "US",
+  "founded_year": 2012,
+  "parent_company": null,
+  "size_range": "XXS–3XL; numeric 0–16",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "us_stores": true,
+  "free_shipping_min_usd": 0,
+  "returns_days": 21,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 88,
+      "max": 4195,
+      "min_usd": 88,
+      "max_usd": 4195,
+      "fx_date": null,
+      "item_count": 1125,
+      "source_url": "https://tnuck.com/collections/ladies-dresses",
+      "checked_at": "2026-10-29",
+      "note": "Shopify feed /collections/ladies-dresses/products.json, 7 pages, 1,630 products, all product_type Dresses; 2 marked down (compare_at above price) excluded; 1,125 regular-price and in stock. Sale dresses live in a separate collection (ladies-sale-dresses, every item with compare_at), none overlap. Lowest Pomander Place Blue and White Stripe Sleeveless Cotton Poplin Kenzo Dress $88; highest ERDEM Belle Epoque Poppy Navy Floral Cloque Asymmetric Gown $4,195; median $275. 83 labels in stock. Own Tuckernuck label: 346 in stock, $118 (Parker Mini Dress) to $648 (Black Burnout Velvet Genevieve Gown), median $213; common points $198 and $298. Named: Margaret Polo Dress $128, Mini Delaney Dress $148, Mini Chloe Dress $278. Most-stocked outside labels: Hyacinth House 113, Pomander Place 102, STAUD 29, Ulla Johnson 29, Hill House Home 17."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://tnuck.com/",
+    "https://tnuck.com/pages/about-us",
+    "https://tnuck.com/pages/designers",
+    "https://tnuck.com/pages/shipping",
+    "https://tnuck.com/pages/returns",
+    "https://tnuck.com/pages/visit-our-stores",
+    "https://tnuck.com/collections/ladies-dresses",
+    "https://tnuck.com/collections/ladies-sale-dresses"
+  ],
+  "notes": [
+    "Homepage title: 'Tuckernuck | Women's Clothing, Dresses, Shoes & Home'; banner 'Free Shipping & Returns', 'Now Offering Free Exchanges & Store Credit' (https://tnuck.com/).",
+    "About (https://tnuck.com/pages/about-us): 'Back in 2012, we couldn't find curated boutiques we loved close to home'; started by family and friends (Maddy, September, Jocelyn) 'who love color, stripes, bucket lists, and nostalgia'; based in Washington, DC; own labels Tuckernuck, Tnuck Sport, Tnuck Beach plus other designers; 'classic but never basic', 'standout dresses'. known_for 'Colorful, Classic Dresses' paraphrases these lines (human check).",
+    "kind retailer: Designers page lists in-house labels (Tuckernuck, Tuckernuck Cashmere, Tnuck Sport, Tnuck Beach and more) plus outside labels such as Barbour, Ulla Johnson, La DoubleJ, Lela Rose, MOTHER (https://tnuck.com/pages/designers); the dresses feed carries 83 labels in stock.",
+    "Shipping (https://tnuck.com/pages/shipping): US Standard free, 3–5 business days; Expedited $16; Next Day $30. Country selector offers Canada (CAD); no other countries listed, so ships_to is US and CA.",
+    "Returns (https://tnuck.com/pages/returns): returns and exchanges within 21 days of delivery; free in the US; free exchanges for a different size; store credit option; Final Sale and monogram items not returnable.",
+    "Stores (https://tnuck.com/pages/visit-our-stores): 1121 Madison Ave, New York, NY; 1267 Wisconsin Ave NW, Washington, DC; 23 Centre St, Nantucket, MA; a fourth marked Coming Soon.",
+    "Sizes from the own-label dresses feed options: XXS–XXXL letter sizes (some styles XXXXL) and numeric 0–16 on some styles (2026-10-29). No plus, petite or tall section checked, so flags stay empty.",
+    "Ahrefs top pages for tnuck.com (US, 2026-10-28): /collections/ladies-dresses is the highest-traffic page after the homepage (top keyword 'tuckernuck dresses'), followed by sale dresses and cocktail dresses."
+  ],
+  "checked_at": "2026-10-29",
+  "materials": [],
+  "certifications": []
+}

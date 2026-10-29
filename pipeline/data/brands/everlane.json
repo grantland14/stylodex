@@ -109,7 +109,8 @@
     "https://everlane.com/products/womens-cashmere-slim-crew-sweater-black.json",
     "https://everlane.com/meta.json",
     "https://everlane.com/collections/mens-tshirts/products.json?limit=250",
-    "https://everlane.com/collections/mens-tshirts/products.json?limit=250&page=2"
+    "https://everlane.com/collections/mens-tshirts/products.json?limit=250&page=2",
+    "https://www.everlane.com/collections/womens-jeans/products.json?limit=250&page=1"
   ],
   "notes": [
     "About page footer: 'Clean Luxury. Better For You.'; the page also describes 'Radical Transparency' as revealing 'the true costs behind all of our products.'",
@@ -117,7 +118,8 @@
     "Returns: 30 days from ship date (US and Canada); mail-in returns carry a $7 label fee, in-store returns free.",
     "International page lists the United States, Canada, the United Kingdom and Australia among destinations.",
     "Wikipedia: headquartered in San Francisco (move to Los Angeles announced April 2026); founded 2010 by Michael Preysman and Jesse Farmer; Shein agreed to acquire it in May 2026.",
-    "production_model detail: Partners with ethical factories it audits (fair wages, reasonable hours, environment) and publishes the cost of materials, labor and transport ('Radical Transparency') (About page)"
+    "production_model detail: Partners with ethical factories it audits (fair wages, reasonable hours, environment) and publishes the cost of materials, labor and transport ('Radical Transparency') (About page)",
+    "2026-10-29 (gap page run): women's jeans products.json (3 pages), 69 regular-price jeans: waist sizes 23–33 on 62 styles, 34–35 on 6, and 'L' (long) versions of 23–33 on 8. So jeans waists run 23–35; size_range's 00–16 isn't traced to jeans."
   ],
   "checked_at": "2026-10-29"
 }

@@ -1,0 +1,73 @@
+{
+  "slug": "charlotte-russe",
+  "name": "Charlotte Russe",
+  "website_url": "https://charlotterusse.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Trends at Unbeatable Prices",
+  "hq_country": "CA",
+  "founded_year": 1975,
+  "parent_company": "YM Inc.",
+  "size_range": "XS–XL; jeans 00–15",
+  "has_plus": false,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 30,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 10,
+      "max": 20,
+      "min_usd": 10,
+      "max_usd": 20,
+      "fx_date": null,
+      "item_count": 34,
+      "source_url": "https://charlotterusse.com/collections/dresses-jumpsuits/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Union of the dresses, dresses-jumpsuits, mini-dresses, maxi-dresses and midi-dresses feeds: 42 products, 35 in-stock items titled dress, 34 with no compare_at markdown (1 marked down). Low $10 (Halter Bodycon Mini Dress, Beaded Halter Mini Dress and others); high $20 (Denim Square Neck Maxi Dress). Median $12.99. Maxis $15.99–$20 (Lace Ruffle Strapless Maxi Dress $15.99, Smocked Tiered Maxi Dress $16.99). Sizes XS, S, M, L, XL. Vendors Stitches (18) and Urban Ladies (16)."
+    }
+  ],
+  "sells_categories": [
+    "dresses",
+    "jeans",
+    "womens-clothing"
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": "Frequent Buy One Get One deals",
+  "sources": [
+    "https://charlotterusse.com/",
+    "https://charlotterusse.com/pages/about-us",
+    "https://charlotterusse.com/collections.json?limit=250",
+    "https://charlotterusse.com/collections/dresses/products.json?limit=250",
+    "https://charlotterusse.com/collections/dresses-jumpsuits/products.json?limit=250",
+    "https://charlotterusse.com/products.json?limit=250",
+    "https://charlotterusse.com/policies/shipping-policy",
+    "https://charlotterusse.com/pages/return-policy",
+    "https://charlotterusse.com/pages/size-guide",
+    "https://charlotterusse.com/pages/store-locator",
+    "https://charlotterusse.com/apps/api/v1/stores",
+    "https://charlotterusse.com/pages/faq-1",
+    "https://en.wikipedia.org/wiki/Charlotte_Russe_(clothing_retailer)",
+    "https://en.wikipedia.org/wiki/Rue21"
+  ],
+  "notes": [
+    "Status: trading. charlotterusse.com is a live Shopify store (861 products in /products.json, 2026-10-29). Meta description: 'Your destination for the latest clothing, footwear and accessory trends. With unbeatable pricing, every woman can afford to feel her best'. About Us: 'your go to for the latest trends at prices you'll love'. Ahrefs SERP questions ask 'Does Charlotte Russe still exist?' and 'Why is Charlotte Russe closing?'; the closure was in 2019 (Wikipedia), and the brand has traded again under YM Inc. since.",
+    "Wikipedia: founded 1975 in Carlsbad, California by Daniel Lawrence and his two brothers; filed Chapter 11 on 4 February 2019 and closed its 418 remaining stores; acquired April 2019 by Toronto-based YM Inc.; 183 stores by end of 2019; aimed at women in their teens and twenties. Infobox HQ Toronto; the site footer names CR CLICKS ECOMM INC., 50 Dufflaw Rd, Toronto. hq_country CA from those.",
+    "Store locator (the page's own endpoint /apps/api/v1/stores, 2026-10-29): 220 US locations, 191 branded Charlotte Russe (others Urban Planet, a YM sister chain), in 34 states plus Puerto Rico; most in FL (22), TX (17), CA (16), NY (11). 3 marked temporarily closed.",
+    "Shipping policy: UPS SurePost, free on $100+, $7.95 under $100; 48 contiguous states only (no Hawaii, Alaska, Puerto Rico, APO/FPO); prices in USD.",
+    "Return policy: refunds by mail within 30 days of the order date, return postage not refunded; no exchanges by mail, exchanges in store; online orders returnable in store. Final sale: cosmetics, jewelry, intimates, swimwear, items at 70–80% off and Buy 1 Get 2 Free items. Buy One Get One items must be returned together for a full refund.",
+    "Sizes from the product feed (in-stock variants): tops and dresses XS, S/P, M, L/G, XL (XXS and XXL on 4 and 2 items); jeans 00–15. No plus range, so has_plus false. The size-guide page renders its charts client-side.",
+    "Product feed vendors: Stitches 575, Urban Ladies 237, CR Licensed 49 (licensed lines such as Playboy, Juicy Couture, Snoopy). Stitches is also the vendor on rue21.com's feed; Wikipedia says YM Inc. owns both chains.",
+    "Category C = dresses: Ahrefs top pages for charlotterusse.com (US, 2026-10-28) put /collections/dresses (top keyword 'charlotte russe dresses', est. 74/month) ahead of /collections/jeans (46) among product-type pages (Playboy and boots pages are a licensed line and footwear); beautymag says the brand has 'a particular emphasis on dresses and going-out looks'.",
+    "FAQ: 'we do not restock most of our items'; payment by card, Google Pay, Apple Pay; gift cards not accepted online."
+  ],
+  "checked_at": "2026-10-29"
+}

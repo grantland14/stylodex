@@ -1,0 +1,47 @@
+{
+  "slug": "duluth-trading",
+  "name": "Duluth Trading Co.",
+  "website_url": "https://www.duluthtrading.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Rugged Workwear",
+  "hq_country": "US",
+  "founded_year": 1989,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 50,
+  "returns_days": 365,
+  "us_stores": true,
+  "prices": [],
+  "materials": [
+    "Fire Hose cotton canvas"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "coats-jackets"
+  ],
+  "sources": [
+    "https://www.duluthtrading.com/",
+    "https://www.duluthtrading.com/men/outerwear/jackets-and-coats/",
+    "https://www.duluthtrading.com/men/outerwear/jackets-and-coats/fire-hose/",
+    "https://www.duluthtrading.com/content/returns",
+    "https://en.wikipedia.org/wiki/Duluth_Trading_Company"
+  ],
+  "notes": [
+    "Men's Jackets & Coats page lists 42 items incl. Fire Hose Flannel-Lined Jacket, Superior Fire Hose Insulated Jacket and AKHG jackets, but WebFetch shows no prices; the site banner read '30% OFF Everything. Exclusions Apply', so no regular price could be recorded. Category confirmed for sells_categories (https://www.duluthtrading.com/men/outerwear/jackets-and-coats/).",
+    "Fire Hose jackets sub-collection: 10 products incl. Fire Hose Flannel Lined Jacket and VintageFlex Fire Hose Trucker Jacket (https://www.duluthtrading.com/men/outerwear/jackets-and-coats/fire-hose/).",
+    "Homepage: 'Free Shipping on $50+ Orders'; store locator /find-stores/ (https://www.duluthtrading.com/).",
+    "Returns: 'Return any purchase within one year for a refund of the original purchase price'; $7.99 return fee deducted, waived for exchanges; Canadian customers pay return shipping (so it ships to Canada) (https://www.duluthtrading.com/content/returns).",
+    "Wikipedia: founded 1989 in Duluth, Minnesota; HQ Mount Horeb, Wisconsin; 65 US stores as of 2023 (https://en.wikipedia.org/wiki/Duluth_Trading_Company)."
+  ],
+  "checked_at": "2026-10-29"
+}

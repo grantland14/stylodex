@@ -1,0 +1,14 @@
+{
+  "slug": "patagonia",
+  "name": "Patagonia",
+  "website_url": "https://www.patagonia.com",
+  "status": "unverified",
+  "kind": "brand",
+  "sources": [
+    "https://www.patagonia.com/shop/mens/jackets-vests"
+  ],
+  "notes": [
+    "patagonia.com men's jackets pages served a 'System maintenance is in progress' notice to WebFetch twice, 2026-10-29; no products readable. Re-check."
+  ],
+  "checked_at": "2026-10-29"
+}

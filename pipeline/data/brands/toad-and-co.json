@@ -47,6 +47,19 @@
       "source_url": "https://www.toadandco.com/collections/womens-pants",
       "checked_at": "2026-10-29",
       "note": "Shopify products.json for collections/womens-pants (80 products), read with curl and the StylodexBot UA. 18 products with 'Jean' in the title, none with compare_at above price: Women's Tamarack Straight Jean / Straight Blue Jean $125, Tamarack Wide Leg Jean / Wide Leg Blue Jean $130, Balsam Cutoff Jean $125 (colours listed as separate products). Tamarack: 'made from durable organic and recycled cotton denim with just the right amount of stretch', high rise; sizes 0-18; 'For best fit, we recommend sizing up on this style.'"
+    },
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 92,
+      "max": 188,
+      "min_usd": 92,
+      "max_usd": 188,
+      "fx_date": null,
+      "item_count": 31,
+      "source_url": "https://www.toadandco.com/collections/womens-dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Full collection feed: 31 listings (13 styles, colour repeats), all regular price (compare_at equals price, no markdowns). Lowest Rosemarie Dress $92, highest Alpineglo Sweater Dress $188; Re-Form Flannel Shirt Dress, Rose Midi Dress and Freesia Long Sleeve Wrap Dress $110."
     }
   ],
   "materials": [
@@ -68,14 +81,25 @@
     "https://toadandco.com/collections/womens-sweaters/products.json?limit=250",
     "https://toadandco.com/collections/womens-sale-sweaters/products.json?limit=250",
     "https://toadandco.com/products/bianca-shaker-crew-sweater-dusk-blue.json",
-    "https://www.toadandco.com/collections/womens-pants/products.json?limit=250"
+    "https://www.toadandco.com/collections/womens-pants/products.json?limit=250",
+    "https://www.toadandco.com/",
+    "https://www.toadandco.com/pages/about-us",
+    "https://www.toadandco.com/pages/shipping",
+    "https://www.toadandco.com/policies/refund-policy",
+    "https://www.toadandco.com/collections/womens-dresses/products.json?limit=250"
   ],
   "notes": [
     "Store description: 'At Toad&Co we create eco-friendly clothing, because slow fashion is the future'; address Santa Barbara, CA; ships to 200 countries incl. US, CA, GB, AU (https://toadandco.com/meta.json).",
     "About: 'Since 1996'; 'From our California HQ'; 'We're Officially a Certified B Corporation!'; eco materials listed: Organic Cotton, Hemp, TENCEL Lyocell, Recycled Fibers (https://toadandco.com/pages/about-us).",
     "Shipping page: 'Spend $150 USD more for FREE shipping' / 'FREE shipping will be applied at checkout' (cart message; threshold $150) (https://toadandco.com/policies/shipping-policy).",
     "Returns: 'We will not be able to accommodate returns for refund after 90 days'; '$7 handling fee'; final sale excluded (https://toadandco.com/policies/refund-policy).",
-    "2026-10-29 (gap page run): women's jeans in sizes 0-18 (Tamarack product options); see jeans price note. A second file, toad-co.json, describes the same store (www.toadandco.com): duplicate for the coordinator."
+    "2026-10-29 (gap page run): women's jeans in sizes 0-18 (Tamarack product options); see jeans price note. A second file, toad-co.json, describes the same store (www.toadandco.com): duplicate for the coordinator.",
+    "Homepage title: 'Toad&Co | Sustainable, Organic & Eco Friendly Clothing'; positioning line: 'Since '96, we've crafted apparel that's built to last, kind to the planet, and rooted in community.' (https://www.toadandco.com/)",
+    "About page: 'From our California HQ' (no city); 'Since 1996'; fibers listed: organic cotton, hemp, TENCEL Lyocell, recycled fibers; shows B Corporation and 1% for the Planet logos; works with 'factories who share our standards'. (https://www.toadandco.com/pages/about-us)",
+    "Shipping: free shipping on orders of $150 USD or more, applied at checkout; rate table is an image (not read). Footer country selector shows Canada, UK and Australia but no destination list is stated, so ships_to stores only US. International orders mostly ship by DHL; duties are the customer's. (https://www.toadandco.com/pages/shipping)",
+    "Returns: refunds within 90 days; $7 handling fee on refunds (none on exchanges or store credit); final sale items not returnable. (https://www.toadandco.com/policies/refund-policy)",
+    "Dress sizes in the feed: XS–XL.",
+    "Coordinator: merged in from the duplicate toad-co file (same store, toadandco.com)."
   ],
   "checked_at": "2026-10-29",
   "sells_categories": [

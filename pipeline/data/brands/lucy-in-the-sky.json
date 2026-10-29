@@ -1,0 +1,59 @@
+{
+  "slug": "lucy-in-the-sky",
+  "name": "Lucy in the Sky",
+  "website_url": "https://www.lucyinthesky.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Party Dresses Designed in Los Angeles",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 55.9,
+      "max": 99.9,
+      "min_usd": 55.9,
+      "max_usd": 99.9,
+      "fx_date": null,
+      "item_count": 156,
+      "source_url": "https://www.lucyinthesky.com/shop/mini-dresses",
+      "checked_at": "2026-10-29",
+      "note": "First 80 tiles of /shop/mini-dresses and /shop/maxi-dresses (the page's embedded product data). 76 of 80 minis and 80 of 80 maxis have no special (sale) price. Minis $55.90–$79.90 (Ruched Fit and Flare Dress in Red $55.90, Floral Sequin Halter Dress in Lavender $69.90); maxis $65.90–$99.90 (Rose Open Back Mesh Maxi Dress in Red $65.90, Sequin Square Neck Fitted Maxi Dress in Gold $99.90). A sample, not the full catalog."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.lucyinthesky.com/",
+    "https://www.lucyinthesky.com/shop/mini-dresses",
+    "https://www.lucyinthesky.com/shop/maxi-dresses",
+    "https://www.lucyinthesky.com/shop/support/faq?faq-category=shipping"
+  ],
+  "notes": [
+    "Homepage tagline 'Party in style'; footer 'Copyright © 2026 LUCY IN THE SKY'. Mini dresses page title: 'Mini Dresses 2026, Designed in Los Angeles'. Shop by occasion: Homecoming, Winter Formal, Prom, Sorority Rush, Wedding Guest, NYE.",
+    "FAQ (shipping): US orders ship with Amazon Shipping or USPS Ground Advantage, 4–7 business days; 'Ships in 24 Hours' styles; international $19.90 regular (7–14 business days), $39.90 expedited. ships_to CA, GB, AU from the international shipping terms (no country list read).",
+    "FAQ (returns): 'Our Return Policy is for STORE CREDIT'; non-final-sale styles returnable in original condition within 14 days of delivery; final sale not returnable. Return address 808 Wall St, Los Angeles, CA, so hq_country US.",
+    "FAQ (sizing): 'Our small is generally the equivalent of a US Size 2'; 'Our sizes may run a bit smaller'; suggests sizing up between sizes. No size chart read, so size_range empty."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "lulus",
+  "name": "Lulus",
+  "website_url": "https://www.lulus.com",
+  "status": "unverified",
+  "kind": "brand",
+  "prices": [],
+  "sources": [
+    "https://www.lulus.com/",
+    "https://www.lulus.com/categories/13/dresses.html"
+  ],
+  "notes": [
+    "2026-10-29 (charlotte-russe run): www.lulus.com and its dresses page returned HTTP 403 to curl and WebFetch (one try each). No workaround. A human must confirm dress prices, US shipping and returns."
+  ],
+  "checked_at": "2026-10-29"
+}

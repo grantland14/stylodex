@@ -1,0 +1,58 @@
+{
+  "slug": "kakadu-australia",
+  "name": "Kakadu Australia",
+  "website_url": "https://us.kakaduaustralia.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Australian Oilskin Coats",
+  "hq_country": "AU",
+  "founded_year": 1972,
+  "parent_company": null,
+  "size_range": "XS–5XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 15,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "USD",
+      "min": 159.99,
+      "max": 220,
+      "min_usd": 159.99,
+      "max_usd": 220,
+      "fx_date": null,
+      "item_count": 9,
+      "source_url": "https://us.kakaduaustralia.com/collections/jackets-coats",
+      "checked_at": "2026-10-29",
+      "note": "US store (USD) products.json of Jackets & Coats: 9 products, all regular price. Low: Hooded Storm Coat $159.99; Double Bay Bomber $169.99; Gold Coast Drover Jacket $189.99–$220 by size; Iron Bark Drovers Jacket $199–$199.99; high $220."
+    }
+  ],
+  "materials": [
+    "Oilskin"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "coats-jackets"
+  ],
+  "sources": [
+    "https://us.kakaduaustralia.com/",
+    "https://us.kakaduaustralia.com/collections/jackets-coats",
+    "https://us.kakaduaustralia.com/policies/refund-policy",
+    "https://us.kakaduaustralia.com/pages/about-us"
+  ],
+  "notes": [
+    "kakaduaustralia.com redirects to us.kakaduaustralia.com, 'Kakadu USA', USD; title 'Australian Style Hats, Bags & Outerwear Built to Last!' (https://us.kakaduaustralia.com/).",
+    "Refund policy: notify within 15 days of purchase; resalable condition; restocking fee deducted (amount not stated); US returns go to Ridgefield, WA (https://us.kakaduaustralia.com/policies/refund-policy).",
+    "About: Australian, family owned, 'manufacturing quality outerwear and hats since 1972'; the Whillas family made their own oilskin cloth (https://us.kakaduaustralia.com/pages/about-us).",
+    "Sizes XS–3XL on all 9 jackets, 4XL–5XL on 5 (https://us.kakaduaustralia.com/collections/jackets-coats/products.json)."
+  ],
+  "checked_at": "2026-10-29"
+}

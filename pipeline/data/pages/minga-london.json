@@ -1,0 +1,1103 @@
+{
+  "subject": "Minga London",
+  "slug": "minga-london",
+  "url_prefix": "brands",
+  "category": {
+    "slug": "jeans",
+    "name": "Jeans",
+    "why": "C is a product type. Jeans are Minga London's largest product type: 50 of the 489 products read from its US store's /collections/all feed (next: long-sleeve tops 39, zip-up hoodies 32, jackets 30), and 15 of 69 in its Most Wanted collection (next: bags 8). Its US homepage meta leads with 'statement denim and jeans, graphic tops', and Dolls Kill files 19 Minga jeans in its jeans collection. Tops taken together (long-sleeve, tank, baby tees, tees) outnumber jeans, so a human may prefer tops; see human_check."
+  },
+  "serp": [
+    {
+      "keyword": "brands like minga london",
+      "position": 1,
+      "url": "http://www.indiefoxx.com/blog/2022/11/27/alternative-shops",
+      "kept": false,
+      "why_dropped": "fetched; a general list of alternative shops that includes Minga London as one entry ('Ethical, alternative clothing. Grunge, punk, alternative, metal, goth, you name it.') but frames no shop as an alternative to it (also organic #4)"
+    },
+    {
+      "keyword": "brands like minga london",
+      "position": 1,
+      "url": "https://www.reddit.com/r/ethicalfashion/comments/1914zdf/minga_london_alternatives/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround (also organic #2)"
+    },
+    {
+      "keyword": "brands like minga london",
+      "position": 1,
+      "url": "https://www.reddit.com/r/findfashion/comments/1cr3ass/where_can_i_find_clothes_like_this_besides/",
+      "kept": false,
+      "why_dropped": "unfetchable: reddit.com; not read"
+    },
+    {
+      "keyword": "brands like minga london",
+      "position": 1,
+      "url": "https://us.mingalondon.com/collections/grungecore",
+      "kept": false,
+      "why_dropped": "the anchor's own site (also organic #10)"
+    },
+    {
+      "keyword": "brands like minga london",
+      "position": 1,
+      "url": "https://worthybornedit.com/15-stores-like-minga-london-for-y2k-grunge-style-clothing/",
+      "kept": true,
+      "why_dropped": null,
+      "note": "AI Overview sitelink and organic #7 (DR 4). '15 Stores like Minga London for Y2K Grunge Style Clothing', May 1, 2025, no author named. 14 brands plus vintage marketplaces."
+    },
+    {
+      "keyword": "brands like minga london",
+      "position": 1,
+      "url": "https://www.instagram.com/popular/brands-like-minga-london/",
+      "kept": false,
+      "why_dropped": "social tag aggregator (also organic #9)"
+    },
+    {
+      "keyword": "brands like minga london",
+      "position": 1,
+      "url": "https://www.youtube.com/shorts/YPpsEFTS3b0",
+      "kept": false,
+      "why_dropped": "social video; not an editorial list"
+    },
+    {
+      "keyword": "brands like minga london",
+      "position": 1,
+      "url": "https://www.tiktok.com/discover/alternatives-to-minga-london",
+      "kept": false,
+      "why_dropped": "social aggregator"
+    },
+    {
+      "keyword": "brands like minga london",
+      "position": 2,
+      "url": "https://www.reddit.com/r/ethicalfashion/comments/qxyw86/ethical_affordable_on_trend_clothes_similar_to/",
+      "kept": false,
+      "why_dropped": "sitelink; reddit.com, not read"
+    },
+    {
+      "keyword": "brands like minga london",
+      "position": 2,
+      "url": "https://www.reddit.com/r/altfashionadvice/comments/1p3tg80/alt_online_shops_that_dont_cost_100_for_a_top/",
+      "kept": false,
+      "why_dropped": "sitelink; reddit.com, not read (also discussion #5)"
+    },
+    {
+      "keyword": "brands like minga london",
+      "position": 3,
+      "url": "https://us.mingalondon.com/",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "brands like minga london",
+      "position": 5,
+      "url": "https://www.quora.com/What-are-some-affordable-alternatives-to-fast-fashion-brands",
+      "kept": false,
+      "why_dropped": "discussion about fast-fashion alternatives in general, not Minga London; not read"
+    },
+    {
+      "keyword": "brands like minga london",
+      "position": 8,
+      "url": "https://www.tiktok.com/discover/clothing-brands-similar-to-minga-london",
+      "kept": false,
+      "why_dropped": "social aggregator"
+    },
+    {
+      "keyword": "stores like minga london",
+      "position": 1,
+      "url": "https://www.reddit.com/r/ethicalfashion/comments/1914zdf/minga_london_alternatives/",
+      "kept": false,
+      "why_dropped": "reddit.com, not read"
+    },
+    {
+      "keyword": "stores like minga london",
+      "position": 3,
+      "url": "http://www.indiefoxx.com/blog/2022/11/27/alternative-shops",
+      "kept": false,
+      "why_dropped": "see above: frames no shop as an alternative to Minga London"
+    },
+    {
+      "keyword": "stores like minga london",
+      "position": 4,
+      "url": "https://www.reddit.com/r/PetiteFashionAdvice/comments/1k1kb2p/alternative_fashion_brands/",
+      "kept": false,
+      "why_dropped": "AI Overview sitelink; reddit.com, not read"
+    },
+    {
+      "keyword": "stores like minga london",
+      "position": 4,
+      "url": "https://www.pinterest.com/pin/13-brands-like-jaded-london-in-2024--607141593543956953/",
+      "kept": false,
+      "why_dropped": "AI Overview sitelink; Pinterest pin about Jaded London, not Minga"
+    },
+    {
+      "keyword": "stores like minga london",
+      "position": 4,
+      "url": "https://www.instagram.com/popular/brands-similar-to-jaded-london/",
+      "kept": false,
+      "why_dropped": "AI Overview sitelink; Instagram aggregator about Jaded London"
+    },
+    {
+      "keyword": "stores like minga london",
+      "position": 5,
+      "url": "https://www.tiktok.com/discover/stores-like-minga-london",
+      "kept": false,
+      "why_dropped": "social aggregator"
+    },
+    {
+      "keyword": "stores like minga london",
+      "position": 7,
+      "url": "https://www.attitudeclothing.co.uk/",
+      "kept": false,
+      "why_dropped": "a UK multi-brand alt retailer homepage, not an alternatives list; not read (could be a co-stocking source if it carries Minga London)"
+    },
+    {
+      "keyword": "stores like minga london",
+      "position": 8,
+      "url": "https://worthybornedit.com/15-stores-like-minga-london-for-y2k-grunge-style-clothing/",
+      "kept": true,
+      "why_dropped": null,
+      "note": "same page as above"
+    },
+    {
+      "keyword": "stores like minga london",
+      "position": 10,
+      "url": "https://www.instagram.com/reel/DWOfIYuDfQo/",
+      "kept": false,
+      "why_dropped": "social video"
+    },
+    {
+      "keyword": "minga london alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs returned no US SERP data for this keyword"
+    },
+    {
+      "keyword": "similar to minga london",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs returned no US SERP data for this keyword"
+    },
+    {
+      "keyword": "brands like minga london (WebSearch)",
+      "position": null,
+      "url": "https://www.discobrands.co/brands/minga-london",
+      "kept": true,
+      "why_dropped": null,
+      "note": "Not in the Ahrefs top 10; found by WebSearch. A discobrands brand-directory profile ('Facts checked August 2026', no author) with a 4-brand similar-brands block whose match scores look automated, but each entry carries a written reason and difference, so it is kept as one editorial source. apartstyle.com also appeared in the WebSearch and was ignored."
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": "Dolls Kill",
+      "url": "https://www.dollskill.com/collections/jeans",
+      "used": true,
+      "why": "products.json pages 1–4 (1,000 products) list 19 jeans from vendor 'Minga'; Dolls Kill's /collections/minga page calls them Minga London. All 168 Minga products there were out of stock on 2026-10-29, so the listing shows where Dolls Kill files the brand, not current stock. Every other brand vendor in the collection is co_stocked. Excluded as brands: Dolls Kill house lines (names containing 'Dolls Kill', Current Mood, Widow, dELiA*s by Dolls Kill), Urban Outfitters' BDG, and 'x_'-prefixed vendor codes."
+    },
+    {
+      "retailer": "Attitude Clothing",
+      "url": "https://www.attitudeclothing.co.uk/",
+      "used": false,
+      "why": "ranks #7 for 'stores like minga london' but it is a UK store homepage; not read, so not used"
+    }
+  ],
+  "candidates": [
+    {
+      "name": "The Ragged Priest",
+      "slug": "the-ragged-priest",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-minga-london-for-y2k-grunge-style-clothing/",
+          "note": "#1: \"Known for their range of distressed denim, baggy jeans, grunge graphic tees\""
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "124 products in the Dolls Kill jeans collection, which also lists 19 Minga (Minga London) jeans"
+        }
+      ]
+    },
+    {
+      "name": "The Kript",
+      "slug": "the-kript",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-minga-london-for-y2k-grunge-style-clothing/",
+          "note": "#2: \"Leaning into the cyberpunk style aesthetic while still grounded in grunge fashion\""
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "16 products in the Dolls Kill jeans collection, which also lists 19 Minga (Minga London) jeans"
+        }
+      ]
+    },
+    {
+      "name": "Jaded London",
+      "slug": "jaded-london",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-minga-london-for-y2k-grunge-style-clothing/",
+          "note": "#3: \"more known for dabbling in the hardcore punk outfit zone\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/minga-london",
+          "note": "similar-brands block: \"Same London Y2K crowd, baggier streetwear silhouettes\""
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "31 products in the Dolls Kill jeans collection, which also lists 19 Minga (Minga London) jeans"
+        }
+      ]
+    },
+    {
+      "name": "Dolls Kill",
+      "slug": "dollskill",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-minga-london-for-y2k-grunge-style-clothing/",
+          "note": "#4: \"a colossal range of grunge aesthetic styles\""
+        }
+      ]
+    },
+    {
+      "name": "Weekday",
+      "slug": "weekday",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-minga-london-for-y2k-grunge-style-clothing/",
+          "note": "#5: \"a more minimal approach to grunge fashion\""
+        }
+      ]
+    },
+    {
+      "name": "Diesel",
+      "slug": "diesel",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-minga-london-for-y2k-grunge-style-clothing/",
+          "note": "#6: \"distressed denim and bold social media presence\""
+        }
+      ]
+    },
+    {
+      "name": "Ksubi",
+      "slug": "ksubi",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-minga-london-for-y2k-grunge-style-clothing/",
+          "note": "#7: \"Renowned for its raw finishes and perfectly undone designs\""
+        }
+      ]
+    },
+    {
+      "name": "Scuffers",
+      "slug": "scuffers",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-minga-london-for-y2k-grunge-style-clothing/",
+          "note": "#8: \"delivers rebellious street styles with an elevated twist\""
+        }
+      ]
+    },
+    {
+      "name": "Prod",
+      "slug": "prod",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-minga-london-for-y2k-grunge-style-clothing/",
+          "note": "#9: \"Known for their slinky pieces, perfect for layering fairy grunge outfits\""
+        }
+      ]
+    },
+    {
+      "name": "Namilia",
+      "slug": "namilia",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-minga-london-for-y2k-grunge-style-clothing/",
+          "note": "#10: \"Provocative Berlin clubwear is what comes to mind\""
+        }
+      ]
+    },
+    {
+      "name": "Bershka",
+      "slug": "bershka",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-minga-london-for-y2k-grunge-style-clothing/",
+          "note": "#11: \"wearable and affordable edgy clothing that mirrors the street style aesthetic\""
+        }
+      ]
+    },
+    {
+      "name": "Manière De Voir",
+      "slug": "maniere-de-voir",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-minga-london-for-y2k-grunge-style-clothing/",
+          "note": "#12: \"sharp and elevated edge to the grunge fashion scene\""
+        }
+      ]
+    },
+    {
+      "name": "Motel Rocks",
+      "slug": "motel-rocks",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-minga-london-for-y2k-grunge-style-clothing/",
+          "note": "#13: \"Known for its vintage take on edgy style\""
+        }
+      ]
+    },
+    {
+      "name": "LIONESS",
+      "slug": "lioness",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-minga-london-for-y2k-grunge-style-clothing/",
+          "note": "#14: \"Blending effortless elegance with rugged streetwear\""
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "10 products in the Dolls Kill jeans collection, which also lists 19 Minga (Minga London) jeans"
+        }
+      ]
+    },
+    {
+      "name": "OMIGHTY",
+      "slug": "o-mighty",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/minga-london",
+          "note": "similar-brands block: \"Slogan baby tees and printed Y2K party pieces, DTC\""
+        }
+      ]
+    },
+    {
+      "name": "Daisy Street",
+      "slug": "daisy-street",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/minga-london",
+          "note": "similar-brands block: \"UK Y2K and 90s graphics at an even lower price\""
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "9 products in the Dolls Kill jeans collection, which also lists 19 Minga (Minga London) jeans"
+        }
+      ]
+    },
+    {
+      "name": "UNIF Clothing",
+      "slug": "unif",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/minga-london",
+          "note": "similar-brands block: \"Grungier LA take on baby tees, plus platform footwear\""
+        }
+      ]
+    },
+    {
+      "name": "Edikted",
+      "slug": "edikted",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "39 products in the Dolls Kill jeans collection, which also lists 19 Minga (Minga London) jeans"
+        }
+      ]
+    },
+    {
+      "name": "Rolla's",
+      "slug": "rollas",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "29 products in the Dolls Kill jeans collection, which also lists 19 Minga (Minga London) jeans"
+        }
+      ]
+    },
+    {
+      "name": "Daze",
+      "slug": "daze",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "21 products in the Dolls Kill jeans collection, which also lists 19 Minga (Minga London) jeans"
+        }
+      ]
+    },
+    {
+      "name": "Tripp NYC",
+      "slug": "tripp-nyc",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "16 products in the Dolls Kill jeans collection, which also lists 19 Minga (Minga London) jeans"
+        }
+      ]
+    },
+    {
+      "name": "BY.DYLN",
+      "slug": "by-dyln",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "13 products in the Dolls Kill jeans collection, which also lists 19 Minga (Minga London) jeans"
+        }
+      ]
+    },
+    {
+      "name": "Pistola",
+      "slug": "pistola",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "10 products in the Dolls Kill jeans collection, which also lists 19 Minga (Minga London) jeans"
+        }
+      ]
+    },
+    {
+      "name": "Levi's",
+      "slug": "levis",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "17 products in the Dolls Kill jeans collection, which also lists 19 Minga (Minga London) jeans"
+        }
+      ]
+    },
+    {
+      "name": "Lazy Oaf",
+      "slug": "lazy-oaf",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "7 products in the Dolls Kill jeans collection, which also lists 19 Minga (Minga London) jeans"
+        }
+      ]
+    },
+    {
+      "name": "Momokrom",
+      "slug": "momokrom",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "66 products in the Dolls Kill jeans collection, which also lists 19 Minga (Minga London) jeans"
+        }
+      ]
+    },
+    {
+      "name": "Generation Kiss",
+      "slug": "generation-kiss",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "17 products in the Dolls Kill jeans collection, which also lists 19 Minga (Minga London) jeans"
+        }
+      ]
+    },
+    {
+      "name": "DARKER WAVS",
+      "slug": "darker-wavs",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "12 products in the Dolls Kill jeans collection, which also lists 19 Minga (Minga London) jeans"
+        }
+      ]
+    },
+    {
+      "name": "Koi Footwear",
+      "slug": "koi-footwear",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "ATP Atelier",
+      "slug": "atp-atelier",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Swear London",
+      "slug": "swear-london",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Irregular Choice",
+      "slug": "irregular-choice",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Miista",
+      "slug": "miista",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "John Fluevog",
+      "slug": "john-fluevog",
+      "in_apart_pool": true,
+      "sources": []
+    }
+  ],
+  "picks": [
+    {
+      "slug": "the-kript",
+      "rank": 1,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 93,
+        "max": 114,
+        "min_usd": 93,
+        "max_usd": 114,
+        "fx_date": null,
+        "item_count": 6
+      },
+      "price_relation": "cheaper",
+      "reason": "The Kript sells low-rise jeans at $93 to $114, below Minga London's $130 floor, ships US orders from Montreal with duties included, free over $150.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-minga-london-for-y2k-grunge-style-clothing/",
+          "note": "#2: \"Leaning into the cyberpunk style aesthetic while still grounded in grunge fashion\""
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "16 products in the Dolls Kill jeans collection, which also lists 19 Minga (Minga London) jeans"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "the-ragged-priest",
+      "rank": 2,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "GBP",
+        "min": 70,
+        "max": 80,
+        "min_usd": 93.01,
+        "max_usd": 106.3,
+        "fx_date": "2026-10-28",
+        "item_count": 8
+      },
+      "price_relation": "cheaper",
+      "reason": "The Ragged Priest's baggy and low-rise flare jeans cost £70–£80 (about $93–$106) in waists 24–38, Minga's own waist spread, with free US shipping over $90.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-minga-london-for-y2k-grunge-style-clothing/",
+          "note": "#1: \"Known for their range of distressed denim, baggy jeans, grunge graphic tees\""
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "124 products in the Dolls Kill jeans collection, which also lists 19 Minga (Minga London) jeans"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "lioness",
+      "rank": 3,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 85,
+        "max": 105,
+        "min_usd": 85,
+        "max_usd": 105,
+        "fx_date": null,
+        "item_count": 40
+      },
+      "price_relation": "cheaper",
+      "reason": "LIONESS's US store sells jeans at $85–$105 in XXS–XXL from a US warehouse, with free standard US shipping and 30-day returns like Minga.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-minga-london-for-y2k-grunge-style-clothing/",
+          "note": "#14: \"Blending effortless elegance with rugged streetwear\""
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "10 products in the Dolls Kill jeans collection, which also lists 19 Minga (Minga London) jeans"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "maniere-de-voir",
+      "rank": 4,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 155,
+        "max": 200,
+        "min_usd": 155,
+        "max_usd": 200,
+        "fx_date": null,
+        "item_count": 31
+      },
+      "price_relation": "similar",
+      "reason": "Manière De Voir's US store prices its jeans at $155–$200, inside Minga London's $130–$210, with flared and lace-up styles designed in-house.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-minga-london-for-y2k-grunge-style-clothing/",
+          "note": "#12: \"sharp and elevated edge to the grunge fashion scene\""
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "ksubi",
+      "rank": 5,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 190,
+        "max": 580,
+        "min_usd": 190,
+        "max_usd": 580,
+        "fx_date": null,
+        "item_count": 83
+      },
+      "price_relation": "similar",
+      "reason": "Ksubi, a Sydney denim label since 1999, sells women's distressed jeans from $190 in waists 22–34, with free US shipping over $150.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-minga-london-for-y2k-grunge-style-clothing/",
+          "note": "#7: \"Renowned for its raw finishes and perfectly undone designs\""
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "diesel",
+      "rank": 6,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 195,
+        "max": 650,
+        "min_usd": 195,
+        "max_usd": 650,
+        "fx_date": null,
+        "item_count": 39
+      },
+      "price_relation": "similar",
+      "reason": "Diesel's US store sells women's jeans from $195 (1969 D-Ebbey bootcut) to $650, with free returns and exchanges within 15 days.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-minga-london-for-y2k-grunge-style-clothing/",
+          "note": "#6: \"distressed denim and bold social media presence\""
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "motel-rocks",
+      "rank": 7,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 89,
+        "max": 114,
+        "min_usd": 89,
+        "max_usd": 114,
+        "fx_date": null,
+        "item_count": 97
+      },
+      "price_relation": "cheaper",
+      "reason": "Motel Rocks' US store sells Roomy, Parallel and Flared jeans at $89–$114 in 30, 32 and 34-inch leg lengths, with free shipping over $95.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://worthybornedit.com/15-stores-like-minga-london-for-y2k-grunge-style-clothing/",
+          "note": "#13: \"Known for its vintage take on edgy style\""
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "rollas",
+      "rank": 8,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 129,
+        "max": 199,
+        "min_usd": 129,
+        "max_usd": 199,
+        "fx_date": null,
+        "item_count": 61
+      },
+      "price_relation": "similar",
+      "reason": "Rolla's US store sells jeans at $129–$199, almost exactly Minga London's $130–$210, with Long versions at a 34-inch inseam.",
+      "evidence": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "29 products in the Dolls Kill jeans collection, which also lists 19 Minga (Minga London) jeans"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "by-dyln",
+      "rank": 9,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "AUD",
+        "min": 149,
+        "max": 290,
+        "min_usd": 104.79,
+        "max_usd": 203.95,
+        "fx_date": "2026-10-28",
+        "item_count": 6
+      },
+      "price_relation": "similar",
+      "reason": "BY.DYLN sells statement jeans at A$149–A$290 (about $105–$204), close to Minga's range, with free international shipping over A$150.",
+      "evidence": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "13 products in the Dolls Kill jeans collection, which also lists 19 Minga (Minga London) jeans"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "tripp-nyc",
+      "rank": 10,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 79,
+        "max": 174,
+        "min_usd": 79,
+        "max_usd": 174,
+        "fx_date": null,
+        "item_count": 28
+      },
+      "price_relation": "similar",
+      "reason": "Tripp NYC sells strap, zip and bondage denim pants at $79–$174, with a plus range from 10 to 28 and free US shipping over $150.",
+      "evidence": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "16 products in the Dolls Kill jeans collection, which also lists 19 Minga (Minga London) jeans"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "pistola",
+      "rank": 11,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 188,
+        "max": 248,
+        "min_usd": 188,
+        "max_usd": 248,
+        "fx_date": null,
+        "item_count": 52
+      },
+      "price_relation": "similar",
+      "reason": "Pistola, a Los Angeles denim brand, sells jeans at $188–$248 with petite versions in 23P–33P and free US shipping at $200.",
+      "evidence": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "10 products in the Dolls Kill jeans collection, which also lists 19 Minga (Minga London) jeans"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "daze",
+      "rank": 12,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 88,
+        "max": 128,
+        "min_usd": 88,
+        "max_usd": 128,
+        "fx_date": null,
+        "item_count": 37
+      },
+      "price_relation": "cheaper",
+      "reason": "Daze, a US brand that ships only within the US, sells flare, wide and palazzo jeans at $88–$128 in waists 23–33.",
+      "evidence": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.dollskill.com/collections/jeans",
+          "note": "21 products in the Dolls Kill jeans collection, which also lists 19 Minga (Minga London) jeans"
+        }
+      ],
+      "gate_gaps": []
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "jaded-london",
+      "why": "unverified (shared status): jadedldn.com refused automated reads (403) on every attempt by other agents on 2026-10-28/29; not retried, no workaround. 3 sources here (worthybornedit, discobrands, Dolls Kill jeans), the strongest candidate on the page. Human check."
+    },
+    {
+      "slug": "dollskill",
+      "why": "retailer that stocks Minga London itself (its /collections/minga page and 19 Minga jeans in its jeans collection), so a place to buy Minga, not an alternative brand. Its jeans collection is used as co_stocked evidence instead."
+    },
+    {
+      "slug": "weekday",
+      "why": "unverified: weekday.com returned HTTP 403 to other agents on 2026-10-29; not retried. 1 source (worthybornedit)."
+    },
+    {
+      "slug": "bershka",
+      "why": "unverified: bershka.com returned HTTP 403 (2026-10-28); not retried. 1 source (worthybornedit)."
+    },
+    {
+      "slug": "daisy-street",
+      "why": "sells jeans only marginally: its US-served denim collection (daisystreet.co.uk/collections/denim-x) holds 8 items, of which 1 regular-price pair of jeans (Miffy x Daisy St. Blue Denim Jeans, £40). A jeans pick would rest on one item. 2 sources (discobrands, Dolls Kill jeans). Brand file not written."
+    },
+    {
+      "slug": "unif",
+      "why": "verified live, but doesn't sell jeans: its Bottoms collection (46 products) is skirts, pants and shorts with no jeans. Brand file not written."
+    },
+    {
+      "slug": "scuffers",
+      "why": "its jeans are menswear only (product type 'Man Pants Denim', waist sizes 34–44, 5 jeans at €89 plus a denim jogger, tagged outlet), against a mostly women's anchor. US shipping $10, free over $400, duties covered, 14-day returns. Brand file not written; a human may override."
+    },
+    {
+      "slug": "namilia",
+      "why": "not verified for jeans: namilia.com returned HTTP 429 on the second feed read; its catalog shows denim panty/thong trousers (clubwear), not jeans in the usual sense. 1 source."
+    },
+    {
+      "slug": "prod",
+      "why": "not checked: 12 picks already passed, and worthybornedit names it for slinky layering pieces, not denim. 1 source."
+    },
+    {
+      "slug": "o-mighty",
+      "why": "brand file status off_category (set by an earlier run); discobrands itself says 'less knitwear or denim'. Not re-checked for jeans. 1 source (discobrands)."
+    },
+    {
+      "slug": "edikted",
+      "why": "verified, but its whole jeans collection (484 products) is marked down (compare_at above price) on 2026-10-29, so it has no regular jeans price; can't render. 1 source (Dolls Kill jeans)."
+    },
+    {
+      "slug": "levis",
+      "why": "co-stocked only (17 Levi's in the Dolls Kill jeans collection); not added: a mass-market jeans brand with no stored price, a weak match for Minga's statement denim. Human may override."
+    },
+    {
+      "slug": "momokrom",
+      "why": "co-stocked only; momokrom.com, generationkiss.com and darkerwavs.com all serve a parked-domain redirect to /lander, so no official store was found. Not verified."
+    },
+    {
+      "slug": "generation-kiss",
+      "why": "co-stocked only; generationkiss.com is a parked domain (redirect to /lander). Not verified."
+    },
+    {
+      "slug": "darker-wavs",
+      "why": "co-stocked only; darkerwavs.com is a parked domain (redirect to /lander). Not verified."
+    },
+    {
+      "slug": "lazy-oaf",
+      "why": "co-stocked only (7 Lazy Oaf in the Dolls Kill jeans collection); lazyoaf.com has no /collections/jeans feed (0 products) and us.lazyoaf.com returned 401. Not verified."
+    },
+    {
+      "slug": "koi-footwear",
+      "why": "Apart Style pool only (the pool rows mix in Minga Berlin, a shoe brand): no outside source."
+    },
+    {
+      "slug": "atp-atelier",
+      "why": "Apart Style pool only: no outside source; shoes."
+    },
+    {
+      "slug": "swear-london",
+      "why": "Apart Style pool only: no outside source; shoes."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "category C = jeans",
+      "url": "https://us.mingalondon.com/collections/most-wanted-rn",
+      "check": "Confirm jeans is the line to compare on. Jeans are the largest single product type, but tops of all kinds together outnumber them."
+    },
+    {
+      "fact": "pick check: Jaded London",
+      "url": "https://jadedldn.com/",
+      "check": "403 to every automated read. It has 3 sources here and would be rank 1: confirm live, jeans price range (USD), sizes, US shipping, returns."
+    },
+    {
+      "fact": "Diesel full jeans range",
+      "url": "https://diesel.com/en-us/woman/denim/",
+      "check": "Only 39 of 111 products were read ($195–$650). Confirm min/max regular price, US free-shipping threshold and size range."
+    },
+    {
+      "fact": "co_stocked evidence: Dolls Kill Minga stock",
+      "url": "https://www.dollskill.com/collections/minga",
+      "check": "Every Minga product there was sold out. Confirm Dolls Kill still carries Minga London; if not, the five co-stocked-only picks (Rolla's, BY.DYLN, Tripp NYC, Pistola, Daze) lose their only source."
+    },
+    {
+      "fact": "LIONESS product photos",
+      "url": "https://us.lionessfashion.com/collections/denim",
+      "check": "Its jeans price now comes from the US store (USD). product-images.json still holds AU-store photos priced in AUD; re-run product-images.mjs."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": {
+    "source": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+    "date": "2026-10-28",
+    "per_eur": {
+      "USD": 1.1133,
+      "GBP": 0.83785,
+      "AUD": 1.583
+    },
+    "usd_per_gbp": 1.328758,
+    "usd_per_aud": 0.703285
+  },
+  "notes": [
+    "12 picks pass enrich.md §3 (verified, sell jeans, ≥1 counted outside source, a checkable reason, US shipping). Three have 2 independent sources (The Kript, The Ragged Priest, LIONESS: worthybornedit + Dolls Kill jeans); four have one editorial source (Manière De Voir, Ksubi, Diesel, Motel Rocks); five rest on Dolls Kill co-stocking only.",
+    "Ranking: independent sources, then editorial before co-stocked, then closeness of the jeans price range to Minga London's US $130–$210 (by midpoint).",
+    "Anchor: verified. US store (us.mingalondon.com, cart USD): 33 regular-price jeans $130–$210, waists 24–38; DHL Express $15 under $100, $9.90 for $100–$200, free over $200, 2–4 business days; duties included; 30-day returns, each return carries a fee; no exchanges. UK store (cart GBP) prices the same jeans much lower: Rift Washed Black Straight Baggy $130 vs £72 (about $96); Burn Baggy $190 vs £110 (about $146); Dash Distressed Flared $210 vs £120 (about $159).",
+    "Anchor known_for corrected to 'Statement Denim and Graphic Tops' (from its US homepage meta); the old value was an About-page slogan that broke the title.",
+    "Regular price: no variant with compare_at_price above price. A 'sale' tag without a markdown counts as regular (enrich.md), which moves Minga's jeans count from 30 to 33; range unchanged.",
+    "Brand files touched this run (patches in my own scratchpad folder, merged one at a time): minga-london, the-kript (jeans price added), lioness (jeans price switched to the US store's USD), ksubi and diesel (new), plus re-read notes on the-ragged-priest, motel-rocks, maniere-de-voir, daze, tripp-nyc, by-dyln, pistola, rollas."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "You've found the Minga London jeans you like, then noticed the US store asks $130 for the Rift Washed Black Straight Baggy Jeans that cost £72 (about $96) in the UK. Duties are included and shipping is free over $200, but that's still a lot for one pair. So here are the brands that sell jeans in the same grunge and Y2K spirit, all available in the US. The closest matches come first.",
+    "bodies": {
+      "the-kript": "The Kript is the closest match to Minga London's Y2K look for less money. Its jeans run from the Randy Jeans ($93) to the Fiara Jeans ($114), so even its dearest pair costs less than Minga's cheapest.\n\nIt calls itself women's clothing with a Y2K edge, and the low-rise denim sits next to corset tops, graphic tops and matching sets. That makes it an easy place to buy the whole outfit in one order. US orders ship from Montreal with duties included, and shipping is free over $150 ($8.99 under).\n\nThe trade-off is range. There are only a few jeans, sizes stop at XL, and you get 14 days to send things back. If you need more room, LIONESS goes to XXL for about the same money.",
+      "the-ragged-priest": "The Ragged Priest is the pick if it's Minga London's grungier denim you're after, and it costs a lot less. Start with the Loopy Eyelet Super Baggy Jeans (£80, about $106), or go louder with the Patch Dalmatian Print Baggy Jeans (£70, about $93).\n\nPrices are in pounds, so do the conversion before you compare. US shipping is free over $90, a much lower bar than Minga's $200, and returns stay open for 28 days. Waists go from 24 to 38, the same spread as Minga's jeans, so your usual Minga waist size is there.\n\nIts jeans edit is small, split between super-baggy fits and low-rise flares. If you want more washes to choose from at a similar price, Motel Rocks has a much deeper denim range.",
+      "lioness": "LIONESS is where to go for jeans at half what Minga London's dearest pair costs. Most styles, like the Cobra Jean, are $105, and the Horseshoe Cropped Jean is $85.\n\nIt's an Australian label inspired by luxury trends, and its jeans come in washes and colors like camel and zebra rather than Minga's studs and paint splatter. The useful part for US shoppers is the US store. It prices in dollars and ships from a US warehouse, with free standard shipping on every US order. Sizes run XXS to XXL.\n\nReturns are open for 30 days, the same as Minga. Refunds cost $15, but returns for store credit or an exchange are free, so swapping a size costs you nothing.",
+      "maniere-de-voir": "Manière De Voir is the one to try if Minga London's prices suit you but you want a dressier pair. Its jeans sit between $155 and $200, right inside Minga's range. The Ambre Denim Lace Up Flared Jeans ($200) show the idea, and the Abbie Stacked Fit And Flare Jean ($155) is the cheaper way in.\n\nThe brand says it bridges high fashion and the high street, and every piece is designed in-house from sketch to sample. Its head office is in SoHo, New York, and the US store prices in dollars. Free shipping starts at $250, though, which is higher than Minga's $200.\n\nSizes run US 0 to 12, much narrower than Minga's, and returns close after 14 days. If you need a bigger waist at similar money, Rolla's goes to a 36.",
+      "ksubi": "Ksubi is the step up, for distressed denim from a label that's been making it since 1999. Its women's jeans start at $190 with the Spray On and Hi N Wasted styles, and the Barrel Jean Opium High Rollers is $450.\n\nIt's a Sydney label that began in a North Sydney garage with a first batch of screen-printed tees and denim. The jeans are sold by fit name, like Barrel, Low Rider and Spray On, so pick the fit first and then the wash. US shipping is free over $150, lower than Minga's $200, and returns run 30 days.\n\nThose returns cover full-price items only. And with the top of the range at $580, it sits with Diesel as the priciest pick here. If $190 is more than you want to spend, Rolla's starts at $129.",
+      "diesel": "Diesel is the big-name option for statement denim, and its US store sells it in dollars. The 1969 D-Ebbey bootcut jeans start at $195, and the 1978 D-Akemi flares are $250.\n\nEach listing leads with the cut and the rise, like Bootcut Jeans Low Waist, so it's easy to shop by shape first. Returns and exchanges are free within 15 days, and you can swap for another size or color online. Sign in to your account and standard shipping is free too.\n\nThe catch is price. Many styles cost $250 or more, and the D-Lie and D-Heel reach $650, about three times Minga London's dearest pair. If you want distressed denim for far less, The Ragged Priest stays under $110.",
+      "motel-rocks": "Motel Rocks is the deep-range, lower-price option, with jeans from $89 to $114 on its US store. The Low Rise Parallel Jeans in Bright Blue Used ($89) are a good first pair.\n\nRoomy and Parallel are its two biggest fits, so choose a shape and then pick from a long run of washes. Leg lengths come in 30, 32 and 34 inches, which means you can buy by inseam. It designs in London and produces in Bali. Shipping is free over $95, and returns run 30 days from dispatch.\n\nWaists stop at 36, a little short of Minga London's 38. If you need more room than that, Tripp NYC has a plus range.",
+      "rollas": "Rolla's is the closest on price, with jeans from $129 to $199 against Minga London's $130 to $210. The Gigi Barrel Jeans ($129) and the Midtown Bootcut Jeans ($169) are easy places to start.\n\nIt's an Australian denim label, and its US store prices in dollars. Many styles come in a Long version with a 34-inch inseam, worth knowing if jeans usually stop short on you. Waists run 23 to 36. US shipping is free over $120, and returns are open for 30 days.\n\nIts own pitch is fit, denim that lifts, holds and flatters, rather than Minga's studs and graphics. Sale pieces can't be returned, and a standard US return costs $6 to $10. For the louder look at a lower price, The Ragged Priest fits better.",
+      "by-dyln": "BY.DYLN is the Australian pick for statement jeans at Minga London money. The Cooper Jeans (A$149, about $105) are the way in, and the Archer Jeans (A$290, about $204) sit at the top.\n\nPrices are in Australian dollars, so convert before you compare. International orders over A$150 ship free, otherwise it's a flat A$20. So the A$149 styles fall just short, and anything pricier ships free, a lower bar than Minga's $200.\n\nThe range is small, sizes run XS to XL, and returns close after 14 days, with the postage back to Australia on you. If you want more choice at similar money, Pistola has a much bigger jeans range.",
+      "tripp-nyc": "Tripp NYC is where to go for punk denim with hardware, from a label founded in New York's East Village in the early 1980s. The High Waist Skinny Jean ($79) is the cheapest way in, and the X-Strap Pant Dirty Wash Blue Denim ($174) shows what it's known for.\n\nMost of its denim pants carry straps, zips or bondage details, a good match for Minga London's studded and belted jeans. It also has a plus range, from 10 to 28. Shipping is free on US orders over $150.\n\nReturns are the weak spot. You get 7 days to ask for one, refunds lose the return postage, and sale styles are final. If you'd like more time to decide, Motel Rocks gives you 30 days.",
+      "pistola": "Pistola has the petite jeans here, priced near the top of Minga London's range. The Cassie Super High Rise Straight Jean ($188) is the way in, and the Wes High Rise Barrel ($248) sits at the top.\n\nIt's a Los Angeles brand founded in 2013, and many of its jeans come in petite versions, from 23P to 33P. Minga's size guide has no petite range, so this is the place if regular lengths swamp you. Fits run from straight to barrel and flare. US shipping is free at $200, the same bar as Minga.\n\nReturns close after 15 days, and a refund costs $10 in return shipping, though store credit and exchanges are free. Its pitch is everyday premium pieces, so for studs and straps, Tripp NYC is the better match.",
+      "daze": "Daze is a US brand with flares and wide legs for under $130, every full-price pair sitting between $88 and $128. The Shy Girl Crop Flare in Serene ($88) is a good first pair, and the Wanderer Mid Rise Palazzo in Glimmer ($128) is the one for a palazzo leg.\n\nIt ships only within the US, so there's nothing to convert and no customs to think about. FedEx 2Day costs $9.32, and orders over $140 ship free.\n\nSize is the catch. Waists run 23 to 33, five inches short of Minga London's 38, and returns close after 15 days with a $10 label fee on refunds. If you need a bigger waist, Rolla's goes to 36."
+    },
+    "best_for": {
+      "the-kript": "low-rise Y2K jeans that cost less than Minga's cheapest",
+      "the-ragged-priest": "grunge baggy jeans with free US shipping over $90",
+      "lioness": "jeans under $110 with free US shipping and exchanges",
+      "maniere-de-voir": "dressier flared jeans for the same money as Minga",
+      "ksubi": "distressed denim when you're ready to spend more",
+      "diesel": "big-name statement jeans with free returns and exchanges",
+      "motel-rocks": "buying jeans by inseam, from 30 to 34 inches",
+      "rollas": "Minga money with a 34-inch inseam option",
+      "by-dyln": "Australian statement jeans at Minga's prices",
+      "tripp-nyc": "strap and bondage denim in plus sizes",
+      "pistola": "petite jeans in Minga's price range",
+      "daze": "flares under $130 that ship from inside the US"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with your budget. If Minga's US prices are the problem, The Kript, LIONESS and The Ragged Priest all sell jeans for less than Minga's cheapest pair, and LIONESS adds free US shipping on every order. For the same money, Manière De Voir and Rolla's sit right inside Minga's $130 to $210, and Rolla's adds 34-inch inseams.\n\nThen think about fit. Tripp NYC covers plus sizes, Pistola makes petite versions, and Motel Rocks sells by leg length. And if you're ready to spend more on distressed denim, Ksubi starts at $190 and Diesel at $195, with free returns at Diesel."
+    },
+    "faqs": [
+      {
+        "q": "Where is Minga London based?",
+        "a": "Minga London is an independent brand born in East London in 2014. It started with a bathtub and a love of tie-dye, and now runs a UK store in pounds and a US store in dollars.",
+        "source_query": "where is minga london based"
+      },
+      {
+        "q": "How long does Minga London take to deliver?",
+        "a": "US orders go by DHL Express and take 2 to 4 business days, and most leave within one business day of payment. Shipping is $15 under $100, $9.90 up to $200, and free above that.",
+        "source_query": "how long does minga london take to deliver"
+      },
+      {
+        "q": "Is Minga London legit?",
+        "a": "Yes. It's an independent East London brand, going since 2014, that sells through its own UK and US stores. US orders come with duties included and email tracking, and you can return them within 30 days, though each return carries a fee.",
+        "source_query": "is minga london legit"
+      }
+    ]
+  }
+}

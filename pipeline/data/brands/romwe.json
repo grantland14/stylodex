@@ -1,0 +1,16 @@
+{
+  "slug": "romwe",
+  "name": "ROMWE",
+  "website_url": "https://us.romwe.com",
+  "status": "verified",
+  "kind": "brand",
+  "prices": [],
+  "sources": [
+    "https://us.romwe.com/",
+    "https://us.romwe.com/Shipping-Info-a-280.html"
+  ],
+  "notes": [
+    "2026-10-29 (charlotte-russe run): us.romwe.com homepage read by WebFetch: live store with cart and dresses listed at $13.89–$59.89, several 12–43% off. The shipping page guessed (Shipping-Info-a-280.html) returned 404, so US shipping terms are unconfirmed and ships_to stays empty; not a pick until a human reads the US shipping terms. Dresses not stored in sells_categories (no dress listing read)."
+  ],
+  "checked_at": "2026-10-29"
+}

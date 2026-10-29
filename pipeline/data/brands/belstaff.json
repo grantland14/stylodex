@@ -1,0 +1,61 @@
+{
+  "slug": "belstaff",
+  "name": "Belstaff",
+  "website_url": "https://belstaff.com/en-us",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Waxed Cotton Motorcycle Jackets",
+  "hq_country": "GB",
+  "founded_year": 1924,
+  "parent_company": "Castore",
+  "size_range": "XS–6XL; UK 34–50",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "coats-jackets",
+      "currency": "USD",
+      "min": 395,
+      "max": 2495,
+      "min_usd": 395,
+      "max_usd": 2495,
+      "fx_date": null,
+      "item_count": 35,
+      "source_url": "https://belstaff.com/en-us/collections/men-outerwear",
+      "checked_at": "2026-10-29",
+      "note": "US market (USD) products.json of Men's Outerwear: 154 products, gilets/vests excluded; 35 at regular price, 105 marked down. Low: Carrier Jacket $395; Racemaster Icon Jacket $550; Trialmaster Jacket $675; high: Winterbrook Jacket $2,495. www.belstaff.com without /en-us serves the UK store in GBP."
+    }
+  ],
+  "materials": [
+    "6oz waxed cotton"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "coats-jackets"
+  ],
+  "sources": [
+    "https://belstaff.com/en-us/collections/men-outerwear",
+    "https://belstaff.com/en-us/collections/men-waxed-jackets",
+    "https://belstaff.com/en-us/products/trialmaster-jacket-oxblood",
+    "https://belstaff.com/en-us/pages/delivery",
+    "https://www.belstaff.com/products/carrier-jacket-black",
+    "https://en.wikipedia.org/wiki/Belstaff"
+  ],
+  "notes": [
+    "Trialmaster Jacket (US): $675, '6 oz. waxed cotton', duties and tax included; '$10 delivery per order'; 'Complimentary returns within 30 days' (https://belstaff.com/en-us/products/trialmaster-jacket-oxblood).",
+    "Waxed jackets (US): 42 products, 21 regular ($540–$795), 21 marked down (https://belstaff.com/en-us/collections/men-waxed-jackets/products.json).",
+    "Carrier Jacket on www.belstaff.com is the UK store at £250, made in Vietnam; the US price is $395 (https://www.belstaff.com/products/carrier-jacket-black, https://belstaff.com/en-us/products/carrier-jacket-black.js).",
+    "Wikipedia: founded 1924 in Longton, Stoke-on-Trent; HQ London; acquired by Castore in August 2025; pioneered wax cotton in motorcycle apparel (https://en.wikipedia.org/wiki/Belstaff).",
+    "sale_pattern from the outerwear feed: 105 of 154 listings marked down on the day read."
+  ],
+  "checked_at": "2026-10-29"
+}

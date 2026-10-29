@@ -1,0 +1,51 @@
+{
+  "slug": "southern-tide",
+  "name": "Southern Tide",
+  "website_url": "https://southerntide.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Classic Southern Coastal Apparel",
+  "hq_country": "US",
+  "founded_year": 2006,
+  "size_range": "XS–XL",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 138,
+      "max": 228,
+      "min_usd": 138,
+      "max_usd": 228,
+      "fx_date": null,
+      "item_count": 14,
+      "source_url": "https://southerntide.com/collections/women-dresses",
+      "checked_at": "2026-10-29",
+      "note": "Shopify feed /collections/women-dresses/products.json, 21 products; 7 marked down excluded; 14 regular-price in stock. Lowest Adelyn Denim Dress $138; highest Ana Dolman Sleeve Maxi Dress $228; median $163. Named: Bailee Short Sleeve Performance Dress $148."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "sources": [
+    "https://southerntide.com/",
+    "https://southerntide.com/pages/about-us",
+    "https://southerntide.com/policies/shipping-policy",
+    "https://southerntide.com/policies/refund-policy",
+    "https://southerntide.com/collections/women-dresses"
+  ],
+  "notes": [
+    "Homepage title 'Southern Tide: Classic, Southern & Coastal Apparel'; meta 'Complimentary shipping on orders $150+'.",
+    "About: founded 2006 by a college student, began with a polo shirt; headquarters in the Borden Building, Greenville, South Carolina.",
+    "Shipping policy: 'Southern Tide ships to all 50 states via FedEx. No international shipping.'",
+    "Refund policy: unworn items within 30 days of order date; returns free except Yeti coolers, fragrance and final sale.",
+    "Sizes from feed options: XS–XL."
+  ],
+  "checked_at": "2026-10-29",
+  "materials": [],
+  "certifications": []
+}
