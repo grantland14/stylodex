@@ -1,0 +1,50 @@
+{
+  "slug": "kenneth-cole",
+  "name": "Kenneth Cole",
+  "website_url": "https://www.kennethcole.com",
+  "kind": "brand",
+  "status": "verified",
+  "checked_at": "2026-10-29",
+  "materials": [],
+  "certifications": [],
+  "sells_categories": [
+    "sneakers"
+  ],
+  "known_for": "Modern New York Style Shoes",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Women 5–11; men 7–13",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "sneakers",
+      "currency": "USD",
+      "min": 75.0,
+      "max": 135.0,
+      "min_usd": 75.0,
+      "max_usd": 135.0,
+      "fx_date": null,
+      "item_count": 13,
+      "source_url": "https://www.kennethcole.com/collections/men-sneakers/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Shopify men-sneakers and women-sneakers collections: 13 regular-price sneakers, 7 marked down excluded. Low: REACTION Cameron Jewel Jogger Slip-On $75; Leather Kam Sneaker and Sam Leather Sneaker $125; high: Alma Leather Sneaker $135."
+    }
+  ],
+  "sources": [
+    "https://www.kennethcole.com/collections/men-sneakers/products.json",
+    "https://www.kennethcole.com/collections/women-sneakers/products.json",
+    "https://www.kennethcole.com/policies/refund-policy",
+    "https://www.kennethcole.com/policies/shipping-policy",
+    "https://www.kennethcole.com/meta.json"
+  ],
+  "notes": [
+    "Banner: Enjoy Free Shipping on Orders $100+ (48 contiguous states). Shipping policy summary: returns accepted within 30 days, final sale excluded.",
+    "meta.json: Kenneth Cole store registered in New York, US; description Find modern New York style designed with purpose; ships_to_countries US."
+  ]
+}

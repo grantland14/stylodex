@@ -1,0 +1,53 @@
+{
+  "slug": "birkenstock",
+  "name": "Birkenstock",
+  "website_url": "https://www.birkenstock.com/us/",
+  "kind": "brand",
+  "status": "verified",
+  "checked_at": "2026-10-29",
+  "materials": [],
+  "certifications": [],
+  "sells_categories": [
+    "sneakers"
+  ],
+  "known_for": "Cork Footbed Sandals",
+  "hq_country": "DE",
+  "founded_year": 1774,
+  "parent_company": "L Catterton",
+  "size_range": "EU 35–46; regular and narrow widths",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "sneakers",
+      "currency": "USD",
+      "min": 140.0,
+      "max": 240.0,
+      "min_usd": 140.0,
+      "max_usd": 240.0,
+      "fx_date": null,
+      "item_count": 25,
+      "source_url": "https://www.birkenstock.com/us/women/shoes/sneakers/",
+      "checked_at": "2026-10-29",
+      "note": "US store. Women's (5 pages) and men's (4 pages) sneaker grids read with ?start=&sz=24: 186 tiles; kept item_category4 Sneakers without a Was/m-old markdown: 25 unique products. 82 marked-down sneaker tiles excluded (Oswego, some Bend Low, Melbourne). Low: Bend Low Natural Leather/Textile $140; Bend Low Natural Leather $165–$170; Melbourne Suede $170; high: Honnef Low Suede $220, Honnef High Nubuck $240."
+    }
+  ],
+  "sources": [
+    "https://www.birkenstock.com/us/women/shoes/sneakers/",
+    "https://www.birkenstock.com/us/men/shoes/sneakers/",
+    "https://www.birkenstock.com/us/bend-low-natural-leather/bendlow-smoothleather-naturalleather-0-rubber-u_2.html",
+    "https://www.birkenstock.com/us/us-policies-return.html",
+    "https://www.birkenstock.com/us/us-policies-shipping.html",
+    "https://en.wikipedia.org/wiki/Birkenstock"
+  ],
+  "notes": [
+    "Return policy (US): returns within 30 days of delivery, footwear returned free of charge, original shipping not refunded; sale styles 40% off or more are final sale.",
+    "Shipping policy (US): ships within the US only (We do not ship internationally); free ground shipping on full-price purchases is a free VIP perk; sale items $5.95 ground.",
+    "Bend Low Natural Leather ($165): Made in Portugal; natural leather upper and insole, cork footbed, rubber outsole; women US 4–12.5 / EU 35–43, men US 6–13.5 / EU 39–46; widths Regular/Wide and Medium/Narrow.",
+    "Wikipedia: founded 1774 by Johann Adam Birkenstock; headquartered in Neustadt (Wied), Germany (infobox: Linz am Rhein); L Catterton controlling shareholder. Known for sandals with contoured footbeds (Trails and Freedom)."
+  ]
+}

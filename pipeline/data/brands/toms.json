@@ -1,0 +1,53 @@
+{
+  "slug": "toms",
+  "name": "TOMS",
+  "website_url": "https://www.toms.com",
+  "kind": "brand",
+  "status": "verified",
+  "checked_at": "2026-10-29",
+  "materials": [],
+  "certifications": [],
+  "sells_categories": [
+    "sneakers"
+  ],
+  "known_for": "Canvas Slip On Shoes",
+  "hq_country": "US",
+  "founded_year": 2006,
+  "parent_company": null,
+  "size_range": "Women 5–12; men 7–14",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "sneakers",
+      "currency": "USD",
+      "min": 65.0,
+      "max": 110.0,
+      "min_usd": 65.0,
+      "max_usd": 110.0,
+      "fx_date": null,
+      "item_count": 38,
+      "source_url": "https://www.toms.com/collections/women-sneakers/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Shopify women-sneakers and men-sneakers collections: 38 regular-price sneakers, 32 marked down excluded. Low: Baja 2.0 and Verona slip-on sneakers $65; Kameron White Leather Sneaker $85; TRVL Lite Retro Runner $95; high: Carlo Mid Terrain 2.0 Sneaker $110."
+    }
+  ],
+  "sources": [
+    "https://www.toms.com/collections/women-sneakers/products.json",
+    "https://www.toms.com/collections/men-sneakers/products.json",
+    "https://www.toms.com/policies/refund-policy",
+    "https://www.toms.com/policies/shipping-policy",
+    "https://www.toms.com/pages/about-toms",
+    "https://www.toms.com/meta.json",
+    "https://en.wikipedia.org/wiki/Toms_Shoes"
+  ],
+  "notes": [
+    "Refund policy: returns accepted for 30 days; free returns to store credit or a $4.99 restocking fee with refund; free exchanges; final sale not returnable.",
+    "About: In 2006 one shoe sparked a movement; gives a portion of profits to support children's education, health and well-being. Wikipedia: based in Los Angeles, founded 2006 by Blake Mycoskie. meta.json ships_to_countries US.",
+    "Free shipping comes with TOMS Rewards membership; no dollar threshold stated."
+  ]
+}

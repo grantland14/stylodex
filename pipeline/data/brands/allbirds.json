@@ -1,0 +1,57 @@
+{
+  "slug": "allbirds",
+  "name": "Allbirds",
+  "website_url": "https://www.allbirds.com",
+  "kind": "brand",
+  "status": "verified",
+  "checked_at": "2026-10-29",
+  "materials": [
+    "Merino wool",
+    "Tree fiber",
+    "Sugarcane"
+  ],
+  "certifications": [],
+  "sells_categories": [
+    "sneakers"
+  ],
+  "known_for": "Wool and Tree Fiber Sneakers",
+  "hq_country": "US",
+  "founded_year": 2015,
+  "parent_company": null,
+  "size_range": "US 5–15",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "sneakers",
+      "currency": "USD",
+      "min": 75.0,
+      "max": 165.0,
+      "min_usd": 75.0,
+      "max_usd": 165.0,
+      "fx_date": null,
+      "item_count": 295,
+      "source_url": "https://www.allbirds.com/collections/mens/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Shopify mens and womens collections (products.json, 342 shoes): 295 regular-price sneakers after excluding flip flops, slides, slippers, clogs, Mary Janes, boots, golf shoes and 14 marked-down products. Low: Canvas Cruiser $75; Tree Runner $100; Wool Runner $110; high: Wool Runner NZ Mid Waterproof $160, Wool Runner-up Mizzle Plus $165."
+    }
+  ],
+  "sources": [
+    "https://www.allbirds.com/collections/mens/products.json",
+    "https://www.allbirds.com/collections/womens/products.json",
+    "https://www.allbirds.com/policies/refund-policy",
+    "https://www.allbirds.com/policies/shipping-policy",
+    "https://www.allbirds.com/meta.json",
+    "https://www.allbirds.com/pages/our-story",
+    "https://en.wikipedia.org/wiki/Allbirds"
+  ],
+  "notes": [
+    "Refund policy: 30 days from delivery, unworn with tags; customers pay return shipping unless they buy return coverage at checkout; paid shipping not refunded. Banner: Free ground shipping on orders over $100.",
+    "meta.json ships_to_countries: US only. Our story page: began in New Zealand in 2007 as Tim Brown's project, Wool Runner launched 2016; favoring recycled and natural materials like Merino wool, tree fiber and sugarcane. Wikipedia: American brand co-founded in 2015; physical retail closed.",
+    "Sizes in the sneaker products: US 5–15 with half sizes to 13.5."
+  ]
+}

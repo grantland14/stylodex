@@ -1,0 +1,59 @@
+{
+  "slug": "diemme",
+  "name": "Diemme",
+  "website_url": "https://diemme.com",
+  "kind": "brand",
+  "status": "verified",
+  "checked_at": "2026-10-29",
+  "materials": [],
+  "certifications": [],
+  "sells_categories": [
+    "sneakers"
+  ],
+  "known_for": "Handmade Italian Hikers and Sneakers",
+  "hq_country": "IT",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "EU 35–47",
+  "ships_to": [
+    "US",
+    "GB",
+    "DE",
+    "FR",
+    "IT"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "us_stores": null,
+  "production_model": "Handmade in Onè di Fonte, Italy",
+  "prices": [
+    {
+      "category": "sneakers",
+      "currency": "EUR",
+      "min": 296.1,
+      "max": 350.1,
+      "min_usd": 329.65,
+      "max_usd": 389.77,
+      "fx_date": "2026-10-28",
+      "item_count": 31,
+      "source_url": "https://diemme.com/collections/hikers-and-sneakers/products.json",
+      "checked_at": "2026-10-29",
+      "note": "US market prices: billed in EUR, read from /products/{handle}.js with the store's US localization (base EU prices are 10% higher). hikers-and-sneakers collection, product_type sneakers: 31 products, none marked down. Low: Veneto Low €296.10; Marostica Low €314.10 (most styles); Marostica Low Sport €323.10; high: Marostica Low Platform Haircalf €350.10. USD at ECB 1.1133 (2026-10-28)."
+    }
+  ],
+  "sources": [
+    "https://diemme.com/collections/hikers-and-sneakers/products.json",
+    "https://diemme.com/policies/shipping-policy",
+    "https://diemme.com/pages/shipping",
+    "https://diemme.com/pages/returns-exchanges",
+    "https://diemme.com/pages/about",
+    "https://diemme.com/meta.json",
+    "https://data-api.ecb.europa.eu/service/data/EXR/D.USD.EUR.SP00.A?lastNObservations=3&format=csvdata"
+  ],
+  "notes": [
+    "Shipping page (US): Your current shipping location is United States and your order will be billed in EUR. Orders to the United States ship DDP: all duties and import taxes, including the 15% tariff on EU-made goods, are included at checkout.",
+    "Returns: 14-day return period from delivery; refunds deduct a €25 fee; original shipping not refunded outside the EU and EFTA.",
+    "About: all Diemme products made under one roof at the family factory in Onè di Fonte, Veneto; every pair hand-crafted in limited runs. meta.json ships_to_countries includes US and EU countries.",
+    "Sizes in the sneaker products EU 35–47."
+  ]
+}

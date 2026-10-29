@@ -1,0 +1,53 @@
+{
+  "slug": "keen",
+  "name": "KEEN",
+  "website_url": "https://www.keenfootwear.com",
+  "kind": "brand",
+  "status": "verified",
+  "checked_at": "2026-10-29",
+  "materials": [],
+  "certifications": [],
+  "sells_categories": [
+    "sneakers"
+  ],
+  "known_for": "Durable Outdoor Footwear",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "US 5–15; regular and wide",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 125,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "sneakers",
+      "currency": "USD",
+      "min": 115.0,
+      "max": 220.0,
+      "min_usd": 115.0,
+      "max_usd": 220.0,
+      "fx_date": null,
+      "item_count": 272,
+      "source_url": "https://www.keenfootwear.com/collections/womens-sneakers/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Shopify mens-sneakers and womens-sneakers collections: 272 regular-price sneakers after excluding boots, sandals, work and safety-toe shoes and 40 marked-down products. Low: KS86 Sneaker $115; Jasper Sneaker $140; UNEEK 360 $190; high: Jasper SE1 $210, Jasper HW and Jasper Zionic HW $220. Collection also holds trail and hiking shoes."
+    }
+  ],
+  "sources": [
+    "https://www.keenfootwear.com/collections/womens-sneakers/products.json",
+    "https://www.keenfootwear.com/collections/mens-sneakers/products.json",
+    "https://www.keenfootwear.com/policies/shipping-policy",
+    "https://www.keenfootwear.com/policies/refund-policy",
+    "https://www.keenfootwear.com/pages/faq",
+    "https://www.keenfootwear.com/meta.json"
+  ],
+  "notes": [
+    "Shipping policy: FREE standard shipping for orders $125.00 or more, $10.00 below; does not ship outside the US. meta.json: shop address Portland, Oregon, US; ships_to_countries US.",
+    "Refund policy: free return shipping in the lower 48 states with a label good for 30 days from the order date; shipping costs not refunded. FAQ: 30-day returns.",
+    "Sneaker sizes US 5–15 (half sizes to 11.5) with Regular and Wide widths.",
+    "Jasper Sneaker ($140) product copy: Our original climbing-inspired outside sneaker, with two sets of laces to switch up the look."
+  ]
+}

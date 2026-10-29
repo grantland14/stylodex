@@ -1,0 +1,56 @@
+{
+  "slug": "john-fluevog",
+  "name": "John Fluevog",
+  "website_url": "https://www.fluevog.com",
+  "kind": "brand",
+  "status": "verified",
+  "checked_at": "2026-10-29",
+  "materials": [],
+  "certifications": [],
+  "sells_categories": [
+    "sneakers"
+  ],
+  "known_for": "Shoes Designed in Vancouver",
+  "hq_country": "CA",
+  "founded_year": 1970,
+  "parent_company": null,
+  "size_range": "US 2–16 by style",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "sneakers",
+      "currency": "USD",
+      "min": 299.0,
+      "max": 399.0,
+      "min_usd": 299.0,
+      "max_usd": 399.0,
+      "fx_date": null,
+      "item_count": 8,
+      "source_url": "https://www.fluevog.com/collections/sneakers/products.json",
+      "checked_at": "2026-10-29",
+      "note": "US Shopify store (johnfluevogshoesusa, USD). Sneakers collection products.json: 20 products, 12 marked down (Leeside, Equinox, Comet, Ethan, Bonneville, Lore, Mystique, Whimsy) excluded; 8 regular: Feint $299, Inder $349, NPR $399, Leong $399."
+    }
+  ],
+  "sources": [
+    "https://www.fluevog.com/collections/sneakers/products.json",
+    "https://www.fluevog.com/collections/sneakers-women/products.json",
+    "https://www.fluevog.com/collections/sneakers-men/products.json",
+    "https://www.fluevog.com/pages/shipping-and-delivery",
+    "https://www.fluevog.com/pages/exchange-and-returns",
+    "https://www.fluevog.com/pages/store",
+    "https://www.fluevog.com/meta.json",
+    "https://en.wikipedia.org/wiki/John_Fluevog"
+  ],
+  "notes": [
+    "Shipping (US): $15 flat rate, 5–8 business days; all domestic orders ship via UPS from its retail stores in the US. No free-shipping threshold stated.",
+    "Returns: ship back within 14 days of receipt; full-price items refundable, sale items exchange or gift certificate only; Fluevog covers domestic return shipping.",
+    "Store page names Fluevog NY Manhattan; US operating company in Seattle (meta.json). us_stores true. Wikipedia: Canadian designer, first store opened in Vancouver in 1970; designed in Vancouver, made in Portugal, Brazil, Peru, China and Vietnam.",
+    "Sneaker size options run US 2–16 across styles.",
+    "Wikipedia summary (John Fluevog): the shoes often include messages engraved into the soles; described as progressive, Art Deco inspired."
+  ]
+}

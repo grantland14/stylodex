@@ -1,0 +1,55 @@
+{
+  "slug": "superga",
+  "name": "Superga",
+  "website_url": "https://www.superga-usa.com",
+  "kind": "brand",
+  "status": "verified",
+  "checked_at": "2026-10-29",
+  "materials": [],
+  "certifications": [],
+  "sells_categories": [
+    "sneakers"
+  ],
+  "known_for": "Italian Canvas Sneakers",
+  "hq_country": "IT",
+  "founded_year": 1911,
+  "parent_company": null,
+  "size_range": "EU 35–50",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "sneakers",
+      "currency": "USD",
+      "min": 65.0,
+      "max": 300.0,
+      "min_usd": 65.0,
+      "max_usd": 300.0,
+      "fx_date": null,
+      "item_count": 37,
+      "source_url": "https://www.superga-usa.com/collections/all-womens-sneakers/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Superga US Shopify store. all-womens-sneakers and all-mens-sneakers: 37 regular-price sneakers after excluding mules, ballerinas, Alpina duck styles and 24 marked-down products. Low: 2750 Cot3Strapu $65; 2750 Cotu Classic $75; 2750 OG Canvas $90; high: 1925 Canvas and 2390 Made In Italy $300."
+    }
+  ],
+  "sources": [
+    "https://www.superga-usa.com/collections/all-womens-sneakers/products.json",
+    "https://www.superga-usa.com/collections/all-mens-sneakers/products.json",
+    "https://www.superga-usa.com/policies/refund-policy",
+    "https://www.superga-usa.com/pages/faq",
+    "https://www.superga-usa.com/pages/about-us",
+    "https://www.superga-usa.com/meta.json"
+  ],
+  "notes": [
+    "Refund policy: returns within 30 days of delivery, unworn with tags; a company return label costs $6.95, deducted from the refund. Cart: You are $100.00 USD away from free shipping (threshold $100). Expedited $19.99.",
+    "About: founded 1911 by Walter Martiny in Turin, named after the nearby Basilica of Superga. Product copy: the 2750 is The People's Shoe of Italy; a Made in Italy line exists.",
+    "meta.json: Superga US store registered in Wilmington, North Carolina; ships to US, CA, GB, AU and others. Sneaker sizes EU 35–50."
+  ]
+}

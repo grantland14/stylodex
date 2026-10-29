@@ -1,0 +1,54 @@
+{
+  "slug": "vagabond",
+  "name": "Vagabond",
+  "website_url": "https://www.vagabond.com/us/",
+  "kind": "brand",
+  "status": "verified",
+  "checked_at": "2026-10-29",
+  "materials": [],
+  "certifications": [],
+  "sells_categories": [
+    "sneakers"
+  ],
+  "known_for": "Swedish Designed Leather Shoes",
+  "hq_country": "SE",
+  "founded_year": 1973,
+  "parent_company": null,
+  "size_range": "EU 35–46",
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "sneakers",
+      "currency": "USD",
+      "min": 130.0,
+      "max": 160.0,
+      "min_usd": 130.0,
+      "max_usd": 160.0,
+      "fx_date": null,
+      "item_count": 18,
+      "source_url": "https://www.vagabond.com/us/women/footwear/sneakers/",
+      "checked_at": "2026-10-29",
+      "note": "US store (USD, duties included). Women's grid 18 sneakers, all data-sale false and data-discounted false: Cody $130–$140, Hollie $130–$140, Zoe Platform $140, Casey $130, Judy $160. Men's grid: 8 sneakers, all marked down (Paul 2.0, Leo), excluded."
+    }
+  ],
+  "sources": [
+    "https://www.vagabond.com/us/women/footwear/sneakers/",
+    "https://www.vagabond.com/us/men/footwear/sneakers/",
+    "https://www.vagabond.com/us/faq/",
+    "https://www.vagabond.com/us/returns/",
+    "https://www.vagabond.com/us/company-information/",
+    "https://www.vagabond.com/us/about-us/",
+    "https://www.vagabond.com/us/terms-and-conditions/"
+  ],
+  "notes": [
+    "US store header: Duties included; free delivery for members. FAQ: free returns within 30 days of receiving the order (14 days in CA); designs all shoes in its in-house studio at the global headquarters in Varberg, Sweden.",
+    "About: In 1973, the Vagabond brand was first founded in Sweden; about 200 people at the Varberg head office. Company information: Birger Svenssons väg 36, Varberg, Sweden.",
+    "Sizes on the sneaker grids: EU 35–42 on women's styles, to 46 on men's."
+  ]
+}

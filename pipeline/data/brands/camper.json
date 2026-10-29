@@ -1,0 +1,64 @@
+{
+  "slug": "camper",
+  "name": "Camper",
+  "website_url": "https://www.camper.com/en_US",
+  "kind": "brand",
+  "status": "verified",
+  "checked_at": "2026-10-29",
+  "materials": [],
+  "certifications": [],
+  "sells_categories": [
+    "sneakers"
+  ],
+  "known_for": "Pelotas and Twins Sneakers",
+  "hq_country": "ES",
+  "founded_year": 1975,
+  "parent_company": null,
+  "size_range": "EU 35–51",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 45,
+  "returns_days": 30,
+  "us_stores": true,
+  "production_model": null,
+  "sale_pattern": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "prices": [
+    {
+      "category": "sneakers",
+      "currency": "USD",
+      "min": 120.0,
+      "max": 290.0,
+      "min_usd": 120.0,
+      "max_usd": 290.0,
+      "fx_date": null,
+      "item_count": 660,
+      "source_url": "https://www.camper.com/en_US/women/shoes/sneakers",
+      "checked_at": "2026-10-29",
+      "note": "US store (en_US, USD). Women's (17 pages) and men's (16 pages) sneaker grids read in full from the page data: 1,259 unique products, every one tagged DISCOUNT-0 with discountLocal 0. Kept the 660 typed Sneakers; 413 Casual, 174 Ankle Boots, 9 Boots and 3 Sandals in the grid excluded. Low: Peu Rambla $120; Pelotas XLite $130–$215 (white leather K201392-001 $160); Runner K21 $130–$190; high: Twins K201656-002 $290."
+    }
+  ],
+  "sources": [
+    "https://www.camper.com/en_US/women/shoes/sneakers",
+    "https://www.camper.com/en_US/men/shoes/sneakers",
+    "https://www.camper.com/en_US/at_cliente_faq?tit=5",
+    "https://www.camper.com/en_US/content/history",
+    "https://www.camper.com/en_US/shops",
+    "https://www.camper.com/en_US/women/shoes/pelotas/camper-pelotas_xlite-K201392-001",
+    "https://www.camper.com/en_US/content/twins-icons",
+    "https://www.camper.com/en_US/content/pelotas-icons",
+    "https://www.camper.com/en_US"
+  ],
+  "notes": [
+    "US store banner: Enjoy free standard and in-store shipping for purchases over $45. Free returns within 30 days at Fedex ServicePoints and Camper stores. FAQ 54: 30 days from the date of reception for online orders. Homepage meta: Contemporary designs, original spirit, 2 years warranty.",
+    "History page: Antonio Fluxa set up a workshop in Inca, Mallorca in 1877; his grandson Lorenzo creates Camper in 1975; To this day, Camper is a family business; headquarters in Inca, central Mallorca. Timeline: 1975 Camaleón (first shoe, unisex), 1988 Twins, 1995 Pelotas, 2004 Peu.",
+    "Twins page: In 1988 TWINS was born, a concept where the right is different from the left, subtly mismatched but perfectly compatible. Pelotas page: Our Icon Since 1995. Menu OUR ICONS: Pelotas, Peu, Twins (basis for known_for).",
+    "Store list (en_US/shops): Camper Bowery New York (221 Bowery), Camper Prince New York, Camper Los Angeles. us_stores true.",
+    "Sizes in the sneaker grids: women EU 35–45 (US 5–13), men EU 35–51 (US 3–16). Pelotas XLite K201392-001: $160, 100% calfskin upper, EVA outsole, removable PU footbed.",
+    "Only US terms read; the store also has storefronts for other countries (hrefLang en-CA, en-GB, en-AU).",
+    "More regular sneaker prices in the US grids: Pelotas Soller $155–$175; Runner Up $140–$195; Drift Trail $185–$220; Karst $165–$255; Twins $125–$290; Peu Rambla $120–$130."
+  ]
+}

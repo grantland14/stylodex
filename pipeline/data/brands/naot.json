@@ -1,0 +1,52 @@
+{
+  "slug": "naot",
+  "name": "Naot",
+  "website_url": "https://naot.com",
+  "kind": "brand",
+  "status": "verified",
+  "checked_at": "2026-10-29",
+  "materials": [],
+  "certifications": [],
+  "sells_categories": [
+    "sneakers"
+  ],
+  "known_for": "Israeli Comfort Footwear",
+  "hq_country": "IL",
+  "founded_year": 1942,
+  "parent_company": null,
+  "size_range": "EU 35–47",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "sneakers",
+      "currency": "USD",
+      "min": 164.95,
+      "max": 219.95,
+      "min_usd": 164.95,
+      "max_usd": 219.95,
+      "fx_date": null,
+      "item_count": 39,
+      "source_url": "https://naot.com/collections/womens-sneaker/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Naot Footwear US Shopify store. womens-sneaker and mens-sneaker collections: 122 products, 83 marked down excluded, 39 regular. Low: Mens Galaxy $164.95; Okahu and Picton $184.95; Haven, Spin, Swift $199.95; high: Kumara $219.95."
+    }
+  ],
+  "sources": [
+    "https://naot.com/collections/womens-sneaker/products.json",
+    "https://naot.com/collections/mens-sneaker/products.json",
+    "https://naot.com/policies/shipping-policy",
+    "https://naot.com/policies/refund-policy",
+    "https://naot.com/pages/faqs",
+    "https://naot.com/meta.json"
+  ],
+  "notes": [
+    "Shipping: free UPS, FedEx and USPS shipping on all orders over $100 in the U.S. Refund policy: footwear back within 30 days of purchase, unworn in the original box; free returns only with an optional fee at checkout, otherwise the label is charged.",
+    "FAQ: NAOT began in 1942 when members of a collective farming community in Israel's Hula Valley started crafting shoes; the US site is run by the United States distributor since 1989; hard-to-find sizes women EU 43–44 and men EU 48–49 on some styles.",
+    "meta.json ships_to_countries US. Sneaker sizes EU 35–47."
+  ]
+}
