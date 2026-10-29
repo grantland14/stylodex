@@ -44,6 +44,19 @@
       "source_url": "https://www.nike.com/w/womens-tights-leggings-29sh2z5e1x6",
       "checked_at": "2026-10-29",
       "note": "WebFetch of the US Women's Leggings listing (130 items, 20 visible): 10 at full price, 10 marked down excluded (e.g. Nike One High-Waisted Full-Length Stirrup $52.97 was $75). Low Sportswear Chill Jersey High-Waisted Capri Leggings $55; Nike Pro Mid-Rise Full-Length $60; Nike One Seamless Front Full-Length and One 7/8 with Pockets $65; Nike Pro Seamless 7/8 $70; Nike One High-Waisted Flared $75; NikeSKIMS Weightless V-Panel $84; Nike Universa High-Waisted Full-Length and 7/8 $115; high NikeSKIMS Matte High-Waisted 26\" $118. Range covers the visible 20 only."
+    },
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 32,
+      "max": 55,
+      "item_count": 12,
+      "source_url": "https://www.nike.com/w/mens-tops-t-shirts-9om13znik1",
+      "checked_at": "2026-10-29",
+      "note": "US store, Men's Tops & T-Shirts listing read by WebFetch (first 19 results; page truncated, no total count shown): 12 men's short-sleeve tees, none showing a crossed-out price or '% off', $32 (Nike Sportswear Swoosh Men's T-Shirt) to $55 (Nike ACG Men's Dri-FIT T-Shirt); Nike Sportswear Men's T-Shirts $37–$47 (Men's Loose T-Shirt $37, marked Best Seller), Nike Sportswear Premium Essentials $47, Men's Basketball T-Shirt $47, Nike Strike Dri-FIT Short-Sleeve Soccer Top $47. Excluded: thermal top, rugby, long-sleeves, SB skate jersey, drill top. Range covers the first results only. Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final, DiscountApplied, sale-NN, NN%, on-sale, sale, flash-sale, further reductions); campaign-eligibility tags with no compare-at price (e.g. '10th-anniversary-sale', 'cp:SeptEOSSale', 'DISCOUNT') are not treated as markdowns. Short-sleeve tees only: long-sleeve, tanks, stringers, polos, button-ups, jerseys, sweaters, packs and box sets excluded.",
+      "min_usd": 32,
+      "max_usd": 55,
+      "fx_date": null
     }
   ],
   "materials": [
@@ -57,7 +70,9 @@
     "https://www.nike.com/t/solo-fleece-mens-pullover-hoodie-QLmGTaBW",
     "https://www.nike.com/help/a/returns-policy",
     "https://en.wikipedia.org/wiki/Nike,_Inc.",
-    "https://www.nike.com/w/womens-tights-leggings-29sh2z5e1x6"
+    "https://www.nike.com/w/womens-tights-leggings-29sh2z5e1x6",
+    "https://www.nike.com/w/mens-tops-t-shirts-9om13znik1",
+    "https://www.discobrands.co/blogs/21-brands-like-kill-crew-028d8"
   ],
   "checked_at": "2026-10-29",
   "notes": [
@@ -65,10 +80,12 @@
     "Returns policy: 'We give you 60 days to try out your Nike purchase'; 'Returns are free for Nike Members.'",
     "Wikipedia infobox: Nike World Headquarters, Washington County, Oregon, U.S. (near Beaverton); founded January 25, 1964.",
     "ships_to US rests on the US storefront (USD). nike.com/ca and nike.com/gb are separate regional stores.",
-    "2026-10-29 (athleta page run): Women's Leggings listing (US site, USD), 130 items; half of the 20 visible were marked down."
+    "2026-10-29 (athleta page run): Women's Leggings listing (US site, USD), 130 items; half of the 20 visible were marked down.",
+    "2026-10-29 (kill-crew page, tees): men's tees from the US Tops & T-Shirts listing (WebFetch, first 19 results): Sportswear, Premium Essentials, Swoosh, Basketball, ACG Dri-FIT and Strike Dri-FIT lines; no markdowns visible on the first results. Tee sizes not read from a tee page; the stored size_range came from a hoodie page."
   ],
   "sells_categories": [
     "hoodies",
-    "leggings"
+    "leggings",
+    "tees"
   ]
 }

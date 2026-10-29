@@ -27,18 +27,35 @@
       "source_url": "https://www.outdoorvoices.com/collections/leggings/products.json",
       "checked_at": "2026-10-29",
       "note": "Shopify collection feed /collections/leggings, Women's Leggings (20 products; 3 non-legging titles; 13 with a compare_at_price above price excluded): 4 regular-price leggings. Puddle Legging (Grass) $88; TechSweat Core 7/8 Legging $118 (Mineral Blue) and $128 (Darkbay Polka Dot, Forest). Range covers few items because most leggings were marked down."
+    },
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 38,
+      "max": 68,
+      "item_count": 3,
+      "source_url": "https://www.outdoorvoices.com/collections/m-tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Men's Tops collection (23 products): 3 regular-price short-sleeve tees, $38 (Everyday Classic Shortsleeve, organic cotton jersey, Blue Gum and Eucalyptus, XS–XL) to $68 (ThinkFast Mesh Shortsleeve, Granite, XXS–XL). Excluded: 9 short-sleeve tees with a compare-at price above price (e.g. Everyday Classic in Surf $26.99), 2 CloudKnit Shortsleeve colorways at $58 tagged 'SALEONSALE:…' (treated as a markdown tag, conservative), tanks and long-sleeves. Range covers few items because most men's tees were marked down. Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final, DiscountApplied, sale-NN, NN%, on-sale, sale, flash-sale, further reductions); campaign-eligibility tags with no compare-at price (e.g. '10th-anniversary-sale', 'cp:SeptEOSSale', 'DISCOUNT') are not treated as markdowns. Short-sleeve tees only: long-sleeve, tanks, stringers, polos, button-ups, jerseys, sweaters, packs and box sets excluded.",
+      "min_usd": 38,
+      "max_usd": 68,
+      "fx_date": null
     }
   ],
   "sells_categories": [
-    "leggings"
+    "leggings",
+    "tees"
   ],
   "sources": [
     "https://www.outdoorvoices.com/meta.json",
     "https://www.outdoorvoices.com/collections/leggings/products.json",
     "https://www.outdoorvoices.com/policies/refund-policy",
-    "https://www.outdoorvoices.com/policies/shipping-policy"
+    "https://www.outdoorvoices.com/policies/shipping-policy",
+    "https://www.outdoorvoices.com/collections/m-tops/products.json?limit=250",
+    "https://www.outdoorvoices.com/collections.json?limit=250"
   ],
   "notes": [
-    "2026-10-29 (athleta page run): store meta Bay Shore, New York, US; description 'Shop activewear, athletic apparel & workout clothes designed for recreation ... Free shipping $100+.' Banner 'Free Shipping on orders over $100 in the U.S.'; menus for Women and Men. Refund policy: 'Orders may be returned within 30 days of purchase'; final sale excluded; only purchases from outdoorvoices.com; unworn with tags. Legging sizes in the feed: XS–XL (some in two inseam lengths)."
+    "2026-10-29 (athleta page run): store meta Bay Shore, New York, US; description 'Shop activewear, athletic apparel & workout clothes designed for recreation ... Free shipping $100+.' Banner 'Free Shipping on orders over $100 in the U.S.'; menus for Women and Men. Refund policy: 'Orders may be returned within 30 days of purchase'; final sale excluded; only purchases from outdoorvoices.com; unworn with tags. Legging sizes in the feed: XS–XL (some in two inseam lengths).",
+    "2026-10-29 (kill-crew page, tees): Men's Tops feed: Everyday Classic Shortsleeve $38 described as 'a soft, lightweight t-shirt in Organic Cotton Jersey ... for low-sweat recreation'; ThinkFast Mesh Shortsleeve $68 'designed to breathe easy and move moisture away from your skin'. Men's tee sizes XS–XL (ThinkFast from XXS; CloudKnit XXS–XXXL but excluded as marked down). The stored size_range XS–XL came from leggings and also fits the regular-price men's tees."
   ]
 }

@@ -1,0 +1,1300 @@
+{
+  "subject": "Vera Bradley",
+  "slug": "vera-bradley",
+  "url_prefix": "brands",
+  "category": {
+    "slug": "bags",
+    "name": "Bags",
+    "why": "C is a product type, and 'bags' (the Baggu page's slug, not Polène's 'handbags') fits Vera Bradley: its store describes itself as 'bags, backpacks and travel' (https://verabradley.com/meta.json) and its bags feed mixes crossbodies, backpacks, totes and satchels, so a handbags definition would drop its backpacks. Like-for-like set (same as the Baggu page): carry bags at regular price, in stock (totes, shoulder and crossbody bags, satchels, hobos, belt/hip bags, backpacks); luggage, duffels, weekenders, lunch bags, diaper/baby bags, pouches, wallets, wristlets, cosmetic cases, straps and charms excluded. All prices written are new 'bags' entries for brands that had no file; no other page's price was overwritten."
+  },
+  "serp": [
+    {
+      "keyword": "brands like vera bradley",
+      "position": 1,
+      "url": "https://www.reddit.com/r/verabradley/comments/1iepzqt/alternatives_to_vera_bradley_with_better_quality/",
+      "kept": false,
+      "why_dropped": "reddit thread: WebFetch refuses reddit.com; not read, no workaround (AI overview sitelink, also organic #2 with r/femalefashionadvice and r/bitcheswithtaste sitelinks)"
+    },
+    {
+      "keyword": "brands like vera bradley",
+      "position": 1,
+      "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+      "kept": true,
+      "why_kept": "AI overview sitelink, also organic #7: read. '25 Bag Brands Like Vera Bradley For Everyday, Travel, & More' by Katie (thepinkchickadee), updated July 2026. Lists 25 brands; several sell no bags (stationery, pajamas, gifts) and those can't be picks here"
+    },
+    {
+      "keyword": "brands like vera bradley",
+      "position": 1,
+      "url": "https://junyuanbags.com/9-backpacks-like-vera-bradley-junyuan.html",
+      "kept": true,
+      "why_kept": "AI overview sitelink, also organic #8: read. '9 Backpacks Like Vera Bradley' on the blog of JUNYUAN BAGS, a China-based OEM bag maker (byline Morgan Scott, January 17, 2018; metadata 2022). A vendor blog, but it names each brand as a Vera Bradley alternative and doesn't list itself; kept as Charm.io was on the Baggu page"
+    },
+    {
+      "keyword": "brands like vera bradley",
+      "position": 4,
+      "url": "https://www.tiktok.com/discover/brands-that-are-similar-to-vera-bradley",
+      "kept": false,
+      "why_dropped": "TikTok discover page, no readable editorial text"
+    },
+    {
+      "keyword": "brands like vera bradley",
+      "position": 5,
+      "url": "https://www.disboards.com/threads/bags-similar-to-vera-bradley-in-construction.3065089/",
+      "kept": true,
+      "why_kept": "discussion result: read. DISboards thread (February 2013), posters recommend Stephanie Dawn and Bella Taylor as bags similar to Vera Bradley in construction"
+    },
+    {
+      "keyword": "brands like vera bradley",
+      "position": 5,
+      "url": "https://www.quora.com/Which-brands-of-imitation-bags-are-the-most-popular-in-the-market",
+      "kept": false,
+      "why_dropped": "Quora: about imitation bags in general, not alternatives to Vera Bradley; not used"
+    },
+    {
+      "keyword": "brands like vera bradley",
+      "position": 5,
+      "url": "https://www.quora.com/I-really-cant-afford-a-Chanel-or-Louis-Vuitton-So-what-are-some-mid-tier-handbag-brands-that-you-could-recommend-which-are-similar-in-quality",
+      "kept": false,
+      "why_dropped": "Quora: about alternatives to Chanel and Louis Vuitton, not Vera Bradley; not used"
+    },
+    {
+      "keyword": "brands like vera bradley",
+      "position": 6,
+      "url": "https://verabradley.com/collections/bags",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "brands like vera bradley",
+      "position": 9,
+      "url": "https://www.facebook.com/fb-answers/brands-like-vera-bradley/",
+      "kept": false,
+      "why_dropped": "WebFetch returned no readable content (only the word Facebook); the StylodexBot UA got a broken HTTP/2 stream. Not read"
+    },
+    {
+      "keyword": "brands like vera bradley",
+      "position": 10,
+      "url": "https://www.etsy.com/market/bags_like_vera_bradley",
+      "kept": false,
+      "why_dropped": "marketplace search page"
+    },
+    {
+      "keyword": "brands like vera bradley",
+      "position": 11,
+      "url": "https://www.nbcnews.com/select/shopping/vera-bradley-popularity-rcna210391",
+      "kept": false,
+      "why_dropped": "read: NBC Select (Bethany Heitman, June 2, 2025) covers only Vera Bradley's own bags; names no alternative brands"
+    },
+    {
+      "keyword": "stores like vera bradley",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview returned no positions (US)"
+    },
+    {
+      "keyword": "vera bradley alternatives",
+      "position": 1,
+      "url": "https://totedeals.knoji.com/alternatives/",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch and to the StylodexBot UA; not read"
+    },
+    {
+      "keyword": "vera bradley alternatives",
+      "position": 2,
+      "url": "https://www.instya.com/site/verabradley.com",
+      "kept": false,
+      "why_dropped": "read: a scraped 'similar sites' list (The Topps Company, 5.11 Tactical, Theory, Von Maur, Sports Basement...) with partner slots and no editorial content; dropped like similist.com"
+    },
+    {
+      "keyword": "vera bradley alternatives",
+      "position": 3,
+      "url": "https://www.amazon.com/review/R16HT1DQX755M8",
+      "kept": false,
+      "why_dropped": "marketplace review"
+    },
+    {
+      "keyword": "vera bradley alternatives",
+      "position": 5,
+      "url": "https://www.zappos.com/handbags-similar-to-vera-bradley",
+      "kept": false,
+      "why_dropped": "a Zappos keyword search-results page (retailer search, not editorial and not a category page); not used as evidence or co-stocking"
+    },
+    {
+      "keyword": "vera bradley alternatives",
+      "position": 6,
+      "url": "https://craft.co/vera-bradley/competitors",
+      "kept": false,
+      "why_dropped": "business-database competitor listing, not shopping alternatives"
+    },
+    {
+      "keyword": "vera bradley alternatives",
+      "position": 7,
+      "url": "https://bestunder250.com/backpacks-like-vera-bradley/",
+      "kept": true,
+      "why_kept": "read: 'Backpacks Like Vera Bradley (5 Vera Bradley Alternatives)', Allan Wilson, July 3, 2023: Leaper, Kemy's, JanSport, Snowy Fox, Coofit"
+    },
+    {
+      "keyword": "vera bradley alternatives",
+      "position": 8,
+      "url": "https://www.etsy.com/market/vera_bradley_like",
+      "kept": false,
+      "why_dropped": "marketplace search page"
+    },
+    {
+      "keyword": "vera bradley alternatives",
+      "position": 9,
+      "url": "https://www.marketbeat.com/stocks/NASDAQ/VRA/competitors-and-alternatives/",
+      "kept": false,
+      "why_dropped": "stock-market competitor listing, not shopping alternatives"
+    },
+    {
+      "keyword": "vera bradley alternatives",
+      "position": 10,
+      "url": "https://www.disboards.com/threads/a-manly-alternative-to-those-vera-bradley-bags.1967906/",
+      "kept": true,
+      "why_kept": "read: DISboards thread 'A manly alternative to those Vera Bradley bags' (September 2008): Maxpedition and Baggallini"
+    },
+    {
+      "keyword": "vera bradley alternatives",
+      "position": 11,
+      "url": "https://growjo.com/company/Vera_Bradley_Designs",
+      "kept": false,
+      "why_dropped": "business-database competitor listing"
+    },
+    {
+      "keyword": "vera bradley alternatives",
+      "position": 12,
+      "url": "https://www.youtube.com/watch?v=BFXZztwtV-s",
+      "kept": false,
+      "why_dropped": "video about Louis Vuitton alternatives, not Vera Bradley"
+    },
+    {
+      "keyword": "similar to vera bradley",
+      "position": 1,
+      "url": "https://verabradley.com/collections/travel-bags",
+      "kept": false,
+      "why_dropped": "the anchor's own site (also #8 shoulder-bags)"
+    },
+    {
+      "keyword": "similar to vera bradley",
+      "position": 3,
+      "url": "https://www.reddit.com/r/handbags/comments/1w6keg3/thoughts_on_vera_bradley_and_romy_or_alternative/",
+      "kept": false,
+      "why_dropped": "reddit thread: WebFetch refuses reddit.com; not read, no workaround (plus r/verabradley and r/AskWomenOver30 sitelinks)"
+    },
+    {
+      "keyword": "similar to vera bradley",
+      "position": 4,
+      "url": "https://www.tiktok.com/discover/bag-brands-like-vera-bradley",
+      "kept": false,
+      "why_dropped": "TikTok discover page, nothing readable (also #11 vera-bradley-look-alike-brands)"
+    },
+    {
+      "keyword": "similar to vera bradley",
+      "position": 5,
+      "url": "https://classymommy.com/trendy-inexpensive-backpacks-including-a-vera-bradley-look-alike/",
+      "kept": true,
+      "why_kept": "read: ClassyMommy (June 8, 2015) names a No Boundaries backpack (a Walmart label) as having 'a faux Vera Bradley feel'"
+    },
+    {
+      "keyword": "similar to vera bradley",
+      "position": 6,
+      "url": "https://anindigoday.com/best-vera-bradley-bags-for-travel/",
+      "kept": false,
+      "why_dropped": "WebFetch returned an empty page; title says it covers Vera Bradley's own travel bags"
+    },
+    {
+      "keyword": "similar to vera bradley",
+      "position": 7,
+      "url": "https://proteacher.net/discussions/threads/cute-totes-and-backpacks-other-than-vera-bradley.604680/",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch and to the StylodexBot UA; not read"
+    },
+    {
+      "keyword": "similar to vera bradley",
+      "position": 9,
+      "url": "https://audefrossard.art/?s=41487405041610",
+      "kept": false,
+      "why_dropped": "spam search page on an unrelated domain"
+    },
+    {
+      "keyword": "similar to vera bradley",
+      "position": 10,
+      "url": null,
+      "kept": false,
+      "why_dropped": "shopping results (resale listings), no editorial content"
+    },
+    {
+      "keyword": null,
+      "position": null,
+      "url": "https://www.discobrands.co/brands/vera-bradley",
+      "kept": true,
+      "why_kept": "Not on the four SERPs: the unsigned disco directory's Vera Bradley profile, counted as evidence per enrich.md §1 (Ash, 2026-10-29), never cited on the page. Read: 'If you like Vera Bradley' lists Kate Spade, Dooney and Bourke, Fable England and Rebecca Minkoff (facts checked August 2026). No 'brands like Vera Bradley' blog or 'bags like' page exists (both 404)"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": "Zappos",
+      "url": "https://www.zappos.com/handbags-similar-to-vera-bradley",
+      "used": false,
+      "why": "The only retailer page on the SERPs is a keyword search-results page, not a category page; not used. No other co-stocking source was checked this run."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "JanSport",
+      "slug": "jansport",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://junyuanbags.com/9-backpacks-like-vera-bradley-junyuan.html",
+          "note": "#9 of 9: JanSport Digital Student Laptop Backpack, 'affordable'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/backpacks-like-vera-bradley/",
+          "note": "#3 of 5: 'the most perfectly designed backpack for a laptop'"
+        }
+      ]
+    },
+    {
+      "name": "Dooney & Bourke",
+      "slug": "dooney-bourke",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#21 of 25: Connecticut leather goods brand from 1975, duck logo"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/vera-bradley",
+          "note": "76% match: 'Durable coated leather rather than quilted textile'"
+        }
+      ]
+    },
+    {
+      "name": "Kate Spade New York",
+      "slug": "kate-spade",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#24 of 25: 'unique novelty bags'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/vera-bradley",
+          "note": "80% match: 'Leather-led and more fashion-forward than quilted cotton'"
+        }
+      ]
+    },
+    {
+      "name": "Stephanie Dawn",
+      "slug": "stephanie-dawn",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://junyuanbags.com/9-backpacks-like-vera-bradley-junyuan.html",
+          "note": "#2 of 9: Stephanie Dawn Quilted Backpack, accessories made in the USA"
+        },
+        {
+          "kind": "forum",
+          "url": "https://www.disboards.com/threads/bags-similar-to-vera-bradley-in-construction.3065089/",
+          "note": "ManyMinnie: 'Made in the USA, unlike VB'; Snoozan: 'these are made in the same factory'"
+        }
+      ]
+    },
+    {
+      "name": "Kipling",
+      "slug": "kipling",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://junyuanbags.com/9-backpacks-like-vera-bradley-junyuan.html",
+          "note": "#7 of 9: Kipling Ravier Quilted Backpack"
+        }
+      ]
+    },
+    {
+      "name": "Sakroots",
+      "slug": "sakroots",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://junyuanbags.com/9-backpacks-like-vera-bradley-junyuan.html",
+          "note": "#5 of 9: Sakroots Flap Backpack"
+        }
+      ]
+    },
+    {
+      "name": "ban.do",
+      "slug": "ban-do",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#18 of 25: 'vibrant colors, bold patterns, and funky themes'"
+        }
+      ]
+    },
+    {
+      "name": "Stoney Clover Lane",
+      "slug": "stoney-clover-lane",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#11 of 25: customizable nylon accessories with patches"
+        }
+      ]
+    },
+    {
+      "name": "Sea Bags",
+      "slug": "sea-bags",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#9 of 25: nautical totes from recycled sail cloth, Portland, Maine"
+        }
+      ]
+    },
+    {
+      "name": "SCOUT",
+      "slug": "scout-bags",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#10 of 25: Washington, DC bags in 'life proof fabric'"
+        }
+      ]
+    },
+    {
+      "name": "Spartina 449",
+      "slug": "spartina-449",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#13 of 25: Lowcountry-inspired handbags with destination prints"
+        }
+      ]
+    },
+    {
+      "name": "Loungefly",
+      "slug": "loungefly",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#19 of 25: pop culture bags, Disney and Marvel collaborations"
+        }
+      ]
+    },
+    {
+      "name": "Lilly Pulitzer",
+      "slug": "lilly-pulitzer",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#3 of 25: Palm Beach-inspired prints"
+        }
+      ]
+    },
+    {
+      "name": "Sezane",
+      "slug": "sezane",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#25 of 25: Parisian style"
+        }
+      ]
+    },
+    {
+      "name": "Mark & Graham",
+      "slug": "mark-and-graham",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#23 of 25: personalized bags and travel accessories"
+        }
+      ]
+    },
+    {
+      "name": "Caroline Hill",
+      "slug": "caroline-hill",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#16 of 25: affordable handbags, Thomasville, Georgia"
+        }
+      ]
+    },
+    {
+      "name": "BAGSMART",
+      "slug": "bagsmart",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#20 of 25: quilted bags 'of all shapes and sizes'"
+        }
+      ]
+    },
+    {
+      "name": "Travelon",
+      "slug": "travelon",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://junyuanbags.com/9-backpacks-like-vera-bradley-junyuan.html",
+          "note": "#1 of 9: Anti-Theft Boho Backpack, quilted"
+        }
+      ]
+    },
+    {
+      "name": "Dakine",
+      "slug": "dakine",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://junyuanbags.com/9-backpacks-like-vera-bradley-junyuan.html",
+          "note": "#3 of 9: Prom Backpack, laptop compartment, 25L"
+        }
+      ]
+    },
+    {
+      "name": "Sol and Selene",
+      "slug": "sol-and-selene",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://junyuanbags.com/9-backpacks-like-vera-bradley-junyuan.html",
+          "note": "#4 of 9: Motivator Backpack, water-repellent nylon"
+        }
+      ]
+    },
+    {
+      "name": "Rebecca Minkoff",
+      "slug": "rebecca-minkoff",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/vera-bradley",
+          "note": "64% match: 'Studded leather edge, no travel or quilted line'"
+        }
+      ]
+    },
+    {
+      "name": "Fable England",
+      "slug": "fable-england",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/vera-bradley",
+          "note": "70% match: 'Small British label focused on charms and scarves, not luggage'"
+        }
+      ]
+    },
+    {
+      "name": "Bella Taylor",
+      "slug": "bella-taylor",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "forum",
+          "url": "https://www.disboards.com/threads/bags-similar-to-vera-bradley-in-construction.3065089/",
+          "note": "minnierocks: 'cute and great quality'"
+        }
+      ]
+    },
+    {
+      "name": "Baggallini",
+      "slug": "baggallini",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "forum",
+          "url": "https://www.disboards.com/threads/a-manly-alternative-to-those-vera-bradley-bags.1967906/",
+          "note": "'My DH wears the Baggalinni messenger bag'"
+        }
+      ]
+    },
+    {
+      "name": "Maxpedition",
+      "slug": "maxpedition",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "forum",
+          "url": "https://www.disboards.com/threads/a-manly-alternative-to-those-vera-bradley-bags.1967906/",
+          "note": "original post: Maxpedition Versipacks 'for my fellow guys out there'"
+        }
+      ]
+    },
+    {
+      "name": "World Traveler",
+      "slug": "world-traveler",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://junyuanbags.com/9-backpacks-like-vera-bradley-junyuan.html",
+          "note": "#6 of 9: lower-priced backpack in many patterns"
+        }
+      ]
+    },
+    {
+      "name": "NGIL",
+      "slug": "ngil",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://junyuanbags.com/9-backpacks-like-vera-bradley-junyuan.html",
+          "note": "#8 of 9: budget quilted cotton backpack"
+        }
+      ]
+    },
+    {
+      "name": "Leaper",
+      "slug": "leaper",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/backpacks-like-vera-bradley/",
+          "note": "#1 of 5"
+        }
+      ]
+    },
+    {
+      "name": "Kemy's",
+      "slug": "kemys",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/backpacks-like-vera-bradley/",
+          "note": "#2 of 5"
+        }
+      ]
+    },
+    {
+      "name": "Snowy Fox",
+      "slug": "snowy-fox",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/backpacks-like-vera-bradley/",
+          "note": "#4 of 5"
+        }
+      ]
+    },
+    {
+      "name": "Coofit",
+      "slug": "coofit",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/backpacks-like-vera-bradley/",
+          "note": "#5 of 5"
+        }
+      ]
+    },
+    {
+      "name": "No Boundaries",
+      "slug": "no-boundaries",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://classymommy.com/trendy-inexpensive-backpacks-including-a-vera-bradley-look-alike/",
+          "note": "Walmart backpack with 'a faux Vera Bradley feel'"
+        }
+      ]
+    },
+    {
+      "name": "Threadart",
+      "slug": "threadart",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#1 of 25: quilted totes sold on Amazon"
+        }
+      ]
+    },
+    {
+      "name": "Singhvis",
+      "slug": "singhvis",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#2 of 25: hand block-painted clothing and bags"
+        }
+      ]
+    },
+    {
+      "name": "Mary Square",
+      "slug": "mary-square",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#4 of 25: bright printed clothing"
+        }
+      ]
+    },
+    {
+      "name": "Rifle Paper Co",
+      "slug": "rifle-paper-co",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#5 of 25: stationery, accessories, home goods"
+        }
+      ]
+    },
+    {
+      "name": "Ted Baker",
+      "slug": "ted-baker",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#6 of 25: floral prints"
+        }
+      ]
+    },
+    {
+      "name": "LoveShackFancy",
+      "slug": "loveshackfancy",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#7 of 25: romantic floral fashion"
+        }
+      ]
+    },
+    {
+      "name": "Roller Rabbit",
+      "slug": "roller-rabbit",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#8 of 25: loungewear and monkey-print pajamas"
+        }
+      ]
+    },
+    {
+      "name": "Sprinkled with Pink",
+      "slug": "sprinkled-with-pink",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#12 of 25: personalized gifts and bags"
+        }
+      ]
+    },
+    {
+      "name": "Laura Ashley",
+      "slug": "laura-ashley",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#14 of 25: British furnishing and clothing brand"
+        }
+      ]
+    },
+    {
+      "name": "The Monogram Corner",
+      "slug": "the-monogram-corner",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#15 of 25: monogrammed gifts"
+        }
+      ]
+    },
+    {
+      "name": "BaubleBar",
+      "slug": "baublebar",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#17 of 25: customizable jewelry and bags"
+        }
+      ]
+    },
+    {
+      "name": "Printfresh",
+      "slug": "printfresh",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#22 of 25: luxury pajamas"
+        }
+      ]
+    },
+    {
+      "name": "JuJuBe",
+      "slug": "jujube",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "LeSportsac",
+      "slug": "lesportsac",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "The Sak",
+      "slug": "the-sak",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Kendra Scott",
+      "slug": "kendra-scott",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Ettika",
+      "slug": "ettika",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Charming Charlie",
+      "slug": "charming-charlie",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "C. Wonder",
+      "slug": "cwonder",
+      "in_apart_pool": true,
+      "sources": []
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "result": "13 pool rows for vera-bradley: Sakroots, JuJuBe, Kipling, LeSportsac, Dooney & Bourke, The Sak, ban.do, Stoney Clover Lane, Kate Spade, Kendra Scott, Ettika, Charming Charlie, C. Wonder. Pool rows are never evidence; Kipling, Dooney & Bourke, ban.do, Kate Spade, Stoney Clover Lane and Sakroots also have outside sources."
+  },
+  "picks": [
+    {
+      "slug": "jansport",
+      "rank": 1,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 20.0,
+        "max": 175.0,
+        "min_usd": 20.0,
+        "max_usd": 175.0,
+        "fx_date": null,
+        "item_count": 65
+      },
+      "price_relation": "similar",
+      "reason": "JanSport sells backpacks, waist packs and totes at $20–$175 (median $55), such as the SuperBreak Plus ($45) with an internal laptop sleeve, backed by a lifetime repair-or-replace warranty, with free US shipping over $50.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://junyuanbags.com/9-backpacks-like-vera-bradley-junyuan.html",
+          "note": "#9 of 9: JanSport Digital Student Laptop Backpack, 'affordable'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://bestunder250.com/backpacks-like-vera-bradley/",
+          "note": "#3 of 5: 'the most perfectly designed backpack for a laptop'"
+        }
+      ]
+    },
+    {
+      "slug": "dooney-bourke",
+      "rank": 2,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 75.0,
+        "max": 850.0,
+        "min_usd": 75.0,
+        "max_usd": 850.0,
+        "fx_date": null,
+        "item_count": 455
+      },
+      "price_relation": "similar",
+      "reason": "Dooney & Bourke, a Norwalk, Connecticut leather bagmaker since 1975, sells hobos, crossbodies and totes at $75–$850 (median $278), from the Canvas Carryall 50 ($75) to Italian-leather lines, with 30-day returns for a $10 fee.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#21 of 25: Connecticut leather goods brand from 1975, duck logo"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/vera-bradley",
+          "note": "76% match: 'Durable coated leather rather than quilted textile'"
+        }
+      ]
+    },
+    {
+      "slug": "fable-england",
+      "rank": 3,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 84.0,
+        "max": 158.0,
+        "min_usd": 84.0,
+        "max_usd": 158.0,
+        "fx_date": null,
+        "item_count": 71
+      },
+      "price_relation": "similar",
+      "reason": "London label Fable England sells printed and embroidered handbags at $84–$158 on its US store (median $110, matching Vera Bradley's), such as the Into the Woods Tote Bag ($122), shipping free to the US over $80.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/vera-bradley",
+          "note": "70% match: 'Small British label focused on charms and scarves, not luggage'"
+        }
+      ]
+    },
+    {
+      "slug": "kipling",
+      "rank": 4,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 24.0,
+        "max": 174.0,
+        "min_usd": 24.0,
+        "max_usd": 174.0,
+        "fx_date": null,
+        "item_count": 431
+      },
+      "price_relation": "similar",
+      "reason": "Kipling makes crossbodies, shoulder bags and backpacks in crinkle nylon at $24–$174 (median $119), such as the Seoul Large 15\" Laptop Backpack ($134), with free US shipping over $99, the same threshold as Vera Bradley.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://junyuanbags.com/9-backpacks-like-vera-bradley-junyuan.html",
+          "note": "#7 of 9: Kipling Ravier Quilted Backpack"
+        }
+      ]
+    },
+    {
+      "slug": "spartina-449",
+      "rank": 5,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 58.0,
+        "max": 398.0,
+        "min_usd": 58.0,
+        "max_usd": 398.0,
+        "fx_date": null,
+        "item_count": 109
+      },
+      "price_relation": "similar",
+      "reason": "Hilton Head Island brand Spartina 449 sells linen, laminated-cotton and leather handbags at $58–$398 (median $128), led by its map-print Market Totes ($78), with its own stores in Georgia, South Carolina and Florida.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#13 of 25: Lowcountry-inspired handbags with destination prints"
+        }
+      ]
+    },
+    {
+      "slug": "sol-and-selene",
+      "rank": 6,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 80.0,
+        "max": 250.0,
+        "min_usd": 80.0,
+        "max_usd": 250.0,
+        "fx_date": null,
+        "item_count": 23
+      },
+      "price_relation": "similar",
+      "reason": "Los Angeles-designed Sol and Selene sells lightweight neoprene and nylon totes, hobos and sling backpacks at $80–$250 (median $150), including the quilted nylon Dreamer Tote ($120), with free continental US shipping.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://junyuanbags.com/9-backpacks-like-vera-bradley-junyuan.html",
+          "note": "#4 of 9: Motivator Backpack, water-repellent nylon"
+        }
+      ]
+    },
+    {
+      "slug": "dakine",
+      "rank": 7,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 29.0,
+        "max": 168.0,
+        "min_usd": 29.0,
+        "max_usd": 168.0,
+        "fx_date": null,
+        "item_count": 41
+      },
+      "price_relation": "similar",
+      "reason": "Dakine, founded in Hawaii in 1979, sells laptop and lifestyle backpacks, totes and crossbodies at $29–$168 (median $68), such as the Campus Backpack 25L ($75) with a padded laptop sleeve, shipping free in the US over $99.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://junyuanbags.com/9-backpacks-like-vera-bradley-junyuan.html",
+          "note": "#3 of 9: Prom Backpack, laptop compartment, 25L"
+        }
+      ]
+    },
+    {
+      "slug": "scout-bags",
+      "rank": 8,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 35.0,
+        "max": 99.0,
+        "min_usd": 35.0,
+        "max_usd": 99.0,
+        "fx_date": null,
+        "item_count": 13
+      },
+      "price_relation": "similar",
+      "reason": "Washington, DC brand SCOUT sells patterned totes in its durable fabrics at $35–$99 (median $65), led by the Original Deano Tote Large ($55), its best seller since 2004, with free US shipping over $99.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#10 of 25: Washington, DC bags in 'life proof fabric'"
+        }
+      ]
+    },
+    {
+      "slug": "bagsmart",
+      "rank": 9,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 36.99,
+        "max": 89.99,
+        "min_usd": 36.99,
+        "max_usd": 89.99,
+        "fx_date": null,
+        "item_count": 15
+      },
+      "price_relation": "similar",
+      "reason": "BAGSMART sells travel-minded totes, slings and backpacks at $36.99–$89.99 (median $64.99), such as the quilted, padded Paz 23L Tote ($69.99) with 10 compartments, and takes returns within 30 days.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#20 of 25: quilted bags 'of all shapes and sizes'"
+        }
+      ]
+    },
+    {
+      "slug": "sea-bags",
+      "rank": 10,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 50.0,
+        "max": 495.0,
+        "min_usd": 50.0,
+        "max_usd": 495.0,
+        "fx_date": null,
+        "item_count": 452
+      },
+      "price_relation": "similar",
+      "reason": "Sea Bags hand-makes totes, handbags and bucket bags in Maine from recycled sail cloth at $50–$495 (median $180), such as the Navy Anchor on Chambray Medium Tote ($175), with 60-day returns and its own stores.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#9 of 25: nautical totes from recycled sail cloth, Portland, Maine"
+        }
+      ]
+    },
+    {
+      "slug": "ban-do",
+      "rank": 11,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 20.95,
+        "max": 45.95,
+        "min_usd": 20.95,
+        "max_usd": 45.95,
+        "fx_date": null,
+        "item_count": 9
+      },
+      "price_relation": "similar",
+      "reason": "ban.do sells its own quilted-cotton and canvas totes and market bags at $20.95–$45.95, including the Quilted Tote - Blue Scandinavian Floral ($29.95), with free contiguous-US shipping over $75.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/25-bag-brands-like-vera-bradley-for-everyday-travel-more/",
+          "note": "#18 of 25: 'vibrant colors, bold patterns, and funky themes'"
+        }
+      ]
+    },
+    {
+      "slug": "rebecca-minkoff",
+      "rank": 12,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 138.0,
+        "max": 428.0,
+        "min_usd": 138.0,
+        "max_usd": 428.0,
+        "fx_date": null,
+        "item_count": 82
+      },
+      "price_relation": "similar",
+      "reason": "Rebecca Minkoff sells leather and suede shoulder bags, hobos and clutches at $138–$428 (median $313), such as the Megan Shoulder Bag ($228), with free US returns within 30 days of delivery.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/brands/vera-bradley",
+          "note": "64% match: 'Studded leather edge, no travel or quilted line'"
+        }
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "kate-spade",
+      "why": "unverified (brand file written): katespade.com returned 403 Access Denied to WebFetch and the StylodexBot UA on the homepage, meta.json and handbags page. 2 sources (pinkchickadee #24, disco). Human check queued."
+    },
+    {
+      "slug": "stephanie-dawn",
+      "why": "defunct (brand file written): stephaniedawn.com is an unrelated coaching site; Wikipedia's KAM Manufacturing article says the brand was discontinued at the end of 2021; search found only resale listings. 2 sources (Junyuan #2, DISboards)."
+    },
+    {
+      "slug": "sakroots",
+      "why": "sakroots.com and www.sakroots.com 301 to thesak.com, whose 394-listing bags feed is all vendor 'The Sak' with no Sakroots line; The Sak itself has no outside source. Not picked, no brand file."
+    },
+    {
+      "slug": "stoney-clover-lane",
+      "why": "products.json returns HTTP 401 and /collections/bags showed only a maintenance notice ('We will be right back!') to WebFetch; no prices readable. 1 source (pinkchickadee #11). Not picked, no brand file; re-check later."
+    },
+    {
+      "slug": "lilly-pulitzer",
+      "why": "HTTP 403 to WebFetch and the StylodexBot UA (Akamai). 1 source. Unverified, no brand file."
+    },
+    {
+      "slug": "sezane",
+      "why": "sezane.com serves a JS challenge ('Please enable JS') to the StylodexBot UA; not worked around. 1 source. Unverified, no brand file."
+    },
+    {
+      "slug": "travelon",
+      "why": "travelon.com: TLS certificate mismatch on the bare domain and HTTP 503 on www.travelon.com to WebFetch. 1 source (Junyuan #1). Unverified, no brand file."
+    },
+    {
+      "slug": "loungefly",
+      "why": "loungefly.com is live (Funko) and lists bag categories with free shipping over $65 on the homepage, but it isn't Shopify and no category prices were read this run. 1 source (pinkchickadee #19). Re-check for a 13th pick."
+    },
+    {
+      "slug": "baggallini",
+      "why": "baggallini.com is live (Salesforce Commerce Cloud) with crossbody, backpack and tote categories and free shipping over $100 (homepage), but no category prices or policies were read this run. 1 source (2008 DISboards thread). Re-check for a pick."
+    },
+    {
+      "slug": "maxpedition",
+      "why": "live Shopify store (tactical nylon bags, $26.99–$375.99 in bags/backpacks feeds) but most listings carry 'Buy 1 Get 1 Free ... All Sales Final' promotions, and the only source is a 2008 forum thread asking for a 'manly' tactical alternative: not a like-for-like pick. No brand file."
+    },
+    {
+      "slug": "caroline-hill",
+      "why": "shopcarolinehill.com is a multi-brand online boutique (vendors include Entro, Milio Milano, THML alongside its own label) whose 'purse' types include card holders and scarf chains; not checked further. 1 source. No brand file."
+    },
+    {
+      "slug": "mark-and-graham",
+      "why": "not Shopify (Williams-Sonoma platform); not checked within the 25-brand cap. 1 source."
+    },
+    {
+      "slug": "bella-taylor",
+      "why": "bellataylor.com is a parked domain (redirects to /lander); no official store found in this run. 1 source (2013 forum post). Not checked further."
+    },
+    {
+      "slug": "no-boundaries",
+      "why": "a Walmart private label (marketplace/retailer own brand, no own store); 1 source. Not a pick."
+    },
+    {
+      "slug": "threadart, ngil, world-traveler, leaper, kemys, snowy-fox, coofit",
+      "why": "Amazon-listed bag brands named by pinkchickadee, Junyuan or bestunder250; no own store checked within the cap. Not picked."
+    },
+    {
+      "slug": "singhvis, mary-square, rifle-paper-co, ted-baker, loveshackfancy, roller-rabbit, sprinkled-with-pink, laura-ashley, the-monogram-corner, baublebar, printfresh",
+      "why": "pinkchickadee brands known for clothing, pajamas, stationery, jewelry or gifts rather than bags; not checked within the 25-brand cap. Existing loveshackfancy and baublebar files untouched."
+    },
+    {
+      "slug": "jujube, lesportsac, the-sak, kendra-scott, ettika, charming-charlie, cwonder",
+      "why": "Apart Style pool only, no outside source names them as an alternative to Vera Bradley."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "Kate Spade as a pick",
+      "url": "https://www.katespade.com/",
+      "check": "Two outside sources (pinkchickadee, disco). If a human can read katespade.com's handbags at US regular prices plus shipping and returns, add a bags price to kate-spade.json and set status verified; it would rank 3rd (2 sources)."
+    },
+    {
+      "fact": "Loungefly and Baggallini bags prices",
+      "url": "https://www.loungefly.com/",
+      "check": "Both stores are live; read regular-price carry bags (and Baggallini's https://www.baggallini.com/return-policy.html) to add them as picks 13 and 14."
+    },
+    {
+      "fact": "Kipling hq_country BE",
+      "url": "https://us.kipling.com/pages/our-story",
+      "check": "Set from the 1987 Antwerp origin; the US store's legal address is Savannah, Georgia. Confirm the current HQ country."
+    },
+    {
+      "fact": "Sea Bags free-shipping threshold",
+      "url": "https://seabags.com/",
+      "check": "No shipping policy page (404); banner shows $4.95 ground shipping through Nov 25. Left empty."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": null,
+  "notes": [
+    "12 picks pass enrich.md §3 (verified, sell bags at regular price, ship to the US, outside source, one checkable reason). Target 10–15, not padded. Evidence: pinkchickadee (25 brands), Junyuan Bags (9), bestunder250 (5), two DISboards threads, ClassyMommy, plus the disco profile (4) under Ash's 2026-10-29 rule; disco is never named, linked or quoted in the copy. 'stores like vera bradley' returned no SERP; Reddit, TikTok, Knoji, ProTeacher and Facebook couldn't be read.",
+    "Ranking: independent sources (JanSport and Dooney & Bourke have 2), then closeness of the median regular price to Vera Bradley's $110. All 12 overlap Vera Bradley's $25–$270 range, so every price_relation is 'similar'.",
+    "All prices are US-shopper USD. Fable England's US market has its own USD price list (higher than GBP at the ECB rate), read from its /en-us feed, so no fx entry is needed.",
+    "Requests used the StylodexBot UA only; no personal details sent. Refusals were not retried or worked around (Kate Spade, Lilly Pulitzer 403; Sezane JS challenge; Travelon 503; Stoney Clover Lane 401; Knoji, ProTeacher 403). Ahrefs: 4 serp-overview calls, 1 keywords-explorer-matching-terms call. Supabase: 2 read-only SELECTs (columns, the vera-bradley pool)."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "Your Original Zip Hipster ($80) has three zippered compartments, and you know exactly where your keys are. Now you'd like that same order in nylon, leather or canvas, or just a print nobody else at school pickup is carrying. These brands sell totes, crossbodies and backpacks from Vera Bradley's price range up to leather, sorted with the closest matches first.",
+    "bodies": {
+      "jansport": "JanSport is the pick if it's a Vera Bradley backpack you're replacing and you'd like to spend less. The SuperBreak Plus ($45) has an internal laptop sleeve and a side water bottle pocket, for about a third of the price of a Bancroft Backpack ($135).\n\nIt's been making packs since 1967, and the warranty is the useful part. If a pack ever breaks down, JanSport fixes it, or replaces it when it can't. For something small, the Half Pint Mini Backpack ($27) costs less than half a Kimmel Sling Crossbody ($60). US orders ship free over $50, half Vera Bradley's $99.\n\nBackpacks make up most of the range. For a shoulder bag with the same zip-pocket thinking, Kipling has far more to choose from.",
+      "dooney-bourke": "Dooney & Bourke is where to go when you're ready to trade cotton for leather. It's a Connecticut bagmaker that began in 1975, and its Heritage Collection uses Italian leather with the duck logo.\n\nStart with the Pebble Grain Luna Hobo ($218), a zip-top hobo with an inside key hook, which costs less than Vera Bradley's leather Original Vera Tote ($270). Under $100 there's only the Canvas Carryall 50 ($75), and the typical bag runs $278. It also makes NFL, MLB and college team bags from $188, handy if game day is where your bag goes most.\n\nStandard US shipping costs $10.50 and returns carry a flat $10 fee, so budget for both. For leather with free US returns, Rebecca Minkoff puts a label in the box.",
+      "fable-england": "Fable England is the closest match on price, and it loves a busy print as much as Vera Bradley does. Its typical bag costs $110, the same as Vera Bradley's. The Into the Woods Tote Bag ($122) is its bestselling tote, with a printed scarf tied around the handle and a little bee plaque.\n\nThe prints are the reason to come here. The London label began when its founder found a 1940s bee-print scarf at a vintage fair. The Green Into the Woods Grab Tote ($84) is the cheaper way in, its forest print showing a fox, a doe and an owl under a crescent moon.\n\nThe US store has its own dollar prices, higher than the UK ones, so don't compare against pounds. US orders ship free over $80. It makes few backpacks, though, so look at Kipling for one.",
+      "kipling": "Kipling is the pick for Vera Bradley's pockets in a lighter, water-resistant fabric. Its bags are crinkle nylon, the featherlight material three Antwerp designers found in 1987. The Gabbie Small Crossbody Bag ($109) is built around multiple zip pockets, a lot like the Original Zip Hipster ($80).\n\nFor school or work, the Seoul Large 15\" Laptop Backpack ($134) is its best seller, with a protective laptop sleeve, a dollar under the Bancroft Backpack. Look for the furry monkey keychain, its signature, and each one has a name. Free US shipping starts at $99, the same as Vera Bradley.\n\nReturns cost $8.95 and there are no exchanges, so you send it back and order again. For a backpack under $50, JanSport is the cheaper route.",
+      "spartina-449": "For coastal prints on a bag you'll use every day, go to Spartina 449. It's a Hilton Head Island handbag company that started in 2009, and it pairs linen and leather with colorful patterns. The Market Tote Sea Islands ($78) is laminated cotton, so it wipes clean after the beach or the market.\n\nThose Market Totes are its best sellers, printed with map illustrations of places like the Sea Islands and the Blue Ridge Mountains. Above them sits the Siren leather line, which reaches $398. You can also walk into its own stores in Savannah, Sarasota or St. Augustine.\n\nFree shipping needs $150, the highest bar here, and its prepaid return label costs $9.95. For printed totes with an easier threshold, SCOUT ships free at $99.",
+      "sol-and-selene": "Sol and Selene is the pick for a lighter tote that still holds your devices and a journal. The Los Angeles-designed label specializes in lightweight, functional bags, and many are woven neoprene. The Sky's The Limit - Medium Tote ($150) wears as a crossbody or on the arm.\n\nIf it's Vera Bradley's quilted look you like, the Dreamer Tote ($120) is durable nylon with a quilted design, side pockets and an interior zip pocket. Shipping is free across the continental US with no minimum, and you get one free exchange per order.\n\nIts typical bag costs $150, more than Vera Bradley's $110, and returns cost $4.99. If you'd rather pay under $70 for a quilted tote, BAGSMART's Paz 23L Tote is the one.",
+      "dakine": "Dakine makes commuter and campus backpacks with the laptop sleeve built in. It started on Maui's North Shore in 1979 making surf leashes, and it's now based in Hood River, Oregon. The Campus Backpack 25L ($75) is its best seller, with a padded laptop sleeve and an insulated pocket, and the body is mostly recycled polyester.\n\nFor something smaller, the Jive Crossbody ($29) is its popular everyday purse, on a wide strap that holds it close to your body. Its typical bag costs $68, against Vera Bradley's $110. US shipping is free over $99, except to Hawaii and Alaska.\n\nReturns cost a flat $10.95, and sale items can't go back at all. If a lifetime repair promise matters more than the extra pockets, JanSport offers one.",
+      "scout-bags": "SCOUT is the closest thing to Vera Bradley's collectable patterns, at a lower price. The Washington, DC brand makes its bags in what it calls life-proof fabrics. The Original Deano Tote Large ($55) has been its best seller since 2004, an open-top tote for work, the pool or sports gear.\n\nFor daily carry, the Uptown Pocket Tote ($49) is slim and structured, with four large outside pockets, and it's popular with teachers and nurses. The Bagette Market Tote ($35) holds twice what a typical grocery bag does. Its typical bag costs $65, and shipping is free over $99.\n\nIt's nearly all totes, with a single crossbody and no backpacks. For a backpack, JanSport or Dakine fits better.",
+      "bagsmart": "BAGSMART is the pick if Vera Bradley's travel pieces are what you buy most. It's a travel-accessories brand, and the Paz 23L Tote ($69.99) is slightly padded with quilted detail and split into 10 compartments.\n\nThe Coast Sling Bag ($36.99) is a water-bottle crossbody that packs flat when you're done, so it slips into a suitcase for the trip home. And the Faro Daypack 26 ($74.99) is the backpack to look at. Its priciest bag, the Moss Backpack ($89.99), still costs less than Vera Bradley's typical $110 bag.\n\nReturns run 30 days, but return shipping on anything you just don't want is on you. For quilted nylon one step up, Sol and Selene's Dreamer Tote costs $120.",
+      "sea-bags": "Sea Bags makes its totes by hand in Maine from recycled sails, so every one comes with a story. It's been cutting old sails into bags since 1999, and an audit verified its totes and bucket bags are all recycled sail content. The Navy Anchor on Chambray Medium Tote ($175) is the classic nautical look.\n\nFor a smaller everyday bag, the Lupine on Sailor Stripe Essential Handbag ($95) has a magnetic closure and sail cloth pockets inside. Its typical bag costs $180, a step up from Vera Bradley's $110, and that's the handwork you're paying for.\n\nThe 60-day return window is the longest here, and its own stores take returns too. But you pay return shipping unless the bag is faulty. For a cheaper printed tote, SCOUT starts at $35.",
+      "ban-do": "ban.do is the cheapest way to get a quilted floral tote. The Quilted Tote - Blue Scandinavian Floral ($29.95) has a quilted cotton outside and a quilted nylon lining. That's well under half the price of a Mini Hathaway Tote ($75).\n\nIt started in 2008 to make things that make people smile, so its own bags are cheerful canvas totes like the Canvas Tote Bag - Library Card ($20.95). Its bags page stocks a lot of Baggu too, so check the label if you want ban.do's own. US shipping is free over $75.\n\nThe catch is range. It's totes and market bags only, so for a crossbody or a backpack in a print, Kipling or Fable England has more.",
+      "rebecca-minkoff": "Rebecca Minkoff is where to go if you're ready to swap prints for leather and suede. It calls itself accessible luxury, and its bags lean on rich leathers and signature hardware. The Megan Shoulder Bag ($228) is compact suede with its signature dog-clip detail.\n\nThe Darren Shoulder Bag ($378) is its everyday bag, in suede with an interior zip pocket. Its typical bag costs $313, nearly three times Vera Bradley's, the most expensive typical price on this list.\n\nUS returns are free with the label in the box, where Vera Bradley takes $6 for its own. If you want leather for under $250, Dooney & Bourke's Pebble Grain Luna Hobo costs $218."
+    },
+    "best_for": {
+      "jansport": "a school backpack that gets fixed instead of replaced",
+      "dooney-bourke": "moving up from cotton to Italian leather",
+      "fable-england": "storybook prints at Vera Bradley's typical price",
+      "kipling": "zip-pocket crossbodies in water-resistant nylon",
+      "spartina-449": "map-print totes you can wipe clean",
+      "sol-and-selene": "a light neoprene tote that doubles as a crossbody",
+      "dakine": "a commuter backpack with a padded laptop sleeve",
+      "scout-bags": "patterned totes for errands, sports and the pool",
+      "bagsmart": "organized travel totes and slings under $90",
+      "sea-bags": "a handmade nautical tote with a long return window",
+      "ban-do": "a quilted floral tote for under $30",
+      "rebecca-minkoff": "suede and leather with free US returns"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with what you liked about Vera Bradley. If it was the prints, Fable England matches its typical price, and Spartina 449 and SCOUT put coastal and collectable patterns on everyday totes. If it was the pockets, Kipling's crossbodies and BAGSMART's Paz 23L Tote are built around compartments. For a backpack, JanSport is the cheapest and repairs its packs for life, while Dakine's Campus adds an insulated pocket. Ready for leather? Dooney & Bourke starts lower than Rebecca Minkoff. And if all you want is a quilted tote, ban.do's costs $29.95."
+    },
+    "faqs": [
+      {
+        "q": "How much is a Vera Bradley backpack?",
+        "a": "Most regular-price Vera Bradley backpacks cost between $49 and $210, and the typical one is about $145. The Bancroft Backpack is $135. JanSport's SuperBreak Plus ($45) and Dakine's Campus Backpack 25L ($75) cost less.",
+        "source_query": "how much is a vera bradley backpack"
+      },
+      {
+        "q": "What type of material is Vera Bradley?",
+        "a": "Mostly cotton. Most of its regular-price bags are cotton, which it calls Premium Cotton, and the rest include its lighter Featherweight fabric, denim, corduroy and a small leather line at $125 to $270.",
+        "source_query": "brands like vera bradley",
+        "source": "people_also_ask"
+      },
+      {
+        "q": "Is Vera Bradley a luxury brand?",
+        "a": "Not by price. Its typical regular-price bag costs $110, and most of the range is cotton. Leather brands like Dooney & Bourke and Rebecca Minkoff charge about two and a half to three times that for a typical bag.",
+        "source_query": "is vera bradley a luxury brand"
+      },
+      {
+        "q": "Who are Vera Bradley's competitors?",
+        "a": "For shoppers, Kipling and BAGSMART are the closest for organized everyday bags, and JanSport and Dakine for backpacks. Fable England, Spartina 449 and SCOUT cover printed totes, and Dooney & Bourke is the step up to leather.",
+        "source_query": "brands like vera bradley",
+        "source": "people_also_ask"
+      }
+    ]
+  }
+}
