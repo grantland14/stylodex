@@ -1,15 +1,27 @@
 import { createClient, type SupabaseClient } from "@supabase/supabase-js";
 import { env } from "./env";
 import { fixtureClosedStorePage, fixturePage } from "./fixtures";
+import { pipelinePages } from "./pipeline";
 import type { Brand, BrandsLikePage, CategoryPrice, Evidence, Faq, SimilarPick, UrlPrefix } from "./types";
 
 /** Placeholder data, local only. Forces noindex everywhere and an empty sitemap. */
 export const FIXTURE_MODE = env("STYLODEX_FIXTURES") === "1";
+/** Pages built from pipeline/data/ JSON, to read copy before it is loaded. Also noindex everywhere. */
+export const PIPELINE_MODE = env("STYLODEX_DATA") === "pipeline";
+/** Either local source: the site must not be indexed, and robots.txt disallows all. */
+export const PREVIEW_ONLY = FIXTURE_MODE || PIPELINE_MODE;
 
 /** Stylodex's own schema in the shared Supabase project. Never query Apart Style's `public` tables. */
 const SCHEMA = "stylodex";
 
-const fixturePages = () => [fixturePage(), fixtureClosedStorePage()];
+let localCache: BrandsLikePage[] | null = null;
+/** Pages from a local source (fixtures or pipeline files), or null when reading Supabase. */
+function localPages(): BrandsLikePage[] | null {
+  if (!PREVIEW_ONLY) return null;
+  localCache ??= FIXTURE_MODE ? [fixturePage(), fixtureClosedStorePage()] : pipelinePages();
+  return localCache;
+}
+const localBrands = (pages: BrandsLikePage[]) => pages.flatMap((page) => [page.anchor, ...page.picks.map((p) => p.brand)]);
 
 let client: SupabaseClient<any, typeof SCHEMA> | null = null; // eslint-disable-line @typescript-eslint/no-explicit-any
 
@@ -68,10 +80,8 @@ function toBrand(row: any): Brand {
 }
 
 export async function getBrand(slug: string): Promise<Brand | null> {
-  if (FIXTURE_MODE) {
-    const brands = fixturePages().flatMap((page) => [page.anchor, ...page.picks.map((p) => p.brand)]);
-    return brands.find((b) => b.slug === slug) ?? null;
-  }
+  const local = localPages();
+  if (local) return localBrands(local).find((b) => b.slug === slug) ?? null;
   const { data, error } = await db().from("brands").select(BRAND_COLUMNS).eq("slug", slug).maybeSingle();
   if (error) throw error;
   return data ? toBrand(data) : null;
@@ -79,9 +89,8 @@ export async function getBrand(slug: string): Promise<Brand | null> {
 
 /** Everything a "brands like X" page needs. Returns all verified picks; the gate decides what renders. */
 export async function getBrandsLikePage(slug: string): Promise<BrandsLikePage | null> {
-  if (FIXTURE_MODE) {
-    return fixturePages().find((page) => page.anchor.slug === slug) ?? null;
-  }
+  const local = localPages();
+  if (local) return local.find((page) => page.anchor.slug === slug) ?? null;
 
   const anchor = await getBrand(slug);
   if (!anchor) return null;
@@ -134,7 +143,8 @@ export async function getBrandsLikePage(slug: string): Promise<BrandsLikePage | 
 
 /** The URL prefix of a brand's alternatives page, or null if it has none. Used to link only to pages that exist. */
 export async function getAlternativesPrefix(slug: string): Promise<UrlPrefix | null> {
-  if (FIXTURE_MODE) return fixturePages().find((page) => page.anchor.slug === slug)?.urlPrefix ?? null;
+  const local = localPages();
+  if (local) return local.find((page) => page.anchor.slug === slug)?.urlPrefix ?? null;
   const { data, error } = await db()
     .from("brands_like_pages")
     .select("url_prefix, brands!inner(slug)")
@@ -146,7 +156,8 @@ export async function getAlternativesPrefix(slug: string): Promise<UrlPrefix | n
 
 /** Slugs of every drafted "brands like X" page. The sitemap gates each one before listing it. */
 export async function listBrandsLikeSlugs(): Promise<string[]> {
-  if (FIXTURE_MODE) return [];
+  const local = localPages();
+  if (local) return local.map((page) => page.anchor.slug);
   const { data, error } = await db().from("brands_like_pages").select("brands(slug)");
   if (error) throw error;
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -158,7 +169,8 @@ export async function listBrandsLikeSlugs(): Promise<string[]> {
  * which is fine at wave sizes (hundreds); batch it before the site reaches thousands.
  */
 export async function listAlternativesPages(): Promise<BrandsLikePage[]> {
-  if (FIXTURE_MODE) return fixturePages();
+  const local = localPages();
+  if (local) return local;
   const pages: BrandsLikePage[] = [];
   for (const slug of await listBrandsLikeSlugs()) {
     const page = await getBrandsLikePage(slug);
@@ -169,10 +181,8 @@ export async function listAlternativesPages(): Promise<BrandsLikePage[]> {
 
 /** Verified brands, which get a profile page. Closed stores and candidates don't. */
 export async function listProfileBrands(): Promise<Brand[]> {
-  if (FIXTURE_MODE) {
-    const all = fixturePages().flatMap((page) => [page.anchor, ...page.picks.map((p) => p.brand)]);
-    return [...new Map(all.filter((b) => b.status === "verified").map((b) => [b.slug, b])).values()];
-  }
+  const local = localPages();
+  if (local) return [...new Map(localBrands(local).filter((b) => b.status === "verified").map((b) => [b.slug, b])).values()];
   const { data, error } = await db().from("brands").select(BRAND_COLUMNS).eq("status", "verified");
   if (error) throw error;
   return (data ?? []).map(toBrand);
@@ -182,7 +192,7 @@ export async function listProfileBrands(): Promise<Brand[]> {
 export async function logClick(brandId: string, pagePath: string | null): Promise<void> {
   const url = env("SUPABASE_URL");
   const serviceKey = env("SUPABASE_SERVICE_ROLE_KEY");
-  if (FIXTURE_MODE || !url || !serviceKey) return;
+  if (PREVIEW_ONLY || !url || !serviceKey) return;
   try {
     await createClient(url, serviceKey, { db: { schema: SCHEMA } }).from("clicks").insert({ brand_id: brandId, page_path: pagePath });
   } catch (err) {

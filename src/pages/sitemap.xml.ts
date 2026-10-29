@@ -1,5 +1,5 @@
 import type { APIRoute } from "astro";
-import { FIXTURE_MODE, listAlternativesPages } from "@/lib/data";
+import { PREVIEW_ONLY, listAlternativesPages } from "@/lib/data";
 import { judgeBrandsLikePage } from "@/lib/gate";
 import { alternativesPath } from "@/lib/paths";
 
@@ -7,7 +7,7 @@ import { alternativesPath } from "@/lib/paths";
 // crawl a page that renders noindex. Fixture builds list nothing but the home page.
 export const GET: APIRoute = async ({ site }) => {
   const urls: { loc: string; lastmod?: string }[] = [{ loc: new URL("/", site).href }];
-  if (!FIXTURE_MODE) {
+  if (!PREVIEW_ONLY) {
     for (const page of await listAlternativesPages()) {
       if (judgeBrandsLikePage(page).indexable) {
         urls.push({ loc: new URL(alternativesPath(page.urlPrefix, page.anchor.slug), site).href, lastmod: page.checkedAt });

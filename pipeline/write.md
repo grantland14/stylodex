@@ -59,3 +59,15 @@ Write `data/pages/{slug}.review.md`:
 **Author: Ash** (decided 2026-10-29). Set `author` to "Ash" on every page. His bio (supplied by Ash) is in
 `lib/authors.ts` and the byline links to `/authors/ash`, so G5 passes. Never add to the bio or
 claim fashion credentials it doesn't state (G4).
+
+## Output shape
+Add to `data/pages/{slug}.json` (leave every other field as step 4 wrote it):
+```json
+"author": "Ash",
+"copy": {
+  "intro": "…",
+  "bodies": { "{pick slug}": "…" },
+  "faqs": [{ "q": "…", "a": "…", "source_query": "the real search it came from" }]
+}
+```
+Plain text, no Markdown. One body for every pick; a pick without a body is dropped by the gate.

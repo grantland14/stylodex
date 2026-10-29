@@ -3,7 +3,7 @@ import "@fontsource/schibsted-grotesk/400.css";
 import "@fontsource/schibsted-grotesk/500.css";
 import "@fontsource/newsreader/400.css";
 import "../styles/global.css";
-import { FIXTURE_MODE } from "@/lib/data";
+import { PREVIEW_ONLY } from "@/lib/data";
 
 interface Props {
   title?: string;
@@ -17,7 +17,7 @@ interface Props {
 const { title, description, canonical, index = true, jsonLd } = Astro.props;
 const fullTitle = title ? `${title} | Stylodex` : "Stylodex";
 // Fixture data must never be indexed.
-const robots = index && !FIXTURE_MODE ? "index, follow" : "noindex, follow";
+const robots = index && !PREVIEW_ONLY ? "index, follow" : "noindex, follow";
 // "<" escaped so stored text can never close the script tag.
 const ld = jsonLd && JSON.stringify(jsonLd).replace(/</g, "\\u003c");
 const year = new Date().getFullYear();
