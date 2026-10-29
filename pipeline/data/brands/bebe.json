@@ -1,0 +1,52 @@
+{
+  "slug": "bebe",
+  "name": "bebe",
+  "website_url": "https://www.bebe.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Chic, Contemporary Womenswear",
+  "hq_country": "US",
+  "founded_year": 1976,
+  "size_range": "XXS–XXL (US 00–16)",
+  "has_plus": false,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 30,
+  "sells_categories": [
+    "dresses"
+  ],
+  "checked_at": "2026-10-29",
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 139.0,
+      "max": 189.0,
+      "min_usd": 139.0,
+      "max_usd": 189.0,
+      "fx_date": null,
+      "item_count": 49,
+      "source_url": "https://www.bebe.com/collections/dresses/products.json",
+      "checked_at": "2026-10-29",
+      "note": "Full Shopify feed of the dresses collection (StylodexBot UA, limit=250, pages 1-4; page 5 empty): 969 products (product types midi 431, mini 294, maxi 244; feed vendor field JUMP 928, TC 27, LORENCY 14, all sold as bebe). 918 marked down (compare_at_price above price), excluded; 51 regular, 49 available. Low: Lace Cap Sleeve Midi Dress, Lace Inset Midi Dress, Off Shoulder Midi Dress $139. High: Drape Long Sleeve Maxi Dress With Belt, Mock Neck Long Sleeve Dress With Belt, Soutache V-Neck Maxi Dress $189; Sweater V-Neck Maxi Dress with Belt $179."
+    }
+  ],
+  "sources": [
+    "https://www.bebe.com/",
+    "https://www.bebe.com/collections/dresses/products.json",
+    "https://www.bebe.com/pages/general-size-guide",
+    "https://www.bebe.com/pages/shipping",
+    "https://www.bebe.com/pages/returns",
+    "https://www.bebe.com/pages/international",
+    "https://en.wikipedia.org/wiki/Bebe_Stores"
+  ],
+  "notes": [
+    "2026-10-29 (boston-proper page run): homepage title 'Women's Fashion: Chic & Contemporary Clothing | bebe'; meta 'stylish dresses, trendy jumpsuits, cute tops and more'. Nav has bandage, bodycon, cocktail, work, night-out and special-occasion dress collections.",
+    "2026-10-29 (boston-proper page run): size guide XXS (00-0) to XXL (14-16); no plus, petite or tall chart.",
+    "2026-10-29 (boston-proper page run): shipping, 48 contiguous states: Standard Ground $9.49 under $150, FREE over $150; Express $24; Next Day $35; Hawaii and Alaska $27. International orders via Global-E (international page; refunds listed in CAD, AUD, EUR, GBP and other currencies), countries not listed, so only US stored. Returns: 'within 30 days of your order shipping'; refunds within 21 days of shipping, store credit from day 21 to 30; $12 return fee unless Checkout+ was bought; final sale and intimates not returnable.",
+    "2026-10-29 (boston-proper page run): Wikipedia: founded June 7, 1976 in San Francisco by Manny Mashouf; HQ Brisbane, California; closed its remaining US stores in 2017 and moved online (dated, us_stores left empty). Current owner not stated, so parent_company left empty.",
+    "2026-10-29 (boston-proper page run): known_for set to Chic, Contemporary Womenswear (from the homepage title) without the apostrophe the fact linter reads as a quote."
+  ]
+}
