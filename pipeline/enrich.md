@@ -22,7 +22,8 @@ things equally, use its best-selling or hero product line as C and say why.
    Outfitters, Nordstrom…), brands in the same retailer's matching category page are candidates
    with that page as evidence.
 4c. Picks are brands or stores selling new stock. A secondhand or thrift shop is never a pick on
-   a brands page (Ash, 2026-10-29).
+   a brands page (Ash, 2026-10-29). A brand that sells its own new label alongside some vintage
+   counts, priced on its own label only.
 5. Add Apart Style pool brands (`public.brand_relationships` for X) as candidates with
    `sources: []`; they need outside evidence of their own to become picks.
 
@@ -60,6 +61,8 @@ Write `data/brands/{slug}.json` with the `stylodex.brands` columns:
   stores. A chain you can walk into counts for US shoppers even with no online shop.
 - `prices`: for category C (and other main categories), min/max of **regular-price** items on
   the brand's own category page, in the store's own `currency`, with the page URL and today's date.
+  Read what a **US shopper is charged**: when the store has a US setting or US storefront, use it
+  (US prices are often higher than home-market prices, and duties may be included).
   No sale prices. An item is on sale when it shows a markdown (Shopify: `compare_at_price` above
   `price`), the same test `product-images.mjs` uses. A "sale" tag or campaign name with no markdown
   is still regular price. Shopify stores serve the whole collection at `/collections/{handle}/products.json`

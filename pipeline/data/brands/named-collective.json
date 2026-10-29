@@ -35,7 +35,9 @@
       "note": "Hoodies collection feed, 94 products: 75 regular-price in-stock hoodies (no markdowns; 4 sold out, the rest sets/activewear). Low: Curse Sculpt Stretch Zip Hoodie, Envy Snakeskin Slashed Sculpt Stretch Zip Hoodie, Vice Rhinestone Fitted Hoodie £75; high: Dusk Rhinestone Zip Hoodie £130. The same feed read with the store's US market selected (localization=US) gives USD $120–$210 (Dusk Rhinestone Zip Hoodie $210), so US checkout prices run above the ECB conversion. Regular price = in stock, no variant with compare_at_price above price; hoodie = title says hoodie/hoody, kids, knit, sets and jackets excluded."
     }
   ],
-  "materials": [],
+  "materials": [
+    "Organic cotton and recycled polyester fleece"
+  ],
   "certifications": [],
   "production_model": null,
   "sale_pattern": null,
@@ -51,7 +53,8 @@
     "https://namedcollective.com/collections/hoodies/products.json?limit=250",
     "https://namedcollective.com/products.json?limit=250&page=1",
     "https://namedcollective.com/cart.js",
-    "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
+    "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+    "https://namedcollective.com/collections/hoodies.json"
   ],
   "notes": [
     "BORDERLINE. It sells hoodies, sweatpants and tracksuit sets, but its own positioning ('Independent fashion label'; About: 'a London-based independent collective') never says streetwear, and neither did the fetched hoodies page. A WebSearch summary claimed some category pages call pieces streetwear, but that wasn't fetched. Off_category under this run's rule; a human may override.",
@@ -60,7 +63,9 @@
     "2026-10-29 re-check for C = jeans: stays off_category. /collections/denim serves 1 product (sweatpants) and /collections/jeans serves none.",
     "2026-10-29 re-judge under enrich.md §2 (status is shared, never a category miss): live and selling clothing today, so verified, not off_category. Whole-store feed (https://namedcollective.com/products.json, 376 products): HOODIE 108, SWEATPANTS 74, TOPS 48, BIKINI 32, SHORTS 28; nav leads 'TRACKSUIT SETS HOODIES SWEATPANTS'. About page: 'London-based independent collective… co-creating the future of leisurewear. Unapologetic designs emblazoned with rhinestones and bold graphics' (https://namedcollective.com/pages/about-us). known_for overwritten from 'Independent London Fashion Collective' to that positioning (it feeds the page title).",
     "Sizes from hoodie variants: XS, S/M, L/XL, 2XL/3XL on most styles; some in single sizes S–2XL. size_range XS–3XL.",
-    "US delivery (https://namedcollective.com/pages/delivery-1): free tracked over $250, else $8 tracked 2–5 days. Returns (https://namedcollective.com/pages/returns-exchanges-1): 14 days for US orders; free return label for exchanges and store credit. Store country selector lists United States (USD $)."
+    "US delivery (https://namedcollective.com/pages/delivery-1): free tracked over $250, else $8 tracked 2–5 days. Returns (https://namedcollective.com/pages/returns-exchanges-1): 14 days for US orders; free return label for exchanges and store credit. Store country selector lists United States (USD $).",
+    "Hoodie product copy (hoodies feed body_html): 'Designed in London by NAMED COLLECTIVE®… Our signature oversized fit… Full-length, two-way zip with custom NAMED hardware… Mindfully made from premium 73% organic cotton, 27% recycled polyester fleece' on most rhinestone and embroidered zips (e.g. Poison Rhinestone Zip Hoodie, Malfunction Rhinestone Zip Hoodie); some faux-fur styles are 100% polyester. Several have detachable ears or detachable faux-fur hood trim.",
+    "Hoodies collection description (https://namedcollective.com/collections/hoodies.json): 'made from high quality, heavy fabrics… oversized hoodies, super cropped hooded tops, and flattering sculpt sweatshirts… detachable bunny ears and lace detailing, or our darker sh*t, which features rhinestones, camo, and bold graphics… Pair with our signature sweatpants for the ultimate tracksuit set'."
   ],
   "checked_at": "2026-10-29",
   "sells_categories": [
