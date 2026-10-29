@@ -46,6 +46,32 @@
       "source_url": "https://www.everlane.com/collections/womens-jeans/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "products.json (3 pages, 542 products): 70 non-jean items (shorts, skirts, jackets, vests, shirts) excluded; 403 had compare_at above price (sale) and were excluded; 69 regular-price women's jeans at $88–$148. Low end: The Way-High Curve Jean ($88, sold in 27\" and 29\" inseams); high end: W Heavyweight Low Rise Relaxed Boot Flare Jean ($148)."
+    },
+    {
+      "category": "womens-clothing",
+      "currency": "USD",
+      "min": 88,
+      "max": 148,
+      "min_usd": 88,
+      "max_usd": 148,
+      "fx_date": null,
+      "item_count": 67,
+      "source_url": "https://www.everlane.com/collections/womens-jeans/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: women's jeans. womens-jeans products.json, 542 products: 87 non-jeans (shorts, skirts, culottes, jackets, shirts) dropped, 388 with compare-at above price excluded as sale, leaving 67 regular-price jeans. Low: The Way-High Curve Jean $88 (27\" and 29\" inseams); high: W Heavyweight Low Rise Relaxed Boot Flare Jean $148."
+    },
+    {
+      "category": "sweaters",
+      "currency": "USD",
+      "min": 98.0,
+      "max": 218.0,
+      "min_usd": 98.0,
+      "max_usd": 218.0,
+      "fx_date": null,
+      "item_count": 187,
+      "source_url": "https://everlane.com/collections/womens-sweaters/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "products.json: 349 listings in the collection; 135 with compare_at above price (sale) and 17 sold out excluded, 10 non-sweaters excluded; 187 regular-price women's sweaters. Low: Boxy V-Neck Sweater in Everyday Cotton | Canvas ($98); high: Cashmere Fisherman Crew | Black ($218). Cashmere Slim Crew Sweater $148 ('recycled cashmere blend'); highest Cashmere Fisherman Crew $218."
     }
   ],
   "materials": [],
@@ -65,7 +91,10 @@
     "https://www.everlane.com/collections.json?limit=250",
     "https://www.everlane.com/collections/womens-jeans/products.json?limit=250",
     "https://www.everlane.com/policies/shipping-policy",
-    "https://www.everlane.com/policies/refund-policy"
+    "https://www.everlane.com/policies/refund-policy",
+    "https://everlane.com/collections/womens-sweaters/products.json?limit=250",
+    "https://everlane.com/products/womens-cashmere-slim-crew-sweater-black.json",
+    "https://everlane.com/meta.json"
   ],
   "notes": [
     "About page footer: 'Clean Luxury. Better For You.'; the page also describes 'Radical Transparency' as revealing 'the true costs behind all of our products.'",

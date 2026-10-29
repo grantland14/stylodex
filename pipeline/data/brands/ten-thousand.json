@@ -1,0 +1,55 @@
+{
+  "name": "Ten Thousand",
+  "website_url": "https://www.tenthousand.cc",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Purpose-Built Training Gear",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Tees XS–XXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 62,
+      "max": 88,
+      "item_count": 8,
+      "source_url": "https://www.tenthousand.cc/collections/short-sleeve-shirts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Short-sleeve shirts collection: 8 regular-price styles (each in many colors), $62 (Core Tee, $62–$68 by color) to $88 (Interval Shirt, $78–$88); Foundation Shirt, Field Tee and Recover Shirt from $68; Session, Tactical and Output Shirts $78. 1 'final-sale' item excluded. Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final, DiscountApplied, sale-NN, NN%, on-sale, sale, flash-sale, further reductions); campaign-eligibility tags with no compare-at price (e.g. '10th-anniversary-sale', 'cp:SeptEOSSale', 'DISCOUNT') are not treated as markdowns. Short-sleeve tees only: long-sleeve, tanks, stringers, polos, button-ups, jerseys, sweaters, packs and box sets excluded.",
+      "min_usd": 62,
+      "max_usd": 88,
+      "fx_date": null
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.tenthousand.cc/",
+    "https://www.tenthousand.cc/meta.json",
+    "https://www.tenthousand.cc/cart.js",
+    "https://www.tenthousand.cc/collections.json?limit=250",
+    "https://www.tenthousand.cc/collections/short-sleeve-shirts/products.json?limit=250",
+    "https://www.tenthousand.cc/pages.json?limit=250",
+    "https://www.tenthousand.cc/pages/shipping-returns",
+    "https://www.tenthousand.cc/policies/shipping-policy",
+    "https://www.tenthousand.cc/policies/refund-policy"
+  ],
+  "notes": [
+    "Homepage title \"Ten Thousand | Men's Gym Clothes + Workout Gear\"; meta: 'Shop purpose-built training gear ... Designed by athletes'. meta.json store address New York, NY; ships_to 139 countries incl. US, CA, GB, AU.",
+    "Shipping: pages/shipping-returns and the shipping policy say $10 under $150, free shipping and free returns over $150 within the continental US; the homepage meta description says 'free shipping on orders over $100'. Conflict: stored 150 from the policy pages; not used in copy.",
+    "Returns: complimentary 30-day returns for US orders (prepaid label), unworn/unwashed/tags; mail within 14 days of starting the return."
+  ],
+  "checked_at": "2026-10-29"
+}

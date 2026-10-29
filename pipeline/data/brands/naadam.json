@@ -1,0 +1,59 @@
+{
+  "slug": "naadam",
+  "name": "NAADAM",
+  "website_url": "https://naadam.co",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Luxury Knitwear from Mongolia",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XXS–XXL; 1X–3X on some styles",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 175,
+  "returns_days": 14,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "sweaters",
+      "currency": "USD",
+      "min": 78.0,
+      "max": 528.0,
+      "min_usd": 78.0,
+      "max_usd": 528.0,
+      "fx_date": null,
+      "item_count": 85,
+      "source_url": "https://naadam.co/collections/womens/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "products.json: 305 listings in the collection; 109 with compare_at above price (sale) and 5 sold out excluded, 106 non-sweaters excluded; 85 regular-price women's sweaters. Low: Basic Cashmere Short Sleeve Sweater ($78); high: Ultra Luxe Cashmere High Neck Cardigan ($528). Women's collection filtered to sweaters and cardigans by product type. The Original Cashmere Sweater $98 (100% cashmere, 12-gauge). Basic Cashmere line $78–$88. Collegiate cashmere sweaters $178."
+    }
+  ],
+  "materials": [
+    "Cashmere"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://naadam.co/meta.json",
+    "https://naadam.co/collections/womens/products.json?limit=250",
+    "https://naadam.co/products/the-original-cashmere-crewneck-sweater-womens.json",
+    "https://naadam.co/policies/refund-policy",
+    "https://naadam.co/policies/shipping-policy"
+  ],
+  "notes": [
+    "Store description: 'NAADAM responsibly sources & produces luxury knitwear while preserving nomadic lifestyle in Mongolia'; store address New York, NY (https://naadam.co/meta.json). Ships to 165 countries incl. US, CA, GB, AU (meta.json ships_to_countries).",
+    "Shipping: 'Free ground shipping on all domestic U.S. orders $175 or more!' (https://naadam.co/policies/shipping-policy).",
+    "Returns: 'within 14 days of the original delivery date'; 'All online returns are subject to a return fee of USD $12.75'; 'All items on sale are final sale' (https://naadam.co/policies/refund-policy).",
+    "Sizes from products.json Size options on regular-price sweaters: XS–XL on all 85, XXS on 80, XXL on 60, 1X–3X on 26."
+  ],
+  "checked_at": "2026-10-29"
+}

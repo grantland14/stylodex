@@ -1,0 +1,59 @@
+{
+  "slug": "lucy-and-yak",
+  "name": "Lucy & Yak",
+  "website_url": "https://us.lucyandyak.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Colorful, Comfy Organic Clothing",
+  "hq_country": "GB",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "US 0–28; Petite and Tall ranges",
+  "has_plus": true,
+  "has_petite": true,
+  "has_tall": true,
+  "ships_to": [
+    "US",
+    "GB"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 109.0,
+      "max": 119.0,
+      "min_usd": 109.0,
+      "max_usd": 119.0,
+      "fx_date": null,
+      "item_count": 9,
+      "source_url": "https://us.lucyandyak.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "9 regular-price, in-stock dresses of 17 in the US store's Dresses collection (7 marked down, 1 sold out). Layla Pinafore Mini Dress in organic cotton denim $109; Lily Pinafore Midi Dress in organic cotton denim $115; Micah Organic Corduroy Midi Dress $119; Georgia Drop Waist Midi Dress in organic brushed cotton $109. Dress sizes US 0–28."
+    }
+  ],
+  "materials": [
+    "Organic and recycled fabrics"
+  ],
+  "certifications": [],
+  "production_model": "Publishes its supplier partners",
+  "sale_pattern": null,
+  "sources": [
+    "https://us.lucyandyak.com/",
+    "https://us.lucyandyak.com/collections/dresses/products.json?limit=250",
+    "https://us.lucyandyak.com/pages/size-and-fit-2",
+    "https://us.lucyandyak.com/pages/delivery",
+    "https://us.lucyandyak.com/policies/refund-policy",
+    "https://us.lucyandyak.com/pages/our-supplier-partners",
+    "https://lucyandyak.com/"
+  ],
+  "notes": [
+    "Title: 'Lucy and Yak Independent UK Design Street Wear Clothing Brand – Lucy & Yak US'. Meta: 'Colorful, comfy clothing designed in Britain, made from organic and recycled fabrics. Independent and employee owned, so we put people before profit.'",
+    "Size & Fit page: 'sizes UK 4-32 / US 0-28 (with long versions available) as well as Petite and Tall ranges'.",
+    "US store banner: 'FREE DELIVERY ON ALL ORDERS OVER $150'. Refund policy: return within 30 days of receiving the order.",
+    "Supplier partners page lists named factories with addresses, audits and partnership length (e.g. Chelsea Mills, Haryana, India; 826 employees; Sedex SMETA).",
+    "Imperfect Idealist: 'best-known for its slouchy dungarees/overalls'; Overalls is the first item in the store's clothing nav."
+  ],
+  "checked_at": "2026-10-29"
+}

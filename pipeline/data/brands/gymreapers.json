@@ -1,0 +1,56 @@
+{
+  "name": "Gymreapers",
+  "website_url": "https://www.gymreapers.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Fitness Equipment and Apparel",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Tees S–2XL, many to 4XL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 30,
+      "max": 58,
+      "item_count": 127,
+      "source_url": "https://www.gymreapers.com/collections/shirts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Shirts collection (144 products): 127 regular-price short-sleeve tees $30 (Basic Shirt in 22 colors, Core Skull/Core Logo Shirts, REAPER Tee) to $58 (Discipline Division Tee); Active Tri-Blend Basic Tee $38, Axis Raglan Tee $48. 122 items carry the tag 'cp:SeptEOSSale' with no compare-at price (treated as an eligibility tag). Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final, DiscountApplied, sale-NN, NN%, on-sale, sale, flash-sale, further reductions); campaign-eligibility tags with no compare-at price (e.g. '10th-anniversary-sale', 'cp:SeptEOSSale', 'DISCOUNT') are not treated as markdowns. Short-sleeve tees only: long-sleeve, tanks, stringers, polos, button-ups, jerseys, sweaters, packs and box sets excluded.",
+      "min_usd": 30,
+      "max_usd": 58,
+      "fx_date": null
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.gymreapers.com/",
+    "https://www.gymreapers.com/meta.json",
+    "https://www.gymreapers.com/cart.js",
+    "https://www.gymreapers.com/collections.json?limit=250",
+    "https://www.gymreapers.com/collections/shirts/products.json?limit=250",
+    "https://www.gymreapers.com/pages.json?limit=250",
+    "https://www.gymreapers.com/pages/about-us",
+    "https://www.gymreapers.com/policies/shipping-policy",
+    "https://www.gymreapers.com/policies/refund-policy"
+  ],
+  "notes": [
+    "Homepage title 'GYMREAPERS | Fitness Equipment & Apparel'; meta description: 'High-quality fitness gear, equipment, and apparel ... Free US Shipping over $75.' meta.json store address: Nampa, Idaho, US; ships_to 222 countries incl. US, CA, GB, AU.",
+    "About: gear (elbow sleeves, weightlifting belts) 'backed by record-holding powerlifters, IFBB pro athletes, and world-renowned trainers'. Collections include lifting belts, knee/elbow sleeves, straps.",
+    "Returns: 'within 30 days of receipt'; refund minus shipping charges.",
+    "size_range detail: S–2XL on all 127; 3XL on 74, 4XL on 39, 5XL on 4, XS on 5."
+  ],
+  "checked_at": "2026-10-29"
+}

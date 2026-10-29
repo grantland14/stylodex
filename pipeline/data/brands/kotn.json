@@ -33,6 +33,19 @@
       "source_url": "https://kotn.com/collections/womens-dresses/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "8 regular-price, in-stock dresses of 22 in the collection (9 marked down, 2 sold out, 3 not dresses); 4 styles in two colours each: Ghina V-Neck, Dana Asymmetric, Samira Wrap, Zahra Mini. Store base currency CAD (cart.js); converted at ECB 2026-10-28."
+    },
+    {
+      "category": "womens-clothing",
+      "currency": "CAD",
+      "min": 148,
+      "max": 168,
+      "min_usd": 105.36,
+      "max_usd": 119.6,
+      "fx_date": "2026-10-28",
+      "item_count": 7,
+      "source_url": "https://kotn.com/collections/the-denim-collection/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: women's jeans. the-denim-collection products.json: 33 products; 12 women's jeans (minis, skirts and men's dropped), 5 marked down (Sinai, Philae, one Taba listing) excluded, leaving 7 regular-price: Women's Taba Denim CAD 148 (4 washes), Women's Marfa Denim CAD 158 (2), Women's Nahla Denim CAD 168. Store currency CAD. USD at ECB 2026-10-28 (USD 1.1133, CAD 1.5638 per EUR)."
     }
   ],
   "materials": [],
@@ -46,7 +59,8 @@
     "https://kotn.com/policies/shipping-policy",
     "https://kotn.com/policies/refund-policy",
     "https://kotn.com/pages/about",
-    "https://kotn.com/pages/international-size-guide"
+    "https://kotn.com/pages/international-size-guide",
+    "https://kotn.com/collections/the-denim-collection/products.json?limit=250"
   ],
   "notes": [
     "Homepage title: 'Kotn: Premium quality basics, ethically made from Egyptian cotton.' Meta description: 'Designed in Canada, ethically and sustainably made in the Nile Delta... Every purchase funds new schools.' hq_country CA rests on 'Designed in Canada' and the CAD base currency; no HQ city is stated on the pages read.",

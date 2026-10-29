@@ -1,0 +1,15 @@
+{
+  "slug": "mate-the-label",
+  "name": "MATE the Label",
+  "website_url": "https://matethelabel.com",
+  "status": "off_category",
+  "kind": "brand",
+  "sources": [
+    "https://matethelabel.com/collections/dresses",
+    "https://matethelabel.com/cart.js"
+  ],
+  "notes": [
+    "2026-10-29: the Dresses collection reads '0 products' / 'No products match your filters' (products.json for dresses and dresses-jumpsuits also empty). Live store (USD), but no dresses on sale today, so off_category for dresses. Re-check: the category text says 'Mini or midi... in super soft Organic Cotton'."
+  ],
+  "checked_at": "2026-10-29"
+}

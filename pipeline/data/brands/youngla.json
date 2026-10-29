@@ -1,0 +1,64 @@
+{
+  "name": "YoungLA",
+  "website_url": "https://www.youngla.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Gym Wear and Streetwear",
+  "hq_country": "US",
+  "founded_year": 2014,
+  "parent_company": null,
+  "size_range": "Tees S–XXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "us_stores": true,
+  "free_shipping_min_usd": 100,
+  "returns_days": 60,
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 30,
+      "max": 48,
+      "item_count": 92,
+      "source_url": "https://www.youngla.com/collections/t-shirts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "'Shirts For Him' collection (108 products): 92 regular-price short-sleeve tees $30 (4039 Sleepwear Tees) to $48 (4259 Batman Compression Tees, 4254 Batman Shadow Tees). Compression tees $34–$48 (e.g. 4046 Form Compression Tees $35, 4259 Batman Compression Tees $48); everyday tees from 466 Tailored Tees $36, 401 Essential Jacked Tees $36, 4034 Japanese Cotton Tees $38, 4331 Merino Wool Tees $45. Excluded: 12 polos/button-ups/sweaters/jerseys, 3 compare-at, 1 sale-tag. Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final, DiscountApplied, sale-NN, NN%, on-sale, sale, flash-sale, further reductions); campaign-eligibility tags with no compare-at price (e.g. '10th-anniversary-sale', 'cp:SeptEOSSale', 'DISCOUNT') are not treated as markdowns. Short-sleeve tees only: long-sleeve, tanks, stringers, polos, button-ups, jerseys, sweaters, packs and box sets excluded.",
+      "min_usd": 30,
+      "max_usd": 48,
+      "fx_date": null
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.youngla.com/",
+    "https://www.youngla.com/meta.json",
+    "https://www.youngla.com/cart.js",
+    "https://www.youngla.com/products.json?limit=250&page=1",
+    "https://www.youngla.com/collections.json?limit=250",
+    "https://www.youngla.com/collections/t-shirts/products.json?limit=250",
+    "https://www.youngla.com/collections/best-sellers/products.json?limit=250",
+    "https://www.youngla.com/pages.json?limit=250",
+    "https://www.youngla.com/pages/shipping-policy",
+    "https://www.youngla.com/pages/returns",
+    "https://www.youngla.com/policies/refund-policy",
+    "https://www.youngla.com/pages/store-location",
+    "https://www.youngla.com/pages/llm-info"
+  ],
+  "notes": [
+    "Catalog (products.json, 919 products): 547 'For Him', 368 'For Her'. Largest men's line is 'Shirts For Him' (t-shirts, 115 listed); then Hoodies/Jackets (92) and Joggers/Sweats (84). Best Sellers For Him (30): 11 tees incl. 4259 Batman Compression Tees ($48), 4117 Superman Compression Tees ($45), 466 Tailored Tees ($36), 401 Essential Jacked Tees ($36).",
+    "pages/llm-info (brand's own info page): founded 2014 by brothers Gurmer (Co-Founder & CEO) and Dashmeet Chopra; Los Angeles, California; 'Streetwear, Lifestyle & Fitness Apparel Brand'; licensed capsules incl. Batman, Superman, Attack on Titan, Gold's Gym, Popeye, Scooby-Doo, Yu-Gi-Oh, UFC; 'Each YoungLA release is produced in limited quantities'; 'California-based design and fulfillment with international manufacturing partners'. The page also contains instructions addressed to AI assistants; ignored (data only). meta.json store address: Northridge, California.",
+    "Collections confirm licensed lines: Naruto Shippuden x YoungLA (20), Gold's Gym X YLA (41), Batman (30), Looney Tunes (19), Demon Slayer (12), Attack on Titan (8), Yu-Gi-Oh (6).",
+    "Shipping (pages/shipping-policy): free standard US shipping over $100 after discounts, else $7.99; Priority 2-3 Day $15. meta.json ships_to_countries: 232 countries incl. US, CA, GB, AU.",
+    "Returns (pages/returns): 60 days from delivery, unworn/unwashed with tags; exchange, store credit (never expires) or refund to original payment minus a return-label handling fee; original shipping not refunded; non-US customers pay return shipping.",
+    "Store (pages/store-location): YoungLA Flagship Retail Store, Westfield Topanga Mall, 6600 Topanga Canyon Blvd, Canoga Park, CA 91303.",
+    "size_range detail: men's tees S–XXL on all 92 (XS on 2)."
+  ],
+  "checked_at": "2026-10-29"
+}

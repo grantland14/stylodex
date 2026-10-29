@@ -1,0 +1,56 @@
+{
+  "slug": "mayamiko",
+  "name": "Mayamiko",
+  "website_url": "https://mayamiko.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Ethical Fashion Made in Malawi",
+  "hq_country": "GB",
+  "founded_year": 2013,
+  "parent_company": null,
+  "size_range": "UK 8–16 (US 4–12); S–XL",
+  "has_plus": false,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "GB",
+    "US",
+    "CA",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "GBP",
+      "min": 39.0,
+      "max": 159.0,
+      "min_usd": 51.82,
+      "max_usd": 211.27,
+      "fx_date": "2026-10-28",
+      "item_count": 25,
+      "source_url": "https://mayamiko.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "25 regular-price, in-stock dresses of 28 (2 sold out, 1 not a dress). Rose Pinafore Dress in Yellow Kaleidoscope £39; Mercy A Line Dress in Black Diamonds £69; Dalitso Wrap Dress in Golden Leaf £79; Dalitso Maxi Wrap Dress in Yellow Linen £159. Sizes on dresses UK 8–16 / US 4–12, or S–XL. Base currency GBP (cart.js); ECB 2026-10-28."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": "Ethically made in Malawi",
+  "sale_pattern": null,
+  "sources": [
+    "https://mayamiko.com/",
+    "https://mayamiko.com/collections/dresses/products.json?limit=250",
+    "https://mayamiko.com/pages/delivery",
+    "https://mayamiko.com/policies/refund-policy",
+    "https://mayamiko.com/pages/returns-and-refunds",
+    "https://mayamiko.com/pages/new-about-us"
+  ],
+  "notes": [
+    "Title: 'Mayamiko| Ethical and Sustainable Fashion and Accessories in the UK'. About: 'Established in 2013 by Paola Masperi, Mayamiko is a collection of clothing, accessories and home wares, ethically made in Malawi fusing together contemporary design with traditional African techniques.'",
+    "Delivery: world-wide by Royal Mail tracked/signed; free UK delivery over £95; Rest of the World £14.00 flat; 12–14 days by Royal Mail outside Europe, DHL on request. Customs duties vary by country.",
+    "Returns: 14 days for exchanges and returns; 'No refunds or exchanges after 14 days. Store credit at our discretion.'"
+  ],
+  "checked_at": "2026-10-29"
+}

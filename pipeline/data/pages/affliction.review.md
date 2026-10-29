@@ -1,183 +1,150 @@
-# Review: brands like Affliction (step 5 copy)
+# Review: brands like Affliction (top-up + rewrite)
 
-Written 2026-10-29 by the step-5 pass, following `pipeline/write.md` as tightened after Ash's
-Jaded London feedback (no process narration, 40–70 word intro, no dates or attribution chains in
-copy). Author: Ash. Copy in `affliction.json` → `author`, `copy`. Category C = `graphic-tees`
-(Graphic Tees): short-sleeve tees are 844 of 1,802 products (47%) on afflictionclothing.com and
-"Mens Graphic Tees" is the store's largest line (see `category.why`).
+2026-10-29, second pass. Two jobs: top the page up from 6 to 10–15 picks, and rewrite every line
+of copy to the new `pipeline/voice.md` (Ash flagged lines like "Its 86 men's cotton tees start lower
+than Affliction's" as robotic). Author: Ash. Category C = `graphic-tees` (unchanged: short-sleeve
+tees are 844 of 1,802 products on afflictionclothing.com, see `category.why`).
 
-## Enrichment check (enrich.md §3, lib/gate.ts) before writing
+## Picks: 10 renderable / 10 total
 
-All six picks re-checked against their brand files: `status` verified, a `graphic-tees` price with
-min/max/min_usd/max_usd, `ships_to` contains US, ≥1 outside evidence item, reason ≥40 chars, stored
-`price_relation` equal to `computePriceRelation` against the anchor's $39–$88 (Metal Mulisha $28–$38
-→ cheaper, the other five overlap → similar). Anchor: verified, every `missingBrandFacts` field
-present, `/img/brands/affliction.webp` exists in `images.json`.
+| Rank | Pick | Sources | Price (USD) | Relation |
+|---|---|---|---|---|
+| 1 | Ed Hardy | 3 (Obphoria, Zumiez, discobrands) | 45–115 | similar |
+| 2 | Metal Mulisha | 2 (Obphoria, Zumiez) | 28–38 | cheaper |
+| 3 | JNCO | 1 (Obphoria) | 50–80 | similar |
+| 4 | Venum | 1 (Obphoria) | 24.99–89.99 | similar |
+| 5 | Killstar (new) | 1 (discobrands) | 50–60 | similar |
+| 6 | Iron Fist (new) | 1 (discobrands) | 39–45 | similar |
+| 7 | Alchemy England | 1 (Obphoria) | 40 | similar |
+| 8 | West Coast Choppers (new) | 1 (Zumiez co-stocking) | 37.99–39.99 | similar |
+| 9 | Sullen | 1 (Obphoria) | 25–48.95 | similar |
+| 10 | BlackCraft Cult (new) | 1 (discobrands) | 31.99–40 | similar |
 
-Gap fixed this pass (via `merge_brand.py`, patch in scratchpad):
-- **Venum `known_for`** was null → "Combat Sports Gear and Fightwear", from the store's own homepage
-  meta description ("Shop Venum, the #1 combat sports brand. Explore boxing gloves, MMA gear,
-  fightwear and more…", https://www.venum.com/, fetched 2026-10-29). `hq_country` stays null (no
-  brand-stated HQ; the US store is run by DBV distribution in Vernon, CA). The step-4 `gate_gaps`
-  list in `picks[3]` still names known_for; it was left as step 4 wrote it.
+All six existing picks kept (none fails a rule). Ranking: independent sources, then distance
+between range midpoints and the anchor's $63.50 (`notes`).
 
-Not fixed (not gate fields for picks, still in `human_check`): Alchemy England `returns_days`,
-Metal Mulisha free-shipping threshold and non-US countries, True Religion (307 loop; would be a 7th
-pick), Obphoria evidence quality, the two Reddit threads, Buckle co-stocking.
+**New evidence.** Ahrefs had no US SERP rows for 3 of the 4 keywords, so three WebSearch queries
+looked for more editorial lists (`web_search` in the page file). One page counted:
+discobrands.co "Brands Like Affliction", an affiliate brand directory, template-driven, no author.
+It's the only outside source for Killstar, Iron Fist and BlackCraft Cult, so it is first-but-one in
+`human_check`. It also adds a third source for Ed Hardy and Tapout and True Religion. RetailBoss
+(alternatives to Ed Hardy, not Affliction), Sullen's own blog and two spam subdomains were dropped.
+West Coast Choppers comes from the existing Zumiez co-stocking list, now backed by its Zumiez brand
+page (21 items, mostly tees).
+
+**Verified this run** (all through `merge_brand.py`, patches in the scratchpad; `npm run lint:facts`
+passes): iron-fist, blackcraft-cult, killstar, west-coast-choppers created. Prices from each store's
+public Shopify `products.json`, regular price only. Two filter fixes worth knowing: BlackCraft's
+"salem" tags are a collection name, so the sale filter matches whole words; Killstar's "SALE-ID-*"
+tags sit on FULLPRICE items with no compare-at, so they don't mark a markdown.
+
+**Rejected this run** (in `rejected`): True Religion (307 loop again, 3 sources, top of the human
+queue; would be pick 11), Raw State (no official store), Hot Topic (no prices render; a licensed-merch
+mall retailer), Diesel (country-selector wall for scripted reads), Underground England and YRU
+(footwear), G-Star RAW, Fear of God, Mastermind (not verified; weak fits on one directory source).
+22 brands verified across both runs.
 
 ## Gate result (Check step)
 
-Script: `npx tsx` on a scratch file that loads `pipelinePages()` from `lib/pipeline.ts` and runs
-`judgeBrandsLikePage` with now = 2026-10-29.
+`npx tsx` on a scratch script: `pipelinePages()` from `lib/pipeline.ts`, then `pickProblems` and
+`judgeBrandsLikePage`, now = 2026-10-29.
 
 ```
 anchor missing: []
-ed-hardy 1 similar []
-metal-mulisha 2 cheaper []
-jnco 3 similar []
-venum 4 similar []
-alchemy-england 5 similar []
-sullen 6 similar []
-indexable: true rendered: ed-hardy, metal-mulisha, jnco, venum, alchemy-england, sullen reasons: []
-title: 6 Brands Like Affliction for Full-Coverage Graphic Tees
+ed-hardy 1 similar []        metal-mulisha 2 cheaper []   jnco 3 similar []
+venum 4 similar []           killstar 5 similar []        iron-fist 6 similar []
+alchemy-england 7 similar [] west-coast-choppers 8 similar [] sullen 9 similar []
+blackcraft-cult 10 similar []
+indexable: true  reasons: []
+title: 10 Brands Like Affliction for Full-Coverage Graphic Tees
 ```
 
-**Gate: indexable, 6/6 picks render** (exactly MIN_PICKS: losing any one pick drops the page below
-the gate). `npm test`: 25/25 pass.
+`npm test`: 27/27 pass. The four new brands have no `/img/` share image or product photos yet
+(coordinator runs `images.mjs` / `product-images.mjs`); the gate doesn't need them for picks.
 
 ## FAQ sources (Ahrefs)
 
-One call: `keywords-explorer-matching-terms`, keywords "affliction", country US, terms=questions,
-order volume desc, limit 40 (440 units).
+One call: `keywords-explorer-matching-terms`, keywords "affliction", US, terms=questions, volume desc,
+limit 40.
 
-| Used | Question (US volume) | source_query |
-|---|---|---|
-| Yes | What is Affliction clothing? (250) | `what is affliction clothing` |
-| Yes | Where can you buy Affliction clothing? (90) | `where to buy affliction clothing` |
-| Yes | How much are Affliction shirts? (40) | `how much are affliction shirts` |
-| Yes | Who owns Affliction clothing? (50) | `who owns affliction clothing` |
+| Question (US volume) | source_query |
+|---|---|
+| What is Affliction clothing? (250) | `what is affliction clothing` |
+| Is Affliction fast fashion? (200) | `is affliction fast fashion` |
+| Why is Affliction so expensive? (50) | `why is affliction so expensive` |
+| Where can you buy Affliction clothing? (90) | `where to buy affliction clothing` |
 
-Skipped: "what does affliction mean" / bible / band / book / game queries (not the brand);
-is affliction fast fashion (200; only "most products made in the USA" stored, which doesn't answer
-it), does it run small (80, 40; no fit data), what style is it (100; would be opinion), is it a
-christian brand / emo / good / bad (no facts), why so expensive (50; opinion), when was it founded
-(80; folded into the first answer).
+Fast fashion and price are new: the stored About facts (made in the USA, own production) and the
+tee finishing details in `copy_facts` now answer them without opinion. Skipped: meaning/bible/band/
+book/game queries (not the brand), does it run small (no fit data, and we never imply wear), is it
+good/bad/Christian/emo (no facts), how much are the shirts (folded into the price answer).
 
 ## G1–G15
 
 | # | Result | Evidence |
 |---|---|---|
-| G1 | PASS | A "brands like Affliction" list for US shoppers is the site's whole purpose. |
-| G2 | PASS | No outside site's wording is used. The substance is Stylodex's own store reads: regular-price tee counts and ranges, size runs, free-shipping bars, return terms, stock lines. FAQ answers come from brand-file facts, not PAA text. |
-| G3 | PASS | Specifics a SERP reader can't get in one place: Metal Mulisha is the only pick wholly under Affliction's $39 floor, Sullen's 5X on 130 of 135 styles, Ed Hardy stopping at XXL against Affliction's 4X, JNCO's $10 flat shipping and 21-day returns, Venum's $75 free-shipping bar, Alchemy's Fort Worth warehouse, the parked affliction.com domain. No hands-on fit or fabric knowledge, by design. |
-| G4 | PASS | No first-person wear/try/test claims, no "we checked" narration. Ash's bio not added to. |
-| G5 | PASS | `author: "Ash"`, byline to /authors/ash (`lib/authors.ts`). Not YMYL. |
-| G6 | PASS | Every number and claim traces to a stored field (table below). The anchor is verified. Title is built by `brandsLikeTitle` from the stored `known_for` (wording in `human_check`). Template rounding: `priceRange` shows whole dollars, so chips will read $25–$90 (Venum), $25–$49 (Sullen) against $24.99–$89.99 / $25–$48.95 in copy (same issue as on Jaded London, outside the copy). |
+| G1 | PASS | A "brands like Affliction" list for US shoppers is the site's purpose. |
+| G2 | PASS | No outside wording used. The substance is our own store reads: price bands, size runs, shipping bars, return rules, tee weights and bodies. FAQ isn't PAA text. |
+| G3 | PASS | Specifics a SERP reader can't get in one place: JNCO's 10.5oz vs 6.5oz tees, Sullen's Standard/Premium bodies, Iron Fist's no-wrong-size returns and no restocks, Killstar shipping from the EU in 7–14 days, WCC's 80% refund without tags, Affliction's $88 tees being the rhinestone and numbered ones. |
+| G4 | PASS | No worn/tried/tested claims. Fit only as brands state it ("oversized", "boxy fit", "size down"). Ash's bio untouched. |
+| G5 | PASS | `author: "Ash"`. Not YMYL. |
+| G6 | PASS | Every claim traces (table below). Anchor verified. |
 | G7 | PASS (N/A) | Not YMYL. |
-| G8 | PASS | "6 Brands Like Affliction for Full-Coverage Graphic Tees": the real rendered count, and every pick sells graphic tees. |
-| G9 | PASS | Both sides of the comparison are present: every body places the pick's tee price against Affliction's $39–$88 and its size run against Affliction's 4X, and the gate's price labels match stored prices. |
-| G10 | PASS | Price, sizes, US shipping and returns for each pick plus the anchor's own range and where to buy it. Gaps a reader might still search (fit, quality) can't be answered from stored facts. |
-| G11 | PASS | Intro is 59 words: what Affliction is known for, what the six share, the price spread. No preamble or method talk. |
-| G12 | PASS | All prices from 2026-10-29 (`checked_at`); the template carries the "Last checked" line. No dates in copy. |
-| G13 | **FAIL** | Honest estimate is Medium (below). Copy can't fix it: needs stronger evidence and images. |
-| G14 | PASS | Affiliate links via /go/ with the disclosure. No implied testing. No client at #1. |
-| G15 | PASS | 0 em dashes, 0 semicolons, no Markdown. Bodies end differently (a returns rule, a sale-final note, a returns window, a returns condition, a shopping tip, a shipping bar). Only page of its kind for this anchor. |
+| G8 | PASS | Title uses the real rendered count (10) and every pick sells graphic tees. |
+| G9 | PASS | Each body places price and sizes against Affliction's $39–$88 and 4X, and points to another pick where it fits better. |
+| G10 | PASS | Price, sizes, shipping and returns per pick, a "How to choose" guide by taste and budget, and four FAQs. |
+| G11 | PASS | Intro 57 words, opens on a reader moment ($88 rhinestone tee), no method talk. Bodies open answer-first. |
+| G12 | PASS | All prices read 2026-10-29; the template shows "Last checked". No dates in copy. |
+| G13 | **FAIL** | Honest estimate is Medium (below). Copy can't fix the evidence base. |
+| G14 | PASS | Affiliate links via /go/ with the disclosure. No implied testing. |
+| G15 | PASS | 0 em dashes, 0 semicolons, no Markdown. Bodies end differently. |
 
-**Counts:** PASS 14 (G1–G12, G14, G15) · FAIL 1 (G13) · BLOCKED 0.
+**Estimated Page Quality:** Medium. The store data is real and the copy now teaches something per
+brand, but 8 of 10 picks rest on one outside source, and the two lists behind them (Obphoria, a
+brand's own blog, and discobrands, a template directory) are weak. Reddit, the real ranking SERP,
+is still unread.
+**Estimated Needs Met:** Moderately Meets. Biggest lift: read the Reddit threads in `human_check`
+for independent evidence, then verify True Religion and add tee photos.
 
-**Estimated Page Quality:** Medium. The store-level data for every pick (and the anchor) is real
-and specific, but four of six picks rest on a single outside source, and that source is a clothing
-brand's own undated blog list (Obphoria). The ranking SERP is mostly Reddit threads we couldn't read.
-Three picks (Metal Mulisha, Alchemy England, Sullen) have no share image and no pick has graphic-tee
-product photos yet, on a query where readers want to see the prints.
+## Voice check (voice.md "What we never write")
 
-**Estimated Needs Met (dominant intent):** Moderately Meets. What would move it most: read the two
-Reddit threads (`human_check`) to add independent evidence, verify True Religion as a 7th pick
-(a buffer above MIN_PICKS), then product photos of each brand's tees.
+None present: no process narration, no counts as the point of a sentence (the old "86 tees",
+"102 tees", "22 tees" lines are gone), no verdicts, no invented experience, no hype. Each pick has an
+answer-first opener with a named product and price, one taught detail (tee weight, shirt bodies,
+reissue/no restock, account-credit returns, Iron Cross OG tee), an honest trade-off, and a pointer to
+another pick. Best-for lines are use cases. "How to choose" names every pick but Alchemy.
 
-## AI-voice scan
+## AI-voice scan (ai-voice-avoid)
 
-| Pattern (ai-voice-avoid) | Where found | Fix |
+| Pattern | Found | Fix |
 |---|---|---|
-| Unsupported comparison (fact trace) | Intro "draw on the same tattoo, motocross and fight culture": no stored fact ties Affliction itself to tattoo or MMA | "the same" cut; the line now describes the picks only |
-| Unsupported claim | Metal Mulisha "co-founders … run it from San Juan Capistrano" (current management not stored), then "where they co-founded it" (founding place not stored) | Split: co-founders named, then "it's based in San Juan Capistrano" (terms page) |
-| §13 evaluative framing | Venum "a combat sports brand first" | "a combat sports brand that sells…" |
-| Unstated degree | Sullen "the bigger sizes cost a little more" | "cost more" (stored note says only that larger sizes cost more) |
-| §40 "from X to Y" | Intro price spread | Kept: write.md prescribes this form for the price spread. Other "from" hits are literal (ship from a warehouse, buy from a store) |
-| §1, §2, §16, §19–§26, §33, §34, §48 | none ("not just", "rather than", "really/just/simply", "may", "matters", "without…") | — |
-| §3 rule of three | "tattoo art or motocross and fight culture" is two groups | — |
-| §47 every section ends the same | No repeated closing form | — |
-| Smell Test | Each body is built on that brand's own numbers and lines (rhinestone boxy tees, Venum x UFC, The Mummy prints, 460+ Artist Series artists). None would fit another entry unchanged | — |
+| §34 "matters more than" | Iron Fist "That sizing advice matters more than usual here" | "So check the size chart first." |
+| §24 colon reveal | Sullen "Here's the useful bit: …" | plain sentence |
+| §40 "from X to Y" | Intro "from tattoo art and occult prints to biker…" | "some built on tattoo art and others on biker or fight-sport graphics". Price ranges keep "from $X to $Y" (voice.md prescribes it) |
+| §23 rhetorical question | Closing "Want a heavier shirt?" | "If you want a heavier shirt, …" |
+| §3 rule of three | Intro "prices, sizes and shipping"; BCC "witches, tarot and Salem" | cut / two items |
+| §16 filler | "just" ×2 | cut |
+| §44 repetition | Ed Hardy "tattoo art" ×2, "place to…" ×2; "The catch is" ×2 | reworded |
+| Unsupported claims | Killstar "expect a wider body"; Iron Fist "close in spirit to Affliction's loudest prints"; Venum "two tees usually get you there", "more art than a fight logo", "cheapest fight-brand tees" (Metal Mulisha is cheaper); JNCO "the one place on this list" to buy jeans; Alchemy "Killstar and Iron Fist go further" (Iron Fist's range is as small) | all cut or rewritten to stored facts |
+| Smell Test | Each body is built on that brand's own products and rules; none fits another entry unchanged | — |
 
 ## Fact trace
 
-Brand files are `data/brands/{slug}.json`; page file is `data/pages/affliction.json`.
+Brand files `data/brands/{slug}.json`; `copy_facts` and `candidates` in `data/pages/affliction.json`.
 
-| Claim in copy | Source field |
+| Claim | Source |
 |---|---|
-| **Intro** | |
-| California label | affliction `hq_country` US; `notes[2]` (Seal Beach, California) |
-| known for full-coverage graphic tees | affliction `known_for`; `notes[6]` (About: "embraced full-coverage designs") |
-| short-sleeve tees nearly half its catalog | `notes[5]` (844 of 1,802 = 47%); page `category.why` |
-| most of the six draw on tattoo art or motocross and fight culture | ed-hardy `known_for`; sullen `known_for`; metal-mulisha `known_for`; venum `known_for` (4 of 6) |
-| all ship to the US | each pick `ships_to` contains US |
-| $24.99 at Venum, $115 at Ed Hardy | venum `prices[graphic-tees].min`; ed-hardy `prices[graphic-tees].max` (lowest min / highest max of the six) |
-| Affliction's own $39–$88 | affliction `prices[graphic-tees]` |
-| **Ed Hardy** | |
-| tattoo art of Don Ed Hardy | `known_for`; `notes[0]` |
-| Zumiez stocks it alongside Affliction | picks[0] `evidence[1]`; page `co_stocking` Zumiez rows |
-| 41 men's styles, $45–$115, starts above $39 | `prices[graphic-tees]` (item_count 41) vs affliction min 39 |
-| $115 rhinestone boxy tees | `prices[graphic-tees].note` |
-| sizes stop at XXL; Affliction to 4X | `size_range`; affliction `size_range` |
-| women's line $29.25–$60 | `prices[graphic-tees].note` |
-| free over $100; sale items not returnable | `free_shipping_min_usd` 100; `notes[3]` ("sale items final") |
-| **Metal Mulisha** | |
-| freestyle motocross and MMA | `known_for`; `notes[0]` (meta) |
-| co-founders Brian Deegan and Larry Linkogle; based in San Juan Capistrano | `notes[1]` (terms page; own archive pages) |
-| cheapest pick, 83 tees $28–$38, under $39 | `prices[graphic-tees]`; lowest max of the six; `price_relation` cheaper |
-| most styles to 4XL; Affliction 4X | `size_range` (4XL on 74 of 96); affliction `size_range` |
-| Zumiez carries both | picks[1] `evidence[1]` |
-| 30-day returns, sale final | `returns_days` 30; `notes[2]` |
-| **JNCO** | |
-| LA, wide-leg jeans since 1985 | `known_for`; `founded_year` 1985; `notes[0]` |
-| 22 tees, $50–$80, inside Affliction's range | `prices[graphic-tees]`; anchor 39–88 |
-| nearly every tee in XXXL | `prices[graphic-tees].note` (XXXL on 32 of 33) |
-| jeans $130–$350, waists 24–44 | `prices[jeans]`; `size_range`; `notes[2]` |
-| $10 flat US shipping, no free threshold | `notes[1]`; `free_shipping_min_usd` null |
-| returns close after 21 days | `returns_days` 21 |
-| **Venum** | |
-| combat sports brand; boxing gloves, MMA gear, fightwear | `known_for` (added this pass; homepage meta) |
-| Venum x UFC line | `notes[0]` (nav) |
-| 86 men's cotton tees, start below $39; most $24.99–$49.99; $89.99 top | `prices[graphic-tees]` and `note` |
-| many to XXXL, a few to XXXXL | `size_range` (XXXL 96 of 150, XXXXL 25) |
-| free over $75; unworn, 30 days | `free_shipping_min_usd` 75; `returns_days` 30; `notes[2]` |
-| **Alchemy England** | |
-| gothic jewelry, Leicestershire, since 1977 | `founded_year` 1977; `hq_country` GB; `notes[0]` ("Alchemy Gothic Official Site"), `notes[1]` (About: HQ in Leicestershire; jewellery and giftware) |
-| small tee line, horror prints The Mummy, Curse of Frankenstein | `prices[graphic-tees].note`; `notes[1]` ("tees are a small apparel range") |
-| every tee $40, near the bottom of Affliction's range | `prices[graphic-tees]` 40–40; anchor 39–88 |
-| S–XXXL | `size_range` |
-| US orders from Fort Worth warehouse, free over $100 | `notes[0]`, `notes[2]`; `free_shipping_min_usd` 100 |
-| rings and pendants are the main line | `notes[1]` ("Jewellery is the main line (pendants, earrings, rings)") |
-| **Sullen** | |
-| tattoo lifestyle brand, Southern California, since 2001 | `known_for`; `founded_year` 2001; `notes[0]` |
-| every graphic original work by a tattoo artist; 460+ in Artist Series | `notes[0]` (FAQ) |
-| 102 tees $25–$48.95, under Affliction's $88 | `prices[graphic-tees]`; anchor max 88 |
-| bigger sizes cost more | `prices[graphic-tees].note` |
-| nearly every style to 5X, widest run here | `size_range` (4X and 5X on 130 of 135) vs others (XXL–XXXXL; Affliction 5X on 17 of 488) |
-| free over $99 | `free_shipping_min_usd` 99 |
-| **FAQ** | |
-| US brand, 2005, Seal Beach | affliction `hq_country`; `founded_year` 2005; `notes[2]`, `notes[6]` |
-| founders' graphic design and screen printing backgrounds; full-coverage designs | page `category.why`; `notes[6]` |
-| afflictionclothing.com; affliction.com parked | `website_url`; `notes[0]` |
-| Zumiez carries hundreds of pieces, tees included | page `co_stocking` Zumiez row (358 items) |
-| men's tees $39–$88, XS–4X; women's $36–$64 | `prices[graphic-tees]` and `note`; `size_range` |
-| Affliction Holdings LLC | `parent_company`; `notes[2]` |
-| passion project between friends, 2005; most products made in the USA | `notes[6]`; `production_model` |
-
-## Publish conditions (outside the copy)
-
-1. `/img/` share images for Metal Mulisha, Alchemy England and Sullen (`no_share_image`), and
-   graphic-tee product photos for every brand (`product-images.json` has none for this category).
-   Not gate fields for picks, but they weigh on G13.
-2. `human_check` rows: Obphoria as evidence (4 picks rest on it alone), the Reddit threads, True
-   Religion as a 7th pick. With exactly 6 picks, any pick that later fails drops the page to noindex.
+| Rhinestone Affliction tee $88; $39 tees washed 100% cotton; $88 numbered pieces | `copy_facts[0–1]`; affliction `prices[graphic-tees]` max 88 |
+| Affliction 4X, $39–$88, Southern California / Seal Beach, made in USA, own facilities, 2005 friends, full-coverage, nearly half tees | affliction `size_range`, `prices`, `notes` (Wikipedia HQ, About, production detail, catalog counts) |
+| Zumiez carries Affliction (and WCC) | page `co_stocking`; west-coast-choppers `notes` |
+| Ed Hardy: Don Ed Hardy's art, Eagle tee $45, $45–$115 rhinestone boxy, women's $29.25–$60, XXL, free >$100, sale final | ed-hardy `known_for`, `prices.note`, `size_range`, `free_shipping_min_usd`, `notes`; `copy_facts[2]` |
+| Metal Mulisha: $28–$38, Conee $28, Deegan/Linkogle, FMX/supercross/MMA teams, San Juan Capistrano, 4XL most, 30 days, sale final | metal-mulisha `prices`, `notes`, `size_range`; `copy_facts[3]` |
+| JNCO: 4 The People $80 10.5oz combed cotton 1996; Street Gambler $60 6.5oz; XXXL; LA since 1985; jeans $130–$350; $10 flat; 21 days | `copy_facts[4]`; jnco `prices`, `notes`, `returns_days` |
+| Venum: UFC line, Fight Week tee $34.99, Fight Icon $29.99, most $24.99–$49.99, MX Basics $89.99, gloves/MMA gear, XXXL, free >$75 (lowest), 30 days unworn | `copy_facts[5]`; venum `prices.note`, `known_for`, `notes` |
+| Killstar: Shadows With Eyes $60 sleeves art, $50–$60, XS–4XL, cotton jersey boxy, EU hub, 7–14 days, $175, 14 days to register | `copy_facts[6]`; killstar `prices`, `size_range`, `materials`, `notes` |
+| Iron Fist: 2000s archive reissues, $39–$45, Bloody Mess $45 Godmachine, horror/tattoo art, oversized + size down, faults/unopened only, no restock | iron-fist `notes`, `prices`; `copy_facts[7]` |
+| Alchemy: gothic jewelry, $40, Prince of Darkness $40, ring/pendant, Leicestershire 1977, Mummy/Frankenstein, Fort Worth, free >$100, account credit | alchemy-england `notes`, `prices`; `copy_facts[8]` |
+| WCC: OG Classic $37.99, Iron Cross + Long Beach print, Paul Walker / Fast and the Furious, $37.99/$39.99, S–3XL, 4XL on half, $150 (2nd highest after Killstar $175), 30 days, 80% without tags | `copy_facts[9]`; west-coast-choppers `prices`, `notes`, `free_shipping_min_usd` |
+| Sullen: tattoo-artist graphics, $25–$48.95, Medusa Standard $27.95, Hodu Reaper Premium $32.50, Standard/Premium bodies, 5X almost all, bigger sizes cost more, SoCal, free >$99, 30 days | sullen `notes`, `prices.note`; `copy_facts[10]` |
+| BlackCraft: nearly all $35, Welcome To Hell $40, Lovers Tarot $35, tarot/Salem, SoCal attic 2012, kindness and positivity, ring-spun cotton unisex, S–3XL, free >$125, sale final | blackcraft-cult `prices.note`, `notes`, `materials`; `copy_facts[11]` |
+| Closing and best-for lines | restate the facts above only |

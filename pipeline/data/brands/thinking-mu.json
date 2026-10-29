@@ -1,0 +1,56 @@
+{
+  "slug": "thinking-mu",
+  "name": "Thinking MU",
+  "website_url": "https://thinkingmu.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Sustainable, Regenerative Clothing",
+  "hq_country": "ES",
+  "founded_year": 2008,
+  "parent_company": null,
+  "size_range": "XS–XL",
+  "has_plus": false,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "EUR",
+      "min": 150.0,
+      "max": 190.0,
+      "min_usd": 167.0,
+      "max_usd": 211.53,
+      "fx_date": "2026-10-28",
+      "item_count": 4,
+      "source_url": "https://thinkingmu.com/en/collections/woman-dresses-and-jumpsuits/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "4 dresses in the Dresses | Jumpsuits collection (3 jumpsuits excluded), none marked down: Neus long dress €150, Eve long dress €160, Black fine wool Arianne short dress €180, Green pleated midi Myrtle dress €190. Sizes XS–XL. Base currency EUR (cart.js); ECB 2026-10-28."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://thinkingmu.com/en",
+    "https://thinkingmu.com/en/collections/woman-dresses-and-jumpsuits/products.json?limit=250",
+    "https://thinkingmu.com/en/policies/shipping-policy",
+    "https://thinkingmu.com/en/pages/cambios-devoluciones",
+    "https://thinkingmu.com/en/policies/refund-policy",
+    "https://thinkingmu.com/en/pages/about-us"
+  ],
+  "notes": [
+    "Title: 'Thinking Mu : Sustainable Clothing & Regenerative Brand'. Meta: 'committed to contribute to a more conscious consumption... Today we are dedicated to making organic and sustainable clothing'.",
+    "About: 'a conscious brand of Mediterranean origin'; 'A group of young friends decided to found Thinking MU in 2008'. Stores in San Sebastián and Palma (Spain) listed in the shipping policy. Good On You: 'a Barcelona-based fashion brand'.",
+    "Shipping: United States 3–7 business days, $24.90 (no free threshold listed for the US); Canada C$36.90 (free from C$595); UK listed. Duties included for Canada, the US, the UK and Switzerland.",
+    "Returns: 30 calendar days from purchase via the return portal; return label from the US/Canada/Mexico €12.90."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "marcella",
+  "name": "Marcella",
+  "website_url": "https://marcellanyc.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "NYC-Designed Minimalism",
+  "hq_country": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "AU",
+    "GB"
+  ],
+  "prices": [
+    {
+      "category": "sweaters",
+      "currency": "USD",
+      "min": 139.0,
+      "max": 189.0,
+      "min_usd": 139.0,
+      "max_usd": 189.0,
+      "fx_date": null,
+      "item_count": 5,
+      "source_url": "https://marcellanyc.com/collections/sweaters-cardigans/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "products.json: 33 listings in the collection; 24 with compare_at above price (sale) and 0 sold out excluded, 4 non-sweaters excluded; 5 regular-price women's sweaters. Low: Palmer Knit Top ($139); high: Pia Turtleneck Sweater ($189). 24 of 33 marked down."
+    }
+  ],
+  "sources": [
+    "https://marcellanyc.com/meta.json",
+    "https://marcellanyc.com/collections/sweaters-cardigans/products.json?limit=250"
+  ],
+  "notes": [
+    "Store description: 'NYC designed, European handcrafted designer minimalism within reach.' ships_to_countries include '*' (rest of world), US, CA, AU (https://marcellanyc.com/meta.json). Refund and shipping policy pages returned 403 to WebFetch, so returns and shipping terms are unverified."
+  ],
+  "checked_at": "2026-10-29"
+}

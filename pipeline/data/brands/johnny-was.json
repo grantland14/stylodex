@@ -1,0 +1,49 @@
+{
+  "slug": "johnny-was",
+  "name": "Johnny Was",
+  "website_url": "https://www.johnnywas.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Chic, Vintage-Inspired Style",
+  "hq_country": "US",
+  "size_range": "XXS–3X; petite",
+  "has_petite": true,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 125,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 198,
+      "max": 498,
+      "min_usd": 198,
+      "max_usd": 498,
+      "fx_date": null,
+      "item_count": 27,
+      "source_url": "https://www.johnnywas.com/dresses",
+      "checked_at": "2026-10-29",
+      "note": "Sample: 27 of 64 dresses across two reads of the listing (https://www.johnnywas.com/dresses and ?srule=price-low-to-high&sz=64), all single-priced. Lowest Leyly Midi Dress $198, highest Toto Bias Maxi Dress, Davidii Shirred Mini Dress and Makayla Peasant Maxi Dress $498."
+    }
+  ],
+  "sources": [
+    "https://www.johnnywas.com/",
+    "https://www.johnnywas.com/dresses",
+    "https://www.johnnywas.com/dresses?srule=price-low-to-high&sz=64",
+    "https://www.johnnywas.com/shipping.html",
+    "https://www.johnnywas.com/returns-and-exchanges.html",
+    "https://www.johnnywas.com/size-guide.html",
+    "https://www.johnnywas.com/stores?showMap=true&horizontalView=true&isForm=true"
+  ],
+  "notes": [
+    "Homepage title 'Johnny Was | Chic Clothing & Vintage-Inspired Style'; 'an international women's lifestyle brand based in sunny Southern California' (hq_country US).",
+    "Shipping: contiguous US ground free for orders $125+, else $10; express $20; overnight $35; ships to 'more than 200 other countries and regions' (not named, so only US stored).",
+    "Returns: full-price or standard-markdown items within 30 days of delivery; US mail and in-store returns free; items bought at 50%+ off are final sale.",
+    "Size guide (dresses): XXS–XXL plus 1X–3X; numeric 2–26; petite PXS–PXXL.",
+    "Store locator returned no results (map not configured), so us_stores is empty.",
+    "Other dresses: Diovanna Ruched Maxi Dress $298, Aurorya Midi Dress $248, Janelle V-Neck Ruched Dress $230."
+  ],
+  "checked_at": "2026-10-29"
+}

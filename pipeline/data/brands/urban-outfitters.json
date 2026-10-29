@@ -2,9 +2,9 @@
   "slug": "urban-outfitters",
   "name": "Urban Outfitters",
   "website_url": "https://www.urbanoutfitters.com",
-  "status": "unverified",
+  "status": "verified",
   "kind": "retailer",
-  "known_for": null,
+  "known_for": "Young Adult Fashion, Home and Beauty",
   "hq_country": "US",
   "founded_year": 1970,
   "parent_company": "Urban Outfitters, Inc. (Nasdaq: URBN)",
@@ -24,13 +24,20 @@
     "https://www.urbanoutfitters.com/",
     "https://www.urbanoutfitters.com/womens-clothing",
     "https://www.urbanoutfitters.com/help/shipping-information",
-    "https://en.wikipedia.org/wiki/Urban_Outfitters"
+    "https://en.wikipedia.org/wiki/Urban_Outfitters",
+    "https://www.sec.gov/Archives/edgar/data/912615/000119312526137916/urbn-20260131.htm",
+    "https://www.urbn.com/our-brands/urban-outfitters"
   ],
   "notes": [
     "2026-10-29: urbanoutfitters.com returned HTTP 403 to WebFetch on /, /womens-clothing and /help/shipping-information (one try each). No retry, no workaround. Status unverified; a human must confirm prices, sizes, shipping and returns (see human_check in pages/urban-outfitters.json).",
     "Wikipedia (fetched 2026-10-29): founded 1970 in Philadelphia, Pennsylvania, first as a store called Free People; renamed Urban Outfitters and incorporated in 1976. Founders Richard Hayne, Judy Wicks and Scott Belair. Headquarters Philadelphia. Owned by the public company Urban Outfitters, Inc. (Nasdaq: URBN), whose other brands include Anthropologie, Free People, Terrain, BHLDN and the Vetri Family restaurant group.",
     "Wikipedia: the Urban Outfitters store sells women's and men's apparel, footwear, beauty and wellness, accessories, activewear, housewares and music (mainly vinyl records and cassettes); much of the merchandise is designed and produced by the company's wholesale division under multiple private labels (not named on the page).",
-    "Ahrefs SERP title of the homepage (not fetched): 'Urban Outfitters: Men's & Women's Clothing, Homeware & Decor'. Not stored as known_for because the site itself could not be read."
+    "Ahrefs SERP title of the homepage (not fetched): 'Urban Outfitters: Men's & Women's Clothing, Homeware & Decor'. Not stored as known_for because the site itself could not be read.",
+    "2026-10-29 (urban-outfitters page run): urbanoutfitters.com/womens-jeans still HTTP 403 to WebFetch; no workaround. Status set to verified from the parent company's official annual report (enrich.md §2 parent-company rule): URBN Form 10-K for the fiscal year ended January 31, 2026 (https://www.sec.gov/Archives/edgar/data/912615/000119312526137916/urbn-20260131.htm) says 'Urban Outfitters targets young adults aged 18 to 28' and carries 'women's and men's fashion apparel, activewear, intimates, footwear, accessories, home goods, electronics and beauty'; 'A large portion of our merchandise is exclusive to Urban Outfitters', designed internally or with third-party brands; BDG and iets frans are its apparel collections (also sold wholesale). Stores at January 31, 2026: 253 Urban Outfitters stores, 177 in North America and 76 in Europe, plus franchisee stores in the Middle East; websites and apps in North America and Europe. The filing doesn't split US from Canada, so us_stores stays empty. known_for paraphrases the 10-K target-customer line plus its merchandise list; a human should confirm against the store's own tagline. Prices, sizes, shipping and returns still need a human read of the store.",
+    "urbn.com/our-brands/urban-outfitters (fetched 2026-10-29): links the shop at https://www.urbanoutfitters.com/; describes the brand through 'self-expression, connection, and creativity'. No store counts or product detail."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "womens-clothing"
+  ]
 }

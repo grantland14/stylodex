@@ -1,0 +1,1723 @@
+{
+  "subject": "Zara",
+  "slug": "zara",
+  "url_prefix": "stores",
+  "category": {
+    "slug": "dresses",
+    "name": "Dresses",
+    "why": "Zara sells only its own label (kind brand), so C is a product type. Zara's US store refuses WebFetch, so its best-selling line can't be read; dresses is the women's category the readable lists lean on and the one every candidate sells as its own collection. Prices are each store's regular-price dresses only (human_check: confirm against Zara's own store)."
+  },
+  "serp": [
+    {
+      "keyword": "stores like zara",
+      "position": 1,
+      "url": "https://www.thredup.com/bg/p/stores-like-zara",
+      "kept": false,
+      "why_dropped": "AI-overview sitelink and #9 organic: HTTP 403 to WebFetch; not read, no workaround"
+    },
+    {
+      "keyword": "stores like zara",
+      "position": 1,
+      "url": "https://www.whowhatwear.com/best-stores-like-zara",
+      "kept": false,
+      "why_dropped": "AI-overview sitelink and #6 organic: WebFetch returned only the page title (no body text); not read"
+    },
+    {
+      "keyword": "stores like zara",
+      "position": 1,
+      "url": "https://www.rankandstyle.com/articles/brands-like-zara",
+      "kept": true,
+      "note": "AI-overview sitelink and #5 organic. Read 2026-10-29: Brittany Brainard, Rank & Style, Sept 28 2026; 16 numbered brands"
+    },
+    {
+      "keyword": "stores like zara",
+      "position": 1,
+      "url": "https://www.instyle.com/best-sites-like-zara-11785307",
+      "kept": false,
+      "why_dropped": "AI-overview sitelink and #4 organic: WebFetch can't fetch instyle.com"
+    },
+    {
+      "keyword": "stores like zara",
+      "position": 1,
+      "url": "https://stylecaster.com/lists/brands-like-zara/",
+      "kept": false,
+      "why_dropped": "AI-overview sitelink: 307 to tollbit.stylecaster.com (a pay-per-crawl gate); not followed. The same article is syndicated on Yahoo Shopping and was read there"
+    },
+    {
+      "keyword": "stores like zara",
+      "position": 1,
+      "url": "https://brandshoppernet.wordpress.com/2024/12/02/19-stores-like-zara-you-cant-miss/",
+      "kept": true,
+      "note": "AI-overview sitelink and #10 organic. Read: BrandShopper (WordPress.com blog, no author named), posted Dec 2 2024, updated Mar 31 2026; 19 written entries. Low-authority blog: counts as one source, never alone for a top pick"
+    },
+    {
+      "keyword": "stores like zara",
+      "position": 1,
+      "url": "https://www.theindustry.fashion/the_directory/inditex/",
+      "kept": false,
+      "why_dropped": "AI-overview sitelink: a directory entry for Inditex, not a list of alternatives"
+    },
+    {
+      "keyword": "stores like zara",
+      "position": 2,
+      "url": "https://www.reddit.com/r/malefashionadvice/comments/1g0kj5b/any_good_places_to_shop_instead_of_zara_and_hm/",
+      "kept": false,
+      "why_dropped": "reddit: WebFetch refuses reddit.com; not read, no workaround tried (also its sitelinks)"
+    },
+    {
+      "keyword": "stores like zara",
+      "position": 7,
+      "url": "https://www.tiktok.com/@hannahlizzy_/video/7597986761473592606",
+      "kept": false,
+      "why_dropped": "TikTok video; no readable list"
+    },
+    {
+      "keyword": "stores like zara",
+      "position": 8,
+      "url": "https://fashionmagazine.com/style/affordable-clothing-brands/",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch"
+    },
+    {
+      "keyword": "brands like zara",
+      "position": 1,
+      "url": "https://shopping.yahoo.com/style/clothing/articles/8-brands-zara-ll-definitely-171016090.html",
+      "kept": true,
+      "note": "AI-overview sitelink and #7 organic. Read: Samantha Sutton and Jessie Quinn, StyleCaster (published via Yahoo Shopping), Oct 22 2025; 10 brands"
+    },
+    {
+      "keyword": "brands like zara",
+      "position": 2,
+      "url": "https://www.reddit.com/r/mensfashion/comments/1ou61aj/looking_for_mens_clothing_brands_similar_to_zara/",
+      "kept": false,
+      "why_dropped": "reddit; not read"
+    },
+    {
+      "keyword": "brands like zara",
+      "position": 3,
+      "url": "https://www.rankandstyle.com/articles/brands-like-zara",
+      "kept": true,
+      "note": "same page as above"
+    },
+    {
+      "keyword": "brands like zara",
+      "position": 5,
+      "url": "https://www.instyle.com/best-sites-like-zara-11785307",
+      "kept": false,
+      "why_dropped": "can't fetch instyle.com"
+    },
+    {
+      "keyword": "brands like zara",
+      "position": 6,
+      "url": "https://www.kendrafoundit.com/archive/brands-like-zara",
+      "kept": false,
+      "why_dropped": "image result only; not in the organic top 10"
+    },
+    {
+      "keyword": "brands like zara",
+      "position": 8,
+      "url": "https://www.tiktok.com/@madeline_galassi/video/7609447198652124446",
+      "kept": false,
+      "why_dropped": "TikTok video; no readable list"
+    },
+    {
+      "keyword": "brands like zara",
+      "position": 9,
+      "url": "https://www.thredup.com/bg/p/stores-like-zara",
+      "kept": false,
+      "why_dropped": "HTTP 403"
+    },
+    {
+      "keyword": "brands like zara",
+      "position": 10,
+      "url": "https://effortlessgent.com/stores-like-zara/",
+      "kept": true,
+      "note": "Read: Beau Hayhoe, Effortless Gent, updated Aug 16 2023; 10 menswear stores (men's list)"
+    },
+    {
+      "keyword": "zara alternatives",
+      "position": 1,
+      "url": "https://www.reddit.com/r/malefashionadvice/comments/1g0kj5b/any_good_places_to_shop_instead_of_zara_and_hm/",
+      "kept": false,
+      "why_dropped": "reddit; not read"
+    },
+    {
+      "keyword": "zara alternatives",
+      "position": 3,
+      "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/",
+      "kept": true,
+      "note": "Read: Good On You, published Aug 17 2026; 19 'more sustainable' alternatives. Sustainability-led list: reasons on this page stay with stored facts"
+    },
+    {
+      "keyword": "zara alternatives",
+      "position": 5,
+      "url": "https://www.quora.com/What-are-some-of-the-best-alternatives-to-H-M-and-Zara-in-terms-of-quality-style-price-and-availability",
+      "kept": false,
+      "why_dropped": "Quora discussion; not read (Quora returned 403 on earlier runs); no workaround"
+    },
+    {
+      "keyword": "zara alternatives",
+      "position": 5,
+      "url": "https://www.reddit.com/r/AskIndianWomen/comments/1vfy2kc/what_are_your_favorite_alternatives_to_zara_hm/",
+      "kept": false,
+      "why_dropped": "reddit; not read"
+    },
+    {
+      "keyword": "zara alternatives",
+      "position": 6,
+      "url": "https://www.instyle.com/best-sites-like-zara-11785307",
+      "kept": false,
+      "why_dropped": "can't fetch instyle.com"
+    },
+    {
+      "keyword": "zara alternatives",
+      "position": 8,
+      "url": "https://www.eco-stylist.com/look-good-do-good-the-14-best-sustainable-and-ethical-alternatives-to-zara/",
+      "kept": true,
+      "note": "Read: Adela Cardona, Eco-Stylist, July 25 2026 (modified Oct 11 2026); 14 ethical alternatives, mostly menswear and shoes"
+    },
+    {
+      "keyword": "zara alternatives",
+      "position": 10,
+      "url": "https://effortlessgent.com/stores-like-zara/",
+      "kept": true,
+      "note": "same page as above"
+    },
+    {
+      "keyword": "similar to zara",
+      "position": 1,
+      "url": "https://www.whowhatwear.com/best-stores-like-zara",
+      "kept": false,
+      "why_dropped": "WebFetch returned only the title; not read"
+    },
+    {
+      "keyword": "similar to zara",
+      "position": 3,
+      "url": "https://www.rankandstyle.com/articles/brands-like-zara",
+      "kept": true,
+      "note": "same page as above"
+    },
+    {
+      "keyword": "similar to zara",
+      "position": 6,
+      "url": "https://effortlessgent.com/stores-like-zara/",
+      "kept": true,
+      "note": "same page as above"
+    },
+    {
+      "keyword": "similar to zara",
+      "position": 8,
+      "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/",
+      "kept": true,
+      "note": "same page as above"
+    },
+    {
+      "keyword": "similar to zara",
+      "position": 9,
+      "url": "https://brandshoppernet.wordpress.com/2024/12/02/19-stores-like-zara-you-cant-miss/",
+      "kept": true,
+      "note": "same page as above"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": null,
+      "url": null,
+      "used": false,
+      "why": "enrich.md §1.4b doesn't apply: Zara sells only through its own stores and site."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Mango",
+      "slug": "mango",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rankandstyle.com/articles/brands-like-zara"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://shopping.yahoo.com/style/clothing/articles/8-brands-zara-ll-definitely-171016090.html"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/02/19-stores-like-zara-you-cant-miss/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-zara/"
+        }
+      ]
+    },
+    {
+      "name": "COS",
+      "slug": "cos",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rankandstyle.com/articles/brands-like-zara"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://shopping.yahoo.com/style/clothing/articles/8-brands-zara-ll-definitely-171016090.html"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/02/19-stores-like-zara-you-cant-miss/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-zara/"
+        }
+      ]
+    },
+    {
+      "name": "H&M",
+      "slug": "h-m",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rankandstyle.com/articles/brands-like-zara"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://shopping.yahoo.com/style/clothing/articles/8-brands-zara-ll-definitely-171016090.html"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/02/19-stores-like-zara-you-cant-miss/"
+        }
+      ]
+    },
+    {
+      "name": "Massimo Dutti",
+      "slug": "massimo-dutti",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rankandstyle.com/articles/brands-like-zara"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/02/19-stores-like-zara-you-cant-miss/"
+        }
+      ]
+    },
+    {
+      "name": "& Other Stories",
+      "slug": "other-stories",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rankandstyle.com/articles/brands-like-zara"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/02/19-stores-like-zara-you-cant-miss/"
+        }
+      ]
+    },
+    {
+      "name": "Uniqlo",
+      "slug": "uniqlo",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rankandstyle.com/articles/brands-like-zara"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/02/19-stores-like-zara-you-cant-miss/"
+        }
+      ]
+    },
+    {
+      "name": "Everlane",
+      "slug": "everlane",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rankandstyle.com/articles/brands-like-zara"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/02/19-stores-like-zara-you-cant-miss/"
+        }
+      ]
+    },
+    {
+      "name": "Reformation",
+      "slug": "reformation",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rankandstyle.com/articles/brands-like-zara"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/02/19-stores-like-zara-you-cant-miss/"
+        }
+      ]
+    },
+    {
+      "name": "AllSaints",
+      "slug": "allsaints",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rankandstyle.com/articles/brands-like-zara"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/02/19-stores-like-zara-you-cant-miss/"
+        }
+      ]
+    },
+    {
+      "name": "Bershka",
+      "slug": "bershka",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rankandstyle.com/articles/brands-like-zara"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/02/19-stores-like-zara-you-cant-miss/"
+        }
+      ]
+    },
+    {
+      "name": "Stradivarius",
+      "slug": "stradivarius",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rankandstyle.com/articles/brands-like-zara"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/02/19-stores-like-zara-you-cant-miss/"
+        }
+      ]
+    },
+    {
+      "name": "NA-KD",
+      "slug": "na-kd",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rankandstyle.com/articles/brands-like-zara"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/02/19-stores-like-zara-you-cant-miss/"
+        }
+      ]
+    },
+    {
+      "name": "ASOS",
+      "slug": "asos",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://shopping.yahoo.com/style/clothing/articles/8-brands-zara-ll-definitely-171016090.html"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/02/19-stores-like-zara-you-cant-miss/"
+        }
+      ]
+    },
+    {
+      "name": "Kotn",
+      "slug": "kotn",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/look-good-do-good-the-14-best-sustainable-and-ethical-alternatives-to-zara/"
+        }
+      ]
+    },
+    {
+      "name": "MATE the Label",
+      "slug": "mate-the-label",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/look-good-do-good-the-14-best-sustainable-and-ethical-alternatives-to-zara/"
+        }
+      ]
+    },
+    {
+      "name": "Ninety Percent",
+      "slug": "ninety-percent",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/look-good-do-good-the-14-best-sustainable-and-ethical-alternatives-to-zara/"
+        }
+      ]
+    },
+    {
+      "name": "Dedicated",
+      "slug": "dedicated",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/look-good-do-good-the-14-best-sustainable-and-ethical-alternatives-to-zara/"
+        }
+      ]
+    },
+    {
+      "name": "Shein",
+      "slug": "shein",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rankandstyle.com/articles/brands-like-zara"
+        }
+      ]
+    },
+    {
+      "name": "Pixie Market",
+      "slug": "pixie-market",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rankandstyle.com/articles/brands-like-zara"
+        }
+      ]
+    },
+    {
+      "name": "Oak + Fort",
+      "slug": "oak-fort",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rankandstyle.com/articles/brands-like-zara"
+        }
+      ]
+    },
+    {
+      "name": "Commense",
+      "slug": "commense",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rankandstyle.com/articles/brands-like-zara"
+        }
+      ]
+    },
+    {
+      "name": "FARM Rio",
+      "slug": "farm-rio",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://shopping.yahoo.com/style/clothing/articles/8-brands-zara-ll-definitely-171016090.html"
+        }
+      ]
+    },
+    {
+      "name": "Johnny Was",
+      "slug": "johnny-was",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://shopping.yahoo.com/style/clothing/articles/8-brands-zara-ll-definitely-171016090.html"
+        }
+      ]
+    },
+    {
+      "name": "Joanie",
+      "slug": "joanie",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://shopping.yahoo.com/style/clothing/articles/8-brands-zara-ll-definitely-171016090.html"
+        }
+      ]
+    },
+    {
+      "name": "PrettyLittleThing",
+      "slug": "prettylittlething",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://shopping.yahoo.com/style/clothing/articles/8-brands-zara-ll-definitely-171016090.html"
+        }
+      ]
+    },
+    {
+      "name": "Aritzia",
+      "slug": "aritzia",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://shopping.yahoo.com/style/clothing/articles/8-brands-zara-ll-definitely-171016090.html"
+        }
+      ]
+    },
+    {
+      "name": "Cider",
+      "slug": "cider",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://shopping.yahoo.com/style/clothing/articles/8-brands-zara-ll-definitely-171016090.html"
+        }
+      ]
+    },
+    {
+      "name": "Topshop",
+      "slug": "topshop",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/02/19-stores-like-zara-you-cant-miss/"
+        }
+      ]
+    },
+    {
+      "name": "Urban Outfitters",
+      "slug": "urban-outfitters",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/02/19-stores-like-zara-you-cant-miss/"
+        }
+      ]
+    },
+    {
+      "name": "Sézane",
+      "slug": "sezane",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/02/19-stores-like-zara-you-cant-miss/"
+        }
+      ]
+    },
+    {
+      "name": "Pull&Bear",
+      "slug": "pull-bear",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/02/19-stores-like-zara-you-cant-miss/"
+        }
+      ]
+    },
+    {
+      "name": "Arket",
+      "slug": "arket",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/02/19-stores-like-zara-you-cant-miss/"
+        }
+      ]
+    },
+    {
+      "name": "Zalando",
+      "slug": "zalando",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/02/19-stores-like-zara-you-cant-miss/"
+        }
+      ]
+    },
+    {
+      "name": "Club Monaco",
+      "slug": "club-monaco",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-zara/"
+        }
+      ]
+    },
+    {
+      "name": "Frank And Oak",
+      "slug": "frank-and-oak",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-zara/"
+        }
+      ]
+    },
+    {
+      "name": "Forever 21",
+      "slug": "forever-21",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-zara/"
+        }
+      ]
+    },
+    {
+      "name": "SSENSE",
+      "slug": "ssense",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-zara/"
+        }
+      ]
+    },
+    {
+      "name": "Mr Porter",
+      "slug": "mr-porter",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-zara/"
+        }
+      ]
+    },
+    {
+      "name": "Diesel",
+      "slug": "diesel",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-zara/"
+        }
+      ]
+    },
+    {
+      "name": "DSTLD",
+      "slug": "dstld",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-zara/"
+        }
+      ]
+    },
+    {
+      "name": "John Elliott",
+      "slug": "john-elliott",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-zara/"
+        }
+      ]
+    },
+    {
+      "name": "OhSevenDays",
+      "slug": "ohsevendays",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/"
+        }
+      ]
+    },
+    {
+      "name": "No Nasties",
+      "slug": "no-nasties",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/"
+        }
+      ]
+    },
+    {
+      "name": "Harvest & Mill",
+      "slug": "harvest-mill",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/"
+        }
+      ]
+    },
+    {
+      "name": "Armedangels",
+      "slug": "armedangels",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/"
+        }
+      ]
+    },
+    {
+      "name": "Untouched World",
+      "slug": "untouched-world",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/"
+        }
+      ]
+    },
+    {
+      "name": "amt.",
+      "slug": "amt",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/"
+        }
+      ]
+    },
+    {
+      "name": "LANIUS",
+      "slug": "lanius",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/"
+        }
+      ]
+    },
+    {
+      "name": "JAN 'N JUNE",
+      "slug": "jan-n-june",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/"
+        }
+      ]
+    },
+    {
+      "name": "Tripulse",
+      "slug": "tripulse",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/"
+        }
+      ]
+    },
+    {
+      "name": "Dawn Denim",
+      "slug": "dawn-denim",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/"
+        }
+      ]
+    },
+    {
+      "name": "Toad&Co",
+      "slug": "toad-co",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/"
+        }
+      ]
+    },
+    {
+      "name": "Jyoti - Fair Works",
+      "slug": "jyoti-fair-works",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/"
+        }
+      ]
+    },
+    {
+      "name": "Yes Friends",
+      "slug": "yes-friends",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/"
+        }
+      ]
+    },
+    {
+      "name": "TWOTHIRDS",
+      "slug": "twothirds",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/"
+        }
+      ]
+    },
+    {
+      "name": "SeamsFriendly",
+      "slug": "seamsfriendly",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/"
+        }
+      ]
+    },
+    {
+      "name": "Asket",
+      "slug": "asket",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/look-good-do-good-the-14-best-sustainable-and-ethical-alternatives-to-zara/"
+        }
+      ]
+    },
+    {
+      "name": "Outerknown",
+      "slug": "outerknown",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/look-good-do-good-the-14-best-sustainable-and-ethical-alternatives-to-zara/"
+        }
+      ]
+    },
+    {
+      "name": "Patagonia",
+      "slug": "patagonia",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/look-good-do-good-the-14-best-sustainable-and-ethical-alternatives-to-zara/"
+        }
+      ]
+    },
+    {
+      "name": "8000Kicks",
+      "slug": "8000kicks",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/look-good-do-good-the-14-best-sustainable-and-ethical-alternatives-to-zara/"
+        }
+      ]
+    },
+    {
+      "name": "Pact",
+      "slug": "pact",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/look-good-do-good-the-14-best-sustainable-and-ethical-alternatives-to-zara/"
+        }
+      ]
+    },
+    {
+      "name": "SAOLA",
+      "slug": "saola",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/look-good-do-good-the-14-best-sustainable-and-ethical-alternatives-to-zara/"
+        }
+      ]
+    },
+    {
+      "name": "Taylor Stitch",
+      "slug": "taylor-stitch",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/look-good-do-good-the-14-best-sustainable-and-ethical-alternatives-to-zara/"
+        }
+      ]
+    },
+    {
+      "name": "Beckett Simonon",
+      "slug": "beckett-simonon",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/look-good-do-good-the-14-best-sustainable-and-ethical-alternatives-to-zara/"
+        }
+      ]
+    },
+    {
+      "name": "Selfmade",
+      "slug": "selfmade",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/look-good-do-good-the-14-best-sustainable-and-ethical-alternatives-to-zara/"
+        }
+      ]
+    },
+    {
+      "name": "Astor & Orion",
+      "slug": "astor-orion",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/look-good-do-good-the-14-best-sustainable-and-ethical-alternatives-to-zara/"
+        }
+      ]
+    },
+    {
+      "name": "River Island",
+      "slug": "river-island",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Mohito",
+      "slug": "mohito",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Reserved",
+      "slug": "reserved",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Omoda",
+      "slug": "omoda",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Fabulous",
+      "slug": "fabulous",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "SheModern",
+      "slug": "shemodern",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Monki",
+      "slug": "monki",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Vero Moda",
+      "slug": "vero-moda",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "French Connection",
+      "slug": "french-connection",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Warehouse",
+      "slug": "warehouse",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Maje",
+      "slug": "maje",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Rag & Bone",
+      "slug": "rag-bone",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Sinsay",
+      "slug": "sinsay",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Violeta by Mango",
+      "slug": "violeta-by-mango",
+      "in_apart_pool": true,
+      "sources": []
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "result": "48 rows for Zara; Mango, Bershka, H&M and Arket have outside sources too. Pool-only brands (River Island, Mohito, Reserved, Monki, Vero Moda and others) have no outside evidence and stay candidates."
+  },
+  "picks": [
+    {
+      "slug": "uniqlo",
+      "rank": 1,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 59.9,
+        "max": 59.9,
+        "min_usd": 59.9,
+        "max_usd": 59.9,
+        "fx_date": null,
+        "item_count": 2
+      },
+      "price_relation": null,
+      "reason": "Uniqlo is a Japanese chain (Fast Retailing) with US stores, selling dresses in XXS–XL with its regular-price styles at $59.90.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rankandstyle.com/articles/brands-like-zara",
+          "note": "#6: \"For fans of Zara's more minimalist side, Uniqlo is one of the best shops like Zara.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/02/19-stores-like-zara-you-cant-miss/",
+          "note": "#4: \"wonderful store if you need everyday basics that don't cost a hundred dollars\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "na-kd",
+      "rank": 2,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 49.95,
+        "max": 99.95,
+        "min_usd": 49.95,
+        "max_usd": 99.95,
+        "fx_date": null,
+        "item_count": 36
+      },
+      "price_relation": null,
+      "reason": "NA-KD, a Scandinavian womenswear label, sells trend-led dresses at $49.95–$99.95 in USD on its US site, with 30-day returns and a flat duty fee at checkout.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rankandstyle.com/articles/brands-like-zara",
+          "note": "#16: \"NA-KD channels a cooler, off-duty model energy with slouchy fits.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/02/19-stores-like-zara-you-cant-miss/",
+          "note": "#18: \"combines affordable prices & influencer-approved trends\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "everlane",
+      "rank": 3,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 58.0,
+        "max": 198.0,
+        "min_usd": 58.0,
+        "max_usd": 198.0,
+        "fx_date": null,
+        "item_count": 26
+      },
+      "price_relation": null,
+      "reason": "Everlane sells dresses from $58 to $198 in sizes XXS–XXXL, publishes the cost of materials, labor and transport, and ships to the US, Canada, the UK and Australia.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rankandstyle.com/articles/brands-like-zara",
+          "note": "#11: \"Everlane offers a similar vibe with a focus on sustainability.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/02/19-stores-like-zara-you-cant-miss/",
+          "note": "#7: Everlane entry (transparent pricing)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "allsaints",
+      "rank": 4,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 149,
+        "max": 539,
+        "min_usd": 149,
+        "max_usd": 539,
+        "fx_date": null,
+        "item_count": 136
+      },
+      "price_relation": null,
+      "reason": "AllSaints sells dresses from $149 to $539 on its US store, from viscose midis to leather minis, a pricier step up from Zara's going-out pieces.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rankandstyle.com/articles/brands-like-zara",
+          "note": "#8: \"AllSaints has the whole London rock-chic thing down pat.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://brandshoppernet.wordpress.com/2024/12/02/19-stores-like-zara-you-cant-miss/",
+          "note": "#12: AllSaints entry (muted shades and tones)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "kotn",
+      "rank": 5,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "CAD",
+        "min": 118.0,
+        "max": 158.0,
+        "min_usd": 84.01,
+        "max_usd": 112.48,
+        "fx_date": "2026-10-28",
+        "item_count": 8
+      },
+      "price_relation": null,
+      "reason": "Kotn makes dresses in Egyptian cotton, made in the Nile Delta, at CA$118–158 (about $84–$112), covering duties on US orders, sizes XS–XL.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/",
+          "note": "#18: \"makes stylish ready-to-wear clothing.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/look-good-do-good-the-14-best-sustainable-and-ethical-alternatives-to-zara/",
+          "note": "#4: \"They build their supply chain from the ground up with best practices in mind.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "ninety-percent",
+      "rank": 6,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "GBP",
+        "min": 55,
+        "max": 70,
+        "min_usd": 73.08,
+        "max_usd": 93.01,
+        "fx_date": "2026-10-28",
+        "item_count": 7
+      },
+      "price_relation": null,
+      "reason": "Ninety Percent shares 90% of its profits with its people and chosen causes and sells dresses at £55–£70 (about $73–$93), shipping free to the US over $150.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/",
+          "note": "#11: \"founded with the mission to share 90% of its profits between five charitable causes\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.eco-stylist.com/look-good-do-good-the-14-best-sustainable-and-ethical-alternatives-to-zara/",
+          "note": "#12: \"founded on the principle that 90% of their profits should be divided...\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "commense",
+      "rank": 7,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 19,
+        "max": 99,
+        "min_usd": 19,
+        "max_usd": 99,
+        "fx_date": null,
+        "item_count": 1207
+      },
+      "price_relation": null,
+      "reason": "Commense sells over 1,200 regular-price dresses from $19 to $99, half under $50, with free US shipping over $59 and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rankandstyle.com/articles/brands-like-zara",
+          "note": "#15: \"Commense offers trend-forward pieces at budget-friendly prices.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "forever-21",
+      "rank": 8,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 24.99,
+        "max": 24.99,
+        "min_usd": 24.99,
+        "max_usd": 24.99,
+        "fx_date": null,
+        "item_count": 6
+      },
+      "price_relation": null,
+      "reason": "Forever 21, LA-born and now online only, prices its full-price dresses at $24.99, ships across the US free over $50, with 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-zara/",
+          "note": "#4: \"getting some of that same fashion-forward flair at low prices.\" (men's list)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "oak-fort",
+      "rank": 9,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 78.0,
+        "max": 168.0,
+        "min_usd": 78.0,
+        "max_usd": 168.0,
+        "fx_date": null,
+        "item_count": 8
+      },
+      "price_relation": null,
+      "reason": "Oak + Fort, founded in Vancouver, sells muted, minimal dresses from $78 to $168 in XXS–XL, shipping free in the US over $100.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rankandstyle.com/articles/brands-like-zara",
+          "note": "#14: \"OAK + FORT leans slightly more muted and neutral.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "pixie-market",
+      "rank": 10,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 82.0,
+        "max": 199.0,
+        "min_usd": 82.0,
+        "max_usd": 199.0,
+        "fx_date": null,
+        "item_count": 11
+      },
+      "price_relation": null,
+      "reason": "Pixie Market, a New York label since 2006, sells dresses from $82 to $199 in XS–L, with linen bestsellers and free US shipping over $100.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.rankandstyle.com/articles/brands-like-zara",
+          "note": "#13: \"Pixie Market nails that effortlessly cool, of-the-moment look with elevated tailoring.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "farm-rio",
+      "rank": 11,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 55,
+        "max": 1310,
+        "min_usd": 55,
+        "max_usd": 1310,
+        "fx_date": null,
+        "item_count": 142
+      },
+      "price_relation": null,
+      "reason": "FARM Rio sells dresses from $55 (an adidas collab) to $1,310 (leather), around $280 in the middle, with free US returns within 30 days, sizes XXS–XL.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://shopping.yahoo.com/style/clothing/articles/8-brands-zara-ll-definitely-171016090.html",
+          "note": "#1: \"Everything is bright, colorful, and playful, making it a perfect fit for those with bold style.\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "johnny-was",
+      "rank": 12,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 198,
+        "max": 498,
+        "min_usd": 198,
+        "max_usd": 498,
+        "fx_date": null,
+        "item_count": 27
+      },
+      "price_relation": null,
+      "reason": "Johnny Was, a Southern California label, sells vintage-inspired dresses from $198 to $498 in XXS–3X plus petite, free US ground shipping over $125.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://shopping.yahoo.com/style/clothing/articles/8-brands-zara-ll-definitely-171016090.html",
+          "note": "#2: \"known for its vintage-inspired bohemian designs\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "mango",
+      "why": "unverified: shop.mango.com US dresses page returned HTTP 403 (2026-10-29). 4 sources and in the Apart pool: first in the human-check queue."
+    },
+    {
+      "slug": "cos",
+      "why": "unverified: cos.com/en-us dresses page HTTP 403. hmgroup.com's COS page names no countries and no dresses, so it can't stand in for the store. 4 sources: human check."
+    },
+    {
+      "slug": "h-m",
+      "why": "unverified: www2.hm.com US store HTTP 403 (H&M page run). hmgroup.com gives no US store count by brand. 3 sources: human check."
+    },
+    {
+      "slug": "massimo-dutti",
+      "why": "unverified: massimodutti.com/us HTTP 403 (single StylodexBot request) to WebFetch (2026-10-29); no retry, no workaround. 2 sources: human check. inditex.com lists it but gives no US or dress facts."
+    },
+    {
+      "slug": "stradivarius",
+      "why": "unverified: stradivarius.com/us HTTP 403 to WebFetch (2026-10-29); no retry, no workaround. 2 sources: human check."
+    },
+    {
+      "slug": "bershka",
+      "why": "unverified: bershka.com/us HTTP 403 (earlier run) to WebFetch (2026-10-29); no retry, no workaround. 2 sources: human check."
+    },
+    {
+      "slug": "other-stories",
+      "why": "unverified: stories.com/en-us dresses HTTP 403 (earlier run) to WebFetch (2026-10-29); no retry, no workaround. 2 sources: human check."
+    },
+    {
+      "slug": "reformation",
+      "why": "unverified: thereformation.com/dresses HTTP 403 (earlier run) to WebFetch (2026-10-29); no retry, no workaround. 2 sources: human check."
+    },
+    {
+      "slug": "asos",
+      "why": "multi-brand marketplace (Topshop is sold through it); curl got an HTTP/2 stream error, not read. 2 sources. Coordinator: is ASOS a store pick?"
+    },
+    {
+      "slug": "mate-the-label",
+      "why": "off_category for dresses: the Dresses collection is empty today (0 products). 2 sources (sustainability lists)."
+    },
+    {
+      "slug": "dedicated",
+      "why": "Eco-Stylist says it has temporarily suspended sales to the US; not fetched. 2 sources."
+    },
+    {
+      "slug": "shein",
+      "why": "us.shein.com dresses listing rendered no products to WebFetch; not verified. 1 source."
+    },
+    {
+      "slug": "joanie",
+      "why": "unverified: joanieclothing.com HTTP 403 to WebFetch (2026-10-29); no retry, no workaround. 1 sources: human check."
+    },
+    {
+      "slug": "aritzia",
+      "why": "unverified: aritzia.com/us HTTP 403 to WebFetch (2026-10-29); no retry, no workaround. 1 sources: human check."
+    },
+    {
+      "slug": "sezane",
+      "why": "unverified: sezane.com/us-en HTTP 403 to WebFetch (2026-10-29); no retry, no workaround. 1 sources: human check."
+    },
+    {
+      "slug": "pull-bear",
+      "why": "unverified: pullandbear.com/us HTTP 403 to WebFetch (2026-10-29); no retry, no workaround. 1 sources: human check."
+    },
+    {
+      "slug": "arket",
+      "why": "unverified: arket.com/en-us HTTP 403 to WebFetch (2026-10-29); no retry, no workaround. 1 sources: human check."
+    },
+    {
+      "slug": "prettylittlething",
+      "why": "prettylittlething.us is live with a Dresses category, but the listing shows no prices and the delivery and returns pages weren't read. 1 source: re-check."
+    },
+    {
+      "slug": "cider",
+      "why": "shopcider.com live, but no dresses category found (the guessed URL was a 'Sweater Weather' collection of 3 marked-down items). 1 source; a separate Cider page is being built."
+    },
+    {
+      "slug": "urban-outfitters",
+      "why": "unverified (urbanoutfitters.com 403, Urban Outfitters page run); also a multi-brand store. 1 source."
+    },
+    {
+      "slug": "topshop",
+      "why": "no own US store: us.topshop.com redirects to ASOS (earlier run). 1 source."
+    },
+    {
+      "slug": "zalando",
+      "why": "European marketplace; not a US store. 1 source."
+    },
+    {
+      "slug": "club-monaco",
+      "why": "verified and sells dresses, but only 1 of 13 dresses is at regular price ($228) and its one source is a menswear list. Not padded in; re-check next run."
+    },
+    {
+      "slug": "frank-and-oak",
+      "why": "verified, but only 2 women's dresses (CA$159–165) and its one source is a menswear list. Not padded in."
+    },
+    {
+      "slug": "ssense",
+      "why": "multi-brand luxury marketplace from a menswear list; not checked."
+    },
+    {
+      "slug": "mr-porter",
+      "why": "menswear-only multi-brand store; doesn't sell dresses."
+    },
+    {
+      "slug": "diesel",
+      "why": "1 source (menswear list); not checked within the 25-candidate budget."
+    },
+    {
+      "slug": "dstld",
+      "why": "1 source (menswear list); not checked within the budget."
+    },
+    {
+      "slug": "john-elliott",
+      "why": "menswear label; doesn't sell dresses."
+    },
+    {
+      "slug": "(Good On You / Eco-Stylist single-source brands)",
+      "why": "OhSevenDays, Armedangels and the other single-source sustainability picks were not checked within the 25-candidate budget (an earlier run found OhSevenDays with only 3 of 47 dresses at regular price). Asket, 8000Kicks, SAOLA, Beckett Simonon, Taylor Stitch, Astor & Orion: menswear, shoes or jewelry, no dresses."
+    },
+    {
+      "slug": "(Apart pool only)",
+      "why": "River Island, Mohito, Reserved, Omoda, Monki, Vero Moda, French Connection and the rest have no outside source naming them as Zara alternatives; not checked."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "anchor: status, price range for dresses, size_range, ships_to, returns_days, known_for, image",
+      "url": "https://www.zara.com/us/en/woman-dresses-l1066.html",
+      "check": "zara.com returned HTTP 403 to every WebFetch read on 2026-10-29. Open the US store: confirm live; record the regular-price dress min/max and item count (no sale prices); size range; US shipping threshold and returns window. Suggested known_for from Inditex's line 'a forward-thinking force in fashion': 'Fast-Moving, Trend-Led Fashion' (needs the store's own wording). Until then the page can't be indexed and every price_relation stays null."
+    },
+    {
+      "fact": "category C = dresses",
+      "url": "https://www.zara.com/us/",
+      "check": "C is dresses because the store couldn't be read to find its best-selling line. Confirm dresses is a lead women's category on the US store (or switch C and re-price the picks)."
+    },
+    {
+      "fact": "pick check: Mango, COS, H&M, Massimo Dutti, & Other Stories, Bershka, Stradivarius, Reformation",
+      "url": "https://shop.mango.com/us",
+      "check": "The closest same-type stores, named by 2–4 sources each, all refuse WebFetch. For each: live US store, regular-price dress range, sizes, US shipping, returns. These would move to the top of the page."
+    },
+    {
+      "fact": "Uniqlo shipping, returns and US stores",
+      "url": "https://www.uniqlo.com/us/en/",
+      "check": "Shipping and returns FAQ pages return 403. us_stores rests on Wikipedia, not the store locator: confirm with the locator. Price covers only 2 regular-price dresses (most of the range is on sale)."
+    },
+    {
+      "fact": "AllSaints shipping and returns",
+      "url": "https://www.allsaints.com/us/helpcenter.html",
+      "check": "Help pages render no text to WebFetch. Record the free-shipping threshold and returns window from the store."
+    },
+    {
+      "fact": "NA-KD and Johnny Was price ranges are samples",
+      "url": "https://www.na-kd.com/en/category/dresses",
+      "check": "NA-KD: 36 of 674 dresses ($49.95–$99.95); Johnny Was: 27 of 64 ($198–$498). Sort low-high and high-low in a browser and replace with the full range."
+    },
+    {
+      "fact": "policy: sustainability lists as evidence",
+      "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/",
+      "check": "Kotn and Ninety Percent rank high on two sustainability lists (Good On You, Eco-Stylist), not because they dress like Zara. Coordinator: keep them or move them below the trend-led picks?"
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": {
+    "source": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+    "date": "2026-10-28",
+    "usd_per_eur": 1.1133,
+    "gbp_per_eur": 0.83785,
+    "cad_per_eur": 1.5638
+  },
+  "notes": [
+    "12 picks pass enrich.md §3 (verified, sells dresses, ships to the US, at least 1 outside source, one checkable reason). Target 10–15; not padded (Club Monaco and Frank And Oak were held back).",
+    "The page FAILS lib/gate.ts while the anchor is unverified: zara.com refuses WebFetch, so Zara has no price, sizes, shipping, returns or known_for, and every price_relation is null. No /img/ images yet.",
+    "Why the obvious names are missing: the same-type chains every list leads with (Mango, COS, H&M, Massimo Dutti, & Other Stories, Bershka, Stradivarius, Reformation) all return 403. The picks are the verified rest, ranked by independent sources.",
+    "Evidence: 6 editorial pages read (Rank & Style, StyleCaster via Yahoo, BrandShopper, Effortless Gent, Good On You, Eco-Stylist). Unread: Who What Wear (title only), InStyle (can't fetch), ThredUp and Fashion Magazine (403), StyleCaster's own URL (TollBit gate), Reddit, Quora, TikTok.",
+    "Prices: Shopify collection feeds (Commense, FARM Rio, Ninety Percent, and the earlier Everlane, Kotn, Pixie Market, Oak + Fort, Forever 21 entries) with a StylodexBot UA; AllSaints full listing (136 items) and Uniqlo, NA-KD, Johnny Was listings via WebFetch.",
+    "Pool: public.brand_relationships for Zara lists 48 brands; Mango, H&M, Bershka and Arket also have outside sources (all 403). The rest have none.",
+    "An earlier, unfinished run of this page left patches in the scratchpad (never merged). Facts from it were used only after re-fetching (Uniqlo listing, Commense feed and policies)."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "Every time you open Zara, there's something new. It puts around 12,000 new designs into production a year. If you want that trend-led dressing somewhere else, for less or made to last longer, these twelve stores all sell dresses and ship to the US. The most-recommended come first, so start at the top if you're short on time.",
+    "bodies": {
+      "uniqlo": "Uniqlo is where to go for the plainer side of Zara, and its full-price dresses sit at $59.90. The Knitted Polo Dress ($59.90) and the Shirt Dress ($59.90) are the two to start with.\n\nIt's a Japanese chain, part of Fast Retailing, and it's had US stores since 2005, so you can try a size on before you buy. Dresses run XXS to XL. The catch is the range itself. It's small, and a lot of it is marked down, so most of the cheap prices you see are sale prices.\n\nIf you want Zara's trend pieces rather than basics, NA-KD has a far bigger dress range at a similar price.",
+      "na-kd": "NA-KD is the closest thing here to Zara's trend-led womenswear at a lower price, with dresses from $49.95 to $99.95. The Wide Sleeve Mini Dress ($49.95) is the cheap way in, and the Sequin Batwing Maxi Dress ($99.95) is about as high as it goes.\n\nIt's a Scandinavian label that sells womenswear only, so the dress range runs to hundreds of styles. Prices on the US site are in dollars. But there's a flat duty fee at checkout that you don't get back, so add it on before you compare.\n\nReturns are open for 30 days, with a fee taken off your refund. If you'd rather not pay to send things back, FARM Rio and Johnny Was both offer free US returns.",
+      "everlane": "Everlane is our pick if you like Zara's clean basics but want to know what's gone into them. Dresses run from the Weekend Tee Midi Dress ($58) to the Cashmere Polo Midi Dress ($198).\n\nIt's an American label that publishes the cost of materials, labor and transport behind its clothes, and it works with factories it audits. So you can see where the price comes from. Sizes go from XXS to XXXL, one of the widest ranges here, and it ships to the US, Canada, the UK and Australia.\n\nReturns run 30 days. Mail them back and there's a $7 label fee, while returning in store is free. For the same idea in Egyptian cotton, look at Kotn.",
+      "allsaints": "AllSaints is the step up, for when you want a going-out dress in leather or silk blends and don't mind paying more. Dresses start at $149 and run to the Vee Perforated Leather Mini Dress ($539).\n\nIt's best known for leather jackets, denim and knitwear, and the dresses lean the same way: viscose midis, silk-blend maxis and leather minis. The Bryony Polka-dot Viscose Midi Dress ($199) is a good first look. Plenty of the range carries a markdown, so check the sale before you pay full price. Prices on the US store are in dollars, so there's nothing to convert.\n\nIf you want simple everyday dresses for well under $150, Oak + Fort is the cheaper route.",
+      "kotn": "Kotn is the pick for simple cotton dresses with a clear story behind them, at CA$118 to CA$158 (about $84 to $112). The Ghina V-Neck Dress (CA$118, about $84) is the one to start with.\n\nIt's designed in Canada and made in Egypt's Nile Delta from Egyptian cotton, and every purchase helps fund new schools. On US orders it covers the duties and import fees, so the converted price is close to what you'll pay before shipping. Sizes run XS to XL.\n\nThe trade-off is time. A full refund closes 15 days after delivery, though exchanges and store credit run to 30, and sale pieces are final. If you want longer to decide, Everlane gives you a full 30 days.",
+      "ninety-percent": "Ninety Percent is for when you want to know where the money goes. It shares 90% of its profits between its people and the causes it backs. Dresses cost £55 to £70 (about $73 to $93), and the Tulla Dress (£55, about $73) is the cheapest way in.\n\nThe range is small, mostly maxis and column dresses in black and brown, in UK sizes 4 to 18. US shipping is free over $150 and $25 under it. Duties are paid at checkout, so nothing extra turns up on delivery.\n\nReturns are tight. You get 14 days to start one and you buy the label yourself. If easy returns matter, FARM Rio's free 30-day returns are the better bet.",
+      "commense": "Commense is the budget pick, with full-price dresses from $19 to $99 and most of them under $50. Start with the Velvet Sleeveless Ruched Mini Dress ($19) if you just want to try it.\n\nIt calls itself boutique fashion at radically low prices, and the range runs from knit and sweater dresses to denim. Sizes stop at XL, so it's narrower than Everlane or Johnny Was. US shipping is $7.99, free over $59, but it takes 7 to 12 business days.\n\nYou get 30 days to return from when the whole order arrives, though you pay the return shipping. For a deeper trend range at a little more, NA-KD is the one to compare.",
+      "forever-21": "Forever 21 keeps it simple. Its full-price dresses are $24.99, like the Satin Cowl Neck Maxi Dress ($24.99). That's the lowest top price on this list.\n\nIt's an LA brand that now sells online only, and it ships within the US alone, free over $50, and $9.99 under it. Sizes go from XS to XXL, with a separate plus section, which is more than most budget picks here offer. At that price, it's an easy way to try a trend without much riding on it.\n\nThe catch is the markdowns. Most of the range is discounted, clearance can't be returned, and full-price returns cost $9.99 inside 30 days. If you'd rather send things back for free, FARM Rio covers that.",
+      "oak-fort": "Oak + Fort is the one for simple, wearable dresses under $170, from the Off Shoulder Open Back Mini Dress ($78) to the Maxi Dress With Tassel Slit Detail ($168). The Ruched Midi Dress ($88) is an easy middle option.\n\nIt started with a studio in Vancouver and is still woman founded and led. Its own line is thoughtful design for a modern lifestyle, with cost-conscious prices. Sizes run XXS to XL and 0 to 12, and US shipping is free over $100.\n\nReturns are the thing to watch. You get 21 days, you pay the shipping back, and anything 20% off or more is final sale. Pixie Market is the other small label at this price.",
+      "pixie-market": "Pixie Market is the pick for dresses with a boutique feel, from the Plaid Lace Trim Dress ($82) to the Floral Satin Slip Midi Dress ($199). Its linen styles, like the Attica Linen Gold Cuff Dress ($199), are the bestsellers.\n\nIt's a New York label, around since 2006, built on affordable pieces with an eye on quality. Most of it is cut on the small side unless it says oversized, and sizes stop at L. So size up when you're unsure. US shipping is free over $100.\n\nReturns are short at 20 days, with an $8 fee if you use its label. If you need bigger sizes, Everlane and Johnny Was go much further.",
+      "farm-rio": "FARM Rio is where to go when you want the opposite of a Zara basic. Dresses start at $55 for the FARM Rio x adidas Farm Dress and climb to $1,310 for leather, with the middle of the range around $280.\n\nIts line is Dress in Happiness, and the product names tell you the rest: the Tropical Royalty Mini Dress ($148), monstera cutwork, 3D flowers. It's priced like a statement piece too. Sizes run XXS to XL.\n\nThe best part is returns. They're free within 30 days, with a prepaid label, and final-sale pieces can still be exchanged. If you want to keep the top end lower, Johnny Was stops at $498.",
+      "johnny-was": "Johnny Was is the pick for vintage-inspired dresses in one of the widest size ranges here, from the Janelle V-Neck Ruched Dress ($230) to the Toto Bias Maxi Dress ($498).\n\nIt's a Southern California women's label, and the sizes are the reason to look: XXS to XXL, then 1X to 3X, plus a petite range. Ground shipping in the US is free over $125, and US returns are free within 30 days of delivery.\n\nIt has the highest starting price on this list, so it's for one dress you'll keep rather than a weekly haul. Anything bought at half off or more is final sale. If you want to spend less, FARM Rio's adidas collab starts at $55."
+    },
+    "best_for": {
+      "uniqlo": "plain dresses you can try on in a US store",
+      "na-kd": "trend-led dresses under $100 with plenty to choose from",
+      "everlane": "basics where you can see what the price pays for",
+      "allsaints": "a leather or silk-blend dress worth paying more for",
+      "kotn": "cotton dresses with the import duties already covered",
+      "ninety-percent": "a dress from a label sharing 90% of its profits",
+      "commense": "trying a new trend for under $50 a time",
+      "forever-21": "a $24.99 dress shipped anywhere in the US",
+      "oak-fort": "simple everyday dresses for under $170",
+      "pixie-market": "linen dresses from a small New York label",
+      "farm-rio": "a statement dress you can send back for free",
+      "johnny-was": "plus and petite sizes in a vintage-inspired dress"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with budget. Under $50, Commense and Forever 21 are the obvious two, and NA-KD tops out just under $100 with far more to choose from. For Zara's plainer basics, Uniqlo is the one you can try on in a store, and Everlane shows you what the price covers. Between $80 and $200, Oak + Fort and Pixie Market are the small-label options. Kotn and Ninety Percent suit you if how a dress is made matters more than how new it is. If you're spending more, AllSaints is the leather and silk-blend step up. FARM Rio is the bold choice with free returns. Johnny Was has the widest sizes, petite included."
+    },
+    "faqs": [
+      {
+        "q": "Who owns Zara?",
+        "a": "Inditex, the Spanish fashion group. It also owns Pull&Bear, Massimo Dutti, Bershka, Stradivarius, Oysho, Zara Home and Lefties.",
+        "source_query": "who owns zara"
+      },
+      {
+        "q": "Where is Zara from?",
+        "a": "Spain. Amancio Ortega and Rosalía Mera founded it in 1975, and its head office is in Arteixo, in A Coruña. It opened in the US in 1989.",
+        "source_query": "where is zara from"
+      },
+      {
+        "q": "What is Zara?",
+        "a": "A Spanish label selling clothing, accessories, beauty and perfume under its own name. It puts around 12,000 new designs into production a year, and its US online store opened in 2011.",
+        "source_query": "what is zara"
+      }
+    ]
+  }
+}

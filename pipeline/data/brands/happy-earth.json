@@ -1,0 +1,56 @@
+{
+  "slug": "happy-earth",
+  "name": "Happy Earth",
+  "website_url": "https://www.happyearthapparel.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Sustainable Clothing With Purpose",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XXS–3XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 98.0,
+      "max": 98.0,
+      "min_usd": 98.0,
+      "max_usd": 98.0,
+      "fx_date": null,
+      "item_count": 1,
+      "source_url": "https://www.happyearthapparel.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "One dress: Ruffle Wrap Dress | Monstera $98, sizes XXS/XS to 2XL/3XL. The store is mostly organic activewear, hoodies, sweatshirts and socks (product types on /products.json)."
+    }
+  ],
+  "materials": [
+    "Organic cotton"
+  ],
+  "certifications": [],
+  "production_model": "Made Fair Trade",
+  "sale_pattern": null,
+  "sources": [
+    "https://www.happyearthapparel.com/",
+    "https://www.happyearthapparel.com/collections/dresses/products.json?limit=250",
+    "https://www.happyearthapparel.com/policies/shipping-policy",
+    "https://www.happyearthapparel.com/policies/refund-policy",
+    "https://www.happyearthapparel.com/pages/our-story",
+    "https://www.happyearthapparel.com/products.json?limit=250"
+  ],
+  "notes": [
+    "Title: 'Happy Earth | Sustainable Clothing with Purpose'. Meta: 'Sustainable, eco-friendly clothing brand that gives back. Made Fair Trade with organic cotton. Inspired by nature and dedicated to preserving it.'",
+    "Our Story: founded while the founders were completing graduate degrees in biomedical sciences; started with tees dedicated to specific ecosystems; every purchase funded conservation. No year stated.",
+    "Shipping: free on orders over $150 to the contiguous US only; Alaska, Hawaii and territories standard $9.95. Returns: 30 days from delivery via the returns portal.",
+    "hq_country US: Good On You calls it 'a US organic clothing brand'; shipping is US-focused. No HQ city on pages read."
+  ],
+  "checked_at": "2026-10-29"
+}

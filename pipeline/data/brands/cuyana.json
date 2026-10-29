@@ -1,0 +1,59 @@
+{
+  "slug": "cuyana",
+  "name": "Cuyana",
+  "website_url": "https://cuyana.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Fewer, Better Things",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 95,
+  "returns_days": null,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "sweaters",
+      "currency": "USD",
+      "min": 228.0,
+      "max": 328.0,
+      "min_usd": 228.0,
+      "max_usd": 328.0,
+      "fx_date": null,
+      "item_count": 7,
+      "source_url": "https://cuyana.com/collections/sweaters-and-capes/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "products.json: 7 listings in the collection; 0 with compare_at above price (sale) and 0 sold out excluded, 0 non-sweaters excluded; 7 regular-price women's sweaters. Low: Alpaca Open-Back Turtleneck Sweater ($228); high: Single Origin Cashmere Wrap Sweater ($328). Alpaca Wool Crewneck Sweater $248; Single-Origin Cashmere Cardigan $248."
+    }
+  ],
+  "materials": [
+    "Single-origin cashmere",
+    "Alpaca wool"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://cuyana.com/meta.json",
+    "https://cuyana.com/pages/about-us",
+    "https://cuyana.com/policies/shipping-policy",
+    "https://cuyana.com/policies/refund-policy",
+    "https://cuyana.com/collections/sweaters-and-capes/products.json?limit=250"
+  ],
+  "notes": [
+    "Store description: 'Fewer, Better Things. Timeless apparel and accessories for the modern woman...'; address San Francisco, CA (https://cuyana.com/meta.json).",
+    "Shipping: 'Shipping is free for orders over $95; otherwise, it's $5' (No Rush, contiguous US); Standard $10 (https://cuyana.com/policies/shipping-policy).",
+    "Refund policy states no domestic return window; international returns 'within 30 days of shipment'; refunds to card 'less a $8 return shipping and administrative fee'; final sale and monogrammed excluded (https://cuyana.com/policies/refund-policy). support.cuyana.com returned 403, so returns_days stays empty. Sizes not in products.json options."
+  ],
+  "checked_at": "2026-10-29"
+}

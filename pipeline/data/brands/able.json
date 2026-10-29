@@ -1,0 +1,15 @@
+{
+  "slug": "able",
+  "name": "ABLE",
+  "website_url": "https://ableclothing.com",
+  "status": "off_category",
+  "kind": "brand",
+  "sources": [
+    "https://ableclothing.com/meta.json",
+    "https://ableclothing.com/products.json?limit=250"
+  ],
+  "notes": [
+    "Store description: 'timeless women's leather bags, jewelry, and apparel'; none of its 98 products is a sweater or cardigan (products.json). Off-category for sweaters."
+  ],
+  "checked_at": "2026-10-29"
+}

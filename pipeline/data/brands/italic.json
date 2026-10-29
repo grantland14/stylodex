@@ -1,0 +1,16 @@
+{
+  "slug": "italic",
+  "name": "Italic",
+  "website_url": "https://italic.com",
+  "status": "off_category",
+  "kind": "brand",
+  "sources": [
+    "https://italic.com/",
+    "https://italic.com/collections.json?limit=250",
+    "https://italic.com/meta.json"
+  ],
+  "notes": [
+    "Homepage navigation: Budapest, New In, Bath, Bed, Décor; only wearable item seen is a bathrobe; no apparel or sweater collection in collections.json (201 collections). Doesn't sell sweaters today (https://italic.com/)."
+  ],
+  "checked_at": "2026-10-29"
+}

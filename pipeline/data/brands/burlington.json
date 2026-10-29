@@ -8,10 +8,20 @@
   "prices": [],
   "sources": [
     "https://www.burlington.com/",
-    "https://www.burlington.com/faq"
+    "https://www.burlington.com/faq",
+    "https://www.burlington.com/stores",
+    "https://www.sec.gov/Archives/edgar/data/0001579298/000119312526369502/burl-ex99_1.htm"
   ],
   "notes": [
-    "2026-10-29: burlington.com homepage heading 'Deals. Brands. WOW! at Burlington Stores!'; Deals menu includes Beauty, Ladies, Mens, Juniors, Plus, Shoes; copy promotes in-store shopping ('Deals In-Store'). No online ordering found on the page; ships_to left empty. /faq is 404."
+    "2026-10-29: burlington.com homepage heading 'Deals. Brands. WOW! at Burlington Stores!'; Deals menu includes Beauty, Ladies, Mens, Juniors, Plus, Shoes; copy promotes in-store shopping ('Deals In-Store'). No online ordering found on the page; ships_to left empty. /faq is 404.",
+    "2026-10-29 (TJ Maxx re-run): burlington.com homepage departments: Beauty, Coats, Home, Ladies, Mens, Juniors, Plus, Shoes, Accessories, Kids, Baby; sample in-store prices 'Ladies Dress $19.99*' and 'Plus Faux Fur Coat $69.99*'; online options are the credit card, gift cards and emails only; repeated 'head in store'. burlington.com/stores: Store Directory lists states Alaska to Wyoming plus DC and Puerto Rico; 'Over 1,000 Locations'. Burlington's own Q2 fiscal 2026 release (SEC 8-K Ex 99.1, https://www.sec.gov/Archives/edgar/data/0001579298/000119312526369502/burl-ex99_1.htm): 1,287 stores in 47 states, Washington D.C. and Puerto Rico; sells fashion-focused women's, men's and youth apparel, baby, beauty, footwear, accessories, home, toys, gifts and coats, 'at up to 60% off other retailers' prices'. /help/return-policy 404, returns not stored."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "known_for": "Off-Price Brand Deals and Coats",
+  "hq_country": "US",
+  "parent_company": "Burlington Stores, Inc.",
+  "us_stores": true,
+  "sells_categories": [
+    "womens-clothing"
+  ]
 }

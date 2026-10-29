@@ -6,12 +6,30 @@
   "kind": "brand",
   "notes": [
     "2026-10-29: store live; /jeans reports 293 jeans ('Showing 36 of 293'); all 23 distinct styles visible were 30% off (originals $89.50–$149). No regular-price jeans, so no price row. Re-check after the sale.",
-    "Homepage title: 'Lucky Brand Jeans, Clothing and Accessories for Men and Women'."
+    "Homepage title: 'Lucky Brand Jeans, Clothing and Accessories for Men and Women'.",
+    "Our Story (2026-10-29): 'Lucky Brand was founded in 1990 with a spirit of reinvention'; 'Rooted in premium denim, Americana and self expression.' Founding city and HQ not stated.",
+    "Women's jeans (https://www.luckybrand.com/women/jeans, 2026-10-29): 130 items, 31 rendered, all marked down from a 'Comp. Value' (mostly 30%: e.g. The Baggy $69.30 vs $99; Embellished Baggy Wide Leg $104.30 vs $149); comp values $89.50–$149. Cuts include Lil Maggie Flare, Sweet Boot, Sweet Straight, Stevie Wide Leg, High Rise Curvy Flare. No full-price jeans, so no price row; sells_categories from this page.",
+    "Shipping page: 'Free Ground Shipping on all US orders over $85+'. International countries not listed (ships_to US only). Returns window not readable on the returns/FAQ pages (links only), so returns_days stays empty.",
+    "Store locator (luckybrand.com/stores): 4 US stores near the default search, in Kennewick and Tulalip (Washington) and Tigard and Woodburn (Oregon); full list on stores.luckybrand.com. us_stores true."
   ],
   "sources": [
     "https://www.luckybrand.com/",
     "https://www.luckybrand.com/jeans",
-    "https://www.luckybrand.com/womens-jeans"
+    "https://www.luckybrand.com/womens-jeans",
+    "https://www.luckybrand.com/women/jeans",
+    "https://www.luckybrand.com/shipping-info.html",
+    "https://www.luckybrand.com/stores",
+    "https://www.luckybrand.com/our-story.html"
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "known_for": "Premium Denim and Americana",
+  "founded_year": 1990,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 85,
+  "us_stores": true,
+  "sells_categories": [
+    "womens-clothing"
+  ]
 }

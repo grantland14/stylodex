@@ -1,0 +1,57 @@
+{
+  "slug": "yes-friends",
+  "name": "Yes Friends",
+  "website_url": "https://yesfriends.co",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Affordable, Ethical Clothing",
+  "hq_country": "GB",
+  "founded_year": 2021,
+  "parent_company": null,
+  "size_range": "XXS–XXL",
+  "has_plus": false,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "GB",
+    "CA"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "GBP",
+      "min": 39.0,
+      "max": 45.0,
+      "min_usd": 51.82,
+      "max_usd": 59.79,
+      "fx_date": "2026-10-28",
+      "item_count": 2,
+      "source_url": "https://yesfriends.co/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "2 regular-price, in-stock dresses of 7 in the collection (1 marked down, 2 sold out, 2 not dresses): Every Occasion Linen Blend Dress £39, Cord Mini Dress £45. Sizes XXS–XXL. Store base currency GBP (cart.js); converted at ECB 2026-10-28 (USD 1.1133, GBP 0.83785 per EUR). Most of the range is tees (37 of 118 products by type)."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://yesfriends.co/",
+    "https://yesfriends.co/collections/dresses/products.json?limit=250",
+    "https://yesfriends.co/pages/delivery",
+    "https://yesfriends.co/policies/refund-policy",
+    "https://yesfriends.co/pages/our-story-1",
+    "https://yesfriends.co/products.json?limit=250"
+  ],
+  "notes": [
+    "Title: 'Yes Friends | Affordable, Ethical & Sustainable Clothing'. Meta: 'Yes Friends exists to make ethical clothing affordable and transform the fashion industry.'",
+    "Our Story: the idea was 'an ethical, sustainable tee for the price of a pint in London'; 'it costs just 65p extra per tee for good wages and organic cotton'; launched in 2021.",
+    "Delivery: USA $9.95, 3–8 working days, import tax and duties included. Canada $14.95. Free shipping on UK orders over £100.",
+    "Returns: within 30 days of arriving, unworn with tags.",
+    "Eco-Stylist: organic cotton tees, hoodies and sweatshirts made in a Fair Trade USA and GOTS certified factory (not confirmed on the brand's own pages read)."
+  ],
+  "checked_at": "2026-10-29"
+}

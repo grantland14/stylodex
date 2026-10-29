@@ -2,7 +2,7 @@
   "slug": "tj-maxx",
   "name": "TJ Maxx",
   "website_url": "https://tjmaxx.tjx.com",
-  "status": "unverified",
+  "status": "verified",
   "kind": "retailer",
   "known_for": "Off-Price Brand-Name Fashion",
   "hq_country": "US",
@@ -25,14 +25,22 @@
     "https://tjmaxx.tjx.com/store/index.jsp",
     "https://www.tjx.com/",
     "https://www.tjx.com/businesses/united-states/tj-maxx",
-    "https://en.wikipedia.org/wiki/TJ_Maxx"
+    "https://en.wikipedia.org/wiki/TJ_Maxx",
+    "https://www.tjx.com/docs/default-source/investor-docs/annual-reports/tjx-2025-annual-report-and-10-k.pdf"
   ],
   "notes": [
     "2026-10-29: tjmaxx.tjx.com/ and /store/index.jsp return a 'Something went wrong. Let's get back on track' page (links to TJ Maxx, Marshalls, HomeGoods only) to WebFetch, so the store, prices, sizes, shipping and returns are unverified. No workaround tried. Human check.",
     "TJX's T.J. Maxx page (tjx.com/businesses/united-states/tj-maxx): 'TJ Maxx was founded in 1976'; 'the largest off-price retailer of apparel and home fashions in the U.S.'; brands 'for way less'; 'brand-name fashion to home decor'; 'an expanded assortment of jewelry, accessories'; 'the Runway at TJ Maxx' is 'our exclusive department that brings you high-end luxury at an amazing value', 'in select stores'; e-commerce site tjmaxx.com 'launched in 2013'; 'stores across the country, including Puerto Rico'.",
     "tjx.com home page: TJX is a 'leading off-price retailer with 5,200+ stores in 10 countries'; sells 'at prices generally 20%-60% below full-price retailers'' regular prices (TJX's own claim); US brands: TJ Maxx, Marshalls, HomeGoods, Sierra, Homesense.",
     "Wikipedia (TJ_Maxx, read 2026-10-29): founded 1976, Framingham, Massachusetts (infobox); headquarters Framingham; parent TJX (1987–present); first two stores 1977 in Worcester and Auburn, MA [5]; 1,333 locations (infobox, Statista [1]); infobox products include clothing, footwear, jewelry, beauty products.",
-    "known_for built from TJX's wording: 'the largest off-price retailer of apparel...' and 'brand-name fashion' (TJ Maxx page), 'Delivering Off-Price Value' (tjx.com); not checked against tjmaxx.tjx.com."
+    "known_for built from TJX's wording: 'the largest off-price retailer of apparel...' and 'brand-name fashion' (TJ Maxx page), 'Delivering Off-Price Value' (tjx.com); not checked against tjmaxx.tjx.com.",
+    "2026-10-29 (re-run): tjmaxx.tjx.com/store/index.jsp still returns TJX's 'Something went wrong' page to WebFetch. Per enrich.md §2 (parent company's official site counts for status, us_stores and what it sells), status=verified from TJX's own pages: tjx.com T.J. Maxx page 'stores across the country, including Puerto Rico' and 'From brand-name fashion to home decor'.",
+    "TJX 2025 Annual Report and 10-K (fiscal year ended Jan 31, 2026), https://www.tjx.com/docs/default-source/investor-docs/annual-reports/tjx-2025-annual-report-and-10-k.pdf: 'Both chains [TJ Maxx and Marshalls] sell family apparel (including footwear), accessories (including beauty and jewelry), home fashions'; TJ Maxx differentiated by 'an expanded assortment of jewelry and accessories and a high-end designer department called The Runway at TJ Maxx'; Marmaxx 'the largest off-price retailer in the United States with a total of 2,603 stores'; stores at end of fiscal 2026: TJ Maxx 1,348 (1,333 a year earlier); 'This differentiated shopping experience at TJ Maxx and Marshalls encourages our customers to shop both chains'; tjmaxx.com launched 2013; fiscal 2027 plan: 45 Marmaxx net new stores and 24 new Sierra stores. 'All of TJX's stores, with the exception of HomeGoods and HomeSense/Homesense, sell family apparel and home fashions.' HomeGoods: 'the leading off-price retailer of home fashions in the U.S.'",
+    "Prices, sizes, shipping and returns stay empty: prices come only from the store itself, which is unreadable. sells_categories womens-clothing rests on TJX's 'family apparel' wording."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "us_stores": true,
+  "sells_categories": [
+    "womens-clothing"
+  ]
 }

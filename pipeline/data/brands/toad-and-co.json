@@ -1,0 +1,66 @@
+{
+  "slug": "toad-and-co",
+  "name": "Toad&Co",
+  "website_url": "https://toadandco.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Eco-Friendly Slow Fashion",
+  "hq_country": "US",
+  "founded_year": 1996,
+  "parent_company": null,
+  "size_range": "XS–XL",
+  "has_plus": false,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 90,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "sweaters",
+      "currency": "USD",
+      "min": 118.0,
+      "max": 240.0,
+      "min_usd": 118.0,
+      "max_usd": 240.0,
+      "fx_date": null,
+      "item_count": 50,
+      "source_url": "https://toadandco.com/collections/womens-sweaters/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "products.json: 55 listings in the collection; 0 with compare_at above price (sale) and 0 sold out excluded, 5 non-sweaters excluded; 50 regular-price women's sweaters. Low: Wasatch Sweater Vest ($118); high: Merino Heartfelt Hoodie ($240). Sweater dresses excluded; none of the regular items appear in womens-sale-sweaters. Bianca Shaker Crew Sweater $120 (organic and recycled cotton); Peak Merino Crew Sweater $148; Merino Heartfelt Hoodie $240."
+    }
+  ],
+  "materials": [
+    "Organic cotton",
+    "Recycled fibers",
+    "Hemp",
+    "TENCEL Lyocell"
+  ],
+  "certifications": [
+    "B Corp"
+  ],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://toadandco.com/meta.json",
+    "https://toadandco.com/pages/about-us",
+    "https://toadandco.com/policies/shipping-policy",
+    "https://toadandco.com/policies/refund-policy",
+    "https://toadandco.com/collections/womens-sweaters/products.json?limit=250",
+    "https://toadandco.com/collections/womens-sale-sweaters/products.json?limit=250",
+    "https://toadandco.com/products/bianca-shaker-crew-sweater-dusk-blue.json"
+  ],
+  "notes": [
+    "Store description: 'At Toad&Co we create eco-friendly clothing, because slow fashion is the future'; address Santa Barbara, CA; ships to 200 countries incl. US, CA, GB, AU (https://toadandco.com/meta.json).",
+    "About: 'Since 1996'; 'From our California HQ'; 'We're Officially a Certified B Corporation!'; eco materials listed: Organic Cotton, Hemp, TENCEL Lyocell, Recycled Fibers (https://toadandco.com/pages/about-us).",
+    "Shipping page: 'Spend $150 USD more for FREE shipping' / 'FREE shipping will be applied at checkout' (cart message; threshold $150) (https://toadandco.com/policies/shipping-policy).",
+    "Returns: 'We will not be able to accommodate returns for refund after 90 days'; '$7 handling fee'; final sale excluded (https://toadandco.com/policies/refund-policy)."
+  ],
+  "checked_at": "2026-10-29"
+}

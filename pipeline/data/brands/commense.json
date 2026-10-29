@@ -1,0 +1,47 @@
+{
+  "slug": "commense",
+  "name": "Commense",
+  "website_url": "https://www.thecommense.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Boutique Fashion at Radically Low Prices",
+  "size_range": "XS–XL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 59,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 19,
+      "max": 99,
+      "min_usd": 19,
+      "max_usd": 99,
+      "fx_date": null,
+      "item_count": 1207,
+      "source_url": "https://www.thecommense.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "1,207 regular-price dresses of 1,438 products in the collection (71 jumpsuits excluded, 160 marked down or tagged sale). Lowest Velvet Sleeveless Ruched Mini Dress $19, highest Sleeveless Floral Cutwork Slit Midi Dress $99; median $49, 685 under $50. Base currency USD (cart.js, meta.json)."
+    }
+  ],
+  "sources": [
+    "https://www.thecommense.com/",
+    "https://www.thecommense.com/meta.json",
+    "https://www.thecommense.com/cart.js",
+    "https://www.thecommense.com/collections/dresses/products.json?limit=250",
+    "https://www.thecommense.com/policies/shipping-policy",
+    "https://www.thecommense.com/policies/refund-policy"
+  ],
+  "notes": [
+    "commense.com shows only 'Welcome to Commense.com.'; the store is thecommense.com. meta.json description: 'Commense is a global-minded fashion brand that brings you high-end boutique fashion pieces at radically low prices.' Shopify store address Cheung Sha Wan, Kowloon, HK (meta.json); not stored as hq_country because the site names no HQ.",
+    "Shipping: US standard US$7.99 (7–12 business days), 'FREE STANDARD SHIPPING on orders over US$59+ after discounts are applied!'; Canada US$9.99, UK US$5.99, Australia US$9.99.",
+    "Returns: '30 days from the date you've received ALL your purchased items in the same order'; customer pays return shipping unless defective; Final Clearance non-returnable.",
+    "Dress sizes in the feed: XS–XL (one 2XS)."
+  ],
+  "checked_at": "2026-10-29"
+}

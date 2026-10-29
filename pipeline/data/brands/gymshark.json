@@ -1,0 +1,52 @@
+{
+  "name": "Gymshark",
+  "website_url": "https://www.gymshark.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Gym Sportswear",
+  "hq_country": "GB",
+  "founded_year": 2012,
+  "parent_company": null,
+  "size_range": "Tees XS–3XL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 22,
+      "max": 46,
+      "item_count": 36,
+      "source_url": "https://www.gymshark.com/collections/t-shirts-tops/mens",
+      "checked_at": "2026-10-29",
+      "note": "US store, men's T-Shirts & Tops, first page (60 of 538 products) read by WebFetch: 36 short-sleeve tees, all shown at 'Regular Price', $22 (Arrival T-Shirt, Crest T-Shirt) to $46 (Mesh Oversized T-Shirt); Power T-Shirt $36, Power Washed Oversized Boxy T-Shirt $40, Element Baselayer T-Shirt $28. Range covers the first page only. Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final, DiscountApplied, sale-NN, NN%, on-sale, sale, flash-sale, further reductions); campaign-eligibility tags with no compare-at price (e.g. '10th-anniversary-sale', 'cp:SeptEOSSale', 'DISCOUNT') are not treated as markdowns. Short-sleeve tees only: long-sleeve, tanks, stringers, polos, button-ups, jerseys, sweaters, packs and box sets excluded.",
+      "min_usd": 22,
+      "max_usd": 46,
+      "fx_date": null
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.gymshark.com/collections/t-shirts-tops/mens",
+    "https://www.gymshark.com/pages/about-us",
+    "https://support.gymshark.com/en-US/article/returns-policy",
+    "https://support.gymshark.com/en-US/article/delivery-information"
+  ],
+  "notes": [
+    "About: 'Our legacy began in 2012, from a garage in Birmingham, UK'; founder Ben Francis (Founder & CEO); offices in Solihull, UK and New York, US; it 'create[s] the tools that help everyone become their personal best' (sportswear, content, community).",
+    "US delivery: standard $5, free over $75; express $15. Delivery page also covers Canada, UK, Australia, NZ, Europe.",
+    "US returns: within 30 days of delivery; items with a final discount of 60% or more are Final Sale in the US and Canada.",
+    "Sizes from the men's T-Shirts & Tops size filter: XS, S, M, L, XL, XXL, 3XL.",
+    "Not a Shopify public store (meta.json 404); facts read by WebFetch only."
+  ],
+  "checked_at": "2026-10-29"
+}

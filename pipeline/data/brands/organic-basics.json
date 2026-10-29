@@ -1,0 +1,32 @@
+{
+  "slug": "organic-basics",
+  "name": "Organic Basics",
+  "website_url": "https://us.organicbasics.com",
+  "status": "verified",
+  "kind": "brand",
+  "hq_country": "DK",
+  "prices": [
+    {
+      "category": "sweaters",
+      "currency": "USD",
+      "min": 83.0,
+      "max": 83.0,
+      "min_usd": 83.0,
+      "max_usd": 83.0,
+      "fx_date": null,
+      "item_count": 2,
+      "source_url": "https://us.organicbasics.com/collections/womens-knitwear/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "products.json: 86 listings in the collection; 39 with compare_at above price (sale) and 0 sold out excluded, 45 non-sweaters excluded; 2 regular-price women's sweaters. Low: True Knit Sweater ($83); high: True Knit Sweater ($83). Only one regular-price sweater style (True Knit Sweater $83, two colors); the rest of the knitwear is marked down."
+    }
+  ],
+  "sources": [
+    "https://us.organicbasics.com/meta.json",
+    "https://organicbasics.com/meta.json",
+    "https://us.organicbasics.com/collections/womens-knitwear/products.json?limit=250"
+  ],
+  "notes": [
+    "US store us.organicbasics.com (USD); EU store organicbasics.com ships to CA, GB, AU but not US. Store description: 'Certified B Corp from Copenhagen' (meta.json)."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "cider",
+  "name": "Cider",
+  "website_url": "https://www.shopcider.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Stylish, Trendy Womenswear",
+  "hq_country": "SG",
+  "founded_year": 2020,
+  "parent_company": "Cider (SG) Holding Pte. Ltd.",
+  "size_range": "XXS–XL; Curve 0XL–4XL",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 24.9,
+      "max": 77.9,
+      "min_usd": 24.9,
+      "max_usd": 77.9,
+      "fx_date": null,
+      "item_count": 12,
+      "source_url": "https://www.shopcider.com/category/clothing-cid-12",
+      "checked_at": "2026-10-29",
+      "note": "Sample, not the full range: 12 regular-price dresses (sets excluded) on the first page of Clothing, read twice (WebFetch + one plain fetch). Lowest Jersey Boat Neck Striped Bell Sleeve Flared Mini Dress $24.90; highest Velvet Sculptural Boat Neck Bowknot A-line Midi Dress $77.90. Others: Velvet Sweetheart Lace Trim Draped Flared Maxi Dress $59.90, Silk V-neck Star Ruffle Tie Back Midi Dress $44.90, Velvet Leopard Graphic Stand Collar Flocking A-line Mini Dress $29.90, Jacquard Floral Halter Neckline Mermaid Maxi Dress $67.90. Embedded tracking data showed originalPrice = salePrice for these. The dresses category page (/category/dresses-cid-38) rendered 0 results to WebFetch and a robot check to a plain fetch, so it was not read; the 11.11 sitewide 20% off is a banner promotion, and items shown at a cut price ($11.11) were excluded."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.shopcider.com/",
+    "https://www.shopcider.com/category/clothing-cid-12",
+    "https://www.shopcider.com/collection/curve",
+    "https://www.shopcider.com/goods/asymmetrical-neck-rabbit-duck-graphic-tee-curve-plus-115663055",
+    "https://www.shopcider.com/policies/returns.html",
+    "https://www.shopcider.com/policies/privacy",
+    "https://www.shopcider.com/policies/terms",
+    "https://www.shopcider.com/about_us",
+    "https://www.eco-stylist.com/is-cider-fast-fashion-are-they-ethical-and-sustainable/"
+  ],
+  "notes": [
+    "Homepage title: 'Fashion Starts With A Feeling - Women's Fashion Clothing | Cider'. Site meta description: 'Cider offers stylish and trendy women's clothing and accessories globally... Enjoy worldwide shipping.' Main nav: Clothing, Pick A Mood, New In, Curve, Accessories & Bags, Shoes.",
+    "Returns (meta description of the Returns & Refunds page, shopcider.com/policies/returns.html): '14-day window from receiving all items. Free returns on every order in USA, shipping label provided. 2nd (or more) return on same order, shipping costs will be the responsibility of the customer.' Returns are started in the Cider app.",
+    "Shipping: the site claims worldwide shipping and has country sites (de, fr, es, it, jp, kr, mx, br, ar); the shipping policy page rendered no text to WebFetch, so only US is stored in ships_to and no free-shipping threshold is stored. A referral offer mentions free shipping on a first order over $49 (not a standing policy). Flash Shipping promises 2–4 business days.",
+    "Sizes: main sizes XXS–XL (product listing data); Curve & Plus products offer 0XL–4XL (product page).",
+    "hq_country SG rests on the legal entity: the Privacy Policy names Cider (SG) Holding PTE. LTD.; Eco-Stylist (Oct 2026) says its Terms point to Singapore, LinkedIn says Los Angeles, its Terms list a Hong Kong branch, and trade press says Guangzhou. Treat as the registered company, not an operating HQ. Founded September 2020 by Michael Wang, Fenco Lin and Yu Oppel (Eco-Stylist). Manufacturing in China; no supplier list published (Eco-Stylist), so production_model is left empty.",
+    "Bot check: after one plain fetch of the Clothing page, the next plain request was redirected to /checkRobot; no further plain fetches of shopcider.com were made."
+  ],
+  "checked_at": "2026-10-29"
+}

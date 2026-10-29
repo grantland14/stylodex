@@ -30,6 +30,19 @@
       "source_url": "https://www.outerknown.com/collections/denim/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "products.json: 19 denim products, none with compare_at above price. Mostly men's and unisex: Beachcomber Relaxed Jean (unisex), Highline Slim and Traveler Straight (men's) at $168; Craftsman Jean (unisex) at $198. Women's pants collection has one jean, The Scout Straight Jean, at $168."
+    },
+    {
+      "category": "womens-clothing",
+      "currency": "USD",
+      "min": 168,
+      "max": 198,
+      "min_usd": 168,
+      "max_usd": 198,
+      "fx_date": null,
+      "item_count": 9,
+      "source_url": "https://www.outerknown.com/collections/womens-denim/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: women's jeans. womens-denim products.json: 10 products, 1 non-jean dropped, 9 regular-price jeans (vendors 'OK Womens' 5, 'OK Unisex' 4), none marked down. Low: The Beachcomber Relaxed Jean $168; high: The Craftsman Jean $198."
     }
   ],
   "materials": [
@@ -50,7 +63,8 @@
     "https://www.outerknown.com/collections/womens-pants/products.json?limit=250",
     "https://www.outerknown.com/pages/shipping-information",
     "https://www.outerknown.com/pages/returns-exchanges",
-    "https://www.outerknown.com/pages/about"
+    "https://www.outerknown.com/pages/about",
+    "https://www.outerknown.com/collections/womens-denim/products.json?limit=250"
   ],
   "notes": [
     "Homepage title: 'Outerknown | Born In The Ocean To Feel Better Everywhere'; description: 'Born in the ocean, Outerknown builds better clothes for full and adventurous lives.' About page title: 'Made Better. Feels Better.'",

@@ -1,0 +1,54 @@
+{
+  "name": "Ryderwear",
+  "website_url": "https://www.ryderwear.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Gym Wear Cut for Muscular Builds",
+  "hq_country": "AU",
+  "founded_year": 2009,
+  "parent_company": null,
+  "size_range": "Tees XS–3XL",
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 120,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "USD",
+      "min": 50,
+      "max": 65,
+      "item_count": 59,
+      "source_url": "https://www.ryderwear.com/collections/mens-t-shirts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Men's T-Shirts collection (116 products, US store): 59 regular-price short-sleeve tees $50 (Energy Mesh T-Shirt) to $65 (Pursuit Oversized T-shirt, Throwback Oversized Fleece T-Shirt); Element and Aero Core Seamless T-Shirts $52, Ryderwear/Force/Lifting Oversized Tshirts $59. 49 items with compare-at prices excluded. Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final, DiscountApplied, sale-NN, NN%, on-sale, sale, flash-sale, further reductions); campaign-eligibility tags with no compare-at price (e.g. '10th-anniversary-sale', 'cp:SeptEOSSale', 'DISCOUNT') are not treated as markdowns. Short-sleeve tees only: long-sleeve, tanks, stringers, polos, button-ups, jerseys, sweaters, packs and box sets excluded.",
+      "min_usd": 50,
+      "max_usd": 65,
+      "fx_date": null
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.ryderwear.com/",
+    "https://www.ryderwear.com/meta.json",
+    "https://www.ryderwear.com/cart.js",
+    "https://www.ryderwear.com/collections.json?limit=250",
+    "https://www.ryderwear.com/collections/mens-t-shirts/products.json?limit=250",
+    "https://www.ryderwear.com/pages.json?limit=250",
+    "https://www.ryderwear.com/pages/about-us",
+    "https://www.ryderwear.com/policies/shipping-policy",
+    "https://www.ryderwear.com/policies/refund-policy"
+  ],
+  "notes": [
+    "About: 'Created in Australia 2009, the Ryderwear brand is the ultimate definition of fitness plus fashion'; 'Every item ... is specifically designed to mould to the muscular physique of athletes and bodybuilders of any size.' meta.json store address Beverley, South Australia.",
+    "US shipping: free standard on orders of $120 USD and over; 'All US orders are sold inclusive of customs and duties'; ships from its distribution center to customers across the United States. meta.json (US store) ships_to includes US and CA.",
+    "Returns: eligible items within 30 days of delivery for store credit; exchanges with an extra shipping fee; outlet items not returnable unless faulty.",
+    "size_range detail: XS–XXL on most; 3XL on 55 of 59."
+  ],
+  "checked_at": "2026-10-29"
+}

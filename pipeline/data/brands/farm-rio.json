@@ -1,0 +1,43 @@
+{
+  "slug": "farm-rio",
+  "name": "FARM Rio",
+  "website_url": "https://farmrio.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Dress in Happiness",
+  "size_range": "XXS–XL",
+  "ships_to": [
+    "US"
+  ],
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 55,
+      "max": 1310,
+      "min_usd": 55,
+      "max_usd": 1310,
+      "fx_date": null,
+      "item_count": 142,
+      "source_url": "https://farmrio.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "142 regular-price dresses of 153 (11 marked down or tagged sale). Lowest the FARM Rio x adidas Farm Dress $55, highest Brown Monstera Cutwork Leather Midi Dress $1,310; median $280 (Daniela Long Sleeve Wrap Mini Dress). Base currency USD (cart.js)."
+    }
+  ],
+  "sources": [
+    "https://farmrio.com/",
+    "https://farmrio.com/cart.js",
+    "https://farmrio.com/collections/dresses/products.json?limit=250",
+    "https://farmrio.com/pages/faqs/shipping",
+    "https://farmrio.com/pages/faqs/returns-and-exchanges"
+  ],
+  "notes": [
+    "Homepage title 'FARM Rio | Dress in Happiness | Women's Clothing Store Online'. No origin or HQ statement on the homepage; /pages/about-us is 404, so hq_country and founded_year are empty.",
+    "Shipping FAQ: delivery times calculated at checkout; orders to Hawaii and Alaska may take longer; no PO box or APO/FPO delivery. ships_to US from that page; no free-shipping threshold stated.",
+    "Returns FAQ: 'We don't accept returns after 30 days from the original purchase date.' 'We offer free returns and exchanges' (prepaid UPS labels). FINAL SALE items exchange only.",
+    "Dress sizes in the feed: XXS–XL on 152 of 153 styles, a few 2XL.",
+    "Other dresses: Colorfly Green Adidas Dress $120, Tropical Royalty Mini Dress $148."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "target",
+  "name": "Target",
+  "website_url": "https://www.target.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Only-at-Target and National Brands",
+  "hq_country": "US",
+  "us_stores": true,
+  "sells_categories": [
+    "womens-clothing"
+  ],
+  "ships_to": [],
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "sources": [
+    "https://www.target.com/c/women-s-clothing/-/N-5xtd3",
+    "https://www.target.com/help/articles/returns-exchanges/returns",
+    "https://corporate.target.com/about"
+  ],
+  "notes": [
+    "2026-10-29: target.com women's clothing page readable. Owned brands shown: All In Motion, A New Day, Auden, Ava & Viv, JoyLab, KBB by Kahlana, Shade & Shore, Universal Thread, Wild Fable; national brands in filters incl. Levi's, Lucky Brand, Lee, Hanes, Champion. Products at regular price: Women's High-Rise Vintage Straight Jeans - Universal Thread $38.00; Women's Mid-Rise Boyfriend Jeans - Universal Thread $40.00; Levi's Women's High-Rise Cinch Baggy Jeans $74.99; Women's High-Rise Ponte Barrel Pants - A New Day $30.00 (a sample of 24 items, not a full range, so no price row stored). Returns page: 'Target Owned Brand items' returnable for one year with a receipt. corporate.target.com/about: '2,000+' US stores, 'stores in all 50 states and the District of Columbia'; '45+' owned brands; 'From our exclusive only-at-Target products to the national brands our guests expect'."
+  ],
+  "checked_at": "2026-10-29"
+}

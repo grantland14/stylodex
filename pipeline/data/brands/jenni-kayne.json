@@ -1,0 +1,65 @@
+{
+  "slug": "jenni-kayne",
+  "name": "Jenni Kayne",
+  "website_url": "https://www.jennikayne.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Enduring California Classics",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–XXL; XXS and 1X–3X on some styles",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 21,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "sweaters",
+      "currency": "USD",
+      "min": 225.0,
+      "max": 625.0,
+      "min_usd": 225.0,
+      "max_usd": 625.0,
+      "fx_date": null,
+      "item_count": 124,
+      "source_url": "https://www.jennikayne.com/collections/clothing-womens-shop-all-sweaters/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "products.json: 128 listings in the collection; 0 with compare_at above price (sale) and 0 sold out excluded, 4 non-sweaters excluded; 124 regular-price women's sweaters. Low: Simone V-Neck ($225); high: Boyd Cashmere Sweater ($625). Cashmere Cocoon Cardigan $475; Cotton Cocoon Cardigan $395 (70% organic cotton, 30% polyamide, made in China of Italian fabric, 'same best-selling fit as our Cashmere Cocoon Sweater'). Flynn Cashmere Crewneck $325."
+    }
+  ],
+  "materials": [
+    "Cashmere",
+    "Organic cotton",
+    "Alpaca"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.jennikayne.com/meta.json",
+    "https://www.jennikayne.com/",
+    "https://www.jennikayne.com/pages/about",
+    "https://www.jennikayne.com/pages/stores",
+    "https://www.jennikayne.com/policies/shipping-policy",
+    "https://www.jennikayne.com/policies/refund-policy",
+    "https://www.jennikayne.com/collections/clothing-womens-shop-all-sweaters/products.json?limit=250",
+    "https://www.jennikayne.com/products/cotton-cocoon-cardigan-black.json"
+  ],
+  "notes": [
+    "About: 'a lifestyle brand born from a California sensibility', 'known for our enduring classics that transcend trends and become heirlooms' (https://www.jennikayne.com/pages/about).",
+    "Shipping: FedEx Ground Economy '$12 and free for orders $150+' (continental US); international flat $20, free over $250; CA, GB, AU listed; apparel only ships internationally (https://www.jennikayne.com/policies/shipping-policy).",
+    "Returns: refund 'within 21 days of order delivery' (21–30 days gift card only); '$12 restocking fee for all US returns' unless store credit or exchange (https://www.jennikayne.com/policies/refund-policy).",
+    "Stores page lists 31 US locations, from Amagansett NY to Wilmette IL (https://www.jennikayne.com/pages/stores).",
+    "Store address on meta.json is North Las Vegas, NV (fulfilment); hq_country US."
+  ],
+  "checked_at": "2026-10-29"
+}

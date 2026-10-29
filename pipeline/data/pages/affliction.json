@@ -169,6 +169,11 @@
           "kind": "co_stocked",
           "url": "https://www.zumiez.com/brands/ed-hardy",
           "note": "Zumiez brand page: 282 Ed Hardy items incl. T-shirts ($42.95–$44.95). Affliction tees are on Zumiez's T-Shirts page (https://www.zumiez.com/mens/t-shirts.html, 2,960 items) and its Affliction brand page lists 358 items."
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/22-brands-like-affliction",
+          "note": "#1: \"Tattoo-flash graphic apparel brand built on Don Ed Hardy's artwork\""
         }
       ]
     },
@@ -220,6 +225,11 @@
           "kind": "co_stocked",
           "url": "https://www.zumiez.com/brands/true-religion",
           "note": "Zumiez brand page: 302 True Religion items; 11 of 32 visible are T-shirts ($41.95). Affliction tees are on Zumiez's T-Shirts page (https://www.zumiez.com/mens/t-shirts.html, 2,960 items) and its Affliction brand page lists 358 items."
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/22-brands-like-affliction",
+          "note": "#10: \"American denim label known for its horseshoe logo and thick contrast stitching\""
         }
       ]
     },
@@ -232,6 +242,11 @@
           "kind": "serp_comention",
           "url": "https://obphoria.com/blogs/article/brands-like-affliction-which-brands-are-similar-to-affliction-clothing",
           "note": "#1: \"started in 1997 by three MMA super fans\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/22-brands-like-affliction",
+          "note": "#2: \"American fitness and MMA-rooted apparel label, founded 1997\""
         }
       ]
     },
@@ -448,6 +463,11 @@
           "kind": "co_stocked",
           "url": "https://www.zumiez.com/mens/t-shirts.html",
           "note": "T-shirts rendered on the Zumiez T-Shirts page that also renders Affliction tees"
+        },
+        {
+          "kind": "co_stocked",
+          "url": "https://www.zumiez.com/brands/west-coast-choppers",
+          "note": "Zumiez brand page: 21 West Coast Choppers items, mostly T-shirts at $34.95 (same retailer as the T-Shirts page, so not a second independent source)"
         }
       ]
     },
@@ -708,13 +728,133 @@
       "slug": "banned-alternative",
       "in_apart_pool": true,
       "sources": []
+    },
+    {
+      "name": "Iron Fist",
+      "slug": "iron-fist",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/22-brands-like-affliction",
+          "note": "#3: \"San Diego footwear and apparel brand known for platform shoes\" (links ironfistclothing.com)"
+        }
+      ]
+    },
+    {
+      "name": "BlackCraft Cult",
+      "slug": "blackcraft-cult",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/22-brands-like-affliction",
+          "note": "#4: \"Southern California goth-streetwear label selling occult-graphic tees, hoodies and accessories\""
+        }
+      ]
+    },
+    {
+      "name": "Hot Topic",
+      "slug": "hot-topic",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/22-brands-like-affliction",
+          "note": "#5: \"American mall chain selling band tees, licensed pop-culture merch\""
+        }
+      ]
+    },
+    {
+      "name": "Underground England",
+      "slug": "underground-england",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/22-brands-like-affliction",
+          "note": "#6: \"British footwear label making creepers, winklepickers and steel-cap boots\""
+        }
+      ]
+    },
+    {
+      "name": "Killstar",
+      "slug": "killstar",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/22-brands-like-affliction",
+          "note": "#7: \"British alternative label founded in 2010, making gothic and occult-inspired clothing\""
+        }
+      ]
+    },
+    {
+      "name": "G-Star RAW",
+      "slug": "g-star-raw",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/22-brands-like-affliction",
+          "note": "#8: \"Dutch denim label founded in Amsterdam in 1989\""
+        }
+      ]
+    },
+    {
+      "name": "Diesel",
+      "slug": "diesel",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/22-brands-like-affliction",
+          "note": "#9: \"Italian denim house founded by Renzo Rosso in 1978\""
+        }
+      ]
+    },
+    {
+      "name": "Fear of God",
+      "slug": "fear-of-god",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/22-brands-like-affliction",
+          "note": "#11: \"Los Angeles label founded in 2013 by Jerry Lorenzo\""
+        }
+      ]
+    },
+    {
+      "name": "Mastermind",
+      "slug": "mastermind",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/22-brands-like-affliction",
+          "note": "#12: \"Tokyo luxury streetwear label founded in 1997 by Masaaki Homma\""
+        }
+      ]
+    },
+    {
+      "name": "YRU",
+      "slug": "yru",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/22-brands-like-affliction",
+          "note": "#13: \"American footwear label making platform sneakers, creepers and boots\""
+        }
+      ]
     }
   ],
   "picks": [
     {
       "slug": "ed-hardy",
       "rank": 1,
-      "independent_sources": 2,
+      "independent_sources": 3,
       "single_source": false,
       "price": {
         "currency": "USD",
@@ -737,11 +877,15 @@
           "kind": "co_stocked",
           "url": "https://www.zumiez.com/brands/ed-hardy",
           "note": "Zumiez brand page: 282 Ed Hardy items incl. T-shirts ($42.95–$44.95). Affliction tees are on Zumiez's T-Shirts page (https://www.zumiez.com/mens/t-shirts.html, 2,960 items) and its Affliction brand page lists 358 items."
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/22-brands-like-affliction",
+          "note": "#1: \"Tattoo-flash graphic apparel brand built on Don Ed Hardy's artwork\""
         }
       ],
       "gate_gaps": [
-        "image_url",
-        "body"
+        "image_url"
       ]
     },
     {
@@ -773,8 +917,7 @@
         }
       ],
       "gate_gaps": [
-        "image_url",
-        "body"
+        "image_url"
       ]
     },
     {
@@ -801,8 +944,7 @@
         }
       ],
       "gate_gaps": [
-        "image_url",
-        "body"
+        "image_url"
       ]
     },
     {
@@ -831,13 +973,66 @@
       "gate_gaps": [
         "known_for",
         "hq_country",
-        "image_url",
-        "body"
+        "image_url"
+      ]
+    },
+    {
+      "slug": "killstar",
+      "rank": 5,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 50,
+        "max": 60,
+        "min_usd": 50,
+        "max_usd": 60,
+        "fx_date": null,
+        "item_count": 9
+      },
+      "price_relation": "similar",
+      "reason": "Killstar's US store sells men's short-sleeve tees at $50–$60, inside Affliction's $39–$88, with occult artwork on the front and sleeves, in XS–4XL.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/22-brands-like-affliction",
+          "note": "#7: \"British alternative label founded in 2010, making gothic and occult-inspired clothing\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "iron-fist",
+      "rank": 6,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 39,
+        "max": 45,
+        "min_usd": 39,
+        "max_usd": 45,
+        "fx_date": null,
+        "item_count": 7
+      },
+      "price_relation": "similar",
+      "reason": "Iron Fist, the 2000s alternative label now reissuing its archive, sells oversized horror-graphic tees at $39–$45 in XS–2XL and ships to the US.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/22-brands-like-affliction",
+          "note": "#3: \"San Diego footwear and apparel brand known for platform shoes\" (links ironfistclothing.com)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
       ]
     },
     {
       "slug": "alchemy-england",
-      "rank": 5,
+      "rank": 7,
       "independent_sources": 1,
       "single_source": true,
       "price": {
@@ -860,13 +1055,39 @@
       ],
       "gate_gaps": [
         "returns_days",
-        "image_url",
-        "body"
+        "image_url"
+      ]
+    },
+    {
+      "slug": "west-coast-choppers",
+      "rank": 8,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 37.99,
+        "max": 39.99,
+        "min_usd": 37.99,
+        "max_usd": 39.99,
+        "fx_date": null,
+        "item_count": 16
+      },
+      "price_relation": "similar",
+      "reason": "West Coast Choppers sells biker tees at $37.99–$39.99, including the OG Classic Tee with the original Iron Cross logo, in S–3XL, free US shipping over $150.",
+      "evidence": [
+        {
+          "kind": "co_stocked",
+          "url": "https://www.zumiez.com/mens/t-shirts.html",
+          "note": "T-shirts rendered on the Zumiez T-Shirts page that also renders Affliction tees; Zumiez brand page https://www.zumiez.com/brands/west-coast-choppers lists 21 items, mostly T-shirts at $34.95"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
       ]
     },
     {
       "slug": "sullen",
-      "rank": 6,
+      "rank": 9,
       "independent_sources": 1,
       "single_source": true,
       "price": {
@@ -888,15 +1109,41 @@
         }
       ],
       "gate_gaps": [
-        "image_url",
-        "body"
+        "image_url"
+      ]
+    },
+    {
+      "slug": "blackcraft-cult",
+      "rank": 10,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 31.99,
+        "max": 40,
+        "min_usd": 31.99,
+        "max_usd": 40,
+        "fx_date": null,
+        "item_count": 26
+      },
+      "price_relation": "similar",
+      "reason": "BlackCraft Cult sells 100% ring-spun cotton tees with occult, tarot and Salem artwork, nearly all at $35 ($31.99–$40), in S–3XL, free US shipping over $125.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/22-brands-like-affliction",
+          "note": "#4: \"Southern California goth-streetwear label selling occult-graphic tees, hoodies and accessories\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
       ]
     }
   ],
   "rejected": [
     {
       "slug": "true-religion",
-      "why": "unverified: truereligion.com answered HTTP 307 to itself for WebFetch (2026-10-29); not read, no workaround. 2 sources (Obphoria + Zumiez T-shirts); first in the human-check queue."
+      "why": "unverified: truereligion.com and /mens-graphic-tees answered HTTP 307 to WebFetch again on the top-up run (2026-10-29); not read, no workaround. 3 sources (Obphoria, Zumiez, discobrands); first in the human-check queue."
     },
     {
       "slug": "ecko-unltd",
@@ -944,7 +1191,7 @@
     },
     {
       "slug": "raw-state",
-      "why": "not verified this run: 15-brand cap; Obphoria gives no description and links only to eBay/Grailed resale listings (1 source)."
+      "why": "defunct: no official store found (WebSearch 'Raw State clothing official store tees' returned only eBay resale listings and a Raw State LLC trademark record, 2026-10-29). 1 source (Obphoria, no description)."
     },
     {
       "slug": "red-ape",
@@ -961,10 +1208,6 @@
     {
       "slug": "stranded",
       "why": "not verified this run: 15-brand cap; Obphoria gives no description and links only to eBay/Grailed resale listings (1 source)."
-    },
-    {
-      "slug": "west-coast-choppers",
-      "why": "not verified this run: 15-brand cap (1 source: co_stocked on Zumiez T-Shirts)."
     },
     {
       "slug": "vlone",
@@ -1025,13 +1268,46 @@
     {
       "slug": "apart-style-pool",
       "why": "15 Apart Style pool brands (vivienne-westwood ... banned-alternative) have no outside evidence for Affliction; not verified."
+    },
+    {
+      "slug": "hot-topic",
+      "why": "not verified: multi-brand mall retailer of licensed merch (discobrands only); /guys/tees/ renders no prices or product tiles to WebFetch (header '73,040 Results'), so no regular-price tee range. Weak fit for a brands page."
+    },
+    {
+      "slug": "diesel",
+      "why": "not verified: diesel.com serves a Salesforce country-selector page to scripted reads (no products.json); denim house on discobrands only. Not pursued further."
+    },
+    {
+      "slug": "underground-england",
+      "why": "off_category for this page: discobrands describes it as a footwear label (creepers, boots); not verified."
+    },
+    {
+      "slug": "yru",
+      "why": "off_category for this page: discobrands describes it as a footwear label; not verified."
+    },
+    {
+      "slug": "g-star-raw",
+      "why": "not verified this run: denim label on discobrands only; 25-brand verification cap reached with closer graphic-tee candidates first."
+    },
+    {
+      "slug": "fear-of-god",
+      "why": "not verified this run: luxury label on discobrands only (shop link goes to SSENSE); 25-brand cap."
+    },
+    {
+      "slug": "mastermind",
+      "why": "not verified this run: Tokyo luxury streetwear on discobrands only (shop link goes to SSENSE); 25-brand cap."
     }
   ],
   "human_check": [
     {
       "fact": "pick check: True Religion",
       "url": "https://www.truereligion.com/mens-graphic-tees",
-      "check": "307 loop to WebFetch. Confirm live + regular-price men's graphic tee range (USD, item count), sizes, US/CA/GB/AU shipping, free-shipping threshold, returns. 2 sources; would become a pick."
+      "check": "307 loop to WebFetch (both runs). Confirm live + regular-price men's graphic tee range (USD, item count), sizes, US/CA/GB/AU shipping, free-shipping threshold, returns. 3 sources; would become an 11th pick."
+    },
+    {
+      "fact": "evidence quality: discobrands list",
+      "url": "https://www.discobrands.co/blogs/22-brands-like-affliction",
+      "check": "Found by WebSearch, not in the Ahrefs top 10. An affiliate brand directory like Stylodex, no author, template-driven ('Why it's similar' / 'What changes'). It is the only outside source for Killstar, Iron Fist and BlackCraft Cult. Confirm it should count as outside evidence."
     },
     {
       "fact": "evidence quality: Obphoria list",
@@ -1072,6 +1348,16 @@
       "fact": "co-stocking: Buckle",
       "url": "https://www.buckle.com/mens/brand:affliction",
       "check": "Buckle stocks Affliction but its pages render no products to WebFetch. Open the men's graphic tees category and note brands beside Affliction."
+    },
+    {
+      "fact": "Killstar hq_country",
+      "url": "https://us.killstar.com/policies/privacy-policy",
+      "check": "Operator is Draco Distribution, Inc. ('headquartered in the United States') and Draco Distribution Ltd (terms). Confirm the brand's home country."
+    },
+    {
+      "fact": "West Coast Choppers hq_country",
+      "url": "https://www.westcoastchoppers.com/",
+      "check": "Official apparel site names no operator or address (EU orders ship from Europe). Confirm who runs it and where."
     }
   ],
   "checked_at": "2026-10-29",
@@ -1088,44 +1374,154 @@
   },
   "notes": [
     "Anchor: verified, graphic-tees $39–$88 over 383 regular-price men's tees. missingAnchorFacts leaves only image_url (no /img/ asset yet, as on every page at this step).",
-    "6 picks pass enrich.md §3 (verified, sells graphic tees at a regular price, ships to the US, ≥1 outside source, one checkable reason). Only Ed Hardy and Metal Mulisha have 2 independent sources (Obphoria + Zumiez); the other 4 rest on Obphoria alone.",
-    "Ranking: independent sources, then price closeness as the distance between range midpoints (anchor $63.50): JNCO 1.5, Venum 6, Ed Hardy 16.5, Alchemy 23.5, Sullen 26.5, Metal Mulisha 30.5 (Metal Mulisha ranks 2nd on its 2 sources).",
-    "Gate: every pick still needs pair.status=verified, a body (step 5) and a /img/ image; with those, all 6 render (MIN_PICKS 6). Losing any one drops the page below the gate, so True Religion (human_check) is the buffer.",
     "Prices: Shopify /collections/{handle}/products.json; regular = no compare_at above price and no sale/markdown/clearance tag (Affliction keeps old tags like '4th of July Sale' on 80 tees, which are excluded); short-sleeve tees only (long-sleeve, tanks, polos, hoodies, bundles excluded) to match the anchor's range.",
-    "Evidence: 1 serp_comention page (Obphoria) + Zumiez co-stocking. Ahrefs returned no SERP rows for 3 of the 4 keywords; all 4 calls used."
+    "Evidence: 1 serp_comention page (Obphoria) + Zumiez co-stocking. Ahrefs returned no SERP rows for 3 of the 4 keywords; all 4 calls used.",
+    "Top-up run (2026-10-29): 10 picks pass enrich.md §3. Ed Hardy has 3 independent sources (Obphoria, Zumiez, discobrands), Metal Mulisha 2; the other 8 rest on one each (Obphoria: JNCO, Venum, Alchemy England, Sullen; discobrands: Killstar, Iron Fist, BlackCraft Cult; Zumiez co-stocking: West Coast Choppers).",
+    "Ranking: independent sources, then price closeness as the distance between range midpoints (anchor $63.50): JNCO 1.5, Venum 6.0, Killstar 8.5, Iron Fist 21.5, Alchemy 23.5, West Coast Choppers 24.5, Sullen 26.5, BlackCraft Cult 27.5.",
+    "Verified this run: True Religion (still 307), Iron Fist, BlackCraft Cult, Killstar, West Coast Choppers, Hot Topic (no prices), Raw State (no official store), Diesel (no readable store). 22 brands verified across both runs.",
+    "Evidence added by WebSearch (field web_search): Ahrefs had no SERP rows for 3 of the 4 keywords and the one editorial page in the top 10 was Obphoria, so three WebSearch queries were run for more editorial lists. One new page counted (discobrands), flagged in human_check. Reddit still unread.",
+    "Price method note: BlackCraft Cult tags 'salem' / 'Salem Apparel' are a collection name, so the sale filter uses whole words ('sale', 'clearance', 'markdown'); Killstar's 'SALE-ID-*' tags sit on FULLPRICE items with no compare-at and are not treated as markdowns."
   ],
   "author": "Ash",
   "copy": {
-    "intro": "Affliction is a California label known for full-coverage graphic tees, and short-sleeve tees make up nearly half its catalog. Most of these six brands draw on tattoo art or motocross and fight culture, and all of them ship to the US. Their regular-price tees run from $24.99 at Venum to $115 at Ed Hardy, with Affliction's own at $39–$88.",
+    "intro": "You've found an Affliction tee you love, then seen that the rhinestone version costs $88. Or you want those full-coverage graphics from a different label. These brands sell the same heavy-print tees, some built on tattoo art and others on biker or fight-sport graphics. The most widely recommended come first, and every one ships to the US.",
     "bodies": {
-      "ed-hardy": "Ed Hardy prints the tattoo art of Don Ed Hardy on its tees, and Zumiez stocks it alongside Affliction. Its 41 men's styles start a little above Affliction at $45 and climb to $115 for the rhinestone boxy tees. Sizes stop at XXL, where Affliction goes up to 4X. There's also a women's line at $29.25–$60. US orders over $100 ship free, and sale items can't be returned.",
-      "metal-mulisha": "Metal Mulisha comes out of freestyle motocross and MMA. Brian Deegan and Larry Linkogle co-founded it, and it's based in San Juan Capistrano, California. It's the cheapest pick: all 83 of its regular-price tees cost $28–$38, under Affliction's $39 starting price. Most styles go up to 4XL, close to Affliction's 4X. Zumiez carries both brands. Returns are open for 30 days, but sale items are final.",
-      "jnco": "JNCO is the Los Angeles label behind the wide-leg jeans it has made since 1985, and its 22 tees sit inside Affliction's price range at $50–$80. Nearly every one comes in XXXL. If you want jeans in the same order, JNCO's run $130–$350 in waists 24–44. US shipping is a flat $10 with no free threshold, and returns close after 21 days.",
-      "venum": "Venum is a combat sports brand that sells boxing gloves and MMA gear next to its fightwear, plus a Venum x UFC line. Its 86 men's cotton tees start lower than Affliction's, with most at $24.99–$49.99 and one $89.99 tee at the top. Many styles run to XXXL and a few to XXXXL. US shipping is free over $75, and unworn items can go back within 30 days.",
-      "alchemy-england": "Alchemy England has made gothic jewelry in Leicestershire, England, since 1977, and its small tee line carries horror prints such as The Mummy and Curse of Frankenstein. Every tee costs $40, near the bottom of Affliction's range, in S–XXXL. US orders ship from its warehouse in Fort Worth, Texas, and go free over $100. Rings and pendants are the main line, so it's an easy add-on to a tee order.",
-      "sullen": "Sullen has been a tattoo lifestyle brand in Southern California since 2001, and every graphic on its tees is original work by a tattoo artist, with more than 460 in its Artist Series. Its 102 tees cost $25–$48.95, topping out well under Affliction's $88, and the bigger sizes cost more. Nearly every style goes to 5X, the widest size run on this list. US orders over $99 ship free."
+      "ed-hardy": "Ed Hardy is the first stop if it's the tattoo art you love about Affliction. Its tees are built on Don Ed Hardy's work, and the Eagle Mens SS Tee ($45) is an easy one to start with.\n\nPrices sit a little above Affliction's at the bottom and well past them at the top. The range opens at $45, and the rhinestone boxy tees cost $115, so the sparkle costs extra here too. There's also a women's tee line from $29.25 to $60, which makes it a good pick if you're buying for two.\n\nThe catch is size. Men's tees stop at XXL, where Affliction goes to 4X. If you need bigger, Sullen and Metal Mulisha both go further. US orders ship free over $100, and sale items can't be returned.",
+      "metal-mulisha": "Metal Mulisha is the pick if you want moto and MMA clothing for less. Every regular-price tee costs $28 to $38, so even the priciest one sits under Affliction's cheapest. The Conee Tee ($28) sits at the very bottom of that range.\n\nBrian Deegan and Larry Linkogle started it in freestyle motocross, and the brand still runs FMX, supercross and MMA teams from San Juan Capistrano, California. Most styles go up to 4XL, which is close to Affliction's 4X.\n\nSo two Mulisha tees cost about what one finishing-heavy Affliction tee does. You get 30 days to send a tee back, but only at full price, because sale items are final.",
+      "jnco": "JNCO is where to go for a heavier tee with a 90s backstory. The 4 The People Tee ($80) is a 10.5oz heavyweight in 100% combed cotton, printed with an original 1996 graphic.\n\nCheck the weight before you buy. The Street Gambler Tee ($60) is a lighter 6.5oz cotton, so the extra $20 on the 4 The People Tee buys a much heavier shirt. Both sit inside Affliction's range, and nearly every style comes in XXXL.\n\nJNCO has been an LA label since 1985 and is still best known for wide-leg jeans, from $130 to $350, so you can add a pair to the same order. US shipping is a flat $10 with no free threshold, and returns close after 21 days.",
+      "venum": "Venum is the pick if you follow the UFC, because it makes the Venum x UFC line. The UFC Unity by Venum Fight Week T-Shirt ($34.99) is a good place to start.\n\nIt's a combat sports brand first, selling boxing gloves and MMA gear next to the clothes. Most of its cotton tees cost $24.99 to $49.99, like the Venum Fight Icon Cotton T-Shirt ($29.99), and the MX Basics Protect T-Shirt ($89.99) is the outlier at the top. Many styles run to XXXL.\n\nFree US shipping starts at $75, the lowest bar on this list. Unworn items can go back within 30 days. If it's tattoo art you're after, Sullen keeps its prices in the same band.",
+      "killstar": "Killstar is the darker, occult take on Affliction's look, and its boxy tees are the ones to start with. The Shadows With Eyes Boxy T-Shirt ($60) puts a line-art figure on the front and more artwork down both sleeves.\n\nMen's tees cost $50 to $60, inside Affliction's range, and most come in XS to 4XL. They're 100% cotton jersey in a boxy fit.\n\nDelivery is slower, though. US orders ship from Killstar's hub in the EU and take 7 to 14 business days, and free shipping starts at $175. Returns are tight too, with 14 days from delivery to register one. If you want occult prints for less, BlackCraft Cult sells most of its tees at $35.",
+      "iron-fist": "Iron Fist is the archive pick, bringing back 2000s alternative graphics from the label that made them. Tees cost $39 to $45, and the Bloody Mess T-Shirt ($45) reissues a Godmachine artwork from that era.\n\nThe art leans on horror and tattoo designs. Many of the tees are cut oversized, and Iron Fist suggests sizing down for a standard fit.\n\nSo check the size chart first. Returns cover only faults and unopened orders, which means a wrong size can't go back. And Iron Fist doesn't restock its collections, so if a design you like is in your size, that's the time to buy. For a bigger catalog with easier returns, Sullen has far more to browse.",
+      "alchemy-england": "Alchemy England is a gothic jewelry maker first, and that's the reason to shop here. Its horror tees cost $40 each, like the Prince of Darkness T-Shirt ($40), and you can add a ring or pendant to the same order.\n\nIt's been making jewelry in Leicestershire, England, since 1977. The tee line is small and sticks to classic horror themes such as The Mummy and Curse of Frankenstein. US orders come from its warehouse in Fort Worth, Texas, so there's no overseas wait, and they ship free over $100.\n\nThe trade-off is choice. BlackCraft Cult has a much bigger range of occult tees, and most cost less. Returns on undamaged items go back as account credit, so choose your size carefully.",
+      "west-coast-choppers": "West Coast Choppers is the straight biker answer to Affliction, and the OG Classic Tee ($37.99) is the one to own. It's the black tee with the original white Iron Cross logo and a Long Beach, CA print, the design Paul Walker wore in The Fast and the Furious.\n\nEvery tee costs $37.99 or $39.99, right around Affliction's starting price. Sizes run S to 3XL, and half the styles go to 4XL.\n\nFree US shipping only starts at $150, the second-highest bar here. Zumiez carries the line too, so you can buy it alongside Affliction in one order. Returns run 30 days, but take the tags off and you'll get 80% of the price back.",
+      "sullen": "Sullen is the pick for real tattoo art at a lower price than Affliction. Every graphic is original work by a tattoo artist, and tees cost $25 to $48.95, like the Medusa Standard ($27.95).\n\nStandard and Premium in a tee's name are the two shirt bodies it's printed on. Premium costs a few dollars more, so the Hodu Reaper Premium is $32.50.\n\nSizes go to 5X on almost every style, the widest run on this list, though bigger sizes cost more. Like Affliction, it's a Southern California brand. US orders over $99 ship free, and you get 30 days to return. If you want the tattoo look with rhinestones on top, Ed Hardy is the one.",
+      "blackcraft-cult": "BlackCraft Cult is the cheapest way into occult graphics on this list. Nearly every tee is $35, with the Welcome To Hell Tee ($40) at the top, and much of the art is tarot cards and Salem witches. The Lovers Tarot Card T-Shirt ($35) is a typical example.\n\nIt started in a Southern California attic in 2012. Despite all the devils and goats, the brand says it stands for kindness and positivity. The tees are 100% ring-spun cotton in a classic unisex fit, from S to 3XL.\n\nCompare it with Killstar, which charges $50 to $60 for its boxy tees and ships from Europe. Free US shipping here starts at $125, and sale items are final, so stick to full price if you're unsure of the size."
+    },
+    "best_for": {
+      "ed-hardy": "tattoo-art tees for him and her in one order",
+      "metal-mulisha": "moto and MMA graphic tees for under $40",
+      "jnco": "a heavyweight tee and wide-leg jeans in one order",
+      "venum": "UFC fight-week tees with free shipping from $75",
+      "killstar": "occult prints with artwork running down the sleeves",
+      "iron-fist": "reissued 2000s horror graphics that won't be restocked",
+      "alchemy-england": "adding a gothic ring to a horror tee order",
+      "west-coast-choppers": "the classic biker tee from The Fast and the Furious",
+      "sullen": "real tattoo-artist designs in sizes up to 5X",
+      "blackcraft-cult": "tarot and Salem witch tees for $35"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with what you like about Affliction. If it's the tattoo art, Ed Hardy is the closest match and Sullen does it for less, in sizes up to 5X. If it's the fight and moto side, Metal Mulisha is the budget pick and Venum has UFC tees with the easiest free shipping.\n\nFor darker, occult graphics, BlackCraft Cult keeps most tees at $35, while Killstar charges more and ships from Europe. If you want a heavier shirt, JNCO's 10.5oz tees are the ones to look at. For pure biker style, it's West Coast Choppers' OG Classic Tee. And if you miss the 2000s originals, Iron Fist is reissuing them, but buy the size you need the first time."
     },
     "faqs": [
       {
         "q": "What is Affliction clothing?",
-        "a": "A US clothing brand founded in 2005 and based in Seal Beach, California. It's best known for full-coverage graphic tees, a look its founders built on backgrounds in graphic design and screen printing. Short-sleeve tees are nearly half its catalog.",
+        "a": "A US clothing brand based in Seal Beach, California, started in 2005 as a passion project between friends. It's best known for full-coverage graphic tees, and short-sleeve tees make up nearly half its store.",
         "source_query": "what is affliction clothing"
       },
       {
+        "q": "Is Affliction fast fashion?",
+        "a": "Not in how it's made. Affliction says most of its products are still made in the USA, in production facilities it runs itself, and its regular-price tees cost $39 to $88.",
+        "source_query": "is affliction fast fashion"
+      },
+      {
+        "q": "Why is Affliction so expensive?",
+        "a": "The price climbs with the finishing. Its cheapest tees, like the Ancient Oblivion Tee ($39), are washed 100% cotton, while the $88 ones add rhinestones over the art or individually numbered pieces.",
+        "source_query": "why is affliction so expensive"
+      },
+      {
         "q": "Where can you buy Affliction clothing?",
-        "a": "From its own store at afflictionclothing.com (affliction.com is an unrelated parked domain) or at Zumiez, which carries hundreds of Affliction pieces, tees included.",
+        "a": "From its own store at afflictionclothing.com, or at Zumiez, which carries Affliction tees along with hundreds of other Affliction pieces.",
         "source_query": "where to buy affliction clothing"
-      },
-      {
-        "q": "How much are Affliction shirts?",
-        "a": "Regular-price men's graphic tees cost $39–$88 and come in XS–4X. Women's short-sleeve tees cost $36–$64.",
-        "source_query": "how much are affliction shirts"
-      },
-      {
-        "q": "Who owns Affliction clothing?",
-        "a": "Affliction Holdings LLC. The brand started in 2005 as a passion project between friends, and most of its products are still made in the USA.",
-        "source_query": "who owns affliction clothing"
       }
     ]
-  }
+  },
+  "web_search": [
+    {
+      "query": "brands like Affliction clothing similar brands",
+      "url": "https://www.discobrands.co/blogs/22-brands-like-affliction",
+      "kept": true,
+      "note": "discobrands.co 'Brands Like Affliction' (disco, an affiliate brand directory; no author; 'Updated Jul 2026'). 13 brands with 'Why it's similar' / 'What changes' text; template-driven. Not in the Ahrefs US top 10 for the four keywords; counted as one serp_comention source, flagged in human_check."
+    },
+    {
+      "query": "shirts like Affliction cheaper alternatives",
+      "url": "https://www.discobrands.co/blogs/22-brands-like-affliction/cheaper",
+      "kept": false,
+      "note": "sub-page of the same directory (Tapout, Hot Topic, Underground England, Killstar); same source, not counted twice"
+    },
+    {
+      "query": "brands like Affliction clothing similar brands",
+      "url": "https://retailboss.co/?p=11792",
+      "kept": false,
+      "note": "'Top 8 Brands Like Ed Hardy' (RetailBoss, 2024): alternatives to Ed Hardy, not to Affliction"
+    },
+    {
+      "query": "Affliction alternatives graphic tees biker tattoo style brands list",
+      "url": "https://sullenclothing.com/blogs/news/sullen-vs-affliction",
+      "kept": false,
+      "note": "Sullen's own blog comparing itself; self-recommendation, not read"
+    },
+    {
+      "query": "brands like Affliction clothing similar brands",
+      "url": "https://openpension.ctdata.org/brands-similar-to-affliction",
+      "kept": false,
+      "note": "spam page on an unrelated subdomain (also dr-xm.saas.infor.com); not read"
+    },
+    {
+      "query": "brands like Affliction clothing similar brands",
+      "url": "https://www.apartstyle.com/post/brands-like-affliction",
+      "kept": false,
+      "note": "apartstyle.com never counts as a source"
+    }
+  ],
+  "copy_facts": [
+    {
+      "fact": "Affliction tees at the bottom of its range are 100% cotton with washes (e.g. Ancient Oblivion Tee $39: 'Lava Wash Enzyme Silicone Wash After Print'; Immortal Burden Tee $39: grinding on collar, sleeves and hem)",
+      "url": "https://afflictionclothing.com/collections/mens-graphic-tees/products.json?limit=250"
+    },
+    {
+      "fact": "Affliction's $88 tees add finishing: Poison Heathen Tee 'Multicolor Rhinestones Over Front + Back Art'; Shredded Tee 'Each Piece is Uniquely Numbered'",
+      "url": "https://afflictionclothing.com/collections/mens-graphic-tees/products.json?limit=250"
+    },
+    {
+      "fact": "Ed Hardy Eagle Mens SS Tee $45 (product photo)",
+      "url": "https://edhardyoriginals.com/products/eagle-mens-ss-tee"
+    },
+    {
+      "fact": "Metal Mulisha Conee Tee $28 (product photo)",
+      "url": "https://metalmulisha.com/products/conee-tee-white"
+    },
+    {
+      "fact": "JNCO '4 The People' Tee. Black. $80: '10.5oz heavyweight tee', '100% combed cotton', 'Original 1996 graphics'; Street Gambler Tee. Black. $60: '6.5 oz'",
+      "url": "https://jnco.com/collections/tees/products.json?limit=250"
+    },
+    {
+      "fact": "Venum Fight Icon Cotton T-Shirt $29.99; Venum UFC Unity by Venum Authentic Fight Week Men's Short Sleeve T-Shirt $34.99 (product photos)",
+      "url": "https://www.venum.com/collections/cotton-t-shirts-men/products.json?limit=250"
+    },
+    {
+      "fact": "Killstar Shadows With Eyes Boxy T-Shirt $60: line-art figure on the front 'with more artwork crawling down both sleeves', 100% cotton jersey, boxy fit",
+      "url": "https://us.killstar.com/collections/mens-t-shirts-vests/products.json?limit=250"
+    },
+    {
+      "fact": "Iron Fist Bloody Mess T-Shirt $45: 'a Godmachine artwork classic from the 2000s'; tees 'Oversized fit', 'Size down for a standard fit'; FAQ 'We do not restock our seasons or collections'",
+      "url": "https://ironfistclothing.com/products.json?limit=250"
+    },
+    {
+      "fact": "Alchemy England Prince of Darkness T-Shirt - Black $40 (product photo)",
+      "url": "https://alchemyofengland.com/products/aw24-podtb-prince-of-darkness-t-shirt-black"
+    },
+    {
+      "fact": "West Coast Choppers OG Classic Tee - Black $37.99: 'the original white Iron Cross logo and “Long Beach, CA” print'; the Classic Tee 'Worn by Paul Walker in The Fast and the Furious'",
+      "url": "https://www.westcoastchoppers.com/pages/paul-walker-t-shirt-west-coast-choppers"
+    },
+    {
+      "fact": "Sullen Medusa Standard $27.95, Hodu Reaper Premium $32.50 (product photos); Standard and Premium are the tee bodies",
+      "url": "https://sullenclothing.com/collections/tees/products.json?limit=250"
+    },
+    {
+      "fact": "BlackCraft Cult Welcome To Hell Tee $40, Lovers Tarot Card T-Shirt $35, Salem 400 Tee $35; About: values 'kindness, gratitude, and positivity'",
+      "url": "https://www.blackcraftcult.com/collections/tee/products.json?limit=250"
+    }
+  ]
 }

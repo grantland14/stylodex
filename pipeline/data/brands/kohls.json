@@ -1,0 +1,28 @@
+{
+  "slug": "kohls",
+  "name": "Kohl’s",
+  "website_url": "https://www.kohls.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Great Brands and Incredible Value",
+  "hq_country": "US",
+  "parent_company": "Kohl’s Corporation",
+  "us_stores": true,
+  "sells_categories": [
+    "womens-clothing"
+  ],
+  "ships_to": [],
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "sources": [
+    "https://www.kohls.com/",
+    "https://corporate.kohls.com/company",
+    "https://www.sec.gov/Archives/edgar/data/885639/000119312526115982/kss-20260131.htm",
+    "https://www.sec.gov/Archives/edgar/data/885639/000119312526099319/d65722dex991.htm"
+  ],
+  "notes": [
+    "2026-10-29: kohls.com and corporate.kohls.com return 403 to WebFetch; no workaround. status=verified from Kohl's own SEC filings (enrich.md §2). 10-K for fiscal year ended Jan 31, 2026 (https://www.sec.gov/Archives/edgar/data/885639/000119312526115982/kss-20260131.htm): 1,153 Kohl's stores and a website, in 49 states; sells 'moderately-priced proprietary and national brand apparel, footwear, accessories, beauty, and home products'; proprietary brands incl. Apt. 9, Croft & Barrow, FLX, Sonoma Goods for Life; exclusive brands incl. LC Lauren Conrad, Simply Vera Vera Wang; proprietary brands generally carry lower selling prices than national brands; lists off-price retailers among primary competitors. Net sales by line of business 2025: Women's $3,601M, Accessories (including Sephora) $3,122M, Men's $2,930M, Home $2,212M, Children's $1,700M, Footwear $1,210M. March 10, 2026 release (https://www.sec.gov/Archives/edgar/data/885639/000119312526099319/d65722dex991.htm): 'great brands, incredible value and convenience for our customers'. 247wallst names Kohl's; MoneyPantry names 'Kohl's Off/Aisle' (a separate off-price concept, not counted as evidence for Kohl's)."
+  ],
+  "checked_at": "2026-10-29"
+}

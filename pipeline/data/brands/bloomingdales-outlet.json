@@ -2,15 +2,26 @@
   "slug": "bloomingdales-outlet",
   "name": "Bloomingdale's Outlet",
   "website_url": "https://www.bloomingdales.com/shop/bloomingdales-the-outlet",
-  "status": "unverified",
+  "status": "verified",
   "kind": "retailer",
   "ships_to": [],
   "prices": [],
   "sources": [
-    "https://www.bloomingdales.com/shop/bloomingdales-the-outlet"
+    "https://www.bloomingdales.com/shop/bloomingdales-the-outlet",
+    "https://www.macysinc.com/company/bloomingdales/default.aspx",
+    "https://www.macysinc.com/investors/financials/store--count/default.aspx",
+    "https://www.sec.gov/Archives/edgar/data/794367/000162828026021721/m-20260131.htm"
   ],
   "notes": [
-    "2026-10-29: bloomingdales.com returned HTTP 403 to WebFetch. Whether outlet merchandise is sold online is unchecked. Human check."
+    "2026-10-29: bloomingdales.com returned HTTP 403 to WebFetch. Whether outlet merchandise is sold online is unchecked. Human check.",
+    "2026-10-29 (TJ Maxx re-run): bloomingdales.com still 403. status=verified from Macy's, Inc.'s official site (enrich.md §2). macysinc.com Bloomingdale's page: 'With locations from coast to coast, The Outlet Stores bring together the best names in accessories, clothing, home' ... 'all for less'; Bloomingdale's 'premium luxury designers to emerging contemporary labels'. Store Count page ('as of most recently reported quarter end'): Bloomingdale's Outlet 25 locations; Bloomingdale's 32. Macy's, Inc. 10-K (https://www.sec.gov/Archives/edgar/data/794367/000162828026021721/m-20260131.htm): Bloomingdale's The Outlet is an off-price concept; the company sells apparel and accessories for men, women and kids. Whether outlet stock sells online is unchecked."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "known_for": "Designer Names for Less",
+  "hq_country": "US",
+  "parent_company": "Macy’s, Inc.",
+  "us_stores": true,
+  "sells_categories": [
+    "womens-clothing"
+  ]
 }

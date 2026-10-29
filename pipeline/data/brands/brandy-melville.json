@@ -1,0 +1,53 @@
+{
+  "slug": "brandy-melville",
+  "name": "Brandy Melville",
+  "website_url": "https://us.brandymelville.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": null,
+  "hq_country": null,
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Mostly XS/S or S",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "womens-clothing",
+      "currency": "USD",
+      "min": 42,
+      "max": 45,
+      "min_usd": 42,
+      "max_usd": 45,
+      "fx_date": null,
+      "item_count": 6,
+      "source_url": "https://us.brandymelville.com/collections/clothing-jeans/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: women's jeans. clothing-jeans products.json: 17 products; 11 shorts, skirts and overalls dropped; 6 jeans, none with a compare-at price: Gracie Jeans and Maisy Jeans $42, Octavia Denim Jeans, Maisy Jeans (medium wash), Saylor Denim Jeans and Milla Cargo Jeans $45. Every jean comes in a single size option, XS/S or S."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://us.brandymelville.com/",
+    "https://us.brandymelville.com/collections/clothing-jeans/products.json?limit=250",
+    "https://us.brandymelville.com/pages/customer-service",
+    "https://us.brandymelville.com/cart.js",
+    "https://locations.brandymelville.com/"
+  ],
+  "notes": [
+    "Homepage (2026-10-29): title 'Brandy Melville USA'; meta 'Official Store of Brandy Melville in the United States. Shop online to purchase tops, bottoms, accessories and more.' Store currency USD (cart.js). Sells only its own label.",
+    "Customer service page: FedEx Ground $8.50, FedEx 2nd Day $35; 'Flat rate shipping takes 5-10 days via ground.' No free-shipping threshold. 'Your credit card billing address must be located in the US.' Returns: 'Items must be returned within 30 days of the purchase date'; in-store purchases can't be returned online and vice versa noted. HQ not stated (returns address in Miramar, Florida).",
+    "Sizes: every jean in the feed has one size option (XS/S or S). The store locator (locations.brandymelville.com) didn't render stores to WebFetch, so us_stores stays empty."
+  ],
+  "checked_at": "2026-10-29"
+}

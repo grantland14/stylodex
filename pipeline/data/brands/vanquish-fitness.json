@@ -1,0 +1,59 @@
+{
+  "name": "Vanquish Fitness",
+  "website_url": "https://vqfit.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Fitness-Inspired Active Streetwear",
+  "hq_country": "GB",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Tees S–XXXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 110,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "tees",
+      "currency": "GBP",
+      "min": 20,
+      "max": 36,
+      "item_count": 60,
+      "source_url": "https://vqfit.com/collections/t-shirts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "T-shirts collection (182 products): 60 regular-price short-sleeve tees £20 (Origin Slim Fit T Shirt) to £36 (Tekken oversized tees); Evolve Slim Fit and Evolve Boxy Oversized T Shirt £25, Strength Regime Oversized T Shirt £32. Store prices in GBP (cart.js). 155 items carry '10th-anniversary-sale'/'Flash-Sale-edit' tags with no compare-at price (eligibility tags, incl. items published 2026-10-09); items tagged 'DiscountApplied' or with a compare-at price are excluded, as are jerseys and 3-/5-packs. Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final, DiscountApplied, sale-NN, NN%, on-sale, sale, flash-sale, further reductions); campaign-eligibility tags with no compare-at price (e.g. '10th-anniversary-sale', 'cp:SeptEOSSale', 'DISCOUNT') are not treated as markdowns. Short-sleeve tees only: long-sleeve, tanks, stringers, polos, button-ups, jerseys, sweaters, packs and box sets excluded.",
+      "min_usd": 26.58,
+      "max_usd": 47.84,
+      "fx_date": "2026-10-28"
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://vqfit.com/",
+    "https://vqfit.com/meta.json",
+    "https://vqfit.com/cart.js",
+    "https://vqfit.com/collections.json?limit=250",
+    "https://vqfit.com/collections.json?limit=250&page=2",
+    "https://vqfit.com/collections/t-shirts/products.json?limit=250",
+    "https://vqfit.com/pages.json?limit=250",
+    "https://vqfit.com/pages/about-us",
+    "https://vqfit.com/policies/shipping-policy",
+    "https://vqfit.com/policies/refund-policy",
+    "https://www.discobrands.co/brands/vanquish-fitness",
+    "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
+  ],
+  "notes": [
+    "vanquishfitness.com is a parked domain (redirects to /lander); the store is vqfit.com, linked from disco's brand page.",
+    "Homepage title 'Vanquish Fitness - Active Streetwear'; meta: 'innovative streetwear inspired fitness clothing ... gym joggers, hoodies, tracksuits, sweatpants & tshirts.' meta.json store address London, England; ships_to 230 countries incl. US, CA, GB, AU.",
+    "Shipping policy free-shipping table: USA, FedEx 4–6 working days, $110+ (stored as free_shipping_min_usd 110). Returns: 30 days from receipt for refund; exchanges within 30 days of delivery.",
+    "FX: ECB 2026-10-28, USD 1.1133 and GBP 0.83785 per EUR, so £1 = $1.32876. £20 ≈ $26.58, £25 ≈ $33.22, £32 ≈ $42.52, £36 ≈ $47.84."
+  ],
+  "checked_at": "2026-10-29"
+}

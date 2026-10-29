@@ -1,0 +1,34 @@
+{
+  "slug": "club-monaco",
+  "name": "Club Monaco",
+  "website_url": "https://www.clubmonaco.com",
+  "status": "verified",
+  "kind": "brand",
+  "ships_to": [
+    "US"
+  ],
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 228,
+      "max": 228,
+      "min_usd": 228,
+      "max_usd": 228,
+      "fx_date": null,
+      "item_count": 1,
+      "source_url": "https://www.clubmonaco.com/collections/womens-dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Only 1 of 13 dresses at regular price (Ribbed Crewneck Midi Dress $228); 12 marked down."
+    }
+  ],
+  "sources": [
+    "https://www.clubmonaco.com/",
+    "https://www.clubmonaco.com/cart.js",
+    "https://www.clubmonaco.com/collections/womens-dresses/products.json?limit=250"
+  ],
+  "notes": [
+    "Homepage title 'Club Monaco | Designer Men's & Women's Clothing'; US region, USD, 'Free Shipping on orders over $150' banner (not stored as a threshold: banner only, policy page not read)."
+  ],
+  "checked_at": "2026-10-29"
+}

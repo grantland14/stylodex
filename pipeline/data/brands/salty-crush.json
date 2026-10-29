@@ -1,0 +1,59 @@
+{
+  "slug": "salty-crush",
+  "name": "Salty Crush",
+  "website_url": "https://saltycrush.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Affordable, Size-Inclusive Boho Fashion",
+  "hq_country": "AU",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Jeans 6–22",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "womens-clothing",
+      "currency": "AUD",
+      "min": 79.95,
+      "max": 79.95,
+      "min_usd": 56.23,
+      "max_usd": 56.23,
+      "fx_date": "2026-10-28",
+      "item_count": 23,
+      "source_url": "https://saltycrush.com/collections/jeans/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: women's jeans. jeans products.json: 24 jeans, 1 marked down, 23 regular-price, all AUD 79.95 (Cindy Wide Leg, Britain flare, Antoni barrel, Lowen barrel, Kash mum, Samieka wide leg, Paxon bootcut, Jesse wide leg, Bob skinny). Size options 6–22. Store currency AUD (cart.js). USD at ECB 2026-10-28 (USD 1.1133, AUD 1.5830 per EUR)."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://saltycrush.com/",
+    "https://saltycrush.com/collections/jeans/products.json?limit=250",
+    "https://saltycrush.com/cart.js",
+    "https://saltycrush.com/pages/shipping-delivery-information",
+    "https://saltycrush.com/pages/returns-policy",
+    "https://saltycrush.com/pages/help-center",
+    "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
+  ],
+  "notes": [
+    "Homepage (2026-10-29): title 'Salty Crush Women's Clothing & Online Fashion Store'; meta: 'Salty Crush celebrates confidence and individuality... empowers confident women with affordable, size-inclusive fashion.' known_for paraphrases that line; 'boho' comes from the Yahoo Creators source ('one of my favorite boho brands'), so a human may prefer 'Affordable, Size-Inclusive Women's Fashion'.",
+    "hq_country AU: help center names 'Salty Crush Pty Ltd' (an Australian company form), prices in AUD, login region AU; 'All orders ship from our warehouse in Sydney, Australia!'",
+    "Shipping: US Express (AusPost) $10 USD, free over $150 USD, 3–9 business days; US orders of $800+ may incur duties. Canada CAD 30 flat; UK in International ($30 AUD); Australia free standard over $150 AUD.",
+    "Returns: international (incl. US) 30 days from receipt, store credit only (gift card), no exchanges; prepaid label USD 19.95 deducted from credit; Final Sale not returnable; Australia 21 days."
+  ],
+  "checked_at": "2026-10-29"
+}

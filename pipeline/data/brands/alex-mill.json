@@ -1,0 +1,64 @@
+{
+  "slug": "alex-mill",
+  "name": "Alex Mill",
+  "website_url": "https://www.alexmill.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Timeless Uniforms for Individuals",
+  "hq_country": "US",
+  "founded_year": 2012,
+  "parent_company": null,
+  "size_range": "XS–XL; XXS and XXL on some styles",
+  "has_plus": false,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 200,
+  "returns_days": 21,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "sweaters",
+      "currency": "USD",
+      "min": 148.0,
+      "max": 398.0,
+      "min_usd": 148.0,
+      "max_usd": 398.0,
+      "fx_date": null,
+      "item_count": 141,
+      "source_url": "https://www.alexmill.com/collections/sweatshirts-sweaters-womens/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "products.json: 147 listings in the collection; 0 with compare_at above price (sale) and 6 sold out excluded, 0 non-sweaters excluded; 141 regular-price women's sweaters. Low: Odette Sweater Tank In Cotton Cashmere ($148); high: Bordeaux Cardigan in Cashmere ($398). Sweaters + Sweatshirts collection, sweatshirts excluded. Nico Cardigan in Cotton $178; Marais Sweater in Washed Cashmere $298 (100% cashmere, washed for softness); Bordeaux Cardigan in Cashmere $398."
+    }
+  ],
+  "materials": [
+    "Cashmere",
+    "Cotton cashmere",
+    "Merino wool"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.alexmill.com/",
+    "https://www.alexmill.com/meta.json",
+    "https://www.alexmill.com/pages/about",
+    "https://www.alexmill.com/pages/faqs-1",
+    "https://www.alexmill.com/policies/refund-policy",
+    "https://www.alexmill.com/policies/shipping-policy",
+    "https://www.alexmill.com/collections/sweatshirts-sweaters-womens/products.json?limit=250",
+    "https://www.alexmill.com/products/marais-sweater-in-cashmere-in-marled-blush.json"
+  ],
+  "notes": [
+    "About: 'Uniforms for Individuals', 'Timeless, not trendy'; 'We launched Alex Mill back in 2012 with the goal of making the perfect shirt'; co-founder Alex Drexler (https://www.alexmill.com/pages/about). Store address New York, NY (meta.json).",
+    "FAQ: 'We offer free shipping on orders above $200.' Returns 'within 21 days from the date the items are delivered.' Stores: SoHo (77 Mercer St) and Upper East Side (1182 Madison Ave), New York (https://www.alexmill.com/pages/faqs-1).",
+    "Refund policy: 'within 21 days of purchase', unworn with tags, prepaid label (https://www.alexmill.com/policies/refund-policy). Shipping policy lists CA, GB, AU among destinations.",
+    "Sizes on regular-price women's sweaters (products.json): XS, SM, M, LG, XL on 140 of 141; XXL on 12; XXS on 9."
+  ],
+  "checked_at": "2026-10-29"
+}

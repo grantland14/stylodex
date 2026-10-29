@@ -1,0 +1,16 @@
+{
+  "name": "Alphalete",
+  "website_url": "https://alphaleteathletics.com",
+  "status": "unverified",
+  "kind": "brand",
+  "sources": [
+    "https://alphaleteathletics.com/",
+    "https://alphaleteathletics.com/meta.json",
+    "https://alphaleteathletics.com/collections/mens-tops",
+    "https://www.alphalete.com/meta.json"
+  ],
+  "notes": [
+    "2026-10-29: alphaleteathletics.com answered HTTP 403 to both the StylodexBot UA (curl) and WebFetch; not read, no workaround. alphalete.com/meta.json 404. Human check queued on the YoungLA page."
+  ],
+  "checked_at": "2026-10-29"
+}

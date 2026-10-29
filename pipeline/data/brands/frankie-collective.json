@@ -1,0 +1,58 @@
+{
+  "slug": "frankie-collective",
+  "name": "Frankie Collective",
+  "website_url": "https://frankiecollective.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Curated Vintage and Reworks",
+  "hq_country": "CA",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–2XL",
+  "has_plus": false,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 15,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 80.0,
+      "max": 90.0,
+      "min_usd": 80.0,
+      "max_usd": 90.0,
+      "fx_date": null,
+      "item_count": 12,
+      "source_url": "https://frankiecollective.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "12 regular-price dresses of 16 (4 marked down). Mostly reworked sports-team mini dresses made from vintage tees and jerseys, many one size each: Rework Minnesota Twins Mini Dress $90, Rework Dallas Mavericks NBA Mini Dress Tee $89; Vintage Ruched Flounce Dress $80. Store currency USD (cart.js). Most of the store is tops (182 of 250 products by type)."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": "Reworked vintage and deadstock",
+  "sale_pattern": null,
+  "sources": [
+    "https://frankiecollective.com/",
+    "https://frankiecollective.com/collections/dresses/products.json?limit=250",
+    "https://frankiecollective.com/policies/shipping-policy",
+    "https://frankiecollective.com/policies/refund-policy",
+    "https://frankiecollective.com/pages/sustainable-practices",
+    "https://www.eco-stylist.com/is-cider-fast-fashion-are-they-ethical-and-sustainable/"
+  ],
+  "notes": [
+    "Title: 'Frankie Collective | Vintage Finds'. Meta: 'Shop one-of-one hand curated vintage pieces and deadstock collections.'",
+    "Shipping policy: 'All orders ship from our studio in the United States.' US standard 3–7 business days, express 1–3; Canada 7–10; international 7–14. Rates at checkout; no free threshold stated. International orders (incl. Canada) may owe duties.",
+    "Returns: store credit only, requested within 15 days of delivery; customer pays return shipping; archive items final sale.",
+    "hq_country CA rests on Eco-Stylist (Oct 2026): 'upcycles vintage clothing in its own Vancouver workshop and says it pays all workers a living wage'. The brand's own pages read name no HQ, and orders ship from a US studio. Human check advised.",
+    "Partnerships on its own page: Toronto Raptors North Side Crew rework; GREY GOOSE limited 10-piece collection."
+  ],
+  "checked_at": "2026-10-29"
+}

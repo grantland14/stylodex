@@ -1,0 +1,41 @@
+{
+  "slug": "na-kd",
+  "name": "NA-KD",
+  "website_url": "https://www.na-kd.com/en",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Scandinavian Womenswear",
+  "ships_to": [
+    "US"
+  ],
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 49.95,
+      "max": 99.95,
+      "min_usd": 49.95,
+      "max_usd": 99.95,
+      "fx_date": null,
+      "item_count": 36,
+      "source_url": "https://www.na-kd.com/en/category/dresses",
+      "checked_at": "2026-10-29",
+      "note": "Sample: the first 36 of 674 dresses (the sort parameter didn't change the order), all at one price, in USD. Lowest Wool Blend Knitted Cardigan Mini Dress and Wide Sleeve Mini Dress $49.95; highest Sequin Batwing Maxi Dress $99.95."
+    }
+  ],
+  "sources": [
+    "https://www.na-kd.com/",
+    "https://www.na-kd.com/en/category/dresses",
+    "https://www.na-kd.com/en/category/dresses?sortBy=price_desc",
+    "https://www.na-kd.com/en/customer-service",
+    "https://www.na-kd.com/en/about"
+  ],
+  "notes": [
+    "Homepage title 'NA-KD - Women's fashion online'; footer region selector 'United States | English'; copyright 'Nakdcom One World AB'.",
+    "About: 'We're a Scandinavian fashion house shaped by social culture, confident femininity, and contemporary style.' No HQ city or founding year stated, so hq_country is empty.",
+    "Customer service FAQ: NA-KD previously shipped DDP to US customers and now passes on part of the duty charges as a non-refundable flat fee at checkout (amount not stated). Returns: 'We accept returns within 30 days of receiving the package'; a return fee is deducted from the refund.",
+    "Other dresses: Lace Maxi Dress $59.95, Open Back Long Sleeve Maxi Dress $95.95, Draped Mini Dress $75.95."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "allsaints",
+  "name": "AllSaints",
+  "website_url": "https://www.allsaints.com/us",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Leather Jackets, Denim and Knitwear",
+  "ships_to": [
+    "US"
+  ],
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 149,
+      "max": 539,
+      "min_usd": 149,
+      "max_usd": 539,
+      "fx_date": null,
+      "item_count": 136,
+      "source_url": "https://www.allsaints.com/us/women/dresses?srule=price-low-to-high&sz=136",
+      "checked_at": "2026-10-29",
+      "note": "All 136 listings read (some are colourways of one style; one is a shirt). Regular-price items show one price: lowest Ilia Twisted-Back Bodycon Midi Dress and Ellie Asymmetric Knitted Cotton Mini Dress $149, highest Vee Perforated Leather Mini Dress $539. About 40 listings show was/now markdowns and were excluded."
+    }
+  ],
+  "sources": [
+    "https://www.allsaints.com/us",
+    "https://www.allsaints.com/us/women/dresses",
+    "https://www.allsaints.com/us/women/dresses?srule=price-low-to-high&sz=136"
+  ],
+  "notes": [
+    "US homepage title 'ALLSAINTS US Official Site: Menswear, Womenswear & Accessories'; tagline 'The AllSaints wardrobe rebuilt'; Fall 2026 homepage promotes leather jackets, denim, coats and knitwear, with a free standard shipping banner (https://www.allsaints.com/us).",
+    "ships_to US rests on the US storefront (USD prices, /us store, shopping bag). The help-centre delivery and returns pages render no text to WebFetch, so free_shipping_min_usd and returns_days are empty (search snippets say 28-day returns and free standard shipping over $100; not stored, not read from the store).",
+    "Other dresses read: Beril Silk-Blend Maxi Dress $429, Noora Silk-Viscose Mini Dress $299, Fawn Viscose Midi Slip Dress $279, Bryony Polka-dot Viscose Midi Dress $199 (https://www.allsaints.com/us/women/dresses)."
+  ],
+  "checked_at": "2026-10-29"
+}

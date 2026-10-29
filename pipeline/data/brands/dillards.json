@@ -1,0 +1,27 @@
+{
+  "slug": "dillards",
+  "name": "Dillard’s",
+  "website_url": "https://www.dillards.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Department Store With Clearance Centers",
+  "hq_country": "US",
+  "us_stores": true,
+  "sells_categories": [
+    "womens-clothing"
+  ],
+  "ships_to": [],
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "sources": [
+    "https://www.dillards.com/",
+    "https://www.dillards.com/stores",
+    "https://www.dillards.com/c/returns",
+    "https://www.sec.gov/Archives/edgar/data/0000028917/000002891726000024/dds-20260813xex99d1.htm"
+  ],
+  "notes": [
+    "2026-10-29: dillards.com homepage readable (© 2026 Dillard's); nav Women, Juniors, Men, Kids, Shoes, Handbags, Accessories, Lingerie, Home, Beauty, Dillard's Exclusive; 'Sale and Clearance' link. Store finder at /stores (search only, no list). /c/returns gives no terms; shipping terms not found. Dillard's Q2 fiscal 2026 release, August 13, 2026 (https://www.sec.gov/Archives/edgar/data/0000028917/000002891726000024/dds-20260813xex99d1.htm): 'The Company operates 272 Dillard's stores, including 28 clearance centers, spanning 30 states ... and an Internet store at dillards.com.' known_for built from that release; clearance-center locations not listed on dillards.com."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -4,7 +4,7 @@
   "website_url": "https://www.ae.com/us/en",
   "status": "verified",
   "kind": "brand",
-  "known_for": null,
+  "known_for": "Jeans, Clothes and Accessories",
   "hq_country": "US",
   "founded_year": 1977,
   "parent_company": "American Eagle Outfitters, Inc.",
@@ -29,12 +29,19 @@
     "https://en.wikipedia.org/wiki/American_Eagle_Outfitters",
     "https://www.ae.com/us/en",
     "https://www.ae.com/us/en/c/women/bottoms/jeans/cat6430042",
-    "https://www.ae.com/us/en/c/men/bottoms/jeans/cat6430041"
+    "https://www.ae.com/us/en/c/men/bottoms/jeans/cat6430041",
+    "https://www.ae.com/women-jeans/web/s-cat/6430042",
+    "https://www.ae.com/us/en/o/best-jeans-for-women"
   ],
   "notes": [
     "Dresses page (WebFetch, 2026-10-29): header says 129 items, 30 rendered; 29 of the 30 were marked down 31% (one 50%), e.g. 'was $64.95'. Only one listing was at full price (AE77 Crinkle Lace Slip Cami Dress, $148), so no regular-price dress range is stored.",
     "Shipping: free standard shipping on orders of $75 or more to the US; $7.95 under $75. Returns: full refund within 60 days of purchase; online returns $5 (free for Real Rewards Level 3 and cardmembers).",
-    "Wikipedia: headquartered at SouthSide Works, Pittsburgh; founded 1977 by Jerry and Mark Silverman."
+    "Wikipedia: headquartered at SouthSide Works, Pittsburgh; founded 1977 by Jerry and Mark Silverman.",
+    "Homepage title (2026-10-29): 'Men's & Women's Jeans, Clothes & Accessories | American Eagle'; banner 'GIVE. GET. JEANS.'",
+    "Women's Jeans page (https://www.ae.com/women-jeans/web/s-cat/6430042, 2026-10-29): 186 items, 30 tiles rendered, every one marked down 40–50% (e.g. AE Lowest Rise Extra Baggy Jean $44.97, was $74.95; was-prices $59.95–$89.95). No full-price jeans, so no price row. Filters: Fit (Classic, Curvy), rise, stretch level, wash, destruction; Curvy versions of several cuts (AE Curvy Super High-Waisted Baggy Wide-Leg Jean, AE Curvy High-Waisted Stovepipe Jean). Numeric size range not shown (size-chart URL 404)."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "womens-clothing"
+  ]
 }

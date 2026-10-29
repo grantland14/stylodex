@@ -2,29 +2,49 @@
   "slug": "uniqlo",
   "name": "Uniqlo",
   "website_url": "https://www.uniqlo.com/us/en/",
-  "status": "unverified",
+  "status": "verified",
   "kind": "brand",
   "known_for": null,
-  "hq_country": null,
-  "founded_year": null,
-  "parent_company": null,
-  "size_range": null,
+  "hq_country": "JP",
+  "founded_year": 1974,
+  "parent_company": "Fast Retailing",
+  "size_range": "XXS–XL",
   "has_plus": null,
   "has_petite": null,
   "has_tall": null,
-  "ships_to": [],
+  "ships_to": [
+    "US"
+  ],
   "free_shipping_min_usd": null,
   "returns_days": null,
-  "prices": [],
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 59.9,
+      "max": 59.9,
+      "min_usd": 59.9,
+      "max_usd": 59.9,
+      "fx_date": null,
+      "item_count": 2,
+      "source_url": "https://www.uniqlo.com/us/en/women/dresses-and-skirts/dresses",
+      "checked_at": "2026-10-29",
+      "note": "16 dresses listed: 11 labelled Sale ($19.90–$39.90), 2 'Arriving early Nov' (Souffle Yarn Polo Dress $59.90, AIRism Cotton Mini Dress $29.90), 2 at regular price and purchasable (Knitted Polo Dress, Shirt Dress, both $59.90). Range covers those 2."
+    }
+  ],
   "materials": [],
   "certifications": [],
   "production_model": null,
-  "sale_pattern": null,
+  "sale_pattern": "Most dresses marked down",
   "sources": [
-    "https://www.uniqlo.com/us/en/women/dresses-and-jumpsuits"
+    "https://www.uniqlo.com/us/en/women/dresses-and-jumpsuits",
+    "https://www.uniqlo.com/us/en/women/dresses-and-skirts/dresses",
+    "https://en.wikipedia.org/wiki/Uniqlo"
   ],
   "notes": [
-    "https://www.uniqlo.com/us/en/women/dresses-and-jumpsuits returned HTTP 503 to WebFetch on 2026-10-29. Status unverified; nothing else stored."
+    "2026-10-29: the US dresses listing was read by WebFetch (an earlier read of /women/dresses-and-jumpsuits returned 503). Shipping and returns pages not read (FAQ site returned 403 to an earlier run), so free_shipping_min_usd and returns_days stay empty. ships_to US rests on the US storefront (USD, uniqlo.com/us).",
+    "Wikipedia: 'The present Uniqlo Co., Ltd. was established in 1974 as Sun Road Co., Ltd.'; HQ Yamaguchi City, Japan; 'a wholly owned subsidiary of Fast Retailing'; 'In September 2005, Uniqlo entered South Korea, the United States, and Hong Kong.' us_stores true rests on Wikipedia, not a store locator: human check."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "us_stores": true
 }

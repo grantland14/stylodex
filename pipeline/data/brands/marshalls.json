@@ -2,18 +2,27 @@
   "slug": "marshalls",
   "name": "Marshalls",
   "website_url": "https://www.marshalls.com",
-  "status": "unverified",
+  "status": "verified",
   "kind": "retailer",
   "ships_to": [],
   "prices": [],
   "sources": [
     "https://www.marshalls.com/",
     "https://www.marshalls.com/us/store/index.jsp",
-    "https://www.tjx.com/businesses/united-states/marshalls"
+    "https://www.tjx.com/businesses/united-states/marshalls",
+    "https://www.tjx.com/docs/default-source/investor-docs/annual-reports/tjx-2025-annual-report-and-10-k.pdf"
   ],
   "notes": [
     "2026-10-29: marshalls.com/ and /us/store/index.jsp return TJX's 'Something went wrong' page to WebFetch. Human check.",
-    "TJX's Marshalls page: 'acquired by TJX in 1995, joining TJ Maxx to form Marmaxx'; buyers search for 'the best finds in fashion, home, shoes, beauty, and accessories'; 'an expanded men's department' and 'a larger shoe department'; e-commerce site marshalls.com 'launched in 2019'."
+    "TJX's Marshalls page: 'acquired by TJX in 1995, joining TJ Maxx to form Marmaxx'; buyers search for 'the best finds in fashion, home, shoes, beauty, and accessories'; 'an expanded men's department' and 'a larger shoe department'; e-commerce site marshalls.com 'launched in 2019'.",
+    "2026-10-29 (TJ Maxx re-run): marshalls.com still returns TJX's error page. status=verified from TJX's official site (enrich.md §2). TJX 10-K (https://www.tjx.com/docs/default-source/investor-docs/annual-reports/tjx-2025-annual-report-and-10-k.pdf): Marshalls stores at end of fiscal 2026: 1,255 (1,230 a year earlier); both TJ Maxx and Marshalls 'sell family apparel (including footwear), accessories (including beauty and jewelry), home fashions'; Marshalls differentiated by 'a full line of footwear and a broader men's offering'; marshalls.com launched 2019. tjx.com Marshalls page: 'a larger shoe department where you'll find styles for women, men, and kids'; 'Marshalls has stores across the U.S., including Puerto Rico'."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "known_for": "Off-Price Fashion, Shoes and Home",
+  "hq_country": "US",
+  "parent_company": "The TJX Companies, Inc.",
+  "us_stores": true,
+  "sells_categories": [
+    "womens-clothing"
+  ]
 }

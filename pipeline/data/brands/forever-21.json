@@ -46,14 +46,20 @@
     "https://www.forever21.com/",
     "https://www.forever21.com/collections.json?limit=250",
     "https://www.forever21.com/collections/womens-denim/products.json?limit=250",
-    "https://www.forever21.com/collections/mens-denim/products.json?limit=250"
+    "https://www.forever21.com/collections/mens-denim/products.json?limit=250",
+    "https://www.forever21.com/collections/women-bottoms/products.json?limit=250",
+    "https://www.forever21.com/collections/womens-plus-size-denim-jeans/products.json?limit=250"
   ],
   "notes": [
     "Homepage mission: 'LA-born and style-obsessed, we empower self-expression through standout fashion at unbeatable value.' Slogan 'FASHION IS FOR EVERYONE.' Nav includes Dresses and Plus.",
     "Shipping: 'Currently, we ship only to all 50 states of the U.S.' Standard $9.99, free on orders of $50 or more (Forever 21 merchandise); express $20.99.",
     "Returns: refund within 30 days of receipt; $9.99 return shipping fee per return; Final Sale and clearance items non-returnable. Policy pages carry '© 2025 Brands Online, LLC'.",
     "Wikipedia: founded in Los Angeles in 1984; filed Chapter 11 on 17 March 2025 and closed all US stores by 1 May 2025; Authentic Brands Group owns the IP; relaunch announced September 2025 as an online retailer. The page's operator is not named beyond the Brands Online, LLC copyright, so parent_company is empty.",
-    "sale_pattern detail: 92 of 103 dresses were marked down on 2026-10-29; clearance and Final Sale items can't be returned."
+    "sale_pattern detail: 92 of 103 dresses were marked down on 2026-10-29; clearance and Final Sale items can't be returned.",
+    "2026-10-29 (urban-outfitters run, C womens-clothing = women's jeans): no regular-price women's jeans to price. women-bottoms feed: 154 products, 14 jeans/denim, all with a compare-at price above the selling price; womens-denim: 21 products, mostly shorts, tops and jackets, the 4 denim trousers all marked down; womens-plus-size-denim-jeans: 11 products, 3 at full price, all shorts or bikini bottoms. sells_categories womens-clothing rests on the store's own women's bottoms and denim collections; no price row is stored."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "womens-clothing"
+  ]
 }

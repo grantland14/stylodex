@@ -33,6 +33,19 @@
       "source_url": "https://afends.com/collections/womens-dresses/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "44 regular-price, in-stock dresses of 156 (106 marked down, 6 sold out). By title: 22 mini, 18 maxi, 4 midi; many seersucker, plus chambray, knit, mesh and one cupro. Store base currency AUD (cart.js); the site has a US/USD region selector. Converted at ECB 2026-10-28."
+    },
+    {
+      "category": "womens-clothing",
+      "currency": "AUD",
+      "min": 139.99,
+      "max": 159.99,
+      "min_usd": 98.45,
+      "max_usd": 112.52,
+      "fx_date": "2026-10-28",
+      "item_count": 26,
+      "source_url": "https://afends.com/collections/womens-jeans/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: women's jeans. womens-jeans products.json: 26 products, none marked down, AUD 139.99–159.99. Low: AFENDS Womens Marsha Denim Slim Flared Jean (washed black) AUD 139.99; high: AFENDS Womens Alyra Low Rise Wide Leg Jean (authentic blue) AUD 159.99. Store currency AUD (cart.js). USD at ECB 2026-10-28."
     }
   ],
   "materials": [],

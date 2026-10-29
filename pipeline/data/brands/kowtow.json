@@ -1,0 +1,60 @@
+{
+  "slug": "kowtow",
+  "name": "Kowtow",
+  "website_url": "https://us.kowtowclothing.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Certified Organic Cotton Clothing",
+  "hq_country": "NZ",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XXS–XXL",
+  "has_plus": false,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 200,
+  "returns_days": 14,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "sweaters",
+      "currency": "USD",
+      "min": 199.0,
+      "max": 229.0,
+      "min_usd": 199.0,
+      "max_usd": 229.0,
+      "fx_date": null,
+      "item_count": 4,
+      "source_url": "https://us.kowtowclothing.com/collections/knitwear/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "products.json: 21 listings in the collection; 4 with compare_at above price (sale) and 5 sold out excluded, 8 non-sweaters excluded; 4 regular-price women's sweaters. Low: Composure Cardigan ($199); high: Keyhole Jumper ($229). US store (USD). Composure Cardigan $199; Keyhole Jumper $229."
+    }
+  ],
+  "materials": [
+    "Certified organic cotton"
+  ],
+  "certifications": [
+    "Certified organic cotton"
+  ],
+  "production_model": "Ethical from seed to garment",
+  "sale_pattern": null,
+  "sources": [
+    "https://us.kowtowclothing.com/meta.json",
+    "https://nz.kowtowclothing.com/meta.json",
+    "https://us.kowtowclothing.com/collections/knitwear/products.json?limit=250",
+    "https://us.kowtowclothing.com/products/keyhole-jumper-poppy-red.json",
+    "https://us.kowtowclothing.com/policies/refund-policy",
+    "https://us.kowtowclothing.com/policies/shipping-policy"
+  ],
+  "notes": [
+    "Store description: 'Kowtow - Collection & Everyday Basics. Certified Organic Cotton. Ethical From Seed To Garment.'; US store address Wellington, NZ; ships_to_countries US, CA (https://us.kowtowclothing.com/meta.json).",
+    "Shipping: '$10 for orders under $200', 'Free for orders over $200'; 'All orders ship from our United States based warehouse'; US duties and taxes included (https://us.kowtowclothing.com/policies/shipping-policy).",
+    "Returns: 'within 14 days of your order dispatch date', return shipping at your cost, sale items credit or exchange only (https://us.kowtowclothing.com/policies/refund-policy).",
+    "Only 4 of 21 knitwear listings are regular price and in stock (4 sale, 5 sold out, 8 non-sweaters)."
+  ],
+  "checked_at": "2026-10-29"
+}

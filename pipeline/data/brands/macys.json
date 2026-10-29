@@ -1,0 +1,28 @@
+{
+  "slug": "macys",
+  "name": "Macy’s",
+  "website_url": "https://www.macys.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Fashion, Beauty and Home",
+  "hq_country": "US",
+  "parent_company": "Macy’s, Inc.",
+  "us_stores": true,
+  "sells_categories": [
+    "womens-clothing"
+  ],
+  "ships_to": [],
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "sources": [
+    "https://www.macys.com/",
+    "https://www.macysinc.com/company/macys/default.aspx",
+    "https://www.macysinc.com/investors/financials/store--count/default.aspx",
+    "https://www.sec.gov/Archives/edgar/data/794367/000162828026021721/m-20260131.htm"
+  ],
+  "notes": [
+    "2026-10-29: macys.com returns 403 to WebFetch; no workaround tried. status=verified from Macy's, Inc.'s official site and 10-K (enrich.md §2). macysinc.com Macy's page: 'the latest styles in fashion, beauty, home and beyond'; 'market and private brands'; Macy's Backstage 'Off Price, On trend, Arriving Daily', '300+ Macy's Backstage stores nationwide' as 'store-within-store and free-standing shopping experiences'. Store Count page: Macy's 408 locations (incl. furniture stores and fulfillment-center conversions), Macy's Backstage 4 freestanding, 20 small-format. 10-K (https://www.sec.gov/Archives/edgar/data/794367/000162828026021721/m-20260131.htm): Macy's Backstage is an off-price concept; 2025 sales groups include Women's Apparel ($4,764 million). Prices, sizes, shipping, returns not stored (store unreadable)."
+  ],
+  "checked_at": "2026-10-29"
+}
