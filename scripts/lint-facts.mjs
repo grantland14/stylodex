@@ -13,6 +13,8 @@ const NOTE_LIKE = [
   [/;.*;/, "list of 3+ parts"],
 ];
 
+// Brands that anchor a page: their known_for ends the title ("N Brands Like X for {known_for}").
+const anchors = new Set(readdirSync("pipeline/data/pages").filter((x) => x.endsWith(".json")).map((x) => x.replace(/\.json$/, "")));
 const problems = [];
 const check = (slug, field, value) => {
   if (typeof value !== "string" || !value) return;
@@ -23,6 +25,7 @@ for (const f of readdirSync(DIR).filter((x) => x.endsWith(".json"))) {
   const slug = f.replace(/\.json$/, "");
   const b = JSON.parse(readFileSync(join(DIR, f), "utf8"));
   for (const field of FIELDS) check(slug, field, b[field]);
+  if (anchors.has(slug) && /(^|\s)for\s/i.test(b.known_for ?? "")) problems.push(`${slug}.known_for: "for" inside a title suffix`);
   for (const field of LIST_FIELDS) for (const v of b[field] ?? []) check(slug, field, v);
 }
 if (problems.length) {

@@ -30,6 +30,19 @@
       "source_url": "https://www.stussy.com/collections/jeans/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "21 of 21 products in the 'jeans' collection at regular price; Big Ol' Jean, New Classic Jean and Slim Jean at $160, New Classic Jean Denim (python) $165, (cheetah) $200. Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; shorts, jackets and non-denim pants excluded."
+    },
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 130,
+      "max": 195,
+      "min_usd": 130,
+      "max_usd": 195,
+      "fx_date": null,
+      "item_count": 46,
+      "source_url": "https://www.stussy.com/collections/sweats/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Sweats collection feed, 75 products: 46 regular-price in-stock hoodies, none marked down, 7 sold out. Low: Basic Stüssy Hoodie $130; high: Bonded Jersey Zip Hoodie $195. Whole-store feed also carries a Denim Tears Sequin Zip Hoodie collab at $275, not in the range. Sizes S–XXL, XS on most. Regular price = in stock, no variant with compare_at_price above price; hoodie = title says hoodie/hoody, kids, knit, sets and jackets excluded."
     }
   ],
   "sources": [
@@ -37,13 +50,18 @@
     "https://www.stussy.com/policies/shipping-policy",
     "https://www.stussy.com/policies/refund-policy",
     "https://www.stussy.com/collections/jeans/products.json?limit=250",
-    "https://en.wikipedia.org/wiki/St%C3%BCssy"
+    "https://en.wikipedia.org/wiki/St%C3%BCssy",
+    "https://www.stussy.com/collections/sweats/products.json?limit=250"
   ],
   "notes": [
     "2026-10-29 (jnco run): homepage meta 'Authentic Stüssy goods. Made tough for the world. Quality guaranteed. Built for the long haul. Shop tees, sweats, outerwear, headwear, denim'. known_for built from it.",
     "Wikipedia infobox: founded '1980s in Laguna Beach, California' by Shawn Stussy; HQ Irvine, California; owner 'The Sinatra family'; no parent company. founded_year left null (no exact year).",
     "Shipping policy: US standard $9, express $15, free standard over $200 (AK/HI/PR etc. $15/$25). International list from stussy.com covers Latin America and Asia (Brazil, Chile, Mexico, Hong Kong, Singapore…); Canada, UK and Australia are not on it, so ships_to records US only.",
     "Refund policy: 7 days from receiving the shipment, by mail only; flat-rate fee with the prepaid label; no exchanges (return and reorder); collaborations and limited editions final sale.",
-    "Jeans (products.json): waists 26–38, all 100% cotton, non-stretch, unisex. Big Ol' Jean: 'Oversized waist with a relaxed rise', leg opening circumference 18½\" / 47cm (size 32). New Classic Jean: classic fit, straight cut, 14.5oz, 17½\" leg opening circumference."
+    "Jeans (products.json): waists 26–38, all 100% cotton, non-stretch, unisex. Big Ol' Jean: 'Oversized waist with a relaxed rise', leg opening circumference 18½\" / 47cm (size 32). New Classic Jean: classic fit, straight cut, 14.5oz, 17½\" leg opening circumference.",
+    "2026-10-29 (brands-like-named-collective): hoodies priced from the sweats collection feed; see the hoodies price note."
+  ],
+  "sells_categories": [
+    "hoodies"
   ]
 }

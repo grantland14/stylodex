@@ -2,13 +2,13 @@
   "slug": "named-collective",
   "name": "Named Collective",
   "website_url": "https://namedcollective.com",
-  "status": "off_category",
+  "status": "verified",
   "kind": "brand",
-  "known_for": "Independent London Fashion Collective",
+  "known_for": "Rhinestone Hoodies and Tracksuits",
   "hq_country": "GB",
   "founded_year": null,
   "parent_company": null,
-  "size_range": null,
+  "size_range": "XS–3XL",
   "has_plus": null,
   "has_petite": null,
   "has_tall": null,
@@ -20,7 +20,21 @@
   ],
   "free_shipping_min_usd": 250,
   "returns_days": 14,
-  "prices": [],
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "GBP",
+      "min": 75,
+      "max": 130,
+      "min_usd": 99.66,
+      "max_usd": 172.74,
+      "fx_date": "2026-10-28",
+      "item_count": 75,
+      "source_url": "https://namedcollective.com/collections/hoodies/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Hoodies collection feed, 94 products: 75 regular-price in-stock hoodies (no markdowns; 4 sold out, the rest sets/activewear). Low: Curse Sculpt Stretch Zip Hoodie, Envy Snakeskin Slashed Sculpt Stretch Zip Hoodie, Vice Rhinestone Fitted Hoodie £75; high: Dusk Rhinestone Zip Hoodie £130. The same feed read with the store's US market selected (localization=US) gives USD $120–$210 (Dusk Rhinestone Zip Hoodie $210), so US checkout prices run above the ECB conversion. Regular price = in stock, no variant with compare_at_price above price; hoodie = title says hoodie/hoody, kids, knit, sets and jackets excluded."
+    }
+  ],
   "materials": [],
   "certifications": [],
   "production_model": null,
@@ -33,13 +47,23 @@
     "https://namedcollective.com/pages/returns-exchanges-1",
     "https://namedcollective.com/pages/sizing",
     "https://namedcollective.com/collections/denim/products.json?limit=250",
-    "https://namedcollective.com/collections/jeans/products.json?limit=250"
+    "https://namedcollective.com/collections/jeans/products.json?limit=250",
+    "https://namedcollective.com/collections/hoodies/products.json?limit=250",
+    "https://namedcollective.com/products.json?limit=250&page=1",
+    "https://namedcollective.com/cart.js",
+    "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
   ],
   "notes": [
     "BORDERLINE. It sells hoodies, sweatpants and tracksuit sets, but its own positioning ('Independent fashion label'; About: 'a London-based independent collective') never says streetwear, and neither did the fetched hoodies page. A WebSearch summary claimed some category pages call pieces streetwear, but that wasn't fetched. Off_category under this run's rule; a human may override.",
     "GBP store (hoodies £90–£125); us.namedcollective.com 301-redirects to the main site. No USD prices, so none are stored.",
     "Returns: 14 days for US orders; the page says 'UK orders', which looks like a typo. International orders get 21 days. Size charts are images, so no sizes were read.",
-    "2026-10-29 re-check for C = jeans: stays off_category. /collections/denim serves 1 product (sweatpants) and /collections/jeans serves none."
+    "2026-10-29 re-check for C = jeans: stays off_category. /collections/denim serves 1 product (sweatpants) and /collections/jeans serves none.",
+    "2026-10-29 re-judge under enrich.md §2 (status is shared, never a category miss): live and selling clothing today, so verified, not off_category. Whole-store feed (https://namedcollective.com/products.json, 376 products): HOODIE 108, SWEATPANTS 74, TOPS 48, BIKINI 32, SHORTS 28; nav leads 'TRACKSUIT SETS HOODIES SWEATPANTS'. About page: 'London-based independent collective… co-creating the future of leisurewear. Unapologetic designs emblazoned with rhinestones and bold graphics' (https://namedcollective.com/pages/about-us). known_for overwritten from 'Independent London Fashion Collective' to that positioning (it feeds the page title).",
+    "Sizes from hoodie variants: XS, S/M, L/XL, 2XL/3XL on most styles; some in single sizes S–2XL. size_range XS–3XL.",
+    "US delivery (https://namedcollective.com/pages/delivery-1): free tracked over $250, else $8 tracked 2–5 days. Returns (https://namedcollective.com/pages/returns-exchanges-1): 14 days for US orders; free return label for exchanges and store credit. Store country selector lists United States (USD $)."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "hoodies"
+  ]
 }

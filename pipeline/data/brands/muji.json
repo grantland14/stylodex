@@ -30,6 +30,19 @@
       "source_url": "https://www.muji.us/collections/mens-t-shirts/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "All 36 men's T-shirt listings are at regular price (no compare-at). Lowest Jersey Crewneck T-Shirt $14.90; Cotton Jersey Crewneck T-Shirt $19.90 (pre-washed organic cotton jersey); Heavyweight Cotton T-Shirt $29.90; Loopwheel Cotton T-Shirt $40; highest Loopwheel Cotton Long Sleeve T-Shirt $60. Sizes XS–XL on 35 of 36, XXL on 3."
+    },
+    {
+      "category": "bags",
+      "currency": "USD",
+      "min": 2.0,
+      "max": 119.9,
+      "min_usd": 2.0,
+      "max_usd": 119.9,
+      "fx_date": null,
+      "item_count": 47,
+      "source_url": "https://www.muji.us/collections/bags/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Bags collection products.json, 112 listings: 1 marked down and 23 sold out excluded, 41 organisers, cases, pouches, laptop bags, Boston bags, wallets and straps excluded; 47 regular-price bags, median $19.90. Low: Cotton My Bag Small B5 $2; Jute Bag Medium $4; Cotton My Bag XL $7.90; Polypropylene Sheet Tote $7.90; Water Repellent Shoulder Bag $24.90 (recycled polyester); Recycled Wide Strap Shoulder Bag $49.90; Less Tiring Water Repellent Backpack from $39.90; high: Tanned Leather Shoulder Bag $119.90. Like-for-like: carry bags at regular price, in stock (reusable/shopping bags, totes, shoulder and crossbody bags, belt/hip bags, backpacks); luggage, duffels and weekenders, pouches, organisers, wallets, straps, charms, lunch boxes excluded."
     }
   ],
   "materials": [
@@ -41,7 +54,8 @@
     "https://www.muji.us/pages/shipment",
     "https://www.muji.us/pages/return-policy",
     "https://www.muji.us/pages/store-information",
-    "https://en.wikipedia.org/wiki/Muji"
+    "https://en.wikipedia.org/wiki/Muji",
+    "https://www.muji.us/collections/bags/products.json?limit=250"
   ],
   "notes": [
     "Shipping (https://www.muji.us/pages/shipment): US standard 7–10 business days, $9 up to $39.99, $15 for $40–$79.99, free from $80 (free from $50 to CA, WA, TX, FL, IL, VA, PA and DC); Alaska and Hawaii +$25. International via Global-E to Canada (Quebec only; other provinces use muji.ca), Mexico and Latin America.",
@@ -49,8 +63,12 @@
     "Stores (https://www.muji.us/pages/store-information): 15 US stores listed (11 NY, 3 MA, 1 OR), two marked coming soon.",
     "Wikipedia: founded 1980; HQ Tokyo, Japan; run by Ryohin Keikaku; known for simple, unbranded goods (Mujirushi Ryohin, 'no-brand quality goods').",
     "ships_to is US only: muji.us ships to Canada only for Quebec (other provinces use muji.ca) and to Mexico and Latin America via Global-E.",
-    "Wikipedia: founded 1980; HQ Tokyo, Japan; run by Ryohin Keikaku; known for simple, unbranded goods (run by Ryohin Keikaku, doing business as Mujirushi Ryōhin)."
+    "Wikipedia: founded 1980; HQ Tokyo, Japan; run by Ryohin Keikaku; known for simple, unbranded goods (run by Ryohin Keikaku, doing business as Mujirushi Ryōhin).",
+    "Bags (2026-10-29): Jute Bag Medium 'The perfect bag for holding groceries or running errands', folds down thinly; Cotton My Bag XL 'Use and reuse this cotton bag'; Water Repellent Shoulder Bag 'Made using recycled polyester, it has a water repellent finish' (https://www.muji.us/collections/bags/products.json?limit=250)."
   ],
   "checked_at": "2026-10-29",
-  "slug": "muji"
+  "slug": "muji",
+  "sells_categories": [
+    "bags"
+  ]
 }

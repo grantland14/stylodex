@@ -1,0 +1,61 @@
+{
+  "slug": "state-bags",
+  "name": "STATE Bags",
+  "website_url": "https://statebags.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Backpacks That Give Back",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Kids ages 2 and up to adult bags",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 200,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "bags",
+      "currency": "USD",
+      "min": 98.0,
+      "max": 198.0,
+      "min_usd": 98.0,
+      "max_usd": 198.0,
+      "fx_date": null,
+      "item_count": 42,
+      "source_url": "https://statebags.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Full store products.json, 247 listings (STATE has no single bags collection): kept product types Bag, Bags > Adults > Totes/Crossbodies/Backpacks/Beach Bag/Fanny Packs/Diaper Bags and Bags > Kids > Backpacks; 4 marked down and 1 sold out excluded, lunch boxes, pencil cases, toiletry kits, luggage, duffels, straps, charms and organisers excluded; 42 regular-price bags, median $123. Low: Georgia Phone Sling, Luna Mini Crossbody and Kane Backpack (kids) $98; Graham Tote $128; high: Lenox Backpack and Beverly Tote $198. Like-for-like: carry bags at regular price, in stock (reusable/shopping bags, totes, shoulder and crossbody bags, belt/hip bags, backpacks); luggage, duffels and weekenders, pouches, organisers, wallets, straps, charms, lunch boxes excluded."
+    }
+  ],
+  "materials": [
+    "Partly recycled materials"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "bags"
+  ],
+  "sources": [
+    "https://statebags.com/meta.json",
+    "https://statebags.com/products.json?limit=250",
+    "https://statebags.com/policies/refund-policy",
+    "https://statebags.com/pages/faq",
+    "https://statebags.com/pages/our-story",
+    "https://statebags.com/pages/about"
+  ],
+  "notes": [
+    "Store meta: STATE Bags, New York, USD; 'STATE designs fashionable bags for school, travel, work & play' (https://statebags.com/meta.json). 'These Brooklyn-based social entrepreneurs'; 'For every bag purchased, STATE supports American children and families in need' (https://statebags.com/pages/our-story, https://statebags.com/pages/about). Product pages: Kane Backpack, 'our best-selling kids' backpack', recommended kindergarten to third grade, 45% recycled materials; Luna Mini Crossbody 90% recycled (products.json).",
+    "Shipping free on orders over $200, otherwise $11.50 economy (https://statebags.com/pages/faq). Returns within 30 days of delivery, unused with tags; $5 return shipping fee deducted; original shipping non-refundable (https://statebags.com/policies/refund-policy)."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "evisu",
+  "name": "Evisu",
+  "website_url": "https://us.evisu.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Japanese Denim With Painted Seagulls",
+  "hq_country": "JP",
+  "founded_year": 1991,
+  "parent_company": null,
+  "size_range": "XS–XXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 330,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 129,
+      "max": 335,
+      "min_usd": 129,
+      "max_usd": 335,
+      "fx_date": null,
+      "item_count": 17,
+      "source_url": "https://us.evisu.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US-store whole feed (1,050 products; no hoodie collection handle). 17 regular-price in-stock adult hoodies (11 marked down, 3 sold out; Kizzu kids items excluded). Low: Leopard Multi-Pocket Zip-Up Hoodie $129; Leopard Head Camouflage Zip-Up Hoodie $155; Seagull Print Relax Fit Hoodie $195; high: Reversible Plaid Fluorescent Daicock Zip-Up Hoodie $335. Sizes S–XXL, XS on 2. Regular price = in stock, no variant with compare_at_price above price; hoodie = title says hoodie/hoody, kids, knit, sets and jackets excluded."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://us.evisu.com/products.json?limit=250",
+    "https://us.evisu.com/cart.js",
+    "https://us.evisu.com/pages/about-us",
+    "https://us.evisu.com/policies/shipping-policy",
+    "https://us.evisu.com/policies/refund-policy",
+    "https://en.wikipedia.org/wiki/Evisu"
+  ],
+  "notes": [
+    "About (https://us.evisu.com/pages/about-us): 'EVISU was founded in Osaka Japan in 1991… Initially only around 14 pairs of jeans a day were created, each one caringly hand-painted with the now famous seagull logo.' Wikipedia: headquarters Osaka.",
+    "US store: 'FREE SHIPPING ON ORDERS OVER USD 330'; duties and taxes calculated at checkout. Refund policy: return within 14 days of receipt, original-price orders only. evisu.com redirects US visitors to us.evisu.com."
+  ],
+  "checked_at": "2026-10-29"
+}

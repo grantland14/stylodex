@@ -1,0 +1,56 @@
+{
+  "slug": "herschel-supply-co",
+  "name": "Herschel Supply Co.",
+  "website_url": "https://herschel.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Classic Backpacks and Bags",
+  "hq_country": "CA",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "2L hip packs to 36L backpacks",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "bags",
+      "currency": "USD",
+      "min": 40.0,
+      "max": 200.0,
+      "min_usd": 40.0,
+      "max_usd": 200.0,
+      "fx_date": null,
+      "item_count": 60,
+      "source_url": "https://herschel.com/collections/bags/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US store products.json, 143 listings: 29 marked down and 10 sold out excluded, 44 duffels, weekenders, golf, kids/youth, travel and luggage pieces excluded; 60 regular-price bags, median $90. Low: Ultralight Hip Pack 2L $40; Herschel Heritage Crossbody Twill $45; Herschel Classic Large Tote Twill $50; Nylon Herschel Heritage Tote $100; Herschel Little America Backpack $140; high: All Season Pro Backpack 36L $200. Like-for-like: carry bags at regular price, in stock (reusable/shopping bags, totes, shoulder and crossbody bags, belt/hip bags, backpacks); luggage, duffels and weekenders, pouches, organisers, wallets, straps, charms, lunch boxes excluded."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "bags"
+  ],
+  "sources": [
+    "https://herschel.com/meta.json",
+    "https://herschel.com/collections/bags/products.json?limit=250",
+    "https://herschel.com/policies/shipping-policy",
+    "https://herschel.com/policies/refund-policy",
+    "https://herschel.com/pages/about-us",
+    "https://herschel.com/pages/warranty"
+  ],
+  "notes": [
+    "About: named after a small town in Saskatchewan; 'we based our brand in Vancouver, British Columbia'; 'We design classic products that combine style, quality and purpose' (https://herschel.com/pages/about-us). US store is Herschel Supply Co. USA, New York, USD, ships to the US only (https://herschel.com/meta.json).",
+    "Free ground shipping on orders over $75; 30 days from delivery to return unused items, minus a flat $5 return-processing fee; exchanges free; final-sale items not returnable (https://herschel.com/policies/refund-policy, https://herschel.com/policies/shipping-policy). Limited Lifetime Warranty on bags, accessories and luggage (https://herschel.com/pages/warranty)."
+  ],
+  "checked_at": "2026-10-29"
+}

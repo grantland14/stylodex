@@ -1,0 +1,55 @@
+{
+  "slug": "a-p-c",
+  "name": "A.P.C.",
+  "website_url": "https://www.apc-us.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Designer Denim to Streetwear",
+  "hq_country": "FR",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Mini bags to large totes",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "bags",
+      "currency": "USD",
+      "min": 145.0,
+      "max": 895.0,
+      "min_usd": 145.0,
+      "max_usd": 895.0,
+      "fx_date": null,
+      "item_count": 125,
+      "source_url": "https://www.apc-us.com/collections/women-bags/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US store women's bags products.json, 143 listings: 0 marked down, 18 sold out excluded; 125 regular-price bags, median $550. Low: Laure Tote Bag $145 (Japanese denim); Jade Tote Bag $190 (cotton or denim, 40 x 25 x 14 cm); Diane Shopping Bag $215 (water-repellent cotton poplin); Recuperation Shopping Bag $345; high: Grace Bag $895. Like-for-like: carry bags at regular price, in stock (reusable/shopping bags, totes, shoulder and crossbody bags, belt/hip bags, backpacks); luggage, duffels and weekenders, pouches, organisers, wallets, straps, charms, lunch boxes excluded."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "bags"
+  ],
+  "sources": [
+    "https://www.apc-us.com/meta.json",
+    "https://www.apc-us.com/collections/women-bags/products.json?limit=250",
+    "https://www.apc-us.com/policies/shipping-policy",
+    "https://www.apc-us.com/policies/refund-policy"
+  ],
+  "notes": [
+    "US store meta: A.P.C., New York, USD (https://www.apc-us.com/meta.json). Shipping: delivers within the United States and Canada only, with store pick-up as an option; sales in France, Japan or the EU go through other country sites (https://www.apc-us.com/policies/shipping-policy). Product copy: Recuperation Shopping Bag carries the 'A.P.C. rue madame Paris' logo (products.json). hq_country FR from the Paris-addressed brand and its French country site; no About page read.",
+    "Returns: 14 days from receipt for full-price and eligible sale items; every return label carries a $10 restock fee; returns in store possible (https://www.apc-us.com/policies/refund-policy). us_stores true: shipping policy offers 'store pick-up' at its stores."
+  ],
+  "checked_at": "2026-10-29"
+}

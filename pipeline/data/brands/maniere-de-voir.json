@@ -43,6 +43,19 @@
       "source_url": "https://us.manieredevoir.com/collections/womens-jeans/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "collection \"Women's Jeans & Denim\": 31 jeans, none on sale; wide, straight and flared cuts; sizes US 0–12"
+    },
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 125,
+      "max": 260,
+      "min_usd": 125,
+      "max_usd": 260,
+      "fx_date": null,
+      "item_count": 36,
+      "source_url": "https://us.manieredevoir.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Whole US-store feed (1,502 products; no hoodie collection serves more than 13). 36 regular-price in-stock hoodies, none marked down. Low: Josiane Relaxed Zip Through Hoodie $125; high: Cropped Suede Hoodie $260; Ollie Unisex Whipstitch Raglan Effect Zip Hoodie $245. Sizes XXS–XXL. Regular price = in stock, no variant with compare_at_price above price; hoodie = title says hoodie/hoody, kids, knit, sets and jackets excluded."
     }
   ],
   "materials": [],
@@ -54,7 +67,8 @@
     "https://us.manieredevoir.com/collections/womens-new-in",
     "https://www.manieredevoir.com/pages/about-us",
     "https://us.manieredevoir.com/collections/womens-jeans/products.json?limit=250",
-    "https://us.manieredevoir.com/policies/refund-policy"
+    "https://us.manieredevoir.com/policies/refund-policy",
+    "https://us.manieredevoir.com/products.json?limit=250"
   ],
   "notes": [
     "About: 'bridge the gap between high fashion and the high street'; founder and CEO Reece Wabara; founded 2013; head office SoHo, New York. It doesn't call itself streetwear, so off_category.",
@@ -63,7 +77,11 @@
     "size_range is from the jeans variants (US 0–12), not a size guide.",
     "size_range detail: Women's jeans US 0–12",
     "production_model detail: Each piece designed by an in-house design team from sketch to sample (About)",
-    "2026-10-29 (brands-like-minga-london run): US women's jeans feed re-read, unchanged: 31 regular-price jeans $155–$200, sizes US 0–12."
+    "2026-10-29 (brands-like-minga-london run): US women's jeans feed re-read, unchanged: 31 regular-price jeans $155–$200, sizes US 0–12.",
+    "2026-10-29 (brands-like-named-collective): hoodies $125–$250ish range read from the US feed; see price note."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "hoodies"
+  ]
 }

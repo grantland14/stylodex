@@ -1,0 +1,62 @@
+{
+  "slug": "sans-beast",
+  "name": "Sans Beast",
+  "website_url": "https://sansbeast.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Premium Vegan Handbags",
+  "hq_country": "AU",
+  "founded_year": 2017,
+  "parent_company": null,
+  "size_range": "Mini crossbodies to Xtra totes",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 7,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "bags",
+      "currency": "AUD",
+      "min": 79.0,
+      "max": 449.0,
+      "min_usd": 55.56,
+      "max_usd": 315.77,
+      "fx_date": "2026-10-28",
+      "item_count": 46,
+      "source_url": "https://sansbeast.com/collections/shop-all/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Shop-all products.json (AUD), 92 listings: 4 marked down excluded; straps, pouches, wallets, keyrings and packaging excluded; 46 regular-price handbags, totes, crossbodies and backpacks, median AU$339 (about $238). Low: Xtra Overflow Tote AU$79 (about $56, 16oz cotton canvas); Zippy Overflow Tote AU$89; Mini Sanctuary AU$199 (about $140); Cute-ility Handbag AU$329 (about $231); high: Rendezvous Tote AU$449 (about $316). USD at ECB 2026-10-28 (1.1133 USD and 1.5830 AUD per EUR). Like-for-like: carry bags at regular price, in stock (reusable/shopping bags, totes, shoulder and crossbody bags, belt/hip bags, backpacks); luggage, duffels and weekenders, pouches, organisers, wallets, straps, charms, lunch boxes excluded."
+    }
+  ],
+  "materials": [
+    "Recycled synthetics",
+    "Bio-based fabrics"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "bags"
+  ],
+  "sources": [
+    "https://sansbeast.com/meta.json",
+    "https://sansbeast.com/collections/shop-all/products.json?limit=250",
+    "https://sansbeast.com/policies/refund-policy",
+    "https://sansbeast.com/policies/shipping-policy",
+    "https://sansbeast.com/pages/about",
+    "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
+  ],
+  "notes": [
+    "Store meta: Sans Beast, Brunswick, Victoria, Australia, AUD; 'premium vegan bags and accessories'; Shopify shipping zones include US, CA, GB, AU and 51 more (https://sansbeast.com/meta.json). About: established by Cathryn Wills in May 2017, launched March 2018; 'Sans = without. Beast = animal'; uses recycled synthetic materials and bio-based or partially bio-based fabrics (https://sansbeast.com/pages/about).",
+    "Returns: must be initiated by email within 7 days of receiving the item and returned within 14 days of the order date, unused with tags and dust bag; refund less original shipping; return shipping paid by the customer (https://sansbeast.com/policies/refund-policy). The shipping policy page gives no US rates or free-shipping threshold for the US (free AU/NZ shipping over AU$249) (https://sansbeast.com/policies/shipping-policy)."
+  ],
+  "checked_at": "2026-10-29"
+}

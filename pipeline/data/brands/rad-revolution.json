@@ -1,0 +1,59 @@
+{
+  "slug": "rad-revolution",
+  "name": "Rad Revolution",
+  "website_url": "https://www.radrevshop.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Nylon Cloud Bags and Backpacks",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Baby Cloud to Mega Cloud",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "bags",
+      "currency": "USD",
+      "min": 40.0,
+      "max": 155.0,
+      "min_usd": 40.0,
+      "max_usd": 155.0,
+      "fx_date": null,
+      "item_count": 11,
+      "source_url": "https://www.radrevshop.com/collections/bags/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Bags collection products.json: 31 listings, 2 marked down and 3 sold out excluded, 15 pouches, wristlets, straps, keychains and duffels excluded; 11 regular-price bags, median $55. Low: Clear Boxy Tote $40; Cinch Backpack $55; Baby Cloud $60; Mega Cloud $68 (nylon, about 15 x 11 x 6 in, clips over a stroller); Iconic $78; high: the 1 Full Size $155. Across the full store feed (https://www.radrevshop.com/products.json?limit=250) regular-price bags run $40–$155. Like-for-like: carry bags at regular price, in stock (reusable/shopping bags, totes, shoulder and crossbody bags, belt/hip bags, backpacks); luggage, duffels and weekenders, pouches, organisers, wallets, straps, charms, lunch boxes excluded."
+    }
+  ],
+  "materials": [
+    "Nylon"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": "Discounted items are final sale",
+  "sells_categories": [
+    "bags"
+  ],
+  "sources": [
+    "https://radrevolutionkids.com/meta.json",
+    "https://www.radrevshop.com/collections/bags/products.json?limit=250",
+    "https://www.radrevshop.com/products.json?limit=250",
+    "https://www.radrevshop.com/policies/shipping-policy",
+    "https://www.radrevshop.com/pages/returns-exchanges",
+    "https://www.radrevshop.com/pages/about"
+  ],
+  "notes": [
+    "Store meta: Rad Revolution, Lake Stevens, Washington, USD, 'Bags that aren't boring', ships to CA and US (https://radrevolutionkids.com/meta.json, redirects to radrevshop.com). About: designer-owner Mallory started the brand 'to provide moms with high quality, gender neutral baby items that will last'; 'We manufacture across the world' (https://www.radrevshop.com/pages/about).",
+    "Free US shipping over $75; ships via USPS from the Seattle area. Returns: unused bags within 30 days of delivery, for shop credit only (no refunds); discounted items final sale; a $15 damage fee if poorly packed and 50% store-credit deduction for signs of use; limit 5 returns a year (https://www.radrevshop.com/pages/returns-exchanges). Mega Cloud: 'Made from your favorite nylon cloud material', water-bottle side pockets, buckle strap to clip over a stroller (products.json)."
+  ],
+  "checked_at": "2026-10-29"
+}

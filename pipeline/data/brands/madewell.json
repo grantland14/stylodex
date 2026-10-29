@@ -59,6 +59,19 @@
       "source_url": "https://www.madewell.com/womens/clothing/jeans/",
       "checked_at": "2026-10-29",
       "note": "Same page and day as the womens-clothing entry (48 of 89 tiles served: 44 at $148, 2 at $158, 1 at $168, 1 at $198). The hollister run read 36 tiles at https://www.madewell.com/womens/clothing/jeans, all full price, $148–$158. No markdowns; 'Up to 30% off with code REFRESH' is a promo code, not a markdown. About page (https://www.madewell.com/c/about-madewell/, read 2026-10-29): calls Madewell a 'premium denim brand' whose 'story begins with denim'; 'Introduced in 2006'; Denim Atelier one-on-one fit and tailoring, free in-store hemming for Insiders."
+    },
+    {
+      "category": "bags",
+      "currency": "USD",
+      "min": 118.0,
+      "max": 298.0,
+      "min_usd": 118.0,
+      "max_usd": 298.0,
+      "fx_date": null,
+      "item_count": 15,
+      "source_url": "https://www.madewell.com/womens/accessories/bags",
+      "checked_at": "2026-10-29",
+      "note": "Read with WebFetch: the page says 64 products but the rendered text showed 16 bags (15 with a visible price), so this range covers 15 of 64. No crossed-out or sale prices among them ('Up to 30% off with code REFRESH' is a promo code, not a markdown). Low: The Signature Woven Wallet Crossbody $118; The Maren Shoulder Bag $128; The Structured Flap Shoulder Bag $128; The Ellis Small Shopper Tote $148; The Shopper Tote $198; high: The Lexington Overnighter Zip Tote $298. Median of the 15: $198. Like-for-like: carry bags at regular price, in stock (reusable/shopping bags, totes, shoulder and crossbody bags, belt/hip bags, backpacks); luggage, duffels and weekenders, pouches, organisers, wallets, straps, charms, lunch boxes excluded."
     }
   ],
   "materials": [],
@@ -79,7 +92,8 @@
     "https://www.madewell.com/shipping-and-returns.html",
     "https://www.madewell.com/size-charts.html",
     "https://www.madewell.com/dresses-SizeChart.html",
-    "https://www.madewell.com/c/about-madewell/"
+    "https://www.madewell.com/c/about-madewell/",
+    "https://www.madewell.com/womens/accessories/bags"
   ],
   "notes": [
     "kind=retailer: besides its own label, the 'Labels We Love' directory ('Exclusive collabs and favorite finds from around the world') lists 37 outside labels, including Birkenstock, Veja, New Balance, Teva, Onitsuka Tiger, Golde and Clem Swimwear.",
@@ -87,7 +101,11 @@
     "Shipping: no order-value threshold. Free Economy/Standard shipping only for signed-in Madewell Insider members (continental US); non-members pay $5 Economy (10 business days) or $7 Standard (6 business days). So free_shipping_min_usd is left empty. Ships to 100+ countries via ESW, including Canada, the UK and Australia (International Orders page).",
     "Returns: within 30 days of the original purchase; free US exchange label. Return fee not stated on the captured page.",
     "Sizes: size chart page says 'Women's Plus sizes (14W–24W / 1X–3X), Petite, and Tall options across denim, tops, and dresses'; jeans guide confirms Petite (5'3\" and shorter), Tall (5'9\" and taller), Curvy and Plus fits; availability varies by style. Full numeric range not readable (charts are images).",
-    "Parent/HQ: the Wikipedia Madewell URL returned J.Crew Group content ('J.Crew Group, Inc., is an American multi-brand, multi-channel, specialty retailer', HQ 225 Liberty Street, New York City). hq_country US from that; founded_year left empty (the year shown, 1947, is J.Crew Group's)."
+    "Parent/HQ: the Wikipedia Madewell URL returned J.Crew Group content ('J.Crew Group, Inc., is an American multi-brand, multi-channel, specialty retailer', HQ 225 Liberty Street, New York City). hq_country US from that; founded_year left empty (the year shown, 1947, is J.Crew Group's).",
+    "Bags (2026-10-29): bags listing shows 64 products; WebFetch rendered 16, $118–$298 at regular price (https://www.madewell.com/womens/accessories/bags)."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "bags"
+  ]
 }

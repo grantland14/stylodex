@@ -85,6 +85,19 @@
       "source_url": "https://everlane.com/collections/mens-tshirts/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "Pages 1–2 of the men's tees collection (500 listings, one per colour): 33 at regular price, 333 tee listings marked down only. Excluding fleece pullovers and polos: The Essential Organic Crew and V-Neck Tee $34 (100% OCS-certified organic cotton), Archive Cotton Crew $38, Essential Organic Long-Sleeve Tee $48, Thermal Crew in Cozy Waffle $78, highest Thermal Henley in Cozy Waffle $88. Sizes XS–XXL on nearly all."
+    },
+    {
+      "category": "bags",
+      "currency": "USD",
+      "min": 98.0,
+      "max": 350.0,
+      "min_usd": 98.0,
+      "max_usd": 350.0,
+      "fx_date": null,
+      "item_count": 26,
+      "source_url": "https://everlane.com/collections/womens-bags/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Women's bags products.json, 57 listings: 5 marked down and 22 sold out excluded (all Recycled Nylon Tote, Crossbody and Camera Bag colourways are sold out or marked down), 4 weekenders, duffles and cases excluded; 26 regular-price bags, median $228. Low: The ReNew Transit Backpack $98; The Canvas Backpack $138; Canvas Mini Lug Tote $168; The Mini Studio Bag from $198; Canvas Lug Tote $228; high: The Studio Bag $350. Like-for-like: carry bags at regular price, in stock (reusable/shopping bags, totes, shoulder and crossbody bags, belt/hip bags, backpacks); luggage, duffels and weekenders, pouches, organisers, wallets, straps, charms, lunch boxes excluded."
     }
   ],
   "materials": [],
@@ -110,7 +123,8 @@
     "https://everlane.com/meta.json",
     "https://everlane.com/collections/mens-tshirts/products.json?limit=250",
     "https://everlane.com/collections/mens-tshirts/products.json?limit=250&page=2",
-    "https://www.everlane.com/collections/womens-jeans/products.json?limit=250&page=1"
+    "https://www.everlane.com/collections/womens-jeans/products.json?limit=250&page=1",
+    "https://everlane.com/collections/womens-bags/products.json?limit=250"
   ],
   "notes": [
     "About page footer: 'Clean Luxury. Better For You.'; the page also describes 'Radical Transparency' as revealing 'the true costs behind all of our products.'",
@@ -119,7 +133,11 @@
     "International page lists the United States, Canada, the United Kingdom and Australia among destinations.",
     "Wikipedia: headquartered in San Francisco (move to Los Angeles announced April 2026); founded 2010 by Michael Preysman and Jesse Farmer; Shein agreed to acquire it in May 2026.",
     "production_model detail: Partners with ethical factories it audits (fair wages, reasonable hours, environment) and publishes the cost of materials, labor and transport ('Radical Transparency') (About page)",
-    "2026-10-29 (gap page run): women's jeans products.json (3 pages), 69 regular-price jeans: waist sizes 23–33 on 62 styles, 34–35 on 6, and 'L' (long) versions of 23–33 on 8. So jeans waists run 23–35; size_range's 00–16 isn't traced to jeans."
+    "2026-10-29 (gap page run): women's jeans products.json (3 pages), 69 regular-price jeans: waist sizes 23–33 on 62 styles, 34–35 on 6, and 'L' (long) versions of 23–33 on 8. So jeans waists run 23–35; size_range's 00–16 isn't traced to jeans.",
+    "Bags (2026-10-29): The ReNew Transit Backpack ($98) has a 15-inch exterior laptop pocket and a pass-through strap for rolling luggage; Canvas Mini Lug Tote ($168) comes with a long strap for shoulder or crossbody wear (https://everlane.com/collections/womens-bags/products.json?limit=250)."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "bags"
+  ]
 }

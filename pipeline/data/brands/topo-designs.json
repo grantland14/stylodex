@@ -1,0 +1,62 @@
+{
+  "slug": "topo-designs",
+  "name": "Topo Designs",
+  "website_url": "https://topodesigns.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Durable Outdoor Packs and Bags",
+  "hq_country": "US",
+  "founded_year": 2008,
+  "parent_company": null,
+  "size_range": "Belt bags to full-size backpacks",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 30,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "bags",
+      "currency": "USD",
+      "min": 39.0,
+      "max": 199.0,
+      "min_usd": 39.0,
+      "max_usd": 199.0,
+      "fx_date": null,
+      "item_count": 51,
+      "source_url": "https://topodesigns.com/collections/bags/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "products.json, 221 listings (one per colour): 63 marked down and 8 sold out excluded, 99 duffels, travel bags, organisers, dopp kits, briefcases, bike and clip bags excluded; 51 regular-price backpacks, crossbody bags, hip packs and totes, median $59. Low: Ripstop Belt Bag $39; Mini Shoulder Bag $49; Mountain Waist Pack $54; Block Bag (3.5L) $69; high: Topo Designs x Toyota Rover Trail Pack $199. Like-for-like: carry bags at regular price, in stock (reusable/shopping bags, totes, shoulder and crossbody bags, belt/hip bags, backpacks); luggage, duffels and weekenders, pouches, organisers, wallets, straps, charms, lunch boxes excluded."
+    }
+  ],
+  "materials": [
+    "Recycled nylon",
+    "Organic cotton"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "bags"
+  ],
+  "sources": [
+    "https://topodesigns.com/meta.json",
+    "https://topodesigns.com/collections/bags/products.json?limit=250",
+    "https://topodesigns.com/policies/refund-policy",
+    "https://topodesigns.com/pages/about-us",
+    "https://topodesigns.com/pages/our-retail-stores",
+    "https://topodesigns.com/pages/warranty-and-repairs"
+  ],
+  "notes": [
+    "About: in 2008 Jedd Rose began sewing packs in his Fort Collins basement; co-founder Mark Hansen; uses 'materials like organic cotton and recycled nylons' (https://topodesigns.com/pages/about-us). Store meta: Denver, Colorado, USD (https://topodesigns.com/meta.json).",
+    "Free US shipping on $100+; returns of unused items within 30 days for a refund (https://topodesigns.com/policies/refund-policy). Stores: Denver Flagship, Denver Base Camp, Fort Collins, Hayes Valley San Francisco (https://topodesigns.com/pages/our-retail-stores). 'Reasonable lifetime warranty against defects in materials and workmanship' on gear (https://topodesigns.com/pages/warranty-and-repairs). Mini Shoulder Bag: strap removes or wraps through back loops to wear it as a fanny pack (products.json)."
+  ],
+  "checked_at": "2026-10-29"
+}

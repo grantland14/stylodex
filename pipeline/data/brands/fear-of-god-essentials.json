@@ -39,13 +39,15 @@
     "https://fearofgod.com/collections/all-essentials",
     "https://fearofgod.com/collections/all-mens-sweatshirts/products.json?limit=250&country=US",
     "https://fearofgod.com/policies/shipping-policy",
-    "https://fearofgod.com/policies/refund-policy"
+    "https://fearofgod.com/policies/refund-policy",
+    "https://fearofgod.com/collections/essentials/products.json?limit=250"
   ],
   "notes": [
     "Essentials is Fear of God's line, sold at fearofgod.com (shop country US, USD); a separate brand file because sources name 'Fear of God Essentials'.",
     "Refund policy: 'ALL PURCHASES OF ESSENTIALS, COLLABORATION PRODUCT, SALE ITEMS ARE CONSIDERED FINAL SALE. NO EXCEPTIONS.' returns_days 0 for Essentials (mainline returns are 15 days).",
     "Shipping policy: free standard ground shipping on orders above $100 within the contiguous United States, 4–7 business days.",
-    "Hoodies 380–520gsm fleece; e.g. Essentials SS26 Classic Hoodie $150, NFL Sport Hoodie $175 (480gsm), Knicks x Barkley Hendricks 90s Hoodie $195 (520gsm). Sizes XS–XL on all, XXL on most, XXXL on 42 of 76."
+    "Hoodies 380–520gsm fleece; e.g. Essentials SS26 Classic Hoodie $150, NFL Sport Hoodie $175 (480gsm), Knicks x Barkley Hendricks 90s Hoodie $195 (520gsm). Sizes XS–XL on all, XXL on most, XXXL on 42 of 76.",
+    "2026-10-29 (brands-like-named-collective): hoodies price entry from another run kept as is. This run's read of /collections/essentials/products.json found 139 regular-price in-stock hoodies at $150–$215 (the top being NFL 90s Relaxed Hoodies, which the mens-sweatshirts read doesn't include)."
   ],
   "checked_at": "2026-10-29"
 }

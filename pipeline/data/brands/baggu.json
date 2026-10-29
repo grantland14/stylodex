@@ -1,0 +1,69 @@
+{
+  "slug": "baggu",
+  "name": "BAGGU",
+  "website_url": "https://baggu.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Reusable Nylon Bags",
+  "hq_country": "US",
+  "founded_year": 2007,
+  "parent_company": null,
+  "size_range": "Baby, Standard and Big; Small to Large",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 50,
+  "returns_days": 30,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "bags",
+      "currency": "USD",
+      "min": 14.0,
+      "max": 190.0,
+      "min_usd": 14.0,
+      "max_usd": 190.0,
+      "fx_date": null,
+      "item_count": 33,
+      "source_url": "https://baggu.com/collections/bags",
+      "checked_at": "2026-10-29",
+      "note": "Baggu is a headless store (no products.json). Product cards read from 11 collection pages (bags, shoulder-bags, totes, crescent-bags, reusable-bags, backpacks, crossbody-bags, travel-bags, best-sellers, denim, new-arrivals): 44 bag families, 8 showing two prices (markdown) excluded, Standard Baggu Set of 3 and 2 duffles excluded; 33 regular-price bags, median $58. Low: Baby Baggu $14; Standard Baggu $16; Big Baggu $22; Small/Medium/Large Nylon Crescent Bag $52/$56/$66; Cloud Bag $62; Nylon Shoulder Bag $62; high: Recycled Leather Shoulder Bag $190. Like-for-like: carry bags at regular price, in stock (reusable/shopping bags, totes, shoulder and crossbody bags, belt/hip bags, backpacks); luggage, duffels and weekenders, pouches, organisers, wallets, straps, charms, lunch boxes excluded."
+    }
+  ],
+  "materials": [
+    "Recycled nylon",
+    "Recycled cotton canvas",
+    "Recycled leather"
+  ],
+  "certifications": [],
+  "production_model": "Made in China, Cambodia and Vietnam",
+  "sale_pattern": "Sale items are final sale",
+  "sells_categories": [
+    "bags"
+  ],
+  "sources": [
+    "https://baggu.com/",
+    "https://baggu.com/collections/bags",
+    "https://baggu.com/collections/shoulder-bags",
+    "https://baggu.com/collections/totes",
+    "https://baggu.com/collections/crescent-bags",
+    "https://baggu.com/collections/reusable-bags",
+    "https://baggu.com/faq",
+    "https://baggu.com/stores",
+    "https://baggu.com/design-and-materials",
+    "https://en.wikipedia.org/wiki/Baggu"
+  ],
+  "notes": [
+    "Design and Materials: 'BAGGU began in 2007 making durable reusable shopping bags.' Since Spring 2022 all ripstop nylon styles, including the reusable bags, are 100% recycled nylon; heavyweight nylon 59% recycled; denim and canvas 65% recycled cotton; recycled leather is 70% recycled leather fibres. Reusable bags are cut from one continuous piece of recycled nylon. Manufacturing in Cambodia and Vietnam alongside long-standing partners in China; never incinerates or landfills deadstock (https://baggu.com/design-and-materials).",
+    "FAQ: free shipping on US orders over $50; ships to Canada, Australia, the UK and other countries at listed rates; returns on full-price items within 30 days, original shipping non-refundable and a $4.95 restocking fee on most returns (waived for exchanges, store credit and in-store returns); sale items final sale; one-time price adjustment if an item goes on sale within 7 days; 'stocked at hundreds of retailers in the US and internationally'; official sites are baggu.com and baggu.jp (https://baggu.com/faq).",
+    "Stores page lists Chicago (Lincoln Park, Wicker Park), New York (SoHo, MoMA Design Store pop-up), Brooklyn (Williamsburg), Los Angeles (Silver Lake, Venice), Portland and San Francisco (https://baggu.com/stores).",
+    "Wikipedia: founded 2007 by Emily Sugihara, her mother Joan Hall Sugihara and Ellen Vanderlaan; private company; launched with an $8 reusable shopping bag (https://en.wikipedia.org/wiki/Baggu). HQ city not stated there; hq_country US from its US stores and US store currency."
+  ],
+  "checked_at": "2026-10-29"
+}

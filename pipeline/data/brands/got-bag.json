@@ -1,0 +1,63 @@
+{
+  "slug": "got-bag",
+  "name": "GOT BAG",
+  "website_url": "https://us.got-bag.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Backpacks From Recycled Ocean Plastic",
+  "hq_country": "DE",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Sling Bag Small to Pro Pack",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "bags",
+      "currency": "USD",
+      "min": 35.0,
+      "max": 99.0,
+      "min_usd": 35.0,
+      "max_usd": 99.0,
+      "fx_date": null,
+      "item_count": 9,
+      "source_url": "https://us.got-bag.com/collections/bags/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US store bags collection products.json: 18 listings, 9 marked down excluded; 9 regular-price bags, median $49. Low: Sling Bag Small $35; Sling Bag $45; Moon Bag Large $49; Tote Bag Large $84; high: Cloud Tote Bag and Puffer Horizon Tote Bag $99. Backpacks sit in a separate collection: in the full store feed (https://us.got-bag.com/products.json?limit=250) regular-price backpacks run from Rolltop Easy $105 to Pro Pack Travel $199 (Daypack 2.0 is marked down). Like-for-like: carry bags at regular price, in stock (reusable/shopping bags, totes, shoulder and crossbody bags, belt/hip bags, backpacks); luggage, duffels and weekenders, pouches, organisers, wallets, straps, charms, lunch boxes excluded."
+    }
+  ],
+  "materials": [
+    "Recycled ocean-bound plastic"
+  ],
+  "certifications": [
+    "GRS"
+  ],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "bags"
+  ],
+  "sources": [
+    "https://us.got-bag.com/meta.json",
+    "https://got-bag.com/meta.json",
+    "https://us.got-bag.com/collections/bags/products.json?limit=250",
+    "https://us.got-bag.com/products.json?limit=250",
+    "https://us.got-bag.com/policies/shipping-policy",
+    "https://us.got-bag.com/policies/refund-policy",
+    "https://us.got-bag.com/pages/faq",
+    "https://us.got-bag.com/pages/certificates-and-awards",
+    "https://us.got-bag.com/pages/terms-of-service"
+  ],
+  "notes": [
+    "Global store meta: GOT BAG, Mainz, Germany, EUR (https://got-bag.com/meta.json); US store run by GOT BAG North America Inc., Beaverton, Oregon, ships to the US only (https://us.got-bag.com/meta.json, https://us.got-bag.com/pages/terms-of-service). 'Every GOT BAG product is made with recycled primary materials', including RE:PET from coastal plastic waste collected by GOT BAG Indonesia's clean-up and RE:NYNET from retired fishing nets (https://us.got-bag.com/pages/faq). GOT BAG GmbH is certified to the Global Recycled Standard (https://us.got-bag.com/pages/certificates-and-awards).",
+    "US shipping from warehouses in Oregon or Las Vegas; free ground shipping on $75+. Returns of unused items within 30 days; no exchanges online (return and reorder); final sale and international orders not returnable (https://us.got-bag.com/policies/shipping-policy, https://us.got-bag.com/policies/refund-policy). Sling Bag: 'compact crossbody bag with smart organization, an adjustable strap, and water-repellent material' (products.json)."
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,774 @@
+{
+  "subject": "Aeropostale",
+  "slug": "aeropostale",
+  "url_prefix": "stores",
+  "category": {
+    "slug": "jeans",
+    "name": "Jeans",
+    "why": "C is a product type. Aeropostale is a single-label mall store (kind brand) selling jeans, hoodies and graphic tees; its own homepage title leads with jeans ('Men's and Women's Jeans, Clothes, Hoodies, and Graphic Tees | Aeropostale'), its nav has a top-level Jeans section and a 'Buy 1 Get 1 Free Jeans' line, and women's jeans are the only line with a readable regular-price range in its brand file ($64.95–$69.95). Jeans is also the like-for-like item every pick sells. Prices are women's jeans except Abercrombie & Fitch (men's jeans; women's pages wouldn't load on earlier runs) and Target and Nordstrom Rack (page-1 samples of multi-brand listings). American Eagle, Loft (every jean marked down) and PacSun (jeans page 403) render without a price."
+  },
+  "serp": [
+    {
+      "keyword": "stores like aeropostale",
+      "position": 1,
+      "url": "https://www.sopicks.com/blog/brands-like-abercrombie-fitch",
+      "kept": false,
+      "why_dropped": "AI-overview sitelink; a list of Abercrombie & Fitch alternatives, not Aeropostale (also #10 organic)"
+    },
+    {
+      "keyword": "stores like aeropostale",
+      "position": 1,
+      "url": "https://www.apartstyle.com/post/brands-like-aeropostale",
+      "kept": false,
+      "why_dropped": "apartstyle.com never counts (also #4 organic)"
+    },
+    {
+      "keyword": "stores like aeropostale",
+      "position": 1,
+      "url": "https://www.have-clothes-will-travel.com/stores-like-hollister/",
+      "kept": false,
+      "why_dropped": "AI-overview sitelink; a stores-like-Hollister list, not alternatives to Aeropostale (also #8 organic)"
+    },
+    {
+      "keyword": "stores like aeropostale",
+      "position": 2,
+      "url": "https://www.aeropostale.com/women-teen-girls/clothing/",
+      "kept": false,
+      "why_dropped": "the anchor's own site"
+    },
+    {
+      "keyword": "stores like aeropostale",
+      "position": 5,
+      "url": "https://www.reddit.com/r/malefashionadvice/comments/k8v0e/brands_like_ae_af_hollister/",
+      "kept": false,
+      "why_dropped": "reddit: WebFetch refuses reddit.com; not read, no workaround (sitelinks r/TheGirlSurvivalGuide and r/canberra likewise)"
+    },
+    {
+      "keyword": "stores like aeropostale",
+      "position": 6,
+      "url": "https://www.quora.com/What-are-high-quality-clothing-brands-similar-to-Hollister-but-low-price-in-local-malls-in-California",
+      "kept": false,
+      "why_dropped": "Quora thread about Hollister; Quora 403s WebFetch (earlier runs)"
+    },
+    {
+      "keyword": "stores like aeropostale",
+      "position": 7,
+      "url": "https://similist.com/alternatives/stores-like-aeropostale/",
+      "kept": false,
+      "why_dropped": "Similist: scraped list with no editorial content (enrich.md §1.2)"
+    },
+    {
+      "keyword": "stores like aeropostale",
+      "position": 9,
+      "url": "https://www.facebook.com/groups/990574666343081/posts/1396311639102713/",
+      "kept": false,
+      "why_dropped": "Facebook group post; not readable without login"
+    },
+    {
+      "keyword": "stores like aeropostale",
+      "position": 11,
+      "url": "https://www.cbinsights.com/company/aeropostale/alternatives-competitors",
+      "kept": false,
+      "why_dropped": "business-data competitor list (investors), not shopping alternatives"
+    },
+    {
+      "keyword": "brands like aeropostale",
+      "position": 1,
+      "url": "https://www.facebook.com/fb-answers/stores-like-aeropostale-and-hollister/",
+      "kept": false,
+      "why_dropped": "AI-overview sitelink; WebFetch got only the word 'Facebook', no list"
+    },
+    {
+      "keyword": "brands like aeropostale",
+      "position": 8,
+      "url": "https://www.youtube.com/watch?v=Qu66TepTzVQ",
+      "kept": false,
+      "why_dropped": "video, no text list to read"
+    },
+    {
+      "keyword": "brands like aeropostale",
+      "position": 10,
+      "url": "https://www.endclothing.com/us/brands",
+      "kept": false,
+      "why_dropped": "a retailer's brand index, not an Aeropostale list"
+    },
+    {
+      "keyword": "aeropostale alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs returned no SERP"
+    },
+    {
+      "keyword": "similar to aeropostale",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs returned no SERP"
+    }
+  ],
+  "web_search": [
+    {
+      "query": "stores like Aeropostale",
+      "url": "https://etechshout.com/stores-like-aeropostale/",
+      "kept": true,
+      "note": "read with WebFetch: '15 Stores Like Aéropostale for Modern Styles at Affordable Prices', eTechShout Editor, January 15, 2024; 11 numbered stores plus 3 honorable mentions (Fashion Nova, Loft, New Look)."
+    },
+    {
+      "query": "stores like Aeropostale",
+      "url": "https://www.lemon8-app.com/@isabel.kish/7394951279082095110?region=us",
+      "kept": true,
+      "note": "read with WebFetch: 'Stores Like Aeropostale: My Top Picks for Affordable Style!', @isabel.kish, 2024-07-23; 6 stores."
+    },
+    {
+      "query": "brands similar to Aeropostale alternatives list",
+      "url": "https://plaintips.com/stores-like-aeropostale",
+      "kept": true,
+      "note": "read with WebFetch: '10 Stores Like Aéropostale to Buy Similar Casual Apparel & Accessories', first-person editorial with commission disclosure, author profile 'ip_bilal', undated; 10 numbered stores."
+    },
+    {
+      "query": "brands similar to Aeropostale alternatives list",
+      "url": "https://viraltalky.com/stores-like-aeropostale/",
+      "kept": true,
+      "note": "read with WebFetch: '6 Clothing Stores like Aeropostale to Shop Right Now [2024]', ViralTalky, published September 8, 2022, updated March 11, 2024; 6 stores."
+    },
+    {
+      "query": "stores like Aeropostale",
+      "url": "https://fashion.allwomenstalk.com/places-to-shop-once-youre-too-old-for-aeropostale/",
+      "kept": true,
+      "note": "read with WebFetch: '10 Best Stores to Shop for Girls Who've Outgrown Aeropostale', Alicia, April 16, 2018; 10 stores (TJ Maxx entry also names Marshalls and Ross)."
+    },
+    {
+      "query": "stores like Aeropostale",
+      "url": "https://storessimilarto.com/stores-similar-to-aeropostale",
+      "kept": true,
+      "note": "read with WebFetch: 'Stores Similar to Aeropostale 2025', Nwose Onyinye, undated; 11 stores with written commentary and affiliate links."
+    },
+    {
+      "query": "discobrands brands like aeropostale",
+      "url": "https://www.discobrands.co/brands/aeropostale",
+      "kept": true,
+      "note": "read with curl (StylodexBot UA): disco brand profile 'Aéropostale — Brand Profile | disco', '4 brands like Aéropostale': Stradivarius, Hollister, Pull & Bear, Urban Planet. Unsigned directory: counts as evidence, never cited on the page (enrich.md §1)."
+    },
+    {
+      "query": "stores like Aeropostale",
+      "url": "https://www.storeslike.com/aeropostale",
+      "kept": false,
+      "why_dropped": "read: auto-generated directory, no author or date, templated blurbs (enrich.md §1.2)"
+    },
+    {
+      "query": "stores like Aeropostale",
+      "url": "https://www.similarstores.com/like/Aeropostale",
+      "kept": false,
+      "why_dropped": "scraped 'Found 20 Stores Like' directory; not read"
+    },
+    {
+      "query": "stores like Aeropostale",
+      "url": "https://www.similarsitesearch.com/sites/aeropostale/",
+      "kept": false,
+      "why_dropped": "traffic-similarity directory; not read"
+    },
+    {
+      "query": "brands similar to Aeropostale alternatives list",
+      "url": "https://www.similarweb.com/website/aeropostale.com/competitors/",
+      "kept": false,
+      "why_dropped": "web-traffic competitor tool, not editorial"
+    },
+    {
+      "query": "brands similar to Aeropostale alternatives list",
+      "url": "https://www.zippia.com/aeropostale-careers-50729/competitors/",
+      "kept": false,
+      "why_dropped": "careers-site business competitors, not shopping alternatives"
+    },
+    {
+      "query": "brands similar to Aeropostale alternatives list",
+      "url": "https://craft.co/aeropostale/competitors",
+      "kept": false,
+      "why_dropped": "business-data competitor list"
+    },
+    {
+      "query": "\"like Aeropostale\" stores teens cheaper alternatives American Eagle Hollister PacSun article",
+      "url": "https://styleyouroccasion.com/stores-like-pacsun/",
+      "kept": false,
+      "why_dropped": "lists about PacSun and Hollister (also irreverentgent, greenlitcontent, have-clothes-will-travel, knitwear.io): alternatives to other stores, not Aeropostale"
+    }
+  ],
+  "co_stocking": [],
+  "co_stocking_note": "Aeropostale sells only its own label through its own stores and site; no multi-brand retailer category page was used.",
+  "candidates": [],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "brand_id": "1cd1ceed-2d0e-4b28-a025-27602de8b4cb (Aéropostale) and aac245e9-3ac0-4cbb-95ef-97741a4b7663 (Aeropostale)",
+    "result": "36 distinct brands: american-eagle, angel-blue, aussie, bdg-by-urban-outfitters, bke-jeans, cheap-monday, cotton-on, fame-forever, forever-21, gap, garage, gu, h-m, hollister, honeys, jack-jones, kmart-australia-sleepwear, lularoe, new-look, notations, oshkosh-b-gosh, pac-sun-with-brands-like-cactus-plant-flea-market, pacsun, pepe-jeans, pull-bear, rue21, shein, tally-weijl, target, target-s-wild-fable, tilly-s, tobi, topman, urban-classics, urban-planet, weekday. American Eagle, Forever 21, Gap, Hollister, H&M, PacSun, Rue21, Target, New Look, Pull & Bear and Urban Planet also have outside sources."
+  },
+  "rejected": [
+    {
+      "slug": "hollister",
+      "why": "6 sources (ET #5, L8 #2, PT #2, VT #2, SST #3, disco), but status unverified: hollisterco.com serves a challenge page to every fetch (re-tried once with WebFetch this run). No workaround. Human check: first in the queue."
+    },
+    {
+      "slug": "rue21",
+      "why": "4 sources (ET #8, L8 #5, PT #8, SST #9); verified and has 121 US stores, but no online shop: the public product feed holds 5 products and no jeans, and the jeans collections in collections.json date from 2024 with no readable products. Jeans can't be confirmed, so it fails the category rule. Human check."
+    },
+    {
+      "slug": "h-m",
+      "why": "3 sources (L8 #3, VT #4, SST #10); unverified in brand file (www2.hm.com 403 on earlier runs). Not re-tried."
+    },
+    {
+      "slug": "zara",
+      "why": "1 source (SST #11); unverified in brand file."
+    },
+    {
+      "slug": "reformation",
+      "why": "1 source (VT #5); unverified in brand file."
+    },
+    {
+      "slug": "fashion-nova",
+      "why": "1 source (ET honorable mention, no description); verified, but its Shopify jeans collection feeds (womens-jeans, jeans-women, women-jeans, jeans) all 404, so jeans not recorded."
+    },
+    {
+      "slug": "pull-and-bear",
+      "why": "1 source (disco); pullandbear.com/us/ HTTP 403 to curl (StylodexBot UA). Not verified, no brand file."
+    },
+    {
+      "slug": "stradivarius",
+      "why": "1 source (disco); stradivarius.com/us/ HTTP 403 to curl. Not verified, no brand file."
+    },
+    {
+      "slug": "urban-planet",
+      "why": "1 source (disco); urbanplanet.com unreachable (proxy CONNECT 502), urbanplanet.com feed 404. Not verified."
+    },
+    {
+      "slug": "tj-maxx",
+      "why": "1 source (AW #8, with Marshalls and Ross); verified with US stores, but jeans not in sells_categories and no official jeans source read. Same for marshalls and ross-dress-for-less."
+    },
+    {
+      "slug": "amazon",
+      "why": "1 source (SST #1); marketplace, dropped (enrich.md §1.2)."
+    },
+    {
+      "slug": "wet-seal",
+      "why": "1 source (ET #11); not checked (no brand file); 12 picks already pass."
+    },
+    {
+      "slug": "new-look",
+      "why": "1 source (ET honorable mention); UK chain, not checked; 12 picks already pass."
+    },
+    {
+      "slug": "single-source-2018",
+      "why": "Cents of Style, Dressbarn, Charming Charlie, Francesca's: one source each (AW, 2018); not checked, 12 picks already pass."
+    },
+    {
+      "slug": "apart-pool",
+      "why": "Angel Blue, Aussie, BDG, BKE, Cheap Monday, Cotton On, Fame Forever, Garage, GU, Honeys, Jack & Jones, Kmart Australia, LuLaRoe, Notations, OshKosh B'gosh, Pepe Jeans, Shein, Tally Weijl, Tilly's, Tobi, Topman, Urban Classics, Weekday: pool only, no outside source names them as Aeropostale alternatives."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "pick check: Hollister (6 sources)",
+      "url": "https://www.hollisterco.com/shop/us/womens-jeans",
+      "check": "Challenge page to every fetch. Open the store, confirm it is live, record regular-price women's jeans range, sizes, shipping, returns."
+    },
+    {
+      "fact": "pick check: Rue21 (4 sources)",
+      "url": "https://www.rue21.com/tools/locations/directory",
+      "check": "No online shop. Confirm from a store or official source that Rue21 stores sell jeans; then add jeans to sells_categories so it renders without a price."
+    },
+    {
+      "fact": "PacSun jeans price",
+      "url": "https://www.pacsun.com/womens/jeans/",
+      "check": "403 to curl and WebFetch. Record regular-price women's jeans range."
+    },
+    {
+      "fact": "American Eagle and Loft: every jean marked down",
+      "url": "https://www.ae.com/us/en/c/women/bottoms/jeans/cat6430042",
+      "check": "Re-read when full-price jeans are back to store a price row (Loft: https://www.loft.com/clothing/jeans/catl000015/)."
+    },
+    {
+      "fact": "Forever 21 jeans range is 2 items",
+      "url": "https://forever21.com/collections/women-bottoms/products.json?limit=250",
+      "check": "Only 2 denim trousers at regular price; re-check after markdowns end."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": {
+    "note": "Every price is in USD from the store's own US listing; no conversion needed, fx_date null on all."
+  },
+  "notes": [
+    "12 picks pass enrich.md §3 (verified, sell jeans, ship to the US or have US stores, ≥1 outside source, one checkable reason). Target was 10–15; not padded.",
+    "9 picks carry a jeans price; American Eagle and Loft (every jean marked down) and PacSun (jeans page 403) render without one, on jeans in sells_categories from each store's own pages.",
+    "Evidence: Ahrefs SERPs for the four keywords left no keepable page (Apart Style, Similist, Reddit, Facebook, other stores' lists), so editorial pages came from WebSearch, as on the Tillys run: 6 read lists plus the disco profile (evidence only, never cited).",
+    "Anchor: returns_days (60) and us_stores (44 states plus Puerto Rico) added this run, so the anchor has every fact the gate needs.",
+    "Brand files changed: aeropostale (returns, US stores), charlotte-russe (jeans price $12.99–$29.99), loft and pacsun (jeans in sells_categories), maurices (HQ, founded, US stores; file created by the buckle run), hollister (note only)."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "You want Aeropostale's low-rise baggy jeans, but $64.95 a pair, the size range or the nearest store isn't working for you. The good news is that plenty of mall chains sell the same kind of denim, some for a third of the price and some in much wider sizes. These are the stores shopping guides name most often next to Aeropostale, with what each one charges for jeans.",
+    "bodies": {
+      "old-navy": "Old Navy is the closest match on price, with women's jeans from $34.99 to $69.99, so most pairs come in under Aeropostale's $64.95. The Curvy Mid-Rise Wow Bootcut ($34.99) is the cheapest way in, and the OG and Rockstar lines mostly sit between $44.99 and $54.99.\n\nSizes are the bigger reason to switch. Jeans run from 00 to 30 with petite and tall, where Aeropostale's women's jeans stop at 20. It's a Gap Inc. store with locations in 49 states, and US orders ship free over $50.\n\nThe catch is the return window: 30 days against Aeropostale's 60. If price matters more than size, Charlotte Russe goes lower still, though its jeans stop at a 15.",
+      "forever-21": "Forever 21 is the budget pick for trend-led denim, with regular-price jeans at $38 to $44. The Straight Leg Denim With Drawstring Waist ($38) and the Low Rise Bootcut Denim With Wide Buckle Detail ($44) both undercut Aeropostale's cheapest pair.\n\nWhat you should know is that most of its denim is skirts and shorts, and the full-price jeans selection is small. So you'll often be shopping markdowns, and clearance pieces can't be returned. Sizes run XS to XXL with a separate Plus section, and US orders ship free over $50.\n\nIf you want a deeper run of baggy and flare cuts at a similarly low price, Charlotte Russe has more to choose from.",
+      "american-eagle": "American Eagle is the closest thing to Aeropostale if jeans are the reason you shop there. Its women's jeans come in Classic and Curvy fits, and cuts like the AE Lowest Rise Extra Baggy Jean sit right in Aeropostale's low-rise baggy lane.\n\nThe Curvy fit is the useful detail, because the baggy cuts come in it too: the AE Curvy Super High-Waisted Baggy Wide-Leg Jean is the one to look for. Returns match Aeropostale's 60 days, which matters when you're ordering jeans you haven't tried on.\n\nShipping's the trade-off. Free US shipping starts at $75, well above Aeropostale's $25, and online returns cost $5 unless you're a top-tier rewards member or cardholder. If you want petite or tall lengths, Gap and Old Navy both carry them.",
+      "gap": "Gap is the step up for jeans with more length options, at $79.95 to $99.95. The Hailey Extra Baggy Jean ($89.95) is the one to start with if you like Aeropostale's baggy wide-leg pairs, and the High Rise '70s Flare sits at the same price.\n\nFit range is what you're paying for. Women's jeans come in 000 to 20 with short, regular and long inseams, plus separate petite and tall sizes, so a pair that fits through the leg is easier to find. Shipping's free over $50, and there are stores in 46 states plus Puerto Rico.\n\nReturns are 30 days, half of Aeropostale's window. For the same Gap Inc. sizing at lower prices, Old Navy is the sister store to check.",
+      "abercrombie-fitch": "Abercrombie & Fitch is the pricier step up for men's jeans. They start at $80 for the Relaxed Straight and 90s Straight and climb to $110 for the Relaxed Workwear Jean, so even the cheapest pair costs about $10 more than Aeropostale's priciest.\n\nCheck your waist before you switch. Men's jeans come in 26 to 38, a narrower spread than Aeropostale's men's waists of 26 to 46, so bigger sizes are better served at Old Navy. It's the sister brand to Hollister under Abercrombie & Fitch Co., and it ships to Canada as well as the US.\n\nFree shipping starts at $99, so it makes most sense when you're buying more than one thing.",
+      "pacsun": "PacSun is the pick if you like Aeropostale's denim but want a more West Coast, streetwear-leaning store. Baggy jeans are what it leads with, and it sells other labels next to its own PacSun line.\n\nIt started as a small surf shop in Seal Beach, California, in 1980 and is based in Anaheim now, which is where the beachier mix comes from. The useful bit is shipping: jeans ship free on their own to most US addresses, so you don't need a $59 basket for one pair. Alaska, Hawaii and Puerto Rico don't qualify.\n\nThe trade-off is that you're shopping a mix of brands rather than one label with one size chart. If you'd rather stay with a single label, American Eagle is the closer match.",
+      "charlotte-russe": "Charlotte Russe is the cheapest way into Aeropostale's low-rise baggy look, with jeans from $12.99 to $29.99. The Brooklyn Low Rise Baggy Medium Jean ($20) costs less than a third of Aeropostale's $64.95 pair.\n\nLearn the fit names and the site gets easy: Brooklyn is baggy, London is super baggy, Paris is wide leg and Soho is stretch super baggy. Embellished pairs like the Brooklyn Studded Low Rise Baggy Jean ($25) sit at the top of the range.\n\nSizes and shipping are the catch. Jeans stop at 15 with no plus range, and free shipping needs $100 and only covers the 48 contiguous states. If you need a 20 or above, Old Navy is the better fit.",
+      "banana-republic": "Banana Republic is where to go once you've outgrown Aeropostale and want a more classic pair. Jeans run $120 to $148, from the High-Rise 90S Straight Jean ($120) to the High-Rise Barrel Jean ($148), and most styles, like The Icon Classic Wide-Leg, sit at $130.\n\nThe length options are the reason to pay up. Sizes run 0 to 20, with petite 00 to 12 and long 4 to 12, so shorter and taller shoppers both get a proper inseam. US orders ship free over $50, and there are stores to walk into if you'd rather try a pair on first.\n\nIt's roughly double Aeropostale's price, so be sure about the fit first. For Gap Inc. sizing for less, Gap starts at $79.95.",
+      "loft": "Loft is the grown-up swap, with jeans for work and weekends in petite, tall and curvy sizes. Its denim line is Rivete, with cuts from the Rivete High Rise Slim Flare to selvedge wide-leg and straight pairs.\n\nSizes run 00 to 18 and XXS to XXL, which stops short of Aeropostale's 20, so this one's about the cut and the length lines rather than the size range. Receipted returns within 30 days get the price you paid back, later ones get store credit, and there are 358 Loft stores in the US if you'd rather try on.\n\nMail returns cost $9.95, taken from the refund, so it's worth trying a first pair in store. If you need a size past 18, maurices goes up to 24.",
+      "maurices": "maurices is the pick for sizes Aeropostale doesn't reach. Jeans run 0 to 24, with plus jeans from 14W to 24W, and its own m jeans by maurices Classic Mid Rise Flare Jeans ($34.90) come in about $30 under Aeropostale's cheapest pair.\n\nInseams are the useful detail. Select styles come in extra short, short, long and extra long, each two inches apart, so you're less likely to need hemming. Prices climb with the label: own-brand m jeans sit mostly at $44.99 to $49.99, while Silver Jeans Co. pairs reach $108.\n\nIt's a women's store, so men after Aeropostale's jeans should look at Old Navy instead. Returns are taken anytime with a receipt, and US orders ship free over $50.",
+      "target": "Target is the easy swap when you'd rather pick up jeans on a normal shopping trip. Its own Wild Fable Women's Low-Rise Straight Leg Jeans ($28) give you Aeropostale's low-rise look for less than half the price.\n\nStart with Target's own labels. Universal Thread runs $28 to $40, and the national brands sit above them, up to Levi's 501 Curve at $74.99. Returns run 90 days, a month longer than Aeropostale's, which helps if you're between sizes. And with stores to walk into, you can try a pair on before you buy.\n\nIt sells many labels, so sizing changes from brand to brand. If you're after a specific low-rise baggy cut, Charlotte Russe has more of them for even less.",
+      "nordstrom-rack": "Nordstrom Rack is where to look for name-brand denim at Aeropostale money. Jeans run $39.97 to $79.97, and the Levi's 501 '90s High Waist Straight Leg ($49.97) costs less than Aeropostale's own pairs. At the top, Madewell's The '90s Creased High Waist Straight Leg is $79.97.\n\nIt's an off-price store, so the brand mix is the point: Levi's, Madewell, Good American and Joe's all turn up. Sizes go from 00 to 28W with petite and plus, and jean waists run 23 to 36.\n\nFree shipping needs $89, and returns are 40 days, shorter than Aeropostale's 60. If you'd rather shop one label with a consistent size chart, Old Navy is simpler."
+    },
+    "best_for": {
+      "old-navy": "Aeropostale prices with jean sizes up to 30",
+      "forever-21": "trend-led jeans for under $45",
+      "american-eagle": "the same mall-store denim in Classic or Curvy fits",
+      "gap": "getting the inseam right with petite and tall lengths",
+      "abercrombie-fitch": "men's jeans one price step up from Aeropostale",
+      "pacsun": "baggy jeans that ship free on their own",
+      "charlotte-russe": "low-rise baggy jeans for about $20",
+      "banana-republic": "a classic pair once you've outgrown the teen look",
+      "loft": "petite, tall or curvy jeans you can try on in store",
+      "maurices": "plus-size jeans and extra-long inseams in one store",
+      "target": "a cheap low-rise pair on a normal shopping trip",
+      "nordstrom-rack": "Levi's and Madewell for about what Aeropostale charges"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with your budget. Charlotte Russe and Forever 21 sit well under Aeropostale's $64.95, while Old Navy, Target and maurices overlap it. Gap, Abercrombie & Fitch and Banana Republic all cost more.\n\nThen check your size. If you wear above a 20, Old Navy (up to 30) and maurices (up to 24) carry you, and Gap and Banana Republic have the petite and long inseams. For the closest mall-teen look, start with American Eagle, then PacSun, which ships a single pair of jeans free. And if you want name brands for the same money, Nordstrom Rack has Levi's and Madewell in Aeropostale's price range."
+    },
+    "faqs": [
+      {
+        "q": "Who owns Aeropostale?",
+        "a": "Catalyst Brands owns Aeropostale. The chain started in 1987 with its first stores in Thousand Oaks, California, and Short Hills, New Jersey, and it's still aimed at teens and young adults.",
+        "source_query": "who owns aeropostale"
+      },
+      {
+        "q": "Is Aeropostale still in business?",
+        "a": "Yes. It has stores in 44 states plus Puerto Rico, and its website ships across the US, US territories and APO/FPO addresses, free on orders over $25.",
+        "source_query": "is aeropostale still in business"
+      },
+      {
+        "q": "What is Aeropostale's return policy?",
+        "a": "You get 60 days to return or exchange unworn items with tags and proof of purchase. Mail returns cost $8, taken from your refund, and exchanges only happen in store.",
+        "source_query": "what is aeropostale return policy"
+      },
+      {
+        "q": "Is Aeropostale a luxury brand?",
+        "a": "No. Its women's jeans cost $64.95 to $69.95 and shipping is free over $25, which puts it with mall chains like American Eagle and Old Navy. Banana Republic and Abercrombie & Fitch are the pricier stores here.",
+        "source_query": "is aeropostale a luxury brand"
+      }
+    ]
+  },
+  "picks": [
+    {
+      "slug": "old-navy",
+      "rank": 1,
+      "independent_sources": 5,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 34.99,
+        "max": 69.99,
+        "min_usd": 34.99,
+        "max_usd": 69.99,
+        "fx_date": null,
+        "item_count": 41
+      },
+      "price_relation": "similar",
+      "reason": "Old Navy's women's jeans run $34.99–$69.99, overlapping Aeropostale's $64.95–$69.95, in sizes 00–30 with petite and tall; US orders ship free over $50.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-aeropostale/",
+          "note": "#3: 'continues to be a favorite of fashion lovers across the globe'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lemon8-app.com/@isabel.kish/7394951279082095110?region=us",
+          "note": "#6: 'a consistent winner for reliable, comfortable, and family-friendly casual wear'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-aeropostale",
+          "note": "#4: 'a GOTO place to shop clothing and footwear for the whole family'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://fashion.allwomenstalk.com/places-to-shop-once-youre-too-old-for-aeropostale/",
+          "note": "#7: 'They have clothing for every age group.'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://storessimilarto.com/stores-similar-to-aeropostale",
+          "note": "#4: 'a great option for people who enjoy Aeropostale's affordability and versatility'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "forever-21",
+      "rank": 2,
+      "independent_sources": 5,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 38,
+        "max": 44,
+        "min_usd": 38,
+        "max_usd": 44,
+        "fx_date": null,
+        "item_count": 2
+      },
+      "price_relation": "cheaper",
+      "reason": "Forever 21's regular-price jeans are $38–$44, under Aeropostale's cheapest pair, in XS–XXL with a Plus section; free US shipping over $50.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-aeropostale/",
+          "note": "#4: 'extremely pocket-friendly'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lemon8-app.com/@isabel.kish/7394951279082095110?region=us",
+          "note": "#4: 'great for those super trendy, wear-it-now pieces'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-aeropostale",
+          "note": "#5: 'a good alternative to Aéropostale to buy trendy clothing'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://viraltalky.com/stores-like-aeropostale/",
+          "note": "#1: 'some of the most affordable prices on the market'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://storessimilarto.com/stores-similar-to-aeropostale",
+          "note": "#5: 'the same trendy styles at low prices as Aeropostale'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "american-eagle",
+      "rank": 3,
+      "independent_sources": 4,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "American Eagle sells women's jeans in Classic and Curvy fits, ships across the US free over $75 and gives 60 days for returns, the same window as Aeropostale.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-aeropostale/",
+          "note": "#2: 'vibrant, fashionable clothing geared toward the needs of the modern generation'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lemon8-app.com/@isabel.kish/7394951279082095110?region=us",
+          "note": "#1: 'They are practically cousins!'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-aeropostale",
+          "note": "#1"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://storessimilarto.com/stores-similar-to-aeropostale",
+          "note": "#2: 'known for its casual, trendy clothing, high-quality jeans and loungewear'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "gap",
+      "rank": 4,
+      "independent_sources": 4,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 79.95,
+        "max": 99.95,
+        "min_usd": 79.95,
+        "max_usd": 99.95,
+        "fx_date": null,
+        "item_count": 40
+      },
+      "price_relation": "pricier",
+      "reason": "Gap's women's jeans cost $79.95–$99.95 in 000–20 with short, regular and long inseams plus petite and tall; free US shipping over $50.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-aeropostale/",
+          "note": "#7: 'a casual and relaxed style'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-aeropostale",
+          "note": "#6"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://viraltalky.com/stores-like-aeropostale/",
+          "note": "#6"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://storessimilarto.com/stores-similar-to-aeropostale",
+          "note": "#7: 'will appeal to those who love Aeropostale's classic, simple styles'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "abercrombie-fitch",
+      "rank": 5,
+      "independent_sources": 4,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 80,
+        "max": 110,
+        "min_usd": 80,
+        "max_usd": 110,
+        "fx_date": null,
+        "item_count": 64
+      },
+      "price_relation": "pricier",
+      "reason": "Abercrombie & Fitch's men's jeans run $80–$110 in waists 26–38, a price step up from Aeropostale; US orders ship free over $99.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-aeropostale/",
+          "note": "#1: 'has a reputation for producing stylish casual wear'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-aeropostale",
+          "note": "#3: 'upscale casual wear'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://viraltalky.com/stores-like-aeropostale/",
+          "note": "#3"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://storessimilarto.com/stores-similar-to-aeropostale",
+          "note": "#6: 'has a preppy, casual look'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "pacsun",
+      "rank": 6,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "PacSun leads with baggy jeans, stocks other labels next to its own and ships any US order with jeans in it free, or anything over $59.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-aeropostale/",
+          "note": "#10: 'most likely Aéropostale's strongest alternative'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-aeropostale",
+          "note": "#9: 'another affordable alternative to Aéropostale'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://storessimilarto.com/stores-similar-to-aeropostale",
+          "note": "#8: 'a trendy West Coast style'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "charlotte-russe",
+      "rank": 7,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 12.99,
+        "max": 29.99,
+        "min_usd": 12.99,
+        "max_usd": 29.99,
+        "fx_date": null,
+        "item_count": 98
+      },
+      "price_relation": "cheaper",
+      "reason": "Charlotte Russe's jeans cost $12.99–$29.99, mostly $20 for baggy and super-baggy low-rise cuts, in sizes 00–15; free shipping over $100.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-aeropostale/",
+          "note": "#6: 'one of the most popular stores among girls and women'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-aeropostale",
+          "note": "#7: 'a great alternative to Aéropostale for teenage girls and women in their early twenties'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "banana-republic",
+      "rank": 8,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 120.0,
+        "max": 148.0,
+        "min_usd": 120.0,
+        "max_usd": 148.0,
+        "fx_date": null,
+        "item_count": 10
+      },
+      "price_relation": "pricier",
+      "reason": "Banana Republic's women's jeans are $120–$148 in 0–20, petite 00–12 and long 4–12; US orders ship free over $50.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-aeropostale/",
+          "note": "#9: 'everything from formal wear to trendy designs'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-aeropostale",
+          "note": "#10"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "loft",
+      "rank": 9,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "Loft sells Rivete jeans in 00–18 and XXS–XXL with petite, tall and curvy sizes, 30-day refunds and 358 US stores.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-aeropostale/",
+          "note": "honorable mention under 'Other Aéropostale Alternatives' (no description)"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://fashion.allwomenstalk.com/places-to-shop-once-youre-too-old-for-aeropostale/",
+          "note": "#4: 'the quality is worth the extra'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "maurices",
+      "rank": 10,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 34.9,
+        "max": 108,
+        "min_usd": 34.9,
+        "max_usd": 108,
+        "fx_date": null,
+        "item_count": 71
+      },
+      "price_relation": "similar",
+      "reason": "maurices sells jeans in sizes 0–24 (plus 14W–24W) from $34.90 to $108, with X-Short to X-Long inseams on select styles; free US shipping over $50.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fashion.allwomenstalk.com/places-to-shop-once-youre-too-old-for-aeropostale/",
+          "note": "#1: 'It could easily become your go-to store as well.'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "target",
+      "rank": 11,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 28.0,
+        "max": 74.99,
+        "min_usd": 28.0,
+        "max_usd": 74.99,
+        "fx_date": null,
+        "item_count": 13
+      },
+      "price_relation": "similar",
+      "reason": "Target's women's jeans run $28–$74.99, including Wild Fable low-rise straight jeans at $28, with 90-day returns and US stores.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fashion.allwomenstalk.com/places-to-shop-once-youre-too-old-for-aeropostale/",
+          "note": "#3: basics with 'a true fit'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "nordstrom-rack",
+      "rank": 12,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 39.97,
+        "max": 79.97,
+        "min_usd": 39.97,
+        "max_usd": 79.97,
+        "fx_date": null,
+        "item_count": 53
+      },
+      "price_relation": "similar",
+      "reason": "Nordstrom Rack sells name-brand jeans (Levi's, Madewell, Good American) at $39.97–$79.97 in 00–28W with petite and plus; 40-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://fashion.allwomenstalk.com/places-to-shop-once-youre-too-old-for-aeropostale/",
+          "note": "#10: designer clothes at a fraction of Nordstrom's prices"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    }
+  ]
+}

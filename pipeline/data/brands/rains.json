@@ -1,0 +1,60 @@
+{
+  "slug": "rains",
+  "name": "Rains",
+  "website_url": "https://us.rains.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Waterproof Bags and Rainwear",
+  "hq_country": "DK",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Micro to Large",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB"
+  ],
+  "free_shipping_min_usd": 129,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "bags",
+      "currency": "USD",
+      "min": 65.0,
+      "max": 225.0,
+      "min_usd": 65.0,
+      "max_usd": 225.0,
+      "fx_date": null,
+      "item_count": 51,
+      "source_url": "https://us.rains.com/collections/bags/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US store (us.rains.com) products.json, 83 listings; prices are USD (product page JSON-LD priceCurrency USD, Shopify.currency active USD). 0 marked down, 1 sold out; 31 wash bags, weekenders, duffels, cabin bags, suitcase, lunch and cooler bags, laptop bags and a suit bag excluded; 51 regular-price backpacks, crossbodies, totes, bum bags, messengers and a shoulder bag, median $150. Low: Bum Bag Micro $65; Dash Bum Bag $75; Tote Bag Micro $80; Backpack Mini $125; high: Texel Moulded Backpack $225. Like-for-like: carry bags at regular price, in stock (reusable/shopping bags, totes, shoulder and crossbody bags, belt/hip bags, backpacks); luggage, duffels and weekenders, pouches, organisers, wallets, straps, charms, lunch boxes excluded."
+    }
+  ],
+  "materials": [
+    "Waterproof PU fabric"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "bags"
+  ],
+  "sources": [
+    "https://www.rains.com/meta.json",
+    "https://us.rains.com/collections/bags/products.json?limit=250",
+    "https://us.rains.com/products/rolltop-rucksack-large",
+    "https://us.rains.com/policies/shipping-policy",
+    "https://us.rains.com/policies/refund-policy",
+    "https://us.rains.com/pages/company"
+  ],
+  "notes": [
+    "Store meta: Rains, Aarhus N, Denmark; 'Scandinavian design in waterproof jackets, raincoats & bags' (https://www.rains.com/meta.json). Company page: headquarters in Aarhus, Denmark; a Copenhagen store at Amagertorv 14 (https://us.rains.com/pages/company). Tote Bag Micro: 'a waterproof tote perfect for shopping, commutes or the office'; Bum Bag Micro is 'a downscaled version of Rains' signature bum bag' (products.json).",
+    "US shipping: 'We ship to all 50 states'; $11.95 standard, free on orders of $129 or above. Returns: 30 days from receipt for unused items; a fee is charged when using its return label; no exchanges online (https://us.rains.com/policies/shipping-policy, https://us.rains.com/policies/refund-policy)."
+  ],
+  "checked_at": "2026-10-29"
+}

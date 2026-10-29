@@ -1,0 +1,51 @@
+{
+  "slug": "broken-planet",
+  "name": "Broken Planet",
+  "website_url": "https://www.brokenplanet.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Sustainable Streetwear Drops",
+  "hq_country": "GB",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": null,
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 125,
+      "max": 175,
+      "min_usd": 125,
+      "max_usd": 175,
+      "fx_date": null,
+      "item_count": 9,
+      "source_url": "https://www.brokenplanet.com/",
+      "checked_at": "2026-10-29",
+      "note": "Headless store (no products.json, no collection or policy pages: all 404). The US storefront's homepage carries 69 products as embedded Shopify data, USD. Of 18 hoodies/zip-ups there, 9 are in stock at regular price (compare-at 0 or below price): Star Logo Zip-Up Hoodie, Star Logo Hoodie, Star Logo Coverstitch Zip-up Hoodie, Stargirl Corset Fur Zip-Up Hoodie, Star Logo Sunfaded Waffle Zip-up $125; Broken Planet Zip Up Hoodie $135; Deconstructed Star Camo Zip-up $175. The range covers only what the homepage serves. Regular price = in stock, no variant with compare_at_price above price; hoodie = title says hoodie/hoody, kids, knit, sets and jackets excluded."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": "Limited drops monthly",
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://www.brokenplanet.com/"
+  ],
+  "notes": [
+    "Homepage meta: 'The official home of sustainable streetwear. Limited drops monthly. Oversized fits. Eco-friendly materials.' Organization JSON-LD: addressLocality London, addressCountry GB. Header 'US / $' and 'Easy Returns' (https://www.brokenplanet.com/).",
+    "Product descriptions in the same data: Star Logo Zip-Up Hoodie '540 GSM ORGANIC COTTON FABRIC… BOXY & SLIGHTLY CROPPED FIT… 14-DAY RETURNS'; other items: 'ORDERS OUTSIDE THE UK: TAXES AND DUTIES WILL BE PAID BY THE CUSTOMER UPON THE DELIVERY OF THE ORDER.' returns_days 14 from those descriptions; no shipping-cost page readable. Size values not in the data (option names only), so size_range empty.",
+    "Seen as an alternative to Named Collective by the disco directory (https://www.discobrands.co/blogs/6-brands-like-named-collective)."
+  ],
+  "checked_at": "2026-10-29"
+}

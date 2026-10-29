@@ -1,0 +1,59 @@
+{
+  "slug": "nicce",
+  "name": "Nicce",
+  "website_url": "https://www.nicceclothing.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "London Hoodies and Joggers",
+  "hq_country": "GB",
+  "founded_year": 2013,
+  "parent_company": null,
+  "size_range": "XS–XXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "GBP",
+      "min": 54.99,
+      "max": 74.99,
+      "min_usd": 73.07,
+      "max_usd": 99.64,
+      "fx_date": "2026-10-28",
+      "item_count": 11,
+      "source_url": "https://www.nicceclothing.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Whole-store feed (281 products; no hoodie collection handle found). 11 regular-price in-stock hoodies; 42 more are marked down and excluded. Low: Mens Extol Zip Through Hoodie, Mens World Essentials Hoodie, Nebula Hoodie £54.99; high: Mens Zip Through Sweat Hoodie £74.99; Instar Knitted Hoodie £69.99. Sizes S–XXL (XS on 2). Regular price = in stock, no variant with compare_at_price above price; hoodie = title says hoodie/hoody, kids, knit, sets and jackets excluded."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://www.nicceclothing.com/products.json?limit=250",
+    "https://www.nicceclothing.com/cart.js",
+    "https://www.nicceclothing.com/pages/about-us",
+    "https://www.nicceclothing.com/pages/faqs",
+    "https://www.nicceclothing.com/pages/delivery",
+    "https://www.nicceclothing.com/policies/refund-policy"
+  ],
+  "notes": [
+    "About: 'Nicce was founded in London in 2013 and was hugely influenced by the electronic music and Ibiza clubbing scene… In the early days we were probably best known for our hoodies and joggers' (https://www.nicceclothing.com/pages/about-us).",
+    "FAQ: 'Do you ship overseas? Yes, we ship all over the world. Shipping costs will apply' (https://www.nicceclothing.com/pages/faqs); ships_to lists the four checked markets on that basis. Free delivery over £60 is UK mainland only (https://www.nicceclothing.com/pages/delivery). Refund policy: cancel within 14 days of receipt; underwear and socks not returnable.",
+    "Store currency GBP (cart.js). nicce.com is a parked domain for sale; nicceclothing.com is the store."
+  ],
+  "checked_at": "2026-10-29"
+}

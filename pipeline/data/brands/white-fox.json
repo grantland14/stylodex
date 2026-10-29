@@ -30,6 +30,19 @@
       "source_url": "https://whitefoxboutique.com/collections/tops/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "Re-read 2026-10-29 (stores-like-white-fox run), full feed, 1,728 products: 1,290 regular-price in-stock tops (product type Tops; 277 marked down, 22 sold out, 139 non-tops excluded). Regular price = no variant with compare_at_price above price (enrich.md rule; region tags like SALE40, sale_uk, clearanceau are campaign/other-market tags and not markdowns). Low: Core Strengths Tank Top, After Midnight Lace Trim Cami $29.99; high: First In Line Long Sleeve Feather Top, Athens Aura Shell Top $99.99; Sundream Bandage Top $89.99. Median $49.99. Min/max match the earlier tag-strict read (820 items). Sizes: XXS–XL on almost all, 3XS on 89, XXL on 13."
+    },
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 54.99,
+      "max": 74.99,
+      "min_usd": 54.99,
+      "max_usd": 74.99,
+      "fx_date": null,
+      "item_count": 162,
+      "source_url": "https://whitefoxboutique.com/collections/hoodies/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Hoodies collection feed, 191 products: 162 regular-price in-stock hoodies (25 marked down, 1 sold out). Low: Not Done Yet Zip Up Fitted Hoodie $54.99; high: Anything For Love Boxy Zip Front Hoodie $74.99. Sizes run in pairs, 3XS/XXS to L/XL (a few XL/XXL). Regular price = in stock, no variant with compare_at_price above price; hoodie = title says hoodie/hoody, kids, knit, sets and jackets excluded."
     }
   ],
   "materials": [],
@@ -52,7 +65,8 @@
     "https://whitefoxboutique.com/blogs/shipping/us-warehouse",
     "https://whitefoxboutique.com/blogs/shipping/will-i-be-charged-taxes-and-tariffs",
     "https://whitefoxboutique.com/policies/shipping-policy.json",
-    "https://whitefoxboutique.com/policies/refund-policy.json"
+    "https://whitefoxboutique.com/policies/refund-policy.json",
+    "https://whitefoxboutique.com/collections/hoodies/products.json?limit=250"
   ],
   "checked_at": "2026-10-29",
   "notes": [
@@ -68,7 +82,8 @@
     "Hoodies: in the full catalog (6,740 products, collections/all feed) hoodies sit under product type Outerwear: 285 hoodies, 230 at regular price in stock, $54.99–$89.99, most $69.99 (157) or $74.99 (53). Largest product types: Tops 1,773, Dresses 1,117, Swimwear 582, Outerwear 579, Pants 568."
   ],
   "sells_categories": [
-    "tops"
+    "tops",
+    "hoodies"
   ],
   "us_stores": false
 }
