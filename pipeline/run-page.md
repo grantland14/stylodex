@@ -32,7 +32,8 @@ source you fetched, with its URL. Nothing estimated, nothing from memory.
   `python3 -I pipeline/merge_brand.py <slug> <patch.json> [--overwrite field,field]`**, which
   locks the file: put your facts in a patch file in your own scratchpad folder,
   `patches/{page slug}/` (never the repo, never a shared folder), and merge only the patches you
-  wrote this run. Never loop over a folder of patches.
+  wrote this run. Never loop over a folder of patches. Keep every other working file (scripts,
+  downloads) in `<scratchpad>/{page slug}/` too: the scratchpad is shared by every agent.
   Prices replace only your category's entry; other fields fill only if empty unless named in
   `--overwrite` (use it for corrections, like a wrong `website_url`). `notes`, `sources` and
   `sells_categories` are always appended, never replaced: send only your new entries. Never write a brand file
