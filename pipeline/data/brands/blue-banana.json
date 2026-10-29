@@ -20,13 +20,13 @@
       "currency": "EUR",
       "min": 94.9,
       "max": 94.9,
-      "item_count": 9,
-      "source_url": "https://www.bluebananabrand.com/collections/hoodies-y-sudaderas/products.json?limit=250&country=US",
-      "checked_at": "2026-10-29",
-      "note": "US market (?country=US; Shopify.country US but Shopify.currency stays EUR): 9 regular-price Classic hoodies at €94.90 (Sudadera con capucha Classic in Acqua, Amazon Green, Antracita, Berry, Jay Blue and more; 100% organic cotton, regular fit, embroidered X). Same hoodies in Spain: €69.90. 5 marked down; crewnecks excluded. Regular price = no variant with compare_at_price above price and no markdown tag (markdown, clearance, outlet, final-sale, on-sale, sale-NN, NN%, rebajas). Hoodies = pullover and zip hoodies (title or product type names a hood); crewnecks, knit hoodies, jackets, sleeveless, kids and bundles excluded.",
       "min_usd": 105.65,
       "max_usd": 105.65,
-      "fx_date": "2026-10-28"
+      "fx_date": "2026-10-28",
+      "item_count": 10,
+      "source_url": "https://bluebananabrand.com/collections/all-hoodies-men/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "No US market: prices stay EUR (Shopify.currency active EUR with country=US). all-hoodies-men served 25 products; 16 hoodies, 10 regular price (all Classic Hoodie colors at €94.90, tagged flashsale-classic20 with no compare-at), 6 marked down. Regular = no variant with compare_at_price above price; tags without a compare-at price are not markdowns."
     }
   ],
   "materials": [
@@ -45,13 +45,24 @@
     "https://www.bluebananabrand.com/policies/refund-policy?country=US",
     "https://www.bluebananabrand.com/collections/hoodies-y-sudaderas/products.json?limit=250&country=US",
     "https://www.bluebananabrand.com/pages/nosotros",
-    "https://www.bluebananabrand.com/?country=US"
+    "https://www.bluebananabrand.com/?country=US",
+    "https://bluebananabrand.com/",
+    "https://bluebananabrand.com/meta.json",
+    "https://bluebananabrand.com/collections/all-hoodies-men/products.json?limit=250&country=US",
+    "https://bluebananabrand.com/policies/shipping-policy",
+    "https://bluebananabrand.com/policies/refund-policy",
+    "https://bluebananabrand.com/pages/our-stores"
   ],
   "notes": [
     "The Spanish Blue Banana Brand (Madrid), not the UK alternative-clothing shop bluebanana.com. About (nosotros): founders Nacho Rivera and Juan Fernández-Estrada; 'Somos la marca de la nueva generación de aventureros'. meta.json: Madrid, ES; garments of recycled polyester and organic cotton.",
     "Shipping policy: Estados Unidos €5.90, 2/6 days, free over €125 (stored as $139.16 at ECB 1.1133); 'Envíos sujetos a aduanas a cargo del cliente' (US customs paid by the customer).",
     "Refund policy: 30 calendar days from delivery; exchanges only in Spain and Portugal, other countries returns only.",
-    "meta.json ships_to_countries lists 28 countries: US but not CA, GB or AU."
+    "meta.json ships_to_countries lists 28 countries: US but not CA, GB or AU.",
+    "Homepage title 'Blue Banana Brand - Sudaderas, camisetas y hoodies'; description says its garments are made with recycled polyester and organic cotton and calls them Spain's first carbon-negative garments. Shop country ES, EUR.",
+    "Classic Hoodie: embroidered X on chest and back, 100% organic cotton, regular fit, XS–XXL.",
+    "Shipping table: Estados Unidos €5.90, 2–6 days, free over €125 (= $139.16 at ECB 2026-10-28, 1.1133); customs charges paid by the customer. meta ships_to_countries lists US but not CA, GB or AU.",
+    "Refund policy: 30 calendar days from delivery to request an exchange or return; returns from outside the EU are at the customer's cost.",
+    "Stores page lists Spanish stores and one in Monterrey, Mexico; none in the US."
   ],
   "checked_at": "2026-10-29"
 }

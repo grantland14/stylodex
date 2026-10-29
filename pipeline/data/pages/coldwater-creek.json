@@ -1,0 +1,769 @@
+{
+ "subject": "Coldwater Creek",
+ "slug": "coldwater-creek",
+ "url_prefix": "stores",
+ "category": {
+  "slug": "dresses",
+  "name": "Dresses",
+  "why": "Coldwater Creek sells mostly its own label (kind brand; it also stocks a few outside labels such as Komarov), so C is a product type. Its homepage title leads with tunics and pants, but neither is a category this site's other pages use, and dresses are its top product-type page in search: Ahrefs top pages (US) put /clothing/dresses first among product pages (est. 3,741 visits/mo) ahead of /clothing/tunics (1,502) and /clothing/sweaters (860), and the store's meta lists 'versatile dresses'. Every pick sells dresses. Prices compare each store's regular-price (not marked down) dresses."
+ },
+ "anchor_status": {
+  "status": "verified",
+  "how": "coldwatercreek.com is a live store selling women's clothing (86 in-stock dresses in its product sitemap, catalogs on request). Wikipedia: Chapter 11 in April 2014; relaunched online and by catalog in November 2014; closed its 13 stores in 2020; Newtimes Group bought the name and stock in September 2020. Its legal pages name Coldwater International LLC, Fort Lauderdale, with affiliate Soft Surroundings. Still trading, so the closed-store rules don't apply; the page notes it has no stores."
+ },
+ "checked_at": "2026-10-29",
+ "fx": null,
+ "serp": [
+  {
+   "keyword": "stores like coldwater creek",
+   "position": 1,
+   "url": "https://www.reddit.com/r/wls/comments/1c5uxtw/shopping/",
+   "kept": false,
+   "why_dropped": "reddit: WebFetch refuses reddit.com; not read"
+  },
+  {
+   "keyword": "stores like coldwater creek",
+   "position": 3,
+   "url": "https://www.reddit.com/r/GenX/comments/valjfq/ladies_of_gen_x_where_on_gods_green_earth_do_you/",
+   "kept": false,
+   "why_dropped": "reddit; not read"
+  },
+  {
+   "keyword": "stores like coldwater creek",
+   "position": 4,
+   "url": "https://community.ricksteves.com/travel-forum/general-europe/travel-clothing",
+   "kept": false,
+   "why_dropped": "read: a 2008 travel-clothing thread that mentions Coldwater Creek next to REI, Chico's and NY&Company as places for travel clothes, not as alternatives to it"
+  },
+  {
+   "keyword": "stores like coldwater creek",
+   "position": 5,
+   "url": "https://www.fodors.com/community/united-states/52-what-womens-clothing-ranges-to-look-for-643919/page2/",
+   "kept": false,
+   "why_dropped": "403 (Cloudflare) to the bot UA and WebFetch; not worked around"
+  },
+  {
+   "keyword": "stores like coldwater creek",
+   "position": 6,
+   "url": "https://forums.welltrainedmind.com/topic/446976-where-do-you-buy-quality-clothes/",
+   "kept": false,
+   "why_dropped": "403 (Cloudflare) to the bot UA and WebFetch; not worked around"
+  },
+  {
+   "keyword": "stores like coldwater creek",
+   "position": 7,
+   "url": "https://boards.cruisecritic.com/topic/936280-where-to-buy-formalwear/",
+   "kept": false,
+   "why_dropped": "403 (Cloudflare); not read"
+  },
+  {
+   "keyword": "stores like coldwater creek",
+   "position": 8,
+   "url": "https://www.ebay.com/b/Coldwater-Creek-100-Silk-Clothing-for-Women/15724/bn_3963435",
+   "kept": false,
+   "why_dropped": "marketplace"
+  },
+  {
+   "keyword": "stores like coldwater creek",
+   "position": 9,
+   "url": "https://www.yelp.com/search?find_desc=Coldwater+Creek&find_loc=Castle+Rock%2C+CO",
+   "kept": false,
+   "why_dropped": "local directory listing, not a list of alternatives"
+  },
+  {
+   "keyword": "stores like coldwater creek",
+   "position": 10,
+   "url": "https://www.yellowpages.com/post-falls-id/coldwater-creek-outlet-stores",
+   "kept": false,
+   "why_dropped": "local directory listing, not a list of alternatives"
+  },
+  {
+   "keyword": "brands like coldwater creek",
+   "position": 1,
+   "url": "https://www.reddit.com/r/femalefashionadvice/comments/gjpa6y/what_old_lady_brands_are_we_all_sleeping_on_where/",
+   "kept": false,
+   "why_dropped": "reddit (AI overview sitelink); not read"
+  },
+  {
+   "keyword": "brands like coldwater creek",
+   "position": 1,
+   "url": "https://similist.com/alternatives/sites-like-coldwater-creek/",
+   "kept": false,
+   "why_dropped": "scraped similar-sites list (similist), dropped per enrich.md §1.2"
+  },
+  {
+   "keyword": "brands like coldwater creek",
+   "position": 1,
+   "url": "https://www.softsurroundings.com/",
+   "kept": false,
+   "why_dropped": "brand homepage (AI overview sitelink), not an editorial list; Soft Surroundings is a Coldwater affiliate"
+  },
+  {
+   "keyword": "brands like coldwater creek",
+   "position": 2,
+   "url": "https://www.reddit.com/r/womensfashion/comments/1vwugp0/where_do_you_guys_find_good_clothes/",
+   "kept": false,
+   "why_dropped": "reddit; not read"
+  },
+  {
+   "keyword": "brands like coldwater creek",
+   "position": 4,
+   "url": "https://www.reddit.com/r/Xennials/comments/1c5gni6/xennial_ladies_where_are_you_buying_your_clothes/",
+   "kept": false,
+   "why_dropped": "reddit; not read"
+  },
+  {
+   "keyword": "brands like coldwater creek",
+   "position": 5,
+   "url": "https://www.quora.com/Are-there-any-particular-brands-or-items-that-low-key-wealthy-people-tend-to-favor-that-most-people-might-not-recognize-as-expensive",
+   "kept": false,
+   "why_dropped": "off-topic question (low-key wealthy brands), not about Coldwater Creek alternatives; not read"
+  },
+  {
+   "keyword": "brands like coldwater creek",
+   "position": 6,
+   "url": "https://www.fodors.com/community/united-states/52-what-womens-clothing-ranges-to-look-for-643919/page2/",
+   "kept": false,
+   "why_dropped": "403; duplicate of stores-like #5"
+  },
+  {
+   "keyword": "brands like coldwater creek",
+   "position": 7,
+   "url": "https://forums.welltrainedmind.com/topic/446976-where-do-you-buy-quality-clothes/",
+   "kept": false,
+   "why_dropped": "403; duplicate"
+  },
+  {
+   "keyword": "brands like coldwater creek",
+   "position": 8,
+   "url": "https://boards.cruisecritic.com/topic/2001430-mature-womans-fashions/",
+   "kept": false,
+   "why_dropped": "403 (Cloudflare); not read"
+  },
+  {
+   "keyword": "brands like coldwater creek",
+   "position": 9,
+   "url": "https://www.the-sun.com/money/9126664/coldwater-creek-buying-soft-surroundings-bankruptcy/",
+   "kept": false,
+   "why_dropped": "news about the Soft Surroundings purchase, not a list; WebFetch refused the host"
+  },
+  {
+   "keyword": "brands like coldwater creek",
+   "position": 10,
+   "url": "https://www.wantnot.net/2008/11/13/coldwater-creek-you-crazy-place",
+   "kept": false,
+   "why_dropped": "2008 blog post about the store itself, not a list of alternatives"
+  },
+  {
+   "keyword": "coldwater creek alternatives",
+   "position": null,
+   "url": null,
+   "kept": false,
+   "why_dropped": "Ahrefs serp-overview returned no positions"
+  },
+  {
+   "keyword": "similar to coldwater creek",
+   "position": 1,
+   "url": "https://www.similarweb.com/website/coldwatercreek.com/competitors/",
+   "kept": false,
+   "why_dropped": "traffic-overlap tool page, no editorial content"
+  },
+  {
+   "keyword": "similar to coldwater creek",
+   "position": 3,
+   "url": "https://www.storeslike.com/coldwater-creek",
+   "kept": false,
+   "why_dropped": "templated store-list page: one-line blurbs that repeat each store's own meta description, no author or editorial content (dropped as on the charlotte-russe and macys pages)"
+  },
+  {
+   "keyword": "similar to coldwater creek",
+   "position": 4,
+   "url": "https://coldwatercreek.knoji.com/alternatives/",
+   "kept": false,
+   "why_dropped": "403 (Cloudflare) to the bot UA and WebFetch; not worked around"
+  },
+  {
+   "keyword": "similar to coldwater creek",
+   "position": 5,
+   "url": "https://forums.welltrainedmind.com/topic/604867-if-i-like-coldwater-creek-styles-but/",
+   "kept": false,
+   "why_dropped": "403 (Cloudflare) to the bot UA and WebFetch; not worked around"
+  },
+  {
+   "keyword": "similar to coldwater creek",
+   "position": 6,
+   "url": "https://ask.metafilter.com/274779/Coldwater-Creek-Replacement",
+   "kept": false,
+   "why_dropped": "403 (Cloudflare) to the bot UA and WebFetch; not worked around"
+  },
+  {
+   "keyword": "similar to coldwater creek",
+   "position": 7,
+   "url": "https://www.modvisor.com/coldwater-creek",
+   "kept": false,
+   "why_dropped": "WebFetch 503 twice; curl connection reset; not read"
+  },
+  {
+   "keyword": "similar to coldwater creek",
+   "position": 8,
+   "url": "https://www.wardrobeoxygen.com/best-clothing-retailers-women-over-40/",
+   "kept": true
+  },
+  {
+   "keyword": "similar to coldwater creek",
+   "position": 9,
+   "url": "https://blowra.com/stores-like-coldwater-creek/",
+   "kept": false,
+   "why_dropped": "expired TLS certificate (curl refuses) and WebFetch 503 twice; TLS check not bypassed; not read"
+  },
+  {
+   "keyword": "similar to coldwater creek",
+   "position": 10,
+   "url": "https://plaintips.com/stores-like-coldwater-creek",
+   "kept": true
+  }
+ ],
+ "co_stocking": [
+  {
+   "retailer": null,
+   "url": null,
+   "used": false,
+   "why": "enrich.md §1.4b doesn't apply: Coldwater Creek sells only through its own site and catalog."
+  }
+ ],
+ "candidates": [
+  {
+   "name": "Talbots",
+   "slug": "talbots",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-coldwater-creek"
+    }
+   ]
+  },
+  {
+   "name": "Chico's",
+   "slug": "chicos",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-coldwater-creek"
+    }
+   ]
+  },
+  {
+   "name": "Lulus",
+   "slug": "lulus",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-coldwater-creek"
+    }
+   ]
+  },
+  {
+   "name": "Shopbop",
+   "slug": "shopbop",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-coldwater-creek"
+    }
+   ]
+  },
+  {
+   "name": "J.Jill",
+   "slug": "j-jill",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-coldwater-creek"
+    }
+   ]
+  },
+  {
+   "name": "Torrid",
+   "slug": "torrid",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-coldwater-creek"
+    }
+   ]
+  },
+  {
+   "name": "Lane Bryant",
+   "slug": "lane-bryant",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-coldwater-creek"
+    }
+   ]
+  },
+  {
+   "name": "Wet Seal",
+   "slug": "wet-seal",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-coldwater-creek"
+    }
+   ]
+  },
+  {
+   "name": "White House Black Market",
+   "slug": "white-house-black-market",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-coldwater-creek"
+    }
+   ]
+  },
+  {
+   "name": "Loft",
+   "slug": "loft",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-coldwater-creek"
+    }
+   ]
+  },
+  {
+   "name": "L.L.Bean",
+   "slug": "ll-bean",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.wardrobeoxygen.com/best-clothing-retailers-women-over-40/"
+    }
+   ]
+  },
+  {
+   "name": "Lands' End",
+   "slug": "lands-end",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.wardrobeoxygen.com/best-clothing-retailers-women-over-40/"
+    }
+   ]
+  },
+  {
+   "name": "Appleseed's",
+   "slug": "appleseeds",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.wardrobeoxygen.com/best-clothing-retailers-women-over-40/"
+    }
+   ]
+  },
+  {
+   "name": "Cotton Traders",
+   "slug": "cotton-traders",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.wardrobeoxygen.com/best-clothing-retailers-women-over-40/"
+    }
+   ]
+  },
+  {
+   "name": "Draper's & Damon's",
+   "slug": "drapers-damons",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Boden",
+   "slug": "boden",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Cutter & Buck",
+   "slug": "cutter-buck",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Nautica",
+   "slug": "nautica",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "U.S. Polo Assn.",
+   "slug": "us-polo-assn",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Original Penguin",
+   "slug": "original-penguin",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Lacoste",
+   "slug": "lacoste",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Sperry",
+   "slug": "sperry",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Crew Clothing",
+   "slug": "crew-clothing",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Fred Perry",
+   "slug": "fred-perry",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Ben Sherman",
+   "slug": "ben-sherman",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Rhone",
+   "slug": "rhone",
+   "in_apart_pool": true,
+   "sources": []
+  },
+  {
+   "name": "Lyle & Scott",
+   "slug": "lyle-scott",
+   "in_apart_pool": true,
+   "sources": []
+  }
+ ],
+ "candidate_pool": {
+  "source": "public.brand_relationships (Apart Style, read-only)",
+  "result": "16 rows for Coldwater Creek: L.L.Bean, Lands' End, Talbots (also named by outside sources, flagged in_apart_pool), plus Draper's & Damon's, Boden and 11 mostly menswear brands with sources: []."
+ },
+ "picks": [
+  {
+   "slug": "white-house-black-market",
+   "rank": 1,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 140,
+    "max": 295,
+    "min_usd": 140,
+    "max_usd": 295,
+    "fx_date": null,
+    "item_count": 75
+   },
+   "price_relation": "similar",
+   "reason": "White House Black Market's regular-price dresses run $140 to $295 (Faux Wrap Sheath Dress $150), tailored cuts in sizes 00 to 18 with petites, 60-day returns and US shipping.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-coldwater-creek",
+     "note": "#9 in its alternatives list: 'sells clothing and accessories with a prime focus on women aged 35 year or more'"
+    }
+   ]
+  },
+  {
+   "slug": "talbots",
+   "rank": 2,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 99.5,
+    "max": 299,
+    "min_usd": 99.5,
+    "max_usd": 299,
+    "fx_date": null,
+    "item_count": 48
+   },
+   "price_relation": "similar",
+   "reason": "Talbots sells regular-price dresses from $99.50 to $299 in misses 2 to 18, petite 0 to 16 and plus 14W to 24W (Polished Ponte Sheath Dress $169 to $189), with US shipping.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-coldwater-creek",
+     "note": "#1 of its alternatives: 'Talbots specializes in trendy clothing, fashion accessories and footwear for women.'"
+    }
+   ]
+  },
+  {
+   "slug": "chicos",
+   "rank": 3,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 109.5,
+    "max": 189.5,
+    "min_usd": 109.5,
+    "max_usd": 189.5,
+    "fx_date": null,
+    "item_count": 15
+   },
+   "price_relation": "similar",
+   "reason": "Chico's regular-price dresses run $109.50 to $189.50 (Ponte Godet Long-Sleeve Dress $129.50), with over 500 US boutiques, its own 000 to 4 sizing with petites, and 60-day returns.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-coldwater-creek",
+     "note": "#2: 'famous for its huge collection of latest styles in women's designer clothing'"
+    }
+   ]
+  },
+  {
+   "slug": "j-jill",
+   "rank": 4,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 109,
+    "max": 149,
+    "min_usd": 109,
+    "max_usd": 149,
+    "fx_date": null,
+    "item_count": 17
+   },
+   "price_relation": "similar",
+   "reason": "J.Jill's regular-price dresses run $109 to $149 in XS to 4X with petite and tall, with 60-day returns like Coldwater Creek's and more than 200 US stores.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-coldwater-creek",
+     "note": "#5: 'J Jill can be a good alternative to Coldwater Creek for you to buy fine quality dresses'"
+    }
+   ]
+  },
+  {
+   "slug": "shopbop",
+   "rank": 5,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 75,
+    "max": 2590,
+    "min_usd": 75,
+    "max_usd": 2590,
+    "fx_date": null,
+    "item_count": 109
+   },
+   "price_relation": "similar",
+   "reason": "Shopbop is a multi-label online store with regular-price dresses from $75 (Romera Dress $166) and free US shipping with no minimum, in sizes 00 to 24.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-coldwater-creek",
+     "note": "#4: 'Shopbop is a great and very popular alternative to Coldwater Creek'"
+    }
+   ]
+  },
+  {
+   "slug": "lane-bryant",
+   "rank": 6,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": null,
+   "price_relation": null,
+   "reason": "Lane Bryant is a plus-size specialist with dresses in sizes 10 to 40, past Coldwater Creek's 26W, and more than 400 stores across the US.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-coldwater-creek",
+     "note": "#7 in its alternatives list: 'famous for its comprehensive range of plus-sized clothing for women'"
+    }
+   ]
+  },
+  {
+   "slug": "loft",
+   "rank": 7,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": null,
+   "price_relation": null,
+   "reason": "Loft sells dresses in 00 to 18 and XXS to XXL with petite, tall and curvy fits, has 358 US stores and takes receipted returns within 30 days.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/stores-like-coldwater-creek",
+     "note": "#10: 'is famous for its unique collection of \"more relaxed\" fashion for work and home'"
+    }
+   ]
+  },
+  {
+   "slug": "cotton-traders",
+   "rank": 8,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": null,
+   "price_relation": null,
+   "reason": "Cotton Traders is a British casual-clothing brand with a US dollar storefront, dresses in US sizes 4 to 28 and 60-day returns, shipped from the UK.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.wardrobeoxygen.com/best-clothing-retailers-women-over-40/",
+     "note": "Reader comment (Laurie Mannino, 2023-05-23): 'I used to love cold water creek but they have gone downhill since changing owners... I use llbean, lands end, appleseeds and a British company called Cotton Traders.'"
+    }
+   ]
+  }
+ ],
+ "rejected": [
+  {
+   "slug": "lulus",
+   "why": "unverified in its brand file: lulus.com 403 (charlotte-russe run today). 1 source (plaintips)."
+  },
+  {
+   "slug": "torrid",
+   "why": "unverified in its brand file: torrid.com 403 (charlotte-russe run today). 1 source (plaintips); would add plus sizes."
+  },
+  {
+   "slug": "wet-seal",
+   "why": "wetseal.com serves a 404 'This store is unavailable' placeholder; written as unverified, not defunct (lessons: find the real site first). 1 source."
+  },
+  {
+   "slug": "ll-bean",
+   "why": "unverified in its brand file (llbean.com firewall, another run today). 1 source (Wardrobe Oxygen comment)."
+  },
+  {
+   "slug": "lands-end",
+   "why": "1 source (Wardrobe Oxygen comment), but women's dresses can't be confirmed: the homepage nav links no women's dresses page and the dresses URL renders by script (same finding as the ann-taylor run). No brand file written."
+  },
+  {
+   "slug": "appleseeds",
+   "why": "unverified: appleseeds.com 403 to the bot UA and WebFetch. 1 source."
+  },
+  {
+   "slug": "soft-surroundings",
+   "why": "no outside source: named only by the dropped storeslike.com template list and an AI-overview sitelink to its own homepage. It's also a Coldwater Creek affiliate (Coldwater's privacy policy). Not verified."
+  },
+  {
+   "slug": "boden",
+   "why": "Apart Style pool only (sources: []), no outside source recommends it as an alternative to Coldwater Creek."
+  },
+  {
+   "slug": "drapers-damons",
+   "why": "Apart Style pool only; no outside source."
+  },
+  {
+   "slug": "pool-menswear",
+   "why": "Cutter & Buck, U.S. Polo Assn., Nautica, Original Penguin, Lacoste, Sperry, Crew Clothing, Fred Perry, Ben Sherman, Rhone, Lyle & Scott: Apart Style pool only, no outside source, mostly menswear."
+  }
+ ],
+ "human_check": [
+  {
+   "fact": "pick checks: Lulus, Torrid, L.L.Bean, Appleseed's",
+   "url": "https://www.appleseeds.com/",
+   "check": "Each refuses the bot UA (403 or firewall). One outside source each; would add picks (Torrid plus sizes, Appleseed's and L.L.Bean the closest catalog brands) if a human records dress prices, US shipping and returns."
+  },
+  {
+   "fact": "evidence pages behind Cloudflare",
+   "url": "https://ask.metafilter.com/274779/Coldwater-Creek-Replacement",
+   "check": "MetaFilter, Knoji, two Well-Trained Mind threads, Fodor's and Cruise Critic all 403; blowra.com has an expired certificate; modvisor 503. They likely name more alternatives (and more sources for the current picks)."
+  },
+  {
+   "fact": "Wet Seal official site",
+   "url": "https://www.wetseal.com/",
+   "check": "Placeholder 'This store is unavailable'. Find the current official site, if any, before calling it defunct."
+  },
+  {
+   "fact": "Lane Bryant returns and regular dress prices",
+   "url": "https://www.lanebryant.com/clothing/dresses",
+   "check": "Every dress tile carried a markdown ('40% Off'); the return-policy page loads by script. Record a regular dress range and the return window when readable."
+  },
+  {
+   "fact": "Coldwater Creek owner",
+   "url": "https://en.wikipedia.org/wiki/Coldwater_Creek_(clothing_retailer)",
+   "check": "Newtimes Group (2020) is from Wikipedia; the store's own legal pages name Coldwater International LLC (Fort Lauderdale) and affiliate Soft Surroundings. Confirm the FAQ wording if ownership changed since."
+  }
+ ],
+ "notes": [
+  "8 picks pass enrich.md §3 (verified, sell dresses, ship to the US or have US stores, 1 outside source each, one checkable reason). 5 carry a regular dresses price; Lane Bryant, Loft (every dress marked down) and Cotton Traders (prices load by script) render without one via sells_categories from their own dresses pages.",
+  "Evidence is thin: of the four SERPs, only plaintips (10 alternatives) and one Wardrobe Oxygen reader comment were readable; storeslike.com and similist were dropped as templated, and six forum/list pages sit behind Cloudflare. Every pick is single-source. 'coldwater creek alternatives' returned no SERP. Ahrefs: 4 serp-overview calls, 1 top-pages call (category choice), 1 matching-terms call (FAQ).",
+  "Ranking: all picks have 1 source, so ties break on price closeness (share of the pick's regular dress range inside the anchor's $119.95–$388): White House Black Market 1.0, Talbots 0.90, Chico's 0.87, J.Jill 0.73, Shopbop 0.11; unpriced picks follow in plaintips order (Lane Bryant #7, Loft #10), then Cotton Traders (comment).",
+  "Anchor dresses: $119.95–$388 across 39 regular-price dresses (33 own-label $119.95–$159.95, 6 Komarov $298–$388), read from each product page because the grid is script-rendered. Every price_relation is 'similar' and matches computePriceRelation.",
+  "Brand files reused from today's ann-taylor/tuckernuck/talbots runs without change: talbots, j-jill, white-house-black-market, loft. Patched: coldwater-creek (hq_country, dresses price), chicos (us_stores), shopbop (dresses price). New: lane-bryant, cotton-traders, appleseeds and wet-seal (both unverified).",
+  "Five picks (Talbots, Chico's, White House Black Market, Lane Bryant, Loft) belong to Knitwell Group (knitwellgroup.com)."
+ ],
+ "author": "Ash",
+ "copy": {
+  "intro": "You used to try things on at Coldwater Creek, and now there's no store to walk into. The brand still sells online and by catalog, but it closed its shops in 2020 and only ships to US addresses. So if you want a dressing room again, or just more choice at the same prices, these are the stores to try. We start with the closest on price and finish with plus sizes and a British option.",
+  "bodies": {
+   "white-house-black-market": "White House Black Market is the pick if you want Coldwater Creek's dress prices with a more tailored cut. Its regular-price dresses run from $140 to $295, and the Faux Wrap Sheath Dress ($150) sits right inside Coldwater's own $119.95 to $159.95.\n\nIt's known for polished black and white with pops of color, so the look leans business casual rather than weekend. Sizes go 00 to 18 with petites. Returns get the same 60 days Coldwater gives you, with $7 taken off a mailed return.\n\nThe catch is the size range. It stops at 18, while Coldwater goes up to 26W, so for plus sizes go to Talbots or Lane Bryant instead.",
+   "talbots": "Talbots is the closest match if you shop across size types. Its dresses come in misses 2 to 18, petite 0 to 16 and plus 14W to 24W, with regular prices from $99.50 to $299. The Polished Ponte Sheath Dress ($169 to $189, depending on size type) is a good one to start with.\n\nThe style is modern classic, so expect sheaths, shirtdresses and lace for occasions. The Belted Wool Blend Shirtdress ($219 to $249) shows where the top of the range goes. Plus sizes stop at 24W, one step short of Coldwater's 26W.\n\nReturns are tighter than Coldwater's. You get 30 days, and $9.95 comes off if you use the prepaid label. If you want 60 days, J.Jill and Chico's both give you that.",
+   "chicos": "Chico's is the one to try if you miss shopping in person. It has over 500 boutiques across the US, and its regular-price dresses run from $109.50 to $189.50. The Ponte Godet Long-Sleeve Dress ($129.50) lands right in Coldwater Creek's price band.\n\nIts sizing is its own, and that's the thing to learn first. Chico's sizes run 000 to 4, which covers US sizes 0 to 22, with petites from 000P to 4P. So check the chart before you order, because a Chico's 2 isn't a standard 2.\n\nReturns get 60 days, and full-price online orders can go back to a full-price boutique. There's no plus chart, so past a 22, Lane Bryant is the better bet.",
+   "j-jill": "J.Jill comes closest to Coldwater Creek on sizes and returns together. It runs XS to 4X, one size past Coldwater's 3X, with petite and tall, and it gives you the same 60 days to send things back. Regular-price dresses sit between $109 and $149, a little under Coldwater's own.\n\nThe Marled Mock-Neck Dress ($109) is the cheapest way in. Orders of $150 or more ship free, otherwise it's $9.95, and a mailed return with the prepaid label costs $8.95. It also has more than 200 stores across the US.\n\nThe trade-off is range. The Faux-Suede Shirtdress ($149) is as high as its dresses go, so for something dressier, Talbots or White House Black Market go further.",
+   "shopbop": "Shopbop is for when you want a dress from a designer label rather than a house brand. It's an online store in the Amazon group that sells many labels, and its regular-price dresses start at $75 and run past $2,000. So set a price filter before you scroll.\n\nAround Coldwater Creek's prices, the Romera Dress ($166) and Lyon Maxi Dress ($189) are good places to look. US shipping is free with no minimum, which beats Coldwater's $9.99 and up. Clothing sizes run 00 to 24.\n\nReturns are 30 days, free if you drop the parcel off within 15 days and $10 after that. If you'd rather stick to one brand's sizing, J.Jill or Talbots keeps things simpler.",
+   "lane-bryant": "Lane Bryant is the plus-size specialist here, with sizes 10 to 40, so it picks up where Coldwater Creek's 26W stops. It's been dressing women since 1904, and with more than 400 stores across the US, trying a dress on before you buy is easy.\n\nIts dresses page runs promotions like 40% off, so check what's discounted before you pay full price. Rewards members also get free standard shipping on qualifying orders of $75.\n\nIt only makes plus sizes, so if you're under a 10, Talbots or J.Jill will suit you better. And if you want the same store experience in straight sizes, Chico's and Loft are the ones with the most locations.",
+   "loft": "Loft is the pick for fit options. Dresses come in 00 to 18 and XXS to XXL, with petite, tall and curvy cuts, and it has 358 stores in the US to try them in. That's more lengths than Coldwater Creek offers, where tall only comes in some pants.\n\nIt sits in the same family as Talbots, Chico's, Lane Bryant and White House Black Market, with a focus on everyday clothes for work and weekends. Receipted returns get 30 days, and $9.95 comes off for the prepaid label, so returning to a store is the cheaper route.\n\nThere's no plus range, and sizes stop at 18. For anything bigger, Lane Bryant covers it.",
+   "cotton-traders": "Cotton Traders is the British pick, with a US store priced in dollars and dresses in US sizes 4 to 28. That's one size past Coldwater Creek's 26W, and it sells casual clothing for men too, if you're shopping for two.\n\nEverything ships from the UK. Allow about seven working days, and you may pay import duties and taxes on top. Returns get 60 days, like Coldwater, but $9.95 comes off the refund to cover postage back to the UK.\n\nSo it suits you if you're happy to wait and don't mind the extra cost at the door. If you'd rather keep it simple, J.Jill gives you the same 60 days without leaving the US."
+  },
+  "best_for": {
+   "white-house-black-market": "tailored dresses at Coldwater Creek's prices",
+   "talbots": "classic dresses in misses, petite and plus sizes",
+   "chicos": "trying dresses on at a boutique near you",
+   "j-jill": "Coldwater-style sizing up to 4X with 60-day returns",
+   "shopbop": "a designer-label dress with free US shipping",
+   "lane-bryant": "plus-size dresses past a 26W, in a store",
+   "loft": "petite, tall and curvy fits at a store nearby",
+   "cotton-traders": "British casual clothing up to a US 28"
+  },
+  "closing": {
+   "heading": "How to choose",
+   "body": "Start with what you shopped Coldwater Creek for. If it was dresses at $120 to $160, White House Black Market, Talbots and Chico's all sell in that band, and J.Jill runs a little under. If you miss walking into a store, Chico's, Lane Bryant and Loft each have hundreds across the US. For bigger sizes, Talbots goes to 24W, J.Jill to 4X and Lane Bryant to 40. Want a designer label? Shopbop has the widest choice and free US shipping. And if you're patient, Cotton Traders ships from the UK with 60 days to return."
+  },
+  "faqs": [
+   {
+    "q": "Is Coldwater Creek going out of business?",
+    "a": "No. Coldwater Creek still sells online and by catalog, and it ships to US addresses. What went were its stores, which closed in 2020, six years after the company's 2014 bankruptcy.",
+    "source_query": "is coldwater creek going out of business"
+   },
+   {
+    "q": "Does Coldwater Creek have stores?",
+    "a": "No. It closed its 13 stores in 2020 and now sells only online and by catalog. For a store to walk into, Chico's, Lane Bryant and Loft each have hundreds across the US.",
+    "source_query": "does coldwater creek have stores"
+   },
+   {
+    "q": "Who owns Coldwater Creek?",
+    "a": "Newtimes Group, a Hong Kong company, bought the Coldwater Creek name and stock in 2020. The site is run by Coldwater International LLC in Fort Lauderdale, whose affiliates include Soft Surroundings.",
+    "source_query": "who owns coldwater creek"
+   },
+   {
+    "q": "Does Coldwater Creek sell plus sizes?",
+    "a": "Yes. Its Women's Plus range runs 1X to 3X, which is 16W to 26W, next to misses XS to XL and petites. For bigger sizes, J.Jill goes to 4X and Lane Bryant to 40.",
+    "source_query": "is coldwater creek for big women"
+   }
+  ]
+ }
+}

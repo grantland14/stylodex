@@ -1,0 +1,64 @@
+{
+  "name": "Cold Culture",
+  "website_url": "https://coldcultureworldwide.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Streetwear Hoodies and Tees",
+  "hq_country": "ES",
+  "founded_year": 2021,
+  "parent_company": null,
+  "size_range": "XS–XXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 15,
+  "us_stores": false,
+  "materials": [
+    "Mostly 100% cotton"
+  ],
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 97,
+      "max": 119,
+      "min_usd": 97,
+      "max_usd": 119,
+      "fx_date": null,
+      "item_count": 321,
+      "source_url": "https://coldcultureworldwide.com/collections/hoodies/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "US market prices (Shopify country=US, Shopify.currency active USD). 321 regular-price items of product type Hoodies (233) or Zip Hoodies (88); 233 at $109, 85 at $119, Raw Zip Hoodie $97 (2). EU base prices are €79–€99. Regular = no variant with compare_at_price above price; tags without a compare-at price are not markdowns."
+    }
+  ],
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://coldcultureworldwide.com/",
+    "https://coldcultureworldwide.com/meta.json",
+    "https://coldcultureworldwide.com/pages/about",
+    "https://coldcultureworldwide.com/collections.json",
+    "https://coldcultureworldwide.com/collections/hoodies/products.json?limit=250&country=US",
+    "https://coldcultureworldwide.com/collections/best-sellers/products.json?limit=250",
+    "https://coldcultureworldwide.com/policies/shipping-policy",
+    "https://coldcultureworldwide.com/policies/refund-policy",
+    "https://coldcultureworldwide.com/pages/faqs",
+    "https://coldcultureworldwide.com/pages/stores"
+  ],
+  "notes": [
+    "Official store is coldcultureworldwide.com (Shopify shop 'Cold Culture', Madrid, ES, EUR; myshopify wolfus). coldculture.com is not the brand (expired certificate); coldculture.es is a parked domain; coldculturestore.com redirects to coldculturesshop.com and coldcultureworlldwide.com appears in a press-release article: treat both as non-official lookalikes.",
+    "About page: 'COLD CULTURE EST. 2021 BASED IN MADRID'. Homepage title: 'STREETWEAR CLOTHING BRAND | HOODIES, TEES & MORE'.",
+    "US shipping (shipping policy): $8.95, 5–10 days, free over $150; the US is not on the list of destinations that pay duties, so import duties and taxes are included. Ships to US, CA, GB, AU (meta.json ships_to_countries).",
+    "Returns (refund policy and FAQ): 15 days to return, 30 days to exchange; USA return or exchange costs €15–€22 by region, one exchange per order; shipping cost deducted from refunds.",
+    "Stores page lists Barcelona, Paris, Milan, London, Berlin, Madrid, Amsterdam, Valencia, La Roca Village: no US store, so us_stores false.",
+    "Hoodie sizes XS–XXL on 317 of 321 (XXS on 2). Product pages: 'For an oversize fit choose one size above yours' and 'Boxy fit'; 312 of 321 hoodie descriptions say boxy or oversize; 309 say 100% cotton; 6 state 450 gsm, 11 state 400 gsm.",
+    "US prices are a separate price list, not a conversion: Astro Hoodie €79 base, $109 with country=US (products/astro-hoodie.js).",
+    "Best Sellers (243 products read): Hoodies 47 + Zip Hoodies 27 = 74, the largest product type, ahead of long-sleeve tees 38 and tees 35. Hoodies collection 620 listed (325 served), tees 501 (227 served)."
+  ],
+  "checked_at": "2026-10-29"
+}

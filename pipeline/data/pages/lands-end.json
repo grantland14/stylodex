@@ -1,0 +1,1233 @@
+{
+  "subject": "Lands' End",
+  "slug": "lands-end",
+  "url_prefix": "stores",
+  "category": {
+    "slug": "coats-jackets",
+    "name": "Coats & Jackets",
+    "why": "Lands' End sells its own label (kind brand), so C is a product type. Its 10-K calls it 'a leading digital retailer of solution-based apparel, swimwear, outerwear', its homepage title is 'Quality Clothing, Swimwear, Outerwear and Footwear', and in October its homepage leads with outerwear (shop by warmth, Squall, Expedition, FeatherFree). Swimwear is the other hero line, but the outside lists name outerwear and outdoor brands (L.L.Bean, Eddie Bauer, Orvis, Patagonia, The North Face, Columbia, Filson, Helly Hansen) and the DC Urban Moms thread is about kids' coats, so coats-jackets is the type the alternatives share. Like-for-like item: men's jackets and coats (vests excluded), the scope every stored coats-jackets price on Eddie Bauer, Orvis and Filson already uses."
+  },
+  "serp": [
+    {
+      "keyword": "stores like lands end",
+      "position": 1,
+      "url": null,
+      "kept": false,
+      "why_dropped": "AI overview, no URL",
+      "note": null
+    },
+    {
+      "keyword": "stores like lands end",
+      "position": 1,
+      "url": "https://www.reddit.com/r/malefashionadvice/comments/1fnci0n/whos_taken_the_place_of_lands_end_ll_bean_eddie/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken",
+      "note": null
+    },
+    {
+      "keyword": "stores like lands end",
+      "position": 1,
+      "url": "https://www.landsend.com/",
+      "kept": false,
+      "why_dropped": "anchor's own site",
+      "note": null
+    },
+    {
+      "keyword": "stores like lands end",
+      "position": 1,
+      "url": "https://craft.co/lands_end/competitors",
+      "kept": false,
+      "why_dropped": "business-competitor database",
+      "note": null
+    },
+    {
+      "keyword": "stores like lands end",
+      "position": 1,
+      "url": "https://effortlessgent.com/stores-like-ll-bean/",
+      "kept": true,
+      "why_dropped": null,
+      "note": "AI-overview sitelink and #5. 'Stores Like L.L.Bean: 12 Alternatives For Men', Team EG, updated Nov 17 2022. About L.L.Bean, not Lands' End: lists Lands' End first ('a direct competitor to L.L.Bean'; FAQ 'Lands' End is similar to L.L.Bean in overall style and available categories'). Counted only for L.L.Bean, the one brand it compares directly with Lands' End; its other 11 alternatives are to L.L.Bean and not counted."
+    },
+    {
+      "keyword": "stores like lands end",
+      "position": 1,
+      "url": "https://www.llbean.com/",
+      "kept": false,
+      "why_dropped": "a candidate's own site, not an editorial source",
+      "note": null
+    },
+    {
+      "keyword": "stores like lands end",
+      "position": 1,
+      "url": "https://www.distillintelligence.com/competitors/lands-end",
+      "kept": false,
+      "why_dropped": "business-competitor database",
+      "note": null
+    },
+    {
+      "keyword": "stores like lands end",
+      "position": 1,
+      "url": "https://www.cbinsights.com/company/lands-end/alternatives-competitors",
+      "kept": false,
+      "why_dropped": "business-competitor database",
+      "note": null
+    },
+    {
+      "keyword": "stores like lands end",
+      "position": 3,
+      "url": null,
+      "kept": false,
+      "why_dropped": "People also ask (questions only): 'What is a brand similar to Lands End?', 'Is Lands End considered a luxury brand?', 'Is lands end or L.L.Bean better?'",
+      "note": null
+    },
+    {
+      "keyword": "stores like lands end",
+      "position": 4,
+      "url": "https://www.reddit.com/r/malefashionadvice/comments/1ruau1b/other_brands_like_port_authority_lands_end_tri/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken",
+      "note": null
+    },
+    {
+      "keyword": "stores like lands end",
+      "position": 4,
+      "url": "https://www.reddit.com/r/FrugalFemaleFashion/comments/wzdiql/any_american_clothing_store_recommendations_that/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken",
+      "note": null
+    },
+    {
+      "keyword": "stores like lands end",
+      "position": 6,
+      "url": "https://www.themodestman.com/brands-like-llbean/",
+      "kept": false,
+      "why_dropped": "about L.L.Bean; not read for Lands' End alternatives (an L.L.Bean list names brands as alternatives to L.L.Bean, not to Lands' End)",
+      "note": null
+    },
+    {
+      "keyword": "stores like lands end",
+      "position": 7,
+      "url": "https://www.facebook.com/groups/256737941555793/posts/1840634126499492/",
+      "kept": false,
+      "why_dropped": "Facebook group post (Canadian stores); login wall, not read",
+      "note": null
+    },
+    {
+      "keyword": "stores like lands end",
+      "position": 8,
+      "url": "https://www.quora.com/Which-usually-has-better-quality-clothes-LL-Bean-or-Lands-End",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch; not read, no workaround",
+      "note": null
+    },
+    {
+      "keyword": "stores like lands end",
+      "position": 8,
+      "url": "https://www.quora.com/Who-is-LL-Beans-competitor",
+      "kept": false,
+      "why_dropped": "Quora (403 on this domain); about L.L.Bean",
+      "note": null
+    },
+    {
+      "keyword": "stores like lands end",
+      "position": 8,
+      "url": "https://www.quora.com/Are-LL-Bean-and-Lands-End-the-same-company",
+      "kept": false,
+      "why_dropped": "Quora (403 on this domain); ownership question",
+      "note": null
+    },
+    {
+      "keyword": "stores like lands end",
+      "position": 9,
+      "url": "https://www.cbinsights.com/company/lands-end/alternatives-competitors",
+      "kept": false,
+      "why_dropped": "business-competitor database",
+      "note": null
+    },
+    {
+      "keyword": "stores like lands end",
+      "position": 10,
+      "url": "https://trailsandfreedom.com/brands-like-lands-end/",
+      "kept": true,
+      "why_dropped": null,
+      "note": "'9 Brands like Lands' End: Our Favorite Alternatives', TrailsAndFreedom, Aug 8 2023. 9 brands, all framed as alternatives (L.L.Bean, Eddie Bauer, Patagonia, The North Face, Columbia, Orvis, Filson, Carhartt, Helly Hansen)."
+    },
+    {
+      "keyword": "brands like lands end",
+      "position": 1,
+      "url": null,
+      "kept": false,
+      "why_dropped": "AI overview, no URL",
+      "note": null
+    },
+    {
+      "keyword": "brands like lands end",
+      "position": 1,
+      "url": "https://similist.com/alternatives/stores-like-lands-end/",
+      "kept": false,
+      "why_dropped": "scraped list, no editorial content",
+      "note": null
+    },
+    {
+      "keyword": "brands like lands end",
+      "position": 1,
+      "url": "https://effortlessgent.com/stores-like-ll-bean/",
+      "kept": true,
+      "why_dropped": null,
+      "note": "see 'stores like lands end'"
+    },
+    {
+      "keyword": "brands like lands end",
+      "position": 1,
+      "url": "https://trailsandfreedom.com/brands-like-lands-end/",
+      "kept": true,
+      "why_dropped": null,
+      "note": "see 'stores like lands end'"
+    },
+    {
+      "keyword": "brands like lands end",
+      "position": 2,
+      "url": "https://www.reddit.com/r/malefashionadvice/comments/1fnci0n/whos_taken_the_place_of_lands_end_ll_bean_eddie/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken",
+      "note": null
+    },
+    {
+      "keyword": "brands like lands end",
+      "position": 2,
+      "url": "https://www.reddit.com/r/BuyItForLife/comments/5du9l8/what_are_some_bifl_brands_like_ll_bean_youd/",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken; also about L.L.Bean",
+      "note": null
+    },
+    {
+      "keyword": "brands like lands end",
+      "position": 3,
+      "url": null,
+      "kept": false,
+      "why_dropped": "People also ask: 'What is the lands end competitor?', 'Is Lands End or LLBean better?'",
+      "note": null
+    },
+    {
+      "keyword": "brands like lands end",
+      "position": 4,
+      "url": "https://www.themodestman.com/brands-like-llbean/",
+      "kept": false,
+      "why_dropped": "about L.L.Bean, not Lands' End",
+      "note": null
+    },
+    {
+      "keyword": "brands like lands end",
+      "position": 5,
+      "url": "https://www.kitchenknifeforums.com/threads/what-are-your-%E2%80%9Cbuy-it-for-life%E2%80%9D-clothing-brands.69681/",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch; not read, no workaround",
+      "note": null
+    },
+    {
+      "keyword": "brands like lands end",
+      "position": 5,
+      "url": "https://www.thefedoralounge.com/threads/affordable-brands-offering-americano-western-style.118023/",
+      "kept": false,
+      "why_dropped": "read: no post mentions Lands' End, so no alternatives to it",
+      "note": null
+    },
+    {
+      "keyword": "brands like lands end",
+      "position": 6,
+      "url": "https://www.distillintelligence.com/competitors/lands-end",
+      "kept": false,
+      "why_dropped": "business-competitor database",
+      "note": null
+    },
+    {
+      "keyword": "brands like lands end",
+      "position": 7,
+      "url": "https://similist.com/alternatives/stores-like-lands-end/",
+      "kept": false,
+      "why_dropped": "scraped list, no editorial content",
+      "note": null
+    },
+    {
+      "keyword": "brands like lands end",
+      "position": 8,
+      "url": "https://www.quora.com/Which-usually-has-better-quality-clothes-LL-Bean-or-Lands-End",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch",
+      "note": null
+    },
+    {
+      "keyword": "brands like lands end",
+      "position": 9,
+      "url": "https://putthison.com/the-best-value-focused-brands/",
+      "kept": false,
+      "why_dropped": "read (Derek Guy, Feb 18 2020): names Lands' End inside a list of 'other great everyday brands' (Levi's, LL Bean, Camber, Clarks…); a list of value brands, not alternatives to Lands' End, so not counted",
+      "note": null
+    },
+    {
+      "keyword": "brands like lands end",
+      "position": 10,
+      "url": "https://effortlessgent.com/stores-like-ll-bean/",
+      "kept": true,
+      "why_dropped": null,
+      "note": "see above"
+    },
+    {
+      "keyword": "lands end alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs returned no SERP for 'lands end alternatives'",
+      "note": null
+    },
+    {
+      "keyword": "similar to lands end",
+      "position": 1,
+      "url": null,
+      "kept": false,
+      "why_dropped": "AI overview, no URL",
+      "note": null
+    },
+    {
+      "keyword": "similar to lands end",
+      "position": 1,
+      "url": "https://www.landsend.com/",
+      "kept": false,
+      "why_dropped": "anchor's own site",
+      "note": null
+    },
+    {
+      "keyword": "similar to lands end",
+      "position": 1,
+      "url": "https://effortlessgent.com/stores-like-ll-bean/",
+      "kept": true,
+      "why_dropped": null,
+      "note": "see above"
+    },
+    {
+      "keyword": "similar to lands end",
+      "position": 1,
+      "url": "https://similist.com/alternatives/stores-like-lands-end/",
+      "kept": false,
+      "why_dropped": "scraped list",
+      "note": null
+    },
+    {
+      "keyword": "similar to lands end",
+      "position": 2,
+      "url": "https://www.primermagazine.com/2021/spend/mens-clothing-brands",
+      "kept": true,
+      "why_dropped": null,
+      "note": "'These 32 Men's Clothing Brands Make Great Style Dead Simple', Mike Henson, Apr 29 2026. Only one brand compared with Lands' End: Peter Manning, 'Their style is comparable to Land's End'."
+    },
+    {
+      "keyword": "similar to lands end",
+      "position": 3,
+      "url": null,
+      "kept": false,
+      "why_dropped": "People also ask: 'Is Lands' End a good quality brand?' (others off topic)",
+      "note": null
+    },
+    {
+      "keyword": "similar to lands end",
+      "position": 4,
+      "url": "https://www.facebook.com/groups/256737941555793/posts/1808402103056028/",
+      "kept": false,
+      "why_dropped": "Facebook group post about L.L.Bean in Canada; login wall",
+      "note": null
+    },
+    {
+      "keyword": "similar to lands end",
+      "position": 5,
+      "url": "https://www.purewow.com/fashion/stores-like-ll-bean",
+      "kept": false,
+      "why_dropped": "about L.L.Bean, not Lands' End",
+      "note": null
+    },
+    {
+      "keyword": "similar to lands end",
+      "position": 6,
+      "url": "https://www.dcurbanmom.com/jforum/posts/list/341829.page",
+      "kept": true,
+      "why_dropped": null,
+      "note": "Forum thread 'LL Bean vs Lands End vs...' (DC Urban Moms, from 11/07/2013). OP: 'Is there another good brand for family basics?' Answers: 'Eddie Bauer'; 'Outdoor and performance gear: LL Bean, REI, North Face, Patagonia, Smartwool, Road Runner Sports, Under Armour, Merrell, Keen'."
+    },
+    {
+      "keyword": "similar to lands end",
+      "position": 7,
+      "url": "https://www.dcurbanmom.com/jforum/posts/list/30/952443.page",
+      "kept": true,
+      "why_dropped": null,
+      "note": "Forum thread 'Difference between LL Bean and Lands' End?' (DC Urban Moms, Feb 2021), about kids' outerwear. Page 2: 'I prefer Colombia' [Columbia]; 'My kids Gerry coats are nicer quality than either'; Sierra (Sierratradingpost.com) for discounted Patagonia/Columbia. Page 1 (https://www.dcurbanmom.com/jforum/posts/list/952443.page) names only L.L.Bean."
+    },
+    {
+      "keyword": "similar to lands end",
+      "position": 8,
+      "url": "https://www.facebook.com/fb-answers/stores-similar-to-llbean/",
+      "kept": false,
+      "why_dropped": "Facebook answers page about L.L.Bean",
+      "note": null
+    },
+    {
+      "keyword": "similar to lands end",
+      "position": 9,
+      "url": "https://www.tillys.com/brands/",
+      "kept": false,
+      "why_dropped": "a store's brand index, not about Lands' End",
+      "note": null
+    },
+    {
+      "keyword": "similar to lands end",
+      "position": 10,
+      "url": "https://findyourparadise.co/best-outdoor-brands/",
+      "kept": true,
+      "why_dropped": null,
+      "note": "'Paradise Picks: 8 Must-Haves from Classic Outdoor Brands', Holly Thomas, Aug 20 2024. Groups Lands' End with its peers: 'think L.L. Bean, Eddie Bauer, Orvis, and Lands' End'; 'The tote war rages on between Lands' End and L.L. Bean'. Counted for those three as peer brands named alongside Lands' End."
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": "Kohl's",
+      "url": "https://www.kohls.com",
+      "used": false,
+      "why": "Wikipedia says Lands' End partnered with Kohl's in 2020; kohls.com returns HTTP 403 to WebFetch (kohls brand file), so no co-stocked page read."
+    },
+    {
+      "retailer": "Nordstrom",
+      "url": "https://www.nordstrom.com/robots.txt",
+      "used": false,
+      "why": "no Lands' End brand page known and /sr search is disallowed by robots.txt; not read."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "L.L.Bean",
+      "slug": "ll-bean",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://trailsandfreedom.com/brands-like-lands-end/",
+          "note": "#1: \"committed to becoming more environmentally friendly while maintaining high-quality standards\""
+        },
+        {
+          "kind": "forum",
+          "url": "https://www.dcurbanmom.com/jforum/posts/list/341829.page",
+          "note": "listed in reply to 'another good brand for family basics?'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://findyourparadise.co/best-outdoor-brands/",
+          "note": "'think L.L. Bean, Eddie Bauer, Orvis, and Lands' End'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://effortlessgent.com/stores-like-ll-bean/",
+          "note": "'Lands' End is a direct competitor to L.L.Bean'"
+        },
+        {
+          "kind": "editorial",
+          "url": "https://www.discobrands.co/brands/lands-end",
+          "note": "#1: 'The other great American catalog outfitter, Maine-made' (disco directory brand page, unsigned; found via its sitemap, not on the SERP; never cited on the page)"
+        }
+      ]
+    },
+    {
+      "name": "Eddie Bauer",
+      "slug": "eddie-bauer",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://trailsandfreedom.com/brands-like-lands-end/",
+          "note": "#2: \"both American brands that specialize in outdoor and casual wear\""
+        },
+        {
+          "kind": "forum",
+          "url": "https://www.dcurbanmom.com/jforum/posts/list/341829.page",
+          "note": "'Eddie Bauer', in reply to 'another good brand for family basics?'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://findyourparadise.co/best-outdoor-brands/",
+          "note": "'think L.L. Bean, Eddie Bauer, Orvis, and Lands' End'"
+        },
+        {
+          "kind": "editorial",
+          "url": "https://www.discobrands.co/brands/lands-end",
+          "note": "#2: 'Same catalog-to-online classics, more mountain-leaning' (disco directory brand page, unsigned; found via its sitemap, not on the SERP; never cited on the page)"
+        }
+      ]
+    },
+    {
+      "name": "Orvis",
+      "slug": "orvis",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://trailsandfreedom.com/brands-like-lands-end/",
+          "note": "#6: \"known for its high-quality items, even at the lower end of the price range\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://findyourparadise.co/best-outdoor-brands/",
+          "note": "'think L.L. Bean, Eddie Bauer, Orvis, and Lands' End'"
+        },
+        {
+          "kind": "editorial",
+          "url": "https://www.discobrands.co/brands/lands-end",
+          "note": "#3: 'Country-sport version of the same durable classics' (disco directory brand page, unsigned; found via its sitemap, not on the SERP; never cited on the page)"
+        }
+      ]
+    },
+    {
+      "name": "Patagonia",
+      "slug": "patagonia",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://trailsandfreedom.com/brands-like-lands-end/",
+          "note": "#3: \"recognized for its minimalist designs\""
+        },
+        {
+          "kind": "forum",
+          "url": "https://www.dcurbanmom.com/jforum/posts/list/341829.page",
+          "note": "in the 'Outdoor and performance gear' reply"
+        }
+      ]
+    },
+    {
+      "name": "The North Face",
+      "slug": "the-north-face",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://trailsandfreedom.com/brands-like-lands-end/",
+          "note": "#4: \"innovative use of technologies, such as DryVent and Thermoball\""
+        },
+        {
+          "kind": "forum",
+          "url": "https://www.dcurbanmom.com/jforum/posts/list/341829.page",
+          "note": "in the 'Outdoor and performance gear' reply"
+        }
+      ]
+    },
+    {
+      "name": "Columbia",
+      "slug": "columbia",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://trailsandfreedom.com/brands-like-lands-end/",
+          "note": "#5: \"caters to a diverse group of outdoor enthusiasts\""
+        },
+        {
+          "kind": "forum",
+          "url": "https://www.dcurbanmom.com/jforum/posts/list/30/952443.page",
+          "note": "'I'll be the outlier here and say I'm a fan of neither as I prefer Colombia.' (another poster calls Columbia 'terrible')"
+        }
+      ]
+    },
+    {
+      "name": "Filson",
+      "slug": "filson",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://trailsandfreedom.com/brands-like-lands-end/",
+          "note": "#7: \"their durability and fashionable designs make them worth the investment\""
+        }
+      ]
+    },
+    {
+      "name": "Carhartt",
+      "slug": "carhartt",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://trailsandfreedom.com/brands-like-lands-end/",
+          "note": "#8: \"recognized for its quality work and outdoor clothing\""
+        }
+      ]
+    },
+    {
+      "name": "Helly Hansen",
+      "slug": "helly-hansen",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://trailsandfreedom.com/brands-like-lands-end/",
+          "note": "#9: \"allows garments to be both waterproof and breathable\""
+        }
+      ]
+    },
+    {
+      "name": "Smartwool",
+      "slug": "smartwool",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "forum",
+          "url": "https://www.dcurbanmom.com/jforum/posts/list/341829.page",
+          "note": "in the 'Outdoor and performance gear' reply to 'another good brand for family basics?'"
+        }
+      ]
+    },
+    {
+      "name": "Under Armour",
+      "slug": "under-armour",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "forum",
+          "url": "https://www.dcurbanmom.com/jforum/posts/list/341829.page",
+          "note": "in the 'Outdoor and performance gear' reply"
+        }
+      ]
+    },
+    {
+      "name": "Merrell",
+      "slug": "merrell",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "forum",
+          "url": "https://www.dcurbanmom.com/jforum/posts/list/341829.page",
+          "note": "in the 'Outdoor and performance gear' reply"
+        }
+      ]
+    },
+    {
+      "name": "Keen",
+      "slug": "keen",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "forum",
+          "url": "https://www.dcurbanmom.com/jforum/posts/list/341829.page",
+          "note": "in the 'Outdoor and performance gear' reply"
+        }
+      ]
+    },
+    {
+      "name": "REI",
+      "slug": "rei",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "forum",
+          "url": "https://www.dcurbanmom.com/jforum/posts/list/341829.page",
+          "note": "in the 'Outdoor and performance gear' reply"
+        }
+      ]
+    },
+    {
+      "name": "Road Runner Sports",
+      "slug": "road-runner-sports",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "forum",
+          "url": "https://www.dcurbanmom.com/jforum/posts/list/341829.page",
+          "note": "in the 'Outdoor and performance gear' reply"
+        }
+      ]
+    },
+    {
+      "name": "Gerry",
+      "slug": "gerry",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "forum",
+          "url": "https://www.dcurbanmom.com/jforum/posts/list/30/952443.page",
+          "note": "'My kids Gerry coats are nicer quality than either.' (sold at Costco, per the thread)"
+        }
+      ]
+    },
+    {
+      "name": "Sierra",
+      "slug": "sierra",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "forum",
+          "url": "https://www.dcurbanmom.com/jforum/posts/list/30/952443.page",
+          "note": "'A great place to get Patagonia, Columbia, REI and other pricey brands at steep discounts is Sierratradingpost.com'"
+        }
+      ]
+    },
+    {
+      "name": "Peter Manning NYC",
+      "slug": "peter-manning",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.primermagazine.com/2021/spend/mens-clothing-brands",
+          "note": "'Their style is comparable to Land's End, which is a good thing'"
+        }
+      ]
+    },
+    {
+      "name": "FatFace",
+      "slug": "fatface",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "editorial",
+          "url": "https://www.discobrands.co/brands/lands-end",
+          "note": "#4: 'UK equivalent: coastal family casualwear at value prices' (disco directory brand page, unsigned; found via its sitemap, not on the SERP; never cited on the page)"
+        }
+      ]
+    },
+    {
+      "name": "J.Crew",
+      "slug": "j-crew",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Coldwater Creek",
+      "slug": "coldwater-creek",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Draper's & Damon's",
+      "slug": "draper-s-damon-s",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "M&S Collection",
+      "slug": "m-s-collection-marks-spencer",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Pendleton Woolen Mills",
+      "slug": "pendleton",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Talbots",
+      "slug": "talbots",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Brooks Brothers Factory Outlet",
+      "slug": "brooks-brothers-factory-outlet",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Joules",
+      "slug": "joules",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Vineyard Vines",
+      "slug": "vineyard-vines",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Sperry",
+      "slug": "sperry",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Croft & Barrow",
+      "slug": "croft-barrow",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Duck Head",
+      "slug": "duck-head",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Roots",
+      "slug": "roots",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "GANT",
+      "slug": "gant",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Paul Fredrick",
+      "slug": "paul-fredrick",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "LOFT",
+      "slug": "loft",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Van Heusen",
+      "slug": "van-heusen",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Banana Republic Factory",
+      "slug": "contemporary-classics-by-banana-republic-factory",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Faherty",
+      "slug": "faherty",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Duluth Trading",
+      "slug": "duluth-trading",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Cutter & Buck",
+      "slug": "cutter-buck",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Boden",
+      "slug": "boden",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Jos. A. Bank",
+      "slug": "jos-a-bank",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Southern Proper",
+      "slug": "southern-proper",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Lacoste",
+      "slug": "lacoste",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "OshKosh B'gosh",
+      "slug": "oshkosh-b-gosh",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Janie and Jack",
+      "slug": "janie-and-jack",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Club Monaco",
+      "slug": "club-monaco",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "U.S. Polo Assn.",
+      "slug": "u-s-polo-assn",
+      "in_apart_pool": true,
+      "sources": []
+    }
+  ],
+  "picks": [
+    {
+      "slug": "eddie-bauer",
+      "rank": 1,
+      "independent_sources": 4,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 109,
+        "max": 499,
+        "min_usd": 109,
+        "max_usd": 499,
+        "fx_date": null,
+        "item_count": 25
+      },
+      "price_relation": "similar",
+      "reason": "Eddie Bauer's Superior Down Waterproof Hooded Parka ($349) sits beside the $359.95 Lands' End Expedition Waterproof Down Parka, with the same $99 free-shipping line.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://trailsandfreedom.com/brands-like-lands-end/",
+          "note": "#2: \"both American brands that specialize in outdoor and casual wear\""
+        },
+        {
+          "kind": "forum",
+          "url": "https://www.dcurbanmom.com/jforum/posts/list/341829.page",
+          "note": "'Eddie Bauer', in reply to 'another good brand for family basics?'"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://findyourparadise.co/best-outdoor-brands/",
+          "note": "'think L.L. Bean, Eddie Bauer, Orvis, and Lands' End'"
+        },
+        {
+          "kind": "editorial",
+          "url": "https://www.discobrands.co/brands/lands-end",
+          "note": "#2: 'Same catalog-to-online classics, more mountain-leaning' (disco directory brand page, unsigned; found via its sitemap, not on the SERP; never cited on the page)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "orvis",
+      "rank": 2,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 119,
+        "max": 449,
+        "min_usd": 119,
+        "max_usd": 449,
+        "fx_date": null,
+        "item_count": 16
+      },
+      "price_relation": "similar",
+      "reason": "Orvis's Men's 1856 Field Coat ($198) is cotton canvas with a plaid flannel lining, a step up from the $129.95 Lands' End Canvas Barn Jacket, with $6 flat US shipping.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://trailsandfreedom.com/brands-like-lands-end/",
+          "note": "#6: \"known for its high-quality items, even at the lower end of the price range\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://findyourparadise.co/best-outdoor-brands/",
+          "note": "'think L.L. Bean, Eddie Bauer, Orvis, and Lands' End'"
+        },
+        {
+          "kind": "editorial",
+          "url": "https://www.discobrands.co/brands/lands-end",
+          "note": "#3: 'Country-sport version of the same durable classics' (disco directory brand page, unsigned; found via its sitemap, not on the SERP; never cited on the page)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "merrell",
+      "rank": 3,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 155,
+        "max": 165,
+        "min_usd": 155,
+        "max_usd": 165,
+        "fx_date": null,
+        "item_count": 2
+      },
+      "price_relation": "similar",
+      "reason": "Merrell's Ironvale Lightweight Packable Puffer ($165) undercuts the $199.95 Lands' End Wanderweight Packable Down Jacket, with free shipping from $75.",
+      "evidence": [
+        {
+          "kind": "forum",
+          "url": "https://www.dcurbanmom.com/jforum/posts/list/341829.page",
+          "note": "in the 'Outdoor and performance gear' reply"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "fatface",
+      "rank": 4,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 132,
+        "max": 344,
+        "min_usd": 132,
+        "max_usd": 344,
+        "fx_date": null,
+        "item_count": 8
+      },
+      "price_relation": "similar",
+      "reason": "FatFace's US store sells men's cotton, canvas and wool-mix jackets from $132 to $344, sized XS–4XL with short, regular, long and tall fits.",
+      "evidence": [
+        {
+          "kind": "editorial",
+          "url": "https://www.discobrands.co/brands/lands-end",
+          "note": "#4: 'UK equivalent: coastal family casualwear at value prices' (disco directory brand page, unsigned; found via its sitemap, not on the SERP; never cited on the page)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "smartwool",
+      "rank": 5,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 190,
+        "max": 375,
+        "min_usd": 190,
+        "max_usd": 375,
+        "fx_date": null,
+        "item_count": 4
+      },
+      "price_relation": "similar",
+      "reason": "Smartwool's Smartloft Hybrid Jacket ($225) uses 50% recycled wool insulation and a merino-blend lining, with free shipping over $89 and free 30-day returns.",
+      "evidence": [
+        {
+          "kind": "forum",
+          "url": "https://www.dcurbanmom.com/jforum/posts/list/341829.page",
+          "note": "in the 'Outdoor and performance gear' reply to 'another good brand for family basics?'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "peter-manning",
+      "rank": 6,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 148,
+        "max": 495,
+        "min_usd": 148,
+        "max_usd": 495,
+        "fx_date": null,
+        "item_count": 17
+      },
+      "price_relation": "similar",
+      "reason": "Peter Manning NYC sizes jackets by height (5'1\" to 5'10\"), and its Milan Car Coat ($248) undercuts the $299.95 Lands' End Wool Car Coat.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.primermagazine.com/2021/spend/mens-clothing-brands",
+          "note": "'Their style is comparable to Land's End, which is a good thing'"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "filson",
+      "rank": 7,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 199,
+        "max": 1199,
+        "min_usd": 199,
+        "max_usd": 1199,
+        "fx_date": null,
+        "item_count": 103
+      },
+      "price_relation": "similar",
+      "reason": "Filson's entry jackets ($199) match the $199.95 Lands' End Squall Waterproof Barn Jacket, and its range climbs to $1,199 in Tin Cloth and Mackinaw wool.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://trailsandfreedom.com/brands-like-lands-end/",
+          "note": "#7: \"their durability and fashionable designs make them worth the investment\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "ll-bean",
+      "why": "unverified: llbean.com men's outerwear answered the StylodexBot UA with 'Page Not Available' and a CAPTCHA (WebFetch got a firewall page in the Filson run). Not worked around. 5 sources, the most-named brand; first in the human-check queue."
+    },
+    {
+      "slug": "patagonia",
+      "why": "unverified: patagonia.com jackets still serve 'System maintenance is in progress' to WebFetch. 2 sources; re-check."
+    },
+    {
+      "slug": "the-north-face",
+      "why": "unverified: thenorthface.com HTTP 403 to the bot UA and WebFetch. VF Corp's brand page names no jackets or US stores, so sells_categories can't be set from it. 2 sources; human check."
+    },
+    {
+      "slug": "columbia",
+      "why": "unverified: columbia.com HTTP 403 to the bot UA and WebFetch. Columbia Sportswear's 10-K says 'outdoor apparel' and 170+ US stores across four brands but names no jackets in the parts read. 2 sources; human check."
+    },
+    {
+      "slug": "carhartt",
+      "why": "already unverified in its brand file (403, Filson run); not retried. 1 source."
+    },
+    {
+      "slug": "helly-hansen",
+      "why": "unverified: hellyhansen.com HTTP 403 to the bot UA and WebFetch. 1 source."
+    },
+    {
+      "slug": "under-armour",
+      "why": "unverified: underarmour.com served a 'Client Challenge' bot page. 1 source."
+    },
+    {
+      "slug": "keen",
+      "why": "not checked: footwear brand; keenfootwear.com/collections/mens-apparel returned 404. 1 source (same forum list as Merrell)."
+    },
+    {
+      "slug": "rei",
+      "why": "not checked: multi-brand co-op retailer (rei.com HTTP 403). 1 source."
+    },
+    {
+      "slug": "road-runner-sports",
+      "why": "not checked: running-shoe retailer, no outerwear line relevant to C. 1 source."
+    },
+    {
+      "slug": "gerry",
+      "why": "no official store found: gerryoutdoors.com serves an unrelated car-dealer site, gerry.com reset the connection. No brand file written; 1 source (sold at Costco per the poster). Human check."
+    },
+    {
+      "slug": "sierra",
+      "why": "verified in its brand file (TJX), but coats-jackets isn't confirmed: sierra.com shows TJX's error page and TJX's Sierra page names only 'gear, footwear, apparel'. sells_categories not extended. 1 source."
+    },
+    {
+      "slug": "pool",
+      "why": "Apart Style pool brands (J.Crew, Talbots, Pendleton, Vineyard Vines, Duluth Trading, Joules, Roots, Faherty and 21 more) have no outside source naming them as Lands' End alternatives in the pages read; not picks."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "pick check: L.L.Bean",
+      "url": "https://www.llbean.com/llb/shop/506687?page=mens-outerwear",
+      "check": "Most-named alternative (5 sources) but its store refuses the bot. If a human can read men's outerwear prices, sizes, shipping and returns, it should go in at #1."
+    },
+    {
+      "fact": "pick check: The North Face / Columbia / Patagonia",
+      "url": "https://www.columbia.com/c/mens-jackets/",
+      "check": "Two sources each; all three stores blocked or in maintenance. Each would likely rank 3rd–5th if readable."
+    },
+    {
+      "fact": "Lands' End stores",
+      "url": "https://www.landsend.com/co/StoreLocator",
+      "check": "us_stores comes from the 10-K ('Company Operated stores, located in the U.S.'); the store locator didn't render. Confirm stores still trade."
+    },
+    {
+      "fact": "Lands' End price range",
+      "url": "https://www.landsend.com/shop/mens-outerwear/S-xfi-xez-y5b-xec",
+      "check": "$49.95–$699.95 is regular price (no markdown) across 55 men's jackets; the $699.95 top is the Willis & Geiger leather bomber, the next highest $359.95. Most listings also carry a lower promo-code price, ignored."
+    },
+    {
+      "fact": "FatFace price range",
+      "url": "https://www.fatface.com/us/en/shop/mens/clothing/coats-and-jackets",
+      "check": "Only 12 of 84 results read ($132–$344); the price filter runs to $574. Confirm the regular-price top, and add shipping and returns terms (help.fatface.com returned 403)."
+    },
+    {
+      "fact": "Merrell price range",
+      "url": "https://www.merrell.com/US/en/mens-jackets/",
+      "check": "Two regular-price jackets stored ($155–$165). The Lando Raincoat shows $66.99–$195 across colors; if the low end isn't a markdown, widen the range."
+    },
+    {
+      "fact": "evidence: disco directory",
+      "url": "https://www.discobrands.co/brands/lands-end",
+      "check": "Only source for FatFace and one of four or five for L.L.Bean, Eddie Bauer and Orvis. Unsigned directory; counted per the 2026-10-29 rule, never cited on the page."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": {
+    "source": null,
+    "date": null,
+    "note": "Every price is USD from each store's US storefront (FatFace from fatface.com/us/en); no conversion."
+  },
+  "notes": [
+    "Anchor verified from its own store: men's outerwear readable in the page's embedded data (118 products, 55 regular-price jackets $49.95–$699.95), free shipping $99+ to US and Canada, 90-day returns, sizes S–4XL in outerwear plus Big, Tall, Petite and Plus, US stores per its 10-K. Only image_url missing.",
+    "7 picks pass enrich.md §3, all 'similar' on price. Sources: 4 editorial pages (Trails and Freedom, Effortless Gent for L.L.Bean only, Find Your Paradise, Primer), 2 DC Urban Moms forum threads, the disco directory. Reddit (4), Quora (3), Facebook (3), business databases (3) and scraped lists not used.",
+    "The pick count is held down by blocked stores: L.L.Bean (5 sources), Patagonia, The North Face and Columbia (2 each) are all unreadable today. A human check on those four could take the page to 11.",
+    "Ranking: sources first (Eddie Bauer 4, Orvis 3, the rest 1), then closeness of each pick's range midpoint to the Lands' End regular-price median ($129.95): Merrell, FatFace, Smartwool, Peter Manning, Filson."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "Your Lands' End Squall jacket has finally lost its zip, or the Expedition parka you wanted is gone in your size. You still want the same thing: warm, sensible outerwear at a fair price. These are the stores people name alongside Lands' End, with real regular prices for each. The most-recommended come first, then the ones whose prices sit closest to a Lands' End jacket, which is mostly under $200.",
+    "bodies": {
+      "eddie-bauer": "Eddie Bauer is the closest swap for a Lands' End winter coat, and the prices line up almost dollar for dollar. Its Superior Down Waterproof Hooded Parka ($349) sits just under the Lands' End Expedition Waterproof Down Parka ($359.95).\n\nStart with the down. The Cirruslite Down Jacket ($129) costs about the same as a Lands' End Canvas Barn Jacket, and the Packable Rainfoil Jacket ($109) covers wet days. Free shipping kicks in at $99, the same line Lands' End uses, but only for US addresses.\n\nThe catch is the returns window. You get 30 days and a $3.50 return label, against 90 days at Lands' End. And its North American stores closed in April 2026, so it's online only.",
+      "orvis": "Orvis is the pick if you like the Lands' End canvas barn coat but want something more field-ready. The Men's 1856 Field Coat ($198) is cotton canvas with a plaid flannel lining and a corduroy collar.\n\nThat's about $70 more than the Lands' End Canvas Barn Jacket ($129.95). The rest of the jacket list leans technical, with fishing shells up to $449, so the 1856 pieces are where the two brands overlap. Shipping is a flat $6 with no minimum, which beats padding an order to $99 for one coat. It's been in Manchester, Vermont, since 1856, and it has US stores to try things on.\n\nSizes stop at XXL, though. If you wear a Lands' End 3XL or 4XL, Eddie Bauer goes to 3XL on about half its coats.",
+      "merrell": "Merrell is worth a look if what you liked about Lands' End was a light, packable jacket. The Ironvale Lightweight Packable Puffer ($165) comes in about $35 under the Lands' End Wanderweight Packable Down Jacket ($199.95).\n\nIt's a hiking-boot maker first, founded in 1981 and owned by Wolverine World Wide, so the jacket line is short. The Pineforge Packable Jacket ($155) is the other one at full price. Free shipping starts at $75, lower than Lands' End's $99, and returns and exchanges are free. So a single jacket ships free here when it wouldn't at Lands' End.\n\nDon't come here for wool coats or a family's worth of outerwear. For that, Eddie Bauer and Orvis are the closer rivals.",
+      "fatface": "FatFace is the English brand on this list, and its US store prices everything in dollars. The Stone Garment Dye Worker 100% Cotton Jacket ($132) is the easy place to start, close to a Lands' End Canvas Barn Jacket on price.\n\nIt began in 1988 in Méribel, a French ski resort, and Next plc owns it now. The Canvas Jacket in Tan Brown ($228) is its answer to a barn coat. The range tops out with the Pendeen Charcoal Grey Wool Mix Funnel Neck Coat ($344). Sizes go from XS to 4XL, with short and long fits as well as Tall.\n\nBut prices start where Lands' End's middle sits. If you want a $50 fleece, the Lands' End ThermaCheck range is still the cheaper buy.",
+      "smartwool": "Smartwool is for when you want your jacket's warmth to come from wool. The Men's Smartloft Hybrid Jacket ($225) pairs 50% recycled wool insulation with a merino-blend lining and stretch panels.\n\nIt started in 1994 in Steamboat Springs, Colorado, making merino ski socks, and the jacket list is short. The Active Fleece Jacket ($190) is the entry point, and the Winterloft Hooded Jacket ($375) tops the range. Shipping is free over $89, and returns are free for 30 days.\n\nThat fleece costs nearly four times the Lands' End ThermaCheck 100 Fleece Jacket ($49.95). Pay it for the wool, not for choice. Sizes stop at XXL, so bigger builds should look at FatFace or Lands' End itself.",
+      "peter-manning": "Peter Manning NYC fixes the problem the Lands' End Big & Tall range doesn't: jackets cut for shorter men. Sizes run by height, from 5'1\" to 5'10\", with broader X sizes for bigger builds at the same lengths.\n\nThe Milan Car Coat ($248) is the one to compare, about $50 under the Lands' End Wool Car Coat ($299.95). The Polartec Fleece Jacket ($148) and the Bomber Jacket ($158) are cheaper starts. US shipping and returns are free, with 30 days to send things back, and there's a Fit Shop on Broadway in Manhattan.\n\nIf you're over 5'10\", skip it. The size chart stops there, and Lands' End's own Tall sizes are the better bet.",
+      "filson": "Filson is where to go if you'd pay more for oil-finish Tin Cloth or Mackinaw wool than Lands' End sells. The Lined Tin Cloth Cruiser Jacket ($429) and the Mackinaw Wool Cruiser Jacket ($599) are the pieces it's known for.\n\nIts cheapest jackets, the Canvas Outfitter Jacket and the Dry Wax Short Cruiser Jacket ($199 each), cost the same as the Lands' End Squall Waterproof Barn Jacket ($199.95). Some outerwear is made in the USA, and everything carries a lifetime guarantee against defects. Free shipping starts at $99, like Lands' End, and returns run 30 days.\n\nThe range climbs to $1,199, so set a budget before you browse. Orvis's 1856 Field Coat ($198) gets you canvas for the price of Filson's entry jacket."
+    },
+    "best_for": {
+      "eddie-bauer": "a down parka at Lands' End prices, bought online",
+      "orvis": "a flannel-lined canvas field coat with flat-rate shipping",
+      "merrell": "a packable puffer for well under $200",
+      "fatface": "cotton and canvas jackets from an English brand, priced in dollars",
+      "smartwool": "wool insulation instead of a plain fleece",
+      "peter-manning": "car coats and bombers for men 5'10\" and under",
+      "filson": "spending more once on a canvas or wool coat"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with budget. Merrell and Eddie Bauer keep you closest to Lands' End prices, and Eddie Bauer's down parkas are the most direct swap. For canvas, Orvis's 1856 Field Coat is the middle ground and Filson is the spend-once option.\n\nFit matters as much as price. Shorter men should go straight to Peter Manning NYC. If you need 4XL or a Big & Tall cut, stay with Lands' End or try FatFace, which also reaches 4XL. Orvis and Smartwool stop at XXL.\n\nFatFace suits a softer English look, and Smartwool is the one for wool-insulated layers. Check returns before you buy, too: Lands' End gives 90 days, and Eddie Bauer, Smartwool, Peter Manning and Filson give 30."
+    },
+    "faqs": [
+      {
+        "q": "Who owns Lands' End?",
+        "a": "It's its own public company, Lands' End, Inc., traded on the Nasdaq as LE and based in Dodgeville, Wisconsin. Sears owned it from 2002 until a spin-off in 2014.",
+        "source_query": "who owns lands end"
+      },
+      {
+        "q": "What is Lands' End's return policy?",
+        "a": "Most items can go back within 90 days of the shipping date, with proof of purchase, for a refund to your original payment. A US return label costs $8.95, or it's free if you take merchandise credit.",
+        "source_query": "what is lands end return policy"
+      },
+      {
+        "q": "Does Lands' End have stores?",
+        "a": "Yes. Lands' End runs its own stores in the US alongside its website, and since a 2020 partnership its clothes have also been sold in Kohl's stores.",
+        "source_query": "does lands end have stores"
+      },
+      {
+        "q": "Does Lands' End have free shipping?",
+        "a": "Yes, on orders of $99 or more to US and Canadian addresses. Monogramming, gift cards, taxes and duties don't count toward the $99, and standard delivery takes 4 to 10 business days.",
+        "source_query": "does lands end have free shipping"
+      }
+    ]
+  }
+}

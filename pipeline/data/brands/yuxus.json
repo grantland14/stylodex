@@ -1,0 +1,55 @@
+{
+  "name": "Yuxus",
+  "website_url": "https://www.yuxus.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Heavyweight Hoodies Made to Last",
+  "hq_country": "ES",
+  "founded_year": 2018,
+  "size_range": "XS–XXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 120,
+  "returns_days": 15,
+  "us_stores": false,
+  "materials": [
+    "Mostly 450gsm cotton"
+  ],
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 79,
+      "max": 129,
+      "min_usd": 79,
+      "max_usd": 129,
+      "fx_date": null,
+      "item_count": 86,
+      "source_url": "https://yuxus.com/collections/all-products/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "US market prices (country=US, Shopify.currency active USD). Hoodies and zip-ups in all-products (kids, crewnecks, jackets, knit excluded by title): 86 regular of 94; 50 at $109; $79 = Field 'Forher' Hoodie and Bistre 'Vanguard' Hoodie. Campaign tags (SUMMERSALE26) without compare-at counted regular. Regular = no variant with compare_at_price above price; tags without a compare-at price are not markdowns."
+    }
+  ],
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://www.yuxus.com/",
+    "https://yuxus.com/meta.json",
+    "https://yuxus.com/collections/all-products/products.json?limit=250&country=US",
+    "https://www.yuxus.com/pages/shipping-policy",
+    "https://www.yuxus.com/pages/returns-exchanges",
+    "https://www.yuxus.com/pages/about-us"
+  ],
+  "notes": [
+    "Homepage description: 'Yuxus Company. Madrid clothing brand. Clean silhouettes, premium fabrics and heavyweight hoodies made to last.' About: 'Yuxus was born in 2018'; 'An international brand born in Spain'.",
+    "US shipping: standard 5–7 business days, $5.90, free over $120, taxes and duties included.",
+    "Returns: exchanges and returns within 15 days of receipt; US exchange $9.90, return $14.90.",
+    "44 of 68 hoodies state 450gsm, 37 state 100% cotton; e.g. Arctic 'Belgrave' Hoodie $109 (450gsm, washed, dropped shoulder). Sizes XS–XL on all 86, XXL on 68, XXS on 50."
+  ],
+  "checked_at": "2026-10-29"
+}

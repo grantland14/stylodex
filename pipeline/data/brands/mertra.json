@@ -1,0 +1,48 @@
+{
+  "name": "MERTRA",
+  "website_url": "https://mertra.com",
+  "status": "verified",
+  "kind": "brand",
+  "hq_country": "AU",
+  "size_range": "XS–XXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 14,
+  "us_stores": false,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 105,
+      "max": 137,
+      "min_usd": 105,
+      "max_usd": 137,
+      "fx_date": null,
+      "item_count": 42,
+      "source_url": "https://mertra.com/collections/all/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "US market prices (country=US; base AUD, e.g. Glide Hood AUD 185 = USD 121). Every product titled 'Hood' in the all collection: 42, all regular price. Regular = no variant with compare_at_price above price; tags without a compare-at price are not markdowns."
+    }
+  ],
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://mertra.com/",
+    "https://mertra.com/meta.json",
+    "https://mertra.com/collections/all/products.json?limit=250&country=US",
+    "https://mertra.com/policies/shipping-policy",
+    "https://mertra.com/pages/terms",
+    "https://mertra.com/pages/shipping"
+  ],
+  "notes": [
+    "Shopify shop country AU, currency AUD. Terms: orders ship from AU, UK, EU and USA warehouses; for US orders from the UK warehouse duties and taxes are collected at checkout (DDP). Shipping cost calculated at checkout; no free-shipping threshold stated.",
+    "Returns (terms page): eligible full-priced items within 14 days of delivery, lodged by email.",
+    "Hoods: 460–700gsm stated on most (500gsm on 23); e.g. Pulse Hood $105 (460gsm, 100% cotton, 3D piping), Glide Hood $121 (500gsm cotton-poly), Fleece Lined Hood $128. Sizes S–XXL on all 42, XS on 39."
+  ],
+  "checked_at": "2026-10-29"
+}

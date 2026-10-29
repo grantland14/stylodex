@@ -1,0 +1,52 @@
+{
+  "name": "DRMERS CLUB",
+  "website_url": "https://drmersclub.com",
+  "status": "verified",
+  "kind": "brand",
+  "hq_country": "CA",
+  "size_range": "XS–XXXL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 14,
+  "us_stores": false,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 100,
+      "max": 140,
+      "min_usd": 100,
+      "max_usd": 140,
+      "fx_date": null,
+      "item_count": 75,
+      "source_url": "https://drmersclub.com/collections/hoodies/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "US market prices (country=US; base store prices CAD, e.g. Script Text Hoodie CAD 140 = USD 110). hoodies + zip-ups collections, 75 regular-price of 76. Regular = no variant with compare_at_price above price; tags without a compare-at price are not markdowns."
+    }
+  ],
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://drmersclub.com/",
+    "https://drmersclub.com/meta.json",
+    "https://drmersclub.com/collections/hoodies/products.json?limit=250&country=US",
+    "https://drmersclub.com/collections/zip-ups/products.json?limit=250&country=US",
+    "https://drmersclub.com/policies/shipping-policy",
+    "https://drmersclub.com/policies/refund-policy",
+    "https://drmersclub.com/pages/refund-policy-usca",
+    "https://drmersclub.com/pages/stores"
+  ],
+  "notes": [
+    "Shopify shop country CA, currency CAD. Homepage description: 'A PLACE FOR DRMERS, DOERS, AND BELIEVERS. Clothes that make you look good and feel good.'",
+    "US shipping: $7 flat, 6–12 business days, free over $150 USD. Returns (US/CA policy): request within 14 days of delivery, customer pays return shipping, no direct exchanges; collaboration pieces, limited drops and FINAL SALE items excluded.",
+    "Stores page: one store, Vancouver Gastown (45 Water St); Toronto 'opening 2027'. No US store.",
+    "Every regular-price hoodie and zip-up comes in XS–XXXL. Prices: 17 at $100, 30 at $110, 20 at $125; e.g. Everything Is Fine Hoodie $100, Script Text Hoodie $110, Embroidered Stars Hoodie $125."
+  ],
+  "checked_at": "2026-10-29"
+}

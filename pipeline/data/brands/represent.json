@@ -30,6 +30,19 @@
       "source_url": "https://representclo.com/collections/denim/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "5 jeans in a 21-item Denim collection (rest are jackets/shorts); includes R3 Baggy Jean, Heaton Jean, R5 Curve Jean; waists 28–38"
+    },
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 140,
+      "max": 315,
+      "min_usd": 140,
+      "max_usd": 315,
+      "fx_date": null,
+      "item_count": 86,
+      "source_url": "https://representclo.com/collections/mens-oversized-hoodies/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "mens-oversized-hoodies + mens-zip-up-hoodies, women's and mini excluded: 86, all regular price. 140 = Initial Boxy Hoodie (6), 200 = Owners Club Hoodie (20), up to 315. Regular = no variant with compare_at_price above price; tags without a compare-at price are not markdowns."
     }
   ],
   "materials": [],
@@ -46,7 +59,10 @@
     "https://representclohelp.zendesk.com/hc/en-gb/articles/9842658959901-Returns-Policy",
     "https://representclo.com/collections/denim/products.json?limit=250",
     "https://representclo.com/policies/shipping-policy",
-    "https://representclo.com/policies/refund-policy"
+    "https://representclo.com/policies/refund-policy",
+    "https://representclo.com/meta.json",
+    "https://representclo.com/collections/mens-oversized-hoodies/products.json?limit=250&country=US",
+    "https://representclo.com/collections/mens-zip-up-hoodies/products.json?limit=250&country=US"
   ],
   "notes": [
     "Homepage title 'Luxury British Streetwear | Official US Store® | REPRESENT'. The About page says 'a British luxury streetwear brand', founded 2011 in Manchester by brothers George and Mike Heaton, with flagships in London, Manchester and Los Angeles. HQ is not stated; hq_country GB is from 'British'.",
@@ -54,7 +70,11 @@
     "/pages/shipping returned 404 (the link from the homepage). The Zendesk returns policy returned 403. Shipping and returns are therefore null.",
     "Per-product size charts exist (XS–XXL on several, per WebSearch only); not fetched, so size_range is null.",
     "2026-10-29: shipping policy says \"Shipping domestically from the United States\"; standard $10, free over $175. Refund policy: 14 days, USPS $9 return cost for US. CA/GB/AU not confirmed. Regular price = no variant with compare_at_price above price and no sale/markdown tag; sale items excluded.",
-    "size_range is from the jeans variants (waist 28–38), not a size guide."
+    "size_range is from the jeans variants (waist 28–38), not a size guide.",
+    "2026-10-29 (hoodies): hoodie sizes XS–XXL on all 86, XXS on 70. Descriptions mostly 480gsm (70) or 485gsm (33), 100% cotton on 71; Initial Boxy Hoodie is 500gsm brushed-back fleece with a cropped boxy fit."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "hoodies"
+  ]
 }

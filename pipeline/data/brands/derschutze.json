@@ -1,0 +1,51 @@
+{
+  "name": "derschutze",
+  "website_url": "https://derschutze.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Hamburg-Based Clothing Brand",
+  "hq_country": "DE",
+  "size_range": "S–XXL, some XS",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 14,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "hoodies",
+      "currency": "USD",
+      "min": 106,
+      "max": 172,
+      "min_usd": 106,
+      "max_usd": 172,
+      "fx_date": null,
+      "item_count": 42,
+      "source_url": "https://derschutze.com/collections/tops/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "US market prices (country=US; base EUR, e.g. riot hoodie €98 = $117). Hoodies and zip-ups in the tops collection, kids and knit zips excluded: 42, all regular price. Regular = no variant with compare_at_price above price; tags without a compare-at price are not markdowns."
+    }
+  ],
+  "sells_categories": [
+    "hoodies"
+  ],
+  "sources": [
+    "https://derschutze.com/",
+    "https://derschutze.com/meta.json",
+    "https://derschutze.com/collections/tops/products.json?limit=250&country=US",
+    "https://derschutze.com/policies/shipping-policy",
+    "https://derschutze.com/policies/refund-policy",
+    "https://derschutze.com/pages/the-story-behind-derschutze",
+    "https://derschutze.com/pages/physical-stores"
+  ],
+  "notes": [
+    "Homepage meta description: 'clothing brand based in Hamburg'. Story page: founded by Yusuf Arif Yücel, a German designer with Turkish roots who grew up in East Hamburg (no year on the page).",
+    "Stores page: London (27 Peter St), New York (22 Spring St, NY 10012), Berlin. US store, so us_stores true.",
+    "Shipping to the US: €23.99 flat (may rise up to €10 by cart volume); no free-shipping threshold stated. Returns: 14 days after receipt.",
+    "Hoodie descriptions mostly 480gsm (16) or 460gsm (9); e.g. 'won' Hoodie black $106 (480gsm, 80/20 preshrunk cotton, made in Türkiye), 'riot' Hoodie black $117. Sizes small–xxlarge on all 42, xsmall on 14."
+  ],
+  "checked_at": "2026-10-29"
+}
