@@ -4,6 +4,22 @@
     "source_page": "https://www.6pm.com",
     "fetched_at": "2026-10-29"
   },
+  "abercrombie-fitch": {
+    "status": "no_share_image",
+    "source_page": "https://www.abercrombie.com/shop/us",
+    "fetched_at": "2026-10-29"
+  },
+  "aeropostale": {
+    "status": "no_share_image",
+    "source_page": "https://www.aeropostale.com",
+    "fetched_at": "2026-10-29"
+  },
+  "afends": {
+    "status": "error",
+    "error": "image fetch 404 text/html;",
+    "source_page": "https://afends.com",
+    "fetched_at": "2026-10-29"
+  },
   "affliction": {
     "status": "ok",
     "path": "/img/brands/affliction.webp",
@@ -14,9 +30,35 @@
     "source_image": "https://www.afflictionclothing.com/cdn/shop/files/SHOPIFY-SOCIAL-250228.jpg?v=1740781045",
     "fetched_at": "2026-10-29"
   },
+  "ag-jeans": {
+    "status": "ok",
+    "path": "/img/brands/ag-jeans.webp",
+    "width": 960,
+    "height": 502,
+    "bytes": 25106,
+    "source_page": "https://agjeans.com",
+    "source_image": "https://cdn.shopify.com/s/files/1/0664/9036/8232/files/FA26-D3-OG-IMAGE.jpg?v=1790888123",
+    "fetched_at": "2026-10-29"
+  },
   "alchemy-england": {
     "status": "no_share_image",
     "source_page": "https://alchemyofengland.com",
+    "fetched_at": "2026-10-29"
+  },
+  "american-apparel": {
+    "status": "error",
+    "error": "Input file contains unsupported image format",
+    "source_page": "https://www.americanapparel.com/us/en/",
+    "fetched_at": "2026-10-29"
+  },
+  "american-eagle": {
+    "status": "ok",
+    "path": "/img/brands/american-eagle.webp",
+    "width": 200,
+    "height": 200,
+    "bytes": 1252,
+    "source_page": "https://www.ae.com/us/en",
+    "source_image": "https://s7d2.scene7.com/is/image/aeo/aeo_social",
     "fetched_at": "2026-10-29"
   },
   "bad-boy": {
@@ -31,6 +73,16 @@
   },
   "bershka": {
     "status": "no_website",
+    "fetched_at": "2026-10-29"
+  },
+  "billabong": {
+    "status": "ok",
+    "path": "/img/brands/billabong.webp",
+    "width": 960,
+    "height": 408,
+    "bytes": 30888,
+    "source_page": "https://www.billabong.com",
+    "source_image": "https://www.billabong.com/cdn/shop/files/Billabong_Logo_1.png?v=1742441212",
     "fetched_at": "2026-10-29"
   },
   "bloomingdales-outlet": {
@@ -49,9 +101,35 @@
     "source_image": "https://cdn.sanity.io/images/k5c6l842/production/efea89471c344f736be75d60d4c757cccc2c7fd0-1200x630.png?rect=0,2,1200,627&w=1200&h=627&fit=crop&auto=format",
     "fetched_at": "2026-10-29"
   },
+  "by-dyln": {
+    "status": "ok",
+    "path": "/img/brands/by-dyln.webp",
+    "width": 960,
+    "height": 960,
+    "bytes": 4882,
+    "source_page": "https://bydyln.com",
+    "source_image": "https://bydyln.com/cdn/shop/files/logo.jpg?v=1655270125&width=2048",
+    "fetched_at": "2026-10-29"
+  },
   "chrome-hearts": {
     "status": "no_share_image",
     "source_page": "https://www.chromehearts.com",
+    "fetched_at": "2026-10-29"
+  },
+  "cos": {
+    "status": "blocked",
+    "http": 403,
+    "source_page": "https://www.cos.com/en-us",
+    "fetched_at": "2026-10-29"
+  },
+  "cotton-on": {
+    "status": "no_share_image",
+    "source_page": "https://cottonon.com/US/",
+    "fetched_at": "2026-10-29"
+  },
+  "daze": {
+    "status": "no_share_image",
+    "source_page": "https://dazedenim.com",
     "fetched_at": "2026-10-29"
   },
   "dollskill": {
@@ -85,14 +163,76 @@
     "fetched_at": "2026-10-29"
   },
   "edikted": {
-    "status": "error",
-    "error": "image fetch 404 image/png;",
+    "status": "blocked",
+    "http": 429,
     "source_page": "https://edikted.com",
+    "fetched_at": "2026-10-29"
+  },
+  "everlane": {
+    "status": "no_share_image",
+    "source_page": "https://everlane.com",
+    "fetched_at": "2026-10-29"
+  },
+  "express": {
+    "status": "no_share_image",
+    "source_page": "https://www.express.com",
+    "fetched_at": "2026-10-29"
+  },
+  "forever-21": {
+    "status": "ok",
+    "path": "/img/brands/forever-21.webp",
+    "width": 960,
+    "height": 502,
+    "bytes": 8406,
+    "source_page": "https://forever21.com",
+    "source_image": "https://www.forever21.com/cdn/shop/files/1200X628-SEO_F21_YELLOW.jpg?v=1745870250&width=2048",
+    "fetched_at": "2026-10-29"
+  },
+  "frank-and-oak": {
+    "status": "ok",
+    "path": "/img/brands/frank-and-oak.webp",
+    "width": 960,
+    "height": 960,
+    "bytes": 98476,
+    "source_page": "https://frankandoak.com",
+    "source_image": "https://www.frankandoak.com/cdn/shop/files/fao-about-closer-desk_df4f20d9-bf91-447d-84ab-16362b98d29a.jpg?crop=center&height=1200&v=1773341694&width=1200",
+    "fetched_at": "2026-10-29"
+  },
+  "free-people": {
+    "status": "blocked",
+    "http": 403,
+    "source_page": "https://www.freepeople.com",
+    "fetched_at": "2026-10-29"
+  },
+  "gap": {
+    "status": "no_share_image",
+    "source_page": "https://www.gap.com",
+    "fetched_at": "2026-10-29"
+  },
+  "h-m": {
+    "status": "blocked",
+    "http": 403,
+    "source_page": "https://www2.hm.com/en_us/",
     "fetched_at": "2026-10-29"
   },
   "hautelook": {
     "status": "no_share_image",
     "source_page": "https://www.hautelook.com",
+    "fetched_at": "2026-10-29"
+  },
+  "hollister": {
+    "status": "no_share_image",
+    "source_page": "https://www.hollisterco.com",
+    "fetched_at": "2026-10-29"
+  },
+  "honest-basics": {
+    "status": "ok",
+    "path": "/img/brands/honest-basics.webp",
+    "width": 960,
+    "height": 534,
+    "bytes": 20344,
+    "source_page": "https://honest-basics.com",
+    "source_image": "https://www.honest-basics.com/cdn/shop/files/social_sharing_picture_shopify.jpg?v=1675182550&width=2048",
     "fetched_at": "2026-10-29"
   },
   "hoodrich": {
@@ -103,6 +243,22 @@
     "bytes": 95710,
     "source_page": "https://hoodrichuk.com",
     "source_image": "https://hoodrichuk.com/cdn/shop/files/Hoodrich_1200x628px_TWC_Q2_2026_image_1.jpg?v=1774282442&width=1024",
+    "fetched_at": "2026-10-29"
+  },
+  "j-brand": {
+    "status": "error",
+    "error": "image fetch 200 text/html;charset=UTF-8",
+    "source_page": "https://www.jbrandjeans.com",
+    "fetched_at": "2026-10-29"
+  },
+  "j-crew": {
+    "status": "ok",
+    "path": "/img/brands/j-crew.webp",
+    "width": 960,
+    "height": 770,
+    "bytes": 7754,
+    "source_page": "https://www.jcrew.com",
+    "source_image": "https://www.jcrew.com/next-static/images/jcrew/jc-default.jpg",
     "fetched_at": "2026-10-29"
   },
   "jaded-london": {
@@ -131,9 +287,36 @@
     "source_image": "https://www.konflicusa.com/cdn/shop/files/06_600x600_cf885315-568f-4f25-8f0f-b5fe2cda0ccd.jpg?v=1773124159&width=1024",
     "fetched_at": "2026-10-29"
   },
+  "kotn": {
+    "status": "no_share_image",
+    "source_page": "https://kotn.com",
+    "fetched_at": "2026-10-29"
+  },
+  "levis": {
+    "status": "blocked",
+    "http": 403,
+    "source_page": "https://www.levi.com",
+    "fetched_at": "2026-10-29"
+  },
   "lioness": {
     "status": "no_share_image",
     "source_page": "https://lionessfashion.com",
+    "fetched_at": "2026-10-29"
+  },
+  "lucky-brand": {
+    "status": "no_share_image",
+    "source_page": "https://www.luckybrand.com",
+    "fetched_at": "2026-10-29"
+  },
+  "madewell": {
+    "status": "no_share_image",
+    "source_page": "https://www.madewell.com",
+    "fetched_at": "2026-10-29"
+  },
+  "mango": {
+    "status": "blocked",
+    "http": 429,
+    "source_page": "https://shop.mango.com/us",
     "fetched_at": "2026-10-29"
   },
   "maniere-de-voir": {
@@ -156,6 +339,16 @@
     "source_page": "https://metalmulisha.com",
     "fetched_at": "2026-10-29"
   },
+  "miaou": {
+    "status": "ok",
+    "path": "/img/brands/miaou.webp",
+    "width": 960,
+    "height": 544,
+    "bytes": 12638,
+    "source_page": "https://miaou.com",
+    "source_image": "https://miaou.com/cdn/shop/files/svg_1200_680.png?v=1686742792",
+    "fetched_at": "2026-10-29"
+  },
   "minga-london": {
     "status": "ok",
     "path": "/img/brands/minga-london.webp",
@@ -166,9 +359,25 @@
     "source_image": "https://www.mingalondon.com/cdn/shop/files/minga-320x132.png?v=1793116304",
     "fetched_at": "2026-10-29"
   },
+  "miss-selfridge": {
+    "status": "error",
+    "error": "Command failed: curl -sSL --max-time 25 --max-filesize 10000000 -A StylodexBot/0.1 (+https://www.stylodex.com/how-we-pick) -w \n%{http_code} %{content_type} https://www.asos.com/miss-selfridge/\ncurl: (",
+    "source_page": "https://www.asos.com/miss-selfridge/",
+    "fetched_at": "2026-10-29"
+  },
   "mnml": {
     "status": "no_share_image",
     "source_page": "https://mnml.la",
+    "fetched_at": "2026-10-29"
+  },
+  "modcloth": {
+    "status": "ok",
+    "path": "/img/brands/modcloth.webp",
+    "width": 960,
+    "height": 502,
+    "bytes": 9252,
+    "source_page": "https://modcloth.com",
+    "source_image": "https://modcloth.com/cdn/shop/files/ModCloth_Logo_1200x628_15dc462f-196f-49fb-a86d-79841942351e.jpg?v=1750463087",
     "fetched_at": "2026-10-29"
   },
   "motel-rocks": {
@@ -181,6 +390,16 @@
     "source_image": "https://cdn.shopify.com/s/files/1/0020/4236/4017/files/CHECKOUT_LOGO_WHITE.png?height=628&pad_color=fff&v=1699337959&width=1200",
     "fetched_at": "2026-10-29"
   },
+  "mud-jeans": {
+    "status": "ok",
+    "path": "/img/brands/mud-jeans.webp",
+    "width": 960,
+    "height": 960,
+    "bytes": 7722,
+    "source_page": "https://mudjeans.com",
+    "source_image": "https://mudjeans.com/cdn/shop/files/MUD_LOGO_BLACK_RGB_0e2c5272-9135-43bd-b15e-4214dfa2fe68.webp?crop=center&height=1200&v=1789471535&width=1200",
+    "fetched_at": "2026-10-29"
+  },
   "named-collective": {
     "status": "ok",
     "path": "/img/brands/named-collective.webp",
@@ -189,6 +408,16 @@
     "bytes": 23464,
     "source_page": "https://namedcollective.com",
     "source_image": "https://cdn.shopify.com/s/files/1/0269/0059/4766/files/preferences_logo.jpg?v=1732698455",
+    "fetched_at": "2026-10-29"
+  },
+  "nasty-gal": {
+    "status": "ok",
+    "path": "/img/brands/nasty-gal.webp",
+    "width": 960,
+    "height": 504,
+    "bytes": 35382,
+    "source_page": "https://www.nastygal.com",
+    "source_image": "https://www.nastygal.com/assets/og-image.jpg",
     "fetched_at": "2026-10-29"
   },
   "neiman-marcus-last-call": {
@@ -212,6 +441,27 @@
     "source_image": "https://o-mighty.com/images/fb.jpg",
     "fetched_at": "2026-10-29"
   },
+  "oak-fort": {
+    "status": "ok",
+    "path": "/img/brands/oak-fort.webp",
+    "width": 630,
+    "height": 630,
+    "bytes": 3340,
+    "source_page": "https://oakandfort.com",
+    "source_image": "https://oakandfort.com/cdn/shop/files/Icon_1200x630.jpg?v=1721569416",
+    "fetched_at": "2026-10-29"
+  },
+  "old-navy": {
+    "status": "no_share_image",
+    "source_page": "https://oldnavy.gap.com",
+    "fetched_at": "2026-10-29"
+  },
+  "other-stories": {
+    "status": "blocked",
+    "http": 403,
+    "source_page": "https://www.stories.com/en-us/",
+    "fetched_at": "2026-10-29"
+  },
   "other-uk": {
     "status": "ok",
     "path": "/img/brands/other-uk.webp",
@@ -222,8 +472,45 @@
     "source_image": "https://otheruk.com/cdn/shop/files/thumb_5ce39e0a-2ef0-46db-845e-6d8614524e31_1000x1000.jpg?v=1764257549",
     "fetched_at": "2026-10-29"
   },
+  "outerknown": {
+    "status": "ok",
+    "path": "/img/brands/outerknown.webp",
+    "width": 960,
+    "height": 540,
+    "bytes": 45848,
+    "source_page": "https://www.outerknown.com",
+    "source_image": "https://www.outerknown.com/cdn/shop/files/OK_1920x1080_2983c5e4-947a-4dd8-bf1f-f5b2e98bcf6c.jpg?v=1788985892",
+    "fetched_at": "2026-10-29"
+  },
+  "pacsun": {
+    "status": "no_share_image",
+    "source_page": "https://www.pacsun.com",
+    "fetched_at": "2026-10-29"
+  },
+  "pistola": {
+    "status": "blocked",
+    "http": 429,
+    "source_page": "https://www.pistoladenim.com",
+    "fetched_at": "2026-10-29"
+  },
+  "pixie-market": {
+    "status": "ok",
+    "path": "/img/brands/pixie-market.webp",
+    "width": 575,
+    "height": 44,
+    "bytes": 2434,
+    "source_page": "https://pixiemarket.com",
+    "source_image": "https://www.pixiemarket.com/cdn/shop/t/79/assets/logo.png?v=20678580997949466021686663306",
+    "fetched_at": "2026-10-29"
+  },
   "rebel-spirit": {
     "status": "no_website",
+    "fetched_at": "2026-10-29"
+  },
+  "reformation": {
+    "status": "blocked",
+    "http": 403,
+    "source_page": "https://www.thereformation.com",
     "fetched_at": "2026-10-29"
   },
   "represent": {
@@ -236,6 +523,22 @@
     "source_image": "https://cdn.shopify.com/s/files/1/0587/5816/8785/files/Represent1checkout_1_db08ea91-0ef3-4c8d-9da8-7aece30c19f5.png?v=1629391529",
     "fetched_at": "2026-10-29"
   },
+  "revolve": {
+    "status": "error",
+    "error": "Command failed: curl -sSL --max-time 25 --max-filesize 10000000 -A StylodexBot/0.1 (+https://www.stylodex.com/how-we-pick) -w \n%{http_code} %{content_type} https://www.revolve.com\ncurl: (92) HTTP/2 st",
+    "source_page": "https://www.revolve.com",
+    "fetched_at": "2026-10-29"
+  },
+  "revolve-notes": {
+    "status": "no_website",
+    "fetched_at": "2026-10-29"
+  },
+  "rollas": {
+    "status": "error",
+    "error": "image fetch 404 text/html;",
+    "source_page": "https://rollasjeans.com",
+    "fetched_at": "2026-10-29"
+  },
   "ross-dress-for-less": {
     "status": "ok",
     "path": "/img/brands/ross-dress-for-less.webp",
@@ -246,9 +549,24 @@
     "source_image": "https://www.rossstores.com/wp-content/uploads/2021/06/ross_logo_fb.png",
     "fetched_at": "2026-10-29"
   },
+  "rue21": {
+    "status": "ok",
+    "path": "/img/brands/rue21.webp",
+    "width": 471,
+    "height": 149,
+    "bytes": 2340,
+    "source_page": "https://www.rue21.com",
+    "source_image": "https://rue21.com/cdn/shop/files/Jewellery-Daily-Deals-_-Complete-account-setup-_-Shopify.png?v=1722290916",
+    "fetched_at": "2026-10-29"
+  },
   "saks-off-5th": {
     "status": "no_share_image",
     "source_page": "https://www.saksoff5th.com",
+    "fetched_at": "2026-10-29"
+  },
+  "shopbop": {
+    "status": "no_share_image",
+    "source_page": "https://www.shopbop.com",
     "fetched_at": "2026-10-29"
   },
   "sierra": {
@@ -256,9 +574,34 @@
     "source_page": "https://www.sierra.com",
     "fetched_at": "2026-10-29"
   },
+  "spell": {
+    "status": "ok",
+    "path": "/img/brands/spell.webp",
+    "width": 960,
+    "height": 502,
+    "bytes": 5424,
+    "source_page": "https://usa.spell.co",
+    "source_image": "https://usa.spell.co/cdn/shop/files/Shopify_SocialSharing_Logo_25d7b65e-9e56-4c8d-9247-baae374bd398.png?v=1618526616&width=1200",
+    "fetched_at": "2026-10-29"
+  },
+  "storets": {
+    "status": "ok",
+    "path": "/img/brands/storets.webp",
+    "width": 512,
+    "height": 84,
+    "bytes": 2730,
+    "source_page": "https://storets.com",
+    "source_image": "https://www.storets.com/cdn/shop/files/storets_01.png?v=1661831350",
+    "fetched_at": "2026-10-29"
+  },
   "sullen": {
     "status": "no_share_image",
     "source_page": "https://sullenclothing.com",
+    "fetched_at": "2026-10-29"
+  },
+  "superdry": {
+    "status": "no_share_image",
+    "source_page": "https://www.superdry.com/us/",
     "fetched_at": "2026-10-29"
   },
   "tapout": {
@@ -277,7 +620,8 @@
     "fetched_at": "2026-10-29"
   },
   "the-ragged-priest": {
-    "status": "no_share_image",
+    "status": "blocked",
+    "http": 429,
     "source_page": "https://theraggedpriest.com",
     "fetched_at": "2026-10-29"
   },
@@ -296,10 +640,43 @@
     "source_page": "https://tjmaxx.tjx.com",
     "fetched_at": "2026-10-29"
   },
+  "topshop": {
+    "status": "error",
+    "error": "Command failed: curl -sSL --max-time 25 --max-filesize 10000000 -A StylodexBot/0.1 (+https://www.stylodex.com/how-we-pick) -w \n%{http_code} %{content_type} https://www.asos.com/us/topshop/\ncurl: (92) ",
+    "source_page": "https://www.asos.com/us/topshop/",
+    "fetched_at": "2026-10-29"
+  },
+  "tripp-nyc": {
+    "status": "no_share_image",
+    "source_page": "https://trippnyc.com",
+    "fetched_at": "2026-10-29"
+  },
   "true-religion": {
     "status": "blocked",
     "http": 307,
     "source_page": "https://www.truereligion.com",
+    "fetched_at": "2026-10-29"
+  },
+  "uniqlo": {
+    "status": "error",
+    "error": "Command failed: curl -sSL --max-time 25 --max-filesize 10000000 -A StylodexBot/0.1 (+https://www.stylodex.com/how-we-pick) -w \n%{http_code} %{content_type} https://www.uniqlo.com/us/en/\ncurl: (92) HTT",
+    "source_page": "https://www.uniqlo.com/us/en/",
+    "fetched_at": "2026-10-29"
+  },
+  "urban-outfitters": {
+    "status": "blocked",
+    "http": 403,
+    "source_page": "https://www.urbanoutfitters.com",
+    "fetched_at": "2026-10-29"
+  },
+  "urban-revivo": {
+    "status": "ok",
+    "path": "/img/brands/urban-revivo.webp",
+    "width": 960,
+    "height": 500,
+    "bytes": 40118,
+    "source_page": "https://global.urbanrevivo.com",
+    "source_image": "https://global.urbanrevivo.com/cdn/shop/files/990_1_441fc199-d6cf-46a2-8360-121151cad8d2_1200x1200.jpg?v=1627871035",
     "fetched_at": "2026-10-29"
   },
   "venum": {
@@ -316,6 +693,12 @@
     "status": "no_website",
     "fetched_at": "2026-10-29"
   },
+  "wildfox": {
+    "status": "blocked",
+    "http": 429,
+    "source_page": "https://wildfox.com",
+    "fetched_at": "2026-10-29"
+  },
   "xtreme-couture": {
     "status": "ok",
     "path": "/img/brands/xtreme-couture.webp",
@@ -324,6 +707,12 @@
     "bytes": 15392,
     "source_page": "https://xtremecouture.com",
     "source_image": "https://xtremecouture.com/cdn/shop/files/xtremelogo_8d5ad992-3276-4ba1-825e-21f86bd8656c.png?v=1630555723&width=1024",
+    "fetched_at": "2026-10-29"
+  },
+  "zara": {
+    "status": "blocked",
+    "http": 403,
+    "source_page": "https://www.zara.com/us/",
     "fetched_at": "2026-10-29"
   }
 }

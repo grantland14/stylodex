@@ -34,7 +34,7 @@
   ],
   "materials": [],
   "certifications": [],
-  "production_model": "Styles engineered in-house; limited quantities with chosen production partners; sold direct to consumers (About page)",
+  "production_model": "Designed in-house, small runs, sold direct",
   "sale_pattern": null,
   "sources": [
     "https://mnml.la/",
@@ -52,7 +52,8 @@
     "HQ is not stated outright: the About page says the design team works in a 'downtown Los Angeles studio'. The jobs link names mnml Brands LLC, but the site doesn't say whether that is a parent company.",
     "Shipping: 'All international orders are shipped via DHL'. CA/GB/AU appear in the country selector, but the policy doesn't list destinations, so only US is stored.",
     "Collection pages render few products to WebFetch. The shop page showed a $88 cargo pant (not in the stored range). No size-guide page was found; the size range comes from the collection size filters.",
-    "2026-10-29: the old streetwear and denim price rows (truncated pages) were replaced by the jeans row from products.json. Regular price = no variant with compare_at_price above price and no sale/markdown tag; sale items excluded."
+    "2026-10-29: the old streetwear and denim price rows (truncated pages) were replaced by the jeans row from products.json. Regular price = no variant with compare_at_price above price and no sale/markdown tag; sale items excluded.",
+    "production_model detail: Styles engineered in-house; limited quantities with chosen production partners; sold direct to consumers (About page)"
   ],
   "checked_at": "2026-10-29"
 }

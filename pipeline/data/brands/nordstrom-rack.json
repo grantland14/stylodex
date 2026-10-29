@@ -8,7 +8,7 @@
   "hq_country": "US",
   "founded_year": 1973,
   "parent_company": "Nordstrom, Inc.",
-  "size_range": "Women's 00–28W+ (XXS–4X+); petite 00P–18P+; plus 14W–28W+; jeans waists 23–36",
+  "size_range": "00–28W, petite and plus; waists 23–36",
   "has_plus": true,
   "has_petite": true,
   "has_tall": null,
@@ -35,7 +35,7 @@
   "materials": [],
   "certifications": [],
   "production_model": null,
-  "sale_pattern": "Ongoing markdowns: homepage banner 'New Markdowns Up to 70% Off'; a Clearance department in the main navigation.",
+  "sale_pattern": "Ongoing markdowns up to 70% off, plus Clearance",
   "sources": [
     "https://www.nordstromrack.com/",
     "https://www.nordstromrack.com/shop/Women/Clothing/Jeans",
@@ -49,7 +49,9 @@
     "Shipping/returns page (2026-10-29): free shipping 'Applies to most orders over $89 before tax'; 'All other orders under $89: $9.95'; 'Online purchases must be returned within 40 days of order date'; '$9.95 will be deducted from your refund per pre-paid shipping label used'; online orders can be returned to any Nordstrom or Nordstrom Rack store at no charge; 'Nordstrom Rack will no longer offer shipping options for addresses outside of the U.S., including Canada.' Holiday extension for purchases 10/5/26–12/24/26 runs to 1/18/27.",
     "Size range from the jeans listing's size filters (women's 00 to 28W+/4X+, petite 00 (XXS) to 18+ (XXL+), plus 14W–28W+/1X–4X+, waist 23–36).",
     "Wikipedia (Nordstrom_Rack): founded 1973 in Seattle as a clearance outlet [3], first Rack in the basement of the downtown Seattle Nordstrom [4]; parent Nordstrom; HQ Seattle; 348 stores in 41 US states [2] (infobox says 346, 2023). HauteLook (acquired by Nordstrom 2011) now redirects to nordstromrack.com/events.",
-    "nordstromrack.com serves a JavaScript challenge to curl; read only via WebFetch. Query-string URLs (sort) came back empty; ?page=N worked."
+    "nordstromrack.com serves a JavaScript challenge to curl; read only via WebFetch. Query-string URLs (sort) came back empty; ?page=N worked.",
+    "size_range detail: Women's 00–28W+ (XXS–4X+); petite 00P–18P+; plus 14W–28W+; jeans waists 23–36",
+    "sale_pattern detail: Ongoing markdowns: homepage banner 'New Markdowns Up to 70% Off'; a Clearance department in the main navigation."
   ],
   "checked_at": "2026-10-29"
 }

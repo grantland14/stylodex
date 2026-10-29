@@ -8,7 +8,7 @@
   "hq_country": null,
   "founded_year": null,
   "parent_company": null,
-  "size_range": "Men's cotton tees S–XXL (XXXL on 96 of 150, XXXXL on 25, XS on 29)",
+  "size_range": "Tees S–3XL",
   "has_plus": null,
   "has_petite": null,
   "has_tall": null,
@@ -53,7 +53,8 @@
     "No title or self-description on the homepage (nav: Outlet, New, Gloves, Shop by Sport, Venum x UFC, Collaborations, Collections, Equipment, Men, Women, Kids), so known_for is null.",
     "The US store is run by 'DBV distribution (\"Venum Fight\") ... a company registered in the USA' (Vernon, CA). Brand HQ isn't stated; Wikipedia calls Venum a French manufacturer created in 2006, uncited, so hq_country and founded_year are null.",
     "Shipping: 'All orders over $75 are eligible for free shipping' (not AK/HI/PR); Mexico and Canada by DHL; UK and Australia not named. Returns: 'within 30 days of receipt', unworn.",
-    "Page texts (About, policies) were read from the store's public /pages.json as well as by WebFetch."
+    "Page texts (About, policies) were read from the store's public /pages.json as well as by WebFetch.",
+    "size_range detail: Men's cotton tees S–XXL (XXXL on 96 of 150, XXXXL on 25, XS on 29)"
   ],
   "checked_at": "2026-10-29"
 }

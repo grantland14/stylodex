@@ -32,7 +32,7 @@
       "note": "products.json (2 pages, 261 products): 5 non-jean items excluded, 82 with compare_at above price excluded; 174 regular-price women's jeans at $210–$425. Low end: Farrah Skinny Ankle, Mari, Prima Ankle ($210); high end: Adria and Billie ($425); Mercer and Sydney Selvage at $395."
     }
   ],
-  "production_model": "Vertically operated with in-house manufacturing; describes itself as the first vertically operated denim manufacturer on the West Coast (About page)",
+  "production_model": "Vertically operated, with in-house manufacturing",
   "sources": [
     "https://agjeans.com/",
     "https://agjeans.com/collections.json?limit=250",
@@ -44,7 +44,8 @@
   "notes": [
     "Homepage title: 'AG Jeans - Official Online Store - Premium Denim Jeans and Clothing'. About page: 'premium denim and knitwear house leading the sustainable manufacturing movement'; founded in Los Angeles in 2000 by Adriano Goldschmied and Yul Ku.",
     "Shipping policy: 'Complimentary 2-day shipping is offered for all online purchases shipping to the U.S.' (contiguous US; no P.O. boxes, APO/FPO or territories) at any subtotal. free_shipping_min_usd left empty because the template would render a $0 threshold as \"Over $0\". Overnight $14.95–$34.95 by subtotal. Country selector lists Canada, United Kingdom and Australia as shipping countries.",
-    "Return policy: 30 days from purchase; $12 return fee (or a $12 restocking fee) unless the $7 Free Returns add-on is bought at checkout; waived for gift card refunds or own-carrier returns. Final Sale not returnable."
+    "Return policy: 30 days from purchase; $12 return fee (or a $12 restocking fee) unless the $7 Free Returns add-on is bought at checkout; waived for gift card refunds or own-carrier returns. Final Sale not returnable.",
+    "production_model detail: Vertically operated with in-house manufacturing; describes itself as the first vertically operated denim manufacturer on the West Coast (About page)"
   ],
   "checked_at": "2026-10-29"
 }

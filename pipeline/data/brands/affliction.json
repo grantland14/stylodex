@@ -8,7 +8,7 @@
   "hq_country": "US",
   "founded_year": 2005,
   "parent_company": "Affliction Holdings LLC",
-  "size_range": "Women's jeans W24–W34; men's W27–W44; men's graphic tees XS–4X (5X on 17 of 488), women's short-sleeve tees XS–XL (2X on 104 of 144)",
+  "size_range": "XS–4X; waists 24–44",
   "has_plus": null,
   "has_petite": null,
   "has_tall": null,
@@ -50,7 +50,7 @@
   ],
   "materials": [],
   "certifications": [],
-  "production_model": "Vertically integrated production facilities worldwide; 'The majority of their products are still made in the USA' (About)",
+  "production_model": "Mostly made in the USA",
   "sale_pattern": null,
   "sources": [
     "https://www.affliction.com/",
@@ -81,7 +81,9 @@
     "Shipping policy re-read 2026-10-29: 'We ship to almost every country via FedEx International' with an exclusion list of ~30 countries (Afghanistan ... Ukraine) that does not include Canada, the United Kingdom or Australia; UK and Australia appear in the country selector. ships_to now US, CA, GB, AU on that basis. Still no free-shipping threshold.",
     "Size chart page (/pages/size-chart) is image-only; tee sizes come from products.json size options.",
     "Returns re-read 2026-10-29 at /pages/return-policy: 'You may return most items within 30 days of your original purchase'; $7.00 restocking fee on refunds.",
-    "Currency USD: prices served in USD by products.json; cart.js (USD) was read on the jeans run; this run's cart.js and homepage HTML requests returned no body / 403 to curl, so not re-read (no workaround)."
+    "Currency USD: prices served in USD by products.json; cart.js (USD) was read on the jeans run; this run's cart.js and homepage HTML requests returned no body / 403 to curl, so not re-read (no workaround).",
+    "size_range detail: Women's jeans W24–W34; men's W27–W44; men's graphic tees XS–4X (5X on 17 of 488), women's short-sleeve tees XS–XL (2X on 104 of 144)",
+    "production_model detail: Vertically integrated production facilities worldwide; 'The majority of their products are still made in the USA' (About)"
   ],
   "checked_at": "2026-10-29"
 }

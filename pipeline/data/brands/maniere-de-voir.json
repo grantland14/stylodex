@@ -8,7 +8,7 @@
   "hq_country": "US",
   "founded_year": 2013,
   "parent_company": null,
-  "size_range": "Women's jeans US 0–12",
+  "size_range": "Jeans US 0–12",
   "has_plus": null,
   "has_petite": null,
   "has_tall": null,
@@ -47,7 +47,7 @@
   ],
   "materials": [],
   "certifications": [],
-  "production_model": "Each piece designed by an in-house design team from sketch to sample (About)",
+  "production_model": "Designed in-house from sketch to sample",
   "sale_pattern": null,
   "sources": [
     "https://www.manieredevoir.com/",
@@ -60,7 +60,9 @@
     "About: 'bridge the gap between high fashion and the high street'; founder and CEO Reece Wabara; founded 2013; head office SoHo, New York. It doesn't call itself streetwear, so off_category.",
     "The US store (us.manieredevoir.com) prices in USD; the main site is GBP. Returns page not fetched.",
     "2026-10-29 re-check for C = jeans: status off_category -> verified (sells jeans). Refund policy (US store): 14 days from delivery; sale items e-gift card only; returns address Freehold, NJ. First products.json request returned 503; the second returned 200. Regular price = no variant with compare_at_price above price and no sale/markdown tag; sale items excluded.",
-    "size_range is from the jeans variants (US 0–12), not a size guide."
+    "size_range is from the jeans variants (US 0–12), not a size guide.",
+    "size_range detail: Women's jeans US 0–12",
+    "production_model detail: Each piece designed by an in-house design team from sketch to sample (About)"
   ],
   "checked_at": "2026-10-29"
 }

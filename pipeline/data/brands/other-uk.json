@@ -8,7 +8,7 @@
   "hq_country": "GB",
   "founded_year": 2012,
   "parent_company": null,
-  "size_range": "W26–W36 (men's jeans)",
+  "size_range": "Jeans waists 26–36",
   "has_plus": null,
   "has_petite": null,
   "has_tall": null,
@@ -40,7 +40,7 @@
     "denim"
   ],
   "certifications": [],
-  "production_model": "Hand screen-printed; cut, distressed and patched in-house in its UK studio (About)",
+  "production_model": "Hand-printed and finished in its UK studio",
   "sale_pattern": null,
   "sources": [
     "https://www.otheruk.com/",
@@ -57,7 +57,9 @@
     "2026-10-28 marked off_category against the old style-category (streetwear). 2026-10-29 re-checked for C = jeans: it sells regular-price jeans, so status is verified.",
     "Delivery: 'Orders ship from our UK HQ'; regions UK, EU, USA, Australia, Canada, ROW; 'USA Shipping: Flat Fee of $16 … free shipping when you spend over $170'; prices include duties.",
     "Returns: refunds within 14 days of receiving the order; customer pays return shipping (international return fee deducted); sale items final.",
-    "hq_country GB from 'our UK HQ' (delivery policy). The size guide gives no ranges; the waist range comes from product variants."
+    "hq_country GB from 'our UK HQ' (delivery policy). The size guide gives no ranges; the waist range comes from product variants.",
+    "size_range detail: W26–W36 (men's jeans)",
+    "production_model detail: Hand screen-printed; cut, distressed and patched in-house in its UK studio (About)"
   ],
   "checked_at": "2026-10-29"
 }

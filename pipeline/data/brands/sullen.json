@@ -8,7 +8,7 @@
   "hq_country": "US",
   "founded_year": 2001,
   "parent_company": null,
-  "size_range": "Tees S–3X (4X and 5X on 130 of 135)",
+  "size_range": "Tees S–5X",
   "has_plus": null,
   "has_petite": null,
   "has_tall": null,
@@ -54,7 +54,8 @@
   "notes": [
     "Title 'Sullen Art Collective - Tattoo lifestyle apparel brand'; meta 'Sullen Clothing based in Southern California since 2001, is an art driven tattoo lifestyle brand'. FAQ: 'founded in 2001 in Southern California'; 'Every graphic is original work from a real tattoo artist, printed on heavyweight Premium and Standard tees'; Artist Series with '460+ tattoo artists'. About: 'independently owned'.",
     "Returns: 'within 30 days of the original purchase date'; returns go to Seal Beach, CA. Banner: 'FREE U.S. Dom shipping + $99'. Shipping Rates page lists rates to the U.K., Australia, Canada and other countries.",
-    "Page texts (About, policies) were read from the store's public /pages.json as well as by WebFetch."
+    "Page texts (About, policies) were read from the store's public /pages.json as well as by WebFetch.",
+    "size_range detail: Tees S–3X (4X and 5X on 130 of 135)"
   ],
   "checked_at": "2026-10-29"
 }

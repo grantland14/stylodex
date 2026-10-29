@@ -23,7 +23,7 @@
   ],
   "free_shipping_min_usd": null,
   "returns_days": 14,
-  "production_model": "Design centers in London, Shanghai and Guangzhou (About)",
+  "production_model": "Designed in London, Shanghai and Guangzhou",
   "sale_pattern": null,
   "prices": [
     {
@@ -53,6 +53,7 @@
     "Homepage title: 'Trendy Fashion, Runway Inspired Styles And Designs – URBAN REVIVO'. The US URL www.urbanrevivo.com redirects to global.urbanrevivo.com.",
     "About: 'Founded in 2006'; design centers in London, Shanghai and Guangzhou; registered address in Guangzhou, China (hq_country CN). Website operator names are unclear, so parent_company is null.",
     "Shipping: US and Canada listed under North America, UK under Europe; Standard 10–20 business days, Express 3–10 to the US. Free standard shipping over US$119 is said to apply to 'most countries' without naming the US, so free_shipping_min_usd is null.",
-    "Returns: within 14 days of delivery, refund to the original payment method; customer pays return shipping."
+    "Returns: within 14 days of delivery, refund to the original payment method; customer pays return shipping.",
+    "production_model detail: Design centers in London, Shanghai and Guangzhou (About)"
   ]
 }

@@ -36,7 +36,7 @@
   "materials": [],
   "certifications": [],
   "production_model": null,
-  "sale_pattern": "Sale items are store credit only; Online Warehouse Sale items can't be refunded.",
+  "sale_pattern": "Sale items are store credit only",
   "sources": [
     "https://spell.co/",
     "https://usa.spell.co/",
@@ -50,7 +50,8 @@
   "notes": [
     "spell.co (AUD) title: 'Elevated Boho Clothing, Designed in Byron Bay – SPELL'; meta: 'an Australian lifestyle brand of ready-to-wear pieces'. us.spell.co redirects to usa.spell.co, a separate US store in USD.",
     "US shipping: free over $150, flat $9.95 under $150, USPS Priority 3–5 business days. Returns: full-price styles within 30 days; sale styles store credit only.",
-    "The Australian store ships internationally via DHL Express."
+    "The Australian store ships internationally via DHL Express.",
+    "sale_pattern detail: Sale items are store credit only; Online Warehouse Sale items can't be refunded."
   ],
   "checked_at": "2026-10-29"
 }

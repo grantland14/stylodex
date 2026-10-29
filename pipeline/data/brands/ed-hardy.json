@@ -8,7 +8,7 @@
   "hq_country": "US",
   "founded_year": null,
   "parent_company": null,
-  "size_range": "Men's tees S–XXL (XXL on 86 of 95; XS on 1)",
+  "size_range": "Tees S–XXL",
   "has_plus": null,
   "has_petite": null,
   "has_tall": null,
@@ -58,7 +58,8 @@
     "Wikipedia (cited to Reuters): Iconix Brand Group bought 50% of Hardy Way LLC in 2009 and 85% in 2011; Hardy Way LLC owns the trademarks. parent_company left null because the current owner isn't confirmed by a dated source fetched this run.",
     "Shipping: 'FREE SHIPPING on all orders over $100 USD for the USA and for orders over $195 (USD) for Canada'; Mexico flat $50. UK and Australia not mentioned. Returns: 'within 30 days of receiving your purchase'; sale items final.",
     "Zumiez stocks Ed Hardy (282 items on its brand page, incl. tees at $42.95–$44.95).",
-    "Page texts (About, policies) were read from the store's public /pages.json as well as by WebFetch."
+    "Page texts (About, policies) were read from the store's public /pages.json as well as by WebFetch.",
+    "size_range detail: Men's tees S–XXL (XXL on 86 of 95; XS on 1)"
   ],
   "checked_at": "2026-10-29"
 }

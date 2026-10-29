@@ -1,4 +1,10 @@
 {
+  "6pm": {
+    "womens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "affliction": {
     "jeans": {
       "status": "ok",
@@ -231,6 +237,12 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "madewell": {
+    "womens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "maniere-de-voir": {
     "jeans": {
       "status": "ok",
@@ -327,6 +339,38 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "modcloth": {
+    "womens-clothing": {
+      "status": "ok",
+      "items": [
+        {
+          "path": "/img/products/modcloth/rainbow-with-me-wide-leg-jeans-207272-medium-wash.webp",
+          "title": "Rainbow With Me Wide-Leg Jeans",
+          "product_path": "/products/rainbow-with-me-wide-leg-jeans-207272-medium-wash",
+          "price": 79,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0559/0604/2027/files/2024_07_29ModCloth7696.jpg?v=1727155580"
+        },
+        {
+          "path": "/img/products/modcloth/retro-flora-flare-jean.webp",
+          "title": "Retro Flora Flare Jean",
+          "product_path": "/products/retro-flora-flare-jean",
+          "price": 79.6,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0559/0604/2027/files/PGFV441_653_2.jpg?v=1718989771"
+        },
+        {
+          "path": "/img/products/modcloth/native-flora-embroidered-jean.webp",
+          "title": "Native Flora Embroidered Jean",
+          "product_path": "/products/native-flora-embroidered-jean",
+          "price": 86.6,
+          "currency": "USD",
+          "source_image": "https://cdn.shopify.com/s/files/1/0559/0604/2027/files/PGFAC233_420_16.jpg?v=1787865932"
+        }
+      ],
+      "fetched_at": "2026-10-29"
+    }
+  },
   "motel-rocks": {
     "jeans": {
       "status": "ok",
@@ -359,6 +403,12 @@
       "fetched_at": "2026-10-29"
     }
   },
+  "nordstrom-rack": {
+    "womens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
   "represent": {
     "jeans": {
       "status": "ok",
@@ -388,6 +438,18 @@
           "source_image": "https://cdn.shopify.com/s/files/1/0587/5816/8785/files/R6-Flare-Denim-Astro-Blue_MLM100972-07_Packshot_01.jpg?v=1792604133"
         }
       ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "revolve": {
+    "womens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "shopbop": {
+    "womens-clothing": {
+      "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
   },
@@ -452,6 +514,18 @@
           "source_image": "https://cdn.shopify.com/s/files/1/0252/4518/8149/files/ragged-priest-icon-dirty-blue-belted-flare-jeans-1.jpg?v=1791364102"
         }
       ],
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "tj-maxx": {
+    "womens-clothing": {
+      "status": "no_feed",
+      "fetched_at": "2026-10-29"
+    }
+  },
+  "urban-outfitters": {
+    "womens-clothing": {
+      "status": "no_feed",
       "fetched_at": "2026-10-29"
     }
   },

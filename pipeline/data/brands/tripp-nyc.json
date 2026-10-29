@@ -11,7 +11,7 @@
   "hq_country": "US",
   "founded_year": null,
   "parent_company": null,
-  "size_range": "women's W24–W31; unisex XXS–XXXL; plus 14–18 in denim (size chart plus 10–28)",
+  "size_range": "XXS–XXXL, waists 24–31; plus 10–28",
   "has_plus": true,
   "has_petite": null,
   "has_tall": null,
@@ -50,6 +50,7 @@
     "About: founded 'in the early 1980s' by designer Daang Goodman in the East Village, New York City; 'a staple in alternative fashion'. No exact year, so founded_year is null. Returns go to North Bergen, NJ.",
     "Shipping: 'US domestic orders over $150 qualify for free ground shipping'; under that, weight/location based. International shipping exists (duties shown at checkout) but no country list, so only US is stored.",
     "Returns: request within 7 days of receipt; refunds minus return shipping; free returns for store credit; sale styles final; returns over $350 may carry a 15% restocking fee.",
-    "Size chart: women's bottoms 24–31; unisex Dark Street pants XXS–XXXL (waist 29–49 in, 32 in inseam); women's plus 10–28. Denim products list plus 14–18."
+    "Size chart: women's bottoms 24–31; unisex Dark Street pants XXS–XXXL (waist 29–49 in, 32 in inseam); women's plus 10–28. Denim products list plus 14–18.",
+    "size_range detail: women's W24–W31; unisex XXS–XXXL; plus 14–18 in denim (size chart plus 10–28)"
   ]
 }

@@ -8,7 +8,7 @@
   "hq_country": "AU",
   "founded_year": 1991,
   "parent_company": "Cotton On Group",
-  "size_range": "Women's US 0–20; Petite and Curvy jeans ranges",
+  "size_range": "US 0–20; Petite and Curvy jeans",
   "has_plus": null,
   "has_petite": true,
   "has_tall": null,
@@ -44,7 +44,8 @@
     "Site banner on the US store: 'Free delivery on orders $75+'. Standard rate not stated.",
     "Returns page: 'No expiration on returns!': eligible items can be returned at any time with proof of purchase, in original condition; return shipping free within the country of purchase; original delivery fees not refunded on change-of-mind returns. returns_days left empty because there is no day limit.",
     "Size guide: women's US 0–20 (3XS–5XL). Jeans menu has Petite Jeans and Curvy Fit Jeans; petite tiles say 'Shorter Front Rise & Inseam'; some curvy tiles say 'Gap-proof Waist'.",
-    "Wikipedia: Cotton On Group founded 1991 by Nigel Austin, HQ Geelong, Australia, private company."
+    "Wikipedia: Cotton On Group founded 1991 by Nigel Austin, HQ Geelong, Australia, private company.",
+    "size_range detail: Women's US 0–20; Petite and Curvy jeans ranges"
   ],
   "checked_at": "2026-10-29"
 }

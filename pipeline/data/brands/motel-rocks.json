@@ -4,7 +4,7 @@
   "website_url": "https://us.motelrocks.com",
   "status": "verified",
   "kind": "brand",
-  "known_for": "Vintage & Printed Women's Fashion",
+  "known_for": "Vintage & Printed Womenswear",
   "hq_country": null,
   "founded_year": null,
   "parent_company": null,
@@ -34,7 +34,7 @@
   ],
   "materials": [],
   "certifications": [],
-  "production_model": "Designed in-house in London; production team in Canggu, Bali (About)",
+  "production_model": "Designed in London; produced in Bali",
   "sale_pattern": null,
   "sources": [
     "https://us.motelrocks.com/",
@@ -49,7 +49,9 @@
     "Live. Self-description: 'Vintage & Printed Women's Fashion & Clothes'. The About page doesn't say streetwear, and the word appears only in individual product copy. Off_category under this run's rule.",
     "Returns: 30 days from dispatch. Jeans come in 30/32/34 inch leg lengths only. Founders 'Will and Andy'; independent; HQ not stated.",
     "Prices null: New In rendered no products.",
-    "2026-10-29 re-check for C = jeans: status off_category -> verified (sells jeans). Regular price = no variant with compare_at_price above price and no sale/markdown tag; sale items excluded."
+    "2026-10-29 re-check for C = jeans: status off_category -> verified (sells jeans). Regular price = no variant with compare_at_price above price and no sale/markdown tag; sale items excluded.",
+    "known_for detail: Vintage & Printed Women's Fashion",
+    "production_model detail: Designed in-house in London; production team in Canggu, Bali (About)"
   ],
   "checked_at": "2026-10-29"
 }

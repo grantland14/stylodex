@@ -36,7 +36,7 @@
   "materials": [],
   "certifications": [],
   "production_model": null,
-  "sale_pattern": "All purchases made during sale events since April 2, 2025 are final sale.",
+  "sale_pattern": "Sale-event purchases are final sale",
   "sources": [
     "https://frankandoak.com/",
     "https://frankandoak.com/collections/womens-dresses/products.json?limit=250",
@@ -49,7 +49,8 @@
   "notes": [
     "Homepage title 'Frank And Oak | Essential Clothing Designed for Better Living'; meta: 'Frank And Oak returns with clarity and intention: focused on craftsmanship, natural fibers, and the dependable essentials that defined us from day one.'",
     "Our Story and Shipping pages render no text to WebFetch; HQ and founding year not stored (Wikipedia URL 404).",
-    "Shipping policy: free standard shipping over $99, else $10; currency not stated, so free_shipping_min_usd is empty. Refund policy: free return shipping within Canada and the US; 15 days from shipping to request a label for a refund. ships_to CA, US from the refund policy."
+    "Shipping policy: free standard shipping over $99, else $10; currency not stated, so free_shipping_min_usd is empty. Refund policy: free return shipping within Canada and the US; 15 days from shipping to request a label for a refund. ships_to CA, US from the refund policy.",
+    "sale_pattern detail: All purchases made during sale events since April 2, 2025 are final sale."
   ],
   "checked_at": "2026-10-29"
 }

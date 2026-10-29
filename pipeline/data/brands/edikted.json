@@ -23,7 +23,7 @@
   "prices": [],
   "materials": [],
   "certifications": [],
-  "production_model": "'Try and repeat model': produces controlled amounts of styles at demand, limiting inventory (Our Story)",
+  "production_model": "Small batches made to demand",
   "sale_pattern": null,
   "sources": [
     "https://www.edikted.com/",
@@ -40,7 +40,8 @@
     "Prices are null. On 2026-10-28 the site ran '50% OFF SITEWIDE', and all 46 products seen on All Clothing were discounted (sale $18–$69, comparison values $36–$138). No regular-price items were seen. Re-check after the sale.",
     "has_plus is false because the size guide tops out at XXL with no plus range. Petite and Tall collections are linked from the size guide.",
     "Returns carry a $4.90 processing fee; Final Sale is excluded.",
-    "2026-10-29: Jeans collection serves 484 products (349 baggy, 456 low-rise by title; sizes XS–XL), and every one has compare_at_price above price, i.e. on sale. No regular-price item, so jeans price stays null. Re-check after the sale."
+    "2026-10-29: Jeans collection serves 484 products (349 baggy, 456 low-rise by title; sizes XS–XL), and every one has compare_at_price above price, i.e. on sale. No regular-price item, so jeans price stays null. Re-check after the sale.",
+    "production_model detail: 'Try and repeat model': produces controlled amounts of styles at demand, limiting inventory (Our Story)"
   ],
   "checked_at": "2026-10-29"
 }
