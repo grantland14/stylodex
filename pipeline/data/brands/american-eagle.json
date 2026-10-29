@@ -38,10 +38,13 @@
     "Shipping: free standard shipping on orders of $75 or more to the US; $7.95 under $75. Returns: full refund within 60 days of purchase; online returns $5 (free for Real Rewards Level 3 and cardmembers).",
     "Wikipedia: headquartered at SouthSide Works, Pittsburgh; founded 1977 by Jerry and Mark Silverman.",
     "Homepage title (2026-10-29): 'Men's & Women's Jeans, Clothes & Accessories | American Eagle'; banner 'GIVE. GET. JEANS.'",
-    "Women's Jeans page (https://www.ae.com/women-jeans/web/s-cat/6430042, 2026-10-29): 186 items, 30 tiles rendered, every one marked down 40–50% (e.g. AE Lowest Rise Extra Baggy Jean $44.97, was $74.95; was-prices $59.95–$89.95). No full-price jeans, so no price row. Filters: Fit (Classic, Curvy), rise, stretch level, wash, destruction; Curvy versions of several cuts (AE Curvy Super High-Waisted Baggy Wide-Leg Jean, AE Curvy High-Waisted Stovepipe Jean). Numeric size range not shown (size-chart URL 404)."
+    "Women's Jeans page (https://www.ae.com/women-jeans/web/s-cat/6430042, 2026-10-29): 186 items, 30 tiles rendered, every one marked down 40–50% (e.g. AE Lowest Rise Extra Baggy Jean $44.97, was $74.95; was-prices $59.95–$89.95). No full-price jeans, so no price row. Filters: Fit (Classic, Curvy), rise, stretch level, wash, destruction; Curvy versions of several cuts (AE Curvy Super High-Waisted Baggy Wide-Leg Jean, AE Curvy High-Waisted Stovepipe Jean). Numeric size range not shown (size-chart URL 404).",
+    "2026-10-29 (hollister run): Women's Jeans (https://www.ae.com/us/en/c/women/bottoms/jeans/cat6430042) reports 186 items; all 31 rendered were marked down 40–50% (e.g. AE Lowest Rise Extra Baggy Jean $44.97, was $74.95; full prices $59.95–$89.95). No regular-price jeans, so no price row; jeans in sells_categories from this page. Fit filter: Classic Fit and Curvy Fit."
   ],
   "checked_at": "2026-10-29",
   "sells_categories": [
-    "womens-clothing"
+    "womens-clothing",
+    "dresses",
+    "jeans"
   ]
 }

@@ -28,8 +28,8 @@ source you fetched, with its URL. Nothing estimated, nothing from memory.
   `patches/{page slug}/` (never the repo, never a shared folder), and merge only the patches you
   wrote this run. Never loop over a folder of patches.
   Prices replace only your category's entry; other fields fill only if empty unless named in
-  `--overwrite` (use it for corrections, like a wrong `website_url`). `notes` and `sources` are
-  always appended, never replaced: send only your new notes. Never write a brand file
+  `--overwrite` (use it for corrections, like a wrong `website_url`). `notes`, `sources` and
+  `sells_categories` are always appended, never replaced: send only your new entries. Never write a brand file
   directly, never delete fields or other categories' prices.
 - Write only your own `pipeline/data/pages/{slug}.json` and `{slug}.review.md`.
 - Don't touch git, the database, Vercel, `public/`, or `pipeline/data/*.json` manifests; the

@@ -1,0 +1,46 @@
+{
+  "slug": "tillys",
+  "name": "Tillys",
+  "website_url": "https://www.tillys.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Casual Apparel and Footwear",
+  "hq_country": "US",
+  "founded_year": 1982,
+  "parent_company": "Tillys, Inc.",
+  "size_range": "Juniors 0–13; waists 23–33",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 70,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 49.99,
+      "max": 109.99,
+      "min_usd": 49.99,
+      "max_usd": 109.99,
+      "fx_date": null,
+      "item_count": 12,
+      "source_url": "https://www.tillys.com/women/clothing/jeans/",
+      "checked_at": "2026-10-29",
+      "note": "Women's jeans page, WebFetch 2026-10-29: 12 products in the embedded item list, none marked down ('Buy 1, Get 1 50% off' on RSQ is a promotion, not a markdown): RSQ Low Rise Bootcut $49.99, RSQ Low Rise Baggy $54.99, Levi's Superlow Loose $74.99, Miss Me X Pocket Mid Rise Bootcut $89.99, Levi's Premium 501 '90s Loose $109.99. A sample: the page states no total."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "sources": [
+    "https://www.tillys.com/",
+    "https://www.tillys.com/women/clothing/jeans/",
+    "https://www.sec.gov/Archives/edgar/data/1524025/000162828025017352/tlys-20250201.htm"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "2026-10-29: homepage title 'Tillys | Men, Women and Kids' Clothing & Shoe Store'; banner 'FREE SHIPPING on orders over $70*'. Size filters on women's jeans: XS–XL, 0–13, 23–33. Form 10-K (year ended Feb 1, 2025): 240 stores in 33 states; HQ Irvine, California; founded 1982 in Orange County; sells to customers 'in all 50 states and the District of Columbia'; RSQ, its own 'denim, apparel, accessories and fragrance brand', was its top seller at 23% of net sales. Returns terms not read (shipping-info URL 404), so returns_days empty."
+  ],
+  "sells_categories": [
+    "jeans"
+  ]
+}

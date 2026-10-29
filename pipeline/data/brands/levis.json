@@ -2,14 +2,25 @@
   "slug": "levis",
   "name": "Levi's",
   "website_url": "https://www.levi.com",
-  "status": "unverified",
+  "status": "verified",
   "kind": "brand",
   "notes": [
-    "2026-10-29: levi.com/US/en_US/ HTTP 403 to a plain request; women's jeans page HTTP 403 to WebFetch (Retry-After 10800). No workaround."
+    "2026-10-29: levi.com/US/en_US/ HTTP 403 to a plain request; women's jeans page HTTP 403 to WebFetch (Retry-After 10800). No workaround.",
+    "2026-10-29 (hollister run): levi.com still refuses reads (403, earlier note). Status verified from the parent company's official site (enrich.md §2): levistrauss.com says it designs and markets 'jeans, casual wear and related accessories for men, women and children', founded 1853 in San Francisco, about 3,300 retail stores and shop-in-shops, sold in about 120 countries; HQ listed as San Francisco, Brussels and Singapore. Levi's US store locator (locations.levi.com/en-us/) lists stores by state (40 states). No prices readable, so none stored; jeans in sells_categories."
   ],
   "sources": [
     "https://www.levi.com/US/en_US/",
-    "https://www.levi.com/US/en_US/clothing/women/jeans/c/levi_clothing_women_jeans"
+    "https://www.levi.com/US/en_US/clothing/women/jeans/c/levi_clothing_women_jeans",
+    "https://www.levistrauss.com/who-we-are/company/",
+    "https://locations.levi.com/en-us/"
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "known_for": "Jeans and Casual Wear",
+  "hq_country": "US",
+  "founded_year": 1853,
+  "parent_company": "Levi Strauss & Co.",
+  "us_stores": true,
+  "sells_categories": [
+    "jeans"
+  ]
 }

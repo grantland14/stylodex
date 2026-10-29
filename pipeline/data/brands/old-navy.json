@@ -5,11 +5,22 @@
   "status": "verified",
   "kind": "brand",
   "notes": [
-    "2026-10-29: store live (title 'Old Navy | Affordable Clothing for Women, Men, Kids & Baby'); women's jeans page (cid=85729) says jeans come in 'sizes 00-30, petite and tall' with a 'Jeans from $25' link, but the product grid loads by script ('0 of 0 items'), so no item prices were readable. No jeans price row."
+    "2026-10-29: store live (title 'Old Navy | Affordable Clothing for Women, Men, Kids & Baby'); women's jeans page (cid=85729) says jeans come in 'sizes 00-30, petite and tall' with a 'Jeans from $25' link, but the product grid loads by script ('0 of 0 items'), so no item prices were readable. No jeans price row.",
+    "2026-10-29 (hollister run): women's jeans page: 'Now in sizes 00-30, petite and tall', 'Jeans from $25' link, Rockstar Super Skinny Jeans named as a bestseller; grid '0 of 0 items', so no price row. Store locator lists stores in 49 states, DC and Puerto Rico. Homepage title 'Old Navy | Affordable Clothing for Women, Men, Kids & Baby'. Gap Inc. 10-K: 'a North American value apparel brand that makes on-trend fashion accessible to everyone'. Shipping terms page not readable (error page; banner says free shipping on $50+ for rewards members), so ships_to stays empty."
   ],
   "sources": [
     "https://oldnavy.gap.com/",
-    "https://oldnavy.gap.com/browse/women/jeans?cid=85729"
+    "https://oldnavy.gap.com/browse/women/jeans?cid=85729",
+    "https://oldnavy.gap.com/stores",
+    "https://www.sec.gov/Archives/edgar/data/39911/000162828026018573/gap-20260131.htm"
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "known_for": "Affordable Clothing for the Family",
+  "parent_company": "Gap Inc.",
+  "us_stores": true,
+  "size_range": "00–30; petite and tall",
+  "hq_country": "US",
+  "sells_categories": [
+    "jeans"
+  ]
 }

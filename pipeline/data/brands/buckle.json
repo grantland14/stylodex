@@ -1,0 +1,25 @@
+{
+  "slug": "buckle",
+  "name": "Buckle",
+  "website_url": "https://www.buckle.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Denim and Casual Fashion",
+  "us_stores": true,
+  "ships_to": [],
+  "prices": [],
+  "materials": [],
+  "certifications": [],
+  "sources": [
+    "https://www.buckle.com/womens/jeans",
+    "https://local.buckle.com/",
+    "https://www.sec.gov/Archives/edgar/data/885245/000088524526000012/bke-20260131.htm"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "2026-10-29: buckle.com/womens/jeans loads (title 'Women's Jeans | Denim Jeans for Women | Buckle') but the product grid doesn't render to WebFetch, so no prices. Status from the company's own Form 10-K for fiscal 2025 (year ended Jan 31, 2026): 440 retail stores in 42 states throughout the United States; merchandise 'denims, casual bottoms, tops, sportswear, outerwear, accessories, and footwear'; denim 42.5% of fiscal 2025 net sales; denim brands include Levi's, Wrangler, Miss Me, Rock Revival, 7 For All Mankind; private labels BKE, Buckle Black, Ace High; brand-name goods about 53% of sales; targets 'the fashion-conscious 15 to 30-year old'. Store locator local.buckle.com lists 42 states. Online shipping terms not read, so ships_to empty."
+  ],
+  "sells_categories": [
+    "jeans"
+  ]
+}

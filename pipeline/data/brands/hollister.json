@@ -14,14 +14,16 @@
     "https://corporate.abercrombie.com/about-us/our-brands/hollister/",
     "https://corporate.abercrombie.com/about-us/our-brands/",
     "https://en.wikipedia.org/wiki/Hollister_Co.",
-    "https://www.sec.gov/Archives/edgar/data/1018840/000101884022000058/anf-usq_transcriptx2022x.htm"
+    "https://www.sec.gov/Archives/edgar/data/1018840/000101884022000058/anf-usq_transcriptx2022x.htm",
+    "https://www.sec.gov/Archives/edgar/data/1018840/000101884026000012/anf-20260131.htm"
   ],
   "notes": [
     "2026-10-29: every hollisterco.com URL tried (/, /shop/us, /shop/us/womens-jeans, /shop/us/help/shipping-information) served a 'Client Challenge' JavaScript page to WebFetch and to a plain request. No retry, no workaround. Status unverified; prices, sizes, shipping, returns and known_for need a human check (pages/hollister.json human_check).",
     "Wikipedia (fetched 2026-10-29): first store opened 27 July 2000 at Easton Town Center, Columbus, Ohio; the 1922 California founding and 'John Hollister, Sr.' are a fictional backstory created by Abercrombie & Fitch. HQ New Albany, Ohio. Parent Abercrombie & Fitch. Sells apparel, accessories and fragrances; stores styled as beach shacks; 541 locations per the 2022 annual report.",
     "Parent's site (corporate.abercrombie.com, fetched 2026-10-29) lists Hollister among Abercrombie & Fitch Co. brands with Abercrombie & Fitch and abercrombie kids (page title also names Gilly Hicks and Social Tourist). Hollister tagline there: 'Clothes made for capturing moments, creating memories and being unapologetically you.'",
     "Ahrefs SERP title for https://www.hollisterco.com/shop/us (2026-10-29): 'Clothing for Women & Men | Teen Clothing | Hollister Co.' Not fetched by us (bot wall), so known_for is left empty.",
-    "Stocked by ASOS (WebSearch 2026-10-29 lists ASOS product pages for several Hollister jeans, e.g. https://www.asos.com/us/hollister/hollister-high-rise-distressed-baggy-jeans-in-medium-blue/prd/207895834); ASOS pages answer 'browser not supported', not read."
+    "Stocked by ASOS (WebSearch 2026-10-29 lists ASOS product pages for several Hollister jeans, e.g. https://www.asos.com/us/hollister/hollister-high-rise-distressed-baggy-jeans-in-medium-blue/prd/207895834); ASOS pages answer 'browser not supported', not read.",
+    "2026-10-29 (hollister page run): https://www.hollisterco.com/shop/us/womens-jeans re-read once with WebFetch, still the 'Client Challenge' page. No workaround. A&F Co. Form 10-K for fiscal 2025 (year ended Jan 31, 2026, sec.gov) describes Hollister as 'quality apparel, accessories and fragrance' and counts 523 company-operated Hollister stores (396 in its Americas segment, North and South America; no US-only split). It doesn't name jeans, so status stays unverified and no category is recorded."
   ],
   "checked_at": "2026-10-29"
 }

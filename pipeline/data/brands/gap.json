@@ -2,12 +2,12 @@
   "slug": "gap",
   "name": "Gap",
   "website_url": "https://www.gap.com",
-  "status": "unverified",
+  "status": "verified",
   "kind": "brand",
-  "known_for": null,
-  "hq_country": null,
+  "known_for": "Casual American Style",
+  "hq_country": "US",
   "founded_year": null,
-  "parent_company": null,
+  "parent_company": "Gap Inc.",
   "size_range": null,
   "has_plus": null,
   "has_petite": null,
@@ -24,10 +24,17 @@
     "https://www.gap.com/browse/women/dresses?cid=13658",
     "https://www.gap.com/",
     "https://www.gap.com/browse/women/jeans?cid=5664",
-    "https://www.gap.com/browse/category.do?cid=5664"
+    "https://www.gap.com/browse/category.do?cid=5664",
+    "https://www.gap.com/stores",
+    "https://www.sec.gov/Archives/edgar/data/39911/000162828026018573/gap-20260131.htm"
   ],
   "notes": [
-    "https://www.gap.com/browse/women/dresses?cid=13658 loaded with '0 of 0 items' (product grid didn't render) to WebFetch on 2026-10-29. Status unverified; nothing else stored."
+    "https://www.gap.com/browse/women/dresses?cid=13658 loaded with '0 of 0 items' (product grid didn't render) to WebFetch on 2026-10-29. Status unverified; nothing else stored.",
+    "2026-10-29 (hollister run): gap.com women's jeans page loads with fit tiles (Hailey Low Rise Loose, Hailey Extra Baggy, Barrel & Tapered, Baggy, Wide Leg, Loose, Flare & Bootcut, Straight, Slim & Skinny) but the product grid reads '0 of 0 items', so no prices. Store locator (gap.com/stores) lists stores by state (46 states plus Puerto Rico). Gap Inc. 10-K (fiscal year ended Jan 31, 2026): 'Gap is a globally recognized icon of casual American style'; Company-operated stores in the United States, Canada, Japan and Taiwan. hq_country US from the 10-K (a US company with US stores)."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "us_stores": true,
+  "sells_categories": [
+    "jeans"
+  ]
 }

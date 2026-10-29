@@ -9,7 +9,7 @@ Patch rules:
 - Scalar and list fields fill only when the file's value is null/empty, unless named in
   --overwrite (use that for corrections, e.g. a wrong website_url).
 - "prices": entries replace the existing entry for the same category; other categories stay.
-- "sources" and "notes": entries are added, never removed (even with --overwrite), so agents
+- "sources", "notes" and "sells_categories": entries are added, never removed (even with --overwrite), so agents
   writing the same brand at once never lose each other's notes.
 - A new slug creates the file.
 """
@@ -30,7 +30,7 @@ def merge(current: dict, patch: dict, overwrite: set) -> dict:
             for p in value:
                 by_cat[p["category"]] = p
             out["prices"] = list(by_cat.values())
-        elif key in ("sources", "notes"):
+        elif key in ("sources", "notes", "sells_categories"):
             out[key] = list(dict.fromkeys([*(out.get(key) or []), *value]))
         elif key in overwrite or out.get(key) in (None, "", [], {}):
             out[key] = value
