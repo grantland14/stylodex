@@ -1,0 +1,176 @@
+{
+  "subject": "Fanciful Doll",
+  "slug": "fanciful-doll",
+  "url_prefix": "brands",
+  "category": {
+    "slug": "dresses",
+    "name": "Dresses",
+    "why": "C is a product type. Fanciful Doll's About page calls its range 'dreamy princessy concoctions', and 284 of the 408 items its US Shop All feed serves are gowns, midi dresses or mini dresses (the rest are corsets and accessories); its biggest collection is The Gown Shop (257)."
+  },
+  "serp": [
+    {
+      "keyword": "brands like fanciful doll",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview (US) returned no positions"
+    },
+    {
+      "keyword": "stores like fanciful doll",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview (US) returned no positions"
+    },
+    {
+      "keyword": "fanciful doll alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview (US) returned no positions"
+    },
+    {
+      "keyword": "similar to fanciful doll",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview (US) returned no positions"
+    },
+    {
+      "keyword": "brands like fanciful doll (web search)",
+      "position": null,
+      "url": "https://www.apartstyle.com/post/brands-like-fanciful-doll",
+      "kept": false,
+      "why_dropped": "apartstyle.com never counts as a source (README); not fetched, nothing taken from it"
+    },
+    {
+      "keyword": "fanciful doll alternatives (web search)",
+      "position": null,
+      "url": "https://www.instya.com/site/fancifuldoll.com",
+      "kept": false,
+      "why_dropped": "fetched: 'Top 15 Fanciful Doll Alternatives & Similar Sites', no author or date, uniform auto-generated entries with popularity scores and partner labels (bridesmaid, prom and costume shops such as Cutedressy, Duntery, Milanoo). A scraped similar-sites list with no editorial content, dropped per enrich.md §1.2"
+    },
+    {
+      "keyword": "fanciful doll similar brands (web search)",
+      "position": null,
+      "url": "https://www.lizzieinlace.com/princess-dress-brands/",
+      "kept": false,
+      "why_dropped": "fetched (Lizzie in Lace, 2026-08-10): a general princess-dress roundup that lists Fanciful Doll as one entry ('Not personally tried') among JessaKae, Ivy City Co, LaceMade, FairyTong, Selkie, Teuta Matoshi, Needle & Thread; frames no brand as an alternative to Fanciful Doll"
+    },
+    {
+      "keyword": "fanciful doll similar brands (web search)",
+      "position": null,
+      "url": "https://girlstyle.com/sg/article/137738/princesscore-dresses-brands",
+      "kept": false,
+      "why_dropped": "fetched (GirlStyle SG): 8 princesscore brands, Fanciful Doll as #4 with no comparison; no sentence recommends a brand as an alternative to it"
+    },
+    {
+      "keyword": "fanciful doll similar brands (web search)",
+      "position": null,
+      "url": "https://thewanderingafro.com/girly-feminine-and-romantic-fashion-brands/",
+      "kept": false,
+      "why_dropped": "fetched (Meeka Fayetima, 2024-12-06): general list of feminine brands; Fanciful Doll is one entry, nothing framed as an alternative to it"
+    },
+    {
+      "keyword": "fanciful doll similar brands (web search)",
+      "position": null,
+      "url": "https://www.zoevogue.com/princesscore-fairycore-inspo-and-stores/",
+      "kept": false,
+      "why_dropped": "302 to a domain-for-sale page (hugedomains.com); not followed"
+    },
+    {
+      "keyword": "fanciful doll cheaper alternative (web search)",
+      "position": null,
+      "url": "https://reddit.sentinel-team.org/posts/1sljflv/snapshots/2026-04-15T20%3A10%3A36.03384Z",
+      "kept": false,
+      "why_dropped": "a third-party mirror of a Reddit thread; reading Reddit through a mirror would work around Reddit's refusal, so not fetched. The search snippet suggests commenters name LaceMade, EmJota Studios, Dolls Kill and House of CB: human check of the original thread"
+    },
+    {
+      "keyword": "fanciful doll dress dupe (web search)",
+      "position": null,
+      "url": "https://www.youtube.com/watch?v=gPM0uIbuaFo",
+      "kept": false,
+      "why_dropped": "social video about sewing a copy of a Fanciful Doll dress; names no alternative brand"
+    },
+    {
+      "keyword": "fanciful doll dress dupe (web search)",
+      "position": null,
+      "url": "https://poshmark.com/brand/Fanciful%20Doll-Women",
+      "kept": false,
+      "why_dropped": "resale marketplace (also Etsy, eBay, Walmart, TikTok Shop listings in the same searches)"
+    },
+    {
+      "keyword": "fanciful doll (disco directory)",
+      "position": null,
+      "url": "https://www.discobrands.co/brands/fanciful-doll",
+      "kept": false,
+      "why_dropped": "HTTP 404 (also fancifuldoll, fanciful, fanciful-doll-la); no Fanciful Doll entry in its sitemap.xml, and its Selkie, Sister Jane, JessaKae, Needle & Thread and Killstar pages don't mention Fanciful Doll"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": null,
+      "url": null,
+      "used": false,
+      "why": "no multi-brand retailer found selling Fanciful Doll: it sells direct from fancifuldoll.com (a WebSearch for stockists found none; the site has a wholesale-enquiries page but no stockist list)"
+    }
+  ],
+  "candidates": [],
+  "picks": [],
+  "rejected": [
+    {
+      "slug": "apart-style-pool",
+      "why": "public.brand_relationships has no Fanciful Doll row, and public.brands has no Fanciful Doll brand (read-only SQL)"
+    },
+    {
+      "slug": "instya-list",
+      "why": "Cutedressy, Revelry, Milanoo, Duntery, Missacc, Victoriandancer and 12 more: named only by an automated similar-sites list (instya.com), not editorial evidence"
+    },
+    {
+      "slug": "general-roundup-brands",
+      "why": "JessaKae, Ivy City Co, LaceMade, Fairy Tong, Selkie, Teuta Matoshi, Lirika Matoshi, Sister Jane, Milla, Needle & Thread, Nana Jacqueline, LoveShackFancy and others appear beside Fanciful Doll in general roundups (Lizzie in Lace, GirlStyle, The Wandering Afro) that recommend none of them as an alternative to it, so none has a source"
+    },
+    {
+      "slug": "marketplaces",
+      "why": "Poshmark, eBay, Etsy, Walmart and TikTok Shop listings: marketplaces and resale, never picks"
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "outside evidence",
+      "url": "https://reddit.sentinel-team.org/posts/1sljflv/snapshots/2026-04-15T20%3A10%3A36.03384Z",
+      "check": "No source reachable without a workaround recommends any brand as an alternative to Fanciful Doll. This mirror (not read) points to a Reddit thread (post id 1sljflv) whose search snippet names LaceMade, EmJota Studios, Dolls Kill and House of CB. A human read of the original reddit.com thread could seed candidates; LaceMade, House of CB and Dolls Kill already have brand files."
+    },
+    {
+      "fact": "category C = dresses",
+      "url": "https://fancifuldoll.com/en-us/collections/shop-all/products.json?limit=250",
+      "check": "284 of 408 Shop All items are gowns, midi or mini dresses. Confirm."
+    },
+    {
+      "fact": "known_for wording",
+      "url": "https://fancifuldoll.com/en-us/pages/about-fanciful-doll",
+      "check": "'Fairytale Princess Dresses' is built from the About page's 'inspired by fairytales' and 'dreamy princessy concoctions'; it becomes the title's 'for ...'."
+    },
+    {
+      "fact": "returns_days 7",
+      "url": "https://fancifuldoll.com/pages/returns-policy",
+      "check": "US (international) orders: store credit or exchange only, notified within 7 days of delivery, minus GBP 30. Confirm 7 is the right value for a credit-only window."
+    },
+    {
+      "fact": "anchor image",
+      "url": "https://fancifuldoll.com/",
+      "check": "No /img/brands/fanciful-doll.webp yet: run pipeline/images.mjs if the page ever gets picks."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": null,
+  "notes": [
+    "0 picks: not padded. No outside source reachable without a workaround recommends any brand as an alternative to Fanciful Doll. Ahrefs has no US SERP data for any of the four keywords; WebSearch finds only Apart Style's own page (never a source), an automated similar-sites list, general roundups that list Fanciful Doll beside other brands, marketplaces and a Reddit mirror. The disco directory has no Fanciful Doll entry. The page can't render or be indexed until real evidence exists.",
+    "No copy written: with no picks there is nothing to say that traces to stored facts, and lib/pipeline.ts skips a page with no intro, so the page stays unbuilt rather than shipping an empty list.",
+    "Anchor verified (brand file merged): US storefront dresses $251 to $1,173 regular price (220 items, duties included), sizes 3XS to 4X, ships to US/CA/GB/AU, US returns store credit only within 7 days.",
+    "No Apart Style pool: public.brand_relationships has no Fanciful Doll row (read-only SQL).",
+    "Ahrefs: 4 serp-overview calls, all empty; keywords-explorer-matching-terms not called (no FAQ without picks).",
+    "All requests used the StylodexBot User-Agent only; no personal details sent. fancifuldoll.com robots.txt allows the pages and JSON read."
+  ],
+  "author": "Ash"
+}

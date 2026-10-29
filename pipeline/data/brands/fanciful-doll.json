@@ -1,0 +1,61 @@
+{
+  "name": "Fanciful Doll",
+  "website_url": "https://fancifuldoll.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Fairytale Princess Dresses",
+  "hq_country": "GB",
+  "size_range": "3XS–4X; US 0–22",
+  "has_plus": true,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "returns_days": 7,
+  "production_model": "Made in small batches in Guangzhou, China",
+  "verified_at": "2026-10-29",
+  "sells_categories": [
+    "dresses"
+  ],
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 251.0,
+      "max": 1173.0,
+      "min_usd": 251.0,
+      "max_usd": 1173.0,
+      "fx_date": null,
+      "item_count": 220,
+      "source_url": "https://fancifuldoll.com/en-us/collections/shop-all/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US storefront (/en-us/, Shopify.currency active USD; banner: US prices include all tariffs and duties). Shop All products.json served 408 items over 2 pages; product_type Gowns, Midi Dresses or Mini Dresses = 284 dresses, 64 marked down (first variant compare_at above price) and excluded, 220 regular. Low: Anwen Mini Dresses (Andromeda, Forbidden Fruit, Luna Eclipse, Sylvan Glade) $251; high: Ingenue and bridal gowns (Creme Chantilly Ingenue Gown, Gretna Green Ingenue Gown, No Love But This Bridal Gown) $1,173. Median $618. Base store currency GBP (Miss Daae Bridal Gown GBP 762 vs USD 993 on the US storefront)."
+    }
+  ],
+  "sources": [
+    "https://fancifuldoll.com/meta.json",
+    "https://fancifuldoll.com/robots.txt",
+    "https://fancifuldoll.com/pages.json",
+    "https://fancifuldoll.com/collections.json?limit=250",
+    "https://fancifuldoll.com/en-us/collections/shop-all/products.json?limit=250",
+    "https://fancifuldoll.com/en-us/collections/the-gown-shop",
+    "https://fancifuldoll.com/en-us/pages/about-fanciful-doll",
+    "https://fancifuldoll.com/en-us/pages/our-values",
+    "https://fancifuldoll.com/en-us/pages/shipping-policy",
+    "https://fancifuldoll.com/en-us/policies/shipping-policy",
+    "https://fancifuldoll.com/pages/returns-policy",
+    "https://fancifuldoll.com/pages/copy-of-size-guide-pm"
+  ],
+  "notes": [
+    "meta.json: shop 'Fanciful Doll', London, England, GB; currency GBP; ships_to_countries includes US, CA, GB, AU; 406 published products. (https://fancifuldoll.com/meta.json)",
+    "About: 'a whimsical, ultra feminine brand, inspired by fairytales, romance and flamboyance. We create dreamy princessy concoctions'; 'based in London, UK'; 'a female run company'. known_for 'Fairytale Princess Dresses' is built from this wording. (https://fancifuldoll.com/en-us/pages/about-fanciful-doll)",
+    "Our Values: 'Every single item is handcrafted'; 'We handmake our dresses in tiny batches of 10-20 pieces'; pre-order on many bestsellers; 'We offer sizes 3XS-4X in selected styles'; design team in London; 'our renowned factory in Guangzhou, China'. (https://fancifuldoll.com/en-us/pages/our-values)",
+    "Shipping: orders dispatched from the UK, some pre-orders shipped direct from the supplier in China; processing up to 5 working days (10 in sales); site banner 'Prices shown for USA now include all applicable tariffs and duties. Nothing further will be added on delivery.' No free-shipping threshold stated, so free_shipping_min_usd left empty. (https://fancifuldoll.com/en-us/pages/shipping-policy)",
+    "Returns, international (non-UK, so US): 'We do not accept cash returns for international orders'; notify within 7 days of delivery for store credit at the item cost minus a GBP 30 handling fee; ship back within 14 days; express upgrades non-refundable; sale items 20%+ off and accessories are final sale. returns_days 7 = store credit or exchange only, no refund. UK orders get 14 days with cash refunds. (https://fancifuldoll.com/pages/returns-policy)",
+    "Size guide: Fanciful sizes 3XS to 4X (bust 29-55 in, waist 23-49 in), US 0 to 22; hips not needed (wide skirts); lengths gowns 60.5-62.5 in, midi 46.5-48.5 in, mini 33.5-35.5 in. Of 284 dresses in Shop All, 262 offer 4X and 193 offer 3XS. (https://fancifuldoll.com/pages/copy-of-size-guide-pm)",
+    "Collections: no single Dresses collection; dresses sit under The Gown Shop (257), Midi Dresses (188), Mini Dresses (160), plus Corsetry (104) and Accessories (165). (https://fancifuldoll.com/collections.json?limit=250)",
+    "founded_year left empty: not stated on its own pages. us_stores left empty: no store locator or physical store found."
+  ]
+}
