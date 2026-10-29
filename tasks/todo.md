@@ -69,7 +69,7 @@ On its own this is thin data. Enrichment (Phase 1) is what makes the site worth 
 Progress 2026-10-28:
 - [x] Seeded all 6,011 Apart Style brands into `stylodex.brands` as `candidate` (name, slug, website
       URL, `seed_source_id`; no text). Hidden from the site by RLS until verified.
-- [ ] Categories (fashion + beauty): waiting on migration 00003, which adds `vertical NOT NULL`
+- [ ] Categories (fashion + beauty): unblocked by migration 00003
 - [x] Pipeline written: `pipeline/README.md`, `pipeline/enrich.md`; output to `pipeline/data/`
 - [ ] Wave-1 selection: Ahrefs volumes for 222 subjects × {brands, stores} like + Apart Style GSC
       clicks (Dec 2025–Aug 2026) → `pipeline/data/wave-1.tsv`
@@ -144,7 +144,7 @@ What this adds to the build:
 - [x] **`/stores-like-[slug]`** alongside `/brands-like-[slug]`: same article template, one URL per
       subject, prefix chosen by which phrasing has more volume. Add an entity kind (brand / retailer /
       marketplace) to `stylodex.brands`.
-- [ ] Apply migration 00003 (Supabase's approval prompt timed out twice on 2026-10-28; nothing was applied)
+- [x] Migration 00003 applied 2026-10-29 (Ash, Supabase SQL editor; the connector's approval prompt never reached him). Verified; Apart Style data unchanged
 - [x] **Closed anchors are allowed.** "Stores like Wet Seal / Payless / Charming Charlie / Pier 1" are
       replacement searches. The anchor can be `defunct` (the intro says so); every *pick* must still
       be live. Gate change plus tests.

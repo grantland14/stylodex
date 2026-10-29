@@ -1,6 +1,8 @@
 -- Similist's page inventory (research/similist-top-pages-2026-10-28.tsv) adds
 -- "stores like X" and "sites like X" subjects, some of them closed stores.
 -- Scope decided 2026-10-28: fashion, department stores and beauty only.
+-- Applied 2026-10-29 by Ash in the Supabase SQL editor (the connector's approval prompt never
+-- reached him); verified afterwards with read-only queries.
 
 CREATE TYPE stylodex.entity_kind AS ENUM ('brand', 'retailer', 'marketplace');
 ALTER TABLE stylodex.brands ADD COLUMN kind stylodex.entity_kind NOT NULL DEFAULT 'brand';
