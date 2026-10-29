@@ -1,0 +1,50 @@
+{
+  "slug": "denim-tears",
+  "name": "Denim Tears",
+  "website_url": "https://denimtears.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Story-Led Denim on the African Diaspora",
+  "hq_country": "US",
+  "founded_year": 2019,
+  "parent_company": null,
+  "size_range": "Waists 28–42",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "production_model": "Some jeans cut, sewn and washed in the USA",
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 210,
+      "max": 295,
+      "min_usd": 210,
+      "max_usd": 295,
+      "fx_date": null,
+      "item_count": 9,
+      "source_url": "https://denimtears.com/collections/denim-pant/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "9 of 9 products in 'denim-pant' at regular price: plain Straight and Baggy Denim Pants (light wash, Japanese selvedge) $210; Cotton Wreath print versions $295. Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; shorts, jackets and non-denim pants excluded."
+    }
+  ],
+  "sources": [
+    "https://denimtears.com/",
+    "https://denimtears.com/pages/about",
+    "https://denimtears.com/policies/shipping-policy",
+    "https://denimtears.com/policies/refund-policy",
+    "https://denimtears.com/collections/denim-pant/products.json?limit=250",
+    "https://en.wikipedia.org/wiki/Tremaine_Emory"
+  ],
+  "notes": [
+    "2026-10-29 (jnco run): meta 'Founded in 2019 by designer and aesthete Tremaine Emory, each Denim Tears collection tells a story, revealing what the brand's founder calls the African Diaspora.' About: flagship 'African Diaspora Goods' stores at 176 Spring Street, New York and 3393 Peachtree Rd NE, Atlanta (hq_country US from these; no HQ address stated). Wikipedia (Tremaine Emory): founded Denim Tears in 2019.",
+    "Shipping: US flat rate $15 ($22 signature); international DHL Express flat $20 via Global-E (countries not listed, so ships_to records US only). No free-shipping threshold.",
+    "Returns: 14 days of receiving the shipment, unworn; all Cotton Wreath items ineligible for return, denim Cotton Wreath products exchange only; $8 deducted unless exchanging; exchanges US only.",
+    "Jeans: 100% cotton 14oz; Baggy Denim Pant Light Wash ($210) 'cut, sewn, and washed in the USA'; selvedge versions use Japanese selvedge denim. Sizes 28x30 to 42x34. US stores exist (New York, Atlanta) but us_stores is left for a store-locator check."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "empyre",
+  "name": "Empyre",
+  "website_url": "https://www.zumiez.com/brands/empyre",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Baggy and Ultra Loose Skate Denim",
+  "hq_country": "US",
+  "founded_year": 1999,
+  "parent_company": null,
+  "size_range": "Waists 26–46",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 64.94,
+  "returns_days": 30,
+  "us_stores": true,
+  "materials": [],
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 54.94,
+      "max": 74.94,
+      "min_usd": 54.94,
+      "max_usd": 74.94,
+      "fx_date": null,
+      "item_count": 36,
+      "source_url": "https://www.zumiez.com/brands/empyre",
+      "checked_at": "2026-10-29",
+      "note": "Adult jeans on page 1 of the Empyre brand page (841 Empyre items in all), read with WebFetch: 45 denim items, 2 shorts and 7 kids' jeans excluded, 36 adult jeans. None showed a crossed-out price ('Buy 1 Get 1 50% Off' is a multi-buy promotion, not a markdown). Min Extent Petrol Wash Wide Leg Jeans $54.94; most Loose Fit and Ultra Wide Skate Jeans $69.94; max Work Ultra Wide, Skate Work Carpenter and Chains Grey Wash Ultra Wide $74.94. A sample, not the whole range."
+    }
+  ],
+  "sources": [
+    "https://www.zumiez.com/brands/empyre",
+    "https://www.zumiez.com/empyre-ultra-wide-fit-blake-medium-blue-wash-skate-jeans.html",
+    "https://www.zumiez.com/how-do-i-get-free-shipping",
+    "https://www.zumiez.com/help/returns-exchanges",
+    "https://www.zumiez.com/stores/list"
+  ],
+  "notes": [
+    "2026-10-29 (jnco run): Empyre is sold only by Zumiez ('Available exclusively at Zumiez', brand page), so website_url is its Zumiez brand page and shipping, returns and stores are Zumiez's terms (from the zumiez brand file, same day: free shipping to the contiguous US over $64.94, 30-day returns, US store list). hq_country US: sold only through the US retailer Zumiez (HQ Lynnwood, Washington per the zumiez file); the brand page names no HQ.",
+    "Brand page: 'Established in 1999, Empyre is rooted in skate culture'; best known for denim 'including baggy, ultra loose, and stacked flare jeans'; FAQ: jeans run true to size, size down one for ultra wide or baggy fits.",
+    "Blake Blue Wash Ultra Wide Skate Jeans ($69.94): waists 26–46, leg opening 22\" (56cm), front rise 14\", 100% cotton, drawstring waistband."
+  ]
+}

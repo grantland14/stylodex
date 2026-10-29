@@ -1,0 +1,49 @@
+{
+  "slug": "icecream",
+  "name": "ICECREAM",
+  "website_url": "https://www.bbcicecream.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Luxury Streetwear by Pharrell Williams",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Waists 28–42",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 180,
+      "max": 285,
+      "min_usd": 180,
+      "max_usd": 285,
+      "fx_date": null,
+      "item_count": 11,
+      "source_url": "https://www.bbcicecream.com/collections/icecream-denim/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "11 jeans of 17 products in 'ICECREAM DENIM' at regular price (2 on sale, 4 shorts excluded): Running Dog Double Scoop and Triple Scoop denim pants $180, Western Denim Pants $190, diner jeans (vanilla fit) $235, Selvedge Running Dog Carpenter Pant $250, Apex Jean $285. Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; shorts, jackets and non-denim pants excluded."
+    }
+  ],
+  "sources": [
+    "https://www.bbcicecream.com/",
+    "https://www.bbcicecream.com/policies/shipping-policy",
+    "https://www.bbcicecream.com/policies/refund-policy",
+    "https://www.bbcicecream.com/collections/icecream-denim/products.json?limit=250",
+    "https://en.wikipedia.org/wiki/Billionaire_Boys_Club_(clothing_retailer)"
+  ],
+  "notes": [
+    "2026-10-29 (jnco run): bbcicecream.com, title 'Billionaire Boys Club & ICECREAM | US Official Site', meta 'Official store of the Billionaire Boys Club and ICECREAM clothing lines by Pharrell Williams. Luxury streetwear tees, sweatshirts, denim'. One store sells both labels; this file is ICECREAM only. Wikipedia (BBC): BBC founded 2003 by Pharrell Williams and Nigo, HQ New York; Ice Cream 'originally a subsidiary of Billionaire Boys Club'. ICECREAM's own founding year not given, left null.",
+    "Refund policy: 14 days after receiving the item; refund as site credit or to original payment, shipping excluded, label cost deducted; no exchanges; markdown items not returnable. International returns accepted from EU, UK, Norway, Iceland, Liechtenstein, Switzerland, Australia (so it ships to GB and AU); Canada not listed. Shipping policy: rates at checkout, no free threshold stated.",
+    "Jeans: 100% cotton; Running Dog Double Scoop Denim Pant 'Relaxed and loose, straight leg fit' with screen-printed Running Dog graphic, waists 28–38; Triple Scoop 'Baggy fit'; diner jeans waists 30–42."
+  ]
+}

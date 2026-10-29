@@ -1,0 +1,53 @@
+{
+  "slug": "criminal-damage",
+  "name": "Criminal Damage",
+  "website_url": "https://www.criminaldamage.co.uk",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "East London Streetwear Since 1991",
+  "hq_country": "GB",
+  "founded_year": 1991,
+  "parent_company": null,
+  "size_range": "XS–XXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 106.3,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "GBP",
+      "min": 90,
+      "max": 90,
+      "min_usd": 119.59,
+      "max_usd": 119.59,
+      "fx_date": "2026-10-28",
+      "item_count": 3,
+      "source_url": "https://www.criminaldamage.co.uk/collections/pants/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "3 jeans of 17 products in 'pants' at regular price (0 on sale): Laser Print Logo Jean and Patched Washed Jean (two colours), all £90. Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; shorts, jackets and non-denim pants excluded."
+    }
+  ],
+  "sources": [
+    "https://www.criminaldamage.co.uk/",
+    "https://www.criminaldamage.co.uk/pages/about-criminal-damage",
+    "https://www.criminaldamage.co.uk/pages/size-guide",
+    "https://www.criminaldamage.co.uk/policies/shipping-policy",
+    "https://www.criminaldamage.co.uk/policies/refund-policy",
+    "https://www.criminaldamage.co.uk/collections/pants/products.json?limit=250",
+    "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
+  ],
+  "notes": [
+    "2026-10-29 (jnco run): meta 'Founded in East London 1991 Criminal Damage is a pioneering streetwear brand.' About: 'Founded in 1991', London, fashion/music/art.",
+    "Shipping policy USA zone: FedEx Express £40; DHL standard tracked £24; free DHL standard over £80 (≈$106.30 at the ECB 2026-10-28 rate, 1 GBP = 1.328758 USD). Canada free over £85, Australia free over £200, UK free over £70. Prices in GBP.",
+    "Returns: within 14 working days (returns_days 14 records the number; working days, not calendar), tags on; returns postage not free, exchanges ship back free; sale items returnable.",
+    "Jeans: XS–XXL; size guide trousers waist XS 28\" to XL 36\" (XXL not in the chart). Laser Print Logo Jean: 'Relaxed jean fit'."
+  ]
+}

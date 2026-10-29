@@ -1,0 +1,47 @@
+{
+  "slug": "lrg",
+  "name": "LRG",
+  "website_url": "https://l-r-g.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Lifted Research Group Clothing Since 1999",
+  "hq_country": "US",
+  "founded_year": 1999,
+  "parent_company": null,
+  "size_range": "Waists 28–46",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 49,
+      "max": 100,
+      "min_usd": 49,
+      "max_usd": 100,
+      "fx_date": null,
+      "item_count": 13,
+      "source_url": "https://l-r-g.com/collections/mens-pants/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "13 denim jeans/pants of 78 products in 'mens-pants' at regular price (0 on sale): True Taper Denim Jeans $49, denim pants and denim cargos $70, All Maiden Jean $80, Star Power Jeans $100. Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; shorts, jackets and non-denim pants excluded."
+    }
+  ],
+  "sources": [
+    "https://l-r-g.com/",
+    "https://l-r-g.com/pages/shipping-returns",
+    "https://l-r-g.com/policies/refund-policy",
+    "https://l-r-g.com/collections/mens-pants/products.json?limit=250",
+    "https://en.wikipedia.org/wiki/Lifted_Research_Group"
+  ],
+  "notes": [
+    "2026-10-29 (jnco run): lrg.com fails TLS (certificate does not cover it); the official store is l-r-g.com (Wikipedia infobox website www.l-r-g.com; homepage title 'LRG Clothing | Since 1999'). Wikipedia: founded 1999 in Orange County, California by Jonas Bevacqua and Robert Wright; HQ Irvine, California.",
+    "Shipping & Returns page: US ground 4–7 business days; 'AT THIS TIME WE HAVE TEMPORARILY SUSPENDED INTERNATIONAL SHIPPING' so ships_to is US only. Returns up to 14 days from the purchase date, unworn with tags; original shipping non-refundable. No free-shipping threshold stated.",
+    "Jeans: All Maiden Jean ($80) 'relaxed, loose fit', 100% cotton, waists 28–46; Star Power Jeans ($100) 14oz, waists 28–46; True Taper Denim Jeans ($49) tapered, 14.5\" leg opening; most $70 denim pants are 12oz heavyweight straight-leg."
+  ]
+}
