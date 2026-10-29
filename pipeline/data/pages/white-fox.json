@@ -1,0 +1,1543 @@
+{
+  "subject": "White Fox",
+  "slug": "white-fox",
+  "url_prefix": "stores",
+  "category": {
+    "slug": "tops",
+    "name": "Tops",
+    "why": "C is a product type. Tops are White Fox Boutique's largest product type: 1,773 of 6,740 products in its US collections/all feed (Dresses 1,117, Swimwear 582, Outerwear 579, Pants 568). Its hoodies, the line people also search for, sit under Outerwear (285 hoodies) and most alternatives named by outside lists don't sell hoodies, so tops is the like-for-like category. Like-for-like price item for every pick: its tops collection at regular price (no compare_at_price above price) in USD."
+  },
+  "serp": [
+    {
+      "keyword": "stores like white fox",
+      "position": 1,
+      "url": "https://tigermist.com/",
+      "type": "ai_overview_sitelink",
+      "kept": false,
+      "why_dropped": "a store's own homepage, not an alternatives list (Tiger Mist is a candidate via editorial sources)"
+    },
+    {
+      "keyword": "stores like white fox",
+      "position": 1,
+      "url": "https://www.ldnfashion.com/features/brands-like-white-fox/",
+      "type": "ai_overview_sitelink",
+      "kept": true
+    },
+    {
+      "keyword": "stores like white fox",
+      "position": 2,
+      "url": "https://whitefoxboutique.com/",
+      "type": "organic",
+      "kept": false,
+      "why_dropped": "anchor's own site"
+    },
+    {
+      "keyword": "stores like white fox",
+      "position": 3,
+      "url": "https://tigermist.com/",
+      "type": "organic",
+      "kept": false,
+      "why_dropped": "a store's own homepage, not an alternatives list"
+    },
+    {
+      "keyword": "stores like white fox",
+      "position": 5,
+      "url": "https://www.reddit.com/r/womensfashion/comments/1av56ro/clothing_brand_recs/",
+      "type": "organic",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "stores like white fox",
+      "position": 5,
+      "url": "https://www.reddit.com/r/womensfashion/comments/1kkc92v/fashion_brandssites_for_young_women_with_quality/",
+      "type": "sitelink",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "stores like white fox",
+      "position": 5,
+      "url": "https://www.reddit.com/r/PrincessPolly/comments/1bxe2yb/similar_stores_except_the_quality_matches_the/",
+      "type": "sitelink",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "stores like white fox",
+      "position": 6,
+      "url": "https://www.lapassionvoutee.com/stores-like-white-fox/",
+      "type": "organic",
+      "kept": true
+    },
+    {
+      "keyword": "stores like white fox",
+      "position": 7,
+      "url": "https://www.ldnfashion.com/features/brands-like-white-fox/",
+      "type": "organic",
+      "kept": true
+    },
+    {
+      "keyword": "stores like white fox",
+      "position": 8,
+      "url": "https://us.peppermayo.com/",
+      "type": "organic",
+      "kept": false,
+      "why_dropped": "a store's own homepage, not an alternatives list"
+    },
+    {
+      "keyword": "stores like white fox",
+      "position": 9,
+      "url": "https://www.tiktok.com/discover/white-fox-boutique-similar-stores",
+      "type": "organic",
+      "kept": false,
+      "why_dropped": "TikTok discover page: no readable list text; not used"
+    },
+    {
+      "keyword": "stores like white fox",
+      "position": 10,
+      "url": "https://www.tiktok.com/@tay.wells/video/7260965142316404014",
+      "type": "organic",
+      "kept": false,
+      "why_dropped": "TikTok video: no readable list text; not used"
+    },
+    {
+      "keyword": "brands like white fox",
+      "position": 1,
+      "url": "https://www.ldnfashion.com/features/brands-like-white-fox/",
+      "type": "ai_overview_sitelink",
+      "kept": true
+    },
+    {
+      "keyword": "brands like white fox",
+      "position": 1,
+      "url": "https://www.instagram.com/popular/brands-like-white-fox/",
+      "type": "ai_overview_sitelink",
+      "kept": false,
+      "why_dropped": "Instagram tag page: not readable without login; not used"
+    },
+    {
+      "keyword": "brands like white fox",
+      "position": 2,
+      "url": "https://whitefoxboutique.com/",
+      "type": "organic",
+      "kept": false,
+      "why_dropped": "anchor's own site"
+    },
+    {
+      "keyword": "brands like white fox",
+      "position": 4,
+      "url": "https://www.ldnfashion.com/features/brands-like-white-fox/",
+      "type": "organic",
+      "kept": true
+    },
+    {
+      "keyword": "brands like white fox",
+      "position": 5,
+      "url": "https://www.reddit.com/r/womensfashion/comments/1kkc92v/fashion_brandssites_for_young_women_with_quality/",
+      "type": "organic",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "brands like white fox",
+      "position": 5,
+      "url": "https://www.reddit.com/r/womensfashion/comments/1av56ro/clothing_brand_recs/",
+      "type": "sitelink",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "brands like white fox",
+      "position": 5,
+      "url": "https://www.reddit.com/r/PrincessPolly/comments/1bxe2yb/similar_stores_except_the_quality_matches_the/",
+      "type": "sitelink",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "brands like white fox",
+      "position": 6,
+      "url": "https://www.reddit.com/r/Hoodies/comments/1rz3mew/cheaper_white_fox_alternatives/",
+      "type": "discussion",
+      "kept": false,
+      "why_dropped": "unfetchable: WebFetch refuses reddit.com; not read, no workaround tried, no brands taken"
+    },
+    {
+      "keyword": "brands like white fox",
+      "position": 6,
+      "url": "https://www.mumsnet.com/talk/style_and_beauty/5061281-like-white-fox-but-not-white-fox",
+      "type": "discussion",
+      "kept": true
+    },
+    {
+      "keyword": "brands like white fox",
+      "position": 7,
+      "url": "https://www.lapassionvoutee.com/stores-like-white-fox/",
+      "type": "organic",
+      "kept": true
+    },
+    {
+      "keyword": "brands like white fox",
+      "position": 8,
+      "url": "https://www.tiktok.com/discover/white-fox-boutique-similar-stores",
+      "type": "organic",
+      "kept": false,
+      "why_dropped": "TikTok discover page: no readable list text; not used"
+    },
+    {
+      "keyword": "brands like white fox",
+      "position": 9,
+      "url": "https://www.facebook.com/groups/256737941555793/posts/1793125371250368/",
+      "type": "organic",
+      "kept": false,
+      "why_dropped": "Facebook group post: needs login; about Canadian brands; not used"
+    },
+    {
+      "keyword": "brands like white fox",
+      "position": 10,
+      "url": "https://www.instagram.com/popular/brands-like-white-fox/",
+      "type": "organic",
+      "kept": false,
+      "why_dropped": "Instagram tag page: not readable; not used"
+    },
+    {
+      "keyword": "white fox alternatives",
+      "position": null,
+      "url": null,
+      "type": "no_data",
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview returned no positions (US)"
+    },
+    {
+      "keyword": "similar to white fox",
+      "position": null,
+      "url": null,
+      "type": "no_data",
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview returned no positions (US)"
+    },
+    {
+      "keyword": "(WebSearch) \"like White Fox\" boutique alternatives",
+      "position": null,
+      "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox",
+      "type": "web_search",
+      "kept": true,
+      "note": "disco brand directory, unsigned (enrich.md §1.2: counts as evidence, never cited on the page). Its /premium sub-page repeats the same brands and is not counted separately."
+    },
+    {
+      "keyword": "(WebSearch) \"like White Fox\" boutique alternatives",
+      "position": null,
+      "url": "https://slbubble.studentbridge.com/celebnews209/15-ultra-trendy-stores-like-white-fox-boutique-to-shop-the-hottest-2025-gen-z-aesthetics-pgwe7.html",
+      "type": "web_search",
+      "kept": false,
+      "why_dropped": "scraped spam page on an unrelated host; no editorial content"
+    },
+    {
+      "keyword": "(WebSearch) \"like White Fox\" boutique alternatives",
+      "position": null,
+      "url": "https://plesk.danavero.com/celebrity-parents-spm-087/stores-similar-to-white-fox-discover-your-next-fashion-destination.html",
+      "type": "web_search",
+      "kept": false,
+      "why_dropped": "scraped spam page on an unrelated host; no editorial content"
+    },
+    {
+      "keyword": "(WebSearch) \"like White Fox\" boutique alternatives",
+      "position": null,
+      "url": "https://www.apartstyle.com/post/brands-like-whitefox",
+      "type": "web_search",
+      "kept": false,
+      "why_dropped": "apartstyle.com never counts as a source"
+    },
+    {
+      "keyword": "(WebSearch) \"like White Fox\" boutique alternatives",
+      "position": null,
+      "url": "https://ahrefs.com/websites/whitefoxboutique.co.uk/competitors",
+      "type": "web_search",
+      "kept": false,
+      "why_dropped": "traffic-competitor data, not recommendations"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": "none",
+      "url": "https://whitefoxboutique.com/blogs/order-enquiries/where-can-i-purchase-white-fox-products",
+      "used": false,
+      "why": "White Fox states 'We do not wholesale our products to other sellers or stores', so no multi-brand retailer stocks it and there is no co-stocking evidence."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Princess Polly",
+      "slug": "princess-polly",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.ldnfashion.com/features/brands-like-white-fox/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "Beginning Boutique",
+      "slug": "beginning-boutique",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.ldnfashion.com/features/brands-like-white-fox/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "Tiger Mist",
+      "slug": "tiger-mist",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.ldnfashion.com/features/brands-like-white-fox/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "Showpo",
+      "slug": "showpo",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.ldnfashion.com/features/brands-like-white-fox/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "PrettyLittleThing",
+      "slug": "prettylittlething",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.ldnfashion.com/features/brands-like-white-fox/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "Meshki",
+      "slug": "meshki",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.ldnfashion.com/features/brands-like-white-fox/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "Lioness",
+      "slug": "lioness",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.ldnfashion.com/features/brands-like-white-fox/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "Oh Polly",
+      "slug": "oh-polly",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.ldnfashion.com/features/brands-like-white-fox/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "Peppermayo",
+      "slug": "peppermayo",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.ldnfashion.com/features/brands-like-white-fox/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        }
+      ]
+    },
+    {
+      "name": "I.AM.GIA",
+      "slug": "i-am-gia",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "SABO (Sabo Skirt)",
+      "slug": "sabo",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.ldnfashion.com/features/brands-like-white-fox/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        }
+      ]
+    },
+    {
+      "name": "Fashion Nova",
+      "slug": "fashion-nova",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "Hello Molly",
+      "slug": "hello-molly",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "Stelly",
+      "slug": "stelly",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "boohoo",
+      "slug": "boohoo",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "SHEIN",
+      "slug": "shein",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "H&M",
+      "slug": "h-m",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "Nasty Gal",
+      "slug": "nasty-gal",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "Motel Rocks",
+      "slug": "motel-rocks",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.ldnfashion.com/features/brands-like-white-fox/"
+        }
+      ]
+    },
+    {
+      "name": "Petal & Pup",
+      "slug": "petal-and-pup",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        }
+      ]
+    },
+    {
+      "name": "House of CB",
+      "slug": "house-of-cb",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.ldnfashion.com/features/brands-like-white-fox/"
+        }
+      ]
+    },
+    {
+      "name": "Revolve",
+      "slug": "revolve",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        }
+      ]
+    },
+    {
+      "name": "Glassons",
+      "slug": "glassons",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        }
+      ]
+    },
+    {
+      "name": "Altar'd State",
+      "slug": "altard-state",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        }
+      ]
+    },
+    {
+      "name": "Free People",
+      "slug": "free-people",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        }
+      ]
+    },
+    {
+      "name": "Lulus",
+      "slug": "lulus",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        }
+      ]
+    },
+    {
+      "name": "ModCloth",
+      "slug": "modcloth",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        }
+      ]
+    },
+    {
+      "name": "Venus",
+      "slug": "venus",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        }
+      ]
+    },
+    {
+      "name": "Honey Peaches",
+      "slug": "honey-peaches",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        }
+      ]
+    },
+    {
+      "name": "Urban Outfitters",
+      "slug": "urban-outfitters",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        }
+      ]
+    },
+    {
+      "name": "The Iconic",
+      "slug": "the-iconic",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        }
+      ]
+    },
+    {
+      "name": "BNKR",
+      "slug": "bnkr",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        }
+      ]
+    },
+    {
+      "name": "City Chic",
+      "slug": "city-chic",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        }
+      ]
+    },
+    {
+      "name": "Eloquii",
+      "slug": "eloquii",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        }
+      ]
+    },
+    {
+      "name": "ASTR The Label",
+      "slug": "astr-the-label",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/"
+        }
+      ]
+    },
+    {
+      "name": "Forever 21",
+      "slug": "forever-21",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "Cider",
+      "slug": "cider",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "Pomelo Fashion",
+      "slug": "pomelo",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "VICI Collection",
+      "slug": "vici",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "Express",
+      "slug": "express",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "Dolls Kill",
+      "slug": "dollskill",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "Missguided",
+      "slug": "missguided",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "Nadine Merabi",
+      "slug": "nadine-merabi",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "ASOS",
+      "slug": "asos",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "Windsor",
+      "slug": "windsor",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "Pangaia",
+      "slug": "pangaia",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.mumsnet.com/talk/style_and_beauty/5061281-like-white-fox-but-not-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "Mars The Label",
+      "slug": "mars-the-label",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.mumsnet.com/talk/style_and_beauty/5061281-like-white-fox-but-not-white-fox"
+        }
+      ]
+    },
+    {
+      "name": "motel",
+      "slug": "motel",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "in-the-style",
+      "slug": "in-the-style",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "amiclubwear",
+      "slug": "amiclubwear",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "ax-paris",
+      "slug": "ax-paris",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "dissh",
+      "slug": "dissh",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "superdown",
+      "slug": "superdown",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "for-love-lemons",
+      "slug": "for-love-lemons",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "house-of-sunny",
+      "slug": "house-of-sunny",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "bardot",
+      "slug": "bardot",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "majorelle",
+      "slug": "majorelle",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "sister-jane",
+      "slug": "sister-jane",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "blackmilk",
+      "slug": "blackmilk",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "rixo",
+      "slug": "rixo",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "meme-london",
+      "slug": "meme-london",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "rebdolls",
+      "slug": "rebdolls",
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "modparty",
+      "slug": "modparty",
+      "in_apart_pool": true,
+      "sources": []
+    }
+  ],
+  "picks": [
+    {
+      "slug": "princess-polly",
+      "rank": 1,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 29,
+        "max": 110,
+        "min_usd": 29,
+        "max_usd": 110,
+        "fx_date": null,
+        "item_count": 913
+      },
+      "price_relation": "similar",
+      "reason": "Princess Polly's full-price tops run $29–$110, from the Daily Define Tube Top up, in US 0–12 with Curve styles to US 20; free US shipping from $50, 30-day returns from delivery with a refund option, and four US stores.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.ldnfashion.com/features/brands-like-white-fox/",
+          "note": "#4: \"If you only bookmark one Australian label, make it this one.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/",
+          "note": "#21: listed, no description"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox",
+          "note": "#6: \"shares White Fox's focus on trendy and colorful designs\" (disco directory: evidence only, never cited)"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "beginning-boutique",
+      "rank": 2,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 29.99,
+        "max": 119.99,
+        "min_usd": 29.99,
+        "max_usd": 119.99,
+        "fx_date": null,
+        "item_count": 218
+      },
+      "price_relation": "similar",
+      "reason": "Beginning Boutique's full-price tops start at $29.99 like White Fox's and reach $119.99, mostly its own BB Exclusive label, in US 00–18; free US shipping from $100, customs covered, store credit or exchange within 30 days of delivery.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.ldnfashion.com/features/brands-like-white-fox/",
+          "note": "#11: \"If you want brands like White Fox with a more independent feel, start here.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/",
+          "note": "#1: \"is the store for stylish weekend looks!\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox",
+          "note": "#4: \"offers a trendy and affordable range of women's fashion\" (disco directory: evidence only, never cited)"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "tiger-mist",
+      "rank": 3,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 49,
+        "max": 105,
+        "min_usd": 49,
+        "max_usd": 105,
+        "fx_date": null,
+        "item_count": 56
+      },
+      "price_relation": "similar",
+      "reason": "Tiger Mist sells full-price tops at $49–$105 (Bella Baby Tee to Ember Bandage Top) in XXS–XL, with free US shipping over $75 and 30-day returns that allow a refund, minus a $10 label.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.ldnfashion.com/features/brands-like-white-fox/",
+          "note": "#5: \"Tiger Mist is the natural next stop\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/",
+          "note": "#2: \"is a great place for affordable clothing and sleek trend styles.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox",
+          "note": "#10: \"trend-led, body-conscious party dresses and separates\" (disco directory: evidence only, never cited)"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "showpo",
+      "rank": 4,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 49.95,
+        "max": 119.95,
+        "min_usd": 49.95,
+        "max_usd": 119.95,
+        "fx_date": null,
+        "item_count": 30
+      },
+      "price_relation": "similar",
+      "reason": "Showpo's US tops page shows corset tops and bodysuits at $49.95–$119.95, sizes US 0–16, free US shipping over $100 from a US warehouse, and 30-day returns with a refund in the first 7 days.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.ldnfashion.com/features/brands-like-white-fox/",
+          "note": "#7: \"Showpo works best alongside White Fox rather than instead of it\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/",
+          "note": "#28: listed, no description"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox",
+          "note": "#8: \"recognized for its trendy and affordable styles\" (disco directory: evidence only, never cited)"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "prettylittlething",
+      "rank": 5,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "PrettyLittleThing sells women's tops in US sizes 00–24 with petite, tall and plus (12–24) ranges, $9.99 US shipping, and 21-day returns that allow a refund minus a $14.99 charge.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.ldnfashion.com/features/brands-like-white-fox/",
+          "note": "#8: \"PLT is the obvious choice.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/",
+          "note": "#4: \"the latest fashion trends that are both affordable and of high quality\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox",
+          "note": "#24: \"online fast-fashion retailer selling trend-led, low-priced womenswear\" (disco directory: evidence only, never cited)"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "lioness",
+      "rank": 6,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 30,
+        "max": 90,
+        "min_usd": 30,
+        "max_usd": 90,
+        "fx_date": null,
+        "item_count": 223
+      },
+      "price_relation": "similar",
+      "reason": "Lioness's US store sells full-price tops at $30–$90 (Kaia Cami to Notting Hill Shirt) in XXS–XXL, with free standard US shipping from its US warehouse on any order and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.ldnfashion.com/features/brands-like-white-fox/",
+          "note": "#6: \"The style is close to White Fox but sharper and more editorial.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox",
+          "note": "#13: \"trend-led going-out dresses, tailoring and denim at accessible prices\" (disco directory: evidence only, never cited)"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "oh-polly",
+      "rank": 7,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 32,
+        "max": 105,
+        "min_usd": 32,
+        "max_usd": 105,
+        "fx_date": null,
+        "item_count": 159
+      },
+      "price_relation": "similar",
+      "reason": "Oh Polly's US store sells full-price corset, tank and crop tops at $32–$105 in XXS–XXL, designed in London; refunds within 7 days of delivery, exchanges 14, store credit 28.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.ldnfashion.com/features/brands-like-white-fox/",
+          "note": "#1: \"probably the closest UK equivalent to White Fox\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox",
+          "note": "#21: \"known for bodycon dresses and glamorous party and occasion wear\" (disco directory: evidence only, never cited)"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "peppermayo",
+      "rank": 8,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 45,
+        "max": 98,
+        "min_usd": 45,
+        "max_usd": 98,
+        "fx_date": null,
+        "item_count": 313
+      },
+      "price_relation": "similar",
+      "reason": "Peppermayo's US store sells tops at $45–$98, almost none marked down, in US 0–18, with free US shipping from $99, duties and taxes included, and refunds within 14 days of delivery.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.ldnfashion.com/features/brands-like-white-fox/",
+          "note": "#9: \"shares White Fox's warm, feminine style but is more eclectic\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/",
+          "note": "#17: listed, no description"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "i-am-gia",
+      "rank": 9,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 49,
+        "max": 179,
+        "min_usd": 49,
+        "max_usd": 179,
+        "fx_date": null,
+        "item_count": 67
+      },
+      "price_relation": "similar",
+      "reason": "I.AM.GIA's full-price tops run $49–$179, from the Blare Boob Tube to the Buffy Latex Corset, in XXS–XL, shipped from a US warehouse with duties covered and 30-day returns that allow a refund.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/",
+          "note": "#9: \"store is like White Fox Boutique, but with a twist!\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.discobrands.co/blogs/18-brands-like-white-fox",
+          "note": "#12: \"Y2K-inflected going-out wear, cutout dresses, denim and now footwear\" (disco directory: evidence only, never cited)"
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "sabo",
+      "rank": 10,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 56.16,
+        "max": 283.14,
+        "min_usd": 56.16,
+        "max_usd": 283.14,
+        "fx_date": null,
+        "item_count": 203
+      },
+      "price_relation": "similar",
+      "reason": "SABO's US store sells full-price tops at $56.16–$283.14 (median about $89) in XXS–XXL and often XXXL, duties included, free US shipping over $175, refunds within 14 days of delivery minus a $20 label.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.ldnfashion.com/features/brands-like-white-fox/",
+          "note": "#12: \"This one is for White Fox fans whose taste is moving towards resort wear\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/",
+          "note": "#11: \"an online fashion store founded by two best friends, Thessy and Yiota.\""
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "motel-rocks",
+      "rank": 11,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 36,
+        "max": 98,
+        "min_usd": 36,
+        "max_usd": 98,
+        "fx_date": null,
+        "item_count": 454
+      },
+      "price_relation": "similar",
+      "reason": "Motel Rocks' US store sells full-price tops at $36–$98, halternecks its largest group, in XXS–XXL, designed in London and produced in Bali, with free US shipping over $95 and 30-day returns from dispatch.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.ldnfashion.com/features/brands-like-white-fox/",
+          "note": "#10: \"White Fox is sleek; Motel Rocks has more personality.\""
+        }
+      ],
+      "gate_gaps": []
+    },
+    {
+      "slug": "petal-and-pup",
+      "rank": 12,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 37,
+        "max": 109,
+        "min_usd": 37,
+        "max_usd": 109,
+        "fx_date": null,
+        "item_count": 339
+      },
+      "price_relation": "similar",
+      "reason": "Petal & Pup sells full-price tops at $37–$109, nearly all under $100, in XXS–XXL and 0–16, with free US shipping from $80 and 30-day returns for refund, credit or exchange.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.lapassionvoutee.com/stores-like-white-fox/",
+          "note": "#15: \"an absolute dream for any fashion-forward woman with a sense of adventure.\""
+        }
+      ],
+      "gate_gaps": []
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "meshki",
+      "why": "3 sources (ldnfashion #3, lapassionvoutee #25, disco #19), but www.meshki.us returned HTTP 403 to the bot UA and to WebFetch (2026-10-29), so no tops price or policies read. No brand file written. Human check."
+    },
+    {
+      "slug": "fashion-nova",
+      "why": "2 sources. Brand file has no regular-price data: every rendered item shows a sale price against a 'Comp. Value' (dresses, earlier run); tops not re-read. No regular tops price."
+    },
+    {
+      "slug": "hello-molly",
+      "why": "2 sources (lapassionvoutee #23, disco #17). hellomolly.com returned 403 to curl and 429 to WebFetch (2026-10-29). Not verified; no brand file."
+    },
+    {
+      "slug": "stelly",
+      "why": "2 sources (lapassionvoutee #26, disco #5). stelly.com.au is behind a password page ('will be back with a new look'); feeds return 401. Not verified; no brand file."
+    },
+    {
+      "slug": "boohoo",
+      "why": "2 sources. Verified brand, but the US product grid loads client-side (no prices) and the store runs '70% off almost everything' banners; its offer overlaps PrettyLittleThing (same group, same returns charge), which ranks higher. Not added to keep the list from repeating itself."
+    },
+    {
+      "slug": "shein",
+      "why": "marketplace; brand file unverified."
+    },
+    {
+      "slug": "h-m",
+      "why": "brand file unverified (site refused earlier runs)."
+    },
+    {
+      "slug": "nasty-gal",
+      "why": "shared brand file status is off_category (set by another run); not changed here."
+    },
+    {
+      "slug": "house-of-cb",
+      "why": "1 source (ldnfashion #2). houseofcb.com redirects to app.houseofcb.com; no readable store or feed. Not verified."
+    },
+    {
+      "slug": "free-people",
+      "why": "1 source; brand file unverified."
+    },
+    {
+      "slug": "lulus",
+      "why": "1 source; brand file unverified."
+    },
+    {
+      "slug": "urban-outfitters",
+      "why": "1 source; multi-brand retailer, no tops price in its file."
+    },
+    {
+      "slug": "revolve",
+      "why": "1 source; multi-brand retailer, no tops price; lower priority than the 12 picks."
+    },
+    {
+      "slug": "modcloth",
+      "why": "1 source; retailer, dresses only in its file; not checked for tops."
+    },
+    {
+      "slug": "dollskill",
+      "why": "1 source (disco only); its tops price row rests on 9 items (human_check on the Edikted page)."
+    },
+    {
+      "slug": "windsor",
+      "why": "1 source (disco only); file has dresses only; not checked for tops."
+    },
+    {
+      "slug": "forever-21",
+      "why": "1 source (disco only); no tops price in its file; not checked further."
+    },
+    {
+      "slug": "cider",
+      "why": "1 source (disco only); no tops price in its file; not checked further."
+    },
+    {
+      "slug": "missguided",
+      "why": "1 source (disco only); retailer, no tops price."
+    },
+    {
+      "slug": "express",
+      "why": "1 source (disco only); brand file unverified."
+    },
+    {
+      "slug": "pangaia",
+      "why": "1 forum reply (Mumsnet), recommended for a tracksuit, not tops; not checked."
+    },
+    {
+      "slug": "mars-the-label",
+      "why": "1 forum reply (Mumsnet), hoodies and trackies, not tops; not checked."
+    },
+    {
+      "slug": "venus",
+      "why": "1 source (lapassionvoutee #16, no description) plus Apart Style pool; not checked; 12 picks with 2+ sources or verified tops prices already."
+    },
+    {
+      "slug": "glassons",
+      "why": "1 source; us.glassons.com failed (proxy 502), www.glassons.com not Shopify; not verified."
+    },
+    {
+      "slug": "altard-state, honey-peaches, the-iconic, bnkr, city-chic, eloquii, astr-the-label, pomelo, vici, nadine-merabi, asos",
+      "why": "1 source each, not checked: lower priority than the 12 picks (cap of 25 verifications)."
+    },
+    {
+      "slug": "apart-style-pool",
+      "why": "Apart Style pool brands with no outside source (MOTEL, In The Style, Ami Clubwear, AX Paris, Dissh, Superdown, For Love & Lemons, House of Sunny, Bardot, Majorelle, Sister Jane, Black Milk, Rixo, Meme London, Rebdolls, ModParty): no evidence of their own."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "Meshki (3 sources)",
+      "url": "https://www.meshki.us/collections/tops",
+      "check": "www.meshki.us returns 403 to automated reads. If a person can read it, it's a strong candidate (3 sources): record US tops regular-price range, sizes, US shipping and returns."
+    },
+    {
+      "fact": "Showpo tops price",
+      "url": "https://www.showpo.com/us/collections/womens-tops",
+      "check": "The $49.95–$119.95 range is the first 30 of 646 tops. Confirm the full-price min and max on the site."
+    },
+    {
+      "fact": "PrettyLittleThing tops price",
+      "url": "https://www.prettylittlething.us/clothing/tops.html",
+      "check": "No prices render to WebFetch (client-side grid). Rendered without a price chip. Add a regular-price range if one can be read."
+    },
+    {
+      "fact": "White Fox standard US shipping rate under $100",
+      "url": "https://whitefoxboutique.com/",
+      "check": "Free over $100 is from the cart config; the rate below $100 wasn't readable. Not used in copy."
+    },
+    {
+      "fact": "Stelly and Hello Molly",
+      "url": "https://stelly.com.au/",
+      "check": "Stelly is behind a password page; Hello Molly refused (403/429). Re-check later; each has 2 sources."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": null,
+  "notes": [
+    "Evidence: three readable pages name alternatives to White Fox: ldnfashion 'Brands Like White Fox: 12 Labels Worth Knowing' (18/09/2026, editorial), lapassionvoutee '31 Unique Online Stores Like White Fox' (June 2022, updated Aug 2022), and the disco directory '26 Brands like White Fox' (updated Jul 2026, found by WebSearch; unsigned directory, counts as evidence but is never cited on the page). A Mumsnet thread (24 Apr 2024) names Pangaia and Mars The Label for a tracksuit. 'white fox alternatives' and 'similar to white fox' have no Ahrefs SERP data. Reddit (4 threads), TikTok, Instagram and Facebook not readable.",
+    "Ranking: number of independent sources (3, then 2, then 1), then closeness of the full-price tops range to White Fox's $29.99–$99.99 (sum of |log min ratio| and |log max ratio|). PrettyLittleThing has no price and goes last of the 3-source group. Every priced pick overlaps the anchor's range, so every price_relation is 'similar'.",
+    "Prices: Shopify /collections/tops/products.json for White Fox, Oh Polly, Beginning Boutique and SABO (US stores, USD), regular price = no variant with compare_at_price above price (enrich.md; campaign or other-market sale tags ignored). Earlier runs' rows for Princess Polly, Tiger Mist, Lioness, Peppermayo, I.AM.GIA, Motel Rocks and Petal & Pup also excluded sale-tagged items; reused unchanged (checked 2026-10-29). Showpo from WebFetch of its first 30 of 646 tops. No FX needed: every pick's US store prices in USD.",
+    "Brand-file merges this run (each from patches/white-fox/, through merge_brand.py one at a time): white-fox (tops price re-read, free_shipping_min_usd 100, us_stores false, ships_to corrected [US] -> US, CA, MX, GB, AU with --overwrite ships_to,free_shipping_min_usd, notes), oh-polly (tops price), showpo (tops price, sample), prettylittlething (sells_categories tops), new beginning-boutique, new sabo."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "You've found the White Fox halter you want, then read the returns page. It's store credit only, and the 30 days start the moment you order. Or maybe you need a size past XL. Every store here sells the same kind of going-out and everyday tops to the US, and most start under $50. The ones outside lists recommend most come first, then the ones priced closest to White Fox.",
+    "bodies": {
+      "princess-polly": "Princess Polly is the closest swap if White Fox's return rules are what's holding you back. Its tops cover the same ground at almost the same prices, from the Daily Define Tube Top ($29) to corset styles like the Afelia Strapless Corset Top ($59).\n\nThe difference is in the small print. You get 30 days from delivery rather than from ordering, and a refund is one of the options. US shipping is free from $50, half White Fox's threshold. Sizes come in US numbers from 0 to 12, and some styles have a Curve version up to 20, well past White Fox's XL.\n\nIt also has shops in Scottsdale, Santa Clara, Boston and Columbus, so you can try a size on first. White Fox only sells online.",
+      "beginning-boutique": "Beginning Boutique is the nearest match on price, and on return rules too. Its cheapest tops, like the Nora White Jersey Halter Neck Top ($29.99), start exactly where White Fox's do. The Elsa Cropped Baby Tee ($34.99) is the basic to add to an order.\n\nIt's Australian as well, founded in 2008, and most of what it sells is its own BB Exclusive label. Sizes run in US numbers from 00 to 18, so it's worth a look if White Fox's XL is too small. Free US shipping starts at $100, the same as White Fox, and customs charges are covered.\n\nThe catch is the returns. It's store credit or an exchange only, and $13.99 comes off the credit. You do get 30 days from delivery, though, not from the day you order.",
+      "tiger-mist": "Tiger Mist is the pick if you like White Fox's bandage and going-out tops but want the option of a refund. Its range starts higher, with the Bella Baby Tee ($49) at the bottom and the Ember Bandage Top ($105) at the top.\n\nSo there's no $30 tier here. Pieces like the Lydiah Top ($55) and the Elliot Top ($59) sit in the middle. Free US shipping starts at $75, which is easier to reach than White Fox's $100.\n\nReturns run 30 days for a refund or a credit note. Store-credit returns get a free label, and a refund costs you $10 for the label. Sizes stop at XL, the same ceiling as White Fox, so for anything bigger try Beginning Boutique or Princess Polly.",
+      "showpo": "Showpo is the one for corset tops and bodysuits that cost a little more than White Fox's. The Odile Bodysuit ($49.95) is one of its cheapest, and the Gigi Strapless Square Neck Corset Top ($79.95) is closer to the norm.\n\nIt started in Sydney in 2010 and ships US orders from a US warehouse, free over $100 like White Fox. Sizes run from US 0 to 16 (XXS to 4XL), well past White Fox's XL.\n\nThe returns reward you for being quick. In the first seven days after delivery you can take a refund. After that, up to day 30, it's an exchange or store credit worth 110% of what you paid. That beats White Fox's straight credit either way.",
+      "prettylittlething": "PrettyLittleThing is the one to try when White Fox's size range is the problem. Its US sizes run from 00 to 24, a long way past White Fox's XXS to XL.\n\nThe ranges are split by body as well as size. Plus goes from 12 to 24 (L to 3XL), petite starts at a 00, and there's a tall range too. It's a Manchester label, founded in 2012 and now part of Boohoo Group.\n\nThe costs come at the edges. Standard US shipping is a flat $9.99 per order, and a refund loses $14.99 per parcel. You get 21 days to send things back, nine fewer than White Fox. But a refund is allowed here, and picking store credit adds 10% on top.",
+      "lioness": "Lioness suits you if you want White Fox's price band without a spending target for free shipping. Its tops run from the Kaia Cami ($30) to the Notting Hill Shirt ($90), with going-out pieces like the Nice Nights Top ($70) in between.\n\nIt's a Sydney label with a US warehouse, and standard shipping on anything from there is free, whatever you spend. A few pieces ship from Australia instead, for $8 unless that part of the order passes $95. Sizes run XXS to XXL, one step past White Fox. If you shop Beginning Boutique, you may have seen it already, since a few Lioness tops sit in that store's range too.\n\nYou get 30 days from delivery to return things. Store credit or an exchange is free, and a refund comes with a free label but loses $15. That's still more choice than White Fox's credit-only rule.",
+      "oh-polly": "Oh Polly is the closest match for White Fox's fitted going-out tops, designed in London. The Asymmetric Ruched Tank Top ($35) and the Modal Halterneck Tank Top ($42) are easy starting points. Corset styles like the Satin Lace-Up Corset Top ($100) sit at the top.\n\nMost of its tops are corsets, tanks and crop tops, and the fabrics are named right in the titles, from modal to satin. Sizes go XXS to XXL, one step past White Fox.\n\nWatch the return windows, because the window shrinks the more you want back. You have 7 days from delivery for a refund, 14 for an exchange and 28 for store credit. If you'd rather not rush, Lioness gives you 30 days whichever you choose.",
+      "peppermayo": "Peppermayo is the pick for bustier and printed tops where the price on the tag is the price nearly everyone pays. Almost nothing in its tops range is marked down. The Hollywood Baby Tank Top ($45) is where it starts, and polka-dot pieces like the Aaliyah Bustier Top ($68) sit in the middle.\n\nThe top end stops at the Ellington Long Sleeve Top ($98), inside White Fox's range. Sizes come in US numbers up to 18, past White Fox's XL. US shipping is free from $99, with duties and taxes already in the price.\n\nReturns are tighter. You get 14 days from delivery for a refund and 21 for credit or an exchange, on full-price items only. Shorter than White Fox's 30 days, but at least a refund is possible.",
+      "i-am-gia": "I.AM.GIA is the pick when you want statement tops, latex and boob tubes included, rather than everyday tanks. Its range starts with the Blare Boob Tube ($49) and climbs to the Buffy Latex Corset ($179), well past White Fox's ceiling.\n\nIn between are simpler pieces like the Ina Tank ($59) and the Zoya Top ($79). Orders ship from a US warehouse with duties covered, so there's nothing extra to pay at the door.\n\nSizes stop at XL, the same as White Fox, and the 30-day return window also starts from purchase. The difference is that a refund is allowed here, minus a $10 label fee, and store-credit returns ship free. If you need a bigger size in the same spirit, Showpo goes up to a US 16.",
+      "sabo": "SABO is the step up, for when you want an Australian summer wardrobe with pricier tops than White Fox's. The Azalia Tank ($60.84) and the Illaria Top ($60.84) are where it starts. Printed pieces like the Orion Top ($283.14) go far past anything White Fox charges for a top.\n\nIt's best known for summer dresses, playsuits and two-piece sets, so its tops are often half of a matching set. Duties and taxes are already in the US price. Shipping is free over $175, and with many tops near $90, two of them get you there.\n\nReturns need planning. You have 14 days from delivery to post them, and $20 comes off the refund for the US return label. Parcels go back to Australia, which can take up to six weeks. There are no exchanges, so order the right size first time. Most tops go up to XXL, many to XXXL.",
+      "motel-rocks": "Motel Rocks is the pick for halter tops with a vintage, printed look. Halternecks are its biggest group of tops, from the Kindos Halter Top ($36) to striped styles like the Miruna Halterneck Top ($52).\n\nIt designs in London and produces in Bali, and its prices sit right inside White Fox's band, topping out at the Arsenia Off Shoulder Top ($98). Sizes run XXS to XXL, one more than White Fox offers.\n\nUS shipping is free over $95, close to White Fox's $100. Returns get 30 days counted from dispatch, which still beats a clock that starts the moment you order. If prints aren't your thing, Oh Polly's Modal Halterneck Tank Top ($42) is the plainer route.",
+      "petal-and-pup": "Petal & Pup is the softer option, with lace tees and printed tops more than bandage and corset pieces. The Tulla Graphic Tee ($55) and the Paolina Lace Tee ($59) show the range, and almost every top stays under $100.\n\nIt's another Australian label, and the shipping maths is friendlier than White Fox's. Standard US shipping is free from $80, and $9.95 below that. Sizes run XXS to XXL, with numeric sizes from 0 to 16 on some styles.\n\nReturns give you 30 days from delivery for a refund, store credit or an exchange, with $9.95 taken off refunds. If you want the most return choice for the least money, compare it with Princess Polly."
+    },
+    "best_for": {
+      "princess-polly": "a refund option and sizes past XL at White Fox prices",
+      "beginning-boutique": "US 00 to 18 sizing at White Fox's starting price",
+      "tiger-mist": "bandage and going-out tops you can return for a refund",
+      "showpo": "corset tops and bodysuits with 110% store credit on returns",
+      "prettylittlething": "petite, tall and plus sizes White Fox doesn't make",
+      "lioness": "small orders that still ship free from a US warehouse",
+      "oh-polly": "fitted corset and tank tops from a London label",
+      "peppermayo": "full-price tops in US sizes up to 18",
+      "i-am-gia": "statement tops when the budget stretches past $100",
+      "sabo": "summer tops that match a set, up to XXXL",
+      "motel-rocks": "printed halter tops under $100",
+      "petal-and-pup": "lace and graphic tees with an easy refund"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with what's bothering you about White Fox. If it's the credit-only returns, Princess Polly and Petal & Pup both give refunds within 30 days of delivery. If it's sizes, PrettyLittleThing goes to a US 24 and Beginning Boutique to an 18. Beginning Boutique and Lioness both start around $30, and Lioness ships free from its US warehouse with no minimum. Want something dressier? Oh Polly and Showpo do corsets and bodysuits. SABO and I.AM.GIA are the ones to look at when you're happy to spend over $100 on a single top."
+    },
+    "faqs": [
+      {
+        "q": "Does White Fox do returns?",
+        "a": "Yes, but only for store credit. You get 30 days from the day you order, you pay the return postage, sale items are final, and the credit expires after 12 months.",
+        "source_query": "does white fox do returns"
+      },
+      {
+        "q": "Where can I buy White Fox hoodies?",
+        "a": "Only from White Fox's own websites. It doesn't sell through other stores and has no shops. On the US site, full-price hoodies run from $54.99 to $89.99, and most cost $69.99.",
+        "source_query": "where can i buy white fox hoodies"
+      },
+      {
+        "q": "Where is White Fox from?",
+        "a": "White Fox is an Australian brand. Its US site charges in US dollars with tariffs already included, ships from a warehouse in Indianapolis, and standard shipping is free over $100.",
+        "source_query": "where is white fox from"
+      }
+    ]
+  }
+}
