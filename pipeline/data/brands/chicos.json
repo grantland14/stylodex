@@ -1,0 +1,56 @@
+{
+  "slug": "chicos",
+  "name": "Chico's",
+  "website_url": "https://www.chicos.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Comfortable Clothing for All Shapes",
+  "hq_country": "US",
+  "founded_year": 1983,
+  "parent_company": "Knitwell Group",
+  "size_range": "000–4 (US 0–22); petite 000P–4P",
+  "has_plus": false,
+  "has_petite": true,
+  "has_tall": false,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 60,
+  "us_stores": null,
+  "sells_categories": [
+    "dresses"
+  ],
+  "checked_at": "2026-10-29",
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 109.5,
+      "max": 189.5,
+      "min_usd": 109.5,
+      "max_usd": 189.5,
+      "fx_date": null,
+      "item_count": 15,
+      "source_url": "https://www.chicos.com/store/category/dresses/cat40004",
+      "checked_at": "2026-10-29",
+      "note": "Dresses category via WebFetch: page reports 165 items; 76 listings read (rest truncated); 61 show a struck original price (excluded), 15 regular only. Low: Travelers Classic Dress $109.50, Zenergy UPF Mockneck Bungee Dress $109.50; high: Embellished Stretched Tweed Sleeveless Dress $189.50. Ponte Godet Long-Sleeve Dress $129.50, Travelers Velvet Knit Short Dress $139.50, Printed Long Sleeved Maxi Dress $149.50."
+    }
+  ],
+  "sources": [
+    "https://www.chicos.com/store/",
+    "https://www.chicos.com/store/category/dresses/cat40004",
+    "https://www.chicos.com/store/page/size-chart/",
+    "https://www.chicos.com/store/page/returns-info/36",
+    "https://www.chicos.com/store/page/shipping-handling-info/34",
+    "https://en.wikipedia.org/wiki/Chico%27s_FAS",
+    "https://www.knitwellgroup.com/"
+  ],
+  "notes": [
+    "2026-10-29 (talbots page run): homepage title 'Women's Clothing & Apparel Online & In-Store | Chico's'; copy: 'Our designs are made for women of all shapes and sizes, offering comfort and wearability'; known for knit tops, No Iron shirts, So Slimming pants and jeans. Nav has Petites, no plus nav.",
+    "Size chart: Chico's sizes 000–4 map to US XS/0 to XXL/20–22; petite 000P–4P for women 5'4\" or under. No tall or plus chart.",
+    "Returns: 'within 60 days of the date of purchase'; mailed returns $7.00 processing fee; full-price online purchases can go back to full-price boutiques. Shipping: standard $8.95, 'Standard delivery is available for all U.S. addresses'; international exists but countries only at checkout, so only US stored. No free-shipping threshold stated.",
+    "Store locator (/locations, /store/page/store-locator/) renders no list to WebFetch ('located throughout the country'); us_stores left empty. Wikipedia: founded 1983 on Sanibel Island, Florida; HQ Fort Myers, Florida; Sycamore Partners acquired it January 5, 2024; White House Black Market is one of its brands; 1,376 stores in US and Canada as of October 2019 (dated, not used).",
+    "2026-10-29 (talbots page run): knitwellgroup.com lists Chico's in its 'family of brands' with Ann Taylor, Haven Well Within, Lane Bryant, Loft, Soma, Talbots and WHBM; Chico's line: 'Chic, versatile fashion for every woman and every lifestyle'. parent_company set to Knitwell Group (Sycamore Partners' operator, per Wikipedia's 2024 acquisition)."
+  ]
+}

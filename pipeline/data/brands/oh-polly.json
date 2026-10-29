@@ -31,10 +31,24 @@
       "source_url": "https://us.ohpolly.com/collections/dresses/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "729 regular-price in-stock dresses in the full US feed (1,340 products; 1,149 in stock, 420 marked down). Low: Bandeau Ruffle Detail Mini Dress in Raspberry $50; high: Embellished Plunge-Neck Open-Back Gown in Sand $315. Median $120; 228 (31%) under $100. 248 long (maxi/gown/formal) from $55. Examples: Ruched Corset Mini Dress in Black $68, Backless Halterneck Fishtail Gown in Pearl $85, Jersey Corset Bridesmaid Dress in Powder Blue $155."
+    },
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 32,
+      "max": 105,
+      "min_usd": 32,
+      "max_usd": 105,
+      "fx_date": null,
+      "item_count": 159,
+      "source_url": "https://us.ohpolly.com/collections/tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US store, USD. Tops feed 192 products: 159 regular-price in-stock tops (product type Tops; none marked down, 3 sold out, 30 non-tops excluded). Regular price = no variant with compare_at_price above price. Low: Cap Sleeve Open Back Crop Top in White $32; Asymmetric Ruched Tank Top in Black $35; Modal Halterneck Tank Top in White $42. High: Feather Trim Sheer Top $105; Satin Lace-Up Corset Top in Ivory $100. Median $60. Sizes XXS–XXL on nearly all."
     }
   ],
   "sells_categories": [
-    "dresses"
+    "dresses",
+    "tops"
   ],
   "materials": [],
   "certifications": [],
@@ -47,14 +61,16 @@
     "https://us.ohpolly.com/collections/dresses/products.json?limit=250",
     "https://us.ohpolly.com/pages/returns",
     "https://us.ohpolly.com/pages/about-us",
-    "https://us.ohpolly.com/api/mcp"
+    "https://us.ohpolly.com/api/mcp",
+    "https://us.ohpolly.com/collections/tops/products.json?limit=250"
   ],
   "notes": [
     "US store meta.json: 'Oh Polly US', Los Angeles, USD; description 'designed in London with a focus on premium fabrics and impeccable details. Shop versatile staples and exclusive occasionwear.' UK store meta: Wirral, England, GBP.",
     "About page: founders Claire Henderson and Mike Branney began selling on eBay; 'one of the few UK brands which designs and produces its own garments'; offices in Glasgow, Liverpool, Los Angeles, Dhaka, Guangzhou. hq_country GB.",
     "Returns (us.ohpolly.com/pages/returns): 'Online orders must be returned for a refund within 7 days of delivery, exchanges within 14 days of delivery, extended to 28 days for store credit.' returns_days stores the longest window (28, credit); refund window is 7.",
     "Store policy search: ships to US only (this US store). Free-shipping threshold not found.",
-    "Sizes in stock dresses: XXS to XXL (XL 281, XXL 272 of 1,149)."
+    "Sizes in stock dresses: XXS to XXL (XL 281, XXL 272 of 1,149).",
+    "2026-10-29 (stores-like-white-fox run): tops price added from the US tops feed, $32–$105, 159 regular-price items, mostly corset, tank and crop tops."
   ],
   "checked_at": "2026-10-29"
 }

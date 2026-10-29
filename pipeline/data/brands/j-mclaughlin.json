@@ -1,0 +1,41 @@
+{
+  "slug": "j-mclaughlin",
+  "name": "J.McLaughlin",
+  "website_url": "https://www.jmclaughlin.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Timeless Clothing for Women and Men",
+  "hq_country": null,
+  "founded_year": 1977,
+  "parent_company": null,
+  "size_range": "XS–XL; 0–14",
+  "has_plus": false,
+  "has_petite": false,
+  "has_tall": false,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 30,
+  "us_stores": null,
+  "sells_categories": [
+    "dresses"
+  ],
+  "checked_at": "2026-10-29",
+  "prices": [],
+  "sources": [
+    "https://www.jmclaughlin.com/",
+    "https://www.jmclaughlin.com/collections/women-dresses",
+    "https://www.jmclaughlin.com/pages/return-policy",
+    "https://www.jmclaughlin.com/pages/shipping-policy",
+    "https://www.jmclaughlin.com/pages/our-stores",
+    "https://www.jmclaughlin.com/pages/faqs",
+    "https://www.jmclaughlin.com/products/hannah-silk-blend-dress-city-garden-black-coral"
+  ],
+  "notes": [
+    "2026-10-29 (talbots page run): homepage title 'J.McLaughlin | Timeless Clothing for Women & Men'; Organization JSON-LD: 'casual, classic style peppered with a dose of wit', founders Jay and Kevin McLaughlin, foundingDate 1977.",
+    "Women's dresses collection: 31 items (Hannah Silk Blend Dress in several prints, Lily 3/4 Sleeve Dress, Amory Maxi Dress, Catalyst Boucle Dress, Scarlett Sequin Boucle Dress); size filters XS–XL and 0–14; price filter $0–$898. Prices aren't in the rendered page or product JSON-LD, so no dresses price stored. Headless Shopify: /products.json not served (404).",
+    "Returns: 'within 30 days of the delivery date'; $9.95 restocking fee on mail returns, store returns complimentary. Shipping: '$9.95 or FREE for orders over $150'; 'Shipping to: United States'; international countries only in an FAQ with no answers shown, so only US stored.",
+    "Our Stores page shows boutique sketches (Madison Ave, Harbor Springs) and FAQ says 'Free Returns To Any Of Our Stores', but the store locator renders no list; us_stores left empty."
+  ]
+}

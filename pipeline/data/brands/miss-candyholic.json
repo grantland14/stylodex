@@ -1,0 +1,56 @@
+{
+  "name": "Miss Candyholic",
+  "website_url": "https://misscandyholic.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Princess Casual Whimsical Clothing",
+  "hq_country": "US",
+  "size_range": "XS–5XL",
+  "has_plus": true,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 200,
+  "returns_days": 14,
+  "production_model": "Small batches in China, California and NY",
+  "sells_categories": [
+    "dresses"
+  ],
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 158.0,
+      "max": 248.0,
+      "min_usd": 158.0,
+      "max_usd": 248.0,
+      "fx_date": null,
+      "item_count": 25,
+      "source_url": "https://www.misscandyholic.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "35 items in the Dresses collection feed, 10 marked down, 25 regular price. Median $198. Sweatshirt dresses and Matcha Frog Pinafore $158; Fairy Dresses $198 (Rosemary, Red Velvet, Blackberry, Pink Rose); Gumdrop Dresses $188; Green Tartan Cottage Dress $178; Rose Princess Gowns (Pink, Blue, Yellow) $248."
+    }
+  ],
+  "sources": [
+    "https://www.misscandyholic.com/meta.json",
+    "https://misscandyholic.com/",
+    "https://www.misscandyholic.com/pages.json",
+    "https://www.misscandyholic.com/pages/about-us",
+    "https://www.misscandyholic.com/pages/refund-policy",
+    "https://www.misscandyholic.com/pages/miss-candyholic-sizing-standard",
+    "https://www.misscandyholic.com/policies/shipping-policy",
+    "https://www.misscandyholic.com/collections/dresses/products.json?limit=250"
+  ],
+  "notes": [
+    "meta.json: shop 'Miss Candyholic', Chestnut Ridge, New York, US; currency USD; ships_to_countries includes US, CA, GB, AU.",
+    "About: 'Forget business casual, we're princess casual!'; started as the username of 'a girl who loved sweet motifs'; 'she started out sewing everything on her own'; 'we have outsourced small batches of clothing in China, California, and New York'; 'against sweat shops of any kind'; 'proud to be independent and black woman owned'. (pages/about-us)",
+    "Homepage banner: 'Free shipping on orders over $200'. Homepage description: 'a romantic boutique made for dreamers'.",
+    "Refund policy: 14 days after receiving the item to request a return, unworn with tags; buyer pays return shipping; no returns on items 20% or more off, custom or made-to-order items. (pages/refund-policy)",
+    "Shipping policy: in-stock items ship within 2-5 business days; handmade-to-order items within 3-6 weeks; preorders in 1-2 months.",
+    "Sizing standard: XS (bust 30-32in) to 5XL (bust 55-57in, high waist 50-52in). Most dresses offered XS-5XL; sweatshirt dresses stop at 3XL.",
+    "founded_year left empty: not stated on its own pages."
+  ]
+}

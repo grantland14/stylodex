@@ -6,20 +6,49 @@
   "kind": "retailer",
   "known_for": "Denim and Casual Fashion",
   "us_stores": true,
-  "ships_to": [],
-  "prices": [],
+  "ships_to": [
+    "US"
+  ],
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 54.99,
+      "max": 308,
+      "min_usd": 54.99,
+      "max_usd": 308,
+      "fx_date": null,
+      "item_count": null,
+      "source_url": "https://www.buckle.com/womens/jeans",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: women's jeans. Women's Jeans listing (2,315 items) read from the page's embedded productResults JSON with curl (StylodexBot UA), sorted price asc (pages 1-5) and price desc (page 1). Regular = sku.sale false, temporaryPricing false, no retailPrice, priceSummaryType SINGLE. Asc pages 1-4 were all markdowns ($24.97-$54.97, retailPrice shown); first regular items on asc page 5: Very J High Rise Wide Leg Jean and Barrel Chambray Pull On Jean $54.99. Desc page 1: all 48 regular, 7 For All Mankind Dojo Trouser Stretch Jean $308 top. Page 1 default sort: 48 regular, e.g. BKE Taylor Low Slung Baggy Wide Leg Stretch Jean $79.99, Miss Me Universal Boot Stretch Jean $129, Levi's Cinch Baggy Wide Leg Jean $84.95."
+    }
+  ],
   "materials": [],
   "certifications": [],
   "sources": [
     "https://www.buckle.com/womens/jeans",
     "https://local.buckle.com/",
-    "https://www.sec.gov/Archives/edgar/data/885245/000088524526000012/bke-20260131.htm"
+    "https://www.sec.gov/Archives/edgar/data/885245/000088524526000012/bke-20260131.htm",
+    "https://www.buckle.com/womens/jeans?sort=price%20asc",
+    "https://www.buckle.com/womens/jeans?sort=price%20desc",
+    "https://www.buckle.com/bke-taylor-low-slung-baggy-wide-leg-stretch-jean/prd-72350PBK243/sku-2057932232",
+    "https://www.buckle.com/miss-me-universal-boot-stretch-jean/prd-57030E9619VB4/sku-1855882330",
+    "https://www.buckle.com/levis-cinch-baggy-wide-leg-jean/prd-52100001UP000/sku-1830562331"
   ],
   "checked_at": "2026-10-29",
   "notes": [
-    "2026-10-29: buckle.com/womens/jeans loads (title 'Women's Jeans | Denim Jeans for Women | Buckle') but the product grid doesn't render to WebFetch, so no prices. Status from the company's own Form 10-K for fiscal 2025 (year ended Jan 31, 2026): 440 retail stores in 42 states throughout the United States; merchandise 'denims, casual bottoms, tops, sportswear, outerwear, accessories, and footwear'; denim 42.5% of fiscal 2025 net sales; denim brands include Levi's, Wrangler, Miss Me, Rock Revival, 7 For All Mankind; private labels BKE, Buckle Black, Ace High; brand-name goods about 53% of sales; targets 'the fashion-conscious 15 to 30-year old'. Store locator local.buckle.com lists 42 states. Online shipping terms not read, so ships_to empty."
+    "2026-10-29: buckle.com/womens/jeans loads (title 'Women's Jeans | Denim Jeans for Women | Buckle') but the product grid doesn't render to WebFetch, so no prices. Status from the company's own Form 10-K for fiscal 2025 (year ended Jan 31, 2026): 440 retail stores in 42 states throughout the United States; merchandise 'denims, casual bottoms, tops, sportswear, outerwear, accessories, and footwear'; denim 42.5% of fiscal 2025 net sales; denim brands include Levi's, Wrangler, Miss Me, Rock Revival, 7 For All Mankind; private labels BKE, Buckle Black, Ace High; brand-name goods about 53% of sales; targets 'the fashion-conscious 15 to 30-year old'. Store locator local.buckle.com lists 42 states. Online shipping terms not read, so ships_to empty.",
+    "2026-10-29 (buckle page run): women's jeans regular prices $54.99-$308 (see price note). Brands in the listing pages read: BKE, KanCan Signature, Buckle Black, 7 For All Mankind, Willow & Root, HIDDEN, Flying Monkey, VERVET by Flying Monkey, Miss Me, Levi's, Rock Revival, Wrangler, Free People, Good American, Ariat among others.",
+    "2026-10-29 (buckle page run): returns from the product pages' own MerchantReturnPolicy structured data (applicableCountry US): mail returns 60 days, return shipping fee $6.99, refund or exchange; in-store returns 60 days, free. Organization data: 2407 W 24th Street, Kearney, NE 68845, US. Help center (buckle.zendesk.com) serves a Cloudflare challenge to WebFetch and curl, so the shipping page wasn't read; robots.txt disallows /returns/ and /international/, not fetched. Free shipping is stated only for members: 'free shipping on orders of $99+ when you become a premier member with a Buckle Credit Card', so free_shipping_min_usd left empty. ships_to US only: the store prices in USD with a US return policy, and the 10-K reports online sales of $217.1 million for fiscal 2025; international destinations not read.",
+    "2026-10-29 (buckle page run): size_range from four product pages' size options: BKE Taylor Low Slung Baggy Wide Leg waists 22-34, Miss Me Universal Boot 23-38, Levi's Cinch Baggy Wide Leg 23-34 (Very J High Rise Wide Leg sold in S/M/L). Not a full size guide.",
+    "2026-10-29 (buckle page run): Form 10-K FY2025: principal executive offices 2407 West 24th Street, Kearney, Nebraska; 'Incorporated in Nebraska in 1948, the Company commenced business under the name Mills Clothing, Inc.'; online sales $217.1 million, up 9.8%; denim 42.5% of fiscal 2025 net sales, average denim price points up 3.5% ($0.75)."
   ],
   "sells_categories": [
     "jeans"
-  ]
+  ],
+  "hq_country": "US",
+  "founded_year": 1948,
+  "size_range": "Jean waists 22–38",
+  "returns_days": 60
 }

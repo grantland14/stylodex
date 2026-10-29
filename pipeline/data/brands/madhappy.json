@@ -1,0 +1,66 @@
+{
+  "slug": "madhappy",
+  "name": "Madhappy",
+  "website_url": "https://www.madhappy.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Optimistic Fleece Hoodies and Sweats",
+  "hq_country": "US",
+  "founded_year": 2017,
+  "parent_company": null,
+  "size_range": "XXS–XXL",
+  "has_plus": false,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 200,
+  "returns_days": 30,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "sweatshirts",
+      "currency": "USD",
+      "min": 150,
+      "max": 225,
+      "min_usd": 150,
+      "max_usd": 225,
+      "fx_date": null,
+      "item_count": 59,
+      "source_url": "https://www.madhappy.com/collections/sweatshirts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "59 regular-price in-stock hoodies, crewnecks and zip-ups of 73 in the sweatshirts collection feed (14 sold out, none marked down; sweatpants and shorts dropped). 38 carry a 'Final Sale' tag (licensed Dodgers, Disney, Peanuts etc.) with no markdown, so they count as regular price. Low $150: PUMA Lace Trim Fleece Hoodie; core: Classics Fleece Crewneck $165 (100% cotton heavyweight fleece, made in Los Angeles), Classics Fleece Hoodie $175, Classics Fleece Zip Up $185; high $225: Dodgers and Lakers World Series/Stars hoodies. Median $185."
+    }
+  ],
+  "materials": [
+    "100% cotton fleece"
+  ],
+  "certifications": [],
+  "production_model": "Core fleece made in Los Angeles",
+  "sale_pattern": null,
+  "sources": [
+    "https://www.madhappy.com/",
+    "https://www.madhappy.com/pages/about",
+    "https://www.madhappy.com/pages/stores",
+    "https://www.madhappy.com/pages/faq",
+    "https://www.madhappy.com/policies/refund-policy",
+    "https://www.madhappy.com/collections/sweatshirts/products.json?limit=250",
+    "https://sites.psu.edu/bkginley/2023/09/13/dairy-boy-brand-analysis/"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "About: 'Madhappy is a clothing brand for a community of optimists. Born in Los Angeles, 2017'; formally launched Apr 2017 with hoodies, t-shirts and accessories; runs the Madhappy Foundation for mental-health research and awareness and the Local Optimist magazine.",
+    "Stores page: West Hollywood (8906 Melrose Ave), New York (207 Mulberry St), Malibu, East Hampton, Aspen, Costa Mesa (South Coast Plaza), plus Seoul and Tokyo. us_stores true.",
+    "FAQ: standard US shipping free over $200 ($5 for $150–$200, $8 for $100–$150, $10 under $100); international free over $250 via a partner, flat $15–$20 below. Ships in 3–7 business days. The market selector lists Canada, United Kingdom and Australia.",
+    "FAQ returns: refund or store credit within 30 days of purchase, online or in store; $12 fee deducted from domestic refunds, waived for store credit and exchanges; final sale items excluded; international returns $20, no international exchanges.",
+    "Product pages: Classics Fleece Crewneck and Hoodie are 100% cotton heavyweight fleece, relaxed unisex fit, made in Los Angeles; Classic Midweight Fleece Crewneck made in Canada; Polar Fleece Hoodie 100% polyester. Sizes XXS–XXL.",
+    "Outside source: https://sites.psu.edu/bkginley/2023/09/13/dairy-boy-brand-analysis/ (student brand analysis, 2023-09-13): 'One brand that I would consider to be their competitor is madhappy', with Madhappy brighter and more abstract, Dairy Boy darker and more neutral."
+  ],
+  "sells_categories": [
+    "sweatshirts"
+  ]
+}

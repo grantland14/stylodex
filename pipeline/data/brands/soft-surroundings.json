@@ -1,0 +1,41 @@
+{
+  "slug": "soft-surroundings",
+  "name": "Soft Surroundings",
+  "website_url": "https://www.softsurroundings.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Soft Clothing With Artful Details",
+  "hq_country": "US",
+  "founded_year": 1999,
+  "parent_company": "Coldwater Creek",
+  "size_range": "2–18, petite 2P–18P, plus 18W–24W",
+  "has_plus": true,
+  "has_petite": true,
+  "has_tall": true,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 60,
+  "us_stores": false,
+  "sells_categories": [
+    "dresses"
+  ],
+  "checked_at": "2026-10-29",
+  "prices": [],
+  "sources": [
+    "https://www.softsurroundings.com/",
+    "https://www.softsurroundings.com/clothing/dresses-jumpsuits",
+    "https://www.softsurroundings.com/returns-and-exchanges/",
+    "https://www.softsurroundings.com/shipping/",
+    "https://www.softsurroundings.com/size-charts/",
+    "https://en.wikipedia.org/wiki/Soft_Surroundings"
+  ],
+  "notes": [
+    "2026-10-29 (talbots page run): homepage title 'Soft Surroundings | Women's Clothing with Artful Details XS-3X'; meta 'comfortable women's clothing featuring soft knits, breathable cotton, and airy linen. Versatile tunics, dresses, and everyday styles with artful details in sizes XS-3X'.",
+    "Dresses & jumpsuits page is script-rendered (grid from a third-party search service, not read): text 'sizes XS-3X, plus petite and select tall sizing'; Maxi, Midi and Short filters. No regular dresses price stored; sells_categories from the store's own dresses page.",
+    "Size charts: Misses & Talls 2–18 (XS–XL); Petites 2P–18P; Women's 18W–24W (1X–3X).",
+    "Returns: 'within 60 days of purchase with a valid receipt'; $9.95 fee. Shipping: by order value, $9.99 standard up to $50 to $19.99 over $200.01; 'not able to ship to Canada or other non-U.S. addresses'. Same policy pages as sister brand Coldwater Creek.",
+    "Wikipedia: founded 1999 in St. Louis, Missouri as a catalog business; HQ St. Louis; Coldwater Creek bought it December 7, 2023; online-only since its last stores closed February 24, 2024, so us_stores false."
+  ]
+}

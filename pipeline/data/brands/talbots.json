@@ -43,11 +43,17 @@
     "https://www.talbots.com/shipping/shipping.html",
     "https://www.talbots.com/size-charts/size-charts.html",
     "https://en.wikipedia.org/wiki/Talbots",
-    "https://www.knitwellgroup.com/"
+    "https://www.knitwellgroup.com/",
+    "https://www.talbots.com/sitemap-custom-stores-talbots.xml",
+    "https://www.talbots.com/sitemap-custom-product-talbots.xml",
+    "https://www.talbots.com/sitemap-custom-category-talbots.xml"
   ],
   "notes": [
     "2026-10-29 (ann-taylor page run): homepage meta 'modern classic selection of women's clothing... apparel in misses, petite, plus size and plus size petite'. Size charts: Misses 2–18 (XS–XL), Petite 0–16 (PP–PXL), Plus 14W–24W (X–3X); no Tall listed.",
     "Returns: 'within 30 days of purchase'; $9.95 deducted when using the prepaid UPS label. Shipping: standard $8.95 flat; ships to US incl. AK/HI, APO/FPO, Canada, Mexico, UK, Bahamas, Bermuda; 'Shipping to Australia is currently not available'. Only free-shipping figure is an email sign-up perk ('$15 Off + Free Ship $49+'), so free_shipping_min_usd left empty.",
-    "Store locator pages (/storelocator, /stores) render stores by script; no US store list read, us_stores left empty. Wikipedia: founded 1947 in Hingham, Massachusetts; HQ Hingham. knitwellgroup.com lists Talbots ('timely and timeless style for every body'). Footer: The Talbots LLC."
-  ]
+    "Store locator pages (/storelocator, /stores) render stores by script; no US store list read, us_stores left empty. Wikipedia: founded 1947 in Hingham, Massachusetts; HQ Hingham. knitwellgroup.com lists Talbots ('timely and timeless style for every body'). Footer: The Talbots LLC.",
+    "2026-10-29 (talbots page run): the store's own store sitemap (https://www.talbots.com/sitemap-custom-stores-talbots.xml) lists 437 store pages under US state codes (PA 32, FL 31, TX 26, NY 25, NC 25, MA 25...), so us_stores true.",
+    "2026-10-29 (talbots page run): product sitemap (https://www.talbots.com/sitemap-custom-product-talbots.xml) has 2,775 product URLs; by the last word of the product name: pants 216, dress 191 + shirtdress 33 (224 dresses), top 185, tee 181, sweater 136, jacket 128. Category sitemap: clothing > sweaters, blouses-and-shirts, tees-and-knits, pants, jeans, shorts, dresses, skirts, jackets-and-coats, suiting."
+  ],
+  "us_stores": true
 }

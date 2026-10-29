@@ -1,0 +1,42 @@
+{
+  "slug": "coldwater-creek",
+  "name": "Coldwater Creek",
+  "website_url": "https://www.coldwatercreek.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Comfortable Tunics and Pull-On Pants",
+  "hq_country": null,
+  "founded_year": 1984,
+  "parent_company": "Newtimes Group",
+  "size_range": "XS–XL, petite PXS–PXL, plus 1X–3X",
+  "has_plus": true,
+  "has_petite": true,
+  "has_tall": false,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 60,
+  "us_stores": false,
+  "sells_categories": [
+    "dresses"
+  ],
+  "checked_at": "2026-10-29",
+  "prices": [],
+  "sources": [
+    "https://www.coldwatercreek.com/",
+    "https://www.coldwatercreek.com/clothing/dresses",
+    "https://www.coldwatercreek.com/returns",
+    "https://www.coldwatercreek.com/shipping/",
+    "https://www.coldwatercreek.com/size-charts",
+    "https://en.wikipedia.org/wiki/Coldwater_Creek_(clothing_retailer)",
+    "https://en.wikipedia.org/wiki/Soft_Surroundings"
+  ],
+  "notes": [
+    "2026-10-29 (talbots page run): homepage title 'Coldwater Creek | Women's Clothing | Quality Tunics & Pants XS-3X'; meta 'comfortable tunics, pull-on pants, jeans, and versatile dresses... Misses, Petites & Women's Plus XS-3X'.",
+    "Dresses page (/clothing/dresses) is script-rendered (product grid loads from a third-party search service, not read): page text 'Browse sizes XS-3X, including petite and women's options'. No regular dresses price stored; sells_categories from the store's own dresses page.",
+    "Size charts: Misses XS (2-4) to XL (18-20); Petites PXS (P2-P4) to PXL (P18-P20); Women's Plus 1X (16W-18W) to 3X (24W-26W); tall only in select pants.",
+    "Returns: 'within 60 days of purchase with a valid receipt'; $9.95 processing fee deducted. Shipping: by order value, $9.99 standard up to $50 to $19.99 over $200; 'not able to ship to Canada or other non-U.S. addresses'.",
+    "Wikipedia: founded 1984 by Dennis and Ann Pence in Sandpoint, Idaho; Newtimes Group (Hong Kong) bought its inventory and IP in September 2020; closed its 13 stores in 2020 and is online-only, so us_stores false. Current HQ not stated, hq_country left empty. Soft Surroundings article: Coldwater Creek bought Soft Surroundings on December 7, 2023."
+  ]
+}

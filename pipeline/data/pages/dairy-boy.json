@@ -1,0 +1,392 @@
+{
+  "subject": "Dairy Boy",
+  "slug": "dairy-boy",
+  "url_prefix": "brands",
+  "category": {
+    "slug": "sweatshirts",
+    "name": "Sweatshirts",
+    "why": "C is a product type: sweatshirts (crewnecks, hoodies, half-zips, quarter-zips, rollnecks). Dairy Boy's first product was an embroidered sweatshirt, coverage ties it to camo sweatshirts, and a 2023 brand analysis names sweatshirts, sweatpants and hats as its popular lines (sources in the dairy-boy brand file notes). Its storefront's Sweatshirts & Hoodies collection (dairyboy.com/collections/sweatshirts) is the like-for-like price item; Tops (191 in collections.json) is larger but mixes tanks, tees, shirts and outerwear. Sweatpants, sets, knit sweaters and jackets are excluded on every brand."
+  },
+  "serp": [
+    {
+      "keyword": "brands like dairy boy",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview (US) returned no positions for this keyword"
+    },
+    {
+      "keyword": "stores like dairy boy",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview (US) returned no positions for this keyword"
+    },
+    {
+      "keyword": "dairy boy alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview (US) returned no positions for this keyword"
+    },
+    {
+      "keyword": "similar to dairy boy",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview (US) returned no positions for this keyword"
+    }
+  ],
+  "serp_extra": [
+    {
+      "source": "WebSearch",
+      "url": "https://sites.psu.edu/bkginley/2023/09/13/dairy-boy-brand-analysis/",
+      "kept": true,
+      "why_dropped": null,
+      "note": "Penn State student blog, 'Dairy Boy Brand Analysis', by bkg5425, 2023-09-13: 'One brand that I would consider to be their competitor is madhappy.' Also names Urban Outfitters, as a collaboration partner only."
+    },
+    {
+      "source": "WebSearch",
+      "url": "https://lbb.in/all/dairy-boy-clothing-dupes/",
+      "kept": true,
+      "why_dropped": null,
+      "note": "LBB, 'Love Dairy Boy's Preppy Clothing? 7 Indian Brands To Bookmark Instead', by Riya Narula, undated. Recommends Days For Clothing, TRAPIN, SIX5SIX, LAB 88, Spacelines, Stamp Duty and Lovebirds as alternatives."
+    },
+    {
+      "source": "WebSearch",
+      "url": "https://www.thevaultuwmadison.com/blog/the-price-of-personality-why-we-keep-buying-into-it-girl-brands",
+      "kept": false,
+      "why_dropped": "read: an essay on it-girl brand pricing that groups Dairy Boy with The Bar and Parke; recommends no alternative to Dairy Boy"
+    },
+    {
+      "source": "WebSearch",
+      "url": "https://lunchculture.substack.com/p/everyone-is-launching-a-sport-collection",
+      "kept": false,
+      "why_dropped": "read: about brands launching sport lines (Dairy Boy, Set Active, Parke, Adanola, Daily Drills); peers, not recommended alternatives"
+    },
+    {
+      "source": "WebSearch",
+      "url": "https://theeverygirl.substack.com/p/for-my-next-girlboss-grift-ill-be",
+      "kept": false,
+      "why_dropped": "read: criticises Odd Muse, Parke, Set Active and Dairy Boy together; recommends no alternative"
+    },
+    {
+      "source": "WebSearch",
+      "url": "https://www.fetchcollectivemag.com/post/our-obsession-with-overpriced-branded-sweatshirts",
+      "kept": false,
+      "why_dropped": "read: criticises Parke and Dairy Boy pricing; recommends no alternative"
+    },
+    {
+      "source": "WebSearch",
+      "url": "https://tcu360.shorthandstories.com/add-it-to-the-cart-if-you-can-copy/index.html",
+      "kept": false,
+      "why_dropped": "read: about Parke hype; mentions Dairy Boy only as another hyped brand"
+    },
+    {
+      "source": "WebSearch",
+      "url": "https://femmefluence.substack.com/p/how-paige-lorenze-turned-her-online",
+      "kept": false,
+      "why_dropped": "read: brand profile; names no other clothing brand (used for anchor facts only)"
+    },
+    {
+      "source": "WebSearch",
+      "url": "https://www.aol.com/real-though-super-chic-preppy-150100639.html",
+      "kept": false,
+      "why_dropped": "read: Cosmopolitan preppy-brands list; never mentions Dairy Boy"
+    },
+    {
+      "source": "WebSearch",
+      "url": "https://www.whowhatwear.com/fashion/shopping/brands-like-parke",
+      "kept": false,
+      "why_dropped": "an alternatives list for Parke, not Dairy Boy; WebFetch showed no Dairy Boy mention"
+    },
+    {
+      "source": "WebSearch",
+      "url": "https://www.businessoffashion.com/articles/retail/behind-the-rise-of-the-it-sweatshirt/",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch; not read, no workaround"
+    },
+    {
+      "source": "WebSearch",
+      "url": "https://wildlabsky.com/blog/parke-sweatshirt/",
+      "kept": false,
+      "why_dropped": "HTTP 410 Gone"
+    },
+    {
+      "source": "WebSearch",
+      "url": "https://www.apartstyle.com/post/brands-like-dairy-boy",
+      "kept": false,
+      "why_dropped": "apartstyle.com never counts (rule)"
+    },
+    {
+      "source": "WebSearch",
+      "url": "https://www.tiktok.com/discover/brands-like-dairy-boy",
+      "kept": false,
+      "why_dropped": "TikTok discover pages (also brands-similar-to-dairy-boy, similar-brands-to-dairy-boy, and a Curtsy video tagging Madhappy, Daily Drills, The Bar): social, not read"
+    },
+    {
+      "source": "WebSearch",
+      "url": "https://www.mercari.com/us/brand/dairy-boy-29391/men-2/",
+      "kept": false,
+      "why_dropped": "resale marketplace (also Poshmark, eBay, Depop results)"
+    },
+    {
+      "source": "WebSearch",
+      "url": "https://brandsearch.co/brands/dairyboy.com",
+      "kept": false,
+      "why_dropped": "automated store-data directory, no editorial content"
+    },
+    {
+      "source": "sitemap",
+      "url": "https://www.discobrands.co/sitemap.xml",
+      "kept": false,
+      "why_dropped": "disco has no Dairy Boy page (6,227 URLs, none for dairy-boy; /blogs/brands-like-dairy-boy 404)"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": "Urban Outfitters",
+      "url": "https://www.urbanoutfitters.com/brands/dairy-boy",
+      "used": false,
+      "why": "the 2023 Dairy Boy x Urban Outfitters collaboration (named in the PSU analysis) is the only multi-brand retailer link found; the UO brand URL returns 403 to the bot UA, and no current stockist was found by search. Dairy Boy sells through its own site, pop-ups and its Nantucket store."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Madhappy",
+      "slug": "madhappy",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "editorial",
+          "url": "https://sites.psu.edu/bkginley/2023/09/13/dairy-boy-brand-analysis/"
+        }
+      ]
+    },
+    {
+      "name": "Days For Clothing",
+      "slug": "days-for-clothing",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://lbb.in/all/dairy-boy-clothing-dupes/"
+        }
+      ]
+    },
+    {
+      "name": "TRAPIN",
+      "slug": "trapin",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://lbb.in/all/dairy-boy-clothing-dupes/"
+        }
+      ]
+    },
+    {
+      "name": "SIX5SIX",
+      "slug": "six5six",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://lbb.in/all/dairy-boy-clothing-dupes/"
+        }
+      ]
+    },
+    {
+      "name": "LAB 88",
+      "slug": "lab-88",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://lbb.in/all/dairy-boy-clothing-dupes/"
+        }
+      ]
+    },
+    {
+      "name": "Spacelines",
+      "slug": "spacelines",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://lbb.in/all/dairy-boy-clothing-dupes/"
+        }
+      ]
+    },
+    {
+      "name": "Stamp Duty",
+      "slug": "stamp-duty",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://lbb.in/all/dairy-boy-clothing-dupes/"
+        }
+      ]
+    },
+    {
+      "name": "Lovebirds",
+      "slug": "lovebirds",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://lbb.in/all/dairy-boy-clothing-dupes/"
+        }
+      ]
+    }
+  ],
+  "picks": [
+    {
+      "slug": "madhappy",
+      "rank": 1,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 150,
+        "max": 225,
+        "min_usd": 150,
+        "max_usd": 225,
+        "fx_date": null,
+        "item_count": 59
+      },
+      "price_relation": "pricier",
+      "reason": "Madhappy's full-price sweatshirts run $150–$225, led by the 100% cotton heavyweight Classics Fleece Crewneck ($165, made in Los Angeles), in XXS–XXL with 30-day returns and US stores.",
+      "evidence": [
+        {
+          "kind": "editorial",
+          "url": "https://sites.psu.edu/bkginley/2023/09/13/dairy-boy-brand-analysis/",
+          "note": "Penn State student brand analysis of Dairy Boy (2023-09-13): 'One brand that I would consider to be their competitor is madhappy', both selling sweatshirts and sweatpants, Madhappy brighter and more abstract."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "days-for-clothing",
+      "why": "daysforclothing.com feed (181 products): no sweatshirts or hoodies, only sweatpants among fleece; doesn't sell C. No file written."
+    },
+    {
+      "slug": "trapin",
+      "why": "trapin.co feed (118 products): no sweatshirts (rugby polo sweaters, denim zippers, vests); doesn't sell C. No file written."
+    },
+    {
+      "slug": "six5six",
+      "why": "six5six.in feed: all 9 hoodies/half-zips marked down (compare_at above price), so no regular-price sweatshirts. No file written."
+    },
+    {
+      "slug": "lab-88",
+      "why": "lab88.in: 2 regular-price sweatshirts (CACTI 88 Sweatshirt Rs. 6,000, Delhi 88 Hoodie Rs. 7,500), but its shipping policy covers India only, so not available in the US. No file written."
+    },
+    {
+      "slug": "spacelines",
+      "why": "thespacelines.com feed (164 products): co-ord sets, pants, shirts, dresses; no sweatshirts. No file written."
+    },
+    {
+      "slug": "stamp-duty",
+      "why": "stamp-duty.in ships to the US, but its quarter-zips are lightweight woven cotton or wool-blend raglan pullovers filed as Outerwear (drawstring, back pleat, Rs. 7,500–14,000), not sweatshirts; no other sweatshirts. No file written."
+    },
+    {
+      "slug": "lovebirds",
+      "why": "lovebirds-studio.in feed (819 products): no sweatshirts or hoodies. No file written."
+    },
+    {
+      "slug": "parke",
+      "why": "named next to Dairy Boy in several pieces (The Vault, Lunch Culture, The Everygirl, Fetch Collective, TCU360) but none recommends it as an alternative to Dairy Boy; no outside evidence, not verified."
+    },
+    {
+      "slug": "the-bar",
+      "why": "grouped with Dairy Boy as an it-girl brand (The Vault, Fetch Collective); not recommended as an alternative; not verified."
+    },
+    {
+      "slug": "daily-drills",
+      "why": "named next to Dairy Boy (Lunch Culture) as a peer launching a sport line; not recommended as an alternative; not verified."
+    },
+    {
+      "slug": "set-active",
+      "why": "named next to Dairy Boy (Lunch Culture, The Everygirl) as a peer; not recommended as an alternative; not verified."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "evidence base",
+      "url": "https://sites.psu.edu/bkginley/2023/09/13/dairy-boy-brand-analysis/",
+      "check": "Only two readable pages recommend alternatives to Dairy Boy: a 2023 student blog (Madhappy) and LBB's list of seven Indian labels, none of which sells regular-price sweatshirts to the US. Ahrefs has no SERP data for any of the four keywords; reddit and TikTok weren't read. The page has 1 renderable pick, so it stays noindex. Decide whether to hold it, or to accept peer-grouping pieces (Parke, The Bar, Daily Drills, Set Active are repeatedly named next to Dairy Boy) as evidence, which today's rules don't allow."
+    },
+    {
+      "fact": "PSU source strength",
+      "url": "https://sites.psu.edu/bkginley/2023/09/13/dairy-boy-brand-analysis/",
+      "check": "A 2023 student blog post calling Madhappy a competitor is the sole evidence for the one pick. Confirm it's enough to keep Madhappy on the page."
+    },
+    {
+      "fact": "anchor image",
+      "url": "https://dairyboy.com/",
+      "check": "images.json has no dairy-boy entry yet; run pipeline/images.mjs."
+    },
+    {
+      "fact": "Dairy Boy sweatshirts price",
+      "url": "https://dairyboy.com/collections/sweatshirts/products.json?limit=250",
+      "check": "Only 10 of 24 sweatshirts were in stock; Dairy Boy sells in drops, so the $88–$95 range may move quickly."
+    },
+    {
+      "fact": "Madhappy ships_to",
+      "url": "https://www.madhappy.com/pages/faq",
+      "check": "FAQ says international orders ship through a partner; CA, GB and AU taken from the store's market selector, not a named country list."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": null,
+  "notes": [
+    "Anchor: verified (dairyboy.com, Shopify, USD). Sweatshirts $88–$95 over 10 regular-price in-stock items. Westport CT address, Nantucket store, 18-day returns, free US shipping over $175, worldwide via Passport. missingAnchorFacts leaves only image_url.",
+    "Evidence: Ahrefs serp-overview returned no positions for all four keywords (4 calls used). WebSearch (8 queries) found two pages that recommend alternatives: the PSU brand analysis (Madhappy) and LBB (seven Indian labels). Everything else was peer-grouping commentary, social, resale, apartstyle.com or unreadable. disco has no Dairy Boy page. Apart Style's brands table has no Dairy Boy row, so the brand_relationships pool is empty.",
+    "Co-stocking: none usable; Dairy Boy sells direct (site, pop-ups, Nantucket store). The 2023 Urban Outfitters collab isn't a current stockist and urbanoutfitters.com returns 403.",
+    "Prices: Shopify collection feeds read with the StylodexBot UA. Regular price = in stock and no variant with compare_at_price above price. A 'Final Sale' tag with no markdown counts as regular price (Madhappy's licensed hoodies). Non-sweatshirt items dropped by title/product type.",
+    "1 pick passes enrich.md §3 (Madhappy); 7 LBB candidates fail on category or US availability. 1 renderable pick is below the gate's floor of 6, so the page is noindex. Not padded.",
+    "New brand files: dairy-boy, madhappy."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "Your Dairy Boy camo crewneck sold out in your size again, or you want something with more weight to it. Dairy Boy's own sweatshirts run from $88 to $95, so that's the line everything here gets measured against. The list is short for now. It only holds a real swap for the sweatshirt itself, with the price, sizes and returns laid out so you can compare before you buy.",
+    "bodies": {
+      "madhappy": "Madhappy is where to go if you want a heavier cotton sweatshirt than Dairy Boy makes and you don't mind paying for it. Start with the Classics Fleece Crewneck ($165), a heavyweight 100% cotton fleece made in Los Angeles.\n\nThat's nearly double Dairy Boy's Oversized Crewneck ($88), and it's a different kind of sweatshirt. Dairy Boy's camo crews are cotton French terry, and its Cloud Terry pieces are made to skip the weight of a traditional sweatshirt. Sizes run XXS to XXL in a relaxed unisex fit, so the range matches. Returns are kinder here: 30 days instead of 18, and the $12 refund fee goes away if you take store credit or an exchange.\n\nTwo catches. One crewneck falls just short of free US shipping, which starts at $200. And the Dodgers, Disney and Peanuts hoodies are final sale, so buy those only when you're sure of the size."
+    },
+    "best_for": {
+      "madhappy": "a heavyweight cotton crewneck made in Los Angeles"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "If price is the point, stay with Dairy Boy. Its crews and hoodies stop at $95, and orders over $175 ship free in the US. It's also the place for camo, with Lowcountry and Decoy Camo in its current crews and hoodies. If you want a heavier fleece and more time to send it back, Madhappy's Classics line is the swap, at $165 for the crewneck and $185 for the zip-up. Size won't decide it for you, since both go from XXS to XXL. And if you're near Nantucket or one of Madhappy's US shops, you can see the fabric in person before you choose."
+    },
+    "faqs": [
+      {
+        "q": "Who started Dairy Boy?",
+        "a": "Paige Lorenze started Dairy Boy in 2021. It's a clothing, denim and housewares brand, and it traces its roots to her New England childhood.",
+        "source_query": "who started dairy boy"
+      },
+      {
+        "q": "Does Dairy Boy do returns?",
+        "a": "Yes. You get 18 days after delivery to return clothing for a refund, minus a $10.95 shipping fee, or 30 days for store credit. Accessories, home goods and intimates are final sale.",
+        "source_query": "does dairy boy do returns"
+      },
+      {
+        "q": "How much are Dairy Boy sweatshirts?",
+        "a": "Full-price Dairy Boy sweatshirts cost $88 to $95. The Oversized Crewneck is $88, while the Diana Rollneck and Oversized Hoodie are $95.",
+        "source_query": "how much are dairy boy sweatshirts"
+      },
+      {
+        "q": "Where is Dairy Boy located?",
+        "a": "Dairy Boy's customer service address is in Westport, Connecticut. Its first permanent store is at 14 Federal Street on Nantucket.",
+        "source_query": "where is dairy boy located"
+      }
+    ]
+  }
+}

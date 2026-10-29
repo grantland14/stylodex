@@ -8,7 +8,8 @@
   "hq_country": "US",
   "us_stores": true,
   "sells_categories": [
-    "womens-clothing"
+    "womens-clothing",
+    "jeans"
   ],
   "ships_to": [
     "US"
@@ -26,6 +27,19 @@
       "source_url": "https://www.dillards.com/c/women-jeans",
       "checked_at": "2026-10-29",
       "note": "Like-for-like item: women's jeans. All 15 pages of Women's Jeans & Denim (1,407 items) read from the page's embedded pricing data with curl (StylodexBot UA); 225 marked-down items excluded (onSpecial / markDown set, or offer below list price), leaving 1,182 regular-price items. Lowest: Celebrity Pink and YMI Jeanswear skinny jeans $36; highest: JOHNNY WAS Embroidered Side Flare Leg High Waisted Stretch Denim Jeans $350."
+    },
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 36,
+      "max": 350,
+      "min_usd": 36,
+      "max_usd": 350,
+      "fx_date": null,
+      "item_count": 1182,
+      "source_url": "https://www.dillards.com/c/women-jeans",
+      "checked_at": "2026-10-29",
+      "note": "Same reading as the womens-clothing row (its like-for-like item is women's jeans, from the store's own jeans listing): Like-for-like item: women's jeans. All 15 pages of Women's Jeans & Denim (1,407 items) read from the page's embedded pricing data with curl (StylodexBot UA); 225 marked-down items excluded (onSpecial / markDown set, or offer below list price), leaving 1,182 regular-price items. Lowest: Celebrity Pink and YMI Jeanswear skinny jeans $36; highest: JOHNNY WAS Embroidered Side Flare Leg High Waisted Stretch Denim Jeans $350."
     }
   ],
   "materials": [],
@@ -45,7 +59,8 @@
     "Shipping (FAQs page): 'Orders with merchandise totaling $150 and over delivered to addresses in the Continental United States qualify for Free Standard Shipping on non-additional clearance sale days.' Under $150: $9.95 standard; Alaska, Hawaii, US territories $25. A 'Change Country' footer link and a Zonos international script exist, but no destination list was read, so only US stored.",
     "Returns: 'Items purchased on Dillards.com that are eligible for return can be returned within 30 calendar days from the purchase date.' Holiday extension for Nov 1–Dec 11 purchases.",
     "Company history page: William Dillard opened his first store in 1938 in Nashville, Arkansas; HQ relocated to Little Rock, Arkansas; 'the chain consists of 272 Dillard's stores including 28 clearance centers spanning 30 states'.",
-    "Jeans size filters: 00/XXS–16/XL and 1X–3X; fit filters Contemporary, Standard, Juniors, Petite, Plus. Brands on page 1 include NYDJ, Levi's, KUT from the Kloth, Good American, Free People, Lauren Ralph Lauren, Gibson & Latimer, Antonio Melani, 7 For All Mankind, Eileen Fisher."
+    "Jeans size filters: 00/XXS–16/XL and 1X–3X; fit filters Contemporary, Standard, Juniors, Petite, Plus. Brands on page 1 include NYDJ, Levi's, KUT from the Kloth, Good American, Free People, Lauren Ralph Lauren, Gibson & Latimer, Antonio Melani, 7 For All Mankind, Eileen Fisher.",
+    "2026-10-29 (buckle page run): jeans price row added from the existing womens-clothing row, which was read from the store's own women's jeans listing (https://www.dillards.com/c/women-jeans), same date; jeans added to sells_categories."
   ],
   "checked_at": "2026-10-29",
   "founded_year": 1938,

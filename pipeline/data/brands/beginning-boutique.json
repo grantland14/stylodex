@@ -1,0 +1,58 @@
+{
+  "slug": "beginning-boutique",
+  "name": "Beginning Boutique",
+  "website_url": "https://www.beginningboutique.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Summer and Hoco Dresses",
+  "hq_country": "AU",
+  "founded_year": 2008,
+  "parent_company": "Renew Body & Soul Pty Ltd",
+  "size_range": "US 00–18",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 29.99,
+      "max": 119.99,
+      "min_usd": 29.99,
+      "max_usd": 119.99,
+      "fx_date": null,
+      "item_count": 218,
+      "source_url": "https://www.beginningboutique.com/collections/tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US store (meta 'Beginning Boutique US', USD). Tops feed 431 products: 218 regular-price in-stock tops (142 marked down, 10 sold out, 61 non-tops excluded). Regular price = no variant with compare_at_price above price. Low: Beatrice Black Jersey Bralette, Nora White Jersey Halter Neck Top $29.99; Elsa Cropped Baby Tee $34.99; Alba Plain White Tee $39.99. High: Violetta Black Lace Fur Trim Top $119.99; Zariah Gold Sequin Long Sleeve Shirt $99.99. Median $59.99. Types: Top 97, Crop Tops 92, Camis 8. Vendors in the feed: BB Exclusive 413 of 431, a few Lioness (10). Sizes US 0–18 on ~200 tops, US 00 on 8."
+    }
+  ],
+  "sells_categories": [
+    "tops"
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.beginningboutique.com/meta.json",
+    "https://www.beginningboutique.com/collections/tops/products.json?limit=250",
+    "https://www.beginningboutique.com/policies/shipping-policy.json",
+    "https://www.beginningboutique.com/policies/refund-policy.json",
+    "https://www.beginningboutique.com/pages.json?limit=250"
+  ],
+  "notes": [
+    "2026-10-29 (stores-like-white-fox run): US store meta: 'Beginning Boutique US', San Diego, CA, currency USD, ships_to_countries CA, US; description: 'we cover all customs charges so no surprises at checkout. From head-turning summer and hoco dresses to must-have bikinis, we design outfits you'll actually want to wear.' known_for from that line.",
+    "About Us page: started in 2008 by CEO Sarah, who was 21. Terms page: 'Beginning Boutique is the trading name of Renew Body & Soul Pty Ltd registered in Australia, Brisbane', street address Fairfield QLD. hq_country AU. Size guide: 'we stock a range of different designers' (the tops feed is mostly its own BB Exclusive label).",
+    "US shipping policy: dispatched from its warehouse in Vista, CA, same business day before 3:30pm PDT; USA Standard (3–6 business days) free on orders $100 and over, $9.95 under; Express $9.95 over $100, $19.95 under; Overnight $34.95; Canada Standard $19.95. 'All prices on Beginning Boutique are in USD.' (An older Shipping Information page says 'We ship from Brisbane, Australia'; the policy is newer and names Vista, CA.)",
+    "Returns policy: no cash refunds for change of mind, fit or sizing; store credit or exchange on eligible items posted back within 30 days from delivery; $13.99 processing fee deducted from store credit for US and Canada orders; final sale, earrings, intimates not returnable."
+  ],
+  "checked_at": "2026-10-29"
+}

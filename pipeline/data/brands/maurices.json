@@ -1,0 +1,54 @@
+{
+  "slug": "maurices",
+  "name": "maurices",
+  "website_url": "https://www.maurices.com",
+  "status": "verified",
+  "kind": "retailer",
+  "known_for": "Fashion, Denim and Plus Sizes",
+  "hq_country": null,
+  "size_range": "Sizes 0–24",
+  "has_plus": true,
+  "has_petite": true,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 50,
+  "returns_days": null,
+  "prices": [
+    {
+      "category": "jeans",
+      "currency": "USD",
+      "min": 34.9,
+      "max": 108,
+      "min_usd": 34.9,
+      "max_usd": 108,
+      "fx_date": null,
+      "item_count": 71,
+      "source_url": "https://www.maurices.com/category/jeans",
+      "checked_at": "2026-10-29",
+      "note": "Like-for-like item: women's jeans. Page 1 of Women's Jeans (72 of 324 products) read from the page's embedded product data with curl (StylodexBot UA). Regular = selling price equal to the maurices-list-prices pricebook and no lower maurices-markdown-prices entry; 1 marked down, excluded. Low: m jeans by maurices Classic Mid Rise Flare Jeans $34.90; high: Silver Jeans Co. Suki Curvy Mid Rise Embellished Slim Boot Jeans $108 (Silver Jeans Baggy Rolled Hem Overalls $104 inside the range anyway). A sample of page 1, not a full sort."
+    }
+  ],
+  "sells_categories": [
+    "jeans",
+    "womens-clothing"
+  ],
+  "materials": [],
+  "certifications": [],
+  "sources": [
+    "https://www.maurices.com/",
+    "https://www.maurices.com/category/jeans",
+    "https://www.maurices.com/customer-service/shipping-handling",
+    "https://www.maurices.com/customer-service/returns-exchanges",
+    "https://locations.maurices.com/"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "2026-10-29 (buckle page run): homepage title 'Women's Fashion | Denim, Accessories, Plus Size & More | maurices'; meta 'we offer a wide selection of women's clothing from sizes 0-24, including jeans, tops, dresses and more. Enjoy free shipping on orders over $50!'. known_for from the title.",
+    "2026-10-29 (buckle page run): jeans page 1 brands: m jeans by maurices (19 styles), Silver Jeans Co. (18, incl. Petite and Curvy fits), Flying Monkey, edgely, Everflex, KanCan. Sells other brands next to its own, so kind=retailer. Petite Silver Jeans and Curvy fits listed (has_petite); sizes to 24 (has_plus).",
+    "2026-10-29 (buckle page run): Shipping & Handling page: ships within the United States and to Canada (some items can't ship to Canada); free standard ground shipping on 'orders to the US over $50 USD or Credit Card Member'; standard US ground $8.95, 3-8 business days; Canada flat rate $11.95.",
+    "2026-10-29 (buckle page run): Returns page: 'We happily accept maurices returns anytime with your original receipt or order number'; mailed online returns: '$6.95 (USD) fee will be deducted'. No day limit, so returns_days left empty.",
+    "2026-10-29 (buckle page run): store locator (locations.maurices.com) renders by script ('Loading Map...') to WebFetch, so us_stores not recorded; the pick rests on US shipping."
+  ]
+}

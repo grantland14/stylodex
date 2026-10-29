@@ -1,0 +1,56 @@
+{
+  "name": "Whimsical Lace",
+  "website_url": "https://whimsicallace.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Handmade Custom Whimsical Dresses",
+  "hq_country": "ID",
+  "size_range": "XS–5X, plus custom sizing",
+  "has_plus": true,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 250,
+  "returns_days": 0,
+  "production_model": "Handmade to order in Indonesia",
+  "sells_categories": [
+    "dresses"
+  ],
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "IDR",
+      "min": 1592000,
+      "max": 4124000,
+      "min_usd": 87.59,
+      "max_usd": 226.89,
+      "fx_date": "2026-10-28",
+      "item_count": 18,
+      "source_url": "https://whimsicallace.com/collections/dresses-1/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "All 18 items in the Dresses collection are regular price (no compare_at). Store currency IDR (country=US returns the same IDR prices). ECB 2026-10-28: 1 EUR = 1.1133 USD = 20235.79 IDR. Mystery Dress Rp1,592,000 (~$87.59) is the low end; cheapest named style Cecily / Charlotte / Fayette Dress - Customizable Rp1,953,000 (~$107.45); top Vivienne Dress - Customizable Rp4,124,000 (~$226.89). Median Rp2,948,500 (~$162)."
+    }
+  ],
+  "sources": [
+    "https://whimsicallace.com/meta.json",
+    "https://whimsicallace.com/",
+    "https://whimsicallace.com/pages.json",
+    "https://whimsicallace.com/pages/about-us",
+    "https://whimsicallace.com/pages/f-a-q",
+    "https://whimsicallace.com/pages/returns-refunds",
+    "https://whimsicallace.com/collections/dresses-1/products.json?limit=250",
+    "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
+  ],
+  "notes": [
+    "meta.json: shop 'Whimsical Lace', Pekanbaru, Riau, ID; currency IDR; ships_to_countries includes US, CA, GB, AU.",
+    "About: 'a dream come true from a pair of mother and daughter'; 'Each of our garments is carefully handmade with love by my mother in Indonesia', a self-taught seamstress with 30+ years' experience; 'No mass production, no sweatshop'; 'Most of the fabrics used for our garments contain synthetic fibers'; uses vintage and discontinued fabrics; every garment made to order; new styles every other month. (pages/about-us)",
+    "Homepage banner: 'Free worldwide shipping on orders over 250 USD. US orders are tariff inclusive.'",
+    "FAQ: other colours or fabrics at no extra charge; custom sizing free ('Pick custom sizing under the size option'); custom length up to 37 inches free; rush fee 30 USD per dress; 'please allow up to eight weeks for us to dispatch your order'; delivery 1-7 days DHL Express/TIM Express or 7-25 business days tracked regular; 'Only shipping to the US is tariff-inclusive.' (pages/f-a-q)",
+    "Returns: 'we do not accept product returns nor refunds' (made to order); free alteration service within 15 days of receiving the package; replacement only if defective or wrong item. returns_days 0 means no returns. (pages/returns-refunds)",
+    "Sizes on every dress: XS, S, M, L, XL, XXL, 2X, 3X, 4X, 5X, plus Custom size (dresses feed).",
+    "founded_year left empty: not stated on its own pages."
+  ]
+}

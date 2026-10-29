@@ -1,0 +1,57 @@
+{
+  "name": "LaceMade",
+  "website_url": "https://lacemade.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Romantic Corset Dresses",
+  "hq_country": "HK",
+  "founded_year": 2016,
+  "size_range": "XS–4XL",
+  "has_plus": true,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 119,
+  "returns_days": 14,
+  "sells_categories": [
+    "dresses"
+  ],
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 39.9,
+      "max": 589.99,
+      "min_usd": 39.9,
+      "max_usd": 589.99,
+      "fx_date": null,
+      "item_count": 320,
+      "source_url": "https://lacemade.com/collections/dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Shopify feed, pages 1-2 (384 products). 375 dresses/gowns by product_type (cardigan, skirt, top titles excluded); 55 marked down (compare_at above price), 320 regular price. Median $99; 207 under $100, 4 over $150. Little Angel Dress $39.90 to (Long-length) White Feather Looking-Glass Gown $589.99 (sold out); next highest Redberry Letter Dress $189. Corset dresses in stock $61-$129.99, e.g. Woodland Tree Corset Dress $99, Belle's Gilded Corset Dress $88. 80 regular-price Curve & Plus dresses."
+    }
+  ],
+  "sources": [
+    "https://lacemade.com/meta.json",
+    "https://lacemade.com/",
+    "https://lacemade.com/pages/brand-story",
+    "https://lacemade.com/pages/shipping-policy",
+    "https://lacemade.com/pages/return-exchange",
+    "https://lacemade.com/pages/q-a",
+    "https://lacemade.com/collections/dresses/products.json?limit=250"
+  ],
+  "notes": [
+    "meta.json: shop 'LaceMade', Kowloon, HK; currency USD; ships_to_countries includes US, CA, GB, AU (130+ countries); description 'Find your elegant corset & bustier dress, princess costume, tops & bottoms for cocktail evening party.'",
+    "Brand story: 'LaceMade is created in 2016 by Designer Lace Hong who graduated from University of the Arts London.' 'focuses on feminine silhouette which specializes in corsets and handmade knit wear combined vintage and contemporary design.' Inspirations: 'oil paintings, old movies, historical clothing and the beauty of nature'; 'Floral prints, jacquard fabric, bows, ribbons and lace'. Address FP TRADE CO LIMITED, Silvercord Tower, 230 Canton Road, Tsim Sha Tsui, Hong Kong. (pages/brand-story)",
+    "Shipping policy: in-stock items ship within 2 business days; pre-orders ship once all items are available; 'Our warehouse is located in China'; US standard 6-12 business days, express 3-5; 'Under normal circumstances, we cover standard import duties.' Lost-parcel claims within 21 days of shipment. (pages/shipping-policy)",
+    "Homepage announcement bar: 'Free Shipping $119+' (store currency USD; no country named).",
+    "Returns: 14 days after delivery to request a return or exchange; items marked SALE, accessories, gift cards and custom orders are non-returnable; US returns go to a Florence, Kentucky address with a prepaid label whose cost is deducted from the refund. (pages/return-exchange)",
+    "Q&A: 'If you are hesitating between two sizes, we recommend you to buy the larger size'; customs 'All deliveries are customs-free in the most cases'; delivery 'Usually it takes 7-15 business days'. (pages/q-a)",
+    "Sizes from the dresses feed: standard XS-XL, Curve & Plus 0XL-4XL (e.g. Woodland Tree Corset Dress XS-XL, Curve&Plus version 0XL-4XL, both $99). Many variants offered as 'In Stock' and 'Pre order'.",
+    "Sample product fabric (Woodland Tree Corset Dress): shell 100% nylon mesh, lining 100% polyester, hand-sewn dimensional flowers.",
+    "production_model left empty: the store names a China warehouse but doesn't say where garments are made."
+  ]
+}

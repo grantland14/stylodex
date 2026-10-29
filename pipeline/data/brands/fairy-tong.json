@@ -1,0 +1,59 @@
+{
+  "name": "Fairy Tong",
+  "website_url": "https://fairytong.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Dreamy, Romantic Womenswear",
+  "hq_country": "GB",
+  "founded_year": 2020,
+  "size_range": "XXS–10XL (US 00–26)",
+  "has_plus": true,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 465,
+  "returns_days": 14,
+  "sells_categories": [
+    "dresses"
+  ],
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 171.25,
+      "max": 1377.17,
+      "min_usd": 171.25,
+      "max_usd": 1377.17,
+      "fx_date": null,
+      "item_count": 93,
+      "source_url": "https://www.fairytong.com/collections/dresses/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "US-market prices (country=US; the default feed is GBP: £120-£965 for the same 93 items). 147 dresses in the feed, 54 marked down, 93 regular price. Median $663.61. Low end two *Sample* midi dresses $171.25 (size S only); cheapest regular styles Painted Bloom / Secret Bloom Midi Dress $406.73, Botanical Heirloom Corset Midi Dress $421; top The 5th Butterfly Crystal Gown $1,377.17."
+    }
+  ],
+  "sources": [
+    "https://www.fairytong.com/meta.json",
+    "https://fairytong.com/",
+    "https://www.fairytong.com/pages.json",
+    "https://www.fairytong.com/policies/shipping-policy",
+    "https://www.fairytong.com/policies/refund-policy",
+    "https://www.fairytong.com/pages/size-chart-how-to-measure",
+    "https://www.fairytong.com/pages/faqs",
+    "https://www.fairytong.com/collections/dresses/products.json?limit=250",
+    "https://www.fairytong.com/collections/dresses/products.json?limit=250&country=US",
+    "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml"
+  ],
+  "notes": [
+    "meta.json: shop 'Fairy Tong', Swanscombe, England, GB; currency GBP; ships_to_countries includes US, CA, GB, AU; description 'Dreamy, ethereal and magical style.'",
+    "Homepage meta description: 'Fairy Tong London was founded by Yingtong Chung in London in 2020', after an MBA in Luxury Brand Marketing and two years in luxury fashion. Title 'Romantic Girly Dreamy Womenswear'.",
+    "Shipping policy: 'Fairy Tong ships worldwide. Free international delivery over £350. A £20-£35 shipping fee applies for orders below £350.' Ships from both the UK and China; some countries (EU, Canada) may pay customs on delivery. free_shipping_min_usd 465 = £350 at ECB 2026-10-28 (0.83785 GBP, 1.1133 USD per EUR).",
+    "Refund policy: returns and exchanges within 14 days of delivery for unworn items with tags, except custom-made orders; return postage at the customer's cost unless faulty; pre-orders return for store credit or exchange only. Sale and custom-size orders non-returnable (pages/shipping-information).",
+    "FAQ: pre-order, custom-size and customised items ship directly from its atelier / factory partner in China; other items from the UK or China. Pre-orders and custom sizes usually ship in 3-4 weeks (pages/shipping-information).",
+    "Size chart: XXS (UK 2, US 00, bust 29.5in) to 10XL (UK 30, US 26, bust 144cm); mini, midi and gown lengths listed per size; advises choosing by bust and waist rather than UK/US size. Product variants mostly XS-7XL.",
+    "production_model left empty: the FAQ names a factory partner in China for pre-order and custom items only.",
+    "Corset gowns at regular price in the US feed: Monet's Garden Gown $849.14 ('a structured corset bodice with a romantic sweetheart neckline'), Water Lily & Butterfly Gown $906.22 ('finished with a corset back'). Botanical Heirloom Corset Midi Dress $421 (Blue, Pink)."
+  ]
+}

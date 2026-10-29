@@ -9,9 +9,13 @@
   "size_range": "3XS–XL",
   "has_plus": false,
   "ships_to": [
-    "US"
+    "US",
+    "CA",
+    "MX",
+    "GB",
+    "AU"
   ],
-  "free_shipping_min_usd": null,
+  "free_shipping_min_usd": 100,
   "returns_days": 30,
   "prices": [
     {
@@ -22,10 +26,10 @@
       "min_usd": 29.99,
       "max_usd": 99.99,
       "fx_date": null,
-      "item_count": 820,
+      "item_count": 1290,
       "source_url": "https://whitefoxboutique.com/collections/tops/products.json?limit=250",
       "checked_at": "2026-10-29",
-      "note": "820 regular-price in-stock tops of 1,667 (823 on sale, 24 sold out). Low: Core Strengths Tank Top $29.99; high: First In Line Long Sleeve Top $99.99. Currency USD (cart.js; storefront 'White Fox Boutique US'). Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (jackets, bottoms, dresses, sets, knitwear, hoodies, men's) excluded by title/product type."
+      "note": "Re-read 2026-10-29 (stores-like-white-fox run), full feed, 1,728 products: 1,290 regular-price in-stock tops (product type Tops; 277 marked down, 22 sold out, 139 non-tops excluded). Regular price = no variant with compare_at_price above price (enrich.md rule; region tags like SALE40, sale_uk, clearanceau are campaign/other-market tags and not markdowns). Low: Core Strengths Tank Top, After Midnight Lace Trim Cami $29.99; high: First In Line Long Sleeve Feather Top, Athens Aura Shell Top $99.99; Sundream Bandage Top $89.99. Median $49.99. Min/max match the earlier tag-strict read (820 items). Sizes: XXS–XL on almost all, 3XS on 89, XXL on 13."
     }
   ],
   "materials": [],
@@ -37,13 +41,34 @@
     "https://whitefoxboutique.com/collections/tops/products.json?limit=250",
     "https://whitefoxboutique.com/policies/shipping-policy",
     "https://whitefoxboutique.com/policies/refund-policy",
-    "https://whitefoxboutique.com/cart.js"
+    "https://whitefoxboutique.com/cart.js",
+    "https://whitefoxboutique.com/meta.json",
+    "https://whitefoxboutique.com/collections/all/products.json?limit=250",
+    "https://whitefoxboutique.com/blogs/order-enquiries.atom",
+    "https://whitefoxboutique.com/blogs/order-enquiries/where-is-my-order-dispatched-from",
+    "https://whitefoxboutique.com/blogs/order-enquiries/where-can-i-purchase-white-fox-products",
+    "https://whitefoxboutique.com/blogs/order-enquiries/is-there-a-white-fox-boutique-shop-i-can-visit",
+    "https://whitefoxboutique.com/blogs/order-enquiries/united-states-store-prices-now-include-taxes-and-duties-1",
+    "https://whitefoxboutique.com/blogs/shipping/us-warehouse",
+    "https://whitefoxboutique.com/blogs/shipping/will-i-be-charged-taxes-and-tariffs",
+    "https://whitefoxboutique.com/policies/shipping-policy.json",
+    "https://whitefoxboutique.com/policies/refund-policy.json"
   ],
   "checked_at": "2026-10-29",
   "notes": [
     "Meta: 'Shop the latest in clothes, shoes & accessories online from iconic Australian brand White Fox Boutique ... express shipping worldwide.' hq_country AU from that self-description.",
     "Shipping policy: orders placed before 12 PM US Eastern Monday–Friday dispatch the same day (US dispatch). Threshold not readable (shipping page body didn't load).",
     "Returns: store credit only, no refunds for change of mind or sizing; 30 days from when the order is placed; sale items final.",
-    "size_range from tops variants: 3XS on 103 tops, XXS–XL on most, XL/XXL on 12."
-  ]
+    "size_range from tops variants: 3XS on 103 tops, XXS–XL on most, XL/XXL on 12.",
+    "2026-10-29 (stores-like-white-fox run): US store meta.json: 'White Fox Boutique USA', currency USD, ships_to_countries CA, MX, US. Official regional stores listed on its 'Where can I purchase White Fox products?' page: whitefoxboutique.com.au, .co.uk, .com, .ca; 'We do not wholesale our products to other sellers or stores.' ships_to corrected from [US] to US, CA, MX (US store) plus GB, AU (own regional stores).",
+    "US orders 'are dispatched from our warehouse in Indianapolis, United States' (order-enquiries FAQ). US prices 'have been adjusted to include tariffs'; 'All taxes and tariffs are already included in your order total' (blogs/shipping). Same-day dispatch for orders before 12 PM US Eastern, Mon–Fri.",
+    "Free standard shipping threshold: homepage cart config (whitefoxboutique.com, shipping thresholds) min_spend 100, 'Free Standard Shipping', subtitle '*49 states included'. Standard rate under $100 not readable.",
+    "'White Fox Boutique is exclusively based online only' (order-enquiries FAQ): no shops, so us_stores false.",
+    "Returns (refund-policy.json): store credit only, 'we do not refund for change of mind or incorrect sizing'; 30 days from when the order is placed; customer pays return postage; store credit expires in 12 months; sale items final.",
+    "Hoodies: in the full catalog (6,740 products, collections/all feed) hoodies sit under product type Outerwear: 285 hoodies, 230 at regular price in stock, $54.99–$89.99, most $69.99 (157) or $74.99 (53). Largest product types: Tops 1,773, Dresses 1,117, Swimwear 582, Outerwear 579, Pants 568."
+  ],
+  "sells_categories": [
+    "tops"
+  ],
+  "us_stores": false
 }

@@ -1,0 +1,69 @@
+{
+  "slug": "dairy-boy",
+  "name": "Dairy Boy",
+  "website_url": "https://dairyboy.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Camo Sweatshirts and Country Loungewear",
+  "hq_country": "US",
+  "founded_year": 2021,
+  "parent_company": null,
+  "size_range": "XXS–XXL",
+  "has_plus": false,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 175,
+  "returns_days": 18,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "sweatshirts",
+      "currency": "USD",
+      "min": 88,
+      "max": 95,
+      "min_usd": 88,
+      "max_usd": 95,
+      "fx_date": null,
+      "item_count": 10,
+      "source_url": "https://dairyboy.com/collections/sweatshirts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "10 regular-price in-stock sweatshirts of 24 in the Sweatshirts & Hoodies collection (14 sold out, none marked down). Low $88: Oversized Crewneck - Lowcountry Camo (100% cotton French terry), The Club Crew - Brown Bear, The Club V Neck, Milk Bottle Cropped Zip Up. High $95: Diana Rollneck - Lowcountry Camo (100% cotton French terry), The Oversized Hoodie - Decoy Camo in Earth (Cloud Terry), Vintage Half Zip - Blue Slush. Regular price = in stock, no variant with compare_at_price above price."
+    }
+  ],
+  "materials": [
+    "Cotton French terry"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://dairyboy.com/",
+    "https://dairyboy.com/pages/about-us",
+    "https://dairyboy.com/collections.json?limit=250",
+    "https://dairyboy.com/collections/sweatshirts/products.json?limit=250",
+    "https://dairyboy.com/policies/shipping-policy",
+    "https://dairyboy.com/policies/refund-policy",
+    "https://dairyboy.com/policies/privacy-policy",
+    "https://dairyboy.com/pages/nantucket-store",
+    "https://en.wikipedia.org/wiki/Paige_Lorenze"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "About Us (https://dairyboy.com/pages/about-us): 'Dairy Boy is a lifestyle denim, clothing, and housewares brand founded by Paige Lorenze in 2021, but its roots trace back to her New England youth.' Wikipedia (Paige Lorenze) also gives 2021 for the launch.",
+    "hq_country US: privacy policy contact block 'Dairy Boy Customer Service 113 Post Road East Westport CT, 06880'; company is Dairy Boy LLC.",
+    "us_stores: https://dairyboy.com/pages/nantucket-store, 'our first permanent store', 14 Federal Street, Nantucket, MA 02554 (off-season hours Friday–Monday 12–6pm).",
+    "Shipping policy: orders processed in 7–9 business days; costs calculated at checkout; site banner 'Free shipping on all domestic orders $175+'. 'Dairy Boy offers worldwide international shipping through Passport', Delivered Duty Paid, duties collected at checkout. ships_to lists US, CA, GB, AU as covered by 'worldwide'.",
+    "Refund policy: 18 days after delivery to file a return; $10.95 return shipping & handling fee deducted from the refund; 18-day exchange window with a $6.95 fee; store credit up to 30 days after delivery ($10.95 fee); accessories, home goods and intimates final sale; pop-up purchases final sale.",
+    "Category sweatshirts: Dairy Boy's hero product. Its first product was an embroidered Dairy Boy sweatshirt (https://femmefluence.substack.com/p/how-paige-lorenze-turned-her-online), coverage ties it to camo sweatshirts (https://www.thevaultuwmadison.com/blog/the-price-of-personality-why-we-keep-buying-into-it-girl-brands), and a 2023 brand analysis names sweatshirts, sweatpants and hats as its popular products (https://sites.psu.edu/bkginley/2023/09/13/dairy-boy-brand-analysis/). Its storefront also carries tops (191 in collections.json), bottoms, sleepwear, accessories, bedding and home goods.",
+    "Sizes on sweatshirts: XXS–XXL; rollnecks XS/S, M/L, XL/XXL."
+  ],
+  "sells_categories": [
+    "sweatshirts"
+  ]
+}
