@@ -1,0 +1,579 @@
+{
+  "subject": "Polène",
+  "slug": "polene",
+  "url_prefix": "brands",
+  "category": {
+    "slug": "handbags",
+    "name": "Handbags",
+    "why": "C is a product type. Polène is a Paris leather-goods house ('maison de maroquinerie parisienne', https://www.polene-paris.com/meta.json) whose US store describes 'our latest handbag designs' (https://eng.polene-paris.com/meta.json); its US bags feed is 327 listings, every one product_type Handbags, against jewellery and small leather goods as side lines. Like-for-like item: handbags at regular price, in stock (belt bags and crossbodies count; wallets, card cases, straps, charms, pouches, backpacks and luggage don't)."
+  },
+  "serp": [
+    {
+      "keyword": "brands like polene",
+      "position": 1,
+      "url": "https://www.reddit.com/r/handbags/comments/10fg5yj/bags_similar_to_polene/",
+      "kept": false,
+      "why_dropped": "reddit (AI overview sitelink, also organic #2 with sitelinks to two more r/handbags threads): WebFetch refuses reddit.com; not read, no workaround"
+    },
+    {
+      "keyword": "brands like polene",
+      "position": 3,
+      "url": "https://www.vogue.com/article/emerging-handbag-brands",
+      "kept": false,
+      "why_dropped": "WebFetch can't fetch vogue.com; not read"
+    },
+    {
+      "keyword": "brands like polene",
+      "position": 1,
+      "url": "https://www.vogue.co.uk/article/contemporary-bag-brands",
+      "kept": false,
+      "why_dropped": "AI overview sitelink; WebFetch can't fetch vogue.co.uk; not read"
+    },
+    {
+      "keyword": "brands like polene",
+      "position": 5,
+      "url": "https://www.parisawang.com/blogs/journal/best-alternatives-to-polene-for-quiet-luxury-style",
+      "kept": true,
+      "why_kept": "read: 6 brands as 'alternatives to Polène' with a price table (published 08/02/2026). Parisa Wang lists itself sixth; that self-listing isn't counted as evidence for Parisa Wang"
+    },
+    {
+      "keyword": "brands like polene",
+      "position": 6,
+      "url": "https://medium.com/@mariahsn96/tired-of-pol%C3%A8ne-and-demellier-10-quiet-luxury-bag-brands-only-old-money-knows-93667b99de46",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch; not read"
+    },
+    {
+      "keyword": "brands like polene",
+      "position": 7,
+      "url": "https://www.elle.com/uk/fashion/what-to-wear/g43696206/handbag-brands/",
+      "kept": false,
+      "why_dropped": "WebFetch can't fetch elle.com; not read"
+    },
+    {
+      "keyword": "brands like polene",
+      "position": 8,
+      "url": "https://ashleymillerdaniels.com/best-polene-bag-dupes/",
+      "kept": true,
+      "why_kept": "read: Polène dupe guide (June 23, 2026) naming Charles & Keith, JW PEI, Quince, LaRosa Style, Romytisa plus unbranded Amazon listings"
+    },
+    {
+      "keyword": "brands like polene",
+      "position": 9,
+      "url": "https://se.pinterest.com/pin/653936808430881157/",
+      "kept": false,
+      "why_dropped": "Pinterest pin, no editorial content readable"
+    },
+    {
+      "keyword": "brands like polene",
+      "position": 10,
+      "url": "https://grazia.sg/fashion/these-alternative-bag-brands-are-the-new-luxury/",
+      "kept": false,
+      "why_dropped": "read: lists Polène among 7 alternatives to big luxury houses (THEMOIRè, Manu Atelier, Songmont, DeMellier, Venczel, Yu Mei); none framed as an alternative to Polène"
+    },
+    {
+      "keyword": "polene alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs returned no SERP"
+    },
+    {
+      "keyword": "stores like polene",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs returned no SERP"
+    },
+    {
+      "keyword": "similar to polene",
+      "position": 2,
+      "url": "https://forum.purseblog.com/threads/crossbody-everyday-bag-with-little-edge-please-help-me-to-find.1049647/",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch; not read"
+    },
+    {
+      "keyword": "similar to polene",
+      "position": 3,
+      "url": "https://www.mumsnet.com/talk/style_and_beauty/5569809-nice-handbag-preferably-cross-body?page=3",
+      "kept": false,
+      "why_dropped": "read: a crossbody-advice thread; posters suggest Polène alongside DeMellier and Coach for the OP, none framed as an alternative to Polène"
+    },
+    {
+      "keyword": "similar to polene",
+      "position": 4,
+      "url": "https://www.mumsnet.com/talk/style_and_beauty/4931057-cross-body-bag-advice-on-which-would-be-better-quality?flipped=1&page=3",
+      "kept": false,
+      "why_dropped": "read: Polène suggested as an alternative to APC and Mulberry, not the other way round"
+    },
+    {
+      "keyword": "similar to polene",
+      "position": 5,
+      "url": "https://forum.purseblog.com/threads/polene-handbags.968366/page-197",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch; not read"
+    },
+    {
+      "keyword": "similar to polene",
+      "position": 6,
+      "url": "https://forum.purseblog.com/threads/polene-handbags.968366/page-447",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch; not read"
+    },
+    {
+      "keyword": "similar to polene",
+      "position": 7,
+      "url": "https://omidfadavi.me/product/review/44746037041560",
+      "kept": false,
+      "why_dropped": "spam/scraped page"
+    },
+    {
+      "keyword": "similar to polene",
+      "position": 8,
+      "url": "https://peakpressure.ca/?productSearch/pictureSearch?id=2478355211101",
+      "kept": false,
+      "why_dropped": "spam/scraped page"
+    },
+    {
+      "keyword": "similar to polene",
+      "position": 9,
+      "url": "https://delishenglish.com/?c=27559752041330",
+      "kept": false,
+      "why_dropped": "spam/scraped page"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": null,
+      "url": null,
+      "used": false,
+      "why": "Polène sells through its own regional stores and boutiques (store selector on https://www.polene-paris.com/ lists only polene-paris.com stores); no multi-brand stockist found."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "DeMellier",
+      "slug": "demellier",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.parisawang.com/blogs/journal/best-alternatives-to-polene-for-quiet-luxury-style"
+        }
+      ]
+    },
+    {
+      "name": "Cuyana",
+      "slug": "cuyana",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.parisawang.com/blogs/journal/best-alternatives-to-polene-for-quiet-luxury-style"
+        }
+      ]
+    },
+    {
+      "name": "Strathberry",
+      "slug": "strathberry",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.parisawang.com/blogs/journal/best-alternatives-to-polene-for-quiet-luxury-style"
+        }
+      ]
+    },
+    {
+      "name": "Songmont",
+      "slug": "songmont",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.parisawang.com/blogs/journal/best-alternatives-to-polene-for-quiet-luxury-style"
+        }
+      ]
+    },
+    {
+      "name": "Loewe",
+      "slug": "loewe",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.parisawang.com/blogs/journal/best-alternatives-to-polene-for-quiet-luxury-style"
+        }
+      ]
+    },
+    {
+      "name": "Parisa Wang",
+      "slug": "parisa-wang",
+      "in_apart_pool": false,
+      "sources": []
+    },
+    {
+      "name": "LaRosa Style",
+      "slug": "larosa-style",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://ashleymillerdaniels.com/best-polene-bag-dupes/"
+        }
+      ]
+    },
+    {
+      "name": "Charles & Keith",
+      "slug": "charles-keith",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://ashleymillerdaniels.com/best-polene-bag-dupes/"
+        }
+      ]
+    },
+    {
+      "name": "JW PEI",
+      "slug": "jw-pei",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://ashleymillerdaniels.com/best-polene-bag-dupes/"
+        }
+      ]
+    },
+    {
+      "name": "Quince",
+      "slug": "quince",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://ashleymillerdaniels.com/best-polene-bag-dupes/"
+        }
+      ]
+    },
+    {
+      "name": "Romytisa",
+      "slug": "romytisa",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://ashleymillerdaniels.com/best-polene-bag-dupes/"
+        }
+      ]
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "result": "Two Polène rows (slugs polene and pol-ne), 83 pool rows combined: Danse Lente, Andar, Angela Roi, Boyy, Behno, Jérôme Dreyfuss, By Far, Vasic, Topologie, Reed Krakoff, Want Les Essentiels, Elleme, Hobo, Beatrix NY, Mansur Gavriel, Sophie Hulme, Clare V., Coccinelle, Bleu de Chauffe, Dagne Dover, Longchamp, Mimco, Montiel, Coach, Mulberry, Aspinal of London, Osoi, St. Agni, Valextra, Delvaux, Celine, Bottega Veneta, Prada, Hermès, Goyard, plus DeMellier and Strathberry. Only DeMellier and Strathberry have outside evidence (Parisa Wang)."
+  },
+  "picks": [
+    {
+      "slug": "demellier",
+      "rank": 1,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "GBP",
+        "min": 365.0,
+        "max": 665.0,
+        "min_usd": 485.0,
+        "max_usd": 883.62,
+        "fx_date": "2026-10-28",
+        "item_count": 153
+      },
+      "price_relation": "similar",
+      "reason": "DeMellier makes London-designed bags handcrafted in Spain at £365–£665 (about $485–$884), with free US shipping, duties included in the price and free 28-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.parisawang.com/blogs/journal/best-alternatives-to-polene-for-quiet-luxury-style",
+          "note": "#1 of 6 Polène alternatives: suited to professional wardrobes, classic polished look"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "strathberry",
+      "rank": 2,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 495.0,
+        "max": 995.0,
+        "min_usd": 495.0,
+        "max_usd": 995.0,
+        "fx_date": null,
+        "item_count": 103
+      },
+      "price_relation": "similar",
+      "reason": "Strathberry designs in Edinburgh and handcrafts in Ubrique, Spain, as Polène does, selling bags at $495–$995 in its US store with free duty-paid US shipping and free 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.parisawang.com/blogs/journal/best-alternatives-to-polene-for-quiet-luxury-style",
+          "note": "#3 of 6 Polène alternatives: structured, architectural take on polished style"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "songmont",
+      "rank": 3,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 219.0,
+        "max": 758.0,
+        "min_usd": 219.0,
+        "max_usd": 758.0,
+        "fx_date": null,
+        "item_count": 175
+      },
+      "price_relation": "similar",
+      "reason": "Songmont sells minimalist leather bags at $219–$758 (median $429 vs Polène's $610), the Song Bag from $269 Mini to $519 Large, with free US shipping over $100 and 30-day returns it pays to ship.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.parisawang.com/blogs/journal/best-alternatives-to-polene-for-quiet-luxury-style",
+          "note": "#4 of 6 Polène alternatives: relaxed, design-led pieces for everyday wear"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "jw-pei",
+      "rank": 4,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 39.0,
+        "max": 329.0,
+        "min_usd": 39.0,
+        "max_usd": 329.0,
+        "fx_date": null,
+        "item_count": 1249
+      },
+      "price_relation": "similar",
+      "reason": "JW PEI sells vegan-leather and faux-suede bags at $39–$329 (median $139), including woven top-handle styles, with free US shipping over $200 and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://ashleymillerdaniels.com/best-polene-bag-dupes/",
+          "note": "named as a Cyme alternative (green woven style, $139)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "charles-keith",
+      "rank": 5,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 49.0,
+        "max": 229.0,
+        "min_usd": 49.0,
+        "max_usd": 229.0,
+        "fx_date": null,
+        "item_count": null
+      },
+      "price_relation": "similar",
+      "reason": "Charles & Keith's US store sells bags at $49–$229, up to leather shoulder and hobo bags at $229, with free US shipping over $125 and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://ashleymillerdaniels.com/best-polene-bag-dupes/",
+          "note": "named as a Cyme alternative, a 'reputable high-street brand alternative' ($133)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "quince",
+      "rank": 6,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 26.0,
+        "max": 198.0,
+        "min_usd": 26.0,
+        "max_usd": 198.0,
+        "fx_date": null,
+        "item_count": null
+      },
+      "price_relation": "cheaper",
+      "reason": "Quince sells bags at $26–$198, including suede totes and handwoven shoulder bags, factory-direct with free shipping and 365-day returns on most items.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://ashleymillerdaniels.com/best-polene-bag-dupes/",
+          "note": "named as the Numéro Neuf alternative in top-grain leather ($104)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "loewe",
+      "rank": 7,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 650.0,
+        "max": 11600.0,
+        "min_usd": 650.0,
+        "max_usd": 11600.0,
+        "fx_date": null,
+        "item_count": 378
+      },
+      "price_relation": "similar",
+      "reason": "Loewe's US store sells bags from the $650 Small Basket bag in palm leaf and calfskin to $11,600, a step above Polène's $1,190 top price, with free shipping and 14-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.parisawang.com/blogs/journal/best-alternatives-to-polene-for-quiet-luxury-style",
+          "note": "#5 of 6 Polène alternatives: heritage luxury craftsmanship, typical price ~$2,400–$10,550"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "cuyana",
+      "why": "verified, sells handbags ($248–$798, stored), ships to the US, 1 source (Parisa Wang #2), but the gate drops it: no size_range and no returns_days (its refund policy states no domestic return window in days). Human check: confirm the US return window."
+    },
+    {
+      "slug": "romytisa",
+      "why": "unverified: romytisa.com returns HTTP 403 to curl and WebFetch, one try each, no workaround. 1 source (Ashley Miller Daniels)."
+    },
+    {
+      "slug": "larosa-style",
+      "why": "larosastyle.com sells bags under Polène's own model names ('Cyme Mini Textured Leather Bag', 'Cyme Textured Leather Tote Bag') (https://larosastyle.com/collections/bag): copies of the anchor, not an alternative brand. Not picked; no brand file written."
+    },
+    {
+      "slug": "parisa-wang",
+      "why": "only source is Parisa Wang's own blog listing itself; no outside evidence. Not checked further."
+    },
+    {
+      "slug": "amazon",
+      "why": "unbranded Amazon dupes in the Ashley Miller Daniels guide: marketplace listings, not a brand"
+    },
+    {
+      "slug": "apart-pool",
+      "why": "35+ Apart Style pool brands (Danse Lente, Andar, Boyy, By Far, Mansur Gavriel, Clare V., Longchamp, Coach, Mulberry and others) have no readable outside source naming them as a Polène alternative; DeMellier and Strathberry are the only pool brands with one. Not picks."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "Polène US shipping fee and any free-shipping threshold",
+      "url": "https://support.polene-paris.com/hc/en-us/articles/31896196906002-Full-table-of-Rates-Times-and-Customs-by-zones",
+      "check": "Help centre is 403 to WebFetch and the Shopify shipping policy renders empty. Product pages say DHL Express within 5 working days and 'Additional taxes to pay for US delivery'. Fill free_shipping_min_usd if the rates table states one."
+    },
+    {
+      "fact": "Cuyana US return window",
+      "url": "https://cuyana.com/policies/refund-policy",
+      "check": "Domestic Returns section gives no window in days. If a human finds one (and a bag size line), Cuyana becomes an 8th pick (Parisa Wang #2)."
+    },
+    {
+      "fact": "Romytisa",
+      "url": "https://romytisa.com/",
+      "check": "403. Confirm it's a brand with its own store (the guide notes many of its bags are faux leather), handbag prices, US shipping and returns."
+    },
+    {
+      "fact": "Strathberry full US price range",
+      "url": "https://us.strathberry.com/collections/the-strathberry-designer-collection",
+      "check": "Range $495–$995 comes from the first 20 tiles of 9 collections (103 colourways of 208 products). Confirm nothing in the full listing sits outside it."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": {
+    "source": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+    "date": "2026-10-28",
+    "per_eur": {
+      "USD": 1.1133,
+      "GBP": 0.83785
+    },
+    "usd_per_gbp": 1.328758
+  },
+  "notes": [
+    "7 picks pass enrich.md §3 (verified, sell handbags, ship to the US, 1 outside source each, one checkable reason). Target was 10–15; not padded. Only two readable editorial pages on the four SERPs name alternatives to Polène (Parisa Wang, Ashley Miller Daniels); 'polene alternatives' and 'stores like polene' returned no SERP; Vogue (US and UK), Elle UK, Medium, PurseForum and Reddit couldn't be read. Of 11 sourced candidates, 7 picked, 1 gate-blocked (Cuyana), 1 unverified (Romytisa), 1 copies the anchor (LaRosa Style), 1 self-listed (Parisa Wang).",
+    "Ranking: every pick is single-source, so rank follows how close each range sits to Polène's $220–$1,190 (midpoint distance): DeMellier, Strathberry, Songmont, JW PEI, Charles & Keith, Quince, Loewe. Loewe overlaps only through its $650 Basket bag, so it ranks last.",
+    "Polène facts used in copy: Numéro Un $580, Numéro Un Nano $470, Numéro Un Micro $220, Numéro Neuf Textured Camel $610, Cyme Textured Camel $620, Cyme Mini from $480, Button Bow Box $1,190, median $610 (https://eng.polene-paris.com/collections/bags/products.json?limit=250, https://eng.polene-paris.com/collections/numero-un/products.json?limit=250, https://eng.polene-paris.com/collections/cyme/products.json?limit=250, https://eng.polene-paris.com/collections/numero-neuf/products.json?limit=250). Cyme: 'This sculptured tote bag featuring waves, folds, and curves'. Ubrique: 'Deep in the mountains of Andalusia, this village, a historic home to tanners and leather workers' (https://eng.polene-paris.com/products/cyme-textured-camel).",
+    "Conversions in copy (ECB 2026-10-28, 1.328758 USD/GBP): DeMellier £365 ≈ $485, £475 ≈ $631, £665 ≈ $884.",
+    "Requests used the StylodexBot UA only; no personal details sent. Pages that returned 403 were not retried or worked around (Polène's help-centre articles, Romytisa, PurseForum, Medium). Polène's help-centre article list was read once from its public JSON before the article pages turned out to be 403; no fact on the page comes from it."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "You've had a Polène Numéro Un in your basket for a week and you still haven't clicked buy. Maybe it's the price, or the taxes added on top of US delivery. Either way, you want to see what else is out there. These brands make leather and vegan-leather bags at prices around, below and well above Polène's, sorted with the closest on price first.",
+    "bodies": {
+      "demellier": "DeMellier is the closest match on price and on how the bags are made. They're designed in London, handcrafted in Spain and priced from £365 to £665 (about $485 to $884). The Midi New York (£475, about $631) sits right in the middle of that range, so it's the fair one to hold up against a Numéro Un ($580).\n\nThe real difference shows up at checkout. DeMellier ships to the US free with duties already in the price, while Polène adds taxes on US delivery. Returns are free too, within 28 days. If you like Polène's tiny Nano bags, The Nano Montreal (£365, about $485) is the size to look at.\n\nThe catch is the currency. Prices are in pounds, so the dollar figure moves with the exchange rate. If you'd rather pay in dollars, Strathberry is next.",
+      "strathberry": "Strathberry is the pick if what you love about Polène is where it's made. It designs in Edinburgh and has its bags handcrafted in Ubrique, Spain, the same leather-working town Polène uses. The Mosaic Nano ($635) costs about what a Polène Numéro Neuf ($610) does.\n\nIts US store charges in dollars, from $495 for the Kite on a Chain to $995 for the Tote, so most of the range overlaps Polène's. US orders ship free with duties paid up front, and returns are free for 30 days, two days longer than DeMellier's.\n\nOne thing to know before you fall for a shape. The designs are built around a signature Music Bar clasp, so the hardware does more of the talking than it does on Polène's sculpted Cyme.",
+      "songmont": "Songmont is where to go for Polène's minimal, leather-led look at a lower price. Its middle-of-the-range bag costs $429, against Polène's $610. Start with the Song Bag, which comes in four sizes from the Mini ($269) to the Large ($519).\n\nIt's a Chinese leather-goods brand built on Eastern minimalist design, so expect plain, pared-back shapes rather than Polène's folds and curves. Shipping to the US is free over $100. And for US returns within 30 days, it pays the postage both ways, even when you've simply changed your mind.\n\nIf you want to spend less again and don't need leather, JW PEI starts well under $100.",
+      "jw-pei": "JW PEI is the one for a vegan-leather everyday bag well under $200. Its typical bag costs $139, and the Joy Shoulder Bag is $99.\n\nIt's a Los Angeles label founded in 2018, and vegan leather and faux suede make up most of what it sells. So it's a different proposition from Polène's Italian calf leather, and priced like it. The woven styles are worth a look if you want texture without a big spend: the Lucia Classic Top Handle Woven Bag is $139.\n\nTwo things to weigh. Free US shipping starts at $200, and you pay for return postage within the 30-day window. If you want suede rather than faux suede at a similar price, Quince's Hudson Suede Tote ($174) is the swap.",
+      "charles-keith": "Charles & Keith is the high-street way to try the look, with bags from $49 to $229 in its US store. Its leather line is the part to look at: the Gabine Leather Burnished Shoulder Bag tops the range at $229.\n\nIt's a Singapore label founded in 1996 that sells shoes and accessories as well as bags. The Calla Tote Bag ($139) costs about a quarter of a Polène Numéro Un ($580), which makes it an easy way to find out which shape you'd actually carry. Shipping is free over $125, and returns are accepted within 30 days, though the prepaid UPS label ($8.50) comes out of your refund.\n\nIf a long return window matters more to you than the label, Quince gives you a full year.",
+      "quince": "Quince is the cheapest pick here for suede and handwoven bags, with everything topping out at $198. The Sloane Handwoven Mini Shoulder Bag costs $120.\n\nIts model is factory-direct, which is how the prices stay this low. Shipping is always free, and you get 365 days to return most things, which makes trying one far less risky than anything else on this list.\n\nThe Hudson Suede Tote ($174) is the one to compare with Polène's Cyme ($620) if you mainly want an everyday tote. It won't have the Cyme's sculpted folds, but it costs less than a third as much. And if you'd rather stay with leather, Songmont is the step up.",
+      "loewe": "Loewe is the step up for when Polène starts to feel like the starting point rather than the goal. Its bags begin at $650 for the Small Basket bag in palm leaf and calfskin, and the Mini Scarf bag in smooth calfskin costs $2,400.\n\nIt's a Spanish house, and its US store ships for free. The thing to watch is the return window. You get 14 days from delivery, the shortest on this list, so this isn't the place to order three and decide later.\n\nThat Basket bag is the only part of the range that sits near Polène's prices. If you want to stay under $1,000, Strathberry and DeMellier both do, and both have their bags handcrafted in Spain."
+    },
+    "best_for": {
+      "demellier": "a Polène-level bag with US duties already paid",
+      "strathberry": "leather bags made in the same Spanish town",
+      "songmont": "the minimal leather look for a few hundred less",
+      "jw-pei": "a vegan-leather everyday bag under $150",
+      "charles-keith": "testing a shape for under $150 before you splurge",
+      "quince": "an everyday tote with a full year to return it",
+      "loewe": "moving up a tier once you've outgrown Polène"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with what's stopping you at Polène. If it's the taxes on US delivery, DeMellier and Strathberry both ship free with duties included, and both have their bags made in Spain. Strathberry charges in dollars and DeMellier in pounds. If it's the price, Songmont keeps the leather and the minimal shapes for a few hundred less.\n\nUnder $250, pick by material and by how sure you are. JW PEI is for vegan leather, Charles & Keith for a leather shoulder bag at $229, and Quince for when a 365-day return window matters more than the name. And if you've outgrown Polène altogether, Loewe is the step up, with only 14 days to change your mind."
+    },
+    "faqs": [
+      {
+        "q": "Where is Polène from?",
+        "a": "Paris. Polène is a Parisian leather-goods house founded in 2016, and its US online store is run from New York.",
+        "source_query": "where is polene from"
+      },
+      {
+        "q": "Where are Polène bags made?",
+        "a": "In Spain. Polène's bags are made by leather-working artisans in Ubrique, an Andalusian village with a long history of tanning and leather work, and designed in Paris.",
+        "source_query": "where are polene bags made"
+      },
+      {
+        "q": "How much are Polène bags?",
+        "a": "In the US store, bags run from $220 for the Numéro Un Micro to $1,190 for the Button Bow Box. The middle of the range is about $610, and the Cyme starts at $480 for the Mini.",
+        "source_query": "how much are polene bags"
+      },
+      {
+        "q": "Where can you buy Polène in the USA?",
+        "a": "Online through Polène's US store, or in person at its boutiques in New York and Costa Mesa, California.",
+        "source_query": "where to buy polene in usa"
+      }
+    ]
+  }
+}
