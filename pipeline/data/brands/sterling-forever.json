@@ -1,0 +1,46 @@
+{
+  "name": "Sterling Forever",
+  "website_url": "https://www.sterlingforever.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Accessible On-Trend Jewelry",
+  "founded_year": 2005,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 200,
+  "returns_days": 60,
+  "prices": [
+    {
+      "category": "necklaces",
+      "currency": "USD",
+      "min": 40.0,
+      "max": 434.0,
+      "min_usd": 40.0,
+      "max_usd": 434.0,
+      "fx_date": null,
+      "item_count": 144,
+      "source_url": "https://www.sterlingforever.com/collections/necklaces/products.json",
+      "checked_at": "2026-10-29",
+      "note": "products.json (USD), necklace titles, available, regular price only (30 marked down and 16 sold out excluded; extenders/clasps excluded): Jamie CZ Evil Eye Pendant Necklace $40 to Herringbone Sterling Silver Chain Necklace $434; 57 of 144 start under $100, median $118. Jamie CZ Evil Eye $40."
+    }
+  ],
+  "sells_categories": [
+    "necklaces"
+  ],
+  "sources": [
+    "https://www.sterlingforever.com/collections/necklaces/products.json",
+    "https://www.sterlingforever.com/pages/about-page",
+    "https://www.sterlingforever.com/pages/faq",
+    "https://www.sterlingforever.com/pages/shipping",
+    "https://www.sterlingforever.com/policies/refund-policy"
+  ],
+  "notes": [
+    "About: began in 2005 when 15-year-old Mike Cooke sold his mother's old jewelry; 'everyone deserves access to exquisite jewelry'. FAQ: lifetime guarantee with every purchase.",
+    "Shipping: free economy shipping on US orders over $200, standard $5.95; FedEx Express to Canada and international calculated at checkout; international not eligible for free shipping. Returns: within 60 days of purchase date.",
+    "Necklaces: Jamie CZ Evil Eye Pendant Necklace $40, Calder Aquamarine CZ & Herringbone Pendant $136, Helene Bezel Carribean Blue Opal Tennis Necklace $290, Herringbone Sterling Silver Chain up to $434."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "sterling-forever"
+}

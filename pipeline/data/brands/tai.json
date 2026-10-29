@@ -1,0 +1,44 @@
+{
+  "name": "TAI",
+  "website_url": "https://taijewelry.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Everyday Gold and CZ Jewelry",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 100,
+  "returns_days": 10,
+  "prices": [
+    {
+      "category": "necklaces",
+      "currency": "USD",
+      "min": 25.0,
+      "max": 525.0,
+      "min_usd": 25.0,
+      "max_usd": 525.0,
+      "fx_date": null,
+      "item_count": 308,
+      "source_url": "https://taijewelry.com/collections/necklaces/products.json",
+      "checked_at": "2026-10-29",
+      "note": "products.json (USD), necklace titles, available, regular price only (5 marked down and 12 sold out excluded; extenders/clasps excluded): Paperclip Charm Chain Necklace $25 to CZ Tennis Necklace - 4MM $525; 193 of 308 start under $100, median $85. Opal Glow Monogram $55."
+    }
+  ],
+  "sells_categories": [
+    "necklaces"
+  ],
+  "sources": [
+    "https://taijewelry.com/collections/necklaces/products.json",
+    "https://taijewelry.com/pages/shipping",
+    "https://taijewelry.com/pages/faq",
+    "https://taijewelry.com/policies/refund-policy",
+    "https://taijewelry.com/policies/shipping-policy"
+  ],
+  "notes": [
+    "Shipping page and homepage banner: free domestic shipping on orders over $100; under $100 flat $7 (shipping page) or $5 (policy page). FAQ says free shipping on all US orders and $10 international. International shipped, duties on the customer; 14k gold items declared at full price. Countries not named.",
+    "Returns: refund policy says ship returns to TAI Rittichai, Inc. within 10 days of receipt; FAQ says 30 days of purchase. Stored the policy's 10. About page is a template placeholder, so no HQ or founding stored.",
+    "Necklaces: Paperclip Charm Chain $25, Opal Glow Monogram Necklace $55, Hamsa Necklace with CZ and Opal Accents $65, Nightmood Crescent Pendant (mother-of-pearl) $70, CZ Tennis Necklace 4MM $525."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "tai"
+}

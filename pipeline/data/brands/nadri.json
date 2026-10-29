@@ -1,0 +1,50 @@
+{
+  "name": "Nadri",
+  "website_url": "https://nadri.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Cubic Zirconia Sparkle Jewelry",
+  "ships_to": [
+    "US",
+    "GB"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": 14,
+  "materials": [
+    "Plated brass or sterling with CZ",
+    "14k gold with diamonds"
+  ],
+  "production_model": "Made in its own factory",
+  "prices": [
+    {
+      "category": "necklaces",
+      "currency": "USD",
+      "min": 55.0,
+      "max": 5699.0,
+      "min_usd": 55.0,
+      "max_usd": 5699.0,
+      "fx_date": null,
+      "item_count": 212,
+      "source_url": "https://nadri.com/collections/necklaces/products.json",
+      "checked_at": "2026-10-29",
+      "note": "products.json (USD), necklace titles, available, regular price only (31 marked down and 16 sold out excluded; extenders/clasps excluded): LARGE CROSS CZ PENDANT NECKLACE $55 to 22\" 18KT GOLD DIAMOND-CUT FRANCO CHAIN 3.3MM NECKLACE $5699; 76 of 212 start under $100, median $215. CZ Cross Pendant $65."
+    }
+  ],
+  "sells_categories": [
+    "necklaces"
+  ],
+  "sources": [
+    "https://nadri.com/collections/necklaces/products.json",
+    "https://nadri.com/pages/about-nadri",
+    "https://nadri.com/pages/shipping",
+    "https://nadri.com/pages/faq",
+    "https://nadri.com/policies/refund-policy"
+  ],
+  "notes": [
+    "About: 'a trusted name in the industry for over 35 years'; owns its factory; ranges plated brass with CZ, plated sterling silver with CZ, 14KT gold with diamonds; CZ styles 'often mistaken for real diamonds'; available at Nordstrom, Bloomingdales, Dillard's, The Bay, Von Maur, Belk.",
+    "Shipping: free USPS Ground Advantage on US orders $75+ (incl. AK, HI, PR); ships to a variety of international locations with duties shown at checkout for most countries; EU/UK/EEA returns via portal (GB stored). Returns: unworn within 14 days for a refund or 30 days for store credit; sale items final. FAQ: all products nickel-free.",
+    "Necklaces: CZ Cross Pendant Necklace $65 ('best-selling'), Chloe Pear Drop Y Necklace $68, Twilight CZ Shaky Collar $95, Love All Adjustable Tennis $225, top end 22-inch 18KT gold Franco chain $5,699."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "nadri"
+}

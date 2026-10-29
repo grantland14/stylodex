@@ -1,0 +1,44 @@
+{
+  "name": "Yam",
+  "website_url": "https://www.yamnyc.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Handmade Beaded Jewelry",
+  "hq_country": "US",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 10,
+  "production_model": "Handmade to order in Queens",
+  "prices": [
+    {
+      "category": "necklaces",
+      "currency": "USD",
+      "min": 60.0,
+      "max": 225.0,
+      "min_usd": 60.0,
+      "max_usd": 225.0,
+      "fx_date": null,
+      "item_count": 15,
+      "source_url": "https://www.yamnyc.com/category/necklaces",
+      "checked_at": "2026-10-29",
+      "note": "Necklaces category (Wix page data, 18 products, comparePrice 0 on all so none marked down; 3 out of stock excluded): Gold Sun Choker $60 to Bonar Chain Choker $225; Silver Posy Choker $80, Posy Chain Choker $145, Bonar Pearl Choker $180, Met Flower Chain Necklace $200."
+    }
+  ],
+  "sells_categories": [
+    "necklaces"
+  ],
+  "sources": [
+    "https://www.yamnyc.com/category/necklaces",
+    "https://www.yamnyc.com/about",
+    "https://www.yamnyc.com/faq"
+  ],
+  "notes": [
+    "About: genderless jewelry and home decor brand founded by designer Morgan Thomas as an ode to her late mother; Bay Area native, now operates out of Queens, NY.",
+    "FAQ: every item handmade to order, average production window 8 days; ships internationally (location can be added on request), customs on the customer; returns shipped within 10 days of delivery, for exchange or store credit only.",
+    "The Apart Style-era domain shopyam.com redirects to a domain-sale page; The Zoe Report links yamnyc.com, the live store."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "yam"
+}

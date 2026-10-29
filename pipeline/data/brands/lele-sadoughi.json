@@ -1,0 +1,42 @@
+{
+  "name": "Lele Sadoughi",
+  "website_url": "https://www.lelesadoughi.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Embellished Headbands and Jewelry",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "necklaces",
+      "currency": "USD",
+      "min": 95.0,
+      "max": 385.0,
+      "min_usd": 95.0,
+      "max_usd": 385.0,
+      "fx_date": null,
+      "item_count": 70,
+      "source_url": "https://www.lelesadoughi.com/collections/necklaces/products.json",
+      "checked_at": "2026-10-29",
+      "note": "products.json (USD), necklace titles, available, regular price only (24 marked down and 2 sold out excluded; extenders/clasps excluded): SCALLOPED PEARL PENDANT NECKLACE $95 to ONYX TURQUOISE STONE LOTUS NECKLACE $385; 15 of 70 start under $100, median $195. Malachite Baroque Collar $125."
+    }
+  ],
+  "sells_categories": [
+    "necklaces"
+  ],
+  "sources": [
+    "https://www.lelesadoughi.com/collections/necklaces/products.json",
+    "https://www.lelesadoughi.com/pages/shipping",
+    "https://www.lelesadoughi.com/pages/faq",
+    "https://www.lelesadoughi.com/policies/refund-policy"
+  ],
+  "notes": [
+    "Shipping: free USPS First Class on US orders over $75, free UPS ground over $250; international free over $250 to 'almost every country' (countries not named, so US only stored). Returns: full-price items within 14 days for a refund or 21 days for store credit; sale final. Site sells headbands, scrunchies, jewelry, handbags.",
+    "Necklaces: Baroque Pearl Collar Necklace $95, Malachite Baroque Collar Necklace $125, Turquoise Ruffle Heart Bolo Necklace $150, Onyx Turquoise Stone Lotus Necklace $385."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "lele-sadoughi"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Chan Luu",
+  "website_url": "https://chanluu.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Handcrafted Beaded Jewelry",
+  "hq_country": "US",
+  "founded_year": 1996,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 200,
+  "returns_days": 15,
+  "prices": [
+    {
+      "category": "necklaces",
+      "currency": "USD",
+      "min": 175.0,
+      "max": 1200.0,
+      "min_usd": 175.0,
+      "max_usd": 1200.0,
+      "fx_date": null,
+      "item_count": 154,
+      "source_url": "https://chanluu.com/collections/handmade-necklaces-jewelry/products.json",
+      "checked_at": "2026-10-29",
+      "note": "products.json (USD), necklace titles, available, regular price only (5 marked down and 3 sold out excluded; extenders/clasps excluded): Santos Necklace Turquoise Mix $175 to 14k Chandelier Pearl Cross Necklace Natural Pink $1200; 0 of 154 start under $100, median $390. Diana Necklace Multi $390, Camille Necklace Turquoise $275."
+    }
+  ],
+  "sells_categories": [
+    "necklaces"
+  ],
+  "sources": [
+    "https://chanluu.com/collections/handmade-necklaces-jewelry/products.json",
+    "https://chanluu.com/pages/our-story",
+    "https://chanluu.com/pages/faq",
+    "https://chanluu.com/policies/refund-policy"
+  ],
+  "notes": [
+    "Our Story: founded in Los Angeles in 1996 by Vietnamese-born designer Chan Luu; creative director Tessa Tran; jewelry, ready-to-wear and accessories reinterpreting artisan techniques.",
+    "FAQ: free FedEx 2-Day shipping on US orders $200+; international free over $500; ships internationally to most countries by DHL Express except a listed set (Russia, Brazil, India and others; CA/GB/AU not excluded); duties paid by the customer. Returns: full refund within 15 days of ship date, less shipping. One-year warranty, lifetime on 14k fine jewelry.",
+    "Necklace products: Diana Necklace Multi $390 (iolite, quartz, garnet, peridot), Diana Necklace White Pearl $350 (18k gold plated sterling silver, freshwater pearl, moonstone), Camille Necklace Turquoise $275 (natural turquoise and citrine), Bell Pendant Necklace Clear Quartz $175."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "chan-luu"
+}

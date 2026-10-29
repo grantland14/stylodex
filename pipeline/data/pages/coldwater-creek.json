@@ -706,6 +706,11 @@
    "fact": "Coldwater Creek owner",
    "url": "https://en.wikipedia.org/wiki/Coldwater_Creek_(clothing_retailer)",
    "check": "Newtimes Group (2020) is from Wikipedia; the store's own legal pages name Coldwater International LLC (Fort Lauderdale) and affiliate Soft Surroundings. Confirm the FAQ wording if ownership changed since."
+  },
+  {
+   "fact": "anchor known_for vs page category",
+   "url": "https://www.coldwatercreek.com/",
+   "check": "known_for 'Comfortable Tunics and Pull-On Pants' (set by the talbots run from the homepage title) makes the title '8 Stores Like Coldwater Creek for Comfortable Tunics and Pull-On Pants' on a page that compares dresses. Accurate to the brand, but consider a broader known_for (its Our Story leads with nature-inspired design) so the title fits the dresses comparison."
   }
  ],
  "notes": [

@@ -1,0 +1,51 @@
+{
+  "name": "Brinker & Eliza",
+  "website_url": "https://brinkerandeliza.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Handmade Charm Necklaces",
+  "founded_year": 2017,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 15,
+  "materials": [
+    "24k antique gold plated brass"
+  ],
+  "production_model": "Made by hand to order",
+  "prices": [
+    {
+      "category": "necklaces",
+      "currency": "USD",
+      "min": 98.0,
+      "max": 448.0,
+      "min_usd": 98.0,
+      "max_usd": 448.0,
+      "fx_date": null,
+      "item_count": 214,
+      "source_url": "https://brinkerandeliza.com/collections/necklaces/products.json",
+      "checked_at": "2026-10-29",
+      "note": "products.json (USD), necklace titles, available, regular price only (0 marked down and 0 sold out excluded; extenders/clasps excluded): The Best Is Yet To Come Necklace $98 to Love Letter Charm Necklace $448; 4 of 214 start under $100, median $208. The Best Is Yet To Come $98."
+    }
+  ],
+  "sells_categories": [
+    "necklaces"
+  ],
+  "sources": [
+    "https://brinkerandeliza.com/collections/necklaces/products.json",
+    "https://brinkerandeliza.com/pages/our-story",
+    "https://brinkerandeliza.com/policies/shipping-policy",
+    "https://brinkerandeliza.com/policies/refund-policy"
+  ],
+  "notes": [
+    "Our Story: mother/daughter Brinker and Eliza Higgins (Brinker a trained metalsmith); launched 2017; made by hand; 'more is more'.",
+    "Shipping: every piece made by hand to order, allow 1–10 business days to ship; ships worldwide, duties on the customer. No free-shipping threshold stated. Returns: unworn within 15 days of delivery; personalized final sale.",
+    "Necklaces: The Best Is Yet To Come Necklace $98 (24k antique gold plated brass heart medallion and chain), Mermaid Parade Necklace $398 (chunky chain, semi-precious and plated charms), Love Letter Charm Necklace $448."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "brinker-eliza"
+}

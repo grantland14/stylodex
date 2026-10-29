@@ -1,0 +1,49 @@
+{
+  "name": "Jennifer Zeuner",
+  "website_url": "https://jenniferzeuner.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Layering Jewelry With a Spiritual Twist",
+  "founded_year": 2005,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "materials": [
+    "Gold plated brass or silver",
+    "Sterling silver"
+  ],
+  "prices": [
+    {
+      "category": "necklaces",
+      "currency": "USD",
+      "min": 77.0,
+      "max": 5100.0,
+      "min_usd": 77.0,
+      "max_usd": 5100.0,
+      "fx_date": null,
+      "item_count": 199,
+      "source_url": "https://jenniferzeuner.com/collections/necklaces/products.json",
+      "checked_at": "2026-10-29",
+      "note": "products.json (USD), necklace titles, available, regular price only (15 marked down and 1 sold out excluded; extenders/clasps excluded): Talbot Long $77 to Sunday Necklace $5100; 2 of 199 start under $100, median $220. Inga Necklace $185, Hollis $154."
+    }
+  ],
+  "sells_categories": [
+    "necklaces"
+  ],
+  "sources": [
+    "https://jenniferzeuner.com/collections/necklaces/products.json",
+    "https://jenniferzeuner.com/pages/about",
+    "https://jenniferzeuner.com/pages/featured-faq",
+    "https://jenniferzeuner.com/policies/refund-policy",
+    "https://jenniferzeuner.com/policies/shipping-policy"
+  ],
+  "notes": [
+    "About: Jennifer grew up in San Juan, Puerto Rico; began designing JZ rings, earrings and necklaces in 2005; 'simple with a spiritual twist', made to be layered; carried by Neiman Marcus, Saks, Bergdorf Goodman, Shopbop, Intermix.",
+    "Shipping: policy page says US ground free over $100 ($10 under); FAQ says free over $250. Conflict, so free_shipping_min_usd left null. International ground $35, expedited $50. Returns: collection pieces within 14 days for a full refund; sale, personalized, special order final.",
+    "Necklaces: Talbot Long $77, Hollis Necklace $154 (heart pendant, 18k gold plated brass), Inga Necklace $185 (letter charm, 18k gold plated silver or sterling), Sunday Necklace up to $5,100."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "jennifer-zeuner"
+}

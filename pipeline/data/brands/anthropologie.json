@@ -1,0 +1,13 @@
+{
+  "slug": "anthropologie",
+  "name": "Anthropologie",
+  "website_url": "https://www.anthropologie.com",
+  "status": "unverified",
+  "kind": "retailer",
+  "sources": [
+    "https://www.anthropologie.com/dresses"
+  ],
+  "notes": [
+    "2026-10-29 (loft page run): https://www.anthropologie.com/dresses returned HTTP 403 to a plain request with the StylodexBot UA (one try, no workaround); the ann-taylor run also got 403. Status unverified; human check."
+  ]
+}

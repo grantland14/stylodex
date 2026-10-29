@@ -1,0 +1,50 @@
+{
+  "name": "Anna Beck",
+  "website_url": "https://www.annabeck.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Handmade Balinese Jewelry",
+  "founded_year": 2003,
+  "ships_to": [
+    "US",
+    "CA"
+  ],
+  "free_shipping_min_usd": 250,
+  "returns_days": 30,
+  "materials": [
+    "18k gold plated sterling silver"
+  ],
+  "production_model": "Handmade in Bali",
+  "prices": [
+    {
+      "category": "necklaces",
+      "currency": "USD",
+      "min": 65.0,
+      "max": 585.0,
+      "min_usd": 65.0,
+      "max_usd": 585.0,
+      "fx_date": null,
+      "item_count": 59,
+      "source_url": "https://www.annabeck.com/collections/handmade-necklaces/products.json",
+      "checked_at": "2026-10-29",
+      "note": "products.json (USD), necklace titles, available, regular price only (19 marked down and 2 sold out excluded; extenders/clasps excluded): Turquoise Beaded Woven Necklace $65 to Gratitude Medallion  - Gold $585; 4 of 59 start under $100, median $245. Turquoise Beaded Necklace $195, Namaste $385."
+    }
+  ],
+  "sells_categories": [
+    "necklaces"
+  ],
+  "sources": [
+    "https://www.annabeck.com/collections/handmade-necklaces/products.json",
+    "https://www.annabeck.com/pages/our__story",
+    "https://www.annabeck.com/pages/faq",
+    "https://www.annabeck.com/pages/shipping-returns",
+    "https://www.annabeck.com/policies/refund-policy"
+  ],
+  "notes": [
+    "Our Story: founder Becky Hosmer started Anna Beck in 2003 during a trip to Bali; works with heritage artisans in Bali. FAQ: pieces are 18k gold or rose gold plated over solid .925 sterling silver; repairs go back to the workshop in Bali. Products: 'Handmade in Bali', engravable pendants.",
+    "Shipping: US orders $250+ free UPS Ground, $10 below; Canada $25, other international $45. Returns: refund, exchange or store credit within 30 days of receipt; sale and engraved items final.",
+    "Necklaces (handmade-necklaces collection): Turquoise Beaded Woven Necklace $65, Turquoise Beaded Necklace $195 (Balinese dotted pendant, engravable), Multi-Color Jade Pendant $285, Namaste Necklace $385, Gratitude Medallion $585."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "anna-beck"
+}

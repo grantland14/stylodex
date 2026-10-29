@@ -4,7 +4,7 @@
   "website_url": "https://www.talbots.com",
   "status": "verified",
   "kind": "brand",
-  "known_for": "Modern Classic Clothing for Women",
+  "known_for": "Modern Classic Womenswear",
   "hq_country": "US",
   "founded_year": 1947,
   "parent_company": "Knitwell Group",
@@ -53,7 +53,8 @@
     "Returns: 'within 30 days of purchase'; $9.95 deducted when using the prepaid UPS label. Shipping: standard $8.95 flat; ships to US incl. AK/HI, APO/FPO, Canada, Mexico, UK, Bahamas, Bermuda; 'Shipping to Australia is currently not available'. Only free-shipping figure is an email sign-up perk ('$15 Off + Free Ship $49+'), so free_shipping_min_usd left empty.",
     "Store locator pages (/storelocator, /stores) render stores by script; no US store list read, us_stores left empty. Wikipedia: founded 1947 in Hingham, Massachusetts; HQ Hingham. knitwellgroup.com lists Talbots ('timely and timeless style for every body'). Footer: The Talbots LLC.",
     "2026-10-29 (talbots page run): the store's own store sitemap (https://www.talbots.com/sitemap-custom-stores-talbots.xml) lists 437 store pages under US state codes (PA 32, FL 31, TX 26, NY 25, NC 25, MA 25...), so us_stores true.",
-    "2026-10-29 (talbots page run): product sitemap (https://www.talbots.com/sitemap-custom-product-talbots.xml) has 2,775 product URLs; by the last word of the product name: pants 216, dress 191 + shirtdress 33 (224 dresses), top 185, tee 181, sweater 136, jacket 128. Category sitemap: clothing > sweaters, blouses-and-shirts, tees-and-knits, pants, jeans, shorts, dresses, skirts, jackets-and-coats, suiting."
+    "2026-10-29 (talbots page run): product sitemap (https://www.talbots.com/sitemap-custom-product-talbots.xml) has 2,775 product URLs; by the last word of the product name: pants 216, dress 191 + shirtdress 33 (224 dresses), top 185, tee 181, sweater 136, jacket 128. Category sitemap: clothing > sweaters, blouses-and-shirts, tees-and-knits, pants, jeans, shorts, dresses, skirts, jackets-and-coats, suiting.",
+    "Coordinator: known_for shortened (was Modern Classic Clothing for Women) so the title has one \"for\"."
   ],
   "us_stores": true
 }

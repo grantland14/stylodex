@@ -1,0 +1,45 @@
+{
+  "name": "BaubleBar",
+  "website_url": "https://www.baublebar.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Trend-Forward Jewelry and Accessories",
+  "hq_country": "US",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "necklaces",
+      "currency": "USD",
+      "min": 28.0,
+      "max": 560.0,
+      "min_usd": 28.0,
+      "max_usd": 560.0,
+      "fx_date": null,
+      "item_count": 368,
+      "source_url": "https://www.baublebar.com/collections/necklaces/products.json",
+      "checked_at": "2026-10-29",
+      "note": "products.json (USD), necklace titles, available, regular price only (1 marked down and 5 sold out excluded; extenders/clasps excluded): Lexi Removable Charm Custom Collar Necklace - Gold $28 to Maya Brenner Monogram Necklace with Diamond - Gold $560; 312 of 368 start under $100, median $58. Chase Semi-Precious Pendant $48."
+    }
+  ],
+  "sells_categories": [
+    "necklaces"
+  ],
+  "sources": [
+    "https://www.baublebar.com/collections/necklaces/products.json",
+    "https://www.baublebar.com/pages/about-us",
+    "https://www.baublebar.com/pages/faq",
+    "https://www.baublebar.com/pages/shipping-policy",
+    "https://www.baublebar.com/policies/refund-policy"
+  ],
+  "notes": [
+    "About: 'thoughtfully designed, trend-forward jewelry and accessories'; family of brands incl. minibar, SUPERFAN, SUGARFIX. FAQ: based in New York City, ships from New Jersey; no own storefront, sold at retailers.",
+    "Shipping: free standard on US orders $75+ (after discounts), $8 below; no international shipping stated, so US only. Returns: within 30 days of the shipping date; custom, made-to-order and final sale excluded.",
+    "Necklaces: Lexi Removable Charm Custom Collar $28, Chase Semi-Precious Pendant Necklace $48, Mini Jane Semi-Precious Beaded Necklace in Lapis $68, 14K Gold Birthstone Charm Necklace $80, top Maya Brenner Monogram Necklace with Diamond $560."
+  ],
+  "checked_at": "2026-10-29",
+  "slug": "baublebar"
+}
