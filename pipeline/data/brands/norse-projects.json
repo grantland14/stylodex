@@ -32,6 +32,19 @@
       "source_url": "https://norseprojects.com/collections/t-shirts",
       "checked_at": "2026-10-29",
       "note": "T-shirts collection with the United States market selected (USD): 34 products, none marked down (the DKK products.json feed shows no compare-at prices either: DKK 500–1,200). Low Norse Standard T-shirt $90 (midweight organic cotton, crafted in Portugal); Norse Standard Heavy Loose T-shirt $100; Elmelunde Soft Compact Cotton T-shirt $110 (organic heavyweight jersey, garment dyed); Nordborg Cotton Crepe T-shirt $145; high Stevns Cotton Hemp Military Rib LS T-shirt $215. Sizes XS–XXL."
+    },
+    {
+      "category": "pants",
+      "currency": "USD",
+      "min": 215,
+      "max": 395,
+      "min_usd": 215,
+      "max_usd": 395,
+      "fx_date": null,
+      "item_count": 76,
+      "source_url": "https://norseprojects.com/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "Store feed with the US market (product .json price_currency USD; default DKK: Ezra trouser DKK 1,200 vs $215), 656 products: 76 regular-price in-stock trousers and pants, none marked down. Low: Ezra Relaxed Organic Stretch Twill Trouser $215 (garment-dyed, drawstring waist); median $250; high $395: Kvitfjell Relaxed Cotton Wool Herringbone Pant, Benn Relaxed Alpinix Smart Merino Pants, Nordmarka Broken Twill Denim. Waists 28–38 on 51, XS–XXL on 27. Pants = full-length pants, trousers, sweatpants, joggers and jeans by title; shorts, skirts, leggings, sets, kids and accessories excluded; regular price = in stock with no variant compare_at_price above price."
     }
   ],
   "materials": [
@@ -44,12 +57,17 @@
     "https://www.norseprojects.com/collections/t-shirts/products.json?limit=250",
     "https://norseprojects.com/pages/faq",
     "https://norseprojects.com/pages/brand",
-    "https://en.wikipedia.org/wiki/Norse_Projects"
+    "https://en.wikipedia.org/wiki/Norse_Projects",
+    "https://norseprojects.com/products.json?limit=250&country=US",
+    "https://norseprojects.com/products/ezra-relaxed-organic-stretch-twill-trouser-black.json?country=US"
   ],
   "notes": [
     "Country selector (2026-10-29) lists Denmark, Norway, Europe, Switzerland, United Kingdom, United States and Rest of the World; selecting US shows USD prices (https://norseprojects.com/collections/t-shirts). ships_to US and GB from that selector.",
     "FAQ (https://norseprojects.com/pages/faq): 14-day cooling-off period from receipt to return; outside the EU prices exclude the 20% Danish VAT and the buyer is responsible for local import taxes; no P.O. Boxes.",
     "Brand page: 'Since 2004, Norse Projects has drawn upon its Scandinavian roots... while minimal yet distinctive basics extend a seasonal...' Wikipedia: Danish clothing brand, founded 2004, HQ Copenhagen."
   ],
-  "checked_at": "2026-10-29"
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "pants"
+  ]
 }

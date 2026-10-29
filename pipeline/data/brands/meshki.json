@@ -10,7 +10,8 @@
     "https://www.meshki.us/collections/dresses"
   ],
   "notes": [
-    "2026-10-29 (stores-like-lucy-in-the-sky run): www.meshki.us and www.meshki.com.au return HTTP 403 to curl (StylodexBot UA); WebFetch of meshki.us/collections/dresses also 403. Not verified, no workaround; website_url not confirmed."
+    "2026-10-29 (stores-like-lucy-in-the-sky run): www.meshki.us and www.meshki.com.au return HTTP 403 to curl (StylodexBot UA); WebFetch of meshki.us/collections/dresses also 403. Not verified, no workaround; website_url not confirmed.",
+    "2026-10-29 (stores-like-club-l-london run): WebFetch of https://www.meshki.us/ returned HTTP 403. One try, no workaround; still unverified. It is a sourced candidate for Club L London (the disco directory), so a human check would add a pick there."
   ],
   "checked_at": "2026-10-29"
 }

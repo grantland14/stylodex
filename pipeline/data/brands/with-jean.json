@@ -17,7 +17,8 @@
   "us_stores": true,
   "production_model": "Ethically made in China",
   "sells_categories": [
-    "dresses"
+    "dresses",
+    "pants"
   ],
   "prices": [
     {
@@ -32,6 +33,19 @@
       "source_url": "https://withjean.com/collections/dresses/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "US store (currency USD). The dresses collection serves 34 products: 23 regular price, 11 marked down (excluded). Low: Elouise Dress | Cream $157; top: Josephine Dress | Stone Paisley $256. Median $197. Lana Dress $158; Arielle Dress | White $176."
+    },
+    {
+      "category": "pants",
+      "currency": "USD",
+      "min": 136,
+      "max": 219,
+      "min_usd": 136,
+      "max_usd": 219,
+      "fx_date": null,
+      "item_count": 10,
+      "source_url": "https://withjean.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US store feed (USD; product page Shopify.currency USD), 373 products: 10 regular-price pants and jeans, 9 marked down excluded. Low: Arden Capri Pant $136, Norah Pants | Khaki Stripe $139 (loose one-size with tie waist); Jasper Jeans $189; high: Agnes Jeans $219 (low-rise selvedge denim, fixed cuffed hem), Alba Jeans $219. Sizes XXS–XL. Pants = full-length pants, trousers, sweatpants, joggers and jeans by title; shorts, skirts, leggings, sets, kids and accessories excluded; regular price = in stock with no variant compare_at_price above price."
     }
   ],
   "sources": [
@@ -42,7 +56,8 @@
     "https://withjean.com/pages/faqs",
     "https://withjean.com/policies/shipping-policy",
     "https://withjean.com/policies/refund-policy",
-    "https://withjean.com/collections/dresses/products.json?limit=250"
+    "https://withjean.com/collections/dresses/products.json?limit=250",
+    "https://withjean.com/products.json?limit=250"
   ],
   "notes": [
     "About: 'Founded by best friends Sami Lorking-Tanner and Evangeline Titilas in 2017'; 'All of our pieces are ethically produced and manufactured in China.' Homepage meta: 'Shop dresses, tops, swim and matching sets made for repeat appearances.'",
@@ -50,7 +65,8 @@
     "Stores page: NYC Flagship Store, 43 Wooster St, New York, NY 10013, so us_stores true.",
     "Shipping policy: US standard 4-5 business days, free over $150 or $8 under; express $25; overnight $40; US orders not subject to additional import duties or tariff charges.",
     "Refund policy: returns requested within 14 days of delivery; full price for refund, credit or exchange; US online returns $14 fee for refunds, $7 for exchanges; sale items final.",
-    "Size options across the dresses collection: XXS to XL."
+    "Size options across the dresses collection: XXS to XL.",
+    "2026-10-29 (brands-like-maniere-de-voir, C = pants): With Jean's pants range is small: 19 pants and jeans in the feed, 9 of them marked down."
   ],
   "checked_at": "2026-10-29"
 }

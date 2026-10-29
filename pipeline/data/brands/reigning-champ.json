@@ -1,0 +1,62 @@
+{
+  "slug": "reigning-champ",
+  "name": "Reigning Champ",
+  "website_url": "https://reigningchamp.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Premium Apparel With Understated Simplicity",
+  "hq_country": "CA",
+  "founded_year": 2007,
+  "parent_company": null,
+  "size_range": "XS–XXL; waists 28–38",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "GB",
+    "AU"
+  ],
+  "us_stores": false,
+  "free_shipping_min_usd": 50,
+  "returns_days": 14,
+  "prices": [
+    {
+      "category": "pants",
+      "currency": "USD",
+      "min": 110,
+      "max": 265,
+      "min_usd": 110,
+      "max_usd": 265,
+      "fx_date": null,
+      "item_count": 111,
+      "source_url": "https://reigningchamp.com/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "US store 'Reigning Champ US' (meta.json currency USD; product page Shopify.currency USD), whole feed 772 products: 111 regular-price in-stock pants, none marked down; caps excluded. Low: Heavyweight Jersey Standard Cuffed Sweatpant $110 (made from its heaviest T-shirt jersey); Brushed Fleece '97 Relaxed Sweatpant $118; median $128; high: Wool Gabardine Service Pant and Bureau Trouser $265 (wool gabardine from an Italian mill, pressed crease). All product type MENS. Pants = full-length pants, trousers, sweatpants, joggers and jeans by title; shorts, skirts, leggings, sets, kids and accessories excluded; regular price = in stock with no variant compare_at_price above price."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://reigningchamp.com/meta.json",
+    "https://reigningchamp.com/pages/about-us",
+    "https://reigningchamp.com/pages/manufacturing",
+    "https://reigningchamp.com/pages/stores",
+    "https://reigningchamp.com/policies/shipping-policy.json",
+    "https://reigningchamp.com/policies/refund-policy.json",
+    "https://reigningchamp.com/products.json?limit=250&country=US"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-maniere-de-voir): About: 'Founded in Canada in 2007, Reigning Champ is built on a legacy of design and craftsmanship. We make premium apparel with a focus on pinnacle materials, quality construction, and an ethos of understated simplicity.' meta.json shop address Vancouver, British Columbia, CA. Manufacturing page: a private label manufacturer before 2007.",
+    "Shipping policy (US store): free standard shipping within the US on $50 and over; standard $12 (1-4 business days), express $16, priority $22; 'All U.S. orders are fulfilled domestically and ship duty-free.' Canada orders go to a separate regional site. meta.json ships_to_countries includes US, GB, AU (not CA).",
+    "Refund policy: online returns by mail within 14 days of the shipping date for a refund; exchange or credit within 30 days; sale items under 50% off exchange/credit only within 14 days, 50% off or more final sale.",
+    "Stores page: four stores, all in Canada (Ossington and Yorkdale in Toronto, West 4th and Robson in Vancouver); US stockists are third-party retailers (Nordstrom), so us_stores false.",
+    "Whole feed is menswear only: product types MENS 685, ACCESSORIES 86. Pants sizes Extra Small to XX Large on 75 styles, waists 28–38 on 34."
+  ],
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "pants"
+  ]
+}

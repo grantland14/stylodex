@@ -1,0 +1,59 @@
+{
+  "slug": "i-love-ugly",
+  "name": "I Love Ugly",
+  "website_url": "https://iloveugly.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Premium Yet Accessible Menswear",
+  "hq_country": "NZ",
+  "founded_year": 2008,
+  "parent_company": null,
+  "size_range": "S–2XL; XS on some",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": true,
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": false,
+  "free_shipping_min_usd": 199,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "pants",
+      "currency": "USD",
+      "min": 99,
+      "max": 145,
+      "min_usd": 99,
+      "max_usd": 145,
+      "fx_date": null,
+      "item_count": 90,
+      "source_url": "https://iloveugly.com/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "US store 'I Love Ugly US' (meta.json currency USD; Shopify.currency USD), whole feed 520 products: 90 regular-price in-stock pants, 19 marked down and 34 sold out excluded. Low: Slim Kobe Pant $99 (also in Tall), Linen Slim Kobe Pant $99; Kobe Pant $129; Zenith Cargo Pant $139; high $145: Winston Pant (16 colourways), Albert Pleated Pant, Twin Pleat Pant. Median $139. Sizes S–2XL on all, XS on 35. Pants = full-length pants, trousers, sweatpants, joggers and jeans by title; shorts, skirts, leggings, sets, kids and accessories excluded; regular price = in stock with no variant compare_at_price above price."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": "Designed in Auckland, New Zealand",
+  "sale_pattern": null,
+  "sources": [
+    "https://iloveugly.com/meta.json",
+    "https://iloveugly.com/pages/about-us",
+    "https://iloveugly.com/pages/stores",
+    "https://iloveugly.com/policies/shipping-policy.json",
+    "https://iloveugly.com/policies/refund-policy.json",
+    "https://iloveugly.com/products.json?limit=250&country=US"
+  ],
+  "notes": [
+    "2026-10-29 (brands-like-maniere-de-voir): About: 'I Love Ugly (ILU) was started in 2008 as an art project by our founder and Creative Director, Valentin Ozich' in Auckland, New Zealand; 'premium yet accessible lifestyle brand'; 'does not wholesale its products'; 'the now iconic Zespy Pant' (no Zespy in the current US feed); 'Designed in a black & white room in Auckland City, New Zealand.' Vision: 'the world's best premium men's streetwear brand'.",
+    "Shipping policy (US site): 'Shipping from our US-Based Warehouse'; flat $8.99 on all US orders, free on $199 and over; US orders 'fulfilled locally within the USA, meaning no tariffs, duties'; the US website ships within the United States only. meta.json ships_to_countries: US only.",
+    "Refund policy: returns for any reason within 30 days of delivery, return costs paid by the customer; full-price items for refund, credit or size exchange; sale items not returnable.",
+    "Stores page: six stores, all in New Zealand (Auckland, Wellington, Christchurch), so us_stores false.",
+    "Largest product type in the US feed is Pant (131 of 520). Tall lengths exist for the Slim Kobe Pant and Linen Slim Kobe Pant, so has_tall true (from product titles)."
+  ],
+  "checked_at": "2026-10-29",
+  "sells_categories": [
+    "pants"
+  ]
+}

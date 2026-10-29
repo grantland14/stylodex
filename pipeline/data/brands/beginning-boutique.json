@@ -45,11 +45,25 @@
       "source_url": "https://www.beginningboutique.com/collections/dresses",
       "checked_at": "2026-10-29",
       "note": "Full US dresses feed (/collections/dresses/products.json, StylodexBot UA, store 'Beginning Boutique US', USD): 1,495 products; 978 regular-price in stock (no variant compare_at_price above price, no sale/markdown/clearance tag), title naming a dress. Low: Say So Green Mini Dress $54.99; high: Another World Teal Sequin Midi Dress $199.99. Median $89.99; 760 under $100. Vendor BB Exclusive on 964 of 978."
+    },
+    {
+      "category": "pants",
+      "currency": "USD",
+      "min": 59.99,
+      "max": 139.99,
+      "min_usd": 59.99,
+      "max_usd": 139.99,
+      "fx_date": null,
+      "item_count": 79,
+      "source_url": "https://www.beginningboutique.com/collections/pants/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US store pants collection feed (USD), 144 products: 79 regular-price in stock, 58 marked down and 2 sold out excluded. Low: Orla Black Satin Straight Leg Pants $59.99 (mid-weight non-stretch satin), Lydia White Lace Mid Rise Capri Pants $59.99; most at $79.99 (28) or $69.99 (20); high: Austin Black PU Leather Lace Up Pants $139.99. Pants = full-length pants, trousers, sweatpants, joggers and jeans by title; shorts, skirts, leggings, sets, kids and accessories excluded; regular price = in stock with no variant compare_at_price above price."
     }
   ],
   "sells_categories": [
     "tops",
-    "dresses"
+    "dresses",
+    "pants"
   ],
   "materials": [],
   "certifications": [],
@@ -61,7 +75,8 @@
     "https://www.beginningboutique.com/policies/shipping-policy.json",
     "https://www.beginningboutique.com/policies/refund-policy.json",
     "https://www.beginningboutique.com/pages.json?limit=250",
-    "https://www.beginningboutique.com/collections/dresses"
+    "https://www.beginningboutique.com/collections/dresses",
+    "https://www.beginningboutique.com/collections/pants/products.json?limit=250"
   ],
   "notes": [
     "2026-10-29 (stores-like-white-fox run): US store meta: 'Beginning Boutique US', San Diego, CA, currency USD, ships_to_countries CA, US; description: 'we cover all customs charges so no surprises at checkout. From head-turning summer and hoco dresses to must-have bikinis, we design outfits you'll actually want to wear.' known_for from that line.",

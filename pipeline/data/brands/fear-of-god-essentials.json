@@ -28,10 +28,24 @@
       "source_url": "https://fearofgod.com/collections/all-mens-sweatshirts/products.json?limit=250&country=US",
       "checked_at": "2026-10-29",
       "note": "Vendor ESSENTIALS hoodies in all-mens-sweatshirts (kids excluded): 76, all regular price. Every one is tagged 'Final Sale' with no compare-at price: Essentials is final sale by policy, not marked down. 33 at $175. Regular = no variant with compare_at_price above price; tags without a compare-at price are not markdowns."
+    },
+    {
+      "category": "pants",
+      "currency": "USD",
+      "min": 75,
+      "max": 225,
+      "min_usd": 75,
+      "max_usd": 225,
+      "fx_date": null,
+      "item_count": 102,
+      "source_url": "https://fearofgod.com/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "Store feed (USD), vendor ESSENTIALS, 102 regular-price in-stock pants (6 sold out). Low: Womens Signature SS26 Classic Flare Sweatpant $75; Essentials SS26 Classic Sweatpant $130 (380gsm core fleece); high: Slim Monogram Track Pant $225; Womens Slim Panelled Rib Pant $195. Median $155. Final sale by policy, not a markdown. Pants = full-length pants, trousers, sweatpants, joggers and jeans by title; shorts, skirts, leggings, sets, kids and accessories excluded; regular price = in stock with no variant compare_at_price above price."
     }
   ],
   "sells_categories": [
-    "hoodies"
+    "hoodies",
+    "pants"
   ],
   "sources": [
     "https://fearofgod.com/",
@@ -40,14 +54,16 @@
     "https://fearofgod.com/collections/all-mens-sweatshirts/products.json?limit=250&country=US",
     "https://fearofgod.com/policies/shipping-policy",
     "https://fearofgod.com/policies/refund-policy",
-    "https://fearofgod.com/collections/essentials/products.json?limit=250"
+    "https://fearofgod.com/collections/essentials/products.json?limit=250",
+    "https://fearofgod.com/products.json?limit=250&country=US"
   ],
   "notes": [
     "Essentials is Fear of God's line, sold at fearofgod.com (shop country US, USD); a separate brand file because sources name 'Fear of God Essentials'.",
     "Refund policy: 'ALL PURCHASES OF ESSENTIALS, COLLABORATION PRODUCT, SALE ITEMS ARE CONSIDERED FINAL SALE. NO EXCEPTIONS.' returns_days 0 for Essentials (mainline returns are 15 days).",
     "Shipping policy: free standard ground shipping on orders above $100 within the contiguous United States, 4–7 business days.",
     "Hoodies 380–520gsm fleece; e.g. Essentials SS26 Classic Hoodie $150, NFL Sport Hoodie $175 (480gsm), Knicks x Barkley Hendricks 90s Hoodie $195 (520gsm). Sizes XS–XL on all, XXL on most, XXXL on 42 of 76.",
-    "2026-10-29 (brands-like-named-collective): hoodies price entry from another run kept as is. This run's read of /collections/essentials/products.json found 139 regular-price in-stock hoodies at $150–$215 (the top being NFL 90s Relaxed Hoodies, which the mens-sweatshirts read doesn't include)."
+    "2026-10-29 (brands-like-named-collective): hoodies price entry from another run kept as is. This run's read of /collections/essentials/products.json found 139 regular-price in-stock hoodies at $150–$215 (the top being NFL 90s Relaxed Hoodies, which the mens-sweatshirts read doesn't include).",
+    "2026-10-29 (brands-like-maniere-de-voir, C = pants): ESSENTIALS pants sizes XS–XL on 99 of 102, 2XL/XXL and 3XL on many, 4XL on 17, 2XS on 16."
   ],
   "checked_at": "2026-10-29"
 }

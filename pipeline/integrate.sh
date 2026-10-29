@@ -27,10 +27,16 @@ npm run check:links
 # 4. What the build would show, page by page: picks and whether the gate lets it be indexed.
 npx tsx -e '
 import { pipelinePages } from "./lib/pipeline.ts";
-import { judgeBrandsLikePage } from "./lib/gate.ts";
+import { judgeBrandsLikePage, pickProblems } from "./lib/gate.ts";
+const now = new Date();
 for (const p of pipelinePages()) {
-  const v = judgeBrandsLikePage(p);
+  const v = judgeBrandsLikePage(p, now);
   console.log(`${p.urlPrefix}-like-${p.anchor.slug}`.padEnd(40), `${v.picks.length} picks`.padEnd(10), v.indexable ? "indexable" : `noindex: ${v.reasons.join("; ")}`);
+  // A shared brand fact changed by another page can drop a pick here without anyone noticing.
+  for (const pk of p.picks) {
+    const why = pickProblems(p.anchor, pk, p.category.slug, now);
+    if (why.length) console.log("   dropped:", pk.brand.slug, "-", why.join("; "));
+  }
 }'
 
 # 5. Commit, push, deploy the preview.

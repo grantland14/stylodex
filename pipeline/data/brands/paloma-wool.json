@@ -26,18 +26,36 @@
       "source_url": "https://palomawool.com/collections/jackets/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "46 regular-price items of 46 in the collection (0 on sale excluded, 0 non-outerwear or other-vendor excluded). Store currency EUR (cart). Includes leather jackets up to €2,500. Products are numbered (e.g. 'no 3085 / Tryo')."
+    },
+    {
+      "category": "pants",
+      "currency": "USD",
+      "min": 140,
+      "max": 890,
+      "min_usd": 140,
+      "max_usd": 890,
+      "fx_date": null,
+      "item_count": 101,
+      "source_url": "https://palomawool.com/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "Store feed with the US market (product .json price_currency USD; EUR base: no 3183 Loclo €250 vs $365), 1,142 products; product types naming pants or trousers (Suit pants 26, Pants 11, Cotton pants 9, Wool, Cupro, Denim, Capri): 101 regular-price in stock, leggings excluded. Low: no 2624 / Mauri $140 (cotton pique capri sweatpants); no 2616 / Low Tinas and no 2649 / Caly $215; median $315; high: no 2805 / Long Suau $890 (capri leather pants). Labels: made in Spain on 66, Portugal on 17. Sizes EU 34–44 or XS–XL. Every product title is a number plus a name (e.g. 'no 2649 / Caly')."
     }
   ],
   "sources": [
     "https://palomawool.com/",
     "https://palomawool.com/meta.json",
     "https://palomawool.com/pages/shipping-and-returns",
-    "https://palomawool.com/collections/jackets/products.json?limit=250"
+    "https://palomawool.com/collections/jackets/products.json?limit=250",
+    "https://palomawool.com/products.json?limit=250&country=US",
+    "https://palomawool.com/products/no-3183-loclo.json?country=US"
   ],
   "notes": [
     "Meta: 'Paloma Wool is my name and the name of this project. A project on photography, clothing and other experiments. From Barcelona.' meta.json Barcelona, ES.",
     "Returns 15 days from delivery, return fee deducted (US amount not stated). US shipping rates not listed on the page; US in the store's ship-to list."
   ],
   "checked_at": "2026-10-29",
-  "slug": "paloma-wool"
+  "slug": "paloma-wool",
+  "sells_categories": [
+    "pants"
+  ]
 }

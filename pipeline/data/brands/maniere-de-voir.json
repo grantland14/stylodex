@@ -8,7 +8,7 @@
   "hq_country": "US",
   "founded_year": 2013,
   "parent_company": null,
-  "size_range": "Jeans US 0–12",
+  "size_range": "US 0–12; waists 30–38",
   "has_plus": null,
   "has_petite": null,
   "has_tall": null,
@@ -56,6 +56,19 @@
       "source_url": "https://us.manieredevoir.com/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "Whole US-store feed (1,502 products; no hoodie collection serves more than 13). 36 regular-price in-stock hoodies, none marked down. Low: Josiane Relaxed Zip Through Hoodie $125; high: Cropped Suede Hoodie $260; Ollie Unisex Whipstitch Raglan Effect Zip Hoodie $245. Sizes XXS–XXL. Regular price = in stock, no variant with compare_at_price above price; hoodie = title says hoodie/hoody, kids, knit, sets and jackets excluded."
+    },
+    {
+      "category": "pants",
+      "currency": "USD",
+      "min": 125,
+      "max": 215,
+      "min_usd": 125,
+      "max_usd": 215,
+      "fx_date": null,
+      "item_count": 282,
+      "source_url": "https://us.manieredevoir.com/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Whole US-store feed (1,502 products, USD, pages 1-7). 282 regular-price in-stock pants, none marked down. Low: Addison Unisex Textured Relaxed Fit Pants $125, Fanny Straight Leg Box Pleat Sweatpants $125; median $185 (e.g. Pierre Twin Pleat Dress Pants); high $215: Rena High Waisted Corset Sculptural Pants, Perrine Hardware Detail Belted Pants, Arnault Boucle Denim Relaxed Fit Jeans. Pants (206) + jeans (43) + sweatpants (28) is the largest garment noun in the feed, ahead of jackets 199 and dresses 154. Pants = full-length pants, trousers, sweatpants, joggers and jeans by title; shorts, skirts, leggings, sets, kids and accessories excluded; regular price = in stock with no variant compare_at_price above price."
     }
   ],
   "materials": [],
@@ -68,7 +81,9 @@
     "https://www.manieredevoir.com/pages/about-us",
     "https://us.manieredevoir.com/collections/womens-jeans/products.json?limit=250",
     "https://us.manieredevoir.com/policies/refund-policy",
-    "https://us.manieredevoir.com/products.json?limit=250"
+    "https://us.manieredevoir.com/products.json?limit=250",
+    "https://us.manieredevoir.com/pages/shipping",
+    "https://us.manieredevoir.com/collections/womens-best-sellers/products.json?limit=250"
   ],
   "notes": [
     "About: 'bridge the gap between high fashion and the high street'; founder and CEO Reece Wabara; founded 2013; head office SoHo, New York. It doesn't call itself streetwear, so off_category.",
@@ -79,10 +94,17 @@
     "production_model detail: Each piece designed by an in-house design team from sketch to sample (About)",
     "2026-10-29 (brands-like-minga-london run): US women's jeans feed re-read, unchanged: 31 regular-price jeans $155–$200, sizes US 0–12.",
     "2026-10-29 (brands-like-named-collective): hoodies $125–$250ish range read from the US feed; see price note.",
-    "Correction to the brands-like-named-collective note above: the hoodies range is $125–$260 (Cropped Suede Hoodie $260), as the hoodies price entry says; '$250ish' was a typo."
+    "Correction to the brands-like-named-collective note above: the hoodies range is $125–$260 (Cropped Suede Hoodie $260), as the hoodies price entry says; '$250ish' was a typo.",
+    "2026-10-29 (brands-like-maniere-de-voir, C = pants): pants sizes on the 282 regular-price pants: women's US 0–12 (161 styles), men's waists W30–W38 (72), letter sizes XXS–XXL on others. size_range overwritten from 'Jeans US 0–12' (still true for jeans) so it covers the whole range.",
+    "2026-10-29 (brands-like-maniere-de-voir, C = pants): US shipping page (us.manieredevoir.com/pages/shipping): 'Shipped Locally from the U.S.'; standard $8–$15 by state, free over $250; express $12–$20; '$10 Fixed-Fee U.S. Postal Returns'; refunds on full-price items returned within 14 days of delivery, sale items e-gift card only; free in-store returns within 14 days.",
+    "2026-10-29 (brands-like-maniere-de-voir, C = pants): About (https://www.manieredevoir.com/pages/about-us): 'Our head office is in SoHo, New York, home to our store on Broadway'; London flagship at 354 Oxford Street and Battersea Power Station; founded 2013 by Reece Wabara. us_stores true from the SoHo Broadway store. hq_country left as US (head office); the brand began in the UK per outside sources (disco says Manchester), see page human_check.",
+    "2026-10-29 (brands-like-maniere-de-voir, C = pants): Women's best sellers collection (121 products): pants is the most common garment (28), then jackets 20 and dresses 19.",
+    "2026-10-29 (brands-like-maniere-de-voir): size_range re-set to US 0–12; waists 30–38 (women US 0–12, men W30–W38) because the apostrophe in the first wording tripped lint:facts."
   ],
   "checked_at": "2026-10-29",
   "sells_categories": [
-    "hoodies"
-  ]
+    "hoodies",
+    "pants"
+  ],
+  "us_stores": true
 }

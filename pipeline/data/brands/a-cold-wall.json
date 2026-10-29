@@ -26,22 +26,38 @@
       "source_url": "https://a-cold-wall.com/products.json?limit=250&country=US",
       "checked_at": "2026-10-29",
       "note": "112 products read; US market prices in USD (product page with country=US: Shopify.currency active USD, og:price:currency USD, feed price matches; base GBP). 12 regular-price in-stock hoodies, 2 marked down excluded; Albany Hooded Overshirt excluded (shirting). Balmore Logo Hoodie and Carradale Logo Hoodie $170 (regular-fit cotton); Bescott Hoodie $238 ('Heavyweight loopback cotton hoodie with garment soft wash treatment'); Millbank Hoodie $265 (relaxed fit, piped seams); Millbank Zip Hoodie $265–$286. Sizes S–XXL on all, XS on 11, 3XL on 6. Regular = in stock with no variant compare_at_price above price; men's/unisex pullover and zip hoodies by title ('hoodie'), women's, kids, knits, overshirts and jackets excluded."
+    },
+    {
+      "category": "pants",
+      "currency": "USD",
+      "min": 157,
+      "max": 265,
+      "min_usd": 157,
+      "max_usd": 265,
+      "fx_date": null,
+      "item_count": 14,
+      "source_url": "https://a-cold-wall.com/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "Store feed with the US market (product .json price_currency USD; GBP base), 112 products: 14 regular-price in-stock pants (1 marked down excluded). Low: Woolmore Logo Jogger $157 (regular-fit cotton sweatpant, ACW* bracket logo); Bescott Sweatpant $204; Westgate Track Pant $238; high: Elland Pant $265 (relaxed garment-dyed cotton twill). Pants = full-length pants, trousers, sweatpants, joggers and jeans by title; shorts, skirts, leggings, sets, kids and accessories excluded; regular price = in stock with no variant compare_at_price above price."
     }
   ],
   "sells_categories": [
-    "hoodies"
+    "hoodies",
+    "pants"
   ],
   "sources": [
     "https://a-cold-wall.com/products.json?limit=250&country=US",
     "https://www.a-cold-wall.com/products/acwua2500027?country=US",
     "https://a-cold-wall.com/meta.json",
     "https://a-cold-wall.com/policies/refund-policy",
-    "https://www.discobrands.co/blogs/12-brands-like-fear-of-god"
+    "https://www.discobrands.co/blogs/12-brands-like-fear-of-god",
+    "https://a-cold-wall.com/products/acw1003acw001.json?country=US"
   ],
   "notes": [
     "meta.json: shop address London, England, GB; currency GBP; ships_to_countries 234 incl. US, CA, GB, AU; description 'ready-to-wear, footwear and accessories from A-COLD-WALL* established through a process of fabric and material study. Worldwide express shipping available.' (https://a-cold-wall.com/meta.json).",
     "Refund policy: 'a 28-day return policy... 28 days after receiving your item to request a return', requested through help@a-cold-wall.com first (https://a-cold-wall.com/policies/refund-policy). US shipping cost and any free threshold not stated on the policy pages.",
-    "Founding year and founder not stated on its own pages (no /pages/about)."
+    "Founding year and founder not stated on its own pages (no /pages/about).",
+    "2026-10-29 (brands-like-maniere-de-voir, C = pants): pants feed: 14 styles, product types Sweats (9) and Legwear (6)."
   ],
   "checked_at": "2026-10-29"
 }

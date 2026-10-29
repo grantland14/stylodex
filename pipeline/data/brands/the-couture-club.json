@@ -33,6 +33,19 @@
       "source_url": "https://www.thecoutureclub.com/collections/mens-hoodies/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "Mens Hoodies collection feed, 82 products: 54 regular-price in-stock adult hoodies, none marked down (junior, knit and jacket items excluded). Low: Design Department Chest Print Hoodie £85; high: Motion Blurred Zip Through Hoodie £115. Sizes XXS–XXL. Whole-store feed also has womens hoodies from £60 (Marl Slub Hoodie). Regular price = in stock, no variant with compare_at_price above price; hoodie = title says hoodie/hoody, kids, knit, sets and jackets excluded."
+    },
+    {
+      "category": "pants",
+      "currency": "USD",
+      "min": 73,
+      "max": 185,
+      "min_usd": 73,
+      "max_usd": 185,
+      "fx_date": null,
+      "item_count": 240,
+      "source_url": "https://www.thecoutureclub.com/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "Whole store feed with the US market (product .json price_currency USD; GBP base: the Relaxed Straight Fit Jean is £100 in the default store and $185 for the US), 2,158 products: 240 regular-price in-stock adult pants, none marked down, 80 sold out; junior items excluded. Low: Sculpting Stretch Foldover Waistband Yoga Pants $73; CTRE Relaxed Joggers $110 (oversized cuffed fleece-back jersey, 60% cotton); median $145; high: Relaxed Straight Fit Jean $185 (100% cotton), Denim Rivet Detail Carpenter Jeans $185. Pants = full-length pants, trousers, sweatpants, joggers and jeans by title; shorts, skirts, leggings, sets, kids and accessories excluded; regular price = in stock with no variant compare_at_price above price."
     }
   ],
   "materials": [],
@@ -40,7 +53,8 @@
   "production_model": null,
   "sale_pattern": null,
   "sells_categories": [
-    "hoodies"
+    "hoodies",
+    "pants"
   ],
   "sources": [
     "https://www.thecoutureclub.com/collections/mens-hoodies/products.json?limit=250",
@@ -49,12 +63,16 @@
     "https://www.thecoutureclub.com/pages/about-us",
     "https://www.thecoutureclub.com/policies/shipping-policy",
     "https://www.thecoutureclub.com/policies/refund-policy",
-    "https://www.thecoutureclub.com/pages/returns"
+    "https://www.thecoutureclub.com/pages/returns",
+    "https://www.thecoutureclub.com/products.json?limit=250&country=US",
+    "https://www.thecoutureclub.com/products/relaxed-straight-fit-jean-washed-black.json?country=US",
+    "https://www.thecoutureclub.com/products/relaxed-straight-fit-jean-washed-black.json"
   ],
   "notes": [
     "About: 'The Couture Club, founded in 2015 by Ross Worswick and Scott Shashua, is a Manchester based fashion brand… The lifestyle merchandise brand for mens and womens clothing.' Starting as a bedroom brand (https://www.thecoutureclub.com/pages/about-us).",
     "Shipping policy: 'USA & CANADA (Delivered by DHLExpress) 2-3 Working Days $18.00'; Australia $25; free standard delivery only on UK orders over £125. Store currency GBP (cart.js).",
-    "Returns (https://www.thecoutureclub.com/pages/returns): international customers return within 28 days at their own cost, no prepaid label; UK 14 days via portal."
+    "Returns (https://www.thecoutureclub.com/pages/returns): international customers return within 28 days at their own cost, no prepaid label; UK 14 days via portal.",
+    "2026-10-29 (brands-like-maniere-de-voir, C = pants): pants sizes: women's UK 4–16 (113 styles, UK 18 on 84), letter XS–XXL (108), XXS on 76. Many joggers sit in women's and men's twinset/tracksuit product types but are sold as separate pants."
   ],
   "checked_at": "2026-10-29"
 }

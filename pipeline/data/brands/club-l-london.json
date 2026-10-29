@@ -1,0 +1,69 @@
+{
+  "slug": "club-l-london",
+  "name": "Club L London",
+  "website_url": "https://clubllondon.us",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Occasion and Evening Dresses",
+  "hq_country": "GB",
+  "founded_year": 2007,
+  "parent_company": null,
+  "size_range": "US 0–16",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "GB",
+    "AU",
+    "CA"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "dresses",
+      "currency": "USD",
+      "min": 60,
+      "max": 650,
+      "min_usd": 60,
+      "max_usd": 650,
+      "fx_date": null,
+      "item_count": 2181,
+      "source_url": "https://clubllondon.us/collections/all-dresses/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US store (Club L London - USA, USD), the price a US shopper is charged; the delivery page says customs and duties are included. Full all-dresses feed, 12 pages: 2,830 dresses, 312 sold out, 337 marked down (a variant with compare_at_price above price), 2,181 regular-price in stock. Low: Siren | Black One Shoulder Bodycon Mini Dress $60; Salome | Twisted Asymmetric Midi Dress $80 (several colours). High: Gemini | Floral Sequin Hand-Embellished Strappy Maxi Dress $650; Lyric | Black Floral Velvet And Sequin Embellished Crew-Neck Maxi Dress $650. Median $160; 29 under $100, 1,390 at $100–$199, 567 at $200–$299, 195 at $300 or more. Examples at the median: Pippa | Black Velvet Crew-Neck Mermaid Maxi Dress $160, Zavira | Black Square-Neck Maxi Dress $160."
+    }
+  ],
+  "sells_categories": [
+    "dresses"
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://clubllondon.us/",
+    "https://clubllondon.us/meta.json",
+    "https://clubllondon.com/meta.json",
+    "https://clubllondon.ca/meta.json",
+    "https://clubllondon.us/collections/all-dresses/products.json?limit=250",
+    "https://clubllondon.us/collections/plus-size/products.json?limit=250",
+    "https://clubllondon.us/sitemap_collections_1.xml?from=155951759406&to=496193241285",
+    "https://clubllondon.us/pages/about",
+    "https://clubllondon.us/pages/delivery",
+    "https://clubllondon.us/pages/club-l-returns",
+    "https://clubllondon.us/pages/size-guide"
+  ],
+  "notes": [
+    "2026-10-29 (stores-like-club-l-london run): sells its own label only (every dress vendor is Club L London - USA / - UK / Club L London), so kind brand. US store meta.json: 'Club L London - USA', city Manchester, currency USD, ships_to US. UK store meta.json: Manchester, England, GB, GBP, ships to GB, AU, US and most other countries. CA store clubllondon.ca: CAD, ships to CA. hq_country GB (Manchester).",
+    "Store description (meta.json): 'New in on-trend womens going out fashion, occasion and evening wear… glamorous dresses, fishtail sequin maxi dresses, figure-flattering bodycon midi dresses, strapless bandeau gowns and sexy little mini dresses, going out tops, killer co-ords, two-pieces, jumpsuit'. Dresses are 2,830 of 3,834 published US products, so C is dresses; known_for from this description.",
+    "About (clubllondon.us/pages/about): 'Since 2007, Club L London has been committed to delivering enduring luxury'; 'a next-generation online fashion retailer'; 'specialise in delivering accessible luxury and high-quality, unique pieces'; collections 'from prom and special occasions to maternity and bridal wear'; 'designs conceptualised and crafted both in-house and internationally'. Founder not named on the page. founded_year 2007.",
+    "US delivery (clubllondon.us/pages/delivery): Standard $10 (5–7 working days), Premium $18 (2–3 working days), Next Day $39 (order before 11.30am ET Monday–Thursday). 'Taxes are calculated at checkout - all customs and duties are included.' No free-shipping threshold stated, so free_shipping_min_usd empty.",
+    "Returns (clubllondon.us/pages/club-l-returns): 'You have 14 days from receiving your order to register a return'; items must be received within 28 days; refunds to the original payment method; 'we don't offer exchanges'; 'For all returns from the USA, a subsidized return shipping label fee will be deducted from your final refund.' Final Sale items excluded. returns_days 14 (the window to register).",
+    "Sizes: size guide charts US 0–20 (UK 4–24), with a maternity range US 0–20. In the US dresses feed every dress offers US 2–8, US 10 on 2,808, US 12 on 2,579, US 0 on 255, US 14 on 142, US 16 on 69; nothing above US 16. size_range stores what the dresses offer (US 0–16). A plus-size collection holds 26 products, sizes US 0–14 in stock, so has_plus left empty. No petite range listed; the size guide notes Tall and X-Tall height charts on one style (Levante), not a separate range.",
+    "US collections include maternity-dresses (46 dresses carry a maternity tag), bridesmaid-dresses, curve-bridesmaids, prom-dresses and wedding-guest. No store locator found; us_stores left empty (online only on the pages read)."
+  ],
+  "checked_at": "2026-10-29"
+}

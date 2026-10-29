@@ -26,6 +26,19 @@
       "source_url": "https://www.studionicholson.com/collections/mens-t-shirts/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "Men's T-shirts collection, T-shirts only (jersey tops and polos excluded): Bric T-Shirt and Lay T-Shirt £95, Piu T-Shirt £110. All regular price. Store default currency GBP; USD at ECB 2026-10-28 (GBP 0.83785, USD 1.1133). US checkout prices through Global-E include duties and may differ."
+    },
+    {
+      "category": "pants",
+      "currency": "USD",
+      "min": 355,
+      "max": 900,
+      "min_usd": 355,
+      "max_usd": 900,
+      "fx_date": null,
+      "item_count": 76,
+      "source_url": "https://www.studionicholson.com/products.json?limit=250&country=US",
+      "checked_at": "2026-10-29",
+      "note": "Store feed with the US market (product .json price_currency USD; GBP base: Riso jean £245 vs $355), 748 products: 76 regular-price in-stock pants, 79 marked down and 17 sold out excluded. Product types Women's Pants, Men's Pants, Men's and Women's Denim Pants. Low: Riso Straight Leg Denim Pant $355 (14oz bleached denim); Chalco Wide Leg Denim Pant $360; median $570; high: Faron Belted Pant $900. Women's UK 4–16 or XS–XXL. Pants = full-length pants, trousers, sweatpants, joggers and jeans by title; shorts, skirts, leggings, sets, kids and accessories excluded; regular price = in stock with no variant compare_at_price above price."
     }
   ],
   "sources": [
@@ -33,7 +46,9 @@
     "https://www.studionicholson.com/collections/mens-t-shirts/products.json?limit=250",
     "https://www.studionicholson.com/pages/shipping-returns",
     "https://www.studionicholson.com/pages/returns-exchanges",
-    "https://www.studionicholson.com/pages/about"
+    "https://www.studionicholson.com/pages/about",
+    "https://www.studionicholson.com/products.json?limit=250&country=US",
+    "https://www.studionicholson.com/products/riso-denim-straight-pant-in-bleached-wash.json?country=US"
   ],
   "notes": [
     "Shipping: US free on baskets over $100, else $10 Air Express; 'Duties are included in the prices of our products, tax will be calculated at checkout.' Canada free over CA$500, Australia free over A$500. UK free over £150.",
@@ -41,5 +56,8 @@
     "About: launched 2010 by founder and creative director Nick Wakeman; 'a no-nonsense clothing brand that revolves around a fabric-first approach'; stores in London, Tokyo, Kyoto and Seoul. hq_country GB inferred from the London store and GBP default store; HQ not stated."
   ],
   "checked_at": "2026-10-29",
-  "slug": "studio-nicholson"
+  "slug": "studio-nicholson",
+  "sells_categories": [
+    "pants"
+  ]
 }

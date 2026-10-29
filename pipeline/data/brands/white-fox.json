@@ -56,6 +56,19 @@
       "source_url": "https://whitefoxboutique.com/collections/dresses",
       "checked_at": "2026-10-29",
       "note": "Full US dresses feed (/collections/dresses/products.json, StylodexBot UA, store 'White Fox Boutique USA', USD): 1,084 products; 415 regular-price in stock (no variant compare_at_price above price, no sale/markdown/clearance tag), product type Dresses, title naming a dress. Low: Daily Reminder Mini Dress $49.99; high: Magic Muse Maxi Dress $179.99. Median $79.99; 354 under $100. All vendor White Fox Boutique."
+    },
+    {
+      "category": "pants",
+      "currency": "USD",
+      "min": 39.99,
+      "max": 89.99,
+      "min_usd": 39.99,
+      "max_usd": 89.99,
+      "fx_date": null,
+      "item_count": 254,
+      "source_url": "https://whitefoxboutique.com/collections/pants/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US pants collection feed (USD), 351 products: 254 regular-price in stock, 83 marked down and 2 sold out excluded. Low: Dreamy Pyjama Pants $39.99; most at $59.99 (80) or $69.99 (62); high: All Day Wide Leg Pants $89.99 (fully lined, low rise), Reflective Love Tailored Straight Leg Pants $89.99. Pants = full-length pants, trousers, sweatpants, joggers and jeans by title; shorts, skirts, leggings, sets, kids and accessories excluded; regular price = in stock with no variant compare_at_price above price."
     }
   ],
   "materials": [],
@@ -80,7 +93,8 @@
     "https://whitefoxboutique.com/policies/shipping-policy.json",
     "https://whitefoxboutique.com/policies/refund-policy.json",
     "https://whitefoxboutique.com/collections/hoodies/products.json?limit=250",
-    "https://whitefoxboutique.com/collections/dresses"
+    "https://whitefoxboutique.com/collections/dresses",
+    "https://whitefoxboutique.com/collections/pants/products.json?limit=250"
   ],
   "checked_at": "2026-10-29",
   "notes": [
@@ -99,7 +113,8 @@
   "sells_categories": [
     "tops",
     "hoodies",
-    "dresses"
+    "dresses",
+    "pants"
   ],
   "us_stores": false
 }
