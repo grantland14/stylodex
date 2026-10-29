@@ -32,12 +32,14 @@
   "sources": [
     "https://cultgaia.com/",
     "https://cultgaia.com/products.json?limit=250",
-    "https://cultgaia.com/policies/refund-policy"
+    "https://cultgaia.com/policies/refund-policy",
+    "https://cultgaia.com/policies/shipping-policy"
   ],
   "notes": [
     "Refund policy: 'Clothing may be returned within 14 days of delivery'; accessories, bags and shoes within 7 days; free shipping 'On all orders over $150' (https://cultgaia.com/policies/refund-policy).",
     "Homepage meta: 'Cult Gaia is a lifestyle brand that creates beautiful heirloom items'; 'Designer Clothing for Women and Men' (https://cultgaia.com/).",
-    "Jarvis Leather Jacket $1,998: lamb leather, funnel collar, boxy cropped fit; Matthew Leather Jacket $1,598: unisex leather bomber, sizes XS–XXL (https://cultgaia.com/products.json?limit=250)."
+    "Jarvis Leather Jacket $1,998: lamb leather, funnel collar, boxy cropped fit; Matthew Leather Jacket $1,598: unisex leather bomber, sizes XS–XXL (https://cultgaia.com/products.json?limit=250).",
+    "Site navigation (header of https://cultgaia.com/policies/shipping-policy): Women's Ready To Wear with Dresses, Gowns and Knits; bags and accessories shown alongside, such as the Pearl Bag $598, Florence Clutch $498 and Cassidy Sandal $598."
   ],
   "checked_at": "2026-10-29"
 }

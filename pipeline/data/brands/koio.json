@@ -1,0 +1,59 @@
+{
+  "slug": "koio",
+  "name": "Koio",
+  "website_url": "https://www.koio.co",
+  "kind": "brand",
+  "known_for": "Handcrafted Italian Leather Sneakers",
+  "hq_country": "US",
+  "founded_year": 2014,
+  "parent_company": null,
+  "size_range": "Men US 7–16",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 150,
+  "returns_days": 14,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "sneakers",
+      "currency": "USD",
+      "min": 185.0,
+      "max": 345.0,
+      "min_usd": 185.0,
+      "max_usd": 345.0,
+      "fx_date": null,
+      "item_count": 67,
+      "source_url": "https://www.koio.co/collections/sneakers-mens/products.json",
+      "checked_at": "2026-10-29",
+      "note": "67 regular-price sneakers (3 marked-down products excluded). Shopify sneakers-mens collection (Koio now sells men's only), titles containing Sneaker. Low: Vegan 01 Sneaker $185; Capri Leather Sneaker $275; Primo Leather Sneaker $325; high: Capri Triple White Rose Anvil $345. Capri X marked down ($220, was $275), excluded."
+    }
+  ],
+  "production_model": "Handcrafted in Florence, Italy",
+  "materials": [
+    "Leather"
+  ],
+  "certifications": [],
+  "sale_pattern": null,
+  "sources": [
+    "https://www.koio.co/collections/sneakers-mens/products.json",
+    "https://www.koio.co/pages/about-us",
+    "https://www.koio.co/pages/returns-and-exchanges",
+    "https://www.koio.co/pages/frequently-asked-questions",
+    "https://www.koio.co/"
+  ],
+  "notes": [
+    "FAQ: 'founded in 2014 and based in New York City'; sneakers 'handcrafted in Florence, Italy' (Ostuni line Spain, Pale Blue Dot and Carrara Portugal); 'Koio ships worldwide'; lineup is 'sneakers, boots, and loafers for men'.",
+    "About: visited 34 factories in Italy before partnering with a manufacturer in Florence. Cart: 'Free US Shipping on all orders over $150'.",
+    "Returns: within 14 days of delivery; US refunds carry a $14 shipping and processing fee plus 5% restocking (waived for exchanges/store credit or with Checkout+ $7.98).",
+    "Sizes: US 7–16 (EU 40–49) from Size options."
+  ],
+  "status": "verified",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "sells_categories": [
+    "sneakers"
+  ],
+  "checked_at": "2026-10-29"
+}

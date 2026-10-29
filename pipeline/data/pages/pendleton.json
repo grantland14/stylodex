@@ -1,0 +1,1326 @@
+{
+ "subject": "Pendleton",
+ "slug": "pendleton",
+ "url_prefix": "brands",
+ "category": {
+  "slug": "shirts",
+  "name": "Shirts",
+  "why": "C is a product type. Pendleton sells blankets and home goods too, but Stylodex covers clothing, and its clothing is led by wool shirts: the men's nav opens with Wool Shirts ('Cozy Men's Wool Shirts', 63 tiles, Board Shirt $198) beside Cotton & Linen Shirts (46 tiles). The outside evidence about clothing is about shirts: the Bushcraft USA thread asks for a wool shirt alternative to Pendleton, the SERP's Reddit and Facebook results are about Pendleton flannels and wool shirts, and Disco ties Faherty to Pendleton's flannel shirting. Coats-jackets is stored for Pendleton (from the Filson page) but no source compares it on jackets. Like-for-like item: men's woven shirts at regular price (button-ups, flannels, wool shirts, overshirts), excluding tees, knits, polos, sweatshirts, shirt jackets and padded or quilted overshirts, the same filter on every store."
+ },
+ "serp": [
+  {
+   "keyword": "brands like pendleton",
+   "position": 1,
+   "url": "https://mygreencloset.com/recycled-wool-clothing/",
+   "kept": false,
+   "why_dropped": "general recycled-wool roundup; doesn't frame brands as Pendleton alternatives",
+   "note": null
+  },
+  {
+   "keyword": "brands like pendleton",
+   "position": 2,
+   "url": "https://www.facebook.com/groups/544764125895308/posts/1926284244409949/",
+   "kept": false,
+   "why_dropped": "WebFetch returned only the question ('best wool shirt brands'), no replies readable; general, not Pendleton alternatives",
+   "note": null
+  },
+  {
+   "keyword": "brands like pendleton",
+   "position": 3,
+   "url": "https://www.duckworthco.com/",
+   "kept": false,
+   "why_dropped": "a brand's own site",
+   "note": null
+  },
+  {
+   "keyword": "brands like pendleton",
+   "position": 4,
+   "url": "https://www.reddit.com/r/malefashionadvice/comments/525fod/cheaper_alternative_for_pendletons_flannel/",
+   "kept": false,
+   "why_dropped": "unfetchable: Reddit refuses WebFetch; not read, no workaround",
+   "note": null
+  },
+  {
+   "keyword": "brands like pendleton",
+   "position": 4,
+   "url": "https://www.reddit.com/r/AustralianMFA/comments/1dtcklb/wool_based_flannels_likependleton/",
+   "kept": false,
+   "why_dropped": "Reddit; not read",
+   "note": null
+  },
+  {
+   "keyword": "brands like pendleton",
+   "position": 4,
+   "url": "https://www.reddit.com/r/BuyItForLife/comments/1qrcswb/wool_garments_of_similar_quality_to_weatherwool/",
+   "kept": false,
+   "why_dropped": "Reddit, about WeatherWool; not read",
+   "note": null
+  },
+  {
+   "keyword": "brands like pendleton",
+   "position": 6,
+   "url": "https://weatherwool.com/pages/comparison",
+   "kept": false,
+   "why_dropped": "a brand's own comparison page (self-interested), not outside evidence",
+   "note": null
+  },
+  {
+   "keyword": "brands like pendleton",
+   "position": 7,
+   "url": "https://www.archerytalk.com/threads/best-wool-clothing-brands.1101456/",
+   "kept": false,
+   "why_dropped": "redirects to a TollBit gate; not followed. General wool thread",
+   "note": null
+  },
+  {
+   "keyword": "brands like pendleton",
+   "position": 8,
+   "url": "https://www.themodestman.com/brands-like-llbean/",
+   "kept": false,
+   "why_dropped": "about L.L.Bean, not Pendleton",
+   "note": null
+  },
+  {
+   "keyword": "brands like pendleton",
+   "position": 9,
+   "url": "https://www.youtube.com/watch?v=u38kVY7LHXI",
+   "kept": false,
+   "why_dropped": "video; not read",
+   "note": null
+  },
+  {
+   "keyword": "brands like pendleton",
+   "position": 10,
+   "url": "https://www.askandyaboutclothes.com/threads/pendleton-equivalent-for-cotton-shirts.242817/",
+   "kept": false,
+   "why_dropped": "redirects to a TollBit gate; not followed",
+   "note": null
+  },
+  {
+   "keyword": "pendleton alternatives",
+   "position": 1,
+   "url": "https://www.bustle.com/life/best-pendleton-blankets-alternatives",
+   "kept": false,
+   "why_dropped": "blankets (home), out of scope",
+   "note": null
+  },
+  {
+   "keyword": "pendleton alternatives",
+   "position": 3,
+   "url": "https://www.sheknows.com/living/slideshow/2405371/pendleton-blanket-lookalikes/",
+   "kept": false,
+   "why_dropped": "blankets, out of scope",
+   "note": null
+  },
+  {
+   "keyword": "pendleton alternatives",
+   "position": 4,
+   "url": "https://spy.com/articles/hacks/home-hacks/pendleton-blanket-alternatives-camp-wool-outdoors-106874/",
+   "kept": false,
+   "why_dropped": "blankets, out of scope",
+   "note": null
+  },
+  {
+   "keyword": "pendleton alternatives",
+   "position": 5,
+   "url": "https://www.reddit.com/r/BuyItForLife/comments/2eny2d/bifl_wool_blanket_like_pendleton_but_more/",
+   "kept": false,
+   "why_dropped": "Reddit, blankets; not read",
+   "note": null
+  },
+  {
+   "keyword": "pendleton alternatives",
+   "position": 7,
+   "url": "https://www.dwell.com/article/cultural-appropriation-home-decor-pendleton-60491a02",
+   "kept": false,
+   "why_dropped": "home decor essay, not alternatives",
+   "note": null
+  },
+  {
+   "keyword": "pendleton alternatives",
+   "position": 8,
+   "url": "https://www.thegoodtrade.com/features/5-ethical-alternatives-to-this-years-most-popular-trends",
+   "kept": false,
+   "why_dropped": "trend roundup, not Pendleton clothing alternatives",
+   "note": null
+  },
+  {
+   "keyword": "pendleton alternatives",
+   "position": 9,
+   "url": "http://bushcraftusa.com/forum/threads/pendleton-alternative.282911/",
+   "kept": true,
+   "why_dropped": null,
+   "note": "Old URL 404s; read at https://bushcraftusa.com/threads/pendleton-alternative.282911/. LazyPK, July 13 2020, asks for a wool shirt alternative to Pendleton; 14 replies name brands."
+  },
+  {
+   "keyword": "pendleton alternatives",
+   "position": 10,
+   "url": "https://www.portlandmercury.com/BlogtownPDX/archives/2014/12/12/if-you-like-pendleton-blankets-heres-a-tip",
+   "kept": false,
+   "why_dropped": "blankets",
+   "note": null
+  },
+  {
+   "keyword": "pendleton alternatives",
+   "position": 15,
+   "url": "https://www.sierra.com/s~alternatives/pendleton~b~16052/",
+   "kept": false,
+   "why_dropped": "retailer search page, not editorial",
+   "note": null
+  },
+  {
+   "keyword": "pendleton alternatives",
+   "position": 21,
+   "url": "https://www.styleforum.net/threads/dickies-pendleton-alternatives.371501/",
+   "kept": false,
+   "why_dropped": "read: original post only (Dec 3 2013), no replies, no brands",
+   "note": null
+  },
+  {
+   "keyword": "pendleton alternatives",
+   "position": 30,
+   "url": "https://pendleton.knoji.com/alternatives/",
+   "kept": false,
+   "why_dropped": "scraped list, no editorial content",
+   "note": null
+  },
+  {
+   "keyword": "stores like pendleton",
+   "position": 1,
+   "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+   "kept": true,
+   "why_dropped": null,
+   "note": "Unsigned 'disco' directory (counts as evidence, never cited). Title '23 Brands Like Pendleton for Heritage Wool Goods (2026)', updated July 2026, 23 brands, all framed as alternatives."
+  },
+  {
+   "keyword": "stores like pendleton",
+   "position": 3,
+   "url": "https://www.modvisor.com/pendleton",
+   "kept": false,
+   "why_dropped": "scraped similar-stores list",
+   "note": null
+  },
+  {
+   "keyword": "stores like pendleton",
+   "position": 4,
+   "url": "https://plaintips.com/brands-like-pendleton",
+   "kept": true,
+   "why_dropped": null,
+   "note": "'10 Brands Like Pendleton to Find Better Deals on Wool Blankets and Merino Wool Clothing', author profile rehangillani, 2026 in header. 10 brands framed as alternatives (blankets and clothing)."
+  },
+  {
+   "keyword": "stores like pendleton",
+   "position": 5,
+   "url": "https://www.reddit.com/r/BuyItForLife/comments/10unfny/whats_a_good_wool_clothing_company_that_doesnt/",
+   "kept": false,
+   "why_dropped": "Reddit; not read",
+   "note": null
+  },
+  {
+   "keyword": "stores like pendleton",
+   "position": 6,
+   "url": "https://www.askandyaboutclothes.com/threads/clothing-brands-similar-to-pendleton-woolrich.218779/",
+   "kept": false,
+   "why_dropped": "redirects to a TollBit gate; not followed, no brands taken",
+   "note": null
+  },
+  {
+   "keyword": "stores like pendleton",
+   "position": 7,
+   "url": "https://www.kraffs.com/",
+   "kept": false,
+   "why_dropped": "a brand's own site",
+   "note": null
+  },
+  {
+   "keyword": "stores like pendleton",
+   "position": 8,
+   "url": "https://www.sheknows.com/living/slideshow/2405371/pendleton-blanket-lookalikes/",
+   "kept": false,
+   "why_dropped": "blankets",
+   "note": null
+  },
+  {
+   "keyword": "stores like pendleton",
+   "position": 10,
+   "url": "https://www.pendleton-usa.com/",
+   "kept": false,
+   "why_dropped": "the anchor's own site",
+   "note": null
+  },
+  {
+   "keyword": "stores like pendleton",
+   "position": 12,
+   "url": "https://www.zippia.com/pendleton-woolen-mills-careers-34545/competitors/",
+   "kept": false,
+   "why_dropped": "company-competitor database, not shopping alternatives",
+   "note": null
+  },
+  {
+   "keyword": "similar to pendleton",
+   "position": null,
+   "url": null,
+   "kept": false,
+   "why_dropped": "Ahrefs returned no SERP for this keyword (0 rows)",
+   "note": null
+  }
+ ],
+ "co_stocking": [
+  {
+   "retailer": null,
+   "url": null,
+   "used": false,
+   "why": "No multi-brand retailer category page ranked for the four keywords (Nordstrom, Macy's and Dillard's brand pages ranked only for 'stores like pendleton' at positions 25+, as Pendleton-only listings). Not used."
+  }
+ ],
+ "candidates": [
+  {
+   "name": "Woolrich",
+   "slug": "woolrich",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#1: \"Shares a heritage style and a focus on quality materials\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/brands-like-pendleton",
+     "note": "#1: recommended for wool blankets"
+    },
+    {
+     "kind": "forum",
+     "url": "https://bushcraftusa.com/threads/pendleton-alternative.282911/",
+     "note": "Unistat76: \"I'd say Woolrich\""
+    }
+   ]
+  },
+  {
+   "name": "Filson",
+   "slug": "filson",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#2: Mackinaw wool cruisers, similar price"
+    },
+    {
+     "kind": "forum",
+     "url": "https://bushcraftusa.com/threads/pendleton-alternative.282911/",
+     "note": "BradGad: \"Filson seems to still be making top notch stuff.\"; also jdt81, KuRUpTD, pirogue"
+    }
+   ]
+  },
+  {
+   "name": "Johnson Woolen Mills",
+   "slug": "johnson-woolen-mills",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://bushcraftusa.com/threads/pendleton-alternative.282911/",
+     "note": "Seacapt.: \"rugged wool USA made shirts\"; seconded by VTbow and Timex"
+    }
+   ]
+  },
+  {
+   "name": "J.Crew",
+   "slug": "j-crew",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#14: cheaper option"
+    }
+   ]
+  },
+  {
+   "name": "Taylor Stitch",
+   "slug": "taylor-stitch",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#7: cheaper option in organic cotton, hemp and wool"
+    }
+   ]
+  },
+  {
+   "name": "Barbour",
+   "slug": "barbour",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#4: heritage style and relaxed fits"
+    }
+   ]
+  },
+  {
+   "name": "3sixteen",
+   "slug": "3sixteen",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#10: heritage aesthetic, premium natural fibers"
+    }
+   ]
+  },
+  {
+   "name": "Faherty",
+   "slug": "faherty",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#22: blanket-stripe patterning and flannel shirting"
+    }
+   ]
+  },
+  {
+   "name": "Uniqlo",
+   "slug": "uniqlo",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/brands-like-pendleton",
+     "note": "#5: casual clothing for men, women and kids"
+    }
+   ]
+  },
+  {
+   "name": "Gitman",
+   "slug": "gitman",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#18: named \"Gitman Vintage\", heritage fabrics, similar price"
+    }
+   ]
+  },
+  {
+   "name": "Freenote Cloth",
+   "slug": "freenote-cloth",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#21: wool outerwear and heritage menswear"
+    }
+   ]
+  },
+  {
+   "name": "Schott NYC",
+   "slug": "schott-nyc",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://bushcraftusa.com/threads/pendleton-alternative.282911/",
+     "note": "Peter Roy: \"Stormy Kromer, Schott and Topo Designs all make wool shirts.\""
+    }
+   ]
+  },
+  {
+   "name": "Carhartt",
+   "slug": "carhartt",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#15"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/brands-like-pendleton",
+     "note": "#3: affordable outerwear and workwear"
+    }
+   ]
+  },
+  {
+   "name": "Patagonia",
+   "slug": "patagonia",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#16"
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/brands-like-pendleton",
+     "note": "#7"
+    }
+   ]
+  },
+  {
+   "name": "RRL",
+   "slug": "rrl",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#3"
+    }
+   ]
+  },
+  {
+   "name": "Nigel Cabourn",
+   "slug": "nigel-cabourn",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#5"
+    }
+   ]
+  },
+  {
+   "name": "Walker Slater",
+   "slug": "walker-slater",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#6"
+    }
+   ]
+  },
+  {
+   "name": "Chippewa Boots",
+   "slug": "chippewa",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#8"
+    }
+   ]
+  },
+  {
+   "name": "Billy Reid",
+   "slug": "billy-reid",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#9"
+    }
+   ]
+  },
+  {
+   "name": "Todd Snyder",
+   "slug": "todd-snyder",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#11"
+    }
+   ]
+  },
+  {
+   "name": "Johnston & Murphy",
+   "slug": "johnston-murphy",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#12"
+    }
+   ]
+  },
+  {
+   "name": "Howlin",
+   "slug": "howlin",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#13"
+    }
+   ]
+  },
+  {
+   "name": "Filippa K",
+   "slug": "filippa-k",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#17"
+    }
+   ]
+  },
+  {
+   "name": "Bleu de Paname",
+   "slug": "bleu-de-paname",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#19"
+    }
+   ]
+  },
+  {
+   "name": "Canada West Boots",
+   "slug": "canada-west-boots",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#20"
+    }
+   ]
+  },
+  {
+   "name": "Stetson",
+   "slug": "stetson",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#23"
+    }
+   ]
+  },
+  {
+   "name": "L.L.Bean",
+   "slug": "ll-bean",
+   "in_apart_pool": true,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/brands-like-pendleton",
+     "note": "#2"
+    }
+   ]
+  },
+  {
+   "name": "Levi's",
+   "slug": "levis",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/brands-like-pendleton",
+     "note": "#4"
+    }
+   ]
+  },
+  {
+   "name": "The North Face",
+   "slug": "the-north-face",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/brands-like-pendleton",
+     "note": "#6"
+    }
+   ]
+  },
+  {
+   "name": "Brooks Brothers",
+   "slug": "brooks-brothers",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/brands-like-pendleton",
+     "note": "#8"
+    }
+   ]
+  },
+  {
+   "name": "Ralph Lauren",
+   "slug": "ralph-lauren",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/brands-like-pendleton",
+     "note": "#9"
+    }
+   ]
+  },
+  {
+   "name": "REI",
+   "slug": "rei",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/brands-like-pendleton",
+     "note": "#10"
+    }
+   ]
+  },
+  {
+   "name": "Kitsbow",
+   "slug": "kitsbow",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://bushcraftusa.com/threads/pendleton-alternative.282911/",
+     "note": "Daniel Pack: \"Their Icon shirt is stupid expensive ($220)\""
+    }
+   ]
+  },
+  {
+   "name": "Icebreaker",
+   "slug": "icebreaker",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://bushcraftusa.com/threads/pendleton-alternative.282911/",
+     "note": "MattyWight: \"Icebreaker have some really good wool offerings\""
+    }
+   ]
+  },
+  {
+   "name": "Fjallraven",
+   "slug": "fjallraven",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://bushcraftusa.com/threads/pendleton-alternative.282911/",
+     "note": "MattyWight: \"as do fjallraven\""
+    }
+   ]
+  },
+  {
+   "name": "Bison Bushcraft",
+   "slug": "bison-bushcraft",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://bushcraftusa.com/threads/pendleton-alternative.282911/",
+     "note": "Ith: \"Bison bushcraft make good rugged wool shirt.\""
+    }
+   ]
+  },
+  {
+   "name": "Swanndri",
+   "slug": "swanndri",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://bushcraftusa.com/threads/pendleton-alternative.282911/",
+     "note": "Odd Fellow: \"I like the Swanndri wool shirt I have real well.\""
+    }
+   ]
+  },
+  {
+   "name": "Stormy Kromer",
+   "slug": "stormy-kromer",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://bushcraftusa.com/threads/pendleton-alternative.282911/",
+     "note": "Peter Roy: \"Stormy Kromer, Schott and Topo Designs all make wool shirts.\""
+    }
+   ]
+  },
+  {
+   "name": "Topo Designs",
+   "slug": "topo-designs",
+   "in_apart_pool": false,
+   "sources": [
+    {
+     "kind": "forum",
+     "url": "https://bushcraftusa.com/threads/pendleton-alternative.282911/",
+     "note": "Peter Roy: \"Stormy Kromer, Schott and Topo Designs all make wool shirts.\""
+    }
+   ]
+  }
+ ],
+ "picks": [
+  {
+   "slug": "woolrich",
+   "rank": 1,
+   "independent_sources": 3,
+   "single_source": false,
+   "price": {
+    "currency": "USD",
+    "min": 155,
+    "max": 195,
+    "min_usd": 155,
+    "max_usd": 195,
+    "fx_date": null,
+    "item_count": 12
+   },
+   "price_relation": "similar",
+   "reason": "Woolrich's US store sells checked cotton flannel shirts from $155 to $195, under Pendleton's $198 wool Board Shirt, in sizes to 3XL.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#1: \"Shares a heritage style and a focus on quality materials\""
+    },
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/brands-like-pendleton",
+     "note": "#1: recommended for wool blankets"
+    },
+    {
+     "kind": "forum",
+     "url": "https://bushcraftusa.com/threads/pendleton-alternative.282911/",
+     "note": "Unistat76: \"I'd say Woolrich\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "filson",
+   "rank": 2,
+   "independent_sources": 2,
+   "single_source": false,
+   "price": {
+    "currency": "USD",
+    "min": 99,
+    "max": 249,
+    "min_usd": 99,
+    "max_usd": 249,
+    "fx_date": null,
+    "item_count": 54
+   },
+   "price_relation": "similar",
+   "reason": "Filson's 8-oz. Wool Guide Shirt ($249) is a wool shirt near the Board Shirt's $198, and its $149 Alaskan Guide flannel comes in Long sizes.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#2: Mackinaw wool cruisers, similar price"
+    },
+    {
+     "kind": "forum",
+     "url": "https://bushcraftusa.com/threads/pendleton-alternative.282911/",
+     "note": "BradGad: \"Filson seems to still be making top notch stuff.\"; also jdt81, KuRUpTD, pirogue"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "johnson-woolen-mills",
+   "rank": 3,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 99.95,
+    "max": 259.95,
+    "min_usd": 99.95,
+    "max_usd": 259.95,
+    "fx_date": null,
+    "item_count": 10
+   },
+   "price_relation": "similar",
+   "reason": "Johnson Woolen Mills cuts and sews 85% wool button-down shirts at its Vermont mill from $169.95, under the $198 Board Shirt, in XS to 4XL and Tall.",
+   "evidence": [
+    {
+     "kind": "forum",
+     "url": "https://bushcraftusa.com/threads/pendleton-alternative.282911/",
+     "note": "Seacapt.: \"rugged wool USA made shirts\"; seconded by VTbow and Timex"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "j-crew",
+   "rank": 4,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 89.5,
+    "max": 168,
+    "min_usd": 89.5,
+    "max_usd": 168,
+    "fx_date": null,
+    "item_count": 12
+   },
+   "price_relation": "similar",
+   "reason": "J.Crew's Heavyweight chamois workshirt in Japanese cotton costs $168, the same as Pendleton's cotton chamois shirt, and its flannel workshirt is $128.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#14: cheaper option"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "taylor-stitch",
+   "rank": 5,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 118,
+    "max": 188,
+    "min_usd": 118,
+    "max_usd": 188,
+    "fx_date": null,
+    "item_count": 84
+   },
+   "price_relation": "similar",
+   "reason": "Taylor Stitch's Shore Shirt in Midnight Check Wool is 40% wool at $168, $30 under the Board Shirt, with free US shipping on any order.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#7: cheaper option in organic cotton, hemp and wool"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "barbour",
+   "rank": 6,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 100,
+    "max": 290,
+    "min_usd": 100,
+    "max_usd": 290,
+    "fx_date": null,
+    "item_count": 84
+   },
+   "price_relation": "similar",
+   "reason": "Barbour's US store sells tartan and check shirts from $100 to $290, with the Dunoon Tartan at $160, in Tailored, Regular and Authentic fits.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#4: heritage style and relaxed fits"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "3sixteen",
+   "rank": 7,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 175,
+    "max": 285,
+    "min_usd": 175,
+    "max_usd": 285,
+    "fx_date": null,
+    "item_count": 52
+   },
+   "price_relation": "similar",
+   "reason": "3sixteen's Crosscut Flannel ($285) is a Japanese cotton flannel kept in its line for over 18 years, washed after sewing to remove shrinkage.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#10: heritage aesthetic, premium natural fibers"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "faherty",
+   "rank": 8,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 148,
+    "max": 348,
+    "min_usd": 148,
+    "max_usd": 348,
+    "fx_date": null,
+    "item_count": 58
+   },
+   "price_relation": "similar",
+   "reason": "Faherty's Japanese Flannel Workshirt ($248) uses Banshu-region flannel, with 60-day returns and free shipping over $150, both matching Pendleton.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#22: blanket-stripe patterning and flannel shirting"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "uniqlo",
+   "rank": 9,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 49.9,
+    "max": 49.9,
+    "min_usd": 49.9,
+    "max_usd": 49.9,
+    "fx_date": null,
+    "item_count": 3
+   },
+   "price_relation": "cheaper",
+   "reason": "Uniqlo's checked and tartan flannel shirts are $49.90, about a quarter of the $198 Board Shirt, with free shipping over $99.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://plaintips.com/brands-like-pendleton",
+     "note": "#5: casual clothing for men, women and kids"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "gitman",
+   "rank": 10,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 250,
+    "max": 325,
+    "min_usd": 250,
+    "max_usd": 325,
+    "fx_date": null,
+    "item_count": 58
+   },
+   "price_relation": "pricier",
+   "reason": "Gitman makes its shirts in Lafayette, Tennessee, including a $295 flannel woven by Albini, with collars from 14½ to 22 and Big and Tall fits.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#18: named \"Gitman Vintage\", heritage fabrics, similar price"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "freenote-cloth",
+   "rank": 11,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 220,
+    "max": 360,
+    "min_usd": 220,
+    "max_usd": 360,
+    "fx_date": null,
+    "item_count": 83
+   },
+   "price_relation": "similar",
+   "reason": "Freenote Cloth sews its shirts in the US, including a 70% wool Japanese blend shirt at $340 and a Japanese denim western shirt at $320.",
+   "evidence": [
+    {
+     "kind": "serp_comention",
+     "url": "https://www.discobrands.co/blogs/14-brands-like-pendleton",
+     "note": "#21: wool outerwear and heritage menswear"
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  },
+  {
+   "slug": "schott-nyc",
+   "rank": 12,
+   "independent_sources": 1,
+   "single_source": true,
+   "price": {
+    "currency": "USD",
+    "min": 75,
+    "max": 490,
+    "min_usd": 75,
+    "max_usd": 490,
+    "fx_date": null,
+    "item_count": 21
+   },
+   "price_relation": "similar",
+   "reason": "Schott NYC's 7810 CPO Wool Shirt is a heavyweight 50% wool blend at $125, $73 under the Board Shirt, and its plaid CPO is $155.",
+   "evidence": [
+    {
+     "kind": "forum",
+     "url": "https://bushcraftusa.com/threads/pendleton-alternative.282911/",
+     "note": "Peter Roy: \"Stormy Kromer, Schott and Topo Designs all make wool shirts.\""
+    }
+   ],
+   "gate_gaps": [
+    "image_url"
+   ]
+  }
+ ],
+ "rejected": [
+  {
+   "slug": "carhartt",
+   "why": "unverified: carhartt.com men's shirts returned HTTP 403 to the bot UA (one try, no workaround); brand file already unverified. 2 sources."
+  },
+  {
+   "slug": "patagonia",
+   "why": "unverified: patagonia.com men's shirts served a 'System maintenance is in progress' page; brand file unverified. 2 sources."
+  },
+  {
+   "slug": "levis",
+   "why": "levi.com men's shirts returned HTTP 403 to curl and to WebFetch (Retry-After 10800); no shirts price. 1 source."
+  },
+  {
+   "slug": "walker-slater",
+   "why": "walkerslater.com returned HTTP 403 to curl and WebFetch. 1 source."
+  },
+  {
+   "slug": "billy-reid",
+   "why": "billyreid.com returned HTTP 403 to curl and WebFetch. 1 source."
+  },
+  {
+   "slug": "todd-snyder",
+   "why": "toddsnyder.com returned HTTP 403 to curl and WebFetch. 1 source."
+  },
+  {
+   "slug": "icebreaker",
+   "why": "icebreaker.com/en-us men's shirts returned HTTP 403 to curl and WebFetch. 1 source."
+  },
+  {
+   "slug": "nigel-cabourn",
+   "why": "nigelcabourn.com could not be reached from this session (proxy CONNECT 502, WebFetch ENOTFOUND: host outside the session's allowed network). Not a verdict on the brand. 1 source."
+  },
+  {
+   "slug": "kitsbow",
+   "why": "kitsbow.com redirects to kitsbow.treet.co, a resale storefront (HTTP 401); www.kitsbow.com unreachable. No new-stock store found; not a pick under enrich.md 4c. 1 source."
+  },
+  {
+   "slug": "swanndri",
+   "why": "Ships no US orders: 'We do not currently ship to the United States' (https://www.swanndri.co.nz/pages/delivery-information); no US store found. swanndri.com unreachable from this session. 1 source."
+  },
+  {
+   "slug": "stormy-kromer",
+   "why": "Verified store, but its men's shirts page holds one woven shirt (The Flannel Shirt $90–$100, made in Honduras); the rest are pullovers, sweatshirts and tees. Known for caps. Not picked: too thin a shirt range to carry a pick (https://www.stormykromer.com/mens-shirts/)."
+  },
+  {
+   "slug": "topo-designs",
+   "why": "Verified (bags brand); 8 regular-price woven shirts $89–$109 (Desert Shirt, Mountain Shirt Corduroy, Utility Shirt Moleskin), most of its shirts marked down Final Sale, no wool shirt. Not picked: bags-led, thin regular shirt range (https://topodesigns.com/collections/mens-shirts)."
+  },
+  {
+   "slug": "brooks-brothers",
+   "why": "Verified store; 45 of 69 sport shirts marked down, 12 regular $49.99–$395 (https://www.brooksbrothers.com/mens/sport-shirts?sz=300). Not picked: the one source (PlainTips) names it only as the oldest American clothier, no shirt link to Pendleton, and the brand file lacks returns_days and hq_country."
+  },
+  {
+   "slug": "ll-bean",
+   "why": "Not re-checked: brand file unverified (llbean.com firewall page to WebFetch on 2026-10-29 for the Filson page); the bot UA got 'Page Not Available' here. 1 source."
+  },
+  {
+   "slug": "ralph-lauren",
+   "why": "Not re-checked: brand file unverified (site refuses fetches). RRL is a Ralph Lauren label sold on ralphlauren.com. 1 source each."
+  },
+  {
+   "slug": "rrl",
+   "why": "See ralph-lauren: sold on ralphlauren.com, unverified."
+  },
+  {
+   "slug": "the-north-face",
+   "why": "Not re-checked: brand file unverified. Outerwear-led; 1 source."
+  },
+  {
+   "slug": "fjallraven",
+   "why": "Not re-checked: brand file unverified (fjallraven.com 403 on 2026-10-29). 1 source."
+  },
+  {
+   "slug": "rei",
+   "why": "Multi-brand retailer (kind retailer), not a shirt brand; not verified."
+  },
+  {
+   "slug": "chippewa",
+   "why": "Boots only; doesn't sell shirts."
+  },
+  {
+   "slug": "canada-west-boots",
+   "why": "Boots only; doesn't sell shirts."
+  },
+  {
+   "slug": "stetson",
+   "why": "Hats only in the source's own framing; not verified for shirts."
+  },
+  {
+   "slug": "johnston-murphy",
+   "why": "Footwear-led; not verified (over the 25-candidate cap)."
+  },
+  {
+   "slug": "howlin",
+   "why": "Knitwear (Shetland and mohair); not verified (over the cap)."
+  },
+  {
+   "slug": "filippa-k",
+   "why": "Not verified (over the 25-candidate cap); 1 source with no similarity reason."
+  },
+  {
+   "slug": "bleu-de-paname",
+   "why": "Not verified (over the cap); French workwear, 1 source."
+  },
+  {
+   "slug": "bison-bushcraft",
+   "why": "Not verified (over the cap); UK bushcraft wool shirts, 1 forum mention. Worth a check on a re-run."
+  }
+ ],
+ "human_check": [
+  {
+   "fact": "anchor known_for",
+   "url": "https://www.pendleton-usa.com/men/clothing/wool-shirts/",
+   "check": "known_for changed from 'Wool Clothing and Blankets' to 'Wool Shirts' (--overwrite) so the title is about clothing: '12 Brands Like Pendleton for Wool Shirts'. It's shared: confirm it also reads right as Pendleton's chip on the Filson page (coats-jackets)."
+  },
+  {
+   "fact": "J.Crew shirts price",
+   "url": "https://www.jcrew.com/plp/mens/categories/clothing/shirts",
+   "check": "Truncated: the server page holds 16 of 104 shirts. $89.50–$168 rests on 12 regular wovens; confirm no regular woven shirt sits outside it. Label stays 'similar' unless one is under $88 and the max under $88."
+  },
+  {
+   "fact": "Uniqlo shirts price",
+   "url": "https://www.uniqlo.com/us/en/men/tops/casual-shirts",
+   "check": "Read by WebFetch only (curl got an empty reply). Three flannels at $49.90, no Sale flag; Oxford and Broadcloth shirts showed no price. If they're above $88 the label changes from 'cheaper' to 'similar' and the body's 'three for less than one Board Shirt' still holds."
+  },
+  {
+   "fact": "Gitman naming",
+   "url": "https://www.gitman.com/",
+   "check": "Disco names 'Gitman Vintage'; the store sells everything as 'Gitman' (made in Lafayette, TN). Brand file slug 'gitman'. Confirm the name, and founded_year (1932 Ashland Shirt & Pajama vs 'Since 1978, Gitman Bros.')."
+  },
+  {
+   "fact": "pick check: Carhartt / Patagonia / L.L.Bean",
+   "url": "https://www.carhartt.com/c/men-shirts",
+   "check": "Blocked or unverified brands named by the sources (Carhartt and Patagonia twice each). If a human can read their shirt pages they'd likely rank in the top six."
+  },
+  {
+   "fact": "Faherty hq_country",
+   "url": "https://en.wikipedia.org/wiki/Faherty_Brand",
+   "check": "hq_country US rests on Wikipedia's 'an American clothing company'; its own site names no headquarters."
+  }
+ ],
+ "checked_at": "2026-10-29",
+ "fx": {
+  "source": null,
+  "date": null,
+  "note": "Every price is USD from each store's US storefront (Barbour's /us store shows data-product-currency USD); no conversion needed."
+ },
+ "notes": [
+  "Anchor verified: Pendleton US store live, men's shirts $88–$230 regular (70 tiles across Wool Shirts and Cotton & Linen Shirts, 38 marked down excluded), XS–5X with Tall M–3X, US and Puerto Rico only, free shipping at $150, 60-day returns. Only image_url missing.",
+  "12 picks pass enrich.md §3. Sources: 2 editorial pages (Disco directory, PlainTips) and 1 forum thread (Bushcraft USA, wool shirts). Woolrich has 3 sources, Filson 2, the rest 1 each. Reddit (5 threads), YouTube, TollBit-gated forums (Ask Andy x2, ArcheryTalk), blanket articles and scraped lists not used.",
+  "25 candidates verified this run (most-sourced first, footwear/hat brands skipped). Price labels against Pendleton's $88–$230: Uniqlo cheaper, Gitman pricier, the other 10 similar.",
+  "New brand files: gitman, johnson-woolen-mills, faherty. Shirts prices added (no existing shirts entries to overwrite) for woolrich, filson, taylor-stitch, schott-nyc, 3sixteen, freenote-cloth, barbour, j-crew, uniqlo. Shared size_range values on some files describe other categories (3sixteen, Freenote and J.Crew waists; Barbour's Bedale chest), so the copy states shirt sizes itself."
+ ],
+ "author": "Ash",
+ "copy": {
+  "intro": "You want another Pendleton Board Shirt, and the next one is $198. Or you want plaid wool that's sewn in the US, and the Board Shirt is assembled in El Salvador. These are the shirt makers people suggest instead, most recommended first. Prices run from a $49.90 flannel to a $340 Japanese wool blend sewn in the US.",
+  "bodies": {
+   "woolrich": "Woolrich is the name people put next to Pendleton most often, and its flannels cost less than a Board Shirt. The Button-Down Checked Shirt in Pure Cotton Flannel ($155) is the cheapest way in, and the Warren Checked Shirt ($185) is the step up.\n\nHere's the catch. Every regular-price shirt in its men's range is cotton, and the Button-Down's flannel is lightweight, where the Board Shirt's wool is midweight. Wool only shows up in its quilted and padded overshirts, which start at $435 and sit closer to jackets.\n\nSizes go to 3XL. Free shipping needs $200, above Pendleton's $150 line, and returns close after 30 days rather than 60. If it's the wool you're after, Johnson Woolen Mills is the closer match.",
+   "filson": "Filson's 8-oz. Wool Guide Shirt ($249) is the straight swap for a Board Shirt, if you'll pay $51 more for it. For less, the Alaskan Guide Shirt ($149) is its cotton flannel, brushed on both sides. A box pleat across the back lets you reach and swing without the shirt pulling.\n\nStart with the Alaskan Guide if you're testing the fit. Filson cuts it in Long sizes from M to 2XL, which helps if you wear Pendleton's Tall. Regular sizes stop at 3XL, though, and Pendleton goes to 5X.\n\nFree shipping starts at $99, and returns run 30 days. For a wool blend that costs less than either, Schott's CPO shirts start at $125.",
+   "johnson-woolen-mills": "Johnson Woolen Mills is the one to pick if you want plaid wool cut and sewn in the US. It's been a family business in Johnson, Vermont, since 1842, and its Wool Button Down Shirt ($169.95) costs less than a Board Shirt.\n\nThe cloth is 85% wool and 15% nylon, at 18 or 20 ounces, and that shirt is cut short to wear untucked. If you tuck in, get the Long Tail Wool Button Down ($169.95 to $199.95) instead. It goes up to 4XL and comes in a Tall version for anyone who wears Pendleton's Tall.\n\nThe trade-off is range. You get a handful of plaids, not racks of them, and free shipping needs $200, so a single shirt ships for $12.99. Orders can go to Canada too.",
+   "j-crew": "J.Crew lines up with Pendleton's cotton shirts rather than its wool ones. The Brushed cotton flannel workshirt ($128) costs $10 more than Pendleton's Burnside Cotton Flannel Shirt, and the Heavyweight chamois workshirt in Japanese cotton ($168) is the best seller to start with. The flannel is the cheaper test of the look, at $40 less.\n\nThat chamois shirt is a straight price match. Pendleton's own Painted Hills Cotton Chamois Shirt is also $168, so you're choosing on fabric and fit, not cost. And if you just want a plain button-down, J.Crew's poplin shirts start at $89.50.\n\nSkip it if wool is the point. Taylor Stitch's wool-blend Shore Shirt costs the same $168.",
+   "taylor-stitch": "Taylor Stitch splits the difference between a cotton flannel and a Board Shirt. The Shore Shirt in Midnight Check Wool ($168) is 60% organic cotton and 40% wool, at $30 less than Pendleton's all-wool shirt.\n\nThere's no pricey tier to wander into, since every shirt sits between $118 and $188. The Shore Shirt has a camp collar and two flap pockets, and it's made in China. If you'd rather start cheaper, the Jack in Blue Everyday Oxford ($118) is the lowest price in the range.\n\nUS shipping is free on any order. But returns close after 21 days, a third of Pendleton's window, and sizes stop at XXL. If you wear Pendleton's Big or Tall sizes, Johnson Woolen Mills fits you better.",
+   "barbour": "Barbour brings the tartan, at prices that mostly sit under Pendleton's. The Dunoon Tartan Authentic-Fit Long-Sleeved Shirt ($160) is the one to start with, at $38 under a Board Shirt. The Cliff Regular-Fit Long-Sleeved Shirt ($100) is the cheapest.\n\nRead the fit in the name before you buy. Barbour labels each shirt Tailored, Regular, Authentic-Fit or Relaxed. The same tartan can come in more than one cut (the Dunoon comes Authentic-Fit and Tailored), so check which one you're adding to the bag.\n\nThe collaborations cost more. Paul Smith Loves Barbour is $200 and the Barbour x Norbit check shirt is $290. Free US shipping starts at $100, and returns run 30 days.",
+   "3sixteen": "3sixteen is for someone who'd rather own one very good flannel than three cheap ones. The Crosscut Flannel ($285) has been in its line for more than 18 years, in a coarse, loosely woven Japanese cotton that's washed after sewing to take the shrinkage out.\n\nThat's $87 more than a Board Shirt, and it's cotton, not wool. The money goes on the cloth and the details: a crossed back yoke and enamel-coated buttons that chip over time. Shirts here start at $175, and sizes stop at 2X.\n\nReturns are tight, with 10 days to send something back. If that window worries you, Faherty's Japanese flannel comes with 60. And if it's Japanese wool you want, Freenote's Dayton LS Harlequin is $340.",
+   "faherty": "Faherty sells Japanese flannel for less than 3sixteen does. Its Japanese Flannel Workshirt ($248) uses flannel from Japan's Banshu region, in a relaxed fit with a 30-inch length. That's $37 under 3sixteen's Crosscut.\n\nThe Laundered Oxford Shirt ($148) is the cheaper start, and the Sashiko Indigo Workshirt ($348) is the top of the range. Men's button-ups come in XS to XXL, and free shipping starts at $150, the same line as Pendleton's.\n\nReturns run 60 days, which matches Pendleton. Faherty also has more than 80 stores across the US, so you can try a relaxed fit on before you commit. It ships to Canada and the UK as well, which Pendleton doesn't.",
+   "uniqlo": "Uniqlo is the budget answer, and the gap is big. Its flannels are $49.90, so three of them cost less than one Board Shirt.\n\nThe Flannel Checked Shirt is the one to start with, and the Tartan Check and Ombre Check versions cost the same. Pendleton's Burnside Cotton Flannel Shirt is $118, more than twice as much. That makes Uniqlo the low-risk way to find out whether you'll actually wear a plaid flannel before you spend on a wool one.\n\nFree shipping needs $99, so one shirt won't get you there, and returns run 30 days. If you want a step up without Pendleton's price, Schott's cotton flannel work shirts start at $80.",
+   "gitman": "Gitman is the pick for a flannel sewn in the US, if you don't mind paying past Pendleton's top price. Its shirts are made in Lafayette, Tennessee, and the Tan Flannel ($295) is cut from brushed flannel woven by Italy's Albini mill.\n\nNothing is cheap here. The range starts at $250 with the Indigo Denim Shirt, so even the entry shirt costs more than a Board Shirt. What you get for it is fit: Tailored, Regular and Classic cuts, plus Big and Tall dress shirts, with collars from 14½ to 22.\n\nStandard US shipping is free. But you only get 14 days to ask for a return on a full-price shirt, so know your collar size first.",
+   "freenote-cloth": "Freenote Cloth is the pick for a western shirt sewn in the US. The Sinclair Royal Blue Denim ($320) is its sawtooth western, in 10-ounce Japanese denim with rope-rimmed snaps.\n\nIf you want wool, the Dayton LS Harlequin ($340) is a 70% wool blend from Japan with a camp collar. Both cost well over Pendleton's Snap-Front Western Canyon Shirt ($210), and even the cheapest shirt here, the Dayton Chambray, is $220.\n\nReturns are the catch. You get 7 days, the shortest window on this list, so check the size chart before you order. Shirts are cut S to XXL, so the Big and Tall sizes Pendleton and Johnson Woolen Mills carry aren't an option here.",
+   "schott-nyc": "Schott NYC has the cheapest wool-blend shirt on this list. The 7810 CPO Wool Shirt ($125) is a heavyweight 50% wool and poly blend with anchor buttons, a 30-inch back and two upper pockets.\n\nThe plaid version, the 7310P ($155), is a 20-ounce wool blend, closer to the look of a Pendleton plaid. Both are imported, and the CPO goes up to 3XL. If you'd rather skip the wool, Schott's cotton flannel work shirts start at $80.\n\nDon't let the price range put you off. The $490 at the top is a cowhide western shirt, and the cloth shirts all sit near the bottom. Free US shipping starts at $100."
+  },
+  "best_for": {
+   "woolrich": "a checked cotton flannel for less than a Board Shirt",
+   "filson": "a wool guide shirt with Long sizes",
+   "johnson-woolen-mills": "Vermont-sewn plaid wool, including Tall sizes",
+   "j-crew": "a cotton chamois or flannel workshirt under $170",
+   "taylor-stitch": "half-wool plaid for $30 less than a Board Shirt",
+   "barbour": "a tartan shirt with a choice of cuts",
+   "3sixteen": "one long-running Japanese flannel worth paying up for",
+   "faherty": "Japanese flannel you can try on in a store",
+   "uniqlo": "three plaid flannels for the price of one Board Shirt",
+   "gitman": "a Tennessee-sewn flannel in your exact collar size",
+   "freenote-cloth": "a US-sewn western shirt in Japanese denim or wool",
+   "schott-nyc": "a wool-blend CPO shirt for well under $150"
+  },
+  "closing": {
+   "heading": "How to choose",
+   "body": "Start with what you like about the Board Shirt. If it's the wool, Johnson Woolen Mills sews plaid wool in Vermont for less, and Filson's Wool Guide Shirt costs a little more. Schott's CPO is the cheapest wool blend at $125, and Taylor Stitch's half-wool Shore Shirt is $168.\n\nIf it's the plaid and wool doesn't matter, Woolrich and Barbour both have shirts under $200, and Uniqlo is the $49.90 test run. For Japanese cloth, 3sixteen and Faherty make the flannels and Freenote does denim westerns. Pay up for Gitman if your collar size is hard to find. For Tall sizes, try Filson's Long or Johnson Woolen Mills' Tall shirts."
+  },
+  "faqs": [
+   {
+    "q": "What is a Pendleton Board Shirt?",
+    "a": "It's Pendleton's all-wool shirt: 100% pure virgin wool in a midweight fabric that resists water, odor and stains, with two flap chest pockets and a square bottom. It's $198 at full price.",
+    "source_query": "what is a pendleton board shirt"
+   },
+   {
+    "q": "How do you wash a Pendleton wool shirt?",
+    "a": "The Board Shirt is machine washable. Wash it cold on a gentle cycle with no bleach, line dry it, and steam press it with a warm iron if it needs it.",
+    "source_query": "how to wash pendleton wool shirt"
+   },
+   {
+    "q": "Where do they make Pendleton shirts?",
+    "a": "The fabric is woven in Pendleton's own mills in Oregon and Washington, from wool raised near its Pendleton, Oregon mill. The Board Shirt itself is assembled abroad, in El Salvador, from that US-made fabric.",
+    "source_query": "brands like pendleton",
+    "source": "people_also_ask"
+   },
+   {
+    "q": "What is an American brand of wool clothing?",
+    "a": "Pendleton is one, and it weaves its own wool in Oregon and Washington. Johnson Woolen Mills goes further: it cuts and sews its wool shirts at its mill in Johnson, Vermont, a family business since 1842.",
+    "source_query": "brands like pendleton",
+    "source": "people_also_ask"
+   }
+  ]
+ }
+}

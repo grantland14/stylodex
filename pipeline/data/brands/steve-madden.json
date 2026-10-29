@@ -1,0 +1,58 @@
+{
+  "slug": "steve-madden",
+  "name": "Steve Madden",
+  "website_url": "https://www.stevemadden.com",
+  "kind": "brand",
+  "known_for": "Shoes, Handbags and Apparel",
+  "hq_country": "US",
+  "founded_year": 1990,
+  "parent_company": null,
+  "size_range": "Women 5–14; men 5.5–17",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 99,
+  "returns_days": 30,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "sneakers",
+      "currency": "USD",
+      "min": 74.95,
+      "max": 169.95,
+      "min_usd": 74.95,
+      "max_usd": 169.95,
+      "fx_date": null,
+      "item_count": 61,
+      "source_url": "https://www.stevemadden.com/collections/womens-sneakers/products.json",
+      "checked_at": "2026-10-29",
+      "note": "61 regular-price sneakers (115 marked-down products excluded). Shopify womens-sneakers and mens-sneakers collections, bundles excluded; a product with any marked-down variant excluded (most of the range is marked down). Low: CATCHER WHITE SUEDE $74.95; MOVEMENT $75; high: MAVIS sneakers $159.95–$169.95."
+    }
+  ],
+  "production_model": null,
+  "materials": [],
+  "certifications": [],
+  "sale_pattern": null,
+  "sources": [
+    "https://www.stevemadden.com/collections/womens-sneakers/products.json",
+    "https://www.stevemadden.com/collections/mens-sneakers/products.json",
+    "https://www.stevemadden.com/policies/shipping-policy",
+    "https://www.stevemadden.com/policies/refund-policy",
+    "https://www.stevemadden.com/pages/about-steve-madden",
+    "https://en.wikipedia.org/wiki/Steve_Madden"
+  ],
+  "notes": [
+    "About page: 'What started as a $1,100 investment in 1990'; 'From a factory in Queens'; 'Rooted in New York'. Wikipedia: started in 1990 with $1,100.",
+    "Shipping policy table: Standard $8.95, free on $99+ (3-7 business days); SM Pass members free over $75.",
+    "Refund policy: unworn returns within 30 days of delivery; clearance (price ending .99) final sale; online returns accepted at Steve Madden stores in the USA, so us_stores true.",
+    "Meta description: 'Shop your favorite Steve Madden shoes, handbags, apparel and accessories.'"
+  ],
+  "status": "verified",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "sells_categories": [
+    "sneakers"
+  ],
+  "checked_at": "2026-10-29"
+}

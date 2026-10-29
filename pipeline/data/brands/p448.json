@@ -1,0 +1,66 @@
+{
+  "slug": "p448",
+  "name": "P448",
+  "website_url": "https://us.p448.com",
+  "kind": "brand",
+  "known_for": "Italian Luxury Sneakers",
+  "hq_country": "IT",
+  "founded_year": 2014,
+  "parent_company": null,
+  "size_range": "EU 35–50, a few styles to 55",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "sneakers",
+      "currency": "USD",
+      "min": 225.0,
+      "max": 345.0,
+      "min_usd": 225.0,
+      "max_usd": 345.0,
+      "fx_date": null,
+      "item_count": 114,
+      "source_url": "https://us.p448.com/products.json",
+      "checked_at": "2026-10-29",
+      "note": "114 regular-price sneakers (36 marked-down products excluded). US store (us.p448.com, USD; p448.com is the EUR store). Product types Mens/Womens (all sneaker models). Low: Jesse Pink $225; John White - Gold $235; Jack models $245; high: Antibes Suede $345. Marked down e.g. Jack Terra $196 (was $245), excluded."
+    }
+  ],
+  "production_model": "Handcrafted in Marche, Italy",
+  "materials": [
+    "Leather"
+  ],
+  "certifications": [],
+  "sale_pattern": null,
+  "sources": [
+    "https://us.p448.com/products.json",
+    "https://us.p448.com/",
+    "https://us.p448.com/pages/faq",
+    "https://us.p448.com/pages/about-us",
+    "https://us.p448.com/policies/shipping-policy",
+    "https://us.p448.com/policies/refund-policy",
+    "https://fashionunited.uk/news/business/italian-sneaker-brand-p448-acquired-by-streettrend-and-investment-firm-panda/2018071730803"
+  ],
+  "notes": [
+    "us.p448.com returned 503 to one curl, then served normally on retry (StylodexBot UA); WebFetch confirmed 'United States / USD'.",
+    "Free-shipping threshold conflicts: homepage banner and FAQ say 'Free shipping on US orders $200+', the shipping policy says free ground over $300 and a flat $9 below. Left empty.",
+    "FAQ: 'Duties and taxes are included with every order, so the price you see is the price you pay'; 'Our sneakers are all designed and locally sourced in Italy', made in factories in Italy and Spain. About page: 'Handcrafted in Marche, Italy'; footer P448 s.r.l. with an Italian VAT number.",
+    "Refund policy: returns within 14 days of receiving the order; '$8 processing fee' deducted from every refund.",
+    "Shipping policy: 'We ship to all countries from our US site excluding Australia and New Zealand.'",
+    "Sizes: Size options EU 35–50 across most styles; 51–55 on a handful of men's styles. FAQ: 'P448 sizing is unique and sneaker specific'.",
+    "FashionUnited (2018): 'First launched in 2014' by Italian designers Andrea Curti and Marco Samorè; StreetTrend LLC and Panda srl bought a majority stake."
+  ],
+  "status": "verified",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "sells_categories": [
+    "sneakers"
+  ],
+  "checked_at": "2026-10-29"
+}

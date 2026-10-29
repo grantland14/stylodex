@@ -1,0 +1,56 @@
+{
+  "slug": "olukai",
+  "name": "OluKai",
+  "website_url": "https://olukai.com",
+  "kind": "brand",
+  "known_for": "Hawaiian-Inspired Handmade Footwear",
+  "hq_country": "US",
+  "founded_year": 2005,
+  "parent_company": null,
+  "size_range": "Men 7–15; women 5–12",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 120,
+  "returns_days": 30,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "sneakers",
+      "currency": "USD",
+      "min": 100.0,
+      "max": 160.0,
+      "min_usd": 100.0,
+      "max_usd": 160.0,
+      "fx_date": null,
+      "item_count": 72,
+      "source_url": "https://olukai.com/collections/mens-sneakers/products.json",
+      "checked_at": "2026-10-29",
+      "note": "72 regular-price sneakers (0 marked-down products excluded). Shopify mens-sneakers and womens-sneakers collections, insoles excluded, no markdowns. Low: Pehuea Lī $100 (women's); Mio Lī $140; high: Kou Lace Up $160."
+    }
+  ],
+  "production_model": null,
+  "materials": [],
+  "certifications": [],
+  "sale_pattern": null,
+  "sources": [
+    "https://olukai.com/collections/mens-sneakers/products.json",
+    "https://olukai.com/collections/womens-sneakers/products.json",
+    "https://olukai.com/pages/about",
+    "https://olukai.com/pages/olukai-help-center",
+    "https://olukai.com/policies/refund-policy"
+  ],
+  "notes": [
+    "About: 'Our story began in 2005'; 'Inspired by the Hawaiian islands'; 'Free Standard Shipping for Orders $120+.' Meta: 'Durable, Handmade, Premium Footwear'.",
+    "Help center: headquarters 10 Faraday, Irvine, CA 92618; ships from Henderson, NV and Surrey, BC; 'We also have retail stores in Hawai‘i.' us_stores true.",
+    "Refund policy: non-warranty returns within 30 days of purchase; free exchanges, free returns for store credit."
+  ],
+  "status": "verified",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "sells_categories": [
+    "sneakers"
+  ],
+  "checked_at": "2026-10-29"
+}

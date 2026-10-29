@@ -1,0 +1,62 @@
+{
+  "slug": "golden-goose",
+  "name": "Golden Goose",
+  "website_url": "https://www.goldengoose.com/us/en/",
+  "kind": "brand",
+  "known_for": "Distressed Handmade Italian Sneakers",
+  "hq_country": "IT",
+  "founded_year": 2000,
+  "parent_company": "HSG",
+  "size_range": "Women US 4–12; men US 6–17",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "sneakers",
+      "currency": "USD",
+      "min": 350.0,
+      "max": 2520.0,
+      "min_usd": 350.0,
+      "max_usd": 2520.0,
+      "fx_date": null,
+      "item_count": 881,
+      "source_url": "https://www.goldengoose.com/us/en/ls/women/sneakers-w-en_us?start=0&sz=600",
+      "checked_at": "2026-10-29",
+      "note": "US store (USD). Women's (548 products) and men's (346) sneaker grids read in full via ?start=0&sz=600; 881 unique items in /sneakers/ categories, every one with discount 0 and price = item_fullprice in the tile analytics. Boots, sandals and loafers excluded. Low: Yatay Model 1B sneakers $350; Super-Star from $580 (men's super-star in leather with black star); Ball Star from $595; high: Swarovski Francy, Forty2 and Slide Lab styles $2,520. Most common prices $695, $660, $790."
+    }
+  ],
+  "production_model": "Handmade in Italy",
+  "materials": [],
+  "certifications": [],
+  "sale_pattern": null,
+  "sources": [
+    "https://www.goldengoose.com/us/en/ls/women/sneakers-w-en_us?start=0&sz=600",
+    "https://www.goldengoose.com/us/en/ls/men/sneakers-m-en_us?start=0&sz=600",
+    "https://www.goldengoose.com/us/en/women%E2%80%99s-super-star-in-brown-suede-with-white-star-cod-GWF01016.F008949.55827.html",
+    "https://www.goldengoose.com/us/en/shipping.html",
+    "https://www.goldengoose.com/us/en/returns.html",
+    "https://www.goldengoose.com/us/en/frequently-asked-questions/size-guide.html",
+    "https://www.goldengoose.com/us/en/store-locator",
+    "https://en.wikipedia.org/wiki/Golden_Goose_Deluxe_Brand"
+  ],
+  "notes": [
+    "Super-Star product page (women's, brown suede, $640): 'Lived-in effect', 'Handmade', 'Made in Italy'; footer: 'We like things that are lived-in, distressed, touched with life.' known_for paraphrases these.",
+    "Shipping page: standard delivery 3-5 working days; products ship 'from both our US warehouse and our headquarters in Italy'. No fee or free-shipping threshold stated, so free_shipping_min_usd left empty. Duties not mentioned.",
+    "Returns page: 'You can return any product purchased on goldengoose.com within 14 days from the date of delivery'; 'Making a return, whether online or in store, is free' (mail-return instructions also say the shipping cost is deducted from the refund).",
+    "Size guide: women's sneakers IT 34–42 = US 4–12; men's IT 39–50 = US 6–17. No fit advice per model.",
+    "Store locator lists 'Stores in United States' incl. Aspen (419 East Hyman Ave), Boston (Copley Place, 100 Huntington Ave), Chicago (40 E Oak St).",
+    "Wikipedia (Golden Goose Deluxe Brand): founded 2000 in Marghera near Venice by Alessandro Gallo and Francesca Rinaldo; HQ Milan since 2021; HSG (HongShan) bought a majority stake in December 2025, Temasek/True Light Capital minority. Footer: Golden Goose SpA, Via Privata E. Marelli 10, Milan."
+  ],
+  "status": "verified",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "sells_categories": [
+    "sneakers"
+  ],
+  "checked_at": "2026-10-29"
+}

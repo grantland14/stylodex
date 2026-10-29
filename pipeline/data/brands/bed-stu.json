@@ -1,0 +1,59 @@
+{
+  "slug": "bed-stu",
+  "name": "Bed Stu",
+  "website_url": "https://www.bedstu.com",
+  "kind": "brand",
+  "known_for": "Vegetable-Tanned Leather Shoes",
+  "hq_country": "US",
+  "founded_year": 1995,
+  "parent_company": null,
+  "size_range": "Men 7–13; women 5–12",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 149,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "sneakers",
+      "currency": "USD",
+      "min": 195.0,
+      "max": 285.0,
+      "min_usd": 195.0,
+      "max_usd": 285.0,
+      "fx_date": null,
+      "item_count": 25,
+      "source_url": "https://www.bedstu.com/collections/his-her-sneakers/products.json",
+      "checked_at": "2026-10-29",
+      "note": "25 regular-price sneakers (0 marked-down products excluded). Shopify his-her-sneakers collection, no markdowns. Low: Harry, Hermione, Cayuga II $195; high: Condor $275, Lynox $285."
+    }
+  ],
+  "production_model": "Mostly handmade in León, Mexico",
+  "materials": [
+    "Vegetable-tanned leather"
+  ],
+  "certifications": [],
+  "sale_pattern": null,
+  "sources": [
+    "https://www.bedstu.com/collections/his-her-sneakers/products.json",
+    "https://www.bedstu.com/pages/our-history",
+    "https://www.bedstu.com/pages/faqs",
+    "https://www.bedstu.com/policies/shipping-policy",
+    "https://www.bedstu.com/policies/refund-policy"
+  ],
+  "notes": [
+    "Our history: 'In 1995, we took a leap of faith'; family-owned factory opened by the creative director, who grew up in León, México; 'our big move to Texas' (Dallas area).",
+    "FAQ: 'The majority of BED|STÜ pieces are handmade in our family-owned factory in León, Mexico'; 100% vegetable-tanned full-grain leather; many styles Goodyear welted.",
+    "Shipping: free UPS Ground within the contiguous US on orders $149+. Refunds: returns and exchanges within 30 days of purchase; $10 restocking fee on refunds without Redo ($5 for exchange/store credit).",
+    "Modest Man named the Holmes and Brentwood; neither is in the current sneaker collection."
+  ],
+  "status": "verified",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "sells_categories": [
+    "sneakers"
+  ],
+  "checked_at": "2026-10-29"
+}

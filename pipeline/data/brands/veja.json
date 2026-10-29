@@ -1,0 +1,57 @@
+{
+  "slug": "veja",
+  "name": "Veja",
+  "website_url": "https://www.veja-store.com/en_us/",
+  "kind": "brand",
+  "known_for": "Sneakers Made in Brazil",
+  "hq_country": "FR",
+  "founded_year": 2004,
+  "parent_company": null,
+  "size_range": "EU 35–49",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 95,
+  "returns_days": 28,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "sneakers",
+      "currency": "USD",
+      "min": 135.0,
+      "max": 330.0,
+      "min_usd": 135.0,
+      "max_usd": 330.0,
+      "fx_date": null,
+      "item_count": 333,
+      "source_url": "https://www.veja-store.com/en_us/women?sz=500",
+      "checked_at": "2026-10-29",
+      "note": "US store (en_us, USD). Women's and men's grids read with ?sz=500: 382 unique tiles, all with discount 0. Laces, socks, totes, care products and 27 sandals (Arpoador etc.) excluded: 333 shoes. Low: URCA CWL $135; ETNA $140; CAMPO LEATHER WHITE NATURAL $175; high: PAULISTANA NOLYN VEJA X MISCI $310–$330."
+    }
+  ],
+  "production_model": "Made in Brazil",
+  "materials": [],
+  "certifications": [],
+  "sale_pattern": null,
+  "sources": [
+    "https://www.veja-store.com/en_us/women?sz=500",
+    "https://www.veja-store.com/en_us/men?sz=500",
+    "https://www.veja-store.com/en_us/women-sandals",
+    "https://www.veja-store.com/en_us/p/campo-leather-white-natural-CP0502429.html",
+    "https://www.veja-store.com/en_us/faq",
+    "https://en.wikipedia.org/wiki/Veja_(brand)"
+  ],
+  "notes": [
+    "FAQ (US): free FedEx Standard over $95, $15 below; 28 days to return; 'Returns are free for orders over $95'; 'VEJA sneakers are produced in Brazil'; 'Since 2005, VEJA has been creating sneakers differently'.",
+    "Campo Leather White Natural ($175) page: 'Made in Brazil'; leather sourced from southern Brazil and Uruguay; sizes listed 35–49; banner 'FREE SHIPPING AND RETURNS ON ALL ORDERS OVER $95'.",
+    "Wikipedia: founded August 23, 2004 by Sébastien Kopp and François-Ghislain Morillion; HQ Paris, France; Brazil production from 2005."
+  ],
+  "status": "verified",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "sells_categories": [
+    "sneakers"
+  ],
+  "checked_at": "2026-10-29"
+}

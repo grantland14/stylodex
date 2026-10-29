@@ -1,0 +1,57 @@
+{
+  "slug": "vintage-havana",
+  "name": "Vintage Havana",
+  "website_url": "https://www.vintagehavana.com",
+  "kind": "brand",
+  "known_for": "Trendy Fashion at a Price",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "Women 5.5–11",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "sneakers",
+      "currency": "USD",
+      "min": 50.0,
+      "max": 155.0,
+      "min_usd": 50.0,
+      "max_usd": 155.0,
+      "fx_date": null,
+      "item_count": 79,
+      "source_url": "https://www.vintagehavana.com/collections/all-sneakers/products.json",
+      "checked_at": "2026-10-29",
+      "note": "79 regular-price sneakers (66 marked-down products excluded). Shopify all-sneakers collection, product_type Footwear, kids and boots excluded. Low: IMPRESS - BLACK $50; Becks $65; Noah $120; Denisse - Taupe Olive $125; high: MAJOR suede $155. Gadol Style 1 marked down ($39, was $110), excluded."
+    }
+  ],
+  "production_model": null,
+  "materials": [],
+  "certifications": [],
+  "sale_pattern": null,
+  "sources": [
+    "https://www.vintagehavana.com/collections/all-sneakers/products.json",
+    "https://www.vintagehavana.com/policies/shipping-policy",
+    "https://www.vintagehavana.com/policies/refund-policy",
+    "https://www.vintagehavana.com/"
+  ],
+  "notes": [
+    "Homepage title: 'Official Home of Vintage Havana. Trendy, On Fashion Items at a Price.' Meta: tops, dresses, sweaters, sweats, loungewear, shoes and resortwear.",
+    "Shipping policy: US orders via UPS/USPS $9.00 (3-6 business days), UPS 2 Day $19, Next Day $40; no free-shipping threshold. International $20–$135, taxes and duty not included.",
+    "Refund policy: returns postmarked within 14 days of receipt, unworn; shipping charges not refunded; sale merchandise final. FAQ adds a $9 restocking fee except exchanges/store credit.",
+    "Sizes from the collection's Size options: women's 5.5–11 (whole sizes from 9 up; 9.5 on 2 styles); kids' style sizes 1–13 excluded.",
+    "hq_country US rests on the store's own policies: US domestic rates, international = 'shipped outside the United States', returns to Rockville, MD. No About page found; founding year unknown."
+  ],
+  "status": "verified",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "sells_categories": [
+    "sneakers"
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "dolce-vita",
+  "name": "Dolce Vita",
+  "website_url": "https://www.dolcevita.com",
+  "kind": "brand",
+  "known_for": "On-Trend Shoes and Accessories",
+  "hq_country": "US",
+  "founded_year": 2001,
+  "parent_company": null,
+  "size_range": "Women 4–15; wide 6W–13W",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 125,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "sneakers",
+      "currency": "USD",
+      "min": 135.0,
+      "max": 165.0,
+      "min_usd": 135.0,
+      "max_usd": 165.0,
+      "fx_date": null,
+      "item_count": 27,
+      "source_url": "https://www.dolcevita.com/collections/shoes-sneakers/products.json",
+      "checked_at": "2026-10-29",
+      "note": "27 regular-price sneakers (70 marked-down products excluded). Shopify shoes-sneakers collection, titles containing SNEAKERS. Low: SOLO SNEAKERS $135; ZINA SNEAKERS $139 (several colorways, incl. Zina Wide); NANET SNEAKERS $150; high: TRESA and TRICIA SNEAKERS $165. Most Zina colorways marked down (e.g. Zina Zebra $69.99, was $139), excluded."
+    }
+  ],
+  "production_model": null,
+  "materials": [],
+  "certifications": [],
+  "sale_pattern": null,
+  "sources": [
+    "https://www.dolcevita.com/collections/shoes-sneakers/products.json",
+    "https://www.dolcevita.com/pages/about",
+    "https://www.dolcevita.com/pages/shipping",
+    "https://www.dolcevita.com/policies/refund-policy"
+  ],
+  "notes": [
+    "About: 'In 2001, amidst the vibrant energy of New York City's Lower East Side, Dolce Vita was born.'",
+    "Shipping: free ground on orders $125+ to US addresses (excl. AK, HI, territories); $8.95 standard below.",
+    "Refund policy: unworn returns within 30 days of delivery; clearance final sale; shipping not refundable.",
+    "Meta: 'on-trend sandals, sneakers, boots, heels, accessories'. Sizes from the sneaker collection's Size options: 4–15 with half sizes, wide 6W–13W.",
+    "Store locator is script-driven; us_stores left empty."
+  ],
+  "status": "verified",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "sells_categories": [
+    "sneakers"
+  ],
+  "checked_at": "2026-10-29"
+}

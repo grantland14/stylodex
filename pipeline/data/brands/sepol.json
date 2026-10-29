@@ -1,0 +1,58 @@
+{
+  "slug": "sepol",
+  "name": "Sepol",
+  "website_url": "https://www.sepolshoes.com",
+  "kind": "brand",
+  "known_for": "Handcrafted Leather Shoes",
+  "hq_country": "TR",
+  "founded_year": 1971,
+  "parent_company": null,
+  "size_range": "Men 6.5–14",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "sneakers",
+      "currency": "USD",
+      "min": 279.0,
+      "max": 409.9,
+      "min_usd": 279.0,
+      "max_usd": 409.9,
+      "fx_date": null,
+      "item_count": 36,
+      "source_url": "https://www.sepolshoes.com/collections/sneakers/products.json",
+      "checked_at": "2026-10-29",
+      "note": "36 regular-price sneakers (28 marked-down products excluded). Shopify sneakers collection, sneaker models only (belts, loafers, derbies, oxfords without 'sneaker' excluded). Low: Downtown Sneaker $279; Estrella Sneaker Denim Blue $299.90; New Estrella $349.90; high: Denver Sneaker and Zen Wholecut Oxford Sneaker $409.90. Several Estrella colorways marked down, excluded."
+    }
+  ],
+  "production_model": null,
+  "materials": [
+    "Leather"
+  ],
+  "certifications": [],
+  "sale_pattern": null,
+  "sources": [
+    "https://www.sepolshoes.com/collections/sneakers/products.json",
+    "https://www.sepolshoes.com/pages/about-us",
+    "https://www.sepolshoes.com/policies/shipping-policy",
+    "https://www.sepolshoes.com/policies/refund-policy"
+  ],
+  "notes": [
+    "About ('Family Shoemakers Since 1971'): founder Seyfettin Polat started in a shoemaking atelier in 1952 and set up his own factory in 1971 in Istanbul, Turkey. hq_country TR rests on this.",
+    "Shipping policy: 'FREE shipping on every order — no minimum'; 'U.S. orders only at this time'; some items 'Factory Direct Shipping — 2 to 3 weeks' from the artisans.",
+    "Refund policy: 30-day window from delivery, free returns and free size exchanges for eligible US orders.",
+    "Sizes 6.5–14 (men's) from Size options."
+  ],
+  "status": "verified",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "sells_categories": [
+    "sneakers"
+  ],
+  "checked_at": "2026-10-29"
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "freda-salvador",
+  "name": "Freda Salvador",
+  "website_url": "https://fredasalvador.com",
+  "kind": "brand",
+  "known_for": "Handcrafted Shoes for Women",
+  "hq_country": "US",
+  "founded_year": 2012,
+  "parent_company": null,
+  "size_range": "Women 5–11 with half sizes",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 14,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "sneakers",
+      "currency": "USD",
+      "min": 298.0,
+      "max": 378.0,
+      "min_usd": 298.0,
+      "max_usd": 378.0,
+      "fx_date": null,
+      "item_count": 7,
+      "source_url": "https://fredasalvador.com/collections/sneakers-1/products.json",
+      "checked_at": "2026-10-29",
+      "note": "7 regular-price sneakers (0 marked-down products excluded). Shopify sneakers-1 collection, no markdowns. Low: EDA D'ORSAY SNEAKER $298 (blush suede, white calf); shearling Eda $360; high: INDE SNEAKER (brown and white haircalf) $378."
+    }
+  ],
+  "production_model": "Handcrafted in Spain, Italy and El Salvador",
+  "materials": [],
+  "certifications": [],
+  "sale_pattern": null,
+  "sources": [
+    "https://fredasalvador.com/collections/sneakers-1/products.json",
+    "https://fredasalvador.com/pages/about-us",
+    "https://fredasalvador.com/pages/our-production",
+    "https://fredasalvador.com/pages/stores",
+    "https://fredasalvador.com/policies/refund-policy"
+  ],
+  "notes": [
+    "About: 'Founded by best friends Cristina Palomo Nelson and Megan Papay in 2012.' 'We are based in Sausalito, California.' 'Our products are handcrafted at heritage luxury factories in Spain, Italy and El Salvador.'",
+    "Stores page: Los Angeles (115 N Larchmont Blvd), New York City (83 Mercer St), San Francisco (Pacific Heights), Montecito. us_stores true.",
+    "Refund policy: 14 days on full-price items (7 days for 20%+ off); $12 restocking fee with the prepaid label; exchanges exempt.",
+    "Sizes 5–11 with half sizes from the sneaker Size options. No free-shipping threshold found."
+  ],
+  "status": "verified",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "sells_categories": [
+    "sneakers"
+  ],
+  "checked_at": "2026-10-29"
+}

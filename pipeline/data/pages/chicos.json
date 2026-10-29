@@ -1,0 +1,1398 @@
+{
+  "subject": "Chico's",
+  "slug": "chicos",
+  "url_prefix": "stores",
+  "category": {
+    "slug": "tops",
+    "name": "Tops",
+    "why": "Chico's sells its own label (kind brand), so C is a product type. It's known for tops, not dresses: its own copy names knit tops and No Iron shirts, the Travelers collection (top category page, est. 4,308 US visits/mo in Ahrefs top pages) is mostly tops, and tops pages lead its product-type traffic (tunics 2,498, tops 1,654, 3/4-sleeve tops 1,570, blouses and shirts 613, against dresses 2,152). Like-for-like item: women's tops (shirts, blouses, tees, tanks, knit tops, tunics) from each store's own tops category, sweaters, cardigans, jackets, vests, kimonos and pullovers excluded by name; prices are regular (not marked down) US prices. See each brand file's tops price note."
+  },
+  "checked_at": "2026-10-29",
+  "fx": null,
+  "serp": [
+    {
+      "keyword": "stores like chicos",
+      "position": 1,
+      "url": "https://awellstyledlife.com/clothes-for-older-mature-women-best-places-to-shop/",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch; a general 'where to shop over 50' guide, not an alternatives list"
+    },
+    {
+      "keyword": "stores like chicos",
+      "position": 1,
+      "url": "https://www.wardrobeoxygen.com/best-clothing-retailers-women-over-40/",
+      "kept": false,
+      "why_dropped": "read: general retailer roundup that lists Chico's alongside others; recommends nothing as an alternative to Chico's"
+    },
+    {
+      "keyword": "stores like chicos",
+      "position": 1,
+      "url": "https://over50feeling40.com/2024/09/brands-you-love-the-most.html",
+      "kept": false,
+      "why_dropped": "read: readers' favourite brands poll; nothing framed as a Chico's alternative"
+    },
+    {
+      "keyword": "stores like chicos",
+      "position": 1,
+      "url": "https://en.wikipedia.org/wiki/Chico%27s_FAS",
+      "kept": false,
+      "why_dropped": "encyclopedia entry on the anchor"
+    },
+    {
+      "keyword": "stores like chicos",
+      "position": 1,
+      "url": "https://www.youtube.com/watch?v=jHXEFqAGzZs",
+      "kept": false,
+      "why_dropped": "video; not read"
+    },
+    {
+      "keyword": "stores like chicos",
+      "position": 2,
+      "url": "https://www.fabulousafter40.com/where-to-shop-for-clothes-women-over-40/",
+      "kept": false,
+      "why_dropped": "read: general 'where to shop over 40' list; Chico's is one entry, no alternatives named"
+    },
+    {
+      "keyword": "stores like chicos",
+      "position": 3,
+      "url": "https://www.reddit.com/r/fashionwomens35/comments/1ns4c3h/where_do_people_shop_online_these_days/",
+      "kept": false,
+      "why_dropped": "reddit: not read (WebFetch refuses reddit.com)"
+    },
+    {
+      "keyword": "stores like chicos",
+      "position": 4,
+      "url": "https://www.instyle.com/fashion/clothing/best-online-clothing-stores",
+      "kept": false,
+      "why_dropped": "general best-online-stores list, not about Chico's"
+    },
+    {
+      "keyword": "stores like chicos",
+      "position": 5,
+      "url": "https://windsorpeak.com/vbulletin/archive/index.php/t-431548.html",
+      "kept": false,
+      "why_dropped": "forum thread about brands associated with older women, not alternatives to Chico's"
+    },
+    {
+      "keyword": "stores like chicos",
+      "position": 6,
+      "url": "https://www.dcurbanmom.com/jforum/posts/list/1280044.page",
+      "kept": false,
+      "why_dropped": "thread asks for stores like Talbots, not Chico's"
+    },
+    {
+      "keyword": "stores like chicos",
+      "position": 7,
+      "url": "https://corporette.com/the-best-stores-like-ann-taylor/",
+      "kept": false,
+      "why_dropped": "about Ann Taylor, not Chico's"
+    },
+    {
+      "keyword": "stores like chicos",
+      "position": 8,
+      "url": "https://iamandco.com/blogs/articles/stores-like-free-people",
+      "kept": false,
+      "why_dropped": "about Free People"
+    },
+    {
+      "keyword": "stores like chicos",
+      "position": 9,
+      "url": "https://www.facebook.com/groups/iloveconroe/posts/2409271259403887/",
+      "kept": false,
+      "why_dropped": "Facebook group post about Dress Barn; not readable"
+    },
+    {
+      "keyword": "brands like chicos",
+      "position": 1,
+      "url": "https://www.reddit.com/r/fashionwomens35/comments/15wstww/words_to_find_brands_for_women_40/",
+      "kept": false,
+      "why_dropped": "reddit: not read"
+    },
+    {
+      "keyword": "brands like chicos",
+      "position": 2,
+      "url": "https://pinkchickadee.com/20-brands-like-talbots/",
+      "kept": false,
+      "why_dropped": "about Talbots (lists Chico's as a Talbots alternative, the reverse direction)"
+    },
+    {
+      "keyword": "brands like chicos",
+      "position": 4,
+      "url": "https://www.reddit.com/r/BuyItForLife/comments/1ma4dhe/womens_clothing_brands/",
+      "kept": false,
+      "why_dropped": "reddit: not read"
+    },
+    {
+      "keyword": "brands like chicos",
+      "position": 5,
+      "url": "https://over50feeling40.com/2024/09/brands-you-love-the-most.html",
+      "kept": false,
+      "why_dropped": "as above"
+    },
+    {
+      "keyword": "brands like chicos",
+      "position": 6,
+      "url": "https://www.chicos.com/store",
+      "kept": false,
+      "why_dropped": "anchor's own site"
+    },
+    {
+      "keyword": "brands like chicos",
+      "position": 7,
+      "url": "https://www.wardrobeoxygen.com/best-clothing-retailers-women-over-40/",
+      "kept": false,
+      "why_dropped": "as above"
+    },
+    {
+      "keyword": "brands like chicos",
+      "position": 8,
+      "url": "https://maiazine.substack.com/p/twenty-five-colorful-eclectic-brands",
+      "kept": false,
+      "why_dropped": "general colorful-brands list, not about Chico's"
+    },
+    {
+      "keyword": "brands like chicos",
+      "position": 9,
+      "url": "https://www.nordstrom.com/brands-list/women/clothing",
+      "kept": false,
+      "why_dropped": "retailer brand index"
+    },
+    {
+      "keyword": "chicos alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs returned no SERP"
+    },
+    {
+      "keyword": "similar to chicos",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs returned no SERP"
+    },
+    {
+      "keyword": "stores like Chico's (WebSearch)",
+      "position": null,
+      "url": "https://etechshout.com/stores-like-chicos/",
+      "kept": true,
+      "note": "eTechShout, '19 Stores Like Chico's', 2022-02-02, eTechShout Editor; 19 alternatives"
+    },
+    {
+      "keyword": "stores like Chico's (WebSearch)",
+      "position": null,
+      "url": "https://plaintips.com/stores-like-chicos",
+      "kept": true,
+      "note": "PlainTips, 'Stores Like Chico's', no date, author ip_bilal; 10 alternatives"
+    },
+    {
+      "keyword": "brands similar to Chico's (WebSearch)",
+      "position": null,
+      "url": "https://needlestar.com/brands-similar-to-chicos/",
+      "kept": true,
+      "note": "NeedleStar, 'The Top 18 Chico's Alternatives', 2026-08-29, Jennifer F.; 21 alternatives"
+    },
+    {
+      "keyword": "stores like Chico's (WebSearch)",
+      "position": null,
+      "url": "https://beautymag.com/stores-like-chicos/",
+      "kept": false,
+      "why_dropped": "returns an empty body to WebFetch and the bot UA; not read"
+    },
+    {
+      "keyword": "stores like Chico's (WebSearch)",
+      "position": null,
+      "url": "https://similist.com/alternatives/stores-like-chicos/",
+      "kept": false,
+      "why_dropped": "scraped list (enrich.md §1.2)"
+    },
+    {
+      "keyword": "stores like Chico's (WebSearch)",
+      "position": null,
+      "url": "https://www.storeslike.com/chicos",
+      "kept": false,
+      "why_dropped": "read: templated directory, no author or date, each entry the store's own tagline; dropped as on sibling pages"
+    },
+    {
+      "keyword": "brands similar to Chico's (WebSearch)",
+      "position": null,
+      "url": "https://www.tscentral.com/info/chicos",
+      "kept": false,
+      "why_dropped": "read: auto-generated alternatives list ('most sought after... due to its overall search popularity')"
+    },
+    {
+      "keyword": "brands similar to Chico's (WebSearch)",
+      "position": null,
+      "url": "https://chicos.knoji.com/alternatives/",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch; auto-generated"
+    },
+    {
+      "keyword": "WebSearch",
+      "position": null,
+      "url": "https://www.instya.com/site/chicos.com",
+      "kept": false,
+      "why_dropped": "traffic-overlap directory, not editorial (same for similarweb.com, similarsitesearch.com, shopsleuth.com)"
+    },
+    {
+      "keyword": "WebSearch",
+      "position": null,
+      "url": "https://www.fodors.com/community/europe/chicos-234871-printthread",
+      "kept": false,
+      "why_dropped": "HTTP 403 to WebFetch and the bot UA; 2002 thread, not read"
+    },
+    {
+      "keyword": "WebSearch",
+      "position": null,
+      "url": "https://sixtyandme.com/best-clothing-stores/",
+      "kept": false,
+      "why_dropped": "general best-stores-over-50 list, not framed as Chico's alternatives; not counted"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": null,
+      "url": null,
+      "used": false,
+      "why": "enrich.md §1.4b doesn't apply: Chico's sells only through its own boutiques and site."
+    }
+  ],
+  "disco": {
+    "checked": true,
+    "url": "https://discobrands.co/brands/chico-s",
+    "result": "discobrands.co has a Chico's profile with an 'If you like Chico's' list: Ann Taylor (80%), Liz Claiborne (76%), Commense (62%), Modern Citizen (61%). Counted as evidence; never cited on the page."
+  },
+  "candidates": [
+    {
+      "name": "Ann Taylor",
+      "slug": "ann-taylor",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-chicos/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-chicos"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://discobrands.co/brands/chico-s"
+        }
+      ]
+    },
+    {
+      "name": "Loft",
+      "slug": "loft",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-chicos/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-chicos"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "J.Jill",
+      "slug": "j-jill",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-chicos/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-chicos"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "Banana Republic",
+      "slug": "banana-republic",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-chicos/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-chicos"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "Talbots",
+      "slug": "talbots",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-chicos"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "White House Black Market",
+      "slug": "white-house-black-market",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-chicos"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "Coldwater Creek",
+      "slug": "coldwater-creek",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-chicos"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "J.Crew",
+      "slug": "j-crew",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-chicos/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-chicos"
+        }
+      ]
+    },
+    {
+      "name": "Free People",
+      "slug": "free-people",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-chicos/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "Soft Surroundings",
+      "slug": "soft-surroundings",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "Lands' End",
+      "slug": "lands-end",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "Johnny Was",
+      "slug": "johnny-was",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "Draper James",
+      "slug": "draper-james",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "Boden",
+      "slug": "boden",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "Lane Bryant",
+      "slug": "lane-bryant",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "Nordstrom",
+      "slug": "nordstrom",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-chicos"
+        }
+      ]
+    },
+    {
+      "name": "Dillard's",
+      "slug": "dillards",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-chicos"
+        }
+      ]
+    },
+    {
+      "name": "Madewell",
+      "slug": "madewell",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "Maurices",
+      "slug": "maurices",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "The Limited",
+      "slug": "the-limited",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "Windsor",
+      "slug": "windsor",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "Reformation",
+      "slug": "reformation",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "Revolve",
+      "slug": "revolve",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "Fashion Nova",
+      "slug": "fashion-nova",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "Dolls Kill",
+      "slug": "dolls-kill",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "Missguided",
+      "slug": "missguided",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "Coach Outlet",
+      "slug": "coach-outlet",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "Nasty Gal",
+      "slug": "nasty-gal",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "PrettyLittleThing",
+      "slug": "prettylittlething",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "L.L.Bean",
+      "slug": "ll-bean",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "NYDJ",
+      "slug": "nydj",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "Laura Ashley",
+      "slug": "laura-ashley",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "Simply Be",
+      "slug": "simply-be",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "LYS Fashion",
+      "slug": "lys-fashion",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "NIC+ZOE",
+      "slug": "nic-zoe",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "TravelSmith",
+      "slug": "travelsmith",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "Anthropologie",
+      "slug": "anthropologie",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/"
+        }
+      ]
+    },
+    {
+      "name": "Liz Claiborne",
+      "slug": "liz-claiborne",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://discobrands.co/brands/chico-s"
+        }
+      ]
+    },
+    {
+      "name": "Commense",
+      "slug": "commense",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://discobrands.co/brands/chico-s"
+        }
+      ]
+    },
+    {
+      "name": "Modern Citizen",
+      "slug": "modern-citizen",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://discobrands.co/brands/chico-s"
+        }
+      ]
+    },
+    {
+      "name": "Calypso St. Barth",
+      "slug": null,
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Camilla",
+      "slug": null,
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Francesca's Collections",
+      "slug": null,
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Lovers + Friends",
+      "slug": null,
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Splendid",
+      "slug": null,
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Kookai",
+      "slug": null,
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Saturday/Sunday",
+      "slug": null,
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Sessùn",
+      "slug": null,
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Rails",
+      "slug": null,
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Comptoir des Cotonniers",
+      "slug": null,
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "Scotch & Soda",
+      "slug": null,
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "The Great",
+      "slug": null,
+      "in_apart_pool": true,
+      "sources": []
+    },
+    {
+      "name": "LNA",
+      "slug": null,
+      "in_apart_pool": true,
+      "sources": []
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "result": "14 rows for chico-s: Calypso St. Barth, Camilla, Francesca's Collections, Lovers + Friends, Boden, Splendid, Kookai, Saturday/Sunday, Sessùn, Rails, Comptoir des Cotonniers, Scotch & Soda, The Great, LNA. Only Boden has outside evidence (NeedleStar), flagged in_apart_pool; the rest have sources: []."
+  },
+  "picks": [
+    {
+      "slug": "ann-taylor",
+      "rank": 1,
+      "independent_sources": 4,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "Ann Taylor is Chico's Knitwell sister for tailored workwear: tops and blouses beside suits and work pants, in petite, tall and curvy fits, about 200 stores, free shipping from $150.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-chicos/",
+          "note": "#3: \"Women's specialty clothing retailer Ann Taylor operates a chain of stores\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-chicos",
+          "note": "#3: \"specializes in high-end fashion clothing and accessories for women\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/",
+          "note": "#17: \"timeless, sophisticated pieces similar to Chico's White Collection\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://discobrands.co/brands/chico-s",
+          "note": "directory 'If you like Chico's': 80% match, 'Mall tailoring for the same office-to-weekend shopper' (evidence only, never cited)"
+        }
+      ]
+    },
+    {
+      "slug": "j-jill",
+      "rank": 2,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 29.0,
+        "max": 119.0,
+        "min_usd": 29.0,
+        "max_usd": 119.0,
+        "fx_date": null,
+        "item_count": 62
+      },
+      "price_relation": "similar",
+      "reason": "J.Jill's regular tops run $29–$119 (Pima 3/4-Sleeve V-Neck Tee $49–$54) in XS–4X with petite and tall, 60-day returns like Chico's, 200+ stores.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-chicos/",
+          "note": "#13: \"attract middle-aged women\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-chicos",
+          "note": "#6: \"J Jill can be a good alternative to Chico's\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/",
+          "note": "#16: \"similar to Chico's styles but at lower price points\""
+        }
+      ]
+    },
+    {
+      "slug": "banana-republic",
+      "rank": 3,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 45.0,
+        "max": 200.0,
+        "min_usd": 45.0,
+        "max_usd": 200.0,
+        "fx_date": null,
+        "item_count": 78
+      },
+      "price_relation": "similar",
+      "reason": "Banana Republic's regular women's tops run $45–$200 (Refined Scoop-Neck T-Shirt $45, The Everyday Silk Shirt $178), sizes 0–20 with petite and long, free shipping from $50.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-chicos/",
+          "note": "#5: \"modern and stylish clothing with no boundaries\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-chicos",
+          "note": "#7"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/",
+          "note": "#20: \"Shoppers who like Chico's basics for work will appreciate Banana's\""
+        }
+      ]
+    },
+    {
+      "slug": "loft",
+      "rank": 4,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "Loft is the Knitwell sister for everyday tops in 00–18 and XXS–XXL with petite, tall and curvy fits, 358 US stores, 30-day receipted returns, free shipping on $99.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-chicos/",
+          "note": "#8: \"The LOFT line has style options for mature women, just like Chico's.\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-chicos",
+          "note": "#5: \"Loft is famous for its unique collection\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/",
+          "note": "#21: \"LOFT is like the younger, trendier sister brand of Ann Taylor\""
+        }
+      ]
+    },
+    {
+      "slug": "white-house-black-market",
+      "rank": 5,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 39.5,
+        "max": 130.0,
+        "min_usd": 39.5,
+        "max_usd": 130.0,
+        "fx_date": null,
+        "item_count": 220
+      },
+      "price_relation": "similar",
+      "reason": "White House Black Market's regular tops run $39.50–$130, against Chico's $34.50–$139.50, with the same 60-day returns, $7 mail-return fee and $8.95 shipping; 00–18 regular and petite.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-chicos",
+          "note": "#2"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/",
+          "note": "#1: \"similar elegance and feminine vibe as Chico's\""
+        }
+      ]
+    },
+    {
+      "slug": "coldwater-creek",
+      "rank": 6,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 47.5,
+        "max": 134.95,
+        "min_usd": 47.5,
+        "max_usd": 134.95,
+        "fx_date": null,
+        "item_count": 117
+      },
+      "price_relation": "similar",
+      "reason": "Coldwater Creek's regular tops run $47.50–$134.95 and lean on tunics (River Song Ribbed Tunic $69.95), in XS–XL, petite and women's plus 1X–3X; 60-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-chicos",
+          "note": "#4"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/",
+          "note": "#3: \"lots of options at Coldwater Creek for older women\""
+        }
+      ]
+    },
+    {
+      "slug": "talbots",
+      "rank": 7,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 34.5,
+        "max": 189.0,
+        "min_usd": 34.5,
+        "max_usd": 189.0,
+        "fx_date": null,
+        "item_count": 120
+      },
+      "price_relation": "similar",
+      "reason": "Talbots' regular tops run $34.50–$189, including a Non-Iron Popover ($109–$129), in misses 2–18, petite 0–16 and plus 14W–24W, with 400+ US stores.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-chicos",
+          "note": "#1: \"Talbots is a good alternative to Chico's\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/",
+          "note": "#2: \"Similar to Chico's, Talbots exudes a classic, sophisticated style\""
+        }
+      ]
+    },
+    {
+      "slug": "j-crew",
+      "rank": 8,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "J.Crew sells women's shirts, tops, tees and tanks cut in Classic, Petite and Tall (Chico's has no tall), with $7 standard shipping and 30-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-chicos/",
+          "note": "#12"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://plaintips.com/stores-like-chicos",
+          "note": "#10: \"J Crew is one of the major American retailers\""
+        }
+      ]
+    },
+    {
+      "slug": "soft-surroundings",
+      "rank": 9,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 34.0,
+        "max": 129.95,
+        "min_usd": 34.0,
+        "max_usd": 129.95,
+        "fx_date": null,
+        "item_count": 70
+      },
+      "price_relation": "similar",
+      "reason": "Soft Surroundings' regular tops run $34–$129.95 in soft Pima and velvet knits, sizes 2–18 with petite, tall and women's 18W–24W; 60-day returns like Chico's.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/",
+          "note": "#4: \"If you love Chico's travel collection, check out Soft Surroundings\""
+        }
+      ]
+    },
+    {
+      "slug": "draper-james",
+      "rank": 10,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 50.0,
+        "max": 148.0,
+        "min_usd": 50.0,
+        "max_usd": 148.0,
+        "fx_date": null,
+        "item_count": 15
+      },
+      "price_relation": "similar",
+      "reason": "Draper James' regular tops run $50–$148 (Short Sleeve Easy Knit Top $50) in XS–XXL, 0–14 and plus to 24X, free shipping from $150, 20-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/",
+          "note": "#10: \"a similar feminine Southern charm\""
+        }
+      ]
+    },
+    {
+      "slug": "lands-end",
+      "rank": 11,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 14.95,
+        "max": 84.95,
+        "min_usd": 14.95,
+        "max_usd": 84.95,
+        "fx_date": null,
+        "item_count": 178
+      },
+      "price_relation": "similar",
+      "reason": "Lands' End's regular women's tops run $14.95–$84.95, including a No Iron Pinpoint Shirt ($64.95) below Chico's No Iron Linen Shirt ($99.50); 90-day returns, petite to plus 30.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/",
+          "note": "#5: \"Similar to Chico's, Lands' End has a preppy, nautical vibe\""
+        }
+      ]
+    },
+    {
+      "slug": "boden",
+      "rank": 12,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 29.0,
+        "max": 220.0,
+        "min_usd": 29.0,
+        "max_usd": 220.0,
+        "fx_date": null,
+        "item_count": 300
+      },
+      "price_relation": "similar",
+      "reason": "Boden's US store sells regular-price tops at $29–$220 in USD (Plain Cami Top $29, Sara Silk Shirt $220), XS–XL with petite and tall, 45-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/",
+          "note": "#11: \"the colorful, feminine, whimsical aesthetic that Chico's lovers adore\""
+        }
+      ]
+    },
+    {
+      "slug": "johnny-was",
+      "rank": 13,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 95.0,
+        "max": 498.0,
+        "min_usd": 95.0,
+        "max_usd": 498.0,
+        "fx_date": null,
+        "item_count": 147
+      },
+      "price_relation": "similar",
+      "reason": "Johnny Was' regular tops run $95–$498, most above $200 (The Audrey Collared Shirt $298), in XXS–3X with petite, free US shipping from $125.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://needlestar.com/brands-similar-to-chicos/",
+          "note": "#9: \"flowy boho chic tops, tunics, dresses, and dusters\""
+        }
+      ]
+    },
+    {
+      "slug": "lane-bryant",
+      "rank": 14,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": null,
+      "price_relation": null,
+      "reason": "Lane Bryant sells plus-size tops in sizes 10–40, past Chico's top size 4 (XXL, US 20–22), with 400+ US stores; a Knitwell sister brand.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://etechshout.com/stores-like-chicos/",
+          "note": "#14: \"the top choice for women in plus sizes\""
+        }
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "free-people",
+      "why": "2 sources (eTechShout, NeedleStar). Brand file status unverified (site refuses fetches); shared status not changed. Not a pick."
+    },
+    {
+      "slug": "nordstrom",
+      "why": "1 source (PlainTips #8). Multi-brand department store; its brand file has no tops entry and nordstrom.com was not re-read for tops this run. Ranked below 14 stronger picks; not added."
+    },
+    {
+      "slug": "dillards",
+      "why": "1 source (PlainTips #9). Department store; no tops entry in its brand file; not re-checked. Not added."
+    },
+    {
+      "slug": "the-limited",
+      "why": "1 source (eTechShout 2022 list). No brand file; not verified this run. Not added."
+    },
+    {
+      "slug": "madewell",
+      "why": "1 source (eTechShout). Denim-led; not re-checked for tops. Not added."
+    },
+    {
+      "slug": "maurices",
+      "why": "1 source (eTechShout). Not re-checked for tops. Not added."
+    },
+    {
+      "slug": "windsor",
+      "why": "1 source (eTechShout). Not re-checked for tops this run; ranked below 14 picks with more evidence. Not added."
+    },
+    {
+      "slug": "reformation",
+      "why": "1 source (eTechShout). Brand file unverified. Not added."
+    },
+    {
+      "slug": "anthropologie",
+      "why": "1 source (NeedleStar). Brand file unverified. Not added."
+    },
+    {
+      "slug": "eileen-fisher",
+      "why": "Named only by dropped scraped directories (TSCentral) and search-engine summaries, no counted source; brand file unverified."
+    },
+    {
+      "slug": "fashion-nova",
+      "why": "1 source (eTechShout list that also names Dolls Kill, Missguided, Nasty Gal, PrettyLittleThing, Revolve, each single-source): not re-checked for tops this run; ranked below 14 picks. Not added; same for those five (Nasty Gal is off_category in its brand file)."
+    },
+    {
+      "slug": "coach-outlet",
+      "why": "1 source (eTechShout). No brand file; not verified this run. Not added."
+    },
+    {
+      "slug": "ll-bean",
+      "why": "1 source (NeedleStar). Brand file unverified. Not added."
+    },
+    {
+      "slug": "nydj",
+      "why": "1 source (NeedleStar, named for jeans not tops). No brand file. Not added."
+    },
+    {
+      "slug": "laura-ashley",
+      "why": "1 source (NeedleStar). No brand file; not verified this run. Not added."
+    },
+    {
+      "slug": "simply-be",
+      "why": "1 source (NeedleStar). No brand file; not verified this run. Not added."
+    },
+    {
+      "slug": "lys-fashion",
+      "why": "1 source (NeedleStar). No brand file; not verified. Not added."
+    },
+    {
+      "slug": "nic-zoe",
+      "why": "1 source (NeedleStar). No brand file; not verified this run. Candidate for a later wave."
+    },
+    {
+      "slug": "travelsmith",
+      "why": "1 source (NeedleStar: 'like the Chico's of comfortable travel wear'). No brand file; not verified this run. Candidate for a later wave."
+    },
+    {
+      "slug": "liz-claiborne",
+      "why": "1 source (the disco directory). Now a JCPenney label per that directory; no brand file. Not added."
+    },
+    {
+      "slug": "commense",
+      "why": "1 source (the disco directory, 62% match). Young, trend-led online label; verified file but no tops entry. Not added."
+    },
+    {
+      "slug": "modern-citizen",
+      "why": "1 source (the disco directory). No brand file. Not added."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "pick price: Ann Taylor",
+      "url": "https://www.anntaylor.com/clothing/tops-and-blouses/cata000010/",
+      "check": "302 to the /px bot challenge. Confirm the regular tops range so the top pick can show a price."
+    },
+    {
+      "fact": "pick price: Loft",
+      "url": "https://www.loft.com/clothing/tops/catl000011/",
+      "check": "Every page-1 tile marked down (site-wide promotion). Re-read after the promotion."
+    },
+    {
+      "fact": "pick price: J.Crew",
+      "url": "https://www.jcrew.com/plp/womens/categories/clothing/shirts-and-tops",
+      "check": "Tops grid is script-rendered (no product data in a plain request). Confirm the regular range."
+    },
+    {
+      "fact": "pick price: Lane Bryant",
+      "url": "https://www.lanebryant.com/clothing/tops",
+      "check": "Every page-1 tile marked down. Re-read after the promotion."
+    },
+    {
+      "fact": "Chico's known_for",
+      "url": "https://www.chicos.com/store/category/travelers-collection/cat40010",
+      "check": "Changed to 'Wrinkle-Free Travel Clothes' (shared field; was 'Comfortable Clothing for All Shapes', a second 'for' in the title). Confirm the wording."
+    }
+  ],
+  "notes": [
+    "14 picks pass enrich.md §3 (verified, sell tops, ship to the US or have US stores, ≥1 outside source, one checkable reason). 10 carry a regular tops price; Ann Taylor, Loft, J.Crew and Lane Bryant render without one (sells_categories tops from each store's own tops page or nav).",
+    "Ranking: independent sources, then closeness of the regular tops midpoint to Chico's ($87.0), unpriced after priced in a tie: Ann Taylor 4; J.Jill 3 (mid $74), Banana Republic 3 ($122.50), Loft 3; White House Black Market 2 ($84.75), Coldwater Creek 2 ($91.23), Talbots 2 ($111.75), J.Crew 2; Soft Surroundings 1 ($81.98), Draper James 1 ($99), Lands' End 1 ($49.95), Boden 1 ($124.50), Johnny Was 1 ($296.50), Lane Bryant 1.",
+    "Evidence: Ahrefs top 10 for the four keywords (2 empty) gave no page that recommends stores as alternatives to Chico's: the ranking pages are general over-40/over-50 shopping guides and forum threads, which list Chico's alongside others (not counted). WebSearch added three editorial alternatives lists (eTechShout 2022, PlainTips undated, NeedleStar 2026) and the disco directory profile. Beautymag returned an empty body; Fodor's and Knoji 403; scraped directories dropped.",
+    "Price relations against Chico's regular tops $34.50–$139.50 (84 of 599 tops read): every priced pick 'similar' (no pick's max below $34.50 or min above $139.50).",
+    "Category tops replaces the dresses comparison the sibling pages use; tops prices were added for 11 brands (Chico's + 10 picks) this run, none overwriting an existing tops entry.",
+    "Coldwater Creek and Soft Surroundings ranges come from product pages selected by tops words in the product sitemap URLs (their grids are script-rendered), so tops without those words in the URL are not covered."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "Your favorite Chico's knit top has been in the suitcase for three trips, and you'd like two more like it. Or the 000-to-4 sizing has you guessing again. These are the stores most often named as Chico's alternatives, several of them its own sister brands, with regular prices for women's tops, size ranges and return terms, most-recommended first.",
+    "bodies": {
+      "ann-taylor": "Ann Taylor is where to go if you like Chico's but most of your week is spent at the office. Its whole range is built around tailored workwear. Tops and blouses sit in the same section as suits and work pants, so the top and what it goes with come from one place.\n\nIt's a Knitwell sister to Chico's with about 200 stores, and it cuts petite, tall and curvy fits. Tall is the one Chico's doesn't make at all, so if sleeves always end short on you, start here. Shipping is free from $150.\n\nThe catch is the style. If you shop Chico's for embellished knits and travel pieces rather than polish, J.Jill and Soft Surroundings are closer.",
+      "j-jill": "J.Jill is the nearest thing to Chico's for easy knit tops, and it usually costs a little less. The Pima 3/4-Sleeve V-Neck Tee ($49 to $54) is the basic to start with, and the Wearever Ballet-Sleeve Crew-Neck Top ($59 to $69) is the step up. Wearever is the knit line to look for, and it has its own tops page.\n\nThe big difference is sizing. J.Jill uses plain XS to 4X with petite and tall, so there's no Chico's scale to translate, and it goes past Chico's XXL. Returns get the same 60 days, with $8.95 taken off for the prepaid label. Shipping is free from $150, and there are more than 200 stores.\n\nIts regular tops stop at $119, so the dressy end is thinner. For sparkle and lace, White House Black Market has more.",
+      "banana-republic": "Banana Republic is the pick if you wear Chico's basics to work and want them a step sharper. The Refined Scoop-Neck T-Shirt ($45) is the everyday one, and The Everyday Silk Shirt ($178) is worth a look if silk is the point.\n\nIts regular tops run from $45 to $200, so the floor sits above Chico's $34.50 tanks and the ceiling above its dressiest tops. Shipping is free from $50, the lowest bar here, so two tees get you there. Sizes run 0 to 20 with petite and long cuts.\n\nIt's a Gap Inc. brand, not a Knitwell one, so none of the sister-brand overlap applies. Sizes stop at 20. For plus, Lane Bryant or Coldwater Creek's 1X to 3X go further.",
+      "loft": "Loft is the everyday end of the Knitwell family that owns Chico's, for tees and blouses you'll wear on repeat rather than statement pieces. Sizes run 00 to 18 and XXS to XXL, in petite, tall and curvy fits, so it covers a wider spread of heights than Chico's petite-only option.\n\nWith 358 stores in the US, trying on is easy. Returns made within 30 days get the price you paid back, which is half Chico's window, and $9.95 comes off if you use the prepaid label. Standard shipping is free on $99.\n\nIf Loft feels too casual for work, Ann Taylor is the dressier sibling with the same petite and tall cuts.",
+      "white-house-black-market": "White House Black Market is Chico's sister brand for the polished, black-and-white end of the same wardrobe. The Easy V-Neck Tee ($39.50) covers basics, and the Button Front Lace Shirt ($130) is where its range tops out.\n\nIt shares Chico's checkout terms almost exactly: 60-day returns, $7 off for mailed returns and $8.95 standard shipping. Prices line up too, at $39.50 to $130 against Chico's $34.50 to $139.50. Sizes run 00 to 18 and XXS to XL, in regular and petite. Its WHBM FORME stretch camis and tanks are the basics to layer under a jacket.\n\nThat XL ceiling is the trade-off. If you wear a Chico's 4, which is an XXL, Talbots or J.Jill go further.",
+      "coldwater-creek": "Coldwater Creek is the one to try if tunics are what you buy at Chico's. A good share of its tops are tunics, from the River Song Ribbed Tunic ($69.95) to the Burnout Velvet Floral Tunic ($134.95).\n\nRegular tops cost $47.50 to $134.95, close to Chico's. Sizes run XS to XL with petite and women's plus 1X to 3X, a plus range Chico's doesn't make. Returns get 60 days with a $9.95 fee, and shipping is charged by order size, from $9.99 to $19.99.\n\nIt's online only now, so there's no store to try things on in. Soft Surroundings belongs to the same company and has the same terms if you want softer knits.",
+      "talbots": "Talbots is the pick for classic tops with the widest size spread among Chico's sister brands: misses 2 to 18, petite 0 to 16 and plus 14W to 24W. If Chico's No Iron shirts are your thing, the Non-Iron Popover in Buffalo Check ($109 to $129) is the direct swap.\n\nPrices show as ranges because plus sizes cost more than misses. The Supersoft Jersey Short Sleeve Crewneck Tee is $49.50 to $59.50, so check the price in your own size before you compare. There are more than 400 stores.\n\nReturns are 30 days, half Chico's window, with $9.95 off if you use the prepaid label. And its dressiest tops reach $189, past anything Chico's sells at regular price.",
+      "j-crew": "J.Crew is for the Chico's shopper who wants cleaner shirts and tees with less embellishment. Its women's tops split into Shirts & Tops and Tees & Tanks, and the shirts come as button-ups, cropped, statement and sleeveless styles.\n\nIt cuts Classic, Petite and Tall, which covers the tall fit Chico's skips. Standard shipping is $7, and returns are 30 days with $7.50 off for the prepaid label. Free standard shipping comes with its Rewards membership rather than an order minimum, so it's worth joining before you check out.\n\nIf you'd rather have color and prints than clean lines, Boden is the brighter way to go, or Lands' End if no-iron is what matters.",
+      "soft-surroundings": "Soft Surroundings is the one to look at if you buy Chico's for soft knits. Its tops lean on Pima cotton and velvet, from the Pima Cotton Crew Neck LS Tee ($39.95) to the Akari Velvet Burnout Big Shirt ($129.95) for evenings.\n\nRegular tops run $34 to $129.95, almost the same spread as Chico's. Sizes go 2 to 18 with petite, tall and women's 18W to 24W, so it covers both plus and tall, neither of which Chico's makes. It's Coldwater Creek's sister and shares its terms: 60 days to return with a $9.95 fee, US addresses only.\n\nIts stores have closed, so it's online only. Shipping is charged by order size, from $9.99 to $19.99, as at Coldwater Creek.",
+      "draper-james": "Draper James is Reese Witherspoon's label, for printed, Southern-inspired tops. The Short Sleeve Easy Knit Top in Navy ($50) is the easy way in, and the Long Sleeve Top in Bateau Knit ($148) sits at the top of its range.\n\nSizes run XS to XXL and 0 to 14, plus 1X to 3X and 16X to 24X, so its plus sizes reach past Chico's XXL. Shipping is free from $150, to US addresses only, and there's a store in Nashville.\n\nReturns are where it falls short. You get 20 days, the tightest window here, and $6.95 per mailed label. Sale prices ending in .98 are final, so check the price before you buy on markdown.",
+      "lands-end": "Lands' End is the budget pick for the no-iron shirts Chico's is known for. Its Women's Long Sleeve No Iron Pinpoint Shirt ($64.95) costs less than Chico's No Iron Linen Shirt ($99.50). Supima cotton basics like the Women's Supima Cotton Crew Neck Tank ($34.95) fill in the rest.\n\nNo regular-price top costs more than $84.95, so it's the cheapest store on this list across the board. Returns run 90 days, the longest here. Shipping is free from $99, to Canada as well as the US, and sizes go from petite up to plus 30.\n\nExpect classic basics rather than sequins or embroidery. For those, White House Black Market or Johnny Was.",
+      "boden": "Boden is where to go for color. It's a British label, but its US store charges in dollars, with tops from the Plain Cami Top ($29) to the Sara Silk Shirt ($220). Shop at us.boden.com, since boden.com is the UK store in pounds.\n\nIt began in 1991 as a mail-order catalogue, and the US is now its biggest market. Sizes run XS to XL with petite and tall collections, so it stops short of Chico's XXL. Returns are 45 days, longer than Talbots or Loft.\n\nPrints carry their own names, like Frosted Flora or Boden Spot, so search the name to find a pattern again. If you want the prints in a bigger size, Coldwater Creek goes to 3X.",
+      "johnny-was": "Johnny Was is the splurge, for the embroidered, artsy side of Chico's taken further. Its cheapest regular top is the Essentials Metallic Baby Rib Crewneck Tank ($95), and most of its tops cost more than $200, like The Audrey Collared Shirt ($298).\n\nIt's a Southern California label, and the beaded and velvet pieces sit at the very top, up to the Beaded Oversized Shirt ($498). Sizes run XXS to 3X with petite. Shipping is free from $125 and US returns by mail are free within 30 days. But anything bought at 50% off or more is final sale.\n\nIf that's more than you want to spend, Soft Surroundings has velvet burnout shirts at $129.95.",
+      "lane-bryant": "Lane Bryant is for when Chico's biggest size isn't enough. A Chico's 4 is an XXL, about a US 20 to 22, while Lane Bryant's whole range is plus, from 10 to 40.\n\nIt dates back to 1904, and it's another Knitwell sister to Chico's, with more than 400 US stores to try things on in. Its tops section runs from basic tees to Livi activewear tops.\n\nThe two ranges overlap in the middle. A Chico's 2.5 or 3 is a US 14 to 16, so if you're there, you can compare both stores' fits before you pick one. If you're in 1X to 3X and want tunics in particular, Coldwater Creek covers those sizes too."
+    },
+    "best_for": {
+      "ann-taylor": "office tops that go with a suit, in tall lengths too",
+      "j-jill": "easy knit tees in plain XS to 4X sizing",
+      "banana-republic": "sharper work basics that ship free from $50",
+      "loft": "everyday tops in petite, tall or curvy fits",
+      "white-house-black-market": "Chico's prices and return terms with a polished edge",
+      "coldwater-creek": "tunics in women's plus sizes up to 3X",
+      "talbots": "a non-iron shirt in misses, petite or plus",
+      "j-crew": "clean shirts and tees in tall lengths",
+      "soft-surroundings": "soft knit tops in both plus and tall sizes",
+      "draper-james": "printed tops with a Southern feel",
+      "lands-end": "no-iron shirts under $85 with 90 days to return",
+      "boden": "bright prints and colors, priced in dollars",
+      "johnny-was": "an embroidered statement top when budget isn't the issue",
+      "lane-bryant": "tops in sizes well past Chico's XXL"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with your size. If you wear a Chico's 4 or bigger, Lane Bryant runs to 40, and Coldwater Creek and Soft Surroundings make women's plus. If you're tall, Ann Taylor, Loft, J.Crew and Soft Surroundings cut for it, which Chico's doesn't.\n\nThen price. Lands' End is the cheapest, with no-iron shirts under $85. J.Jill, White House Black Market and Coldwater Creek sit close to Chico's, while Talbots, Banana Republic and Boden reach higher. Johnny Was is the splurge.\n\nLast, returns. Lands' End gives you 90 days and Draper James only 20, so if you're buying to try, that gap matters."
+    },
+    "faqs": [
+      {
+        "q": "Who owns Chico's?",
+        "a": "Knitwell Group, the Sycamore Partners company, owns Chico's. Sycamore bought it in January 2024, and the same group runs Talbots, Ann Taylor, Loft, White House Black Market, Lane Bryant and Soma.",
+        "source_query": "who owns chicos"
+      },
+      {
+        "q": "What size is a Chico's 2?",
+        "a": "A Chico's 2 is a large, or a US 12. The scale runs from 000 (a US 0) to 4 (a US 20 to 22), with half sizes like 1.5, a US 10, in between.",
+        "source_query": "what size is chicos 2"
+      },
+      {
+        "q": "What is Chico's return policy?",
+        "a": "You have 60 days from the date of purchase. Mailed returns lose a $7 processing fee, and full-price online purchases can also go back to a full-price Chico's boutique.",
+        "source_query": "what is chicos return policy"
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "oliver-cabell",
+  "name": "Oliver Cabell",
+  "website_url": "https://olivercabell.com",
+  "kind": "brand",
+  "known_for": "Clean, Minimal Comfort Footwear",
+  "hq_country": "US",
+  "founded_year": 2018,
+  "parent_company": null,
+  "size_range": "Men 5–15; women 5–12",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 240,
+  "returns_days": 30,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "sneakers",
+      "currency": "USD",
+      "min": 169.99,
+      "max": 249.99,
+      "min_usd": 169.99,
+      "max_usd": 249.99,
+      "fx_date": null,
+      "item_count": 154,
+      "source_url": "https://olivercabell.com/collections/sneakers-mens/products.json",
+      "checked_at": "2026-10-29",
+      "note": "154 regular-price sneakers (0 marked-down products excluded). Shopify sneakers-mens and womens-sneakers collections, no markdowns. Low: Vegan 581 $169.99; Low 1 Golf / Laceless $179.99; Low 1 colorways $224.99; high: Low 1 Navy Ghost $249.99."
+    }
+  ],
+  "production_model": null,
+  "materials": [],
+  "certifications": [],
+  "sale_pattern": null,
+  "sources": [
+    "https://olivercabell.com/collections/sneakers-mens/products.json",
+    "https://olivercabell.com/collections/womens-sneakers/products.json",
+    "https://olivercabell.com/policies/refund-policy",
+    "https://olivercabell.com/pages/our-story",
+    "https://olivercabell.com/pages/about",
+    "https://olivercabell.com/pages/store",
+    "https://olivercabell.com/"
+  ],
+  "notes": [
+    "Our story: 'an independent footwear brand founded in 2018 by Scott Gabrielson'; About: team 'relocated to the U.S.', sells direct and says major brands mark up 8-10x; 'ethically sourced Italian leathers' (assembly location not stated).",
+    "Refund policy: 'free shipping for orders over $240'; returns requested within 30 days of receipt; $20 deducted from refunds on standard domestic shipping; international via DHL/FedEx.",
+    "Store page: SoHo, 285 Lafayette Street, New York, NY 10012. us_stores true.",
+    "Meta description: orthopedic footwear for arch support and everyday comfort 'without compromising clean, minimal style'."
+  ],
+  "status": "verified",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "sells_categories": [
+    "sneakers"
+  ],
+  "checked_at": "2026-10-29"
+}

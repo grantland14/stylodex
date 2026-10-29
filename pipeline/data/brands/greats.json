@@ -1,0 +1,56 @@
+{
+  "slug": "greats",
+  "name": "Greats",
+  "website_url": "https://www.greats.com",
+  "kind": "brand",
+  "known_for": "Sneakers Born in Brooklyn",
+  "hq_country": "US",
+  "founded_year": 2014,
+  "parent_company": null,
+  "size_range": "Men 7–16, some styles to 18",
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 125,
+  "returns_days": 15,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "sneakers",
+      "currency": "USD",
+      "min": 159.0,
+      "max": 225.0,
+      "min_usd": 159.0,
+      "max_usd": 225.0,
+      "fx_date": null,
+      "item_count": 43,
+      "source_url": "https://www.greats.com/collections/all-mens-sneakers/products.json",
+      "checked_at": "2026-10-29",
+      "note": "43 regular-price sneakers (2 marked-down products excluded). Shopify all-mens-sneakers collection. Low: The Regent 2.0 - Blanco $159; The Royale Knit 2.0 $179; high: The Manhattan City Runner and The Ravine $225."
+    }
+  ],
+  "production_model": null,
+  "materials": [],
+  "certifications": [],
+  "sale_pattern": null,
+  "sources": [
+    "https://www.greats.com/collections/all-mens-sneakers/products.json",
+    "https://www.greats.com/pages/our-story",
+    "https://www.greats.com/pages/faq",
+    "https://www.greats.com/policies/refund-policy"
+  ],
+  "notes": [
+    "Our story: 'Founded in 2014, GREATS is the first sneaker brand born in Brooklyn.'",
+    "FAQ: free ground shipping on orders $125+, $15 below; 'standard ground shipping to US shipping addresses only'; returns within 15 days, unworn.",
+    "Refund policy: $8.95 per-order return fee; outlet items final sale.",
+    "Sizes: 7–16 on most styles, 17–18 on six; womens-sneakers collection returned no products."
+  ],
+  "status": "verified",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "sells_categories": [
+    "sneakers"
+  ],
+  "checked_at": "2026-10-29"
+}
