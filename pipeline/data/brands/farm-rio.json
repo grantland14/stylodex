@@ -23,6 +23,19 @@
       "source_url": "https://farmrio.com/collections/dresses/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "142 regular-price dresses of 153 (11 marked down or tagged sale). Lowest the FARM Rio x adidas Farm Dress $55, highest Brown Monstera Cutwork Leather Midi Dress $1,310; median $280 (Daniela Long Sleeve Wrap Mini Dress). Base currency USD (cart.js)."
+    },
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 30,
+      "max": 998,
+      "min_usd": 30,
+      "max_usd": 998,
+      "fx_date": null,
+      "item_count": 99,
+      "source_url": "https://farmrio.com/collections/tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "99 regular-price in-stock tops of 118 in the tops collection. Low: Farm Tee Gfx $30 (FARM Rio x adidas tees from $30); high: Graphic Bird Collared Leather Shirt $998. Median $198; only 9 under $100. Examples: Tropical Groove Short Sleeve T-Shirt $39.95, Off-White Equestrian Short Sleeve T-Shirt $80, Borbofly Ruched Smocked Strapless Top $198. Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (sweaters, cardigans, hoodies, sweatshirts, jackets, bottoms, dresses, sets, kids', men's, accessories) dropped by title/product type."
     }
   ],
   "sources": [
@@ -30,14 +43,17 @@
     "https://farmrio.com/cart.js",
     "https://farmrio.com/collections/dresses/products.json?limit=250",
     "https://farmrio.com/pages/faqs/shipping",
-    "https://farmrio.com/pages/faqs/returns-and-exchanges"
+    "https://farmrio.com/pages/faqs/returns-and-exchanges",
+    "https://farmrio.com/collections/tops/products.json?limit=250",
+    "https://www.nordstrom.com/browse/women/clothing/tops-tees/graphic"
   ],
   "notes": [
     "Homepage title 'FARM Rio | Dress in Happiness | Women's Clothing Store Online'. No origin or HQ statement on the homepage; /pages/about-us is 404, so hq_country and founded_year are empty.",
     "Shipping FAQ: delivery times calculated at checkout; orders to Hawaii and Alaska may take longer; no PO box or APO/FPO delivery. ships_to US from that page; no free-shipping threshold stated.",
     "Returns FAQ: 'We don't accept returns after 30 days from the original purchase date.' 'We offer free returns and exchanges' (prepaid UPS labels). FINAL SALE items exchange only.",
     "Dress sizes in the feed: XXS–XL on 152 of 153 styles, a few 2XL.",
-    "Other dresses: Colorfly Green Adidas Dress $120, Tropical Royalty Mini Dress $148."
+    "Other dresses: Colorfly Green Adidas Dress $120, Tropical Royalty Mini Dress $148.",
+    "2026-10-29 (brands-like-dressed-in-lala run): tops price added; FARM Rio is listed in Nordstrom's Women's Graphic Tees brand filter. Tops sizes XXS–XL on all 99."
   ],
   "checked_at": "2026-10-29"
 }

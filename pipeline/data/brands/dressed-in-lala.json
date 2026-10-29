@@ -1,0 +1,72 @@
+{
+  "slug": "dressed-in-lala",
+  "name": "Dressed in Lala",
+  "website_url": "https://dressedinlala.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Bold Graphic Tees and Knits",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": "Shop LaLa, LLC",
+  "size_range": "XS–3XL; tees S/M–2XL/3XL",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 200,
+  "returns_days": 21,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 42,
+      "max": 168,
+      "min_usd": 42,
+      "max_usd": 168,
+      "fx_date": null,
+      "item_count": 125,
+      "source_url": "https://dressedinlala.com/collections/tops-tunics/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "125 regular-price in-stock tops of 212 Tops & Tunics products (7 marked down, 10 sold out, 70 non-tops such as sweater vests, pullovers, sweatshirts and waistcoats excluded). Low: The One & Only Boxy Tee in White $42; high: Not Your Drama Queen Waffle Knit Hockey Jersey $168. Median $72; 113 under $100. Graphic tees mostly $62–$72, e.g. Being Yourself Is Cool Tee $62, Sticks and Stones Oversized Tiger Tee $72 (100% cotton). Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (sweaters, cardigans, hoodies, sweatshirts, jackets, bottoms, dresses, sets, kids', men's, accessories) dropped by title/product type."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": "Original designs made in-house",
+  "sale_pattern": null,
+  "sources": [
+    "https://dressedinlala.com/",
+    "https://dressedinlala.com/collections/tops-tunics/products.json?limit=250",
+    "https://dressedinlala.com/collections/all/products.json?limit=250",
+    "https://dressedinlala.com/collections/best-sellers/products.json?limit=250",
+    "https://dressedinlala.com/pages/faqs",
+    "https://dressedinlala.com/pages/returns",
+    "https://dressedinlala.com/policies/shipping-policy",
+    "https://dressedinlala.com/policies/refund-policy",
+    "https://dressedinlala.com/policies/terms-of-service",
+    "https://dressedinlala.com/policies/contact-information",
+    "https://dressedinlala.com/cart.js",
+    "https://www.nordstrom.com/brands/dressed-in-lala--81019928",
+    "https://www.nordstrom.com/s/dressed-in-lala-groupie-knit-baby-tee/9234642",
+    "https://thingtesting.com/brands/dressed-in-lala"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "Homepage title 'Dressed in LALA | Bold Fashion for Trend-setters'; nav sections Graphics, Knits, Matching Sets, Outerwear, Bottoms. known_for built from that positioning plus its two largest lines.",
+    "Catalogue (collections/all feed, 800 products): Tops & Tunics 212, Bottoms 211, Sweaters 110, Dresses 84, Matching Sets 49, Outerwear 39; 787 vendor 'Lala Original'. Best-sellers (47): Tops & Tunics 17, Bottoms 9, Sweaters 6. Store currency USD (cart.js).",
+    "Product copy: 'Lala Original Designs are thoughtfully designed in-house by Lex and her design team.' Oversized tees: 'S/M is equivalent to unisex XL. L/XL is equivalent to unisex 3XL' (Sticks and Stones Oversized Tiger Tee). Tees 100% cotton. production_model paraphrases the in-house design line; no country of manufacture stated.",
+    "Terms of service: site 'owned and operated by Shop LaLa, LLC', principal place of business 1126 W 700 N Suite B, Lindon, UT 84042. Contact page: warehouse at the same Lindon, UT address. Thingtesting also lists HQ Lindon, UT. hq_country US.",
+    "Shipping: shipping policy and FAQ 'Flat Rate $5 shipping for all Domestic USA orders'; homepage banner and cart bar 'FREE US SHIPPING OVER $200'. FAQ: 'As of October 2023, we ship worldwide', costs calculated at checkout. Orders ship in 4–7 days (FAQ) / up to 5 business days (policy).",
+    "Returns: unworn items (excluding accessories and final sale) for refund or exchange within 21 days of delivery via the Loop portal; customer pays return shipping; all sale/discounted items final; Facebook/Instagram orders store credit only.",
+    "FAQ: 'we do not offer a generic sizing guide'; size_range from feed variants: tops S/M, L/XL, 2XL/3XL on oversized styles, XS–3XL on others; dresses XS–3XL.",
+    "Sold at Nordstrom: brand page lists 115 Dressed in Lala items (mostly cardigans and oversized sweaters, $44–$182); Groupie Knit Graphic Baby Tee ($62, 95% rayon 5% spandex) sits under Women > Clothing > Tops > Graphic Tees.",
+    "No About page and no founding year found on the store; founded_year left empty."
+  ],
+  "sells_categories": []
+}

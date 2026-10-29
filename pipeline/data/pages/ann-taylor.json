@@ -1,0 +1,1344 @@
+{
+  "subject": "Ann Taylor",
+  "slug": "ann-taylor",
+  "url_prefix": "stores",
+  "category": {
+    "slug": "dresses",
+    "name": "Dresses",
+    "why": "Ann Taylor sells its own label (kind brand), so C is a product type. Its parent's official page calls it the 'go-to brand for women's workwear' with 'timeless, tailored style'; workwear and suiting are not single product types. Dresses are the hero product type that fits: the store's title lists Dresses first among products ('Women's Clothing, Petites, Dresses, Pants, Shirts'), its nav has Work Dresses and Suit Dresses, and its product sitemap has 481 dress URLs (247 clothing/dresses + 234 petite-dresses), more than suits (206) or pants (188). Like-for-like item: women's dresses, which every candidate sells; prices are each store's regular price for dresses not marked down (see brand-file price notes)."
+  },
+  "serp": [
+    {
+      "keyword": "stores like ann taylor",
+      "position": 1,
+      "url": "https://www.anntaylor.com/",
+      "kept": false,
+      "why_dropped": "anchor's own site"
+    },
+    {
+      "keyword": "stores like ann taylor",
+      "position": 2,
+      "url": "https://www.loft.com/",
+      "kept": false,
+      "why_dropped": "brand homepage (Loft is a candidate), not an editorial list"
+    },
+    {
+      "keyword": "stores like ann taylor",
+      "position": 3,
+      "url": "https://www.reddit.com/r/femalefashionadvice/comments/3ia86q/any_cheap_ann_tayloresque_stores/",
+      "kept": false,
+      "why_dropped": "reddit: WebFetch refuses reddit.com; not read"
+    },
+    {
+      "keyword": "stores like ann taylor",
+      "position": 4,
+      "url": "https://pinkchickadee.com/20-stores-like-ann-taylor/",
+      "kept": true
+    },
+    {
+      "keyword": "stores like ann taylor",
+      "position": 5,
+      "url": "https://corporette.com/the-best-stores-like-ann-taylor/",
+      "kept": true
+    },
+    {
+      "keyword": "stores like ann taylor",
+      "position": 6,
+      "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/",
+      "kept": true
+    },
+    {
+      "keyword": "stores like ann taylor",
+      "position": 7,
+      "url": "https://www.wardrobeoxygen.com/best-clothing-retailers-women-over-40/",
+      "kept": true
+    },
+    {
+      "keyword": "stores like ann taylor",
+      "position": 8,
+      "url": "https://www.anntaylor.com/petites/all-petites/cat4190023/",
+      "kept": false,
+      "why_dropped": "anchor's own site"
+    },
+    {
+      "keyword": "stores like ann taylor",
+      "position": 9,
+      "url": "https://info.charm.io/en/blog/5-brands-like-ann-taylor",
+      "kept": true
+    },
+    {
+      "keyword": "stores like ann taylor",
+      "position": 10,
+      "url": "https://shopping.yahoo.com/style/clothing/article/heres-where-to-shop-if-you-want-the-rich-mom-look-on-a-budget-215728817.html",
+      "kept": false,
+      "why_dropped": "read: features Ann Taylor products; recommends no stores as alternatives to Ann Taylor"
+    },
+    {
+      "keyword": "brands like ann taylor",
+      "position": 2,
+      "url": "https://www.reddit.com/r/LawBitchesWithTaste/comments/1reiumo/favourite_midluxury_workwear_brands/",
+      "kept": false,
+      "why_dropped": "reddit; not read"
+    },
+    {
+      "keyword": "brands like ann taylor",
+      "position": 2,
+      "url": "https://www.reddit.com/r/PetiteFashionAdvice/comments/1g7cpos/help_me_pick_female_business_business_casual_the/",
+      "kept": false,
+      "why_dropped": "reddit sitelink; not read"
+    },
+    {
+      "keyword": "brands like ann taylor",
+      "position": 4,
+      "url": "https://www.anntaylor.com/",
+      "kept": false,
+      "why_dropped": "anchor's own site"
+    },
+    {
+      "keyword": "brands like ann taylor",
+      "position": 5,
+      "url": "https://pinkchickadee.com/20-stores-like-ann-taylor/",
+      "kept": true,
+      "note": "same page as 'stores like'"
+    },
+    {
+      "keyword": "brands like ann taylor",
+      "position": 6,
+      "url": "https://www.loft.com/",
+      "kept": false,
+      "why_dropped": "brand homepage"
+    },
+    {
+      "keyword": "brands like ann taylor",
+      "position": 7,
+      "url": "https://info.charm.io/en/blog/5-brands-like-ann-taylor",
+      "kept": true,
+      "note": "same page as 'stores like'"
+    },
+    {
+      "keyword": "brands like ann taylor",
+      "position": 8,
+      "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/",
+      "kept": true,
+      "note": "same page as 'stores like'"
+    },
+    {
+      "keyword": "brands like ann taylor",
+      "position": 9,
+      "url": "https://www.wardrobeoxygen.com/best-clothing-retailers-women-over-40/",
+      "kept": true,
+      "note": "same page as 'stores like'"
+    },
+    {
+      "keyword": "brands like ann taylor",
+      "position": 10,
+      "url": "https://www.nordstrom.com/brands-list/women/clothing",
+      "kept": false,
+      "why_dropped": "retailer brand directory, not an alternatives list"
+    },
+    {
+      "keyword": "ann taylor alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs returned no SERP rows"
+    },
+    {
+      "keyword": "similar to ann taylor",
+      "position": 1,
+      "url": "https://windsorpeak.com/vbulletin/showthread.php?p=4443723",
+      "kept": false,
+      "why_dropped": "forum thread on high-quality basics, not about alternatives to Ann Taylor"
+    },
+    {
+      "keyword": "similar to ann taylor",
+      "position": 3,
+      "url": "https://www.pricescope.com/community/threads/womens-suits.178533/",
+      "kept": false,
+      "why_dropped": "forum thread on women's suits"
+    },
+    {
+      "keyword": "similar to ann taylor",
+      "position": 4,
+      "url": "https://www.shopltk.com/explore/lifewithjazz/collections/11ed360ec82431b6a0150242ac110003",
+      "kept": false,
+      "why_dropped": "influencer collection of Ann Taylor products"
+    },
+    {
+      "keyword": "similar to ann taylor",
+      "position": 5,
+      "url": "https://youlookfab.com/welookfab/topic/how-would-u-describe-banana-republic-im-curious",
+      "kept": false,
+      "why_dropped": "thread about Banana Republic"
+    },
+    {
+      "keyword": "similar to ann taylor",
+      "position": 6,
+      "url": "https://www.extrapetite.com/2014/11/the-sales-continue-ann-taylor-friends.html",
+      "kept": false,
+      "why_dropped": "2014 Ann Taylor sale post"
+    },
+    {
+      "keyword": "similar to ann taylor",
+      "position": 7,
+      "url": "https://www.extrabux.com/en/guide/6289248",
+      "kept": false,
+      "why_dropped": "Ann Taylor vs its own sister/outlet stores, not an alternatives list"
+    },
+    {
+      "keyword": "similar to ann taylor",
+      "position": 8,
+      "url": "https://windsorpeak.com/vbulletin/archive/index.php/t-386265.html",
+      "kept": false,
+      "why_dropped": "forum thread on petite shopping"
+    },
+    {
+      "keyword": "similar to ann taylor",
+      "position": 9,
+      "url": "https://www.thredup.com/women/ann-taylor-loft-outlet/tops/bodysuits",
+      "kept": false,
+      "why_dropped": "marketplace"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": null,
+      "url": null,
+      "used": false,
+      "why": "enrich.md §1.4b doesn't apply: Ann Taylor sells only through its own stores and site."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "J.Crew",
+      "slug": "j-crew",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/20-stores-like-ann-taylor/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://info.charm.io/en/blog/5-brands-like-ann-taylor"
+        }
+      ]
+    },
+    {
+      "name": "Loft",
+      "slug": "loft",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/20-stores-like-ann-taylor/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/"
+        }
+      ]
+    },
+    {
+      "name": "White House Black Market",
+      "slug": "white-house-black-market",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/20-stores-like-ann-taylor/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/"
+        }
+      ]
+    },
+    {
+      "name": "Talbots",
+      "slug": "talbots",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/20-stores-like-ann-taylor/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/"
+        }
+      ]
+    },
+    {
+      "name": "Lands' End",
+      "slug": "lands-end",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/20-stores-like-ann-taylor/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/"
+        }
+      ]
+    },
+    {
+      "name": "Ralph Lauren",
+      "slug": "ralph-lauren",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/20-stores-like-ann-taylor/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://info.charm.io/en/blog/5-brands-like-ann-taylor"
+        }
+      ]
+    },
+    {
+      "name": "M.M.LaFleur",
+      "slug": "m-m-lafleur",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wardrobeoxygen.com/best-clothing-retailers-women-over-40/"
+        }
+      ]
+    },
+    {
+      "name": "Banana Republic",
+      "slug": "banana-republic",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://info.charm.io/en/blog/5-brands-like-ann-taylor"
+        }
+      ]
+    },
+    {
+      "name": "Quince",
+      "slug": "quince",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/20-stores-like-ann-taylor/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        }
+      ]
+    },
+    {
+      "name": "Hobbs",
+      "slug": "hobbs",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wardrobeoxygen.com/best-clothing-retailers-women-over-40/"
+        }
+      ]
+    },
+    {
+      "name": "Theory",
+      "slug": "theory",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wardrobeoxygen.com/best-clothing-retailers-women-over-40/"
+        }
+      ]
+    },
+    {
+      "name": "Old Navy",
+      "slug": "old-navy",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/20-stores-like-ann-taylor/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/"
+        }
+      ]
+    },
+    {
+      "name": "Brooks Brothers",
+      "slug": "brooks-brothers",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/20-stores-like-ann-taylor/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        }
+      ]
+    },
+    {
+      "name": "Madewell",
+      "slug": "madewell",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/"
+        }
+      ]
+    },
+    {
+      "name": "J.Jill",
+      "slug": "j-jill",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/"
+        }
+      ]
+    },
+    {
+      "name": "Express",
+      "slug": "express",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/"
+        }
+      ]
+    },
+    {
+      "name": "Nordstrom",
+      "slug": "nordstrom",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/"
+        }
+      ]
+    },
+    {
+      "name": "Gap",
+      "slug": "gap",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://info.charm.io/en/blog/5-brands-like-ann-taylor"
+        }
+      ]
+    },
+    {
+      "name": "Boden",
+      "slug": "boden",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        }
+      ]
+    },
+    {
+      "name": "Maggy London",
+      "slug": "maggy-london",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/20-stores-like-ann-taylor/"
+        }
+      ]
+    },
+    {
+      "name": "Everlane",
+      "slug": "everlane",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        }
+      ]
+    },
+    {
+      "name": "Chico's",
+      "slug": "chicos",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/"
+        }
+      ]
+    },
+    {
+      "name": "Anthropologie",
+      "slug": "anthropologie",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/"
+        }
+      ]
+    },
+    {
+      "name": "Calvin Klein",
+      "slug": "calvin-klein",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://info.charm.io/en/blog/5-brands-like-ann-taylor"
+        }
+      ]
+    },
+    {
+      "name": "Lane Bryant",
+      "slug": "lane-bryant",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        }
+      ]
+    },
+    {
+      "name": "Eloquii",
+      "slug": "eloquii",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        }
+      ]
+    },
+    {
+      "name": "Halogen",
+      "slug": "halogen",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        }
+      ]
+    },
+    {
+      "name": "COS",
+      "slug": "cos",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        }
+      ]
+    },
+    {
+      "name": "Reiss",
+      "slug": "reiss",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        }
+      ]
+    },
+    {
+      "name": "Club Monaco",
+      "slug": "club-monaco",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        }
+      ]
+    },
+    {
+      "name": "Universal Standard",
+      "slug": "universal-standard",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        }
+      ]
+    },
+    {
+      "name": "Eleanor Leftwich",
+      "slug": "eleanor-leftwich",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wardrobeoxygen.com/best-clothing-retailers-women-over-40/"
+        }
+      ]
+    },
+    {
+      "name": "Banana Republic Factory",
+      "slug": "contemporary-classics-by-banana-republic-factory",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        }
+      ]
+    },
+    {
+      "name": "J.Crew Factory",
+      "slug": "j-crew-factory",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/20-stores-like-ann-taylor/"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        }
+      ]
+    },
+    {
+      "name": "H&M",
+      "slug": "h-m",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/"
+        }
+      ]
+    },
+    {
+      "name": "Kasper",
+      "slug": "kasper",
+      "in_apart_pool": true,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/"
+        }
+      ]
+    }
+  ],
+  "candidate_pool": {
+    "source": "public.brand_relationships (Apart Style, read-only)",
+    "result": "36 rows for ann-taylor; outside sources also name J.Crew, White House Black Market, Lands' End, Madewell, Express, J.Jill, Gap, Theory, Halogen, Club Monaco, Kasper, Banana Republic Factory and Everlane (flagged in_apart_pool); the rest have sources: [] (Veronica Maine, Phase Eight, Karen Millen, Dockers, Jigsaw, Hugo Boss, J.McLaughlin, M&S Collection, Arket...)."
+  },
+  "picks": [
+    {
+      "slug": "j-crew",
+      "rank": 1,
+      "independent_sources": 4,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 148,
+        "max": 298,
+        "min_usd": 148,
+        "max_usd": 298,
+        "fx_date": null,
+        "item_count": 38
+      },
+      "price_relation": null,
+      "reason": "J.Crew's regular dresses run $148–$298 (Parc dress in four-season stretch $198) with petite and tall fits, 30-day returns and US shipping.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/20-stores-like-ann-taylor/",
+          "note": "#3 'J Crew / J Crew Factory': \"a renowned American preppy fashion brand known for its classic and affordable styles\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/",
+          "note": "\"J.Crew is one of the obvious ones\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/",
+          "note": "#1: \"with a focus on preppy and classic designs\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://info.charm.io/en/blog/5-brands-like-ann-taylor",
+          "note": "#2: \"a major player in the realm of polished yet modern fashion\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "loft",
+      "rank": 2,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "Loft is Ann Taylor's Knitwell Group sister brand for everyday work and play clothes: dresses 00–18 and XXS–XXL with petite, tall and curvy fits, 358 US stores, 30-day receipted returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/20-stores-like-ann-taylor/",
+          "note": "#1: \"empowers women to feel their best on a budget\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/",
+          "note": "\"Their sister brand Loft is also definitely worth checking!\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/",
+          "note": "#6: \"a more relaxed and trendy aesthetic\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "white-house-black-market",
+      "rank": 3,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 140,
+        "max": 295,
+        "min_usd": 140,
+        "max_usd": 295,
+        "fx_date": null,
+        "item_count": 75
+      },
+      "price_relation": null,
+      "reason": "White House Black Market sells polished black-and-white workwear with sheath dresses at $140–$295 regular (Knit Crepe Belted Sheath Dress $170), sizes 00–18 regular and petite, 60-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/20-stores-like-ann-taylor/",
+          "note": "#2: \"expanded its palette beyond white and black into other neutrals\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/",
+          "note": "\"has comparable work clothes that tend to be cut a bit closer\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/",
+          "note": "#4: \"known for its sophisticated and feminine dresses and separates\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "talbots",
+      "rank": 4,
+      "independent_sources": 3,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 99.5,
+        "max": 299,
+        "min_usd": 99.5,
+        "max_usd": 299,
+        "fx_date": null,
+        "item_count": 48
+      },
+      "price_relation": null,
+      "reason": "Talbots' modern classic dresses run $99.50–$299 regular (Polished Ponte Sheath Dress from $169) in misses 2–18, petite 0–16 and plus 14W–24W, shipping to the US, Canada and UK.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/20-stores-like-ann-taylor/",
+          "note": "#20: \"a preppy, New England lifestyle brand empowering women of all sizes\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/",
+          "note": "\"an especially good alternative if you're hard to fit\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/",
+          "note": "#3: \"offering classic workwear and casual pieces\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "m-m-lafleur",
+      "rank": 5,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 199,
+        "max": 399,
+        "min_usd": 199,
+        "max_usd": 399,
+        "fx_date": null,
+        "item_count": 36
+      },
+      "price_relation": null,
+      "reason": "M.M.LaFleur is a New York 'Power Casual' workwear label: dresses $199–$399 regular in named fabrics (Maaza Travel Dress in OrigamiTech $249), sizes 00–20, US shipping.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/",
+          "note": "\"This is a big hit with Corporette readers!\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wardrobeoxygen.com/best-clothing-retailers-women-over-40/",
+          "note": "\"If you love Ann Taylor's polished, work-ready aesthetic, check out M.M.LaFleur\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "banana-republic",
+      "rank": 6,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 148,
+        "max": 280,
+        "min_usd": 148,
+        "max_usd": 280,
+        "fx_date": null,
+        "item_count": 61
+      },
+      "price_relation": null,
+      "reason": "Banana Republic (Gap Inc.) sells dresses at $148–$280 regular, from the Knit Wrap Midi Dress ($198) to cashmere, in 0–20 with petite and long fits and US stores.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/",
+          "note": "#2: \"a modern twist and a trendy element\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://info.charm.io/en/blog/5-brands-like-ann-taylor",
+          "note": "#3: \"making waves with its chic and sophisticated clothing\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "quince",
+      "rank": 7,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 59.9,
+        "max": 159.9,
+        "min_usd": 59.9,
+        "max_usd": 159.9,
+        "fx_date": null,
+        "item_count": null
+      },
+      "price_relation": null,
+      "reason": "Quince sells factory-direct silk and cashmere-blend dresses at $59.90–$159.90 regular (100% Silk Jersey Midi Wrap Dress $159.90) with free shipping and 365-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/20-stores-like-ann-taylor/",
+          "note": "#4: \"high-end, luxury materials such as cashmere, Mongolian wool, and linen\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/",
+          "note": "\"tends to have minimalist work clothes in neutral colors and natural fibers\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "hobbs",
+      "rank": 8,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 210,
+        "max": 780,
+        "min_usd": 210,
+        "max_usd": 780,
+        "fx_date": null,
+        "item_count": 54
+      },
+      "price_relation": null,
+      "reason": "Hobbs is a London womenswear label (1981) selling dresses at $210–$780 in USD on its US site, US 2–18 plus petite, free express shipping from the UK over $350.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/",
+          "note": "\"one of the few brands with clothing that is reliably machine washable\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.wardrobeoxygen.com/best-clothing-retailers-women-over-40/",
+          "note": "listed under 'What are brands like Ann Taylor for women over 40?' (as Hobbs London)"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "old-navy",
+      "rank": 9,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 34.99,
+        "max": 59.99,
+        "min_usd": 34.99,
+        "max_usd": 59.99,
+        "fx_date": null,
+        "item_count": 9
+      },
+      "price_relation": null,
+      "reason": "Old Navy's regular dresses cost $34.99–$59.99 (Sleeveless Fit & Flare Ponte Mini Dress $39.99), in sizes 00–30 with petite and tall, and it has US stores.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/20-stores-like-ann-taylor/",
+          "note": "#7: \"budget-friendly American retailer offers all-things casual and fashionable apparel\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/",
+          "note": "#10: \"affordable and comfortable clothing for men, women, and children\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "brooks-brothers",
+      "rank": 10,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": null,
+      "price_relation": null,
+      "reason": "Brooks Brothers sells linen, shirt and sheath dresses for traditional offices, in 00–16 (XXS–XL), with US stores and free standard shipping over $200.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/20-stores-like-ann-taylor/",
+          "note": "#16: \"designing timeless American preppy apparel for women, men, and children\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/",
+          "note": "\"the GOAT for conservative office clothes\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "madewell",
+      "rank": 11,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 118,
+        "max": 168,
+        "min_usd": 118,
+        "max_usd": 168,
+        "fx_date": null,
+        "item_count": 14
+      },
+      "price_relation": null,
+      "reason": "Madewell, J.Crew Group's denim label, sells dresses at $118–$168 regular in standard, petite, tall and plus 14W–24W, and ships to the US, Canada, UK and Australia.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/",
+          "note": "similar-price list: \"If your wardrobe is more WFH than boardroom\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/",
+          "note": "#9: \"high-quality denim and essential pieces\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "j-jill",
+      "rank": 12,
+      "independent_sources": 2,
+      "single_source": false,
+      "price": {
+        "currency": "USD",
+        "min": 109,
+        "max": 149,
+        "min_usd": 109,
+        "max_usd": 149,
+        "fx_date": null,
+        "item_count": 17
+      },
+      "price_relation": null,
+      "reason": "J.Jill sells polished, comfortable knit dresses at $109–$149 regular (Wearever Knit Pleat-Back Dress $109) in XS–4X with petite and tall, 60-day returns and 200+ stores.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/",
+          "note": "more-affordable list: \"If your wardrobe is more WFH than boardroom\""
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://www.have-clothes-will-travel.com/stores-like-ann-taylor-for-a-polished-look/",
+          "note": "#12: \"comfortable and elegant pieces are made from quality fabrics\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "boden",
+      "rank": 13,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 99,
+        "max": 460,
+        "min_usd": 99,
+        "max_usd": 460,
+        "fx_date": null,
+        "item_count": 189
+      },
+      "price_relation": null,
+      "reason": "Boden is a British label selling colorful dresses at $99–$460 regular (Marcia Jersey Shirt Dress $149), with petite and tall collections and 45-day returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/",
+          "note": "\"Boden is a big reader favorite\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "maggy-london",
+      "rank": 14,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 79,
+        "max": 218,
+        "min_usd": 79,
+        "max_usd": 218,
+        "fx_date": null,
+        "item_count": 185
+      },
+      "price_relation": null,
+      "reason": "Maggy London is a dress specialist: regular dresses $79–$218 (Aniya V-Neck Sleeveless Sheath Dress $148) in 0–18, petite 2P–16P and women's 14W–24W, free shipping over $100.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://pinkchickadee.com/20-stores-like-ann-taylor/",
+          "note": "#17: \"specializes in classic, well-tailored women's dresses\""
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "everlane",
+      "rank": 15,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 58,
+        "max": 198,
+        "min_usd": 58,
+        "max_usd": 198,
+        "fx_date": null,
+        "item_count": 26
+      },
+      "price_relation": null,
+      "reason": "Everlane sells minimal dresses at $58–$198 regular (Cashmere Polo Midi Dress $198) in XXS–XXXL, publishes its costs, and ships free in the US over $75.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://corporette.com/the-best-stores-like-ann-taylor/",
+          "note": "more-affordable list, 'More minimalist': Everlane"
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "lands-end",
+      "why": "3 sources, but couldn't confirm it sells women's dresses: landsend.com nav lists no women's dresses (kids only) and the women's dresses URL renders by script (Angular shell, no products). No brand file written; human check."
+    },
+    {
+      "slug": "ralph-lauren",
+      "why": "unverified: ralphlauren.com HTTP 307 with no redirect target to the StylodexBot UA; not worked around. 3 sources; human check."
+    },
+    {
+      "slug": "theory",
+      "why": "unverified: theory.com HTTP 403. 2 sources; human check."
+    },
+    {
+      "slug": "express",
+      "why": "already unverified in its brand file; express.com dresses page is a script shell (no products). 2 sources."
+    },
+    {
+      "slug": "gap",
+      "why": "2 sources. Gap Inc. API for gap.com women's dresses (cid 13658) returned only items typed 'petite dresses' (15 regular, $79.95–$118), so the main women's dresses range wasn't confirmed; left out rather than show a petite-only range. Human check."
+    },
+    {
+      "slug": "nordstrom",
+      "why": "multi-brand retailer; stored price is womens-clothing only; dresses not checked this run (cap of 15 reached with single-label stores). 2 sources."
+    },
+    {
+      "slug": "chicos",
+      "why": "1 source; dresses-and-skirts page showed 1 regular-price dress of 61 (the rest marked down). Not added; below the cap."
+    },
+    {
+      "slug": "anthropologie",
+      "why": "1 source; anthropologie.com HTTP 403."
+    },
+    {
+      "slug": "cos",
+      "why": "1 source; brand file unverified (403)."
+    },
+    {
+      "slug": "j-crew-factory",
+      "why": "2 sources (pink chickadee lists 'J Crew / J Crew Factory', Corporette 'J.Crew Factory'); outlet line of J.Crew, not checked separately; J.Crew itself is pick #1."
+    },
+    {
+      "slug": "contemporary-classics-by-banana-republic-factory",
+      "why": "1 source (Corporette, 'Banana Republic Factory'); outlet line, not checked; Banana Republic is a pick."
+    },
+    {
+      "slug": "others",
+      "why": "Single-source Corporette names (Halogen, Reiss, Eloquii, Lane Bryant, Universal Standard, Club Monaco, Kasper and ~50 more), Eleanor Leftwich (Wardrobe Oxygen), Calvin Klein (Charm), H&M (Have Clothes) not verified: 15 picks reached with better-sourced brands."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "anchor prices, sizes, returns: Ann Taylor",
+      "url": "https://www.anntaylor.com/clothing/dresses/cata000012/",
+      "check": "Every product/category/customer-service URL 302s to /px (bot challenge) for WebFetch and curl. Confirm regular-price dresses range (USD, item count), size range, returns days. Until then the page can't index (anchor missing sizeRange, returnsDays, price:dresses)."
+    },
+    {
+      "fact": "pick check: Ralph Lauren",
+      "url": "https://www.ralphlauren.com/women-clothing-dresses",
+      "check": "307 to the bot UA. 3 sources: would rank in the top 6 if verified with dresses prices."
+    },
+    {
+      "fact": "pick check: Lands' End",
+      "url": "https://www.landsend.com/shop/womens-dresses/-/N-fyw",
+      "check": "Script-rendered. Confirm it sells women's dresses + regular price range. 3 sources."
+    },
+    {
+      "fact": "pick check: Gap dresses",
+      "url": "https://www.gap.com/browse/women/dresses?cid=13658",
+      "check": "API returned petite dress types only; confirm the main women's dresses range."
+    },
+    {
+      "fact": "pick check: Theory",
+      "url": "https://www.theory.com/",
+      "check": "403. 2 sources."
+    },
+    {
+      "fact": "Loft regular dresses price",
+      "url": "https://www.loft.com/clothing/dresses/catl000013/",
+      "check": "Every dress was marked down ('All dresses $44!'), so no regular price is stored; re-read when the promotion ends."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "fx": null,
+  "notes": [
+    "15 picks pass enrich.md §3 (verified, sell dresses, ship to the US, ≥1 outside source, one checkable reason). 13 carry a regular dresses price; Loft and Brooks Brothers render without one (sells_categories), because every dress on their pages was marked down.",
+    "Ranking: independent sources, then (anchor price unreadable, so price closeness can't break ties) best list position across sources: J.Crew 4; Loft (#1 pink chickadee), White House Black Market (#2), Talbots (#3 Have Clothes) at 3; M.M.LaFleur (#1 Wardrobe Oxygen), Banana Republic (#2 Have Clothes), Quince (#3 Corporette, #4 pink), Hobbs (#3 Wardrobe Oxygen), Old Navy (#7), Brooks Brothers (#9 Corporette), Madewell (#9 Have Clothes), J.Jill (#12) at 2; Boden (#4 Corporette), Maggy London (#17 pink), Everlane (#25 Corporette) at 1.",
+    "price_relation is null on every pick: the gate needs both prices, and Ann Taylor's are unreadable.",
+    "Evidence: 5 editorial pages (pink chickadee 20, Corporette ~80 grouped, Have Clothes Will Travel 21, Charm.io 5, Wardrobe Oxygen 4 in its 'brands like Ann Taylor' section). Charm.io is a vendor blog with a templated feel but names brands as Ann Taylor alternatives; kept. Ahrefs serp-overview: 4 calls, 'ann taylor alternatives' empty.",
+    "Quince's dresses price ($59.90–$159.90, 16 dresses) was already in its brand file from another run today; kept as is. This run's WebFetch of the dresses page sorted by price showed $39.90 (Tencel knit mini dresses) to $160.00 across 533 items, none marked down except a Silk Twill Utility Shirt Dress ($104.90 vs $149.90); not merged, to avoid overwriting a same-day entry.",
+    "Gate: anchor verified (status from Knitwell Group's official pages + the store's readable shell); missing sizeRange, returnsDays and price:dresses (bot challenge), so the page is noindex until a human check."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "You've got a big meeting on Thursday and nothing to wear to it, and Ann Taylor is usually where you'd find the dress. But your size is gone, or you'd just like more choice before you spend. These are the stores people name alongside it for polished work clothes, with what each one does best and its regular dress prices where the store shows them.",
+    "bodies": {
+      "j-crew": "J.Crew is the closest all-rounder to Ann Taylor for work clothes, and its regular-price dresses run from $148 to $298. The Parc dress in four-season stretch ($198) is the one to start with for the office.\n\nLike Ann Taylor, it cuts petite and tall as well as regular, so a length problem is usually solved here without changing stores. Returns run 30 days, with $7.50 taken off if you use its prepaid label. Standard shipping is $7, or free for J.Crew Rewards members.\n\nThe catch is that several of its dresses are slip styles, like the Gwyneth slip dress in cupro blend ($148), which suit dinner more than a meeting. For sheath dresses, White House Black Market has the bigger choice.",
+      "loft": "Loft is Ann Taylor's sister brand in the Knitwell Group, and it's the softer, more casual side of the same family. Its own line is everyday fashion for work and play, so think easy dresses for a relaxed office rather than suiting.\n\nThe big advantage is reach. Loft has 358 US stores, and its dresses go from 00 to 18 and XXS to XXL, with petite, tall and curvy fits. Returns with a receipt get the price you paid within 30 days. If you buy in a Loft store, though, it has to go back to a Loft store, and mailing a return with the prepaid label costs $9.95.\n\nIf you want structure, look elsewhere. White House Black Market and Talbots carry far more tailored dresses.",
+      "white-house-black-market": "White House Black Market is where to go for sheath dresses, and its regular-price dresses run from $140 to $295. Start with the Knit Crepe Belted Sheath Dress ($170) or the Faux Wrap Sheath Dress ($150).\n\nThe look is polished black and white with pops of color and pattern. So a few pieces here tend to work together, which is handy if you're building a work wardrobe from scratch. Sizes go from 00 to 18 in regular and petite, and petite styles ship and return free. Its 60-day return window is twice J.Crew's, though mail returns cost $7.\n\nSkip it if you need plus sizes, because the range stops at 18. Talbots and Maggy London both go up to 24W.",
+      "talbots": "Talbots covers the widest size run of the classic workwear stores here, from petite 0 to plus 24W. The Polished Ponte Sheath Dress (from $169) is the one to start with, and the Belted Wool Blend Shirtdress (from $219) is the dressier option.\n\nRegular-price dresses run from $99.50 to $299, so it reaches lower than White House Black Market at the bottom of the range. Misses sizes go from 2 to 18, petite from 0 to 16 and plus from 14W to 24W. Returns are 30 days, with $9.95 off if you use the prepaid UPS label. Standard shipping is a flat $8.95, and it ships to Canada and the UK as well.\n\nThere's no tall range, though. If length is the problem, J.Crew or J.Jill is the better bet.",
+      "m-m-lafleur": "M.M.LaFleur is the step up if you want dresses designed for work first, with regular prices from $199 to $399. The Maaza Travel Dress in OrigamiTech ($249) is the easiest way in, and the Ashtin Desk to Dinner Dress ($359) is cut from its suiting fabric.\n\nThe New York label calls its style Power Casual. Its dresses are named by fabric (OrigamiTech, Everyday Crepe, Luxe Flex Suiting), so once you know which one suits you, the rest of the range gets much quicker to shop. Sizes run from 00 to 20, and XS to XXL on the knit styles.\n\nThe catch is the fine print. Returns have to be started within 21 days, against 30 or more at most stores here, and free shipping only starts at $400.",
+      "banana-republic": "Banana Republic sits right next to J.Crew on price, with regular dresses from $148 to $280, and it leans harder on natural fabrics. Its own pitch is cashmere, leather and linen, and the Lightweight Cashmere Turtleneck Mini Dress ($280) is the top of the range.\n\nFor work, the Knit Wrap Midi Dress ($198) is the safer place to start. Sizes run from 0 to 20, with petite and long fits, and rewards members get free shipping over $50. It's part of Gap Inc., so one online bag covers Banana Republic, Gap and Old Navy, and its store locator lists shops across the US.\n\nIf you want dresses built for the office first, M.M.LaFleur is more focused, at a higher price.",
+      "quince": "Quince is the budget pick for real fibers, with silk and cashmere-blend dresses that top out at $159.90 at regular price. The 100% Silk Jersey Midi Wrap Dress ($159.90) is the one that reads most like office wear.\n\nIt sells factory-direct and cuts out the middlemen, which is how it keeps prices down. Standard shipping is always free, and most things can go back within 365 days. That makes ordering two sizes close to risk-free. Sizes run XS to XL, with 1X to 3X on some styles.\n\nWhat you won't find is tailoring. For structured sheath dresses, Talbots or White House Black Market are the better match.",
+      "hobbs": "Hobbs is the British option, a London label founded in 1981, and its US site sells in dollars with dresses from $210 to $780. The jersey dresses are the way in: the Theodora Jersey Dress ($210) sits at the bottom of the range, and the Petula Jersey Dress costs $250.\n\nEverything ships by express from its UK warehouses in two to three business days, free over $350 and $8 below that. It guarantees no extra charges on delivery, so there's no customs bill at the door. Sizes go from US 2 to 18, which is UK 6 to 22, and there's a petite collection.\n\nReturns aren't free, though. The cost comes off your refund, so check the size guide before you order.",
+      "old-navy": "Old Navy is the cheapest stop on this list, with regular-price dresses from $34.99 to $59.99. The Sleeveless Fit & Flare Ponte Mini Dress ($39.99) is the one closest to office wear.\n\nIt's a casual, affordable family store first. So treat it as the place for an inexpensive dress to wear under a blazer, not a whole work wardrobe. The upside is size: Old Navy goes from 00 to 30, with petite and tall cuts.\n\nIt's part of Gap Inc. with Banana Republic, so you can mix a cheap Old Navy dress and a Banana Republic blazer in the same order. Shipping is free over $50, and returns run 30 days.",
+      "brooks-brothers": "Brooks Brothers is the most traditional pick here, a label that calls itself the original authority on American style. Its women's dresses lean on linen, shirt and sheath shapes, which suits an office with a real dress code.\n\nIts size guide pairs numbers with letters, from 00 (XXS) to 16 (XL). That's handy if you know your Ann Taylor size as a number but the dress you like is sold in letters. It's narrower than Talbots or J.Jill, though. Standard shipping is free over $200, and there are stores across the US if you'd rather try a dress on first.\n\nIf you want the same buttoned-up look in petite or plus sizes, Talbots covers both.",
+      "madewell": "Madewell is J.Crew's more casual sibling, and its dresses cost less, from $118 to $168 at regular price. It's a denim brand at heart, so this is a pick for dress-down Fridays rather than client meetings.\n\nThe size range is the reason to look. Madewell cuts standard, petite, tall and plus (14W to 24W), so most bodies are covered in one place. It also ships to Canada, the UK and Australia, and returns run 30 days.\n\nFor workwear proper, go back to J.Crew. For the same relaxed look at a lower starting price, Everlane begins at $58.",
+      "j-jill": "J.Jill is the comfortable end of workwear, with knit dresses from $109 to $149 at regular price. The Wearever Knit Pleat-Back Dress ($109) is the one to start with, and the Faux-Suede Shirtdress ($149) is the smartest of the range.\n\nSizes run from XS to 4X, with petite and tall cuts as well, the biggest top size of any pick here. Free shipping starts at $150, the same threshold as Ann Taylor's own offer, and returns run 60 days. There are more than 200 stores if you want to try things on.\n\nIt's softer than Ann Taylor's tailored look. For structure in a similar size range, Talbots is the closer match.",
+      "boden": "Boden is the pick if your work wardrobe needs more color than navy and black. The British label describes itself as timeless style in joyful colors, and regular-price dresses run from $99 to $460.\n\nThe Marcia Jersey Shirt Dress ($149) is an easy place to start. The Alex Ponte Contrast Midi Dress ($220) is the more polished choice, since ponte holds its shape better than jersey. There are petite and tall collections, and returns run 45 days, longer than J.Crew's or Talbots'.\n\nSizes stop at XL, though. For bright dresses in women's sizes up to 24W, Maggy London is the better bet.",
+      "maggy-london": "Maggy London is a dress specialist, and its regular dresses run from $79 to $218, under most of the workwear names here. The Aniya V-Neck Sleeveless Sheath Dress ($148) and the Hope Long Sleeve Midi Sheath ($178) are the office-ready ones.\n\nIts own pitch is dresses that take you from desk to dinner. Sizing is the other draw: 0 to 18, petite 2P to 16P and women's 14W to 24W, so most shoppers find a cut here. Shipping is free over $100.\n\nWatch the returns, though. A return costs $11.95, plus $5 for each item after the first, and anything marked Final Sale can't go back. Order the size you're sure of.",
+      "everlane": "Everlane is the minimalist pick, with plain dresses from $58 to $198 at regular price. The Cashmere Polo Midi Dress ($198) is the one that holds up in an office, and the Weekend Tee Midi Dress ($58) is for the days that don't need to.\n\nIt calls itself clean luxury and publishes what its products cost, which is useful if you want to know where your money goes. Sizes run from XXS to XXXL, US shipping is free over $75, and returns run 30 days.\n\nThere's no tailoring here, so pair it with a blazer from J.Crew or Banana Republic."
+    },
+    "best_for": {
+      "j-crew": "work dresses in petite or tall without changing stores",
+      "loft": "relaxed office dresses you can try on nearby",
+      "white-house-black-market": "a matching black-and-white work wardrobe built on sheath dresses",
+      "talbots": "classic work dresses from petite 0 to plus 24W",
+      "m-m-lafleur": "dresses designed for work first, shopped by fabric",
+      "banana-republic": "work dresses in cashmere and other natural fabrics",
+      "quince": "silk work dresses under $160 with a year to return",
+      "hobbs": "British occasion dresses with no customs bill at the door",
+      "old-navy": "an inexpensive dress to wear under a blazer",
+      "brooks-brothers": "traditional offices with a real dress code",
+      "madewell": "dress-down Fridays in petite, tall or plus",
+      "j-jill": "comfortable knit dresses up to a 4X",
+      "boden": "adding color to a navy and black work wardrobe",
+      "maggy-london": "sheath dresses under $200 in petite and women's sizes",
+      "everlane": "minimal dresses with the costs out in the open"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with what your office asks of you. For the full tailored look, J.Crew and White House Black Market are the closest matches, and Talbots takes over if you need petite or plus in the same dress. If money's tight, Quince is the better buy for a meeting, since its silk dresses stop under $160, and Old Navy covers the cheap layer under a blazer. M.M.LaFleur and Hobbs are the step up, with Hobbs the one for weddings and events. For comfort over polish, J.Jill and Loft are the knit-led options. And if your wardrobe is all navy, Boden adds the color."
+    },
+    "faqs": [
+      {
+        "q": "Who owns Ann Taylor?",
+        "a": "Ann Taylor is one of the Knitwell Group's brands, alongside Loft, Talbots, White House Black Market, Chico's and Lane Bryant. The label dates back to 1954, and its corporate office is in Times Square, New York.",
+        "source_query": "who owns ann taylor"
+      },
+      {
+        "q": "Are Ann Taylor and Loft the same?",
+        "a": "No. They're separate brands in the same Knitwell Group. Ann Taylor is the tailored workwear label, and Loft is the more casual one, built around everyday clothes for work and play.",
+        "source_query": "is ann taylor and loft the same"
+      },
+      {
+        "q": "Is there an Ann Taylor near me?",
+        "a": "There's a fair chance. Ann Taylor has more than 200 stores, and the Store Locator link at the top of anntaylor.com finds the closest one.",
+        "source_query": "is there an ann taylor near me"
+      }
+    ]
+  }
+}

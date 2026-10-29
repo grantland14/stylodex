@@ -1,0 +1,13 @@
+{
+  "slug": "ralph-lauren",
+  "name": "Ralph Lauren",
+  "website_url": "https://www.ralphlauren.com",
+  "status": "unverified",
+  "kind": "brand",
+  "sources": [
+    "https://www.ralphlauren.com/"
+  ],
+  "notes": [
+    "2026-10-29 (ann-taylor page run): www.ralphlauren.com and /women-clothing-dresses answer HTTP 307 with no redirect target to the StylodexBot UA. Not worked around: status, prices and shipping unread; human check."
+  ]
+}

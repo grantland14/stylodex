@@ -1,0 +1,54 @@
+{
+  "slug": "tyler-mcgillivary",
+  "name": "Tyler McGillivary",
+  "website_url": "https://tylermcgillivary.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Bold Colors and Unique Shapes",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–4XL",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 250,
+  "returns_days": 14,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 85,
+      "max": 218,
+      "min_usd": 85,
+      "max_usd": 218,
+      "fx_date": null,
+      "item_count": 35,
+      "source_url": "https://tylermcgillivary.com/collections/tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "35 regular-price in-stock tops of 62 (15 marked down, 12 sale-tagged). Low: Dover Raglan Tee - Yellow $85; high: Natalia Button Down - Stripes $218. Median $125. Examples: Dover Tank - Stop Sign $90 (thick cotton jersey), Zora Scoop Tee - Wilderness $113 (modal jersey print). Every regular top in XS–4XL. Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (sweaters, cardigans, hoodies, sweatshirts, jackets, bottoms, dresses, sets, kids', men's, accessories) dropped by title/product type."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://tylermcgillivary.com/",
+    "https://tylermcgillivary.com/collections/tops/products.json?limit=250",
+    "https://tylermcgillivary.com/policies/shipping-policy",
+    "https://tylermcgillivary.com/policies/refund-policy",
+    "https://www.nordstrom.com/browse/women/clothing/tops-tees/graphic"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "Meta: 'A womenswear brand based out of Brooklyn, New York that plays with bold colors and unique shapes.' hq_country US.",
+    "Shipping policy: processing 2–5 business days; 'Free shipping for domestic orders over $250'. International not stated; ships_to US.",
+    "Refund policy: returns started within 14 days of delivery (30 for December orders); full-price items refund, credit or exchange; sitewide-sale items exchange or credit only."
+  ],
+  "sells_categories": []
+}

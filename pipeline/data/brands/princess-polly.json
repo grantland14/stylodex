@@ -57,7 +57,8 @@
     "https://us.princesspolly.com/collections/dresses/products.json?limit=250",
     "https://us.princesspolly.com/pages/about-us",
     "https://us.princesspolly.com/pages/size-guide",
-    "https://us.princesspolly.com/api/mcp"
+    "https://us.princesspolly.com/api/mcp",
+    "https://www.nordstrom.com/browse/women/clothing/tops-tees/graphic"
   ],
   "checked_at": "2026-10-29",
   "notes": [
@@ -66,7 +67,8 @@
     "Store locator shows US stores in Scottsdale AZ, Santa Clara CA, Boston MA and Columbus OH (state filter also lists FL, NY, PA, TX) plus two in Australia.",
     "Curve range: e.g. Daily Define Thin Strap Halter Tank Top Black Curve in US 14–20; core range US 0–12. Daily Define fabric: 'lower-impact fabric', 87% reclaimed polyamide.",
     "About page: 'first burst onto the online retail scene from a beachside apartment on Australia's Gold Coast' in 2010; 'headquarters in West Hollywood (California, USA) and Burleigh Heads (Queensland, Australia)'; certified B Corp. hq_country left empty (two HQs).",
-    "Store policy search (us.princesspolly.com/api/mcp): returns within 30 days of delivery for exchange, gift card or refund, final sale excluded; free shipping over $50 USD; this store ships to US, CA, AU and others (no GB)."
+    "Store policy search (us.princesspolly.com/api/mcp): returns within 30 days of delivery for exchange, gift card or refund, final sale excluded; free shipping over $50 USD; this store ships to US, CA, AU and others (no GB).",
+    "2026-10-29 (brands-like-dressed-in-lala run): listed in Nordstrom's Women's Graphic Tees brand filter beside Dressed in Lala; tops price from the stores-like-edikted run reused unchanged."
   ],
   "sells_categories": [
     "dresses"

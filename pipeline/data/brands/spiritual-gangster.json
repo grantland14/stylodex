@@ -1,0 +1,57 @@
+{
+  "slug": "spiritual-gangster",
+  "name": "Spiritual Gangster",
+  "website_url": "https://spiritualgangster.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Yoga-Inspired Graphic Clothing",
+  "hq_country": null,
+  "founded_year": 2008,
+  "parent_company": null,
+  "size_range": "XS–XL",
+  "has_plus": false,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 99,
+  "returns_days": 21,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 48,
+      "max": 168,
+      "min_usd": 48,
+      "max_usd": 168,
+      "fx_date": null,
+      "item_count": 63,
+      "source_url": "https://spiritualgangster.com/collections/spiritual-gangster-womens-tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "63 regular-price in-stock tops of 135 in the women's tops collection (71 marked down, 1 sale-tagged). Low: HeatherLight Lunar Spirit Crop Tank $48; high: Sacred Phases Button Down Shirt $168. Median $58; 60 under $100; mostly tanks (Tanks 34, Crop Tank 9, Muscle Tank 8). Examples: Sacred Phases Dakota Crop Tank $58 (100% cotton), Moon Magic Crop Long Sleeve Tee $78 (100% cotton). Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (sweaters, cardigans, hoodies, sweatshirts, jackets, bottoms, dresses, sets, kids', men's, accessories) dropped by title/product type."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://spiritualgangster.com/",
+    "https://spiritualgangster.com/collections/spiritual-gangster-womens-tops/products.json?limit=250",
+    "https://spiritualgangster.com/policies/shipping-policy",
+    "https://spiritualgangster.com/policies/refund-policy",
+    "https://spiritualgangster.com/pages/our-story",
+    "https://www.nordstrom.com/browse/women/clothing/tops-tees/graphic"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "Homepage title 'Shop Women's Activewear Yoga Wear and Spiritual Clothing'; meta 'Spiritual Gangster creates yoga-inspired clothing and accessories for the next generation of yogis.'",
+    "Our Story: 'Since 2008, Spiritual Gangster has grown from a yoga studio house brand into a global phenomenon.' No HQ stated; hq_country left empty.",
+    "Shipping policy: Standard 2–7 business days $7.99 or free over $99; 2-Day $19.99; Overnight $29.99; ships to all US territories; Canada and international 2–4 weeks, duties included. ships_to records US only (international list not named).",
+    "Refund policy: 21 days from the shipment date to start a return; unworn with tags; domestic returns free; final sale not returnable.",
+    "Sizes on regular-price tops: XS–XL."
+  ],
+  "sells_categories": []
+}

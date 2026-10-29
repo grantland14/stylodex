@@ -1,0 +1,63 @@
+{
+  "slug": "lauren-moshi",
+  "name": "Lauren Moshi",
+  "website_url": "https://laurenmoshi.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Hand-Drawn Graphic Tees",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–XL",
+  "has_plus": false,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "AU"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 30,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 66,
+      "max": 240,
+      "min_usd": 66,
+      "max_usd": 240,
+      "fx_date": null,
+      "item_count": 718,
+      "source_url": "https://laurenmoshi.com/collections/tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "718 regular-price in-stock tops of 1,481 products in the tops collection (25 sale-tagged, 25 sold out; hoodies, pullovers, pajamas, sweatpants excluded by product type). Low: Mabrie Color Happy Kettlebell tee $66; high: Sloane Plaid Lip $240. Median $110; 117 under $100. Types: S/S Tees 351, L/S Tops 164, Tanks 109. Example: Croft Lucky Cat S/S tee $121 (100% premium cotton, screen print with crystal appliqué, made in Los Angeles). Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (sweaters, cardigans, hoodies, sweatshirts, jackets, bottoms, dresses, sets, kids', men's, accessories) dropped by title/product type."
+    }
+  ],
+  "materials": [
+    "Premium cotton",
+    "Rayon-spandex waffle knit"
+  ],
+  "certifications": [],
+  "production_model": "Made in Los Angeles",
+  "sale_pattern": null,
+  "sources": [
+    "https://laurenmoshi.com/",
+    "https://laurenmoshi.com/collections/tops/products.json?limit=250",
+    "https://laurenmoshi.com/policies/shipping-policy",
+    "https://laurenmoshi.com/policies/refund-policy",
+    "https://laurenmoshi.com/pages/about-us",
+    "https://laurenmoshi.com/pages/store",
+    "https://www.nordstrom.com/browse/women/clothing/tops-tees/graphic"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "Homepage title 'Lauren Moshi | Women's Lifestyle Clothing & Art | Made in LA USA'; meta 'It Begins with Original Hand Drawn Art & Ends on Ultra Soft Premium Fabrics Designed Cut & Sewn in Los Angeles, CA Shop w/ Free Shipping & Returns on All Orders in Continental USA'.",
+    "About page: 'designed and made in Los Angeles'; 'each garment is crafted with great care by expert craftsmen in Los Angeles'. Product pages: 'MADE in LOS ANGELES'. hq_country US from that.",
+    "Store page: '107/109 N. ROBERTSON BLVD. WEST HOLLYWOOD, 90048'. us_stores true.",
+    "Policies (the shipping-policy and refund-policy pages carry each other's text): returns within 30 days of purchase for refund or exchange; FINAL SALE items excluded; returns to Commerce, CA. Ships via UPS ground in the continental US plus 2nd-Day and Next Day; international list includes Australia and Canada, duties paid by buyer.",
+    "Sizes on every regular-price top: XS–XL."
+  ],
+  "sells_categories": []
+}

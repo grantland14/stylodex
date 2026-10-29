@@ -1,0 +1,56 @@
+{
+  "slug": "aviator-nation",
+  "name": "Aviator Nation",
+  "website_url": "https://www.aviatornation.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "1970s California Lifestyle Apparel",
+  "hq_country": "US",
+  "founded_year": null,
+  "parent_company": null,
+  "size_range": "XS–XL",
+  "has_plus": false,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 69,
+      "max": 89,
+      "min_usd": 69,
+      "max_usd": 89,
+      "fx_date": null,
+      "item_count": 128,
+      "source_url": "https://www.aviatornation.com/collections/boyfriend-tees/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Women's boyfriend tees only: 128 regular-price in-stock of 136 (7 sold out, 1 sale-tagged; tags 'not-on-sale' count as regular). Low: Malibu Chili Cook-Off 2026 Boyfriend Tee $69; most $89, e.g. Logo V-Neck Jersey Boyfriend Tee $89 (50% cotton, 37% polyester, 13% rayon). No women's tops collection beyond tees was found in collections.json. Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (sweaters, cardigans, hoodies, sweatshirts, jackets, bottoms, dresses, sets, kids', men's, accessories) dropped by title/product type."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.aviatornation.com/",
+    "https://www.aviatornation.com/collections/boyfriend-tees/products.json?limit=250",
+    "https://www.aviatornation.com/policies/shipping-policy",
+    "https://www.aviatornation.com/policies/refund-policy",
+    "https://www.nordstrom.com/browse/women/clothing/tops-tees/graphic"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "Meta: 'Aviator Nation is a 1970's inspired California lifestyle brand. Hand-made and perfectly distressed hoodies and sweatpants are the foundation of what we do.' Shipping policy: 'A majority of our orders will ship from our Los Angeles warehouse.' hq_country US from that.",
+    "Product copy: 'All of our products go through an intense breaking-down process that gives them a vintage feel'.",
+    "Refund policy: 30 days from purchase for refund, store credit or exchange on regular-priced items, unworn with tags; $9.50 fee on domestic refund returns using its label; free domestic exchanges; items more than 20% off final sale.",
+    "Ships internationally (duties paid by customer); countries not listed, so ships_to records US only. /pages/stores is 404; us_stores left empty.",
+    "Boyfriend tee sizes: S–XL on all, XS on 117 of 128, XXL on 5."
+  ],
+  "sells_categories": []
+}

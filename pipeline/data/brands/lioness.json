@@ -78,7 +78,8 @@
     "https://us.lionessfashion.com/policies/refund-policy",
     "https://us.lionessfashion.com/cart.js",
     "https://us.lionessfashion.com/collections/denim/products.json?limit=250",
-    "https://us.lionessfashion.com/collections/dresses/products.json?limit=250"
+    "https://us.lionessfashion.com/collections/dresses/products.json?limit=250",
+    "https://www.nordstrom.com/browse/women/clothing/tops-tees/graphic"
   ],
   "notes": [
     "Shipping page: \"All prices shown on LIONESS are in AUD\"; business based in Sydney, Australia. Its \"Delivery to\" list names Australia, UK, Canada, New Zealand, Europe, Asia and \"Rest of world\", but not the United States, so US is not stored. Free express worldwide shipping \"for qualifying orders\" (no threshold stated).",
@@ -90,7 +91,8 @@
     "US returns: 30 days from delivery; free returns for store credit/exchange; refunds get a free label with a $15 deduction.",
     "known_for from the US meta: 'Australian fashion label inspired by current luxury trends'.",
     "2026-10-29 (brands-like-minga-london run): jeans price switched to the US store's USD prices ($85 Horseshoe Cropped Jean to $105 for most styles, e.g. Cobra Jean, Sloane Jean). The AU store charged A$79–A$109 for the same line. Product photos in product-images.json still come from the AU feed in AUD; re-run product-images.mjs.",
-    "2026-10-29 (brands-like-selkie run): US dresses $55–$115, 84 regular-price items, sizes XXS–XXL."
+    "2026-10-29 (brands-like-selkie run): US dresses $55–$115, 84 regular-price items, sizes XXS–XXL.",
+    "2026-10-29 (brands-like-dressed-in-lala run): listed in Nordstrom's Women's Graphic Tees brand filter beside Dressed in Lala; tops price from the stores-like-edikted run reused unchanged."
   ],
   "checked_at": "2026-10-29",
   "sells_categories": [

@@ -26,6 +26,19 @@
       "source_url": "https://petalandpup.com/collections/dresses",
       "checked_at": "2026-10-29",
       "note": "Shopify feed /collections/dresses/products.json (US store, USD), 1,792 products; 749 marked down excluded; 1,042 regular-price in stock titled as dresses. Lowest Denzella Mini Dress $59; highest Margot Maxi Dress $149; median $99; common points $89, $99 and $109. Named: Avina Maxi Dress $79."
+    },
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 37,
+      "max": 109,
+      "min_usd": 37,
+      "max_usd": 109,
+      "fx_date": null,
+      "item_count": 339,
+      "source_url": "https://petalandpup.com/collections/casual-tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Read from casual-tops, going-out-tops, blouses-shirts, crop-tops and long-sleeve-tops (632 unique products): 339 regular-price in-stock tops (234 marked down, 4 sale-tagged). Low: Adina Knit Top - Pink $37; high: Cornelia Denim Shirt - Blue $109. Median $59; 338 under $100. Examples: Xanthe Mesh Top - Green Floral $59, Britney Gathered Top - Navy $59. Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (sweaters, cardigans, hoodies, sweatshirts, jackets, bottoms, dresses, sets, kids', men's, accessories) dropped by title/product type."
     }
   ],
   "sells_categories": [
@@ -36,14 +49,21 @@
     "https://petalandpup.com/pages/about-us",
     "https://petalandpup.com/policies/shipping-policy",
     "https://petalandpup.com/policies/refund-policy",
-    "https://petalandpup.com/collections/dresses"
+    "https://petalandpup.com/collections/dresses",
+    "https://petalandpup.com/collections/casual-tops/products.json?limit=250",
+    "https://petalandpup.com/collections/going-out-tops/products.json?limit=250",
+    "https://petalandpup.com/collections/blouses-shirts/products.json?limit=250",
+    "https://petalandpup.com/collections/crop-tops/products.json?limit=250",
+    "https://petalandpup.com/collections/long-sleeve-tops/products.json?limit=250",
+    "https://www.nordstrom.com/browse/women/clothing/tops-tees/graphic"
   ],
   "notes": [
     "Homepage title 'Petal & Pup - Shop USA Women's Clothing & Fashion Online'; meta 'affordable, on trend, young women's fashion. Shop dresses, jumpsuits and more'. Store currency USD.",
     "About: 'Aussie Born. Loved Everywhere.'; from 'Australia's Sunshine State'. hq_country AU.",
     "Shipping policy (USD): US Standard $9.95 under $80, free over $80, 3–6 business days; Overnight $29.95; Canada $9.95; rest of world $14.95.",
     "Refund policy: returns shipped back within 30 days of delivery for refund, store credit or exchange; $9.95 deducted from refunds; US return portal.",
-    "Sizes from feed options: XXS–XXL and 0–16."
+    "Sizes from feed options: XXS–XXL and 0–16.",
+    "2026-10-29 (brands-like-dressed-in-lala run): tops price added; Petal & Pup is listed in Nordstrom's Women's Graphic Tees brand filter."
   ],
   "checked_at": "2026-10-29",
   "materials": [],

@@ -37,6 +37,19 @@
       "source_url": "https://damsonmadder.com/en-us/collections/coats-jackets/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "46 regular-price items of 46 in the collection (0 on sale excluded, 0 non-outerwear or other-vendor excluded). US market prices (/en-us, cart currency USD). The same coats cost much less on the UK store: e.g. Matilda Waterproof Raincoat - Gingham $280 US vs £135 UK (about $179); Pearl Hooded Puffer $300 vs £145; Reversible Wool Blend Jerry Coat $445 vs £215 (https://damsonmadder.com/collections/coats-jackets/products.json). Bestsellers collection: 16 of 51 products are OUTERWEAR, the largest type."
+    },
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 55,
+      "max": 180,
+      "min_usd": 55,
+      "max_usd": 180,
+      "fx_date": null,
+      "item_count": 84,
+      "source_url": "https://damsonmadder.com/en-us/collections/tops/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US market prices (/en-us). 84 regular-price in-stock tops of 121 in the tops collection (6 sold out; cardigans, bralettes and outerwear excluded). Low: Lua Long Sleeve Pointelle Top - Grey Marl $55; high: Everly Ruffle Blouse / Summer Sandy Blouse $180. Median $110; 37 under $100. Examples: Samara Long Sleeve Top - Blue Stripe $95, Scottie Long Sleeve Tee - Olive Stripe $105. Same tops on the UK store run £28–£85. Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (sweaters, cardigans, hoodies, sweatshirts, jackets, bottoms, dresses, sets, kids', men's, accessories) dropped by title/product type."
     }
   ],
   "sources": [
@@ -49,7 +62,9 @@
     "https://damsonmadder.com/en-us/collections/coats-jackets/products.json?limit=250",
     "https://damsonmadder.com/collections/coats-jackets/products.json?limit=250",
     "https://damsonmadder.com/en-us/collections/bestsellers/products.json?limit=250",
-    "https://damsonmadder.com/en-us/cart.js"
+    "https://damsonmadder.com/en-us/cart.js",
+    "https://damsonmadder.com/en-us/collections/tops/products.json?limit=250",
+    "https://www.nordstrom.com/browse/women/clothing/tops-tees/graphic"
   ],
   "notes": [
     "About page: 'Damson Madder was born in the Spring of 2020'; responsible practices, transparency and small-batch production; 'Exciting design, enduring quality, conscious production'. meta.json: London, GB.",
@@ -57,7 +72,8 @@
     "Returns: full-price items within 28 days of delivery, sale items 14 days; US refund return label costs $20 (UPS); exchanges free for US customers.",
     "US store sells sizes 2–16 on 331 apparel products; the UK store lists the same items as 6–20 (UK). Jeans run W24–W40.",
     "Responsibility page: in 2025 over 92% of its cotton was organic or recycled, supported by GOTS, OCS or GRS certification; over 75% of fibres plant-based; under 5% virgin synthetics.",
-    "known_for built from its own positioning: 190 of 518 products tagged 'pattern'; about page 'responsible practices'. Coats & Jackets collection includes a 'Reversible & Multiway' line (Jerry reversible trenches, Opal reversible puffers)."
+    "known_for built from its own positioning: 190 of 518 products tagged 'pattern'; about page 'responsible practices'. Coats & Jackets collection includes a 'Reversible & Multiway' line (Jerry reversible trenches, Opal reversible puffers).",
+    "2026-10-29 (brands-like-dressed-in-lala run): tops price from the US market feed; Damson Madder is listed in Nordstrom's Women's Graphic Tees brand filter."
   ],
   "checked_at": "2026-10-29",
   "slug": "damson-madder"

@@ -1,0 +1,55 @@
+{
+  "slug": "junk-food",
+  "name": "Junk Food Clothing",
+  "website_url": "https://www.junkfoodclothing.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Vintage-Inspired Licensed Graphic Tees",
+  "hq_country": null,
+  "founded_year": 1998,
+  "parent_company": null,
+  "size_range": "XXS–XXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": 75,
+  "returns_days": 30,
+  "us_stores": null,
+  "prices": [
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 34,
+      "max": 138,
+      "min_usd": 34,
+      "max_usd": 138,
+      "fx_date": null,
+      "item_count": 374,
+      "source_url": "https://www.junkfoodclothing.com/collections/womens/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "374 regular-price in-stock tops among 2,130 products in the womens collection (453 marked down, 451 sale-tagged excluded). Low: Women's Crop Mock Neck Tee $34; high: Unisex Twill Plaid Boxy Shirt $138. Median $52; 363 under $100; Tees 327. Examples: Women's SuperGirl X Blondie Rocker Original Tee $58, Women's Weekends are for Football Vintage Tee $52. Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (sweaters, cardigans, hoodies, sweatshirts, jackets, bottoms, dresses, sets, kids', men's, accessories) dropped by title/product type."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.junkfoodclothing.com/",
+    "https://www.junkfoodclothing.com/collections/womens/products.json?limit=250",
+    "https://www.junkfoodclothing.com/policies/shipping-policy",
+    "https://www.junkfoodclothing.com/policies/refund-policy",
+    "https://www.nordstrom.com/browse/women/clothing/tops-tees/graphic"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "Meta: 'Junk Food has been making your favorite tees since 1998. We use high quality fabrics, signature washes & unique vintage details ... original licensed graphics by Disney, Star Wars, Budweiser, The Beatles, Grateful Dead, AC/DC, NFL and NBA teams, and many more. Free shipping on orders $75+.'",
+    "Shipping policy: 'Shipments within Continental U.S. ONLY'; Standard Ground 7–10 business days $8, free on orders $75+; 2-Day $18; Overnight $24; no P.O. boxes.",
+    "Refund policy: returns within 30 days of shipment received, unworn with tags, label by email; no exchanges (reorder and return).",
+    "Women's top sizes in the feed: XXS–XXL (XXS on 59 styles)."
+  ],
+  "sells_categories": []
+}

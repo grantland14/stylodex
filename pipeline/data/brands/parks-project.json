@@ -1,0 +1,56 @@
+{
+  "slug": "parks-project",
+  "name": "Parks Project",
+  "website_url": "https://www.parksproject.us",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "National Parks Graphic Tees",
+  "hq_country": null,
+  "founded_year": 2014,
+  "parent_company": null,
+  "size_range": "XS–3XL",
+  "has_plus": true,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "us_stores": true,
+  "prices": [
+    {
+      "category": "tops",
+      "currency": "USD",
+      "min": 34,
+      "max": 65,
+      "min_usd": 34,
+      "max_usd": 65,
+      "fx_date": null,
+      "item_count": 18,
+      "source_url": "https://www.parksproject.us/collections/womens/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "18 regular-price in-stock women's tops in the womens collection (66 products; 4 marked down). Low: LA River Blue Heron Tank $34; high: Parks Project x Audubon Women's Waffle Long Sleeve Tee $65. Median $42. Examples: Naturalist Club Boxy Tank $36 (100% cotton, all-over embroidery of park animals), Zion Puff Print Pocket Tee $42. The unisex tees collection (285) is larger; this range covers the women's cut only. Regular price = in stock, no variant with compare_at_price above price, no sale/markdown/clearance tag; non-top items (sweaters, cardigans, hoodies, sweatshirts, jackets, bottoms, dresses, sets, kids', men's, accessories) dropped by title/product type."
+    }
+  ],
+  "materials": [],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.parksproject.us/",
+    "https://www.parksproject.us/collections/womens/products.json?limit=250",
+    "https://www.parksproject.us/policies/refund-policy",
+    "https://www.parksproject.us/pages/about-parks-project",
+    "https://www.nordstrom.com/browse/women/clothing/tops-tees/graphic"
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "Meta: 'National Parks T-Shirts, Hats and Accessories made with purpose ... we're given back over $2.8 million to parklands.' About page: 'Parks Project has contributed over $2,900,000 to help fund vital projects in parks around the US'; timeline '2014 - Parks Project is born'.",
+    "About page lists 'Our Store: Discovery Center' and a banner 'NEW SAN FRANCISCO STORE IS OPEN' (Hayes Valley). us_stores true. HQ city not stated; hq_country left empty.",
+    "Refund policy: returns within 30 days of purchase, unworn with tags, via Loop portal; domestic exchanges free; $9.00 handling fee deducted from refunds; sale items final.",
+    "Homepage cart bar shows a free-shipping threshold placeholder but no amount; free_shipping_min_usd left empty.",
+    "Women's tops sizes XSmall–XXXLarge."
+  ],
+  "sells_categories": []
+}
