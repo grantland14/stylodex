@@ -1,0 +1,53 @@
+{
+  "slug": "aubade",
+  "name": "Aubade",
+  "website_url": "https://aubade.com/en-us",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Seductive Parisian Lingerie",
+  "hq_country": "FR",
+  "founded_year": 1958,
+  "size_range": "Bands 30–42, cups A–H",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 0,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "bras",
+      "currency": "USD",
+      "min": 119.0,
+      "max": 439.0,
+      "min_usd": 119.0,
+      "max_usd": 439.0,
+      "fx_date": null,
+      "item_count": 541,
+      "source_url": "https://aubade.com/en-us/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US market feed (/en-us/products.json, 8 pages, 1923 products; prices match /en-us/products/{handle}.js in USD). Product types Lingerie/Bras/*: 641 bras, none marked down, 100 sold out, 541 regular price in stock. Low: Sweetessence Moulded triangle bra $119; Sheer Emotion Triangle bra $129; Sheer Emotion Half cup $139; high: Under Your Spell and Queen of Shadow push-up bras $439. Median $185. The /collections/bras/products.json endpoint returns no products."
+    }
+  ],
+  "sells_categories": [
+    "bras"
+  ],
+  "sources": [
+    "https://aubade.com/en-us/products.json?limit=250",
+    "https://aubade.com/en-us/pages/help-and-faq",
+    "https://aubade.com/en-us/pages/who-are-we",
+    "https://aubade.com/en-us/pages/history",
+    "https://aubade.com/en-us/pages/size-guide"
+  ],
+  "notes": [
+    "US help page: shipping costs and returns are free in the USA with no minimum purchase; DHL, about 3 days; 30 days from receipt to return for free via the online portal; online orders can't be returned in Aubade stores; prices include taxes (https://aubade.com/en-us/pages/help-and-faq).",
+    "Delivers to the USA, Canada, Great Britain and Australia among others, only to the country of the store you order from (https://aubade.com/en-us/pages/help-and-faq).",
+    "Who we are and history: Paris lingerie house since 1958, based in the 1st arrondissement; roots in a corsetry workshop founded by Doctor Bernard in 1875, taken over by the Pasquier family; Claude Pasquier launched Aubade in 1958 (https://aubade.com/en-us/pages/who-are-we, https://aubade.com/en-us/pages/history).",
+    "US bra sizes on the feed run bands 30 to 42 (UK/US/CA per the size guide) and cups A to H; bralettes XS to XXL (https://aubade.com/en-us/pages/size-guide, https://aubade.com/en-us/products.json?limit=250).",
+    "Sheer Emotion Half cup ($139): underwired half-cup bra with see-through moulded tulle cups. Sheer Emotion Full cup Moulded Bandeau ($149) has detachable multiway straps. Sweetessence Spacer plunge bra ($139) goes up to cup G (https://aubade.com/en-us/products.json?limit=250).",
+    "US feed search for harness or leather: harness pieces are jewel, chain and twisted-cord accessories (Iconic Calypso, Chain of Love, Burning Desire) and detachable lace harnesses on some suspender belts and bras; the only leather-look material is the laminated faux leather of the Sunlight Glow swimwear. No leather lingerie (https://aubade.com/en-us/products.json?limit=250)."
+  ],
+  "checked_at": "2026-10-29"
+}

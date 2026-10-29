@@ -1,0 +1,318 @@
+{
+  "subject": "Mariemur",
+  "slug": "mariemur",
+  "url_prefix": "brands",
+  "category": {
+    "slug": "bras",
+    "name": "Bras",
+    "why": "C is a product type. Mariemur sells lingerie sets built from bras, panties, bodysuits and harnesses; its Lingerie > Bras collection (27 bras, $89 to $169) is the core piece of each set and the one product every candidate also sells (harnesses are accessories, and corsets are a single listing)."
+  },
+  "serp": [
+    {
+      "keyword": "brands like mariemur",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview (US) returned no rows for this keyword"
+    },
+    {
+      "keyword": "stores like mariemur",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview (US) returned no rows for this keyword"
+    },
+    {
+      "keyword": "mariemur alternatives",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview (US) returned no rows for this keyword"
+    },
+    {
+      "keyword": "similar to mariemur",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Ahrefs serp-overview (US) returned no rows for this keyword"
+    },
+    {
+      "keyword": "brands like mariemur (web search)",
+      "position": null,
+      "url": "https://amoreze.com/blogs/news/brands-like-marie-mur-harness-lingerie-and-bold-accessories-amoreze",
+      "kept": true,
+      "why": "Amoreze blog (lingerie maker in Berlin), 'Brands Like Marie Mur', last updated February 2026, fetched with StylodexBot UA. Names Amoreze itself and Aubade as alternatives to Marie Mur, plus unnamed Berlin concept stores and Nordic boutiques. Self-interested: the publisher sells harnesses."
+    },
+    {
+      "keyword": "brands like mariemur (web search)",
+      "position": null,
+      "url": "https://amoreze.com/blogs/news/premium-lingerie-brands-similar-to-agent-provocateur-and-mariemur-and-the-ones-you-havent-found-yet",
+      "kept": true,
+      "why": "Amoreze blog, 'Premium Lingerie Brands Similar to Agent Provocateur and Mariemur', fetched. Lists Agent Provocateur, La Perla, Rigby & Peller and Amoreze as premium brands similar to Mariemur. Same publisher as the first post, so counted as one independent source."
+    },
+    {
+      "keyword": "brands like mariemur (web search)",
+      "position": null,
+      "url": "https://amoreze.com/blogs/news/best-luxury-lingerie-brands-for-special-occasions-and-who-they-re-really-for",
+      "kept": false,
+      "why_dropped": "Amoreze blog, 'Best Luxury Lingerie Brands for Special Occasions': a list of talked-about brands with Mariemur as one entry (Bordelle, La Perla, Fraulein Kink, Amoreze); none framed as an alternative to it"
+    },
+    {
+      "keyword": "brands like mariemur (web search)",
+      "position": null,
+      "url": "https://www.apartstyle.com/post/brands-like-mariemur",
+      "kept": false,
+      "why_dropped": "apartstyle.com never counts (README)"
+    },
+    {
+      "keyword": "brands like mariemur (web search)",
+      "position": null,
+      "url": "https://www.cbinsights.com/company/mariemur/alternatives-competitors",
+      "kept": false,
+      "why_dropped": "CB Insights competitor lists (and its /compare/ pages): algorithmic business-database matches (Hanky Panky, La Senza, BEVZA, Natori, LIVY, Nenes Paris, Penti), no editorial recommendation. Same treatment as similist-style lists."
+    },
+    {
+      "keyword": "brands like mariemur (web search)",
+      "position": null,
+      "url": "https://www.similarweb.com/website/mariemur.com/competitors/",
+      "kept": false,
+      "why_dropped": "traffic-overlap ranking, no editorial content"
+    },
+    {
+      "keyword": "brands like mariemur (web search)",
+      "position": null,
+      "url": "https://thingtesting.com/brands/mariemur/similar",
+      "kept": false,
+      "why_dropped": "fetched: 'Could not find any brands similar to MARIEMUR'"
+    },
+    {
+      "keyword": "brands like mariemur (web search)",
+      "position": null,
+      "url": "https://www.boudoirbytutti.com/blog/lingerie-brands-im-obsessed-with",
+      "kept": false,
+      "why_dropped": "search snippet: a photographer's favourite-brands list naming Mariemur and Bluebella side by side; not alternatives to Mariemur. Not fetched."
+    },
+    {
+      "keyword": "brands like mariemur (web search)",
+      "position": null,
+      "url": "https://becomingfireboudoir.com/wardrobe-styling",
+      "kept": false,
+      "why_dropped": "search snippet: a boudoir studio's list of recommended lingerie brands with Mariemur as one entry; not alternatives. Not fetched."
+    },
+    {
+      "keyword": "(directory)",
+      "position": null,
+      "url": "https://www.discobrands.co/sitemap.xml",
+      "kept": false,
+      "why_dropped": "disco directory sitemap (6,227 URLs) has no Mariemur page; its Thistle and Spire list is about another anchor"
+    },
+    {
+      "keyword": "brands like mariemur (web search)",
+      "position": null,
+      "url": null,
+      "kept": false,
+      "why_dropped": "Reddit, TikTok, Lemon8 and Pinterest: no thread or post surfaced in eight web searches; Reddit would be refused anyway"
+    }
+  ],
+  "co_stocking": [
+    {
+      "retailer": "none found",
+      "url": null,
+      "used": false,
+      "why": "A web search of Revolve, Nordstrom, Selfridges, Bloomingdale's and Shopbop turned up no Mariemur listings; it sells through its own store."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Aubade",
+      "slug": "aubade",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://amoreze.com/blogs/news/brands-like-marie-mur-harness-lingerie-and-bold-accessories-amoreze"
+        }
+      ]
+    },
+    {
+      "name": "La Perla",
+      "slug": "la-perla",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://amoreze.com/blogs/news/premium-lingerie-brands-similar-to-agent-provocateur-and-mariemur-and-the-ones-you-havent-found-yet"
+        }
+      ]
+    },
+    {
+      "name": "Agent Provocateur",
+      "slug": "agent-provocateur",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://amoreze.com/blogs/news/premium-lingerie-brands-similar-to-agent-provocateur-and-mariemur-and-the-ones-you-havent-found-yet"
+        }
+      ]
+    },
+    {
+      "name": "Rigby & Peller",
+      "slug": "rigby-and-peller",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://amoreze.com/blogs/news/premium-lingerie-brands-similar-to-agent-provocateur-and-mariemur-and-the-ones-you-havent-found-yet"
+        }
+      ]
+    },
+    {
+      "name": "Amoreze",
+      "slug": "amoreze",
+      "in_apart_pool": false,
+      "sources": [
+        {
+          "kind": "serp_comention",
+          "url": "https://amoreze.com/blogs/news/brands-like-marie-mur-harness-lingerie-and-bold-accessories-amoreze"
+        },
+        {
+          "kind": "serp_comention",
+          "url": "https://amoreze.com/blogs/news/premium-lingerie-brands-similar-to-agent-provocateur-and-mariemur-and-the-ones-you-havent-found-yet"
+        }
+      ]
+    }
+  ],
+  "picks": [
+    {
+      "slug": "aubade",
+      "rank": 1,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 119.0,
+        "max": 439.0,
+        "min_usd": 119.0,
+        "max_usd": 439.0,
+        "fx_date": null,
+        "item_count": 541
+      },
+      "price_relation": "similar",
+      "reason": "Paris lingerie house since 1958 whose US bras run $119 to $439 in bands 30 to 42 and cups A to H, against Mariemur's XS to 2XL bras at $89 to $169, with free US shipping and returns.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://amoreze.com/blogs/news/brands-like-marie-mur-harness-lingerie-and-bold-accessories-amoreze",
+          "note": "Named under 'the brands that best capture this aesthetic' when searching for Marie Mur alternatives: 'Aubade has expanded into harness-inspired designs ... lace and silk alongside leather elements'; price table puts Aubade at EUR 150 to 350 against Marie Mur EUR 200 to 500."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    },
+    {
+      "slug": "la-perla",
+      "rank": 2,
+      "independent_sources": 1,
+      "single_source": true,
+      "price": {
+        "currency": "USD",
+        "min": 365.0,
+        "max": 820.0,
+        "min_usd": 365.0,
+        "max_usd": 820.0,
+        "fx_date": null,
+        "item_count": 35
+      },
+      "price_relation": "pricier",
+      "reason": "Bologna corsetry atelier since 1954 selling US bras in Leavers lace and silk satin soutache at $365 to $820, above Mariemur's $89 to $169, with duties included in the price.",
+      "evidence": [
+        {
+          "kind": "serp_comention",
+          "url": "https://amoreze.com/blogs/news/premium-lingerie-brands-similar-to-agent-provocateur-and-mariemur-and-the-ones-you-havent-found-yet",
+          "note": "One of the 'Premium Lingerie Brands Similar to Agent Provocateur and Mariemur': 'La Perla, The Old-World Luxury Anchor ... silk, intricate lace, supreme construction', price range GBP 150 to 600+."
+        }
+      ],
+      "gate_gaps": [
+        "image_url"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "agent-provocateur",
+      "why": "Amoreze post 2. agentprovocateur.com returns 403 to the bot UA and to WebFetch; status unverified, no prices. Human check."
+    },
+    {
+      "slug": "rigby-and-peller",
+      "why": "Amoreze post 2. rigbyandpeller.com returns 403 to the bot UA and to WebFetch; status unverified. A multi-brand retailer (kind retailer) if verified."
+    },
+    {
+      "slug": "amoreze",
+      "why": "Its only evidence is its own blog recommending itself, which isn't outside evidence. Not verified. Also sells harnesses and bralettes in EUR from Berlin, made to order."
+    }
+  ],
+  "human_check": [
+    {
+      "fact": "evidence base",
+      "url": "https://amoreze.com/blogs/news/brands-like-marie-mur-harness-lingerie-and-bold-accessories-amoreze",
+      "check": "Both kept sources are one Berlin harness maker's own blog, which promotes itself. It's the only page found that recommends brands as alternatives to Mariemur. Decide whether a competitor's blog should count; if not, the page has no evidence and both picks drop."
+    },
+    {
+      "fact": "mariemur hq_country = US, founded_year = 2017",
+      "url": "https://www.cbinsights.com/company/mariemur",
+      "check": "From CB Insights only (Sheridan, Wyoming registered-agent address). mariemur.com names no HQ; its US warehouse and returns address are in Middletown, PA. Confirm, or clear both fields (hq_country is required by the gate)."
+    },
+    {
+      "fact": "mariemur returns_days = 45",
+      "url": "https://mariemur.com/pages/returns",
+      "check": "Footer-linked returns page and FAQ say 45 days; an older unlinked /pages/return-policy says 30. 45 used."
+    },
+    {
+      "fact": "agent-provocateur, rigby-and-peller unverified",
+      "url": "https://www.agentprovocateur.com/us_en/lingerie/bras",
+      "check": "Both 403 the bot and WebFetch. If a human verifies them (bras, US shipping, prices), they become picks 3 and 4; the page would still be under the floor of 6."
+    }
+  ],
+  "checked_at": "2026-10-29",
+  "notes": [
+    "Only 2 picks pass enrich.md section 3, under the floor of 6, so the page renders noindex. Not padded.",
+    "Ahrefs had no SERP rows for any of the four keywords (4 calls). Eight web searches found one publisher (amoreze.com, two posts) that recommends brands as alternatives to Mariemur; everything else was Apart Style, CB Insights or Similarweb competitor lists, or favourites lists. The disco directory has no Mariemur page.",
+    "All prices are USD as a US shopper is charged: Mariemur's store is USD/US, Aubade and La Perla read from their /en-us market (feeds checked against /en-us/products/{handle}.js). Aubade overlaps Mariemur's $89 to $169 (similar); La Perla starts at $365 (pricier).",
+    "Shopify robots.txt disallows /policies/ on these stores, so shipping and returns came from /pages/ only."
+  ],
+  "author": "Ash",
+  "copy": {
+    "intro": "You've picked out a Mariemur bra, then reached the size options: XS to 2XL, with no band or cup to choose. If you know your exact bra size, that's a problem. These brands sell sheer, lace-heavy bras to the US in band-and-cup sizes, starting with the one closest to Mariemur's prices and ending with the splurge.",
+    "bodies": {
+      "aubade": "Aubade is the closest swap if you like Mariemur's sheer pieces but want a bra sized by band and cup. The Sheer Emotion Half cup ($139) is the one to start with. It's an underwired bra with see-through moulded tulle cups, priced inside Mariemur's $89 to $169 range.\n\nAubade is a Paris lingerie house that launched in 1958, and its US store runs bands 30 to 42 and cups A to H. Need a G cup? The Sweetessence Spacer plunge bra ($139) goes that far. Shipping and returns are free in the US with no minimum, so a single bra doesn't pick up the $12.90 Mariemur charges below $350.\n\nThe catch is time. You get 30 days to send something back, against Mariemur's 45. And the harness pieces here are chain and cord, not leather.",
+      "la-perla": "La Perla is the bra to save up for. It began as Ada Masotti's corsetry atelier in Bologna in 1954. Even its cheapest bra, the Plunge Bra Romantica ($365) in Leavers lace and sheer tulle, costs more than twice Mariemur's priciest.\n\nIf you want something sculptural, start with Pure Black. The Plunge Bra Pure Black ($390) is built from Italian stretch silk satin soutache. Sizes use Italian numbers, 1 to 5 with cups A to E, which line up with UK bands 32 to 40. Duties are already in the price.\n\nShipping costs $25 unless you spend $680, and returns close after 30 days. If you want a bigger cup range or a smaller bill, Aubade covers both."
+    },
+    "best_for": {
+      "aubade": "a 32G or 40C with Mariemur's sheer look",
+      "la-perla": "one silk or Leavers lace bra worth saving for"
+    },
+    "closing": {
+      "heading": "How to choose",
+      "body": "Start with how you buy bras. If letter sizes work for you, Mariemur's XS to 2XL is the simplest route, and its leather harnesses have no match here. If you shop by band and cup, Aubade covers 30 to 42 and A to H for $119 to $439, with free US shipping both ways. La Perla is for one standout piece. Its bras run $365 to $820, cups stop at E, and you'll pay $25 shipping below $680. So for most budgets, Aubade is the first stop and La Perla the occasional treat."
+    },
+    "faqs": [
+      {
+        "q": "Is Mariemur legit?",
+        "a": "Mariemur sells its own label from mariemur.com in US dollars and ships US orders from a US warehouse. Bras and bodysuits can go back within 45 days with a free US return label, but panties and latex can't be returned.",
+        "source_query": "is mariemur legit"
+      },
+      {
+        "q": "Where does Mariemur ship from?",
+        "a": "US orders ship from Mariemur's US warehouse, usually the next business day, and returns go to Middletown, Pennsylvania. Standard US delivery costs $12.90 and takes 3 to 6 business days, or it's free over $350.",
+        "source_query": "where does mariemur ship from"
+      },
+      {
+        "q": "What is Mariemur?",
+        "a": "Mariemur is a lingerie label known for strappy sets, leather harnesses and bodysuits, made with lace and Italian leather. Its bras cost $89 to $169 and come in XS to 2XL.",
+        "source_query": "what is mariemur"
+      }
+    ]
+  }
+}

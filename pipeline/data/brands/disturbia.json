@@ -33,6 +33,19 @@
       "source_url": "https://www.disturbia.us/collections/new-tops/products.json?limit=250",
       "checked_at": "2026-10-29",
       "note": "US store. 12 regular-price in-stock tops of 199 in the New Tops collection (185 marked down, 2 sold out; sweaters, cardigans, hoodies, kimonos excluded). Low: Void Bloom Flocked Mesh Shrug Top $40; Zuri Distressed Long Sleeve Top $43, Ouro Long Sleeve Embroidered T-Shirt $46; high: Disturbia x The Witcher Flocked Mesh Shrug Cami Top $68. Currency USD (cart.js). Regular price = in stock, no variant with compare_at_price above price."
+    },
+    {
+      "category": "graphic-tees",
+      "currency": "USD",
+      "min": 54,
+      "max": 57,
+      "min_usd": 54,
+      "max_usd": 57,
+      "fx_date": null,
+      "item_count": 2,
+      "source_url": "https://www.disturbia.us/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US store full catalog (products.json, 12 pages, 3,000 products): 60 product type T-Shirts, 53 marked down (compare_at above price). Of the 7 at regular price, 2 are in-stock short-sleeve graphic tees: Disturbia x The Witcher Lace Up Shrunken T-Shirt $54 (tonal wolf print) and Disturbia x The Witcher Lace Up Oversized T-Shirt $57 (Yennefer graphic). Excluded: Ouro Long Sleeve Embroidered T-Shirt (long sleeve), Fianna (embroidered, sold out), Mercury, Folklore and Xove (sold out, $40–$42). Sizes US 2–16. Women's tees; no men's tee line."
     }
   ],
   "materials": [],
@@ -48,13 +61,18 @@
     "https://www.disturbia.us/cart.js",
     "https://www.disturbia.us/collections/new-tops/products.json?limit=250",
     "https://www.disturbia.us/policies/shipping-policy",
-    "https://www.disturbia.us/policies/refund-policy"
+    "https://www.disturbia.us/policies/refund-policy",
+    "https://www.disturbia.us/robots.txt",
+    "https://www.disturbia.us/collections.json?limit=250",
+    "https://www.disturbia.us/products.json?limit=250"
   ],
   "notes": [
     "2026-10-29 (brands-like-unif run): UK store disturbia.co.uk (meta.json city Cramlington, GB; GBP; ships to US, GB, AU and 185 more). Its title: 'Alternative, Gothic & Dark Romantic Clothing, Accessories & Lifestyle'. US store disturbia.us (meta.json city Grove City, Ohio, US; USD; ships to US, CA, MX). website_url set to the US store for US shoppers.",
     "disturbia.us banner: 'DUTIES & TAXES INCLUDED' and 'FREE US DELIVERY On orders over $175'. Size menu US 2–20.",
     "Refund policy: returns must be received within 30 days of dispatch; exchanges in the UK, USA and some EU countries; customer pays return shipping, replacement shipping free. US orders (prefix 'A') have their own US returns portal.",
-    "Sale-heavy at read time: 185 of 199 US new-tops products marked down."
+    "Sale-heavy at read time: 185 of 199 US new-tops products marked down.",
+    "2026-10-29 (brands-like-stay-cold-apparel run): graphic-tees priced from the US catalog; 53 of 60 T-Shirts marked down, the two full-price graphic tees are the Disturbia x The Witcher collab, sizes US 2–16.",
+    "2026-10-29 (brands-like-stay-cold-apparel run) tee descriptions: Disturbia x The Witcher Lace Up Oversized T-Shirt ($57): Yennefer graphic 'hand-drawn by our in-house designer from official artwork', lace-up shoulder seams, oversized fit, cotton jersey. Disturbia x The Witcher Lace Up Shrunken T-Shirt ($54): tonal wolf medallion print at centre front, baby tee fit, lace-up sleeves, cotton jersey."
   ],
   "checked_at": "2026-10-29"
 }

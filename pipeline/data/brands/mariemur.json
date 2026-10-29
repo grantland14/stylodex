@@ -1,0 +1,62 @@
+{
+  "slug": "mariemur",
+  "name": "Mariemur",
+  "website_url": "https://mariemur.com/",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Strappy Lingerie and Leather Harnesses",
+  "hq_country": "US",
+  "founded_year": 2017,
+  "size_range": "XS–2XL",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 350,
+  "returns_days": 45,
+  "prices": [
+    {
+      "category": "bras",
+      "currency": "USD",
+      "min": 89.0,
+      "max": 169.0,
+      "min_usd": 89.0,
+      "max_usd": 169.0,
+      "fx_date": null,
+      "item_count": 27,
+      "source_url": "https://mariemur.com/collections/women-braswomen-bra/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "Lingerie > Bras collection products.json (store currency USD, Shopify.country US): 27 bras, all regular price (no compare_at above price), all in stock. Low: Joan Bra and Joan Lacquer Bra $89; Ivy, June and Nensi Bra $99; high: Alba Bra $139, Maeve Bra $169 (sold with gloves). Median $119. Every bra is sized XS, S, M, L, XL, 2XL."
+    }
+  ],
+  "materials": [
+    "Italian leather",
+    "Lace"
+  ],
+  "sells_categories": [
+    "bras"
+  ],
+  "sources": [
+    "https://mariemur.com/collections/women-braswomen-bra/products.json?limit=250",
+    "https://mariemur.com/pages/shipping",
+    "https://mariemur.com/pages/returns",
+    "https://mariemur.com/pages/shipping-policy",
+    "https://mariemur.com/pages/faq-mariemur",
+    "https://mariemur.com/pages/about-us",
+    "https://mariemur.com/pages/bra-sizechart",
+    "https://mariemur.com/",
+    "https://www.cbinsights.com/company/mariemur"
+  ],
+  "notes": [
+    "Homepage title: Luxury Leather, Lingerie, Bras and More for Women; meta description: luxury lingerie featuring strappy lingerie, leather harnesses, designer lingerie sets, sheer lingerie and statement intimates (https://mariemur.com/).",
+    "Shipping page (footer link): US Standard $12.90 (3 to 6 business days), Priority $15.90 (2 to 4), free on orders over $350 USD; ships next business day; US shopping is tax-free apart from local taxes; no PO Boxes, BFPO or APO/FPO (https://mariemur.com/pages/shipping). Older unlinked shipping-policy page lists the US under Shipping from US Warehouse (https://mariemur.com/pages/shipping-policy).",
+    "Returns page (footer link): 45 days from delivery to start a return; leather bras, lingerie bras and lingerie bodysuits are returnable; lingerie panties, latex, leather garters and full bodies, and some hosiery are not; US customers get free return shipping labels; refund to original payment or store credit; RMA address BRANDFOX - MARIEMUR, 400 Capital Lane 100, Middletown, PA 17057 (https://mariemur.com/pages/returns). An older unlinked return-policy page still says 30 days (https://mariemur.com/pages/return-policy); 45 days is used because the footer and FAQ both say 45.",
+    "FAQ: real Italian leather; discreet outer box with a red branded MARIEMUR box inside; personal fitting sessions with customer support; 45 days to return (https://mariemur.com/pages/faq-mariemur).",
+    "Country selector lists United States, Canada, United Kingdom and Australia; shipping page covers the US, Europe, UK, Canada and Australia (https://mariemur.com/pages/shipping).",
+    "Bra size chart: US/UK bands 30 to 44 mapped to underbust 25 to 40.5 inches; bras themselves are sold in XS to 2XL (https://mariemur.com/pages/bra-sizechart).",
+    "hq_country US and founded 2017 come from the CB Insights profile (30 North Gould Street Suite R, Sheridan, Wyoming, a registered-agent style address), not from the brand's own site, which names no HQ (https://www.cbinsights.com/company/mariemur)."
+  ],
+  "checked_at": "2026-10-29"
+}

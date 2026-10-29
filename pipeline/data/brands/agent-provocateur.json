@@ -1,0 +1,14 @@
+{
+  "slug": "agent-provocateur",
+  "name": "Agent Provocateur",
+  "website_url": "https://www.agentprovocateur.com/",
+  "status": "unverified",
+  "kind": "brand",
+  "sources": [
+    "https://www.agentprovocateur.com/us_en/lingerie/bras"
+  ],
+  "notes": [
+    "agentprovocateur.com returns 403 to the StylodexBot UA and to WebFetch (home page and /us_en/lingerie/bras); not worked around. Status unverified, human check (mariemur run)."
+  ],
+  "checked_at": "2026-10-29"
+}

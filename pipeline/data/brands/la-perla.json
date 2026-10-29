@@ -1,0 +1,58 @@
+{
+  "slug": "la-perla",
+  "name": "La Perla",
+  "website_url": "https://www.laperla.com/en-us",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Italian Luxury Lingerie",
+  "hq_country": "IT",
+  "founded_year": 1954,
+  "size_range": "Bands UK 32–40, cups A–E, XS–L",
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "free_shipping_min_usd": 680,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "bras",
+      "currency": "USD",
+      "min": 365.0,
+      "max": 820.0,
+      "min_usd": 365.0,
+      "max_usd": 820.0,
+      "fx_date": null,
+      "item_count": 35,
+      "source_url": "https://www.laperla.com/en-us/collections/plunge-bras/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US store (Shopify.country US, USD) bra collections bandeau-bralette-bras, plunge-bras, top-padded-bras, triangle-bras and underwired-balconette-bras, deduplicated: 35 bras, none marked down, all in stock. Low: Plunge Bra Romantica $365 (Leavers lace and sheer tulle); Plunge Bra Pure Black $390 (Italian stretch silk satin soutache); high: Push-Up Bra Sottovoce $710 (pre-order), Bralette Dream Mood $820. Median $480. Plunge Bra Pure Black checked at /en-us/products/{handle}.js: 39000 cents USD."
+    }
+  ],
+  "sells_categories": [
+    "bras"
+  ],
+  "sources": [
+    "https://www.laperla.com/en-us/collections/plunge-bras/products.json?limit=250",
+    "https://www.laperla.com/en-us/collections/triangle-bras/products.json?limit=250",
+    "https://www.laperla.com/en-us/collections/underwired-balconette-bras/products.json?limit=250",
+    "https://www.laperla.com/en-us/collections/top-padded-bras/products.json?limit=250",
+    "https://www.laperla.com/en-us/collections/bandeau-bralette-bras/products.json?limit=250",
+    "https://www.laperla.com/en-us/pages/shipping-delivery",
+    "https://www.laperla.com/en-us/pages/returns",
+    "https://www.laperla.com/en-us/pages/our-story",
+    "https://www.laperla.com/en-us/pages/size-chart"
+  ],
+  "notes": [
+    "Shipping page: United States $25, free over $680; Canada CAD 45, free over CAD 960; UK £20; Asia-Pacific including Australia $35; all import taxes and duties included in the price unless stated at checkout (https://www.laperla.com/en-us/pages/shipping-delivery).",
+    "Returns page: returns or exchanges within 30 days of receipt (https://www.laperla.com/en-us/pages/returns).",
+    "Our story: Ada Masotti started a corsetry atelier in Bologna in 1954; Collection #00 is made in the Bologna Atelier (https://www.laperla.com/en-us/pages/our-story).",
+    "Bras are sized in Italian numbers 1 to 5 with cups A to E; the size chart maps IT 1 to 5 to UK bands 32 to 40 (its US column is broken, showing 28 for every row). Bralettes XS to L (https://www.laperla.com/en-us/pages/size-chart).",
+    "Sottovoce bras are pre-order only, delivery expected mid to late November (https://www.laperla.com/en-us/collections/underwired-balconette-bras/products.json?limit=250).",
+    "US feed (/en-us/products.json, 154 products, one page) has no product mentioning leather or harness (https://www.laperla.com/en-us/products.json?limit=250).",
+    "Plunge Bra Pure Black ($390) product text: crafted from Italian stretch silk satin soutache and silk cordonnet, sculptural soutache lines and hand-finished heart motifs. Plunge Bra Romantica ($365): Leavers lace and sheer tulle with contrasting point d esprit (https://www.laperla.com/en-us/collections/plunge-bras/products.json?limit=250)."
+  ],
+  "checked_at": "2026-10-29"
+}

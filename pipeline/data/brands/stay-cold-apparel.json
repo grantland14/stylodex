@@ -1,0 +1,75 @@
+{
+  "slug": "stay-cold-apparel",
+  "name": "Stay Cold Apparel",
+  "website_url": "https://www.staycoldapparel.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Tattoo Streetwear",
+  "hq_country": "DE",
+  "founded_year": null,
+  "parent_company": "MASCANI GmbH",
+  "size_range": "Tees XS–3XL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US",
+    "CA",
+    "GB",
+    "AU"
+  ],
+  "us_stores": null,
+  "free_shipping_min_usd": null,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "graphic-tees",
+      "currency": "USD",
+      "min": 49,
+      "max": 91,
+      "min_usd": 49,
+      "max_usd": 91,
+      "fx_date": null,
+      "item_count": 152,
+      "source_url": "https://www.staycoldapparel.com/en-us/collections/t-shirts/products.json?limit=250",
+      "checked_at": "2026-10-29",
+      "note": "US storefront (/en-us, Shopify.currency USD, Shopify.country US; default store is EUR, e.g. Warthorn Mesh Jersey EUR 99.90 vs $114 on /en-us). T-Shirts collection 168 products: 152 regular-price short-sleeve T-Shirts product type. Price tiers: $49 classic tees (e.g. Full Moon Ritual T-Shirt), $51 Regular T-Shirt 200GSM (e.g. Wolfdawn), $57 Oversized T-Shirt 200GSM (e.g. Thornbreaker), $69 Heavy Oversized T-Shirt 250GSM (e.g. Mortal Shell, Reign Of Blood), $80 acid-washed heavy oversized (Blackout, Chamber Of Chaos), $91 Blackthorn Heavy Oversized T-Shirt (Acid Washed). Excluded: 2 with compare_at above price, jerseys (4), longsleeves (3), crop tops (3+1 Crop T-Shirt), flannel (1), 1 button-up. No markdown tags; Buy3Get1ForFree is a promo tag with no compare-at. US prices shown 'incl. tax'."
+    }
+  ],
+  "materials": [
+    "100% cotton"
+  ],
+  "certifications": [],
+  "production_model": null,
+  "sale_pattern": null,
+  "sources": [
+    "https://www.staycoldapparel.com/robots.txt",
+    "https://www.staycoldapparel.com/meta.json",
+    "https://www.staycoldapparel.com/collections.json?limit=250",
+    "https://www.staycoldapparel.com/products.json?limit=250&page=1",
+    "https://www.staycoldapparel.com/en-us",
+    "https://www.staycoldapparel.com/en-us/collections/t-shirts/products.json?limit=250",
+    "https://www.staycoldapparel.com/en-us/collections/bestsellers-30d/products.json?limit=250",
+    "https://www.staycoldapparel.com/en-us/collections/hoodies/products.json?limit=250",
+    "https://www.staycoldapparel.com/pages.json?limit=250",
+    "https://www.staycoldapparel.com/pages/return-policy",
+    "https://www.staycoldapparel.com/pages/shipping",
+    "https://www.staycoldapparel.com/pages/faq",
+    "https://www.staycoldapparel.com/pages/impressum",
+    "https://www.staycoldapparel.com/pages/size-chart-stay-cold-apparel-oversized-tee",
+    "https://www.staycoldapparel.com/pages/size-chart-stay-cold-apparel-regular-tee",
+    "https://www.staycoldapparel.com/en-us/policies/refund-policy.json"
+  ],
+  "notes": [
+    "meta.json: store Stay Cold Apparel, city Berlin, country DE, store currency EUR, 401 published products; description 'an extraordinary range of tattoo streetwear ... With more than 10 years in business, our Tattoo T-Shirts and Hoodies'. Ships to 93 countries incl. US, CA, GB, AU. www.staycoldapparel.us redirects to staycoldapparel.com (same Shopify shop rapid-4).",
+    "Catalog split (US storefront): T-Shirts collection 168 (157 product type T-Shirts), Hoodies 112; Bestsellers 30d (100): T-Shirts 32, Hoodies 32, Sweatpants 13. C = graphic-tees (largest line; every tee is a printed artwork).",
+    "Tee descriptions: designs made with tattoo artists (e.g. Wolfdawn with blackwork artist Carlos BLK; Full Moon Ritual with artwork by Andrey Lukovnikov); collab collections with Andrey Lukovnikov, burpi_brepzy and bro_oks_art. Fabric stated per tee: 200GSM 100% cotton (Regular and Oversized), 250GSM 100% cotton (Heavy Oversized).",
+    "Size charts: European sizing XS–3XL; oversized tee width 57–69 cm, regular tee 50–68 cm. size_range detail: S–3XL on all 152 regular-price tees, XS on 84.",
+    "Shipping (pages/shipping): free in Germany from EUR 70, most of Europe from EUR 120, worldwide from EUR 150. The US storefront free-shipping widget lists 'US,CA,TR: 14900' without a currency, so free_shipping_min_usd is left empty. FAQ: dispatched from the warehouse in Germany in 2–3 business days, USA 10–14 working days; import taxes and customs fees may apply outside the EU.",
+    "Returns (pages/return-policy): 30 days, extended 10 days after arrival for international shipments delivered after 30 days; unused, unwashed, original packaging; customer pays return shipping. Refund policy (German law) adds the 14-day statutory withdrawal right and the voluntary '30 Days Easy Returns'.",
+    "Impressum: operator MASCANI GMBH, Kolonnenstr. 8, 10827 Berlin; managing director Vivian Meurer. No founding year on the brand's own pages (a third-party guide says 2015; not stored).",
+    "No store locator found on the site; us_stores left empty.",
+    "Retailer: Impericon (impericon.com/collections/stay-cold-apparel, 82 products) stocks it in its streetwear department and lists it among Gothic top brands."
+  ],
+  "checked_at": "2026-10-29"
+}

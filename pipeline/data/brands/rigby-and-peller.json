@@ -1,0 +1,14 @@
+{
+  "slug": "rigby-and-peller",
+  "name": "Rigby & Peller",
+  "website_url": "https://www.rigbyandpeller.com/",
+  "status": "unverified",
+  "kind": "retailer",
+  "sources": [
+    "https://www.rigbyandpeller.com/en-us/lingerie/bras"
+  ],
+  "notes": [
+    "rigbyandpeller.com returns 403 to the StylodexBot UA and to WebFetch (home page and /en-us/lingerie/bras); robots.txt allows the paths. Not worked around. Status unverified, human check (mariemur run)."
+  ],
+  "checked_at": "2026-10-29"
+}

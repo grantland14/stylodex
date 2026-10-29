@@ -1,0 +1,62 @@
+{
+  "slug": "black-market-art-company",
+  "name": "Black Market Art Company",
+  "website_url": "https://blackmarketartco.com",
+  "status": "verified",
+  "kind": "brand",
+  "known_for": "Tattoo-Inspired Art and Apparel",
+  "hq_country": "US",
+  "founded_year": 2005,
+  "parent_company": null,
+  "size_range": "Tees S–XXL",
+  "has_plus": null,
+  "has_petite": null,
+  "has_tall": null,
+  "ships_to": [
+    "US"
+  ],
+  "us_stores": null,
+  "free_shipping_min_usd": 0,
+  "returns_days": 30,
+  "prices": [
+    {
+      "category": "graphic-tees",
+      "currency": "USD",
+      "min": 25.95,
+      "max": 33.95,
+      "min_usd": 25.95,
+      "max_usd": 33.95,
+      "fx_date": null,
+      "item_count": 73,
+      "source_url": "https://blackmarketartco.com/wp-json/wc/store/v1/products?category=126&per_page=100",
+      "checked_at": "2026-10-29",
+      "note": "WooCommerce Store API, men's T-Shirts category (id 126, 107 products, 2 pages): 73 regular-price in-stock men's tees, 34 on sale excluded (on_sale or price below regular_price). Tiers: $25.95 (8, e.g. Galleon Men's T-Shirt), $27.95 (49, e.g. Horror House Men's Tee, Samurai Skull Men's T-Shirt), $29.95 (8, e.g. Wolf Speed), $33.95 (Speed Demon Men's T-Shirt). Women's T-Shirts category (id 118, 98) not priced here."
+    }
+  ],
+  "materials": [
+    "100% ring-spun combed cotton"
+  ],
+  "certifications": [],
+  "production_model": "Made and screen printed in the USA",
+  "sale_pattern": null,
+  "sources": [
+    "https://blackmarketartcompany.com",
+    "https://blackmarketartco.com/robots.txt",
+    "https://blackmarketartco.com/",
+    "https://blackmarketartco.com/wp-json/wc/store/v1/products/categories?per_page=100",
+    "https://blackmarketartco.com/wp-json/wc/store/v1/products?category=126&per_page=100",
+    "https://blackmarketartco.com/wp-json/wc/store/v1/products?category=126&per_page=100&page=2",
+    "https://blackmarketartco.com/wp-json/wp/v2/pages?per_page=100",
+    "https://blackmarketartco.com/about-black-market-lowbrow-art/",
+    "https://blackmarketartco.com/shipping-and-returns-policy/"
+  ],
+  "notes": [
+    "blackmarketartcompany.com redirects to blackmarketartco.com (WooCommerce, USD). Title: 'Black Market Art Co | Unique Tattoo-Inspired Art & Apparel'.",
+    "About (about-black-market-lowbrow-art): Black Market & Lowbrow Art Companies 'Formed in 2005 in Southern California', partnered with hundreds of artists, styles 'from Traditional America Tattoo to Day of the Dead, Lowbrow, Asian, Pop Surrealism, Urban, Black & Gray'; art prints, apparel and accessories 'All Made in the USA'.",
+    "Tee descriptions (e.g. Horror House Men's Tee $27.95): 'Ring Spun 100% Fine Combed Cotton', 'Printed by Screen Printing Experts in the USA', 'Every Garment Comes With a Hang Tag With the Artists Name and Contact Information', 'Artwork Licensed by Artist', 'Proudly Made in the USA', unisex size, preshrunk.",
+    "Shipping: site banner 'Free Shipping USA' / 'Free Shipping on All Domestic Orders'. The policy mentions international orders but lists no countries, so ships_to stores US only.",
+    "Returns (shipping-and-returns-policy): exchange or refund within 30 days of receipt, no restocking fee, unworn/unwashed with hang tag; returnee pays return shipping; free reshipping for a size exchange. Return address Fountain Valley, CA.",
+    "size_range detail: all 73 regular-price men's tees S, M, L, XL, XXL."
+  ],
+  "checked_at": "2026-10-29"
+}
