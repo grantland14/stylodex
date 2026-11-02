@@ -1,3 +1,5 @@
+import type { BrandLook } from "./look";
+
 export type BrandStatus = "candidate" | "verified" | "off_category" | "defunct" | "unverified";
 export type PairStatus = "candidate" | "verified" | "rejected";
 export type PriceRelation = "cheaper" | "similar" | "pricier";
@@ -62,6 +64,8 @@ export interface Brand {
   /** Categories an official source confirms it sells when no online prices can be read (walk-in chains). */
   sellsCategories: string[];
   productShots: ProductShot[];
+  /** Banner photo, logo and page colour from the brand's own homepage, once reviewed (lib/look.ts). */
+  look: BrandLook | null;
 }
 
 export interface Evidence {

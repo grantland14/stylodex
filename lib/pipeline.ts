@@ -4,6 +4,7 @@
 
 import { existsSync, readdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
+import { lookFromJson } from "./look";
 import type { Brand, BrandsLikePage, CategoryPrice, Evidence, ProductShot, SimilarPick, UrlPrefix } from "./types";
 
 const DATA = join(process.cwd(), "pipeline", "data");
@@ -13,10 +14,11 @@ function readJson(path: string): any {
   return JSON.parse(readFileSync(path, "utf8"));
 }
 
-/** Media from pipeline/images.mjs and pipeline/product-images.mjs, keyed by brand slug. */
+/** Media from pipeline/images.mjs, product-images.mjs and look.mjs, keyed by brand slug. */
 export interface Media {
   images: Record<string, any>;
   products: Record<string, Record<string, any>>;
+  looks: Record<string, any>;
   copy: Record<string, any>;
 }
 
@@ -27,7 +29,7 @@ export function loadMedia(dataDir = DATA): Media {
   if (existsSync(copyDir)) {
     for (const f of readdirSync(copyDir).filter((x) => x.endsWith(".json"))) copy[f.replace(/\.json$/, "")] = readJson(join(copyDir, f));
   }
-  return { images: read("images.json"), products: read("product-images.json"), copy };
+  return { images: read("images.json"), products: read("product-images.json"), looks: read("looks.json"), copy };
 }
 
 function shotsFor(slug: string, media: Media): ProductShot[] {
@@ -45,7 +47,7 @@ function shotsFor(slug: string, media: Media): ProductShot[] {
   );
 }
 
-export function brandFromJson(slug: string, j: any, media: Media = { images: {}, products: {}, copy: {} }): Brand {
+export function brandFromJson(slug: string, j: any, media: Media = { images: {}, products: {}, looks: {}, copy: {} }): Brand {
   return {
     id: `pipeline-${slug}`,
     slug,
@@ -74,6 +76,7 @@ export function brandFromJson(slug: string, j: any, media: Media = { images: {},
     imageUrl: j.image_url ?? (media.images[slug]?.status === "ok" ? media.images[slug].path : null) ?? shotsFor(slug, media)[0]?.imageUrl ?? null,
     verifiedAt: j.verified_at ?? null,
     productShots: shotsFor(slug, media),
+    look: lookFromJson(media.looks[slug]),
     sellsCategories: j.sells_categories ?? [],
     prices: (j.prices ?? [])
       .filter((p: any) => p.min != null && p.max != null && p.min_usd != null && p.max_usd != null)

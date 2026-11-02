@@ -3,6 +3,7 @@
 // background, all from its own store, plus every list it appears on.
 import type { GetStaticPaths } from "astro";
 import ArrowUpRight from "../../components/ArrowUpRight.astro";
+import BrandHeader from "../../components/BrandHeader.astro";
 import ProductStrip from "../../components/ProductStrip.astro";
 import Base from "../../layouts/Base.astro";
 import { listAlternativesPages, listProfileBrands } from "@/lib/data";
@@ -101,44 +102,49 @@ const jsonLd = {
   index={indexable}
   jsonLd={jsonLd}
 >
+  {brand.look && <BrandHeader brand={{ ...brand, look: brand.look }} goHref={goHref} host={host} alternatives={alternatives} />}
   <article class="mx-auto max-w-3xl px-4 py-10 md:py-14">
-    <header class:list={[brand.imageUrl && "md:grid md:grid-cols-[1fr_14rem] md:items-start md:gap-10"]}>
-      <div>
-        <p class="eyebrow">{brand.kind === "retailer" ? "Store" : "Brand"}</p>
-        <h1 class="mt-2 text-4xl font-normal tracking-tight md:text-5xl">{brand.name}</h1>
-        {brand.knownFor && <p class="mt-3 text-lg leading-relaxed">Known for {brand.knownFor.toLowerCase()}.</p>}
-        {
-          host && (
-            <a href={goHref} target="_blank" rel="sponsored nofollow noopener" class="text-link mt-3 inline-flex items-center gap-1 text-sm">
-              {host} <ArrowUpRight />
-            </a>
-          )
-        }
-        <div class="mt-6 grid grid-cols-2 gap-3 sm:flex">
-          <a href={goHref} target="_blank" rel="sponsored nofollow noopener" class="btn-solid">Shop {brand.name} <ArrowUpRight /></a>
+    {
+      !brand.look && (
+        <header class:list={[brand.imageUrl && "md:grid md:grid-cols-[1fr_14rem] md:items-start md:gap-10"]}>
+          <div>
+            <p class="eyebrow">{brand.kind === "retailer" ? "Store" : "Brand"}</p>
+            <h1 class="mt-2 text-4xl font-normal tracking-tight md:text-5xl">{brand.name}</h1>
+            {brand.knownFor && <p class="mt-3 text-lg leading-relaxed">Known for {brand.knownFor.toLowerCase()}.</p>}
+            {
+              host && (
+                <a href={goHref} target="_blank" rel="sponsored nofollow noopener" class="text-link mt-3 inline-flex items-center gap-1 text-sm">
+                  {host} <ArrowUpRight />
+                </a>
+              )
+            }
+            <div class="mt-6 grid grid-cols-2 gap-3 sm:flex">
+              <a href={goHref} target="_blank" rel="sponsored nofollow noopener" class="btn-solid">Shop {brand.name} <ArrowUpRight /></a>
+              {
+                alternatives && (
+                  <a href={alternatives} class="btn-line">
+                    Brands like {brand.name}
+                  </a>
+                )
+              }
+            </div>
+          </div>
           {
-            alternatives && (
-              <a href={alternatives} class="btn-line">
-                Brands like {brand.name}
-              </a>
+            brand.imageUrl && (
+              <img
+                src={brand.imageUrl}
+                alt={`${brand.name}`}
+                width="448"
+                height="448"
+                class="mt-8 aspect-square w-full bg-soft object-contain md:mt-0"
+              />
             )
           }
-        </div>
-      </div>
-      {
-        brand.imageUrl && (
-          <img
-            src={brand.imageUrl}
-            alt={`${brand.name}`}
-            width="448"
-            height="448"
-            class="mt-8 aspect-square w-full bg-soft object-contain md:mt-0"
-          />
-        )
-      }
-    </header>
+        </header>
+      )
+    }
 
-    {brand.about && <p class="mt-10 max-w-2xl text-lg leading-relaxed">{brand.about}</p>}
+    {brand.about && <p class:list={["max-w-2xl text-lg leading-relaxed", brand.look ? "mt-0" : "mt-10"]}>{brand.about}</p>}
 
     {
       brand.productShots.length > 0 && (

@@ -12,12 +12,21 @@ How a "brands like X" page goes from a keyword to rows in Supabase. Every step w
 | 4. Pick | candidates + brand facts | `data/pages/{slug}.json` → `picks` | agent, `enrich.md` §3, then `lib/gate.ts` |
 | 5. Write | page JSON | intro, per-pick body, FAQ + review | agent, `write.md` (wildcard-seo references, read-only) |
 | 5b. Media | brand files, page files | `public/img/brands/`, `public/img/products/`, `data/images.json`, `data/product-images.json` | `node pipeline/images.mjs`, `node pipeline/product-images.mjs` |
+| 5c. Look | brand files, homepages | `public/img/looks/`, `data/looks.json` | `node pipeline/look.mjs slug …`, then `--sheet out.png` and `--review slug ok\|reject` |
 | 6. Load | reviewed JSON | `stylodex.*` rows | script, after Ash's review |
 
 Media rules: brand share images (`og:image`) come from the brand's own homepage; product photos
 come from the category collection feed recorded in the brand file, regular-price items only, each
 linking through `/go/` to that product. One honest User-Agent (`StylodexBot`), no workarounds: a
 store that refuses us gets no image. Files live in the repo for now (≈30 KB each, WebP).
+
+Looks (step 5c) give a brand profile its own header: the homepage banner photo, the logo from the
+home link (saved as a shape-only mask so the page paints it in a readable ink) and a page colour
+picked from the photo (`lib/look.ts`). A look renders only after review: open the contact sheet
+(`--sheet`), check the photo is a real banner (not an icon, a promo strip or text-heavy), the logo
+is the brand's, and the colour suits it; then `--review slug ok`, or pick another photo with
+`--hero slug N` / drop a bad logo with `--no-logo slug`. A refetch that changes the files resets
+the review. Rejected looks keep their record and lose their files (≈100 KB a look).
 
 ## Rules that bind every step
 - **Outside evidence only.** apartstyle.com never counts as a source, and no Apart Style text is

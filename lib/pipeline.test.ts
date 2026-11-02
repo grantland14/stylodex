@@ -57,8 +57,23 @@ test("a brand with no share image falls back to its first product photo", () => 
   const media = {
     images: { a: { status: "no_share_image" } },
     products: { a: { jeans: { status: "ok", items: [{ path: "/img/products/a/1.webp", title: "Jean", product_path: "/p", price: "80" }] } } },
+    looks: {},
     copy: {},
   };
   assert.equal(brandFromJson("a", brand("A", { image_url: null }), media).imageUrl, "/img/products/a/1.webp");
   assert.equal(brandFromJson("a", brand("A", { image_url: null })).imageUrl, null);
+});
+
+test("a brand's look loads only once its review passed", () => {
+  const look = {
+    status: "ok",
+    hero: { path: "/img/looks/a-1600.webp", small_path: "/img/looks/a-800.webp", width: 1600, height: 900 },
+    logo: null,
+    background: "#faf1cf",
+    review: { status: "pending" },
+  };
+  const media = (review: string) => ({ images: {}, products: {}, copy: {}, looks: { a: { ...look, review: { status: review } } } });
+  assert.equal(brandFromJson("a", brand("A"), media("pending")).look, null);
+  assert.equal(brandFromJson("a", brand("A"), media("ok")).look?.heroUrl, "/img/looks/a-1600.webp");
+  assert.equal(brandFromJson("a", brand("A")).look, null);
 });
