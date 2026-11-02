@@ -30,6 +30,19 @@ export function priceRange(price: CategoryPrice | undefined): string | null {
   return `${fmt.format(price.min)}–${fmt.format(price.max)}`;
 }
 
+/**
+ * One range across every category checked: lowest to highest regular price. In the store's own
+ * currency when all categories share one, else the USD equivalents.
+ */
+export function priceSpan(prices: CategoryPrice[]): string | null {
+  if (prices.length === 0) return null;
+  const currencies = new Set(prices.map((p) => p.currency));
+  if (currencies.size === 1) {
+    return priceRange({ ...prices[0], min: Math.min(...prices.map((p) => p.min)), max: Math.max(...prices.map((p) => p.max)) });
+  }
+  return `about ${usd(Math.min(...prices.map((p) => p.minUsd)))}–${usd(Math.max(...prices.map((p) => p.maxUsd)))}`;
+}
+
 /** Store price, plus the USD equivalent when the store charges in another currency. */
 export function priceWithUsd(price: CategoryPrice | undefined): string | null {
   const own = priceRange(price);

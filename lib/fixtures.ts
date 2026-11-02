@@ -32,6 +32,7 @@ export function fixtureBrand(overrides: Partial<Brand> & Pick<Brand, "slug" | "n
     imageUrl: "/img/placeholder.svg",
     verifiedAt: CHECKED,
     productShots: [],
+    look: null,
     sellsCategories: [],
     prices: [{ category: "denim", currency: "USD", min: 80, max: 140, minUsd: 80, maxUsd: 140, sourceUrl: "https://example.com", checkedAt: CHECKED }],
     ...overrides,
@@ -59,7 +60,19 @@ export function fixturePage(): BrandsLikePage {
   const names = ["Example Selvedge", "Example Workwear", "Example Loom", "Example Rivet", "Example Indigo", "Example Raw", "Example Twill"];
   return {
     urlPrefix: "brands",
-    anchor: fixtureBrand({ slug: "example-denim-co", name: "Example Denim Co" }),
+    anchor: fixtureBrand({
+      slug: "example-denim-co",
+      name: "Example Denim Co",
+      // Exercises the themed header; the real ones come from pipeline/look.mjs.
+      look: {
+        heroUrl: "/img/placeholder.svg",
+        heroSmallUrl: "/img/placeholder.svg",
+        heroWidth: 800,
+        heroHeight: 600,
+        logo: { url: "/img/placeholder-logo.svg", width: 480, height: 80 },
+        background: "#e6e1d8",
+      },
+    }),
     category: { slug: "denim", name: "Denim" },
     intro: "Placeholder intro. On the live site this says what people go to the anchor brand for, and what the list matches on.",
     faqs: [{ q: "Is this real data?", a: "No. This is fixture data for local development." }],

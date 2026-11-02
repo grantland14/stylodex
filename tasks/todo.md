@@ -158,6 +158,31 @@ Schibsted Grotesk for headings and UI, Newsreader serif only for section titles,
 eyebrows, solid black and outlined square buttons, chips for facts. Applied to the article,
 brand profile, home, method and disclosure pages.
 - [ ] Logo/wordmark beyond the text "•STYLODEX"
+
+### Brand looks (Ash, 2026-11-02; modelled on lists.shop's per-brand pages)
+Each brand profile opens with the brand's own banner photo, its logo and a page colour taken
+from that photo; the rest of the page stays in the house style. Presentation only: no new claims,
+no ratings, no "best sellers", nothing the gate reads.
+- [x] `lib/look.ts` + tests: hex parsing, WCAG contrast, `themeFor(background)` (ink, muted,
+      line, button colours; every text pair ≥ 4.5:1), `lookFromJson` (approved entries only,
+      paths under `/img/looks/`)
+- [x] `pipeline/look.mjs` (step 5c): homepage banner (largest hero/slideshow image) and header
+      logo from the brand's own homepage, one honest User-Agent; hero → 800/1600 WebP, logo →
+      alpha mask WebP; page colour = mean of the hero's bottom strip. Manifest
+      `pipeline/data/looks.json` keeps candidates, sources and a `review` that resets when the
+      source changes. `--hero slug N` picks another candidate, `--review slug ok|reject note`
+      records the look check
+- [x] Brand page: themed header (hero fading into the page colour, logo as a CSS mask in the
+      theme's ink so any background works, tagline, USD price span, Shop / Brands like buttons);
+      no look → today's header
+- [x] Fixture look so the fixture build renders the themed header
+- [x] Run on a first batch, review each look by eye, record verdicts (2026-11-02): 15 brands →
+      11 approved; American Giant rejected (only image in the HTML is a TikTok icon), Baggu and
+      Madewell no usable banner (a promo strip; a video), Reformation refused us (403)
+- [ ] Next batches: every brand with a profile page, ~100 KB each in the repo until the bucket move
+- [ ] `knownFor` is lower-cased whole on brand pages ("stockholm", "egyptian"); store it in
+      sentence case or stop lower-casing (both headers do it)
+- [ ] Later: move looks into Supabase with product photos (`productShots` is pipeline-only too)
 - [ ] Brand index and category hubs (Thingtesting's "All brands" / categories)
 - [ ] Search, once there is data to search
 
@@ -247,3 +272,13 @@ in this repo.
 ## Review
 
 _(fill in after build)_
+
+### Brand looks (2026-11-02)
+- Page colour: the photo's mean came out muddy grey-brown and sharp's dominant colour was mostly
+  black or white. Scoring colour bins by count × (0.05 + chroma)², with bins under 3% excluded,
+  picks the colour a person would name (ALD navy/mustard, Everlane burgundy, 3sixteen track red).
+- First-candidate heroes failed on strips (Baggu 1600×58), phone-only portraits (Agolde 9:16) and
+  videos (Madewell); the script now prefers the first landscape image among six and skips videos.
+- Upright photos are anchored near the top so faces survive the wide desktop crop.
+- Contrast: every text colour is checked ≥ 4.5:1 across a sweep of the RGB cube; mid-tones that
+  neither ink reaches are deepened until white does.

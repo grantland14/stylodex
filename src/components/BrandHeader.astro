@@ -1,0 +1,100 @@
+---
+// A brand profile's opening, in the brand's own look (lib/look.ts): its banner photo fading into
+// a page colour taken from that photo, its logo painted in the theme's ink, the tagline and price
+// span, and the shop buttons. Only renders for looks that passed review.
+import ArrowUpRight from "./ArrowUpRight.astro";
+import { priceSpan } from "@/lib/format";
+import { logoBox, themeFor, type BrandLook } from "@/lib/look";
+import type { Brand } from "@/lib/types";
+
+interface Props {
+  brand: Brand & { look: BrandLook };
+  goHref: string;
+  host: string | null;
+  alternatives: string | null;
+}
+
+const { brand, goHref, host, alternatives } = Astro.props;
+const { look } = brand;
+const theme = themeFor(look.background);
+const vars = `--look-bg:${theme.bg};--look-ink:${theme.ink};--look-muted:${theme.muted};--look-line:${theme.line}`;
+const logo = look.logo && { ...look.logo, box: logoBox(look.logo.width, look.logo.height) };
+const span = priceSpan(brand.prices);
+// Upright photos lose the most to a wide crop; keep their top (faces sit high in a portrait).
+const upright = look.heroWidth / look.heroHeight < 1.2;
+---
+
+<header class="look bg-(--look-bg) text-(--look-ink)" style={vars}>
+  <div class="relative">
+    <img
+      src={look.heroUrl}
+      srcset={`${look.heroSmallUrl} 800w, ${look.heroUrl} 1600w`}
+      sizes="100vw"
+      alt=""
+      width={look.heroWidth}
+      height={look.heroHeight}
+      fetchpriority="high"
+      class:list={["h-[26rem] w-full object-cover sm:h-[30rem] md:h-[34rem]", upright ? "object-[50%_8%]" : "object-[50%_30%]"]}
+    />
+    <div class="absolute inset-x-0 bottom-0 h-3/5 bg-linear-to-b from-transparent to-(--look-bg)" aria-hidden="true"></div>
+  </div>
+  <div class="relative mx-auto -mt-24 max-w-3xl px-4 pb-12 text-center md:-mt-28">
+    <p class="text-xs font-medium uppercase tracking-[0.12em] text-(--look-muted)">{brand.kind === "retailer" ? "Store" : "Brand"}</p>
+    <h1 class="mt-3 text-4xl font-normal tracking-tight text-(--look-ink) md:text-5xl">
+      {
+        logo ? (
+          <>
+            <span class="sr-only">{brand.name}</span>
+            <span
+              aria-hidden="true"
+              class="look-logo mx-auto block max-w-full bg-(--look-ink)"
+              style={`width:${logo.box.width}px;aspect-ratio:${logo.width}/${logo.height};--logo:url(${logo.url})`}
+            />
+          </>
+        ) : (
+          brand.name
+        )
+      }
+    </h1>
+    {brand.knownFor && <p class="mx-auto mt-4 max-w-xl text-lg leading-relaxed">Known for {brand.knownFor.toLowerCase()}.</p>}
+    {span && <p class="mt-2 text-sm text-(--look-muted)">Regular prices {span}</p>}
+    <div class="mx-auto mt-6 grid max-w-md grid-cols-2 gap-3">
+      <a
+        href={goHref}
+        target="_blank"
+        rel="sponsored nofollow noopener"
+        class:list={[
+          "inline-flex items-center justify-center gap-2 border border-(--look-ink) bg-(--look-ink) px-5 py-3 text-sm font-medium text-(--look-bg) no-underline transition-opacity hover:opacity-85",
+          !alternatives && "col-span-2",
+        ]}
+      >
+        Shop {brand.name} <ArrowUpRight />
+      </a>
+      {
+        alternatives && (
+          <a
+            href={alternatives}
+            class="inline-flex items-center justify-center gap-2 border border-(--look-line) px-5 py-3 text-sm font-medium text-(--look-ink) no-underline transition-colors hover:border-(--look-ink)"
+          >
+            Brands like {brand.name}
+          </a>
+        )
+      }
+    </div>
+    {
+      host && (
+        <a href={goHref} target="_blank" rel="sponsored nofollow noopener" class="mt-4 inline-flex items-center gap-1 text-sm text-(--look-ink) underline decoration-(--look-line) underline-offset-4">
+          {host} <ArrowUpRight />
+        </a>
+      )
+    }
+  </div>
+</header>
+
+<style>
+  /* The logo file is a shape only (an alpha mask); the theme's ink fills it, so it reads on any page colour. */
+  .look-logo {
+    -webkit-mask: var(--logo) center / contain no-repeat;
+    mask: var(--logo) center / contain no-repeat;
+  }
+</style>
