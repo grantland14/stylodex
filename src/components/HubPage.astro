@@ -1,0 +1,100 @@
+---
+// A category or fit hub (/categories/x, /sizes/x): every brand that sells it, as a photo grid,
+// then the lists of alternatives in that category. Not indexed until the hubs are reviewed,
+// so they are also left out of the sitemap.
+import Base from "../layouts/Base.astro";
+import { brandPhoto, categoryPrice, type Hub } from "@/lib/categories";
+import type { ListCard } from "@/lib/catalog";
+import { priceRange, sizes } from "@/lib/format";
+
+interface Props {
+  hub: Hub;
+  /** The other hubs in the same group, for moving sideways. */
+  siblings: Hub[];
+  eyebrow: string;
+  lists: ListCard[];
+}
+
+const { hub, siblings, eyebrow, lists } = Astro.props;
+const count = hub.brands.length;
+const lede =
+  hub.kind === "category"
+    ? `${count} brands and stores that sell ${hub.name.toLowerCase()}, with regular prices from each one's own store.`
+    : `${count} brands that carry ${hub.name.toLowerCase()} sizes, checked against their own stores.`;
+const detail = (b: Hub["brands"][number]) => (hub.category ? priceRange(categoryPrice(b, hub.category)) : sizes(b));
+---
+
+<Base title={hub.title} description={lede} canonical={hub.path} index={false}>
+  <section class="mx-auto max-w-6xl px-4 pt-10">
+    <nav class="eyebrow" aria-label="Breadcrumb">
+      <a href="/" class="text-muted no-underline hover:underline">Stylodex</a>
+      <span aria-hidden="true"> / </span>
+      <span>{eyebrow}</span>
+    </nav>
+    <h1 class="mt-4 text-4xl font-normal tracking-tight md:text-5xl">{hub.title}</h1>
+    <p class="mt-3 max-w-2xl text-lg leading-relaxed text-muted">{lede}</p>
+    {
+      siblings.length > 0 && (
+        <ul class="mt-6 flex flex-wrap gap-2">
+          {siblings.map((s) => (
+            <li>
+              <a href={s.path} class="chip border border-rule bg-paper no-underline hover:border-ink">
+                {s.name}
+              </a>
+            </li>
+          ))}
+        </ul>
+      )
+    }
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 py-10">
+    <ul class="grid grid-cols-2 gap-x-5 gap-y-8 sm:grid-cols-3 lg:grid-cols-4">
+      {
+        hub.brands.map((b) => {
+          const photo = brandPhoto(b, hub.category);
+          const line = detail(b);
+          return (
+            <li>
+              <a href={`/brands/${b.slug}`} class="group block no-underline">
+                {photo ? (
+                  <img
+                    src={photo.url}
+                    alt=""
+                    width="600"
+                    height="750"
+                    loading="lazy"
+                    class:list={["aspect-[4/5] w-full bg-soft", photo.cropped ? "object-cover" : "object-contain p-6"]}
+                  />
+                ) : (
+                  <div class="flex aspect-[4/5] items-center justify-center bg-soft font-serif text-4xl text-muted">{b.name[0]}</div>
+                )}
+                <p class="mt-3 font-medium text-ink group-hover:underline">{b.name}</p>
+                {b.knownFor && <p class="mt-0.5 line-clamp-2 text-sm text-muted">{b.knownFor}</p>}
+                {line && <p class="mt-1 text-sm text-ink">{line}</p>}
+              </a>
+            </li>
+          );
+        })
+      }
+    </ul>
+  </section>
+
+  {
+    lists.length > 0 && (
+      <section class="mx-auto max-w-6xl border-t border-rule px-4 py-10">
+        <h2 class="font-serif text-2xl">Lists of alternatives for {hub.name.toLowerCase()}</h2>
+        <ul class="mt-4 grid gap-x-8 sm:grid-cols-2">
+          {lists.map((l) => (
+            <li class="border-b border-rule">
+              <a href={l.path} class="flex items-center justify-between gap-4 py-3 text-ink no-underline hover:underline">
+                {l.title}
+                <span aria-hidden="true">→</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )
+  }
+</Base>

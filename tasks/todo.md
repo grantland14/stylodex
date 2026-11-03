@@ -200,6 +200,19 @@ no ratings, no "best sellers", nothing the gate reads.
 - [ ] Brand index and category hubs (Thingtesting's "All brands" / categories)
 - [ ] Search, once there is data to search
 
+### Home page by category (Ash, 2026-11-03; modelled on lists.shop's home)
+Browse by what you shop for first; the "brands like X" lists move to one small row at the
+bottom. Stat bars and "how it's checked" boxes are cut (Ash: no filler on the home page).
+- [x] `lib/categories.ts` + tests: 26 categories in 6 groups (stored slugs mapped, e.g.
+      sweatshirts → hoodies, denim → jeans), Plus/Petite/Tall fits, hubs need ≥ 3 brands
+- [x] Hubs `/categories/[slug]` and `/sizes/[slug]`: brand photo grid with that category's
+      price range, then the category's lists. `noindex` and left out of the sitemap
+- [x] Home: search with category/size quick links, category tiles (3 product photos each),
+      size tiles, a wall of 12 list brands, lists as a sideways row; search finds categories
+- [ ] Review the hubs, then index them and add them to the sitemap (one line in `HubPage.astro`)
+- [ ] 206 profile brands have only a site image (often a logo, shown uncropped on hubs) and 160
+      have none; product photos for them would fill the hubs out
+
 ## Phase 2 — Page types
 
 | Route | Intent | Built for |
