@@ -57,9 +57,11 @@ On its own this is thin data. Enrichment (Phase 1) is what makes the site worth 
 - [x] Created public storage bucket `stylodex-images` (5 MB, jpeg/webp/png)
 - [ ] Re-host brand images into it (Apart Style's `brand-images` URLs are never used)
 - [x] Vercel project `ashs-projects-8f76f8b6/stylodex` (Astro, Node 24.x), created by Ash 2026-10-29.
-      Not connected to GitHub (Ash doesn't sign in to Vercel with GitHub), so deploys go through the
-      CLI: `vercel deploy` (preview) / `vercel deploy --prod`. `STYLODEX_FIXTURES=1` set for preview
-      and production until real data is loaded.
+      Connected to `grantland14/stylodex` since 2026-10-29: every push gets a preview
+      (`stylodex-git-<branch>-ashs-projects-8f76f8b6.vercel.app`, behind Vercel sign-in) and `main`
+      goes to production (`stylodex.vercel.app`). `STYLODEX_FIXTURES=1` set for preview and
+      production until real data is loaded; pipeline data needs `STYLODEX_DATA=pipeline` and
+      `STYLODEX_FIXTURES=0` on the environment. The CLI (`vercel deploy -b …`) still works for one-offs.
 - [ ] Search Console + analytics on the new domain only
 - [ ] Skimlinks: apply once wave 1 is live (needs real content to be approved), then set `SKIMLINKS_SITE_ID`
       and confirm the `go.skimresources.com` link format against the Skimlinks Hub docs
