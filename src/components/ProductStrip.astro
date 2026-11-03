@@ -30,7 +30,7 @@ const href = (s: ProductShot) =>
               width="600"
               height="750"
               loading="lazy"
-              class="aspect-[4/5] w-full bg-soft object-cover transition-opacity group-hover:opacity-90"
+              class="aspect-[4/5] w-full rounded-xl bg-soft object-cover transition-opacity group-hover:opacity-90"
             />
             <span class="mt-2 line-clamp-2 block text-xs leading-snug text-ink">{s.title}</span>
             <span class="mt-0.5 block text-xs text-muted">{money(s.price, s.currency)}</span>

@@ -1,5 +1,6 @@
 // What the home page, the A–Z page and the search index show: every built list and every
 // brand profile, from the same gated data the pages use, so nothing links to a 404.
+import { categoryHubs, fitHubs } from "./categories";
 import { listAlternativesPages, listProfileBrands } from "./data";
 import { brandsLikeTitle, judgeBrandsLikePage } from "./gate";
 import { alternativesPath } from "./paths";
@@ -11,6 +12,7 @@ export interface ListCard {
   anchorName: string;
   anchorSlug: string;
   category: string;
+  categorySlug: string;
   picks: number;
   /** Up to 3 product photos from the first picks, for the card mosaic. */
   shots: ProductShot[];
@@ -31,6 +33,7 @@ function cardFor(page: BrandsLikePage): ListCard | null {
     anchorName: page.anchor.name,
     anchorSlug: page.anchor.slug,
     category: page.category.name,
+    categorySlug: page.category.slug,
     picks: picks.length,
     shots,
   };
@@ -54,5 +57,8 @@ export function searchEntries({ lists, brands }: Catalog): SearchEntry[] {
   const byName = new Map<string, SearchEntry>();
   for (const b of brands) byName.set(b.slug, { name: b.name, href: `/brands/${b.slug}`, label: "Brand" });
   for (const l of lists) byName.set(l.anchorSlug, { name: l.anchorName, href: l.path, label: `${l.picks} alternatives` });
+  // Categories and fits too, so "dresses" or "petite" finds its hub.
+  const hubs = [...categoryHubs(brands).flatMap((g) => g.hubs), ...fitHubs(brands)];
+  for (const h of hubs) byName.set(`hub:${h.slug}`, { name: h.name, href: h.path, label: `${h.brands.length} brands` });
   return [...byName.values()].sort((a, b) => a.name.localeCompare(b.name, "en", { sensitivity: "base" }));
 }

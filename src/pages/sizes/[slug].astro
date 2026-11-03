@@ -1,0 +1,18 @@
+---
+import type { GetStaticPaths } from "astro";
+import HubPage from "../../components/HubPage.astro";
+import { fitHubs } from "@/lib/categories";
+import { loadCatalog } from "@/lib/catalog";
+
+export const getStaticPaths = (async () => {
+  const hubs = fitHubs((await loadCatalog()).brands);
+  return hubs.map((hub) => ({
+    params: { slug: hub.slug },
+    props: { hub, siblings: hubs.filter((h) => h !== hub), eyebrow: "Sizes", lists: [] },
+  }));
+}) satisfies GetStaticPaths;
+
+const props = Astro.props;
+---
+
+<HubPage {...props} />

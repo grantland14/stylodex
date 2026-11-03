@@ -1,0 +1,25 @@
+---
+import type { GetStaticPaths } from "astro";
+import HubPage from "../../components/HubPage.astro";
+import { categoryHubs } from "@/lib/categories";
+import { loadCatalog } from "@/lib/catalog";
+
+export const getStaticPaths = (async () => {
+  const { lists, brands } = await loadCatalog();
+  return categoryHubs(brands).flatMap((group) =>
+    group.hubs.map((hub) => ({
+      params: { slug: hub.slug },
+      props: {
+        hub,
+        siblings: group.hubs.filter((h) => h !== hub),
+        eyebrow: group.name,
+        lists: lists.filter((l) => hub.category?.matches.includes(l.categorySlug)),
+      },
+    })),
+  );
+}) satisfies GetStaticPaths;
+
+const props = Astro.props;
+---
+
+<HubPage {...props} />

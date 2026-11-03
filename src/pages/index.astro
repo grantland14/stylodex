@@ -1,89 +1,73 @@
 ---
-import BrandSearch from "../components/BrandSearch.astro";
+import HubTile from "../components/HubTile.astro";
+import StoreCard from "../components/StoreCard.astro";
 import Base from "../layouts/Base.astro";
+import { categoryHubs, fitHubs } from "@/lib/categories";
 import { loadCatalog } from "@/lib/catalog";
+import { money } from "@/lib/format";
+import { hubProducts, storeCards, tilePhotos } from "@/lib/home";
 
 const { lists, brands } = await loadCatalog();
-// Popular searches: the lists we have, most picks first.
-const popular = [...lists].sort((a, b) => b.picks - a.picks).slice(0, 8);
-// Brands with a photo first, so the grid reads as a lookbook.
-const featuredBrands = [...brands].sort((a, b) => Number(!!b.productShots.length) - Number(!!a.productShots.length)).slice(0, 8);
-const brandImage = (b: (typeof brands)[number]) => b.productShots[0]?.imageUrl ?? b.imageUrl;
-
-const CHECKS = [
-  { title: "Live and selling", body: "Every brand on a list is checked against its own store. Closed or off-category brands drop out." },
-  { title: "Real prices and sizes", body: "Regular prices and size ranges come from each brand's own store." },
-  { title: "Ships to the US", body: "Every brand on a list delivers to the US, with its free-shipping minimum and returns window spelled out." },
-];
+const categories = categoryHubs(brands).flatMap((g) => g.hubs);
+const fits = fitHubs(brands);
+const photos = tilePhotos([...categories, ...fits]);
+const biggest = [...categories].sort((a, b) => b.brands.length - a.brands.length);
+// Round shortcuts under the title: the biggest categories, then the fits.
+const quick = [...biggest.slice(0, 7), ...fits];
+// Store cards: the brands people search for (those with a list), biggest lists first.
+const featured = [...lists].sort((a, b) => b.picks - a.picks).map((l) => l.anchorSlug);
+const stores = storeCards(brands, featured, 12);
+// A row of products for each of the three biggest categories.
+const rows = biggest.slice(0, 3).map((hub) => ({ hub, products: hubProducts(hub, 12) }));
 ---
 
 <Base
-  description="Find brands like the ones you already love. Alternatives to fashion and beauty brands and stores, with real prices, sizes and shipping for each."
+  description="Find brands like the ones you already love. Browse fashion brands and stores by category and size, with real prices, sizes and shipping for each."
   canonical="/"
 >
-  <section class="mx-auto max-w-3xl px-4 pb-10 pt-14 text-center md:pt-24">
-    <h1 class="text-4xl font-normal leading-[1.1] tracking-tight md:text-6xl">Find brands like the ones you already love</h1>
-    <p class="mx-auto mt-5 max-w-xl text-lg leading-relaxed text-muted">
-      Type a brand or store. We'll show you alternatives with real prices, sizes and shipping for each one.
+  <section class="mx-auto max-w-6xl px-4 pb-6 pt-10 md:pt-14">
+    <h1 class="max-w-3xl text-4xl leading-[1.05] md:text-6xl">Find brands like the ones you already love</h1>
+    <p class="mt-4 max-w-xl text-lg leading-relaxed text-muted">
+      Browse by what you shop for, or search any brand or store. Real prices, sizes and shipping for each one.
     </p>
-    <div class="mx-auto mt-8 max-w-2xl">
-      <BrandSearch />
-    </div>
     {
-      popular.length > 0 && (
-        <div class="mt-6">
-          <p class="eyebrow">Popular searches</p>
-          <ul class="mt-3 flex flex-wrap justify-center gap-2">
-            {popular.map((l, i) => (
-              <li>
-                <a href={l.path} class:list={["chip no-underline hover:underline", ["bg-butter", "bg-mint", "bg-sky", "bg-rose"][i % 4]]}>
-                  {l.anchorName}
+      quick.length > 0 && (
+        <ul class="row mt-8">
+          {quick.map((h) => {
+            const photo = photos.get(h.path);
+            return (
+              <li class="shrink-0 snap-start">
+                <a
+                  href={h.path}
+                  class="flex items-center gap-2 rounded-full bg-paper py-1.5 pl-1.5 pr-4 text-sm font-medium text-ink no-underline ring-1 ring-rule hover:ring-ink"
+                >
+                  {photo ? (
+                    <img src={photo} alt="" width="64" height="64" class="h-8 w-8 rounded-full bg-soft object-cover" />
+                  ) : (
+                    <span class="h-8 w-8 rounded-full bg-soft" />
+                  )}
+                  {h.name}
                 </a>
               </li>
-            ))}
-          </ul>
-        </div>
+            );
+          })}
+        </ul>
       )
     }
   </section>
 
-  <section class="mx-auto grid max-w-5xl grid-cols-3 border-y border-rule text-center">
-    <div class="px-4 py-6">
-      <p class="font-serif text-3xl text-accent">{brands.length}</p>
-      <p class="mt-1 text-sm text-muted">brands checked</p>
-    </div>
-    <div class="border-x border-rule px-4 py-6">
-      <p class="font-serif text-3xl text-accent">{lists.length}</p>
-      <p class="mt-1 text-sm text-muted">lists of alternatives</p>
-    </div>
-    <div class="px-4 py-6">
-      <p class="font-serif text-3xl text-accent">US</p>
-      <p class="mt-1 text-sm text-muted">shipping on every pick</p>
-    </div>
-  </section>
-
   {
-    lists.length > 0 && (
-      <section class="mx-auto max-w-6xl px-4 py-14">
-        <div class="flex items-baseline justify-between">
-          <h2 class="font-serif text-3xl">Lists of alternatives</h2>
-          <a href="/brands" class="text-link text-sm">
-            All brands
+    stores.length > 0 && (
+      <section class="mx-auto max-w-6xl px-4 py-8">
+        <div class="flex items-baseline justify-between gap-4">
+          <h2 class="title text-2xl md:text-3xl">Brands and stores</h2>
+          <a href="/brands" class="text-sm font-medium text-ink no-underline hover:underline">
+            All {brands.length} <span aria-hidden="true">→</span>
           </a>
         </div>
-        <ul class="mt-8 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
-          {lists.map((l) => (
-            <li>
-              <a href={l.path} class="group block no-underline">
-                <div class="grid grid-cols-3 gap-1 bg-soft">
-                  {l.shots.length > 0
-                    ? l.shots.map((s) => <img src={s.imageUrl} alt="" width="600" height="750" loading="lazy" class="aspect-[4/5] w-full object-cover" />)
-                    : <div class="col-span-3 aspect-[12/5]" />}
-                </div>
-                <p class="eyebrow mt-4 text-accent">{l.category}</p>
-                <h3 class="mt-1 text-xl font-medium tracking-tight text-ink group-hover:underline">{l.title}</h3>
-              </a>
-            </li>
+        <ul class="row mt-5">
+          {stores.map((s) => (
+            <StoreCard {...s} />
           ))}
         </ul>
       </section>
@@ -91,43 +75,84 @@ const CHECKS = [
   }
 
   {
-    featuredBrands.length > 0 && (
-      <section class="border-t border-rule">
-        <div class="mx-auto max-w-6xl px-4 py-14">
-          <h2 class="font-serif text-3xl">Brands</h2>
-          <ul class="mt-8 grid grid-cols-2 gap-6 md:grid-cols-4">
-            {featuredBrands.map((b) => (
-              <li>
-                <a href={`/brands/${b.slug}`} class="group block no-underline">
-                  {brandImage(b) ? (
-                    <img src={brandImage(b)} alt="" width="600" height="750" loading="lazy" class="aspect-[4/5] w-full bg-soft object-cover" />
-                  ) : (
-                    <div class="flex aspect-[4/5] items-center justify-center bg-soft font-serif text-3xl text-muted">{b.name[0]}</div>
-                  )}
-                  <p class="mt-3 font-medium text-ink group-hover:underline">{b.name}</p>
-                  {b.knownFor && <p class="mt-0.5 text-sm text-muted">{b.knownFor}</p>}
-                </a>
-              </li>
-            ))}
-          </ul>
-        </div>
+    categories.length > 0 && (
+      <section class="mx-auto max-w-6xl px-4 py-8">
+        <h2 class="title text-2xl md:text-3xl">Categories</h2>
+        <ul class="mt-5 grid grid-cols-2 gap-3 sm:grid-cols-4 lg:grid-cols-6">
+          {categories.map((hub) => (
+            <HubTile hub={hub} photo={photos.get(hub.path) ?? null} />
+          ))}
+        </ul>
       </section>
     )
   }
 
-  <section class="border-t border-rule">
-    <div class="mx-auto max-w-6xl px-4 py-14">
-      <h2 class="font-serif text-3xl">How every list is checked</h2>
-      <div class="mt-8 grid gap-8 md:grid-cols-3">
-        {
-          CHECKS.map((c, i) => (
-            <div class:list={["p-6", ["bg-butter", "bg-mint", "bg-sky"][i % 3]]}>
-              <h3 class="font-medium">{c.title}</h3>
-              <p class="mt-2 text-sm leading-relaxed text-muted">{c.body}</p>
-            </div>
-          ))
-        }
-      </div>
-    </div>
-  </section>
+  {
+    fits.length > 0 && (
+      <section class="mx-auto max-w-6xl px-4 py-8">
+        <h2 class="title text-2xl md:text-3xl">Sizes</h2>
+        <ul class="mt-5 grid grid-cols-2 gap-3 sm:grid-cols-4 lg:grid-cols-6">
+          {fits.map((hub) => (
+            <HubTile hub={hub} photo={photos.get(hub.path) ?? null} />
+          ))}
+        </ul>
+      </section>
+    )
+  }
+
+  {
+    rows.map(
+      ({ hub, products }) =>
+        products.length > 0 && (
+          <section class="mx-auto max-w-6xl px-4 py-8">
+            <a href={hub.path} class="group inline-flex items-baseline gap-2 text-ink no-underline">
+              <h2 class="title text-2xl group-hover:underline md:text-3xl">{hub.name}</h2>
+              <span aria-hidden="true">→</span>
+            </a>
+            <ul class="row mt-5">
+              {products.map(({ brand, shot }) => (
+                <li class="w-40 shrink-0 snap-start sm:w-48">
+                  <a href={`/brands/${brand.slug}`} class="group block no-underline">
+                    <img
+                      src={shot.imageUrl}
+                      alt={shot.title}
+                      width="400"
+                      height="400"
+                      loading="lazy"
+                      class="aspect-square w-full rounded-2xl bg-paper object-cover transition-opacity group-hover:opacity-90"
+                    />
+                    <span class="mt-2 block truncate text-xs text-muted">{brand.name}</span>
+                    <span class="block truncate text-sm font-medium text-ink group-hover:underline">{shot.title}</span>
+                    <span class="block text-sm text-ink">{money(shot.price, shot.currency)}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        ),
+    )
+  }
+
+  {
+    lists.length > 0 && (
+      <section class="mx-auto max-w-6xl px-4 py-8">
+        <div class="flex items-baseline justify-between gap-4">
+          <h2 class="text-lg font-semibold text-ink">Lists of alternatives</h2>
+          <a href="/brands#lists" class="text-sm font-medium text-ink no-underline hover:underline">
+            All {lists.length} <span aria-hidden="true">→</span>
+          </a>
+        </div>
+        <ul class="row mt-4">
+          {lists.map((l) => (
+            <li class="w-60 shrink-0 snap-start">
+              <a href={l.path} class="card group flex h-full flex-col p-4 no-underline ring-1 ring-rule hover:ring-ink">
+                <span class="eyebrow">{l.category}</span>
+                <span class="mt-2 line-clamp-3 text-sm font-medium text-ink group-hover:underline">{l.title}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )
+  }
 </Base>
