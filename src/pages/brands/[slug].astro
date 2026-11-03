@@ -109,7 +109,7 @@ const jsonLd = {
         <header class:list={[brand.imageUrl && "md:grid md:grid-cols-[1fr_14rem] md:items-start md:gap-10"]}>
           <div>
             <p class="eyebrow">{brand.kind === "retailer" ? "Store" : "Brand"}</p>
-            <h1 class="mt-2 text-4xl font-normal tracking-tight md:text-5xl">{brand.name}</h1>
+            <h1 class="mt-2 text-4xl md:text-5xl">{brand.name}</h1>
             {brand.knownFor && <p class="mt-3 text-lg leading-relaxed">Known for {brand.knownFor.toLowerCase()}.</p>}
             {
               host && (
@@ -136,7 +136,7 @@ const jsonLd = {
                 alt={`${brand.name}`}
                 width="448"
                 height="448"
-                class="mt-8 aspect-square w-full bg-soft object-contain md:mt-0"
+                class="mt-8 aspect-square w-full rounded-2xl bg-paper object-contain md:mt-0"
               />
             )
           }
@@ -163,7 +163,7 @@ const jsonLd = {
       {
         groups.map((g) => (
           <section>
-            <h2 class="border-b border-ink pb-2 font-serif text-2xl">{g.title}</h2>
+            <h2 class="border-b border-ink pb-2 title text-2xl">{g.title}</h2>
             <dl class="text-sm">
               {g.rows.map(([k, v]) => (
                 <div class="grid grid-cols-[8rem_1fr] gap-4 border-b border-rule py-3">
@@ -180,7 +180,7 @@ const jsonLd = {
     {
       listedOn.length > 0 && (
         <section class="mt-14" aria-labelledby="listed-on">
-          <h2 id="listed-on" class="font-serif text-2xl">
+          <h2 id="listed-on" class="title text-2xl">
             Where {brand.name} is recommended
           </h2>
           <ul class="mt-4 divide-y divide-rule border-y border-rule">

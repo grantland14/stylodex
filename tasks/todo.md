@@ -213,6 +213,25 @@ bottom. Stat bars and "how it's checked" boxes are cut (Ash: no filler on the ho
 - [ ] 206 profile brands have only a site image (often a logo, shown uncropped on hubs) and 160
       have none; product photos for them would fill the hubs out
 
+### Shop-style design (Ash, 2026-11-03; modelled on shop.com)
+Take shop.com's layout ideas: soft grey page, rounded white cards, big photos, bold type.
+Leave its brand alone: no purple, no logo, no app-style left rail. No new JavaScript (rows
+scroll with CSS; no carousel arrows), and no ratings, which we don't store.
+- [x] Look, sitewide (`global.css`, `Base.astro`): off-white page, rounded cards and pill
+      buttons, bold tight headings (the serif is gone), and a sticky header with the search
+      pill in it, so search is on every page (its script was already the one allowed)
+- [x] Home: round photo shortcuts under the title for the biggest categories and the sizes
+- [x] Home: category and size tiles are one big rounded photo each, name on the photo; no
+      two tiles share a photo, and they spread across brands (`lib/home.ts`, tested)
+- [x] Home: a sideways row of 12 store cards (big photo, name, price range, two product photos
+      with prices), list brands first; every card opens the brand's own page
+- [x] Home: product rows for the three biggest categories, linking to brand pages
+- [x] Hubs: rounded photo cards, pill chips, lists in a white card
+- [x] Brand and article pages: new type, pill buttons, rounded photos; layouts unchanged
+- [x] Checked at desktop and 375 px (no sideways scroll), search suggestions work from the header
+- [ ] `@fontsource/newsreader` is no longer imported; drop it from `package.json` with the next
+      dependency change
+
 ## Phase 2 — Page types
 
 | Route | Intent | Built for |

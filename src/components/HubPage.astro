@@ -31,14 +31,14 @@ const detail = (b: Hub["brands"][number]) => (hub.category ? priceRange(category
       <span aria-hidden="true"> / </span>
       <span>{eyebrow}</span>
     </nav>
-    <h1 class="mt-4 text-4xl font-normal tracking-tight md:text-5xl">{hub.title}</h1>
+    <h1 class="mt-4 text-4xl md:text-5xl">{hub.title}</h1>
     <p class="mt-3 max-w-2xl text-lg leading-relaxed text-muted">{lede}</p>
     {
       siblings.length > 0 && (
         <ul class="mt-6 flex flex-wrap gap-2">
           {siblings.map((s) => (
             <li>
-              <a href={s.path} class="chip border border-rule bg-paper no-underline hover:border-ink">
+              <a href={s.path} class="inline-block rounded-full bg-paper px-4 py-1.5 text-sm font-medium text-ink no-underline ring-1 ring-rule hover:ring-ink">
                 {s.name}
               </a>
             </li>
@@ -64,12 +64,12 @@ const detail = (b: Hub["brands"][number]) => (hub.category ? priceRange(category
                     width="600"
                     height="750"
                     loading="lazy"
-                    class:list={["aspect-[4/5] w-full bg-soft", photo.cropped ? "object-cover" : "object-contain p-6"]}
+                    class:list={["aspect-[4/5] w-full rounded-2xl transition-opacity group-hover:opacity-90", photo.cropped ? "bg-soft object-cover" : "bg-paper object-contain p-6"]}
                   />
                 ) : (
-                  <div class="flex aspect-[4/5] items-center justify-center bg-soft font-serif text-4xl text-muted">{b.name[0]}</div>
+                  <div class="title flex aspect-[4/5] items-center justify-center rounded-2xl bg-paper text-4xl text-muted">{b.name[0]}</div>
                 )}
-                <p class="mt-3 font-medium text-ink group-hover:underline">{b.name}</p>
+                <p class="mt-3 font-semibold text-ink group-hover:underline">{b.name}</p>
                 {b.knownFor && <p class="mt-0.5 line-clamp-2 text-sm text-muted">{b.knownFor}</p>}
                 {line && <p class="mt-1 text-sm text-ink">{line}</p>}
               </a>
@@ -82,11 +82,11 @@ const detail = (b: Hub["brands"][number]) => (hub.category ? priceRange(category
 
   {
     lists.length > 0 && (
-      <section class="mx-auto max-w-6xl border-t border-rule px-4 py-10">
-        <h2 class="font-serif text-2xl">Lists of alternatives for {hub.name.toLowerCase()}</h2>
-        <ul class="mt-4 grid gap-x-8 sm:grid-cols-2">
+      <section class="mx-auto max-w-6xl px-4 py-10">
+        <h2 class="title text-2xl">Lists of alternatives for {hub.name.toLowerCase()}</h2>
+        <ul class="card mt-4 grid gap-x-8 px-5 ring-1 ring-rule sm:grid-cols-2">
           {lists.map((l) => (
-            <li class="border-b border-rule">
+            <li class="border-b border-rule last:border-b-0 sm:[&:nth-last-child(2):nth-child(odd)]:border-b-0">
               <a href={l.path} class="flex items-center justify-between gap-4 py-3 text-ink no-underline hover:underline">
                 {l.title}
                 <span aria-hidden="true">→</span>
