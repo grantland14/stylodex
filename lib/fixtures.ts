@@ -67,6 +67,7 @@ export function fixturePage(): BrandsLikePage {
       look: {
         heroUrl: "/img/placeholder.svg",
         heroSmallUrl: "/img/placeholder.svg",
+        heroSmallWidth: 800,
         heroWidth: 800,
         heroHeight: 600,
         logo: { url: "/img/placeholder-logo.svg", width: 480, height: 80 },

@@ -91,8 +91,12 @@ Progress 2026-10-28:
 - [x] Brand pages richer: product strip, grouped facts (prices, sizing, shipping and returns,
       about), "where it's recommended" links, checked-on line, Brand JSON-LD
 - [ ] Sizes per category (like prices): Affliction's `size_range` now mixes jeans and tees
-- [ ] Move product photos into Supabase/`stylodex-images` once a server-side upload key exists
-      (the repo copy is fine for hundreds of brands, not thousands)
+- [x] Images moved to the `stylodex-images` bucket (2026-11-03): 1,627 files, 21 MB, served via
+      `/img/`; none in the repo. Uploaded through a one-off token-guarded edge function
+      (`stylodex-upload`, now a stub that refuses every request; safe to delete in the dashboard)
+- [ ] Add `SUPABASE_URL` to Vercel (Preview and Production): `/img/` reads the bucket through it
+- [ ] Add `SUPABASE_SERVICE_ROLE_KEY` to the cloud environment's secrets so later sessions can run
+      `pipeline/upload-images.mjs`
 - [ ] Second page (Affliction) running, to measure a typical page against the gate and its cost
 
 - [ ] Import the brand seed list (name, URL, price tier) into the new schema
@@ -187,8 +191,9 @@ no ratings, no "best sellers", nothing the gate reads.
       1 error (ann-taylor: redirect loop). Running total: 43 looks, 6.1 MB
 - [x] Hero size budget: 160 KB (large) / 80 KB (small), stepping quality then width; Aries and
       Avara (grainy prints) stay over at the last step
-- [ ] Next batches: 564 brands with a profile page still unfetched, ~140 KB each in the repo until
-      the bucket move (≈80 MB if all pass; move to `stylodex-images` before that)
+- [x] Image sizes cut to what the page shows at 2x (34.6 MB → 21 MB across all images): products
+      480×600, share images 640 wide, heroes 1440 / 720 (100 KB / 40 KB budgets), logos 120 tall
+- [ ] Next batches: 564 brands with a profile page still unfetched, ~100 KB each in the bucket
 - [ ] `knownFor` is lower-cased whole on brand pages ("stockholm", "egyptian"); store it in
       sentence case or stop lower-casing (both headers do it)
 - [ ] Later: move looks into Supabase with product photos (`productShots` is pipeline-only too)

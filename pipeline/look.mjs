@@ -1,6 +1,6 @@
 // Step 5c: a brand's look for its profile page header. From the brand's own homepage:
 //   - hero: the first landscape banner/slideshow image in <main> (else the first upright one),
-//     at least 1000 px wide, saved at 1600 and 800 px wide as WebP;
+//     at least 1000 px wide, saved at 1440 and 720 px wide as WebP (under 100 KB and 40 KB);
 //   - logo: the image or inline SVG inside the home link (else one marked "logo"), saved as an
 //     alpha mask (shape only) so the page can paint it in any colour;
 //   - background: the photo's most common colourful colour (lib/look.ts pageColour); the photo
@@ -28,11 +28,14 @@ const run = promisify(execFile);
 const ROOT = new URL("..", import.meta.url).pathname;
 const BRANDS = join(ROOT, "pipeline/data/brands");
 const MANIFEST = join(ROOT, "pipeline/data/looks.json");
-const OUT = join(ROOT, "public/img/looks");
+const OUT = join(ROOT, "pipeline/media/looks");
+/** A /img/... path to its staged file. */
+const staged = (p) => join(ROOT, "pipeline/media", p.replace(/^\/img\//, ""));
 const UA = "StylodexBot/0.1 (+https://www.stylodex.com/how-we-pick)";
 const MIN_HERO_WIDTH = 1000;
-const HERO_BUDGET = 160 * 1024;
-const LOGO_HEIGHT = 160;
+const HERO_BUDGET = 100 * 1024;
+// Shown 56 px tall at most; 120 covers 2x screens.
+const LOGO_HEIGHT = 120;
 const today = () => new Date().toISOString().slice(0, 10);
 
 async function fetchBuffer(url) {
@@ -170,7 +173,7 @@ async function saveLogo(found, slug) {
   if (ink / px < 0.01 || ink / px > 0.85) return { status: "logo_unusable", source };
   const out = join(OUT, `${slug}-logo.webp`);
   const trimmed = await sharp(mask, { raw: { width: info.width, height: info.height, channels: 4 } }).trim().png().toBuffer();
-  const saved = await sharp(trimmed).resize({ height: LOGO_HEIGHT, withoutEnlargement: true }).webp({ quality: 90, alphaQuality: 100 }).toFile(out);
+  const saved = await sharp(trimmed).resize({ height: LOGO_HEIGHT, withoutEnlargement: true }).webp({ quality: 80, alphaQuality: 85 }).toFile(out);
   return { status: "ok", path: `/img/looks/${slug}-logo.webp`, width: saved.width, height: saved.height, bytes: saved.size, source };
 }
 
@@ -198,11 +201,11 @@ async function saveHero({ body, source_image }, slug) {
     }
     return info;
   };
-  const big = await encode(`${slug}-1600.webp`, [[1600, 68], [1600, 58], [1440, 50], [1280, 45]], HERO_BUDGET);
-  const small = await encode(`${slug}-800.webp`, [[800, 68], [800, 56], [720, 48]], HERO_BUDGET / 2);
+  const big = await encode(`${slug}-hero.webp`, [[1440, 64], [1440, 56], [1280, 50], [1120, 45]], HERO_BUDGET);
+  const small = await encode(`${slug}-hero-sm.webp`, [[720, 64], [720, 54], [640, 48]], 40 * 1024);
   const { data } = await sharp(body).rotate().resize({ width: 160 }).removeAlpha().raw().toBuffer({ resolveWithObject: true });
   return {
-    hero: { path: `/img/looks/${slug}-1600.webp`, small_path: `/img/looks/${slug}-800.webp`, width: big.width, height: big.height, bytes: big.size + small.size, source_image },
+    hero: { path: `/img/looks/${slug}-hero.webp`, small_path: `/img/looks/${slug}-hero-sm.webp`, width: big.width, height: big.height, small_width: small.width, bytes: big.size + small.size, source_image },
     background: pageColour(data, 3),
   };
 }
@@ -268,11 +271,11 @@ async function sheet(manifest, out, only) {
   for (const [slug, e] of Object.entries(manifest)) {
     if (e.status !== "ok" || (only.length && !only.includes(slug))) continue;
     const t = themeFor(e.background);
-    const photo = await sharp(join(ROOT, "public", e.hero.path)).resize({ width: W, height: 300, fit: "cover", position: "attention" }).png().toBuffer();
+    const photo = await sharp(staged(e.hero.path)).resize({ width: W, height: 300, fit: "cover", position: "attention" }).png().toBuffer();
     const layers = [{ input: photo, top: 0, left: 0 }];
     if (e.logo) {
       const box = logoBox(e.logo.width, e.logo.height, 56, 400);
-      const alpha = await sharp(join(ROOT, "public", e.logo.path)).resize(box).extractChannel(3).toBuffer();
+      const alpha = await sharp(staged(e.logo.path)).resize(box).extractChannel(3).toBuffer();
       const logo = await sharp({ create: { ...box, channels: 3, background: t.ink } }).joinChannel(alpha).png().toBuffer();
       layers.push({ input: logo, top: 300 + 40, left: Math.round((W - box.width) / 2) });
     }
@@ -307,7 +310,8 @@ async function fetchOne(manifest, slug, heroIndex = null) {
   } catch (err) {
     result = { status: "error", error: String(err.message ?? err).slice(0, 200) };
   }
-  if (result.status !== "ok") for (const f of ["1600", "800", "logo"]) rmSync(join(OUT, `${slug}-${f}.webp`), { force: true });
+  if (result.status !== "ok") for (const f of ["hero", "hero-sm", "logo"]) rmSync(join(OUT, `${slug}-${f}.webp`), { force: true });
+  else if (!result.logo) rmSync(join(OUT, `${slug}-logo.webp`), { force: true });
   manifest[slug] = { ...result, fetched_at: today() };
   const r = manifest[slug];
   console.log(
@@ -329,7 +333,7 @@ if (cmd === "--review") {
   if (!["ok", "reject"].includes(verdict)) throw new Error("verdict must be ok or reject");
   manifest[slug].review = { status: verdict, note: note.join(" ") || undefined, at: today() };
   // A rejected look never renders, so its files don't stay in the repo.
-  if (verdict === "reject") for (const f of ["1600", "800", "logo"]) rmSync(join(OUT, `${slug}-${f}.webp`), { force: true });
+  if (verdict === "reject") for (const f of ["hero", "hero-sm", "logo"]) rmSync(join(OUT, `${slug}-${f}.webp`), { force: true });
   save(manifest);
   console.log(`${slug}: ${verdict}`);
 } else if (cmd === "--sheet") {

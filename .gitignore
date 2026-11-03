@@ -12,3 +12,6 @@
 
 # misc
 .DS_Store
+
+# images, staged for the stylodex-images bucket (pipeline/upload-images.mjs); never committed
+/pipeline/media/
