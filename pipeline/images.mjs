@@ -1,5 +1,6 @@
 // Fetches each brand's own share image (og:image, else twitter:image) from its homepage,
-// resizes it, and saves it under public/img/brands/{slug}.webp, served at /img/brands/....
+// resizes it, and saves it under pipeline/media/brands/{slug}.webp; pipeline/upload-images.mjs puts it
+// in the stylodex-images bucket, served at /img/brands/....
 // Results (and failures, with the reason) go to pipeline/data/images.json, which
 // lib/pipeline.ts merges in. Brand files are not touched, so this can run beside
 // enrichment agents.
@@ -19,9 +20,10 @@ const run = promisify(execFile);
 const ROOT = new URL("..", import.meta.url).pathname;
 const BRANDS = join(ROOT, "pipeline/data/brands");
 const MANIFEST = join(ROOT, "pipeline/data/images.json");
-const OUT = join(ROOT, "public/img/brands");
+const OUT = join(ROOT, "pipeline/media/brands");
 const UA = "StylodexBot/0.1 (+https://www.stylodex.com/how-we-pick)";
-const WIDTH = 960;
+// Shown at most ~270 CSS px wide (index tiles, 14rem profile image); 640 covers 2x screens.
+const WIDTH = 640;
 
 const args = process.argv.slice(2);
 const force = args.includes("--force");
@@ -63,7 +65,7 @@ async function imageFor(slug, brand) {
     },
   );
   const out = join(OUT, `${slug}.webp`);
-  const info = await sharp(tmp).rotate().resize({ width: WIDTH, withoutEnlargement: true }).webp({ quality: 78 }).toFile(out);
+  const info = await sharp(tmp).rotate().resize({ width: WIDTH, withoutEnlargement: true }).webp({ quality: 72 }).toFile(out);
   rmSync(tmp, { force: true });
   return {
     status: "ok",

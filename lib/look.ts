@@ -3,9 +3,10 @@
 // Every text colour this file returns meets WCAG AA (4.5:1) on the page colour.
 
 export interface BrandLook {
-  /** Banner photo from the brand's own homepage, 1600 px wide (and an 800 px copy). */
+  /** Banner photo from the brand's own homepage, up to 1440 px wide, and a copy up to 720 px for phones. */
   heroUrl: string;
   heroSmallUrl: string;
+  heroSmallWidth: number;
   heroWidth: number;
   heroHeight: number;
   /** Logo as an alpha mask (shape only), painted in the theme's ink; null shows the name as text. */
@@ -136,6 +137,7 @@ export function lookFromJson(entry: any): BrandLook | null {
   return {
     heroUrl: hero.path,
     heroSmallUrl: hero.small_path,
+    heroSmallWidth: positive(hero.small_width) ? hero.small_width : 720,
     heroWidth: hero.width,
     heroHeight: hero.height,
     logo: logoOk ? { url: logo.path, width: logo.width, height: logo.height } : null,

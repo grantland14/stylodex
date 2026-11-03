@@ -47,3 +47,19 @@ comparisons between picks, and use-case "Best for" lines.
 
 **Rule for next time:** When asked to match a voice, read two or three finished pieces in it, not
 only its guide, and write down the moves as well as the bans. Keep the moves, never the text.
+
+---
+
+## 2026-11-03 — Check the live state, not the project notes, before saying what can't be done
+
+**What happened:** Ash asked to merge so they could see the work on Vercel. I read
+`tasks/todo.md` ("Vercel not connected to GitHub, deploys go through the CLI"), told Ash the merge
+wouldn't deploy and walked them through connecting Git. It had been connected since Oct 29: the
+`vercel[bot]` comment with a preview link was already on the pull request I had just opened.
+
+**Why I got it wrong:** I treated a dated note as the current state and didn't look at the one
+place that would have shown it (the PR's comments and the merge commit's status).
+
+**Rule for next time:** Before telling Ash how deploys work or that something isn't set up, check
+the live signal: PR comments and commit statuses (`gh api repos/{repo}/commits/{sha}/status`), or
+the URL itself. When a note turns out stale, fix the note in the same change.

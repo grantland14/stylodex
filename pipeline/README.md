@@ -11,21 +11,32 @@ How a "brands like X" page goes from a keyword to rows in Supabase. Every step w
 | 3. Verify brands | each candidate + the anchor | `data/brands/{slug}.json` | agent, `enrich.md` §2 |
 | 4. Pick | candidates + brand facts | `data/pages/{slug}.json` → `picks` | agent, `enrich.md` §3, then `lib/gate.ts` |
 | 5. Write | page JSON | intro, per-pick body, FAQ + review | agent, `write.md` (wildcard-seo references, read-only) |
-| 5b. Media | brand files, page files | `public/img/brands/`, `public/img/products/`, `data/images.json`, `data/product-images.json` | `node pipeline/images.mjs`, `node pipeline/product-images.mjs` |
-| 5c. Look | brand files, homepages | `public/img/looks/`, `data/looks.json` | `node pipeline/look.mjs slug …`, then `--sheet out.png` and `--review slug ok\|reject` |
+| 5b. Media | brand files, page files | `media/brands/`, `media/products/`, `data/images.json`, `data/product-images.json` | `node pipeline/images.mjs`, `node pipeline/product-images.mjs` |
+| 5c. Look | brand files, homepages | `media/looks/`, `data/looks.json` | `node pipeline/look.mjs slug …`, then `--sheet out.png` and `--review slug ok\|reject` |
+| 5d. Upload | `media/` | `stylodex-images` bucket, `data/uploads.json` | `node pipeline/upload-images.mjs` (new or changed files only) |
 | 6. Load | reviewed JSON | `stylodex.*` rows | script, after Ash's review |
 
 Media rules: brand share images (`og:image`) come from the brand's own homepage; product photos
 come from the category collection feed recorded in the brand file, regular-price items only, each
 linking through `/go/` to that product. One honest User-Agent (`StylodexBot`), no workarounds: a
-store that refuses us gets no image. Files live in the repo for now (≈30 KB each, WebP).
+store that refuses us gets no image.
+
+Images never go in the repo. Steps 5b and 5c write WebP files to `pipeline/media/` (git-ignored),
+step 5d uploads them to the `stylodex-images` bucket, and `/img/[...path]` serves them from there
+(so a build that shows images needs `SUPABASE_URL`, locally and on Vercel). Sizes match how big
+each shows on the page, at 2x: product photos 480×600 (~12 KB), brand share images 640 wide
+(~11 KB), hero photos 1440 wide under 100 KB plus a 720 copy under 40 KB, logo masks 120 tall
+(~8 KB). Upload needs `SUPABASE_URL` + `SUPABASE_SERVICE_ROLE_KEY` in the environment.
 
 Looks (step 5c) give a brand profile its own header: the homepage banner photo, the logo from the
 home link (saved as a shape-only mask so the page paints it in a readable ink) and a page colour
 picked from the photo (`lib/look.ts`). A look renders only after review: open the contact sheet
 (`--sheet`), check the photo is a real banner (not an icon, a promo strip or text-heavy), the logo
 is the brand's, and the colour suits it; then `--review slug ok`, or pick another photo with
-`--hero slug N` / drop a bad logo with `--no-logo slug`. A refetch that changes the files resets
+`--hero slug N` / drop a bad logo with `--no-logo slug`. Reject any photo with a sale or discount
+baked in ("60% OFF", "Black Friday"): it goes stale and states an offer we never checked. Drop a
+logo that is only a symbol (wings, a lone letter): the page then shows the name, which a reader
+can place. Heroes over budget are re-encoded smaller (quality, then width) automatically. A refetch that changes the files resets
 the review. Rejected looks keep their record and lose their files (≈100 KB a look).
 
 ## Rules that bind every step

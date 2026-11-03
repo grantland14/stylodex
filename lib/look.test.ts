@@ -54,7 +54,7 @@ test("logo box keeps the aspect ratio inside 288 × 56", () => {
 
 const entry = {
   status: "ok",
-  hero: { path: "/img/looks/kotn-1600.webp", small_path: "/img/looks/kotn-800.webp", width: 1600, height: 900 },
+  hero: { path: "/img/looks/kotn-hero.webp", small_path: "/img/looks/kotn-hero-sm.webp", width: 1440, height: 810, small_width: 720 },
   logo: { path: "/img/looks/kotn-logo.webp", width: 400, height: 80 },
   background: "#FAF1CF",
   review: { status: "ok" },
@@ -62,10 +62,11 @@ const entry = {
 
 test("only reviewed looks with our own files render", () => {
   assert.deepEqual(lookFromJson(entry), {
-    heroUrl: "/img/looks/kotn-1600.webp",
-    heroSmallUrl: "/img/looks/kotn-800.webp",
-    heroWidth: 1600,
-    heroHeight: 900,
+    heroUrl: "/img/looks/kotn-hero.webp",
+    heroSmallUrl: "/img/looks/kotn-hero-sm.webp",
+    heroSmallWidth: 720,
+    heroWidth: 1440,
+    heroHeight: 810,
     logo: { url: "/img/looks/kotn-logo.webp", width: 400, height: 80 },
     background: "#faf1cf",
   });

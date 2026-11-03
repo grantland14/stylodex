@@ -1,21 +1,64 @@
 {
+  "2xu": {
+    "status": "ok",
+    "source_page": "https://us.2xu.com",
+    "hero": {
+      "path": "/img/looks/2xu-hero.webp",
+      "small_path": "/img/looks/2xu-hero-sm.webp",
+      "width": 1125,
+      "height": 1400,
+      "small_width": 720,
+      "bytes": 29040,
+      "source_image": "https://us.2xu.com/cdn/shop/files/MR7150a_BLK-BRF_2_bfijxf.jpg?v=1749522673&width=2000",
+      "candidate": 5
+    },
+    "logo": {
+      "path": "/img/looks/2xu-logo.webp",
+      "width": 522,
+      "height": 120,
+      "bytes": 13612,
+      "source": "https://us.2xu.com/cdn/shop/files/2XU-Logo_Black_RGB.png?v=1785289080&width=100"
+    },
+    "background": "#474747",
+    "candidates": [
+      "https://us.2xu.com/cdn/shop/files/H226_Compression_Website_StaticWide_Banner_Mobile_794x848_2301f74f-fb77-4557-8b2a-91265bc0e740.jpg?v=1793575158&width=2000",
+      "https://us.2xu.com/cdn/shop/files/H226_Compression_Website_StaticWide_Banner_Desktop_2960x1216_9b1f0f0e-9fe3-47f6-9b79-094e45a0a6c2.jpg?v=1793575133&width=2000",
+      "https://us.2xu.com/cdn/shop/files/MR7375a_LGB-BRF_03_zwjwlt.jpg?v=1783670484&width=2000",
+      "https://us.2xu.com/cdn/shop/files/MR6951b_PEB-BRF_04_eagfpu.jpg?v=1782713856&width=2000",
+      "https://us.2xu.com/cdn/shop/files/MA7626b_BLK-BLK_08.jpg?v=1783899064&width=2000",
+      "https://us.2xu.com/cdn/shop/files/MR7150a_BLK-BRF_2_bfijxf.jpg?v=1749522673&width=2000",
+      "https://us.2xu.com/cdn/shop/files/MA7049b_BLK-WRF_1_kjo6pr.jpg?v=1721009153&width=2000",
+      "https://us.2xu.com/cdn/shop/files/MA5331b_BLK-BRF_BLK-BRF_1_kqu5vm.jpg?v=1789096691&width=2000",
+      "https://us.2xu.com/cdn/shop/files/MA5305b_BLK-BRF_1_y6zmqr.jpg?v=1790137073&width=2000",
+      "https://us.2xu.com/cdn/shop/files/MA7050b_BLK-WRF_2_bod5pc.jpg?v=1721009203&width=2000",
+      "https://us.2xu.com/cdn/shop/files/MA4419b_BLK-NRO_1_pcnaj5.jpg?v=1772425996&width=2000",
+      "https://us.2xu.com/cdn/shop/files/MA5365b_BLK-NRO_1_fn1aiv.jpg?v=1721009189&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: other candidate photo; first was a sale or slogan banner",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
   "3sixteen": {
     "status": "ok",
     "source_page": "https://www.3sixteen.com",
     "hero": {
-      "path": "/img/looks/3sixteen-1600.webp",
-      "small_path": "/img/looks/3sixteen-800.webp",
-      "width": 1600,
-      "height": 1080,
-      "bytes": 66090,
+      "path": "/img/looks/3sixteen-hero.webp",
+      "small_path": "/img/looks/3sixteen-hero-sm.webp",
+      "width": 1440,
+      "height": 972,
+      "small_width": 720,
+      "bytes": 53988,
       "source_image": "https://www.3sixteen.com/cdn/shop/files/active-splash.jpg?v=1793295535&width=2000",
       "candidate": 0
     },
     "logo": {
       "path": "/img/looks/3sixteen-logo.webp",
-      "width": 752,
-      "height": 160,
-      "bytes": 12988,
+      "width": 565,
+      "height": 120,
+      "bytes": 8826,
       "source": "inline svg in the home link"
     },
     "background": "#985655",
@@ -38,25 +81,154 @@
       "note": "photo, colour and logo checked on the contact sheet",
       "at": "2026-11-02"
     },
-    "fetched_at": "2026-11-02"
+    "fetched_at": "2026-11-03"
+  },
+  "66-north": {
+    "status": "ok",
+    "source_page": "https://66north.com",
+    "hero": {
+      "path": "/img/looks/66-north-hero.webp",
+      "small_path": "/img/looks/66-north-hero-sm.webp",
+      "width": 1440,
+      "height": 960,
+      "small_width": 720,
+      "bytes": 117352,
+      "source_image": "https://66north.com/cdn/shop/files/Tindur_Down_D.jpg?v=1792487969&width=2000",
+      "candidate": 0
+    },
+    "logo": null,
+    "logo_note": "logo_unusable",
+    "background": "#89745a",
+    "candidates": [
+      "https://66north.com/cdn/shop/files/Tindur_Down_D.jpg?v=1792487969&width=2000",
+      "https://66north.com/cdn/shop/files/Tindur_Down_M.jpg?v=1792487969&width=2000",
+      "https://66north.com/cdn/shop/files/skeljar_116.jpg?v=1792399687&width=2000",
+      "https://66north.com/cdn/shop/files/TindurShearling_1.jpg?v=1793020856&width=2000",
+      "https://66north.com/cdn/shop/files/K11873-439-Model-1.png?v=1790354075&width=2000",
+      "https://66north.com/cdn/shop/files/K11873-439-A_cfa73198-ebb9-499b-846b-ebb2742e7d2e.png?v=1788191513&width=2000",
+      "https://66north.com/cdn/shop/files/K11872-583-Model-1jpg.png?v=1789040056&width=2000",
+      "https://66north.com/cdn/shop/files/K11872-583-Ajpg_bba7316b-e405-4d29-b46c-a0ed694b0358.png?v=1789039382&width=2000",
+      "https://66north.com/cdn/shop/files/K11870-583-Model-1-AW26_13a58b8b-daec-43dc-b8a2-d2d850d9c022.png?v=1788199538&width=2000",
+      "https://66north.com/cdn/shop/files/K11870-583-A_8f1b11e9-11ec-47ea-bb42-15f638d7bb76.png?v=1788190998&width=2000",
+      "https://66north.com/cdn/shop/files/K01723-439-Model-1.png?v=1790354066&width=2000",
+      "https://66north.com/cdn/shop/files/K01723-439-A.png?v=1786980901&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: real photo, logo and colour checked",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "6pm": {
+    "status": "ok",
+    "source_page": "https://www.6pm.com",
+    "hero": {
+      "path": "/img/looks/6pm-1600.webp",
+      "small_path": "/img/looks/6pm-800.webp",
+      "width": 1024,
+      "height": 370,
+      "bytes": 16322,
+      "source_image": "https://m.media-amazon.com/images/G/01/zappos/2026/6pm/6PM-SEPTEMBER-DESKTOP-RETINA-2880X1040._SX1024_FMwebp_.jpg",
+      "candidate": 1
+    },
+    "logo": {
+      "path": "/img/looks/6pm-logo.webp",
+      "width": 258,
+      "height": 160,
+      "bytes": 8696,
+      "source": "https://images-na.ssl-images-amazon.com/images/G/01/6pm/logos/6pm-Logo-1x._V285053994_.png"
+    },
+    "background": "#0b447c",
+    "candidates": [
+      "https://m.media-amazon.com/images/G/01/zappos/2026/6pm/6PM-SEPTEMBER-MOBILE-780X974._FMwebp_.jpg",
+      "https://m.media-amazon.com/images/G/01/zappos/2026/6pm/6PM-SEPTEMBER-DESKTOP-RETINA-2880X1040._SX1024_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/G/01/zappos/2026/6pm/6PM-SEPTEMBER-DESKTOP-RETINA-2880X1040._FMwebp_.jpg",
+      "https://m.media-amazon.com/images/I/71K+LXVLOHL._AC_SR768,1024__FMwebp_.jpg",
+      "https://m.media-amazon.com/images/I/71K+LXVLOHL._AC_SR768,1024_.jpg",
+      "https://m.media-amazon.com/images/I/71Lp6BUzZDL._AC_SR768,1024__FMwebp_.jpg",
+      "https://m.media-amazon.com/images/I/71Lp6BUzZDL._AC_SR768,1024_.jpg",
+      "https://m.media-amazon.com/images/I/71U2bmEcE5L._AC_SR768,1024__FMwebp_.jpg",
+      "https://m.media-amazon.com/images/I/71U2bmEcE5L._AC_SR768,1024_.jpg",
+      "https://m.media-amazon.com/images/I/81Iz56m2T2L._AC_SR768,1024__FMwebp_.jpg",
+      "https://m.media-amazon.com/images/I/81Iz56m2T2L._AC_SR768,1024_.jpg",
+      "https://m.media-amazon.com/images/I/714+chnHoVL._AC_SR768,1024__FMwebp_.jpg"
+    ],
+    "tried": [
+      {
+        "candidate": 0,
+        "status": "hero_too_small",
+        "width": 780,
+        "source_image": "https://m.media-amazon.com/images/G/01/zappos/2026/6pm/6PM-SEPTEMBER-MOBILE-780X974._FMwebp_.jpg"
+      }
+    ],
+    "review": {
+      "status": "reject",
+      "note": "only images are a sale banner and small product shots",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "a-cold-wall": {
+    "status": "ok",
+    "source_page": "https://www.a-cold-wall.com",
+    "hero": {
+      "path": "/img/looks/a-cold-wall-hero.webp",
+      "small_path": "/img/looks/a-cold-wall-hero-sm.webp",
+      "width": 1440,
+      "height": 720,
+      "small_width": 720,
+      "bytes": 52484,
+      "source_image": "https://www.a-cold-wall.com/cdn/shop/files/acw-homepage-banner-aw26_7.jpg?format=webp&v=1793016735&width=2000",
+      "candidate": 0
+    },
+    "logo": {
+      "path": "/img/looks/a-cold-wall-logo.webp",
+      "width": 1153,
+      "height": 120,
+      "bytes": 11194,
+      "source": "inline svg in the home link"
+    },
+    "background": "#cab997",
+    "candidates": [
+      "https://www.a-cold-wall.com/cdn/shop/files/acw-homepage-banner-aw26_7.jpg?format=webp&v=1793016735&width=2000",
+      "https://www.a-cold-wall.com/cdn/shop/files/mobile.png?format=webp&v=1793369786&width=2000",
+      "https://www.a-cold-wall.com/cdn/shop/files/ACWMO317-0005-0011.jpg?format=webp&v=1788341503&width=2000",
+      "https://www.a-cold-wall.com/cdn/shop/files/ACWMO317-0005-0021.jpg?format=webp&v=1788341502&width=2000",
+      "https://www.a-cold-wall.com/cdn/shop/files/ACWMK221-0035-001_6bd24254-5ca9-41a8-8bf5-69b4b9589806.jpg?format=webp&v=1786449599&width=2000",
+      "https://www.a-cold-wall.com/cdn/shop/files/ACWMK221-0035-002_c21f430c-2989-4308-900f-9a3ff98c4b16.jpg?format=webp&v=1786449599&width=2000",
+      "https://www.a-cold-wall.com/cdn/shop/files/ACWMTS274-0050-001.jpg?format=webp&v=1788341768&width=2000",
+      "https://www.a-cold-wall.com/cdn/shop/files/ACWMTS274-0050-0012.jpg?format=webp&v=1788341767&width=2000",
+      "https://www.a-cold-wall.com/cdn/shop/files/ACWMO321-0050-001.jpg?format=webp&v=1788341593&width=2000",
+      "https://www.a-cold-wall.com/cdn/shop/files/ACWMO321-0050-0011.jpg?format=webp&v=1788341593&width=2000",
+      "https://www.a-cold-wall.com/cdn/shop/files/ACWMK222-0031-001_0b7e6614-6ece-4387-9bf3-ba3d03fd5899.jpg?format=webp&v=1786449651&width=2000",
+      "https://www.a-cold-wall.com/cdn/shop/files/ACWMK222-0031-002_346a1a85-81e6-46b9-9744-7e55b579f801.jpg?format=webp&v=1786449651&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: real photo, logo and colour checked",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
   },
   "a-p-c": {
     "status": "ok",
     "source_page": "https://www.apc-us.com",
     "hero": {
-      "path": "/img/looks/a-p-c-1600.webp",
-      "small_path": "/img/looks/a-p-c-800.webp",
-      "width": 1600,
-      "height": 900,
-      "bytes": 65810,
+      "path": "/img/looks/a-p-c-hero.webp",
+      "small_path": "/img/looks/a-p-c-hero-sm.webp",
+      "width": 1440,
+      "height": 810,
+      "small_width": 720,
+      "bytes": 49946,
       "source_image": "https://www.apc-us.com/cdn/shop/files/A.P.C._GLOBALCAMPAIGN_26FW_16x9_13.jpg?v=1793371822&width=2000",
       "candidate": 1
     },
     "logo": {
       "path": "/img/looks/a-p-c-logo.webp",
-      "width": 615,
-      "height": 160,
-      "bytes": 6968,
+      "width": 459,
+      "height": 120,
+      "bytes": 4708,
       "source": "inline svg in the home link"
     },
     "background": "#a8866a",
@@ -71,29 +243,32 @@
       "note": "photo, colour and logo checked on the contact sheet",
       "at": "2026-11-02"
     },
-    "fetched_at": "2026-11-02"
+    "fetched_at": "2026-11-03"
   },
   "abercrombie-fitch": {
     "status": "ok",
     "source_page": "https://www.abercrombie.com/shop/us",
     "hero": {
-      "path": "/img/looks/abercrombie-fitch-1600.webp",
-      "small_path": "/img/looks/abercrombie-fitch-800.webp",
-      "width": 1568,
-      "height": 708,
-      "bytes": 146724,
-      "source_image": "https://img.abercrombie.com/is/image/anf/ANF-2026-SepWk5-Sweaters-HP-D-HeroTout-M.jpg",
+      "path": "/img/looks/abercrombie-fitch-hero.webp",
+      "small_path": "/img/looks/abercrombie-fitch-hero-sm.webp",
+      "width": 1440,
+      "height": 650,
+      "small_width": 720,
+      "bytes": 78690,
+      "source_image": "https://img.abercrombie.com/is/image/anf/ANF-2026-NovWk1-CeeDee-Lamb-Edit-HP-D-HeroTout-M",
       "candidate": 0
     },
     "logo": {
       "path": "/img/looks/abercrombie-fitch-logo.webp",
-      "width": 429,
-      "height": 160,
-      "bytes": 8470,
+      "width": 323,
+      "height": 120,
+      "bytes": 5264,
       "source": "https://img.abercrombie.com/is/image/anf/anf_logo_ANF_shorthand_text_primary.svg"
     },
-    "background": "#a99987",
+    "background": "#070a14",
     "candidates": [
+      "https://img.abercrombie.com/is/image/anf/ANF-2026-NovWk1-CeeDee-Lamb-Edit-HP-D-HeroTout-M",
+      "https://img.abercrombie.com/is/image/anf/ANF-2026-NovWk1-CeeDee-Lamb-Edit-HP-M-HeroTout-M",
       "https://img.abercrombie.com/is/image/anf/ANF-2026-SepWk5-Sweaters-HP-D-HeroTout-M.jpg",
       "https://img.abercrombie.com/is/image/anf/ANF-2026-SepWk5-HP-M-HeroTout-M.jpg",
       "https://img.abercrombie.com/is/image/anf/ANF-2026-OctWk1-Outerwear-HP-D-HeroTout-D.jpg",
@@ -103,35 +278,34 @@
       "https://img.abercrombie.com/is/image/anf/ANF-2026-OctWk3-NewArrivals-M-HeroTout-W",
       "https://img.abercrombie.com/is/image/anf/ANF-2026-OctWk3-NewArrivals-M-HeroTout-M",
       "https://img.abercrombie.com/is/image/anf/ANF-2026-OctWk4-FamilyMatchingSleep-HeroTout",
-      "https://img.abercrombie.com/is/image/anf/ANF-2026-OctWk1-MoodboardDenim-D-HeroTout-M.jpg",
-      "https://img.abercrombie.com/is/image/anf/ANF-2026-OctWk4-Denim-HeroTout-W",
-      "https://img.abercrombie.com/is/image/anf/ANF-2026-OctWk1-MoodboardShoes-D-HeroTout-W.jpg"
+      "https://img.abercrombie.com/is/image/anf/ANF-2026-OctWk1-MoodboardDenim-D-HeroTout-M.jpg"
     ],
     "review": {
       "status": "ok",
-      "note": "photo, colour and logo checked on the contact sheet",
-      "at": "2026-11-02"
+      "note": "contact sheet after refetch: photo, logo and colour checked",
+      "at": "2026-11-03"
     },
-    "fetched_at": "2026-11-02"
+    "fetched_at": "2026-11-03"
   },
   "acne-studios": {
     "status": "ok",
     "source_page": "https://www.acnestudios.com/us/en/",
     "hero": {
-      "path": "/img/looks/acne-studios-1600.webp",
-      "small_path": "/img/looks/acne-studios-800.webp",
+      "path": "/img/looks/acne-studios-hero.webp",
+      "small_path": "/img/looks/acne-studios-hero-sm.webp",
       "width": 1280,
       "height": 1920,
-      "bytes": 153588,
+      "small_width": 720,
+      "bytes": 134508,
       "source_image": "https://www.acnestudios.com/on/demandware.static/-/Library-Sites-acne/default/dw39222a86/home/2026/w44/transition-w.jpg",
       "candidate": 0
     },
     "logo": {
       "path": "/img/looks/acne-studios-logo.webp",
-      "width": 1228,
-      "height": 160,
-      "bytes": 16880,
-      "source": "https://www.acnestudios.com/on/demandware.static/Sites-acne_us-Site/-/en_US/v1793630479369/icons/acne_studios_logo.svg"
+      "width": 921,
+      "height": 120,
+      "bytes": 11004,
+      "source": "https://www.acnestudios.com/on/demandware.static/Sites-acne_us-Site/-/default/dw382a14d8/icons/acne_studios_logo.svg"
     },
     "background": "#583626",
     "candidates": [
@@ -150,28 +324,316 @@
     ],
     "review": {
       "status": "ok",
-      "note": "photo, colour and logo checked on the contact sheet",
-      "at": "2026-11-02"
+      "note": "contact sheet after refetch: photo, logo and colour checked",
+      "at": "2026-11-03"
     },
-    "fetched_at": "2026-11-02"
+    "fetched_at": "2026-11-03"
+  },
+  "adornmonde": {
+    "status": "no_hero",
+    "tried": [
+      {
+        "candidate": 0,
+        "status": "hero_too_small",
+        "width": 642,
+        "source_image": "https://www.adornmonde.com/cdn/shop/collections/SlidersMarch_06_0ad01f6a-d780-4bb3-a4ec-e6e845048596.jpg?v=1754661721&width=2000"
+      },
+      {
+        "candidate": 1,
+        "status": "hero_too_small",
+        "width": 642,
+        "source_image": "https://www.adornmonde.com/cdn/shop/collections/Website_Tiles_1_c33a8795-2d7f-4ec4-a940-0ebb6a43dd5c.jpg?v=1754661718&width=2000"
+      },
+      {
+        "candidate": 2,
+        "status": "hero_too_small",
+        "width": 642,
+        "source_image": "https://www.adornmonde.com/cdn/shop/collections/Categories_480x600_3_df982877-04b2-44be-a90c-70127d23ebb2.jpg?v=1754661709&width=2000"
+      },
+      {
+        "candidate": 3,
+        "status": "hero_too_small",
+        "width": 642,
+        "source_image": "https://www.adornmonde.com/cdn/shop/collections/Categories_480x600_5_7133d304-9a4e-4eb0-a60f-5d976e7626bc.jpg?v=1754661700&width=2000"
+      },
+      {
+        "candidate": 4,
+        "status": "hero_too_small",
+        "width": 642,
+        "source_image": "https://www.adornmonde.com/cdn/shop/collections/7_a9fdd7c8-8df9-4256-95aa-53a5498da831.jpg?v=1754661712&width=2000"
+      },
+      {
+        "candidate": 5,
+        "status": "hero_too_small",
+        "width": 642,
+        "source_image": "https://www.adornmonde.com/cdn/shop/collections/BF23_Sale_assets_63eed387-a970-471c-8c41-44de8f4582bc.jpg?v=1754661695&width=2000"
+      }
+    ],
+    "candidates": [
+      "https://www.adornmonde.com/cdn/shop/collections/SlidersMarch_06_0ad01f6a-d780-4bb3-a4ec-e6e845048596.jpg?v=1754661721&width=2000",
+      "https://www.adornmonde.com/cdn/shop/collections/Website_Tiles_1_c33a8795-2d7f-4ec4-a940-0ebb6a43dd5c.jpg?v=1754661718&width=2000",
+      "https://www.adornmonde.com/cdn/shop/collections/Categories_480x600_3_df982877-04b2-44be-a90c-70127d23ebb2.jpg?v=1754661709&width=2000",
+      "https://www.adornmonde.com/cdn/shop/collections/Categories_480x600_5_7133d304-9a4e-4eb0-a60f-5d976e7626bc.jpg?v=1754661700&width=2000",
+      "https://www.adornmonde.com/cdn/shop/collections/7_a9fdd7c8-8df9-4256-95aa-53a5498da831.jpg?v=1754661712&width=2000",
+      "https://www.adornmonde.com/cdn/shop/collections/BF23_Sale_assets_63eed387-a970-471c-8c41-44de8f4582bc.jpg?v=1754661695&width=2000",
+      "https://www.adornmonde.com/cdn/shop/collections/7_f3001622-84d0-4387-9387-0889a9af68e5.jpg?v=1754661715&width=2000",
+      "https://www.adornmonde.com/cdn/shop/collections/8_de0d7bf9-ffb8-442a-bcff-662f5a681f2d.jpg?v=1754661724&width=2000",
+      "https://www.adornmonde.com/cdn/shop/collections/Website_Tiles_8_8371f1ee-9534-4008-9ef9-e3da99bfb9ed.jpg?v=1754661683&width=2000",
+      "https://www.adornmonde.com/cdn/shop/collections/EarringSets_08060d53-afd9-46e7-a967-bd21c824d49b.jpg?v=1754661689&width=2000",
+      "https://www.adornmonde.com/cdn/shop/collections/Website_Tiles_7_a9e8706b-8ee3-4bb0-9827-d83247658815.jpg?v=1754661697&width=2000",
+      "https://www.adornmonde.com/cdn/shop/collections/BUY_2_ba237f5f-6f07-4eac-9571-7d339da99ffb.jpg?v=1754661706&width=2000"
+    ],
+    "source_page": "https://www.adornmonde.com/",
+    "fetched_at": "2026-11-03"
+  },
+  "adrianna-papell": {
+    "status": "ok",
+    "source_page": "https://www.adriannapapell.com",
+    "hero": {
+      "path": "/img/looks/adrianna-papell-1600.webp",
+      "small_path": "/img/looks/adrianna-papell-800.webp",
+      "width": 1600,
+      "height": 722,
+      "bytes": 43262,
+      "source_image": "https://www.adriannapapell.com/cdn/shop/files/11.3-MOB-DesktopBanner.png?v=1793693126&width=2000",
+      "candidate": 2
+    },
+    "logo": null,
+    "logo_note": "logo_unusable",
+    "background": "#c8b598",
+    "candidates": [
+      "https://www.adriannapapell.com/cdn/shop/files/11.3-MiniSale-30OffCasual-DesktopBanner.png?v=1793693037&width=2000",
+      "https://www.adriannapapell.com/cdn/shop/files/11.3-MiniSale-30OffCasual-MobileBanner.png?v=1793693037&width=2000",
+      "https://www.adriannapapell.com/cdn/shop/files/11.3-MOB-DesktopBanner.png?v=1793693126&width=2000",
+      "https://www.adriannapapell.com/cdn/shop/files/11.3-MOB-MobileBanner.png?v=1793693124&width=2000",
+      "https://www.adriannapapell.com/cdn/shop/files/10.29-PopCollections-WeddingGuest.png?v=1793265047&width=2000",
+      "https://www.adriannapapell.com/cdn/shop/files/10.29-PopCollections-MOB.png?v=1793265047&width=2000",
+      "https://www.adriannapapell.com/cdn/shop/files/10.29-PopCollections-Day.png?v=1793265047&width=2000",
+      "https://www.adriannapapell.com/cdn/shop/files/10.29-PopCollections-Cocktail.png?v=1793265047&width=2000",
+      "https://www.adriannapapell.com/cdn/shop/files/10.29-PopCollections-Floral.png?v=1793265047&width=2000",
+      "https://www.adriannapapell.com/cdn/shop/files/10.29-PopCollections-Casual.png?v=1793265047&width=2000",
+      "https://cdn.frenzyai.click/plugin/placeholder.png",
+      "https://www.adriannapapell.com/cdn/shop/files/10.29-SportswearRefresh-DesktopAsset.png?v=1793265035&width=2000"
+    ],
+    "tried": [
+      {
+        "candidate": 0,
+        "status": "hero_wrong_shape",
+        "width": 2000,
+        "height": 244,
+        "source_image": "https://www.adriannapapell.com/cdn/shop/files/11.3-MiniSale-30OffCasual-DesktopBanner.png?v=1793693037&width=2000"
+      },
+      {
+        "candidate": 1,
+        "status": "hero_too_small",
+        "width": 558,
+        "source_image": "https://www.adriannapapell.com/cdn/shop/files/11.3-MiniSale-30OffCasual-MobileBanner.png?v=1793693037&width=2000"
+      }
+    ],
+    "review": {
+      "status": "reject",
+      "note": "banners carry sale or campaign text; other photos under 1000px",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "aelfric-eden": {
+    "status": "ok",
+    "source_page": "https://www.aelfriceden.com",
+    "hero": {
+      "path": "/img/looks/aelfric-eden-hero.webp",
+      "small_path": "/img/looks/aelfric-eden-hero-sm.webp",
+      "width": 1280,
+      "height": 1707,
+      "small_width": 720,
+      "bytes": 123942,
+      "source_image": "https://www.aelfriceden.com/cdn/shop/files/2_d258f9af-e48b-445e-998d-0a550db63814.jpg?v=1793272288&width=2000",
+      "candidate": 2
+    },
+    "logo": null,
+    "logo_note": "turned off",
+    "logo_off": true,
+    "background": "#f2f2f2",
+    "candidates": [
+      "https://www.aelfriceden.com/cdn/shop/files/index_wave_banner_mb.webp?v=1792402443&width=2000",
+      "https://www.aelfriceden.com/cdn/shop/files/index_wave_banner.webp?v=1792402440&width=2000",
+      "https://www.aelfriceden.com/cdn/shop/files/2_d258f9af-e48b-445e-998d-0a550db63814.jpg?v=1793272288&width=2000",
+      "https://www.aelfriceden.com/cdn/shop/files/1_ffaa2d21-5bb7-4ef7-aa36-b379aacba9a0.jpg?v=1793272281&width=2000",
+      "https://www.aelfriceden.com/cdn/shop/files/1_66e7a9ab-bf6c-446e-b555-53eaf6418264.jpg?v=1793279475&width=2000",
+      "https://www.aelfriceden.com/cdn/shop/files/1_3c40e142-fc48-4a5e-b8ac-f120679b1266.jpg?v=1793279465&width=2000",
+      "https://www.aelfriceden.com/cdn/shop/files/Aelfric_Eden_Sherpa_Fleece_Sweatshirt_model_1.jpg?v=1792746553&width=2000",
+      "https://www.aelfriceden.com/cdn/shop/files/4_8ca56a8a-daf7-4d02-a91c-5d1365a27552.jpg?v=1792465838&width=2000",
+      "https://www.aelfriceden.com/cdn/shop/files/3_4ad6d00b-1805-445f-abf1-5af443a70179.jpg?v=1790244337&width=2000",
+      "https://www.aelfriceden.com/cdn/shop/files/900723202609231145426ab34b66dae7c.jpg?v=1790140261&width=2000",
+      "https://www.aelfriceden.com/cdn/shop/files/900723202609231414256ab36e4154de8.jpg?v=1790147433&width=2000",
+      "https://www.aelfriceden.com/cdn/shop/files/900723202609231219006ab3533467d95.jpg?v=1790140952&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: other candidate photo; first was a sale or slogan banner",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "aeropostale": {
+    "status": "no_hero",
+    "tried": [
+      {
+        "candidate": 0,
+        "status": "hero_too_small",
+        "width": 798,
+        "source_image": "https://www.aeropostale.com/on/demandware.static/-/Sites-site-catalog-aeropostale/default/dw21eded40/menu-banners/2026/102826/Desktop_Nav_New_Arrivals_Women.jpg"
+      },
+      {
+        "candidate": 1,
+        "status": "hero_too_small",
+        "width": 798,
+        "source_image": "https://www.aeropostale.com/on/demandware.static/-/Sites-site-catalog-aeropostale/default/dw6653908d/menu-banners/2026/102826/Desktop_Nav_New%20Arrivals_Men.jpg"
+      },
+      {
+        "candidate": 2,
+        "status": "hero_too_small",
+        "width": 798,
+        "source_image": "https://www.aeropostale.com/on/demandware.static/-/Sites-site-catalog-aeropostale/default/dw58c2e123/menu-banners/2026/102826/Desktop_Nav_DENIM.jpg"
+      },
+      {
+        "candidate": 3,
+        "status": "hero_too_small",
+        "width": 798,
+        "source_image": "https://www.aeropostale.com/on/demandware.static/-/Sites-site-catalog-aeropostale/default/dwbe38a712/menu-banners/2026/102826/Desktop_Nav_Collections.jpg"
+      },
+      {
+        "candidate": 4,
+        "status": "hero_too_small",
+        "width": 798,
+        "source_image": "https://www.aeropostale.com/on/demandware.static/-/Sites-site-catalog-aeropostale/default/dwc56f77be/menu-banners/2026/102826/Desktop%20Nav_Clearance.jpg"
+      },
+      {
+        "candidate": 5,
+        "status": "hero_too_small",
+        "width": 335,
+        "source_image": "https://www.aeropostale.com/on/demandware.static/Sites-aeropostale-Site/-/default/dw0302bdea/images/loyalty/account-top-mob.jpg"
+      }
+    ],
+    "candidates": [
+      "https://www.aeropostale.com/on/demandware.static/-/Sites-site-catalog-aeropostale/default/dw21eded40/menu-banners/2026/102826/Desktop_Nav_New_Arrivals_Women.jpg",
+      "https://www.aeropostale.com/on/demandware.static/-/Sites-site-catalog-aeropostale/default/dw6653908d/menu-banners/2026/102826/Desktop_Nav_New%20Arrivals_Men.jpg",
+      "https://www.aeropostale.com/on/demandware.static/-/Sites-site-catalog-aeropostale/default/dw58c2e123/menu-banners/2026/102826/Desktop_Nav_DENIM.jpg",
+      "https://www.aeropostale.com/on/demandware.static/-/Sites-site-catalog-aeropostale/default/dwbe38a712/menu-banners/2026/102826/Desktop_Nav_Collections.jpg",
+      "https://www.aeropostale.com/on/demandware.static/-/Sites-site-catalog-aeropostale/default/dwc56f77be/menu-banners/2026/102826/Desktop%20Nav_Clearance.jpg",
+      "https://www.aeropostale.com/on/demandware.static/Sites-aeropostale-Site/-/default/dw0302bdea/images/loyalty/account-top-mob.jpg",
+      "https://www.aeropostale.com/on/demandware.static/-/Sites-aeropostale-Library/default/dw0d6d6822/images/2026/Home/102826/Characters-MB.jpg",
+      "https://www.aeropostale.com/on/demandware.static/-/Sites-aeropostale-Library/default/dw43543e8f/images/2026/Home/102826/Characters-DT.jpg",
+      "https://www.aeropostale.com/on/demandware.static/Sites-aeropostale-Site/-/default/dw904e9f79/images/newnavigation/search.png",
+      "https://www.aeropostale.com/on/demandware.static/Sites-aeropostale-Site/-/default/dw55da8b44/images/loyalty/account-top.png",
+      "https://www.aeropostale.com/on/demandware.static/-/Sites-aeropostale-Library/default/dw65ee27d0/images/2026/Home/100826/A_FALL%20SALE_DT.jpg",
+      "https://www.aeropostale.com/on/demandware.static/-/Sites-aeropostale-Library/default/dw83d822da/images/2026/Home/100826/PROMO-%20MB.jpg"
+    ],
+    "source_page": "https://www.aeropostale.com",
+    "fetched_at": "2026-11-03"
+  },
+  "afends": {
+    "status": "ok",
+    "source_page": "https://afends.com",
+    "hero": {
+      "path": "/img/looks/afends-hero.webp",
+      "small_path": "/img/looks/afends-hero-sm.webp",
+      "width": 1280,
+      "height": 1792,
+      "small_width": 720,
+      "bytes": 121802,
+      "source_image": "https://afends.com/cdn/shop/files/M261205-CTC_M264450-VSN_006.jpg?v=1793054741&width=2000",
+      "candidate": 0
+    },
+    "logo": {
+      "path": "/img/looks/afends-logo.webp",
+      "width": 642,
+      "height": 120,
+      "bytes": 15774,
+      "source": "https://afends.com/cdn/shop/files/AFENDS-LOGO-blackk.png?height=20&v=1749618564"
+    },
+    "background": "#d4ccc9",
+    "candidates": [
+      "https://afends.com/cdn/shop/files/M261205-CTC_M264450-VSN_006.jpg?v=1793054741&width=2000",
+      "https://afends.com/cdn/shop/files/M264002-STK_M264311-VSN_003_1_c2ca1d65-0add-495b-9315-db2345db0270.jpg?v=1793054649&width=2000",
+      "https://afends.com/cdn/shop/files/preview_images/0ee8603c592b4acf9054effe801a3c71.thumbnail.0000000000_small.jpg?v=1793054467&width=2000",
+      "https://afends.com/cdn/shop/files/W264101-CBC_W264901-CBC_1.webp?v=1790750499&width=2000",
+      "https://afends.com/cdn/shop/files/W264402-BLK_003.jpg?v=1790227401&width=2000",
+      "https://afends.com/cdn/shop/files/84._W264402-BLK_1410.webp?v=1789434382&width=2000",
+      "https://afends.com/cdn/shop/files/85._W264402-COF_1427.webp?v=1789530491&width=2000",
+      "https://afends.com/cdn/shop/files/85._W264402-COF_1430.webp?v=1789530512&width=2000",
+      "https://afends.com/cdn/shop/files/W264815-COF_003.jpg?v=1790227427&width=2000",
+      "https://afends.com/cdn/shop/files/15.W264815-COF_0179.jpg?v=1789530683&width=2000",
+      "https://afends.com/cdn/shop/files/35._W264819-COF_0622.webp?v=1789530735&width=2000",
+      "https://afends.com/cdn/shop/files/35._W264819-COF_0625.webp?v=1789530752&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: real photo, logo and colour checked",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "affliction": {
+    "status": "ok",
+    "source_page": "https://afflictionclothing.com",
+    "hero": {
+      "path": "/img/looks/affliction-hero.webp",
+      "small_path": "/img/looks/affliction-hero-sm.webp",
+      "width": 1120,
+      "height": 622,
+      "small_width": 640,
+      "bytes": 130086,
+      "source_image": "https://www.afflictionclothing.com/cdn/shop/files/NOTEXT_AFF_HDGWP1_BANNER2026_015d510e-e7a3-41cf-97bf-5d10499bf6f2.jpg?v=1792784198&width=2000",
+      "candidate": 0
+    },
+    "logo": {
+      "path": "/img/looks/affliction-logo.webp",
+      "width": 563,
+      "height": 120,
+      "bytes": 16326,
+      "source": "https://www.afflictionclothing.com/cdn/shop/files/AFFLICTION-PORT-BLK.png?v=1740685558&width=300"
+    },
+    "background": "#040404",
+    "candidates": [
+      "https://www.afflictionclothing.com/cdn/shop/files/NOTEXT_AFF_HDGWP1_BANNER2026_015d510e-e7a3-41cf-97bf-5d10499bf6f2.jpg?v=1792784198&width=2000",
+      "https://www.afflictionclothing.com/cdn/shop/files/IMMORTAL-BURDEN-GWP-BANNER2026_e035726f-5c41-4a69-ba0b-4e40fd15a203.jpg?v=1792786449&width=2000",
+      "https://www.afflictionclothing.com/cdn/shop/files/AFF_GORECORE_BANNER2026.jpg?v=1792525284&width=2000",
+      "https://www.afflictionclothing.com/cdn/shop/files/aff_ROGUE_MOBBANNER8.21.26_540db44c-3cd7-4079-8750-69668e0f014f.jpg?v=1787268053&width=2000",
+      "https://www.afflictionclothing.com/cdn/shop/files/BM-MOB-BANNER.jpg?v=1792522980&width=2000",
+      "https://www.afflictionclothing.com/cdn/shop/files/REGULO-BANNER-COLLAB.jpg?v=1790894814&width=2000",
+      "https://www.afflictionclothing.com/cdn/shop/files/NOTEXT_AFF-HOLIDAYDEALS1_MB_2026_8e46993e-b27f-4db6-a5a7-d2f2f7e60200.jpg?v=1792784420&width=2000",
+      "https://www.afflictionclothing.com/cdn/shop/files/NOTEXT_AFFGWP1_MB_2026_af7111cd-9908-4eb2-934b-26a5396b6097.jpg?v=1792786608&width=2000",
+      "https://www.afflictionclothing.com/cdn/shop/files/AFF_GORECORE_MB2026.jpg?v=1792525538&width=2000",
+      "https://www.afflictionclothing.com/cdn/shop/files/AFF_ROGUE_8.21.26_22d0a9f8-65f9-4f6c-9c83-9cd289dac243.jpg?v=1787267804&width=2000",
+      "https://www.afflictionclothing.com/cdn/shop/files/updatedAFF_GOW_NOVBAN1.jpg?v=1792523289&width=2000",
+      "https://www.afflictionclothing.com/cdn/shop/files/SA_EMAIL_7.24.26_5c2eadc5-4d8b-44ec-8a2b-8862aeab9acd.jpg?v=1789692748&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: real photo, logo and colour checked",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
   },
   "agolde": {
     "status": "ok",
     "source_page": "https://agolde.com/",
     "hero": {
-      "path": "/img/looks/agolde-1600.webp",
-      "small_path": "/img/looks/agolde-800.webp",
-      "width": 1600,
-      "height": 900,
-      "bytes": 27048,
+      "path": "/img/looks/agolde-hero.webp",
+      "small_path": "/img/looks/agolde-hero-sm.webp",
+      "width": 1440,
+      "height": 810,
+      "small_width": 720,
+      "bytes": 22218,
       "source_image": "https://agolde.com/cdn/shop/files/AGOLDE_WOMENS_HOLIDAY_BANNER_DESKTOP.jpg?v=1793389535&width=2000",
       "candidate": 1
     },
     "logo": {
       "path": "/img/looks/agolde-logo.webp",
-      "width": 655,
-      "height": 160,
-      "bytes": 14446,
+      "width": 491,
+      "height": 120,
+      "bytes": 10446,
       "source": "https://agolde.com/cdn/shop/files/agolde_logo_update.png?height=22&v=1768924897"
     },
     "background": "#dbe4e7",
@@ -189,39 +651,69 @@
       "https://agolde.com/cdn/shop/files/A373-2046_SHARA_PANT_NAVY_1062.jpg?v=1789071979&width=2000",
       "https://agolde.com/cdn/shop/files/A7505-2049_NAPIER_SHIRT_SATIN_STRIPE_1288.jpg?v=1789071034&width=2000"
     ],
-    "tried": [
-      {
-        "candidate": 0,
-        "status": "hero_wrong_shape",
-        "width": 1967,
-        "height": 3497,
-        "source_image": "https://agolde.com/cdn/shop/files/AGOLDE_WOMENS_HOLIDAY_BANNER_MOBILE.jpg?v=1793389534&width=2000"
-      }
-    ],
     "review": {
       "status": "ok",
       "note": "photo, colour and logo checked on the contact sheet",
       "at": "2026-11-02"
     },
-    "fetched_at": "2026-11-02"
+    "fetched_at": "2026-11-03"
+  },
+  "aidan-mattox": {
+    "status": "ok",
+    "source_page": "https://www.adriannapapell.com/pages/aidan-mattox",
+    "hero": {
+      "path": "/img/looks/aidan-mattox-hero.webp",
+      "small_path": "/img/looks/aidan-mattox-hero-sm.webp",
+      "width": 1440,
+      "height": 632,
+      "small_width": 720,
+      "bytes": 22608,
+      "source_image": "https://www.adriannapapell.com/cdn/shop/files/AM-DesktopHero.png?v=1789977670&width=2000",
+      "candidate": 0
+    },
+    "logo": null,
+    "logo_note": "turned off",
+    "logo_off": true,
+    "background": "#673722",
+    "candidates": [
+      "https://www.adriannapapell.com/cdn/shop/files/AM-DesktopHero.png?v=1789977670&width=2000",
+      "https://www.adriannapapell.com/cdn/shop/files/AM-MobileHero.png?v=1789977668&width=2000",
+      "https://www.adriannapapell.com/cdn/shop/files/AidanMattoxBrandPage-Desktop-Q4ww.png?v=1789979894&width=2000",
+      "https://www.adriannapapell.com/cdn/shop/files/Detail-Mobile.png?v=1789979932&width=2000",
+      "https://www.adriannapapell.com/cdn/shop/files/CampaignBanner-Desktop.png?v=1789980695&width=2000",
+      "https://www.adriannapapell.com/cdn/shop/files/CampaignBanner-Mobile.png?v=1789980695&width=2000",
+      "https://www.adriannapapell.com/cdn/shop/files/LongDresses-Desktop_be709bba-515b-431a-b9f4-619079a35ace.png?v=1789978146&width=2000",
+      "https://www.adriannapapell.com/cdn/shop/files/LongDresses-Mobile_bfd4c7a3-8c21-478f-80c6-e8729343618a.png?v=1789978144&width=2000",
+      "https://www.adriannapapell.com/cdn/shop/files/MidiDresses-Desktop.png?v=1789978345&width=2000",
+      "https://www.adriannapapell.com/cdn/shop/files/MidiDresses-Mobile.png?v=1789978344&width=2000",
+      "https://www.adriannapapell.com/cdn/shop/files/NewArrivals-Desktop_89c9bb50-21ea-46e4-91a4-7c9cca2bc22f.png?v=1789981385&width=2000",
+      "https://www.adriannapapell.com/cdn/shop/files/NewArrivals-Mobile_ddee4ac2-fca5-48bf-95dd-0cef3a9a4dd9.png?v=1789981385&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "logo found was a bar, not the wordmark; name shown as text",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
   },
   "aime-leon-dore": {
     "status": "ok",
     "source_page": "https://www.aimeleondore.com",
     "hero": {
-      "path": "/img/looks/aime-leon-dore-1600.webp",
-      "small_path": "/img/looks/aime-leon-dore-800.webp",
-      "width": 1600,
-      "height": 900,
-      "bytes": 235988,
+      "path": "/img/looks/aime-leon-dore-hero.webp",
+      "small_path": "/img/looks/aime-leon-dore-hero-sm.webp",
+      "width": 1280,
+      "height": 720,
+      "small_width": 720,
+      "bytes": 125858,
       "source_image": "https://www.aimeleondore.com/cdn/shop/files/FW26_TECHNICS_HP.D_18.jpg?v=1793636395&width=2000",
       "candidate": 0
     },
     "logo": {
       "path": "/img/looks/aime-leon-dore-logo.webp",
-      "width": 985,
-      "height": 160,
-      "bytes": 10644,
+      "width": 739,
+      "height": 120,
+      "bytes": 7042,
       "source": "inline svg in the home link"
     },
     "background": "#141c23",
@@ -234,25 +726,440 @@
       "note": "photo, colour and logo checked on the contact sheet",
       "at": "2026-11-02"
     },
-    "fetched_at": "2026-11-02"
+    "fetched_at": "2026-11-03"
+  },
+  "aje": {
+    "status": "ok",
+    "source_page": "https://ajeworld.com",
+    "hero": {
+      "path": "/img/looks/aje-hero.webp",
+      "small_path": "/img/looks/aje-hero-sm.webp",
+      "width": 1440,
+      "height": 800,
+      "small_width": 720,
+      "bytes": 52648,
+      "source_image": "https://ajeworld.com/cdn/shop/files/Hero_1.jpg?v=1793664146&width=2000",
+      "candidate": 0
+    },
+    "logo": {
+      "path": "/img/looks/aje-logo.webp",
+      "width": 194,
+      "height": 120,
+      "bytes": 2876,
+      "source": "https://ajeworld.com/cdn/shop/files/logo_aje_white.svg?v=1785332276"
+    },
+    "background": "#474629",
+    "candidates": [
+      "https://ajeworld.com/cdn/shop/files/Hero_1.jpg?v=1793664146&width=2000",
+      "https://ajeworld.com/cdn/shop/files/HeroMobile_1.jpg?v=1793664145&width=2000",
+      "https://ajeworld.com/cdn/shop/files/04_6.jpg?v=1793664988&width=2000",
+      "https://ajeworld.com/cdn/shop/files/Property_1_2.jpg?v=1793664186&width=2000",
+      "https://ajeworld.com/cdn/shop/files/Property_1_Variant4.jpg?v=1793664606&width=2000",
+      "https://ajeworld.com/cdn/shop/files/Split_1.jpg?v=1793664621&width=2000",
+      "https://ajeworld.com/cdn/shop/files/SplitMobile_1.jpg?v=1793664621&width=2000",
+      "https://ajeworld.com/cdn/shop/files/Aje_FP_Tees_USA_Grid_Tile_752x886_Product.jpg?v=1793316204&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: real photo, logo and colour checked",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "akimbo-club": {
+    "status": "ok",
+    "source_page": "https://akimbo.us",
+    "hero": {
+      "path": "/img/looks/akimbo-club-hero.webp",
+      "small_path": "/img/looks/akimbo-club-hero-sm.webp",
+      "width": 1080,
+      "height": 864,
+      "small_width": 720,
+      "bytes": 117592,
+      "source_image": "https://akimbo.us/cdn/shop/files/preview_images/77e3fe17c70b4b0abfd459f637c168cf.thumbnail.0000000000.jpg?v=1781558512&width=2000",
+      "candidate": 0
+    },
+    "logo": null,
+    "logo_note": "turned off",
+    "logo_off": true,
+    "background": "#646a47",
+    "candidates": [
+      "https://akimbo.us/cdn/shop/files/preview_images/77e3fe17c70b4b0abfd459f637c168cf.thumbnail.0000000000.jpg?v=1781558512&width=2000",
+      "https://akimbo.us/cdn/shop/files/preview_images/2f32210ef1534bcfb16216c8da649e45.thumbnail.0000000000.jpg?v=1781558525&width=2000",
+      "https://akimbo.us/cdn/shop/files/9D32E96A-A983-4907-B097-10E2F5DBC826.jpg?v=1790286229&width=2000",
+      "https://akimbo.us/cdn/shop/files/IMG_0322.jpg?v=1753999046&width=2000",
+      "https://akimbo.us/cdn/shop/files/DF33041C-E613-4029-A973-7DE1A23D182B.jpg?v=1790285247&width=2000",
+      "https://akimbo.us/cdn/shop/files/DAA9767A-591C-451C-877F-4486405A062D.jpg?v=1790285262&width=2000",
+      "https://akimbo.us/cdn/shop/files/3B063871-627D-4683-B1FE-606403652C89.jpg?v=1785279032&width=2000",
+      "https://akimbo.us/cdn/shop/files/82B4388D-2187-46A8-A4D3-05C14E08F823.jpg?v=1787094223&width=2000",
+      "https://akimbo.us/cdn/shop/files/97A57A5B-CBCC-4D89-9F7F-C11ECD192BEF.jpg?v=1787891739&width=2000",
+      "https://akimbo.us/cdn/shop/files/2B94EC10-16B3-4D27-8D48-06F96217DED8.jpg?v=1787891739&width=2000",
+      "https://akimbo.us/cdn/shop/files/A8599571-981D-4103-AE5F-893274477A15.jpg?v=1790349502&width=2000",
+      "https://akimbo.us/cdn/shop/files/282E720B-E710-4CBF-B4D5-3367E7FD11A0.jpg?v=1790350498&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "logo is a symbol readers can't place; name shown as text",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "akira": {
+    "status": "ok",
+    "source_page": "https://shopakira.com",
+    "hero": {
+      "path": "/img/looks/akira-1600.webp",
+      "small_path": "/img/looks/akira-800.webp",
+      "width": 1600,
+      "height": 571,
+      "bytes": 63614,
+      "source_image": "https://shopakira.com/cdn/shop/files/pos1_desktop_16daa264-ea1c-4369-ac64-957d8699192a.jpg?v=1793639925&width=2000",
+      "candidate": 0
+    },
+    "logo": {
+      "path": "/img/looks/akira-logo.webp",
+      "width": 878,
+      "height": 160,
+      "bytes": 19146,
+      "source": "https://shopakira.com/cdn/shop/files/AKIRA_HUGE_WHITE_b8f7d80d-e039-46e9-bb95-88885f11ee2c.png?v=1754601477&width=300"
+    },
+    "background": "#695442",
+    "candidates": [
+      "https://shopakira.com/cdn/shop/files/pos1_desktop_16daa264-ea1c-4369-ac64-957d8699192a.jpg?v=1793639925&width=2000",
+      "https://shopakira.com/cdn/shop/files/mobile_copy_9e496b23-a90e-43cb-b9a0-d07e42fb2de0.jpg?v=1793639924&width=2000",
+      "https://shopakira.com/cdn/shop/files/pre-order_banner_9233e2e3-c2da-4e19-9388-978c17b2520e.jpg?v=1793639924&width=2000",
+      "https://shopakira.com/cdn/shop/files/Pre-Order_Mobile_a2e81d7f-bc70-4bd4-ac09-412b25ce612d.jpg?v=1793640350&width=2000",
+      "https://shopakira.com/cdn/shop/files/WHAT_S_NEW_ff19da7a-d44b-4d77-aad6-93549c44820b.jpg?v=1793639923&width=2000",
+      "https://shopakira.com/cdn/shop/files/SETS_WE_LVOE.jpg?v=1793639923&width=2000",
+      "https://shopakira.com/cdn/shop/files/MUST-HAVE_BOOTS_5b799628-6c50-40cb-8c55-e1e342d8b502.jpg?v=1793639924&width=2000",
+      "https://shopakira.com/cdn/shop/files/new_clothes_86e420b6-634d-430b-951f-f7ad43b328fb.jpg?v=1793639925&width=2000",
+      "https://shopakira.com/cdn/shop/files/new_shoes_38386df4-cc19-46ce-b801-41d1bd83cdd0.jpg?v=1793639924&width=2000",
+      "https://shopakira.com/cdn/shop/files/new_accessories_4c90c92e-7df8-44f0-84e1-94d8c9477f96.jpg?v=1793639925&width=2000",
+      "https://shopakira.com/cdn/shop/files/PERSONAL_STYLING_1b381b9c-ac1f-4fe3-8a70-39fcf2007e9e.jpg?v=1793639924&width=2000",
+      "https://shopakira.com/cdn/shop/files/1231_birthday.jpg?v=1767208670&width=2000"
+    ],
+    "review": {
+      "status": "reject",
+      "note": "banners carry promo text; other photos under 1000px",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "albaray": {
+    "status": "ok",
+    "source_page": "https://www.albaray.co.uk",
+    "hero": {
+      "path": "/img/looks/albaray-hero.webp",
+      "small_path": "/img/looks/albaray-hero-sm.webp",
+      "width": 1440,
+      "height": 1440,
+      "small_width": 720,
+      "bytes": 71054,
+      "source_image": "https://www.albaray.co.uk/cdn/shop/files/5056856101588_1.jpg?v=1784627026&width=2000",
+      "candidate": 6
+    },
+    "logo": {
+      "path": "/img/looks/albaray-logo.webp",
+      "width": 465,
+      "height": 120,
+      "bytes": 9006,
+      "source": "https://www.albaray.co.uk/cdn/shop/files/albaray_284e6c8d-a84a-4159-9058-042e5f36e6a5.png?v=1688741389&width=450"
+    },
+    "background": "#b5a697",
+    "candidates": [
+      "https://www.albaray.co.uk/cdn/shop/files/Evening_Edit_mobile.jpg?v=1793362914&width=2000",
+      "https://www.albaray.co.uk/cdn/shop/files/Evening_Edit_Desktop.jpg?v=1793362911&width=2000",
+      "https://www.albaray.co.uk/cdn/shop/files/preview_images/625b8ba136974af495778a2b3805de25.thumbnail.0000000000.jpg?v=1791990721&width=2000",
+      "https://www.albaray.co.uk/cdn/shop/files/preview_images/71f1fb3aedde420cb021b1e43daa2a43.thumbnail.0000000000.jpg?v=1791990676&width=2000",
+      "https://www.albaray.co.uk/cdn/shop/files/preview_images/732c2cc68ea14747aa9828e054345e2d.thumbnail.0000000000.jpg?v=1791300824&width=2000",
+      "https://www.albaray.co.uk/cdn/shop/files/preview_images/0da93dc2900642f882074287b9186117.thumbnail.0000000000.jpg?v=1791300778&width=2000",
+      "https://www.albaray.co.uk/cdn/shop/files/5056856101588_1.jpg?v=1784627026&width=2000",
+      "https://www.albaray.co.uk/cdn/shop/files/5056856101588_2.jpg?v=1784627025&width=2000",
+      "https://www.albaray.co.uk/cdn/shop/files/5056856108662_1.jpg?v=1787666290&width=2000",
+      "https://www.albaray.co.uk/cdn/shop/files/5056856108662_2.jpg?v=1787666289&width=2000",
+      "https://www.albaray.co.uk/cdn/shop/files/5056856105845_1.jpg?v=1787665632&width=2000",
+      "https://www.albaray.co.uk/cdn/shop/files/5056856105845_2.jpg?v=1787665630&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: other candidate photo; first was a sale or slogan banner",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "alchemy-england": {
+    "status": "ok",
+    "source_page": "https://alchemyofengland.com",
+    "hero": {
+      "path": "/img/looks/alchemy-england-hero.webp",
+      "small_path": "/img/looks/alchemy-england-hero-sm.webp",
+      "width": 1440,
+      "height": 810,
+      "small_width": 720,
+      "bytes": 116606,
+      "source_image": "https://alchemyofengland.com/cdn/shop/files/Website_banner_For_mark_9f5d26d5-fba1-483e-8ac7-03acabef02b7.jpg?v=1786011420&width=2000",
+      "candidate": 0
+    },
+    "logo": {
+      "path": "/img/looks/alchemy-england-logo.webp",
+      "width": 207,
+      "height": 120,
+      "bytes": 10094,
+      "source": "https://alchemyofengland.com/cdn/shop/files/alchemy-logo_f689c36a-33e0-4713-9812-1a870a41e2a7.png?height=50&v=1782490880"
+    },
+    "background": "#d7aa97",
+    "candidates": [
+      "https://alchemyofengland.com/cdn/shop/files/Website_banner_For_mark_9f5d26d5-fba1-483e-8ac7-03acabef02b7.jpg?v=1786011420&width=2000",
+      "https://alchemyofengland.com/cdn/shop/t/7/assets/aoe-home-tile-ankh.jpg?v=17472467792944676401793051400&width=2000",
+      "https://alchemyofengland.com/cdn/shop/t/7/assets/aoe-home-tile-feline.jpg?v=88793411354946139271793051400&width=2000",
+      "https://alchemyofengland.com/cdn/shop/t/7/assets/aoe-home-tile-slayer.jpg?v=76913866807598941041793051400&width=2000",
+      "https://alchemyofengland.com/cdn/shop/t/7/assets/aoe-home-tile-kraken.jpg?v=68796799709348726321793051400&width=2000",
+      "https://alchemyofengland.com/cdn/shop/t/7/assets/aoe-home-promo-mcd.jpg?v=163160006624743340981793051400&width=2000",
+      "https://alchemyofengland.com/cdn/shop/t/7/assets/aoe-home-promo-lychgate.jpg?v=31153186485788640401793051400&width=2000",
+      "https://alchemyofengland.com/cdn/shop/files/p1001-elizabethan-necklace-alchemy-england-1a__38478.1762390552.1280.1280.jpg?v=1782499383&width=2000",
+      "https://alchemyofengland.com/cdn/shop/files/p829-dragons-lure-necklace-alchemy-england-1a__54149.1759188280.1280.1280.jpg?v=1782499264&width=2000",
+      "https://alchemyofengland.com/cdn/shop/files/p1000-immortal-ayesha-necklace-alchemy-england-1a__02429.1762390513.1280.1280.jpg?v=1782499383&width=2000",
+      "https://alchemyofengland.com/cdn/shop/files/p983-descending-darkness-necklace-alchemy-england-1a__81170.1739809791.1280.1280.jpg?v=1782499368&width=2000",
+      "https://alchemyofengland.com/cdn/shop/t/7/assets/aoe-home-tile-mens-pendants.jpg?v=71488071766930418511793051400&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: real photo, logo and colour checked",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "alex-and-ani": {
+    "status": "ok",
+    "source_page": "https://www.alexandani.com/",
+    "hero": {
+      "path": "/img/looks/alex-and-ani-1600.webp",
+      "small_path": "/img/looks/alex-and-ani-800.webp",
+      "width": 1600,
+      "height": 862,
+      "bytes": 36422,
+      "source_image": "https://www.alexandani.com/cdn/shop/files/PRM_SITEWIDE_40__Homepage_Hero_Mobile_390x210_cd4e6851-f592-40a8-8663-9505f669ef36.png?v=1793108687&width=2000",
+      "candidate": 1
+    },
+    "logo": {
+      "path": "/img/looks/alex-and-ani-logo.webp",
+      "width": 1119,
+      "height": 160,
+      "bytes": 14272,
+      "source": "https://www.alexandani.com/cdn/shop/files/AA_Logo_Primary_Black.svg?v=1751984137&width=2000"
+    },
+    "background": "#fce97a",
+    "candidates": [
+      "https://www.alexandani.com/cdn/shop/files/PRM_SITEWIDE_40__Homepage_banners_684fcd1f-b54b-448d-8fe0-32fd650b72fc.png?v=1793108687&width=2000",
+      "https://www.alexandani.com/cdn/shop/files/PRM_SITEWIDE_40__Homepage_Hero_Mobile_390x210_cd4e6851-f592-40a8-8663-9505f669ef36.png?v=1793108687&width=2000",
+      "https://www.alexandani.com/cdn/shop/files/Holiday_Shop_Hero_ec408940-bc94-4793-856a-fa44158101eb.png?v=1790882082&width=2000",
+      "https://www.alexandani.com/cdn/shop/files/Holiday_Shop_Hero_Mobile_0fc536ad-681d-4050-9f25-2efb31d78ffc.png?v=1790882075&width=2000",
+      "https://www.alexandani.com/cdn/shop/files/SOM_ENCHANTED-NUTCRACKER_Sub-Banner_Desktop_1920x230_95df5a43-0580-415f-af9a-fe0f3abe46e9.png?v=1793107986&width=2000",
+      "https://www.alexandani.com/cdn/shop/files/SOM_ENCHANTED-NUTCRACKER_Sub-Banner_Mobile_390x115_380e51eb-e60c-4775-b8b4-5d3caa2bba99.png?v=1793107985&width=2000",
+      "https://www.alexandani.com/cdn/shop/files/FRIENDS_LOBSTER_-_Sub-Banner_Desktop_1920x230_CTA.png?v=1793108763&width=2000",
+      "https://www.alexandani.com/cdn/shop/files/FRIENDS_LOBSTER_-_Sub-Banner_Mobile_390x115_CTA.jpg?v=1793108762&width=2000",
+      "https://www.alexandani.com/cdn/shop/files/Holiday_Bracelets.png?v=1793109058&width=2000",
+      "https://www.alexandani.com/cdn/shop/files/Holiday_Necklaces.png?v=1793109059&width=2000",
+      "https://www.alexandani.com/cdn/shop/files/Holiday_Earrings.png?v=1793109059&width=2000",
+      "https://www.alexandani.com/cdn/shop/files/Holiday_Rings.png?v=1793109058&width=2000"
+    ],
+    "tried": [
+      {
+        "candidate": 0,
+        "status": "hero_wrong_shape",
+        "width": 2000,
+        "height": 610,
+        "source_image": "https://www.alexandani.com/cdn/shop/files/PRM_SITEWIDE_40__Homepage_banners_684fcd1f-b54b-448d-8fe0-32fd650b72fc.png?v=1793108687&width=2000"
+      }
+    ],
+    "review": {
+      "status": "reject",
+      "note": "every banner is a sale or holiday promo graphic",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "alex-evenings": {
+    "status": "ok",
+    "source_page": "https://alexevenings.com",
+    "hero": {
+      "path": "/img/looks/alex-evenings-hero.webp",
+      "small_path": "/img/looks/alex-evenings-hero-sm.webp",
+      "width": 1280,
+      "height": 720,
+      "small_width": 720,
+      "bytes": 120702,
+      "source_image": "https://alexevenings.com/cdn/shop/files/preview_images/a1fef893c4874002b1fe8bdb112c7178.thumbnail.0000000000.jpg?v=1786046061&width=2000",
+      "candidate": 0
+    },
+    "logo": {
+      "path": "/img/looks/alex-evenings-logo.webp",
+      "width": 201,
+      "height": 120,
+      "bytes": 3928,
+      "source": "https://alexevenings.com/cdn/shop/files/AlexEvenings_LogoSmall_Black.png?v=1766585355&width=390"
+    },
+    "background": "#293527",
+    "candidates": [
+      "https://alexevenings.com/cdn/shop/files/preview_images/a1fef893c4874002b1fe8bdb112c7178.thumbnail.0000000000.jpg?v=1786046061&width=2000",
+      "https://alexevenings.com/cdn/shop/files/81171825_BLK_a_c805ab5a-6ac0-4e58-9264-ebb381925fd7.jpg?v=1779391602&width=2000",
+      "https://alexevenings.com/cdn/shop/files/81171825_BLK_e.jpg?v=1779390860&width=2000",
+      "https://alexevenings.com/cdn/shop/files/81171137_NAV_a.jpg?v=1736867602&width=2000",
+      "https://alexevenings.com/cdn/shop/files/81171137_NAV_b.jpg?v=1772055787&width=2000",
+      "https://alexevenings.com/cdn/shop/files/81911001_BLK_a.jpg?v=1752673086&width=2000",
+      "https://alexevenings.com/cdn/shop/files/81911001_BLK_b.jpg?v=1780931382&width=2000",
+      "https://alexevenings.com/cdn/shop/files/8166633_BRO_a.jpg?v=1738349095&width=2000",
+      "https://alexevenings.com/cdn/shop/files/8166633_BRO_b.jpg?v=1738349095&width=2000",
+      "https://alexevenings.com/cdn/shop/files/af7f4db52a814009a0626da4118238df.thumbnail.0000000000.jpg?v=1749114208&width=2000",
+      "https://alexevenings.com/cdn/shop/files/81321013_NAV_b.jpg?v=1749114208&width=2000",
+      "https://alexevenings.com/cdn/shop/files/134200_NAV_a.jpg?v=1758131818&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: real photo, logo and colour checked",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "alex-mill": {
+    "status": "ok",
+    "source_page": "https://www.alexmill.com",
+    "hero": {
+      "path": "/img/looks/alex-mill-hero.webp",
+      "small_path": "/img/looks/alex-mill-hero-sm.webp",
+      "width": 1120,
+      "height": 683,
+      "small_width": 720,
+      "bytes": 111422,
+      "source_image": "https://www.alexmill.com/cdn/shop/files/AlexMill_HomepageHero1.jpg?v=1793573956&width=2000",
+      "candidate": 1
+    },
+    "logo": {
+      "path": "/img/looks/alex-mill-logo.webp",
+      "width": 831,
+      "height": 120,
+      "bytes": 10464,
+      "source": "inline svg in the home link"
+    },
+    "background": "#c8b598",
+    "candidates": [
+      "https://www.alexmill.com/cdn/shop/files/AlexMill_HomepageHero1_Mobile.jpg?v=1793573960&width=2000",
+      "https://www.alexmill.com/cdn/shop/files/AlexMill_HomepageHero1.jpg?v=1793573956&width=2000",
+      "https://www.alexmill.com/cdn/shop/files/AlexMill_Toggles_Women_NewArrivals_4f00f573-ffd6-4b9c-b7b1-d5c74faae24b.jpg?v=1793148608&width=2000",
+      "https://www.alexmill.com/cdn/shop/files/AlexMill_Toggles_Women_Shirts_54c8141a-4fa3-43cb-a220-5af988f33f28.jpg?v=1793148633&width=2000",
+      "https://www.alexmill.com/cdn/shop/files/AlexMill_Toggles_Men_NewArrivals_87d12b7d-64b8-4e8d-bd90-26fcc4130071.jpg?v=1793148648&width=2000",
+      "https://www.alexmill.com/cdn/shop/files/AlexMill_Toggles_Men_Accessories_78deed29-781a-4664-a885-10348431ec76.jpg?v=1793148658&width=2000",
+      "https://www.alexmill.com/cdn/shop/files/AlexMill_Toggles_Women_Accessories_434e0b88-356a-4862-b29d-11f2293089ba.jpg?v=1793148619&width=2000",
+      "https://www.alexmill.com/cdn/shop/files/AlexMill_Toggles_Women_Sweaters_3f289a9c-c471-402a-8748-1752148adf2b.jpg?v=1793148624&width=2000",
+      "https://www.alexmill.com/cdn/shop/files/AlexMill_Toggles_Women_Totes_cdae533f-b988-4a3b-8d7d-52a20895590c.jpg?v=1793148629&width=2000",
+      "https://www.alexmill.com/cdn/shop/files/AlexMill_Toggles_Women_Cashmere_802b5d10-d0fe-4b32-be69-bebf9b6f8bb8.jpg?v=1793148614&width=2000",
+      "https://www.alexmill.com/cdn/shop/files/AlexMill_Toggles_Women_Pants_035bb57d-b5d8-4a82-be71-7b525366bed0.jpg?v=1793148638&width=2000",
+      "https://www.alexmill.com/cdn/shop/files/AlexMill_Toggles_Women_Jackets_0b0a7f2d-70a2-46f2-98e0-05f1dc31316c.jpg?v=1793148642&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: real photo, logo and colour checked",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "alexander-wang": {
+    "status": "ok",
+    "source_page": "https://www.alexanderwang.com/",
+    "hero": {
+      "path": "/img/looks/alexander-wang-hero.webp",
+      "small_path": "/img/looks/alexander-wang-hero-sm.webp",
+      "width": 1080,
+      "height": 1350,
+      "small_width": 720,
+      "bytes": 125848,
+      "source_image": "https://www.alexanderwang.com/cdn/shop/files/2_copy.jpg?format=webp&v=1793210199&width=2000",
+      "candidate": 0
+    },
+    "logo": {
+      "path": "/img/looks/alexander-wang-logo.webp",
+      "width": 1302,
+      "height": 120,
+      "bytes": 12706,
+      "source": "https://www.alexanderwang.com/cdn/shop/files/Logo.svg?format=webp&v=1778847627&width=320"
+    },
+    "background": "#eaebed",
+    "candidates": [
+      "https://www.alexanderwang.com/cdn/shop/files/2_copy.jpg?format=webp&v=1793210199&width=2000",
+      "https://www.alexanderwang.com/cdn/shop/files/2_copy_9c8439ca-4a95-4efa-bdde-e87cf0e62448.jpg?format=webp&v=1793210204&width=2000",
+      "https://www.alexanderwang.com/cdn/shop/files/2_copy_2.jpg?format=webp&v=1793375758&width=2000",
+      "https://www.alexanderwang.com/cdn/shop/files/2_copy_2_6cc4574a-6178-4516-ae6d-441f398439d7.jpg?format=webp&v=1793375763&width=2000",
+      "https://www.alexanderwang.com/cdn/shop/files/aw_flyout_oct26_a_095301e6-7cf6-48dc-83ce-6e7acce1744b.jpg?format=webp&v=1793109816&width=2000",
+      "https://www.alexanderwang.com/cdn/shop/files/aw_flyout_oct26_a_4585d6ec-5e8f-4145-a30b-42b61ac16049.jpg?format=webp&v=1793109819&width=2000",
+      "https://www.alexanderwang.com/cdn/shop/files/aw_flyout_oct26_b_3ac392ce-61eb-4531-b2ed-f688e6e90372.jpg?format=webp&v=1793109803&width=2000",
+      "https://www.alexanderwang.com/cdn/shop/files/aw_flyout_oct26_b_a9346453-aeba-4d5b-ba57-8fa9e4ea8213.jpg?format=webp&v=1793109806&width=2000",
+      "https://www.alexanderwang.com/cdn/shop/files/aw_flyout_oct26_c_9f4daca8-f4d1-4b4f-b265-238ff994563d.jpg?format=webp&v=1793109828&width=2000",
+      "https://www.alexanderwang.com/cdn/shop/files/aw_flyout_oct26_c_56c6d041-9b29-4266-a692-a12310db7fdb.jpg?format=webp&v=1793109832&width=2000",
+      "https://www.alexanderwang.com/cdn/shop/files/aw_flyout_oct26_d_6071cd02-7ffa-4cfe-96bc-6d2bd34d0ced.jpg?format=webp&v=1793109841&width=2000",
+      "https://www.alexanderwang.com/cdn/shop/files/aw_flyout_oct26_d_50135395-b376-4569-81b5-c62dc9b0e4a7.jpg?format=webp&v=1793109843&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: real photo, logo and colour checked",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "alice-olivia": {
+    "status": "ok",
+    "source_page": "https://www.aliceandolivia.com/",
+    "hero": {
+      "path": "/img/looks/alice-olivia-hero.webp",
+      "small_path": "/img/looks/alice-olivia-hero-sm.webp",
+      "width": 1120,
+      "height": 1262,
+      "small_width": 640,
+      "bytes": 154768,
+      "source_image": "https://www.aliceandolivia.com/cdn/shop/files/1420x1600_MOBILE-_DRESSES_398db113-11b2-4867-8748-2f2a5a0cbc0d.jpg?format=webp&v=1793305920&width=2000",
+      "candidate": 0
+    },
+    "logo": null,
+    "logo_note": "logo_error",
+    "background": "#031805",
+    "candidates": [
+      "https://www.aliceandolivia.com/cdn/shop/files/1420x1600_MOBILE-_DRESSES_398db113-11b2-4867-8748-2f2a5a0cbc0d.jpg?format=webp&v=1793305920&width=2000",
+      "https://www.aliceandolivia.com/cdn/shop/files/DRESSES_FLYOUTS_11ae7287-c125-4e8a-93e6-0eb33a2da082.jpg?format=webp&v=1793305944&width=2000",
+      "https://www.aliceandolivia.com/cdn/shop/files/1420x1600_MOBILE-SETS_624f9b09-16b5-43e8-8042-f578fe7fb8c4.jpg?format=webp&v=1793306012&width=2000",
+      "https://www.aliceandolivia.com/cdn/shop/files/SETS_FLYOUTS_1f194c18-ef8d-43a1-a915-eaf8cd889803.jpg?format=webp&v=1793306024&width=2000",
+      "https://www.aliceandolivia.com/cdn/shop/files/1420x1600_MOBILE-SALE_f652255a-22ef-49c2-8b34-7bce9c9903d0.jpg?format=webp&v=1793306004&width=2000",
+      "https://www.aliceandolivia.com/cdn/shop/files/SALE_FLYOUTS_080d2e99-d564-4c27-a7d9-53ea8056d3df.jpg?format=webp&v=1793306072&width=2000",
+      "https://www.aliceandolivia.com/cdn/shop/files/HOMEPAGE_MOBILE_STATIC_6.jpg?format=webp&v=1793636227&width=2000",
+      "https://www.aliceandolivia.com/cdn/shop/files/HOMEPAGE_DESKTOP_STATIC_5.jpg?format=webp&v=1793636217&width=2000",
+      "https://www.aliceandolivia.com/cdn/shop/files/62_CC611000430A127_01.jpg?format=webp&v=1792775933&width=2000",
+      "https://www.aliceandolivia.com/cdn/shop/files/54_CC611000429A127_01_1.jpg?format=webp&v=1792616372&width=2000",
+      "https://www.aliceandolivia.com/cdn/shop/files/TILE_1_6ee1f6d6-0595-48a4-a5b9-b76deb333cb4.jpg?format=webp&v=1793305377&width=2000",
+      "https://www.aliceandolivia.com/cdn/shop/files/26_CC611000064A001_01.jpg?format=webp&v=1791989851&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: real photo, logo and colour checked",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
   },
   "allbirds": {
     "status": "ok",
     "source_page": "https://www.allbirds.com",
     "hero": {
-      "path": "/img/looks/allbirds-1600.webp",
-      "small_path": "/img/looks/allbirds-800.webp",
-      "width": 1600,
-      "height": 902,
-      "bytes": 225226,
+      "path": "/img/looks/allbirds-hero.webp",
+      "small_path": "/img/looks/allbirds-hero-sm.webp",
+      "width": 1280,
+      "height": 721,
+      "small_width": 640,
+      "bytes": 129416,
       "source_image": "https://www.allbirds.com/cdn/shop/files/26Q1_DasherNZ_Site_Homepage_Hero_Desktop_16x9-3.jpg?v=1779316981&width=2000",
       "candidate": 0
     },
     "logo": {
       "path": "/img/looks/allbirds-logo.webp",
-      "width": 494,
-      "height": 160,
-      "bytes": 10402,
+      "width": 370,
+      "height": 120,
+      "bytes": 6762,
       "source": "inline svg in the home link"
     },
     "background": "#c8c3bb",
@@ -272,25 +1179,63 @@
       "note": "photo, colour and logo checked on the contact sheet",
       "at": "2026-11-02"
     },
-    "fetched_at": "2026-11-02"
+    "fetched_at": "2026-11-03"
+  },
+  "allsaints": {
+    "status": "ok",
+    "source_page": "https://www.allsaints.com/us",
+    "hero": {
+      "path": "/img/looks/allsaints-hero.webp",
+      "small_path": "/img/looks/allsaints-hero-sm.webp",
+      "width": 1440,
+      "height": 810,
+      "small_width": 720,
+      "bytes": 46980,
+      "source_image": "https://media.i.allsaints.com/q_auto,f_auto/2026/Seasonal%20Content/Fall/Lookbook/01_AUTUMN%2026/16x9/AS_2026_AW_LB_16x9_2?sw=1436&sh=896&q=80",
+      "candidate": 2
+    },
+    "logo": null,
+    "logo_note": "logo_error",
+    "background": "#b2adab",
+    "candidates": [
+      "https://media.i.allsaints.com/image/upload/v1793009589/Digital%20Content/DIGITAL%20PRODUCTION/Gateway/27-10-26/AllSaints_Distressed_Ram_Hero_PNG_Black_RGB_72_1_1.png",
+      "https://media.i.allsaints.com/image/upload/v1793103434/Digital%20Content/DIGITAL%20PRODUCTION/Gateway/27-10-26/MOBAllSaints_Distressed_Ram_Hero_PNG_Black_RGB_72_v2.png",
+      "https://media.i.allsaints.com/q_auto,f_auto/2026/Seasonal%20Content/Fall/Lookbook/01_AUTUMN%2026/16x9/AS_2026_AW_LB_16x9_2?sw=1436&sh=896&q=80",
+      "https://media.i.allsaints.com/image/upload/t_72dpi_web_jpg/v1786474895/2026/Seasonal%20Content/Fall/Lookbook/01_AUTUMN%2026/9x16/AS_2026_AW_LB_9x16_00003.jpg",
+      "https://media.i.allsaints.com/q_auto,f_auto/2026/Seasonal%20Content/Fall/Lookbook/01_AUTUMN%2026/16x9/AS_2026_AW_LB_16x9_12?sw=1436&sh=896&q=80",
+      "https://media.i.allsaints.com/image/upload/t_72dpi_web_jpg/v1786474864/2026/Seasonal%20Content/Fall/Lookbook/01_AUTUMN%2026/9x16/AS_2026_AW_LB_9x16_000033.jpg",
+      "https://media.i.allsaints.com/q_auto,f_auto,w_800/products/images/large/M047LF/5/M047LF-5-7",
+      "https://media.i.allsaints.com/q_auto,f_auto,w_800/products/images/large/M168SF/4411/M168SF-4411-7",
+      "https://media.i.allsaints.com/q_auto,f_auto,w_800/products/images/large/M055EF/5/M055EF-5-7",
+      "https://media.i.allsaints.com/q_auto,f_auto,w_580/products/images/large/M060FF/10409/M060FF-10409-6",
+      "https://media.i.allsaints.com/q_auto,f_auto,w_800/products/images/large/M165PF/162/M165PF-162-7",
+      "https://media.i.allsaints.com/q_auto,f_auto,w_800/products/images/large/W334DF/1153/W334DF-1153-7"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: real photo, logo and colour checked",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
   },
   "alo-yoga": {
     "status": "ok",
     "source_page": "https://www.aloyoga.com",
     "hero": {
-      "path": "/img/looks/alo-yoga-1600.webp",
-      "small_path": "/img/looks/alo-yoga-800.webp",
-      "width": 1600,
-      "height": 1600,
-      "bytes": 93264,
+      "path": "/img/looks/alo-yoga-hero.webp",
+      "small_path": "/img/looks/alo-yoga-hero-sm.webp",
+      "width": 1440,
+      "height": 1440,
+      "small_width": 720,
+      "bytes": 75294,
       "source_image": "https://www.aloyoga.com/cdn/shop/files/WomensMCatWTNew_2048x2048.progressive.jpg?v=1793232099&width=2000",
       "candidate": 0
     },
     "logo": {
       "path": "/img/looks/alo-yoga-logo.webp",
-      "width": 237,
-      "height": 160,
-      "bytes": 3414,
+      "width": 178,
+      "height": 120,
+      "bytes": 2096,
       "source": "inline svg in the home link"
     },
     "background": "#caa796",
@@ -298,8 +1243,8 @@
       "https://www.aloyoga.com/cdn/shop/files/WomensMCatWTNew_2048x2048.progressive.jpg?v=1793232099&width=2000",
       "https://www.aloyoga.com/cdn/shop/files/MobileCategories_03_Sweatshirts_2048x2048.progressive.jpg?v=1793221091&width=2000",
       "https://www.aloyoga.com/cdn/shop/files/bestsellersmobilecatWT_2048x2048.progressive.png.jpg?v=1793298895&width=2000",
+      "https://www.aloyoga.com/cdn/shop/files/gift_guide_mobile_cat_2_2048x2048.progressive.jpg?v=1793662183&width=2000",
       "https://www.aloyoga.com/cdn/shop/files/MensMobileCatWT_2048x2048.progressive.jpg?v=1793292647&width=2000",
-      "https://www.aloyoga.com/cdn/shop/files/gift_guide_mobile_cat_5_2048x2048.progressive.jpg?v=1793317357&width=2000",
       "https://www.aloyoga.com/cdn/shop/files/jacketsstorycardWT_2048x2048.progressive.png.jpg?v=1793299730&width=2000",
       "https://www.aloyoga.com/cdn/shop/files/SuitUpNavyMCAT_2048x2048.progressive.png.jpg?v=1793294861&width=2000",
       "https://www.aloyoga.com/cdn/shop/files/shoesmobilecatWT_2048x2048.progressive.png.jpg?v=1793249242&width=2000",
@@ -308,26 +1253,111 @@
       "https://www.aloyoga.com/cdn/shop/files/bags_mobile_cat_fp_2048x2048.progressive.jpg?v=1793320032&width=2000",
       "https://www.aloyoga.com/cdn/shop/files/MobileCategories_01_Women_s_1_2048x2048.progressive.jpg?v=1793231730&width=2000"
     ],
-    "tried": [
-      {
-        "candidate": 1,
-        "status": "hero_too_small",
-        "width": 400,
-        "source_image": "https://www.aloyoga.com/cdn/shop/files/MobileCategories_03_Sweatshirts_2048x2048.progressive.jpg?v=1793221091&width=2000"
-      },
-      {
-        "candidate": 4,
-        "status": "hero_too_small",
-        "width": 200,
-        "source_image": "https://www.aloyoga.com/cdn/shop/files/gift_guide_mobile_cat_5_2048x2048.progressive.jpg?v=1793317357&width=2000"
-      }
-    ],
     "review": {
       "status": "ok",
       "note": "photo, colour and logo checked on the contact sheet",
       "at": "2026-11-02"
     },
-    "fetched_at": "2026-11-02"
+    "fetched_at": "2026-11-03"
+  },
+  "amarra": {
+    "status": "ok",
+    "source_page": "https://www.amarra.com",
+    "hero": {
+      "path": "/img/looks/amarra-hero.webp",
+      "small_path": "/img/looks/amarra-hero-sm.webp",
+      "width": 1440,
+      "height": 680,
+      "small_width": 720,
+      "bytes": 80472,
+      "source_image": "https://www.amarra.com/cdn/shop/files/Prom_Spring_2027_main_banner2_3a27563a-08f6-41a8-832c-dcb522a0f84f.jpg?v=1793680496&width=2000",
+      "candidate": 1
+    },
+    "logo": {
+      "path": "/img/looks/amarra-logo.webp",
+      "width": 687,
+      "height": 120,
+      "bytes": 14800,
+      "source": "https://www.amarra.com/cdn/shop/files/Amarra_Logo_-_Black_410x_a223a9f1-1f09-4565-b108-57080d3b67ff.avif?v=1762929449&width=600"
+    },
+    "background": "#abc3db",
+    "candidates": [
+      "https://www.amarra.com/cdn/shop/files/Prom_Spring_2027_main_banner_mobile2.jpg?v=1793680342&width=2000",
+      "https://www.amarra.com/cdn/shop/files/Prom_Spring_2027_main_banner2_3a27563a-08f6-41a8-832c-dcb522a0f84f.jpg?v=1793680496&width=2000",
+      "https://www.amarra.com/cdn/shop/files/89831_Gold_a.jpg?v=1793643427&width=2000",
+      "https://www.amarra.com/cdn/shop/files/89831_Gold_b.jpg?v=1793643427&width=2000",
+      "https://www.amarra.com/cdn/shop/files/89966_Black_Gold_a.jpg?v=1792596620&width=2000",
+      "https://www.amarra.com/cdn/shop/files/89966_Black_Gold_b.jpg?v=1792596621&width=2000",
+      "https://www.amarra.com/cdn/shop/files/89870_Gold_Ivory_Silver_a.jpg?v=1793643367&width=2000",
+      "https://www.amarra.com/cdn/shop/files/89870_Gold_Ivory_Silver_b.jpg?v=1793643367&width=2000",
+      "https://www.amarra.com/cdn/shop/files/89826_NUDE-GOLD_a.jpg?v=1792592042&width=2000",
+      "https://www.amarra.com/cdn/shop/files/89826_NUDE-GOLD_b.jpg?v=1793643428&width=2000",
+      "https://www.amarra.com/cdn/shop/files/89959_Black_Nude_a.jpg?v=1793643187&width=2000",
+      "https://www.amarra.com/cdn/shop/files/89959_Black_Nude_b.jpg?v=1793643188&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: real photo, logo and colour checked",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "american-eagle": {
+    "status": "no_hero",
+    "tried": [
+      {
+        "candidate": 0,
+        "status": "hero_too_small",
+        "width": 430,
+        "source_image": "https://s7d2.scene7.com/is/content/aeo/20261022-AE-Logo-Animation_V3?scl=1&qlt=80?fmt=webp&fit=crop&wid=215&hei=50&qlt=90,0"
+      },
+      {
+        "candidate": 1,
+        "status": "hero_too_small",
+        "width": 760,
+        "source_image": "https://s7d2.scene7.com/is/image/aeo/20261022-nav-ae-gifts-image1-lg?scl=1&qlt=60&fmt=jpeg"
+      },
+      {
+        "candidate": 2,
+        "status": "hero_too_small",
+        "width": 760,
+        "source_image": "https://s7d2.scene7.com/is/image/aeo/20261022-nav-ae-new-image1-lg?scl=1&qlt=60&fmt=jpeg"
+      },
+      {
+        "candidate": 3,
+        "status": "hero_too_small",
+        "width": 760,
+        "source_image": "https://s7d2.scene7.com/is/image/aeo/20261022-nav-ae-new-image2-lg?scl=1&qlt=60&fmt=jpeg"
+      },
+      {
+        "candidate": 4,
+        "status": "hero_too_small",
+        "width": 760,
+        "source_image": "https://s7d2.scene7.com/is/image/aeo/20261022-nav-ae-women-image1-lg?scl=1&qlt=60&fmt=jpeg"
+      },
+      {
+        "candidate": 5,
+        "status": "hero_too_small",
+        "width": 760,
+        "source_image": "https://s7d2.scene7.com/is/image/aeo/20261022-nav-ae-women-image2-lg?scl=1&qlt=60&fmt=jpeg"
+      }
+    ],
+    "candidates": [
+      "https://s7d2.scene7.com/is/content/aeo/20261022-AE-Logo-Animation_V3?scl=1&qlt=80?fmt=webp&fit=crop&wid=215&hei=50&qlt=90,0",
+      "https://s7d2.scene7.com/is/image/aeo/20261022-nav-ae-gifts-image1-lg?scl=1&qlt=60&fmt=jpeg",
+      "https://s7d2.scene7.com/is/image/aeo/20261022-nav-ae-new-image1-lg?scl=1&qlt=60&fmt=jpeg",
+      "https://s7d2.scene7.com/is/image/aeo/20261022-nav-ae-new-image2-lg?scl=1&qlt=60&fmt=jpeg",
+      "https://s7d2.scene7.com/is/image/aeo/20261022-nav-ae-women-image1-lg?scl=1&qlt=60&fmt=jpeg",
+      "https://s7d2.scene7.com/is/image/aeo/20261022-nav-ae-women-image2-lg?scl=1&qlt=60&fmt=jpeg",
+      "https://s7d2.scene7.com/is/image/aeo/20261022-nav-ae-mens-image1-lg?scl=1&qlt=60&fmt=jpeg",
+      "https://s7d2.scene7.com/is/image/aeo/20261022-nav-ae-mens-image2-lg?scl=1&qlt=60&fmt=jpeg",
+      "https://s7d2.scene7.com/is/image/aeo/20261022-nav-ae-jeans-image1-lg?scl=1&qlt=60&fmt=jpeg",
+      "https://s7d2.scene7.com/is/image/aeo/20261022-nav-ae-jeans-image2-lg?scl=1&qlt=60&fmt=jpeg",
+      "https://s7d2.scene7.com/is/image/aeo/20261022-nav-ae-loungepjs-image1-lg?scl=1&qlt=60&fmt=jpeg",
+      "https://s7d2.scene7.com/is/image/aeo/20261022-nav-ae-loungepjs-image2-lg?scl=1&qlt=60&fmt=jpeg"
+    ],
+    "source_page": "https://www.ae.com/us/en",
+    "fetched_at": "2026-11-03"
   },
   "american-giant": {
     "status": "ok",
@@ -354,72 +1384,857 @@
     },
     "fetched_at": "2026-11-02"
   },
+  "american-tall": {
+    "status": "ok",
+    "source_page": "https://americantall.com",
+    "hero": {
+      "path": "/img/looks/american-tall-hero.webp",
+      "small_path": "/img/looks/american-tall-hero-sm.webp",
+      "width": 1440,
+      "height": 864,
+      "small_width": 720,
+      "bytes": 125820,
+      "source_image": "https://americantall.com/cdn/shop/files/HomepageBanner-D_26.jpg?v=1793130282&width=2000",
+      "candidate": 0
+    },
+    "logo": {
+      "path": "/img/looks/american-tall-logo.webp",
+      "width": 1979,
+      "height": 120,
+      "bytes": 10366,
+      "source": "inline svg in the home link"
+    },
+    "background": "#b6aba7",
+    "candidates": [
+      "https://americantall.com/cdn/shop/files/HomepageBanner-D_26.jpg?v=1793130282&width=2000",
+      "https://americantall.com/cdn/shop/files/American-Tall-Men-Athletic-StripePants-StormGreyStripe-front_d70ad54c-4beb-4c8c-9479-5f95a17fe7d1.jpg?v=1779996701&width=2000",
+      "https://americantall.com/cdn/shop/files/American-Tall-Men-Athletic-StripePants-StormGreyStripe-zipper_39f46bb8-3bb2-4b5b-aa48-47c2acdc39af.jpg?v=1779996702&width=2000",
+      "https://americantall.com/cdn/shop/files/American-Tall-Men-Athletic-StripePants-StormGreyStripe-side_e0243719-1560-4422-aa99-dc3bb69b3474.jpg?v=1779996702&width=2000",
+      "https://americantall.com/cdn/shop/files/American-Tall-Men-Athletic-StripePants-StormGreyStripe-full_10ef274a-1da9-4fc7-9e66-19f258c048c3.jpg?v=1779996701&width=2000",
+      "https://americantall.com/cdn/shop/files/American-Tall-Women-Chloe-High-Rise-Flare-Jean-Onyx-Black-Wash-Front_89f9e3da-8357-4e94-827d-5067beec2589.jpg?v=1779994410&width=2000",
+      "https://americantall.com/cdn/shop/files/American-Tall-Women-Chloe-High-Rise-Flare-Jean-Onyx-Black-Wash-Detail_736531af-b8db-4c01-b182-039400fffbc5.jpg?v=1779994412&width=2000",
+      "https://americantall.com/cdn/shop/files/American-Tall-Women-Chloe-High-Rise-Flare-Jean-Onyx-Black-Wash-Side_52f5b7e6-f580-44ad-8d49-3a63f25681f0.jpg?v=1779994403&width=2000",
+      "https://americantall.com/cdn/shop/files/American-Tall-Women-Chloe-High-Rise-Flare-Jean-Onyx-Black-Wash-Full_a1eea7d3-2f39-4aca-aed4-6959803cfbc9.jpg?v=1779994408&width=2000",
+      "https://americantall.com/cdn/shop/files/American-Tall-Men-A.T.-Basics-Men_s-Carman-Tapered-fit-Jeans-Charged-Blue-Front_05026752-3f5d-43e5-8b9c-094f55c1e809.jpg?v=1779993770&width=2000",
+      "https://americantall.com/cdn/shop/files/American-Tall-Men-A.T.-Basics-Men_s-Carman-Tapered-fit-Jeans-Charged-Blue-Detail_cd3604e1-262b-497a-8252-d416511eca3b.jpg?v=1779993772&width=2000",
+      "https://americantall.com/cdn/shop/files/American-Tall-Men-A.T.-Basics-Men_s-Carman-Tapered-fit-Jeans-Charged-Blue-Side_207ffff3-5f76-428f-8ca6-2884a3bdb9ee.jpg?v=1779993762&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: real photo, logo and colour checked",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "amiclubwear": {
+    "status": "ok",
+    "source_page": "https://amiclubwear.com",
+    "hero": {
+      "path": "/img/looks/amiclubwear-1600.webp",
+      "small_path": "/img/looks/amiclubwear-800.webp",
+      "width": 1200,
+      "height": 1800,
+      "bytes": 139038,
+      "source_image": "https://amiclubwear.com/cdn/shop/collections/sexy-swimsuits-amiclubwear_96775b0d-194c-43e1-86d0-22d554e594ff.jpg?v=1789410139&width=2000",
+      "candidate": 7
+    },
+    "logo": {
+      "path": "/img/looks/amiclubwear-logo.webp",
+      "width": 1273,
+      "height": 160,
+      "bytes": 31626,
+      "source": "https://amiclubwear.com/cdn/shop/files/ami-logo_white-210x_2x_e3cad111-001b-4b98-a953-142373f74f01_210x.png?v=1789075972"
+    },
+    "background": "#d99876",
+    "candidates": [
+      "https://amiclubwear.com/cdn/shop/files/fallfashionevent-main.jpg?v=1793657426&width=2000",
+      "https://amiclubwear.com/cdn/shop/files/fallfashionevent-mobile-new.jpg?v=1793657446&width=2000",
+      "https://amiclubwear.com/cdn/shop/files/costume-square.jpg?v=1789262066&width=2000",
+      "https://amiclubwear.com/cdn/shop/files/boots-square.jpg?v=1789262067&width=2000",
+      "https://amiclubwear.com/cdn/shop/collections/clothing-amiclubwear.jpg?v=1789410070&width=2000",
+      "https://amiclubwear.com/cdn/shop/collections/sexy-shoes-amiclubwear.jpg?v=1789410028&width=2000",
+      "https://amiclubwear.com/cdn/shop/collections/plus-size-amiclubwear.jpg?v=1740696654&width=2000",
+      "https://amiclubwear.com/cdn/shop/collections/sexy-swimsuits-amiclubwear_96775b0d-194c-43e1-86d0-22d554e594ff.jpg?v=1789410139&width=2000",
+      "https://amiclubwear.com/cdn/shop/collections/intimates-amiclubwear.jpg?v=1789410172&width=2000",
+      "https://amiclubwear.com/cdn/shop/collections/accessories-amiclubwear.jpg?v=1740720854&width=2000",
+      "https://amiclubwear.com/cdn/shop/collections/clearance-amiclubwear.jpg?v=1737526093&width=2000",
+      "https://amiclubwear.com/cdn/shop/collections/sexy-halloween-costumes-amiclubwear_0018acbe-d0f2-43ac-a864-67a1bf83befd.jpg?v=1789410452&width=2000"
+    ],
+    "review": {
+      "status": "reject",
+      "note": "every usable photo is a sale banner or a 1200px body crop",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "amiri": {
+    "status": "ok",
+    "source_page": "https://amiri.com/",
+    "hero": {
+      "path": "/img/looks/amiri-hero.webp",
+      "small_path": "/img/looks/amiri-hero-sm.webp",
+      "width": 1440,
+      "height": 1920,
+      "small_width": 720,
+      "bytes": 34308,
+      "source_image": "https://amiri.com/cdn/shop/files/177_PS27_Men_RTW_Tops_Jerseywear_Tee_AM127JR056-0002_BLAST_20SKATE_20TEE_Black_1_a3da03a0732f445c876db12be10bb8cf.jpg?v=1790814494&width=2000",
+      "candidate": 0
+    },
+    "logo": {
+      "path": "/img/looks/amiri-logo.webp",
+      "width": 504,
+      "height": 120,
+      "bytes": 8326,
+      "source": "https://amiri.com/cdn/shop/files/AW26_VIDEO_LOGO_FINAL_d37bc2d1-7af6-46c2-a024-2576d5bc7441.png?v=1790635348&width=500"
+    },
+    "background": "#c3bcb7",
+    "candidates": [
+      "https://amiri.com/cdn/shop/files/177_PS27_Men_RTW_Tops_Jerseywear_Tee_AM127JR056-0002_BLAST_20SKATE_20TEE_Black_1_a3da03a0732f445c876db12be10bb8cf.jpg?v=1790814494&width=2000",
+      "https://amiri.com/cdn/shop/files/51_PS27_Men_ACC_ACC_Headwear_Beanie_AM127HE001-001_FAIRISLE_20BEANIE_Black_1_fc2e80f2de864c0a8438a73e3646053c.jpg?v=1790814489&width=2000",
+      "https://amiri.com/cdn/shop/files/51_PS27_Men_ACC_ACC_Headwear_Beanie_AM127HE001-001_FAIRISLE_20BEANIE_Black_2_39ad38f27e364b3d8fdbc0cfad96073f.jpg?v=1790814489&width=2000",
+      "https://amiri.com/cdn/shop/files/142_PS27_Men_RTW_Tops_Jerseywear_Hoodie_AM127JR078-0002_MULTI_20BANDANA_20OS_20ZIP_20HOODIE_Black_1_7fab2137445c4a8d8c36880b25a0502a.jpg?v=1790814487&width=2000",
+      "https://amiri.com/cdn/shop/files/236_PS27_Men_RTW_Bottoms_Pants_Sweatpant_AM127PA033-0002_MULTI_20BANDANA_20OS_20SWEATPANTS_Black_1_4913b34191284098a115fa2a00a0c15f.jpg?v=1790814495&width=2000",
+      "https://amiri.com/cdn/shop/files/245_PS27_Men_RTW_Tops_Shirts_Casual_AM127SH009-0002_CORD_20CARPENTER_20SHIRT_Black_1_91f115ee241548e28ee3567509c3df4a.jpg?v=1790814496&width=2000",
+      "https://amiri.com/cdn/shop/files/228_PS27_Men_RTW_Bottoms_Pants_Carpenter_AM127PA009-0002_CORD_20CARPENTER_20TROUSER_Black_1_2e543d037a1c4b459d3bf95cf0630b8b.jpg?v=1790814490&width=2000",
+      "https://amiri.com/cdn/shop/files/224_PS27_Men_ACC_ACC_Other_Scarf_AM127OT005-001_FAIRISLE_20SCARF_Black_1_80ba860ae21846d8922c94c65c5f243b.jpg?v=1791313085&width=2000",
+      "https://amiri.com/cdn/shop/files/224_PS27_Men_ACC_ACC_Other_Scarf_AM127OT005-001_FAIRISLE_20SCARF_Black_2_2e9b2f7acc53431b8c9ac87ccdda551e.jpg?v=1791313085&width=2000",
+      "https://amiri.com/cdn/shop/files/44_PS27_Men_RTW_Outerwear_Down_Puffer_AM127DO009-0002_MA_20BANDANA_20PRINTED_20DOWN_20VEST_Black_1_89ea7cf82c194d33b40dc11747966960.jpg?v=1790814486&width=2000",
+      "https://amiri.com/cdn/shop/files/100_PS27_Men_RTW_Outerwear_Jackets_Track_AM127JA035-001O_BANDANA_20FLEECE_20JACKET_Brown_1_0781daf9ca1a4342ace01ffda2945c1a.jpg?v=1790814484&width=2000",
+      "https://amiri.com/cdn/shop/files/245_PS27_Men_RTW_Tops_Shirts_Casual_AM127SH009-00IF_CORD_20CARPENTER_20SHIRT_Archive_20Brown_1_36c1d40666bd4f0099af1ce549eab6af.jpg?v=1791313084&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: real photo, logo and colour checked",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
   "anine-bing": {
     "status": "ok",
     "source_page": "https://www.aninebing.com/",
     "hero": {
-      "path": "/img/looks/anine-bing-1600.webp",
-      "small_path": "/img/looks/anine-bing-800.webp",
-      "width": 1600,
-      "height": 1876,
-      "bytes": 83908,
-      "source_image": "https://www.aninebing.com/cdn/shop/files/DESKTOP_AVENUE.png?v=1793037939&width=2000",
+      "path": "/img/looks/anine-bing-hero.webp",
+      "small_path": "/img/looks/anine-bing-hero-sm.webp",
+      "width": 1280,
+      "height": 1501,
+      "small_width": 720,
+      "bytes": 137302,
+      "source_image": "https://www.aninebing.com/cdn/shop/files/DESKTOP_CROP_2_81886d65-4b0f-47ce-b98f-36d356788a6d_1280x.progressive.jpg?v=1793673943&width=2000",
       "candidate": 2
     },
     "logo": {
       "path": "/img/looks/anine-bing-logo.webp",
-      "width": 1484,
-      "height": 160,
-      "bytes": 24666,
+      "width": 1115,
+      "height": 120,
+      "bytes": 17936,
       "source": "https://www.aninebing.com/cdn/shop/files/newannie_300x.png?v=1614720106"
     },
-    "background": "#39241b",
+    "background": "#d8d6cc",
     "candidates": [
-      "https://www.aninebing.com/cdn/shop/files/MOBILE_7_f9edf44d-f913-4283-8d66-fa9ca7dfaef4_375x.progressive.jpg?v=1793037941&width=2000",
-      "https://www.aninebing.com/cdn/shop/files/MOBILE_7_f9edf44d-f913-4283-8d66-fa9ca7dfaef4_640x.progressive.jpg?v=1793037941&width=2000",
-      "https://www.aninebing.com/cdn/shop/files/DESKTOP_AVENUE.png?v=1793037939&width=2000",
-      "https://www.aninebing.com/cdn/shop/files/MOBILE_4_e327e11b-93a8-46b1-bec0-ab209dc07536_375x.progressive.jpg?v=1792469682&width=2000",
-      "https://www.aninebing.com/cdn/shop/files/MOBILE_4_e327e11b-93a8-46b1-bec0-ab209dc07536_640x.progressive.jpg?v=1792469682&width=2000",
-      "https://www.aninebing.com/cdn/shop/files/Frame_4_e5abe30a-aebd-44e1-8129-301297543b9a.png?v=1792469677&width=2000",
-      "https://www.aninebing.com/cdn/shop/files/MOBILE_2_135e7935-e6dc-4942-a5a5-d858bac004cd_375x.progressive.jpg?v=1792469614&width=2000",
-      "https://www.aninebing.com/cdn/shop/files/MOBILE_2_135e7935-e6dc-4942-a5a5-d858bac004cd_640x.progressive.jpg?v=1792469614&width=2000",
-      "https://www.aninebing.com/cdn/shop/files/Frame_2_5284733a-bea5-4cc8-8e1d-a42e41be9fd2.png?v=1792469609&width=2000",
-      "https://www.aninebing.com/cdn/shop/files/MOBILE_6_fd6af479-4e77-4f32-90cd-4b186819f3be_375x.progressive.jpg?v=1792469055&width=2000",
-      "https://www.aninebing.com/cdn/shop/files/MOBILE_6_fd6af479-4e77-4f32-90cd-4b186819f3be_640x.progressive.jpg?v=1792469055&width=2000",
-      "https://www.aninebing.com/cdn/shop/files/Frame_2-1_adafcd14-8523-476a-bad4-25fec7157c31.png?v=1792469050&width=2000"
+      "https://www.aninebing.com/cdn/shop/files/MOBILE_2_1ee30fe5-586a-459e-b3f8-2559975f86b6_375x.progressive.jpg?v=1793673950&width=2000",
+      "https://www.aninebing.com/cdn/shop/files/MOBILE_2_1ee30fe5-586a-459e-b3f8-2559975f86b6_640x.progressive.jpg?v=1793673950&width=2000",
+      "https://www.aninebing.com/cdn/shop/files/DESKTOP_CROP_2_81886d65-4b0f-47ce-b98f-36d356788a6d_1280x.progressive.jpg?v=1793673943&width=2000",
+      "https://www.aninebing.com/cdn/shop/files/DESKTOP_CROP_2_81886d65-4b0f-47ce-b98f-36d356788a6d_1600x.progressive.jpg?v=1793673943&width=2000",
+      "https://www.aninebing.com/cdn/shop/files/DESKTOP_CROP_2_81886d65-4b0f-47ce-b98f-36d356788a6d_3840x.progressive.jpg?v=1793673943&width=2000",
+      "https://www.aninebing.com/cdn/shop/files/MOBILE_3_88b9ed30-f443-477d-a4f9-e52955032248_375x.progressive.jpg?v=1793673984&width=2000",
+      "https://www.aninebing.com/cdn/shop/files/MOBILE_3_88b9ed30-f443-477d-a4f9-e52955032248_640x.progressive.jpg?v=1793673984&width=2000",
+      "https://www.aninebing.com/cdn/shop/files/DESKTOP_CROP_3_a4d66ba5-81d7-40e3-b1e4-be0a30f13f6e_1280x.progressive.jpg?v=1793673991&width=2000",
+      "https://www.aninebing.com/cdn/shop/files/DESKTOP_CROP_3_a4d66ba5-81d7-40e3-b1e4-be0a30f13f6e_1600x.progressive.jpg?v=1793673991&width=2000",
+      "https://www.aninebing.com/cdn/shop/files/DESKTOP_CROP_3_a4d66ba5-81d7-40e3-b1e4-be0a30f13f6e_3840x.progressive.jpg?v=1793673991&width=2000",
+      "https://www.aninebing.com/cdn/shop/files/MOBILE_4-MONDAY_375x.progressive.jpg?v=1793674066&width=2000",
+      "https://www.aninebing.com/cdn/shop/files/MOBILE_4-MONDAY_640x.progressive.jpg?v=1793674066&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet after refetch: photo, logo and colour checked",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "ann-demeulemeester": {
+    "status": "ok",
+    "source_page": "https://anndemeulemeester.com/en-us/",
+    "hero": {
+      "path": "/img/looks/ann-demeulemeester-hero.webp",
+      "small_path": "/img/looks/ann-demeulemeester-hero-sm.webp",
+      "width": 1440,
+      "height": 809,
+      "small_width": 720,
+      "bytes": 91534,
+      "source_image": "https://anndemeulemeester.com/cdn/shop/files/ann-demeulemeester-store.jpg?v=1793613187&width=2000",
+      "candidate": 0
+    },
+    "logo": {
+      "path": "/img/looks/ann-demeulemeester-logo.webp",
+      "width": 1068,
+      "height": 120,
+      "bytes": 23998,
+      "source": "https://anndemeulemeester.com/cdn/shop/files/AD_LOGO_BLACK_3500px.webp?height=40&v=1722324065"
+    },
+    "background": "#aaa39a",
+    "candidates": [
+      "https://anndemeulemeester.com/cdn/shop/files/ann-demeulemeester-store.jpg?v=1793613187&width=2000",
+      "https://anndemeulemeester.com/cdn/shop/files/AD_home_donna_desktop.jpg?v=1793629671&width=2000",
+      "https://anndemeulemeester.com/cdn/shop/files/AD_home_donna_mobile.jpg?v=1793630164&width=2000",
+      "https://anndemeulemeester.com/cdn/shop/files/AD_home_uomo_4x5_a951758d-8a29-4f9a-96ae-87be627d2e83.jpg?v=1793629344&width=2000",
+      "https://anndemeulemeester.com/cdn/shop/files/AD_home_uomo_1x1_a73376d6-7547-4ffa-9e02-8c2a1d68ac58.jpg?v=1793629344&width=2000",
+      "https://anndemeulemeester.com/cdn/shop/files/preview_images/73028b349d8b4eedabf7dedb7308c034.thumbnail.0000000000.jpg?v=1793625997&width=2000",
+      "https://anndemeulemeester.com/cdn/shop/collections/AD_STORE_26_photo-Victor-Robyn_6ee36143-6f43-4c58-842e-440413e77f14.jpg?v=1750235480&width=2000",
+      "https://anndemeulemeester.com/cdn/shop/collections/2_FOTO_BLOCCHI_c38c5094-0283-452d-bb83-1897f194d03e.jpg?v=1768416005&width=2000",
+      "https://anndemeulemeester.com/cdn/shop/collections/blocco_gioielli.png?v=1791993517&width=2000",
+      "https://anndemeulemeester.com/cdn/shop/collections/B0014716-OT013-099_1_981d742a-e8fb-412b-9dd7-ed98a914d221.jpg?v=1778753036&width=2000",
+      "https://anndemeulemeester.com/cdn/shop/collections/sales_w_8c1791c2-e2fb-440d-909e-740a3416e705.png?v=1779372097&width=2000",
+      "https://anndemeulemeester.com/cdn/shop/collections/sales_m_e16a2294-ee79-4aa4-a4d7-bda7d646faa5.png?v=1779372138&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: real photo, logo and colour checked",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "ann-taylor": {
+    "status": "error",
+    "error": "Command failed: curl -sSL --max-time 25 --max-filesize 15000000 -A StylodexBot/0.1 (+https://www.stylodex.com/how-we-pick) -w \n%{http_code} %{content_type} https://www.anntaylor.com\ncurl: (47) Maximum",
+    "fetched_at": "2026-11-03"
+  },
+  "anna-beck": {
+    "status": "ok",
+    "source_page": "https://www.annabeck.com/",
+    "hero": {
+      "path": "/img/looks/anna-beck-hero.webp",
+      "small_path": "/img/looks/anna-beck-hero-sm.webp",
+      "width": 1120,
+      "height": 1400,
+      "small_width": 640,
+      "bytes": 125968,
+      "source_image": "https://www.annabeck.com/cdn/shop/files/4x5_11.jpg?v=1788300649&width=2000",
+      "candidate": 0
+    },
+    "logo": null,
+    "logo_note": "logo_fetch_failed",
+    "background": "#9a6547",
+    "candidates": [
+      "https://www.annabeck.com/cdn/shop/files/4x5_11.jpg?v=1788300649&width=2000",
+      "https://www.annabeck.com/cdn/shop/files/4x5_10.jpg?v=1788300664&width=2000",
+      "https://www.annabeck.com/cdn/shop/files/4x5_9.jpg?v=1788300683&width=2000",
+      "https://www.annabeck.com/cdn/shop/files/4x5_8.jpg?v=1788300700&width=2000",
+      "https://www.annabeck.com/cdn/shop/files/4x5_12.jpg?v=1788300734&width=2000",
+      "https://www.annabeck.com/cdn/shop/files/4x5_-_2026-08-18T163207.072.png?v=1787095956&width=2000",
+      "https://www.annabeck.com/cdn/shop/files/34364_Vintage.jpg?v=1756926641&width=2000",
+      "https://www.annabeck.com/cdn/shop/files/JWB_1906.jpg?v=1756926721&width=2000",
+      "https://www.annabeck.com/cdn/shop/files/IMG_8541.jpg?v=1756926758&width=2000",
+      "https://www.annabeck.com/cdn/shop/products/0K8A3359.jpg?v=1651324740&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: real photo, logo and colour checked",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "anti-social-social-club": {
+    "status": "ok",
+    "source_page": "https://antisocialsocialclub.com",
+    "hero": {
+      "path": "/img/looks/anti-social-social-club-hero.webp",
+      "small_path": "/img/looks/anti-social-social-club-hero-sm.webp",
+      "width": 1280,
+      "height": 1280,
+      "small_width": 720,
+      "bytes": 138192,
+      "source_image": "https://www.antisocialsocialclub.com/cdn/shop/files/MICHAEL971_130_-2.jpg?v=1787318391&width=2000",
+      "candidate": 6
+    },
+    "logo": {
+      "path": "/img/looks/anti-social-social-club-logo.webp",
+      "width": 100,
+      "height": 120,
+      "bytes": 4610,
+      "source": "https://www.antisocialsocialclub.com/cdn/shop/files/ASSC_Logo_1.png?v=1684529740&width=180"
+    },
+    "background": "#f9f6f3",
+    "candidates": [
+      "https://www.antisocialsocialclub.com/cdn/shop/files/1x1_14.jpg?v=1793285725&width=2000",
+      "https://www.antisocialsocialclub.com/cdn/shop/files/3x2_10.jpg?v=1793285725&width=2000",
+      "https://www.antisocialsocialclub.com/cdn/shop/files/1x1_11.jpg?v=1792435067&width=2000",
+      "https://www.antisocialsocialclub.com/cdn/shop/files/3x2_8.jpg?v=1792435067&width=2000",
+      "https://www.antisocialsocialclub.com/cdn/shop/files/1x1_10.jpg?v=1792103340&width=2000",
+      "https://www.antisocialsocialclub.com/cdn/shop/files/3x2_7_f4ed6015-7203-4280-ba32-0f82d7bf04c6.jpg?v=1792103354&width=2000",
+      "https://www.antisocialsocialclub.com/cdn/shop/files/MICHAEL971_130_-2.jpg?v=1787318391&width=2000",
+      "https://www.antisocialsocialclub.com/cdn/shop/files/MICHAEL971_130.jpg?v=1787318402&width=2000",
+      "https://www.antisocialsocialclub.com/cdn/shop/files/1x1_8_240abfb6-551d-4022-9027-05baefc98b3e.jpg?v=1789671012&width=2000",
+      "https://www.antisocialsocialclub.com/cdn/shop/files/3x2_5_db6d7d65-d1c5-44c7-83d1-6f9eedf1058d.jpg?v=1789671023&width=2000",
+      "https://www.antisocialsocialclub.com/cdn/shop/files/1x1_7.jpg?v=1788194157&width=2000",
+      "https://www.antisocialsocialclub.com/cdn/shop/files/3x2_4_a3a18857-d0d8-4fe4-a9b3-c3516e60486e.jpg?v=1788194168&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: other candidate photo; first was a sale or slogan banner",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "archie-mcphee": {
+    "status": "ok",
+    "source_page": "https://mcphee.com",
+    "hero": {
+      "path": "/img/looks/archie-mcphee-1600.webp",
+      "small_path": "/img/looks/archie-mcphee-800.webp",
+      "width": 1600,
+      "height": 721,
+      "bytes": 79028,
+      "source_image": "https://mcphee.com/cdn/shop/files/Biscuit_Cats-Website_Hero_Slides_Desktop.jpg?v=1791481476&width=2000",
+      "candidate": 0
+    },
+    "logo": {
+      "path": "/img/looks/archie-mcphee-logo.webp",
+      "width": 742,
+      "height": 160,
+      "bytes": 13274,
+      "source": "https://mcphee.com/cdn/shop/files/logo-WEIRD-1000_8789fdc0-611c-4e1a-8ced-454324bb1dbc.png?v=1674669120&width=800"
+    },
+    "background": "#fde5c7",
+    "candidates": [
+      "https://mcphee.com/cdn/shop/files/Biscuit_Cats-Website_Hero_Slides_Desktop.jpg?v=1791481476&width=2000",
+      "https://mcphee.com/cdn/shop/files/Biscuit_Cats-Website_Hero_Slides_Mobile.jpg?v=1791481493&width=2000",
+      "https://mcphee.com/cdn/shop/files/Emo_Frogs-Website_Hero_Slides_Desktop.jpg?v=1791481593&width=2000",
+      "https://mcphee.com/cdn/shop/files/emo_frogs-Website_Hero_Slides_Mobile-03.jpg?v=1791489903&width=2000",
+      "https://mcphee.com/cdn/shop/files/Hause_of_Frog-Website_Hero_Slides_Desktop.jpg?v=1791481695&width=2000",
+      "https://mcphee.com/cdn/shop/files/Haus_of_Frog-Website_Hero_Slides_Mobile_8a646465-d922-42db-8d51-c50bdf24b0cd.jpg?v=1791490086&width=2000",
+      "https://mcphee.com/cdn/shop/files/Finger_Frogs-Website_Hero_Slides_Desktop.jpg?v=1791481762&width=2000",
+      "https://mcphee.com/cdn/shop/files/Finger_Frogs-Website_Hero_Slides_Mobile.jpg?v=1791481762&width=2000",
+      "https://mcphee.com/cdn/shop/files/logo-WEIRD-1000_8789fdc0-611c-4e1a-8ced-454324bb1dbc.png?v=1674669120&width=2000",
+      "https://mcphee.com/cdn/shop/files/logo-WEIRD-500.png?v=1674672772&width=2000",
+      "https://mcphee.com/cdn/shop/files/McPhee-shopify-featured-Chickens.png?v=1614311156&width=2000",
+      "https://mcphee.com/cdn/shop/files/McPhee-featured-candy.jpg?v=1757360129&width=2000"
+    ],
+    "review": {
+      "status": "reject",
+      "note": "every banner is a text-heavy product graphic",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "arcteryx": {
+    "status": "ok",
+    "source_page": "https://arcteryx.com/us/en",
+    "hero": {
+      "path": "/img/looks/arcteryx-hero.webp",
+      "small_path": "/img/looks/arcteryx-hero-sm.webp",
+      "width": 1440,
+      "height": 648,
+      "small_width": 720,
+      "bytes": 12738,
+      "source_image": "https://cdn.sanity.io/images/inkbj32c/production/86a42bcf6010aa728b501ccc2d6698c37098696a-2400x1352.jpg?rect=0,136,2400,1080&w=1600&h=720&q=80&fit=max&auto=format",
+      "candidate": 0
+    },
+    "logo": {
+      "path": "/img/looks/arcteryx-logo.webp",
+      "width": 737,
+      "height": 120,
+      "bytes": 9256,
+      "source": "inline svg in the home link"
+    },
+    "background": "#082658",
+    "candidates": [
+      "https://cdn.sanity.io/images/inkbj32c/production/86a42bcf6010aa728b501ccc2d6698c37098696a-2400x1352.jpg?rect=0,136,2400,1080&w=1600&h=720&q=80&fit=max&auto=format",
+      "https://cdn.sanity.io/images/inkbj32c/production/1fee546f88e4748452bc2e700b45f475bd038879-1504x2007.jpg?rect=0,2,1504,2005&w=792&h=1056&q=80&fit=crop&auto=format",
+      "https://cdn.sanity.io/images/inkbj32c/production/18fe3e85f8e8293616553b12106d8f2b53b8349b-1984x2358.jpg?rect=108,0,1769,2358&w=792&h=1056&q=80&fit=crop&auto=format",
+      "https://cdn.sanity.io/images/inkbj32c/production/d8199e2e2e69c0e8acdde33166496ac6b2758208-496x590.png?rect=27,0,443,590&w=600&h=800&q=80&fit=crop&auto=format",
+      "https://cdn.sanity.io/images/inkbj32c/production/f5d2a2b249d2e2043a848faf1be3258e6e7b266a-1504x2006.jpg?rect=0,1,1504,2005&w=600&h=800&q=80&fit=crop&auto=format",
+      "https://cdn.sanity.io/images/inkbj32c/production/5864aaf039a1947281236bfd2fae8112b0dc57e9-496x590.png?rect=27,0,443,590&w=600&h=800&q=80&fit=crop&auto=format",
+      "https://cdn.sanity.io/images/inkbj32c/production/236b103711a77f9b094a52e17a879e0c385a60ef-752x1004.png?rect=0,1,752,1003&w=792&h=1056&q=80&fit=crop&auto=format",
+      "https://cdn.sanity.io/images/inkbj32c/production/5223f12aeb1f1d74ab811777691df29c46658768-1504x2008.jpg?rect=0,0,1504,2005&w=792&h=1056&q=80&fit=crop&auto=format"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: real photo, logo and colour checked",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "ardene": {
+    "status": "ok",
+    "source_page": "https://ardene.com/en-us",
+    "hero": {
+      "path": "/img/looks/ardene-hero.webp",
+      "small_path": "/img/looks/ardene-hero-sm.webp",
+      "width": 1440,
+      "height": 811,
+      "small_width": 720,
+      "bytes": 69690,
+      "source_image": "https://ardene.com/cdn/shop/files/20261028-HPDT-Chill_1_1.jpg?format=webp&v=1793122895&width=2000",
+      "candidate": 1
+    },
+    "logo": {
+      "path": "/img/looks/ardene-logo.webp",
+      "width": 538,
+      "height": 120,
+      "bytes": 5590,
+      "source": "https://ardene.com/cdn/shop/files/ardene-logo.svg?format=webp&v=1772585675&width=2560"
+    },
+    "background": "#eae8e7",
+    "candidates": [
+      "https://ardene.com/cdn/shop/files/20261028-MB-Chill.jpg?format=webp&v=1792592950&width=2000",
+      "https://ardene.com/cdn/shop/files/20261028-HPDT-Chill_1_1.jpg?format=webp&v=1793122895&width=2000",
+      "https://ardene.com/cdn/shop/files/EN_ff40ffba-7734-48e9-9f4b-e3b0fd51e10e.png?format=webp&v=1793128012&width=2000",
+      "https://ardene.com/cdn/shop/files/20261028-DTB1-Outerwear.jpg?format=webp&v=1792592950&width=2000",
+      "https://ardene.com/cdn/shop/files/20261028-DTB2-Boots.jpg?format=webp&v=1792592950&width=2000",
+      "https://ardene.com/cdn/shop/files/20261028-DTB3-WinterKNits.jpg?format=webp&v=1792592950&width=2000",
+      "https://ardene.com/cdn/shop/files/20261027-MB-Cam_bb401f84-6ef0-47eb-a33b-770b44d82c19.jpg?format=webp&v=1792770440&width=2000",
+      "https://ardene.com/cdn/shop/files/20261027-DT-Cam_8f849c95-eafb-403f-83d3-77e2547546bd.jpg?format=webp&v=1793113698&width=2000",
+      "https://ardene.com/cdn/shop/files/EN-LOGO-Cam_55a6ceca-8bbc-49b9-97da-5003216cda56.png?format=webp&v=1792770440&width=2000",
+      "https://ardene.com/cdn/shop/files/20261027-DTB1-FallMoodboard.jpg?format=webp&v=1792592951&width=2000",
+      "https://ardene.com/cdn/shop/files/20261027-DTB2-Sweaters.jpg?format=webp&v=1792592950&width=2000",
+      "https://ardene.com/cdn/shop/files/20261027-DTB1-Madesoft.jpg?format=webp&v=1792592950&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: real photo, logo and colour checked",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "aries": {
+    "status": "ok",
+    "source_page": "https://us.ariesarise.com",
+    "hero": {
+      "path": "/img/looks/aries-hero.webp",
+      "small_path": "/img/looks/aries-hero-sm.webp",
+      "width": 1120,
+      "height": 1400,
+      "small_width": 640,
+      "bytes": 158302,
+      "source_image": "https://us.ariesarise.com/cdn/shop/files/0188_ARIES_067_2286.png?v=1792158668&width=2000",
+      "candidate": 0
+    },
+    "logo": {
+      "path": "/img/looks/aries-logo.webp",
+      "width": 196,
+      "height": 120,
+      "bytes": 7888,
+      "source": "https://us.ariesarise.com/cdn/shop/files/ARIES_TEMPLE_LOGO_125mm_BLACK.jpg?v=1678883144&width=200"
+    },
+    "background": "#fdc8e9",
+    "candidates": [
+      "https://us.ariesarise.com/cdn/shop/files/0188_ARIES_067_2286.png?v=1792158668&width=2000",
+      "https://us.ariesarise.com/cdn/shop/files/0188_ARIES_047_1868_f5596f65-b64a-4688-9da8-ba07cdf41735.png?v=1793619578&width=2000",
+      "https://us.ariesarise.com/cdn/shop/files/AR20042.06-Brushed-Zebra-Sweater-14_fa8ef127-0b6a-4ab8-9fb2-25d2875a98b8.png?v=1792416783&width=2000",
+      "https://us.ariesarise.com/cdn/shop/files/AR70007.06-Oversized-Reversible-Hooded-Sheepskin-Jacket-18.png?v=1792416884&width=2000",
+      "https://us.ariesarise.com/cdn/shop/files/AR20052.06_FLUFFY_REVERSIBLE_COLUMN_CHENILLE_ZIP_THRU_HOODIE_RED_L_1.png?v=1787585378&width=2000",
+      "https://us.ariesarise.com/cdn/shop/files/AR3131406_CLASSIC_BATTEN_JEAN_BLACK_28.png?v=1787583991&width=2000",
+      "https://us.ariesarise.com/cdn/shop/files/AR60006.06_SMOKING_TIGER_SS_TEE_WHITE_L_1_30661bf5-1e53-4e5c-ac16-2abb59172cb5.png?v=1787584732&width=2000",
+      "https://us.ariesarise.com/cdn/shop/files/AR9002006_FLUFFY_REVERSIBLE_SKULL_BEANIE_RED_1.png?v=1787584850&width=2000",
+      "https://us.ariesarise.com/cdn/shop/files/AR7062006_SPRUZZO_NYLON_WINDCHEATER_JACKET_RED_M-1.png?v=1787585587&width=2000",
+      "https://us.ariesarise.com/cdn/shop/files/AR3062006_SPRUZZO_NYLON_WINDCHEATER_PANT_RED_M.png?v=1787585486&width=2000",
+      "https://us.ariesarise.com/cdn/shop/files/AR70007.06_OVERSIZED_HOODED_HSEEPSKIN_JACKET_CARAMEL_L_1.png?v=1792159024&width=2000",
+      "https://us.ariesarise.com/cdn/shop/files/AR7020006_LEATHER_FLIGHT_JACKET_BROWN_L.png?v=1792159154&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: real photo, logo and colour checked",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "armedangels": {
+    "status": "ok",
+    "source_page": "https://www.armedangels.com/en-us/",
+    "hero": {
+      "path": "/img/looks/armedangels-hero.webp",
+      "small_path": "/img/looks/armedangels-hero-sm.webp",
+      "width": 1120,
+      "height": 1614,
+      "small_width": 720,
+      "bytes": 97586,
+      "source_image": "https://www.armedangels.com/cdn/shop/files/30009153-3830_101.jpg?crop_height=2765&crop_left=0&crop_top=0&crop_width=1920&v=1791803691&width=2000",
+      "candidate": 0
+    },
+    "logo": {
+      "path": "/img/looks/armedangels-logo.webp",
+      "width": 1236,
+      "height": 120,
+      "bytes": 11832,
+      "source": "https://www.armedangels.com/cdn/shop/files/logo-text.svg?v=1744873707&width=330"
+    },
+    "background": "#253649",
+    "candidates": [
+      "https://www.armedangels.com/cdn/shop/files/30009153-3830_101.jpg?crop_height=2765&crop_left=0&crop_top=0&crop_width=1920&v=1791803691&width=2000",
+      "https://www.armedangels.com/cdn/shop/files/30007806-1677_101.jpg?crop_height=2765&crop_left=0&crop_top=0&crop_width=1920&v=1791813609&width=2000",
+      "https://www.armedangels.com/cdn/shop/files/30008817-3642_101.jpg?crop_height=2765&crop_left=0&crop_top=0&crop_width=1920&v=1793641273&width=2000",
+      "https://www.armedangels.com/cdn/shop/files/30007855-3029_101.jpg?crop_height=2765&crop_left=0&crop_top=0&crop_width=1920&v=1791813653&width=2000",
+      "https://www.armedangels.com/cdn/shop/files/30009157-3832_101.jpg?crop_height=2765&crop_left=0&crop_top=0&crop_width=1920&v=1791803747&width=2000",
+      "https://www.armedangels.com/cdn/shop/files/30009197-3642_101.jpg?crop_height=2765&crop_left=0&crop_top=0&crop_width=1920&v=1791803669&width=2000",
+      "https://www.armedangels.com/cdn/shop/files/30003749-3638_101.jpg?crop_height=2765&crop_left=0&crop_top=0&crop_width=1920&v=1792060894&width=2000",
+      "https://www.armedangels.com/cdn/shop/files/30007479-3827_101.jpg?crop_height=2765&crop_left=0&crop_top=0&crop_width=1920&v=1792060889&width=2000",
+      "https://www.armedangels.com/cdn/shop/files/30009489-3729_101.jpg?crop_height=2765&crop_left=0&crop_top=0&crop_width=1920&v=1791803669&width=2000",
+      "https://www.armedangels.com/cdn/shop/files/30008058-3233_101.jpg?crop_height=2765&crop_left=0&crop_top=0&crop_width=1920&v=1791803823&width=2000",
+      "https://www.armedangels.com/cdn/shop/files/30009370-3690_101.jpg?crop_height=2765&crop_left=0&crop_top=0&crop_width=1920&v=1793641273&width=2000",
+      "https://www.armedangels.com/cdn/shop/files/30007566-2874_101.jpg?crop_height=2765&crop_left=0&crop_top=0&crop_width=1920&v=1791813647&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: real photo, logo and colour checked",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "ashley-stewart": {
+    "status": "ok",
+    "source_page": "https://www.ashleystewart.com",
+    "hero": {
+      "path": "/img/looks/ashley-stewart-1600.webp",
+      "small_path": "/img/looks/ashley-stewart-800.webp",
+      "width": 1600,
+      "height": 638,
+      "bytes": 84246,
+      "source_image": "https://www.ashleystewart.com/cdn/shop/files/110226_HERO_DT.jpg?v=1793392806&width=2000",
+      "candidate": 0
+    },
+    "logo": {
+      "path": "/img/looks/ashley-stewart-logo.webp",
+      "width": 780,
+      "height": 160,
+      "bytes": 10560,
+      "source": "https://www.ashleystewart.com/cdn/shop/files/logo.svg?v=1719061675&width=300"
+    },
+    "background": "#b6072b",
+    "candidates": [
+      "https://www.ashleystewart.com/cdn/shop/files/110226_HERO_DT.jpg?v=1793392806&width=2000",
+      "https://www.ashleystewart.com/cdn/shop/files/110226_HERO_MO.jpg?v=1793392954&width=2000",
+      "https://cdn.shopify.com/s/files/1/0629/1115/2172/files/110226_2boxgrid_DT_01.jpg?width=2000",
+      "https://cdn.shopify.com/s/files/1/0629/1115/2172/files/110226_2boxgrid_DT_02.jpg?width=2000",
+      "https://www.ashleystewart.com/cdn/shop/files/FREESHIPPING_75_DT_6b741409-0994-401f-b747-fd2319b871e4.jpg?v=1793027129&width=2000",
+      "https://www.ashleystewart.com/cdn/shop/files/FREESHIPPING_75_MO_fe6a05f5-b935-4882-9852-9ea3c8f8f0c8.jpg?v=1793390572&width=2000",
+      "https://www.ashleystewart.com/cdn/shop/files/110226_16_tees_DT.jpg?v=1793643752&width=2000",
+      "https://www.ashleystewart.com/cdn/shop/files/110226_16_tees_MO.jpg?v=1793643755&width=2000",
+      "https://www.ashleystewart.com/cdn/shop/files/110226_tees_camis_DT_7402b6e5-7243-4df6-b89a-f3758e9ef0d1.jpg?v=1793643752&width=2000",
+      "https://www.ashleystewart.com/cdn/shop/files/110226_tees_camis_MO_597f4edd-b0b1-4074-bafe-ed5bac2a4ab5.jpg?v=1793643755&width=2000",
+      "https://www.ashleystewart.com/cdn/shop/files/110226_PROMO_DT.jpg?v=1793392806&width=2000",
+      "https://www.ashleystewart.com/cdn/shop/files/110226_PROMO_MO.jpg?v=1793392954&width=2000"
+    ],
+    "review": {
+      "status": "reject",
+      "note": "every banner is a promo graphic",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "ashley-williams": {
+    "status": "no_hero",
+    "tried": [
+      {
+        "candidate": 0,
+        "status": "hero_wrong_shape",
+        "width": 2000,
+        "height": 6541,
+        "source_image": "https://cdn.shopify.com/s/files/1/0958/7732/files/2._HOMEPAGE_SCROLL.jpg?v=1780521382&width=2000"
+      },
+      {
+        "candidate": 1,
+        "status": "hero_too_small",
+        "width": 882,
+        "source_image": "https://cdn.shopify.com/s/files/1/0958/7732/files/Screenshot_2026-06-04_at_00.03.52.png?v=1780524276&width=2000"
+      },
+      {
+        "candidate": 2,
+        "status": "hero_wrong_shape",
+        "width": 2000,
+        "height": 443,
+        "source_image": "https://cdn.shopify.com/s/files/1/0958/7732/files/Subscribe_button.png?v=1780523684&width=2000"
+      },
+      {
+        "candidate": 3,
+        "status": "hero_too_small",
+        "width": 512,
+        "source_image": "https://cdn.shopify.com/s/files/1/0958/7732/files/Close.png?v=1780524271&width=2000"
+      }
+    ],
+    "candidates": [
+      "https://cdn.shopify.com/s/files/1/0958/7732/files/2._HOMEPAGE_SCROLL.jpg?v=1780521382&width=2000",
+      "https://cdn.shopify.com/s/files/1/0958/7732/files/Screenshot_2026-06-04_at_00.03.52.png?v=1780524276&width=2000",
+      "https://cdn.shopify.com/s/files/1/0958/7732/files/Subscribe_button.png?v=1780523684&width=2000",
+      "https://cdn.shopify.com/s/files/1/0958/7732/files/Close.png?v=1780524271&width=2000"
+    ],
+    "source_page": "https://ashleywilliamslondon.com/",
+    "fetched_at": "2026-11-03"
+  },
+  "asket": {
+    "status": "ok",
+    "source_page": "https://www.asket.com/en-us",
+    "hero": {
+      "path": "/img/looks/asket-hero.webp",
+      "small_path": "/img/looks/asket-hero-sm.webp",
+      "width": 1440,
+      "height": 2160,
+      "small_width": 720,
+      "bytes": 34846,
+      "source_image": "https://images.asket.com/products/images/486_WCT-MC-DKN-slideshow_1-original.jpg?auto=format&q=80&w=2600",
+      "candidate": 0
+    },
+    "logo": {
+      "path": "/img/looks/asket-logo.webp",
+      "width": 437,
+      "height": 120,
+      "bytes": 5958,
+      "source": "inline svg in the home link"
+    },
+    "background": "#e7e6e4",
+    "candidates": [
+      "https://images.asket.com/products/images/486_WCT-MC-DKN-slideshow_1-original.jpg?auto=format&q=80&w=2600",
+      "https://images.asket.com/products/images/487_CCT-MC-DKN-slideshow_1-original.jpg?auto=format&q=80&w=2600",
+      "https://images.asket.com/products/images/76_RCS-MA-DKY-slideshow_1-original.jpg?auto=format&q=80&w=2600",
+      "https://images.asket.com/products/images/486_WCT-MC-DKN-thumbnail-original.jpg?auto=format&q=80&w=2600",
+      "https://images.asket.com/products/attributes/9a8aa2e513bde0a40bd8679e6614d6e7.jpg?auto=format&q=80&w=50",
+      "https://images.asket.com/products/images/487_CCT-MC-DKN-thumbnail-original.jpg?auto=format&q=80&w=2600",
+      "https://images.asket.com/products/images/76_RCS-MA-DKY-thumbnail-original.jpg?auto=format&q=80&w=2600",
+      "https://images.asket.com/products/attributes/0708915b942daa91b9a0aedbe9b8faa8.jpg?auto=format&q=80&w=50",
+      "https://images.asket.com/products/attributes/e84f6083538ae9aa4e1cd0a430f5f9c2.jpg?auto=format&q=80&w=50",
+      "https://images.asket.com/products/images/6_MER-MA-DKN-thumbnail-original.jpg?auto=format&q=80&w=2600",
+      "https://images.asket.com/products/attributes/df08731999cef5637605aea58252ff13.jpg?auto=format&q=80&w=50",
+      "https://images.asket.com/products/attributes/fd86b6cee6fd9c14655e9d79d8888ebc.jpg?auto=format&q=80&w=50"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: real photo, logo and colour checked",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "asrv": {
+    "status": "ok",
+    "source_page": "https://www.asrv.com",
+    "hero": {
+      "path": "/img/looks/asrv-hero.webp",
+      "small_path": "/img/looks/asrv-hero-sm.webp",
+      "width": 1440,
+      "height": 509,
+      "small_width": 720,
+      "bytes": 27466,
+      "source_image": "https://asrv.com/cdn/shop/files/WN26Banner2.jpg?v=1792910823&width=2000",
+      "candidate": 1
+    },
+    "logo": null,
+    "logo_note": "turned off",
+    "logo_off": true,
+    "background": "#c8c9d6",
+    "candidates": [
+      "https://asrv.com/cdn/shop/files/Mobilebanner.jpg?v=1792909462&width=2000",
+      "https://asrv.com/cdn/shop/files/WN26Banner2.jpg?v=1792910823&width=2000",
+      "https://asrv.com/cdn/shop/files/winter-text.png?v=1792909652&width=2000",
+      "https://asrv.com/cdn/shop/files/ASRV_WN26_1259_BLACK_FRONT10747Artboard1.jpg?v=1792862823&width=2000",
+      "https://asrv.com/cdn/shop/files/ASRV_WN26_1259_BLACK_FRONT10747Artboard2.jpg?v=1792862823&width=2000",
+      "https://asrv.com/cdn/shop/files/ASRV_WN26_1259_BLACK_FRONT10747Artboard3.jpg?v=1792862823&width=2000",
+      "https://asrv.com/cdn/shop/files/ASRV_MALE_1243_ELECTRIC_BLUE_BACK_FULL_0724Artboard1.jpg?v=1792860470&width=2000",
+      "https://asrv.com/cdn/shop/files/ASRV_MALE_1243_ELECTRIC_BLUE_DETAIL_0735.jpg?v=1792795934&width=2000",
+      "https://asrv.com/cdn/shop/files/ASRV_MALE_1243_ELECTRIC_BLUE_DETAIL_0742.jpg?v=1792795935&width=2000",
+      "https://asrv.com/cdn/shop/files/ASRV_MALE_1243_ELECTRIC_BLUE_DETAIL_0739.jpg?v=1792795935&width=2000",
+      "https://asrv.com/cdn/shop/files/ASRV_MALE_1243_ELECTRIC_BLUE_DETAIL_0744.jpg?v=1792795935&width=2000",
+      "https://asrv.com/cdn/shop/files/ASRV_MALE_1243_BLACK_FRONT_CROP_0693Artboard1.jpg?v=1792860903&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "logo is a symbol readers can't place; name shown as text",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "astr-the-label": {
+    "status": "blocked",
+    "http": 403,
+    "source_page": "https://astrthelabel.com",
+    "fetched_at": "2026-11-03"
+  },
+  "astrid-miyu": {
+    "status": "ok",
+    "source_page": "https://www.astridandmiyu.com/en-us",
+    "hero": {
+      "path": "/img/looks/astrid-miyu-hero.webp",
+      "small_path": "/img/looks/astrid-miyu-hero-sm.webp",
+      "width": 1280,
+      "height": 1460,
+      "small_width": 720,
+      "bytes": 123374,
+      "source_image": "https://www.astridandmiyu.com/cdn/shop/files/Gift_Guide_Hero_1_-_Desktop.png?v=1790691050&width=2000",
+      "candidate": 0
+    },
+    "logo": null,
+    "logo_note": "no logo found",
+    "background": "#a76b55",
+    "candidates": [
+      "https://www.astridandmiyu.com/cdn/shop/files/Gift_Guide_Hero_1_-_Desktop.png?v=1790691050&width=2000",
+      "https://www.astridandmiyu.com/cdn/shop/files/Gift_Guide_Hero_2_-_Desktop_3_b52f89ed-92ec-48fa-94dc-189787b4545f.png?v=1791457532&width=2000",
+      "https://www.astridandmiyu.com/cdn/shop/files/Gift_Guide_Hero_-_Mobile_5_37a82d9f-2c44-45c7-9bb3-adf7993ebf07.png?v=1791457992&width=2000",
+      "https://www.astridandmiyu.com/cdn/shop/files/AM26-Q3FINE-BSTONE-CH-JUN-SG_2.jpg?v=1782461652&width=2000",
+      "https://www.astridandmiyu.com/cdn/shop/files/AM26-Q3FINE-BSTONE-CH-JUN-SG_1.jpg?v=1782461655&width=2000",
+      "https://www.astridandmiyu.com/cdn/shop/files/PF-AM26-Q3-LGD-GR-CL-SG_2_1.jpg?v=1781512625&width=2000",
+      "https://www.astridandmiyu.com/cdn/shop/files/PF-AM26-Q3-LGD-GR-CL-SG_1.jpg?v=1781512625&width=2000",
+      "https://www.astridandmiyu.com/cdn/shop/files/AM26-Q4FINE-ST-LGD-CL-CHAIN-SG_2.jpg?v=1791474819&width=2000",
+      "https://www.astridandmiyu.com/cdn/shop/files/AM26-Q4FINE-ST-LGD-CL-CHAIN-SG_1.jpg?v=1791474819&width=2000",
+      "https://www.astridandmiyu.com/cdn/shop/files/AM26-Q4FINE-B-LGD-CHARM-SG_2.jpg?v=1791474568&width=2000",
+      "https://www.astridandmiyu.com/cdn/shop/files/AM26-Q4FINE-B-LGD-CHARM-SG_1.jpg?v=1791474568&width=2000",
+      "https://www.astridandmiyu.com/cdn/shop/files/AM26-Q3-DAITH-LGD-GR-SG_2.jpg?v=1781510973&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: real photo, logo and colour checked",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "athleta": {
+    "status": "no_hero",
+    "tried": [
+      {
+        "candidate": 0,
+        "status": "hero_wrong_shape",
+        "width": 2880,
+        "height": 684,
+        "source_image": "https://content.gapinc.com/d/k7o2688251shh34sa8w4ma76dhk283q0.jpg"
+      }
+    ],
+    "candidates": [
+      "https://content.gapinc.com/d/k7o2688251shh34sa8w4ma76dhk283q0.jpg"
+    ],
+    "source_page": "https://athleta.gap.com",
+    "fetched_at": "2026-11-03"
+  },
+  "aubade": {
+    "status": "ok",
+    "source_page": "https://aubade.com/en-us",
+    "hero": {
+      "path": "/img/looks/aubade-hero.webp",
+      "small_path": "/img/looks/aubade-hero-sm.webp",
+      "width": 1440,
+      "height": 540,
+      "small_width": 720,
+      "bytes": 76986,
+      "source_image": "https://aubade.com/cdn/shop/files/2_SLIDER_7D_PERSIAN_BLUE_3200x1200px.jpg?v=1790155959&width=2000",
+      "candidate": 0
+    },
+    "logo": {
+      "path": "/img/looks/aubade-logo.webp",
+      "width": 289,
+      "height": 120,
+      "bytes": 5326,
+      "source": "inline svg in the home link"
+    },
+    "background": "#373b34",
+    "candidates": [
+      "https://aubade.com/cdn/shop/files/2_SLIDER_7D_PERSIAN_BLUE_3200x1200px.jpg?v=1790155959&width=2000",
+      "https://aubade.com/cdn/shop/files/SLIDER_7E_PUB_3200x1200px.jpg?v=1792054061&width=2000",
+      "https://aubade.com/cdn/shop/files/SLIDER_3D_3200x1200_d0baf27b-46de-43f3-badf-9c85fdd2cd1b.jpg?v=1785247565&width=2000",
+      "https://aubade.com/cdn/shop/files/700x700px_Banner10_1.jpg?v=1782287170&width=2000",
+      "https://aubade.com/cdn/shop/files/CATA_14_7DF12_7D27_PERSIAN_BLUE_141_BD.jpg?v=1789480923&width=2000",
+      "https://aubade.com/cdn/shop/files/PUB_19_7E63_BLACK_372_MASTER_BD.jpg?v=1792054083&width=2000",
+      "https://aubade.com/cdn/shop/files/3DF14_BLUM_1240x1754_85005f7f-b1c3-49a6-bb1f-98c97f3797eb.png?v=1787750333&width=2000",
+      "https://aubade.com/cdn/shop/files/PUB_19TER_7EN12_7E20_BLACK_458_MASTER_BD.jpg?v=1779887499&width=2000",
+      "https://aubade.com/cdn/shop/files/CATA_13_7DF14_7D52_7D26_SECRET_PURPLE_215_BD.jpg?v=1789481029&width=2000",
+      "https://aubade.com/cdn/shop/files/CATA_24_7MF14_7M70_7M84_BLUE_WILD_040_BD_24c1b719-d293-4d6d-988a-ae132da7221b.jpg?v=1791883817&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: real photo, logo and colour checked",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "avara": {
+    "status": "ok",
+    "source_page": "https://shopavara.com",
+    "hero": {
+      "path": "/img/looks/avara-hero.webp",
+      "small_path": "/img/looks/avara-hero-sm.webp",
+      "width": 1120,
+      "height": 1680,
+      "small_width": 640,
+      "bytes": 268984,
+      "source_image": "https://shopavara.com/cdn/shop/files/Sofia_Red_Plaid_Tie_Neck_Top_PDP_2.webp?v=1793131678&width=2000",
+      "candidate": 1
+    },
+    "logo": {
+      "path": "/img/looks/avara-logo.webp",
+      "width": 471,
+      "height": 120,
+      "bytes": 8968,
+      "source": "https://shopavara.com/cdn/shop/files/280x80_logo_V1.png?v=1775593014&width=280"
+    },
+    "background": "#262c49",
+    "candidates": [
+      "https://shopavara.com/cdn/shop/files/Avara_Exclusive_Badge_2026_V2.png?v=1781036855&width=2000",
+      "https://shopavara.com/cdn/shop/files/Sofia_Red_Plaid_Tie_Neck_Top_PDP_2.webp?v=1793131678&width=2000",
+      "https://shopavara.com/cdn/shop/files/WK4526-SKU20415-Red-Plaid_Tie_Neck_Button_Up_Top-1967-B.webp?v=1793132033&width=2000",
+      "https://shopavara.com/cdn/shop/files/WK4526-SKU20408-Black-Embellished_Midi_Dress-0986-A.webp?v=1793132033&width=2000",
+      "https://shopavara.com/cdn/shop/files/WK4526-SKU20408-Black-Embellished_Midi_Dress-0992-B.webp?v=1793132033&width=2000",
+      "https://shopavara.com/cdn/shop/files/Darcy_White_Sheer_Plaid_Top_PDP.webp?v=1793131678&width=2000",
+      "https://shopavara.com/cdn/shop/files/WK4526-SKU20398-Darcy-White_Sheer_Plaid_Top-1430-B.webp?v=1793132032&width=2000",
+      "https://shopavara.com/cdn/shop/files/Hensley_Silver_Pleated_Midi_Skirt_PDP.webp?v=1792766222&width=2000",
+      "https://shopavara.com/cdn/shop/files/WK4426-SKU10243-Hensley-Silver_Pleated_Midi_Skirt-1556-C.webp?v=1792766139&width=2000",
+      "https://shopavara.com/cdn/shop/files/WK4526-SKU20418-Gold_Tie_Neck_Top-0015-A.webp?v=1793648483&width=2000",
+      "https://shopavara.com/cdn/shop/files/WK4526-SKU20418-Gold_Tie_Neck_Top-0024-B.webp?v=1793648484&width=2000",
+      "https://shopavara.com/cdn/shop/files/Chloe_Black_Sheer_Overlay_Maxi_Dress_PDP_88e53a02-5c18-4ab2-9195-e411924b007a.webp?v=1793131678&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: real photo, logo and colour checked",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
+  "avenue": {
+    "status": "ok",
+    "source_page": "https://www.avenue.com",
+    "hero": {
+      "path": "/img/looks/avenue-1600.webp",
+      "small_path": "/img/looks/avenue-800.webp",
+      "width": 1600,
+      "height": 602,
+      "bytes": 98388,
+      "source_image": "https://www.avenue.com/on/demandware.static/-/Sites-oss-Library/default/dw7e88cd4b/av-images/homepage/2026/wk44/2026-av-wk44-1102-hero-desktop-2x.jpg",
+      "candidate": 1
+    },
+    "logo": {
+      "path": "/img/looks/avenue-logo.webp",
+      "width": 147,
+      "height": 160,
+      "bytes": 3348,
+      "source": "https://www.avenue.com/on/demandware.static/-/Sites-oss-Library/default/dw2cf8aed3/oss-images/brand-header-images/avenue-a-only.svg"
+    },
+    "background": "#f4e7d9",
+    "candidates": [
+      "https://www.avenue.com/on/demandware.static/-/Sites-oss-Library/default/dw3fb3c2b4/av-images/homepage/2026/wk44/2026-av-wk44-1102-hero-mobile-3x.jpg",
+      "https://www.avenue.com/on/demandware.static/-/Sites-oss-Library/default/dw7e88cd4b/av-images/homepage/2026/wk44/2026-av-wk44-1102-hero-desktop-2x.jpg",
+      "https://www.avenue.com/on/demandware.static/-/Sites-oss-Library/default/dwb88b47fb/av-images/homepage/2026/wk44/2026-av-wk44-1102-02-01-dresses-mobile-3x.jpg",
+      "https://www.avenue.com/on/demandware.static/-/Sites-oss-Library/default/dwdd442670/av-images/homepage/2026/wk44/2026-av-wk44-1102-02-01-dresses-desktop-2x.jpg",
+      "https://www.avenue.com/on/demandware.static/-/Sites-oss-Library/default/dw4e821529/av-images/homepage/2026/wk44/2026-av-wk44-1102-02-02-tops-mobile-3x.jpg",
+      "https://www.avenue.com/on/demandware.static/-/Sites-oss-Library/default/dw95ca58f6/av-images/homepage/2026/wk44/2026-av-wk44-1102-02-02-tops-desktop-2x.jpg",
+      "https://www.avenue.com/on/demandware.static/-/Sites-oss-Library/default/dwfd9ea17e/av-images/homepage/2026/wk44/2026-av-wk44-1102-02-03-bottoms-mobile-3x.jpg",
+      "https://www.avenue.com/on/demandware.static/-/Sites-oss-Library/default/dw253442c8/av-images/homepage/2026/wk44/2026-av-wk44-1102-02-03-bottoms-desktop-2x.jpg",
+      "https://www.avenue.com/on/demandware.static/-/Sites-oss-Library/default/dw7a25c4f2/av-images/homepage/2026/wk44/2026-av-wk44-1102-02-04-intimates-mobile-3x.jpg",
+      "https://www.avenue.com/on/demandware.static/-/Sites-oss-Library/default/dwb3f5b3ca/av-images/homepage/2026/wk44/2026-av-wk44-1102-02-04-intimates-desktop-2x.jpg",
+      "https://www.avenue.com/on/demandware.static/-/Sites-oss-Library/default/dw61022532/av-images/homepage/2026/wk44/2026-av-wk44-1102-02-05-shoes-mobile-3x.jpg",
+      "https://www.avenue.com/on/demandware.static/-/Sites-oss-Library/default/dwaad54959/av-images/homepage/2026/wk44/2026-av-wk44-1102-02-05-shoes-desktop-2x.jpg"
     ],
     "tried": [
       {
         "candidate": 0,
         "status": "hero_too_small",
-        "width": 375,
-        "source_image": "https://www.aninebing.com/cdn/shop/files/MOBILE_7_f9edf44d-f913-4283-8d66-fa9ca7dfaef4_375x.progressive.jpg?v=1793037941&width=2000"
-      },
-      {
-        "candidate": 1,
-        "status": "hero_too_small",
-        "width": 640,
-        "source_image": "https://www.aninebing.com/cdn/shop/files/MOBILE_7_f9edf44d-f913-4283-8d66-fa9ca7dfaef4_640x.progressive.jpg?v=1793037941&width=2000"
-      },
-      {
-        "candidate": 3,
-        "status": "hero_too_small",
-        "width": 375,
-        "source_image": "https://www.aninebing.com/cdn/shop/files/MOBILE_4_e327e11b-93a8-46b1-bec0-ab209dc07536_375x.progressive.jpg?v=1792469682&width=2000"
-      },
-      {
-        "candidate": 4,
-        "status": "hero_too_small",
-        "width": 640,
-        "source_image": "https://www.aninebing.com/cdn/shop/files/MOBILE_4_e327e11b-93a8-46b1-bec0-ab209dc07536_640x.progressive.jpg?v=1792469682&width=2000"
+        "width": 960,
+        "source_image": "https://www.avenue.com/on/demandware.static/-/Sites-oss-Library/default/dw3fb3c2b4/av-images/homepage/2026/wk44/2026-av-wk44-1102-hero-mobile-3x.jpg"
       }
     ],
     "review": {
-      "status": "ok",
-      "note": "photo, colour and logo checked on the contact sheet",
-      "at": "2026-11-02"
+      "status": "reject",
+      "note": "banners are sale graphics; other photos are small with shop buttons",
+      "at": "2026-11-03"
     },
-    "fetched_at": "2026-11-02"
+    "fetched_at": "2026-11-03"
+  },
+  "aviator-nation": {
+    "status": "no_hero",
+    "source_page": "https://www.aviatornation.com",
+    "fetched_at": "2026-11-03"
   },
   "baggu": {
     "status": "no_hero",
@@ -438,23 +2253,61 @@
     "source_page": "https://baggu.com",
     "fetched_at": "2026-11-02"
   },
+  "bagsmart": {
+    "status": "ok",
+    "source_page": "https://www.bagsmart.com",
+    "hero": {
+      "path": "/img/looks/bagsmart-hero.webp",
+      "small_path": "/img/looks/bagsmart-hero-sm.webp",
+      "width": 1440,
+      "height": 960,
+      "small_width": 720,
+      "bytes": 130322,
+      "source_image": "https://www.bagsmart.com/cdn/shop/files/theme_1_hero_kv_2.webp?v=1793252744&width=2000",
+      "candidate": 1
+    },
+    "logo": null,
+    "logo_note": "logo_fetch_failed",
+    "background": "#040804",
+    "candidates": [
+      "https://www.bagsmart.com/cdn/shop/files/theme_1_hero_kv_1.webp?v=1793252744&width=2000",
+      "https://www.bagsmart.com/cdn/shop/files/theme_1_hero_kv_2.webp?v=1793252744&width=2000",
+      "https://www.bagsmart.com/cdn/shop/files/get_free_bag_lp_banner_1_005cad92-8c34-49fb-b30e-815fb20cbcc7.webp?v=1793619464&width=2000",
+      "https://www.bagsmart.com/cdn/shop/files/get_free_bag_lp_banner_2_ef61ba15-88c3-43ab-8364-086ce8bc434f.webp?v=1793619466&width=2000",
+      "https://www.bagsmart.com/cdn/shop/files/M-Discover_Blast.webp?v=1778135071&width=2000",
+      "https://www.bagsmart.com/cdn/shop/files/PC-Discover_Blast.webp?v=1778135304&width=2000",
+      "https://www.bagsmart.com/cdn/shop/files/moss_1.webp?v=1788255750&width=2000",
+      "https://www.bagsmart.com/cdn/shop/files/moss_2.webp?v=1788255750&width=2000",
+      "https://www.bagsmart.com/cdn/shop/files/M-luggage_3bee6321-ca77-409a-928a-49139ae2823a.webp?v=1784534363&width=2000",
+      "https://www.bagsmart.com/cdn/shop/files/M-backpacks_d921a22e-5582-4cbc-8b27-26891a1b8b12.webp?v=1784534363&width=2000",
+      "https://www.bagsmart.com/cdn/shop/files/tote_a424695f-f326-406a-bda6-b7c938796aa4.webp?v=1786074441&width=2000",
+      "https://www.bagsmart.com/cdn/shop/files/Accessories.webp?v=1786074461&width=2000"
+    ],
+    "review": {
+      "status": "ok",
+      "note": "contact sheet: real photo, logo and colour checked",
+      "at": "2026-11-03"
+    },
+    "fetched_at": "2026-11-03"
+  },
   "everlane": {
     "status": "ok",
     "source_page": "https://everlane.com",
     "hero": {
-      "path": "/img/looks/everlane-1600.webp",
-      "small_path": "/img/looks/everlane-800.webp",
-      "width": 1600,
-      "height": 900,
-      "bytes": 138022,
+      "path": "/img/looks/everlane-hero.webp",
+      "small_path": "/img/looks/everlane-hero-sm.webp",
+      "width": 1440,
+      "height": 810,
+      "small_width": 720,
+      "bytes": 108334,
       "source_image": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/HP_Hero_Desktop_Image_d1db731d-dde0-4cc5-88ea-0793c1cddb2d.jpg?v=1793044010&width=2000",
       "candidate": 0
     },
     "logo": {
       "path": "/img/looks/everlane-logo.webp",
-      "width": 1392,
-      "height": 160,
-      "bytes": 10134,
+      "width": 1044,
+      "height": 120,
+      "bytes": 6566,
       "source": "inline svg in the home link"
     },
     "background": "#341117",
@@ -477,25 +2330,26 @@
       "note": "photo, colour and logo checked on the contact sheet",
       "at": "2026-11-02"
     },
-    "fetched_at": "2026-11-02"
+    "fetched_at": "2026-11-03"
   },
   "kotn": {
     "status": "ok",
     "source_page": "https://kotn.com",
     "hero": {
-      "path": "/img/looks/kotn-1600.webp",
-      "small_path": "/img/looks/kotn-800.webp",
-      "width": 1600,
-      "height": 1200,
-      "bytes": 92150,
+      "path": "/img/looks/kotn-hero.webp",
+      "small_path": "/img/looks/kotn-hero-sm.webp",
+      "width": 1440,
+      "height": 1080,
+      "small_width": 720,
+      "bytes": 69532,
       "source_image": "https://kotn.com/cdn/shop/files/Shop_Womens_Knitwear.jpg?v=1793202177&width=2000",
       "candidate": 0
     },
     "logo": {
       "path": "/img/looks/kotn-logo.webp",
-      "width": 802,
-      "height": 160,
-      "bytes": 6904,
+      "width": 602,
+      "height": 120,
+      "bytes": 4268,
       "source": "inline svg in the home link"
     },
     "background": "#978578",
@@ -518,7 +2372,7 @@
       "note": "photo, colour and logo checked on the contact sheet",
       "at": "2026-11-02"
     },
-    "fetched_at": "2026-11-02"
+    "fetched_at": "2026-11-03"
   },
   "madewell": {
     "status": "no_hero",

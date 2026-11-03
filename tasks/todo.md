@@ -57,9 +57,11 @@ On its own this is thin data. Enrichment (Phase 1) is what makes the site worth 
 - [x] Created public storage bucket `stylodex-images` (5 MB, jpeg/webp/png)
 - [ ] Re-host brand images into it (Apart Style's `brand-images` URLs are never used)
 - [x] Vercel project `ashs-projects-8f76f8b6/stylodex` (Astro, Node 24.x), created by Ash 2026-10-29.
-      Not connected to GitHub (Ash doesn't sign in to Vercel with GitHub), so deploys go through the
-      CLI: `vercel deploy` (preview) / `vercel deploy --prod`. `STYLODEX_FIXTURES=1` set for preview
-      and production until real data is loaded.
+      Connected to `grantland14/stylodex` since 2026-10-29: every push gets a preview
+      (`stylodex-git-<branch>-ashs-projects-8f76f8b6.vercel.app`, behind Vercel sign-in) and `main`
+      goes to production (`stylodex.vercel.app`). `STYLODEX_FIXTURES=1` set for preview and
+      production until real data is loaded; pipeline data needs `STYLODEX_DATA=pipeline` and
+      `STYLODEX_FIXTURES=0` on the environment. The CLI (`vercel deploy -b …`) still works for one-offs.
 - [ ] Search Console + analytics on the new domain only
 - [ ] Skimlinks: apply once wave 1 is live (needs real content to be approved), then set `SKIMLINKS_SITE_ID`
       and confirm the `go.skimresources.com` link format against the Skimlinks Hub docs
@@ -89,8 +91,12 @@ Progress 2026-10-28:
 - [x] Brand pages richer: product strip, grouped facts (prices, sizing, shipping and returns,
       about), "where it's recommended" links, checked-on line, Brand JSON-LD
 - [ ] Sizes per category (like prices): Affliction's `size_range` now mixes jeans and tees
-- [ ] Move product photos into Supabase/`stylodex-images` once a server-side upload key exists
-      (the repo copy is fine for hundreds of brands, not thousands)
+- [x] Images moved to the `stylodex-images` bucket (2026-11-03): 1,627 files, 21 MB, served via
+      `/img/`; none in the repo. Uploaded through a one-off token-guarded edge function
+      (`stylodex-upload`, now a stub that refuses every request; safe to delete in the dashboard)
+- [ ] Add `SUPABASE_URL` to Vercel (Preview and Production): `/img/` reads the bucket through it
+- [ ] Add `SUPABASE_SERVICE_ROLE_KEY` to the cloud environment's secrets so later sessions can run
+      `pipeline/upload-images.mjs`
 - [ ] Second page (Affliction) running, to measure a typical page against the gate and its cost
 
 - [ ] Import the brand seed list (name, URL, price tier) into the new schema
@@ -179,7 +185,15 @@ no ratings, no "best sellers", nothing the gate reads.
 - [x] Run on a first batch, review each look by eye, record verdicts (2026-11-02): 15 brands →
       11 approved; American Giant rejected (only image in the HTML is a TikTok icon), Baggu and
       Madewell no usable banner (a promo strip; a video), Reformation refused us (403)
-- [ ] Next batches: every brand with a profile page, ~100 KB each in the repo until the bucket move
+- [x] Batch 2 (2026-11-03): next 48 brands alphabetically (2xu … bagsmart) → 32 approved (5 on a
+      second-choice photo, 3 with the logo dropped for a symbol mark), 8 rejected (every banner a
+      sale or promo graphic, or too small), 6 no banner in the HTML, 1 blocked (astr-the-label 403),
+      1 error (ann-taylor: redirect loop). Running total: 43 looks, 6.1 MB
+- [x] Hero size budget: 160 KB (large) / 80 KB (small), stepping quality then width; Aries and
+      Avara (grainy prints) stay over at the last step
+- [x] Image sizes cut to what the page shows at 2x (34.6 MB → 21 MB across all images): products
+      480×600, share images 640 wide, heroes 1440 / 720 (100 KB / 40 KB budgets), logos 120 tall
+- [ ] Next batches: 564 brands with a profile page still unfetched, ~100 KB each in the bucket
 - [ ] `knownFor` is lower-cased whole on brand pages ("stockholm", "egyptian"); store it in
       sentence case or stop lower-casing (both headers do it)
 - [ ] Later: move looks into Supabase with product photos (`productShots` is pipeline-only too)

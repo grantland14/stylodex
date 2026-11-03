@@ -1,6 +1,7 @@
 // For every page in pipeline/data/pages, takes up to 3 regular-price products in the page's
 // category from each pick's own store (the Shopify collection feed recorded in its brand
-// file's price source_url), saves a resized photo under public/img/products/{brand}/, and
+// file's price source_url), saves a resized photo under pipeline/media/products/{brand}/ (uploaded by
+// pipeline/upload-images.mjs), and
 // records title, price and product URL in pipeline/data/product-images.json.
 //
 // Usage: node pipeline/product-images.mjs [--force] [page-slug ...]
@@ -82,14 +83,14 @@ async function productsFor(brandSlug, category) {
   // hold joggers and leggings, and a wrong photo is worse than none.
   const ranked = words ? usable.filter((p) => words.test(p.title)) : usable;
 
-  const dir = join(ROOT, "public/img/products", brandSlug);
+  const dir = join(ROOT, "pipeline/media/products", brandSlug);
   mkdirSync(dir, { recursive: true });
   const items = [];
   for (const p of ranked.slice(0, PER_BRAND)) {
     const img = await fetchBuffer(p.images[0].src);
     if (img.code !== 200) continue;
     const file = `${p.handle}.webp`.replace(/[^a-z0-9._-]/gi, "-").toLowerCase();
-    await sharp(img.body).rotate().resize({ width: 600, height: 750, fit: "cover" }).webp({ quality: 76 }).toFile(join(dir, file));
+    await sharp(img.body).rotate().resize({ width: 480, height: 600, fit: "cover" }).webp({ quality: 70 }).toFile(join(dir, file));
     items.push({
       path: `/img/products/${brandSlug}/${file}`,
       title: p.title,
