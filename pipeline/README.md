@@ -25,7 +25,10 @@ home link (saved as a shape-only mask so the page paints it in a readable ink) a
 picked from the photo (`lib/look.ts`). A look renders only after review: open the contact sheet
 (`--sheet`), check the photo is a real banner (not an icon, a promo strip or text-heavy), the logo
 is the brand's, and the colour suits it; then `--review slug ok`, or pick another photo with
-`--hero slug N` / drop a bad logo with `--no-logo slug`. A refetch that changes the files resets
+`--hero slug N` / drop a bad logo with `--no-logo slug`. Reject any photo with a sale or discount
+baked in ("60% OFF", "Black Friday"): it goes stale and states an offer we never checked. Drop a
+logo that is only a symbol (wings, a lone letter): the page then shows the name, which a reader
+can place. Heroes over 160 KB are re-encoded smaller (quality, then width) automatically. A refetch that changes the files resets
 the review. Rejected looks keep their record and lose their files (≈100 KB a look).
 
 ## Rules that bind every step

@@ -31,6 +31,7 @@ const MANIFEST = join(ROOT, "pipeline/data/looks.json");
 const OUT = join(ROOT, "public/img/looks");
 const UA = "StylodexBot/0.1 (+https://www.stylodex.com/how-we-pick)";
 const MIN_HERO_WIDTH = 1000;
+const HERO_BUDGET = 160 * 1024;
 const LOGO_HEIGHT = 160;
 const today = () => new Date().toISOString().slice(0, 10);
 
@@ -188,8 +189,17 @@ async function measureHero(url) {
 }
 
 async function saveHero({ body, source_image }, slug) {
-  const big = await sharp(body).rotate().resize({ width: 1600, withoutEnlargement: true }).webp({ quality: 68 }).toFile(join(OUT, `${slug}-1600.webp`));
-  const small = await sharp(body).rotate().resize({ width: 800 }).webp({ quality: 68 }).toFile(join(OUT, `${slug}-800.webp`));
+  // Size budget: busy photos (grain, prints) step down in quality, then width, until each fits.
+  const encode = async (file, steps, budget) => {
+    let info;
+    for (const [width, quality] of steps) {
+      info = await sharp(body).rotate().resize({ width, withoutEnlargement: true }).webp({ quality }).toFile(join(OUT, file));
+      if (info.size <= budget) break;
+    }
+    return info;
+  };
+  const big = await encode(`${slug}-1600.webp`, [[1600, 68], [1600, 58], [1440, 50], [1280, 45]], HERO_BUDGET);
+  const small = await encode(`${slug}-800.webp`, [[800, 68], [800, 56], [720, 48]], HERO_BUDGET / 2);
   const { data } = await sharp(body).rotate().resize({ width: 160 }).removeAlpha().raw().toBuffer({ resolveWithObject: true });
   return {
     hero: { path: `/img/looks/${slug}-1600.webp`, small_path: `/img/looks/${slug}-800.webp`, width: big.width, height: big.height, bytes: big.size + small.size, source_image },

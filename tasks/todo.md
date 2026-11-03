@@ -181,7 +181,14 @@ no ratings, no "best sellers", nothing the gate reads.
 - [x] Run on a first batch, review each look by eye, record verdicts (2026-11-02): 15 brands →
       11 approved; American Giant rejected (only image in the HTML is a TikTok icon), Baggu and
       Madewell no usable banner (a promo strip; a video), Reformation refused us (403)
-- [ ] Next batches: every brand with a profile page, ~100 KB each in the repo until the bucket move
+- [x] Batch 2 (2026-11-03): next 48 brands alphabetically (2xu … bagsmart) → 32 approved (5 on a
+      second-choice photo, 3 with the logo dropped for a symbol mark), 8 rejected (every banner a
+      sale or promo graphic, or too small), 6 no banner in the HTML, 1 blocked (astr-the-label 403),
+      1 error (ann-taylor: redirect loop). Running total: 43 looks, 6.1 MB
+- [x] Hero size budget: 160 KB (large) / 80 KB (small), stepping quality then width; Aries and
+      Avara (grainy prints) stay over at the last step
+- [ ] Next batches: 564 brands with a profile page still unfetched, ~140 KB each in the repo until
+      the bucket move (≈80 MB if all pass; move to `stylodex-images` before that)
 - [ ] `knownFor` is lower-cased whole on brand pages ("stockholm", "egyptian"); store it in
       sentence case or stop lower-casing (both headers do it)
 - [ ] Later: move looks into Supabase with product photos (`productShots` is pipeline-only too)

@@ -28,7 +28,7 @@ const upright = look.heroWidth / look.heroHeight < 1.2;
   <div class="relative">
     <img
       src={look.heroUrl}
-      srcset={`${look.heroSmallUrl} 800w, ${look.heroUrl} 1600w`}
+      srcset={`${look.heroSmallUrl} 800w, ${look.heroUrl} ${look.heroWidth}w`}
       sizes="100vw"
       alt=""
       width={look.heroWidth}
